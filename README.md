@@ -1,36 +1,45 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# מעשי ישראל — Maasei Israel
 
-## Getting Started
+> אוסף מתועד של מעשים טובים, המצאות ותרומות של עם ישראל לעולם — כל פריט עם הוכחה.  
+> A documented collection of good deeds, inventions, and contributions of the Jewish people — every item with a verifiable source.
 
-First, run the development server:
+## Running locally / הרצה מקומית
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000). The site runs in **read-only seed mode** without env vars — 8 pre-loaded verified entries are displayed immediately.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Supabase setup / הקמת מסד נתונים
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+1. Create a new project at [supabase.com](https://supabase.com)
+2. In your project → **SQL Editor**, paste and run the full contents of `supabase/schema.sql`
+3. Go to **Project Settings → API** and copy your keys
 
-## Learn More
+## Environment variables / משתני סביבה
 
-To learn more about Next.js, take a look at the following resources:
+Set these in Vercel (Project Settings → Environment Variables):
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+| Variable | Description |
+|---|---|
+| `NEXT_PUBLIC_SUPABASE_URL` | Your Supabase project URL (e.g. `https://xxx.supabase.co`) |
+| `NEXT_PUBLIC_SUPABASE_ANON_KEY` | Supabase anonymous (public) key |
+| `SUPABASE_SERVICE_ROLE_KEY` | Supabase service role key — **server-only, never exposed to client** |
+| `ADMIN_PASSWORD` | Password for the `/admin` panel |
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Copy `.env.example` to `.env.local` for local development.
 
-## Deploy on Vercel
+## How it works / איך זה עובד
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- **Without env vars** — the site deploys instantly in read-only mode, showing 8 seed entries from `src/data/entries.json`. Submission form returns success but data is not persisted.
+- **With Supabase env vars** — `getApprovedEntries()` queries the live `entries` table; submissions land in the `submissions` table pending admin review.
+- **Admin panel** (`/admin`) — password-protected queue to approve or reject pending submissions. Requires both `ADMIN_PASSWORD` and Supabase configured.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Tech stack
+
+- Next.js 16 (App Router) + React 19 + TypeScript
+- Tailwind CSS v4
+- Supabase (PostgreSQL + RLS) — optional, graceful fallback to seed data
+- Rubik + Heebo Hebrew fonts via next/font/google

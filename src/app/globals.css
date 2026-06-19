@@ -1,26 +1,43 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --color-background: #f8fafc;
+  --color-foreground: #0f172a;
+  --color-primary: #1e3a8a;
+  --color-primary-light: #2563eb;
+  --color-sky-accent: #38bdf8;
+  --color-sky-light: #7dd3fc;
+  --color-card: #ffffff;
+  --color-border: #e2e8f0;
+  --font-sans: var(--font-heebo);
+  --font-heading: var(--font-rubik);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background-color: #f8fafc;
+  color: #0f172a;
+  font-family: var(--font-heebo), "Heebo", Arial, Helvetica, sans-serif;
+  direction: rtl;
+  text-align: right;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--font-rubik), "Rubik", Arial, Helvetica, sans-serif;
 }

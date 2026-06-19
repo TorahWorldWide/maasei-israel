@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Rubik, Heebo } from "next/font/google";
+import { Rubik, Heebo, Frank_Ruhl_Libre } from "next/font/google";
 import "./globals.css";
 
 const rubik = Rubik({
@@ -13,6 +13,13 @@ const heebo = Heebo({
   variable: "--font-heebo",
   subsets: ["latin", "hebrew"],
   weight: ["300", "400", "500", "600"],
+  display: "swap",
+});
+
+const frankRuhl = Frank_Ruhl_Libre({
+  variable: "--font-frank-ruhl",
+  subsets: ["latin", "hebrew"],
+  weight: ["400", "500", "700", "900"],
   display: "swap",
 });
 
@@ -31,7 +38,7 @@ export default function RootLayout({
     <html
       lang="he"
       dir="rtl"
-      className={`${rubik.variable} ${heebo.variable}`}
+      className={`${rubik.variable} ${heebo.variable} ${frankRuhl.variable}`}
     >
       <body className="min-h-screen flex flex-col">{children}</body>
     </html>

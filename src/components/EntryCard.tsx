@@ -11,34 +11,24 @@ function normalizeVideoUrl(url: string): string {
 }
 
 const CATEGORY_COLORS: Record<string, string> = {
-  חסד: "bg-sky-100 text-sky-800",
-  "המצאה מדעית": "bg-blue-100 text-blue-800",
-  "תרומה לעולם": "bg-indigo-100 text-indigo-800",
-  היסטורי: "bg-slate-100 text-slate-700",
+  חסד: "bg-sky-400/15 text-sky-200 border border-sky-400/25",
+  "המצאה מדעית": "bg-blue-400/15 text-blue-200 border border-blue-400/25",
+  "תרומה לעולם": "bg-indigo-400/15 text-indigo-200 border border-indigo-400/25",
+  היסטורי: "bg-amber-400/15 text-amber-200 border border-amber-400/25",
 };
 
 function StarPlaceholder({ category }: { category: string }) {
   return (
-    <div className="relative flex items-center justify-center w-full h-full bg-gradient-to-br from-blue-900 to-blue-700 overflow-hidden">
+    <div className="relative flex items-center justify-center w-full h-full bg-gradient-to-br from-[#0f234d] to-[#0a1834] overflow-hidden">
       <svg
         viewBox="0 0 100 100"
-        className="absolute inset-0 w-full h-full opacity-10"
+        className="absolute inset-0 w-full h-full opacity-[0.12]"
         aria-hidden="true"
       >
-        <polygon
-          points="50,5 5,85 95,85"
-          fill="none"
-          stroke="white"
-          strokeWidth="2"
-        />
-        <polygon
-          points="50,95 95,15 5,15"
-          fill="none"
-          stroke="white"
-          strokeWidth="2"
-        />
+        <polygon points="50,5 5,85 95,85" fill="none" stroke="#c9a84a" strokeWidth="2" />
+        <polygon points="50,95 95,15 5,15" fill="none" stroke="#c9a84a" strokeWidth="2" />
       </svg>
-      <span className="relative z-10 text-white text-sm font-medium px-3 py-1 rounded-full bg-white/10">
+      <span className="relative z-10 text-[#e6c66e] text-sm font-medium px-3 py-1 rounded-full bg-[#c9a84a]/10 border border-[#c9a84a]/20">
         {category}
       </span>
     </div>
@@ -58,12 +48,12 @@ export default function EntryCard({ entry, onClick }: EntryCardProps) {
 
   return (
     <div
-      className="group bg-white rounded-2xl shadow-sm border border-slate-100 overflow-hidden hover:shadow-md hover:-translate-y-0.5 transition-all duration-200 flex flex-col cursor-pointer"
+      className="group bg-[#0f234d]/80 backdrop-blur-sm rounded-2xl border border-[rgba(201,168,74,0.18)] overflow-hidden hover:border-[rgba(201,168,74,0.5)] hover:-translate-y-1 hover:shadow-xl hover:shadow-black/40 transition-all duration-200 flex flex-col cursor-pointer"
       onClick={onClick}
       role="article"
     >
       {/* Media */}
-      <div className="relative w-full aspect-video bg-slate-100 flex-shrink-0">
+      <div className="relative w-full aspect-video bg-[#0a1834] flex-shrink-0">
         {embedUrl ? (
           <iframe
             src={embedUrl}
@@ -95,25 +85,25 @@ export default function EntryCard({ entry, onClick }: EntryCardProps) {
       </div>
 
       {/* Content */}
-      <div className="flex flex-col flex-1 p-4 gap-3">
+      <div className="flex flex-col flex-1 p-5 gap-3">
         <div className="flex items-center gap-2 flex-wrap">
           <span
             className={`text-xs font-medium px-2.5 py-0.5 rounded-full ${
-              CATEGORY_COLORS[entry.category] ?? "bg-slate-100 text-slate-600"
+              CATEGORY_COLORS[entry.category] ?? "bg-white/10 text-blue-100 border border-white/15"
             }`}
           >
             {entry.category}
           </span>
           {entry.year && (
-            <span className="text-xs text-slate-400">{entry.year}</span>
+            <span className="text-xs text-blue-200/45">{entry.year}</span>
           )}
         </div>
 
-        <h3 className="text-lg font-bold text-slate-900 leading-snug line-clamp-2">
+        <h3 className="text-lg font-bold text-white leading-snug line-clamp-2" style={{ fontFamily: "var(--font-frank-ruhl), serif" }}>
           {entry.title}
         </h3>
 
-        <p className="text-sm text-slate-600 leading-relaxed line-clamp-3 flex-1">
+        <p className="text-sm text-blue-100/70 leading-relaxed line-clamp-3 flex-1">
           {entry.description}
         </p>
 
@@ -122,7 +112,7 @@ export default function EntryCard({ entry, onClick }: EntryCardProps) {
           target="_blank"
           rel="noopener noreferrer"
           onClick={(e) => e.stopPropagation()}
-          className="text-xs text-blue-700 hover:text-blue-900 font-medium flex items-center gap-1 underline underline-offset-2 decoration-blue-300 hover:decoration-blue-600 transition-colors mt-auto pt-1"
+          className="text-xs text-[#e6c66e] hover:text-[#f0d585] font-medium flex items-center gap-1 underline underline-offset-2 decoration-[#c9a84a]/40 hover:decoration-[#c9a84a] transition-colors mt-auto pt-1"
         >
           <svg
             className="w-3 h-3 flex-shrink-0"

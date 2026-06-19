@@ -53,11 +53,11 @@ export default function Feed({ entries }: FeedProps) {
             placeholder="חיפוש..."
             value={search}
             onChange={(e) => setSearch(e.target.value)}
-            className="w-full pr-10 pl-4 py-2.5 rounded-full border border-slate-200 bg-white text-sm text-slate-800 placeholder:text-slate-400 focus:outline-none focus:ring-2 focus:ring-blue-200 focus:border-blue-400 transition-shadow"
+            className="w-full pr-10 pl-4 py-2.5 rounded-full border border-[rgba(201,168,74,0.25)] bg-[#0f234d]/70 text-sm text-white placeholder:text-blue-200/40 focus:outline-none focus:ring-2 focus:ring-[#c9a84a]/40 focus:border-[#c9a84a]/60 transition-shadow"
             aria-label="חיפוש פריטים"
           />
           <svg
-            className="absolute right-3.5 top-1/2 -translate-y-1/2 w-4 h-4 text-slate-400 pointer-events-none"
+            className="absolute right-3.5 top-1/2 -translate-y-1/2 w-4 h-4 text-blue-200/40 pointer-events-none"
             fill="none"
             viewBox="0 0 24 24"
             stroke="currentColor"
@@ -80,8 +80,8 @@ export default function Feed({ entries }: FeedProps) {
               onClick={() => setCategory(cat)}
               className={`px-4 py-1.5 rounded-full text-sm font-medium border transition-all duration-150 ${
                 category === cat
-                  ? "bg-blue-800 text-white border-blue-800 shadow-sm"
-                  : "bg-white text-slate-600 border-slate-200 hover:border-blue-300 hover:text-blue-700"
+                  ? "bg-gradient-to-b from-[#e6c66e] to-[#c9a84a] text-[#0a1834] border-[#c9a84a] shadow-sm"
+                  : "bg-[#0f234d]/60 text-blue-100/80 border-[rgba(201,168,74,0.2)] hover:border-[#c9a84a]/50 hover:text-white"
               }`}
               aria-pressed={category === cat}
             >
@@ -98,8 +98,8 @@ export default function Feed({ entries }: FeedProps) {
               onClick={() => setEra(e)}
               className={`px-3 py-1 rounded-full text-xs font-medium border transition-all duration-150 ${
                 era === e
-                  ? "bg-sky-500 text-white border-sky-500"
-                  : "bg-white text-slate-500 border-slate-200 hover:border-sky-300 hover:text-sky-600"
+                  ? "bg-sky-500/90 text-white border-sky-400"
+                  : "bg-[#0f234d]/50 text-blue-200/60 border-[rgba(201,168,74,0.15)] hover:border-sky-400/50 hover:text-sky-200"
               }`}
               aria-pressed={era === e}
             >
@@ -111,14 +111,14 @@ export default function Feed({ entries }: FeedProps) {
 
       {/* Results count */}
       {search.trim() && (
-        <p className="text-sm text-slate-500 mb-5">
+        <p className="text-sm text-blue-200/60 mb-5">
           {filtered.length} תוצאות עבור &ldquo;{search}&rdquo;
         </p>
       )}
 
       {/* Grid */}
       {filtered.length === 0 ? (
-        <div className="text-center py-20 text-slate-400">
+        <div className="text-center py-20 text-blue-200/40">
           <p className="text-lg">לא נמצאו פריטים.</p>
           <button
             onClick={() => {
@@ -126,7 +126,7 @@ export default function Feed({ entries }: FeedProps) {
               setEra("הכל");
               setSearch("");
             }}
-            className="mt-3 text-blue-600 hover:text-blue-800 text-sm underline"
+            className="mt-3 text-[#e6c66e] hover:text-[#f0d585] text-sm underline"
           >
             נקה סינון
           </button>

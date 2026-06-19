@@ -196,8 +196,8 @@ export default function SubmitPage() {
 
   if (status === "success") {
     return (
-      <div className="min-h-screen bg-slate-50 flex flex-col">
-        <header className="bg-blue-900 text-white">
+      <div className="min-h-screen flex flex-col" style={{ background: "linear-gradient(to bottom, #081026, #0a1834)" }}>
+        <header className="bg-[#081026] text-white border-b border-[rgba(201,168,74,0.25)]">
           <div className="max-w-2xl mx-auto px-4 sm:px-6 py-4">
             <Link href="/" className="text-xl font-bold">מעשי ישראל</Link>
           </div>
@@ -239,8 +239,8 @@ export default function SubmitPage() {
   const isYouTube = form.media_type === "video_embed";
 
   return (
-    <div className="min-h-screen bg-slate-50 flex flex-col">
-      <header className="bg-blue-900 text-white">
+    <div className="min-h-screen flex flex-col" style={{ background: "linear-gradient(to bottom, #081026, #0a1834)" }}>
+      <header className="bg-[#081026] text-white border-b border-[rgba(201,168,74,0.25)]">
         <div className="max-w-2xl mx-auto px-4 sm:px-6 py-4 flex items-center gap-3">
           <Link href="/" className="text-white/60 hover:text-white/90 transition-colors text-sm">
             ← חזרה

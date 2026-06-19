@@ -33,6 +33,9 @@ export interface Entry {
   // Verbatim quotes from authoritative sources — the hard proof. Each is clickable
   // and jumps to the exact spot in its source.
   citations?: Citation[];
+  // The documented reasoning behind the chosen title (for review + future automation).
+  // See docs/title-methodology.md. Not shown on the public site.
+  title_reasoning?: string;
   status: Status;
   created_at: string;
 }

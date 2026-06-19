@@ -165,16 +165,24 @@ export default function Theater({ entries }: TheaterProps) {
       </div>
 
       <div className="relative max-w-7xl mx-auto px-4 sm:px-6 pt-8 pb-10">
-        {/* Title row */}
-        <div className="text-center mb-6">
-          <div className="gold-rule max-w-[180px] mx-auto mb-4" />
-          <p className="text-[11px] font-medium uppercase tracking-[0.3em] mb-2" style={{ color: "rgba(201,168,74,0.8)" }}>
+        {/* Title row — permanent site title on top, changing video title below */}
+        <div className="text-center mb-5 pt-1">
+          <p className="text-[11px] font-medium uppercase tracking-[0.3em] mb-1.5" style={{ color: "rgba(201,168,74,0.8)" }}>
             מעשי ישראל
           </p>
-          <h1 className="text-3xl md:text-5xl font-extrabold text-white tracking-tight">
+          {/* PERMANENT — always stays on top */}
+          <h1 className="text-2xl md:text-4xl font-extrabold text-white tracking-tight">
             מעשים טובים של עם ישראל
           </h1>
-          <div className="gold-rule max-w-[180px] mx-auto mt-4" />
+          {/* CHANGING — the current video's title, re-animates on every advance */}
+          <div className="gold-rule max-w-[140px] mx-auto my-3" />
+          <p
+            key={`vtitle-${current.id}`}
+            className="panel-rise text-lg md:text-2xl font-bold leading-snug px-4"
+            style={{ fontFamily: "var(--font-frank-ruhl), serif", color: "#e6c66e" }}
+          >
+            {current.title}
+          </p>
         </div>
 
         {/* THREE-PANEL STAGE: right = חלק א׳ · הניצוץ · center = screen · left = חלק ב׳ · האור */}

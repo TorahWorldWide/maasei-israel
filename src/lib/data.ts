@@ -4,6 +4,16 @@ export type MediaType = "video_embed" | "video_upload" | "image";
 export type Category = "חסד" | "המצאה מדעית" | "תרומה לעולם" | "היסטורי";
 export type Status = "pending" | "approved";
 
+// A verbatim quote from an authoritative source that proves the deed happened.
+// The UI turns `quote` into a link that jumps to the EXACT spot in the source
+// (browser Text Fragment for web pages, #page=N for PDFs).
+export interface Citation {
+  quote: string; // verbatim text from the source — never paraphrased
+  source_label: string; // who/what it's from (shown as the attribution)
+  source_url: string; // the source document/page
+  locator?: string; // optional: page number for PDFs (e.g. "12"), or a section hint
+}
+
 export interface Entry {
   id: string;
   title: string;
@@ -20,6 +30,9 @@ export interface Entry {
   // When absent, the UI falls back to title (spark) and description (light).
   act?: string;
   ripple?: string;
+  // Verbatim quotes from authoritative sources — the hard proof. Each is clickable
+  // and jumps to the exact spot in its source.
+  citations?: Citation[];
   status: Status;
   created_at: string;
 }

@@ -107,6 +107,15 @@ export default function EntryCard({ entry, onClick }: EntryCardProps) {
           {entry.description}
         </p>
 
+        {entry.citations && entry.citations.length > 0 && (
+          <div className="flex items-center gap-1.5 text-[11px] font-medium" style={{ color: "#e6c66e" }}>
+            <svg className="w-3.5 h-3.5 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
+            </svg>
+            {entry.citations.length === 1 ? "מגובה במקור מאומת" : `${entry.citations.length} מקורות מאומתים`}
+          </div>
+        )}
+
         <a
           href={entry.source_url}
           target="_blank"

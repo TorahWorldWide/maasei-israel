@@ -2,6 +2,7 @@
 
 import { useState, useEffect, useCallback, useRef } from "react";
 import type { Entry } from "@/lib/data";
+import CitationList from "./CitationList";
 
 function normalizeVideoUrl(url: string): string {
   const ytMatch = url.match(
@@ -65,7 +66,7 @@ export default function Slideshow({
 
   return (
     <div
-      className="fixed inset-0 z-50 bg-blue-950 flex flex-col items-center justify-center"
+      className="fixed inset-0 z-50 bg-blue-950 flex flex-col items-center overflow-y-auto py-16"
       onTouchStart={handleTouchStart}
       onTouchEnd={handleTouchEnd}
       role="dialog"
@@ -76,7 +77,7 @@ export default function Slideshow({
       <button
         onClick={onClose}
         aria-label="סגור"
-        className="absolute top-4 left-4 z-10 text-white/70 hover:text-white bg-white/10 hover:bg-white/20 rounded-full p-2.5 transition-colors"
+        className="fixed top-4 left-4 z-10 text-white/70 hover:text-white bg-white/10 hover:bg-white/20 rounded-full p-2.5 transition-colors"
       >
         <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
@@ -84,12 +85,12 @@ export default function Slideshow({
       </button>
 
       {/* Counter */}
-      <div className="absolute top-5 right-5 text-white/50 text-sm tabular-nums">
+      <div className="fixed top-5 right-5 text-white/50 text-sm tabular-nums z-10">
         {index + 1} / {entries.length}
       </div>
 
       {/* Content */}
-      <div className="w-full max-w-4xl px-6 md:px-12 flex flex-col gap-6">
+      <div className="w-full max-w-4xl px-6 md:px-12 flex flex-col gap-6 my-auto">
         {/* Media */}
         {embedUrl ? (
           <div className="relative w-full aspect-video rounded-xl overflow-hidden bg-black">
@@ -146,7 +147,7 @@ export default function Slideshow({
           <h2 className="text-2xl md:text-3xl font-bold mb-3 leading-snug">
             {entry.title}
           </h2>
-          <p className="text-white/75 text-base md:text-lg leading-relaxed max-w-2xl mx-auto line-clamp-4">
+          <p className="text-white/75 text-base md:text-lg leading-relaxed max-w-2xl mx-auto">
             {entry.description}
           </p>
           <a
@@ -172,6 +173,14 @@ export default function Slideshow({
             מקור: {entry.source_label || entry.source_url}
           </a>
         </div>
+
+        {/* Citations — the hard proof, each jumps to the exact spot in its source */}
+        {entry.citations && entry.citations.length > 0 && (
+          <div className="max-w-2xl mx-auto w-full">
+            <div className="gold-rule mb-5" />
+            <CitationList citations={entry.citations} />
+          </div>
+        )}
       </div>
 
       {/* Prev (RTL: right side = previous) */}

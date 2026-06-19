@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { getApprovedEntries } from "@/lib/data";
 import Feed from "@/components/Feed";
+import Theater from "@/components/Theater";
 
 export const dynamic = "force-dynamic";
 
@@ -32,71 +33,19 @@ export default async function Home() {
         </div>
       </header>
 
-      {/* Hero */}
-      <section className="relative bg-gradient-to-b from-blue-900 via-blue-800 to-blue-700 text-white overflow-hidden">
-        {/* Faint Star of David watermark */}
-        <div
-          className="absolute inset-0 flex items-center justify-center pointer-events-none"
-          aria-hidden="true"
-        >
-          <svg
-            viewBox="0 0 200 200"
-            className="w-[600px] h-[600px] opacity-[0.035]"
-          >
-            <polygon
-              points="100,10 10,170 190,170"
-              fill="none"
-              stroke="white"
-              strokeWidth="3"
-            />
-            <polygon
-              points="100,190 190,30 10,30"
-              fill="none"
-              stroke="white"
-              strokeWidth="3"
-            />
-          </svg>
-        </div>
+      {/* Theater (auto-playing video reel + music) */}
+      <Theater entries={entries} />
 
-        <div className="relative max-w-6xl mx-auto px-4 sm:px-6 py-16 md:py-24 text-center">
-          <p className="text-blue-300/80 text-sm font-medium uppercase tracking-widest mb-4">
-            — תיעוד של מעשים טובים —
+      {/* Catalog */}
+      <main id="catalog" className="flex-1 max-w-6xl mx-auto w-full px-4 sm:px-6 py-12 scroll-mt-20">
+        <div className="mb-8 text-center">
+          <h2 className="text-2xl md:text-3xl font-extrabold text-slate-900">
+            כל המעשים הטובים
+          </h2>
+          <p className="text-slate-500 text-sm mt-2">
+            חפשו, סננו לפי קטגוריה ותקופה, וגלו אחד אחד — כל פריט עם מקור מאומת.
           </p>
-          <h1 className="text-4xl md:text-6xl font-extrabold tracking-tight mb-6 leading-tight">
-            מעשי ישראל
-          </h1>
-          <p className="text-lg md:text-xl text-blue-100 max-w-2xl mx-auto leading-relaxed mb-3">
-            אוסף מתועד של מעשים טובים, המצאות ותרומות של עם ישראל לעולם —
-            כל פריט עם הוכחה.
-          </p>
-          <p className="text-sm text-blue-300/70 flex items-center justify-center gap-1.5 mb-8">
-            <svg
-              className="w-4 h-4"
-              fill="none"
-              viewBox="0 0 24 24"
-              stroke="currentColor"
-              aria-hidden="true"
-            >
-              <path
-                strokeLinecap="round"
-                strokeLinejoin="round"
-                strokeWidth={2}
-                d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"
-              />
-            </svg>
-            כל פריט כולל קישור מקור מאומת
-          </p>
-          <Link
-            href="/submit"
-            className="inline-block bg-white text-blue-900 font-bold px-8 py-3 rounded-full hover:bg-blue-50 transition-colors text-lg shadow-xl shadow-blue-950/40"
-          >
-            שלחו מעשה טוב ←
-          </Link>
         </div>
-      </section>
-
-      {/* Feed */}
-      <main className="flex-1 max-w-6xl mx-auto w-full px-4 sm:px-6 py-12">
         <Feed entries={entries} />
       </main>
 
@@ -109,10 +58,7 @@ export default async function Home() {
             פריטים מתועדים
           </p>
           <p className="text-xs">
-            <Link
-              href="/admin"
-              className="hover:text-slate-600 transition-colors"
-            >
+            <Link href="/admin" className="hover:text-slate-600 transition-colors">
               כניסת מנהל
             </Link>
           </p>

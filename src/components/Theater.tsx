@@ -58,6 +58,16 @@ export default function Theater({ entries }: TheaterProps) {
     };
   }, [current, idx, go]);
 
+  // keyboard arrows (RTL: ArrowRight = previous, ArrowLeft = next)
+  useEffect(() => {
+    const onKey = (e: KeyboardEvent) => {
+      if (e.key === "ArrowRight") go(1);
+      else if (e.key === "ArrowLeft") go(-1);
+    };
+    window.addEventListener("keydown", onKey);
+    return () => window.removeEventListener("keydown", onKey);
+  }, [go]);
+
   // music control with gentle fade
   const toggleMusic = useCallback(() => {
     const a = audioRef.current;
@@ -98,6 +108,12 @@ export default function Theater({ entries }: TheaterProps) {
     ? `https://www.youtube.com/embed/${id}?autoplay=1&mute=1&controls=1&rel=0&modestbranding=1&playsinline=1&loop=1&playlist=${id}`
     : null;
 
+  // The poetic two-part split that flanks the screen.
+  // חלק א׳ · הניצוץ = the deed itself (the human spark).
+  // חלק ב׳ · האור = the light it cast on the world.
+  const spark = (current.act && current.act.trim()) || current.title;
+  const light = (current.ripple && current.ripple.trim()) || current.description;
+
   return (
     <section className="relative bg-gradient-to-b from-blue-950 via-blue-900 to-blue-800 overflow-hidden">
       {/* faint star watermark */}
@@ -108,9 +124,9 @@ export default function Theater({ entries }: TheaterProps) {
         </svg>
       </div>
 
-      <div className="relative max-w-6xl mx-auto px-4 sm:px-6 pt-8 pb-10">
+      <div className="relative max-w-7xl mx-auto px-4 sm:px-6 pt-8 pb-10">
         {/* Title row */}
-        <div className="text-center mb-5">
+        <div className="text-center mb-6">
           <p className="text-blue-300/80 text-xs font-medium uppercase tracking-[0.25em] mb-2">
             — מעשי ישראל —
           </p>
@@ -119,82 +135,114 @@ export default function Theater({ entries }: TheaterProps) {
           </h1>
         </div>
 
-        {/* THE THEATER SCREEN */}
-        <div className="relative mx-auto max-w-4xl">
-          <div className="relative rounded-2xl overflow-hidden bg-black shadow-2xl shadow-blue-950/60 ring-1 ring-white/10 aspect-video">
-            {embedSrc ? (
-              <iframe
-                key={current.id}
-                src={embedSrc}
-                title={current.title}
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                allowFullScreen
-                className="absolute inset-0 w-full h-full border-0"
-              />
-            ) : current.media_type === "video_upload" && current.media_url ? (
-              <video
-                key={current.id}
-                src={current.media_url}
-                autoPlay
-                muted
-                playsInline
-                controls
-                onEnded={() => go(1)}
-                className="absolute inset-0 w-full h-full object-contain bg-black"
-              />
-            ) : current.media_url && current.media_type === "image" ? (
-              // eslint-disable-next-line @next/next/no-img-element
-              <img src={current.media_url} alt={current.title} className="absolute inset-0 w-full h-full object-cover" />
-            ) : (
-              <div className="absolute inset-0 flex items-center justify-center bg-blue-900/60">
-                <svg viewBox="0 0 100 100" className="w-32 h-32 opacity-20" aria-hidden="true">
-                  <polygon points="50,5 5,85 95,85" fill="none" stroke="white" strokeWidth="2" />
-                  <polygon points="50,95 95,15 5,15" fill="none" stroke="white" strokeWidth="2" />
-                </svg>
-              </div>
-            )}
-
-            {/* caption overlay (bottom gradient) */}
-            <div className="absolute bottom-0 inset-x-0 bg-gradient-to-t from-black/85 via-black/40 to-transparent p-4 md:p-5 pointer-events-none">
-              <div className="flex items-center gap-2 mb-1.5">
-                <span className="text-[11px] bg-white/15 text-white/90 px-2.5 py-0.5 rounded-full backdrop-blur-sm">
-                  {current.category}
-                </span>
-                {current.year && <span className="text-white/50 text-xs">{current.year}</span>}
-              </div>
-              <h2 className="text-white text-lg md:text-2xl font-bold leading-snug drop-shadow line-clamp-2">
-                {current.title}
-              </h2>
+        {/* THREE-PANEL STAGE: right = חלק א׳ · הניצוץ · center = screen · left = חלק ב׳ · האור */}
+        <div className="grid grid-cols-1 md:grid-cols-[1fr_minmax(0,2.3fr)_1fr] gap-4 md:gap-5 items-center">
+          {/* RIGHT PANEL — חלק א׳ · הניצוץ (the deed) */}
+          <aside
+            key={`spark-${current.id}`}
+            className="panel-rise order-2 md:order-1 text-center md:text-right"
+          >
+            <div className="inline-flex items-center gap-2 mb-2 text-sky-300/90">
+              <span className="text-2xl leading-none" aria-hidden="true">✦</span>
+              <span className="text-xs font-semibold tracking-wide">חלק א׳ · הניצוץ</span>
             </div>
+            <p className="text-white text-base md:text-lg font-bold leading-relaxed">
+              {spark}
+            </p>
+            <div className="mt-3 flex items-center gap-2 justify-center md:justify-start">
+              <span className="text-[11px] bg-white/10 text-white/85 px-2.5 py-0.5 rounded-full">
+                {current.category}
+              </span>
+              {current.year && <span className="text-blue-300/60 text-xs">{current.year}</span>}
+            </div>
+          </aside>
+
+          {/* CENTER — THE THEATER SCREEN */}
+          <div className="relative order-1 md:order-2">
+            <div className="relative rounded-2xl overflow-hidden bg-black shadow-2xl shadow-blue-950/60 ring-1 ring-white/10 aspect-video">
+              {embedSrc ? (
+                <iframe
+                  key={current.id}
+                  src={embedSrc}
+                  title={current.title}
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                  allowFullScreen
+                  className="absolute inset-0 w-full h-full border-0"
+                />
+              ) : current.media_type === "video_upload" && current.media_url ? (
+                <video
+                  key={current.id}
+                  src={current.media_url}
+                  autoPlay
+                  muted
+                  playsInline
+                  controls
+                  onEnded={() => go(1)}
+                  className="absolute inset-0 w-full h-full object-contain bg-black"
+                />
+              ) : current.media_url && current.media_type === "image" ? (
+                // eslint-disable-next-line @next/next/no-img-element
+                <img src={current.media_url} alt={current.title} className="absolute inset-0 w-full h-full object-cover" />
+              ) : (
+                <div className="absolute inset-0 flex items-center justify-center bg-blue-900/60">
+                  <svg viewBox="0 0 100 100" className="w-32 h-32 opacity-20" aria-hidden="true">
+                    <polygon points="50,5 5,85 95,85" fill="none" stroke="white" strokeWidth="2" />
+                    <polygon points="50,95 95,15 5,15" fill="none" stroke="white" strokeWidth="2" />
+                  </svg>
+                </div>
+              )}
+            </div>
+
+            {/* Prev / Next (RTL: right = previous) */}
+            {featured.length > 1 && (
+              <>
+                <button
+                  onClick={() => go(1)}
+                  aria-label="הקודם"
+                  className="absolute right-2 md:-right-4 top-1/2 -translate-y-1/2 bg-white/15 hover:bg-white/30 text-white rounded-full p-2.5 md:p-3 backdrop-blur-sm transition-colors"
+                >
+                  <svg className="w-5 h-5 md:w-6 md:h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+                  </svg>
+                </button>
+                <button
+                  onClick={() => go(-1)}
+                  aria-label="הבא"
+                  className="absolute left-2 md:-left-4 top-1/2 -translate-y-1/2 bg-white/15 hover:bg-white/30 text-white rounded-full p-2.5 md:p-3 backdrop-blur-sm transition-colors"
+                >
+                  <svg className="w-5 h-5 md:w-6 md:h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
+                  </svg>
+                </button>
+              </>
+            )}
           </div>
 
-          {/* Prev / Next (RTL: right = previous) */}
-          {featured.length > 1 && (
-            <>
-              <button
-                onClick={() => go(1)}
-                aria-label="הקודם"
-                className="absolute right-2 md:-right-4 top-1/2 -translate-y-1/2 bg-white/15 hover:bg-white/30 text-white rounded-full p-2.5 md:p-3 backdrop-blur-sm transition-colors"
-              >
-                <svg className="w-5 h-5 md:w-6 md:h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
-                </svg>
-              </button>
-              <button
-                onClick={() => go(-1)}
-                aria-label="הבא"
-                className="absolute left-2 md:-left-4 top-1/2 -translate-y-1/2 bg-white/15 hover:bg-white/30 text-white rounded-full p-2.5 md:p-3 backdrop-blur-sm transition-colors"
-              >
-                <svg className="w-5 h-5 md:w-6 md:h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
-                </svg>
-              </button>
-            </>
-          )}
+          {/* LEFT PANEL — חלק ב׳ · האור (its light in the world) */}
+          <aside
+            key={`light-${current.id}`}
+            className="panel-rise-delay order-3 text-center md:text-left"
+          >
+            <div className="inline-flex items-center gap-2 mb-2 text-amber-200/90">
+              <span className="text-2xl leading-none" aria-hidden="true">☀</span>
+              <span className="text-xs font-semibold tracking-wide">חלק ב׳ · האור</span>
+            </div>
+            <p className="text-blue-50/90 text-sm md:text-base leading-relaxed line-clamp-6 md:line-clamp-none">
+              {light}
+            </p>
+            <a
+              href={current.source_url}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="mt-3 inline-block text-sky-300 hover:text-sky-100 text-sm underline underline-offset-2 transition-colors"
+            >
+              מקור: {current.source_label || "צפה בהוכחה"}
+            </a>
+          </aside>
         </div>
 
-        {/* Dots + source + music */}
-        <div className="mt-5 flex flex-col items-center gap-4">
+        {/* Dots + music */}
+        <div className="mt-7 flex flex-col items-center gap-4">
           {/* dots */}
           {featured.length > 1 && (
             <div className="flex flex-wrap justify-center gap-2 max-w-md">
@@ -210,16 +258,6 @@ export default function Theater({ entries }: TheaterProps) {
               ))}
             </div>
           )}
-
-          {/* source link */}
-          <a
-            href={current.source_url}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="text-sky-300 hover:text-sky-100 text-sm underline underline-offset-2 transition-colors"
-          >
-            מקור: {current.source_label || current.source_url}
-          </a>
 
           {/* Music button — prominent */}
           <button

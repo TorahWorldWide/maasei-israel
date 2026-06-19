@@ -15,6 +15,11 @@ export interface Entry {
   source_url: string;
   source_label: string;
   submitted_by?: string;
+  // Optional poetic two-part split shown flanking the theater screen.
+  // act = חלק א׳ · הניצוץ (the deed); ripple = חלק ב׳ · האור (its light in the world).
+  // When absent, the UI falls back to title (spark) and description (light).
+  act?: string;
+  ripple?: string;
   status: Status;
   created_at: string;
 }

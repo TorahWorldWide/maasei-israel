@@ -1,12 +1,16 @@
 import Link from "next/link";
-import { getApprovedEntries } from "@/lib/data";
+import { getApprovedEntries, getOverview } from "@/lib/data";
 import Feed from "@/components/Feed";
 import Theater from "@/components/Theater";
+import OverviewPanel from "@/components/OverviewPanel";
 
 export const dynamic = "force-dynamic";
 
 export default async function Home() {
-  const entries = await getApprovedEntries();
+  const [entries, overview] = await Promise.all([
+    getApprovedEntries(),
+    getOverview(),
+  ]);
 
   return (
     <div className="min-h-screen flex flex-col">
@@ -42,6 +46,9 @@ export default async function Home() {
 
       {/* Theater (auto-playing video reel + music) */}
       <Theater entries={entries} />
+
+      {/* The historian's big-picture overview (renders once written) */}
+      {overview && <OverviewPanel overview={overview} />}
 
       {/* Catalog — stays navy, no white break */}
       <main id="catalog" className="flex-1 w-full scroll-mt-20 relative">

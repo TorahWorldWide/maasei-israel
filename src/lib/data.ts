@@ -169,3 +169,30 @@ export async function rejectSubmission(id: string): Promise<void> {
   const { error } = await client.from("submissions").delete().eq("id", id);
   if (error) throw error;
 }
+
+// ─── Overview (the historian's "state of the nation" summary) ───────────────
+export interface Overview {
+  headline: string;
+  narrative: string;
+  stats: Record<string, string | number>;
+  date_range: string;
+  revision: number;
+}
+
+export async function getOverview(): Promise<Overview | null> {
+  if (!hasSupabase()) return null;
+  try {
+    const client = await getAnonClient();
+    const { data, error } = await client
+      .from("overview")
+      .select("headline, narrative, stats, date_range, revision")
+      .eq("id", 1)
+      .single();
+    if (error) throw error;
+    // Only show it once the historian has actually written something.
+    if (!data || !data.headline) return null;
+    return data as Overview;
+  } catch {
+    return null;
+  }
+}

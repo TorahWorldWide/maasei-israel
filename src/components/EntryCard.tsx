@@ -73,6 +73,14 @@ export default function EntryCard({ entry, onClick }: EntryCardProps) {
             className="absolute inset-0 w-full h-full border-0"
             loading="lazy"
           />
+        ) : entry.media_url && entry.media_type === "video_upload" ? (
+          <video
+            src={entry.media_url}
+            controls
+            preload="metadata"
+            className="absolute inset-0 w-full h-full object-cover bg-black"
+            onClick={(e) => e.stopPropagation()}
+          />
         ) : entry.media_url && entry.media_type === "image" ? (
           // eslint-disable-next-line @next/next/no-img-element
           <img

@@ -12,8 +12,6 @@ interface TheaterProps {
   entries: Entry[];
 }
 
-const ROTATE_MS = 22000; // auto-advance every 22s for embeds
-
 // Four moods — totally different feels. Mood 1 is the default (the one Tomer liked).
 const MOODS = [
   { num: 1, label: "מרגש", file: "/audio/inspire.mp3" },
@@ -24,6 +22,36 @@ const MOODS = [
 
 const GOLD = "#c9a84a";
 const GOLD_BRIGHT = "#e6c66e";
+
+// Load the YouTube IFrame API once, shared across the app.
+let ytApiPromise: Promise<void> | null = null;
+function loadYouTubeApi(): Promise<void> {
+  if (typeof window === "undefined") return Promise.resolve();
+  if (ytApiPromise) return ytApiPromise;
+  ytApiPromise = new Promise<void>((resolve) => {
+    interface YTWindow {
+      YT?: { Player: unknown };
+      onYouTubeIframeAPIReady?: () => void;
+    }
+    const w = window as unknown as YTWindow;
+    if (w.YT && w.YT.Player) {
+      resolve();
+      return;
+    }
+    const prev = w.onYouTubeIframeAPIReady;
+    w.onYouTubeIframeAPIReady = () => {
+      if (prev) prev();
+      resolve();
+    };
+    if (!document.getElementById("yt-iframe-api")) {
+      const tag = document.createElement("script");
+      tag.id = "yt-iframe-api";
+      tag.src = "https://www.youtube.com/iframe_api";
+      document.head.appendChild(tag);
+    }
+  });
+  return ytApiPromise;
+}
 
 export default function Theater({ entries }: TheaterProps) {
   // Featured = anything with playable video; fall back to any media; then all.
@@ -44,7 +72,11 @@ export default function Theater({ entries }: TheaterProps) {
   const [pickerHover, setPickerHover] = useState(false);
   const audioRef = useRef<HTMLAudioElement | null>(null);
   const fadeRef = useRef<ReturnType<typeof setInterval> | null>(null);
-  const timerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+  // YouTube player: mount target div + the player instance + a stable ref to `go`.
+  const ytMountRef = useRef<HTMLDivElement | null>(null);
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
+  const ytPlayerRef = useRef<any>(null);
+  const goRef = useRef<(dir: number) => void>(() => {});
 
   const current = featured[idx];
 
@@ -59,18 +91,71 @@ export default function Theater({ entries }: TheaterProps) {
     [featured.length]
   );
 
+  // keep a stable ref so the YT event callback always calls the latest `go`
+  useEffect(() => {
+    goRef.current = go;
+  }, [go]);
+
   const jump = useCallback((i: number) => setIdx(i), []);
 
-  // auto-advance for embeds (uploads advance on ended)
+  const currentYtId =
+    current && current.media_type === "video_embed" ? ytId(current.media_url || "") : null;
+
+  // YouTube embeds: build a real Player so we know when the video ENDS, and only
+  // then advance. No timer — videos play to their natural end. Manual arrows/dots
+  // still work anytime. (Uploaded videos advance via the <video> onEnded handler.)
   useEffect(() => {
-    if (!current) return;
-    if (current.media_type === "video_upload") return; // handled by onEnded
-    if (timerRef.current) clearTimeout(timerRef.current);
-    timerRef.current = setTimeout(() => go(1), ROTATE_MS);
+    if (!currentYtId) {
+      // tearing down (non-YT slide) — destroy any existing player
+      if (ytPlayerRef.current) {
+        try {
+          ytPlayerRef.current.destroy();
+        } catch {}
+        ytPlayerRef.current = null;
+      }
+      return;
+    }
+    let cancelled = false;
+    loadYouTubeApi().then(() => {
+      if (cancelled || !ytMountRef.current) return;
+      // eslint-disable-next-line @typescript-eslint/no-explicit-any
+      const YT = (window as any).YT;
+      if (!YT || !YT.Player) return;
+      // Destroy previous player before building a new one.
+      if (ytPlayerRef.current) {
+        try {
+          ytPlayerRef.current.destroy();
+        } catch {}
+        ytPlayerRef.current = null;
+      }
+      ytPlayerRef.current = new YT.Player(ytMountRef.current, {
+        videoId: currentYtId,
+        playerVars: {
+          autoplay: 1,
+          mute: 1,
+          controls: 1,
+          rel: 0,
+          modestbranding: 1,
+          playsinline: 1,
+        },
+        events: {
+          onStateChange: (e: { data: number }) => {
+            // 0 === YT.PlayerState.ENDED → advance to the next video
+            if (e.data === 0) goRef.current(1);
+          },
+        },
+      });
+    });
     return () => {
-      if (timerRef.current) clearTimeout(timerRef.current);
+      cancelled = true;
+      if (ytPlayerRef.current) {
+        try {
+          ytPlayerRef.current.destroy();
+        } catch {}
+        ytPlayerRef.current = null;
+      }
     };
-  }, [current, idx, go]);
+  }, [currentYtId]);
 
   // keyboard arrows (RTL: ArrowRight = previous, ArrowLeft = next)
   useEffect(() => {
@@ -140,11 +225,6 @@ export default function Theater({ entries }: TheaterProps) {
 
   if (!current) return null;
 
-  const id = current.media_type === "video_embed" ? ytId(current.media_url || "") : null;
-  const embedSrc = id
-    ? `https://www.youtube.com/embed/${id}?autoplay=1&mute=1&controls=1&rel=0&modestbranding=1&playsinline=1&loop=1&playlist=${id}`
-    : null;
-
   // The poetic two-part split that flanks the screen.
   // חלק א׳ · הניצוץ = the deed itself (the human spark).
   // חלק ב׳ · האור = the light it cast on the world.
@@ -210,15 +290,12 @@ export default function Theater({ entries }: TheaterProps) {
           {/* CENTER — THE THEATER SCREEN */}
           <div className="relative order-1 md:order-2">
             <div className="relative rounded-2xl overflow-hidden bg-black aspect-video" style={{ boxShadow: "0 30px 90px -25px rgba(0,0,0,0.8)", border: "1px solid rgba(201,168,74,0.35)" }}>
-              {embedSrc ? (
-                <iframe
-                  key={current.id}
-                  src={embedSrc}
-                  title={current.title}
-                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                  allowFullScreen
-                  className="absolute inset-0 w-full h-full border-0"
-                />
+              {currentYtId ? (
+                // The YouTube IFrame API replaces this div with its player and
+                // tells us when the video ENDS (so we advance only then, never mid-watch).
+                <div key={current.id} className="absolute inset-0 w-full h-full">
+                  <div ref={ytMountRef} className="w-full h-full" />
+                </div>
               ) : current.media_type === "video_upload" && current.media_url ? (
                 <video
                   key={current.id}

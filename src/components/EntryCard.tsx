@@ -1,6 +1,8 @@
 "use client";
 
+import Link from "next/link";
 import type { Entry } from "@/lib/data";
+import ShareProof from "@/components/ShareProof";
 
 function normalizeVideoUrl(url: string): string {
   const ytMatch = url.match(
@@ -99,9 +101,15 @@ export default function EntryCard({ entry, onClick }: EntryCardProps) {
           )}
         </div>
 
-        <h3 className="text-lg font-bold text-white leading-snug line-clamp-2" style={{ fontFamily: "var(--font-frank-ruhl), serif" }}>
-          {entry.title}
-        </h3>
+        <Link
+          href={`/deed/${entry.id}`}
+          onClick={(e) => e.stopPropagation()}
+          className="hover:text-[#e6c66e] transition-colors"
+        >
+          <h3 className="text-lg font-bold text-white leading-snug line-clamp-2" style={{ fontFamily: "var(--font-frank-ruhl), serif" }}>
+            {entry.title}
+          </h3>
+        </Link>
 
         <p className="text-sm text-blue-100/70 leading-relaxed line-clamp-3 flex-1">
           {entry.description}
@@ -116,12 +124,19 @@ export default function EntryCard({ entry, onClick }: EntryCardProps) {
           </div>
         )}
 
+        <div
+          onClick={(e) => e.stopPropagation()}
+          className="mt-auto pt-1"
+        >
+          <ShareProof entry={entry} size="sm" />
+        </div>
+
         <a
           href={entry.source_url}
           target="_blank"
           rel="noopener noreferrer"
           onClick={(e) => e.stopPropagation()}
-          className="text-xs text-[#e6c66e] hover:text-[#f0d585] font-medium flex items-center gap-1 underline underline-offset-2 decoration-[#c9a84a]/40 hover:decoration-[#c9a84a] transition-colors mt-auto pt-1"
+          className="text-xs text-[#e6c66e] hover:text-[#f0d585] font-medium flex items-center gap-1 underline underline-offset-2 decoration-[#c9a84a]/40 hover:decoration-[#c9a84a] transition-colors"
         >
           <svg
             className="w-3 h-3 flex-shrink-0"

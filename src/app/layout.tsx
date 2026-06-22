@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Rubik, Heebo, Frank_Ruhl_Libre } from "next/font/google";
+import { LangProvider } from "@/components/LangProvider";
 import "./globals.css";
 
 const rubik = Rubik({
@@ -40,7 +41,9 @@ export default function RootLayout({
       dir="rtl"
       className={`${rubik.variable} ${heebo.variable} ${frankRuhl.variable}`}
     >
-      <body className="min-h-screen flex flex-col">{children}</body>
+      <body className="min-h-screen flex flex-col">
+        <LangProvider>{children}</LangProvider>
+      </body>
     </html>
   );
 }

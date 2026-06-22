@@ -170,6 +170,33 @@ export async function rejectSubmission(id: string): Promise<void> {
   if (error) throw error;
 }
 
+export async function getEntryById(id: string): Promise<Entry | null> {
+  if (!hasSupabase()) {
+    return (
+      (seedEntries as Entry[]).find(
+        (e) => e.id === id && e.status === "approved"
+      ) ?? null
+    );
+  }
+  try {
+    const client = await getAnonClient();
+    const { data, error } = await client
+      .from("entries")
+      .select("*")
+      .eq("id", id)
+      .eq("status", "approved")
+      .single();
+    if (error) throw error;
+    return data as Entry;
+  } catch {
+    return (
+      (seedEntries as Entry[]).find(
+        (e) => e.id === id && e.status === "approved"
+      ) ?? null
+    );
+  }
+}
+
 // ─── Overview (the historian's "state of the nation" summary) ───────────────
 export interface Overview {
   headline: string;

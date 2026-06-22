@@ -5,6 +5,30 @@ export const alt = "מעשי ישראל";
 export const size = { width: 1200, height: 630 };
 export const contentType = "image/png";
 
+// next/og (Satori) does NOT implement the Unicode bidi algorithm, so a CSS
+// `direction: rtl` is ignored and Hebrew text is laid out left-to-right —
+// rendering it mirror-reversed. This helper produces the correct VISUAL order
+// for predominantly-RTL strings: it reverses the run order and the characters
+// of Hebrew runs, while keeping Latin/digit runs (USB, 110, 2023) in their own
+// left-to-right order. The result, drawn LTR by Satori, reads correctly RTL.
+function visualRtl(text: string): string {
+  const ltr = /[A-Za-z0-9][A-Za-z0-9.,:/'"\-+%]*/g;
+  const segments: { ltr: boolean; s: string }[] = [];
+  let last = 0;
+  let m: RegExpExecArray | null;
+  while ((m = ltr.exec(text)) !== null) {
+    if (m.index > last)
+      segments.push({ ltr: false, s: text.slice(last, m.index) });
+    segments.push({ ltr: true, s: m[0] });
+    last = m.index + m[0].length;
+  }
+  if (last < text.length) segments.push({ ltr: false, s: text.slice(last) });
+  return segments
+    .reverse()
+    .map((seg) => (seg.ltr ? seg.s : [...seg.s].reverse().join("")))
+    .join("");
+}
+
 export default async function Image({
   params,
 }: {
@@ -12,8 +36,9 @@ export default async function Image({
 }) {
   const { id } = await params;
   const entry = await getEntryById(id);
-  const title = entry?.title ?? "מעשי ישראל";
-  const category = entry?.category ?? "";
+  const title = visualRtl(entry?.title ?? "מעשי ישראל");
+  const category = visualRtl(entry?.category ?? "");
+  const wordmark = visualRtl("מעשי ישראל");
 
   return new ImageResponse(
     (
@@ -104,7 +129,7 @@ export default async function Image({
             direction: "rtl",
           }}
         >
-          מעשי ישראל
+          {wordmark}
         </div>
       </div>
     ),

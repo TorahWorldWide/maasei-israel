@@ -21,6 +21,16 @@ export default function DeedPageBody({ entry }: { entry: Entry }) {
       ? extractYouTubeId(entry.media_url)
       : null;
 
+  // Image entries: prefer the multi-image gallery, fall back to the single url.
+  const images =
+    entry.media_type === "image"
+      ? (entry.media_urls && entry.media_urls.length > 0
+          ? entry.media_urls
+          : entry.media_url
+            ? [entry.media_url]
+            : [])
+      : [];
+
   return (
     <main className="flex-1 w-full">
       <div className="max-w-3xl mx-auto px-4 sm:px-6 py-12">
@@ -61,6 +71,33 @@ export default function DeedPageBody({ entry }: { entry: Entry }) {
               allowFullScreen
               className="absolute inset-0 w-full h-full border-0"
             />
+          </div>
+        )}
+
+        {/* Image(s) — shown when there is no video. One image fills the frame;
+            several render as a responsive gallery. */}
+        {!ytId && images.length > 0 && (
+          <div
+            className={
+              images.length === 1
+                ? "w-full rounded-xl overflow-hidden mb-8 shadow-xl shadow-black/50"
+                : "grid grid-cols-1 sm:grid-cols-2 gap-3 mb-8"
+            }
+          >
+            {images.map((src, i) => (
+              // eslint-disable-next-line @next/next/no-img-element
+              <img
+                key={i}
+                src={src}
+                alt={`${entry.title}${images.length > 1 ? ` (${i + 1})` : ""}`}
+                className={
+                  images.length === 1
+                    ? "w-full max-h-[60vh] object-cover rounded-xl"
+                    : "w-full h-56 object-cover rounded-xl shadow-lg shadow-black/40"
+                }
+                loading="lazy"
+              />
+            ))}
           </div>
         )}
 

@@ -22,6 +22,11 @@ export interface Entry {
   year: number | null;
   media_type: MediaType;
   media_url: string;
+  // Optional gallery of image URLs (for image entries with several pictures).
+  // When media_type === "image" and this is non-empty, the UI shows all of
+  // them; otherwise it falls back to the single media_url. Video entries ignore
+  // this. Populated by the autonomous company only when no video exists.
+  media_urls?: string[];
   source_url: string;
   source_label: string;
   submitted_by?: string;

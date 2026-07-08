@@ -2,6 +2,7 @@
 
 import { useState, useRef, useEffect, useMemo, useCallback } from "react";
 import type { Entry } from "@/lib/data";
+import Slideshow from "./Slideshow";
 
 function ytId(url: string): string | null {
   const m = url.match(/(?:youtube\.com\/watch\?v=|youtu\.be\/|youtube\.com\/embed\/)([a-zA-Z0-9_-]{11})/);
@@ -70,6 +71,7 @@ export default function Theater({ entries }: TheaterProps) {
   const [musicOn, setMusicOn] = useState(false);
   const [trackIdx, setTrackIdx] = useState(0);
   const [pickerHover, setPickerHover] = useState(false);
+  const [modalOpen, setModalOpen] = useState(false);
   const audioRef = useRef<HTMLAudioElement | null>(null);
   const fadeRef = useRef<ReturnType<typeof setInterval> | null>(null);
   // YouTube player: mount target div + the player instance + a stable ref to `go`.
@@ -95,8 +97,6 @@ export default function Theater({ entries }: TheaterProps) {
   useEffect(() => {
     goRef.current = go;
   }, [go]);
-
-  const jump = useCallback((i: number) => setIdx(i), []);
 
   const currentYtId =
     current && current.media_type === "video_embed" ? ytId(current.media_url || "") : null;
@@ -130,6 +130,8 @@ export default function Theater({ entries }: TheaterProps) {
       }
       ytPlayerRef.current = new YT.Player(ytMountRef.current, {
         videoId: currentYtId,
+        width: "100%",
+        height: "100%",
         playerVars: {
           autoplay: 1,
           mute: 1,
@@ -157,15 +159,17 @@ export default function Theater({ entries }: TheaterProps) {
     };
   }, [currentYtId]);
 
-  // keyboard arrows (RTL: ArrowRight = previous, ArrowLeft = next)
+  // keyboard arrows (RTL: ArrowRight = previous, ArrowLeft = next).
+  // Disabled while the depth modal is open — it owns the keyboard then.
   useEffect(() => {
+    if (modalOpen) return;
     const onKey = (e: KeyboardEvent) => {
       if (e.key === "ArrowRight") go(1);
       else if (e.key === "ArrowLeft") go(-1);
     };
     window.addEventListener("keydown", onKey);
     return () => window.removeEventListener("keydown", onKey);
-  }, [go]);
+  }, [go, modalOpen]);
 
   const fadeTo = useCallback((target: number) => {
     const a = audioRef.current;
@@ -216,6 +220,17 @@ export default function Theater({ entries }: TheaterProps) {
     }
   }, [musicOn, trackIdx, playMood]);
 
+  // Open the depth modal on the current deed; pause the ambient music so the
+  // deed's own video/audio isn't fighting it.
+  const openModal = useCallback(() => {
+    const a = audioRef.current;
+    if (a && musicOn) {
+      a.pause();
+      setMusicOn(false);
+    }
+    setModalOpen(true);
+  }, [musicOn]);
+
   useEffect(() => {
     return () => {
       if (fadeRef.current) clearInterval(fadeRef.current);
@@ -225,74 +240,69 @@ export default function Theater({ entries }: TheaterProps) {
 
   if (!current) return null;
 
-  // The poetic two-part split that flanks the screen.
-  // חלק א׳ · הניצוץ = the deed itself (the human spark).
-  // חלק ב׳ · האור = the light it cast on the world.
-  const spark = (current.act && current.act.trim()) || current.title;
-  const light = (current.ripple && current.ripple.trim()) || current.description;
-
   // Show the 4 mood buttons whenever playing, or while hovering the control (desktop).
   const showPicker = musicOn || pickerHover;
 
   return (
-    <section className="relative overflow-hidden" style={{ background: "linear-gradient(to bottom, #081026 0%, #0a1834 55%, #0a1834 100%)" }}>
-      {/* faint star watermark */}
-      <div className="absolute inset-0 flex items-center justify-center pointer-events-none" aria-hidden="true">
-        <svg viewBox="0 0 200 200" className="w-[700px] h-[700px]" style={{ opacity: 0.04 }}>
-          <polygon points="100,10 10,170 190,170" fill="none" stroke={GOLD} strokeWidth="3" />
-          <polygon points="100,190 190,30 10,30" fill="none" stroke={GOLD} strokeWidth="3" />
-        </svg>
-      </div>
+    <section className="stage relative overflow-hidden">
+      {/* stage lighting — dimmed house */}
+      <div className="stage-beam stage-beam-r" aria-hidden="true" />
+      <div className="stage-beam stage-beam-l" aria-hidden="true" />
+      <div className="stage-haze" aria-hidden="true" />
+      <div className="stage-vignette" aria-hidden="true" />
 
-      <div className="relative max-w-7xl mx-auto px-4 sm:px-6 pt-8 pb-10">
-        {/* Title row — permanent site title on top, changing video title below */}
-        <div className="text-center mb-5 pt-1">
-          <p className="text-[11px] font-medium uppercase tracking-[0.3em] mb-1.5" style={{ color: "rgba(201,168,74,0.8)" }}>
-            מעשי ישראל
-          </p>
-          {/* PERMANENT — always stays on top */}
-          <h1 className="text-2xl md:text-4xl font-extrabold text-white tracking-tight">
-            מעשים טובים של עם ישראל
-          </h1>
-          {/* CHANGING — the current video's title, re-animates on every advance */}
-          <div className="gold-rule max-w-[140px] mx-auto my-3" />
-          <p
-            key={`vtitle-${current.id}`}
-            className="panel-rise text-lg md:text-2xl font-bold leading-snug px-4"
-            style={{ fontFamily: "var(--font-frank-ruhl), serif", color: "#e6c66e" }}
-          >
-            {current.title}
-          </p>
-        </div>
-
-        {/* THREE-PANEL STAGE: right = חלק א׳ · הניצוץ · center = screen · left = חלק ב׳ · האור */}
-        <div className="grid grid-cols-1 md:grid-cols-[1fr_minmax(0,2.3fr)_1fr] gap-4 md:gap-5 items-center">
-          {/* RIGHT PANEL — חלק א׳ · הניצוץ (the deed) */}
-          <aside
-            key={`spark-${current.id}`}
-            className="panel-rise order-2 md:order-1 text-center md:text-right"
-          >
-            <div className="inline-flex items-center gap-2 mb-2" style={{ color: GOLD_BRIGHT }}>
-              <span className="text-2xl leading-none" aria-hidden="true">✦</span>
-              <span className="text-xs font-semibold tracking-wide">חלק א׳ · הניצוץ</span>
-            </div>
-            <p className="text-white text-base md:text-lg font-bold leading-relaxed">
-              {spark}
-            </p>
-            <div className="mt-3 flex items-center gap-2 justify-center md:justify-start">
-              <span className="text-[11px] px-2.5 py-0.5 rounded-full" style={{ color: GOLD_BRIGHT, background: "rgba(201,168,74,0.12)", border: "1px solid rgba(201,168,74,0.3)" }}>
+      <div className="relative z-10 mx-auto px-0 sm:px-6 pt-6 sm:pt-8 md:pt-9 pb-10">
+        {/* THE STAGE — title crowns it, the screen is the show, story sits below */}
+        <div className="relative mx-auto" style={{ maxWidth: "min(100vw, 1240px)" }}>
+          {/* TITLE — crowning the screen */}
+          <div key={`ttl-${current.id}`} className="panel-rise mb-4 sm:mb-5 px-4 text-center">
+            <div className="flex items-center justify-center gap-x-2.5 gap-y-1 flex-wrap">
+              <span
+                className="text-[11px] px-2.5 py-0.5 rounded-full flex-shrink-0"
+                style={{ color: GOLD_BRIGHT, background: "rgba(201,168,74,0.12)", border: "1px solid rgba(201,168,74,0.3)" }}
+              >
                 {current.category}
               </span>
-              {current.year && <span className="text-blue-300/55 text-xs">{current.year}</span>}
+              <h2
+                className="text-lg md:text-3xl font-bold leading-tight"
+                style={{ fontFamily: "var(--font-frank-ruhl), serif", color: GOLD_BRIGHT }}
+                title={current.title}
+              >
+                {current.title}
+              </h2>
+              {current.year && <span className="text-blue-300/55 text-xs flex-shrink-0">{current.year}</span>}
             </div>
-          </aside>
+          </div>
 
-          {/* CENTER — THE THEATER SCREEN */}
-          <div className="relative order-1 md:order-2">
-            <div className="relative rounded-2xl overflow-hidden bg-black aspect-video" style={{ boxShadow: "0 30px 90px -25px rgba(0,0,0,0.8)", border: "1px solid rgba(201,168,74,0.35)" }}>
+          {/* the screen + arrows (arrows centered on the screen itself) */}
+          <div className="relative">
+            {featured.length > 1 && (
+              <>
+                <button
+                  onClick={() => go(1)}
+                  aria-label="הקודם"
+                  className="absolute z-30 right-1 sm:right-2 md:-right-6 top-1/2 -translate-y-1/2 rounded-full p-3 md:p-4 backdrop-blur-sm transition-all hover:scale-110"
+                  style={{ background: "rgba(201,168,74,0.16)", color: GOLD_BRIGHT, border: "1px solid rgba(201,168,74,0.4)" }}
+                >
+                  <svg className="w-7 h-7 md:w-9 md:h-9" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+                  </svg>
+                </button>
+                <button
+                  onClick={() => go(-1)}
+                  aria-label="הבא"
+                  className="absolute z-30 left-1 sm:left-2 md:-left-6 top-1/2 -translate-y-1/2 rounded-full p-3 md:p-4 backdrop-blur-sm transition-all hover:scale-110"
+                  style={{ background: "rgba(201,168,74,0.16)", color: GOLD_BRIGHT, border: "1px solid rgba(201,168,74,0.4)" }}
+                >
+                  <svg className="w-7 h-7 md:w-9 md:h-9" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
+                  </svg>
+                </button>
+              </>
+            )}
+
+            <div className="screen-glow relative rounded-none sm:rounded-2xl overflow-hidden bg-black aspect-video">
               {currentYtId ? (
-                // The YouTube IFrame API replaces this div with its player and
-                // tells us when the video ENDS (so we advance only then, never mid-watch).
                 <div key={current.id} className="absolute inset-0 w-full h-full">
                   <div ref={ytMountRef} className="w-full h-full" />
                 </div>
@@ -318,87 +328,63 @@ export default function Theater({ entries }: TheaterProps) {
                   </svg>
                 </div>
               )}
-            </div>
 
-            {/* Prev / Next (RTL: right = previous) */}
-            {featured.length > 1 && (
-              <>
-                <button
-                  onClick={() => go(1)}
-                  aria-label="הקודם"
-                  className="absolute right-2 md:-right-4 top-1/2 -translate-y-1/2 rounded-full p-2.5 md:p-3 backdrop-blur-sm transition-colors"
-                  style={{ background: "rgba(201,168,74,0.16)", color: GOLD_BRIGHT }}
-                >
-                  <svg className="w-5 h-5 md:w-6 md:h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
-                  </svg>
-                </button>
-                <button
-                  onClick={() => go(-1)}
-                  aria-label="הבא"
-                  className="absolute left-2 md:-left-4 top-1/2 -translate-y-1/2 rounded-full p-2.5 md:p-3 backdrop-blur-sm transition-colors"
-                  style={{ background: "rgba(201,168,74,0.16)", color: GOLD_BRIGHT }}
-                >
-                  <svg className="w-5 h-5 md:w-6 md:h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
-                  </svg>
-                </button>
-              </>
-            )}
+              {/* expand → depth modal (sits above the iframe so the corner stays clickable) */}
+              <button
+                onClick={openModal}
+                aria-label="הרחבה — קרא עוד"
+                className="absolute z-20 top-3 left-3 rounded-full p-2 backdrop-blur-md transition-all hover:scale-110"
+                style={{ background: "rgba(10,24,52,0.7)", color: GOLD_BRIGHT, border: "1px solid rgba(201,168,74,0.4)" }}
+              >
+                <svg className="w-4 h-4 md:w-5 md:h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 8V4m0 0h4M4 4l5 5m11-1V4m0 0h-4m4 0l-5 5M4 16v4m0 0h4m-4 0l5-5m11 5l-5-5m5 5v-4m0 4h-4" />
+                </svg>
+              </button>
+
+              {/* position counter — scales to any number of deeds (replaces the dots) */}
+              <div
+                className="absolute z-20 top-3 right-3 text-[11px] tabular-nums px-2.5 py-1 rounded-full backdrop-blur-md"
+                style={{ background: "rgba(10,24,52,0.7)", color: GOLD_BRIGHT, border: "1px solid rgba(201,168,74,0.3)" }}
+              >
+                {idx + 1} / {featured.length}
+              </div>
+            </div>
+            {/* footlight glow spilling up from the floor */}
+            <div className="footlight" aria-hidden="true" />
           </div>
-
-          {/* LEFT PANEL — חלק ב׳ · האור (its light in the world) */}
-          <aside
-            key={`light-${current.id}`}
-            className="panel-rise-delay order-3 text-center md:text-left"
-          >
-            <div className="inline-flex items-center gap-2 mb-2" style={{ color: "#bcd3ff" }}>
-              <span className="text-2xl leading-none" aria-hidden="true">☀</span>
-              <span className="text-xs font-semibold tracking-wide">חלק ב׳ · האור</span>
-            </div>
-            <p className="text-blue-50/90 text-sm md:text-base leading-relaxed line-clamp-6 md:line-clamp-none">
-              {light}
-            </p>
-            <a
-              href={current.source_url}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="mt-3 inline-block text-sm underline underline-offset-2 transition-colors"
-              style={{ color: GOLD_BRIGHT }}
-            >
-              מקור: {current.source_label || "צפה בהוכחה"}
-            </a>
-          </aside>
         </div>
 
-        {/* Dots + music */}
-        <div className="mt-7 flex flex-col items-center gap-4">
-          {/* dots */}
-          {featured.length > 1 && (
-            <div className="flex flex-wrap justify-center gap-2 max-w-md">
-              {featured.map((e, i) => (
-                <button
-                  key={e.id}
-                  onClick={() => jump(i)}
-                  aria-label={`עבור לסרטון ${i + 1}`}
-                  className="h-2 rounded-full transition-all duration-200"
-                  style={
-                    i === idx
-                      ? { width: "1.75rem", background: GOLD_BRIGHT }
-                      : { width: "0.5rem", background: "rgba(201,168,74,0.3)" }
-                  }
-                />
-              ))}
-            </div>
+        {/* STORY — the full explanation, right under the screen */}
+        <div
+          key={`desc-${current.id}`}
+          className="panel-rise mt-5 sm:mt-6 mx-auto max-w-2xl px-5 text-center"
+        >
+          {current.description && (
+            <p className="text-[15px] sm:text-base leading-relaxed text-blue-100/80">
+              {current.description}
+            </p>
           )}
 
+          <button
+            onClick={openModal}
+            className="mt-4 inline-flex items-center gap-1.5 px-4 py-1.5 rounded-full font-semibold text-sm transition-all hover:scale-[1.04]"
+            style={{ background: `linear-gradient(to bottom, ${GOLD_BRIGHT}, ${GOLD})`, color: "#0a1834", boxShadow: "0 8px 22px -10px rgba(201,168,74,0.5)" }}
+          >
+            מקורות והוכחות
+            <svg className="w-3.5 h-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
+            </svg>
+          </button>
+        </div>
+
+        {/* music */}
+        <div className="mt-7 flex flex-col items-center gap-4">
           {/* Music control — main button + 4-mood picker */}
           <div
             className="relative flex flex-col items-center"
             onMouseEnter={() => setPickerHover(true)}
             onMouseLeave={() => setPickerHover(false)}
           >
-            {/* Mood picker (1·2·3·4) — appears above when playing or hovering */}
             <div
               className={`flex items-center gap-2 mb-3 transition-all duration-200 ${
                 showPicker ? "opacity-100 translate-y-0 pointer-events-auto" : "opacity-0 translate-y-2 pointer-events-none"
@@ -429,7 +415,6 @@ export default function Theater({ entries }: TheaterProps) {
               })}
             </div>
 
-            {/* Main play/pause button */}
             <button
               onClick={toggleMusic}
               className="group flex items-center gap-2.5 px-6 py-3 rounded-full font-semibold text-sm transition-all shadow-lg"
@@ -457,22 +442,24 @@ export default function Theater({ entries }: TheaterProps) {
                 </>
               )}
             </button>
-            <p className="mt-2 text-[11px]" style={{ color: "rgba(201,168,74,0.5)" }}>
-              {showPicker ? "בחרו מוד · 1·2·3·4" : "הסרטונים ללא קול — הפעילו מוזיקה לחוויה מלאה"}
-            </p>
           </div>
         </div>
 
-        {/* scroll hint */}
-        <div className="mt-8 text-center">
-          <a href="#catalog" className="inline-flex flex-col items-center transition-colors" style={{ color: "rgba(201,168,74,0.7)" }}>
-            <span className="text-sm mb-1">כל המעשים — חפשו, סננו, גלו</span>
-            <svg className="w-6 h-6 animate-bounce" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+        {/* scroll hint — minimal */}
+        <div className="mt-6 text-center">
+          <a href="#catalog" className="inline-flex flex-col items-center transition-colors" style={{ color: "rgba(201,168,74,0.6)" }}>
+            <span className="text-xs mb-0.5">כל המעשים</span>
+            <svg className="w-5 h-5 animate-bounce" fill="none" viewBox="0 0 24 24" stroke="currentColor">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 14l-7 7m0 0l-7-7m7 7V3" />
             </svg>
           </a>
         </div>
       </div>
+
+      {/* depth modal — the "separate window" for going deep (media + description + citations) */}
+      {modalOpen && (
+        <Slideshow entries={featured} initialIndex={idx} onClose={() => setModalOpen(false)} />
+      )}
 
       {/* hidden audio element — src starts on mood 1, swapped when switching */}
       <audio ref={audioRef} src={MOODS[0].file} loop preload="none" />

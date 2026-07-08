@@ -95,3 +95,197 @@ h6 {
 .pop-in {
   animation: popIn 0.28s cubic-bezier(0.34, 1.56, 0.64, 1) both;
 }
+
+/* ─────────────────────────── Theater stage lighting ───────────────────────────
+   A dark stage. Two gold spotlight beams angle in from the top onto a big screen,
+   a warm footlight spills up from the floor, and a vignette focuses the eye.
+   Palette stays navy + gold — only light, no new colors. */
+.stage {
+  position: relative;
+  background:
+    radial-gradient(ellipse 120% 80% at 50% 0%, rgba(37, 99, 235, 0.18), transparent 55%),
+    linear-gradient(to bottom, #070f24 0%, #0a1834 62%, #0a1834 100%);
+}
+
+/* the two spotlight beams */
+.stage-beam {
+  position: absolute;
+  top: -70px;
+  width: 46%;
+  height: 82%;
+  pointer-events: none;
+  z-index: 0;
+  filter: blur(16px);
+  mix-blend-mode: screen;
+  background: linear-gradient(
+    to bottom,
+    rgba(230, 198, 110, 0.3),
+    rgba(230, 198, 110, 0.07) 42%,
+    transparent 72%
+  );
+}
+.stage-beam-r {
+  right: 1%;
+  clip-path: polygon(58% 0, 74% 0, 100% 100%, 20% 100%);
+  transform-origin: top right;
+  animation: beamSwayR 11s ease-in-out infinite;
+}
+.stage-beam-l {
+  left: 1%;
+  clip-path: polygon(26% 0, 42% 0, 80% 100%, 0 100%);
+  transform-origin: top left;
+  animation: beamSwayL 11s ease-in-out infinite;
+}
+@keyframes beamSwayR {
+  0%, 100% { transform: rotate(1.6deg); opacity: 0.5; }
+  50% { transform: rotate(-1.6deg); opacity: 0.68; }
+}
+@keyframes beamSwayL {
+  0%, 100% { transform: rotate(-1.6deg); opacity: 0.5; }
+  50% { transform: rotate(1.6deg); opacity: 0.68; }
+}
+
+/* warm haze where the beams cross, high center */
+.stage-haze {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  z-index: 0;
+  background: radial-gradient(ellipse 48% 38% at 50% 6%, rgba(230, 198, 110, 0.1), transparent 60%);
+}
+
+/* vignette to darken the edges of the house — dimmed lights, screen is the focus */
+.stage-vignette {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  z-index: 0;
+  box-shadow: inset 0 0 320px 80px rgba(3, 6, 16, 0.88);
+  background: radial-gradient(ellipse 70% 60% at 50% 46%, transparent 40%, rgba(3, 6, 16, 0.55) 100%);
+}
+
+/* ── Theater curtains — deep burgundy velvet drapes drawn open ──
+   Wine-red velvet with vertical pleats (lit folds → near-black shadow folds),
+   a black shadow falling into the stage opening, and a gold inner trim.
+   A scalloped valance hangs across the top. */
+.curtain {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: clamp(26px, 7vw, 150px);
+  z-index: 15;
+  pointer-events: none;
+}
+
+/* Velvet drape: soft ROUNDED folds (deep valley → lit crest → deep valley),
+   a body sheen, plus top/bottom depth shadows so it reads as hanging fabric —
+   not flat mechanical stripes. */
+.curtain-r {
+  right: 0;
+  background:
+    linear-gradient(to left, rgba(0, 0, 0, 0.5) 0%, rgba(0, 0, 0, 0.08) 40%, rgba(0, 0, 0, 0) 66%, rgba(0, 0, 0, 0.42) 100%),
+    repeating-linear-gradient(90deg,
+      #190309 0px, #45101b 9px, #7a1c2e 18px, #9a2a40 21px, #7a1c2e 24px, #45101b 33px, #190309 42px);
+  box-shadow: inset 0 26px 42px -20px rgba(0, 0, 0, 0.7), inset 0 -34px 48px -22px rgba(0, 0, 0, 0.78);
+}
+.curtain-l {
+  left: 0;
+  background:
+    linear-gradient(to right, rgba(0, 0, 0, 0.5) 0%, rgba(0, 0, 0, 0.08) 40%, rgba(0, 0, 0, 0) 66%, rgba(0, 0, 0, 0.42) 100%),
+    repeating-linear-gradient(90deg,
+      #190309 0px, #45101b 9px, #7a1c2e 18px, #9a2a40 21px, #7a1c2e 24px, #45101b 33px, #190309 42px);
+  box-shadow: inset 0 26px 42px -20px rgba(0, 0, 0, 0.7), inset 0 -34px 48px -22px rgba(0, 0, 0, 0.78);
+}
+
+/* glowing gold braid down the inner edge */
+.curtain-r::before,
+.curtain-l::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 3px;
+  background: linear-gradient(to bottom, #f6e39a, #c9a84a 45%, #8a6d2a);
+  box-shadow: 0 0 9px rgba(230, 198, 110, 0.55);
+}
+.curtain-r::before { left: 0; }
+.curtain-l::before { right: 0; }
+
+/* ── Swag valance — a grand draped crown with gold-trimmed scallops.
+   drop-shadow traces the masked silhouette, painting a gold rim on every scallop. */
+.valance {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: clamp(40px, 8.5vw, 92px);
+  z-index: 16;
+  pointer-events: none;
+  background:
+    linear-gradient(to bottom, rgba(255, 255, 255, 0.06), rgba(0, 0, 0, 0) 34%, rgba(0, 0, 0, 0.55)),
+    repeating-linear-gradient(90deg,
+      #190309 0px, #45101b 11px, #7a1c2e 21px, #9a2a40 25px, #7a1c2e 29px, #45101b 39px, #190309 50px);
+  -webkit-mask: radial-gradient(circle at 32px 100%, transparent 0 29px, #000 30px) repeat-x;
+  -webkit-mask-size: 64px 100%;
+  mask: radial-gradient(circle at 32px 100%, transparent 0 29px, #000 30px) repeat-x;
+  mask-size: 64px 100%;
+  filter: drop-shadow(0 3px 4px rgba(0, 0, 0, 0.5)) drop-shadow(0 1px 0 rgba(230, 198, 110, 0.85));
+}
+
+/* the screen: gold rim + deep drop + soft golden bloom */
+.screen-glow {
+  border: 1px solid rgba(201, 168, 74, 0.42);
+  box-shadow:
+    0 0 0 1px rgba(230, 198, 110, 0.16),
+    0 28px 90px -20px rgba(0, 0, 0, 0.85),
+    0 0 100px -12px rgba(230, 198, 110, 0.28);
+}
+
+/* The YouTube API replaces its mount div with a fixed 640x360 iframe.
+   Force just the iframe to fill so the video never overflows/clips on mobile.
+   (Must NOT target `.screen-glow > div` — that would stretch the counter chip.) */
+.screen-glow iframe {
+  position: absolute;
+  inset: 0;
+  width: 100% !important;
+  height: 100% !important;
+  border: 0;
+  display: block;
+}
+
+/* footlight — warm glow rising from the stage floor beneath the screen */
+.footlight {
+  position: absolute;
+  left: 7%;
+  right: 7%;
+  bottom: -30px;
+  height: 66px;
+  pointer-events: none;
+  filter: blur(12px);
+  background: radial-gradient(ellipse 60% 100% at 50% 0%, rgba(230, 198, 110, 0.38), transparent 72%);
+}
+
+/* Mobile: the big inset vignette + wide beams swallow a small screen and read
+   as "something broke". Tone them down so the video stays the clear focus. */
+@media (max-width: 640px) {
+  .stage-vignette {
+    box-shadow: inset 0 0 140px 24px rgba(3, 6, 16, 0.7);
+    background: radial-gradient(ellipse 90% 70% at 50% 46%, transparent 55%, rgba(3, 6, 16, 0.4) 100%);
+  }
+  .stage-beam {
+    width: 60%;
+    opacity: 0.5;
+    filter: blur(22px);
+  }
+  .footlight {
+    bottom: -22px;
+    height: 48px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .stage-beam-r,
+  .stage-beam-l {
+    animation: none;
+  }
+}

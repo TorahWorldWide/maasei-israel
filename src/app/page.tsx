@@ -8,11 +8,17 @@ import CatalogHeading from "@/components/CatalogHeading";
 
 export const dynamic = "force-dynamic";
 
-export default async function Home() {
-  const [entries, overview] = await Promise.all([
+export default async function Home({
+  searchParams,
+}: {
+  searchParams: Promise<{ era?: string }>;
+}) {
+  const [entries, overview, params] = await Promise.all([
     getApprovedEntries(),
     getOverview(),
+    searchParams,
   ]);
+  const initialEras = params.era?.split(",").filter(Boolean) ?? [];
 
   return (
     <div className="min-h-screen flex flex-col">
@@ -28,7 +34,7 @@ export default async function Home() {
       <main id="catalog" className="flex-1 w-full scroll-mt-20 relative">
         <div className="max-w-6xl mx-auto w-full px-4 sm:px-6 py-14">
           <CatalogHeading />
-          <Feed entries={entries} />
+          <Feed entries={entries} initialEras={initialEras} />
         </div>
       </main>
 

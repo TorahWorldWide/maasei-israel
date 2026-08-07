@@ -1,40 +1,58 @@
 "use client";
 
-import { useState, useMemo } from "react";
+import { useState, useMemo, useEffect, useRef } from "react";
 import type { Entry } from "@/lib/data";
 import { entryCategories } from "@/lib/data";
 import { useLang } from "@/components/LangProvider";
-import { t, categoryLabel, eraLabel } from "@/lib/i18n";
+import { t, categoryLabel } from "@/lib/i18n";
+import { eraOf, erasPresent, eraDisplay } from "@/lib/era";
 import EntryCard from "./EntryCard";
 import Slideshow from "./Slideshow";
 
 const CATEGORIES = ["הכל", "חסד", "המצאה מדעית", "תרומה לעולם", "היסטורי"] as const;
-const ERAS = ["הכל", "עתיק", "טרום המדינה", "המאה ה-20", "עכשווי"] as const;
-
-function getEra(year: number | null): string {
-  if (!year) return "עתיק";
-  if (year < 1900) return "עתיק";
-  if (year < 1948) return "טרום המדינה";
-  if (year < 2000) return "המאה ה-20";
-  return "עכשווי";
-}
 
 interface FeedProps {
   entries: Entry[];
+  // From ?era=1800-1900,2000-2100 — parsed on the server so a shared link renders
+  // already filtered instead of flashing the full catalog first.
+  initialEras?: string[];
 }
 
-export default function Feed({ entries }: FeedProps) {
+export default function Feed({ entries, initialEras = [] }: FeedProps) {
   const { lang } = useLang();
+  const allEras = useMemo(() => erasPresent(entries), [entries]);
+
   const [category, setCategory] = useState("הכל");
-  const [era, setEra] = useState("הכל");
+  const [eras, setEras] = useState<string[]>(() => {
+    const valid = new Set(erasPresent(entries).map((e) => e.key));
+    return initialEras.filter((k) => valid.has(k));
+  });
   const [search, setSearch] = useState("");
   const [slideshowIndex, setSlideshowIndex] = useState<number | null>(null);
 
-  const filtered = useMemo(() => {
+  const skipUrlWrite = useRef(true);
+
+  useEffect(() => {
+    if (skipUrlWrite.current) {
+      skipUrlWrite.current = false;
+      return;
+    }
+    const params = new URLSearchParams(window.location.search);
+    if (eras.length) params.set("era", eras.join(","));
+    else params.delete("era");
+    const qs = params.toString();
+    window.history.replaceState(null, "", qs ? `?${qs}` : window.location.pathname);
+  }, [eras]);
+
+  const toggleEra = (key: string) =>
+    setEras((prev) => (prev.includes(key) ? prev.filter((k) => k !== key) : [...prev, key]));
+
+  // Everything except the era filter — the era counters are computed off this so
+  // they stay truthful under an active category/search.
+  const beforeEra = useMemo(() => {
     return entries.filter((e) => {
       if (category !== "הכל" && !entryCategories(e).includes(category as Entry["category"]))
         return false;
-      if (era !== "הכל" && getEra(e.year) !== era) return false;
       if (search.trim()) {
         const q = search.trim().toLowerCase();
         const haystack = [e.title, e.description, e.title_en, e.description_en]
@@ -45,7 +63,21 @@ export default function Feed({ entries }: FeedProps) {
       }
       return true;
     });
-  }, [entries, category, era, search]);
+  }, [entries, category, search]);
+
+  const eraCounts = useMemo(() => {
+    const counts = new Map<string, number>();
+    for (const e of beforeEra) {
+      const era = eraOf(e.year);
+      if (era) counts.set(era.key, (counts.get(era.key) ?? 0) + 1);
+    }
+    return counts;
+  }, [beforeEra]);
+
+  const filtered = useMemo(() => {
+    if (!eras.length) return beforeEra;
+    return beforeEra.filter((e) => eras.includes(eraOf(e.year)?.key ?? ""));
+  }, [beforeEra, eras]);
 
   return (
     <>
@@ -95,22 +127,36 @@ export default function Feed({ entries }: FeedProps) {
           ))}
         </div>
 
-        {/* Era chips */}
-        <div className="flex flex-wrap gap-2" role="group" aria-label={t(lang, "filterByEra")}>
-          {ERAS.map((e) => (
+        {/* Era chips — multi-select, union across the chosen centuries */}
+        <div className="flex flex-wrap items-center gap-2" role="group" aria-label={t(lang, "filterByEra")}>
+          {allEras.map((era) => {
+            const on = eras.includes(era.key);
+            return (
+              <button
+                key={era.key}
+                onClick={() => toggleEra(era.key)}
+                className={`px-3 py-1 rounded-full text-xs font-medium border transition-all duration-150 ${
+                  on
+                    ? "bg-sky-500/90 text-white border-sky-400"
+                    : "bg-[#0f234d]/50 text-blue-200/60 border-[rgba(201,168,74,0.15)] hover:border-sky-400/50 hover:text-sky-200"
+                }`}
+                aria-pressed={on}
+              >
+                <span dir="ltr">{eraDisplay(era)}</span>
+                <span className={`ms-1.5 ${on ? "text-white/70" : "text-blue-200/40"}`}>
+                  · {eraCounts.get(era.key) ?? 0}
+                </span>
+              </button>
+            );
+          })}
+          {eras.length > 0 && (
             <button
-              key={e}
-              onClick={() => setEra(e)}
-              className={`px-3 py-1 rounded-full text-xs font-medium border transition-all duration-150 ${
-                era === e
-                  ? "bg-sky-500/90 text-white border-sky-400"
-                  : "bg-[#0f234d]/50 text-blue-200/60 border-[rgba(201,168,74,0.15)] hover:border-sky-400/50 hover:text-sky-200"
-              }`}
-              aria-pressed={era === e}
+              onClick={() => setEras([])}
+              className="text-xs text-[#e6c66e] hover:text-[#f0d585] underline underline-offset-2"
             >
-              {eraLabel(lang, e)}
+              {t(lang, "clearFilter")}
             </button>
-          ))}
+          )}
         </div>
       </div>
 
@@ -128,7 +174,7 @@ export default function Feed({ entries }: FeedProps) {
           <button
             onClick={() => {
               setCategory("הכל");
-              setEra("הכל");
+              setEras([]);
               setSearch("");
             }}
             className="mt-3 text-[#e6c66e] hover:text-[#f0d585] text-sm underline"
@@ -143,6 +189,7 @@ export default function Feed({ entries }: FeedProps) {
               key={entry.id}
               entry={entry}
               onClick={() => setSlideshowIndex(i)}
+              onEraClick={(key) => setEras([key])}
             />
           ))}
         </div>

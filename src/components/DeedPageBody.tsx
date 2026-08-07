@@ -9,9 +9,11 @@ import DeedImageCollage from "@/components/DeedImageCollage";
 import type { Entry } from "@/lib/data";
 import { entryCategories } from "@/lib/data";
 import { ytId as extractYouTubeId } from "@/lib/youtube";
+import { eraOf, eraDisplay } from "@/lib/era";
 
 export default function DeedPageBody({ entry }: { entry: Entry }) {
   const { lang } = useLang();
+  const era = eraOf(entry.year);
 
   // Video entries: media_urls may hold a MIX of extra YouTube videos and still
   // images. Split by whether a YouTube id can be extracted — anything that is
@@ -72,6 +74,15 @@ export default function DeedPageBody({ entry }: { entry: Entry }) {
           ))}
           {entry.year && (
             <span className="text-xs text-blue-200/45">{entry.year}</span>
+          )}
+          {era && (
+            <Link
+              href={`/?era=${era.key}`}
+              dir="ltr"
+              className="text-[11px] text-blue-200/30 hover:text-sky-200 transition-colors"
+            >
+              {eraDisplay(era)}
+            </Link>
           )}
         </div>
 

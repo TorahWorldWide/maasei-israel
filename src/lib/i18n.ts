@@ -206,27 +206,8 @@ export function categoryLabel(lang: Lang, cat: string): string {
   return CATEGORY_LABELS[lang][cat] ?? cat;
 }
 
-// Era labels (the canonical Hebrew era buckets computed from `year`).
-export const ERA_LABELS: Record<Lang, Record<string, string>> = {
-  he: {
-    הכל: "הכל",
-    עתיק: "עתיק",
-    "טרום המדינה": "טרום המדינה",
-    "המאה ה-20": "המאה ה-20",
-    עכשווי: "עכשווי",
-  },
-  en: {
-    הכל: "All",
-    עתיק: "Ancient",
-    "טרום המדינה": "Pre-State",
-    "המאה ה-20": "20th Century",
-    עכשווי: "Contemporary",
-  },
-};
-
-export function eraLabel(lang: Lang, era: string): string {
-  return ERA_LABELS[lang][era] ?? era;
-}
+// Eras are numeric century ranges (see @/lib/era) — identical in he/en, so they
+// need no label table.
 
 // Overview panel stat labels.
 export const OVERVIEW_STAT_LABELS: Record<Lang, Record<string, string>> = {

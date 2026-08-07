@@ -5,6 +5,7 @@ import type { Entry } from "@/lib/data";
 import { entryCategories } from "@/lib/data";
 import { useLang } from "@/components/LangProvider";
 import { t, pick, categoryLabel } from "@/lib/i18n";
+import { eraOf, eraDisplay } from "@/lib/era";
 import ShareProof from "@/components/ShareProof";
 
 function normalizeVideoUrl(url: string): string {
@@ -43,11 +44,13 @@ function StarPlaceholder({ label }: { label: string }) {
 interface EntryCardProps {
   entry: Entry;
   onClick?: () => void;
+  onEraClick?: (eraKey: string) => void;
 }
 
-export default function EntryCard({ entry, onClick }: EntryCardProps) {
+export default function EntryCard({ entry, onClick, onEraClick }: EntryCardProps) {
   const { lang } = useLang();
   const cats = entryCategories(entry);
+  const era = eraOf(entry.year);
   const embedUrl =
     entry.media_type === "video_embed" && entry.media_url
       ? normalizeVideoUrl(entry.media_url)
@@ -107,6 +110,23 @@ export default function EntryCard({ entry, onClick }: EntryCardProps) {
           {entry.year && (
             <span className="text-xs text-blue-200/45">{entry.year}</span>
           )}
+          {era &&
+            (onEraClick ? (
+              <button
+                dir="ltr"
+                onClick={(e) => {
+                  e.stopPropagation();
+                  onEraClick(era.key);
+                }}
+                className="text-[11px] text-blue-200/30 hover:text-sky-200 transition-colors"
+              >
+                {eraDisplay(era)}
+              </button>
+            ) : (
+              <span dir="ltr" className="text-[11px] text-blue-200/30">
+                {eraDisplay(era)}
+              </span>
+            ))}
         </div>
 
         <Link

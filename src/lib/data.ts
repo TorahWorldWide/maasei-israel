@@ -57,6 +57,10 @@ export interface Entry {
   act_en?: string;
   ripple_en?: string;
   source_label_en?: string;
+  // Normalized identity signals for duplicate detection (people + keywords),
+  // mirroring deed_registry. No DB column yet — always undefined until the
+  // `dedup` jsonb column is added; src/lib/dedup.ts degrades gracefully.
+  dedup?: { people?: string[]; keywords?: string[] };
   status: Status;
   created_at: string;
 }

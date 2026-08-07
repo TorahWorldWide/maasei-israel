@@ -57,6 +57,9 @@ type Strings = {
   // video fallback (embedding disabled by the owner)
   videoUnavailable: string;
   watchOnYoutube: string;
+  // deed media gallery (video carousel + image collage)
+  galleryLabel: string;
+  ariaOpenImage: string;
 };
 
 const dict: Record<Lang, Strings> = {
@@ -108,6 +111,8 @@ const dict: Record<Lang, Strings> = {
     overviewKicker: "התמונה הגדולה",
     videoUnavailable: "הסרטון הזה מוגבל לצפייה ביוטיוב בלבד",
     watchOnYoutube: "צפייה ביוטיוב",
+    galleryLabel: "גלריית תמונות",
+    ariaOpenImage: "פתיחת תמונה בגודל מלא",
   },
   en: {
     siteTitle: "Maasei Israel",
@@ -158,6 +163,8 @@ const dict: Record<Lang, Strings> = {
     overviewKicker: "The Big Picture",
     videoUnavailable: "This video can only be watched on YouTube",
     watchOnYoutube: "Watch on YouTube",
+    galleryLabel: "Image gallery",
+    ariaOpenImage: "Open image full size",
   },
 };
 

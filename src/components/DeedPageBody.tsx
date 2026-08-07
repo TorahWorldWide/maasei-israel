@@ -4,7 +4,8 @@ import Link from "next/link";
 import { useLang } from "@/components/LangProvider";
 import { t, pick, categoryLabel } from "@/lib/i18n";
 import ShareProof from "@/components/ShareProof";
-import DeedVideo from "@/components/DeedVideo";
+import DeedVideoCarousel, { type CarouselVideo } from "@/components/DeedVideoCarousel";
+import DeedImageCollage from "@/components/DeedImageCollage";
 import type { Entry } from "@/lib/data";
 import { entryCategories } from "@/lib/data";
 import { ytId as extractYouTubeId } from "@/lib/youtube";
@@ -12,10 +13,33 @@ import { ytId as extractYouTubeId } from "@/lib/youtube";
 export default function DeedPageBody({ entry }: { entry: Entry }) {
   const { lang } = useLang();
 
-  const ytId =
-    entry.media_type === "video_embed" && entry.media_url
-      ? extractYouTubeId(entry.media_url)
-      : null;
+  // Video entries: media_urls may hold a MIX of extra YouTube videos and still
+  // images. Split by whether a YouTube id can be extracted — anything that is
+  // not a YouTube url is treated as an image for the collage.
+  // The video list is the master media_url (always first) plus every YouTube
+  // url from media_urls, deduplicated by video id.
+  const videos: CarouselVideo[] = [];
+  const extraImages: string[] = [];
+  if (entry.media_type === "video_embed") {
+    const seen = new Set<string>();
+    const masterId = entry.media_url ? extractYouTubeId(entry.media_url) : null;
+    if (masterId) {
+      seen.add(masterId);
+      videos.push({ id: masterId, watchUrl: entry.media_url });
+    }
+    for (const url of entry.media_urls ?? []) {
+      if (!url) continue;
+      const id = extractYouTubeId(url);
+      if (id) {
+        if (!seen.has(id)) {
+          seen.add(id);
+          videos.push({ id, watchUrl: url });
+        }
+      } else {
+        extraImages.push(url);
+      }
+    }
+  }
 
   // Image entries: prefer the multi-image gallery, fall back to the single url.
   const images =
@@ -59,12 +83,19 @@ export default function DeedPageBody({ entry }: { entry: Entry }) {
           {pick(lang, entry.title, entry.title_en)}
         </h1>
 
-        {/* Video — with a graceful fallback when embedding is disabled */}
-        {ytId && <DeedVideo videoId={ytId} watchUrl={entry.media_url} />}
+        {/* Video(s) — single player, or a carousel with arrows + counter when
+            media_urls holds more videos. Graceful fallback when embedding is
+            disabled is handled inside DeedVideo. */}
+        {videos.length > 0 && <DeedVideoCarousel videos={videos} />}
+
+        {/* Still images attached to a video entry — collage under the player. */}
+        {extraImages.length > 0 && (
+          <DeedImageCollage images={extraImages} title={entry.title} />
+        )}
 
         {/* Image(s) — shown when there is no video. One image fills the frame;
             several render as a responsive gallery. */}
-        {!ytId && images.length > 0 && (
+        {images.length > 0 && (
           <div
             className={
               images.length === 1

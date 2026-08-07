@@ -2,6 +2,9 @@
 
 import Link from "next/link";
 import type { Entry } from "@/lib/data";
+import { entryCategories } from "@/lib/data";
+import { useLang } from "@/components/LangProvider";
+import { t, pick, categoryLabel } from "@/lib/i18n";
 import ShareProof from "@/components/ShareProof";
 
 function normalizeVideoUrl(url: string): string {
@@ -19,7 +22,7 @@ const CATEGORY_COLORS: Record<string, string> = {
   היסטורי: "bg-amber-400/15 text-amber-200 border border-amber-400/25",
 };
 
-function StarPlaceholder({ category }: { category: string }) {
+function StarPlaceholder({ label }: { label: string }) {
   return (
     <div className="relative flex items-center justify-center w-full h-full bg-gradient-to-br from-[#0f234d] to-[#0a1834] overflow-hidden">
       <svg
@@ -31,7 +34,7 @@ function StarPlaceholder({ category }: { category: string }) {
         <polygon points="50,95 95,15 5,15" fill="none" stroke="#c9a84a" strokeWidth="2" />
       </svg>
       <span className="relative z-10 text-[#e6c66e] text-sm font-medium px-3 py-1 rounded-full bg-[#c9a84a]/10 border border-[#c9a84a]/20">
-        {category}
+        {label}
       </span>
     </div>
   );
@@ -43,6 +46,8 @@ interface EntryCardProps {
 }
 
 export default function EntryCard({ entry, onClick }: EntryCardProps) {
+  const { lang } = useLang();
+  const cats = entryCategories(entry);
   const embedUrl =
     entry.media_type === "video_embed" && entry.media_url
       ? normalizeVideoUrl(entry.media_url)
@@ -82,20 +87,23 @@ export default function EntryCard({ entry, onClick }: EntryCardProps) {
             loading="lazy"
           />
         ) : (
-          <StarPlaceholder category={entry.category} />
+          <StarPlaceholder label={categoryLabel(lang, cats[0])} />
         )}
       </div>
 
       {/* Content */}
       <div className="flex flex-col flex-1 p-5 gap-3">
         <div className="flex items-center gap-2 flex-wrap">
-          <span
-            className={`text-xs font-medium px-2.5 py-0.5 rounded-full ${
-              CATEGORY_COLORS[entry.category] ?? "bg-white/10 text-blue-100 border border-white/15"
-            }`}
-          >
-            {entry.category}
-          </span>
+          {cats.map((cat) => (
+            <span
+              key={cat}
+              className={`text-xs font-medium px-2.5 py-0.5 rounded-full ${
+                CATEGORY_COLORS[cat] ?? "bg-white/10 text-blue-100 border border-white/15"
+              }`}
+            >
+              {categoryLabel(lang, cat)}
+            </span>
+          ))}
           {entry.year && (
             <span className="text-xs text-blue-200/45">{entry.year}</span>
           )}
@@ -107,12 +115,12 @@ export default function EntryCard({ entry, onClick }: EntryCardProps) {
           className="hover:text-[#e6c66e] transition-colors"
         >
           <h3 className="text-lg font-bold text-white leading-snug line-clamp-2" style={{ fontFamily: "var(--font-frank-ruhl), serif" }}>
-            {entry.title}
+            {pick(lang, entry.title, entry.title_en)}
           </h3>
         </Link>
 
         <p className="text-sm text-blue-100/70 leading-relaxed line-clamp-3 flex-1">
-          {entry.description}
+          {pick(lang, entry.description, entry.description_en)}
         </p>
 
         {entry.citations && entry.citations.length > 0 && (
@@ -120,7 +128,9 @@ export default function EntryCard({ entry, onClick }: EntryCardProps) {
             <svg className="w-3.5 h-3.5 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
             </svg>
-            {entry.citations.length === 1 ? "מגובה במקור מאומת" : `${entry.citations.length} מקורות מאומתים`}
+            {entry.citations.length === 1
+              ? t(lang, "backedBySingle")
+              : `${entry.citations.length} ${t(lang, "sourcesVerified")}`}
           </div>
         )}
 
@@ -152,7 +162,7 @@ export default function EntryCard({ entry, onClick }: EntryCardProps) {
               d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"
             />
           </svg>
-          מקור: {entry.source_label || entry.source_url}
+          {t(lang, "source")}: {pick(lang, entry.source_label, entry.source_label_en) || entry.source_url}
         </a>
       </div>
     </div>

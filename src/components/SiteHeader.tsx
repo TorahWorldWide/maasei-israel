@@ -30,7 +30,7 @@ export default function SiteHeader() {
             className="text-xl font-bold tracking-tight"
             style={{ fontFamily: "var(--font-frank-ruhl), serif" }}
           >
-            מעשי ישראל
+            {t(lang, "siteTitle")}
           </span>
         </Link>
         <nav className="flex items-center gap-3 text-sm">

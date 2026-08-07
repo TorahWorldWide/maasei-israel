@@ -2,11 +2,20 @@
 
 import { useState } from "react";
 import { useLang } from "@/components/LangProvider";
-import { t } from "@/lib/i18n";
+import { t, pick } from "@/lib/i18n";
 import type { Entry } from "@/lib/data";
 
 interface Props {
-  entry: Pick<Entry, "id" | "title" | "source_url" | "source_label" | "citations">;
+  entry: Pick<
+    Entry,
+    | "id"
+    | "title"
+    | "title_en"
+    | "source_url"
+    | "source_label"
+    | "source_label_en"
+    | "citations"
+  >;
   size?: "sm" | "md";
 }
 
@@ -14,12 +23,15 @@ export default function ShareProof({ entry, size = "md" }: Props) {
   const { lang } = useLang();
   const [copied, setCopied] = useState(false);
 
-  const firstQuote = entry.citations?.[0]?.quote ?? "";
+  const firstCitation = entry.citations?.[0];
+  const firstQuote = firstCitation
+    ? pick(lang, firstCitation.quote, firstCitation.quote_en)
+    : "";
   const text = [
-    entry.title,
+    pick(lang, entry.title, entry.title_en),
     firstQuote ? `"${firstQuote}"` : "",
-    `${t(lang, "source")}: ${entry.source_label} ${entry.source_url}`,
-    `עוד מעשים: https://maasei-israel.vercel.app/deed/${entry.id}`,
+    `${t(lang, "source")}: ${pick(lang, entry.source_label, entry.source_label_en)} ${entry.source_url}`,
+    `${t(lang, "shareMore")}: https://maasei-israel.vercel.app/deed/${entry.id}`,
   ]
     .filter(Boolean)
     .join("\n");

@@ -2,12 +2,12 @@
 
 import { useState, useRef, useEffect, useMemo, useCallback } from "react";
 import type { Entry } from "@/lib/data";
+import { entryCategories } from "@/lib/data";
+import { useLang } from "@/components/LangProvider";
+import { t, pick, categoryLabel } from "@/lib/i18n";
+import type { Lang } from "@/lib/i18n";
+import { ytId, loadYouTubeApi, YT_UNPLAYABLE_ERRORS } from "@/lib/youtube";
 import Slideshow from "./Slideshow";
-
-function ytId(url: string): string | null {
-  const m = url.match(/(?:youtube\.com\/watch\?v=|youtu\.be\/|youtube\.com\/embed\/)([a-zA-Z0-9_-]{11})/);
-  return m ? m[1] : null;
-}
 
 interface TheaterProps {
   entries: Entry[];
@@ -15,46 +15,21 @@ interface TheaterProps {
 
 // Four moods — totally different feels. Mood 1 is the default (the one Tomer liked).
 const MOODS = [
-  { num: 1, label: "מרגש", file: "/audio/inspire.mp3" },
-  { num: 2, label: "השראה", file: "/audio/uplift.mp3" },
-  { num: 3, label: "רוגע", file: "/audio/calm.mp3" },
-  { num: 4, label: "עוצמתי", file: "/audio/epic.mp3" },
+  { num: 1, key: "mood1" as const, file: "/audio/inspire.mp3" },
+  { num: 2, key: "mood2" as const, file: "/audio/uplift.mp3" },
+  { num: 3, key: "mood3" as const, file: "/audio/calm.mp3" },
+  { num: 4, key: "mood4" as const, file: "/audio/epic.mp3" },
 ];
+
+function moodLabel(lang: Lang, i: number): string {
+  return t(lang, MOODS[i].key);
+}
 
 const GOLD = "#c9a84a";
 const GOLD_BRIGHT = "#e6c66e";
 
-// Load the YouTube IFrame API once, shared across the app.
-let ytApiPromise: Promise<void> | null = null;
-function loadYouTubeApi(): Promise<void> {
-  if (typeof window === "undefined") return Promise.resolve();
-  if (ytApiPromise) return ytApiPromise;
-  ytApiPromise = new Promise<void>((resolve) => {
-    interface YTWindow {
-      YT?: { Player: unknown };
-      onYouTubeIframeAPIReady?: () => void;
-    }
-    const w = window as unknown as YTWindow;
-    if (w.YT && w.YT.Player) {
-      resolve();
-      return;
-    }
-    const prev = w.onYouTubeIframeAPIReady;
-    w.onYouTubeIframeAPIReady = () => {
-      if (prev) prev();
-      resolve();
-    };
-    if (!document.getElementById("yt-iframe-api")) {
-      const tag = document.createElement("script");
-      tag.id = "yt-iframe-api";
-      tag.src = "https://www.youtube.com/iframe_api";
-      document.head.appendChild(tag);
-    }
-  });
-  return ytApiPromise;
-}
-
 export default function Theater({ entries }: TheaterProps) {
+  const { lang } = useLang();
   // Featured = anything with playable video; fall back to any media; then all.
   const featured = useMemo(() => {
     const vids = entries.filter(
@@ -68,6 +43,9 @@ export default function Theater({ entries }: TheaterProps) {
   }, [entries]);
 
   const [idx, setIdx] = useState(0);
+  // Video ids that failed to embed (owner-disabled / removed) — we swap in a
+  // "watch on YouTube" fallback and skip past them so the stage keeps flowing.
+  const [blocked, setBlocked] = useState<Record<string, true>>({});
   const [musicOn, setMusicOn] = useState(false);
   const [trackIdx, setTrackIdx] = useState(0);
   const [pickerHover, setPickerHover] = useState(false);
@@ -100,6 +78,7 @@ export default function Theater({ entries }: TheaterProps) {
 
   const currentYtId =
     current && current.media_type === "video_embed" ? ytId(current.media_url || "") : null;
+  const isBlocked = !!(currentYtId && blocked[currentYtId]);
 
   // YouTube embeds: build a real Player so we know when the video ENDS, and only
   // then advance. No timer — videos play to their natural end. Manual arrows/dots
@@ -145,6 +124,12 @@ export default function Theater({ entries }: TheaterProps) {
             // 0 === YT.PlayerState.ENDED → advance to the next video
             if (e.data === 0) goRef.current(1);
           },
+          onError: (e: { data: number }) => {
+            // Owner disabled embedding / video removed → show fallback + skip.
+            if (YT_UNPLAYABLE_ERRORS.has(e.data) && currentYtId) {
+              setBlocked((prev) => (prev[currentYtId] ? prev : { ...prev, [currentYtId]: true }));
+            }
+          },
         },
       });
     });
@@ -170,6 +155,14 @@ export default function Theater({ entries }: TheaterProps) {
     window.addEventListener("keydown", onKey);
     return () => window.removeEventListener("keydown", onKey);
   }, [go, modalOpen]);
+
+  // A blocked (un-embeddable) video can't play — after a short beat, move on so
+  // the stage never gets stuck. Only when there's somewhere else to go.
+  useEffect(() => {
+    if (!isBlocked || featured.length <= 1 || modalOpen) return;
+    const tid = setTimeout(() => goRef.current(1), 6500);
+    return () => clearTimeout(tid);
+  }, [isBlocked, featured.length, modalOpen, current?.id]);
 
   const fadeTo = useCallback((target: number) => {
     const a = audioRef.current;
@@ -243,6 +236,10 @@ export default function Theater({ entries }: TheaterProps) {
   // Show the 4 mood buttons whenever playing, or while hovering the control (desktop).
   const showPicker = musicOn || pickerHover;
 
+  // Poetic two-part split shown in the rails flanking the screen (desktop only).
+  const spark = pick(lang, current.act, current.act_en);
+  const light = pick(lang, current.ripple, current.ripple_en);
+
   return (
     <section className="stage relative overflow-hidden">
       {/* stage lighting — dimmed house */}
@@ -252,23 +249,40 @@ export default function Theater({ entries }: TheaterProps) {
       <div className="stage-vignette" aria-hidden="true" />
 
       <div className="relative z-10 mx-auto px-0 sm:px-6 pt-6 sm:pt-8 md:pt-9 pb-10">
-        {/* THE STAGE — title crowns it, the screen is the show, story sits below */}
-        <div className="relative mx-auto" style={{ maxWidth: "min(100vw, 1240px)" }}>
+        {/* THE STAGE — title crowns it, the screen is the show, story sits below.
+            On wide desktops the poetic spark/light flank the screen in the margins. */}
+        <div className="mx-auto xl:grid xl:items-center xl:gap-8 xl:max-w-[1640px] xl:[grid-template-columns:minmax(0,1fr)_auto_minmax(0,1fr)]">
+          {/* SPARK — reading-start side; flips automatically with dir (rtl/ltr) */}
+          <aside key={`spark-${current.id}`} className="hidden xl:block justify-self-end max-w-[17rem] panel-rise" style={{ textAlign: "end" }}>
+            {spark && (
+              <div className="pe-6" style={{ borderInlineEnd: "1px solid rgba(201,168,74,0.22)" }}>
+                <p className="text-[11px] tracking-[0.14em] uppercase mb-2.5" style={{ color: GOLD }}>
+                  {t(lang, "actLabel")}
+                </p>
+                <p className="text-[13.5px] leading-relaxed text-blue-100/70">{spark}</p>
+              </div>
+            )}
+          </aside>
+
+        <div className="relative mx-auto" style={{ maxWidth: "min(100vw, 1240px, calc((100vh - 20rem) * 16 / 9))" }}>
           {/* TITLE — crowning the screen */}
           <div key={`ttl-${current.id}`} className="panel-rise mb-4 sm:mb-5 px-4 text-center">
             <div className="flex items-center justify-center gap-x-2.5 gap-y-1 flex-wrap">
-              <span
-                className="text-[11px] px-2.5 py-0.5 rounded-full flex-shrink-0"
-                style={{ color: GOLD_BRIGHT, background: "rgba(201,168,74,0.12)", border: "1px solid rgba(201,168,74,0.3)" }}
-              >
-                {current.category}
-              </span>
+              {entryCategories(current).map((cat) => (
+                <span
+                  key={cat}
+                  className="text-[11px] px-2.5 py-0.5 rounded-full flex-shrink-0"
+                  style={{ color: GOLD_BRIGHT, background: "rgba(201,168,74,0.12)", border: "1px solid rgba(201,168,74,0.3)" }}
+                >
+                  {categoryLabel(lang, cat)}
+                </span>
+              ))}
               <h2
                 className="text-lg md:text-3xl font-bold leading-tight"
                 style={{ fontFamily: "var(--font-frank-ruhl), serif", color: GOLD_BRIGHT }}
-                title={current.title}
+                title={pick(lang, current.title, current.title_en)}
               >
-                {current.title}
+                {pick(lang, current.title, current.title_en)}
               </h2>
               {current.year && <span className="text-blue-300/55 text-xs flex-shrink-0">{current.year}</span>}
             </div>
@@ -280,7 +294,7 @@ export default function Theater({ entries }: TheaterProps) {
               <>
                 <button
                   onClick={() => go(1)}
-                  aria-label="הקודם"
+                  aria-label={t(lang, "ariaPrev")}
                   className="absolute z-30 right-1 sm:right-2 md:-right-6 top-1/2 -translate-y-1/2 rounded-full p-3 md:p-4 backdrop-blur-sm transition-all hover:scale-110"
                   style={{ background: "rgba(201,168,74,0.16)", color: GOLD_BRIGHT, border: "1px solid rgba(201,168,74,0.4)" }}
                 >
@@ -290,7 +304,7 @@ export default function Theater({ entries }: TheaterProps) {
                 </button>
                 <button
                   onClick={() => go(-1)}
-                  aria-label="הבא"
+                  aria-label={t(lang, "ariaNext")}
                   className="absolute z-30 left-1 sm:left-2 md:-left-6 top-1/2 -translate-y-1/2 rounded-full p-3 md:p-4 backdrop-blur-sm transition-all hover:scale-110"
                   style={{ background: "rgba(201,168,74,0.16)", color: GOLD_BRIGHT, border: "1px solid rgba(201,168,74,0.4)" }}
                 >
@@ -319,7 +333,7 @@ export default function Theater({ entries }: TheaterProps) {
                 />
               ) : current.media_url && current.media_type === "image" ? (
                 // eslint-disable-next-line @next/next/no-img-element
-                <img src={current.media_url} alt={current.title} className="absolute inset-0 w-full h-full object-cover" />
+                <img src={current.media_url} alt={pick(lang, current.title, current.title_en)} className="absolute inset-0 w-full h-full object-cover" />
               ) : (
                 <div className="absolute inset-0 flex items-center justify-center" style={{ background: "#0f234d" }}>
                   <svg viewBox="0 0 100 100" className="w-32 h-32" style={{ opacity: 0.25 }} aria-hidden="true">
@@ -329,10 +343,31 @@ export default function Theater({ entries }: TheaterProps) {
                 </div>
               )}
 
+              {/* video can't be embedded (owner-disabled / removed) → graceful fallback */}
+              {isBlocked && (
+                <div className="absolute inset-0 z-[15] flex flex-col items-center justify-center gap-5 text-center px-6" style={{ background: "#0b1e42" }}>
+                  <svg className="w-14 h-14" viewBox="0 0 24 24" fill="none" stroke={GOLD} strokeWidth={1.4} aria-hidden="true">
+                    <rect x="2" y="5" width="20" height="14" rx="3" />
+                    <path strokeLinecap="round" strokeLinejoin="round" d="M10 9l5 3-5 3V9z" fill={GOLD} />
+                  </svg>
+                  <p className="text-sm max-w-xs" style={{ color: GOLD_BRIGHT }}>{t(lang, "videoUnavailable")}</p>
+                  <a
+                    href={current.media_url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="inline-flex items-center gap-2 px-5 py-2.5 rounded-full font-semibold text-sm transition-all hover:scale-[1.04]"
+                    style={{ background: `linear-gradient(to bottom, ${GOLD_BRIGHT}, ${GOLD})`, color: "#0a1834" }}
+                  >
+                    <svg className="w-4 h-4" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5v14l11-7z" /></svg>
+                    {t(lang, "watchOnYoutube")}
+                  </a>
+                </div>
+              )}
+
               {/* expand → depth modal (sits above the iframe so the corner stays clickable) */}
               <button
                 onClick={openModal}
-                aria-label="הרחבה — קרא עוד"
+                aria-label={t(lang, "ariaExpand")}
                 className="absolute z-20 top-3 left-3 rounded-full p-2 backdrop-blur-md transition-all hover:scale-110"
                 style={{ background: "rgba(10,24,52,0.7)", color: GOLD_BRIGHT, border: "1px solid rgba(201,168,74,0.4)" }}
               >
@@ -354,6 +389,19 @@ export default function Theater({ entries }: TheaterProps) {
           </div>
         </div>
 
+          {/* LIGHT — reading-end side */}
+          <aside key={`light-${current.id}`} className="hidden xl:block justify-self-start max-w-[17rem] panel-rise" style={{ textAlign: "start" }}>
+            {light && (
+              <div className="ps-6" style={{ borderInlineStart: "1px solid rgba(201,168,74,0.22)" }}>
+                <p className="text-[11px] tracking-[0.14em] uppercase mb-2.5" style={{ color: GOLD }}>
+                  {t(lang, "rippleLabel")}
+                </p>
+                <p className="text-[13.5px] leading-relaxed text-blue-100/70">{light}</p>
+              </div>
+            )}
+          </aside>
+        </div>
+
         {/* STORY — the full explanation, right under the screen */}
         <div
           key={`desc-${current.id}`}
@@ -361,7 +409,7 @@ export default function Theater({ entries }: TheaterProps) {
         >
           {current.description && (
             <p className="text-[15px] sm:text-base leading-relaxed text-blue-100/80">
-              {current.description}
+              {pick(lang, current.description, current.description_en)}
             </p>
           )}
 
@@ -370,7 +418,7 @@ export default function Theater({ entries }: TheaterProps) {
             className="mt-4 inline-flex items-center gap-1.5 px-4 py-1.5 rounded-full font-semibold text-sm transition-all hover:scale-[1.04]"
             style={{ background: `linear-gradient(to bottom, ${GOLD_BRIGHT}, ${GOLD})`, color: "#0a1834", boxShadow: "0 8px 22px -10px rgba(201,168,74,0.5)" }}
           >
-            מקורות והוכחות
+            {t(lang, "proofAndSources")}
             <svg className="w-3.5 h-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
             </svg>
@@ -406,10 +454,10 @@ export default function Theater({ entries }: TheaterProps) {
                       color: active ? "#0a1834" : GOLD_BRIGHT,
                       border: `1px solid ${active ? GOLD : "rgba(201,168,74,0.3)"}`,
                     }}
-                    aria-label={`מוזיקה ${m.num} — ${m.label}`}
+                    aria-label={`${t(lang, "playMusic")} ${m.num} — ${moodLabel(lang, i)}`}
                   >
                     <span className="text-base font-bold leading-none">{m.num}</span>
-                    <span className="text-[10px] mt-0.5 leading-none">{m.label}</span>
+                    <span className="text-[10px] mt-0.5 leading-none">{moodLabel(lang, i)}</span>
                   </button>
                 );
               })}
@@ -431,14 +479,14 @@ export default function Theater({ entries }: TheaterProps) {
                     <span className="w-1 rounded-full animate-pulse" style={{ height: "100%", background: "#0a1834", animationDelay: "0.15s" }} />
                     <span className="w-1 rounded-full animate-pulse" style={{ height: "40%", background: "#0a1834", animationDelay: "0.3s" }} />
                   </span>
-                  מתנגן · {MOODS[trackIdx].label}
+                  {t(lang, "nowPlaying")} · {moodLabel(lang, trackIdx)}
                 </>
               ) : (
                 <>
                   <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
                     <path d="M8 5v14l11-7z" />
                   </svg>
-                  נגן מוזיקה מרגשת
+                  {t(lang, "playMusic")}
                 </>
               )}
             </button>
@@ -448,7 +496,7 @@ export default function Theater({ entries }: TheaterProps) {
         {/* scroll hint — minimal */}
         <div className="mt-6 text-center">
           <a href="#catalog" className="inline-flex flex-col items-center transition-colors" style={{ color: "rgba(201,168,74,0.6)" }}>
-            <span className="text-xs mb-0.5">כל המעשים</span>
+            <span className="text-xs mb-0.5">{t(lang, "allDeeds")}</span>
             <svg className="w-5 h-5 animate-bounce" fill="none" viewBox="0 0 24 24" stroke="currentColor">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 14l-7 7m0 0l-7-7m7 7V3" />
             </svg>

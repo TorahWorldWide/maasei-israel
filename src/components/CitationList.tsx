@@ -1,6 +1,8 @@
 "use client";
 
 import type { Citation } from "@/lib/data";
+import { useLang } from "@/components/LangProvider";
+import { t, pick } from "@/lib/i18n";
 
 /**
  * Build a URL that jumps to the EXACT spot in the source.
@@ -43,6 +45,7 @@ interface CitationListProps {
 }
 
 export default function CitationList({ citations }: CitationListProps) {
+  const { lang } = useLang();
   if (!citations || citations.length === 0) return null;
 
   return (
@@ -52,7 +55,7 @@ export default function CitationList({ citations }: CitationListProps) {
           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
         </svg>
         <h4 className="text-sm font-bold" style={{ color: "#e6c66e" }}>
-          ההוכחה — מקורות מאומתים
+          {t(lang, "proofHeading")}
         </h4>
       </div>
 
@@ -68,9 +71,9 @@ export default function CitationList({ citations }: CitationListProps) {
                 background: "rgba(10,24,52,0.6)",
                 borderColor: "rgba(201,168,74,0.25)",
               }}
-              title="לחצו כדי לקפוץ למקום המדויק במקור"
+              title={t(lang, "jumpTitle")}
             >
-              {/* the verbatim quote */}
+              {/* the verbatim quote (kept in its original language — it's the proof) */}
               <blockquote
                 className="text-sm leading-relaxed border-r-2 pr-3"
                 style={{ color: "#eaf1ff", borderColor: "#c9a84a" }}
@@ -78,14 +81,21 @@ export default function CitationList({ citations }: CitationListProps) {
                 &ldquo;{c.quote}&rdquo;
               </blockquote>
 
+              {/* English translation of a Hebrew quote, shown beneath the original */}
+              {lang === "en" && c.quote_en ? (
+                <p className="text-xs leading-relaxed text-blue-200/70 mt-1.5 pr-3 italic">
+                  &ldquo;{c.quote_en}&rdquo;
+                </p>
+              ) : null}
+
               {/* attribution + jump hint */}
               <div className="mt-2.5 flex items-center justify-between gap-2 flex-wrap">
                 <span className="text-xs font-medium" style={{ color: "#e6c66e" }}>
-                  — {c.source_label}
-                  {c.locator ? ` · עמ׳ ${c.locator}` : ""}
+                  — {pick(lang, c.source_label, c.source_label_en)}
+                  {c.locator ? ` · ${t(lang, "pageAbbr")} ${c.locator}` : ""}
                 </span>
                 <span className="inline-flex items-center gap-1 text-[11px] text-blue-200/60 group-hover:text-blue-100 transition-colors">
-                  קפוץ למקור
+                  {t(lang, "jumpToSource")}
                   <svg className="w-3 h-3" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
                   </svg>

@@ -1,4 +1,8 @@
+"use client";
+
 import type { Overview } from "@/lib/data";
+import { useLang } from "@/components/LangProvider";
+import { t, pick, OVERVIEW_STAT_LABELS } from "@/lib/i18n";
 
 /**
  * The historian's "state of the nation" panel. Shows the big-picture headline,
@@ -6,26 +10,20 @@ import type { Overview } from "@/lib/data";
  * Renders nothing until the historian has written a revision.
  */
 export default function OverviewPanel({ overview }: { overview: Overview }) {
+  const { lang } = useLang();
   const stats = overview.stats || {};
   const statEntries = Object.entries(stats).filter(
     ([, v]) => v !== null && v !== undefined && String(v).length > 0
   );
 
-  // Friendly Hebrew labels for known stat keys.
-  const LABELS: Record<string, string> = {
-    entries: "מעשים מתועדים",
-    documented_lives_helped: "נפשות שנעזרו (מתועד)",
-    countries_reached: "מדינות",
-    year_min: "מהשנה",
-    year_max: "עד השנה",
-  };
+  const labels = OVERVIEW_STAT_LABELS[lang];
 
   return (
     <section className="relative w-full" style={{ background: "linear-gradient(to bottom, #0a1834, #081026)" }}>
       <div className="max-w-4xl mx-auto px-4 sm:px-6 py-14 text-center">
         <div className="gold-rule max-w-[140px] mx-auto mb-5" />
         <p className="text-[11px] font-medium uppercase tracking-[0.3em] mb-3" style={{ color: "rgba(201,168,74,0.8)" }}>
-          התמונה הגדולה{overview.date_range ? ` · ${overview.date_range}` : ""}
+          {t(lang, "overviewKicker")}{overview.date_range ? ` · ${overview.date_range}` : ""}
         </p>
 
         {/* Headline */}
@@ -33,7 +31,7 @@ export default function OverviewPanel({ overview }: { overview: Overview }) {
           className="text-2xl md:text-4xl font-extrabold leading-tight text-white max-w-3xl mx-auto"
           style={{ fontFamily: "var(--font-frank-ruhl), serif" }}
         >
-          {overview.headline}
+          {pick(lang, overview.headline, overview.headline_en)}
         </h2>
 
         {/* Stats row */}
@@ -45,7 +43,7 @@ export default function OverviewPanel({ overview }: { overview: Overview }) {
                   {String(v)}
                 </span>
                 <span className="text-[11px] md:text-xs text-blue-200/60 mt-1">
-                  {LABELS[k] || k}
+                  {labels[k] || k}
                 </span>
               </div>
             ))}
@@ -54,8 +52,12 @@ export default function OverviewPanel({ overview }: { overview: Overview }) {
 
         {/* Narrative */}
         {overview.narrative && (
-          <div className="mt-8 text-blue-100/75 text-sm md:text-base leading-relaxed max-w-2xl mx-auto whitespace-pre-line text-right">
-            {overview.narrative}
+          <div
+            className={`mt-8 text-blue-100/75 text-sm md:text-base leading-relaxed max-w-2xl mx-auto whitespace-pre-line ${
+              lang === "he" ? "text-right" : "text-left"
+            }`}
+          >
+            {pick(lang, overview.narrative, overview.narrative_en)}
           </div>
         )}
 

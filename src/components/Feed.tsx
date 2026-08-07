@@ -2,6 +2,9 @@
 
 import { useState, useMemo } from "react";
 import type { Entry } from "@/lib/data";
+import { entryCategories } from "@/lib/data";
+import { useLang } from "@/components/LangProvider";
+import { t, categoryLabel, eraLabel } from "@/lib/i18n";
 import EntryCard from "./EntryCard";
 import Slideshow from "./Slideshow";
 
@@ -21,6 +24,7 @@ interface FeedProps {
 }
 
 export default function Feed({ entries }: FeedProps) {
+  const { lang } = useLang();
   const [category, setCategory] = useState("הכל");
   const [era, setEra] = useState("הכל");
   const [search, setSearch] = useState("");
@@ -28,15 +32,16 @@ export default function Feed({ entries }: FeedProps) {
 
   const filtered = useMemo(() => {
     return entries.filter((e) => {
-      if (category !== "הכל" && e.category !== category) return false;
+      if (category !== "הכל" && !entryCategories(e).includes(category as Entry["category"]))
+        return false;
       if (era !== "הכל" && getEra(e.year) !== era) return false;
       if (search.trim()) {
         const q = search.trim().toLowerCase();
-        if (
-          !e.title.toLowerCase().includes(q) &&
-          !e.description.toLowerCase().includes(q)
-        )
-          return false;
+        const haystack = [e.title, e.description, e.title_en, e.description_en]
+          .filter(Boolean)
+          .join(" ")
+          .toLowerCase();
+        if (!haystack.includes(q)) return false;
       }
       return true;
     });
@@ -50,11 +55,11 @@ export default function Feed({ entries }: FeedProps) {
         <div className="relative max-w-sm">
           <input
             type="search"
-            placeholder="חיפוש..."
+            placeholder={t(lang, "searchPlaceholder")}
             value={search}
             onChange={(e) => setSearch(e.target.value)}
             className="w-full pr-10 pl-4 py-2.5 rounded-full border border-[rgba(201,168,74,0.25)] bg-[#0f234d]/70 text-sm text-white placeholder:text-blue-200/40 focus:outline-none focus:ring-2 focus:ring-[#c9a84a]/40 focus:border-[#c9a84a]/60 transition-shadow"
-            aria-label="חיפוש פריטים"
+            aria-label={t(lang, "searchAria")}
           />
           <svg
             className="absolute right-3.5 top-1/2 -translate-y-1/2 w-4 h-4 text-blue-200/40 pointer-events-none"
@@ -73,7 +78,7 @@ export default function Feed({ entries }: FeedProps) {
         </div>
 
         {/* Category chips */}
-        <div className="flex flex-wrap gap-2" role="group" aria-label="סינון לפי קטגוריה">
+        <div className="flex flex-wrap gap-2" role="group" aria-label={t(lang, "filterByCategory")}>
           {CATEGORIES.map((cat) => (
             <button
               key={cat}
@@ -85,13 +90,13 @@ export default function Feed({ entries }: FeedProps) {
               }`}
               aria-pressed={category === cat}
             >
-              {cat}
+              {categoryLabel(lang, cat)}
             </button>
           ))}
         </div>
 
         {/* Era chips */}
-        <div className="flex flex-wrap gap-2" role="group" aria-label="סינון לפי תקופה">
+        <div className="flex flex-wrap gap-2" role="group" aria-label={t(lang, "filterByEra")}>
           {ERAS.map((e) => (
             <button
               key={e}
@@ -103,7 +108,7 @@ export default function Feed({ entries }: FeedProps) {
               }`}
               aria-pressed={era === e}
             >
-              {e}
+              {eraLabel(lang, e)}
             </button>
           ))}
         </div>
@@ -112,14 +117,14 @@ export default function Feed({ entries }: FeedProps) {
       {/* Results count */}
       {search.trim() && (
         <p className="text-sm text-blue-200/60 mb-5">
-          {filtered.length} תוצאות עבור &ldquo;{search}&rdquo;
+          {filtered.length} {t(lang, "resultsWord")} &ldquo;{search}&rdquo;
         </p>
       )}
 
       {/* Grid */}
       {filtered.length === 0 ? (
         <div className="text-center py-20 text-blue-200/40">
-          <p className="text-lg">לא נמצאו פריטים.</p>
+          <p className="text-lg">{t(lang, "noItems")}</p>
           <button
             onClick={() => {
               setCategory("הכל");
@@ -128,7 +133,7 @@ export default function Feed({ entries }: FeedProps) {
             }}
             className="mt-3 text-[#e6c66e] hover:text-[#f0d585] text-sm underline"
           >
-            נקה סינון
+            {t(lang, "clearFilter")}
           </button>
         </div>
       ) : (

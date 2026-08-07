@@ -12,6 +12,11 @@ export interface Citation {
   source_label: string; // who/what it's from (shown as the attribution)
   source_url: string; // the source document/page
   locator?: string; // optional: page number for PDFs (e.g. "12"), or a section hint
+  // English rendering. quote_en is a faithful translation shown BENEATH the
+  // original quote when the site is in English AND the original quote is Hebrew
+  // (empty when the quote is already English — we keep the verbatim original).
+  quote_en?: string;
+  source_label_en?: string;
 }
 
 export interface Entry {
@@ -19,6 +24,10 @@ export interface Entry {
   title: string;
   description: string;
   category: Category;
+  // Optional multiple tags. When present, the UI filters/badges by these;
+  // when absent it falls back to the single `category`. The first element
+  // mirrors `category` (the primary tag).
+  categories?: Category[];
   year: number | null;
   media_type: MediaType;
   media_url: string;
@@ -41,11 +50,24 @@ export interface Entry {
   // The documented reasoning behind the chosen title (for review + future automation).
   // See docs/title-methodology.md. Not shown on the public site.
   title_reasoning?: string;
+  // English translations (populated once; the UI shows them when lang === "en"
+  // and falls back to the Hebrew field when a translation is missing).
+  title_en?: string;
+  description_en?: string;
+  act_en?: string;
+  ripple_en?: string;
+  source_label_en?: string;
   status: Status;
   created_at: string;
 }
 
 export type SubmissionInput = Omit<Entry, "id" | "status" | "created_at">;
+
+// The tags to filter/badge an entry by: the explicit `categories` array when
+// present, otherwise the single `category`.
+export function entryCategories(e: Entry): Category[] {
+  return e.categories && e.categories.length ? e.categories : [e.category];
+}
 
 const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL;
 // Accept either the classic anon key name or the new publishable-key name.
@@ -206,6 +228,8 @@ export async function getEntryById(id: string): Promise<Entry | null> {
 export interface Overview {
   headline: string;
   narrative: string;
+  headline_en?: string;
+  narrative_en?: string;
   stats: Record<string, string | number>;
   date_range: string;
   revision: number;
@@ -217,7 +241,7 @@ export async function getOverview(): Promise<Overview | null> {
     const client = await getAnonClient();
     const { data, error } = await client
       .from("overview")
-      .select("headline, narrative, stats, date_range, revision")
+      .select("headline, narrative, headline_en, narrative_en, stats, date_range, revision")
       .eq("id", 1)
       .single();
     if (error) throw error;

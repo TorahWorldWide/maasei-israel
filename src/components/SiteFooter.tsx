@@ -30,7 +30,7 @@ export default function SiteFooter({ entryCount }: { entryCount?: number }) {
         </svg>
         {entryCount !== undefined && (
           <p>
-            מעשי ישראל &mdash;{" "}
+            {t(lang, "siteTitle")} &mdash;{" "}
             <span className="font-medium text-[#c9a84a]">{entryCount}</span>{" "}
             {t(lang, "documentedItems")}
           </p>

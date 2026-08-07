@@ -2,16 +2,12 @@
 
 import Link from "next/link";
 import { useLang } from "@/components/LangProvider";
-import { t } from "@/lib/i18n";
+import { t, pick, categoryLabel } from "@/lib/i18n";
 import ShareProof from "@/components/ShareProof";
+import DeedVideo from "@/components/DeedVideo";
 import type { Entry } from "@/lib/data";
-
-function extractYouTubeId(url: string): string | null {
-  const m = url.match(
-    /(?:youtube\.com\/watch\?v=|youtu\.be\/)([a-zA-Z0-9_-]+)/
-  );
-  return m?.[1] ?? null;
-}
+import { entryCategories } from "@/lib/data";
+import { ytId as extractYouTubeId } from "@/lib/youtube";
 
 export default function DeedPageBody({ entry }: { entry: Entry }) {
   const { lang } = useLang();
@@ -45,9 +41,11 @@ export default function DeedPageBody({ entry }: { entry: Entry }) {
 
         {/* Category + Year */}
         <div className="flex items-center gap-2 flex-wrap mb-4">
-          <span className="text-xs font-medium px-2.5 py-0.5 rounded-full bg-[#c9a84a]/15 text-[#e6c66e] border border-[#c9a84a]/25">
-            {entry.category}
-          </span>
+          {entryCategories(entry).map((cat) => (
+            <span key={cat} className="text-xs font-medium px-2.5 py-0.5 rounded-full bg-[#c9a84a]/15 text-[#e6c66e] border border-[#c9a84a]/25">
+              {categoryLabel(lang, cat)}
+            </span>
+          ))}
           {entry.year && (
             <span className="text-xs text-blue-200/45">{entry.year}</span>
           )}
@@ -58,21 +56,11 @@ export default function DeedPageBody({ entry }: { entry: Entry }) {
           className="text-3xl md:text-4xl font-extrabold text-[#e6c66e] leading-tight mb-6"
           style={{ fontFamily: "var(--font-frank-ruhl), serif" }}
         >
-          {entry.title}
+          {pick(lang, entry.title, entry.title_en)}
         </h1>
 
-        {/* Video */}
-        {ytId && (
-          <div className="relative w-full aspect-video rounded-xl overflow-hidden mb-8 shadow-xl shadow-black/50">
-            <iframe
-              src={`https://www.youtube-nocookie.com/embed/${ytId}`}
-              title={entry.title}
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-              allowFullScreen
-              className="absolute inset-0 w-full h-full border-0"
-            />
-          </div>
-        )}
+        {/* Video — with a graceful fallback when embedding is disabled */}
+        {ytId && <DeedVideo videoId={ytId} watchUrl={entry.media_url} />}
 
         {/* Image(s) — shown when there is no video. One image fills the frame;
             several render as a responsive gallery. */}
@@ -103,7 +91,7 @@ export default function DeedPageBody({ entry }: { entry: Entry }) {
 
         {/* Description */}
         <p className="text-base text-blue-100/80 leading-relaxed mb-8">
-          {entry.description}
+          {pick(lang, entry.description, entry.description_en)}
         </p>
 
         {/* Act / Ripple */}
@@ -114,7 +102,7 @@ export default function DeedPageBody({ entry }: { entry: Entry }) {
                 <p className="text-xs text-[#c9a84a] font-medium mb-1">
                   {t(lang, "actLabel")}
                 </p>
-                <p className="text-sm text-blue-100/80">{entry.act}</p>
+                <p className="text-sm text-blue-100/80">{pick(lang, entry.act, entry.act_en)}</p>
               </div>
             )}
             {entry.ripple && (
@@ -122,7 +110,7 @@ export default function DeedPageBody({ entry }: { entry: Entry }) {
                 <p className="text-xs text-[#c9a84a] font-medium mb-1">
                   {t(lang, "rippleLabel")}
                 </p>
-                <p className="text-sm text-blue-100/80">{entry.ripple}</p>
+                <p className="text-sm text-blue-100/80">{pick(lang, entry.ripple, entry.ripple_en)}</p>
               </div>
             )}
           </div>
@@ -143,14 +131,19 @@ export default function DeedPageBody({ entry }: { entry: Entry }) {
                   <blockquote className="text-sm text-blue-100/80 italic mb-2">
                     &ldquo;{c.quote}&rdquo;
                   </blockquote>
+                  {lang === "en" && c.quote_en ? (
+                    <blockquote className="text-xs text-blue-200/65 italic mb-2">
+                      &ldquo;{c.quote_en}&rdquo;
+                    </blockquote>
+                  ) : null}
                   <a
                     href={c.source_url}
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-xs text-[#c9a84a] hover:text-[#e6c66e] underline underline-offset-2 decoration-[#c9a84a]/40 hover:decoration-[#c9a84a] transition-colors"
                   >
-                    — {c.source_label}
-                    {c.locator && `, עמ׳ ${c.locator}`}
+                    — {pick(lang, c.source_label, c.source_label_en)}
+                    {c.locator && `, ${t(lang, "pageAbbr")} ${c.locator}`}
                   </a>
                 </li>
               ))}
@@ -166,7 +159,7 @@ export default function DeedPageBody({ entry }: { entry: Entry }) {
             rel="noopener noreferrer"
             className="text-sm text-[#c9a84a] hover:text-[#e6c66e] underline underline-offset-2 decoration-[#c9a84a]/40 hover:decoration-[#c9a84a] transition-colors"
           >
-            {t(lang, "source")}: {entry.source_label || entry.source_url}
+            {t(lang, "source")}: {pick(lang, entry.source_label, entry.source_label_en) || entry.source_url}
           </a>
           <ShareProof entry={entry} />
         </div>

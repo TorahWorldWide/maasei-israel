@@ -2,6 +2,9 @@
 
 import { useState, useEffect, useCallback, useRef } from "react";
 import type { Entry } from "@/lib/data";
+import { entryCategories } from "@/lib/data";
+import { useLang } from "@/components/LangProvider";
+import { t, pick, categoryLabel } from "@/lib/i18n";
 import CitationList from "./CitationList";
 
 function normalizeVideoUrl(url: string): string {
@@ -23,6 +26,7 @@ export default function Slideshow({
   initialIndex = 0,
   onClose,
 }: SlideshowProps) {
+  const { lang } = useLang();
   const [index, setIndex] = useState(initialIndex);
   const touchStartX = useRef<number | null>(null);
   const entry = entries[index];
@@ -71,12 +75,12 @@ export default function Slideshow({
       onTouchEnd={handleTouchEnd}
       role="dialog"
       aria-modal="true"
-      aria-label="מצגת מעשים טובים"
+      aria-label={t(lang, "slideshowLabel")}
     >
       {/* Close */}
       <button
         onClick={onClose}
-        aria-label="סגור"
+        aria-label={t(lang, "ariaClose")}
         className="fixed top-4 left-4 z-10 text-white/70 hover:text-white bg-white/10 hover:bg-white/20 rounded-full p-2.5 transition-colors"
       >
         <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -136,19 +140,21 @@ export default function Slideshow({
 
         {/* Text */}
         <div className="text-white text-center">
-          <div className="flex items-center justify-center gap-3 mb-3">
-            <span className="text-xs bg-white/20 text-white/90 px-3 py-1 rounded-full">
-              {entry.category}
-            </span>
+          <div className="flex items-center justify-center gap-3 mb-3 flex-wrap">
+            {entryCategories(entry).map((cat) => (
+              <span key={cat} className="text-xs bg-white/20 text-white/90 px-3 py-1 rounded-full">
+                {categoryLabel(lang, cat)}
+              </span>
+            ))}
             {entry.year && (
               <span className="text-white/40 text-sm">{entry.year}</span>
             )}
           </div>
           <h2 className="text-2xl md:text-3xl font-bold mb-3 leading-snug">
-            {entry.title}
+            {pick(lang, entry.title, entry.title_en)}
           </h2>
           <p className="text-white/75 text-base md:text-lg leading-relaxed max-w-2xl mx-auto">
-            {entry.description}
+            {pick(lang, entry.description, entry.description_en)}
           </p>
           <a
             href={entry.source_url}
@@ -170,7 +176,7 @@ export default function Slideshow({
                 d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"
               />
             </svg>
-            מקור: {entry.source_label || entry.source_url}
+            {t(lang, "source")}: {pick(lang, entry.source_label, entry.source_label_en) || entry.source_url}
           </a>
         </div>
 
@@ -186,7 +192,7 @@ export default function Slideshow({
       {/* Prev (RTL: right side = previous) */}
       <button
         onClick={prev}
-        aria-label="הקודם"
+        aria-label={t(lang, "ariaPrev")}
         className="absolute right-3 md:right-6 top-1/2 -translate-y-1/2 text-white/60 hover:text-white bg-white/10 hover:bg-white/20 rounded-full p-3 transition-colors"
       >
         <svg className="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -197,7 +203,7 @@ export default function Slideshow({
       {/* Next (RTL: left side = next) */}
       <button
         onClick={next}
-        aria-label="הבא"
+        aria-label={t(lang, "ariaNext")}
         className="absolute left-3 md:left-6 top-1/2 -translate-y-1/2 text-white/60 hover:text-white bg-white/10 hover:bg-white/20 rounded-full p-3 transition-colors"
       >
         <svg className="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">

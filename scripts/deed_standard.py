@@ -96,8 +96,13 @@ def evaluate(entry):
         19: filled("act", "ripple"),
         20: english_ok and hebrew_quotes_translated,
         25: bool(entry.get("categories") or entry.get("category")),
+        27: isinstance(entry.get("location"), dict) and bool(entry["location"].get("precision")),
         28: bool(entry.get("audit")),
         32: all((c.get("published") or "").strip() for c in cites) if cites else False,
+        37: bool(entry.get("people")),
+        38: bool(entry.get("deed_type")),
+        39: bool(entry.get("actor_type")),
+        40: bool(entry.get("beneficiary")),
     }
 
 
@@ -113,8 +118,13 @@ TITLES = {
     19: "חלק א׳ + חלק ב׳ מלאים",
     20: "תרגום אנגלי מלא",
     25: "קטגוריה",
+    27: "מיקום עם רמת דיוק",
     28: "עבר ביקורת מתועדת",
     32: "תאריך פרסום לכל מקור",
+    37: "שמות האנשים במעש",
+    38: "תג סוג המעשה",
+    39: "תג מי עשה",
+    40: "תג למי זה עזר",
 }
 
 

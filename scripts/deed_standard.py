@@ -89,7 +89,7 @@ def evaluate(entry):
         2: len(real_domains) >= 5,
         3: len(cites) >= len(real_domains) and len(cites) > 0,
         6: all((c.get("locator") or "").strip() for c in cites) if cites else False,
-        8: 5 <= len(images) <= 10,
+        8: len(images) >= 5,
         9: all(IMAGE_EXT.search(u) for u in images) if images else False,
         10: len(videos) <= 5,
         18: bool(entry.get("year")),
@@ -97,6 +97,7 @@ def evaluate(entry):
         20: english_ok and hebrew_quotes_translated,
         25: bool(entry.get("categories") or entry.get("category")),
         28: bool(entry.get("audit")),
+        32: all((c.get("published") or "").strip() for c in cites) if cites else False,
     }
 
 
@@ -105,7 +106,7 @@ TITLES = {
     2: "5 דומיינים עצמאיים ומעלה",
     3: "ציטוט אחד לפחות לכל מקור",
     6: "מיקום מדויק בכל ציטוט",
-    8: "5–10 תמונות",
+    8: "5 תמונות ומעלה",
     9: "כל תמונה היא קובץ ישיר",
     10: "עד 5 סרטונים",
     18: "שנה קיימת",
@@ -113,6 +114,7 @@ TITLES = {
     20: "תרגום אנגלי מלא",
     25: "קטגוריה",
     28: "עבר ביקורת מתועדת",
+    32: "תאריך פרסום לכל מקור",
 }
 
 

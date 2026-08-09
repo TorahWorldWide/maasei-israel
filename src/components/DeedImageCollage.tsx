@@ -50,8 +50,8 @@ export default function DeedImageCollage({
           visible.length === 1
             ? "mb-8"
             : many
-              ? "grid grid-cols-2 sm:grid-cols-3 auto-rows-[8rem] sm:auto-rows-[10rem] gap-3 mb-8"
-              : "grid grid-cols-2 gap-3 mb-8"
+              ? "grid grid-cols-2 sm:grid-cols-3 auto-rows-[9rem] sm:auto-rows-[12rem] lg:auto-rows-[14rem] gap-3 sm:gap-4 mb-8"
+              : "grid grid-cols-2 gap-3 sm:gap-4 mb-8"
         }
       >
         {visible.map(({ src, i }, pos) => (
@@ -81,7 +81,7 @@ export default function DeedImageCollage({
                   ? "w-full max-h-[55vh] object-cover transition-transform duration-300 group-hover:scale-[1.02]"
                   : many
                     ? "absolute inset-0 w-full h-full object-cover transition-transform duration-300 group-hover:scale-[1.03]"
-                    : "w-full h-56 object-cover transition-transform duration-300 group-hover:scale-[1.03]"
+                    : "w-full h-64 sm:h-80 object-cover transition-transform duration-300 group-hover:scale-[1.03]"
               }
             />
           </button>

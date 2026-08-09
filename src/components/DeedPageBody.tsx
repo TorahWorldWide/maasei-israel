@@ -55,7 +55,7 @@ export default function DeedPageBody({ entry }: { entry: Entry }) {
 
   return (
     <main className="flex-1 w-full">
-      <div className="max-w-3xl mx-auto px-4 sm:px-6 py-12">
+      <div className="max-w-3xl mx-auto px-4 sm:px-6 pt-12">
         {/* Back link */}
         <Link
           href="/"
@@ -98,12 +98,18 @@ export default function DeedPageBody({ entry }: { entry: Entry }) {
             media_urls holds more videos. Graceful fallback when embedding is
             disabled is handled inside DeedVideo. */}
         {videos.length > 0 && <DeedVideoCarousel videos={videos} />}
+      </div>
 
-        {/* Still images attached to a video entry — collage under the player. */}
-        {extraImages.length > 0 && (
+      {/* Still images attached to a video entry — collage under the player.
+          Lives in its own wider container so the tiles can spread beyond the
+          text column. */}
+      {extraImages.length > 0 && (
+        <div className="max-w-[1200px] mx-auto px-4 sm:px-6">
           <DeedImageCollage images={extraImages} title={entry.title} />
-        )}
+        </div>
+      )}
 
+      <div className="max-w-3xl mx-auto px-4 sm:px-6 pb-12">
         {/* Image(s) — shown when there is no video. One image fills the frame;
             several render as a responsive gallery. */}
         {images.length > 0 && (

@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Rubik, Heebo, Frank_Ruhl_Libre } from "next/font/google";
 import { LangProvider } from "@/components/LangProvider";
+import { SITE_TITLE_BILINGUAL } from "@/lib/i18n";
 import "./globals.css";
 
 const rubik = Rubik({
@@ -25,9 +26,9 @@ const frankRuhl = Frank_Ruhl_Libre({
 });
 
 export const metadata: Metadata = {
-  title: "מעשי ישראל",
+  title: SITE_TITLE_BILINGUAL,
   description:
-    "אוסף מתועד של מעשים טובים, המצאות ותרומות של עם ישראל לעולם — כל פריט עם הוכחה.",
+    "אוסף מתועד של מעשים טובים, המצאות ותרומות של עם ישראל לעולם — כל פריט עם הוכחה. · A documented collection of the good deeds, inventions and contributions of the Jewish people to the world — every entry with proof.",
 };
 
 export default function RootLayout({

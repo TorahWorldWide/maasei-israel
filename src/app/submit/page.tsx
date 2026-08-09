@@ -2,12 +2,16 @@
 
 import { useState, useRef } from "react";
 import Link from "next/link";
+import { useLang } from "@/components/LangProvider";
+import { t, apiError, categoryLabel, type Lang } from "@/lib/i18n";
 
 const CATEGORIES = ["חסד", "המצאה מדעית", "תרומה לעולם", "היסטורי"] as const;
+
+// The stored value is what the DB expects; the label is a dict key.
 const MEDIA_TYPES = [
-  { value: "image", label: "ללא מדיה / תמונה בקישור" },
-  { value: "video_embed", label: "סרטון YouTube (קישור)" },
-  { value: "video_upload", label: "העלאת וידאו/תמונה מהמחשב" },
+  { value: "image", labelKey: "mediaNone" },
+  { value: "video_embed", labelKey: "mediaYoutube" },
+  { value: "video_upload", labelKey: "mediaUpload" },
 ] as const;
 
 const ALLOWED_MIME = [
@@ -47,17 +51,30 @@ const EMPTY_FORM: FormState = {
   submitted_by: "",
 };
 
-function validate(form: FormState, uploading: boolean): Record<string, string> {
-  const errs: Record<string, string> = {};
-  if (!form.title.trim()) errs.title = "שם הפריט נדרש";
-  if (!form.description.trim()) errs.description = "תיאור נדרש";
+// Validation returns dict KEYS, not sentences — so an already-shown error
+// re-renders in the new language when the reader flips EN/עב mid-form.
+type ErrorKey =
+  | "errTitleRequired"
+  | "errDescriptionRequired"
+  | "errSourceUrlRequired"
+  | "errSourceUrlInvalid"
+  | "errSourceLabelRequired"
+  | "errWaitForUpload";
+
+function validate(
+  form: FormState,
+  uploading: boolean
+): Record<string, ErrorKey> {
+  const errs: Record<string, ErrorKey> = {};
+  if (!form.title.trim()) errs.title = "errTitleRequired";
+  if (!form.description.trim()) errs.description = "errDescriptionRequired";
   if (!form.source_url.trim()) {
-    errs.source_url = "קישור מקור הוא שדה חובה — כל פריט חייב הוכחה";
+    errs.source_url = "errSourceUrlRequired";
   } else if (!/^https?:\/\/.+/.test(form.source_url.trim())) {
-    errs.source_url = "יש להזין קישור תקין (מתחיל ב-http:// או https://)";
+    errs.source_url = "errSourceUrlInvalid";
   }
-  if (!form.source_label.trim()) errs.source_label = "שם המקור נדרש";
-  if (uploading) errs.media_url = "המתינו לסיום העלאת הקובץ";
+  if (!form.source_label.trim()) errs.source_label = "errSourceLabelRequired";
+  if (uploading) errs.media_url = "errWaitForUpload";
   return errs;
 }
 
@@ -71,6 +88,7 @@ const inputCls = (err?: string) =>
 // Upload a file straight to Supabase Storage via a one-time signed URL.
 async function uploadToSupabase(
   file: File,
+  lang: Lang,
   onProgress: (pct: number) => void
 ): Promise<string> {
   // 1) ask our server for a signed upload URL
@@ -80,7 +98,8 @@ async function uploadToSupabase(
     body: JSON.stringify({ contentType: file.type, size: file.size }),
   });
   const data = await res.json();
-  if (!res.ok || !data.ok) throw new Error(data.error ?? "נכשלה יצירת קישור העלאה");
+  if (!res.ok || !data.ok)
+    throw new Error(apiError(lang, data.code, data.error));
 
   // 2) PUT the file directly to Supabase Storage with progress
   const uploadEndpoint: string = data.uploadUrl;
@@ -95,8 +114,10 @@ async function uploadToSupabase(
     xhr.onload = () =>
       xhr.status >= 200 && xhr.status < 300
         ? resolve()
-        : reject(new Error("ההעלאה נכשלה (" + xhr.status + ")"));
-    xhr.onerror = () => reject(new Error("שגיאת רשת בהעלאה"));
+        : reject(
+            new Error(t(lang, "errUploadFailed") + " (" + xhr.status + ")")
+          );
+    xhr.onerror = () => reject(new Error(t(lang, "errUploadNetwork")));
     xhr.send(file);
   });
 
@@ -105,8 +126,9 @@ async function uploadToSupabase(
 }
 
 export default function SubmitPage() {
+  const { lang } = useLang();
   const [form, setForm] = useState<FormState>(EMPTY_FORM);
-  const [errors, setErrors] = useState<Record<string, string>>({});
+  const [errors, setErrors] = useState<Record<string, ErrorKey>>({});
   const [status, setStatus] = useState<"idle" | "loading" | "success" | "error">("idle");
   const [persisted, setPersisted] = useState(true);
 
@@ -143,22 +165,24 @@ export default function SubmitPage() {
     setUploadPct(0);
 
     if (!ALLOWED_MIME.includes(file.type)) {
-      setUploadErr("סוג קובץ לא נתמך. מותר וידאו (mp4/mov/webm) או תמונה.");
+      setUploadErr(t(lang, "errFileType"));
       return;
     }
     if (file.size > MAX_BYTES) {
-      setUploadErr("הקובץ גדול מדי. מקסימום 50MB.");
+      setUploadErr(t(lang, "errFileTooLarge"));
       return;
     }
 
     setFileName(file.name);
     setUploading(true);
     try {
-      const url = await uploadToSupabase(file, setUploadPct);
+      const url = await uploadToSupabase(file, lang, setUploadPct);
       setForm((f) => ({ ...f, media_url: url }));
       setUploadDone(true);
     } catch (err) {
-      setUploadErr(err instanceof Error ? err.message : "ההעלאה נכשלה");
+      setUploadErr(
+        err instanceof Error ? err.message : t(lang, "errUploadFailed")
+      );
       setFileName("");
     } finally {
       setUploading(false);
@@ -182,7 +206,7 @@ export default function SubmitPage() {
         }),
       });
       const data = await res.json();
-      if (!res.ok) throw new Error(data.error ?? "שגיאה");
+      if (!res.ok) throw new Error(apiError(lang, data.code, data.error));
       setPersisted(data.persisted ?? true);
       setStatus("success");
       setForm(EMPTY_FORM);
@@ -199,7 +223,7 @@ export default function SubmitPage() {
       <div className="min-h-screen flex flex-col" style={{ background: "linear-gradient(to bottom, #081026, #0a1834)" }}>
         <header className="bg-[#081026] text-white border-b border-[rgba(201,168,74,0.25)]">
           <div className="max-w-2xl mx-auto px-4 sm:px-6 py-4">
-            <Link href="/" className="text-xl font-bold">מעשי ישראל</Link>
+            <Link href="/" className="text-xl font-bold">{t(lang, "siteTitle")}</Link>
           </div>
         </header>
         <main className="flex-1 flex items-center justify-center p-6">
@@ -209,13 +233,13 @@ export default function SubmitPage() {
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
               </svg>
             </div>
-            <h2 className="text-xl font-bold text-slate-900 mb-2">תודה!</h2>
+            <h2 className="text-xl font-bold text-slate-900 mb-2">{t(lang, "submitThanks")}</h2>
             <p className="text-slate-600">
-              ההגשה נשלחה ותיבדק לפני פרסום.
+              {t(lang, "submitSuccessBody")}
             </p>
             {!persisted && (
               <p className="text-sm text-amber-700 bg-amber-50 border border-amber-200 px-4 py-2.5 rounded-xl mt-4">
-                שימו לב: מסד הנתונים אינו מחובר עדיין. ההגשה תישמר לאחר חיבור Supabase.
+                {t(lang, "submitNotPersisted")}
               </p>
             )}
             <div className="flex gap-3 justify-center mt-6">
@@ -223,10 +247,10 @@ export default function SubmitPage() {
                 onClick={() => setStatus("idle")}
                 className="text-sm text-blue-700 hover:text-blue-900 underline"
               >
-                שלחו פריט נוסף
+                {t(lang, "submitAnother")}
               </button>
               <Link href="/" className="text-sm text-slate-500 hover:text-slate-700 underline">
-                חזרה לדף הבית
+                {t(lang, "backHome")}
               </Link>
             </div>
           </div>
@@ -243,10 +267,10 @@ export default function SubmitPage() {
       <header className="bg-[#081026] text-white border-b border-[rgba(201,168,74,0.25)]">
         <div className="max-w-2xl mx-auto px-4 sm:px-6 py-4 flex items-center gap-3">
           <Link href="/" className="text-white/60 hover:text-white/90 transition-colors text-sm">
-            ← חזרה
+            ← {t(lang, "back")}
           </Link>
           <span className="text-white/30">|</span>
-          <h1 className="text-lg font-bold">שלחו מעשה טוב</h1>
+          <h1 className="text-lg font-bold">{t(lang, "submit")}</h1>
         </div>
       </header>
 
@@ -257,43 +281,43 @@ export default function SubmitPage() {
           noValidate
         >
           <div>
-            <h2 className="text-2xl font-bold text-slate-900">הגשת מעשה טוב</h2>
+            <h2 className="text-2xl font-bold text-slate-900">{t(lang, "submitFormTitle")}</h2>
             <p className="text-sm text-slate-500 mt-1">
-              כל פריט חייב לכלול קישור מקור מאומת. ללא מקור — ההגשה לא תתקבל.
+              {t(lang, "submitFormIntro")}
             </p>
           </div>
 
           {/* Title */}
           <div>
             <label className="block text-sm font-medium text-slate-700 mb-1.5">
-              שם הפריט <span className="text-red-500">*</span>
+              {t(lang, "submitFieldTitle")} <span className="text-red-500">*</span>
             </label>
             <input
               type="text"
               value={form.title}
               onChange={set("title")}
-              placeholder='לדוגמה: "חיסון נגד פוליו"'
+              placeholder={t(lang, "submitTitlePlaceholder")}
               className={inputCls(errors.title)}
             />
             {errors.title && (
-              <p className="text-red-500 text-xs mt-1">{errors.title}</p>
+              <p className="text-red-500 text-xs mt-1">{t(lang, errors.title)}</p>
             )}
           </div>
 
           {/* Description */}
           <div>
             <label className="block text-sm font-medium text-slate-700 mb-1.5">
-              תיאור <span className="text-red-500">*</span>
+              {t(lang, "submitFieldDescription")} <span className="text-red-500">*</span>
             </label>
             <textarea
               value={form.description}
               onChange={set("description")}
               rows={4}
-              placeholder="תארו את המעשה הטוב, ההמצאה או התרומה..."
+              placeholder={t(lang, "submitDescriptionPlaceholder")}
               className={inputCls(errors.description)}
             />
             {errors.description && (
-              <p className="text-red-500 text-xs mt-1">{errors.description}</p>
+              <p className="text-red-500 text-xs mt-1">{t(lang, errors.description)}</p>
             )}
           </div>
 
@@ -301,17 +325,17 @@ export default function SubmitPage() {
           <div className="grid grid-cols-2 gap-4">
             <div>
               <label className="block text-sm font-medium text-slate-700 mb-1.5">
-                קטגוריה <span className="text-red-500">*</span>
+                {t(lang, "submitFieldCategory")} <span className="text-red-500">*</span>
               </label>
               <select value={form.category} onChange={set("category")} className={inputCls()}>
                 {CATEGORIES.map((c) => (
-                  <option key={c} value={c}>{c}</option>
+                  <option key={c} value={c}>{categoryLabel(lang, c)}</option>
                 ))}
               </select>
             </div>
             <div>
               <label className="block text-sm font-medium text-slate-700 mb-1.5">
-                שנה (אופציונלי)
+                {t(lang, "submitFieldYear")}
               </label>
               <input
                 type="number"
@@ -331,11 +355,11 @@ export default function SubmitPage() {
               <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
               </svg>
-              מקור מאומת — חובה
+              {t(lang, "submitSourceBoxTitle")}
             </p>
             <div>
               <label className="block text-xs font-medium text-blue-700 mb-1">
-                קישור למקור <span className="text-red-500">*</span>
+                {t(lang, "submitFieldSourceUrl")} <span className="text-red-500">*</span>
               </label>
               <input
                 type="url"
@@ -345,22 +369,22 @@ export default function SubmitPage() {
                 className={inputCls(errors.source_url)}
               />
               {errors.source_url && (
-                <p className="text-red-500 text-xs mt-1">{errors.source_url}</p>
+                <p className="text-red-500 text-xs mt-1">{t(lang, errors.source_url)}</p>
               )}
             </div>
             <div>
               <label className="block text-xs font-medium text-blue-700 mb-1">
-                שם המקור <span className="text-red-500">*</span>
+                {t(lang, "submitFieldSourceLabel")} <span className="text-red-500">*</span>
               </label>
               <input
                 type="text"
                 value={form.source_label}
                 onChange={set("source_label")}
-                placeholder='לדוגמה: "ויקיפדיה" או "הניו יורק טיימס"'
+                placeholder={t(lang, "submitSourceLabelPlaceholder")}
                 className={inputCls(errors.source_label)}
               />
               {errors.source_label && (
-                <p className="text-red-500 text-xs mt-1">{errors.source_label}</p>
+                <p className="text-red-500 text-xs mt-1">{t(lang, errors.source_label)}</p>
               )}
             </div>
           </div>
@@ -368,11 +392,11 @@ export default function SubmitPage() {
           {/* Media */}
           <div>
             <label className="block text-sm font-medium text-slate-700 mb-1.5">
-              מדיה (אופציונלי)
+              {t(lang, "submitFieldMedia")}
             </label>
             <select value={form.media_type} onChange={onMediaTypeChange} className={inputCls()}>
-              {MEDIA_TYPES.map((t) => (
-                <option key={t.value} value={t.value}>{t.label}</option>
+              {MEDIA_TYPES.map((m) => (
+                <option key={m.value} value={m.value}>{t(lang, m.labelKey)}</option>
               ))}
             </select>
           </div>
@@ -381,7 +405,7 @@ export default function SubmitPage() {
           {isYouTube && (
             <div>
               <label className="block text-sm font-medium text-slate-700 mb-1.5">
-                קישור לסרטון YouTube
+                {t(lang, "submitFieldYoutubeUrl")}
               </label>
               <input
                 type="url"
@@ -400,10 +424,10 @@ export default function SubmitPage() {
                 <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M7 16a4 4 0 01-.88-7.9A5 5 0 1115.9 6L16 6a5 5 0 011 9.9M15 13l-3-3m0 0l-3 3m3-3v12" />
                 </svg>
-                העלאת וידאו או תמונה מהמחשב
+                {t(lang, "submitUploadBoxTitle")}
               </p>
               <p className="text-xs text-blue-600/80">
-                וידאו (MP4 / MOV / WEBM) או תמונה, עד 50MB. הקובץ נשמר בצורה מאובטחת.
+                {t(lang, "submitUploadHint")}
               </p>
 
               <input
@@ -427,7 +451,7 @@ export default function SubmitPage() {
                       style={{ width: `${uploadPct}%` }}
                     />
                   </div>
-                  <p className="text-xs text-blue-700">מעלה... {uploadPct}%</p>
+                  <p className="text-xs text-blue-700">{t(lang, "submitUploading")} {uploadPct}%</p>
                 </div>
               )}
 
@@ -436,7 +460,7 @@ export default function SubmitPage() {
                   <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
                   </svg>
-                  הקובץ הועלה בהצלחה
+                  {t(lang, "submitUploadDone")}
                 </p>
               )}
 
@@ -446,7 +470,7 @@ export default function SubmitPage() {
                 </p>
               )}
               {errors.media_url && (
-                <p className="text-red-500 text-xs">{errors.media_url}</p>
+                <p className="text-red-500 text-xs">{t(lang, errors.media_url)}</p>
               )}
             </div>
           )}
@@ -454,20 +478,20 @@ export default function SubmitPage() {
           {/* Submitted by */}
           <div>
             <label className="block text-sm font-medium text-slate-700 mb-1.5">
-              שם לקרדיט (אופציונלי)
+              {t(lang, "submitFieldCredit")}
             </label>
             <input
               type="text"
               value={form.submitted_by}
               onChange={set("submitted_by")}
-              placeholder="השם שלכם"
+              placeholder={t(lang, "submitCreditPlaceholder")}
               className={inputCls()}
             />
           </div>
 
           {status === "error" && (
             <p className="text-red-600 text-sm bg-red-50 border border-red-200 px-4 py-2.5 rounded-xl">
-              אירעה שגיאה. אנא נסו שוב.
+              {t(lang, "submitGenericError")}
             </p>
           )}
 
@@ -476,7 +500,11 @@ export default function SubmitPage() {
             disabled={status === "loading" || uploading}
             className="bg-blue-800 text-white font-bold px-6 py-3 rounded-xl hover:bg-blue-900 transition-colors disabled:opacity-60 disabled:cursor-not-allowed"
           >
-            {status === "loading" ? "שולח..." : uploading ? "ממתין לסיום העלאה..." : "שלח הגשה"}
+            {status === "loading"
+              ? t(lang, "submitSending")
+              : uploading
+                ? t(lang, "submitWaitingUpload")
+                : t(lang, "submitButton")}
           </button>
         </form>
       </main>

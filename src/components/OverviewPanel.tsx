@@ -2,7 +2,7 @@
 
 import type { Overview } from "@/lib/data";
 import { useLang } from "@/components/LangProvider";
-import { t, pick, OVERVIEW_STAT_LABELS } from "@/lib/i18n";
+import { t, pick, categoryLabel, OVERVIEW_STAT_LABELS } from "@/lib/i18n";
 
 /**
  * The historian's "state of the nation" panel. Shows the big-picture headline,
@@ -43,7 +43,7 @@ export default function OverviewPanel({ overview }: { overview: Overview }) {
                   {String(v)}
                 </span>
                 <span className="text-[11px] md:text-xs text-blue-200/60 mt-1">
-                  {labels[k] || k}
+                  {labels[k] || categoryLabel(lang, k)}
                 </span>
               </div>
             ))}

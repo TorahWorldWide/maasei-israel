@@ -17,6 +17,7 @@ export interface Citation {
   // (empty when the quote is already English — we keep the verbatim original).
   quote_en?: string;
   source_label_en?: string;
+  locator_en?: string;
 }
 
 export interface Entry {

@@ -10,13 +10,19 @@ function checkAuth(req: NextRequest): boolean {
 
 export async function GET(req: NextRequest) {
   if (!checkAuth(req)) {
-    return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
+    return NextResponse.json(
+      { ok: false, code: "unauthorized", error: "Unauthorized" },
+      { status: 401 }
+    );
   }
   try {
     const result = await listPending();
     return NextResponse.json(result);
   } catch (err) {
     console.error("[/api/admin/pending]", err);
-    return NextResponse.json({ error: "שגיאה פנימית" }, { status: 500 });
+    return NextResponse.json(
+      { ok: false, code: "internal", error: "שגיאה פנימית" },
+      { status: 500 }
+    );
   }
 }

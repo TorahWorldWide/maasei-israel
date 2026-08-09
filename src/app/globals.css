@@ -34,10 +34,22 @@ body {
   background-attachment: fixed;
   color: #eaf1ff;
   font-family: var(--font-heebo), "Heebo", Arial, Helvetica, sans-serif;
-  direction: rtl;
-  text-align: right;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+/* Follow the <html dir> that LangProvider flips. A bare `direction: rtl` on
+   body used to win over the dir attribute, which left English mode
+   right-aligned (with punctuation rendered at the wrong end of the line).
+   Hebrew rendering is unchanged. */
+html[dir="rtl"] body {
+  direction: rtl;
+  text-align: right;
+}
+
+html[dir="ltr"] body {
+  direction: ltr;
+  text-align: left;
 }
 
 h1,

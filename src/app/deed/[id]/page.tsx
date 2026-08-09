@@ -1,6 +1,7 @@
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import { getEntryById } from "@/lib/data";
+import { SITE_TITLE_BILINGUAL } from "@/lib/i18n";
 import SiteHeader from "@/components/SiteHeader";
 import SiteFooter from "@/components/SiteFooter";
 import DeedPageBody from "@/components/DeedPageBody";
@@ -14,20 +15,21 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { id } = await params;
   const entry = await getEntryById(id);
-  if (!entry) return { title: "מעשה לא נמצא | מעשי ישראל" };
+  if (!entry)
+    return { title: `מעשה לא נמצא · Deed Not Found | ${SITE_TITLE_BILINGUAL}` };
 
   const description = entry.description.slice(0, 160);
   return {
-    title: `${entry.title} | מעשי ישראל`,
+    title: `${entry.title} | ${SITE_TITLE_BILINGUAL}`,
     description,
     openGraph: {
-      title: `${entry.title} | מעשי ישראל`,
+      title: `${entry.title} | ${SITE_TITLE_BILINGUAL}`,
       description,
       images: [{ url: `/deed/${id}/opengraph-image` }],
     },
     twitter: {
       card: "summary_large_image",
-      title: `${entry.title} | מעשי ישראל`,
+      title: `${entry.title} | ${SITE_TITLE_BILINGUAL}`,
       description,
     },
     alternates: {

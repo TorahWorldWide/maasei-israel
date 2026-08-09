@@ -54,7 +54,7 @@ async function ensureBucket(client: Awaited<ReturnType<typeof getServiceClient>>
 export async function POST(req: NextRequest) {
   if (!supabaseUrl || !serviceKey) {
     return NextResponse.json(
-      { ok: false, error: "אחסון אינו מוגדר" },
+      { ok: false, code: "storage_unconfigured", error: "אחסון אינו מוגדר" },
       { status: 503 }
     );
   }
@@ -64,13 +64,21 @@ export async function POST(req: NextRequest) {
 
     if (!contentType || !ALLOWED.includes(contentType)) {
       return NextResponse.json(
-        { ok: false, error: "סוג קובץ לא נתמך. מותר וידאו או תמונה בלבד." },
+        {
+          ok: false,
+          code: "file_type",
+          error: "סוג קובץ לא נתמך. מותר וידאו או תמונה בלבד.",
+        },
         { status: 400 }
       );
     }
     if (typeof size === "number" && size > MAX_BYTES) {
       return NextResponse.json(
-        { ok: false, error: "הקובץ גדול מדי. מקסימום 50MB." },
+        {
+          ok: false,
+          code: "file_too_large",
+          error: "הקובץ גדול מדי. מקסימום 50MB.",
+        },
         { status: 400 }
       );
     }
@@ -89,7 +97,11 @@ export async function POST(req: NextRequest) {
 
     if (error || !data) {
       return NextResponse.json(
-        { ok: false, error: error?.message ?? "נכשלה יצירת קישור העלאה" },
+        {
+          ok: false,
+          code: "signed_url_failed",
+          error: error?.message ?? "נכשלה יצירת קישור העלאה",
+        },
         { status: 500 }
       );
     }
@@ -114,7 +126,7 @@ export async function POST(req: NextRequest) {
   } catch (err) {
     console.error("[/api/upload-url]", err);
     return NextResponse.json(
-      { ok: false, error: "שגיאה פנימית" },
+      { ok: false, code: "internal", error: "שגיאה פנימית" },
       { status: 500 }
     );
   }

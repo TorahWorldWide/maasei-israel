@@ -2,7 +2,7 @@
 
 import type { Citation } from "@/lib/data";
 import { useLang } from "@/components/LangProvider";
-import { t, pick } from "@/lib/i18n";
+import { t, pick, locatorLabel } from "@/lib/i18n";
 
 /**
  * Build a URL that jumps to the EXACT spot in the source.
@@ -92,7 +92,9 @@ export default function CitationList({ citations }: CitationListProps) {
               <div className="mt-2.5 flex items-center justify-between gap-2 flex-wrap">
                 <span className="text-xs font-medium" style={{ color: "#e6c66e" }}>
                   — {pick(lang, c.source_label, c.source_label_en)}
-                  {c.locator ? ` · ${t(lang, "pageAbbr")} ${c.locator}` : ""}
+                  {locatorLabel(lang, c.locator, c.locator_en)
+                    ? ` · ${locatorLabel(lang, c.locator, c.locator_en)}`
+                    : ""}
                 </span>
                 <span className="inline-flex items-center gap-1 text-[11px] text-blue-200/60 group-hover:text-blue-100 transition-colors">
                   {t(lang, "jumpToSource")}

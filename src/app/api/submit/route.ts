@@ -11,14 +11,18 @@ export async function POST(req: NextRequest) {
       !body.source_url.trim()
     ) {
       return NextResponse.json(
-        { ok: false, error: "מקור (source_url) הוא שדה חובה" },
+        {
+          ok: false,
+          code: "source_required",
+          error: "מקור (source_url) הוא שדה חובה",
+        },
         { status: 400 }
       );
     }
 
     if (!/^https?:\/\/.+/.test(body.source_url.trim())) {
       return NextResponse.json(
-        { ok: false, error: "קישור מקור אינו תקין" },
+        { ok: false, code: "source_invalid", error: "קישור מקור אינו תקין" },
         { status: 400 }
       );
     }
@@ -38,6 +42,9 @@ export async function POST(req: NextRequest) {
     return NextResponse.json(result);
   } catch (err) {
     console.error("[/api/submit]", err);
-    return NextResponse.json({ ok: false, error: "שגיאה פנימית" }, { status: 500 });
+    return NextResponse.json(
+      { ok: false, code: "internal", error: "שגיאה פנימית" },
+      { status: 500 }
+    );
   }
 }

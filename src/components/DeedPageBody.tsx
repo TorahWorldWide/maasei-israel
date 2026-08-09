@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { useLang } from "@/components/LangProvider";
-import { t, pick, categoryLabel } from "@/lib/i18n";
+import { t, pick, categoryLabel, locatorLabel } from "@/lib/i18n";
 import ShareProof from "@/components/ShareProof";
 import DeedVideoCarousel, { type CarouselVideo } from "@/components/DeedVideoCarousel";
 import DeedImageCollage from "@/components/DeedImageCollage";
@@ -192,7 +192,8 @@ export default function DeedPageBody({ entry }: { entry: Entry }) {
                     className="text-xs text-[#c9a84a] hover:text-[#e6c66e] underline underline-offset-2 decoration-[#c9a84a]/40 hover:decoration-[#c9a84a] transition-colors"
                   >
                     — {pick(lang, c.source_label, c.source_label_en)}
-                    {c.locator && `, ${t(lang, "pageAbbr")} ${c.locator}`}
+                    {locatorLabel(lang, c.locator, c.locator_en) &&
+                      `, ${locatorLabel(lang, c.locator, c.locator_en)}`}
                   </a>
                 </li>
               ))}

@@ -1,8 +1,13 @@
 export type Lang = "he" | "en";
 
-// Page <title>s are rendered on the server, before the reader's language (which
-// lives in localStorage) is known — so the brand is written bilingually.
+// Page <title>s are rendered before the reader's language is known — so the
+// brand is written bilingually.
 export const SITE_TITLE_BILINGUAL = "מעשי ישראל · Maasei Israel";
+
+// Read by the server (root layout), written by the client. Must live outside a
+// "use client" module, or the server only sees a client reference. No dot in
+// the name — Next's cookie store can't get() a dotted key.
+export const LANG_COOKIE = "maasei_lang";
 
 type Strings = {
   // nav / brand

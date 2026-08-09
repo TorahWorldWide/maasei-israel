@@ -75,7 +75,7 @@ export default function CitationList({ citations }: CitationListProps) {
             >
               {/* the verbatim quote (kept in its original language — it's the proof) */}
               <blockquote
-                className="text-sm leading-relaxed border-r-2 pr-3"
+                className="text-sm leading-relaxed border-s-2 ps-3"
                 style={{ color: "#eaf1ff", borderColor: "#c9a84a" }}
               >
                 &ldquo;{c.quote}&rdquo;
@@ -83,7 +83,7 @@ export default function CitationList({ citations }: CitationListProps) {
 
               {/* English translation of a Hebrew quote, shown beneath the original */}
               {lang === "en" && c.quote_en ? (
-                <p className="text-xs leading-relaxed text-blue-200/70 mt-1.5 pr-3 italic">
+                <p className="text-xs leading-relaxed text-blue-200/70 mt-1.5 ps-3 italic">
                   &ldquo;{c.quote_en}&rdquo;
                 </p>
               ) : null}

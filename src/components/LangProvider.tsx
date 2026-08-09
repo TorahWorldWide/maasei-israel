@@ -1,7 +1,7 @@
 "use client";
 
 import { createContext, useContext, useEffect, useState } from "react";
-import type { Lang } from "@/lib/i18n";
+import { LANG_COOKIE, type Lang } from "@/lib/i18n";
 
 interface LangCtx {
   lang: Lang;
@@ -10,16 +10,32 @@ interface LangCtx {
 
 const LangContext = createContext<LangCtx>({ lang: "he", setLang: () => {} });
 
-export function LangProvider({ children }: { children: React.ReactNode }) {
-  const [lang, setLangState] = useState<Lang>("he");
+const LEGACY_KEY = "maasei.lang";
 
+function writeCookie(l: Lang) {
+  document.cookie = `${LANG_COOKIE}=${l}; path=/; max-age=31536000; samesite=lax`;
+}
+
+export function LangProvider({
+  children,
+  initialLang = "he",
+}: {
+  children: React.ReactNode;
+  initialLang?: Lang;
+}) {
+  const [lang, setLangState] = useState<Lang>(initialLang);
+
+  // Visitors who picked a language before the cookie existed keep their choice.
   useEffect(() => {
-    const stored = localStorage.getItem("maasei.lang") as Lang | null;
-    if (stored === "he" || stored === "en") {
-      applyLang(stored);
-      setLangState(stored);
+    if (document.cookie.includes(`${LANG_COOKIE}=`)) return;
+    const legacy = localStorage.getItem(LEGACY_KEY) as Lang | null;
+    if (legacy !== "he" && legacy !== "en") return;
+    writeCookie(legacy);
+    if (legacy !== initialLang) {
+      applyLang(legacy);
+      setLangState(legacy);
     }
-  }, []);
+  }, [initialLang]);
 
   function applyLang(l: Lang) {
     document.documentElement.lang = l;
@@ -29,7 +45,8 @@ export function LangProvider({ children }: { children: React.ReactNode }) {
   function setLang(l: Lang) {
     setLangState(l);
     applyLang(l);
-    localStorage.setItem("maasei.lang", l);
+    writeCookie(l);
+    localStorage.setItem(LEGACY_KEY, l);
   }
 
   return (

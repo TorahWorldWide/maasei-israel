@@ -100,7 +100,7 @@ export default function Slideshow({
           <div className="relative w-full aspect-video rounded-xl overflow-hidden bg-black">
             <iframe
               src={embedUrl}
-              title={entry.title}
+              title={pick(lang, entry.title, entry.title_en)}
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
               allowFullScreen
               className="absolute inset-0 w-full h-full border-0"
@@ -121,7 +121,7 @@ export default function Slideshow({
             {/* eslint-disable-next-line @next/next/no-img-element */}
             <img
               src={entry.media_url}
-              alt={entry.title}
+              alt={pick(lang, entry.title, entry.title_en)}
               className="absolute inset-0 w-full h-full object-contain"
             />
           </div>

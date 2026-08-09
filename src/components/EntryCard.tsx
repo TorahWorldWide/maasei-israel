@@ -67,7 +67,7 @@ export default function EntryCard({ entry, onClick, onEraClick }: EntryCardProps
         {embedUrl ? (
           <iframe
             src={embedUrl}
-            title={entry.title}
+            title={pick(lang, entry.title, entry.title_en)}
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen
             className="absolute inset-0 w-full h-full border-0"
@@ -85,7 +85,7 @@ export default function EntryCard({ entry, onClick, onEraClick }: EntryCardProps
           // eslint-disable-next-line @next/next/no-img-element
           <img
             src={entry.media_url}
-            alt={entry.title}
+            alt={pick(lang, entry.title, entry.title_en)}
             className="absolute inset-0 w-full h-full object-cover"
             loading="lazy"
           />

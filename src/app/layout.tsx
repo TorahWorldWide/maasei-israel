@@ -1,7 +1,8 @@
 import type { Metadata } from "next";
+import { cookies, headers } from "next/headers";
 import { Rubik, Heebo, Frank_Ruhl_Libre } from "next/font/google";
 import { LangProvider } from "@/components/LangProvider";
-import { SITE_TITLE_BILINGUAL } from "@/lib/i18n";
+import { SITE_TITLE_BILINGUAL, LANG_COOKIE, type Lang } from "@/lib/i18n";
 import "./globals.css";
 
 const rubik = Rubik({
@@ -31,19 +32,35 @@ export const metadata: Metadata = {
     "אוסף מתועד של מעשים טובים, המצאות ותרומות של עם ישראל לעולם — כל פריט עם הוכחה. · A documented collection of the good deeds, inventions and contributions of the Jewish people to the world — every entry with proof.",
 };
 
-export default function RootLayout({
+/**
+ * A saved choice always wins. Otherwise Israeli visitors land in Hebrew and the
+ * rest of the world lands in English. Deciding this on the server keeps the
+ * first paint in the right language instead of flashing Hebrew and swapping.
+ */
+async function resolveLang(): Promise<Lang> {
+  const saved = (await cookies()).get(LANG_COOKIE)?.value;
+  if (saved === "he" || saved === "en") return saved;
+
+  const country = (await headers()).get("x-vercel-ip-country");
+  if (!country) return "he";
+  return country === "IL" ? "he" : "en";
+}
+
+export default async function RootLayout({
   children,
 }: Readonly<{
   children: React.ReactNode;
 }>) {
+  const lang = await resolveLang();
+
   return (
     <html
-      lang="he"
-      dir="rtl"
+      lang={lang}
+      dir={lang === "he" ? "rtl" : "ltr"}
       className={`${rubik.variable} ${heebo.variable} ${frankRuhl.variable}`}
     >
       <body className="min-h-screen flex flex-col">
-        <LangProvider>{children}</LangProvider>
+        <LangProvider initialLang={lang}>{children}</LangProvider>
       </body>
     </html>
   );

@@ -106,7 +106,7 @@ export default function DeedPageBody({ entry }: { entry: Entry }) {
 
         {/* Still images attached to a video entry — collage under the player. */}
         {extraImages.length > 0 && (
-          <DeedImageCollage images={extraImages} title={entry.title} />
+          <DeedImageCollage images={extraImages} title={pick(lang, entry.title, entry.title_en)} />
         )}
 
         {/* Image(s) — shown when there is no video. One image fills the frame;
@@ -124,7 +124,7 @@ export default function DeedPageBody({ entry }: { entry: Entry }) {
               <img
                 key={i}
                 src={src}
-                alt={`${entry.title}${images.length > 1 ? ` (${i + 1})` : ""}`}
+                alt={`${pick(lang, entry.title, entry.title_en)}${images.length > 1 ? ` (${i + 1})` : ""}`}
                 className={
                   images.length === 1
                     ? "w-full max-h-[70vh] object-cover rounded-xl"

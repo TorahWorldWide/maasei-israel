@@ -10,3 +10,7 @@ tsconfig.tsbuildinfo
 
 # generated audit artifacts (regenerable, zero tokens)
 /data/
+
+# python caches
+__pycache__/
+*.pyc

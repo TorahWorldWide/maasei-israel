@@ -94,22 +94,21 @@ export default function DeedPageBody({ entry }: { entry: Entry }) {
           {pick(lang, entry.title, entry.title_en)}
         </h1>
 
+      </div>
+
+      {/* All media — video player, collage, image gallery — lives in a wider
+          container than the text column so it can spread toward the sides. */}
+      <div className="max-w-[1200px] mx-auto px-4 sm:px-6">
         {/* Video(s) — single player, or a carousel with arrows + counter when
             media_urls holds more videos. Graceful fallback when embedding is
             disabled is handled inside DeedVideo. */}
         {videos.length > 0 && <DeedVideoCarousel videos={videos} />}
-      </div>
 
-      {/* Still images attached to a video entry — collage under the player.
-          Lives in its own wider container so the tiles can spread beyond the
-          text column. */}
-      {extraImages.length > 0 && (
-        <div className="max-w-[1200px] mx-auto px-4 sm:px-6">
+        {/* Still images attached to a video entry — collage under the player. */}
+        {extraImages.length > 0 && (
           <DeedImageCollage images={extraImages} title={entry.title} />
-        </div>
-      )}
+        )}
 
-      <div className="max-w-3xl mx-auto px-4 sm:px-6 pb-12">
         {/* Image(s) — shown when there is no video. One image fills the frame;
             several render as a responsive gallery. */}
         {images.length > 0 && (
@@ -128,15 +127,17 @@ export default function DeedPageBody({ entry }: { entry: Entry }) {
                 alt={`${entry.title}${images.length > 1 ? ` (${i + 1})` : ""}`}
                 className={
                   images.length === 1
-                    ? "w-full max-h-[60vh] object-cover rounded-xl"
-                    : "w-full h-56 object-cover rounded-xl shadow-lg shadow-black/40"
+                    ? "w-full max-h-[70vh] object-cover rounded-xl"
+                    : "w-full h-72 object-cover rounded-xl shadow-lg shadow-black/40"
                 }
                 loading="lazy"
               />
             ))}
           </div>
         )}
+      </div>
 
+      <div className="max-w-3xl mx-auto px-4 sm:px-6 pb-12">
         {/* Description */}
         <p className="text-base text-blue-100/80 leading-relaxed mb-8">
           {pick(lang, entry.description, entry.description_en)}

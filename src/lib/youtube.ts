@@ -3,7 +3,7 @@
 // Extract the 11-char video id from any common YouTube url shape.
 export function ytId(url: string | null | undefined): string | null {
   const m = (url || "").match(
-    /(?:youtube\.com\/watch\?v=|youtu\.be\/|youtube\.com\/embed\/)([a-zA-Z0-9_-]{11})/
+    /(?:youtube\.com\/watch\?v=|youtu\.be\/|youtube\.com\/embed\/|youtube\.com\/shorts\/|youtube\.com\/live\/)([a-zA-Z0-9_-]{11})/
   );
   return m ? m[1] : null;
 }

@@ -19,9 +19,17 @@ ROOT = Path(__file__).resolve().parent.parent
 OUT = Path("/tmp/enrich-out")
 BACKUPS = ROOT / "docs" / "enrichment" / "backups"
 
-TEXT_FIELDS = ["source_url", "source_label", "source_label_en", "actor_type"]
-JSON_FIELDS = ["citations", "media_urls", "location", "people", "audit"]
+TEXT_FIELDS = [
+    "source_url", "source_label", "source_label_en", "actor_type",
+    "title", "title_en", "title_reasoning", "year",
+    "description", "description_en", "act", "act_en", "ripple", "ripple_en",
+    "origin_story", "origin_story_en", "aftermath", "aftermath_en",
+    "recognition", "recognition_en",
+]
 ARRAY_FIELDS = ["deed_type", "beneficiary"]
+
+# Copied into audit.pre before the write, so rule 43 can prove the text moved.
+PRE_FIELDS = ["title", "description", "act", "ripple", "source_url", "media_url"]
 
 
 def lit(value):
@@ -39,7 +47,7 @@ def text_array(values):
     return f"ARRAY[{inner}]::text[]" if values else "NULL"
 
 
-def build_update(doc):
+def build_update(doc, row):
     """Map a worker document onto entries columns."""
     sets = {}
 
@@ -47,8 +55,9 @@ def build_update(doc):
         if doc.get(f):
             sets[f] = lit(doc[f])
 
-    if doc.get("citations"):
-        sets["citations"] = jsonb(doc["citations"])
+    for f in ("citations", "honors", "dedup"):
+        if doc.get(f) is not None:
+            sets[f] = jsonb(doc[f])
 
     # media_urls is jsonb holding a flat array of URL strings — the site reads it
     # as string[], so provenance objects go to audit instead of inline here.
@@ -56,6 +65,9 @@ def build_update(doc):
     videos = [v["url"] for v in doc.get("videos") or [] if v.get("url")]
     if images or videos:
         sets["media_urls"] = jsonb(images + videos)
+    if images:
+        sets["media_url"] = lit(images[0])
+        sets["media_type"] = lit("image")
 
     for f in ("location", "people"):
         if doc.get(f):
@@ -65,17 +77,33 @@ def build_update(doc):
         if doc.get(f):
             sets[f] = text_array(doc[f])
 
+    now = datetime.now(timezone.utc).isoformat(timespec="seconds")
     audit = {
         "state": doc.get("status") or "unknown",
-        "at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
+        "at": now,
         "by": "standard-pass/opus-5",
         "checked": doc.get("tried") or [],
+        "tried": doc.get("tried") or [],
         "unresolved": doc.get("unresolved") or [],
         "missing": doc.get("missing") or [],
         "corrections": doc.get("corrections") or [],
         "image_provenance": doc.get("image_provenance") or [],
         "videos": doc.get("videos") or [],
         "domains_covered": doc.get("domains_covered"),
+        # the new standard fields
+        "rebuild": {"from_scratch": True, "at": now, "by": "standard-pass/opus-5"},
+        # The first write captures the pre-image; later corrections must not
+        # overwrite it, or rule 43 would compare the new text against itself.
+        "pre": (row.get("audit") or {}).get("pre") or {f: row.get(f) for f in PRE_FIELDS},
+        "content_delta": doc.get("content_delta") or [],
+        "removed": doc.get("removed") or [],
+        "disputes": doc.get("disputes") or [],
+        "lead_image_basis": doc.get("lead_image_basis"),
+        "spinoff_leads": doc.get("spinoff_leads") or [],
+        "redirects": doc.get("redirects") or [],
+        "person_notes": doc.get("person_notes") or [],
+        "merged_from": doc.get("merged_from") or [],
+        "notes": doc.get("notes"),
     }
     sets["audit"] = jsonb(audit)
     return sets
@@ -111,7 +139,7 @@ def main():
         if not row:
             print(f"SKIP {doc['id']} — not in database")
             continue
-        sets = build_update(doc)
+        sets = build_update(doc, row)
         plans.append((doc["id"], row.get("title"), sets))
         print(f"\n{row.get('title')}  [{doc['id'][:8]}]")
         for col in sorted(sets):
@@ -134,7 +162,17 @@ def main():
         run_sql(f"UPDATE entries SET {assignments} WHERE id = {lit(deed_id)};")
         print(f"written: {title}")
 
-    print(f"\n{len(plans)} deeds written.")
+    # Rule 125: a write is not done until it has been read back.
+    from deed_standard import AUTO_RULES, evaluate  # noqa: E402
+
+    print(f"\n{len(plans)} deeds written. Read-back:")
+    written = ",".join(lit(deed_id) for deed_id, _, _ in plans)
+    for row in run_sql(f"SELECT * FROM entries WHERE id IN ({written})"):
+        result = evaluate(row)
+        failed = [n for n in AUTO_RULES if not result.get(n)]
+        ok = len(AUTO_RULES) - len(failed)
+        print(f"  {row['title'][:60]}  {ok}/{len(AUTO_RULES)}"
+              + (f"  נכשל: {failed}" if failed else "  — עובר הכל"))
 
 
 if __name__ == "__main__":

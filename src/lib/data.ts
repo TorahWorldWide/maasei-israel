@@ -45,6 +45,12 @@ export interface Entry {
   // When absent, the UI falls back to title (spark) and description (light).
   act?: string;
   ripple?: string;
+  // The four sections rules 64–67 of the standard require: how the deed came to
+  // be, what happened next, what the doer got for it, and the honors in their name.
+  origin_story?: string;
+  aftermath?: string;
+  recognition?: string;
+  honors?: { what: string; year?: number | null; source?: string }[];
   // Verbatim quotes from authoritative sources — the hard proof. Each is clickable
   // and jumps to the exact spot in its source.
   citations?: Citation[];
@@ -57,6 +63,9 @@ export interface Entry {
   description_en?: string;
   act_en?: string;
   ripple_en?: string;
+  origin_story_en?: string;
+  aftermath_en?: string;
+  recognition_en?: string;
   source_label_en?: string;
   // Normalized identity signals for duplicate detection (people + keywords),
   // mirroring deed_registry. No DB column yet — always undefined until the

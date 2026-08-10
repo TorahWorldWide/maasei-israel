@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useRef, useEffect, useMemo, useCallback } from "react";
+import type { CSSProperties } from "react";
 import type { Entry } from "@/lib/data";
 import { entryCategories } from "@/lib/data";
 import { useLang } from "@/components/LangProvider";
@@ -27,6 +28,12 @@ function moodLabel(lang: Lang, i: number): string {
 
 const GOLD = "#c9a84a";
 const GOLD_BRIGHT = "#e6c66e";
+const CLAMP: CSSProperties = {
+  display: "-webkit-box",
+  WebkitBoxOrient: "vertical",
+  WebkitLineClamp: 9,
+  overflow: "hidden",
+};
 
 export default function Theater({ entries }: TheaterProps) {
   const { lang } = useLang();
@@ -237,6 +244,8 @@ export default function Theater({ entries }: TheaterProps) {
   const showPicker = musicOn || pickerHover;
 
   // Poetic two-part split shown in the rails flanking the screen (desktop only).
+  // The side panels are a teaser; the deed page carries the full text, which
+  // since the standard pass can run to several paragraphs.
   const spark = pick(lang, current.act, current.act_en);
   const light = pick(lang, current.ripple, current.ripple_en);
 
@@ -259,7 +268,7 @@ export default function Theater({ entries }: TheaterProps) {
                 <p className="text-[11px] tracking-[0.14em] uppercase mb-2.5" style={{ color: GOLD }}>
                   {t(lang, "actLabel")}
                 </p>
-                <p className="text-[13.5px] leading-relaxed text-blue-100/70">{spark}</p>
+                <p className="text-[13.5px] leading-relaxed text-blue-100/70" style={CLAMP}>{spark}</p>
               </div>
             )}
           </aside>
@@ -396,7 +405,7 @@ export default function Theater({ entries }: TheaterProps) {
                 <p className="text-[11px] tracking-[0.14em] uppercase mb-2.5" style={{ color: GOLD }}>
                   {t(lang, "rippleLabel")}
                 </p>
-                <p className="text-[13.5px] leading-relaxed text-blue-100/70">{light}</p>
+                <p className="text-[13.5px] leading-relaxed text-blue-100/70" style={CLAMP}>{light}</p>
               </div>
             )}
           </aside>

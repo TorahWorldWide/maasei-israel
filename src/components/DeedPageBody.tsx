@@ -11,6 +11,31 @@ import { entryCategories } from "@/lib/data";
 import { ytId as extractYouTubeId } from "@/lib/youtube";
 import { eraOf, eraDisplay } from "@/lib/era";
 
+// A labelled block of prose. Blank lines in the text are real paragraph breaks.
+function Section({ label, text, inGrid }: { label: string; text?: string; inGrid?: boolean }) {
+  if (!text) return null;
+  const paragraphs = text.split(/\n\s*\n/).filter((p) => p.trim());
+  return (
+    <div
+      className={`bg-[#0f234d]/60 rounded-xl p-4 border border-[rgba(201,168,74,0.15)]${inGrid ? "" : " mb-8"}`}
+    >
+      <p className="text-xs text-[#c9a84a] font-medium mb-1">{label}</p>
+      <div className="flex flex-col gap-3">
+        {paragraphs.map((p, i) => (
+          <p key={i} className="text-sm text-blue-100/80 leading-relaxed">
+            {p}
+          </p>
+        ))}
+      </div>
+    </div>
+  );
+}
+
+// Two short blocks read well side by side; two essays do not.
+function sideBySide(act?: string, ripple?: string): boolean {
+  return (act?.length ?? 0) <= 400 && (ripple?.length ?? 0) <= 400;
+}
+
 export default function DeedPageBody({ entry }: { entry: Entry }) {
   const { lang } = useLang();
   const era = eraOf(entry.year);
@@ -143,25 +168,50 @@ export default function DeedPageBody({ entry }: { entry: Entry }) {
           {pick(lang, entry.description, entry.description_en)}
         </p>
 
-        {/* Act / Ripple */}
+        {/* How it began */}
+        <Section label={t(lang, "originLabel")} text={pick(lang, entry.origin_story, entry.origin_story_en)} />
+
+        {/* Act / Ripple — side by side while both are short, stacked once they are prose */}
         {(entry.act || entry.ripple) && (
-          <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-8">
-            {entry.act && (
-              <div className="bg-[#0f234d]/60 rounded-xl p-4 border border-[rgba(201,168,74,0.15)]">
-                <p className="text-xs text-[#c9a84a] font-medium mb-1">
-                  {t(lang, "actLabel")}
-                </p>
-                <p className="text-sm text-blue-100/80">{pick(lang, entry.act, entry.act_en)}</p>
-              </div>
-            )}
-            {entry.ripple && (
-              <div className="bg-[#0f234d]/60 rounded-xl p-4 border border-[rgba(201,168,74,0.15)]">
-                <p className="text-xs text-[#c9a84a] font-medium mb-1">
-                  {t(lang, "rippleLabel")}
-                </p>
-                <p className="text-sm text-blue-100/80">{pick(lang, entry.ripple, entry.ripple_en)}</p>
-              </div>
-            )}
+          <div
+            className={
+              sideBySide(pick(lang, entry.act, entry.act_en), pick(lang, entry.ripple, entry.ripple_en))
+                ? "grid grid-cols-1 sm:grid-cols-2 gap-4 mb-8"
+                : "flex flex-col gap-4 mb-8"
+            }
+          >
+            <Section inGrid label={t(lang, "actLabel")} text={pick(lang, entry.act, entry.act_en)} />
+            <Section inGrid label={t(lang, "rippleLabel")} text={pick(lang, entry.ripple, entry.ripple_en)} />
+          </div>
+        )}
+
+        {/* What happened next · what they got for it */}
+        <Section label={t(lang, "aftermathLabel")} text={pick(lang, entry.aftermath, entry.aftermath_en)} />
+        <Section label={t(lang, "recognitionLabel")} text={pick(lang, entry.recognition, entry.recognition_en)} />
+
+        {/* Honors in their name */}
+        {entry.honors && entry.honors.length > 0 && (
+          <div className="bg-[#0f234d]/60 rounded-xl p-4 border border-[rgba(201,168,74,0.15)] mb-8">
+            <p className="text-xs text-[#c9a84a] font-medium mb-2">{t(lang, "honorsLabel")}</p>
+            <ul className="flex flex-col gap-1.5">
+              {entry.honors.map((h, i) => (
+                <li key={i} className="text-sm text-blue-100/80">
+                  {h.source ? (
+                    <a
+                      href={h.source}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="hover:text-[#e6c66e] transition-colors"
+                    >
+                      {h.what}
+                    </a>
+                  ) : (
+                    h.what
+                  )}
+                  {h.year ? <span className="text-blue-200/50"> · {h.year}</span> : null}
+                </li>
+              ))}
+            </ul>
           </div>
         )}
 

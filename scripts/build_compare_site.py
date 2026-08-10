@@ -31,6 +31,9 @@ def is_video(url):
     return "youtube.com" in url or "youtu.be" in url or "vimeo.com" in url
 
 
+PROSE_FIELDS = ["description", "origin_story", "act", "ripple", "aftermath", "recognition"]
+
+
 def metrics(row):
     cits = row.get("citations") or []
     media = row.get("media_urls") or []
@@ -41,7 +44,8 @@ def metrics(row):
         "people": len(row.get("people") or []),
         "videos": len(((row.get("audit") or {}).get("videos")) or []),
         "location": 1 if row.get("location") else 0,
-        "chars": len(row.get("act") or "") + len(row.get("ripple") or "") + len(row.get("description") or ""),
+        "honors": len(row.get("honors") or []),
+        "chars": sum(len(row.get(f) or "") for f in PROSE_FIELDS),
     }
 
 
@@ -133,6 +137,8 @@ ol.src li{margin-bottom:11px}
 ol.src .lbl{font-weight:500}
 ol.src .q{color:var(--dim);display:block;margin-top:2px}
 ol.src .meta{color:#a1a1a6;font-size:11.5px;display:block;margin-top:2px}
+ul.honors{margin:0;padding-inline-start:20px;font-size:14px}
+ul.honors li{margin-bottom:6px}
 a{color:var(--after);text-decoration:none}
 a:hover{text-decoration:underline}
 .vid{border:1px solid var(--line);border-radius:12px;padding:10px 12px;margin-bottom:10px}
@@ -185,7 +191,8 @@ function tabs(){
 function score(){
   const d = DATA.deeds[cur];
   const rows = [['מקורות','citations'],['דומיינים','domains'],['תמונות','images'],
-                ['סרטונים','videos'],['אנשים','people'],['מיקום','location']];
+                ['סרטונים','videos'],['אנשים','people'],['מיקום','location'],
+                ['כבוד','honors'],['תווים','chars']];
   document.getElementById('score').innerHTML = rows.map(([lbl,k])=>{
     const b = d.m_before[k]||0, a = d.m_after[k]||0;
     const up = a>b ? `<span class="up">+${a-b}</span>` : '';
@@ -252,6 +259,11 @@ function pane(d, side){
   const tagHtml = tags.length ? `<div class="pills">`+tags.map(t=>`<span class="pill">${esc(t)}</span>`).join('')+`</div>`
     : `<div class="empty">— ריק —</div>`;
 
+  const honors = (r.honors||[]);
+  const honorsHtml = honors.length ? `<ul class="honors">` + honors.map(h=>
+      `<li>${h.source?`<a href="${esc(h.source)}" target="_blank">${esc(h.what)}</a>`:esc(h.what)}${h.year?` <span class="empty" style="font-style:normal;color:#a1a1a6">· ${esc(String(h.year))}</span>`:''}</li>`
+    ).join('') + `</ul>` : `<div class="empty">— אין —</div>`;
+
   const label = side==='after' ? 'אחרי' : 'לפני';
   const sub = side==='after' ? 'המצב החי באתר' : 'כפי שהיה לפני המעבר';
   return `<div class="pane ${side==='after'?'a':'b'}">
@@ -259,8 +271,12 @@ function pane(d, side){
     <div class="body">
       ${sect('title','כותרת',ch,txt(r.title))}
       ${sect('description','תיאור',ch,txt(r.description))}
+      ${sect('origin_story','איך זה התחיל',ch,txt(r.origin_story))}
       ${sect('act','מה נעשה',ch,txt(r.act))}
       ${sect('ripple','ההשפעה',ch,txt(r.ripple))}
+      ${sect('aftermath','מה קרה אחר כך',ch,txt(r.aftermath))}
+      ${sect('recognition','מה קיבלו על זה',ch,txt(r.recognition))}
+      ${sect('honors','כבוד על שמם ('+(r.honors||[]).length+')',ch,honorsHtml)}
       ${sect("media_urls","תמונות ("+imgs.length+")",ch,imgHtml)}
       ${sect("audit","סרטונים ("+mediaVids.length+")",ch,vidHtml)}
       ${sect('citations','מקורות ('+cits.length+')',ch,citHtml)}
@@ -304,12 +320,25 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--before", required=True)
     ap.add_argument("--decisions", default=None, help="JSON file with pending decisions")
+    ap.add_argument("--overlay", action="append", default=[],
+                    help="JSON of proposed field changes, merged into the after side "
+                         "without touching the live row. Repeatable.")
     ap.add_argument("--out", required=True)
     args = ap.parse_args()
 
     before_rows = json.loads(Path(args.before).read_text(encoding="utf-8"))
     ids = ",".join("'" + r["id"] + "'" for r in before_rows)
     after_rows = run_sql(f"select * from entries where id in ({ids})")
+
+    for path in args.overlay:
+        patch = json.loads(Path(path).read_text(encoding="utf-8"))
+        target = next(r for r in after_rows if r["id"] == patch["id"])
+        for field in ("description", "act", "ripple",
+                      "description_en", "act_en", "ripple_en"):
+            if patch.get(field):
+                target[field] = patch[field]
+        if patch.get("new_citations"):
+            target["citations"] = (target.get("citations") or []) + patch["new_citations"]
 
     payload = build_payload(before_rows, after_rows)
     decisions = json.loads(Path(args.decisions).read_text(encoding="utf-8")) if args.decisions else []

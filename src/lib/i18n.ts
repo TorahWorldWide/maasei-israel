@@ -34,6 +34,10 @@ type Strings = {
   citationsHeading: string;
   actLabel: string;
   rippleLabel: string;
+  originLabel: string;
+  aftermathLabel: string;
+  recognitionLabel: string;
+  honorsLabel: string;
   backedBySingle: string;
   sourcesVerified: string; // "<n> verified sources"
   pageAbbr: string;
@@ -175,6 +179,10 @@ const dict: Record<Lang, Strings> = {
     citationsHeading: "הוכחות",
     actLabel: "חלק א׳ · הניצוץ",
     rippleLabel: "חלק ב׳ · האור",
+    originLabel: "איך זה התחיל",
+    aftermathLabel: "מה קרה אחר כך",
+    recognitionLabel: "מה קיבלו על זה",
+    honorsLabel: "כבוד על שמם",
     backedBySingle: "מגובה במקור מאומת",
     sourcesVerified: "מקורות מאומתים",
     pageAbbr: "עמ׳",
@@ -304,6 +312,10 @@ const dict: Record<Lang, Strings> = {
     citationsHeading: "Verified Citations",
     actLabel: "Part 1 · The Spark",
     rippleLabel: "Part 2 · The Light",
+    originLabel: "How it began",
+    aftermathLabel: "What happened next",
+    recognitionLabel: "What they got for it",
+    honorsLabel: "Honors in their name",
     backedBySingle: "Backed by a verified source",
     sourcesVerified: "verified sources",
     pageAbbr: "p.",

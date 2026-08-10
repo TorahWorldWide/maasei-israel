@@ -84,6 +84,13 @@ def evaluate(entry):
         for c in cites
     )
 
+    audit = entry.get("audit") if isinstance(entry.get("audit"), dict) else {}
+    provenance = audit.get("image_provenance") or []
+    captioned = {
+        p.get("url") for p in provenance if (p.get("caption_he") or "").strip()
+    }
+    video_entries = audit.get("videos") or []
+
     return {
         1: bool(entry.get("source_url")) and "wikipedia.org" not in (entry.get("source_url") or ""),
         2: len(real_domains) >= 5,
@@ -103,6 +110,10 @@ def evaluate(entry):
         38: bool(entry.get("deed_type")),
         39: bool(entry.get("actor_type")),
         40: bool(entry.get("beneficiary")),
+        44: bool(images) and all(u in captioned for u in images),
+        48: bool(video_entries) and all(
+            (v.get("video_provenance") or "").strip() for v in video_entries
+        ),
     }
 
 
@@ -125,6 +136,8 @@ TITLES = {
     38: "תג סוג המעשה",
     39: "תג מי עשה",
     40: "תג למי זה עזר",
+    44: "כיתוב עברי לכל תמונה",
+    48: "שורת מקור לכל סרטון",
 }
 
 

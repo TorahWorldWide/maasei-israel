@@ -10,13 +10,24 @@ a /tmp wipe and stays reviewable in git.
 Column mapping:
   master video          -> media_url  (+ media_type = video_embed)
   other videos + images -> media_urls (videos first, images after)
-  citations             -> citations
+  citations             -> citations  (v2: incl. locator/published/quote_en)
   source_url/_label     -> the primary NON-wikipedia source
   corrections[year]     -> year
+  location/people/deed_type/actor_type/beneficiary -> their columns (v2)
+  audit                 -> written here from status/missing/tried/unresolved
+
+Closed lists are validated here; an off-list tag is dropped with a warning
+(the criterion keeps failing, the review pass fixes it) — never invented.
 
 Dry-run by default. Pass --apply to actually write.
 """
 import sys, os, json, glob, datetime
+
+DEED_TYPES = {"המצאה מדעית", "רפואה והצלת חיים", "חסד וצדקה",
+              "חילוץ ואסון טבע", "חינוך", "זכויות אדם"}
+ACTOR_TYPES = {"אדם יחיד", "ארגון", 'צה"ל', "המדינה", "חברה מסחרית"}
+BENEFICIARIES = {"לישראלים", "לזרים", "לאנושות כולה"}
+PRECISIONS = {"exact", "city", "region", "country"}
 
 sys.path.insert(0, "/home/ubuntu/.hermes/scripts")
 from maasei_insert import load_config, run_sql
@@ -45,6 +56,57 @@ def jsonlit(obj):
 
 def is_image(url):
     return not ("youtube.com" in url or "youtu.be" in url)
+
+
+def arraylit(vals):
+    return "ARRAY[" + ",".join("'" + esc(v) + "'" for v in vals) + "]::text[]"
+
+
+def standard_sets(enr, stamp, warn):
+    """SET clauses for the v2 standard fields. Only touches fields the agent
+    actually returned, so v1 outputs apply cleanly with none of them."""
+    sets = []
+    loc = enr.get("location")
+    if isinstance(loc, dict) and loc.get("precision"):
+        if loc["precision"] in PRECISIONS:
+            sets.append(f"location = {jsonlit(loc)}")
+        else:
+            warn(f"location.precision '{loc['precision']}' off-list — dropped")
+    if enr.get("people"):
+        sets.append(f"people = {jsonlit(enr['people'])}")
+    dt = [t for t in (enr.get("deed_type") or []) if t in DEED_TYPES]
+    bad = [t for t in (enr.get("deed_type") or []) if t not in DEED_TYPES]
+    if bad:
+        warn(f"deed_type off-list dropped: {bad}")
+    if dt:
+        sets.append(f"deed_type = {arraylit(dt)}")
+    at = enr.get("actor_type")
+    if at:
+        if at in ACTOR_TYPES:
+            sets.append(f"actor_type = '{esc(at)}'")
+        else:
+            warn(f"actor_type '{at}' off-list — dropped")
+    bn = [b for b in (enr.get("beneficiary") or []) if b in BENEFICIARIES]
+    badb = [b for b in (enr.get("beneficiary") or []) if b not in BENEFICIARIES]
+    if badb:
+        warn(f"beneficiary off-list dropped: {badb}")
+    if bn:
+        sets.append(f"beneficiary = {arraylit(bn)}")
+
+    # v1 outputs (no status field) predate the standard fields — say so honestly
+    v1 = "status" not in enr
+    audit = {
+        "state": "partial" if v1 else enr.get("status", "partial"),
+        "at": stamp,
+        "by": "sonnet-pass-1+verify_best" if v1 else "opus5-standard-pass+verify_best",
+        "checked": ["citations-verbatim", "images-live"],
+        "missing": (["locator", "published", "location", "people", "tags"]
+                    if v1 else enr.get("missing", [])),
+        "tried": enr.get("tried", []),
+        "unresolved": enr.get("unresolved", []),
+    }
+    sets.append(f"audit = {jsonlit(audit)}")
+    return sets
 
 
 def build_media(enr, existing_urls):
@@ -94,6 +156,8 @@ def main():
             existing = json.loads(existing)
         media_url, media_type, media_urls = build_media(enr, existing)
 
+        warnings = []
+        warn = lambda m: warnings.append(m)  # noqa: E731
         sets = [
             f"source_url = '{esc(enr['source_url'])}'",
             f"source_label = '{esc(enr['source_label'])}'",
@@ -106,6 +170,9 @@ def main():
         for c in enr.get("corrections") or []:
             if c.get("field") == "year" and c.get("to"):
                 sets.append(f"year = {int(c['to'])}")
+        sets += standard_sets(enr, stamp, warn)
+        for w in warnings:
+            print(f"     !! {w}")
 
         domains = enr.get("domains_covered", 0)
         n_img = len([u for u in media_urls if is_image(u)])

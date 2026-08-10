@@ -16,6 +16,10 @@ ROUTES = [("direct", "{u}"), ("wb24", "https://web.archive.org/web/2024/{u}"),
 
 
 def norm(s):
+    # JS-app sites (time.com…) ship article text as JSON strings; decode the
+    # escapes or a verbatim quote looks absent from its own page
+    s = re.sub(r"\\u([0-9a-fA-F]{4})", lambda m: chr(int(m.group(1), 16)), s)
+    s = s.replace('\\"', '"').replace("\\n", " ").replace("\\/", "/")
     for a, b in TRANS.items():
         s = s.replace(a, b)
     s = re.sub(r"[֑-ׇ]", "", s)
@@ -57,7 +61,11 @@ BLOCK_MARKS = ("just a quick check", "captcha", "enable javascript", "are you a 
 
 def is_blocked(text):
     t = text.strip().lower()
-    return len(t) < 400 or any(m in t for m in BLOCK_MARKS)
+    if len(t) < 400:
+        return True
+    # block pages are small; a marker inside a big real page is just a
+    # <noscript> boilerplate (time.com carries "enable javascript" at 298KB)
+    return len(t) < 8000 and any(m in t for m in BLOCK_MARKS)
 
 
 def best_check(url, q):
@@ -72,12 +80,15 @@ def best_check(url, q):
         if not os.path.exists(out) or os.path.getsize(out) < 200:
             continue
         text = to_text(out, pdf)
-        if is_blocked(text):
-            continue
-        reached = True
         f, snip = frac_of(q, text)
         if f < 1.0 and hard(q) in hard(text):
             f, snip, name = 1.0, "", name + "*"
+        if is_blocked(text) and f < 1.0:
+            # junk/short page without the quote — don't let it score
+            continue
+        # a full verbatim hit counts even on a page the heuristic dislikes:
+        # block pages never contain the quote (time.com direct = 3.7KB text)
+        reached = True
         if f > top:
             top, tsnip, troute = f, snip, name
         if f == 1.0:

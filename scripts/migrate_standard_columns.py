@@ -22,6 +22,8 @@ from audit_claims import run_sql  # noqa: E402
 #   39 actor_type  text    (single value)
 #   40 beneficiary text[]  (one or more)
 #      dedup    jsonb   (title/keyword fingerprint for the approval screen)
+#   64 origin_story text · 65 aftermath text · 66 recognition text (+ _en, rule 20)
+#   67 honors    jsonb [{what,year,source}] — an empty list is allowed with a note
 COLUMNS = [
     ("location", "jsonb"),
     ("people", "jsonb"),
@@ -30,6 +32,13 @@ COLUMNS = [
     ("beneficiary", "text[]"),
     ("audit", "jsonb"),
     ("dedup", "jsonb"),
+    ("origin_story", "text"),
+    ("origin_story_en", "text"),
+    ("aftermath", "text"),
+    ("aftermath_en", "text"),
+    ("recognition", "text"),
+    ("recognition_en", "text"),
+    ("honors", "jsonb"),
 ]
 
 MIGRATION = "ALTER TABLE public.entries\n  " + ",\n  ".join(

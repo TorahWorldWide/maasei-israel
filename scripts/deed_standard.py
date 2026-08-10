@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Score every deed against docs/DEED-STANDARD.md.
 
-The registry below holds all 125 rules of the standard — not only the ones a
+The registry below holds all 128 rules of the standard — not only the ones a
 script can decide. Rules that need a network fetch, a reader's judgment, a UI
 check or a run-time procedure are listed with the place they are enforced, so
 the document and the code hold the same list and `--verify-doc` can prove it.
@@ -58,6 +58,7 @@ RULES = [
     (7, EYE, "סופרלטיב נשען על מקור עצמאי"),
     (53, EYE, "ויקיפדיה כמפת דרכים בלבד"),
     (54, EYE, "כל מקור נפתח ונקרא לעומק"),
+    (128, AUTO_EYE, "לינק מקור גלוי על כל כרטיס"),
     (55, AUTO, "מיזוג = קריאה מחדש ועדכון התוכן"),
     # פרק ב — תמונות
     (8, AUTO, "5 תמונות ומעלה"),
@@ -111,6 +112,7 @@ RULES = [
     (74, AUTO, "בלי קליקבייט וסימני קריאה"),
     (75, AUTO, "title_reasoning קיים"),
     (76, UI, "כותרת · סרטון · הסבר מלא מתחת"),
+    (127, AUTO_EYE, "שינוי כותרת = הפניה מהכתובת הישנה"),
     # פרק ו — מטא־נתונים
     (24, NET, "המעש אינו כפול"),
     (25, AUTO, "קטגוריה"),
@@ -162,6 +164,7 @@ RULES = [
     (108, UI, "השראה מריפוזיטוריז מובילים"),
     (109, UI, "תפאורה מגניבה, יפה וממלכתית"),
     (110, UI, "פלטה כחול עמוק, מובייל־first"),
+    (129, UI, "מוטיבים יהודיים ברמז — לא קיטש, לא צעקה"),
     (111, UI, "טופס הגשה ציבורי"),
     (112, UI, "תומר מאשר, ורק אז הבוט"),
     (113, UI, "הבוט מצביע על הכפילות ושואל"),
@@ -178,7 +181,7 @@ RULES = [
     (123, AUTO, "תגים שנדחו במפורש"),
     (124, UI, "פיצ'רים שנדחו במפורש"),
     (125, PROC, "אסור לכתוב למסד ב-PostgREST anon"),
-    (126, UI, "אל תיגע בצבעים — מושהה עד הכרעה"),
+    (126, UI, "אל תיגע בצבעים — מושהה עד עבודת התפאורה"),
 ]
 
 KINDS = {n: k for n, k, _ in RULES}
@@ -266,6 +269,7 @@ def evaluate(entry):
         3: len(cites) >= len(real_domains) and len(cites) > 0,
         6: all((c.get("locator") or "").strip() for c in cites) if cites else False,
         55: bool(delta) if audit.get("merged_from") else True,
+        128: bool(entry.get("source_url")) and bool((entry.get("source_label") or "").strip()),
         # תמונות
         8: len(images) >= 5,
         9: all(IMAGE_EXT.search(u) for u in images) if images else False,
@@ -297,6 +301,7 @@ def evaluate(entry):
         73: 6 <= len(title.split()) <= 12,
         74: "!" not in title,
         75: filled("title_reasoning"),
+        127: bool(audit.get("redirects")) if (pre.get("title") or title) != title else True,
         # מטא־נתונים
         25: bool(entry.get("categories") or entry.get("category")),
         26: bool(entry.get("year")),

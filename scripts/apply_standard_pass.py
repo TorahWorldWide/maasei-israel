@@ -102,6 +102,8 @@ def build_update(doc, row):
         "spinoff_leads": doc.get("spinoff_leads") or [],
         "redirects": doc.get("redirects") or [],
         "person_notes": doc.get("person_notes") or [],
+        # Rule 139: an empty list means the worker looked; a missing key does not.
+        "sensitive_claims": doc.get("sensitive_claims") or [],
         "merged_from": doc.get("merged_from") or [],
         "notes": doc.get("notes"),
     }

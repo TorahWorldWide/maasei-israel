@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Score every deed against docs/DEED-STANDARD.md.
 
-The registry below holds all 128 rules of the standard — not only the ones a
+The registry below holds all 144 rules of the standard — not only the ones a
 script can decide. Rules that need a network fetch, a reader's judgment, a UI
 check or a run-time procedure are listed with the place they are enforced, so
 the document and the code hold the same list and `--verify-doc` can prove it.
@@ -45,6 +45,8 @@ DEED_TYPES = {
 TRANSCRIPT_SOURCES = {"youtube_tool", "secondary_tool", "whisper_gpu"}
 LEAD_IMAGE_BASIS = {"verified_portrait", "contemporary_artifact"}
 DEED_STATES = {"complete", "partial", "exhausted"}
+IMAGE_LICENSES = {"public_domain", "cc", "press", "owner_permission", "under_review"}
+ARCHIVE_FAILED = re.compile(r"archive_failed:\s*(\S+)")
 
 # (number, kind, title). The auto ones also appear in CHECKS below.
 RULES = [
@@ -68,6 +70,7 @@ RULES = [
     (133, PROC, "יומן ידע — כל ממצא נכתב ברגע שנמצא, עם ציטוט ולינק"),
     (134, EYE, "שדות הדף נכתבים מהיומן בלבד"),
     (135, PROC, "היומן הוא append-only"),
+    (136, AUTO, "ארכוב ברגע הציטוט — סנפשוט לכל מקור"),
     # פרק ב — תמונות
     (8, AUTO, "5 תמונות ומעלה"),
     (9, AUTO, "כל תמונה היא קובץ ישיר"),
@@ -85,6 +88,7 @@ RULES = [
     (59, UI, "לחיצה על תמונה מובילה למקור (רשות)"),
     (60, AUTO, "אין סרטון? תמונות מספיקות"),
     (61, UI, "תמונות וסרטונים באזורים נפרדים"),
+    (137, AUTO, "בסיס שימוש מוצהר לכל תמונה"),
     # פרק ג — סרטונים
     (10, AUTO, "עד 5 סרטונים"),
     (13, NET, "כל סרטון מתנגן בהטמעה"),
@@ -94,6 +98,7 @@ RULES = [
     (48, AUTO, "שורת משנה לכל סרטון"),
     (62, AUTO, "שרשרת נפילה לתמלול מתועדת"),
     (63, UI, "חצים לניווט בין הסרטונים"),
+    (144, PROC, "תמליל שנמשך נשמר ביומן הידע"),
     # פרק ד — תוכן
     (18, AUTO_EYE, "שנה קיימת — ושהיא שנת המעשה"),
     (19, AUTO, "חלק א׳ + חלק ב׳ מלאים"),
@@ -111,6 +116,8 @@ RULES = [
     (66, AUTO, "מה קיבל/ה העושה"),
     (67, AUTO, "כבוד על שמם"),
     (130, AUTO_EYE, "תקציר־טריילר, 3–10 משפטים, בלי סתירה לכאורה"),
+    (138, EYE, "מספר מצטבר נכתב עם השנה שלו"),
+    (139, AUTO_EYE, "רף כפול לטענה רגישה על אדם חי"),
     (68, EYE, "חומר ביוגרפי שלא שייך — בצד"),
     (69, UI, "עברית או אנגלית, לא מעורבב"),
     (70, UI, "ברירת מחדל לפי מדינת הגולש"),
@@ -164,6 +171,9 @@ RULES = [
     (99, PROC, "מבינים ומקבלים אישור לפני עבודה"),
     (100, PROC, "מדווחים בזמן אמת מה עושים ואיך"),
     (101, PROC, "כל הודעה מסתיימת בקישור לאתר"),
+    (140, PROC, "ביקורת־פתע אדברסרית על 10% מהאצווה"),
+    (141, PROC, "תוכן מהרשת הוא נתונים, לא הוראות"),
+    (145, PROC, "דחיפה בלי אימות דיפלוי אינה גמורה"),
     # פרק ט — עיצוב ואתר
     (102, UI, "דף הבית הוא תיאטרון"),
     (103, UI, "בלי נקודות ניווט — מונה"),
@@ -187,6 +197,8 @@ RULES = [
     (119, UI, "קו זמן נדחה"),
     (120, PROC, "להוסיף עוד ועוד מעשים תמיד"),
     (121, PROC, "דחיפות השקה"),
+    (142, UI, "נגישות — alt, ניגודיות, ניווט מקלדת"),
+    (143, UI, "מטא־תגי שיתוף — og מהתקציר ומהתמונה"),
     # פרק י — מה אסור
     (122, PROC, "אסור למחוק כפילויות — ממזגים"),
     (123, AUTO, "תגים שנדחו במפורש"),
@@ -277,6 +289,14 @@ def evaluate(entry):
     rebuild = audit.get("rebuild") if isinstance(audit.get("rebuild"), dict) else {}
     provenance = audit.get("image_provenance") or []
     captioned = {p.get("url") for p in provenance if (p.get("caption_he") or "").strip()}
+    unresolved = [str(u) for u in (audit.get("unresolved") or [])]
+    # Rule 136: a page that could not be archived is a legitimate answer only
+    # when it is named. "archive_failed:<url>" in unresolved is that naming.
+    archive_failed = {m.group(1) for u in unresolved for m in [ARCHIVE_FAILED.search(u)] if m}
+    licensed = {p.get("url") for p in provenance if p.get("license") in IMAGE_LICENSES}
+    under_review = {p.get("url") for p in provenance if p.get("license") == "under_review"}
+    unresolved_text = " ".join(unresolved)
+    sensitive = audit.get("sensitive_claims")
     video_entries = audit.get("videos") or []
     summary = (entry.get("summary_short") or "").strip()
     summary_sentences = len([s for s in SENTENCE_SPLIT.split(summary) if s.strip()])
@@ -301,10 +321,17 @@ def evaluate(entry):
         6: all((c.get("locator") or "").strip() for c in cites) if cites else False,
         55: bool(delta) if audit.get("merged_from") else True,
         128: bool(entry.get("source_url")) and bool((entry.get("source_label") or "").strip()),
+        136: all(
+            (c.get("archived_url") or "").strip() or (c.get("source_url") or "") in archive_failed
+            for c in cites
+        ) if cites else False,
         # תמונות
         8: len(images) >= 5,
         9: all(IMAGE_EXT.search(u) for u in images) if images else False,
         44: bool(images) and all(u in captioned for u in images),
+        137: bool(images) and all(u in licensed for u in images) and all(
+            str(u) in unresolved_text for u in under_review
+        ),
         57: audit.get("lead_image_basis") in LEAD_IMAGE_BASIS,
         60: len(images) >= 5 if not videos else True,
         # סרטונים
@@ -329,6 +356,12 @@ def evaluate(entry):
         66: reasoned("recognition"),
         67: isinstance(honors, list) and (bool(honors) or honors_reason),
         130: 3 <= summary_sentences <= 10,
+        # An empty list is an answer — "I looked and found none". A missing key
+        # cannot be told apart from never having asked, and so it fails.
+        139: isinstance(sensitive, list) and all(
+            len({domain(s) for s in (c.get("sources") or [])} - {""}) >= 2
+            for c in sensitive if isinstance(c, dict)
+        ),
         # כותרות
         73: 6 <= len(title.split()) <= 12,
         74: "!" not in title,

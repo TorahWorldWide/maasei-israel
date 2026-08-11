@@ -23,7 +23,7 @@ DOC = ROOT / "docs" / "DEED-STANDARD.md"
 BRIEFS = Path("/tmp/briefs")
 
 # Chapters the worker is judged on. Design (ט) and the company's own operating
-# rules live elsewhere — a worker handed all 128 rules reads none of them.
+# rules live elsewhere — a worker handed all 144 rules reads none of them.
 WORKER_CHAPTERS = [
     "פרק 0 — הכללים שמעל הכל",
     "פרק א — מקורות, לב האתר",
@@ -36,7 +36,9 @@ WORKER_CHAPTERS = [
     "פרק י — מה אסור",
 ]
 # Process rules that bind the worker itself, pulled in by number from פרק ח.
-WORKER_PROCESS_RULES = [33, 81, 87, 89, 122, 125]
+# 141 is the one that must reach every worker: it reads a hundred pages a run,
+# and any of them can contain text aimed at an agent.
+WORKER_PROCESS_RULES = [33, 81, 87, 89, 122, 125, 141]
 
 # Prose sections the worker needs verbatim. A numbered row says *that* a field
 # must be filled; these say *what belongs in it*, they carry no rule number, and
@@ -51,6 +53,15 @@ WORKER_SECTIONS = [
     # Rules 133-135 say a knowledge journal is written; this is its format and
     # the reason it comes before the page.
     "יומן ידע — קודם היומן, אחר כך הדף · כללים 133–135",
+    # Rule 136 says archive every source. This is the command, and what to do
+    # when archiving fails — a worker without it either skips or invents a url.
+    "ארכוב — הציטוט שורד את מות האתר · כלל 136",
+    # Rule 137 says "from the closed list below", and the list is prose.
+    "רישיון תמונה — הרשימה הסגורה · כלל 137",
+    # Rules 138-139 are judgment calls. The rows state them; these say which
+    # numbers need a year, and which claims need two sources.
+    '"נכון ל-" — למה מספר בלי שנה הוא מספר שגוי · כלל 138',
+    "רף כפול לאדם חי · כלל 139",
     # Rule 62 forbids skipping a transcript. This is the route when YouTube
     # blocks the VM — without it a worker reads the rule as impossible.
     "כשיוטיוב חוסם — המסלול דרך המחשב של תומר",
@@ -179,7 +190,13 @@ def main():
 `actor_type`, `beneficiary[]`, `dedup`, `lead_image_basis`,
 `content_delta[]`, `removed[]`, `corrections[]`, `disputes[]`,
 `unresolved[]`, `missing[]`, `tried[]`, `domains_covered`,
-`spinoff_leads[]`, `person_notes[]`, `redirects[]`, `notes`, `status`.
+`spinoff_leads[]`, `person_notes[]`, `redirects[]`, `sensitive_claims[]`,
+`notes`, `status`.
+
+שדות שיושבים **בתוך** האובייקטים, ונבדקים בנפרד:
+`citations[].archived_url` (כלל 136) · `image_provenance[].license` (כלל 137) ·
+`sensitive_claims[] = {{claim, sources[]}}` — לפחות שני דומיינים עצמאיים לכל
+טענה רגישה על אדם חי (כלל 139). אין טענות כאלה? רשימה ריקה, לא שדה חסר.
 
 `status` הוא אחד מ-`complete` / `partial` / `exhausted` — לפי פרק ז.
 

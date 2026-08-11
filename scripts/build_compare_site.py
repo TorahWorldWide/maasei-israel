@@ -168,7 +168,8 @@ a:hover{text-decoration:underline}
 </head>
 <body>
 <header><div class="wrap">
-  <h1>מעשי ישראל — לפני ואחרי <small id="stamp"></small></h1>
+  <h1>מעשי ישראל — לפני ואחרי <small id="stamp"></small>
+    <a href="standard/" style="float:left;font-size:13px;font-weight:400">דוח המעבר ←</a></h1>
   <nav id="tabs"></nav>
 </div></header>
 <main>

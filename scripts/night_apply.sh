@@ -46,26 +46,11 @@ for f in /tmp/compliance-out/*.json; do
   fi
 done
 
-# 3. archive rule 136. Not "what this tick touched" but "every target that
-# still fails 136" — a deed applied by hand between ticks is then never
-# stranded, and a deed already archived costs one cdx lookup to skip.
-if [ "$1" != "--no-arch" ]; then
-  python3 - "$TARGETS" > /tmp/night-arch.txt <<'PY'
-import sys
-sys.path.insert(0, "scripts")
-from deed_standard import fetch_entries, evaluate
-try:
-    want = {l.strip() for l in open(sys.argv[1]) if l.strip()}
-except OSError:
-    want = set()
-for e in fetch_entries():
-    if e["id"] in want and not evaluate(e).get(136):
-        print(e["id"])
-PY
-  if [ -s /tmp/night-arch.txt ]; then
-    echo "--- archive $(wc -l < /tmp/night-arch.txt) deeds still failing 136 (routes through Tomer's PC)"
-    timeout 3000 python3 scripts/archive_deed.py --apply --file /tmp/night-arch.txt 2>&1 | tail -20
-  fi
+# 3. archiving lives in night_archive.sh on its own lock and its own cron: it
+# runs for half an hour on one SSH channel and must not stand between a worker
+# that finished and the database. Kept here only for a manual "do everything".
+if [ "$1" = "--arch" ]; then
+  scripts/night_archive.sh
 fi
 
 # 4. where the target stands

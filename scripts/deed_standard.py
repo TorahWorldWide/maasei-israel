@@ -29,7 +29,20 @@ NOT_RELEVANT = re.compile(r"^\s*(לא רלוונטי|לא רלבנטי|not relev
 # A sentence break is terminal punctuation followed by space or end of text, so
 # "11.8" and "2,292,387" do not split.
 SENTENCE_SPLIT = re.compile(r"(?<=[.!?…])\s+")
+# "Dr. Bracha Zisser" is one sentence, not two. Terminal punctuation after a
+# title, an initial or a common abbreviation is not a sentence break, and a
+# caption should not have to be written badly to satisfy the counter.
+ABBREVIATION = re.compile(
+    r"\b(?:[A-Z]|Mr|Mrs|Ms|Dr|Prof|Sr|Jr|St|Mt|Rev|Gen|Col|Sgt|Lt|Capt"
+    r"|vs|etc|et al|e\.g|i\.e|cf|approx|no|vol|pp|ed|est"
+    r"|Inc|Ltd|Co|Univ|Dept|U\.S|U\.K|a\.m|p\.m)\.\s",
+    re.I)
 HONOR_WORDS = re.compile(r"כבוד|honors?|פרס|הנצחה|על שמ", re.I)
+
+
+def count_sentences(text):
+    return len([x for x in SENTENCE_SPLIT.split(ABBREVIATION.sub("_ ", text or ""))
+                if x.strip()])
 
 AUTO, AUTO_EYE, NET, EYE, UI, PROC = "auto", "auto+eye", "net", "eye", "ui", "proc"
 KIND_SYMBOL = {AUTO: "🤖", AUTO_EYE: "🤖 + 👁", NET: "🌐", EYE: "👁", UI: "🖥", PROC: "📋"}
@@ -334,7 +347,7 @@ def evaluate(entry):
             text = (item.get(field) or "").strip()
             if not text:
                 continue
-            sentences = len([x for x in SENTENCE_SPLIT.split(text) if x.strip()])
+            sentences = count_sentences(text)
             if argued and field in CAPTION_MAX_LONG:
                 if len(text) > CAPTION_MAX_LONG[field] or sentences > 2:
                     return False
@@ -359,7 +372,7 @@ def evaluate(entry):
     sensitive = audit.get("sensitive_claims")
     video_entries = audit.get("videos") or []
     summary = (entry.get("summary_short") or "").strip()
-    summary_sentences = len([s for s in SENTENCE_SPLIT.split(summary) if s.strip()])
+    summary_sentences = count_sentences(summary)
     honors = entry.get("honors")
     honors_reason = any(
         HONOR_WORDS.search(str(u)) for u in (audit.get("unresolved") or [])

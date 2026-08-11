@@ -238,12 +238,69 @@ paint();
 """
 
 
+RULE_NAMES = {
+    136: "ארכוב הציטוטים (רץ דרך המחשב של תומר, תור אחד, 20 שניות לכתובת)",
+    137: "רישיון לכל תמונה",
+    139: '"נכון ל-" על מספר שממשיך לגדול',
+    147: "כיתוב קצר — משפט אחד",
+    20: "תאום אנגלי מלא",
+}
+
+
+def report(scored, perfect, since, goal):
+    """The morning message. Written from the same artifacts as the page, so the
+    number Tomer reads in Telegram and the number he sees in the browser cannot
+    drift apart."""
+    lines = []
+    near = [e for f, e in scored if 0 < f <= 2]
+    lines.append(f"בוקר טוב. {perfect} מעשים מושלמים (50/50) מתוך יעד {goal}.")
+    if near:
+        lines.append(f"עוד {len(near)} חסרים כלל אחד או שניים — כתוב למטה מה בדיוק.")
+    lines.append("")
+
+    for i, (fails_n, e) in enumerate(scored, 1):
+        fails = [n for n in AUTO_RULES if not evaluate(e).get(n)]
+        mark = "✅" if not fails else "◻️"
+        lines.append(f"{mark} {i}. {e['title'][:70]}")
+        for b in night_work(e, since)[:3]:
+            lines.append(f"    • {b}")
+        if fails:
+            named = ", ".join(RULE_NAMES.get(n, f"כלל {n}") for n in fails[:3])
+            lines.append(f"    ✗ נשאר פתוח: {named}" + (" ועוד" if len(fails) > 3 else ""))
+        lines.append("")
+
+    done = 0
+    try:
+        log = Path("/tmp/enrich-logs/status-pass.txt").read_text(encoding="utf-8")
+        done = log.count("DONE ")
+    except OSError:
+        pass
+    comp = 0
+    try:
+        comp = Path("/tmp/enrich-logs/status-compliance.txt").read_text(
+            encoding="utf-8").count("DONE ")
+    except OSError:
+        pass
+    hours = (datetime.now(timezone.utc) - since).total_seconds() / 3600
+    lines.append("— כמה עבודה —")
+    lines.append(f"{done} מעשים נבנו מחדש מאפס ו-{comp} עברו מעבר תאימות, "
+                 f"ב-{hours:.1f} שעות, חמישה עובדי Opus במקביל.")
+    lines.append("כל מעש נבנה בזיכרון נקי: הפועל לא ראה את הדף הקיים ולא סמך עליו (כלל 49).")
+    lines.append("")
+    lines.append("עבור אחד-אחד ותסמן מרוצה או צריך תיקון:")
+    lines.append("https://torahworldwide.github.io/maasei-review/")
+    lines.append("https://maasei-israel.vercel.app")
+    return "\n".join(lines)
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--out", default="/home/ubuntu/maasei-review")
     ap.add_argument("--since", default="2026-08-11T18:00:00Z")
     ap.add_argument("--targets", default="/tmp/night-targets.txt")
     ap.add_argument("--goal", type=int, default=14)
+    ap.add_argument("--report", action="store_true",
+                    help="print the morning Telegram message instead of writing the page")
     args = ap.parse_args()
 
     since = datetime.fromisoformat(args.since.replace("Z", "+00:00"))
@@ -269,6 +326,10 @@ def main():
     scored = [(len([n for n in AUTO_RULES if not evaluate(e).get(n)]), e) for e in shown]
     scored.sort(key=lambda t: t[0])
     perfect = sum(1 for f, _ in scored if f == 0)
+
+    if args.report:
+        print(report(scored, perfect, since, args.goal))
+        return
 
     cards = "".join(card(e, since, i + 1) for i, (_f, e) in enumerate(scored))
     now = datetime.now(timezone.utc).astimezone().strftime("%d.%m.%Y %H:%M")

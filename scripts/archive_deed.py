@@ -79,8 +79,13 @@ def main():
     ok = sum(1 for r in records.values() if r["archived_url"])
     print(f"archived {ok}/{len(urls)}", flush=True)
 
+    # Re-read before writing. Saving one batch of urls takes half an hour on the
+    # PC's queue, and a caption or translation fix applied during that half hour
+    # lives in the same `audit` column this is about to overwrite. Writing the
+    # snapshot taken at startup silently reverted such a fix once.
+    fresh = load([i for i in ids if i in rows])
     for i in ids:
-        row = rows.get(i)
+        row = fresh.get(i) or rows.get(i)
         if not row:
             continue
         cites = row.get("citations") or []

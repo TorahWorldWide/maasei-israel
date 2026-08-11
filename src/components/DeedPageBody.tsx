@@ -179,17 +179,19 @@ export default function DeedPageBody({ entry }: { entry: Entry }) {
                 </p>
               ))}
             </div>
-            <button
-              type="button"
-              onClick={() => setOpen(!open)}
-              aria-expanded={open}
-              className="mt-5 inline-flex items-center gap-1.5 text-sm text-[#c9a84a] hover:text-[#e6c66e] border border-[#c9a84a]/30 hover:border-[#c9a84a]/60 rounded-full px-4 py-1.5 transition-colors"
-            >
-              {t(lang, open ? "readLess" : "readMore")}
-              <span aria-hidden="true" className={open ? "rotate-180" : ""}>
-                ⌄
-              </span>
-            </button>
+            <div className="mt-7 flex justify-center">
+              <button
+                type="button"
+                onClick={() => setOpen(!open)}
+                aria-expanded={open}
+                className="inline-flex items-center gap-2 text-base font-semibold px-7 py-3 rounded-full bg-gradient-to-b from-[#e6c66e] to-[#c9a84a] text-[#0a1834] shadow-lg shadow-[#c9a84a]/20 hover:from-[#f0d585] hover:to-[#d4b35a] transition-colors"
+              >
+                {t(lang, open ? "readLess" : "readMore")}
+                <span aria-hidden="true" className={open ? "rotate-180" : ""}>
+                  ⌄
+                </span>
+              </button>
+            </div>
           </div>
         )}
 

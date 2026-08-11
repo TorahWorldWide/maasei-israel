@@ -137,34 +137,21 @@ export default function DeedPageBody({ entry }: { entry: Entry }) {
 
         {/* Still images attached to a video entry — collage under the player. */}
         {extraImages.length > 0 && (
-          <DeedImageCollage images={extraImages} title={pick(lang, entry.title, entry.title_en)} />
+          <DeedImageCollage
+            images={extraImages}
+            title={pick(lang, entry.title, entry.title_en)}
+            provenance={entry.audit?.image_provenance}
+          />
         )}
 
-        {/* Image(s) — shown when there is no video. One image fills the frame;
-            several render as a responsive gallery. */}
+        {/* Image(s) — shown when there is no video. The same collage, so the
+            captions and group headings appear here too (rules 44–46). */}
         {images.length > 0 && (
-          <div
-            className={
-              images.length === 1
-                ? "w-full rounded-xl overflow-hidden mb-8 shadow-xl shadow-black/50"
-                : "grid grid-cols-1 sm:grid-cols-2 gap-3 mb-8"
-            }
-          >
-            {images.map((src, i) => (
-              // eslint-disable-next-line @next/next/no-img-element
-              <img
-                key={i}
-                src={src}
-                alt={`${pick(lang, entry.title, entry.title_en)}${images.length > 1 ? ` (${i + 1})` : ""}`}
-                className={
-                  images.length === 1
-                    ? "w-full max-h-[70vh] object-cover rounded-xl"
-                    : "w-full h-72 object-cover rounded-xl shadow-lg shadow-black/40"
-                }
-                loading="lazy"
-              />
-            ))}
-          </div>
+          <DeedImageCollage
+            images={images}
+            title={pick(lang, entry.title, entry.title_en)}
+            provenance={entry.audit?.image_provenance}
+          />
         )}
       </div>
 

@@ -4,6 +4,26 @@ export type MediaType = "video_embed" | "video_upload" | "image";
 export type Category = "חסד" | "המצאה מדעית" | "תרומה לעולם" | "היסטורי";
 export type Status = "pending" | "approved";
 
+// One picture's paper trail, as the enrichment passes wrote it into
+// audit.image_provenance. Field names drifted between passes, so the site
+// reads every spelling that reached the table.
+export interface ImageProvenance {
+  url: string;
+  group?: string | null;
+  group_en?: string | null;
+  caption_he?: string | null;
+  caption_en?: string | null;
+  credit?: string | null;
+  credit_line?: string | null;
+  photographer?: string | null;
+  source?: string | null;
+  source_url?: string | null;
+  shot_when?: string | null;
+  date?: string | null;
+  year?: string | number | null;
+  license?: string | null;
+}
+
 // A verbatim quote from an authoritative source that proves the deed happened.
 // The UI turns `quote` into a link that jumps to the EXACT spot in the source
 // (browser Text Fragment for web pages, #page=N for PDFs).
@@ -75,6 +95,10 @@ export interface Entry {
   // mirroring deed_registry. No DB column yet — always undefined until the
   // `dedup` jsonb column is added; src/lib/dedup.ts degrades gracefully.
   dedup?: { people?: string[]; keywords?: string[] };
+  // The enrichment record. Only image_provenance is read by the public site —
+  // it carries the caption and group heading every picture is shown with
+  // (rules 44–46) plus its credit and usage basis (rules 12, 137).
+  audit?: { image_provenance?: ImageProvenance[] };
   status: Status;
   created_at: string;
 }

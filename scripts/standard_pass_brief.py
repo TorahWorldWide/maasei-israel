@@ -41,7 +41,13 @@ WORKER_PROCESS_RULES = [33, 81, 87, 89, 122, 125]
 # Prose sections the worker needs verbatim. A numbered row says *that* a field
 # must be filled; these say *what belongs in it*, they carry no rule number, and
 # so the row scraper below cannot see them.
-WORKER_SECTIONS = ["מילון פרשנות לפי קטגוריה — כללים 64–67"]
+WORKER_SECTIONS = [
+    "מילון פרשנות לפי קטגוריה — כללים 64–67",
+    # Rules 38-40 and 123 say "from the closed list below" — and the list is
+    # prose. A worker told to obey a list it was never shown invents one.
+    "סוג המעשה — רשימה סגורה",
+    "מיקום — עד כמה מדויק",
+]
 
 ROW_FIELDS = [
     "id", "title", "year", "description", "act", "ripple",

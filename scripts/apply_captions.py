@@ -15,7 +15,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from audit_claims import run_sql  # noqa: E402
 
 FIELDS = ("caption_he", "caption_en", "group", "group_en",
-          "credit_en", "shot_when_en", "caption_long_he")
+          "credit_en", "shot_when_en", "caption_long_he", "caption_why_long")
 
 
 def main():

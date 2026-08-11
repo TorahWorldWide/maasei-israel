@@ -228,7 +228,13 @@ export default function DeedImageCollage({
         {(caption || credit) && (
           <figcaption className="mt-2 px-0.5">
             {caption && (
-              <p className="text-[11px] sm:text-xs text-blue-100/70 leading-snug line-clamp-3">
+              <p
+                className={`text-[11px] sm:text-xs text-blue-100/70 leading-snug ${
+                  // A caption that rule 147 let run long is the context the page
+                  // text never gives — clamping it away on a phone defeats it.
+                  wide ? "line-clamp-4" : "line-clamp-3"
+                }`}
+              >
                 {caption}
               </p>
             )}

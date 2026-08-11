@@ -50,6 +50,11 @@ ARCHIVE_FAILED = re.compile(r"archive_failed:\s*(\S+)")
 # Rule 147 — a caption is one short line, not a paragraph. The Hebrew line is
 # the one Tomer reads on a phone; English runs longer for the same sentence.
 CAPTION_MAX = {"caption_he": 80, "caption_en": 95, "group": 45, "group_en": 60}
+# The short line is the default, not a ceiling on meaning: an image whose reason
+# for being on the page is missing from the page text (rule 58) may buy the
+# context back in caption_why_long. A group heading never gets that exemption.
+CAPTION_MAX_LONG = {"caption_he": 200, "caption_en": 240}
+LONG_CAPTIONS_PER_PAGE = 2
 
 # (number, kind, title). The auto ones also appear in CHECKS below.
 RULES = [
@@ -93,7 +98,7 @@ RULES = [
     (61, UI, "תמונות וסרטונים באזורים נפרדים"),
     (137, AUTO, "בסיס שימוש מוצהר לכל תמונה"),
     (146, EYE, "תמונות מקפיצות עין — עד 2 סריקות טקסט לדף"),
-    (147, AUTO, "כיתוב = שורה אחת קצרה, לא פסקה"),
+    (147, AUTO, "כיתוב = שורה אחת קצרה כברירת מחדל, חריגה בנימוק"),
     # פרק ג — סרטונים
     (10, AUTO, "עד 5 סרטונים"),
     (13, NET, "כל סרטון מתנגן בהטמעה"),
@@ -324,19 +329,25 @@ def evaluate(entry):
     )
 
     def one_short_line(item):
+        argued = bool((item.get("caption_why_long") or "").strip())
         for field, limit in CAPTION_MAX.items():
             text = (item.get(field) or "").strip()
             if not text:
                 continue
-            if len(text) > limit:
-                return False
-            if len([x for x in SENTENCE_SPLIT.split(text) if x.strip()]) > 1:
+            sentences = len([x for x in SENTENCE_SPLIT.split(text) if x.strip()])
+            if argued and field in CAPTION_MAX_LONG:
+                if len(text) > CAPTION_MAX_LONG[field] or sentences > 2:
+                    return False
+                continue
+            if len(text) > limit or sentences > 1:
                 return False
         return True
 
     # A page with no captions at all fails rule 44, not this one — 147 judges
     # the captions that exist.
-    captions_are_trailers = all(one_short_line(p) for p in provenance)
+    argued_long = sum(1 for p in provenance if (p.get("caption_why_long") or "").strip())
+    captions_are_trailers = (argued_long <= LONG_CAPTIONS_PER_PAGE
+                             and all(one_short_line(p) for p in provenance))
     captioned = {p.get("url") for p in provenance if (p.get("caption_he") or "").strip()}
     unresolved = [str(u) for u in (audit.get("unresolved") or [])]
     # Rule 136: a page that could not be archived is a legitimate answer only

@@ -26,7 +26,7 @@ import sys, os, json, glob, datetime
 DEED_TYPES = {"המצאה מדעית", "רפואה והצלת חיים", "חסד וצדקה",
               "חילוץ ואסון טבע", "חינוך", "זכויות אדם"}
 ACTOR_TYPES = {"אדם יחיד", "ארגון", 'צה"ל', "המדינה", "חברה מסחרית"}
-BENEFICIARIES = {"לישראלים", "לזרים", "לאנושות כולה"}
+BENEFICIARIES = {"לעם ישראל", "לזרים", "לאנושות כולה"}
 PRECISIONS = {"exact", "city", "region", "country"}
 
 sys.path.insert(0, "/home/ubuntu/.hermes/scripts")

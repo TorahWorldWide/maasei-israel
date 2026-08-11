@@ -46,7 +46,14 @@ WORKER_SECTIONS = [
     # Rules 38-40 and 123 say "from the closed list below" — and the list is
     # prose. A worker told to obey a list it was never shown invents one.
     "סוג המעשה — רשימה סגורה",
+    "למי זה עזר — רשימה סגורה",
     "מיקום — עד כמה מדויק",
+    # Rules 133-135 say a knowledge journal is written; this is its format and
+    # the reason it comes before the page.
+    "יומן ידע — קודם היומן, אחר כך הדף · כללים 133–135",
+    # Rule 62 forbids skipping a transcript. This is the route when YouTube
+    # blocks the VM — without it a worker reads the rule as impossible.
+    "כשיוטיוב חוסם — המסלול דרך המחשב של תומר",
     # Rule 130 is the one field written after everything else. The row says the
     # sentence count; this says what makes a summary worth reading.
     "130 — התקציר נכתב אחרון, ונקרא ראשון",
@@ -77,13 +84,17 @@ def rule_rows():
 
 def section_text(title):
     """One `### title` block from the document, verbatim, heading included."""
-    lines, taking = [], False
+    lines, taking, fenced = [], False, False
     for line in DOC.read_text().splitlines():
-        if line.startswith("### "):
+        # A section that shows a markdown template holds `###` lines of its own.
+        # Inside a fence they are content, not the next heading.
+        if line.startswith("```"):
+            fenced = not fenced
+        elif not fenced and line.startswith("### "):
             if taking:
                 break
             taking = line[4:].strip() == title
-        elif line.startswith("## ") and taking:
+        elif not fenced and line.startswith("## ") and taking:
             break
         if taking:
             lines.append(line)
@@ -172,9 +183,16 @@ def main():
 
 `status` הוא אחד מ-`complete` / `partial` / `exhausted` — לפי פרק ז.
 
+## יומן ידע — התוצר הראשון (כללים 133–135)
+
+`/tmp/enrich-out/{args.deed_id}.knowledge.md` — **נפתח לפני המקור הראשון**. כל ממצא
+נכתב אליו ברגע שנמצא, עם ציטוט מילה-במילה ולינק, בפורמט שבתקן. רק כשהמחקר נגמר
+נכתב ה-JSON, **ממנו בלבד**. אל תכתוב שדה שאין לו ממצא ביומן.
+
 ## יומן עבודה (כלל 87)
 
 `/tmp/enrich-out/{args.deed_id}.journal.md` — מה חיפשת, מה נפל, מה הכרעת ולמה.
+זה *איך עבדת*, לא *מה גילית* — הממצאים יושבים ביומן הידע.
 
 ## תקציב (כלל 33)
 

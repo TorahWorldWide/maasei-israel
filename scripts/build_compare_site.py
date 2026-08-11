@@ -17,6 +17,7 @@ from urllib.parse import urlparse
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from audit_claims import run_sql  # noqa: E402
+from deed_standard import AUTO_RULES, evaluate  # noqa: E402
 
 
 def domain(url):
@@ -59,6 +60,9 @@ def build_payload(before_rows, after_rows):
             if json.dumps(row[f], ensure_ascii=False, sort_keys=True, default=str)
             != json.dumps(prev.get(f), ensure_ascii=False, sort_keys=True, default=str)
         ]
+        # The page now carries deeds from more than one generation of the pass.
+        # Without the score, an early deed and a finished one look alike.
+        after_result = evaluate(row)
         deeds.append({
             "id": row["id"],
             "title": row.get("title") or "",
@@ -66,8 +70,12 @@ def build_payload(before_rows, after_rows):
             "before": prev,
             "after": row,
             "changed": changed,
-            "m_before": metrics(prev),
-            "m_after": metrics(row),
+            "m_before": dict(metrics(prev), std=sum(
+                1 for n in AUTO_RULES if evaluate(prev).get(n))),
+            "m_after": dict(metrics(row), std=sum(
+                1 for n in AUTO_RULES if after_result.get(n))),
+            "std_total": len(AUTO_RULES),
+            "failing": [n for n in AUTO_RULES if not after_result.get(n)],
         })
     deeds.sort(key=lambda d: d["title"])
     return {"built": datetime.now(timezone.utc).isoformat(timespec="seconds"), "deeds": deeds}
@@ -193,7 +201,12 @@ function score(){
   const rows = [['מקורות','citations'],['דומיינים','domains'],['תמונות','images'],
                 ['סרטונים','videos'],['אנשים','people'],['מיקום','location'],
                 ['כבוד','honors'],['תווים','chars']];
-  document.getElementById('score').innerHTML = rows.map(([lbl,k])=>{
+  const sb = d.m_before.std||0, sa = d.m_after.std||0, st = d.std_total;
+  const stdTile = `<div class="tile"><div class="lbl">תקן${d.failing.length?
+      ` · נכשל ב-${d.failing.join(', ')}`:' · עובר הכל'}</div>
+    <div class="val" style="color:${sa===st?'var(--good)':'var(--warn)'}">${sa}/${st}
+    ${sa>sb?`<span class="up">+${sa-sb}</span>`:''}<span class="was">היה ${sb}</span></div></div>`;
+  document.getElementById('score').innerHTML = stdTile + rows.map(([lbl,k])=>{
     const b = d.m_before[k]||0, a = d.m_after[k]||0;
     const up = a>b ? `<span class="up">+${a-b}</span>` : '';
     return `<div class="tile"><div class="lbl">${lbl}</div>

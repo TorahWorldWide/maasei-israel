@@ -24,6 +24,7 @@ from deed_standard import AUTO_RULES, RULES, evaluate, fetch_entries  # noqa: E4
 ROOT = Path(__file__).resolve().parent.parent
 PASS_OUT = ROOT / "docs" / "enrichment" / "standard-pass"
 CAPTIONS = ROOT / "docs" / "enrichment" / "captions"
+VERIFY = ROOT / "docs" / "enrichment" / "verify"
 LIVE = "https://maasei-israel.vercel.app"
 RULE_TITLE = {n: title for n, _kind, title in RULES}
 
@@ -68,6 +69,19 @@ def night_work(entry, since):
             if sensitive else
             "טענות רגישות על אנשים חיים: נבדק ולא נמצאו"
         )
+
+    # Rule 140: not the worker's word for it. A second program fetched every
+    # source again and looked for the quote itself.
+    vpath = VERIFY / f"{eid}.json"
+    if vpath.exists():
+        counts = json.loads(vpath.read_text(encoding="utf-8")).get("counts") or {}
+        total = sum(counts.values())
+        if total:
+            found = counts.get("FOUND", 0)
+            bullets.append(
+                f"ביקורת עצמאית: {found} מתוך {total} הציטוטים נמצאו מילה-במילה בדף שנמשך מחדש"
+                + ("" if found == total else " — השאר מסומנים למטה")
+            )
     return bullets
 
 
@@ -106,6 +120,10 @@ def card(entry, since, index):
         for c in disputes
     )
     unres = "".join(f"<li>{esc(u)}</li>" for u in unresolved)
+
+    vpath = VERIFY / f"{eid}.json"
+    notfound = json.loads(vpath.read_text(encoding="utf-8")).get("not_found") or [] if vpath.exists() else []
+    nf = "".join(f"<li>{esc(x)}</li>" for x in notfound)
     work = "".join(f"<li>{esc(b)}</li>" for b in night_work(entry, since))
     failed = "".join(
         f"<li><b>כלל {n}</b> — {esc(RULE_TITLE.get(n, ''))}</li>" for n in fails
@@ -130,6 +148,7 @@ def card(entry, since, index):
   {f'<details><summary>שגיאות שנמצאו במקורות ({len(corrections)})</summary><ul>{corr}</ul></details>' if corr else ''}
   {f'<details><summary>סתירות בין מקורות ({len(disputes)})</summary><ul>{disp}</ul></details>' if disp else ''}
   {f'<details><summary>מה נשאר פתוח ({len(unresolved)})</summary><ul>{unres}</ul></details>' if unres else ''}
+  {f'<details class="fails"><summary>ציטוטים שהביקורת העצמאית לא אישרה ({len(notfound)})</summary><ul>{nf}</ul></details>' if nf else ''}
   {f'<div class="fails"><h3>לא עומד בכללים</h3><ul>{failed}</ul></div>' if failed else ''}
   <div class="verdict">
     <button class="ok" onclick="vote(this,'ok')">מרוצה</button>

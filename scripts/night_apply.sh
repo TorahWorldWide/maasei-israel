@@ -18,7 +18,12 @@ echo "=== $(date -u +%H:%MZ) night_apply"
 for f in /tmp/enrich-out/*.json; do
   [ -e "$f" ] || continue
   id="$(basename "$f" .json)"
-  case "$id" in *.journal|*.knowledge) continue;; esac
+  # A worker occasionally leaves scratch here (commons_cat.json, partA.json).
+  # Only a deed id is a deed.
+  case "$id" in
+    [0-9a-f][0-9a-f][0-9a-f][0-9a-f][0-9a-f][0-9a-f][0-9a-f][0-9a-f]-*-*-*-*) ;;
+    *) continue;;
+  esac
   echo "--- apply standard-pass $id"
   if python3 scripts/apply_standard_pass.py --apply --ids "$id" 2>&1 | tail -4; then
     # The doc that was written into the database is the repo's record of what
@@ -37,7 +42,7 @@ mkdir -p /tmp/compliance-out/applied
 for f in /tmp/compliance-out/*.json; do
   [ -e "$f" ] || continue
   id="$(basename "$f" .json)"
-  case "$id" in *.journal) continue;; esac
+  case "$id" in [0-9a-f][0-9a-f][0-9a-f][0-9a-f][0-9a-f][0-9a-f][0-9a-f][0-9a-f]-*-*-*-*) ;; *) continue;; esac
   echo "--- apply compliance $id"
   cp "$f" "docs/enrichment/captions/${id}.json"
   if python3 scripts/apply_captions.py "docs/enrichment/captions/${id}.json" --apply 2>&1 | tail -3; then

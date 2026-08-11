@@ -62,6 +62,13 @@ def main():
     for key in ("unresolved", "missing", "tried"):
         if key in sheet:
             audit[key] = sheet[key]
+    # "archive_failed:<url>" is the archiver's record of a page the Wayback
+    # Machine refused, and rule 136 reads it as the naming it asks for. A caption
+    # worker never sees it and would drop it by simply not repeating it.
+    kept = [u for u in (row["audit"].get("unresolved") or [])
+            if isinstance(u, str) and u.startswith("archive_failed:")]
+    audit["unresolved"] = list(audit.get("unresolved") or []) + [
+        u for u in kept if u not in (audit.get("unresolved") or [])]
     blob = json.dumps(audit, ensure_ascii=False).replace("'", "''")
     run_sql(f"update entries set audit = '{blob}'::jsonb where id = '{row['id']}'")
 

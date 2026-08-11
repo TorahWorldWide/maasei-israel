@@ -23,6 +23,10 @@ def norm(s):
     for a, b in TRANS.items():
         s = s.replace(a, b)
     s = re.sub(r"[֑-ׇ]", "", s)
+    # A Hebrew PDF extracts with bidi control characters wrapped around every
+    # run. They are invisible and carry no text, but they sat between the words
+    # and made three verbatim quotes look fabricated.
+    s = re.sub(r"[‎‏‪-‮⁦-⁩­]", "", s)
     # wiki footnote/edit markers land mid-sentence and break verbatim matching
     s = re.sub(r"\[\s*(\d+|edit|citation needed|דרוש מקור)\s*\]", " ", s, flags=re.I)
     s = re.sub(r"\s+", " ", s)

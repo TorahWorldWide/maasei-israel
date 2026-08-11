@@ -36,9 +36,13 @@ def curl(url, out, extra=None):
 def to_text(path, is_pdf):
     if is_pdf:
         best = ""
-        for mode in ("-raw", "-layout"):
-            t = path + mode + ".txt"
-            subprocess.run(["pdftotext", mode, path, t], capture_output=True)
+        # Default mode too, not only -raw and -layout: on a Hebrew PDF those two
+        # hand back the words of a line in visual order, and a quote that is
+        # verbatim in the document reads as three words out of four.
+        for mode in ("-raw", "-layout", ""):
+            t = path + (mode or "-plain") + ".txt"
+            subprocess.run([x for x in ["pdftotext", mode, path, t] if x],
+                           capture_output=True)
             if os.path.exists(t):
                 best += "\n" + open(t, encoding="utf-8", errors="ignore").read()
         return best

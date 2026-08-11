@@ -28,8 +28,10 @@ def run(deed_id):
     if not doc.exists():
         return None
     # verify_best.py imports fetchit from /tmp
+    # Always overwrite: a fix to the fetcher that never reaches /tmp is a fix
+    # that never runs, and the copy there outlives the repo's own file.
     fetchit = ROOT / "scripts" / "verify" / "fetchit.py"
-    if fetchit.exists() and not Path("/tmp/fetchit.py").exists():
+    if fetchit.exists():
         Path("/tmp/fetchit.py").write_bytes(fetchit.read_bytes())
 
     proc = subprocess.run(

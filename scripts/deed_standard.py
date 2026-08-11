@@ -437,7 +437,7 @@ def evaluate(entry):
             for c in sensitive if isinstance(c, dict)
         ),
         # כותרות
-        73: 6 <= len(title.split()) <= 12,
+        73: 6 <= len([w for w in title.split() if any(c.isalnum() for c in w)]) <= 12,
         74: "!" not in title,
         75: filled("title_reasoning"),
         127: bool(audit.get("redirects")) if (pre.get("title") or title) != title else True,

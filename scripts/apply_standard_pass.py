@@ -61,7 +61,12 @@ def build_update(doc, row):
 
     # media_urls is jsonb holding a flat array of URL strings — the site reads it
     # as string[], so provenance objects go to audit instead of inline here.
-    images = [m["url"] if isinstance(m, dict) else m for m in doc.get("media_urls") or []]
+    # A worker that filled image_provenance and left media_urls empty vetted nine
+    # images and published none of them. The provenance list is the gallery, so
+    # take it rather than write a page with no pictures.
+    gallery = doc.get("media_urls") or [
+        p for p in doc.get("image_provenance") or [] if p.get("url")]
+    images = [m["url"] if isinstance(m, dict) else m for m in gallery]
     videos = [v["url"] for v in doc.get("videos") or [] if v.get("url")]
     if images or videos:
         sets["media_urls"] = jsonb(images + videos)

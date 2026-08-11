@@ -4,8 +4,13 @@
 #
 #   nohup scripts/verify/launch_standard_pass.sh 3 >/dev/null 2>&1 &
 #
-# Queue: /tmp/enrich-queue.txt (built by dump_enrich_rows.py). Progress:
+# Queue: /tmp/enrich-queue.txt (one deed id per line). Progress:
 # tail /tmp/enrich-logs/status-pass.txt. A LIMIT line = lane sleeping 30m on 429.
+#
+# The worker reads /tmp/briefs/<id>.md — generated from DEED-STANDARD.md by
+# standard_pass_brief.py, so a rule that changes in the document reaches the
+# next worker without anyone remembering to copy it. Optional per-deed hints
+# (surviving research from a killed run) go in /tmp/briefs/<id>.hints.md.
 cd /home/ubuntu/maasei-israel || exit 1
 LANES="${1:-3}"
 Q=/tmp/enrich-queue.txt
@@ -26,24 +31,32 @@ lane() {
     if [ -s "/tmp/enrich-out/${id}.json" ] || [ -s "/tmp/enrich-out/applied/${id}.json" ]; then
       echo "SKIP $id already-done $(date +%H:%M)" >> "$ST"; continue
     fi
-    if [ ! -s "/tmp/enrich-in/${id}.json" ]; then
-      echo "NOIN $id missing input row $(date +%H:%M)" >> "$ST"; continue
+    brief="/tmp/briefs/${id}.md"
+    if [ ! -s "$brief" ]; then
+      python3 scripts/standard_pass_brief.py "$id" --write >/dev/null 2>&1
     fi
-    timeout 2400 claude -p "אתה סוכן העשרה בפרויקט 'מעשי ישראל'.
+    if [ ! -s "$brief" ]; then
+      echo "NOBRIEF $id could not build brief $(date +%H:%M)" >> "$ST"; continue
+    fi
+    hints=""
+    [ -s "/tmp/briefs/${id}.hints.md" ] && hints="
+מחקר ששרד מריצה קודמת שנהרגה: /tmp/briefs/${id}.hints.md — קרא אותו ראשון. הדפים שמופיעים בו כבר נמשכו ויושבים על הדיסק, ומשיכה חוזרת שלהם היא בזבוז תקציב. הם עדיין לא ראיה: ציטוט תקף רק אם מצאת אותו מילה-במילה בקובץ."
+    timeout 3600 claude -p "אתה סוכן בפרויקט 'מעשי ישראל'. אתה בונה **מחדש מאפס** מעש אחד לפי תקן דף המעשה.
 
-קרא קודם כל את התדריך המלא: /home/ubuntu/maasei-israel/scripts/verify/ENRICH-BRIEF.md — הוא מגדיר את היעד, את שדות התקן החדשים (מיקום, אנשים, תגים, locator, published), את התקציב הקשיח, ואת מבנה התוצר. פעל לפיו מילה במילה.
+התדריך המלא שלך: ${brief} — קרא אותו במלואו לפני שאתה נוגע ברשת. הוא מכיל את השורה הנוכחית במסד (רמז בלבד, לא מקור), את כל כללי התקן שאתה נמדד עליהם, את מילון הפרשנות לפי קטגוריה לשדות 64–67, ואת מבנה התוצר. פעל לפיו מילה במילה.${hints}
 
-המעש שלך: /tmp/enrich-in/${id}.json (קרא אותו — זו השורה האמיתית מהמסד)
 התוצר שלך: /tmp/enrich-out/${id}.json
-היומן שלך: /tmp/enrich-out/${id}.journal.md — תוצר שני וחובה, לפי סעיף 'יומן עבודה' בתדריך. כתוב אותו תוך כדי העבודה ולא בסוף מהזיכרון. יומן חסר = המעש לא נגמר.
+היומן שלך: /tmp/enrich-out/${id}.journal.md — תוצר שני וחובה (כלל 87). כתוב אותו תוך כדי העבודה ולא בסוף מהזיכרון. יומן חסר = המעש לא נגמר.
 
 תזכורות קריטיות:
-- חמישה דומיינים שונים, לא חמישה ציטוטים מאותו אתר.
+- חמישה דומיינים עצמאיים שונים, לא חמישה ציטוטים מאותו אתר. ויקיפדיה היא מפת דרכים להערות השוליים שלה, לא מקור.
 - כל ציטוט חייב להימצא מילה-במילה בדף שמשכת בפועל. לא מצאת = לא משתמש. אל תתפור שני משפטים לציטוט אחד.
 - לכל ציטוט: locator + published. לציטוט עברי: quote_en.
+- ארבעת השדות origin_story · aftermath · recognition · honors הם לב המעבר הזה. מלא אותם לפי מילון הפרשנות שבתדריך, לפי הקטגוריה של המעש שלך. אין הכרה אישית או פרס על שם? זו תשובה עוברת — כותבים 'לא רלוונטי — <נימוק>' ב-recognition ונימוק מקביל ב-unresolved עבור honors. שדה ריק אינו תשובה, ו'לא רלוונטי' בלי נימוק אינו תשובה.
+- כלל 42: מקור שנאסף ולא שינה את הטקסט הוא מקור מבוזבז. כל עובדה חדשה נכנסת לטקסט ונרשמת ב-content_delta עם המקור שממנו באה.
 - מיקום עם precision כן, עיר מומצאת לא. אנשים עברית+אנגלית. תגים מהרשימות הסגורות בלבד.
 - תקציב קשיח: 40 פעולות רשת. נגמר = כתוב partial עם missing+tried. דומיין שחסם = נטוש מיד.
-- אל תיגע במסד, אל תריץ SQL, אל תעשה git commit.
+- אל תיגע במסד, אל תריץ SQL, אל תעשה git commit. יש כותב אחד בלבד והוא apply_standard_pass.py.
 - כתוב את קובץ ה-JSON מיד כשסיימת, לפני שאתה כותב סיכום.
 דווח עד 150 מילים." \
       --permission-mode bypassPermissions --model claude-opus-5 \

@@ -25,6 +25,8 @@ DOC = ROOT / "docs" / "DEED-STANDARD.md"
 YOUTUBE = re.compile(r"youtu\.?be|youtube\.com", re.I)
 HEBREW = re.compile(r"[֐-׿]")
 IMAGE_EXT = re.compile(r"\.(jpe?g|png|webp|gif)(\?|$)", re.I)
+NOT_RELEVANT = re.compile(r"^\s*(לא רלוונטי|לא רלבנטי|not relevant|n/?a)\b[\s—–:,.-]*", re.I)
+HONOR_WORDS = re.compile(r"כבוד|honors?|פרס|הנצחה|על שמ", re.I)
 
 AUTO, AUTO_EYE, NET, EYE, UI, PROC = "auto", "auto+eye", "net", "eye", "ui", "proc"
 KIND_SYMBOL = {AUTO: "🤖", AUTO_EYE: "🤖 + 👁", NET: "🌐", EYE: "👁", UI: "🖥", PROC: "📋"}
@@ -237,6 +239,20 @@ def evaluate(entry):
     def filled(*fields):
         return all((entry.get(f) or "").strip() for f in fields)
 
+    def reasoned(field):
+        """Filled — and if the answer is "not relevant", it carries a reason.
+
+        A rescue mission usually has no personal recognition and no award in its
+        name. Saying so is a legitimate answer; saying only "לא רלוונטי" is not,
+        because it cannot be told apart from never having looked."""
+        value = (entry.get(field) or "").strip()
+        if not value:
+            return False
+        if NOT_RELEVANT.match(value):
+            return len(NOT_RELEVANT.sub("", value).strip()) >= 20
+        return True
+
+
     english_pairs = ["title", "description", "act", "ripple",
                      "origin_story", "aftermath", "recognition"]
     english_ok = all(
@@ -253,6 +269,10 @@ def evaluate(entry):
     provenance = audit.get("image_provenance") or []
     captioned = {p.get("url") for p in provenance if (p.get("caption_he") or "").strip()}
     video_entries = audit.get("videos") or []
+    honors = entry.get("honors")
+    honors_reason = any(
+        HONOR_WORDS.search(str(u)) for u in (audit.get("unresolved") or [])
+    )
     delta = audit.get("content_delta")
     pre = audit.get("pre") if isinstance(audit.get("pre"), dict) else {}
     title = entry.get("title") or ""
@@ -295,8 +315,8 @@ def evaluate(entry):
         ),
         64: filled("origin_story"),
         65: filled("aftermath"),
-        66: filled("recognition"),
-        67: isinstance(entry.get("honors"), list),
+        66: reasoned("recognition"),
+        67: isinstance(honors, list) and (bool(honors) or honors_reason),
         # כותרות
         73: 6 <= len(title.split()) <= 12,
         74: "!" not in title,

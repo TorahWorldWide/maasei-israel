@@ -38,6 +38,11 @@ WORKER_CHAPTERS = [
 # Process rules that bind the worker itself, pulled in by number from פרק ח.
 WORKER_PROCESS_RULES = [33, 81, 87, 89, 122, 125]
 
+# Prose sections the worker needs verbatim. A numbered row says *that* a field
+# must be filled; these say *what belongs in it*, they carry no rule number, and
+# so the row scraper below cannot see them.
+WORKER_SECTIONS = ["מילון פרשנות לפי קטגוריה — כללים 64–67"]
+
 ROW_FIELDS = [
     "id", "title", "year", "description", "act", "ripple",
     "source_url", "source_label", "media_url", "media_urls", "citations",
@@ -61,6 +66,23 @@ def rule_rows():
     return rows
 
 
+def section_text(title):
+    """One `### title` block from the document, verbatim, heading included."""
+    lines, taking = [], False
+    for line in DOC.read_text().splitlines():
+        if line.startswith("### "):
+            if taking:
+                break
+            taking = line[4:].strip() == title
+        elif line.startswith("## ") and taking:
+            break
+        if taking:
+            lines.append(line)
+    if not lines:
+        sys.exit(f"section not found in {DOC.name}: {title!r}")
+    return "\n".join(lines).rstrip()
+
+
 def rules_section():
     rows = rule_rows()
     by_chapter = {}
@@ -75,6 +97,9 @@ def rules_section():
         out.append(f"\n### {chapter}\n")
         for r in sorted(by_chapter[chapter], key=lambda x: x["n"]):
             out.append(f"{r['n']}. {r['requirement']}  \n   מבחן: {r['test']}")
+
+    for title in WORKER_SECTIONS:
+        out.append("\n" + section_text(title))
 
     out.append("\n### כללי עבודה שחלים עליך\n")
     for r in sorted((r for r in rows if r["n"] in WORKER_PROCESS_RULES), key=lambda x: x["n"]):

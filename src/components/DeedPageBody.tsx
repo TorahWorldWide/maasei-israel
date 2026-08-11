@@ -1,5 +1,6 @@
 "use client";
 
+import { useState } from "react";
 import Link from "next/link";
 import { useLang } from "@/components/LangProvider";
 import { t, pick, categoryLabel, locatorLabel } from "@/lib/i18n";
@@ -39,6 +40,11 @@ function sideBySide(act?: string, ripple?: string): boolean {
 export default function DeedPageBody({ entry }: { entry: Entry }) {
   const { lang } = useLang();
   const era = eraOf(entry.year);
+  // Rule 131: with a short summary the page opens on it and the documented
+  // chapters wait behind a button. Without one, the page reads as it always did.
+  const summary = pick(lang, entry.summary_short, entry.summary_short_en);
+  const [open, setOpen] = useState(false);
+  const showFull = !summary || open;
 
   // Video entries: media_urls may hold a MIX of extra YouTube videos and still
   // images. Split by whether a YouTube id can be extracted — anything that is
@@ -163,56 +169,84 @@ export default function DeedPageBody({ entry }: { entry: Entry }) {
       </div>
 
       <div className="max-w-3xl mx-auto px-4 sm:px-6 pb-12">
-        {/* Description */}
-        <p className="text-base text-blue-100/80 leading-relaxed mb-8">
-          {pick(lang, entry.description, entry.description_en)}
-        </p>
-
-        {/* How it began */}
-        <Section label={t(lang, "originLabel")} text={pick(lang, entry.origin_story, entry.origin_story_en)} />
-
-        {/* Act / Ripple — side by side while both are short, stacked once they are prose */}
-        {(entry.act || entry.ripple) && (
-          <div
-            className={
-              sideBySide(pick(lang, entry.act, entry.act_en), pick(lang, entry.ripple, entry.ripple_en))
-                ? "grid grid-cols-1 sm:grid-cols-2 gap-4 mb-8"
-                : "flex flex-col gap-4 mb-8"
-            }
-          >
-            <Section inGrid label={t(lang, "actLabel")} text={pick(lang, entry.act, entry.act_en)} />
-            <Section inGrid label={t(lang, "rippleLabel")} text={pick(lang, entry.ripple, entry.ripple_en)} />
+        {/* The short summary — the page opens on it (rule 130/131) */}
+        {summary && (
+          <div className="mb-8">
+            <div className="flex flex-col gap-3">
+              {summary.split(/\n\s*\n/).filter((p) => p.trim()).map((p, i) => (
+                <p key={i} className="text-lg text-blue-50/90 leading-relaxed">
+                  {p}
+                </p>
+              ))}
+            </div>
+            <button
+              type="button"
+              onClick={() => setOpen(!open)}
+              aria-expanded={open}
+              className="mt-5 inline-flex items-center gap-1.5 text-sm text-[#c9a84a] hover:text-[#e6c66e] border border-[#c9a84a]/30 hover:border-[#c9a84a]/60 rounded-full px-4 py-1.5 transition-colors"
+            >
+              {t(lang, open ? "readLess" : "readMore")}
+              <span aria-hidden="true" className={open ? "rotate-180" : ""}>
+                ⌄
+              </span>
+            </button>
           </div>
         )}
 
-        {/* What happened next · what they got for it */}
-        <Section label={t(lang, "aftermathLabel")} text={pick(lang, entry.aftermath, entry.aftermath_en)} />
-        <Section label={t(lang, "recognitionLabel")} text={pick(lang, entry.recognition, entry.recognition_en)} />
+        {showFull && (
+          <>
+            {/* Description */}
+            <p className="text-base text-blue-100/80 leading-relaxed mb-8">
+              {pick(lang, entry.description, entry.description_en)}
+            </p>
 
-        {/* Honors in their name */}
-        {entry.honors && entry.honors.length > 0 && (
-          <div className="bg-[#0f234d]/60 rounded-xl p-4 border border-[rgba(201,168,74,0.15)] mb-8">
-            <p className="text-xs text-[#c9a84a] font-medium mb-2">{t(lang, "honorsLabel")}</p>
-            <ul className="flex flex-col gap-1.5">
-              {entry.honors.map((h, i) => (
-                <li key={i} className="text-sm text-blue-100/80">
-                  {h.source ? (
-                    <a
-                      href={h.source}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="hover:text-[#e6c66e] transition-colors"
-                    >
-                      {h.what}
-                    </a>
-                  ) : (
-                    h.what
-                  )}
-                  {h.year ? <span className="text-blue-200/50"> · {h.year}</span> : null}
-                </li>
-              ))}
-            </ul>
-          </div>
+            {/* How it began */}
+            <Section label={t(lang, "originLabel")} text={pick(lang, entry.origin_story, entry.origin_story_en)} />
+
+            {/* Act / Ripple — side by side while both are short, stacked once they are prose */}
+            {(entry.act || entry.ripple) && (
+              <div
+                className={
+                  sideBySide(pick(lang, entry.act, entry.act_en), pick(lang, entry.ripple, entry.ripple_en))
+                    ? "grid grid-cols-1 sm:grid-cols-2 gap-4 mb-8"
+                    : "flex flex-col gap-4 mb-8"
+                }
+              >
+                <Section inGrid label={t(lang, "actLabel")} text={pick(lang, entry.act, entry.act_en)} />
+                <Section inGrid label={t(lang, "rippleLabel")} text={pick(lang, entry.ripple, entry.ripple_en)} />
+              </div>
+            )}
+
+            {/* What happened next · what they got for it */}
+            <Section label={t(lang, "aftermathLabel")} text={pick(lang, entry.aftermath, entry.aftermath_en)} />
+            <Section label={t(lang, "recognitionLabel")} text={pick(lang, entry.recognition, entry.recognition_en)} />
+
+            {/* Honors in their name */}
+            {entry.honors && entry.honors.length > 0 && (
+              <div className="bg-[#0f234d]/60 rounded-xl p-4 border border-[rgba(201,168,74,0.15)] mb-8">
+                <p className="text-xs text-[#c9a84a] font-medium mb-2">{t(lang, "honorsLabel")}</p>
+                <ul className="flex flex-col gap-1.5">
+                  {entry.honors.map((h, i) => (
+                    <li key={i} className="text-sm text-blue-100/80">
+                      {h.source ? (
+                        <a
+                          href={h.source}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="hover:text-[#e6c66e] transition-colors"
+                        >
+                          {h.what}
+                        </a>
+                      ) : (
+                        h.what
+                      )}
+                      {h.year ? <span className="text-blue-200/50"> · {h.year}</span> : null}
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            )}
+          </>
         )}
 
         {/* Citations */}

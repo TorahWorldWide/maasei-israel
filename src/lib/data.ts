@@ -45,6 +45,9 @@ export interface Entry {
   // When absent, the UI falls back to title (spark) and description (light).
   act?: string;
   ripple?: string;
+  // Rule 130: the 3–10 sentence opener, written last and read first. The page
+  // leads with it and keeps the full text behind a "read more" button (rule 131).
+  summary_short?: string;
   // The four sections rules 64–67 of the standard require: how the deed came to
   // be, what happened next, what the doer got for it, and the honors in their name.
   origin_story?: string;
@@ -61,6 +64,7 @@ export interface Entry {
   // and falls back to the Hebrew field when a translation is missing).
   title_en?: string;
   description_en?: string;
+  summary_short_en?: string;
   act_en?: string;
   ripple_en?: string;
   origin_story_en?: string;
@@ -236,6 +240,66 @@ export async function getEntryById(id: string): Promise<Entry | null> {
       ) ?? null
     );
   }
+}
+
+// ─── Admin: image order (rule 132) ──────────────────────────────────────────
+export interface MediaEntry {
+  id: string;
+  title: string;
+  media_type: MediaType;
+  media_url: string;
+  media_urls: string[];
+}
+
+export async function listEntriesWithMedia(): Promise<MediaEntry[]> {
+  const client = await getServiceClient();
+  const { data, error } = await client
+    .from("entries")
+    .select("id, title, media_type, media_url, media_urls")
+    .eq("status", "approved")
+    .order("title");
+  if (error) throw error;
+  return ((data ?? []) as MediaEntry[]).filter(
+    (e) => (e.media_urls?.length ?? 0) > 1
+  );
+}
+
+export const NOT_A_REORDER = "not a reordering of the stored images";
+
+export async function reorderEntryMedia(
+  id: string,
+  urls: string[]
+): Promise<string[]> {
+  const client = await getServiceClient();
+  const { data: row, error } = await client
+    .from("entries")
+    .select("media_type, media_urls")
+    .eq("id", id)
+    .single();
+  if (error) throw error;
+
+  // A reorder may only permute what is stored — this route never adds,
+  // removes or rewrites a url.
+  const stored = (row.media_urls ?? []) as string[];
+  const key = (a: string[]) => [...a].sort().join(" ");
+  if (stored.length !== urls.length || key(stored) !== key(urls)) {
+    throw new Error(NOT_A_REORDER);
+  }
+
+  const patch: { media_urls: string[]; media_url?: string } = {
+    media_urls: urls,
+  };
+  // The card and the stage read media_url, so an image deed's lead moves too.
+  if (row.media_type === "image") patch.media_url = urls[0];
+
+  const { data: written, error: writeErr } = await client
+    .from("entries")
+    .update(patch)
+    .eq("id", id)
+    .select("media_urls")
+    .single();
+  if (writeErr) throw writeErr;
+  return (written.media_urls ?? []) as string[];
 }
 
 // ─── Overview (the historian's "state of the nation" summary) ───────────────

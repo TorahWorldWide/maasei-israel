@@ -24,6 +24,7 @@ from audit_claims import run_sql  # noqa: E402
 #      dedup    jsonb   (title/keyword fingerprint for the approval screen)
 #   64 origin_story text · 65 aftermath text · 66 recognition text (+ _en, rule 20)
 #   67 honors    jsonb [{what,year,source}] — an empty list is allowed with a note
+#  130 summary_short text (+ _en) — the 3–10 sentence opener the page leads with
 COLUMNS = [
     ("location", "jsonb"),
     ("people", "jsonb"),
@@ -39,6 +40,8 @@ COLUMNS = [
     ("recognition", "text"),
     ("recognition_en", "text"),
     ("honors", "jsonb"),
+    ("summary_short", "text"),
+    ("summary_short_en", "text"),
 ]
 
 MIGRATION = "ALTER TABLE public.entries\n  " + ",\n  ".join(

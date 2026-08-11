@@ -5,6 +5,7 @@ import Link from "next/link";
 import type { Entry } from "@/lib/data";
 import { useLang } from "@/components/LangProvider";
 import { t, pick, categoryLabel } from "@/lib/i18n";
+import AdminMediaOrder from "@/components/AdminMediaOrder";
 
 interface PendingResult {
   entries: Entry[];
@@ -195,6 +196,7 @@ function SubmissionRow({
 
 function AdminQueue({ password }: { password: string }) {
   const { lang } = useLang();
+  const [tab, setTab] = useState<"queue" | "images">("queue");
   const [data, setData] = useState<PendingResult | null>(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<QueueErrorKey | null>(null);
@@ -232,46 +234,65 @@ function AdminQueue({ password }: { password: string }) {
             <span className="text-white/30">|</span>
             <h1 className="text-lg font-bold">{t(lang, "adminQueueTitle")}</h1>
           </div>
-          <button
-            onClick={load}
-            className="text-white/60 hover:text-white/90 text-sm flex items-center gap-1"
-            title={t(lang, "adminRefresh")}
-          >
-            <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15" />
-            </svg>
-            {t(lang, "adminRefresh")}
-          </button>
+          {tab === "queue" && (
+            <button
+              onClick={load}
+              className="text-white/60 hover:text-white/90 text-sm flex items-center gap-1"
+              title={t(lang, "adminRefresh")}
+            >
+              <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15" />
+              </svg>
+              {t(lang, "adminRefresh")}
+            </button>
+          )}
+        </div>
+        <div className="max-w-3xl mx-auto px-4 pb-3 flex items-center gap-2">
+          {(["queue", "images"] as const).map((key) => (
+            <button
+              key={key}
+              onClick={() => setTab(key)}
+              className={`text-sm px-3 py-1.5 rounded-full transition-colors ${
+                tab === key
+                  ? "bg-white text-blue-900 font-semibold"
+                  : "bg-white/10 text-white/70 hover:bg-white/20"
+              }`}
+            >
+              {t(lang, key === "queue" ? "adminTabQueue" : "adminTabImages")}
+            </button>
+          ))}
         </div>
       </header>
 
       <main className="flex-1 max-w-3xl mx-auto w-full px-4 py-10">
-        {loading && (
+        {tab === "images" && <AdminMediaOrder password={password} />}
+
+        {tab === "queue" && loading && (
           <div className="text-center py-16 text-slate-400">
             <p>{t(lang, "adminLoading")}</p>
           </div>
         )}
 
-        {error && (
+        {tab === "queue" && error && (
           <div className="bg-red-50 border border-red-200 text-red-700 px-5 py-4 rounded-xl mb-6">
             {t(lang, error)}
           </div>
         )}
 
-        {data && !data.configured && (
+        {tab === "queue" && data && !data.configured && (
           <div className="bg-amber-50 border border-amber-200 text-amber-800 px-5 py-4 rounded-xl text-sm">
             <p className="font-semibold">{t(lang, "adminSupabaseUnconfiguredTitle")}</p>
             <p className="mt-1">{t(lang, "adminSupabaseUnconfiguredBody")}</p>
           </div>
         )}
 
-        {data && data.configured && data.entries.length === 0 && (
+        {tab === "queue" && data && data.configured && data.entries.length === 0 && (
           <div className="text-center py-16 text-slate-400">
             <p className="text-lg">{t(lang, "adminNoPending")}</p>
           </div>
         )}
 
-        {data && data.configured && data.entries.length > 0 && (
+        {tab === "queue" && data && data.configured && data.entries.length > 0 && (
           <div className="flex flex-col gap-6">
             <p className="text-sm text-slate-500">
               {data.entries.length} {t(lang, "adminPendingCount")}

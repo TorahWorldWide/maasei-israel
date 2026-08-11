@@ -24,7 +24,7 @@ TEXT_FIELDS = [
     "title", "title_en", "title_reasoning", "year",
     "description", "description_en", "act", "act_en", "ripple", "ripple_en",
     "origin_story", "origin_story_en", "aftermath", "aftermath_en",
-    "recognition", "recognition_en",
+    "recognition", "recognition_en", "summary_short", "summary_short_en",
 ]
 ARRAY_FIELDS = ["deed_type", "beneficiary"]
 

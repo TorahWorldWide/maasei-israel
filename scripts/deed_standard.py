@@ -26,6 +26,9 @@ YOUTUBE = re.compile(r"youtu\.?be|youtube\.com", re.I)
 HEBREW = re.compile(r"[֐-׿]")
 IMAGE_EXT = re.compile(r"\.(jpe?g|png|webp|gif)(\?|$)", re.I)
 NOT_RELEVANT = re.compile(r"^\s*(לא רלוונטי|לא רלבנטי|not relevant|n/?a)\b[\s—–:,.-]*", re.I)
+# A sentence break is terminal punctuation followed by space or end of text, so
+# "11.8" and "2,292,387" do not split.
+SENTENCE_SPLIT = re.compile(r"(?<=[.!?…])\s+")
 HONOR_WORDS = re.compile(r"כבוד|honors?|פרס|הנצחה|על שמ", re.I)
 
 AUTO, AUTO_EYE, NET, EYE, UI, PROC = "auto", "auto+eye", "net", "eye", "ui", "proc"
@@ -74,6 +77,7 @@ RULES = [
     (47, EYE, "שתי תמונות של אותו מושא — אותה קביעה"),
     (56, EYE, "ספציפיות מנצחת תמונה גנרית"),
     (57, AUTO_EYE, "כלל הדיוקן — בסיס התמונה הראשית מוצהר"),
+    (132, EYE, "סיפור על אדם — התמונה שלו ראשונה"),
     (58, EYE, "קוהרנטיות גלריה–טקסט"),
     (59, UI, "לחיצה על תמונה מובילה למקור (רשות)"),
     (60, AUTO, "אין סרטון? תמונות מספיקות"),
@@ -103,6 +107,7 @@ RULES = [
     (65, AUTO, "מה קרה אחר כך"),
     (66, AUTO, "מה קיבל/ה העושה"),
     (67, AUTO, "כבוד על שמם"),
+    (130, AUTO_EYE, "תקציר כיף, 3–10 משפטים"),
     (68, EYE, "חומר ביוגרפי שלא שייך — בצד"),
     (69, UI, "עברית או אנגלית, לא מעורבב"),
     (70, UI, "ברירת מחדל לפי מדינת הגולש"),
@@ -161,6 +166,7 @@ RULES = [
     (103, UI, "בלי נקודות ניווט — מונה"),
     (104, UI, "בלי וילונות"),
     (105, UI, "מרווח צדדי בלי להעמיס"),
+    (131, UI, "הדף נפתח בתקציר, קרא עוד פותח את המלא"),
     (106, UI, "חלון נפרד לצלילה + מנוע חיפוש"),
     (107, UI, "ממשק שמחזיק 1000+ מעשים"),
     (108, UI, "השראה מריפוזיטוריז מובילים"),
@@ -254,7 +260,7 @@ def evaluate(entry):
 
 
     english_pairs = ["title", "description", "act", "ripple",
-                     "origin_story", "aftermath", "recognition"]
+                     "origin_story", "aftermath", "recognition", "summary_short"]
     english_ok = all(
         not (entry.get(f) or "").strip() or (entry.get(f + "_en") or "").strip()
         for f in english_pairs
@@ -269,6 +275,8 @@ def evaluate(entry):
     provenance = audit.get("image_provenance") or []
     captioned = {p.get("url") for p in provenance if (p.get("caption_he") or "").strip()}
     video_entries = audit.get("videos") or []
+    summary = (entry.get("summary_short") or "").strip()
+    summary_sentences = len([s for s in SENTENCE_SPLIT.split(summary) if s.strip()])
     honors = entry.get("honors")
     honors_reason = any(
         HONOR_WORDS.search(str(u)) for u in (audit.get("unresolved") or [])
@@ -317,6 +325,7 @@ def evaluate(entry):
         65: filled("aftermath"),
         66: reasoned("recognition"),
         67: isinstance(honors, list) and (bool(honors) or honors_reason),
+        130: 3 <= summary_sentences <= 10,
         # כותרות
         73: 6 <= len(title.split()) <= 12,
         74: "!" not in title,

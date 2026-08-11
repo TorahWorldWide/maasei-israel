@@ -283,6 +283,7 @@ function pane(d, side){
     <h2>${label}<em>${sub}</em></h2>
     <div class="body">
       ${sect('title','כותרת',ch,txt(r.title))}
+      ${sect('summary_short','תקציר — מה שנפתח ראשון',ch,txt(r.summary_short))}
       ${sect('description','תיאור',ch,txt(r.description))}
       ${sect('origin_story','איך זה התחיל',ch,txt(r.origin_story))}
       ${sect('act','מה נעשה',ch,txt(r.act))}

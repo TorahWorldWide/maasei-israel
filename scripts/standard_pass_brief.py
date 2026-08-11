@@ -47,6 +47,9 @@ WORKER_SECTIONS = [
     # prose. A worker told to obey a list it was never shown invents one.
     "סוג המעשה — רשימה סגורה",
     "מיקום — עד כמה מדויק",
+    # Rule 130 is the one field written after everything else. The row says the
+    # sentence count; this says what makes a summary worth reading.
+    "130 — התקציר נכתב אחרון, ונקרא ראשון",
 ]
 
 ROW_FIELDS = [
@@ -158,7 +161,8 @@ def main():
 השדות: `id`, `title`, `title_en`, `title_reasoning`, `year`,
 `description`, `description_en`, `origin_story`, `origin_story_en`,
 `act`, `act_en`, `ripple`, `ripple_en`, `aftermath`, `aftermath_en`,
-`recognition`, `recognition_en`, `source_url`, `source_label`,
+`recognition`, `recognition_en`, `summary_short`, `summary_short_en`,
+`source_url`, `source_label`,
 `source_label_en`, `citations[]`, `honors[]`, `media_urls[]`,
 `image_provenance[]`, `videos[]`, `location`, `people[]`, `deed_type[]`,
 `actor_type`, `beneficiary[]`, `dedup`, `lead_image_basis`,

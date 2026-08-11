@@ -38,6 +38,8 @@ type Strings = {
   aftermathLabel: string;
   recognitionLabel: string;
   honorsLabel: string;
+  readMore: string;
+  readLess: string;
   backedBySingle: string;
   sourcesVerified: string; // "<n> verified sources"
   pageAbbr: string;
@@ -144,6 +146,24 @@ type Strings = {
   adminApproving: string;
   adminReject: string;
   adminRejecting: string;
+  // Image ordering (rule 132 — the admin's manual override of the default)
+  adminTabQueue: string;
+  adminTabImages: string;
+  adminImagesTitle: string;
+  adminImagesHint: string;
+  adminImagesSearch: string;
+  adminImagesEmpty: string;
+  adminImagesPick: string;
+  adminImagesLead: string;
+  adminImagesVideo: string;
+  adminImagesMoveFirst: string;
+  adminImagesEarlier: string;
+  adminImagesLater: string;
+  adminImagesSave: string;
+  adminImagesSaving: string;
+  adminImagesSaved: string;
+  adminImagesSaveError: string;
+  adminImagesReset: string;
   // API error codes (server routes send a `code`; the client renders these)
   apiSourceRequired: string;
   apiSourceInvalid: string;
@@ -183,6 +203,8 @@ const dict: Record<Lang, Strings> = {
     aftermathLabel: "מה קרה אחר כך",
     recognitionLabel: "מה קיבלו על זה",
     honorsLabel: "כבוד על שמם",
+    readMore: "קרא עוד",
+    readLess: "סגור",
     backedBySingle: "מגובה במקור מאומת",
     sourcesVerified: "מקורות מאומתים",
     pageAbbr: "עמ׳",
@@ -279,6 +301,24 @@ const dict: Record<Lang, Strings> = {
     adminApproving: "מאשר...",
     adminReject: "✕ דחייה",
     adminRejecting: "דוחה...",
+    adminTabQueue: "תור הגשות",
+    adminTabImages: "סדר תמונות",
+    adminImagesTitle: "סדר התמונות של מעש",
+    adminImagesHint:
+      "כלל 132: כשהסיפור הוא על אדם — התמונה שלו ראשונה, והשרטוט או ההמצאה אחריה. התמונה הראשונה היא גם התמונה שמופיעה בכרטיס ובבמה.",
+    adminImagesSearch: "חיפוש לפי כותרת",
+    adminImagesEmpty: "אין מעשים עם יותר מתמונה אחת.",
+    adminImagesPick: "בחר מעש כדי לסדר את התמונות שלו",
+    adminImagesLead: "ראשית",
+    adminImagesVideo: "סרטון",
+    adminImagesMoveFirst: "העבר לראשון",
+    adminImagesEarlier: "אחורה",
+    adminImagesLater: "קדימה",
+    adminImagesSave: "שמור סדר",
+    adminImagesSaving: "שומר...",
+    adminImagesSaved: "הסדר נשמר.",
+    adminImagesSaveError: "השמירה נכשלה.",
+    adminImagesReset: "בטל שינויים",
     apiSourceRequired: "מקור (source_url) הוא שדה חובה",
     apiSourceInvalid: "קישור מקור אינו תקין",
     apiInternal: "שגיאה פנימית",
@@ -316,6 +356,8 @@ const dict: Record<Lang, Strings> = {
     aftermathLabel: "What happened next",
     recognitionLabel: "What they got for it",
     honorsLabel: "Honors in their name",
+    readMore: "Read more",
+    readLess: "Close",
     backedBySingle: "Backed by a verified source",
     sourcesVerified: "verified sources",
     pageAbbr: "p.",
@@ -419,6 +461,24 @@ const dict: Record<Lang, Strings> = {
     adminApproving: "Approving...",
     adminReject: "✕ Reject",
     adminRejecting: "Rejecting...",
+    adminTabQueue: "Submission queue",
+    adminTabImages: "Image order",
+    adminImagesTitle: "Image order for a deed",
+    adminImagesHint:
+      "Rule 132: when the story is about a person, their photo comes first and the drawing or invention after it. The first image is also the one shown on the card and on the stage.",
+    adminImagesSearch: "Search by title",
+    adminImagesEmpty: "No deed has more than one image.",
+    adminImagesPick: "Pick a deed to order its images",
+    adminImagesLead: "Lead",
+    adminImagesVideo: "Video",
+    adminImagesMoveFirst: "Move to first",
+    adminImagesEarlier: "Back",
+    adminImagesLater: "Forward",
+    adminImagesSave: "Save order",
+    adminImagesSaving: "Saving...",
+    adminImagesSaved: "Order saved.",
+    adminImagesSaveError: "Save failed.",
+    adminImagesReset: "Undo changes",
     apiSourceRequired: "A source (source_url) is required",
     apiSourceInvalid: "The source link is not valid",
     apiInternal: "Internal error",

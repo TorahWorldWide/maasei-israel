@@ -124,6 +124,20 @@ python3 scripts/deed_standard.py --failing 2  # מי נכשל בקריטריון
 `og:title` מהכותרת · `og:description` מהתקציר (130) · `og:image` מהתמונה הראשית.
 שיתוף בוואטסאפ הופך מקישור עירום לטריילר. שתי שורות בכל דף מעש.
 
+## 10. כיתובי טריילר ותרגום גלריה — 10 הדפים הנותרים
+דף הדי לאמאר עבר ב-11.8: כיתוב = שורה אחת (כלל 147), ואנגלית מלאה לגלריה
+ולציטוטים (כלל 20 המורחב). שאר הדפים עם `image_provenance` עדיין נכשלים:
+
+```bash
+python3 scripts/deed_standard.py --failing 147   # כיתובים ארוכים מדי
+python3 scripts/deed_standard.py --failing 20    # עברית שנשארת אחרי החלפת שפה
+```
+
+הדרך: גיליון לכל דף ב-`docs/enrichment/captions/<id>.json` →
+`scripts/apply_captions.py <גיליון> --apply`, ותוויות המקורות דרך
+`scripts/apply_citation_en.py`. התיאור הארוך של התמונה עובר ל-`caption_long_he`
+ולא נמחק. **עובדי Opus, דף אחד לכל עובד** (כלל האיכות: אפס טעויות לפני מהירות).
+
 ---
 
 # עתיד — מוסכם, לא עכשיו

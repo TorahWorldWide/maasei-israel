@@ -13,12 +13,17 @@ export interface ImageProvenance {
   group_en?: string | null;
   caption_he?: string | null;
   caption_en?: string | null;
+  // The long "what is in the frame" note. Kept as evidence that someone looked
+  // at the picture (rule 47); the gallery shows the short caption instead.
+  caption_long_he?: string | null;
   credit?: string | null;
+  credit_en?: string | null;
   credit_line?: string | null;
   photographer?: string | null;
   source?: string | null;
   source_url?: string | null;
   shot_when?: string | null;
+  shot_when_en?: string | null;
   date?: string | null;
   year?: string | number | null;
   license?: string | null;

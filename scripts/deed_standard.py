@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Score every deed against docs/DEED-STANDARD.md.
 
-The registry below holds all 144 rules of the standard — not only the ones a
+The registry below holds all 146 rules of the standard — not only the ones a
 script can decide. Rules that need a network fetch, a reader's judgment, a UI
 check or a run-time procedure are listed with the place they are enforced, so
 the document and the code hold the same list and `--verify-doc` can prove it.
@@ -47,6 +47,9 @@ LEAD_IMAGE_BASIS = {"verified_portrait", "contemporary_artifact"}
 DEED_STATES = {"complete", "partial", "exhausted"}
 IMAGE_LICENSES = {"public_domain", "cc", "press", "owner_permission", "under_review"}
 ARCHIVE_FAILED = re.compile(r"archive_failed:\s*(\S+)")
+# Rule 147 — a caption is one short line, not a paragraph. The Hebrew line is
+# the one Tomer reads on a phone; English runs longer for the same sentence.
+CAPTION_MAX = {"caption_he": 80, "caption_en": 95, "group": 45, "group_en": 60}
 
 # (number, kind, title). The auto ones also appear in CHECKS below.
 RULES = [
@@ -90,6 +93,7 @@ RULES = [
     (61, UI, "תמונות וסרטונים באזורים נפרדים"),
     (137, AUTO, "בסיס שימוש מוצהר לכל תמונה"),
     (146, EYE, "תמונות מקפיצות עין — עד 2 סריקות טקסט לדף"),
+    (147, AUTO, "כיתוב = שורה אחת קצרה, לא פסקה"),
     # פרק ג — סרטונים
     (10, AUTO, "עד 5 סרטונים"),
     (13, NET, "כל סרטון מתנגן בהטמעה"),
@@ -281,14 +285,58 @@ def evaluate(entry):
         not (entry.get(f) or "").strip() or (entry.get(f + "_en") or "").strip()
         for f in english_pairs
     )
+    # The citation line is on the screen too: the quote, the source label and
+    # the locator. All three stayed Hebrew in English mode until 11.8.
+    def hebrew_paired(item, he_field, en_field):
+        he = (item.get(he_field) or "").strip()
+        if not he or not HEBREW.search(he):
+            return True
+        return bool((item.get(en_field) or "").strip())
+
     hebrew_quotes_translated = all(
-        not HEBREW.search(c.get("quote") or "") or (c.get("quote_en") or "").strip()
+        hebrew_paired(c, "quote", "quote_en")
+        and hebrew_paired(c, "source_label", "source_label_en")
+        and hebrew_paired(c, "locator", "locator_en")
         for c in cites
     )
 
     audit = entry.get("audit") if isinstance(entry.get("audit"), dict) else {}
     rebuild = audit.get("rebuild") if isinstance(audit.get("rebuild"), dict) else {}
     provenance = audit.get("image_provenance") or []
+
+    # Rule 20 reaches the gallery too: a caption, a group heading and a credit
+    # line are on the screen exactly like the body text is, and stayed Hebrew
+    # in English mode until 11.8.
+    def paired(item, he_field, en_field):
+        he = (item.get(he_field) or "").strip()
+        en = (item.get(en_field) or "").strip()
+        if not he:
+            return True
+        return bool(en) and not HEBREW.search(en)
+
+    gallery_translated = all(
+        paired(p, "caption_he", "caption_en")
+        and paired(p, "group", "group_en")
+        and paired(p, "credit", "credit_en")
+        and (not HEBREW.search(str(p.get("shot_when") or ""))
+             or paired(p, "shot_when", "shot_when_en"))
+        for p in provenance
+    )
+
+    def one_short_line(item):
+        for field, limit in CAPTION_MAX.items():
+            text = (item.get(field) or "").strip()
+            if not text:
+                continue
+            if len(text) > limit:
+                return False
+            if len([x for x in SENTENCE_SPLIT.split(text) if x.strip()]) > 1:
+                return False
+        return True
+
+    # A page with no captions at all fails rule 44, not this one — 147 judges
+    # the captions that exist.
+    captions_are_trailers = all(one_short_line(p) for p in provenance)
     captioned = {p.get("url") for p in provenance if (p.get("caption_he") or "").strip()}
     unresolved = [str(u) for u in (audit.get("unresolved") or [])]
     # Rule 136: a page that could not be archived is a legitimate answer only
@@ -330,6 +378,7 @@ def evaluate(entry):
         8: len(images) >= 5,
         9: all(IMAGE_EXT.search(u) for u in images) if images else False,
         44: bool(images) and all(u in captioned for u in images),
+        147: captions_are_trailers,
         137: bool(images) and all(u in licensed for u in images) and all(
             str(u) in unresolved_text for u in under_review
         ),
@@ -346,7 +395,7 @@ def evaluate(entry):
         # תוכן
         18: bool(entry.get("year")),
         19: filled("act", "ripple"),
-        20: english_ok and hebrew_quotes_translated,
+        20: english_ok and hebrew_quotes_translated and gallery_translated,
         32: all((c.get("published") or "").strip() for c in cites) if cites else False,
         42: bool(delta),
         43: bool(pre) and any(

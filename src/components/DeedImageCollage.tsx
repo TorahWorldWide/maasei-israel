@@ -26,11 +26,13 @@ function groupOf(lang: string, p?: ImageProvenance) {
     : clean(p.group) ?? clean(p.group_en);
 }
 
-function creditOf(p?: ImageProvenance) {
+function creditOf(lang: string, p?: ImageProvenance) {
   if (!p) return undefined;
-  const who = clean(p.credit) ?? clean(p.credit_line) ?? clean(p.photographer);
+  const he = clean(p.credit) ?? clean(p.credit_line) ?? clean(p.photographer);
   const when = clean(p.shot_when) ?? clean(p.date) ?? clean(p.year as string);
-  return [when, who].filter(Boolean).join(" · ") || undefined;
+  const who = lang === "en" ? clean(p.credit_en) ?? he : he ?? clean(p.credit_en);
+  const shot = lang === "en" ? clean(p.shot_when_en) ?? when : when ?? clean(p.shot_when_en);
+  return [shot, who].filter(Boolean).join(" · ") || undefined;
 }
 
 // A responsive collage of the still images attached to a deed. When the entry
@@ -85,7 +87,7 @@ export default function DeedImageCollage({
 
   const open = visible.find((it) => it.i === openIdx);
   const openCaption = captionOf(lang, open?.prov);
-  const openCredit = creditOf(open?.prov);
+  const openCredit = creditOf(lang, open?.prov);
 
   const lightbox =
     openIdx === null || !open ? null : (
@@ -199,7 +201,7 @@ export default function DeedImageCollage({
 
   const Tile = ({ item, wide }: { item: Item; wide?: boolean }) => {
     const caption = captionOf(lang, item.prov);
-    const credit = creditOf(item.prov);
+    const credit = creditOf(lang, item.prov);
     return (
       <figure className="flex flex-col">
         <button

@@ -1,0 +1,138 @@
+{
+  "entry": "988815b9-3564-4d60-9fcc-3f41bff6de29",
+  "note": "סגרתי את ארבעת כללי התאימות על עשר התמונות: קראתי רישיון לכל אחת מדפי המקור, קיצרתי את כל הכיתובים לשורה אחת עם חריגה אחת מנומקת, השלמתי תאומים אנגליים, ובדקתי טענות רגישות על שכטמן שהוא אדם חי.",
+  "sensitive_claims": [
+    {
+      "claim": "דן שכטמן קיבל לבדו (חלק 1/1) את פרס נובל לכימיה 2011 \"על גילוי הגבישים הקוואזי-מחזוריים\" — ייחוס בלעדי של הגילוי לאדם חי.",
+      "sources": [
+        "https://www.nobelprize.org/prizes/chemistry/2011/shechtman/facts/",
+        "https://www.nist.gov/nist-and-nobel/dan-shechtman"
+      ]
+    }
+  ],
+  "unresolved": [
+    "אין סרטון. ארבעת דפי היוטיוב שהיו על הדיסק הם קליפת JavaScript שאינה מכילה את מזהה הסרטון המבוקש, וניסיון למשוך תמליל ב-yt-dlp החזיר \"Sign in to confirm you're not a bot\". לפי הוראת התדריך, דומיין שחסם — נטוש מיד, ולא הושקעו בו פעולות רשת נוספות. כלל 60 מתקיים: עשר תמונות.",
+    "לא נמצא במקורות שנבדקו פרס, קתדרה, מוסד מחקר, לוויין או חללית הנושאים את שמו של שכטמן. הכבוד היחיד מסוג \"על שמם\" שאותר הוא שם החומר — \"שכטמנית\" — לפי הודעת הטכניון מ-5.10.2011. יתר הפריטים ב-honors הם חברויות ומינויים, ונרשמו ככאלה ולא כפרסים על שמו.",
+    "שנות הלידה של אילן בלך, דני גרסייה, פרנק ביאנקנילו, ויליאם בוטינגר, פול שטיינהרדט, דב לוין, אן-פאנג צאי ופט תיאל אינן מופיעות באף אחד מהמקורות שנמשכו, ולכן שדה years שלהם נשאר \"—\" במקום להיות מנוחש.",
+    "עמוד הסגל של הטכניון מדפיס \"In 1981-l983\" — באות L קטנה במקום הספרה 1. זו שגיאת הקלדה בעמוד המקורי, והציטוט הובא כלשונו. שנות השבתון הן 1981–1983.",
+    "מאמר Physical Review Letters המקורי (53, 1951–1953) לא נמשך מ-APS: הדומיין החזיר דף אתגר של Cloudflare. פרטי המאמר מגובים בשני מקורות בלתי תלויים שכן אומתו — Physics Today ורשימת המקורות באיגרת האקדמיה הלאומית הישראלית למדעים.",
+    "כלל 137 — https://www.nist.gov/sites/default/files/images/2019/07/30/dsc_0831_schechtman.jpg סומנה under_review: עמוד התמונה ב-NIST נושא סימון מפורש \"Copyrighted image: You may not use this image without obtaining the rights to do so from the image source\", והקרדיט הוא Bob Elbert/Iowa State University. זהו בדיוק החריג שמדיניות NIST מוציאה מכלל \"public information\", ולא נמצא דף של ISU שמתיר שימוש. יש להשיג רשות מ-ISU או להחליף את התמונה.",
+    "כלל 139 — הטענה על הלעג ועל בקשת ראש המעבדה משכטמן לעזוב את קבוצת המחקר נתמכת בדומיין מאומת אחד בלבד: nobelprize.org/prizes/chemistry/2011/popular-information/ (\"some colleagues even resorted to ridicule... led his boss to ask him to leave the research group, as Schechtman himself recalled later\"). המקור עצמו מייחס אותה לזיכרונו של שכטמן. לא נרשמה ב-sensitive_claims כי חסר דומיין עצמאי שני; המועמד לבדיקה בריצה הבאה הוא nist.gov/nist-and-nobel/context-of-a-discovery-dan-shechtman.",
+    "כלל 139 — הטענה ששינוי הגדרת \"גביש\" בא בעקבות התגלית מאומתת בדומיין אחד בלבד: nobelprize.org/prizes/chemistry/2011/popular-information/ (\"In 1992, this realization led the International Union of Crystallography to alter its definition of what a crystal is\"). iucr.org חסום ב-Cloudflare (ראה tried), ולכן אין דומיין עצמאי שני.",
+    "כלל 20 — לארבע תמונות אין תאריך צילום מוצהר בעמוד המקור (the_first_view_of_the_icosohedral_phase, dsc_0831_schechtman, quasicrystal1), ו-shot_when_en שלהן נרשם \"Date not stated on source page\" במקום להיות מנוחש.",
+    "תקציב כלל 33 מוצה (25 פעולות רשת). ameslab.gov/copyright החזיר 404 ולכן מדיניות התמונות של מעבדת איימס לא נקראה ישירות; quasicrystal1.jpg הוכרע לפי מדיניות NIST והיעדר סימון זכויות בעמוד."
+  ],
+  "images": {
+    "shechtman_notebook.jpg": {
+      "caption_he": "יומן המעבדה, חשיפה 1725: שלוש מילים ושלושה סימני שאלה — \"10 Fold ???\".",
+      "caption_en": "The lab notebook, exposure 1725: three words and three question marks — \"10 Fold ???\".",
+      "group": "8 באפריל 1982 — הראיה עצמה",
+      "group_en": "8 April 1982 — the evidence itself",
+      "credit_en": "Dan Shechtman, via NIST",
+      "shot_when_en": "8 April 1982",
+      "caption_long_he": "עמוד יומן המעבדה של דן שכטמן ב-NBS (היום NIST), שבו תועדה התצפית הראשונה בגביש בעל סימטריה של פי עשרה. בחשיפה מספר 1725 רשם שכטמן שלוש מילים וסימני שאלה: \"10 Fold ???\".",
+      "license": "public_domain",
+      "license_note": "Credit line \"Dan Shechtman\"; page carries no copyright marking. NIST policy: \"With the exception of material marked as copyrighted, information presented on NIST sites are considered public information and may be distributed or copied.\", nist.gov/oism/copyrights. Image page: nist.gov/image/shechtmannotebookjpg"
+    },
+    "the_first_view_of_the_icosohedral_phase.jpg": {
+      "caption_he": "המראה הראשון של הפאזה האיקוסהדרלית — אטומים בפינות גוף בן 20 פאות.",
+      "caption_en": "The first view of the icosahedral phase — atoms at the corners of a 20-sided body.",
+      "group": "8 באפריל 1982 — הראיה עצמה",
+      "group_en": "8 April 1982 — the evidence itself",
+      "credit_en": "Dan Shechtman, via NIST",
+      "shot_when_en": "Date not stated on source page",
+      "caption_long_he": "המראה הראשון של גביש בעל סימטריה איקוסהדרלית, כפי שהפיק אותו שכטמן: קבוצות אטומים בפינות של איקוסהדרון בן 20 פאות, מחוברות במרחב לפי \"כללי התאמה\" המחייבים את הפאות להשתלב זו בזו. הסגסוגת שנבדקה הייתה אלומיניום ומנגן.",
+      "license": "public_domain",
+      "license_note": "Credit line \"Dan Shechtman\"; page carries no copyright marking. NIST policy: \"With the exception of material marked as copyrighted, information presented on NIST sites are considered public information and may be distributed or copied.\", nist.gov/oism/copyrights. Image page: nist.gov/image/thefirstviewoftheicosohedralphasejpg"
+    },
+    "shechtman_quasicrystals_hr.jpg": {
+      "caption_he": "NIST, 1985: שכטמן (משמאל) ועמיתיו דנים במבנה הגביש הקוואזי-מחזורי.",
+      "caption_en": "NIST, 1985: Shechtman (left) and colleagues discussing the quasicrystal structure.",
+      "group": "האנשים במעבדה",
+      "group_en": "The people in the laboratory",
+      "credit_en": "H. Mark Helfer/NIST",
+      "shot_when_en": "1985",
+      "caption_long_he": "NIST, 1985: שכטמן (משמאל) דן במבנה האטומי של הגבישים הקוואזי-מחזוריים עם עמיתיו — משמאל לימין — פרנק ביאנקנילו, דני גרסייה, ג'ון קאהן, ליאוניד בנדרסקי ורוברט שפר. ביאנקנילו הוא שייצר את הסגסוגת שבה נעשה הגילוי; גרסייה וקאהן היו שותפים למאמר ב-1984.",
+      "license": "public_domain",
+      "license_note": "Credit line \"H. Mark Helfer/NIST\" — NIST staff photograph, no copyright marking. NIST policy: \"With the exception of material marked as copyrighted, information presented on NIST sites are considered public information and may be distributed or copied.\", nist.gov/oism/copyrights. Image page: nist.gov/image/shechtmanquasicrystalshrjpg"
+    },
+    "john_cahn_dan_shechtman_and_denis_gratias.jpg": {
+      "caption_he": "ג'ון קאהן, שכטמן ודני גרסייה ב-NIST בשנות השמונים. קאהן, המארח, פתח בדחייה — \"לך מכאן, דני. אלה תאומים\" — ולימים נעשה שותפו למאמר.",
+      "caption_en": "John Cahn, Shechtman and Denis Gratias at NIST in the 1980s. Cahn, his host, first rejected the finding — \"Go away, Danny. These are twins\" — and later became his co-author.",
+      "caption_why_long": "טקסט הדף מזכיר לעג של עמיתים אך אינו מזהה את קאהן ואינו מספר שדווקא המארח שדחה את הממצא נעשה לשותפו — בלי זה שלושת האנשים בתצלום חסרי הקשר.",
+      "group": "האנשים במעבדה",
+      "group_en": "The people in the laboratory",
+      "credit_en": "NIST",
+      "shot_when_en": "1980s",
+      "caption_long_he": "ג'ון קאהן, דן שכטמן ודני גרסייה ב-NIST בשנות השמונים. קאהן, שאירח את שכטמן, דחה את הממצא בתחילה (\"לך מכאן, דני. אלה תאומים\") ולימים נעשה לתומכו ולשותפו למאמר.",
+      "license": "public_domain",
+      "license_note": "Credit line \"NIST\" — US federal agency work, no copyright marking. NIST policy: \"With the exception of material marked as copyrighted, information presented on NIST sites are considered public information and may be distributed or copied.\", nist.gov/oism/copyrights. Image page: nist.gov/image/johncahndanshechtmananddenisgratiasjpg"
+    },
+    "dsc_0831_schechtman.jpg": {
+      "caption_he": "שכטמן לצד המיקרוסקופ האלקטרוני החודר — סוג המכשיר שדרכו ראה ב-1982.",
+      "caption_en": "Shechtman beside a transmission electron microscope — the kind he looked through in 1982.",
+      "group": "האנשים במעבדה",
+      "group_en": "The people in the laboratory",
+      "credit_en": "Photo by Bob Elbert/Iowa State University, via NIST",
+      "shot_when_en": "Date not stated on source page",
+      "caption_long_he": "שכטמן לצד אחד מכלי המחקר המרכזיים שלו — המיקרוסקופ האלקטרוני החודר. זהו סוג המכשיר שדרכו נעשתה התצפית ב-1982.",
+      "license": "under_review",
+      "license_note": "NIST image page states verbatim: \"Copyrighted image: You may not use this image without obtaining the rights to do so from the image source.\" Credit \"Photo by Bob Elbert / Iowa State University\". This is the explicit exception to the NIST public-information policy, and no permission from ISU could be pointed to. Image page: nist.gov/image/dsc0831schechtmanjpg"
+    },
+    "quasicrystal1.jpg": {
+      "caption_he": "מודל אטומי של פני שטח בגביש קוואזי-מחזורי מאלומיניום-פלדיום-מנגן.",
+      "caption_en": "Atomic model of an aluminium-palladium-manganese quasicrystal surface.",
+      "group": "מה זה גביש קוואזי-מחזורי",
+      "group_en": "What a quasicrystal is",
+      "credit_en": "J.W. Evans, The Ames Laboratory, US Department of Energy, via NIST",
+      "shot_when_en": "Date not stated on source page",
+      "caption_long_he": "מודל אטומי של פני שטח של גביש קוואזי-מחזורי מאלומיניום-פלדיום-מנגן. הפאזה שגילה שכטמן ב-1982 הייתה מטא-יציבה; פאזות יציבות כמו זו התגלו רק מאוחר יותר.",
+      "license": "public_domain",
+      "license_note": "Credit and Image Source both read \"J.W. Evans, The Ames Laboratory, US Department of Energy\" — a US DOE national laboratory. Page carries NO copyright marking, unlike nist.gov/image/dsc0831schechtmanjpg which does. NIST policy: \"With the exception of material marked as copyrighted, information presented on NIST sites are considered public information and may be distributed or copied.\", nist.gov/oism/copyrights. Image page: nist.gov/image/quasicrystal1jpg"
+    },
+    "fig1-fig2-popular-chemistryprize2011.jpg": {
+      "caption_he": "איורים 1–2: סיבוב של 36 מעלות מחזיר את אותה תבנית עקיפה בדיוק.",
+      "caption_en": "Figures 1–2: a turn of 36 degrees returns exactly the same diffraction pattern.",
+      "group": "מה זה גביש קוואזי-מחזורי",
+      "group_en": "What a quasicrystal is",
+      "credit_en": "© Johan Jarnestad/The Royal Swedish Academy of Sciences",
+      "shot_when_en": "2011",
+      "caption_long_he": "איור 1: תבנית העקיפה של שכטמן הייתה בעלת סימטריה של פי עשרה — סיבוב של עשירית מעגל (36 מעלות) מחזיר את אותה תבנית בדיוק. איור 2: אור שעובר דרך סורג עקיפה מתפזר, והגלים הנוצרים מתאבכים זה בזה ויוצרים את תבנית העקיפה.",
+      "license": "press",
+      "license_note": "Credit read verbatim beside the figures: \"© Johan Jarnestad/The Royal Swedish Academy of Sciences\" at nobelprize.org/prizes/chemistry/2011/popular-information/. Nobel terms of use: Content \"is either proprietary to Nobel Prize Outreach or used in accordance with applicable law or third party consents\", reuse allowed for Press / legislative exemption with credit — nobelprize.org/about/terms-of-use/"
+    },
+    "fig3-popular-chemistryprize2011.jpg": {
+      "caption_he": "איור 3: התבנית בגביש בעל סימטריה של פי חמישה לעולם לא תחזור על עצמה.",
+      "caption_en": "Figure 3: the pattern in a fivefold-symmetry crystal never repeats itself.",
+      "group": "מה זה גביש קוואזי-מחזורי",
+      "group_en": "What a quasicrystal is",
+      "credit_en": "© Johan Jarnestad/The Royal Swedish Academy of Sciences",
+      "shot_when_en": "2011",
+      "caption_long_he": "איור 3: סוגי סימטריה שונים בגבישים. התבנית שבתוך הגביש בעל סימטריה של פי חמישה לעולם לא תחזור על עצמה — וזו בדיוק הסיבה שספרי הקריסטלוגרפיה אסרו אותה.",
+      "license": "press",
+      "license_note": "Credit read verbatim beside Figure 3: \"© Johan Jarnestad/The Royal Swedish Academy of Sciences\" at nobelprize.org/prizes/chemistry/2011/popular-information/. Nobel terms of use: Content \"is either proprietary to Nobel Prize Outreach or used in accordance with applicable law or third party consents\", reuse allowed for Press / legislative exemption with credit — nobelprize.org/about/terms-of-use/"
+    },
+    "shechtman-15174-portrait-medium.jpg": {
+      "caption_he": "הדיוקן הרשמי של זוכה פרס נובל לכימיה 2011 — חלקו בפרס: 1/1.",
+      "caption_en": "The official portrait of the 2011 Nobel Laureate in Chemistry — prize share: 1/1.",
+      "group": "נובל 2011",
+      "group_en": "Nobel 2011",
+      "credit_en": "© The Nobel Foundation. Photo: U. Montan",
+      "shot_when_en": "2011",
+      "caption_long_he": "הדיוקן הרשמי של דן שכטמן כזוכה פרס נובל לכימיה 2011. חלקו בפרס: 1/1 — הוא קיבל אותו לבדו, 29 שנים אחרי התצפית.",
+      "license": "press",
+      "license_note": "Credit read verbatim on the laureate page: \"© The Nobel Foundation. Photo: U. Montan\" at nobelprize.org/prizes/chemistry/2011/shechtman/facts/. Nobel terms of use: Content \"is either proprietary to Nobel Prize Outreach or used in accordance with applicable law or third party consents\", reuse allowed for Press / legislative exemption with credit — nobelprize.org/about/terms-of-use/"
+    },
+    "shechtman-15174-landscape-medium.jpg": {
+      "caption_he": "אותו צילום רשמי בפריסה לרוחב, כפי שהוא בראש עמוד הזוכה באתר נובל.",
+      "caption_en": "The same official photograph in landscape, as it heads the laureate page.",
+      "group": "נובל 2011",
+      "group_en": "Nobel 2011",
+      "credit_en": "© The Nobel Foundation. Photo: U. Montan",
+      "shot_when_en": "2011",
+      "caption_long_he": "אותו צילום רשמי של שכטמן בפריסה לרוחב, כפי שהוא מופיע בראש עמודי הזוכה באתר קרן נובל.",
+      "license": "press",
+      "license_note": "Same U. Montan photograph as the portrait file, landscape crop; credit \"© The Nobel Foundation. Photo: U. Montan\" read at nobelprize.org/prizes/chemistry/2011/shechtman/facts/. Nobel terms of use: Content \"is either proprietary to Nobel Prize Outreach or used in accordance with applicable law or third party consents\", reuse allowed for Press / legislative exemption with credit — nobelprize.org/about/terms-of-use/"
+    }
+  }
+}

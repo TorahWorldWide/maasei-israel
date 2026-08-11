@@ -15,7 +15,8 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from audit_claims import run_sql  # noqa: E402
 
 FIELDS = ("caption_he", "caption_en", "group", "group_en",
-          "credit_en", "shot_when_en", "caption_long_he", "caption_why_long")
+          "credit", "credit_en", "shot_when", "shot_when_en",
+          "caption_long_he", "caption_why_long", "license", "license_note")
 
 
 def main():
@@ -52,15 +53,28 @@ def main():
         return
 
     audit = dict(row["audit"], image_provenance=prov)
+    # Rule 139 travels with the sheet: the same worker that looked at the page
+    # is the one that can say whether it makes a sensitive claim about a living
+    # person. An empty list is an answer; a missing key is not, so only a key
+    # that is actually present overwrites what is there.
+    if "sensitive_claims" in sheet:
+        audit["sensitive_claims"] = sheet["sensitive_claims"]
+    for key in ("unresolved", "missing", "tried"):
+        if key in sheet:
+            audit[key] = sheet[key]
     blob = json.dumps(audit, ensure_ascii=False).replace("'", "''")
     run_sql(f"update entries set audit = '{blob}'::jsonb where id = '{row['id']}'")
 
     back = run_sql(f"select audit->'image_provenance' as p from entries where id = '{row['id']}'")
-    wrote = [p.get("caption_he") for p in back[0]["p"]]
-    want = [sheet["images"][p["url"].rsplit("/", 1)[-1]].get("caption_he") for p in prov]
-    if wrote != want:
-        sys.exit("הכתיבה לא נקלטה — הכיתובים במסד אינם מה שנשלח")
-    print(f"\nנכתב ואומת: {len(wrote)} כיתובים ב-{row['title'][:50]}")
+    checked = 0
+    for wrote, photo in zip(back[0]["p"], prov):
+        patch = sheet["images"].get(photo["url"].rsplit("/", 1)[-1]) or {}
+        for field in FIELDS:
+            if field in patch:
+                checked += 1
+                if wrote.get(field) != patch[field]:
+                    sys.exit(f"הכתיבה לא נקלטה — {field} במסד אינו מה שנשלח")
+    print(f"\nנכתב ואומת: {checked} שדות ב-{row['title'][:50]}")
 
 
 if __name__ == "__main__":

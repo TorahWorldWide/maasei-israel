@@ -1,0 +1,107 @@
+{
+  "entry": "4b74f9e1-4d2b-470b-8a57-48f3a57f693f",
+  "note": "מעבר תאימות לארבעת הכללים: שבעה רישיונות הוכרעו press אחרי קריאת שורת הקרדיט ב-HTML של שלושת דפי המקור (3 פעולות רשת), שבעה כיתובים קוצרו לשורה אחת בלי אף חריגה והמקור הארוך נשמר ב-caption_long_he, נוספו תאומים אנגליים לכל שדה עברי, ונרשמו שתי טענות רגישות שכל אחת נתמכת בשני דומיינים עצמאיים ומעלה.",
+  "sensitive_claims": [
+    {
+      "claim": "טענות UBQ על התהליך ועל התועלת שלו ספגו ספקנות מקצועית מפורשת: דואן פרידי, מנכ\"ל Plastic Expert Group ומדען ראשי לשעבר בדאו כימיקלס, קבע ב-2018 שהטענות טובות מכדי להיות אמיתיות והשווה אותן לאלכימיה, ו-TechCrunch כתב ב-2021 שהחברה מעורפלת באשר לאופן שבו היא משיגה זאת.",
+      "sources": [
+        "https://www.ynetnews.com/articles/0,7340,L-5189644,00.html",
+        "https://techcrunch.com/2021/12/15/ubq-materials-plastic-replacement-product-attracts-170m-from-impact-investor-tpg-rise/"
+      ]
+    },
+    {
+      "claim": "המקורות חלוקים על גודל התועלת האקלימית לכל טונת חומר, בטווח שבין קילוגרם CO2 אחד ומעלה לכל קילוגרם חומר (הדיווח מהמפעל ההולנדי, 2025) לבין 12 טונות על פני 20 שנה (כלכליסט, 2022) ו-3 עד 30 טונות (הדיווח בן-הזמן, 2018).",
+      "sources": [
+        "https://www.industrylinqs.com/chemicals/2025/07/new-ubq-plastics-plant-in-bergen-op-zoom-the-invention-of-the-century-and-no-one-knows-it/",
+        "https://www.calcalistech.com/ctechnews/article/sygd2ucn9",
+        "https://www.ynetnews.com/articles/0,7340,L-5189644,00.html"
+      ]
+    }
+  ],
+  "unresolved": [
+    "כבוד על שמם (כלל 67): לא נמצא פרס, קתדרה, מוסד או מתקן הנושא את שמם של יהודה פרל, ערן לב או ג'ק ביג'יו בשום מקור משישה שנמשכו. הפרס היחיד שאותר — TIME Best Inventions 2023 — הוענק לחומר ולא לאדם, ולכן honors מכיל פריט אחד בלבד ואינו כולל הנצחה אישית. ייתכן שקיימת הכרה כזו ולא חיפשתי אותה בעברית או בכתבי עת מקצועיים.",
+    "אימות מילה-במילה של שני מקורות: time.com החזיר 406 ו-timesofisrael.com החזיר 403 למשיכה ישירה ב-curl מכתובת ה-IP הזו. שני הציטוטים מכל אחד מהם נמשכו בכלי משיכה שמרנדר את הדף, ולא אומתו שנית מול HTML גולמי. ארבעת הדומיינים האחרים (ynetnews, calcalistech, industrylinqs, techcrunch) אומתו מילה-במילה מול HTML שנמשך.",
+    "בציטוט של TIME מופיע גרש באנגלית (UBQ's). אם הדף מרנדר גרש מסולסל (’) במקום ישר ('), התאמת המחרוזת עלולה להיכשל. לא ניתן היה לבדוק בגלל חסימת 406.",
+    "השורה התחתונה של תרומת האקלים: נבדק שוב 11.8.2026 ונמצא שכן קיים אימות חיצוני — Quantis (LCA ממומן-לקוח, 2020, 11.7 ק\"ג CO2eq/ק\"ג ב-GWP20), ERM עם אימות צד-שלישי בשם ד\"ר Matt Fishwick (ספטמבר 2024, מינוס 1.02 ק\"ג CO2eq/ק\"ג ב-GWP100 cradle-to-gate), ו-Carbon Check (India) Pvt Ltd, גוף אימות מוסמך ISO 14065, ברישום Rainbow (אפריל 2026, 2.155 טון לטון). מה שעדיין אין: אף מאמר שעבר ביקורת עמיתים, אף סיקור ביקורתי, ואין EPD רשום. שלושת המספרים המאומתים עצמם נעים בין 1.02 ל-11.7 כי כל אחד נמדד בגבולות אחרים — ולכן הטווח וההסתייגות בדף נשארים. המסמוך: docs/enrichment/knowledge-journal/4b74f9e1-4d2b-470b-8a57-48f3a57f693f.md",
+    "ynetnews מייחס את הכתבה מ-22.3.2018 ל'Reuters', אך גוף הכתבה עצמו אומר שפרידי כתב 'in an email to The Associated Press' והתמונות מיוחסות ל-AP. סביר שזו כתבת AP שסומנה בטעות. רשמתי את הדומיין כמקור ולא ניסיתי להכריע מי הסוכנות.",
+    "סבב גיוס של 70 מיליון דולר בהובלת Eden Global Partners (ספטמבר 2023) הופיע בתוצאות חיפוש אך לא נמשך ולא אומת, ולכן אינו מופיע בטקסט. מי שימשיך — זו הפינה החסרה בציר המימון.",
+    "הקואורדינטות של קיבוץ צאלים (31.2019, 34.5325) נלקחו מידע כללי ולא מדף שנמשך במעבר הזה. precision מסומן settlement ולא exact.",
+    "לא נמשך שום מקור עברי-ישראלי בעברית עצמה. כל שישה הדומיינים באנגלית, כולל שני הישראליים (ynetnews, calcalistech הם המהדורות האנגליות). ציטוט עברי היה מחזק את הדף.",
+    "שאלת הפטנט: כל המקורות מדברים על 'תהליך מוגן פטנט' אך אף אחד מהם אינו נוקב במספר פטנט או במשרד פטנטים. לא נבדק ב-Google Patents או ב-USPTO.",
+    "בסיס השימוש (כלל 137): כל שבע התמונות סווגו press — תצלום סוכנות אחד (AP), חמישה תצלומי יח\"צ של UBQ שפורסמו בעיתונות, ותצלום אחד של צלם המגזין. הסיווג נשען על שימוש תיעודי בתצלום שפורסם, ולא על רשות שימוש חוזר שהתקבלה. אין באף אחד משלושת דפי המקור סימון CC או סימון נחלת הכלל — נבדק ב-HTML הגולמי של שלושתם. אם התקן ידרוש owner_permission ממש, נדרשת פנייה בכתב ל-UBQ Materials (שש תמונות) ול-AP (תמונה אחת).",
+    "תצלומי היח\"צ של UBQ נושאים בדפי המקור את המחרוזת 'Photo: UBQ' בלבד, בלי עמוד תנאי שימוש, בלי מספר רישיון ובלי הצהרת שימוש חוזר שאפשר לצטט. הקרדיט השמור בקובץ ההקשר לתמונת כלכליסט אומר 'צילום: UBQ Materials', בעוד הדף עצמו כותב 'Photo: UBQ' / 'צילום: UBQ'. לא שיניתי את שדה credit הקיים; הפער רשום כאן ובתוך license_note."
+  ],
+  "images": {
+    "B1mq4y8NE9_0_0_1185_790_0_x-large.jpg": {
+      "caption_he": "ג'ק (טאטו) ביג'יו — ממייסדי UBQ ומנכ\"ל החברה.",
+      "caption_en": "Jack (Tato) Bigio, co-founder and CEO of UBQ Materials.",
+      "credit_en": "Photo: UBQ Materials. Published in Calcalist CTech, 18 April 2022, in the article 'UBQ Materials: The alchemist turning waste into reusable plastic'",
+      "shot_when_en": "2022",
+      "license": "press",
+      "license_note": "Press photo, company handout published in a news article. Exact page strings: <div class=\"ImageCredit\">(Photo: UBQ)</div> and gallery metadata \"credit\":\"Photo: UBQ\",\"caption\":\"UBQ CEO Jack (Tato) Bigio.\", plus <meta property=\"vr:image_credit\" content='צילום: UBQ'/>. Seen at https://www.calcalistech.com/ctechnews/article/sygd2ucn9. No CC or public-domain notice anywhere on the page.",
+      "caption_long_he": "ג'ק (טאטו) ביג'יו, ממייסדי UBQ Materials ומנכ\"ל החברה — כפי שהכתבה מזהה אותו בכיתוב התמונה שלה."
+    },
+    "84245900100891183103no.jpg": {
+      "caption_he": "ערמת האשפה ליד מפעל UBQ בקיבוץ צאלים — חומר הגלם עצמו.",
+      "caption_en": "The garbage pile beside the UBQ plant at Kibbutz Tze'elim — the raw material itself.",
+      "credit_en": "Photo: AP — the original caption on the page: 'Garbage pile near the UBQ factory in Kibbutz Zeelim'",
+      "shot_when_en": "March 2018",
+      "license": "press",
+      "license_note": "Associated Press wire photo in documentary use. Exact page strings: credit: 'Photo: AP', caption:'Garbage pile near the UBQ factory in Kibbutz Zeelim' (lightbox handler) and <div class='ArticleImageCaption'>Garbage pile near the UBQ factory in Kibbutz Zeelim</div>. Seen at https://www.ynetnews.com/articles/0,7340,L-5189644,00.html. No CC or public-domain notice on the page.",
+      "caption_long_he": "ערמת האשפה ליד מפעל UBQ בקיבוץ צאלים, 2018 — חומר הגלם עצמו, בשלב שבו המתקן היה עדיין פיילוט שעיבד טון פסולת בשעה."
+    },
+    "IMG_7511-scaled-1.jpg": {
+      "caption_he": "המפעל בברגן אופ זום — 45 עובדים, 80 אלף טונות בשנה.",
+      "caption_en": "The Bergen op Zoom plant — 45 employees, 80,000 tonnes a year.",
+      "group": "המפעל התעשייתי בברגן אופ זום, הולנד",
+      "group_en": "The industrial plant in Bergen op Zoom, Netherlands",
+      "credit_en": "Photo: UBQ. Published in Industrylinqs, 2 July 2025, in an article by Bart Pals",
+      "shot_when_en": "2025",
+      "license": "press",
+      "license_note": "Press photo, company handout published in a trade magazine. Exact page string: <figcaption class=\"wp-caption-text\">The Dutch branch, with 45 employees and a capacity of 80,000 tonnes per year, has been operational since 2023. Photo: UBQ</figcaption>. Seen at https://www.industrylinqs.com/chemicals/2025/07/new-ubq-plastics-plant-in-bergen-op-zoom-the-invention-of-the-century-and-no-one-knows-it/. No CC or public-domain notice on the page.",
+      "caption_long_he": "המפעל בברגן אופ זום שבהולנד — 45 עובדים וכושר ייצור של 80 אלף טונות בשנה, פועל מאז 2023. זהו הכיתוב שנתן לתמונה המגזין עצמו."
+    },
+    "UBQ-Materials-97-e1750745942196.jpg": {
+      "caption_he": "המפעל בברגן אופ זום כולו נבנה בכסף פרטי.",
+      "caption_en": "The entire factory in Bergen op Zoom was built with private money.",
+      "group": "המפעל התעשייתי בברגן אופ זום, הולנד",
+      "group_en": "The industrial plant in Bergen op Zoom, Netherlands",
+      "credit_en": "Photo: UBQ. Published in Industrylinqs, 2 July 2025, in an article by Bart Pals",
+      "shot_when_en": "2025",
+      "license": "press",
+      "license_note": "Press photo, company handout published in a trade magazine. Exact page string: <figcaption class=\"wp-caption-text\">The entire factory in Bergen op Zoom was built with private money. Photo: UBQ</figcaption>. Seen at https://www.industrylinqs.com/chemicals/2025/07/new-ubq-plastics-plant-in-bergen-op-zoom-the-invention-of-the-century-and-no-one-knows-it/. No CC or public-domain notice on the page.",
+      "caption_long_he": "המפעל בברגן אופ זום כולו נבנה בכסף פרטי — כך כותרת המגזין לתמונה. אין כאן תמיכה ציבורית מלבד מענק ייעול של חמישה מיליון יורו."
+    },
+    "MRG_7713-resize-2-scaled-e1750746251273.jpg": {
+      "caption_he": "UBQ מסופק כגרגירים, והיצרן מחליט כמה לשלב במוצר.",
+      "caption_en": "UBQ is supplied as granulate, and the manufacturer decides how much to use.",
+      "group": "החומר עצמו — הגרגר התרמופלסטי",
+      "group_en": "The material itself — the thermoplastic granulate",
+      "credit_en": "Photo: UBQ. Published in Industrylinqs, 2 July 2025, in an article by Bart Pals",
+      "shot_when_en": "2025",
+      "license": "press",
+      "license_note": "Press photo, company handout published in a trade magazine. Exact page string: <figcaption class=\"wp-caption-text\">UBQ is supplied as granulate, which manufacturers can use as they see fit. Photo: UBQ</figcaption>. Seen at https://www.industrylinqs.com/chemicals/2025/07/new-ubq-plastics-plant-in-bergen-op-zoom-the-invention-of-the-century-and-no-one-knows-it/. No CC or public-domain notice on the page.",
+      "caption_long_he": "התוצר: UBQ מסופק כגרגירים, והיצרן מחליט כמה מהם לשלב במוצר שלו. זהו הכיתוב שנתן המגזין לתמונה."
+    },
+    "MRG_7021-resize-scaled-1.jpg": {
+      "caption_he": "טענת החברה בכיתוב המגזין: UBQ מתחרה בכל פלסטיק בתולי, בכל מחיר נפט.",
+      "caption_en": "Company claim in the magazine caption: UBQ competes with any virgin plastic at any oil price.",
+      "group": "החומר עצמו — הגרגר התרמופלסטי",
+      "group_en": "The material itself — the thermoplastic granulate",
+      "credit_en": "Photo: UBQ. Published in Industrylinqs, 2 July 2025, in an article by Bart Pals",
+      "shot_when_en": "2025",
+      "license": "press",
+      "license_note": "Press photo, company handout published in a trade magazine. Exact page string: <figcaption class=\"wp-caption-text\">UBQ competes with any virgin plastic, at any oil price. Photo: UBQ</figcaption>. Seen at https://www.industrylinqs.com/chemicals/2025/07/new-ubq-plastics-plant-in-bergen-op-zoom-the-invention-of-the-century-and-no-one-knows-it/. No CC or public-domain notice on the page.",
+      "caption_long_he": "החומר שמתחרה בכל פלסטיק בתולי בכל מחיר נפט — הכיתוב שנתן המגזין לתמונה, בפסקה שמסבירה למה זו טענה כלכלית ולא רק סביבתית."
+    },
+    "IMG_7488-scaled-1.jpg": {
+      "caption_he": "אלברט דואר, מנכ\"ל UBQ, במפעל ההולנדי שממתין להזמנות.",
+      "caption_en": "Albert Douer, CEO of UBQ, at the Dutch plant that is still waiting for orders.",
+      "credit_en": "Photo: IL / BP (Industrielinqs / Bart Pals) — the lead image of the article",
+      "shot_when_en": "July 2025",
+      "license": "press",
+      "license_note": "Press photo shot by the magazine's own journalist. Exact page string: <span class=\"image-copyright\">Photo: IL / BP</span>, next to <span class=\"image-info\">“We have been waiting for large orders for months now...” says Albert Douer, CEO of UBQ.</span>. Byline on the article: Bart Pals. Seen at https://www.industrylinqs.com/chemicals/2025/07/new-ubq-plastics-plant-in-bergen-op-zoom-the-invention-of-the-century-and-no-one-knows-it/. No CC or public-domain notice on the page.",
+      "caption_long_he": "אלברט דואר, מנכ\"ל UBQ, במפעל ההולנדי — התמונה שמתחתיה נכתב שהוא ממתין חודשים להזמנות גדולות בזמן שהטכנולוגיה כבר עובדת. חורגת מהקבוצות משום שזו התמונה היחידה כאן שצולמה בידי המגזין ולא סופקה בידי החברה."
+    }
+  }
+}

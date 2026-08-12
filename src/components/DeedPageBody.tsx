@@ -8,7 +8,7 @@ import ShareProof from "@/components/ShareProof";
 import DeedVideoCarousel, { type CarouselVideo } from "@/components/DeedVideoCarousel";
 import DeedImageCollage from "@/components/DeedImageCollage";
 import type { Entry } from "@/lib/data";
-import { entryCategories } from "@/lib/data";
+import { entryCategories, honorLine } from "@/lib/data";
 import { ytId as extractYouTubeId } from "@/lib/youtube";
 import { eraOf, eraDisplay } from "@/lib/era";
 
@@ -215,23 +215,28 @@ export default function DeedPageBody({ entry }: { entry: Entry }) {
               <div className="bg-[#0f234d]/60 rounded-xl p-4 border border-[rgba(201,168,74,0.15)] mb-8">
                 <p className="text-xs text-[#c9a84a] font-medium mb-2">{t(lang, "honorsLabel")}</p>
                 <ul className="flex flex-col gap-1.5">
-                  {entry.honors.map((h, i) => (
-                    <li key={i} className="text-sm text-blue-100/80">
-                      {h.source ? (
-                        <a
-                          href={h.source}
-                          target="_blank"
-                          rel="noopener noreferrer"
-                          className="hover:text-[#e6c66e] transition-colors"
-                        >
-                          {h.what}
-                        </a>
-                      ) : (
-                        h.what
-                      )}
-                      {h.year ? <span className="text-blue-200/50"> · {h.year}</span> : null}
-                    </li>
-                  ))}
+                  {entry.honors.map((honor, i) => {
+                    const h = honorLine(honor);
+                    const label = pick(lang, h.he, h.en);
+                    if (!label) return null;
+                    return (
+                      <li key={i} className="text-sm text-blue-100/80">
+                        {h.source ? (
+                          <a
+                            href={h.source}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="hover:text-[#e6c66e] transition-colors"
+                          >
+                            {label}
+                          </a>
+                        ) : (
+                          label
+                        )}
+                        {h.year ? <span className="text-blue-200/50"> · {h.year}</span> : null}
+                      </li>
+                    );
+                  })}
                 </ul>
               </div>
             )}

@@ -80,7 +80,7 @@ export interface Entry {
   origin_story?: string;
   aftermath?: string;
   recognition?: string;
-  honors?: { what: string; year?: number | null; source?: string }[];
+  honors?: Honor[];
   // Verbatim quotes from authoritative sources — the hard proof. Each is clickable
   // and jumps to the exact spot in its source.
   citations?: Citation[];
@@ -111,6 +111,50 @@ export interface Entry {
 }
 
 export type SubmissionInput = Omit<Entry, "id" | "status" | "created_at">;
+
+// An honour as it sits in the column. Twenty deeds hold twelve different
+// shapes — a bare string, {what}, {name}, {he,en}, {name_he,name_en} — because
+// each was written by a different worker. The page read `what` alone, so every
+// other shape rendered as an empty bullet with a year hanging off it.
+export type Honor = string | Record<string, unknown>;
+
+export interface HonorLine {
+  he: string;
+  en: string;
+  year: string | null;
+  source: string | null;
+}
+
+function firstString(item: Record<string, unknown>, keys: string[]): string {
+  for (const key of keys) {
+    const value = item[key];
+    if (typeof value === "string" && value.trim()) return value.trim();
+  }
+  return "";
+}
+
+// Rule 20 reaches the honours too: `en` is what English mode shows, and it
+// falls back to the Hebrew only so the line is never blank.
+export function honorLine(honor: Honor): HonorLine {
+  if (typeof honor === "string") {
+    return { he: honor, en: "", year: null, source: null };
+  }
+  const source = firstString(honor, ["source_url", "source"]);
+  const sources = honor.sources;
+  // `when` also holds prose ("not stated in the announcement") in one deed,
+  // and `year` is sometimes a number and sometimes a string.
+  const year = String(honor.year ?? honor.when ?? "").trim();
+  return {
+    he: firstString(honor, ["he", "what", "name", "name_he"]),
+    en: firstString(honor, ["en", "what_en", "name_en"]),
+    year: /^\d{4}$/.test(year) ? year : null,
+    source:
+      source ||
+      (Array.isArray(sources) && typeof sources[0] === "string"
+        ? sources[0]
+        : null),
+  };
+}
 
 // The tags to filter/badge an entry by: the explicit `categories` array when
 // present, otherwise the single `category`.

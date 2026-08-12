@@ -138,6 +138,7 @@ RULES = [
     (153, EYE, "תמונה שדורשת גילוי נאות — הגילוי בכיתוב הגלוי או שהיא יוצאת"),
     (146, EYE, "תמונות מקפיצות עין — עד 2 סריקות טקסט לדף"),
     (147, AUTO, "כיתוב = שורה אחת קצרה כברירת מחדל, חריגה בנימוק"),
+    (161, EYE, "הכיתוב לא טוען טענה סיבתית שסותרת את תאריך הצילום"),
     (149, AUTO_EYE, "הכיתוב נכתב מהתמונה שנפתחה, לא משם הקובץ"),
     # פרק ג — סרטונים
     (10, AUTO, "עד 5 סרטונים"),
@@ -173,6 +174,8 @@ RULES = [
     (155, EYE, "הדף הקנוני הוא אמת המידה לסגנון"),
     (156, EYE, "העובדה נושאת את הגאווה — בלי סופרלטיבים בפרוזה"),
     (158, EYE, "ארבעת מבחני הכישלון: החלפה · הקראה · סיפור לחבר · שליחה"),
+    (160, AUTO_EYE, "תיקון עובדתי מתקן את שתי השפות — ומספר תואם בין השתיים"),
+    (162, EYE, "עובדה מפוצצת חייבת הקשר בהישג יד"),
     (68, EYE, "חומר ביוגרפי שלא שייך — בצד"),
     (69, UI, "עברית או אנגלית, לא מעורבב"),
     (70, UI, "ברירת מחדל לפי מדינת הגולש"),
@@ -318,6 +321,108 @@ def numerals(text):
 def digits(value):
     """A number as the checker compares it — the way it is written is not it."""
     return str("" if value is None else value).replace(",", "").strip()
+
+
+# Rule 160. Spelled-out numbers, because the bug that produced the rule was
+# spelled out in both languages: "בגיל שמונה-עשרה" against "at nineteen". A
+# check that only read digits would have walked straight past it.
+HE_ONES = {"אחת": 1, "אחד": 1, "שתיים": 2, "שניים": 2, "שתי": 2, "שני": 2,
+           "שלוש": 3, "שלושה": 3, "ארבע": 4, "ארבעה": 4, "חמש": 5, "חמישה": 5,
+           "שש": 6, "שישה": 6, "שבע": 7, "שבעה": 7, "שמונה": 8,
+           "תשע": 9, "תשעה": 9}
+HE_TEN = {"עשר", "עשרה"}
+HE_TENS = {"עשרים": 20, "שלושים": 30, "ארבעים": 40, "חמישים": 50, "שישים": 60,
+           "שבעים": 70, "שמונים": 80, "תשעים": 90, "מאה": 100, "מאתיים": 200}
+EN_ONES = {"one": 1, "two": 2, "three": 3, "four": 4, "five": 5, "six": 6,
+           "seven": 7, "eight": 8, "nine": 9, "ten": 10, "eleven": 11,
+           "twelve": 12, "thirteen": 13, "fourteen": 14, "fifteen": 15,
+           "sixteen": 16, "seventeen": 17, "eighteen": 18, "nineteen": 19}
+EN_TENS = {"twenty": 20, "thirty": 30, "forty": 40, "fifty": 50, "sixty": 60,
+           "seventy": 70, "eighty": 80, "ninety": 90, "hundred": 100}
+WORD_SPLIT = re.compile(r"[^\w֐-׿]+")
+
+
+def spelled_numbers(text, hebrew):
+    """The numbers a reader hears in prose that never shows a digit.
+
+    Handles the two compounds either language builds: unit+ten ("שמונה עשרה",
+    "eighteen") and tens+unit ("חמישים וחמש", "fifty-five"). A decade said as
+    a period ("שנות התשעים", "the 1990s") yields the century form too, so the
+    two languages can meet."""
+    ones, tens = (HE_ONES, HE_TENS) if hebrew else (EN_ONES, EN_TENS)
+    words = [w.lower() for w in WORD_SPLIT.split(str(text or "")) if w]
+    if hebrew:
+        # Hebrew glues its prepositions on: כאחד-עשר is still eleven.
+        words = [w[1:] if w[:1] in "ובכלמהש" and (w[1:] in ones or w[1:] in tens
+                                                  or w[1:] in HE_TEN) else w
+                 for w in words]
+    decade = hebrew and any(w.startswith("שנות") for w in words)
+    found, i = set(), 0
+    while i < len(words):
+        word, nxt = words[i], words[i + 1] if i + 1 < len(words) else ""
+        if hebrew and word in ones and nxt in HE_TEN:
+            found.add(10 + ones[word])       # שמונה עשרה
+            i += 2
+            continue
+        if hebrew and word in HE_TEN:        # עשרה ימים
+            found.add(10)
+        elif word in tens:
+            if nxt in ones:
+                found.add(tens[word] + ones[nxt])   # חמישים וחמש / fifty-five
+                i += 2
+                continue
+            found.add(tens[word])
+            # "שנות התשעים" and "the 1990s" are the same decade. English says
+            # a decade in digits, so only the Hebrew needs the century added.
+            if decade:
+                found.add(1900 + tens[word])
+        elif word in ones:
+            found.add(ones[word])
+        i += 1
+    return found
+
+
+HE_SCALE = re.compile(r"(\d[\d,\.]*)\s*(אלפי|אלף|אלפים|מיליון|מיליוני)")
+SCALE_ZEROS = {"אלפי": "000", "אלף": "000", "אלפים": "000",
+               "מיליון": "000000", "מיליוני": "000000"}
+
+
+def scaled(text):
+    """Hebrew writes the big round numbers half in digits — "18 אלף" — where
+    English writes "18,000". Without this the two look like different facts."""
+    return HE_SCALE.sub(
+        lambda m: m.group(1).replace(",", "") + SCALE_ZEROS[m.group(2)],
+        str(text or ""))
+
+
+def language_parity(entry):
+    """Rule 160 — a number that is on the page in one language is on the page
+    in the other. Returns the fields whose two versions disagree.
+
+    The pair is compared as values, not as spellings: 18, "שמונה-עשרה" and
+    "eighteen" are one number. A number that appears in only one of the two is
+    not reported — a sentence may legitimately be split or joined in
+    translation. Only a value that contradicts is."""
+    off = []
+    for field in ("title", "description", "summary_short", "act", "ripple",
+                  "origin_story", "aftermath", "recognition"):
+        he_text, en_text = entry.get(field), entry.get(field + "_en")
+        if not (he_text or "").strip() or not (en_text or "").strip():
+            continue
+        he = {int(n) for n in numerals(scaled(he_text)) if n.isdigit()}
+        en = {int(n) for n in numerals(en_text) if n.isdigit()}
+        he |= spelled_numbers(he_text, True)
+        en |= spelled_numbers(en_text, False)
+        # Ten to ninety-nine. Under ten the two languages differ for reasons of
+        # grammar and not of fact — Hebrew counts "שני הממציאים" where English
+        # says "neither inventor" — and the grammar buries the signal. Above
+        # ninety-nine a translation legitimately reshapes figures. Measured on
+        # 201 deeds: the whole range flags 24 of them, this window flags 3.
+        for value in sorted((he ^ en) & set(range(10, 100))):
+            near = {value - 1, value + 1} & (en if value in he else he)
+            if near:
+                off.append(f"{field}: {value} ↔ {near.pop()}")
+    return off
 
 
 def age(born, died):
@@ -500,6 +605,25 @@ def evaluate(entry):
         for p in provenance
     )
 
+    # Rule 20 reaches the honours list too — it is on the screen like every
+    # other line. It was missed until 12.8 because the check walks the fields
+    # it knows by name, and `honors` is the one list whose items were written
+    # in a dozen different shapes, so no field name covered it.
+    def honor_paired(item):
+        if isinstance(item, str):
+            return not HEBREW.search(item)
+        if not isinstance(item, dict):
+            return True
+        he = next((str(item[k]) for k in ("he", "what", "name", "name_he")
+                   if str(item.get(k) or "").strip()), "")
+        en = next((str(item[k]) for k in ("en", "what_en", "name_en")
+                   if str(item.get(k) or "").strip()), "")
+        if not HEBREW.search(he):
+            return True
+        return bool(en) and not HEBREW.search(en)
+
+    honors_translated = all(honor_paired(h) for h in (entry.get("honors") or []))
+
     def one_short_line(item):
         argued = bool((item.get("caption_why_long") or "").strip())
         for field, limit in CAPTION_MAX.items():
@@ -618,10 +742,12 @@ def evaluate(entry):
         # תוכן
         18: bool(entry.get("year")),
         148: numbers_ok,
+        160: not language_parity(entry),
         157: isinstance(moment, str) and len(moment.strip()) >= 40,
         152: fields_are_shown(),
         19: filled("act", "ripple"),
-        20: english_ok and hebrew_quotes_translated and gallery_translated,
+        20: (english_ok and hebrew_quotes_translated and gallery_translated
+             and honors_translated),
         32: all((c.get("published") or "").strip() for c in cites) if cites else False,
         42: bool(delta),
         43: bool(pre) and any(

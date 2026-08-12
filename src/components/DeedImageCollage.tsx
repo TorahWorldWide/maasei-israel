@@ -19,6 +19,13 @@ function captionOf(lang: string, p?: ImageProvenance) {
     : clean(p.caption_he) ?? clean(p.caption_en);
 }
 
+// Rule 20 forbids a Hebrew string surviving the switch to English, so the long
+// note is strictly per-language: no cross-language fallback.
+function longCaptionOf(lang: string, p?: ImageProvenance) {
+  if (!p) return undefined;
+  return lang === "en" ? clean(p.caption_long_en) : clean(p.caption_long_he);
+}
+
 function groupOf(lang: string, p?: ImageProvenance) {
   if (!p) return undefined;
   return lang === "en"
@@ -88,6 +95,7 @@ export default function DeedImageCollage({
   const open = visible.find((it) => it.i === openIdx);
   const openCaption = captionOf(lang, open?.prov);
   const openCredit = creditOf(lang, open?.prov);
+  const openLong = longCaptionOf(lang, open?.prov);
 
   const lightbox =
     openIdx === null || !open ? null : (
@@ -117,13 +125,23 @@ export default function DeedImageCollage({
         <img
           src={open.src}
           alt={openCaption ?? title}
-          className="max-w-full max-h-[76vh] object-contain rounded-xl shadow-2xl shadow-black/60"
+          className={`max-w-full object-contain rounded-xl shadow-2xl shadow-black/60 ${
+            openLong ? "max-h-[50vh]" : "max-h-[76vh]"
+          }`}
           onClick={(e) => e.stopPropagation()}
         />
-        {(openCaption || openCredit) && (
-          <div onClick={(e) => e.stopPropagation()} className="mt-4 max-w-2xl text-center">
+        {(openCaption || openLong || openCredit) && (
+          <div onClick={(e) => e.stopPropagation()} className="mt-4 w-full max-w-2xl text-center">
             {openCaption && (
               <p className="text-sm text-blue-50/90 leading-relaxed">{openCaption}</p>
+            )}
+            {openLong && (
+              <p
+                tabIndex={0}
+                className="mt-2 max-h-[28vh] overflow-y-auto overscroll-contain text-start text-[13px] sm:text-sm text-blue-100/70 leading-relaxed focus:outline-none focus-visible:ring-2 focus-visible:ring-[#c9a84a]"
+              >
+                {openLong}
+              </p>
             )}
             {openCredit && (
               <p className="mt-1.5 text-[11px] text-blue-200/50">{openCredit}</p>

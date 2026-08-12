@@ -167,7 +167,7 @@ def table_rows(deeds):
         ("ציון מול התקן", f'{median([d["m_before"]["std"] for d in deeds])}/{len(AUTO_RULES)}',
          f'{median([d["m_after"]["std"] for d in deeds])}/{len(AUTO_RULES)}',
          f'המעש החציוני, מתוך {len(AUTO_RULES)} הכללים שנבדקים במכונה מתוך {len(RULES)}. '
-         f'{perfect} מתוך {n} עוברים היום את כולם.', "score"),
+         f'ב־{perfect} מתוך {n} כל השדות מלאים — וזה כל מה שהמספר אומר.', "score"),
         ("מקורות", str(b["citations"]), str(a["citations"]),
          "ציטוטים בכל שבעת המעשים יחד. כל אחד מהם עם קישור גלוי בדף, לחיץ, לא הערת שוליים.", "up"),
         ("דומיינים עצמאיים", str(median([d["m_before"]["domains"] for d in deeds])),

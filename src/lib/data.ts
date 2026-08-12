@@ -13,9 +13,11 @@ export interface ImageProvenance {
   group_en?: string | null;
   caption_he?: string | null;
   caption_en?: string | null;
-  // The long "what is in the frame" note. Kept as evidence that someone looked
-  // at the picture (rule 47); the gallery shows the short caption instead.
+  // The long "what is in the frame" note. The thumbnail shows the short caption
+  // (rule 147); the enlarged view shows this beneath it, so a disclosure written
+  // here stays visible to the reader (rule 153).
   caption_long_he?: string | null;
+  caption_long_en?: string | null;
   credit?: string | null;
   credit_en?: string | null;
   credit_line?: string | null;

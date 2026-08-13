@@ -99,6 +99,12 @@ def main():
                 c["archived_url"] = record["archived_url"]
             elif u and not (c.get("archived_url") or "").strip():
                 failed.append(u)
+        # A url that archived on a later run keeps no note saying it did not.
+        archived_now = {(c.get("source_url") or "").strip()
+                        for c in cites if (c.get("archived_url") or "").strip()}
+        unresolved = [u for u in unresolved
+                      if not (u.startswith(ARCHIVE_FAILED)
+                              and u[len(ARCHIVE_FAILED):] in archived_now)]
         for u in failed:
             note = f"{ARCHIVE_FAILED}{u}"
             if note not in unresolved:

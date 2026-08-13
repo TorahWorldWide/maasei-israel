@@ -98,6 +98,16 @@ def vm_save(urls, delay):
     return out
 
 
+def pc_reachable():
+    try:
+        r = subprocess.run(["ssh", "-i", KEY, "-o", "ConnectTimeout=12",
+                            "-o", "BatchMode=yes", PC, "echo up"],
+                           capture_output=True, text=True, timeout=30)
+        return r.returncode == 0
+    except Exception:
+        return False
+
+
 def pc_save(urls, delay):
     """Saves run on Tomer's PC. Report this run in Telegram — his standing rule."""
     try:
@@ -148,6 +158,12 @@ def archive(urls, fresh=False, delay=SAVE_DELAY, use_pc=True):
         else:
             pending.append(url)
 
+    if use_pc and pending and not pc_reachable():
+        # His PC sleeps. Writing "archive_failed" because nobody was home names
+        # a failure that never happened — and rule 136 accepts that note as the
+        # final word. The VM route is throttled and slower, but it is true.
+        print("PC unreachable — saving from the VM instead", file=sys.stderr)
+        use_pc = False
     saved = (pc_save(pending, delay) if use_pc else vm_save(pending, delay)) if pending else {}
     for url in pending:
         result = saved[url]

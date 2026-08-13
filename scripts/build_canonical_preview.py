@@ -41,6 +41,9 @@ td.k{color:#c9a84a;white-space:nowrap;width:1%;padding-inline-end:14px;font-weig
 a{color:#e6c66e}
 .hide{display:none}
 .summary{background:rgba(201,168,74,.07);border:1px solid rgba(201,168,74,.2);border-radius:12px;padding:14px 16px;margin:18px 0 26px}
+.engine{background:rgba(15,35,77,.75);border:1px solid rgba(201,168,74,.35);border-inline-start:4px solid #c9a84a;border-radius:12px;padding:12px 16px;margin:18px 0 6px}
+.engine h3{margin-top:.2em}
+.engine p{color:#e8eefc;font-size:1.02rem;margin-bottom:.2em}
 .foot{margin-top:40px;border-top:1px solid rgba(201,168,74,.2);padding-top:14px;font-size:.85rem;color:#9fb0d0}
 """
 
@@ -86,6 +89,11 @@ def main():
     parts.append(f'<p class="tag">{esc(d.get("canonical_type"))} · '
                  f'{len(d.get("sections") or [])} sections · {len(rows)} infobox rows · '
                  f'{len(d.get("honors") or [])} honors</p>')
+
+    if d.get("engine_sentence"):
+        parts.append('<div class="engine">' + both(
+            '<h3>משפט המנוע</h3>' + paras(d.get("engine_sentence")),
+            '<h3>Engine sentence</h3>' + paras(d.get("engine_sentence_en"))) + '</div>')
 
     parts.append('<div class="summary">' + both(
         paras(d.get("summary_short")), paras(d.get("summary_short_en"))) + '</div>')

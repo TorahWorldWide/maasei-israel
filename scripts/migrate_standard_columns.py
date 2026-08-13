@@ -42,6 +42,12 @@ COLUMNS = [
     ("honors", "jsonb"),
     ("summary_short", "text"),
     ("summary_short_en", "text"),
+    #  166 canonical_type text — one of the ten story forms
+    #  168 sections jsonb [{heading,heading_en,body,body_en}] — the article as read
+    #  169 infobox  jsonb {rows:[{key,label,label_en,value,value_en,source}]}
+    ("canonical_type", "text"),
+    ("sections", "jsonb"),
+    ("infobox", "jsonb"),
 ]
 
 MIGRATION = "ALTER TABLE public.entries\n  " + ",\n  ".join(

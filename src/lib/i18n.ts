@@ -38,6 +38,8 @@ type Strings = {
   aftermathLabel: string;
   recognitionLabel: string;
   honorsLabel: string;
+  infoboxHeading: string;
+  infoboxSourceTitle: string;
   readMore: string;
   readLess: string;
   backedBySingle: string;
@@ -203,6 +205,8 @@ const dict: Record<Lang, Strings> = {
     aftermathLabel: "מה קרה אחר כך",
     recognitionLabel: "מה קיבלו על זה",
     honorsLabel: "כבוד על שמם",
+    infoboxHeading: "בקצרה",
+    infoboxSourceTitle: "המקור לשורה הזו",
     readMore: "קרא עוד",
     readLess: "סגור",
     backedBySingle: "מגובה במקור מאומת",
@@ -356,6 +360,8 @@ const dict: Record<Lang, Strings> = {
     aftermathLabel: "What happened next",
     recognitionLabel: "What they got for it",
     honorsLabel: "Honors in their name",
+    infoboxHeading: "At a glance",
+    infoboxSourceTitle: "The source for this line",
     readMore: "Read more",
     readLess: "Close",
     backedBySingle: "Backed by a verified source",

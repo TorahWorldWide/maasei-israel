@@ -47,6 +47,33 @@ export interface Citation {
   locator_en?: string;
 }
 
+// Rule 169 — one line of the fact table at the top of a person page. `source`
+// points at the journal citation the value came from; a row without one is not
+// rendered, because the table is the easiest place on the site to smuggle in an
+// unchecked fact.
+export interface InfoboxRow {
+  key?: string;
+  label: string;
+  label_en?: string;
+  value: string;
+  value_en?: string;
+  source?: string;
+}
+
+export interface Infobox {
+  rows: InfoboxRow[];
+}
+
+// Rule 168 — the article as the reader sees it: headings the writer chose for
+// this deed, not the field names. The content fields (origin_story, act,
+// ripple…) stay as they are; this is the same material laid out for reading.
+export interface ArticleSection {
+  heading?: string;
+  heading_en?: string;
+  body: string;
+  body_en?: string;
+}
+
 export interface Entry {
   id: string;
   title: string;
@@ -84,6 +111,11 @@ export interface Entry {
   // Verbatim quotes from authoritative sources — the hard proof. Each is clickable
   // and jumps to the exact spot in its source.
   citations?: Citation[];
+  // Rules 168–169. One of the ten story forms of rule 166; the person-focused
+  // forms are the ones that carry an infobox.
+  canonical_type?: string;
+  infobox?: Infobox;
+  sections?: ArticleSection[];
   // The documented reasoning behind the chosen title (for review + future automation).
   // See docs/title-methodology.md. Not shown on the public site.
   title_reasoning?: string;
@@ -154,6 +186,19 @@ export function honorLine(honor: Honor): HonorLine {
         ? sources[0]
         : null),
   };
+}
+
+// Rule 169 — the rows the site is allowed to show: a source, and text in the
+// language being read. The page layout asks the same question before it
+// reserves a column for the table, so both must use this one filter.
+export function visibleInfoboxRows(
+  infobox: Infobox | undefined,
+  lang: "he" | "en"
+): InfoboxRow[] {
+  const has = (he?: string, en?: string) => !!(lang === "en" ? en || he : he || en)?.trim();
+  return (infobox?.rows ?? []).filter(
+    (r) => r.source && has(r.label, r.label_en) && has(r.value, r.value_en)
+  );
 }
 
 // The tags to filter/badge an entry by: the explicit `categories` array when

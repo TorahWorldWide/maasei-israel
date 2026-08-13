@@ -7,8 +7,9 @@ import { t, pick, categoryLabel, locatorLabel } from "@/lib/i18n";
 import ShareProof from "@/components/ShareProof";
 import DeedVideoCarousel, { type CarouselVideo } from "@/components/DeedVideoCarousel";
 import DeedImageCollage from "@/components/DeedImageCollage";
-import type { Entry } from "@/lib/data";
-import { entryCategories, honorLine } from "@/lib/data";
+import DeedInfobox from "@/components/DeedInfobox";
+import type { ArticleSection, Entry } from "@/lib/data";
+import { entryCategories, honorLine, visibleInfoboxRows } from "@/lib/data";
 import { ytId as extractYouTubeId } from "@/lib/youtube";
 import { eraOf, eraDisplay } from "@/lib/era";
 
@@ -37,6 +38,41 @@ function sideBySide(act?: string, ripple?: string): boolean {
   return (act?.length ?? 0) <= 400 && (ripple?.length ?? 0) <= 400;
 }
 
+// Rule 168 — the article as the writer laid it out: headings chosen for this
+// deed, in the reading order they chose. The content fields still exist and are
+// still measured; this is the same material shaped for a reader instead of for
+// a form. A section may open without a heading — that is the lead paragraph.
+function Article({ sections, lang }: { sections: ArticleSection[]; lang: "he" | "en" }) {
+  return (
+    <div className="flex flex-col gap-8 mb-8">
+      {sections.map((section, i) => {
+        const body = pick(lang, section.body, section.body_en);
+        if (!body) return null;
+        const heading = pick(lang, section.heading, section.heading_en);
+        return (
+          <section key={i}>
+            {heading && (
+              <h2
+                className="text-xl md:text-2xl font-bold text-[#e6c66e] mb-3 leading-snug"
+                style={{ fontFamily: "var(--font-frank-ruhl), serif" }}
+              >
+                {heading}
+              </h2>
+            )}
+            <div className="flex flex-col gap-4">
+              {body.split(/\n\s*\n/).filter((p) => p.trim()).map((p, j) => (
+                <p key={j} className="text-base text-blue-100/80 leading-relaxed">
+                  {p}
+                </p>
+              ))}
+            </div>
+          </section>
+        );
+      })}
+    </div>
+  );
+}
+
 export default function DeedPageBody({ entry }: { entry: Entry }) {
   const { lang } = useLang();
   const era = eraOf(entry.year);
@@ -45,6 +81,10 @@ export default function DeedPageBody({ entry }: { entry: Entry }) {
   const summary = pick(lang, entry.summary_short, entry.summary_short_en);
   const [open, setOpen] = useState(false);
   const showFull = !summary || open;
+  // Rule 168: a page that carries its own article is read as one; a page
+  // written before the rule keeps the labelled chapters it was written for.
+  const article = entry.sections?.length ? entry.sections : null;
+  const hasInfobox = visibleInfoboxRows(entry.infobox, lang).length > 0;
 
   // Video entries: media_urls may hold a MIX of extra YouTube videos and still
   // images. Split by whether a YouTube id can be extracted — anything that is
@@ -128,31 +168,45 @@ export default function DeedPageBody({ entry }: { entry: Entry }) {
       </div>
 
       {/* All media — video player, collage, image gallery — lives in a wider
-          container than the text column so it can spread toward the sides. */}
+          container than the text column so it can spread toward the sides.
+          On a wide screen the person infobox (rule 169) sits beside it; below
+          that it stacks under the pictures, ahead of the summary. */}
       <div className="max-w-[1200px] mx-auto px-4 sm:px-6">
-        {/* Video(s) — single player, or a carousel with arrows + counter when
-            media_urls holds more videos. Graceful fallback when embedding is
-            disabled is handled inside DeedVideo. */}
-        {videos.length > 0 && <DeedVideoCarousel videos={videos} />}
+        <div
+          className={
+            hasInfobox
+              ? "xl:grid xl:grid-cols-[minmax(0,1fr)_320px] xl:gap-8 xl:items-start"
+              : undefined
+          }
+        >
+          <div className="min-w-0">
+            {/* Video(s) — single player, or a carousel with arrows + counter when
+                media_urls holds more videos. Graceful fallback when embedding is
+                disabled is handled inside DeedVideo. */}
+            {videos.length > 0 && <DeedVideoCarousel videos={videos} />}
 
-        {/* Still images attached to a video entry — collage under the player. */}
-        {extraImages.length > 0 && (
-          <DeedImageCollage
-            images={extraImages}
-            title={pick(lang, entry.title, entry.title_en)}
-            provenance={entry.audit?.image_provenance}
-          />
-        )}
+            {/* Still images attached to a video entry — collage under the player. */}
+            {extraImages.length > 0 && (
+              <DeedImageCollage
+                images={extraImages}
+                title={pick(lang, entry.title, entry.title_en)}
+                provenance={entry.audit?.image_provenance}
+              />
+            )}
 
-        {/* Image(s) — shown when there is no video. The same collage, so the
-            captions and group headings appear here too (rules 44–46). */}
-        {images.length > 0 && (
-          <DeedImageCollage
-            images={images}
-            title={pick(lang, entry.title, entry.title_en)}
-            provenance={entry.audit?.image_provenance}
-          />
-        )}
+            {/* Image(s) — shown when there is no video. The same collage, so the
+                captions and group headings appear here too (rules 44–46). */}
+            {images.length > 0 && (
+              <DeedImageCollage
+                images={images}
+                title={pick(lang, entry.title, entry.title_en)}
+                provenance={entry.audit?.image_provenance}
+              />
+            )}
+          </div>
+
+          <DeedInfobox infobox={entry.infobox} />
+        </div>
       </div>
 
       <div className="max-w-3xl mx-auto px-4 sm:px-6 pb-12">
@@ -184,31 +238,37 @@ export default function DeedPageBody({ entry }: { entry: Entry }) {
 
         {showFull && (
           <>
-            {/* Description */}
-            <p className="text-base text-blue-100/80 leading-relaxed mb-8">
-              {pick(lang, entry.description, entry.description_en)}
-            </p>
+            {article ? (
+              <Article sections={article} lang={lang} />
+            ) : (
+              <>
+                {/* Description */}
+                <p className="text-base text-blue-100/80 leading-relaxed mb-8">
+                  {pick(lang, entry.description, entry.description_en)}
+                </p>
 
-            {/* How it began */}
-            <Section label={t(lang, "originLabel")} text={pick(lang, entry.origin_story, entry.origin_story_en)} />
+                {/* How it began */}
+                <Section label={t(lang, "originLabel")} text={pick(lang, entry.origin_story, entry.origin_story_en)} />
 
-            {/* Act / Ripple — side by side while both are short, stacked once they are prose */}
-            {(entry.act || entry.ripple) && (
-              <div
-                className={
-                  sideBySide(pick(lang, entry.act, entry.act_en), pick(lang, entry.ripple, entry.ripple_en))
-                    ? "grid grid-cols-1 sm:grid-cols-2 gap-4 mb-8"
-                    : "flex flex-col gap-4 mb-8"
-                }
-              >
-                <Section inGrid label={t(lang, "actLabel")} text={pick(lang, entry.act, entry.act_en)} />
-                <Section inGrid label={t(lang, "rippleLabel")} text={pick(lang, entry.ripple, entry.ripple_en)} />
-              </div>
+                {/* Act / Ripple — side by side while both are short, stacked once they are prose */}
+                {(entry.act || entry.ripple) && (
+                  <div
+                    className={
+                      sideBySide(pick(lang, entry.act, entry.act_en), pick(lang, entry.ripple, entry.ripple_en))
+                        ? "grid grid-cols-1 sm:grid-cols-2 gap-4 mb-8"
+                        : "flex flex-col gap-4 mb-8"
+                    }
+                  >
+                    <Section inGrid label={t(lang, "actLabel")} text={pick(lang, entry.act, entry.act_en)} />
+                    <Section inGrid label={t(lang, "rippleLabel")} text={pick(lang, entry.ripple, entry.ripple_en)} />
+                  </div>
+                )}
+
+                {/* What happened next · what they got for it */}
+                <Section label={t(lang, "aftermathLabel")} text={pick(lang, entry.aftermath, entry.aftermath_en)} />
+                <Section label={t(lang, "recognitionLabel")} text={pick(lang, entry.recognition, entry.recognition_en)} />
+              </>
             )}
-
-            {/* What happened next · what they got for it */}
-            <Section label={t(lang, "aftermathLabel")} text={pick(lang, entry.aftermath, entry.aftermath_en)} />
-            <Section label={t(lang, "recognitionLabel")} text={pick(lang, entry.recognition, entry.recognition_en)} />
 
             {/* Honors in their name */}
             {entry.honors && entry.honors.length > 0 && (

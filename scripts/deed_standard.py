@@ -94,6 +94,30 @@ CONTENT_FIELDS = [
     "caption_he", "caption_long_he", "group", "credit",
 ]
 
+EXCLUDED_DOC = ROOT / "docs" / "EXCLUDED.md"
+
+
+def excluded():
+    """Rule 177 — the rejected deeds, read from docs/EXCLUDED.md.
+
+    A ruling that lives only in a conversation gets re-litigated by the next
+    worker, who finds the same good sources and puts the deed back. The table
+    is the ruling. Returns {"ids": {...}, "names": [...]} — ids catch a row
+    that is still live, names catch the same deed re-entered under a new id."""
+    ids, names = set(), []
+    if not EXCLUDED_DOC.is_file():
+        return {"ids": ids, "names": names}
+    for line in EXCLUDED_DOC.read_text().splitlines():
+        cells = [c.strip() for c in line.split("|")]
+        if len(cells) < 9 or cells[1] in ("slug", "") or set(cells[1]) <= set("-: "):
+            continue
+        names += [c for c in (cells[2], cells[3]) if c]
+        ids |= {m.strip("`") for m in cells[7].split() if len(m.strip("`")) == 36}
+    return {"ids": ids, "names": names}
+
+
+EXCLUDED = excluded()
+
 # (number, kind, title). The auto ones also appear in CHECKS below.
 RULES = [
     # פרק 0 — הכללים שמעל הכל
@@ -101,6 +125,8 @@ RULES = [
     (50, NET, "מבחן הבולשיט — כל מקור מחזיק"),
     (51, AUTO, "אין פריט בלי הוכחה"),
     (52, AUTO, "מה שלא אומת נרשם כפתוח"),
+    (176, AUTO_EYE, "מבחן ההשפעה הממומשת — מה קרה בעולם בפועל בגלל המעשה"),
+    (177, AUTO, "רשימת הדחויים — מעש שנפסל אינו נכנס שוב"),
     # פרק א — מקורות
     (1, AUTO, "מקור ראשי שאינו ויקיפדיה"),
     (2, AUTO, "5 דומיינים עצמאיים ומעלה"),
@@ -713,6 +739,20 @@ def evaluate(entry):
     review = (audit.get("adversarial_review")
               if isinstance(audit.get("adversarial_review"), dict) else {})
     numbers_ok, _ = check_numbers(entry)
+    # Rule 176 — the gate Lamarr walked through. A patent that was shelved and
+    # never built passed every field check on this page, because no field asked
+    # what happened in the world. This one does, and it wants sources: an
+    # unsourced answer is the writer's memory, which is what produced the
+    # "paved the way for Bluetooth" line that the journal itself refuted.
+    impact = audit.get("realized_impact") if isinstance(audit.get("realized_impact"), dict) else {}
+    impact_sources = impact.get("sources") if isinstance(impact.get("sources"), list) else []
+    realized_impact = (
+        len(str(impact.get("answer") or "").strip()) >= 60
+        and all((impact.get(f) or "").strip() for f in ("at", "by"))
+        and any("wikipedia.org" not in domain(str(s)) and domain(str(s)) for s in impact_sources)
+    )
+    excluded_name = any(n and n in (entry.get("title") or "") + " " + (entry.get("title_en") or "")
+                        for n in EXCLUDED["names"])
     delta = audit.get("content_delta")
     pre = audit.get("pre") if isinstance(audit.get("pre"), dict) else {}
     title = entry.get("title") or ""
@@ -723,6 +763,8 @@ def evaluate(entry):
         49: bool(rebuild.get("from_scratch")) and bool(rebuild.get("at")),
         51: bool(entry.get("source_url")) and bool(cites),
         52: isinstance(audit.get("unresolved"), list),
+        176: realized_impact,
+        177: entry.get("id") not in EXCLUDED["ids"] and not excluded_name,
         # מקורות
         1: bool(entry.get("source_url")) and "wikipedia.org" not in (entry.get("source_url") or ""),
         2: len(real_domains) >= 5,
@@ -841,6 +883,24 @@ def print_fields():
     return 0
 
 
+def print_excluded():
+    """Rule 177 — a rejected deed must not be alive on the site."""
+    if not EXCLUDED["ids"] and not EXCLUDED["names"]:
+        print("רשימת הדחויים ריקה — אין מה לבדוק")
+        return 0
+    print(f"רשימת הדחויים: {len(EXCLUDED['names']) // 2} מעשים\n")
+    live = [e for e in fetch_entries() if not evaluate(e)[177]]
+    for name in EXCLUDED["names"][::2]:
+        print(f"  {name}")
+    if live:
+        print(f"\n✗ {len(live)} מעשים דחויים עדיין חיים באתר:")
+        for e in live:
+            print(f"  {e['id']}  {e['title'][:60]}")
+        return 1
+    print("\n✓ אף מעש מן הרשימה אינו חי באתר.")
+    return 0
+
+
 def verify_doc():
     """The document and this registry must hold the same rules."""
     doc_rules = {}
@@ -876,6 +936,7 @@ def main():
     ap.add_argument("--verify-doc", action="store_true", help="check code against the document")
     ap.add_argument("--failing", type=int, help="list deeds failing this rule")
     ap.add_argument("--fields", action="store_true", help="rule 152 — fields the site hides")
+    ap.add_argument("--excluded", action="store_true", help="rule 177 — no live deed is on the rejected list")
     ap.add_argument("--json", help="write the full per-deed report here")
     args = ap.parse_args()
 
@@ -885,6 +946,8 @@ def main():
         return print_fields()
     if args.verify_doc:
         return verify_doc()
+    if args.excluded:
+        return print_excluded()
 
     entries = fetch_entries()
     results = {e["id"]: evaluate(e) for e in entries}

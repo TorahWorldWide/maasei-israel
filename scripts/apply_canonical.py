@@ -28,6 +28,7 @@ TEXT_FIELDS = [
     "ripple", "ripple_en", "aftermath", "aftermath_en",
     "recognition", "recognition_en", "summary_short", "summary_short_en",
     "canonical_type", "canonical_type_en",
+    "engine_sentence", "engine_sentence_en",
 ]
 # `numbers` rides along because rule 148 measures the prose this script
 # rewrites: the new sentences carry numerals the old backing list never covered.

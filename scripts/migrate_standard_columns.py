@@ -48,6 +48,9 @@ COLUMNS = [
     ("canonical_type", "text"),
     ("sections", "jsonb"),
     ("infobox", "jsonb"),
+    #  173 engine_sentence — one sentence a page, and every paragraph serves it
+    ("engine_sentence", "text"),
+    ("engine_sentence_en", "text"),
 ]
 
 MIGRATION = "ALTER TABLE public.entries\n  " + ",\n  ".join(

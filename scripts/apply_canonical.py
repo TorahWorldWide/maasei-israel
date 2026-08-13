@@ -29,7 +29,9 @@ TEXT_FIELDS = [
     "recognition", "recognition_en", "summary_short", "summary_short_en",
     "canonical_type", "canonical_type_en",
 ]
-JSON_FIELDS = ["sections", "infobox", "honors"]
+# `numbers` rides along because rule 148 measures the prose this script
+# rewrites: the new sentences carry numerals the old backing list never covered.
+JSON_FIELDS = ["sections", "infobox", "honors", "numbers"]
 
 
 def main():

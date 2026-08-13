@@ -56,7 +56,11 @@ def merge_citations(existing, incoming):
     archived_url is the expensive one — it costs a routed run through Tomer's
     PC — and a worker that re-lists a citation never has it."""
     by_url = {c.get("source_url"): dict(c) for c in existing if c.get("source_url")}
-    order = [c.get("source_url") for c in existing if c.get("source_url")]
+    # One record per source — `by_url` already collapses a repeated url into a
+    # single record, so a repeated url in `order` re-emitted the same citation
+    # again and again, and the page showed a wall of identical quotes.
+    order = list(dict.fromkeys(c.get("source_url") for c in existing
+                               if c.get("source_url")))
     for cite in incoming or []:
         url = cite.get("source_url")
         if not url:

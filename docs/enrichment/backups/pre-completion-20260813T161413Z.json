@@ -1,0 +1,895 @@
+[
+  {
+    "id": "295b3325-2db9-4284-b550-072b7b991d93",
+    "title": "שלושה ישראלים רשמו פטנט על כונן ה-USB — והעולם עדיין מתווכח מי המציא",
+    "description": "באפריל 1999 הגישה חברת M-Systems מכפר סבא בקשת פטנט אמריקאי בשם \"Architecture for a universal serial bus-based PC flash disk\". הפטנט — US6148354A — ניתן ב-14 בנובמבר 2000 לשלושה ממציאים: אמיר בן, דב מורן ואורון אוגדן, בבעלות החברה \"M Systems Flash Disk Pioneers Ltd\". התקן שתואר בו היה פשוט להפליא: מערך זיכרון פלאש ובקר USB בקופסה אחת, שאפשר לתקוע בכל מחשב בלי כבל, בלי דרייבר ובלי חשמל נפרד. הקיבולת בבקשה הייתה 8 מגה-בייט — פי חמישה מרוב הדיסקטים של אותם ימים.\n\nהחברה לא הגיעה לשוק האמריקאי לבדה: IBM היא שהחלה למכור את התקני 8 המגה-בייט של M-Systems בארצות הברית, תחת השם DiskOnKey. הכונן שוגר בשנת 2000, ולפי הטכניון \"החליף במהירות את התקליטורים כאמצעי מרכזי לאחסון ולהעברת מידע\".\n\nהבכורה על ההמצאה אינה חד-משמעית, וכך היא נכתבת כאן. IEEE Spectrum פרסם ב-2022 מאמר שכותרתו שואלת מי באמת המציא את כונן האגודל, ומתאר \"תביעות חופפות ומתחרות\" סביב מקורו. באותה שנת 2000 חשפה חברת Trek 2000 מסינגפור התקן דומה ביריד טכנולוגיה בגרמניה, והגישה בקשת פטנט חודש לפני היריד. ההגשה הישראלית מקדימה אותה בכשנה — אפריל 1999 מול 2000 — אך ההמצאה נולדה במקביל בכמה מקומות, והמקורות אינם מכריעים בשאלת הבכורה.\n\nהחברה נמכרה: ב-19 בנובמבר 2006 הודיעה SanDisk על השלמת רכישת msystems \"בעסקת מניות מלאה בשווי של כ-1.5 מיליארד דולר\". דב מורן, שהיה אז נשיא ומנכ\"ל החברה, נמסר בהודעה כאומר שההצטרפות לסנדיסק היא \"הזדמנות גדולה לבעלי המניות, לעובדים ולשותפים שלנו\".",
+    "category": "המצאה מדעית",
+    "year": 2000,
+    "media_type": "image",
+    "media_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Dov_Moran.jpg",
+    "source_url": "https://spectrum.ieee.org/thumb-drive",
+    "source_label": "IEEE Spectrum — מי באמת המציא את כונן האגודל?",
+    "submitted_by": null,
+    "status": "approved",
+    "created_at": "2026-06-19 20:32:55.130995+00",
+    "citations": [
+      {
+        "lang": "en",
+        "quote": "In April 1999, the Israeli company M-Systems filed a patent application titled 'Architecture for a Universal Serial Bus-based PC flash disk.' This was granted to Amir Ban, Dov Moran, and Oron Ogdan in November 2000.",
+        "locator": "גוף המאמר, הפסקה על הגשת הפטנט של M-Systems; מאת Hallam Stevens; גיליון מודפס פברואר 2023",
+        "published": "2022-12-10",
+        "locator_en": "Body text, paragraph on the M-Systems patent filing; by Hallam Stevens; February 2023 print issue",
+        "source_url": "https://spectrum.ieee.org/thumb-drive",
+        "archived_url": "https://web.archive.org/web/20260718005005/https://spectrum.ieee.org/thumb-drive",
+        "source_label": "IEEE Spectrum — מי באמת המציא את כונן האגודל?",
+        "source_label_en": "IEEE Spectrum — Who Really Invented the Thumb Drive?"
+      },
+      {
+        "lang": "en",
+        "quote": "Architecture for a universal serial bus-based PC flash disk",
+        "locator": "כותרת הפטנט US6148354A; הוגש 1999-04-05, ניתן 2000-11-14; ממציאים: Amir Ban, Dov Moran, Oron Ogdan; בעלים: M Systems Flash Disk Pioneers Ltd",
+        "published": "2000-11-14",
+        "locator_en": "Title of patent US6148354A; filed 1999-04-05, granted 2000-11-14; inventors: Amir Ban, Dov Moran, Oron Ogdan; assignee: M Systems Flash Disk Pioneers Ltd",
+        "source_url": "https://patents.google.com/patent/US6148354A/en",
+        "archived_url": "https://web.archive.org/web/20250824004911/https://patents.google.com/patent/US6148354A/en",
+        "source_label": "Google Patents — פטנט US6148354A",
+        "source_label_en": "Google Patents — Patent US6148354A"
+      },
+      {
+        "lang": "en",
+        "quote": "At that moment, I decided I would never again go to a presentation without a backup in my pocket.",
+        "locator": "ציטוט של דב מורן, הפסקה על המצגת בה נתקע בלי דרך להעביר את הקובץ",
+        "published": "2025-12-02",
+        "locator_en": "Quote from Dov Moran, in the passage on the presentation where he was left unable to transfer the file",
+        "source_url": "https://www.technion.ac.il/en/blog/article/25-years-since-the-invention-that-changed-the-world-of-data-storage/",
+        "archived_url": "https://web.archive.org/web/20251218061525/https://www.technion.ac.il/en/blog/article/25-years-since-the-invention-that-changed-the-world-of-data-storage/",
+        "source_label": "הטכניון — 25 שנה להמצאה ששינתה את עולם אחסון המידע",
+        "source_label_en": "Technion — 25 Years Since the Invention That Changed the World of Data Storage"
+      },
+      {
+        "lang": "en",
+        "quote": "Moran founded M-Systems in 1989 to develop storage systems based on the advantages of rewritable flash memory.",
+        "locator": "פסקת הרקע על הקמת M-Systems; באותה כתבה גם: \"The Disk On Key was launched by the company in 2000 and quickly replaced CDs as a primary means for storing and transferring data.\"",
+        "published": "2025-12-02",
+        "locator_en": "Background paragraph on the founding of M-Systems; the same article also states: \"The Disk On Key was launched by the company in 2000 and quickly replaced CDs as a primary means for storing and transferring data.\"",
+        "source_url": "https://www.technion.ac.il/en/blog/article/25-years-since-the-invention-that-changed-the-world-of-data-storage/",
+        "archived_url": "https://web.archive.org/web/20251218061525/https://www.technion.ac.il/en/blog/article/25-years-since-the-invention-that-changed-the-world-of-data-storage/",
+        "source_label": "הטכניון — 25 שנה להמצאה ששינתה את עולם אחסון המידע",
+        "source_label_en": "Technion — 25 Years Since the Invention That Changed the World of Data Storage"
+      },
+      {
+        "lang": "en",
+        "quote": "Kfar Saba-based M-Systems files a U.S. patent application for the USB flash drive, which has a storage capacity of 8 megabytes, five times the memory of most floppy disks at the time.",
+        "locator": "המדור \"Today in Israeli History\", קטגוריה Economy and Technology; משפט הפתיחה של הערך (שאר הכתבה חסום למנויי CIE+)",
+        "published": "לא ידוע",
+        "locator_en": "\"Today in Israeli History\" section, Economy and Technology category; opening sentence of the entry (the remainder is behind the CIE+ paywall)",
+        "source_url": "https://israeled.org/m-systems-patents-usb-flash-drive/",
+        "archived_url": "https://web.archive.org/web/20240620130206/https://israeled.org/m-systems-patents-usb-flash-drive/",
+        "published_en": "unknown",
+        "source_label": "המרכז לחינוך ישראלי — M-Systems רושמת פטנט על כונן ה-USB",
+        "source_label_en": "Center for Israel Education — M-Systems Patents USB Flash Drive"
+      },
+      {
+        "lang": "en",
+        "quote": "SanDisk® Corporation (NASDAQ:SNDK - News) today announced the completion of its acquisition of msystems Ltd. in an all stock transaction valued at approximately $1.5 billion.",
+        "locator": "הודעת סנדיסק לעיתונות, פסקה ראשונה; שורת תאריך: MILPITAS, California -- November 19, 2006",
+        "published": "2006-11-19",
+        "locator_en": "SanDisk press release, first paragraph; dateline: MILPITAS, California -- November 19, 2006",
+        "source_url": "https://www.design-reuse.com/news/14720/sandisk-acquisition-msystems.html",
+        "archived_url": "https://web.archive.org/web/20151023032113/http://www.design-reuse.com/news/14720/sandisk-acquisition-msystems.html",
+        "source_label": "Design & Reuse — סנדיסק משלימה את רכישת msystems",
+        "source_label_en": "Design & Reuse — SanDisk Completes Acquisition of msystems"
+      },
+      {
+        "lang": "en",
+        "quote": "The U.S. retail market for portable USB flash memory devices is practically non-existent at this point with almost all of the 2.5 million units expected to ship domestically next year to go into the business and enterprise channels.",
+        "locator": "פסקת מצב השוק בכתבה; באותה כתבה גם התחזיות: 12.5 מיליון יחידות ב-2003, 100 מיליון ב-2004, 250 מיליון ב-2005",
+        "published": "2002-10-14",
+        "locator_en": "Market-status paragraph; the same article carries the forecasts of 12.5 million units in 2003, 100 million in 2004 and 250 million in 2005",
+        "source_url": "https://www.twice.com/product/diskonkey-maker-files-patent-infringement-suit-1095",
+        "archived_url": "https://web.archive.org/web/20221126183331/https://www.twice.com/product/diskonkey-maker-files-patent-infringement-suit-1095",
+        "source_label": "TWICE — יצרנית ה-DiskOnKey מגישה תביעת הפרת פטנט",
+        "source_label_en": "TWICE — DiskOnKey Maker Files Patent Infringement Suit"
+      },
+      {
+        "lang": "en",
+        "quote": "M-Systems has filed a patent infringement lawsuit in United States Federal District Court against Kent, Wash.-based JMTek and a JMTek distributor, asserting that JMTek's branded USBDrive products unlawfully incorporate M-Systems' patented technology.",
+        "locator": "פסקת הפתיחה של הכתבה",
+        "published": "2002-10-14",
+        "locator_en": "Opening paragraph of the article",
+        "source_url": "https://www.twice.com/product/diskonkey-maker-files-patent-infringement-suit-1095",
+        "archived_url": "https://web.archive.org/web/20221126183331/https://www.twice.com/product/diskonkey-maker-files-patent-infringement-suit-1095",
+        "source_label": "TWICE — יצרנית ה-DiskOnKey מגישה תביעת הפרת פטנט",
+        "source_label_en": "TWICE — DiskOnKey Maker Files Patent Infringement Suit"
+      },
+      {
+        "lang": "he",
+        "quote": "דב מורן קיבל השבוע במוזיאום הגרמני במינכן את פרס הטכנולוגיה היוקרתי של קרן ריין",
+        "locator": "פסקת הפתיחה; באותה כתבה: \"הפרס, בסך 20 אלף אירו\" ו\"פרופ' קולונל ברדפורד פרקינסון\"",
+        "quote_en": "Dov Moran received this week, at the German Museum in Munich, the prestigious technology prize of the Rhein Foundation",
+        "published": "2012-10-16",
+        "locator_en": "Opening paragraph; the same article states the prize is worth 20,000 euros and names Prof. Col. Bradford Parkinson as a fellow laureate",
+        "source_url": "https://techtime.co.il/2012/10/16/%D7%93%D7%91-%D7%9E%D7%95%D7%A8%D7%9F-%D7%A7%D7%99%D7%91%D7%9C-%D7%90%D7%AA-%D7%A4%D7%A8%D7%A1-%D7%A7%D7%A8%D7%9F-%D7%A8%D7%99%D7%99%D7%9F-%D7%A2%D7%9C-%D7%94%D7%9E%D7%A6%D7%90%D7%AA-%D7%96%D7%99/",
+        "archived_url": "https://web.archive.org/web/20260418132951/https://techtime.co.il/2012/10/16/%D7%93%D7%91-%D7%9E%D7%95%D7%A8%D7%9F-%D7%A7%D7%99%D7%91%D7%9C-%D7%90%D7%AA-%D7%A4%D7%A8%D7%A1-%D7%A7%D7%A8%D7%9F-%D7%A8%D7%99%D7%99%D7%9F-%D7%A2%D7%9C-%D7%94%D7%9E%D7%A6%D7%90%D7%AA-%D7%96%D7%99/",
+        "source_label": "Techtime — דב מורן קיבל את פרס קרן ריין על המצאת זיכרון ה-USB",
+        "source_label_en": "Techtime — Dov Moran Received the Rhein Foundation Prize for the Invention of USB Memory"
+      },
+      {
+        "lang": "en",
+        "quote": "The IEEE Reynold B. Johnson Information Storage Systems Award was established in 1992 and is presented for outstanding contributions to information storage, with emphasis on computer storage systems.",
+        "locator": "עמוד 20 מתוך 32, המדור \"Reynold B. Johnson Information Storage Systems Award\"; ברשימת הזוכים באותו מדור: \"Dov Moran 2015\", \"Amir Ban 2015\", \"Simon Litsyn 2015\"",
+        "published": "2026",
+        "locator_en": "Page 20 of 32, section \"Reynold B. Johnson Information Storage Systems Award\"; the recipient list in that section reads \"Dov Moran 2015\", \"Amir Ban 2015\", \"Simon Litsyn 2015\"",
+        "source_url": "https://corporate-awards.ieee.org/wp-content/uploads/complete-past-and-present-recipient-list-4.pdf",
+        "archived_url": "https://web.archive.org/web/20260805235035/https://corporate-awards.ieee.org/wp-content/uploads/complete-past-and-present-recipient-list-4.pdf",
+        "source_label": "IEEE — רשימת מקבלי פרסי IEEE, עבר והווה",
+        "source_label_en": "IEEE — Complete Past and Present Recipient List, IEEE-Level Awards"
+      }
+    ],
+    "act": "שלושה מהנדסים ב-M-Systems בכפר סבא — אמיר בן, דב מורן ואורון אוגדן — צירפו מערך זיכרון פלאש לבקר USB בתוך מארז אחד קטן, והגישו על כך פטנט אמריקאי באפריל 1999.",
+    "ripple": "כיס אחד, קובץ אחד, וקץ התלות במחשב שבו הקובץ יושב. ההתקן שנרשם בכפר סבא הפך את העברת המידע לפעולה פיזית שכל אדם יכול לעשות בלי רשת, בלי הרשאה ובלי טכנאי — והוא זמין באותה מידה לתלמיד, לרופא ולעיתונאי בכל מדינה בעולם. הוא בלע קודם את הדיסקט, שהחזיק פי חמישה פחות ממנו כבר בדגם הראשון, ואחר כך את התקליטור.",
+    "title_reasoning": "הכותרת הקודמת (\"דב מורן ממציא את כונן ה-USB — טכנולוגיה שמיליארד בני אדם משתמשים בה\") נפלה בשתי נקודות מול המקורות. ראשית, הפטנט US6148354A רשום על שלושה ממציאים — אמיר בן, דב מורן ואורון אוגדן — ולא על מורן לבדו; \"ממציא\" ביחיד אינו שורד את כלל 72. שנית, \"מיליארד בני אדם\" לא נמצא באף מקור שנמשך, ולכן ירד. הכותרת החדשה אומרת בדיוק את מה שהמקורות תומכים בו: שלושה ישראלים (הפטנט), רשמו פטנט על כונן ה-USB (כותרת הפטנט ותאריך ההענקה), והעולם עדיין מתווכח מי המציא (IEEE Spectrum מדבר במפורש על \"overlapping and competing claims surround the origin of the thumb drive\", ופרסם ב-2022 מאמר ששואל בכותרתו מי באמת המציא). 12 מילים, ללא סימן קריאה, וכל מילה בה נשענת על מקור. המחלוקת אינה החלשה של הסיפור אלא הפרט שמרגש בו.",
+    "media_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/f/fb/Dov_Moran.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/f/f0/USB-IBM-DiskonKey.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/6/67/USB_flash_drive.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/e/e2/Usbkey_internals.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/a/aa/Floppy_disk_2009_G1.jpg"
+    ],
+    "title_en": "Three Israelis Patented the USB Flash Drive — and the World Still Argues Over Who Invented It",
+    "description_en": "In April 1999, M-Systems of Kfar Saba filed a U.S. patent application titled \"Architecture for a universal serial bus-based PC flash disk.\" The patent — US6148354A — was granted on 14 November 2000 to three inventors: Amir Ban, Dov Moran and Oron Ogdan, assigned to \"M Systems Flash Disk Pioneers Ltd.\" The device it described was strikingly simple: a flash memory array and a USB controller in a single case that plugged into any computer with no cable, no driver and no separate power. The capacity in the application was 8 megabytes — five times the memory of most floppy disks of the day.\n\nThe company did not reach the American market alone: it was IBM that began selling M-Systems' 8-MB storage devices in the United States, under the name DiskOnKey. The drive launched in 2000 and, according to the Technion, \"quickly replaced CDs as a primary means for storing and transferring data.\"\n\nPriority over the invention is not clear-cut, and it is written here as such. In 2022 IEEE Spectrum published an article whose title asks who really invented the thumb drive, describing \"overlapping and competing claims\" around its origin. In that same year, 2000, the Singapore company Trek 2000 unveiled a similar device at a German trade fair, having filed its own patent application a month before the fair. The Israeli filing precedes it by roughly a year — April 1999 against 2000 — but the invention emerged in several places at once, and the sources do not settle the question of priority.\n\nThe company was sold: on 19 November 2006 SanDisk announced the completion of its acquisition of msystems \"in an all stock transaction valued at approximately $1.5 billion.\" Dov Moran, then President and CEO, was quoted in the announcement saying that joining SanDisk was \"a great opportunity for our shareholders, employees and partners.\"",
+    "act_en": "Three engineers at M-Systems in Kfar Saba — Amir Ban, Dov Moran and Oron Ogdan — joined a flash memory array to a USB controller inside one small case, and filed a U.S. patent on it in April 1999.",
+    "ripple_en": "One pocket, one file, and the end of being tethered to the computer the file happens to sit on. The device filed in Kfar Saba turned moving data into a physical act any person could perform with no network, no permission and no technician — equally available to a student, a doctor and a journalist in any country in the world. It swallowed first the floppy disk, which held five times less than it did even in its first model, and then the CD.",
+    "source_label_en": "IEEE Spectrum — Who Really Invented the Thumb Drive?",
+    "categories": null,
+    "location": {
+      "lat": 32.175,
+      "lng": 34.9075,
+      "city": "כפר סבא",
+      "city_en": "Kfar Saba",
+      "country": "ישראל",
+      "precision": "city",
+      "country_en": "Israel"
+    },
+    "people": [
+      {
+        "name_en": "Dov Moran",
+        "name_he": "דב מורן",
+        "role_en": "Named inventor on the patent; founder of M-Systems in 1989, and President and CEO at the time of its sale in 2006",
+        "role_he": "ממציא רשום בפטנט; מייסד M-Systems ב-1989, ונשיא ומנכ\"ל החברה בעת מכירתה ב-2006"
+      },
+      {
+        "name_en": "Amir Ban",
+        "name_he": "אמיר בן",
+        "role_en": "Named inventor on patent US6148354A; co-recipient of the IEEE award in 2015",
+        "role_he": "ממציא רשום בפטנט US6148354A; שותף לפרס IEEE ב-2015"
+      },
+      {
+        "name_en": "Oron Ogdan",
+        "name_he": "אורון אוגדן",
+        "role_en": "Named inventor on patent US6148354A",
+        "role_he": "ממציא רשום בפטנט US6148354A"
+      },
+      {
+        "name_en": "Simon Litsyn",
+        "name_he": "סימון ליטסין",
+        "role_en": "Co-recipient of the IEEE Reynold B. Johnson award in 2015 alongside Moran and Ban; not named on the patent",
+        "role_he": "שותף לפרס ריינולד ב' ג'ונסון של IEEE ב-2015, לצד מורן ובן; אינו רשום בפטנט"
+      }
+    ],
+    "deed_type": [
+      "המצאה מדעית"
+    ],
+    "actor_type": "חברה מסחרית",
+    "beneficiary": [
+      "לאנושות כולה"
+    ],
+    "audit": {
+      "at": "2026-08-11T21:38:28+00:00",
+      "by": "standard-pass/opus-5",
+      "pre": {
+        "act": "מורן ייצר מכשיר זעיר שמאחסן נתונים ומתחבר בקלות לכל מחשב — והחליף לצמיתות את הדיסקט הגדול והלא-אמין.",
+        "title": "דב מורן ממציא את כונן ה-USB — טכנולוגיה שמיליארד בני אדם משתמשים בה",
+        "ripple": "כונן ה-USB הפך לתקן עולמי ונמצא בשימוש של מעל מיליארד בני אדם ברחבי העולם, ומדגים כיצד המצאה ישראלית אחת שינתה את חיי כולם.",
+        "media_url": "https://www.youtube.com/watch?v=HRYMn3_D8j4",
+        "source_url": "https://spectrum.ieee.org/thumb-drive",
+        "description": "דב מורן, מהנדס חשמל ישראלי, הקים ב-1989 את חברת M-Systems והמציא את כונן ה-USB הנייד (DiskOnKey) — שהפך לתקן עולמי לאחסון נתונים. החברה נמכרה ב-2006 לSanDisk תמורת 1.6 מיליארד דולר, ומורן זכה בפרס IEEE על המצאתו."
+      },
+      "notes": "המעש נבנה מחדש מאפס. אף טענה מהגרסה הקודמת לא נלקחה כנתונה: שני ציטוטים אושרו מילה-במילה מול הדף החי, אחד תוקן באות אחת, ושלוש טענות מרכזיות (מיליארד משתמשים, 1.6 מיליארד דולר, פרס IEEE למורן לבדו) נפלו מול המקורות וירדו. שני שינויים גדולים בסיפור: ראשית, ההמצאה היא של שלושה ממציאים רשומים ולא של אדם אחד; שנית, הבכורה עצמה שנויה במחלוקת מתועדת, וזה הפך מנקודת חולשה לציר הדף ולכותרתו. הדף ללא סרטונים במכוון — כלל 62 מחייב תמליל לכל סרטון דרך המחשב של תומר, ובתוך תקציב 40 פעולות הרשת סרטון בלי תמליל היה נכשל בשלושה כללים; כלל 60 מתיר במפורש דף של תמונות בלבד כשיש חמש ומעלה, וכולן כאן ברישיון חופשי מפורש. archived_url הושאר ריק בכוונה בכל הציטוטים לפי הוראת התדריך — הארכוב מרוכז ורץ אחרי הכתיבה למסד.",
+      "state": "partial",
+      "tried": [
+        "spectrum.ieee.org — נמשך בהצלחה, שני ציטוטים",
+        "patents.google.com — נמשך בהצלחה, מקור ראשוני",
+        "israeled.org — נמשך חלקית, שאר הכתבה מאחורי חומת תשלום CIE+",
+        "technion.ac.il — נמשך בהצלחה, חמישה ציטוטים",
+        "design-reuse.com — נמשך בהצלחה, הודעת סנדיסק המקורית",
+        "techtime.co.il — נמשך בהצלחה, המקור העברי",
+        "twice.com — נמשך בהצלחה, שני ציטוטים בני-הזמן מ-2002",
+        "corporate-awards.ieee.org — ה-PDF הרשמי נמשך ופוענח מקומית ב-pdftotext; הכריע את שם הפרס",
+        "sec.gov — HTTP 403 לכתובת ה-VM. הודעת סנדיסק אותרה במקום זאת ב-design-reuse.com. אל תנסו שוב.",
+        "ieeemagnetics.org — HTTP 403. אל תנסו שוב.",
+        "ethw.org — HTTP 403. אל תנסו שוב.",
+        "eduard-rhein-stiftung.de/en/preistraeger — נמשך אך אינו מכיל את מורן; הציג ערך יחיד לשנת 2017.",
+        "commons.wikimedia.org/wiki/File:DiskOnChip.jpg — HTTP 404, הקובץ אינו קיים.",
+        "commons.wikimedia.org/wiki/Category:Dov_Moran — קטגוריה קיימת, ובה קובץ אחד בלבד.",
+        "upload.wikimedia.org ב-HEAD רגיל — 429 עבור שלוש מחמש התמונות. אינו 404: עם User-Agent מזהה ודרך Special:FilePath כולן החזירו 206 image/jpeg.",
+        "פאס השלמה 2026-08-13 — corporate-awards.ieee.org: ה-PDF חסום היום בכל המסלולים (548 בתים). ההכרעה נשענה על העותק שנמשך בריצה קודמת ושמור ב-/tmp/vbest-cache; בו מופיעות ברצף השורות \"Dov Moran 2015\", \"Amir Ban 2015\", \"Simon Litsyn 2015\" תחת כותרת פרס ריינולד ב' ג'ונסון.",
+        "פאס השלמה — eduard-rhein-stiftung.de/preistraeger (הגרסה הגרמנית): נמשך, 1,141 בתים, ובו רק \"Preisträger 2017\". אין רשימת שנים. אל תנסו שוב את שני הדפים האלה.",
+        "פאס השלמה — web.archive.org/web/2013/eduard-rhein-stiftung.de/html/Preistraeger_e.html: אינו שמור בארכיון.",
+        "פאס השלמה — patentimages.storage.googleapis.com/f9/3e/4d/38869b4b8b8343/US6148354A.pdf: נמשך (145KB). עמוד השער אכן נושא \"Filed: Apr. 5, 1999\" ו-\"[11] Patent Number: 6,148,354\", אך ה-OCR של המסמך הסרוק שובר את התאריך ל-\"A pr. 5 , 1999\" ולכן אינו בר-ציטוט מילה-במילה.",
+        "פאס השלמה — patents.justia.com/patent/6148354: חסום בכל המסלולים.",
+        "פאס השלמה — freepatentsonline.com/6148354.html: כל המסלולים החזירו דף ממלא-מקום של wayback, בלי תוכן.",
+        "פאס השלמה — web.archive.org/web/2022/israeled.org/m-systems-patents-usb-flash-drive: אינו שמור בארכיון, ולכן אין דרך לראות את גוף הערך מלפני חומת התשלום."
+      ],
+      "videos": [],
+      "checked": [
+        "spectrum.ieee.org — נמשך בהצלחה, שני ציטוטים",
+        "patents.google.com — נמשך בהצלחה, מקור ראשוני",
+        "israeled.org — נמשך חלקית, שאר הכתבה מאחורי חומת תשלום CIE+",
+        "technion.ac.il — נמשך בהצלחה, חמישה ציטוטים",
+        "design-reuse.com — נמשך בהצלחה, הודעת סנדיסק המקורית",
+        "techtime.co.il — נמשך בהצלחה, המקור העברי",
+        "twice.com — נמשך בהצלחה, שני ציטוטים בני-הזמן מ-2002",
+        "corporate-awards.ieee.org — ה-PDF הרשמי נמשך ופוענח מקומית ב-pdftotext; הכריע את שם הפרס",
+        "sec.gov — HTTP 403 לכתובת ה-VM. הודעת סנדיסק אותרה במקום זאת ב-design-reuse.com. אל תנסו שוב.",
+        "ieeemagnetics.org — HTTP 403. אל תנסו שוב.",
+        "ethw.org — HTTP 403. אל תנסו שוב.",
+        "eduard-rhein-stiftung.de/en/preistraeger — נמשך אך אינו מכיל את מורן; הציג ערך יחיד לשנת 2017.",
+        "commons.wikimedia.org/wiki/File:DiskOnChip.jpg — HTTP 404, הקובץ אינו קיים.",
+        "commons.wikimedia.org/wiki/Category:Dov_Moran — קטגוריה קיימת, ובה קובץ אחד בלבד.",
+        "upload.wikimedia.org ב-HEAD רגיל — 429 עבור שלוש מחמש התמונות. אינו 404: עם User-Agent מזהה ודרך Special:FilePath כולן החזירו 206 image/jpeg."
+      ],
+      "missing": [
+        "היום המדויק של ההגשה — 5 באפריל 1999 — הוסר מהטקסט בשתי השפות. העובדה עצמה מתועדת היטב (Google Patents: Filing date 1999-04-05; עמוד השער של הפטנט: \"Filed: Apr. 5, 1999\"), אבל אף מקור שנמשך אינו מציג את היום כספרה בטקסט שניתן לצטט: Google Patents נותן ISO בלבד (\"05\", שאינו \"5\"), ה-OCR של ה-PDF שובר את המילה ל-\"A pr. 5 , 1999\", ו-israeled.org מחזיק את \"April 5, 1999\" רק ב-meta description ולא בגוף הדף. דרוש מקור אחד שכותב את התאריך המלא בטקסט קריא.",
+        "רשימת זוכים היסטורית של קרן אדוארד ריין לשנים שלפני 2017 — אין לה דף חי באתר הקרן ואין העתק בארכיון האינטרנט.",
+        "אימות חי של ה-PDF של IEEE. היום הוא חסום בכל המסלולים; ההכרעה נשענה על העותק שנמשך בהצלחה בריצה קודמת."
+      ],
+      "rebuild": {
+        "at": "2026-08-11T21:38:28+00:00",
+        "by": "standard-pass/opus-5",
+        "from_scratch": true
+      },
+      "removed": [
+        {
+          "why": "לא נמצא באף אחד משבעת המקורות שנמשכו. מספר מצטבר בלי שנה ובלי מקור — נופל גם בכלל 51 וגם בכלל 138.",
+          "item": "\"טכנולוגיה שמיליארד בני אדם משתמשים בה\" / \"מעל מיליארד בני אדם ברחבי העולם\""
+        },
+        {
+          "why": "הודעת סנדיסק ביום ההשלמה נוקבת ב\"כ-1.5 מיליארד דולר\". מקור בן-הזמן של הצד המוכר גובר (כלל 31).",
+          "item": "\"נמכרה ב-2006 לSanDisk תמורת 1.6 מיליארד דולר\""
+        },
+        {
+          "why": "מטושטש ומייחס את הפרס לו לבדו. הרשימה הרשמית של IEEE מראה שהפרס ב-2015 חולק בין שלושה, ושמו המדויק Information Storage Systems Award.",
+          "item": "\"מורן זכה בפרס IEEE על המצאתו\" בניסוח הזה"
+        },
+        {
+          "why": "הטכניון כותב שהכונן החליף במהירות את התקליטורים. יחס הגודל מול הדיסקט (פי חמישה) נשאר כי הוא מצוטט; \"לצמיתות\" ו\"לא-אמין\" הם תוספת פרשנית ללא מקור.",
+          "item": "\"החליף לצמיתות את הדיסקט הגדול והלא-אמין\" כניסוח בלעדי"
+        },
+        {
+          "why": "הפטנט רשום על שלושה ממציאים. הועבר לניסוח שמכבד את שלושתם.",
+          "item": "\"דב מורן ... המציא את כונן ה-USB הנייד\" כמעשה של אדם יחיד"
+        },
+        {
+          "why": "אף אחד מהם לא אומת, לא נמשך להם תמליל, ואין להם video_provenance. סרטון בלי תמליל נכשל בכללים 16, 62 ו-144. כלל 60 מתיר דף ללא סרטונים כשיש 5 תמונות ומעלה.",
+          "item": "חמישה קישורי יוטיוב (HRYMn3_D8j4, SHyZ_PIdv7s, mRFTFQYCEOE, QCCqio_efN0, Hd4T7AaeZtw)"
+        },
+        {
+          "why": "אין להן דף מקור עם צלם, שנה ורישיון. כלל 137 — תמונה בלי בסיס שימוש מוצהר יוצאת מהדף. הוחלפו בחמש תמונות מוויקישיתוף עם רישיון חופשי מפורש.",
+          "item": "תמונת 8allocate.com ותמונת humansoftelaviv.co.il"
+        }
+      ],
+      "disputes": [
+        {
+          "range": "הטכניון (2025): סוללת המחשב הנייד עמדה להיגמר ולא הייתה דרך להעביר את המצגת למחשב אחר. מורן ל-Techtime (2012, עברית): \"לפני פרזנטציה חשובה התקלקל המחשב שלי\". Humans of Tel Aviv, שצוטט בגרסה הקודמת של הדף ולא נמשך מחדש: \"my computer crashed\". שלוש הגרסאות מתכנסות לאותה מצוקה — קובץ שלא ניתן להזיז — והדף כותב את המשותף ולא בוחר אחת.",
+          "topic": "מה בדיוק קרה במצגת שהולידה את הרעיון",
+          "sources": [
+            "https://www.technion.ac.il/en/blog/article/25-years-since-the-invention-that-changed-the-world-of-data-storage/",
+            "https://techtime.co.il/2012/10/16/%D7%93%D7%91-%D7%9E%D7%95%D7%A8%D7%9F-%D7%A7%D7%99%D7%91%D7%9C-%D7%90%D7%AA-%D7%A4%D7%A8%D7%A1-%D7%A7%D7%A8%D7%9F-%D7%A8%D7%99%D7%99%D7%9F-%D7%A2%D7%9C-%D7%94%D7%9E%D7%A6%D7%90%D7%AA-%D7%96%D7%99/"
+          ]
+        },
+        {
+          "range": "המקורות נעים בין 1.3 ל-1.6 מיליארד דולר: EE Times כתב 1.3 מיליארד, ecommercetimes 1.5, Engadget 1.55, והטכניון 1.6. ההפרש נובע מכך שזו הייתה עסקת מניות מלאה, ששוויה השתנה בין יום ההסכם (יולי 2006) ליום ההשלמה (נובמבר 2006). הדף נוקט במספר שבהודעת סנדיסק עצמה ביום ההשלמה: כ-1.5 מיליארד דולר.",
+          "topic": "שווי מכירת החברה לסנדיסק",
+          "sources": [
+            "https://www.design-reuse.com/news/14720/sandisk-acquisition-msystems.html",
+            "https://www.technion.ac.il/en/blog/article/25-years-since-the-invention-that-changed-the-world-of-data-storage/"
+          ]
+        },
+        {
+          "range": "IEEE Spectrum מתאר \"תביעות חופפות ומתחרות\" סביב מקור ההמצאה. M-Systems הגישה באפריל 1999; חברת Trek 2000 מסינגפור הגישה ב-2000, חודש לפני שחשפה התקן דומה ביריד בגרמניה. ההגשה הישראלית מוקדמת בכשנה, אך המקורות אינם מכריעים, והדף אינו טוען בכורה מוחלטת.",
+          "topic": "מי המציא ראשון את כונן ה-USB",
+          "sources": [
+            "https://spectrum.ieee.org/thumb-drive",
+            "https://patents.google.com/patent/US6148354A/en"
+          ]
+        },
+        {
+          "range": "המרכז לחינוך ישראלי משווה את הקיבולת לדיסקטים (פי חמישה). הטכניון כותב שהכונן \"החליף במהירות את התקליטורים\". שתי הקביעות נכונות בשלבים שונים של העשור, והדף כותב את שתיהן ברצף ולא אחת במקום השנייה.",
+          "topic": "מה בדיוק הכונן החליף — דיסקט או תקליטור",
+          "sources": [
+            "https://israeled.org/m-systems-patents-usb-flash-drive/",
+            "https://www.technion.ac.il/en/blog/article/25-years-since-the-invention-that-changed-the-world-of-data-storage/"
+          ]
+        }
+      ],
+      "redirects": [
+        {
+          "at": "2026-08-11",
+          "note": "הכתובות מבוססות מזהה (/deed/295b3325-...), ולכן שינוי הכותרת אינו שובר קישור קיים. הרשומה נשמרת כהפניה ליום שבו יתווספו כתובות לפי כותרת (כלל 127).",
+          "to_title": "שלושה ישראלים רשמו פטנט על כונן ה-USB — והעולם עדיין מתווכח מי המציא",
+          "from_title": "דב מורן ממציא את כונן ה-USB — טכנולוגיה שמיליארד בני אדם משתמשים בה"
+        }
+      ],
+      "the_moment": "אולם הרצאות בסוף שנות התשעים: דב מורן עומד מול קהל שבא לשמוע אותו, המחשב בוגד בו, והמצגת נעולה בתוכו בלי שום דרך להוציא אותה משם. באפריל 1999, במשרדי M-Systems בכפר סבא, הוא ואמיר בן ואורון אוגדן מגישים פטנט אמריקאי על הקופסה הקטנה שפותרת את זה — מערך זיכרון פלאש ובקר USB במארז אחד, בלי כבל, בלי דרייבר ובלי חשמל.",
+      "unresolved": [
+        "archived_url ריק בכל עשרת הציטוטים — לפי הוראת התדריך וכלל 136 המעודכן, הארכוב מרוכז ורץ במחשב הביתי של תומר אחרי הכתיבה למסד. לא נעשה כאן ניסיון ארכוב ולא הומצאה שום כתובת סנפשוט.",
+        "פרס הטכנולוגיה של קרן אדוארד ריין (2012) הוסר מ-honors בפאס ההשלמה: לא ניתן לאמת אותו מול הגוף המעניק. דף ה-Preisträger של הקרן, באנגלית ובגרמנית כאחד, מציג ערך יחיד — 2017, פרופ' ארנסט ד' דיקמנס — ואין בו ארכיון שנים; גם עמוד הזוכים של האתר הישן אינו שמור בארכיון האינטרנט. הזכייה מדווחת ב-Techtime (2012-10-16), אך עיתון אינו הגוף המעניק, וכלל 151 דורש את רשימת המעניק עצמו. אם יימצא דף זוכים היסטורי של הקרן — הפרס חוזר.",
+        "לא נמצא ולא אומת שום כבוד הנושא את שם אחד משלושת הממציאים — רחוב, מוסד, קתדרה, קרן או לוויין. honors מכיל פרס אחד שהוענק להם, ולא כבוד על שמם. ייתכן שאין כזה, וייתכן שלא חיפשנו מספיק.",
+        "מספרי היחידות שנמכרו בפועל לא אומתו. TWICE מביא תחזיות של החברה בלבד (12.5 / 100 / 250 מיליון), ולא מכירות. הדוחות של M-Systems ב-SEC היו המקור הנכון למספרים אמיתיים, ו-sec.gov החזיר 403 לכתובת ה-VM.",
+        "שאר הכתבה ב-israeled.org חסום מאחורי חומת תשלום CIE+; נמשך רק משפט הפתיחה של הערך.",
+        "לא ידוע אם ואיזה תמלוגים אישיים קיבלו אמיר בן ואורון אוגדן על הפטנט. הפטנט בבעלות החברה, והמקורות שנמשכו שותקים בנקודה הזו.",
+        "תפקידו המדויק של סימון ליטסין בהמצאה אינו ברור. הוא שותף לפרס IEEE ב-2015 ואינו מופיע כממציא בפטנט US6148354A."
+      ],
+      "corrections": [
+        {
+          "now": "\"דב מורן קיבל השבוע במוזיאום הגרמני במינכן...\"",
+          "was": "ציטוט: \"דב מורן קיבל השבוע במוזיאון הגרמני במינכן...\"",
+          "why": "בדף החי ב-Techtime כתוב \"מוזיאום\" ולא \"מוזיאון\". אות אחת — ודי בה כדי להכשיל את מבחן ההתאמה מילה-במילה (כלל 4).",
+          "source": "https://techtime.co.il/2012/10/16/%D7%93%D7%91-%D7%9E%D7%95%D7%A8%D7%9F-%D7%A7%D7%99%D7%91%D7%9C-%D7%90%D7%AA-%D7%A4%D7%A8%D7%A1-%D7%A7%D7%A8%D7%9F-%D7%A8%D7%99%D7%99%D7%9F-%D7%A2%D7%9C-%D7%94%D7%9E%D7%A6%D7%90%D7%AA-%D7%96%D7%99/"
+        },
+        {
+          "now": "IEEE Reynold B. Johnson Information Storage Systems Award",
+          "was": "שם הפרס: IEEE Reynold B. Johnson Data Storage Device Technology Award (כפי שכתב הטכניון)",
+          "why": "לפי רשימת הפרסים הרשמית של IEEE, פרס ה-Data Storage Device Technology הופסק בפברואר 2011 ולכן לא יכול היה להינתן ב-2015. מורן, בן וליטסין מופיעים ברשימת הזוכים של פרס ה-Information Storage Systems לשנת 2015. מקור הגוף המעניק גובר על מקור מוסדי מתווך.",
+          "source": "https://corporate-awards.ieee.org/wp-content/uploads/complete-past-and-present-recipient-list-4.pdf"
+        },
+        {
+          "now": "5 באפריל 1999",
+          "was": "תאריך ההגשה: \"אפריל 1999\"",
+          "why": "רשומת הפטנט עצמה נותנת את התאריך המדויק, ומדייקת את הניסוח הכללי של IEEE Spectrum.",
+          "source": "https://patents.google.com/patent/US6148354A/en"
+        },
+        {
+          "now": "באפריל 1999 הגישה חברת M-Systems מכפר סבא בקשת פטנט אמריקאי",
+          "was": "ב-5 באפריל 1999 הגישה חברת M-Systems מכפר סבא בקשת פטנט אמריקאי",
+          "why": "כלל 148 — היום בחודש לא נמצא בשום ציטוט בר-אימות. Google Patents מציג 1999-04-05 (האסימון הוא \"05\", לא \"5\"), ה-OCR של עמוד השער שובר את \"Apr. 5, 1999\", ו-israeled.org מחזיק את התאריך רק ב-meta description. החודש והשנה נשארים, שניהם מכוסים בציטוט של IEEE Spectrum.",
+          "fields": [
+            "description",
+            "description_en"
+          ]
+        },
+        {
+          "now": "והגישו על כך פטנט אמריקאי באפריל 1999.",
+          "was": "והגישו על כך פטנט אמריקאי ב-5 באפריל 1999.",
+          "why": "אותו תיקון, באותו כלל 148, בשדה השני שנשא את התאריך — כדי שלא תיווצר סתירה בין act ל-description ובין העברית לאנגלית (לקח 29 / כלל 160).",
+          "fields": [
+            "act",
+            "act_en"
+          ]
+        }
+      ],
+      "merged_from": [],
+      "person_notes": [
+        "דב מורן הוא בוגר הפקולטה להנדסת חשמל ומחשבים ע\"ש אנדרו וארנה ויטרבי בטכניון. נשמר כאן ולא בגוף הדף מעבר לאזכור אחד בסיפור המקור, כי זו ביוגרפיה ולא המעשה (כלל 68).",
+        "מורן היה נשיא ומנכ\"ל msystems בעת המכירה לסנדיסק ב-2006. פרטי הקריירה שלו לפני ואחרי M-Systems לא נחקרו כאן ואינם נכנסים לדף המעשה."
+      ],
+      "content_delta": [
+        {
+          "fact": "הפטנט הוא US6148354A, הוגש 5.4.1999 וניתן 14.11.2000, ורשום על שלושה ממציאים בבעלות M Systems Flash Disk Pioneers Ltd",
+          "source": "https://patents.google.com/patent/US6148354A/en"
+        },
+        {
+          "fact": "IEEE Spectrum מתאר תביעות חופפות ומתחרות על מקור ההמצאה, ו-Trek 2000 מסינגפור חשפה התקן דומה ב-2000 והגישה פטנט חודש לפני היריד בגרמניה",
+          "source": "https://spectrum.ieee.org/thumb-drive"
+        },
+        {
+          "fact": "IBM היא שהחלה למכור בארה\"ב את התקני 8 המגה-בייט של M-Systems תחת השם DiskOnKey",
+          "source": "https://spectrum.ieee.org/thumb-drive"
+        },
+        {
+          "fact": "הבקשה הוגשה מכפר סבא, בקיבולת 8 מגה-בייט — פי חמישה מרוב הדיסקטים דאז",
+          "source": "https://israeled.org/m-systems-patents-usb-flash-drive/"
+        },
+        {
+          "fact": "סיפור המקור: מצגת שנתקעה, ההחלטה \"לעולם לא בלי גיבוי בכיס\"; M-Systems הוקמה ב-1989; הכונן שוגר ב-2000 והחליף במהירות את התקליטור",
+          "source": "https://www.technion.ac.il/en/blog/article/25-years-since-the-invention-that-changed-the-world-of-data-storage/"
+        },
+        {
+          "fact": "שווי המכירה לסנדיסק הוא כ-1.5 מיליארד דולר בעסקת מניות מלאה, לפי הודעת סנדיסק ביום ההשלמה 19.11.2006 — ולא 1.6 מיליארד",
+          "source": "https://www.design-reuse.com/news/14720/sandisk-acquisition-msystems.html"
+        },
+        {
+          "fact": "ב-2002 השוק הקמעונאי בארה\"ב היה \"כמעט לא קיים\", וכמעט כל 2.5 מיליון היחידות הצפויות לשנה שאחריה יועדו לערוצים עסקיים",
+          "source": "https://www.twice.com/product/diskonkey-maker-files-patent-infringement-suit-1095"
+        },
+        {
+          "fact": "M-Systems הגישה ב-2002 תביעת הפרת פטנט בבית משפט פדרלי בארה\"ב נגד JMTek ומפיץ שלה, על מוצרי USBDrive",
+          "source": "https://www.twice.com/product/diskonkey-maker-files-patent-infringement-suit-1095"
+        },
+        {
+          "fact": "תחזיות החברה מ-2002: 12.5 מיליון יחידות ב-2003, 100 מיליון ב-2004, 250 מיליון ב-2005 — תחזיות ולא מכירות בפועל",
+          "source": "https://www.twice.com/product/diskonkey-maker-files-patent-infringement-suit-1095"
+        },
+        {
+          "fact": "פרס קרן אדוארד ריין 2012, 20 אלף אירו, במוזיאום הגרמני במינכן, באותה שנה עם ברדפורד פרקינסון מפתח ה-GPS",
+          "source": "https://techtime.co.il/2012/10/16/%D7%93%D7%91-%D7%9E%D7%95%D7%A8%D7%9F-%D7%A7%D7%99%D7%91%D7%9C-%D7%90%D7%AA-%D7%A4%D7%A8%D7%A1-%D7%A7%D7%A8%D7%9F-%D7%A8%D7%99%D7%99%D7%9F-%D7%A2%D7%9C-%D7%94%D7%9E%D7%A6%D7%90%D7%AA-%D7%96%D7%99/"
+        },
+        {
+          "fact": "הפרס ב-2015 הוא IEEE Reynold B. Johnson Information Storage Systems Award, וחולק בין מורן, בן וליטסין",
+          "source": "https://corporate-awards.ieee.org/wp-content/uploads/complete-past-and-present-recipient-list-4.pdf"
+        },
+        {
+          "fact": "חמש תמונות עם צלם, שנה, מקום פרסום ורישיון חופשי מפורש",
+          "source": "https://commons.wikimedia.org/wiki/File:Dov_Moran.jpg"
+        }
+      ],
+      "discrepancies": [
+        {
+          "what": "הדף כותב שהמקורות אינם מכריעים בשאלת הבכורה, בעוד שהמקור שהוא עצמו מציב ככותרת — IEEE Spectrum — מכריע במפורש לטובת סינגפור, ומדווח על פסק דין שניתן נגד M-Systems. שתי עובדות מהמאמר נשמטו: (א) כותרת המשנה של המאמר, (ב) שטרק תבעה את M-Systems בסינגפור וניצחה. הקורא נשאר עם הרושם שהבכורה פתוחה ושההגשה המוקדמת יותר של אפריל 1999 מכריעה — בעוד המקור אומר את ההפך.",
+          "where": "description / description_en, הפסקה השלישית (\"הבכורה על ההמצאה אינה חד-משמעית\")",
+          "evidence": "כותרת המשנה של המאמר: \"Thumb drive, USB drive, memory stick: Whatever you call it, it's the brainchild of an unsung Singapore inventor\". ובגוף: \"Beginning in 2002, Tan brought suit in Singapore against a handful of companies (including Electec, FE Global Electronics, M-Systems, and Ritronics Components) for patent infringement. After several years of court battles and hundreds of thousands of dollars in legal fees, Trek won that case, persuading the judge that its ThumbDrive was the first device ever designed to be plugged directly into a computer without the need for a cable.\"",
+          "found_at": "2026-08-13T15:49:29+00:00",
+          "found_by": "adversarial-review/opus-5",
+          "severity": "severe",
+          "source_url": "https://spectrum.ieee.org/thumb-drive"
+        },
+        {
+          "what": "סתירה בין השפות במשך הזמן שחלף מהגשת הפטנט ועד המכירה לסנדיסק. העברית כותבת \"שבע שנים ואחת\" — ניסוח שאינו קריא כפרק זמן — והאנגלית כותבת \"seven and a half years\". שני המספרים שונים זה מזה, ושניהם אינם מדויקים: מ-5 באפריל 1999 עד 19 בנובמבר 2006 חלפו שבע שנים ושבעה חודשים וחצי. שתי הגרסאות מוגשות לקורא באותו עמוד.",
+          "where": "aftermath (עברית) מול aftermath_en (אנגלית), הפסקה האחרונה",
+          "evidence": "עברית בדף החי: \"ב-19 בנובמבר 2006, שבע שנים ואחת אחרי הגשת הפטנט, השלימה SanDisk את רכישת msystems\". אנגלית באותו דף: \"On 19 November 2006, seven and a half years after the patent was filed, SanDisk completed its acquisition\". תאריך ההגשה בפטנט: \"Prior art date 1999-04-05\".",
+          "found_at": "2026-08-13T15:49:29+00:00",
+          "found_by": "adversarial-review/opus-5",
+          "severity": "severe",
+          "source_url": "https://patents.google.com/patent/US6148354A/en"
+        },
+        {
+          "what": "הדף טוען שהקיבולת שנרשמה בבקשת הפטנט הייתה 8 מגה-בייט. גוף הפטנט אינו נוקב בשום קיבולת — חיפוש על megabyte / Mbyte / 8M בטקסט המלא של US6148354A מחזיר אפס תוצאות. המקורות מייחסים את 8 המגה-בייט למוצר שנמכר, לא לבקשה, והטכניון מוסיף שגם זו רק גרסת הבסיס. יתרה מזו, אותם 8 מגה-בייט אינם ייחודיים ל-M-Systems: לפי IEEE Spectrum גם ה-ThumbDrive המתחרה של טרק החזיק 8 מגה-בייט.",
+          "where": "description / description_en, סוף הפסקה הראשונה (\"הקיבולת בבקשה הייתה 8 מגה-בייט\" / \"The capacity in the application was 8 megabytes\")",
+          "evidence": "הטכניון: \"The original storage capacity was 8MB for the basic model and up to 32MB for the premium version.\" IEEE Spectrum על טרק: \"The gadget, roughly the size of a pack of chewing gum, held 8 megabytes of data\". israeled.org מייחס גם הוא למכשיר: \"the USB flash drive, which has a storage capacity of 8 megabytes\".",
+          "found_at": "2026-08-13T15:49:29+00:00",
+          "found_by": "adversarial-review/opus-5",
+          "severity": "moderate",
+          "source_url": "https://www.technion.ac.il/en/blog/article/25-years-since-the-invention-that-changed-the-world-of-data-storage/"
+        },
+        {
+          "what": "האמירה שהשוק הקמעונאי היה \"כמעט לא קיים\" מיוחסת לעיתון TWICE כדיווח עיתונאי, אבל בכתבה עצמה היא ציטוט של בליין פלפס — מנהל הקידום של M-Systems עצמה. כלומר הדף מציג הערכה של דובר החברה הנוגעת בדבר כאילו היא ממצא של העיתונות המקצועית. הטענה הזאת גם מובילה את התקציר, ולכן היא הדבר הראשון שהקורא מקבל על מצב השוק.",
+          "where": "aftermath / aftermath_en, וגם summary_short / summary_short_en",
+          "evidence": "TWICE, 14.10.2002: \"The U.S. retail market for portable USB flash memory devices is practically non-existent at this point with almost all of the 2.5 million units expected to ship domestically next year to go into the business and enterprise channels, Phelps said.\" ובאותה כתבה: \"Phelps, M-Systems' promotions director, said…\"",
+          "found_at": "2026-08-13T15:49:29+00:00",
+          "found_by": "adversarial-review/opus-5",
+          "severity": "moderate",
+          "source_url": "https://www.twice.com/product/diskonkey-maker-files-patent-infringement-suit-1095"
+        },
+        {
+          "what": "התקציר מדבר על מורן \"ושני עמיתיו\" שרשמו את הפטנט, ומיד אחר כך אומר שפרס IEEE \"חולק לשלושה\" — בלי לומר שמדובר בשלישייה אחרת. שלישיית הפטנט היא בן, מורן ואוגדן; שלישיית הפרס היא מורן, בן וסימון ליטסין. אורון אוגדן, שנרשם על הפטנט, אינו בין מקבלי הפרס כלל, וליטסין אינו רשום על הפטנט. הקורא של התקציר לבדו יסיק שאותם שלושה קיבלו את הפרס על אותה המצאה.",
+          "where": "summary_short / summary_short_en (\"וגם אז חולק לשלושה\" / \"even then it was split three ways\")",
+          "evidence": "רשימת מקבלי הפרסים של IEEE, עמ' 20, טור Reynold B. Johnson Information Storage Systems Award, שלוש שורות רצופות: \"Dov Moran 2015 / Amir Ban 2015 / Simon Litsyn 2015\". מול הפטנט: \"Inventor: Amir Ban, Dov Moran, Oron Ogdan\".",
+          "found_at": "2026-08-13T15:49:29+00:00",
+          "found_by": "adversarial-review/opus-5",
+          "severity": "moderate",
+          "source_url": "https://corporate-awards.ieee.org/wp-content/uploads/complete-past-and-present-recipient-list-4.pdf"
+        },
+        {
+          "what": "הכיתוב טוען שהתצלום מראה \"הדגם שהגיע לשוק האמריקאי\", כלומר את התקן 8 המגה-בייט ש-IBM מכרה בארה\"ב בשנת 2000. תיאור הקובץ בוויקישיתוף אינו מוסר דגם, קיבולת או שנת ייצור, והתצלום עצמו צולם ב-2020 — עשרים שנה אחרי. אין במקור שום דבר שמקשר את היחידה שבפריים לדגם ההשקה.",
+          "where": "כיתוב תמונה 2 (USB-IBM-DiskonKey.jpg), caption_he ו-caption_en",
+          "evidence": "תיאור הקובץ המלא ב-Commons API הוא בן ארבע מילים: \"Memoria USB IBM DiskonKey\". DateTimeOriginal: 2020-11-09. אין שדה דגם ואין שנת ייצור.",
+          "found_at": "2026-08-13T15:49:29+00:00",
+          "found_by": "adversarial-review/opus-5",
+          "severity": "moderate",
+          "source_url": "https://commons.wikimedia.org/wiki/File:USB-IBM-DiskonKey.jpg"
+        }
+      ],
+      "spinoff_leads": [
+        {
+          "lead": "סימון ליטסין — שותף לפרס ריינולד ב' ג'ונסון של IEEE ב-2015 על תרומה לאחסון מידע, ואינו רשום בפטנט ה-DiskOnKey. תרומתו לתחום היא ליד עצמאי ואינה נדחסת לדף הזה.",
+          "source": "https://corporate-awards.ieee.org/wp-content/uploads/complete-past-and-present-recipient-list-4.pdf"
+        },
+        {
+          "lead": "אמיר בן — ממציא רשום בפטנט ושותף לפרס IEEE. אדם עם יותר ממעש אחד; ראוי לליד נפרד ולא לשורה בדף הזה (כלל 77).",
+          "source": "https://patents.google.com/patent/US6148354A/en"
+        },
+        {
+          "lead": "אלי הררי — יו\"ר ומנכ\"ל סנדיסק בעת רכישת msystems, ישראלי-אמריקאי ומייסד סנדיסק. ליד נפרד לגמרי.",
+          "source": "https://www.design-reuse.com/news/14720/sandisk-acquisition-msystems.html"
+        },
+        {
+          "lead": "אורון אוגדן — הממציא השלישי בפטנט, שאינו מופיע בשום מקור אחר שנמשך כאן ואינו בין מקבלי פרס IEEE. הפער בין השלושה הוא סיפור בפני עצמו.",
+          "source": "https://patents.google.com/patent/US6148354A/en"
+        }
+      ],
+      "completion_pass": {
+        "at": "2026-08-13T14:11:24+00:00",
+        "by": "completion-pass/opus-5",
+        "rules": [
+          148,
+          150,
+          151,
+          157
+        ]
+      },
+      "domains_covered": [
+        "ieee.org (spectrum.ieee.org + corporate-awards.ieee.org)",
+        "patents.google.com",
+        "israeled.org",
+        "technion.ac.il",
+        "design-reuse.com",
+        "techtime.co.il",
+        "twice.com"
+      ],
+      "image_provenance": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Dov_Moran.jpg",
+          "group": null,
+          "credit": "ComigoTV, ויקישיתוף",
+          "license": "cc",
+          "group_en": null,
+          "credit_en": "ComigoTV, Wikimedia Commons",
+          "shot_when": "2014-05-20",
+          "caption_en": "Dov Moran, one of the three inventors named on the patent",
+          "caption_he": "דב מורן, אחד משלושת הרשומים על הפטנט",
+          "image_seen": {
+            "by": "describe_images/claude-opus-5",
+            "blind": true,
+            "description": "צילום צבע, פורטרט אופקי של אדם אחד — גבר מבוגר, קירח בחלקו העליון של הראש עם שיער אפור בצדדים, במשקפיים עגולים דקים ובחולצה מכופתרת כחולה עם שרוולים מקופלים מעל גופייה לבנה. הוא ניצב בפרופיל תלת-רבעי ומביט הצידה, בלי חיוך. מאחוריו לוח שקוף/זכוכית עם שרבוטים כחולים של דיאגרמות, חצים וגרפים — הכתב אינו קריא. בצד ימין מסגרת כהה, קיר בהיר ותמונה צבעונית מטושטשת. תאורה טבעית רכה; המיקום והתקופה אינם ברורים.",
+            "described_at": "2026-08-13T13:52:44+00:00"
+          },
+          "source_url": "https://commons.wikimedia.org/wiki/File:Dov_Moran.jpg",
+          "license_note": "CC BY-SA 4.0 — ייחוס לצלם ושיתוף זהה, לפי הצהרת הרישיון בדף הקובץ",
+          "photographer": "ComigoTV",
+          "published_in": "Wikimedia Commons",
+          "shot_when_en": "2014-05-20",
+          "license_note_en": "CC BY-SA 4.0 — attribution to the photographer and share-alike, per the license statement on the file page"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/USB-IBM-DiskonKey.jpg",
+          "group": "הכונן שיצא לעולם",
+          "credit": "Ianturo, ויקישיתוף",
+          "license": "cc",
+          "group_en": "The drive that reached the world",
+          "credit_en": "Ianturo, Wikimedia Commons",
+          "shot_when": "2020-11-09",
+          "caption_en": "An IBM-branded DiskOnKey — the model that reached the American market",
+          "caption_he": "כונן DiskOnKey בסימון IBM — הדגם שהגיע לשוק האמריקאי",
+          "image_seen": {
+            "by": "describe_images/claude-opus-5",
+            "blind": true,
+            "description": "צילום מקרוב של התקן אחסון USB המונח על רקע לבן־אפרפר, מפורק לשני חלקים. בחלק העליון מכסה פלסטיק שחור עם טבעת מפתחות מתכתית עגולה, ועליו הלוגו \"IBM\" באותיות כחולות מפוספסות. מתחתיו גוף ההתקן: קצה שחור מעוגל, גוף אפור־כסוף ומחבר USB מתכתי חשוף. על הגוף מודפס \"DiskonKey™\" (המילה on בירוק), ועל החלק השחור מוטבע בהבלטה \"FC CE\" וכן \"ASSEMBLED IN THE USA\". אין אנשים בפריים. תקופת הצילום אינה ברורה.",
+            "described_at": "2026-08-13T13:53:04+00:00"
+          },
+          "source_url": "https://commons.wikimedia.org/wiki/File:USB-IBM-DiskonKey.jpg",
+          "license_note": "CC BY-SA 4.0 — יצירה עצמית של המעלה",
+          "photographer": "Ianturo",
+          "published_in": "Wikimedia Commons",
+          "shot_when_en": "2020-11-09",
+          "license_note_en": "CC BY-SA 4.0 — own work of the uploader"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/USB_flash_drive.jpg",
+          "group": "הכונן שיצא לעולם",
+          "credit": "Dori, ויקישיתוף",
+          "license": "public_domain",
+          "group_en": "The drive that reached the world",
+          "credit_en": "Dori, Wikimedia Commons",
+          "shot_when": "2004",
+          "caption_en": "A commercial flash drive from 2004, holding 128 MiB",
+          "caption_he": "כונן פלאש מסחרי מ-2004, בקיבולת 128 מגה-בייט",
+          "image_seen": {
+            "by": "describe_images/claude-opus-5",
+            "blind": true,
+            "description": "צילום מוצר על רקע לבן: התקן אחסון USB בגוף מתכתי כסוף עם מארז פנימי שקוף בגוון כחול, שדרכו נראה מעגל מודפס עם רכיבים ומגע ה‑USB המתכתי בקצה העליון. משמאל‑למעלה מונח מכסה כסוף נפרד עם חריץ. בצד ימין סרגל מדידה אנכי עם סימוני 0 עד 100 והכיתוב \"mm\", כך שאורך ההתקן כ‑80 מ\"מ. על גוף השקוף נראה טקסט זעיר, ביניהם משהו כמו \"REV.01\"; שאר הכיתוב אינו קריא.",
+            "described_at": "2026-08-13T12:47:47+00:00"
+          },
+          "source_url": "https://commons.wikimedia.org/wiki/File:USB_flash_drive.jpg",
+          "license_note": "שוחרר לנחלת הכלל על ידי בעל זכויות היוצרים, לפי הצהרה בדף הקובץ",
+          "photographer": "Dori",
+          "published_in": "Wikimedia Commons",
+          "shot_when_en": "2004",
+          "license_note_en": "Released into the public domain by the copyright holder, per the statement on the file page"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Usbkey_internals.jpg",
+          "group": "הכונן שיצא לעולם",
+          "credit": "John Fader, ויקישיתוף",
+          "license": "cc",
+          "group_en": "The drive that reached the world",
+          "credit_en": "John Fader, Wikimedia Commons",
+          "shot_when": "2004-12",
+          "caption_en": "What is inside: a USB controller, a flash chip and one small circuit board",
+          "caption_he": "מה יש בפנים: בקר USB, שבב פלאש ולוח מודפס אחד קטן",
+          "image_seen": {
+            "by": "describe_images/claude-opus-5",
+            "blind": true,
+            "description": "צילום מוצר בעל אופי טכני־מסבירני: שני מבטים על אותו התקן זיכרון USB בלי מארז, לוח מודפס אדום עם מחבר USB מתכתי בולט משמאל. בחלק העליון הצד עם הרכיבים — שבב ריבועי קטן ושבב זיכרון מלבני גדול, ולידם רכיבי SMD זעירים. בחלק התחתון הצד השני עם מסלולי נחושת, גביש מלבני, נורית צהובה ומתג הזזה קטן. קווי הסבר ממוספרים 1–8 מצביעים על חלקים. טקסט חלקי וקשה לקריאה: \"OTi\", \"PRIO22 REV.2.1 HRS\", \"M8RA3726FK\", \"XTAL1\", \"LED\", \"JP2\", \"SW1\".",
+            "described_at": "2026-08-13T13:53:22+00:00"
+          },
+          "source_url": "https://commons.wikimedia.org/wiki/File:Usbkey_internals.jpg",
+          "license_note": "רישיון כפול: CC BY-SA 3.0 Unported וגם GFDL 1.2 ואילך",
+          "photographer": "John Fader",
+          "published_in": "Wikimedia Commons",
+          "shot_when_en": "2004-12",
+          "license_note_en": "Dual-licensed: CC BY-SA 3.0 Unported and GFDL 1.2 or later"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Floppy_disk_2009_G1.jpg",
+          "group": null,
+          "credit": "George Chernilevsky, ויקישיתוף",
+          "license": "public_domain",
+          "group_en": null,
+          "credit_en": "George Chernilevsky, Wikimedia Commons",
+          "shot_when": "2009-06-07",
+          "caption_en": "The floppy disks the drive displaced, in the three sizes then in use",
+          "caption_he": "הדיסקטים שהכונן החליף, בשלושת הגדלים שהיו בשימוש",
+          "image_seen": {
+            "by": "describe_images/claude-opus-5",
+            "blind": true,
+            "description": "צילום סטודיו צבעוני על רקע לבן־אפרפר, ובו שלושה תקליטונים מונחים זה על גבי זה בסדר יורד של גודל, מהגדול משמאל אל הקטן מימין. הגדול שחור ומרובע עם מדבקה כסופה שעליה כתוב \"EC5274 SS/SD\", \"изот\" ומתחת \"СДЕЛАНО В БОЛГАРИИ\". האמצעי כתום עם מדבקה לבנה ופס כחול, ועליה \"boedem\", \"FLOPPY DISK\", \"5,25\" HD,DS\". הקטן מימין קשיח וכחול, נושא \"BASF\", \"HD\", \"2HD\", \"WRITE ENABLE\", \"WRITE PROTECT\" ו־\"INDEX\". אין אנשים בפריים.",
+            "described_at": "2026-08-13T12:48:05+00:00"
+          },
+          "source_url": "https://commons.wikimedia.org/wiki/File:Floppy_disk_2009_G1.jpg",
+          "license_note": "שוחרר לנחלת הכלל בכל העולם על ידי הצלם; נכנס לגלריה כתמונה חריגה (כלל 46) כדי להראות את מה שהכונן החליף — הקיבולת בבקשת הפטנט הייתה פי חמישה מדיסקט",
+          "photographer": "George Chernilevsky",
+          "published_in": "Wikimedia Commons",
+          "shot_when_en": "2009-06-07",
+          "license_note_en": "Released worldwide into the public domain by the photographer; included as a standalone image (rule 46) to show what the drive displaced — the capacity in the patent application was five times that of a floppy"
+        }
+      ],
+      "lead_image_basis": "verified_portrait",
+      "sensitive_claims": [
+        {
+          "note": "דב מורן אדם חי, ולכן כלל 139 חל. שני דומיינים עצמאיים שאינם מצטטים זה את זה: IEEE Spectrum מתעד תביעות בכורה חופפות ומתחרות מול Trek 2000; TWICE מתעד ב-2002 התדיינות משפטית של M-Systems נגד JMTek על עצם הבעלות בטכנולוגיה. הטענה מנוסחת בדף כמחלוקת מתועדת ולא כשלילה של תרומתם.",
+          "claim": "הבכורה על המצאת כונן ה-USB שנויה במחלוקת, וקרדיט ההמצאה אינו מיוחס באופן חד-משמעי לדב מורן ולשותפיו",
+          "sources": [
+            "https://spectrum.ieee.org/thumb-drive",
+            "https://www.twice.com/product/diskonkey-maker-files-patent-infringement-suit-1095"
+          ]
+        },
+        {
+          "note": "שני דומיינים עצמאיים נוקבים באותם שלושה שמות — אמיר בן, דב מורן ואורון אוגדן. הטענה מתקנת ניפוח שהיה בגרסה הקודמת של הדף, ואינה פוגעת באיש.",
+          "claim": "כונן ה-USB אינו המצאה של דב מורן לבדו אלא של שלושה ממציאים רשומים",
+          "sources": [
+            "https://patents.google.com/patent/US6148354A/en",
+            "https://spectrum.ieee.org/thumb-drive"
+          ]
+        }
+      ],
+      "adversarial_review": {
+        "at": "2026-08-13T15:49:29+00:00",
+        "by": "adversarial-review/opus-5",
+        "held": [
+          "פרטי הפטנט במלואם — US6148354A, הכותרת \"Architecture for a universal serial bus-based PC flash disk\", תאריך ההגשה 5.4.1999, מתן הפטנט 14.11.2000, ושלושת הממציאים אמיר בן, דב מורן ואורון אוגדן — כולם מאומתים מול עמוד הפטנט ב-Google Patents.",
+          "הציטוט המרכזי של IEEE Spectrum על הגשת הפטנט של M-Systems ומתן הפטנט לשלושת הממציאים בנובמבר 2000 — HIT מילה-במילה בגוף המאמר.",
+          "\"תביעות חופפות ומתחרות\" — \"overlapping and competing claims surround the origin of the thumb drive\" — HIT מילה-במילה ב-IEEE Spectrum.",
+          "ש-IBM היא שהחלה למכור בארה\"ב את התקני 8 המגה-בייט של M-Systems תחת השם DiskOnKey, ושהשם מכונה במאמר \"less-than-memorable\" — HIT מילה-במילה ב-IEEE Spectrum.",
+          "פרטי טרק 2000: חשיפת ההתקן ביריד בגרמניה בשנת 2000, והגשת בקשת הפטנט חודש לפני היריד — מאומת מול IEEE Spectrum: \"Tan had filed a patent application for his invention in 2000, a month before the German tech fair where Trek introduced the device\".",
+          "המשפט שמוביל את כל הדף — \"At that moment, I decided I would never again go to a presentation without a backup in my pocket\" — HIT מילה-במילה בכתבת הטכניון מ-2.12.2025.",
+          "הקמת M-Systems ב-1989 \"to develop storage systems based on the advantages of rewritable flash memory\", ושהכונן \"quickly replaced CDs as a primary means for storing and transferring data\" — שניהם HIT מילה-במילה בכתבת הטכניון.",
+          "שמורן הוא בוגר הפקולטה להנדסת חשמל ומחשבים ע\"ש ויטרבי בטכניון — מאומת: \"Dov Moran, a graduate of the Andrew and Erna Viterbi Faculty of Electrical and Computer Engineering\".",
+          "הגרסה השנייה של סיפור המקור, זו של Techtime מ-2012 — \"לפני פרזנטציה חשובה התקלקל המחשב שלי\" — HIT מילה-במילה, וההצגה שלה כגרסה חלוקה מזו של הטכניון היא הצגה הוגנת של שני המקורות.",
+          "משפט israeled.org על כפר סבא, 8 המגה-בייט ופי חמישה מרוב הדיסקטים — HIT מילה-במילה, וגם הערת ה-locator נכונה: שאר הערך אכן חסום מאחורי CIE+.",
+          "רכישת סנדיסק על כל פרטיה — התאריך 19.11.2006, \"in an all stock transaction valued at approximately $1.5 billion\", היות מורן \"President and CEO of msystems\", והציטוט שלו \"a great opportunity for our shareholders, employees and partners\" — כולם HIT מילה-במילה בהודעה לעיתונות. ראוי לציין שהטכניון נוקב ב-1.6 מיליארד, והדף בחר נכון בהודעה הראשונית.",
+          "תביעת ההפרה נגד JMTek: \"M-Systems has filed a patent infringement lawsuit in United States Federal District Court against Kent, Wash.-based JMTek and a JMTek distributor\" — HIT מילה-במילה ב-TWICE, וכך גם בקשת הפיצויים והצו.",
+          "התחזיות 12.5 מיליון ב-2003, 100 מיליון ב-2004 ו-250 מיליון ב-2005 — HIT ב-TWICE, והדף מסמן אותן במפורש כתחזיות ולא כמכירות בפועל, וזה בדיוק מה שהמקור אומר: \"M-Systems projects that…\".",
+          "פרס קרן ריין 2012: המקום, סכום 20 אלף האירו, והזכייה המשותפת עם פרופ' ברדפורד פרקינסון מפתח ה-GPS — כולם מאומתים מול Techtime.",
+          "פרס ריינולד ב' ג'ונסון: תיאור הפרס, ההיווסדות ב-1992, ההפסקה ב-2016, ושלוש השורות הרצופות \"Dov Moran 2015 / Amir Ban 2015 / Simon Litsyn 2015\" — כולם מאומתים בעמ' 20 של ה-PDF של IEEE. הדף גם נמנע מטעות של הטכניון עצמו, שקורא לפרס בשם פרס אחר (Data Storage Device Technology Award) שלפי אותו PDF הופסק בפברואר 2011.",
+          "כיתוב תמונה 3 באנגלית — \"A commercial flash drive from 2004, holding 128 MiB\" — תואם במדויק את תיאור הקובץ בוויקישיתוף: \"a 128MiB PNY Attaché USB flash drive\", DateTimeOriginal 2004."
+        ],
+        "verdict": "הציטוטים עצמם מחזיקים כמעט כולם מילה-במילה, אבל הדף נשען על מאמר IEEE Spectrum שמכריע נגדו ומציג אותו כמי שאינו מכריע — והוא סותר את עצמו בין השפות במשך הזמן מהפטנט למכירה; 28 טענות נבדקו מול המקור החי.",
+        "findings": [
+          {
+            "what": "הדף כותב שהמקורות אינם מכריעים בשאלת הבכורה, בעוד שהמקור שהוא עצמו מציב ככותרת — IEEE Spectrum — מכריע במפורש לטובת סינגפור, ומדווח על פסק דין שניתן נגד M-Systems. שתי עובדות מהמאמר נשמטו: (א) כותרת המשנה של המאמר, (ב) שטרק תבעה את M-Systems בסינגפור וניצחה. הקורא נשאר עם הרושם שהבכורה פתוחה ושההגשה המוקדמת יותר של אפריל 1999 מכריעה — בעוד המקור אומר את ההפך.",
+            "where": "description / description_en, הפסקה השלישית (\"הבכורה על ההמצאה אינה חד-משמעית\")",
+            "evidence": "כותרת המשנה של המאמר: \"Thumb drive, USB drive, memory stick: Whatever you call it, it's the brainchild of an unsung Singapore inventor\". ובגוף: \"Beginning in 2002, Tan brought suit in Singapore against a handful of companies (including Electec, FE Global Electronics, M-Systems, and Ritronics Components) for patent infringement. After several years of court battles and hundreds of thousands of dollars in legal fees, Trek won that case, persuading the judge that its ThumbDrive was the first device ever designed to be plugged directly into a computer without the need for a cable.\"",
+            "severity": "severe",
+            "source_url": "https://spectrum.ieee.org/thumb-drive"
+          },
+          {
+            "what": "סתירה בין השפות במשך הזמן שחלף מהגשת הפטנט ועד המכירה לסנדיסק. העברית כותבת \"שבע שנים ואחת\" — ניסוח שאינו קריא כפרק זמן — והאנגלית כותבת \"seven and a half years\". שני המספרים שונים זה מזה, ושניהם אינם מדויקים: מ-5 באפריל 1999 עד 19 בנובמבר 2006 חלפו שבע שנים ושבעה חודשים וחצי. שתי הגרסאות מוגשות לקורא באותו עמוד.",
+            "where": "aftermath (עברית) מול aftermath_en (אנגלית), הפסקה האחרונה",
+            "evidence": "עברית בדף החי: \"ב-19 בנובמבר 2006, שבע שנים ואחת אחרי הגשת הפטנט, השלימה SanDisk את רכישת msystems\". אנגלית באותו דף: \"On 19 November 2006, seven and a half years after the patent was filed, SanDisk completed its acquisition\". תאריך ההגשה בפטנט: \"Prior art date 1999-04-05\".",
+            "severity": "severe",
+            "source_url": "https://patents.google.com/patent/US6148354A/en"
+          },
+          {
+            "what": "הדף טוען שהקיבולת שנרשמה בבקשת הפטנט הייתה 8 מגה-בייט. גוף הפטנט אינו נוקב בשום קיבולת — חיפוש על megabyte / Mbyte / 8M בטקסט המלא של US6148354A מחזיר אפס תוצאות. המקורות מייחסים את 8 המגה-בייט למוצר שנמכר, לא לבקשה, והטכניון מוסיף שגם זו רק גרסת הבסיס. יתרה מזו, אותם 8 מגה-בייט אינם ייחודיים ל-M-Systems: לפי IEEE Spectrum גם ה-ThumbDrive המתחרה של טרק החזיק 8 מגה-בייט.",
+            "where": "description / description_en, סוף הפסקה הראשונה (\"הקיבולת בבקשה הייתה 8 מגה-בייט\" / \"The capacity in the application was 8 megabytes\")",
+            "evidence": "הטכניון: \"The original storage capacity was 8MB for the basic model and up to 32MB for the premium version.\" IEEE Spectrum על טרק: \"The gadget, roughly the size of a pack of chewing gum, held 8 megabytes of data\". israeled.org מייחס גם הוא למכשיר: \"the USB flash drive, which has a storage capacity of 8 megabytes\".",
+            "severity": "moderate",
+            "source_url": "https://www.technion.ac.il/en/blog/article/25-years-since-the-invention-that-changed-the-world-of-data-storage/"
+          },
+          {
+            "what": "האמירה שהשוק הקמעונאי היה \"כמעט לא קיים\" מיוחסת לעיתון TWICE כדיווח עיתונאי, אבל בכתבה עצמה היא ציטוט של בליין פלפס — מנהל הקידום של M-Systems עצמה. כלומר הדף מציג הערכה של דובר החברה הנוגעת בדבר כאילו היא ממצא של העיתונות המקצועית. הטענה הזאת גם מובילה את התקציר, ולכן היא הדבר הראשון שהקורא מקבל על מצב השוק.",
+            "where": "aftermath / aftermath_en, וגם summary_short / summary_short_en",
+            "evidence": "TWICE, 14.10.2002: \"The U.S. retail market for portable USB flash memory devices is practically non-existent at this point with almost all of the 2.5 million units expected to ship domestically next year to go into the business and enterprise channels, Phelps said.\" ובאותה כתבה: \"Phelps, M-Systems' promotions director, said…\"",
+            "severity": "moderate",
+            "source_url": "https://www.twice.com/product/diskonkey-maker-files-patent-infringement-suit-1095"
+          },
+          {
+            "what": "התקציר מדבר על מורן \"ושני עמיתיו\" שרשמו את הפטנט, ומיד אחר כך אומר שפרס IEEE \"חולק לשלושה\" — בלי לומר שמדובר בשלישייה אחרת. שלישיית הפטנט היא בן, מורן ואוגדן; שלישיית הפרס היא מורן, בן וסימון ליטסין. אורון אוגדן, שנרשם על הפטנט, אינו בין מקבלי הפרס כלל, וליטסין אינו רשום על הפטנט. הקורא של התקציר לבדו יסיק שאותם שלושה קיבלו את הפרס על אותה המצאה.",
+            "where": "summary_short / summary_short_en (\"וגם אז חולק לשלושה\" / \"even then it was split three ways\")",
+            "evidence": "רשימת מקבלי הפרסים של IEEE, עמ' 20, טור Reynold B. Johnson Information Storage Systems Award, שלוש שורות רצופות: \"Dov Moran 2015 / Amir Ban 2015 / Simon Litsyn 2015\". מול הפטנט: \"Inventor: Amir Ban, Dov Moran, Oron Ogdan\".",
+            "severity": "moderate",
+            "source_url": "https://corporate-awards.ieee.org/wp-content/uploads/complete-past-and-present-recipient-list-4.pdf"
+          },
+          {
+            "what": "הכיתוב טוען שהתצלום מראה \"הדגם שהגיע לשוק האמריקאי\", כלומר את התקן 8 המגה-בייט ש-IBM מכרה בארה\"ב בשנת 2000. תיאור הקובץ בוויקישיתוף אינו מוסר דגם, קיבולת או שנת ייצור, והתצלום עצמו צולם ב-2020 — עשרים שנה אחרי. אין במקור שום דבר שמקשר את היחידה שבפריים לדגם ההשקה.",
+            "where": "כיתוב תמונה 2 (USB-IBM-DiskonKey.jpg), caption_he ו-caption_en",
+            "evidence": "תיאור הקובץ המלא ב-Commons API הוא בן ארבע מילים: \"Memoria USB IBM DiskonKey\". DateTimeOriginal: 2020-11-09. אין שדה דגם ואין שנת ייצור.",
+            "severity": "moderate",
+            "source_url": "https://commons.wikimedia.org/wiki/File:USB-IBM-DiskonKey.jpg"
+          },
+          {
+            "what": "אי-התאמה בין השפות ביחידת הקיבולת של תמונה 3: העברית כותבת \"128 מגה-בייט\" והאנגלית \"128 MiB\". אלה אינן אותה כמות — 128 MiB הם כ-134 מגה-בייט. המקור נוקב ב-MiB, ולכן הכיתוב האנגלי מדויק והעברי אינו.",
+            "where": "כיתוב תמונה 3 (USB_flash_drive.jpg), caption_he מול caption_en",
+            "evidence": "תיאור הקובץ בוויקישיתוף: \"The device pictured is a 128MiB PNY Attaché USB flash drive.\"",
+            "severity": "minor",
+            "source_url": "https://commons.wikimedia.org/wiki/File:USB_flash_drive.jpg"
+          },
+          {
+            "what": "הציטוט מ-Techtime משנה מילה: הדף כותב \"במוזיאום הגרמני במינכן\" — גם בשדה הציטוט השמור וגם בגוף פסקת ההוקרה — בעוד המקור כותב \"במוזיאון\". שינוי אות בתוך מחרוזת שמוגשת כציטוט מילה-במילה.",
+            "where": "recognition, וכן ה-quote של הציטוט מ-techtime.co.il",
+            "evidence": "Techtime, 16.10.2012: \"דב מורן קיבל השבוע במוזיאון הגרמני במינכן את פרס הטכנולוגיה היוקרתי של קרן ריין (Eduard Rhein Foundation).\"",
+            "severity": "minor",
+            "source_url": "https://techtime.co.il/2012/10/16/%D7%93%D7%91-%D7%9E%D7%95%D7%A8%D7%9F-%D7%A7%D7%99%D7%91%D7%9C-%D7%90%D7%AA-%D7%A4%D7%A8%D7%A1-%D7%A7%D7%A8%D7%9F-%D7%A8%D7%99%D7%99%D7%9F-%D7%A2%D7%9C-%D7%94%D7%9E%D7%A6%D7%90%D7%AA-%D7%96%D7%99/"
+          },
+          {
+            "what": "שם הבעלים של הפטנט מוגש במרכאות כציטוט, אבל בלי המקף שבמקור: הדף כותב \"M Systems Flash Disk Pioneers Ltd\" ואילו רישום הבעלים בפטנט הוא \"M-Systems Flash Disk Pioneers Ltd.\". הדף עצמו כותב את שם החברה עם מקף בכל שאר המקומות, כך שהמחרוזת המצוטטת היא היחידה שחורגת.",
+            "where": "description / description_en / recognition / recognition_en",
+            "evidence": "Google Patents, שדה Current Assignee: \"M-Systems Flash Disk Pioneers Ltd.\"",
+            "severity": "minor",
+            "source_url": "https://patents.google.com/patent/US6148354A/en"
+          },
+          {
+            "what": "חסר הקשר: סיפור המקור לא אומר איפה זה קרה. הטכניון מוסר במפורש שהאירוע שהוליד את הרעיון קרה בארצות הברית, בנסיעת עבודה — פרט שמסביר למה מורן היה תלוי במחשב של אדם זר ולמה לא הייתה לו חלופה. הדף משמיט אותו, והקורא נשאר עם הרצאה חסרת מקום.",
+            "where": "origin_story / origin_story_en, הפסקה השנייה",
+            "evidence": "הטכניון, בציטוט של מורן: \"The specific idea for the Disk On Key is also connected to something that happened to me in the U.S. I was supposed to give a presentation, and my laptop battery was about to die.\"",
+            "severity": "minor",
+            "source_url": "https://www.technion.ac.il/en/blog/article/25-years-since-the-invention-that-changed-the-world-of-data-storage/"
+          },
+          {
+            "what": "מתח פנימי בין הכותרת לפסקת ההוקרה. הכותרת ומשפט בתקציר אומרים ששלושת האנשים \"רשמו פטנט\", בעוד פסקת ההוקרה פותחת ב\"הפטנט לא היה שלהם\" ומסבירה שהם מופיעים כממציאים ולא כבעלים. הקורא שמגיע לסוף פוגש הכחשה של מה שקרא בהתחלה.",
+            "where": "title / title_en מול recognition / recognition_en",
+            "evidence": "רישום הפטנט: \"Inventor: Amir Ban, Dov Moran, Oron Ogdan\"; \"Current Assignee: M-Systems Flash Disk Pioneers Ltd.\" — הבעלות היא של החברה בלבד.",
+            "severity": "minor",
+            "source_url": "https://patents.google.com/patent/US6148354A/en"
+          }
+        ],
+        "claims_checked": 28
+      }
+    },
+    "dedup": {
+      "note": "הרשומה \"דב מורן ממציא את כונן ה-USB\" ברשימת הכפילויות היא המעש הזה עצמו (אותו מזהה), ולא מעש נפרד. נסרקו התאמות חלקיות: \"ארבעה ישראלים צעירים פיתחו במרתף את ICQ\" ו\"גיל שוד ייסד את צ'ק פוינט\" — המצאות ישראליות אחרות, ללא חפיפה בעושים, בשנה או בטכנולוגיה. אין למזג.",
+      "result": "no_duplicate",
+      "checked": true,
+      "merged_from": []
+    },
+    "origin_story": "הרעיון לא נולד במעבדה אלא מול קהל. מורן, בוגר הפקולטה להנדסת חשמל ומחשבים ע\"ש ויטרבי בטכניון, הקים את M-Systems ב-1989 \"כדי לפתח מערכות אחסון המבוססות על יתרונות זיכרון הפלאש הניתן לכתיבה חוזרת\". שנים אחר כך נעמד להרצות, ומשהו במחשב שלו בגד בו — ולא הייתה לו שום דרך להעביר את המצגת למכשיר אחר.\n\nהמקורות חלוקים בפרט המדויק, וזה נרשם ולא מוכרע. בגרסת הטכניון (2025) מורן מספר: \"הייתי אמור להעביר מצגת, וסוללת המחשב הנייד שלי עמדה להיגמר. מישהו הציע לי את המחשב שלו, אבל לא הייתה לי שום דרך להעביר אליו את המצגת\". בגרסה שמסר בעברית ל-Techtime ב-2012 הוא אומר פשוט: \"לפני פרזנטציה חשובה התקלקל המחשב שלי\". המשותף לכל הגרסאות הוא אותו קיר: קובץ שנמצא במקום אחד ואין דרך להזיז אותו ממנו.\n\nהמסקנה שהוא הוציא משם היא המשפט שמוביל את כל הסיפור: \"באותו רגע החלטתי שלעולם לא אצא שוב להרצאה בלי גיבוי בכיס\". התקן שנרשם בכפר סבא באפריל 1999 הוא בדיוק זה — הגיבוי שנכנס לכיס.",
+    "origin_story_en": "The idea was not born in a lab but in front of an audience. Moran, a graduate of the Andrew and Erna Viterbi Faculty of Electrical and Computer Engineering at the Technion, founded M-Systems in 1989 \"to develop storage systems based on the advantages of rewritable flash memory.\" Years later he stood up to speak, and something in his computer failed him — and he had no way at all to move his presentation to another machine.\n\nThe sources differ on the precise detail, and that is recorded rather than resolved. In the Technion's version (2025), Moran recalls: \"I was supposed to give a presentation, and my laptop battery was about to die. Someone offered me their computer, but I had no way to transfer my presentation to it.\" In the Hebrew version he gave to Techtime in 2012 he simply says his computer broke down before an important presentation. What every version shares is the same wall: a file that sits in one place with no way to move it.\n\nThe conclusion he drew is the sentence that drives the whole story: \"At that moment, I decided I would never again go to a presentation without a backup in my pocket.\" The device filed in Kfar Saba in April 1999 is precisely that — the backup that fits in a pocket.",
+    "aftermath": "הדרך מהפטנט אל הכיס של כולם לקחה שנים, והיא לא הייתה חלקה. הכניסה לשוק האמריקאי נעשתה דרך IBM, שמכרה את התקני 8 המגה-בייט של M-Systems תחת השם DiskOnKey — שם ש-IEEE Spectrum מכנה בדיעבד \"פחות ממרשים לזכירה\".\n\nב-2002, שנתיים אחרי ההשקה, השוק כמעט לא היה קיים. עיתון המסחר האמריקאי TWICE כתב באוקטובר של אותה שנה שהשוק הקמעונאי בארה\"ב להתקני זיכרון USB ניידים \"כמעט אינו קיים בנקודה הזו\", ושכמעט כל 2.5 מיליון היחידות הצפויות להישלח בשנה שאחריה מיועדות לערוצים עסקיים ומוסדיים ולא לצרכן הפרטי. באותה כתבה עצמה מופיעות תחזיות החברה: 12.5 מיליון יחידות בעולם ב-2003, 100 מיליון ב-2004 ו-250 מיליון ב-2005 — תחזיות, לא מכירות בפועל.\n\nובאותו חודש החברה גם הגנה על הפטנט בבית משפט: לפי TWICE, M-Systems הגישה תביעת הפרת פטנט בבית משפט פדרלי בארצות הברית נגד חברת JMTek ומפיץ שלה, בטענה שמוצרי USBDrive שלהם משלבים שלא כדין את הטכנולוגיה המוגנת של M-Systems, וביקשה פיצויים וצו שיורה להם להפסיק לייצר ולמכור את הקו.\n\nמשם ההמראה. לפי הטכניון, הכונן החליף במהירות את התקליטור כאמצעי המרכזי לאחסון ולהעברת מידע. ב-19 בנובמבר 2006, שבע שנים ואחת אחרי הגשת הפטנט, השלימה SanDisk את רכישת msystems בעסקת מניות בשווי כ-1.5 מיליארד דולר.",
+    "aftermath_en": "The road from the patent to everyone's pocket took years, and it was not smooth. Entry into the American market came through IBM, which sold M-Systems' 8-MB devices under the name DiskOnKey — a name IEEE Spectrum later calls \"less-than-memorable.\"\n\nIn 2002, two years after launch, the market barely existed. The American trade paper TWICE wrote that October that the U.S. retail market for portable USB flash memory devices was \"practically non-existent at this point,\" and that almost all of the 2.5 million units expected to ship domestically the following year would go into business and enterprise channels rather than to consumers. The same article carries the company's forecasts: 12.5 million units worldwide in 2003, 100 million in 2004 and 250 million in 2005 — projections, not actual sales.\n\nThat same month the company also defended the patent in court: according to TWICE, M-Systems filed a patent infringement lawsuit in United States Federal District Court against JMTek and one of its distributors, asserting that their USBDrive products unlawfully incorporated M-Systems' patented technology, and seeking damages and an injunction to stop them producing and selling the line.\n\nFrom there it took off. According to the Technion, the drive quickly replaced the CD as the primary means of storing and transferring data. On 19 November 2006, seven and a half years after the patent was filed, SanDisk completed its acquisition of msystems in an all-stock transaction valued at approximately $1.5 billion.",
+    "recognition": "הפטנט לא היה שלהם. US6148354A נרשם בבעלות \"M Systems Flash Disk Pioneers Ltd\" — החברה — ושלושת הממציאים מופיעים בו כממציאים, לא כבעלים. כשהחברה נמכרה ב-2006 בכ-1.5 מיליארד דולר, מורן היה נשיא ומנכ\"ל msystems, כלומר גם בעל עניין וגם מי שהוביל את העסקה; המקורות שנמשכו כאן אינם מפרטים תמלוגים אישיים לאיש משלושת הממציאים על ההמצאה עצמה.\n\nההכרה המקצועית הגיעה, ובאיחור. ב-2012 קיבל מורן במוזיאום הגרמני במינכן את פרס הטכנולוגיה של קרן אדוארד ריין, בסך 20 אלף אירו, באותה שנה שבה הוענק הפרס גם לפרופ' ברדפורד פרקינסון, מפתח ה-GPS. ב-2015 — שש-עשרה שנים אחרי הגשת הפטנט — הוענק פרס ריינולד ב' ג'ונסון של IEEE למערכות אחסון מידע, ולא לו לבדו: הוא חולק בין דב מורן, אמיר בן וסימון ליטסין.\n\nמה שלא התקבל הוא דווקא הדבר הפשוט ביותר — קרדיט חד-משמעי. עשרים ושתיים שנה אחרי ההשקה עדיין מתפרסמים מאמרים שכותרתם שואלת מי באמת המציא את כונן האגודל.",
+    "recognition_en": "The patent was not theirs. US6148354A was assigned to \"M Systems Flash Disk Pioneers Ltd\" — the company — and the three inventors appear on it as inventors, not as owners. When the company was sold in 2006 for roughly $1.5 billion, Moran was President and CEO of msystems, both a stakeholder and the man who led the deal; the sources drawn on here do not detail personal royalties to any of the three inventors for the invention itself.\n\nProfessional recognition did arrive, late. In 2012 Moran received the Eduard Rhein Foundation's technology prize, worth 20,000 euros, at the German Museum in Munich, in the same year the prize also went to Prof. Bradford Parkinson, developer of GPS. In 2015 — sixteen years after the patent was filed — came the IEEE Reynold B. Johnson Information Storage Systems Award, and not to him alone: it was shared between Dov Moran, Amir Ban and Simon Litsyn.\n\nWhat never arrived is the simplest thing of all — undisputed credit. Twenty-two years after the launch, articles are still published whose titles ask who really invented the thumb drive.",
+    "honors": [
+      {
+        "name": "פרס ריינולד ב' ג'ונסון של IEEE למערכות אחסון מידע",
+        "year": 2015,
+        "quote": "Dov Moran 2015 Amir Ban 2015 Simon Litsyn 2015",
+        "detail": "חולק בין דב מורן, אמיר בן וסימון ליטסין. הפרס נוסד ב-1992 והוענק על תרומה יוצאת דופן לאחסון מידע, בדגש על מערכות אחסון ממוחשבות; הופסק ב-2016.",
+        "locator": "עמוד 20 מתוך 32, טור הזוכים של הפרס; שלוש השורות רצופות זו לזו",
+        "name_en": "IEEE Reynold B. Johnson Information Storage Systems Award",
+        "quote_en": "Dov Moran 2015 Amir Ban 2015 Simon Litsyn 2015",
+        "detail_en": "Shared between Dov Moran, Amir Ban and Simon Litsyn. The award was established in 1992 for outstanding contributions to information storage with emphasis on computer storage systems; it was discontinued in 2016.",
+        "source_url": "https://corporate-awards.ieee.org/wp-content/uploads/complete-past-and-present-recipient-list-4.pdf",
+        "awarding_body": "IEEE — מכון מהנדסי החשמל והאלקטרוניקה",
+        "awarding_body_en": "IEEE (Institute of Electrical and Electronics Engineers)"
+      }
+    ],
+    "summary_short": "מצגת אחת שלא נפתחה מול קהל שינתה את הדרך שבה העולם נושא מידע. דב מורן נעמד להרצות, המחשב בגד בו, ולא הייתה לו דרך להעביר את הקובץ לשום מקום. הוא החליט שלא ייצא יותר בלי גיבוי בכיס. בכפר סבא רשמו הוא ושני עמיתיו פטנט על התקן שהחזיק פי חמישה מדיסקט. IBM לקחה אותו לשוק בשם DiskOnKey. שנתיים אחרי ההשקה השוק הקמעונאי בארה\"ב עדיין היה \"כמעט לא קיים\", והחברה נלחמה בבית משפט על הפטנט שלה. ואז הכונן החליף את התקליטור, והחברה נמכרה בכ-1.5 מיליארד דולר. הפרס מ-IEEE הגיע רק ב-2015, וגם אז חולק לשלושה. ועד היום מתפרסמים מאמרים ששואלים מי בעצם המציא את זה.",
+    "summary_short_en": "One presentation that would not open in front of an audience changed how the world carries information. Dov Moran stood up to speak, his computer failed him, and he had no way to move the file anywhere. He decided he would never again go without a backup in his pocket. In Kfar Saba he and two colleagues patented a device that held five times more than a floppy disk. IBM took it to market as the DiskOnKey. Two years after launch the U.S. retail market was still \"practically non-existent,\" and the company was fighting in court over its patent. Then the drive replaced the CD, and the company sold for about $1.5 billion. The IEEE award came only in 2015, and even then it was split three ways. And to this day articles are published asking who actually invented it.",
+    "canonical_type": null,
+    "sections": null,
+    "infobox": null,
+    "numbers": [
+      {
+        "kind": "quoted",
+        "field": "description",
+        "quote": "US6148354A - Architecture for a universal serial bus-based PC flash disk",
+        "value": "6148354",
+        "locator": "כותרת עמוד הפטנט ב-Google Patents",
+        "quote_en": "US6148354A - Architecture for a universal serial bus-based PC flash disk",
+        "as_written": "US6148354A",
+        "citation_url": "https://patents.google.com/patent/US6148354A/en"
+      },
+      {
+        "kind": "quoted",
+        "field": "description",
+        "quote": "In April 1999, the Israeli company M-Systems filed a patent application titled 'Architecture for a Universal Serial Bus-based PC flash disk.' This was granted to Amir Ban, Dov Moran, and Oron Ogdan in November 2000.",
+        "value": "1999",
+        "locator": "גוף המאמר, הפסקה על הגשת הפטנט של M-Systems",
+        "quote_en": "In April 1999, the Israeli company M-Systems filed a patent application titled 'Architecture for a Universal Serial Bus-based PC flash disk.' This was granted to Amir Ban, Dov Moran, and Oron Ogdan in November 2000.",
+        "as_written": "1999",
+        "citation_url": "https://spectrum.ieee.org/thumb-drive"
+      },
+      {
+        "kind": "quoted",
+        "field": "description",
+        "quote": "The patent for the Disk On Key was approved on November 14, 2000, and shortly afterward, it was revealed to the public.",
+        "value": "14",
+        "locator": "פסקת הפתיחה של הכתבה, המשפט על אישור הפטנט",
+        "quote_en": "The patent for the Disk On Key was approved on November 14, 2000, and shortly afterward, it was revealed to the public.",
+        "as_written": "14",
+        "citation_url": "https://www.technion.ac.il/en/blog/article/25-years-since-the-invention-that-changed-the-world-of-data-storage/"
+      },
+      {
+        "kind": "quoted",
+        "field": "description",
+        "quote": "The patent for the Disk On Key was approved on November 14, 2000, and shortly afterward, it was revealed to the public.",
+        "value": "2000",
+        "locator": "פסקת הפתיחה של הכתבה, המשפט על אישור הפטנט",
+        "quote_en": "The patent for the Disk On Key was approved on November 14, 2000, and shortly afterward, it was revealed to the public.",
+        "as_written": "2000",
+        "citation_url": "https://www.technion.ac.il/en/blog/article/25-years-since-the-invention-that-changed-the-world-of-data-storage/"
+      },
+      {
+        "kind": "quoted",
+        "field": "description",
+        "quote": "10 Dec 2022",
+        "value": "2022",
+        "locator": "שורת התאריך של הכתבה, מתחת לשם המחבר Hallam Stevens",
+        "quote_en": "10 Dec 2022",
+        "as_written": "2022",
+        "citation_url": "https://spectrum.ieee.org/thumb-drive"
+      },
+      {
+        "kind": "quoted",
+        "field": "description",
+        "quote": "MILPITAS, California -- November 19, 2006 -- SanDisk® Corporation (NASDAQ:SNDK - News) today announced the completion of its acquisition",
+        "value": "19",
+        "locator": "שורת הפתיחה (dateline) של הודעת סנדיסק לעיתונות",
+        "quote_en": "MILPITAS, California -- November 19, 2006 -- SanDisk® Corporation (NASDAQ:SNDK - News) today announced the completion of its acquisition",
+        "as_written": "19",
+        "citation_url": "https://www.design-reuse.com/news/14720/sandisk-acquisition-msystems.html"
+      },
+      {
+        "kind": "quoted",
+        "field": "description",
+        "quote": "MILPITAS, California -- November 19, 2006 -- SanDisk® Corporation (NASDAQ:SNDK - News) today announced the completion of its acquisition",
+        "value": "2006",
+        "locator": "שורת הפתיחה (dateline) של הודעת סנדיסק לעיתונות",
+        "quote_en": "MILPITAS, California -- November 19, 2006 -- SanDisk® Corporation (NASDAQ:SNDK - News) today announced the completion of its acquisition",
+        "as_written": "2006",
+        "citation_url": "https://www.design-reuse.com/news/14720/sandisk-acquisition-msystems.html"
+      },
+      {
+        "kind": "quoted",
+        "field": "summary_short",
+        "quote": "SanDisk® Corporation (NASDAQ:SNDK - News) today announced the completion of its acquisition of msystems Ltd. in an all stock transaction valued at approximately $1.5 billion.",
+        "value": "1.5",
+        "locator": "הודעת סנדיסק לעיתונות, פסקה ראשונה",
+        "quote_en": "SanDisk® Corporation (NASDAQ:SNDK - News) today announced the completion of its acquisition of msystems Ltd. in an all stock transaction valued at approximately $1.5 billion.",
+        "as_written": "1.5 מיליארד",
+        "citation_url": "https://www.design-reuse.com/news/14720/sandisk-acquisition-msystems.html"
+      },
+      {
+        "kind": "quoted",
+        "field": "summary_short",
+        "quote": "Dov Moran 2015 Amir Ban 2015 Simon Litsyn 2015",
+        "value": "2015",
+        "locator": "עמוד 20 מתוך 32, טור הזוכים של \"Reynold B. Johnson Information Storage Systems Award\"",
+        "quote_en": "Dov Moran 2015 Amir Ban 2015 Simon Litsyn 2015",
+        "as_written": "2015",
+        "citation_url": "https://corporate-awards.ieee.org/wp-content/uploads/complete-past-and-present-recipient-list-4.pdf"
+      },
+      {
+        "kind": "quoted",
+        "field": "description",
+        "quote": "Kfar Saba-based M-Systems files a U.S. patent application for the USB flash drive, which has a storage capacity of 8 megabytes, five times the memory of most floppy disks at the time.",
+        "value": "8",
+        "locator": "המדור \"Today in Israeli History\", משפט הפתיחה של הערך",
+        "quote_en": "Kfar Saba-based M-Systems files a U.S. patent application for the USB flash drive, which has a storage capacity of 8 megabytes, five times the memory of most floppy disks at the time.",
+        "as_written": "8",
+        "citation_url": "https://israeled.org/m-systems-patents-usb-flash-drive/"
+      }
+    ]
+  }
+]

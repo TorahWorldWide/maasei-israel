@@ -10,14 +10,26 @@
 #   nohup scripts/verify/drive_pass.sh >/dev/null 2>&1 &
 #
 # Progress: tail /tmp/enrich-logs/status-drive.txt
+#
+# One runner at a time, MAX_LANES workers inside it. On 13.8 this raised the
+# adversarial and fix runners on top of three completion lanes, and eight Opus
+# workers at midday emptied the session quota in an hour — killing the pass and
+# the canonical page beside it. The stages are sequential anyway; there is
+# nothing to gain by holding a deed's review and its rewrite open at once.
 cd /home/ubuntu/maasei-israel || exit 1
 export PATH="$PATH:/home/ubuntu/.local/bin"
 LOGS=/tmp/enrich-logs
 ST="$LOGS/status-drive.txt"
 DONE=/tmp/drive-applied.txt
 AQ=/tmp/adversarial-queue.txt
+CQ=/tmp/completion-queue.txt
+MAX_LANES="${MAX_LANES:-3}"
 mkdir -p "$LOGS"
-touch "$DONE" "$AQ"
+touch "$DONE" "$AQ" "$CQ"
+
+runner_alive() {
+  ps -eo args --no-headers | grep -qE "[l]aunch_(completion|adversarial|fix)\.sh"
+}
 
 idle=0
 while :; do
@@ -75,14 +87,20 @@ while :; do
   done
 
   # Each runner exits when its own queue runs dry, so a deed appended after that
-  # would sit there forever. Start them again whenever work is waiting.
-  if [ -s "$AQ" ] && ! ps -eo args --no-headers | grep -q "[l]aunch_adversarial.sh"; then
-    nohup scripts/verify/launch_adversarial.sh 2 >/dev/null 2>&1 &
-    echo "ADVERSARIAL-LANES UP $(date -u +%H:%M)" >> "$ST"
-  fi
-  if [ -s /tmp/fix-queue.txt ] && ! ps -eo args --no-headers | grep -q "[l]aunch_fix.sh"; then
-    nohup scripts/verify/launch_fix.sh 2 >/dev/null 2>&1 &
-    echo "FIX-LANES UP $(date -u +%H:%M)" >> "$ST"
+  # would sit there forever. Start one again whenever work is waiting — one, and
+  # only while no other runner holds the quota. Reviews before rewrites: a review
+  # closes a deed in a single worker, a rewrite costs a worker and then a review.
+  if ! runner_alive; then
+    if [ -s "$AQ" ]; then
+      nohup scripts/verify/launch_adversarial.sh "$MAX_LANES" >/dev/null 2>&1 &
+      echo "ADVERSARIAL-LANES UP ($MAX_LANES) $(date -u +%H:%M)" >> "$ST"
+    elif [ -s /tmp/fix-queue.txt ]; then
+      nohup scripts/verify/launch_fix.sh "$MAX_LANES" >/dev/null 2>&1 &
+      echo "FIX-LANES UP ($MAX_LANES) $(date -u +%H:%M)" >> "$ST"
+    elif [ -s "$CQ" ]; then
+      nohup scripts/verify/launch_completion.sh "$MAX_LANES" >/dev/null 2>&1 &
+      echo "COMPLETION-LANES UP ($MAX_LANES) $(date -u +%H:%M)" >> "$ST"
+    fi
   fi
 
   lanes="$(ps -eo args --no-headers | grep -cE "[l]aunch_(completion|adversarial|fix).sh")"

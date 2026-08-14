@@ -1,0 +1,336 @@
+{
+  "at": "2026-08-14",
+  "by": "adversarial-140/opus",
+  "claims_checked": 34,
+  "findings": [
+    {
+      "claim": "התוצאה בסינגפור מתוארת כ\"הצד הישראלי הפסיד בשני הכיוונים\" וכ\"סינגפור פסקה לטובת טרק בשתי ערכאות\", בלי לומר מה הפסיד כנתבע",
+      "verdict": "contradicted",
+      "severity": "must-fix",
+      "where": "sections/09-piska-91.json body/body_en · fields.json summary_short · fields.json aftermath",
+      "source": "https://www.elitigation.sg/gd/s/2005_SGHC_90 · https://www.elitigation.sg/gd/s/2005_SGCA_55",
+      "note": "פסק הדין קבע הפרה וחייב בפיצויים, והדף אינו אומר זאת באף מקום. [2005] SGHC 90 §131 מילה במילה: \"Given that this court has concluded that the Patent is valid, and that the defendants did commit infringement of the Patent…\"; §142: \"Suit 604/2002/N is dismissed with costs. Damages are ordered to be assessed.\"; [2005] SGCA 55 §1: \"…appealed against Lai Kew Chai J's decision … that they had infringed Singapore patent No 87504 (WO 01/61692) … and were therefore liable in damages for the infringement. We dismissed the appeal.\" ההשמטה הכבדה ביותר בדף, והיא פועלת לטובת הצד הישראלי. תיקון: להביא את שתי הקביעות בלשונן ולתקן את summary_short כך שיאמר שהצד הישראלי נמצא מפר וחויב בפיצויים."
+    },
+    {
+      "claim": "\"הישראלים הגישו קודם, בעשרה חודשים, ובית המשפט לא חלק על כך\"",
+      "verdict": "contradicted",
+      "severity": "must-fix",
+      "where": "sections/09-piska-91.json body, פסקה חמישית",
+      "source": "https://www.elitigation.sg/gd/s/2005_SGHC_90",
+      "note": "ייחוס עמדה לבית משפט שמעולם לא נקט בה. בטקסט המלא של SGHC 90 המחרוזת \"1999\" מופיעה פעם אחת בלבד, ורק על Netac (\"There was also no evidence that Netac had produced a prototype device in August 1999.\"); \"April 1999\", \"6148354\" ו-\"285,706\" מופיעות אפס פעמים. הצירוף \"and this is not disputed\" בפסקה 91 נסמך על תוכן האזכורים (\"do not disclose any device with an integrated plug\") ולא על תאריך כלשהו. הדף הופך שתיקה להסכמה שיפוטית. תיקון: \"בית המשפט לא דן בתאריך ההגשה הישראלי כלל.\""
+    },
+    {
+      "claim": "\"הן טאן, האיש שמאחורי טרק, הגיש את בקשת הפטנט שלו ב-2000, חודש לפני היריד\"",
+      "verdict": "contradicted",
+      "severity": "must-fix",
+      "where": "sections/08-arbaa-toanim-labechora.json body/body_en, פסקה שנייה",
+      "source": "https://www.elitigation.sg/gd/s/2005_SGCA_55 · https://www.elitigation.sg/gd/s/2005_SGHC_90 · https://www.zdnet.com/article/cebit-2000-a-summary",
+      "note": "שני מספרים שגויים בשורה אחת, בסעיף שכולו כרונולוגיה. (א) המרווח: SGCA 55 §2 מילה במילה: \"On 21 February 2000, Trek filed an application for a Singapore patent … which was unveiled at an international exhibition in Germany a week after the application for the patent was submitted in Singapore.\" בית המשפט לערעורים אומר \"שבוע\", לא \"חודש\". אימות בן-הזמן: ZDNet \"CeBIT 2000: A summary\" מתוארך 28.2.2000 ופותח ב\"Now that our time in Hannover is nearing to a close…\". (ב) מי הגיש: SGHC 90 §108: \"The inventive concept underlying the ThumbDrive was developed by one Poo Teng Pin ('Poo') and one Marcus Cheng ('Marcus')… Marcus … named himself as the sole inventor.\" המבקשת היא Trek; הן טאן אינו ממציא רשום. שתי השגיאות מגיעות מ-IEEE Spectrum, מקור משני שהמקור הראשוני של הדף עצמו סותר. אי-סימטריה: סעיף 04 נותן לצד הישראלי שלושה ממציאים מן המסמך הרשמי, וסעיף 08 מכווץ את הצד הסינגפורי לאיש אחד ש\"הגיש את בקשת הפטנט שלו\"."
+    },
+    {
+      "claim": "\"כונן שלם הוא שתי דקות של סרטון\" / \"An entire drive is two minutes of video.\"",
+      "verdict": "contradicted",
+      "severity": "must-fix",
+      "where": "sections/13-bachazara-lamegera.json body ו-body_en",
+      "source": "https://www.engadget.com/2229010/usb-flash-drives-becoming-obsolete",
+      "note": "שגוי פי כ-64. Engadget מילה במילה: \"most brands top out at 128GB … New smartphones can produce libraries of 4K video which take up roughly 1GB for every minute of footage at high frame rates.\" 128GB ÷ 1GB לדקה = 128 דקות, קצת יותר משעתיים. הדף נוקב בשני המספרים בשתי השורות שלפני ואז מחשב אותם לא נכון; זה המשפט האחרון של הפסקה הראשונה בסעיף החותם. תיקון: \"כונן שלם הוא כשעתיים של צילום\" — הטיעון נשאר תקף ואף חזק יותר."
+    },
+    {
+      "claim": "\"בארצות הברית הוא נמכר תחת שמה של IBM\" · \"ועל האריזה היה שמה של IBM\"",
+      "verdict": "contradicted",
+      "severity": "must-fix",
+      "where": "sections/01-hamegera.json · sections/07-15-bedetsember-2000.json · fields.json description · fields.json summary_short · ENGINE.md",
+      "source": "https://spectrum.ieee.org/thumb-drive",
+      "note": "פרט פיזי בלי מקור, והמקור היחיד אומר משהו אחר. IEEE Spectrum מילה במילה: \"In 2000, IBM began selling M-Systems' 8-MB storage devices in the United States under the less-than-memorable name DiskOnKey.\" המקור אומר ש-IBM מכרה, ושהשם שתחתיו נמכר הוא DiskOnKey — כמעט ההפך מ\"תחת שמה של IBM\". המילה \"אריזה\"/packaging אינה מופיעה באף מקור ביומן; זהו פרט פיזי מומצא. היומן (שורה 262) כותב \"המותג היה של IBM, המוצר של M-Systems\" כמסקנה, והדף הפך אותה לתיאור חושי. חוזר בארבעה מקומות ובמשפט המנוע."
+    },
+    {
+      "claim": "\"הצד הישראלי הוא שפתח את ההליך המשפטי, ולא להפך\"",
+      "verdict": "contradicted",
+      "severity": "must-fix",
+      "where": "sections/09-piska-91.json body, סוף הפסקה הראשונה",
+      "source": "https://spectrum.ieee.org/thumb-drive · https://www.elitigation.sg/gd/s/2005_SGHC_90",
+      "note": "משפט חתוך בקול הדף עצמו, אחרי פסקה שכולה מיוחסת לדוח M-Systems, שמכריע שאלה שנויה במחלוקת. IEEE Spectrum אומר את ההפך: \"Beginning in 2002, Tan brought suit in Singapore against a handful of companies (including Electec, FE Global Electronics, M-Systems, and Ritronics Components) for patent infringement.\" ובית המשפט דחה את ההנחה שעליה בנוי המשפט — SGHC 90 §131: \"the two letters … were nothing more than letters exploring the possibility of a business collaboration, and any allegation that groundless threats were made is misconceived.\" בפסקי הדין אין תאריכי הגשה לתביעות, ולכן שאלת \"מי פתח\" לא ניתנת להכרעה מן המסמכים הראשוניים — מה שהופך את \"ולא להפך\" לבלתי-נסבל תחת כלל 30."
+    },
+    {
+      "claim": "\"שני מהנדסים, צ'נג שיאוהואה ודנג גואושון, ראו בטרק לוחות פיתוח של זיכרון פלאש, ואז עזבו… חרף ההסכם הזה ביקשה Netac פטנט משלה\"",
+      "verdict": "confirmed-with-note",
+      "severity": "moderate",
+      "where": "sections/08-arbaa-toanim-labechora.json body, פסקה רביעית",
+      "source": "https://spectrum.ieee.org/thumb-drive",
+      "note": "תרגום כמעט-מילולי מ-IEEE, בלי ייחוס, על שני אנשים חיים ומזוהים בשמם המלא. IEEE: \"Cheng Xiaohua and Deng Guoshun had previously worked for Trek and had seen some development boards related to flash memory… Netac and Trek subsequently even entered into an agreement under which Trek would fund some of Netac's research and development… Despite this collaboration, Netac sought and was granted a patent on the thumb drive within China.\" הפסקה הקודמת באותו סעיף פותחת ב\"לפי אותה כתבה\"; דווקא הפסקה שנושאת רמיזה שלילית (נטילת ידע, הפרת הסכם) אינה נושאת ייחוס — הרף הכפול של כלל 139. הדף גם משמיט את הסייג של IEEE (\"Netac's claim to (and production of) its thumb drive fit this pattern of appropriation\")."
+    },
+    {
+      "claim": "Netac מוצגת כטוענת בכורה רביעית על בסיס פטנט סיני (\"בסין נותרה Netac עם פטנט משלה על ההתקן\")",
+      "verdict": "confirmed-with-note",
+      "severity": "moderate",
+      "where": "sections/08-arbaa-toanim-labechora.json פסקה רביעית · sections/10-ota-sheela-arba-tshuvot.json",
+      "source": "https://www.elitigation.sg/gd/s/2005_SGHC_90",
+      "note": "הדף לא אומר מה בדיוק טענה Netac, ולא מוסר את הפורום היחיד שדן בטענה ודחה אותה. SGHC 90 §105(c): \"Ritronics alleges that 2 former Trek employees had developed the ThumbDrive invention and that the rightful owner … is a Chinese company called Netac Technology Ltd.\" §120: \"the Chinese Patent and corresponding applications to the EPO were filed by Netac after the Patent's priority date. It does not constitute prior art in the present proceedings.\" §121: \"The Chinese Patent teaches and explicitly requires the use of one of three different cables… The integrated plug element is also missing.\" §122: \"The chronology does not support Ritronics' theory that Trek stole the invention.\" §123: \"There is no evidence to show that they can lay claim to the ownership of the patent.\" זו בדיקת הסימטריה מוחלת גם לצד השני: טענה שנויה במחלוקת מוצגת בלי מי פסק בה, מתי, ומה."
+    },
+    {
+      "claim": "\"ב-2021 עברו מכירות כונני ההבזק בעולם, אצל כל היצרנים יחד, 7 מיליארד דולר בשנה\"",
+      "verdict": "confirmed-with-note",
+      "severity": "moderate",
+      "where": "sections/01-hamegera.json body · fields.json numbers[3]",
+      "source": "https://spectrum.ieee.org/thumb-drive",
+      "note": "נמסר כעובדה על העולם; במקור זה נתון של חברת מחקר-שוק. IEEE מילה במילה: \"In 2021, global sales of the devices from all manufacturers surpassed $7 billion … according to Vantage Market Research.\" היומן מתעד שהחוקר בדק כעשרה אתרי מחקר-שוק, מצא סתירות בסדרי גודל (6.1 מיליארד עד 1,561 מיליארד דולר) ופסל את כולם — ואז המספר האחד ששרד נכנס לדף בלי הייחוס שהיה כל ההצדקה שלו. עוגן השנה תקין (כלל 138); חסר מי מדד."
+    },
+    {
+      "claim": "\"מה שקבוע בכל הגרסאות הוא נסיעת העבודה לארצות הברית ב-1998\"",
+      "verdict": "contradicted",
+      "severity": "moderate",
+      "where": "sections/03-new-york-1998.json body, פסקה שנייה · fields.json the_moment · כותרת הסעיף",
+      "source": "https://www.humansoftelaviv.co.il/dov-moran-the-inventor-of-the-usb-flash-drive · https://www.technion.ac.il/en/blog/article/25-years-since-the-invention-that-changed-the-world-of-data-storage",
+      "note": "לא נכון לפי ציטוטי היומן עצמם. משלוש הגרסאות הכשרות (הרביעית סומנה ביומן \"לכותב: אל תשתמש בזה\"): גרסת הטכניון אומרת רק \"something that happened to me in the U.S.\" — בלי שנה; שורת הפרס של קרן אדוארד ריין (\"How a Flat Computer Battery Led to Millions of Bytes on a Key Chain\") אינה מזכירה לא ארה\"ב ולא שנה; רק Humans of Tel Aviv נוקב: \"During an important business trip to New York in 1998, my computer crashed…\" השנה, העיר ומספר האנשים נשענים על מקור אחד, שהוא גם היחיד שאין לו תאריך פרסום. השגיאה מקורה ביומן (שורה 562) והדף ירש אותה."
+    },
+    {
+      "claim": "\"הגרסה המוקדמת מכולן היא כותרת ההרצאה שקרן אדוארד ריין רשמה לצד שמו בטקס הפרס ב-2012\"",
+      "verdict": "contradicted",
+      "severity": "moderate",
+      "where": "sections/03-new-york-1998.json body · fields.json the_moment",
+      "source": "https://www.eduard-rhein-stiftung.de/en/chronology",
+      "note": "המחרוזת עצמה אומתה מילה במילה בכרונולוגיה הרשמית. אבל (א) באותה כרונולוגיה השדה מחזיק אצל זוכים אחרים את נושא הפרס ולא כותרת הרצאה — 2011 Wolfgang Hilberg: \"Invention of the radio clock\"; Raymond S. Tomlinson: \"Invention of the today so-called e-mail\"; 2012 פרס הטכנולוגיה, Bradford Parkinson: \"The Development of the Global Positioning System (GPS)\". שום דבר בעמוד אינו אומר \"הרצאה\" ואינו אומר \"טקס\". (ב) \"המוקדמת מכולן\" הוא דירוג כרונולוגי שאי אפשר לבסס: ליומן אין תאריך פרסום ל-Humans of Tel Aviv. הערך הראייתי של הפריט תלוי בדיוק בשני האפיונים האלה."
+    },
+    {
+      "claim": "\"'the Ban reference' הוא מסמך הפטנט של M-Systems: פסק הדין מזהה אותו כבקשת הפטנט הסינגפורית של החברה\"",
+      "verdict": "confirmed-with-note",
+      "severity": "moderate",
+      "where": "sections/09-piska-91.json body, פסקה רביעית",
+      "source": "https://www.elitigation.sg/gd/s/2005_SGHC_90 · https://patents.google.com/patent/WO2000060476A1/en",
+      "note": "הזהות נטענת בלי החוליה המגשרת. SGHC 90 §49(d): \"Singapore Patent Application No 200203303-3 (derived from PCT application PCT/US00/07087) ('Ban patent')…\" הקורא שיבדוק ימצא מספר מסמך אחר לגמרי מזה שבסעיף 06 (US6148354). הגשר קיים ואומת בבדיקה הזאת: WO2000060476A1 = PCT/US2000/007087, ממציאים Ban / Moran / Ogdan, נמחית מקורית M Systems Flash Disk Pionners Ltd, קדימות 1999-04-05 — אותה משפחת פטנטים. הטענה נכונה; חסרות שתי המילים שמאפשרות לקורא לאמת אותה."
+    },
+    {
+      "claim": "ציטוט השופט Kitchin: \"I have found the proposed amendment is not allowable because it would result in the specification disclosing additional matter\"",
+      "verdict": "confirmed-with-note",
+      "severity": "moderate",
+      "where": "sections/10-ota-sheela-arba-tshuvot.json body, פסקה ראשונה",
+      "source": "https://ipkitten.blogspot.com/2008/01/m-systems-v-trek-2000-usb-sticks-get.html · https://www.bailii.org/ew/cases/EWHC/Patents/2008/102.html (חסום)",
+      "note": "מובא כאילו נקרא מפסק הדין; בפועל מגיע דרך IPKat, והמקור הראשוני לא ניתן לאמת. היומן (שורות 198–215) רושם זאת במפורש: BAILII נחסם ב-Anubis anti-bot, CaseMine __FETCH_FAILED__ every route blocked. ניסיתי שוב היום: BAILII מחזיר אתגר proof-of-work, Wayback החזיר 429/503. לא ניתן לאמת מול פסק הדין עצמו. גם GB 2371653 ותאריך 8.11.2006 נשארים לא מאומתים לפי היומן — והדף בחוכמה אינו נוקב בהם. בכל שאר הדף, כשמצוטט מסמך משפטי הדף נותן את המקור בגוף הטקסט; כאן לא. תיקון: \"בלשון פסק הדין, כפי שהוא מובא ב-IPKat\"."
+    },
+    {
+      "claim": "הנמקת פרס IEEE (\"החידושים של השלושה … הניעו את יצירת כונן ה-USB\") ומדיניות הפרס (\"צוות של שלושה לכל היותר\")",
+      "verdict": "confirmed-with-note",
+      "severity": "moderate",
+      "where": "sections/12-ma-kiblu-hashlosha.json body, פסקה שנייה",
+      "source": "https://ieeemagnetics.org/ieee-technical-field-award/ieee-reynold-b-johnson-information-storage-systems-award",
+      "note": "בדיקה היום בעמוד הגוף המעניק מאשרת את עצם הפרס והזוכים מילה במילה: \"IEEE Reynold B. Johnson Information Storage Systems Award 2015 Dov Moran, Amir Ban, and Simon Litsyn\" — כלל 151 מתקיים לגבי העובדה. אבל נוסח ההנמקה ומדיניות הפרס אינם מופיעים בעמוד המעניק כלל (חיפוש \"not more than three\" מחזיר אפס תוצאות); שניהם מגיעים מ-ETHW, שהוא ויקי. הדף מודה בכך (\"בלשון ויקי ההיסטוריה\") וזה לזכותו, אבל שתי הטענות המהותיות בפסקה — ובכללן ההנמקה שמייחסת לשלושה את יצירת כונן ה-USB — נשענות על ויקי בלבד."
+    },
+    {
+      "claim": "\"חבילה של עשרה דיסקטים במרכז טוקיו … עלתה כשישה דולר, וכונן USB של 4 ג'יגה-בייט נמכר בקנדה בפחות מעשרים. פי כמאתיים ושבעים נפח, בפחות מפי ארבעה מחיר\"",
+      "verdict": "contradicted",
+      "severity": "moderate",
+      "where": "sections/11-ma-kara-ladisket.json body, פסקה רביעית",
+      "source": "https://www.cbc.ca/news/science/sony-to-pull-plug-on-floppy-disks-1.941854",
+      "note": "מערבב שני מטבעות ומשמיט את מי שמדד. CBC מילה במילה: \"A four-gigabyte USB key generally retails for less than $20 in Canada. A 10-pack of Sony 3.5-inch floppy disks, which altogether total less than 15 megabytes of memory, sells in central Tokyo for about $6 US, according to PC Magazine.\" המקור מסמן במפורש דולר אמריקאי מול קנדה; הדף מוחק את ההבחנה ומחשב עליה יחס. הייחוס \"according to PC Magazine\" נשמט, כך שהמחיר בטוקיו מופיע כאילו CBC מדדה אותו. גם \"פי כמאתיים ושבעים\" נגזר מ\"פחות מ-15 מגה-בייט\" — חסם עליון — ולכן היחס הוא לפחות 270, לא \"כ-270\"."
+    },
+    {
+      "claim": "\"ביפן נמכרו 47 מיליון דיסקטים ב-2002; ב-2009 נמכרו כ-12 מיליון\"",
+      "verdict": "contradicted",
+      "severity": "moderate",
+      "where": "sections/11-ma-kara-ladisket.json body, פסקה שלישית · fields.json numbers[4] ו-numbers[5] (התוויות: \"מכירות דיסקטים ביפן\")",
+      "source": "https://www.cbc.ca/news/science/sony-to-pull-plug-on-floppy-disks-1.941854",
+      "note": "המקור אינו אומר \"ביפן\" במשפט שנושא את המספרים. CBC מילה במילה: \"Floppy disks are still commonly used in Japan, where Sony has 70 per cent of the market share. Companies sold about 12 million floppy disks in 2009, although that's a steep decline from 2002, when 47 million disks were purchased.\" ההגבלה ליפן מוסקת מן המשפט הקודם. ההיקש סביר, אבל ההבדל בין 47 מיליון ביפן ל-47 מיליון בעולם הוא סדר גודל, והתווית ב-fields.json מציגה אותו כאילו הוא מצוטט."
+    },
+    {
+      "claim": "\"ההסבר שחוזר ברשת — שהענן והטלפונים החליפו אותו — לא נמדד מעולם\"",
+      "verdict": "contradicted",
+      "severity": "moderate",
+      "where": "sections/13-bachazara-lamegera.json body, פסקה שנייה",
+      "source": "—",
+      "note": "שלילה גורפת על מצב הידע בעולם, שנשענת על חיפוש שלנו. המשפט השני בפסקה (\"חיפוש אחריו מעלה פורומים ופוסטים, ולא סקר, דוח או נתון\") הוא דיווח ישר ותקין. המשפט הראשון הוא טענה על העולם — שאיש מעולם לא מדד — ואין לה מקור. זו בדיוק ההמרה של \"לא מצאנו\" ל\"אין\" שכלל 161 נועד למנוע. הדף עושה זאת נכון במקום אחר (\"לאירוע אין עד חיצוני… לא מצאתי אימות עצמאי\"), ולכן חוסר העקביות בולט. תיקון: \"לא מצאנו שנמדד\"."
+    },
+    {
+      "claim": "\"ה-Zip Drive … שהוצג ב-1994 … החזיק עד 750 מגה-בייט\"",
+      "verdict": "confirmed-with-note",
+      "severity": "minor",
+      "where": "sections/02-ma-haya-bimkomo.json body",
+      "source": "https://spectrum.ieee.org/thumb-drive",
+      "note": "הצירוף שנה+קיבולת נמסר בקול הדף; רק ההסבר לכישלון מיוחס ל-IEEE. IEEE מילה במילה: \"The Iomega Zip Drive, called a 'superfloppy' drive and introduced in 1994, could store up to 750 MB of data and was writable, but it never gained widespread popularity, partly due to competition from cheaper and higher-capacity hard drives.\" כלומר הצירוף כולו הוא של IEEE. הצמדת 1994 ל-750MB חשודה — לא סביר שדגם ההשקה החזיק 750MB — אבל לא ניתן לאמת: לא נמצא מקור ראשוני של Iomega לכרונולוגיית הדגמים, ואיני מנחש. אם הצירוף שגוי, השגיאה היא של IEEE והדף אימץ אותה לקולו שלו במקום לייחס אותה."
+    },
+    {
+      "claim": "\"בנובמבר 2000 הכריזה M-Systems על המוצר\"",
+      "verdict": "confirmed-with-note",
+      "severity": "minor",
+      "where": "sections/07-15-bedetsember-2000.json body, פתיחה",
+      "source": "https://www.technion.ac.il/en/blog/article/25-years-since-the-invention-that-changed-the-world-of-data-storage",
+      "note": "המקור אומר \"זמן קצר אחר כך\", לא חודש מסוים. הטכניון מילה במילה: \"The patent for the Disk On Key was approved on November 14, 2000, and shortly afterward, it was revealed to the public.\" \"shortly afterward\" יכול להיות נובמבר ויכול להיות דצמבר; הדף בוחר. היקש סביר, אבל נכתב כאילו המקור אמר אותו."
+    },
+    {
+      "claim": "\"תוקפו פג ב-5 באפריל 2019, עשרים שנה מיום ההגשה\"",
+      "verdict": "confirmed-with-note",
+      "severity": "minor",
+      "where": "sections/06-ma-hapatent-amar.json body",
+      "source": "https://patents.google.com/patent/US6148354A/en",
+      "note": "נמסר כעובדה, והוא הנחה של Google Patents. בעמוד התאריך יושב בשורה \"Anticipated expiration\", ובאותו עמוד רשום: \"The legal status is an assumption and is not a legal conclusion. Google has not performed a legal analysis and makes no representation as to the accuracy of the status listed.\" בנוסף אותו עמוד מראה שהפטנט הונפק מחדש פעמיים ב-12.1.2011: USRE44641E1 (\"USB flash memory device with integrated USB controller\") ו-USRE44653E1 (\"USB flash memory device with integral memory technology driver\"), שניהם עם קדימות 1999-04-05 — עובדה לא-טריוויאלית על מסמך שהדף מקדיש לו סעיף שלם."
+    },
+    {
+      "claim": "מסגרת \"ארבעה טוענים לבכורה\" / \"אותה שאלה, ארבע תשובות\"",
+      "verdict": "confirmed-with-note",
+      "severity": "minor",
+      "where": "sections/08 heading · sections/10 heading · sections/13 סיום · fields.json summary_short",
+      "source": "https://spectrum.ieee.org/thumb-drive",
+      "note": "המקור המרכזי של הדף מונה גם חמישי. IEEE מילה במילה: \"Somewhat less credibly, inventors in Malaysia and China have also claimed to be the first to come up with the thumb drive.\" אפשר להצדיק את הסינון (המקור עצמו אומר \"less credibly\"), אבל הדף לא אומר שסינן — ומסגרת המספר ארבע היא השלד המבני של חצי מן הדף ושל שורת הסיום שלו."
+    },
+    {
+      "claim": "\"היא הגיעה לבתי משפט בשלוש יבשות, ולא הוכרעה עד היום\"",
+      "verdict": "contradicted",
+      "severity": "minor",
+      "where": "sections/01-hamegera.json body",
+      "source": "https://spectrum.ieee.org/thumb-drive",
+      "note": "סופר ערכאה שאינה בית משפט. ארבעת הפורומים בדף: בית המשפט העליון ובית המשפט לערעורים בסינגפור (אסיה), בית משפט בבריטניה (אירופה), ועדת הסחר הבין-לאומית האמריקאית (צפון אמריקה) והליך פטנטים בסין (אסיה). ה-ITC היא ועדה מנהלית ולא בית משפט, ומתן פטנט בסין אינו הליך שיפוטי. בתי משפט ממש היו בשתי יבשות. תיקון: \"ערכאות בשלוש יבשות\" — מילה אחת פותרת."
+    },
+    {
+      "claim": "—",
+      "verdict": "confirmed-with-note",
+      "severity": "minor",
+      "where": "infobox.json ({\"rows\": []}) · canonical.json infobox.rows",
+      "source": "—",
+      "note": "הערת שלמות, לא ממצא עובדתי: infobox.json ריק בעוד שלדף יש מספר פטנט, תאריך הגשה, תאריך הענקה, תאריך השקה, קיבולת השקה, מקום התכנון, מקום הייצור ושני פרסים — כולם מאומתים, כולם בעלי source_url, וכולם בדיוק החומר שהאינפובוקס נועד לו."
+    }
+  ],
+  "held": [
+    {
+      "claim": "שלושת הממציאים על הפטנט, בסדר הזה",
+      "source": "https://patents.google.com/patent/US6148354A/en · https://spectrum.ieee.org/thumb-drive",
+      "note": "Google Patents: \"Inventor Amir Ban Dov Moran Oron Ogdan\". אימות שני, IEEE: \"This was granted to Amir Ban, Dov Moran, and Oron Ogdan in November 2000.\""
+    },
+    {
+      "claim": "בקשה 5.4.1999 · מספר בקשה 09/285,706 · הענקה 14.11.2000 · שם הפטנט",
+      "source": "https://patents.google.com/patent/US6148354A/en",
+      "note": "\"Application number US09/285,706\", \"Priority date … 1999-04-05\", כותרת \"Architecture for a universal serial bus-based PC flash disk\"."
+    },
+    {
+      "claim": "הסבת הפטנט לחברה באותו יום",
+      "source": "https://patents.google.com/patent/US6148354A/en",
+      "note": "legal events: \"1999-04-05 Assigned to M-SYSTEMS FLASH DISK PIONEERS LTD. … ASSIGNMENT OF ASSIGNORS INTEREST\"."
+    },
+    {
+      "claim": "\"לא כתוב בו גוף עם תקע משולב, ואין בו צורת מוצר\"",
+      "source": "https://patents.google.com/patent/US6148354A/en",
+      "note": "החזיק בבדיקה עצמאית של המסמך עצמו: בטקסט התיאור המלא של US6148354 המילה \"plug\" מופיעה אפס פעמים, \"housing\" אפס פעמים, והמסמך מתאר במפורש חיבור בכבל: \"Host platform 44 is connected to USB flash device 46 according to the present invention through a USB cable 48.\" הקביעה נכונה בלי להסתמך על בית המשפט כלל — ולכן גם אפיון בית המשפט (\"a method of building a cable-connected desktop storage device\") מדויק."
+    },
+    {
+      "claim": "פסקה 91 מילה במילה",
+      "source": "https://www.elitigation.sg/gd/s/2005_SGHC_90",
+      "note": "\"The Lexar, Ban and TDK references do not disclose any device with an integrated plug, and this is not disputed\". אומת בטקסט המלא."
+    },
+    {
+      "claim": "\"this court has concluded that the Patent is valid\"",
+      "source": "https://www.elitigation.sg/gd/s/2005_SGHC_90",
+      "note": "פסקה 131, מילה במילה. אומת."
+    },
+    {
+      "claim": "דחיית הערעור ב-30.12.2005 בהוצאות",
+      "source": "https://www.elitigation.sg/gd/s/2005_SGCA_55",
+      "note": "פסקה 1: \"We dismissed the appeal and now give the reasons for our decision.\""
+    },
+    {
+      "claim": "הדיסק-און-קי הושק אחרי ה-ThumbDrive, ואיש לא חלק על כך",
+      "source": "https://www.elitigation.sg/gd/s/2005_SGHC_90",
+      "note": "פסקה 29 מילה במילה: \"there did not appear to be any dispute that DOK and Diskey … were made, launched or sold after the launch of the ThumbDrive at the CeBIT 2000 exhibition in 2000.\" הדף מביא זאת נאמנה, וזו נקודה שפועלת נגד הצד הישראלי — לזכות הדף שהיא בפנים."
+    },
+    {
+      "claim": "הפער של עשרה חודשים בין ההגשה הישראלית לסינגפורית",
+      "source": "https://www.elitigation.sg/gd/s/2005_SGCA_55",
+      "note": "אומת סופית מול המקור הראשוני ופותר פריט שהיומן השאיר פתוח: SGCA 55 §2, \"On 21 February 2000, Trek filed an application for a Singapore patent\". מול 5.4.1999 — עשרה חודשים וחצי. התקפה 2 ב-ENGINE.md נכשלה; D1 עומד."
+    },
+    {
+      "claim": "אי-הזהות בין שני מסמכי הפטנט (רכיב D2)",
+      "source": "https://www.elitigation.sg/gd/s/2005_SGHC_90 · https://patents.google.com/patent/WO2000060476A1/en",
+      "note": "התקפה 3, החזקה מכולן, נכשלה. \"the Ban patent\" בפסק הדין הוא Singapore Patent Application No 200203303-3, \"derived from PCT application PCT/US00/07087\". החוליה נבדקה: WO2000060476A1 = PCT/US2000/007087, ממציאים Ban / Moran / Ogdan, נמחית מקורית M Systems Flash Disk Pionners Ltd, קדימות 1999-04-05. אותה משפחת פטנטים. D2 עומד, וחזק יותר משעמד לפני הבדיקה (ראה ממצא 12 על החוליה החסרה בטקסט)."
+    },
+    {
+      "claim": "פרס התרבות של קרן אדוארד ריין, 2012, לדב מורן, והנימוק",
+      "source": "https://www.eduard-rhein-stiftung.de/en/chronology",
+      "note": "אומת בכרונולוגיה הרשמית מילה במילה: \"Cultural Award Dov Moran How a Flat Computer Battery Led to Millions of Bytes on a Key Chain In recognition of the idea and invention of a small standardized and portable data memory stick, today known as USB-Stick or USB Flash Drive.\" גם התיקון שהדף עושה — פרס התרבות ולא פרס הטכנולוגיה — מאושש: פרס הטכנולוגיה של 2012 מופיע באותו עמוד על שם Bradford Parkinson על ה-GPS. כלל 151 מתקיים."
+    },
+    {
+      "claim": "פרס ריינולד ב' ג'ונסון של IEEE, 2015, לשלושה",
+      "source": "https://ieeemagnetics.org/ieee-technical-field-award/ieee-reynold-b-johnson-information-storage-systems-award",
+      "note": "אומת אצל הגוף המעניק מילה במילה: \"IEEE Reynold B. Johnson Information Storage Systems Award 2015 Dov Moran, Amir Ban, and Simon Litsyn\". גם התיקון של שם הפרס מול דף הטכניון מאושש. כלל 151 מתקיים."
+    },
+    {
+      "claim": "\"אין ראיה ישירה לירידה במכירות\" + דירוג רמה 1 של מוזיאון המדיה המיושנת",
+      "source": "https://www.engadget.com/2229010/usb-flash-drives-becoming-obsolete",
+      "note": "מילה במילה: \"The Museum of Obsolete Media still rates USB flash drives at a 1, indicating a low risk of obsolescence… But while there's no direct evidence of declining flash drive sales, they've fallen out of favor…\" התקפה 4 ב-ENGINE.md נכשלה; A עומד."
+    },
+    {
+      "claim": "הדיסק-און-קי לא פתח את מות הדיסקט",
+      "source": "https://www.cbc.ca/news/science/sony-to-pull-plug-on-floppy-disks-1.941854",
+      "note": "CBC מילה במילה: \"Apple stopped designing computers with standard floppy disk drives in 1998, and Dell followed suit in 2003.\" והדף אומר זאת מפורשות: \"הדיסק-און-קי הצטרף לכוחות שכבר פעלו, ולא פתח את המהלך.\" זו בדיוק ההימנעות מ\"סלל את הדרך\" שכלל 176 דורש, והיא נעשית ביוזמת הדף."
+    },
+    {
+      "claim": "הודעת סוני, אפריל 2010, והפסקת המכירה במרץ 2011",
+      "source": "https://www.cbc.ca/news/science/sony-to-pull-plug-on-floppy-disks-1.941854",
+      "note": "מילה במילה: \"Sony has announced it will stop selling the 30-year-old storage format in Japan in March 2011 because of dwindling sales.\" (הכתבה מתוארכת Apr 26, 2010.)"
+    },
+    {
+      "claim": "1.44 מגה-בייט לדיסקט",
+      "source": "https://spectrum.ieee.org/thumb-drive",
+      "note": "מילה במילה: \"even double-sided, double-density disks could store only 1.44 MB of data.\""
+    },
+    {
+      "claim": "8 מגה-בייט בהשקה, 32 בפרימיום, 4 טרה-בייט היום",
+      "source": "https://www.technion.ac.il/en/blog/article/25-years-since-the-invention-that-changed-the-world-of-data-storage",
+      "note": "מילה במילה: \"The original storage capacity was 8MB for the basic model and up to 32MB for the premium version. Today, the maximum capacity for a USB drive of the same size is 4 terabytes.\" עוגני שנה קיימים (כלל 138). גם החישוב \"פי 128\" בתוך פחות משלוש שנים (8MB → 1GB, נכון ל-2002) נכון, ועוגן השנה במקום."
+    },
+    {
+      "claim": "הייצור בסין ובטאיוואן, וההפרדה מן המפעל בכפר סבא",
+      "source": "דוח 20-F של M-Systems, כמתועד ביומן",
+      "note": "התקפה 5 ב-ENGINE.md: לא נמצא שום מסמך שמראה ייצור דיסק-און-קי בכפר סבא. הסייג עומד. (לא ניתן לאמת מעבר ליומן בסבב הזה — ה-20-F לא נמשך מחדש.)"
+    },
+    {
+      "claim": "הציטוט של שמעון שמואלי מדצמבר 2022",
+      "source": "https://spectrum.ieee.org/thumb-drive",
+      "note": "אומת בגוף התגובות תחת הכתבה, מילה במילה: \"Too bad the author did not contact me (and I assume others) as the story of the invention/innovation could be even more interesting.\" גם התאריך (16 Dec, 2022) תואם."
+    },
+    {
+      "claim": "טענת IBM היא על \"היבט\" של המכשיר, ומבוססת על דוח פנימי חסוי",
+      "source": "https://spectrum.ieee.org/thumb-drive",
+      "note": "מילה במילה: \"IBM has its own claim to the invention of an aspect of the device, based on a year-2000 confidential internal report written by one of its employees, Shimon Shmueli.\" הדף מוסר את הסייג במדויק ואומר שאי אפשר לבדוק את הטענה לגופה."
+    },
+    {
+      "claim": "כותרת המשנה של כתבת IEEE, והסייג של הכתב על המצאות דיגיטליות",
+      "source": "https://spectrum.ieee.org/thumb-drive",
+      "note": "מילה במילה: \"Thumb drive, USB drive, memory stick: Whatever you call it, it's the brainchild of an unsung Singapore inventor\". הדף מביא אותה במלואה ואומר במפורש שהיא מייחסת את ההמצאה לצד הסינגפורי — בחירה הגונה שמציגה את המקור העוין בלשונו החדה ביותר. הדף גם מסיים את סעיף 08 בסייג המדויק: \"Seldom can inventions in digital technology be attributed to a single person or company…\""
+    },
+    {
+      "claim": "\"ניצחון מוסרי\" ומיליוני התקנים בלי רישיון",
+      "source": "https://spectrum.ieee.org/thumb-drive",
+      "note": "מילה במילה: \"But even the decision in Singapore was little more than a moral victory. By the late 2000s, millions of thumb drives had already been produced, by countless companies, without Trek's license.\""
+    },
+    {
+      "claim": "ה-ITC לא העניק לטרק הרבה",
+      "source": "https://spectrum.ieee.org/thumb-drive",
+      "note": "מילה במילה: \"Tan also pursued, with little success, claims at the United States International Trade Commission against other companies, including Imation, IronKey, Patriot, and Verbatim.\" הדף מייחס במפורש (\"כך IEEE Spectrum\")."
+    },
+    {
+      "claim": "התוצאה בבריטניה — טרק איבדה שם את הפטנט ב-2008",
+      "source": "https://spectrum.ieee.org/thumb-drive · https://ipkitten.blogspot.com/2008/01/m-systems-v-trek-2000-usb-sticks-get.html",
+      "note": "שני דומיינים עצמאיים; IEEE: \"An appeals court in the United Kingdom, however, was not persuaded, and Trek lost its patent there in 2008.\" התוצאה עומדת; הציטוט השיפוטי הוא ממצא 13."
+    },
+    {
+      "claim": "הסייג \"כל ארבע הגרסאות הן מורן מספר על מורן\"",
+      "source": "הדף עצמו, sections/03",
+      "note": "\"לאירוע אין עד חיצוני. אין תיעוד בן-הזמן משנת 1998, אין רישום של הכנס, וכל ארבע הגרסאות הן מורן מספר על מורן.\" זה בדיוק מה שכלל 157 דורש מרגע שנשען על עדות עצמית מאוחרת, והדף עושה זאת בלי שביקשו ממנו."
+    },
+    {
+      "claim": "גרסה ד' (וידאו הטכניון 2017) אינה בדף",
+      "source": "docs/enrichment/knowledge-journal/295b3325-2db9-4284-b550-072b7b991d93.md",
+      "note": "היומן סימן \"לכותב: אל תשתמש בזה\", והדף אכן אינו משתמש בה. ציות מלא."
+    },
+    {
+      "claim": "גבול הגזרה של המעש (המוצר מול תקן המחבר של Intel)",
+      "source": "סריקה מלאה של הדף",
+      "note": "נסרקו כל שלושה-עשר הסקשנים, fields.json ו-canonical.json: אין בשום מקום ערבוב בין הדיסק-און-קי כמוצר לבין תקן מחבר ה-USB של Intel. תקן ה-USB מוזכר רק כמפרט שהמוצר תואם לו."
+    },
+    {
+      "claim": "כלל 178 — אף טענה אינה נשענת על מקור מן הרשימה",
+      "source": "docs/SOURCES-CAUTION.md",
+      "note": "grep -Ei \"haaretz|themarker|הארץ|דה.?מרקר\" על כל תיקיית canonical/disk-on-key/ (כולל canonical.json, fields.json, כל הסקשנים ו-ENGINE.md) — אפס תוצאות. היומן כן משתמש ב-TheMarker בנקודה אחת (סכום פרס אדוארד ריין), מסמן זאת ככפוף לכלל 178 — והדף בסופו של דבר לא כתב את הסכום בכלל. יישום נקי של הכלל."
+    }
+  ],
+  "verdict": "fail-must-fix",
+  "budget_used": {"network_actions": 25, "local_grep_reads": 40},
+  "notes_summary": "23 ממצאים: 6 must-fix, 11 moderate, 6 minor. משפט המנוע שרד את חמש ההתקפות המנויות ב-ENGINE.md — שתיים מהן הותקפו בפועל מול מסמכים ראשוניים (D1 מול SGCA 55 §2; D2 מול WO2000060476A1 וקריאה עצמאית ב-US6148354) והתחזקו. הבעיות אינן במשפט אלא בגוף הדף. הכבד מכולם: פסק הדין הסינגפורי קבע שהצד הישראלי הפר את הפטנט וחייב אותו בפיצויים, והדף אינו אומר זאת באף מקום — השמטה שפועלת לטובת הצד הישראלי. שני פסקי הדין מ-elitigation.sg, שהיומן רשם כלא-ניתנים-למשיכה, נמשכו במלואם ונקראו מילה במילה; משם חמישה ממצאים ושבעה פריטי Held. כלל 178 נקי. כלל 176 מתקיים (אין 'פתח פתח'), עם פער אחד שנרשם: כל מספרי ההשפעה הם ברמת הקטגוריה ולא ברמת המוצר הישראלי. לא ניתן לאמת ונרשם ככזה: הטקסט הראשוני של פסק הדין הבריטי (BAILII חסום ב-Anubis, CaseMine חסום, Wayback 429/503), כרונולוגיית דגמי ה-Zip Drive, ודוח ה-20-F."
+}

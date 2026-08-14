@@ -1,0 +1,154 @@
+{
+  "at": "2026-08-14",
+  "by": "adversarial-140/opus",
+  "claims_checked": 18,
+  "findings": [
+    {
+      "claim": "The Prepared quote in ripple/section 09: \"fallen out of favor as newer iterations improved design\"",
+      "verdict": "contradicted",
+      "severity": "moderate",
+      "where": "ripple_en, section 09-ma-alah-becheklo body_en",
+      "source": "https://web.archive.org/web/20260705015242/https://theprepared.com/pressure-dressing/",
+      "note": "Source verbatim: \"This specific product has fallen out of favor as more modern iterations improved on the original design, adding features like retaining strips.\" Page quotes it in quotes but with 'newer' instead of 'more modern' and 'improved design' instead of 'improved on the original design'. Not word-for-word."
+    },
+    {
+      "claim": "Early adoption by 75th Rangers and 101st Airborne in 2000-2001",
+      "verdict": "contradicted",
+      "severity": "moderate",
+      "where": "ripple, aftermath, infobox us_standardization value",
+      "source": "https://www.jta.org/2011/02/14/united-states/bandage-that-helped-save-lives-in-giffords-shooting-has-israeli-backstory",
+      "note": "JTA does not give dates for the elite-unit adoption. It says 'In 2000, he took the bandage to Fort Sam Houston... Soon his company, First Care, was selling the bandage for use by elite units, including the 75th Rangers and the 101st Airborne. Three years later the bandage was certified for standard use.' '2000-2001' is a reasonable inference, not a sourced date; putting it in the infobox as if sourced overstates JTA."
+    },
+    {
+      "claim": "Pima County sheriff's deputies used the Israeli bandage to treat 10 of the 19 casualties in the 47 minutes before paramedics arrived (Tucson)",
+      "verdict": "contradicted",
+      "severity": "minor",
+      "where": "section 07-tucson body/body_en, aftermath",
+      "source": "https://www.jems.com/ems-operations/tactical-ems-saved-lives-after-giffords/",
+      "note": "JEMS: 'During the 47 minutes that deputies were with the injured at the scene, they treated 10 of the 19 injured patients... controlled bleeding, provided rescue breathing and chest compressions, deployed hemostatic agents, bandaged numerous wounds.' JEMS' IFAK listing includes 'Two emergency compression bandages' but does not name the manufacturer. NPR confirms an 'Israeli bandage' was in the IFAK. No source says the Israeli bandage was used on all 10/19; the page's phrasing implies stronger causation than sources support."
+    },
+    {
+      "claim": "The frustration built up over years of reserve duty; in 1993 the idea 'was invented'",
+      "verdict": "confirmed-with-note",
+      "severity": "minor",
+      "where": "origin_story / section 02",
+      "source": "https://www.jta.org/2011/02/14/united-states/bandage-that-helped-save-lives-in-giffords-shooting-has-israeli-backstory",
+      "note": "JTA supports the reserve-duty framing ('As the years wore on through monthlong stints in the Israeli reserves'). However, Jorisch explicitly says 'After his military discharge, Bar-Natan began tinkering with alternatives' — a soft cross-source disagreement the page does not acknowledge. Page's choice (JTA) is defensible."
+    },
+    {
+      "claim": "In the 1980s Bar-Natan went through medic training in the IDF (drafted at age 26)",
+      "verdict": "confirmed",
+      "severity": null,
+      "where": "description, origin_story",
+      "source": "https://www.jta.org/2011/02/14/united-states/bandage-that-helped-save-lives-in-giffords-shooting-has-israeli-backstory",
+      "note": "JTA: 'immigrated to Israel in 1979 and was drafted into the military in 1983' — 1983 minus a 1957-born (implicit) puts him at ~26, consistent."
+    },
+    {
+      "claim": "Bandages could have manufacture dates as early as 1942 or as late as the previous month, unchanged",
+      "verdict": "confirmed",
+      "severity": null,
+      "where": "section 02-hatchboshet body/body_en",
+      "source": "https://www.jta.org/2011/02/14/united-states/bandage-that-helped-save-lives-in-giffords-shooting-has-israeli-backstory",
+      "note": "JTA verbatim: 'The bandages available might have manufacture dates as early as 1942 or as late as the previous month, yet they remained essentially unchanged.'"
+    },
+    {
+      "claim": "Up to 30 pounds of pressure",
+      "verdict": "confirmed",
+      "severity": null,
+      "where": "engine_sentence, act, section 05-hamanganon",
+      "source": "https://www.jta.org/2011/02/14/united-states/bandage-that-helped-save-lives-in-giffords-shooting-has-israeli-backstory",
+      "note": "JTA verbatim: 'the equivalent of up to 30 pounds of pressure over the pad by wrapping it in the opposite direction of the initial wrap.'"
+    },
+    {
+      "claim": "1993 invention",
+      "verdict": "confirmed",
+      "severity": null,
+      "where": "origin_story, section 02",
+      "source": "https://www.jta.org/2011/02/14/united-states/bandage-that-helped-save-lives-in-giffords-shooting-has-israeli-backstory",
+      "note": "JTA verbatim: 'Since its 1993 invention'."
+    },
+    {
+      "claim": "US Patent US5628723A · inventor Bernard Grau · filed 14 Feb 1996 · published 13 May 1997 · assignee First Care Products Ltd · assignment effective 22 May 2002",
+      "verdict": "confirmed",
+      "severity": null,
+      "where": "act, aftermath, section 03, section 09, infobox patent",
+      "source": "https://patents.google.com/patent/US5628723A/en",
+      "note": "Patent metadata + legal events verified: inventor 'Bernard Grau', filing 1996-02-14, publication 1997-05-13, current assignee FIRST CARE PRODUCTS Ltd, assignment 'Effective date: 20020522' (= 22 May 2002)."
+    },
+    {
+      "claim": "First Care Products Ltd founded 1995, headquartered in Lod",
+      "verdict": "confirmed",
+      "severity": null,
+      "where": "description, aftermath, section 03, infobox",
+      "source": "https://web.archive.org/web/20250707095505/https://www.rigad.com/first-care-products",
+      "note": "Rigad verbatim."
+    },
+    {
+      "claim": "Manufacturing in Ahmed Heib's Tuba-Zangariyya factory, expanded to three floors, millions of bandages/year",
+      "verdict": "confirmed",
+      "severity": null,
+      "where": "description, aftermath, section 04, infobox manufacturing",
+      "source": "https://web.archive.org/web/20240528022444/http://avijorisch.com/article/united-colors-of-bandages-israels-secret-sauce/",
+      "note": "Jorisch: 'small factory on the first floor of his house in Tuba-Zangariyya... He expanded his factory to three floors capable of producing millions of bandages a year. All 50 of his employees are women.'"
+    },
+    {
+      "claim": "In 2000 Bar-Natan brought the bandage to Fort Sam Houston",
+      "verdict": "confirmed",
+      "severity": null,
+      "where": "aftermath, section 06",
+      "source": "https://www.jta.org/2011/02/14/united-states/bandage-that-helped-save-lives-in-giffords-shooting-has-israeli-backstory",
+      "note": "JTA verbatim."
+    },
+    {
+      "claim": "Standard issue U.S. Army 2003",
+      "verdict": "confirmed",
+      "severity": null,
+      "where": "description, ripple, aftermath, honors, numbers",
+      "source": "https://www.jta.org/2011/02/14/united-states/bandage-that-helped-save-lives-in-giffords-shooting-has-israeli-backstory",
+      "note": "JTA: 'The U.S. military made it standard issue in 2003, in time for the Iraq War.'"
+    },
+    {
+      "claim": "Standard issue in IDF & British Army; adopted by Australia, New Zealand, and most NATO",
+      "verdict": "confirmed",
+      "severity": null,
+      "where": "ripple, honors",
+      "source": "https://web.archive.org/web/20240528022444/http://avijorisch.com/article/united-colors-of-bandages-israels-secret-sauce/",
+      "note": "Jorisch verbatim: 'the Australian military, the New Zealand military and most NATO countries have adopted it. It's also standard issue for the U.S. Army, the Israel Defense Forces and the British Army.'"
+    },
+    {
+      "claim": "Haaretz February 2005 headline about the bandage saving U.S. soldiers in Iraq",
+      "verdict": "confirmed",
+      "severity": null,
+      "where": "summary_short, aftermath, section 06",
+      "source": "https://www.haaretz.com/2005-02-10/ty-article/bandage-invented-by-idf-medic-saves-u-s-lives-in-iraq/...",
+      "note": "Haaretz meta/title strings confirm the headline 'Bandage Invented by IDF Medic Saves U.S. Lives' and the URL slug 'saves-u-s-lives'. Body text was not retrievable from the JS-rendered cache, so only the headline is directly checkable."
+    },
+    {
+      "claim": "Tucson 8 Jan 2011: deputies treated 10 of 19 in 47 minutes",
+      "verdict": "confirmed",
+      "severity": null,
+      "where": "aftermath, section 07",
+      "source": "https://www.jems.com/ems-operations/tactical-ems-saved-lives-after-giffords/",
+      "note": "JEMS verbatim."
+    },
+    {
+      "claim": "Shipman & Lessard 2009 paper in Military Medicine, Texas A&M, vol 174 pp 86-92; pressure-bar effectiveness quote",
+      "verdict": "confirmed",
+      "severity": null,
+      "where": "ripple, recognition, honors, section 08",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/19216303/",
+      "note": "PubMed verbatim: authors 'Shipman N; Lessard CS'; affiliation 'College of Medicine, Texas A&M University'; 'Mil Med. 2009 Jan;174(1):86-92'. Conclusion quote verified word-for-word: 'the Emergency Bandage pressure bar is very effective in elevating the applied pressure directly under the pressure bar while at the same time not applying unnecessary pressure over other areas covered by the bandage.'"
+    },
+    {
+      "claim": "2012 PerSys Medical majority stake in First Care Products; 2021 Safeguard Medical acquired PerSys",
+      "verdict": "confirmed",
+      "severity": null,
+      "where": "aftermath, section 09, recognition, infobox ownership",
+      "source": "https://web.archive.org/web/20250707095505/https://www.rigad.com/first-care-products",
+      "note": "Rigad verbatim: 'In 2012, the American company PerSys Medical purchased a majority share in First Care Products. Nine years later, in 2021, PerSys Medical was acquired by Safeguard Medical.'"
+    }
+  ],
+  "verdict": "pass-with-notes",
+  "budget_used": {"network_actions": 0, "local_grep_reads": 15},
+  "notes_summary": "Page holds. Two moderate findings (paraphrased The Prepared quote in quotes; 2000-2001 elite-unit date is inferred not sourced). One minor Tucson finding (implied causation between Israeli-bandage and all 10/19 treatments is stronger than sources support). No factual falsehoods, no cross-language contradictions, no phantom device (rule 176 satisfied: real patent, real factory, real millions of units, real operational use)."
+}

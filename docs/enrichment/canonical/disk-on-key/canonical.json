@@ -182,5 +182,18 @@
       "body": "מה שדחק את החפץ הצידה היה הגודל שלו, לא הענן. רוב המותגים עוצרים היום ב-128 ג'יגה-בייט, וזה הופך אותם לחסרי תועלת מול קבצים גדולים. טלפון חדש מפיק ספריות של וידאו 4K שתופסות כג'יגה-בייט לכל דקת צילום בקצב פריימים גבוה. במילים אחרות, כונן שלם הוא שתי דקות של סרטון. החפץ שהמציא את היכולת לשאת מידע בכיס הובס בידי כמות המידע שהוא עצמו לימד את העולם לייצר (נכון ל-2026).\n\nההסבר הרווח, שהענן והטלפונים החליפו אותו, לא נמצאה לו מדידה. לא נמצא סקר, דוח או נתון שמראים תחלופה כזאת.\n\nמשימה אחת נשארה שלו בלבד. כדי להתקין הפצת לינוקס או Windows על מחשב ריק צריך מדיה שאפשר לאתחל ממנה, ומחשב ריק אינו מחובר לשום דבר לפני שיש לו מערכת הפעלה. אין טעם לבזבז על כך כונן SSD שלם, כותב Engadget. זה תפקיד שהענן אינו יכול למלא מעצם הגדרתו.\n\nובסוף 2025 החזיר אותו המחיר. מחירי כונני ה-SSD זינקו לשמיים אחרי תקופה ארוכה של מחירים זולים מאוד; אותו דגם 4 טרה-בייט שעלה 318 דולר בנובמבר 2025 נמכר כעבור זמן קצר ב-1,100. בתחילת 2026 הראו נתוני Google Trends זינוק חד בעניין החיפוש בביטויים כמו \"USB flash drive portable\" ו-\"USB flash drive 128GB\". זהו עניין, לא מכירות; מה שהוא מלמד הוא שאנשים חוזרים לחפש את החפץ מסיבה שאין לה שום קשר אליו.\n\nהוא עדיין במגירה. עשרים ושש שנה אחרי שהוגשה בקשת הפטנט, ואחרי ארבעה טוענים, ארבע ערכאות וארבע תשובות שונות לשאלה מי המציא אותו, הוא נשאר בדיוק מה שהיה ב-15 בדצמבר 2000: הדבר שתוקעים במחשב כשצריך להעביר משהו ממקום למקום.",
       "body_en": "What pushed the object aside was its own size, not the cloud. Most brands today top out at 128 gigabytes, which makes them useless when dealing with large files. A new smartphone produces libraries of 4K video that take up roughly a gigabyte for every minute of footage at high frame rates. In other words, an entire drive is two minutes of video. The object that invented the ability to carry data in a pocket was defeated by the volume of data it had itself taught the world to produce (as of 2026).\n\nThe common explanation, that the cloud and the phones replaced it, has no measurement behind it. No survey, report or figure showing such a substitution was found.\n\nOne job remains its own. To install a Linux distribution or Windows on an empty machine you need media the machine can boot from, and an empty machine is connected to nothing before it has an operating system. There is no use wasting a whole SSD on that, Engadget writes. This is a task the cloud cannot perform by definition.\n\nAnd at the end of 2025 the price brought it back. SSD prices skyrocketed after a long stretch of dirt-cheap ones; the same 4-terabyte model that cost $318 in November 2025 was listed shortly afterwards at $1,100. In early 2026, Google Trends data showed a sharp spike in search interest for terms such as \"USB flash drive portable\" and \"USB flash drive 128GB\". That is interest, not sales; what it shows is that people are searching for the object again for a reason that has nothing to do with it.\n\nIt is still in the drawer. Twenty-six years after the patent application was filed, and after four claimants, four forums and four different answers to the question of who invented it, it remains exactly what it was on 15 December 2000: the thing you push into a computer when something has to be moved from one place to another."
     }
-  ]
+  ],
+  "audit": {
+    "engine_check": {
+      "at": "2026-08-14",
+      "by": "engine-checker (rule 174)",
+      "counts": {
+        "units": 83,
+        "mesharet": 68,
+        "gvuli": 13,
+        "bahutz": 2
+      },
+      "report": "engine-check.md"
+    }
+  }
 }

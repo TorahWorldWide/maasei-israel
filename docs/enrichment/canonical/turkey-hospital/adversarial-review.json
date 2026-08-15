@@ -1,0 +1,204 @@
+{
+  "deed_id": "f0ca86ec-0a88-4963-b340-ad2e4f790c2b",
+  "slug": "turkey-hospital",
+  "reviewed_at": "2026-08-15",
+  "reviewer": "adversarial reviewer (rule 140) — fresh reader, no page context, sources pulled as raw HTML",
+  "reviewed_object": "docs/enrichment/canonical/turkey-hospital/canonical.json, state of 2026-08-15 (post engine-check)",
+  "method": "13 sources fetched as raw HTML with curl and stripped locally; every quote matched word-for-word in the live source text. WebFetch was not used on any source (it already corrupted one quote in this file). Journal used only as an index of what to attack, never as evidence.",
+  "network_actions_used": 14,
+  "network_actions_budget": 25,
+  "verdict": "הדף מחזיק על המספרים — 470 נושא את ההגדרה המלאה של המקור ולא גרסה מעוגלת — ונמנע משני הפחים המסוכנים (ההוקרה מיוחסת לזרוע החילוץ; הגרסה הטורקית מובאת במלואה). הוא נופל בשניים: ציטוט מרכזי מיוחס לרופא הלא נכון, והמחלוקת על מצב בית החולים מוצגת כבלתי ניתנת ליישוב בעוד שלושת המאמרים שהדף נשען עליהם מתארים עבודה ישראלית-טורקית משותפת מיום הפעילות הראשון.",
+  "counts": {
+    "critical": 2,
+    "major": 8,
+    "minor": 6,
+    "claims_checked": 41,
+    "claims_held": 16
+  },
+  "gate_176": {
+    "verdict": "holds on one leg of two",
+    "concrete_impact_holds": true,
+    "concrete_impact": "עיר של יותר ממיליון תושבים קיבלה בית חולים מתפקד לשבוע: 470 מטופלים במיון, 10 ניתוחים, 48 אשפוזים, 27 טיפול נמרץ; המוסד נמסר פועל לרופאים טורקים מתנדבים ב-15.2.2023 בלי הפסקת שירות. שרשרת סיבתית מלאה: מי לקח, מתי, ומה המשיך לפעול.",
+    "doctrinal_impact_holds": false,
+    "doctrinal_impact_problem": "הדף טוען ש\"מה ששרד את השבוע הוא טיעון מקצועי\" ומכתיר סעיף \"המודל שנכנס לספרות\". המודל ההיברידי פורסם ב-NEJM ב-2014 בידי Merin et al. על סמך הפיליפינים 2013, ושני מאמרי הדף מפנים אליו במפורש. אין בשום מקור בתיק ראיה לאימוץ המודל בגלל קהרמאנמרש מחוץ למעגל המחברים; סקירת WHO/Europe אינה מזכירה את ישראל. שלושת המאמרים מוכיחים תיעוד, לא הפנמה.",
+    "recommendation": "להוריד את סעיף \"המודל שנכנס לספרות\" מטענת תרומה לטענת תיעוד; ההשפעה הקונקרטית לבדה מעבירה את השער."
+  },
+  "findings": [
+    {
+      "id": "C1",
+      "severity": "critical",
+      "where": "sections[4] \"באיזה מצב היה בית החולים\", body + body_en; ובעקיפין sections[10] \"הערות מקורות\", פסקת \"מצב בית החולים\"",
+      "page_says": "ד\"ר ריימון מוקלד מן המשלחת אמר לסוכנות אנדולו ב-13 בפברואר: נכנסנו לבית החולים והוא היה נטוש. / Dr. Raymond Mokled of the delegation told the Anadolu Agency on 13 February: \"We entered the hospital and it was deserted.\"",
+      "source_says": "Dr. Wafi Hamed, a dentist, said that he came to Türkiye with the Israeli mission and started his work in the Kahramanmaras Sahra hospital on Thursday. \"We entered the hospital and it was deserted … We brought with us medical staff and equipment, including emergency rooms, recovery rooms, operations, a dental clinic, and a radiology department, to provide medical treatment to save the wounded who arrive at the hospital,\" he told Anadolu. For his part, Dr. Raymon Mokalled from the Israeli mission said: \"Since we arrived here, we have provided treatment to more than 250 patients…\"",
+      "source_url": "https://www.aa.com.tr/en/environment/doctors-from-israel-continue-treating-earthquake-victims-in-turkiye/2818017",
+      "why": "שני דוברים שונים בכתבה אחת. המילה \"נטוש\", שהיא צלע אחת של המחלוקת שסביבה בנוי סעיף שלם, נאמרה בידי רופא השיניים של המשלחת ולא בידי הרופא שהדף נוקב בשמו. הציטוט על 250 המטופלים, המיוחס למוקלד בסעיף \"9–14 בפברואר\", מיוחס נכון."
+    },
+    {
+      "id": "C2",
+      "severity": "critical",
+      "where": "sections[4] פסקה אחרונה + sections[7] \"15 בפברואר: המסירה\" פסקה ראשונה + שדה aftermath",
+      "page_says": "מה שאינו ניתן ליישוב הוא המילים \"נטוש\" ו\"ריק\" מול צוות מומחים טורקי שפעל שם מן היום הראשון. אחד משני התיאורים אינו מדויק, ומן המקורות שקיימים אי אפשר לדעת איזה. // ב-13 בפברואר, יומיים לפני הסוף, מסרו אנשי המשלחת לסוכנות אנדולו שצוותים רפואיים טורקיים הגיעו לבית החולים בימיים האחרונים והחלו לעבוד יחד אתם. // צוותים רפואיים טורקיים כבר עבדו שם לצד הישראלים יומיים קודם לכן.",
+      "source_says": "DMPHP: \"From February 9, 2023, through February 14, 2023, the Israeli medical staff joined with Turkish volunteers to rehabilitate the existing structure and treat patients in the ED as well as the inpatient wards and intensive care unit of the hospital.\" | JEM: \"Working alongside volunteer Turkish medical professionals, they treated patients in the emergency department (ED) as well as the inpatient wards and intensive care unit of the hospital.\" | JOGH: \"the Turkish government also mobilised medical staff from across Türkiye to support the area, creating multi-cultural, multi-linguistic, and multi-disciplinary Turkish-Israeli teams… Each working shift consisted of Israeli and Turkish personnel and one or two translators.\" | Afyonkarahisar: \"ekibimize daha sonra İsrail'den yardım amaçlı gelen ekip de dâhil oldu\"",
+      "source_url": "https://www.cambridge.org/core/journals/disaster-medicine-and-public-health-preparedness/article/models-of-field-hospital-emergency-departments-the-israeli-experience/7531CFEA680AA0F5EF37C309FF034AF7",
+      "also_source_urls": [
+        "https://wmpllc.org/ojs/index.php/jem/article/view/3855",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC10450639/",
+        "https://afyonism.saglik.gov.tr/TR-272740/depremin-ilk-gununde-bolgeye-giden-ekip-kahramanmaras-necip-fazil-sehir-hastanesini-faaliyete-gecirerek-hizmet-verdi.html"
+      ],
+      "why": "הקורא מקבל שהעבודה המשותפת התחילה ב-13 בפברואר, בעוד שלושת המאמרים אומרים 9 בפברואר — יום הפעילות הראשון. הפועל הטורקי dâhil oldu והפועל האנגלי joined with הם אותו תיאור, כלומר הגרסה הטורקית מאוששת בידי המקורות הישראליים ואינה \"בלתי ניתנת ליישוב\". הדף מצטט מן המשפט של קיימברידג' את חציו הראשון (\"1-month leave\") ומשמיט את חציו השני; משפט המשמרות המעורבות של JOGH אינו מופיע בדף כלל."
+    },
+    {
+      "id": "M1",
+      "severity": "major",
+      "where": "numbers[0].source_url ו-numbers[1].source_url",
+      "page_says": "https://wmpllc.org/ojs/index.php/jem/article/view/4160",
+      "source_says": "404 Not Found Stack Trace: File: /home/radjr1/domains/wmpllc.org/public_html/ojs/pages/article/ArticleHandler.inc.php line 107 … (1,276 bytes)",
+      "source_url": "https://wmpllc.org/ojs/index.php/jem/article/view/3855",
+      "why": "כתובת המקור של המספר המרכזי בדף (470) ושל השיא היומי (152) מחזירה stack trace של PHP. המאמר האמיתי הוא view/3855, \"If you rebuild it, they will come—The contribution of the Israel Defense Forces Field Hospital Team to the treatment of the 2023 earthquake victims in Turkey\", DOI 10.5055/jem.0870."
+    },
+    {
+      "id": "M2",
+      "severity": "major",
+      "where": "sections[3] \"8 בפברואר, לפנות בוקר\" פסקה ראשונה; ונשען עליו sections[9] \"מה קיבלה המשלחת הרפואית\"",
+      "page_says": "את המשלחת הוביל מפקד חטיבת החילוץ וההדרכה של פיקוד העורף, אל\"מ אלעד אדרי; את ההיערכות המקדימה הוביל סגן קצין הרפואה הראשי אל\"מ ד\"ר תומר קולר, שנקבע כמפקד בית החולים.",
+      "source_says": "We would like to acknowledge Colonel Tomer Koler, MD, head of the delegation and Colonel (reserve) Prof. Ofer Merin, MD, head of the field hospital, and all the volunteers and rescue teams from all around the world…",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10450639/",
+      "why": "שני התפקידים סותרים את מה שהדף קובע כעובדה. עופר מרין, מפקד בית החולים לפי המאמר השפיט, אינו מוזכר בדף כלל. הסתירה אינה ב\"הערות מקורות\" ואינה ב\"מה שלא נמצא\" — כלל 30. היא נושאת משקל: הטענה \"אף דיווח על הטקס אינו מזכיר הוקרה למפקד בית החולים, אל\"מ ד\"ר תומר קולר\" נשענת על תפקיד שנוי במחלוקת."
+    },
+    {
+      "id": "M3",
+      "severity": "major",
+      "where": "sections[6] \"השם שנשאר\", פסקה שנייה",
+      "page_says": "העובדה: בית חולים באוהלים לא הוקם. כך מסר משרד הבריאות הטורקי לסוכנות הידיעות הממלכתית של טורקיה, והוא המקור הבלתי-תלוי היחיד בעניין … וכך מתארים גם שלושת המאמרים השפיטים: מודל היברידי, כוח אדם וציוד בתוך מבנה קיים.",
+      "source_says": "The team integrated with the Severo Verallo Memorial District Hospital on the island of Cebu… Several tents were set up on the grounds of the hospital to serve as the ED which was staffed solely by the Israeli team with the help of local interpreters. | Figure 1: \"(a) The hybrid model used in the Philippines depicting the emergency department in tents outside the existing hospital.\"",
+      "source_url": "https://www.cambridge.org/core/journals/disaster-medicine-and-public-health-preparedness/article/models-of-field-hospital-emergency-departments-the-israeli-experience/7531CFEA680AA0F5EF37C309FF034AF7",
+      "why": "התווית \"היברידי\" אינה שוללת אוהלים — במופע ההיברידי שקיימברידג' עצמו מביא כדוגמה, חדר המיון עמד באוהלים בחצר בית החולים. שלושת המאמרים תומכים בכך שהטיפול ניתן בתוך המבנה, לא בכך שלא הוקמו אוהלים. הדף מגייס אותם לטענה שאינם אומרים, ובאותו סעיף עצמו מודה שהשאלה על המאהל פתוחה."
+    },
+    {
+      "id": "M4",
+      "severity": "major",
+      "where": "sections[3+1] \"9 בפברואר\" (\"שמחבריו הם אנשי המשלחת\"), sections[8] \"המודל שנכנס לספרות\" (\"את שלושתם כתבו אנשי המשלחת עצמם\"), \"הערות מקורות\" (\"מי כתב את המאמרים\")",
+      "page_says": "כך נכתב במאמר ב-Journal of Emergency Management, שמחבריו הם אנשי המשלחת. / את שלושתם כתבו אנשי המשלחת עצמם, ולכן הם ספרות שפיטה ודיווח עצמי בעת ובעונה אחת.",
+      "source_says": "JEM author affiliations: \"Evan Avraham Alpert, MD — Department of Emergency Medicine, Hadassah Medical Center-Ein Kerem; Faculty of Medicine, Hebrew University of Jerusalem | Michael Malkin, MD, MSc, MHA — Israel Defense Forces, Medical Corps, Ramat Gan | Deganit Kobliner-Friedman, RN, MPH — Department of Emergency Medicine, Shaare Zedek Medical Center\". DMPHP: \"Evan Avraham Alpert, Giora Weiser, Shai Schul, Eran Mashiach, Amit Shaham and Deganit Kobliner-Friedman\"; corresponding author affiliated to Hadassah. Neither article states that its authors served on the delegation; both are written in the third person about \"the Israeli team\". Only JOGH writes in the first person (\"our personnel re-opened the hospital\").",
+      "source_url": "https://wmpllc.org/ojs/index.php/jem/article/view/3855",
+      "why": "הדף הופך הסקה סבירה לעובדה, ומעמיס עליה מבנה שלם: הקביעה שמשרד הבריאות הטורקי הוא \"המקור הבלתי-תלוי היחיד בעניין — כל השאר הם אנשי המשלחת עצמה או דוברות ישראלית\" נשענת על ייחוס שאינו נאמר באף מקור."
+    },
+    {
+      "id": "M5",
+      "severity": "major",
+      "where": "שדה ripple + sections[5] \"9–14 בפברואר: שישה ימים\", פסקה שלישית",
+      "page_says": "פחות מארבעה אחוזים מן המטופלים הגיעו מן ההריסות — שבעה־עשר מתוך 470 — … ההשפעה, אם כן, אינה רק טיפול בפצועים אלא גם החזרת רפואת שגרה. / שבעה־עשר מתוך 470 הם פחות מארבעה אחוזים. את השאר תיאר רופא מן המשלחת…",
+      "source_says": "The ED staff treated 17 patients removed from the rubble of the earthquake. (JEM) | \"…not only from the earthquake, but also from chronic diseases and who could not find a hospital to visit.\" (Anadolu)",
+      "source_url": "https://wmpllc.org/ojs/index.php/jem/article/view/3855",
+      "why": "17 הוא מספר החולצים מן ההריסות, לא מספר פצועי הרעידה; פצוע רעידה שהגיע ברגליו אינו בתוך ה-17 ואינו חלק מ\"השאר\" שאינו מרעידת האדמה. שום מקור אינו נוקב בחלוקה בין נפגעי רעידה לחולים כרוניים מתוך ה-470, והציטוט שהדף מביא כ\"שאר\" אומר \"not only… but also\", כלומר גם וגם. audit.rule_173 מצהיר שהכשל הזה הוסר ממשפט המנוע; הוא שרד בשני מקומות אחרים. מחלקת הכשל של כלל 148."
+    },
+    {
+      "id": "M6",
+      "severity": "major",
+      "where": "שדה summary_short (+summary_short_en) ושדה the_moment (+the_moment_en)",
+      "page_says": "בשישה ימים נבדקו שם 470 מטופלים, בשיא של 152 ביום אחד… וכחמישים מהם באו לרופא שיניים. / …ילדים, חולים כרוניים, וכחמישים בני אדם שבאו לטפל בשיניים.",
+      "source_says": "JEM: \"A total of 470 patients were examined by the Israeli team in the ED during the 6 days of clinical operation.\" | הדף עצמו, בהערות המקורות: \"דובר צה\"ל נוקב ב'למעלה מ-470 פצועים ונפגעים' על פני שבעה ימים, וזו הגדרה פתוחה כלפי מעלה\", ובגוף: \"בסיכום דובר צה\"ל מופיעים כ-50 מטופלי שיניים\".",
+      "source_url": "https://wmpllc.org/ojs/index.php/jem/article/view/3855",
+      "why": "המילה \"מהם\" מחברת מספר של שבעה ימים (כ-50 מטופלי שיניים, מסיכום דובר צה\"ל) למכנה של שישה ימים (470 של JEM) — שתי הגדרות שהדף מפריד ביניהן נכון בגוף ובהערות המקורות, ומאחד ביניהן דווקא בשדות שהקורא רואה ראשונים. כלל 148."
+    },
+    {
+      "id": "M7",
+      "severity": "major",
+      "where": "sections[3+1] \"9 בפברואר: להיכנס במקום להקים\", משפט הסיום; והיעדר מ\"הערות מקורות\"",
+      "page_says": "מה שנזנח ב-9 בפברואר לא היה התוכנית היחידה שהמשלחת ידעה לבצע. הוא היה הראשונה מבין שתיים.",
+      "source_says": "The plan was to operate a field hospital without support or utilities from the affected community, yet we soon realised that aid was required in a model we have never practised before.",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10450639/",
+      "why": "סתירה חזיתית בין שני מקורות שהדף נשען על שניהם: JOGH (אוגוסט 2023, גוף ראשון, בן-הזמן הקרוב) אומר \"מודל שמעולם לא תרגלנו\"; DMPHP (דצמבר 2024) אומר \"שני מודלים שהצוות משתמש בהם\". הדף אימץ את המאוחר, בנה עליו את משפט הסיום של הסעיף, ומחק את המוקדם לגמרי — לא בגוף, לא בהערות המקורות, לא ב\"מה שלא נמצא\". כלל 30."
+    },
+    {
+      "id": "M8",
+      "severity": "major",
+      "where": "sections[8] כותרת \"המודל שנכנס לספרות\" + הפסקה הראשונה והשנייה",
+      "page_says": "מה ששרד את השבוע הוא טיעון מקצועי… המאמר של קיימברידג' הוא זה שהופך את המקרה לטיעון.",
+      "source_says": "DMPHP: \"A hybrid model of the field hospital ED was implemented in the Philippines after Typhoon Haiyan in 2013… Reference Merin, Kreiss and Lin 12\" — כלומר: Merin O, Kreiss Y, Lin G, Pras E, Dagan D. Collaboration in Response to Disaster – Typhoon Yolanda and an Integrative Model. N Engl J Med. 2014;370:1183-4. | JOGH: \"This collaborative and integrative model, previously described by Merin et al.\"",
+      "source_url": "https://www.cambridge.org/core/journals/disaster-medicine-and-public-health-preparedness/article/models-of-field-hospital-emergency-departments-the-israeli-experience/7531CFEA680AA0F5EF37C309FF034AF7",
+      "why": "המודל תואר ופורסם ב-NEJM תשע שנים לפני הרעידה בטורקיה, ושני מאמרי הדף מפנים אליו במפורש. קהרמאנמרש היא מופע נוסף, לא כניסה לספרות. זו הצלע החלשה של שער 176 (ראו gate_176), והיא מחלקת הכשל K2 במסווה."
+    },
+    {
+      "id": "m1",
+      "severity": "minor",
+      "where": "sections[4] ו-sections[5], עברית ואנגלית",
+      "page_says": "ד\"ר ריימון מוקלד / Dr. Raymond Mokled",
+      "source_says": "Dr. Raymon Mokalled (ובהמשך הכתבה: Mokallad)",
+      "source_url": "https://www.aa.com.tr/en/environment/doctors-from-israel-continue-treating-earthquake-victims-in-turkiye/2818017",
+      "why": "האיות בדף אינו האיות של המקור, גם אחרי תיקון C1."
+    },
+    {
+      "id": "m2",
+      "severity": "minor",
+      "where": "sections[6] \"השם שנשאר\" + \"הערות מקורות\", פסקת \"מי כתב את המאמרים\"",
+      "page_says": "כך מסר משרד הבריאות הטורקי לסוכנות הידיעות הממלכתית של טורקיה, והוא המקור הבלתי-תלוי היחיד בעניין — כל השאר הם אנשי המשלחת עצמה או דוברות ישראלית",
+      "source_says": "שורת הפסיקה של אותה בדיקת עובדות עצמה: \"İsrail sağlık personellerinin güvenlik gerekçesiyle Kahramanmaraş'ta kurdukları sahra hastanesinden çekildiği iddiası gerçeği yansıtmıyor\" — \"בית החולים השדה שהקימו\". כתובת המאמר עצמה: …israil-saglik-personeli-kurdugu-sahra-hastanesinden… ובאנגלית: \"started his work in the Kahramanmaras Sahra hospital\".",
+      "source_url": "https://www.aa.com.tr/tr/teyithatti/aktuel/israil-saglik-personeli-kurdugu-sahra-hastanesinden-guvenlik-gerekcesiyle-cekildi-iddiasi/1815444",
+      "why": "העובדה עצמה (çadır hastane kurulmadığını) עומדת, אבל הדף מייחס את הישרדות השם לישראלים בלבד; סוכנות הידיעות הממלכתית הטורקית השתמשה בשם בקולה שלה, באותה כתבה."
+    },
+    {
+      "id": "m3",
+      "severity": "minor",
+      "where": "engine_sentence + engine_sentence_en (רכיב B)",
+      "page_says": "כל הטיפול ניתן בתוך המבנה שלו / all of its treatment was given inside that building",
+      "source_says": "sağlık personelinin, bakanlığın belirlediği hastanelerde diğer doktorlar ile birlikte görev yaptığını belirtti — \"בבתי החולים שקבע המשרד\", ברבים, \"יחד עם רופאים אחרים\"",
+      "source_url": "https://www.aa.com.tr/tr/teyithatti/aktuel/israil-saglik-personeli-kurdugu-sahra-hastanesinden-guvenlik-gerekcesiyle-cekildi-iddiasi/1815444",
+      "why": "הדף מתרגם את המשפט נכון בסעיף 02, אך משפט המנוע נוקב בכמת מוחלט (\"כל\") שאף מקור אינו אומר; המקור שהדף מציג כבלתי-תלוי היחיד נוקב ברבים."
+    },
+    {
+      "id": "m4",
+      "severity": "minor",
+      "where": "sections[5] פסקה אחרונה + שדה ripple",
+      "page_says": "מופיעים גם כ-150 ילדים",
+      "source_says": "In one week, 470 patients received treatment, 150 of whom were children",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10450639/",
+      "why": "המקור נוקב במספר מדויק; הדף מוסיף \"כ-\" שאינו בו."
+    },
+    {
+      "id": "m5",
+      "severity": "minor",
+      "where": "שדה recognition (+recognition_en)",
+      "page_says": "גם בסקירה שפרסם המשרד האזורי של ארגון הבריאות העולמי לאירופה… ישראל אינה מוזכרת, ואילו הצוות הטורקי UMKE, UK-Med הבריטי והמשלחת האיטלקית מפיימונטה נקובים בשמם.",
+      "source_says": "To support the Turkish Ministry of Health's response, 39 WHO-approved emergency medical teams (EMTs) were deployed from 22 countries… — ומתוכם הכתבה מביאה שלושה כדוגמאות (UMKE, UK-Med, Piemonte). זו feature story ולא רשימת מוקרים.",
+      "source_url": "https://www.who.int/europe/news-room/feature-stories/item/leading-through-crisis--how-national-and-international-emergency-medical-teams-coordinated-the-response-to-t-rkiye-s-earthquakes",
+      "why": "היעדר מכתבת תדמית שמביאה שלוש דוגמאות מתוך 39 אינו ראיה לאי-הוקרה. גוף הדף מסייג נכון (\"אינה בין הדוגמאות שנבחרו\"); שדה recognition אינו מסייג. אי-הזכרת ישראל בגוף הכתבה נבדקה ואומתה."
+    },
+    {
+      "id": "m6",
+      "severity": "minor",
+      "where": "sections[8] \"המודל שנכנס לספרות\", משפט פותח",
+      "page_says": "על ששת הימים בקהרמאנמרש נכתבו שלושה מאמרים בשלושה כתבי עת בין-לאומיים שפיטים",
+      "source_says": "DMPHP הוא \"Concepts in Disaster Medicine\" בשם \"Models of Field Hospital Emergency Departments: The Israeli Experience\", שטורקיה היא בו דוגמה אחת לצד נפאל והפיליפינים; JOGH הוא viewpoint. רק JEM הוא מאמר על המשימה בטורקיה.",
+      "source_url": "https://www.cambridge.org/core/journals/disaster-medicine-and-public-health-preparedness/article/models-of-field-hospital-emergency-departments-the-israeli-experience/7531CFEA680AA0F5EF37C309FF034AF7",
+      "why": "\"נכתבו שלושה מאמרים על ששת הימים\" מגדיל את נפח הספרות שנכתבה על המעש."
+    }
+  ],
+  "held": [
+    "470 · 152 · 17 · 6 ימים · 10 ניתוחים · 48 מאושפזים · 27 טיפול נמרץ — JEM, מילה-במילה, וההגדרה המלאה נישאת בתווית numbers[0]. זהו המקום שבו הדף הקודם נכשל (\"470 פצועי רעידת אדמה\"), וכאן הוא עומד: https://wmpllc.org/ojs/index.php/jem/article/view/3855",
+    "60 מיטות אשפוז · שש מיטות טיפול נמרץ · חמישה חדרי ניתוח · ארבע מחלקות · 140 איש · 17 טונות · אישור המהנדסים — JOGH, מילה-במילה: https://pmc.ncbi.nlm.nih.gov/articles/PMC10450639/",
+    "142 איש במשלחת הרפואית — JEM: \"a medical delegation of 142 personnel\"",
+    "29 צוותי רפואת חירום מ-22 מדינות · התרעה ברמה 4 · 11 מחוזות — DMPHP",
+    "39 צוותים מ-22 מדינות · UMKE מסווג Type 2 מ-2020 · תרומת בית החולים האיטלקי לטורקיה — WHO/Europe, 17.6.2026, כולל התאריך שהדף נוקב בו",
+    "ישראל אינה מוזכרת בגוף סקירת WHO/Europe — נבדק בכל הטקסט; המופעים היחידים של המילה Israel הם בתפריט המדינות של האתר",
+    "הסיווג Type 3 מ-2016 — נבדק ברשימה הרשמית של ארגון הבריאות העולמי ולא רק במאמר שכתבו חברי הצוות",
+    "\"בית חולים באוהלים לא הוקם\" — çadır hastane kurulmadığını, בטורקית, בהקשרו המלא, כולל הסיבה (şehirlerdeki hastanelerin kullanıma elverişli olması)",
+    "\"עשרה ימים באזור האסון\" — 10 gün süreyle deprem bölgesinde, משרד הבריאות הטורקי",
+    "הודעת שגרירות ישראל — ortak kararıyla (בהחלטה משותפת) ו-kademeli olarak (בהדרגה) נמצאות בטקסט הטורקי בהקשר שהדף מתאר",
+    "בדיקת העובדות של אנדולו — פנתה לשני הצדדים, קבעה gerçeği yansıtmıyor, והצד הישראלי מסר planlanan görev süresinin sona ermesi",
+    "הודעת לשכת הבריאות המחוזית אפיונקרהיסאר מובאת בדף במלואה ובלשונה — הכותרת, היום הראשון, חדרי הניתוח והטיפול הנמרץ, ekiplerimizin sorumluluğunda ומסירת האחריות. הדף לא ניטרל את הגרסה המתחרה; כשלו הוא במסקנה שהוא מסיק ממנה (C2)",
+    "תעודת ההוקרה של ארדואן מיוחסת בדף לזרוע החילוץ ולא למשלחת הרפואית — JNS 26.4.2023: \"presented on Tuesday to the commander of the Israel Defense Forces' National Rescue Unit, Col. (Ret.) Golan Vach\". זהו הפח המרכזי בקו ההתקפה החמישי, והדף לא נפל בו",
+    "ציטוט הכט מ-6.2.2023 — JNS, מילה-במילה, כולל \"Right now, the Turkish government only asked for search and rescue [assistance]\"",
+    "ציטוטי המפתח האחרים — \"more than 250 patients\", \"skeleton staff\", \"the biggest accomplishment was helping rehabilitate the ED\", \"pre-disaster capacity\", \"1-month leave\", הגדרות standalone/hybrid, \"Turkish medical teams came to the hospital in the past two days\" — כולם מילה-במילה במקור",
+    "נוסח הודעת דובר צה\"ל מ-8.2.2023 — משוחזר זהה בשלושה כלים ישראליים, והדף מציין נכון שאלה שלושה צינורות של הודעה אחת ולא שלושה אישושים"
+  ],
+  "not_checked": [
+    {"source": "jpost.com/israel-news/article-731197", "why": "האתר מחזיר 404 לבוטים", "carries": "הציטוט \"abandoned during the earthquake\" בסעיף 05 ומספר הרופאים כ-140"},
+    {"source": "ynet.co.il/news/article/hkyeguwai", "why": "לא נמשך בתקציב", "carries": "15 מטוסים, מאות טונות, כ-230 אנשי צוות (סעיף 03)"},
+    {"source": "marassonhaber.com/necip-fazil-hastanesi-neden-16-aydir-bekliyor", "why": "לא נמשך בתקציב", "carries": "כל סעיף \"מה נשאר בקהרמאנמרש\": המחלקות סגורות ביוני 2024, נפתח ב-2011, בלי התמוטטות"},
+    {"source": "algemeiner.com, 12.2.2023", "why": "לא נמשך בתקציב", "carries": "\"יותר מ-300 בני אדם… בית חולים שדה שהקימה ישראל\" (סעיף 07)"},
+    {"source": "סיכום דובר צה\"ל", "why": "לא נמשך בתקציב", "carries": "\"למעלה מ-470 פצועים ונפגעים\" בשבעה ימים, כ-150 ילדים, כ-50 מטופלי שיניים, \"מאהל בית חולים שדה\" — המקור שממנו נובעים M6 והשאלה הפתוחה על המאהל"}
+  ],
+  "reviewer_did_not_fix": true,
+  "note": "canonical.json לא שונה. audit.adversarial_review נשאר null; מילויו הוא פעולת הכותב. כלל 150."
+}

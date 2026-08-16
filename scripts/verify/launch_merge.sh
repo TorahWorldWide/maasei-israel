@@ -21,7 +21,7 @@ run() {
 - אל תיגע במסד, אל תריץ SQL, אל תעשה git commit.
 - כתוב את קובץ ה-JSON מיד כשסיימת, לפני שאתה כותב סיכום.
 סיים בדיווח קצר (עד 250 מילים)." \
-  --permission-mode bypassPermissions --model claude-sonnet-4-6 \
+  --permission-mode bypassPermissions --model claude-fable-5 \
   > /tmp/merge-logs/${n}_${slug}.log 2>&1
   echo "DONE ${n}_${slug} rc=$?" >> /tmp/merge-logs/status.txt
 }

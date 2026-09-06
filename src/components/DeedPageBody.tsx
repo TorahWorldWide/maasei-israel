@@ -8,7 +8,7 @@ import ShareProof from "@/components/ShareProof";
 import DeedVideoCarousel, { type CarouselVideo } from "@/components/DeedVideoCarousel";
 import DeedImageCollage from "@/components/DeedImageCollage";
 import DeedInfobox from "@/components/DeedInfobox";
-import type { ArticleSection, Entry } from "@/lib/data";
+import type { ArticleSection, Entry, SectionSource } from "@/lib/data";
 import { entryCategories, honorLine, visibleInfoboxRows } from "@/lib/data";
 import { ytId as extractYouTubeId } from "@/lib/youtube";
 import { eraOf, eraDisplay } from "@/lib/era";
@@ -42,6 +42,57 @@ function sideBySide(act?: string, ripple?: string): boolean {
 // deed, in the reading order they chose. The content fields still exist and are
 // still measured; this is the same material shaped for a reader instead of for
 // a form. A section may open without a heading — that is the lead paragraph.
+// The sources layer, laid out so every claim has a door the reader can open:
+// the words being relied on, the live link, and the archived capture beside it.
+// Plain prose cannot do this — a url inside a <p> is not clickable.
+function SourceList({ sources, lang }: { sources: SectionSource[]; lang: "he" | "en" }) {
+  return (
+    <ol className="flex flex-col gap-4">
+      {sources.map((s, i) => (
+        <li
+          key={i}
+          className="bg-[#0f234d]/60 rounded-xl p-4 border border-[rgba(201,168,74,0.15)]"
+        >
+          <p className="text-sm text-blue-50/90 font-medium leading-snug">
+            <span className="text-blue-200/40">{s.n ?? i + 1}. </span>
+            {s.label}
+          </p>
+          {s.quote && (
+            <blockquote className="text-sm text-blue-100/70 italic mt-2">
+              &ldquo;{s.quote}&rdquo;
+            </blockquote>
+          )}
+          <div className="mt-2 flex items-center gap-4 flex-wrap text-xs">
+            {s.url && (
+              <a
+                href={s.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-[#c9a84a] hover:text-[#e6c66e] underline underline-offset-2 decoration-[#c9a84a]/40 transition-colors"
+              >
+                {t(lang, "toSource")}
+              </a>
+            )}
+            {s.archive_url && (
+              <a
+                href={s.archive_url}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-[#c9a84a] hover:text-[#e6c66e] underline underline-offset-2 decoration-[#c9a84a]/40 transition-colors"
+              >
+                {t(lang, "toArchive")}
+              </a>
+            )}
+            {!s.url && (
+              <span className="text-blue-200/40">{t(lang, "noSourceLink")}</span>
+            )}
+          </div>
+        </li>
+      ))}
+    </ol>
+  );
+}
+
 function Article({ sections, lang }: { sections: ArticleSection[]; lang: "he" | "en" }) {
   return (
     <div className="flex flex-col gap-8 mb-8">
@@ -49,23 +100,49 @@ function Article({ sections, lang }: { sections: ArticleSection[]; lang: "he" | 
         const body = pick(lang, section.body, section.body_en);
         if (!body) return null;
         const heading = pick(lang, section.heading, section.heading_en);
+        // A chapter of doubts reads as one only if it looks like one: its own
+        // quiet band and a small label, so the reader can see where the page
+        // stops asserting. Every section written before this rule has no
+        // `kind` and is untouched.
+        const doubts = section.kind === "doubts";
+        const sourceList =
+          section.kind === "sources" && section.sources?.length ? section.sources : null;
         return (
-          <section key={i}>
+          <section
+            key={i}
+            className={
+              doubts
+                ? "bg-[#0b1c3f]/70 border border-[rgba(201,168,74,0.12)] rounded-xl px-5 py-5"
+                : undefined
+            }
+          >
+            {doubts && (
+              <p className="text-[11px] tracking-wider text-blue-200/45 mb-2">
+                {t(lang, "doubtsLabel")}
+              </p>
+            )}
             {heading && (
               <h2
-                className="text-xl md:text-2xl font-bold text-[#e6c66e] mb-3 leading-snug"
+                className={`font-bold text-[#e6c66e] mb-3 leading-snug ${doubts ? "text-lg md:text-xl" : "text-xl md:text-2xl"}`}
                 style={{ fontFamily: "var(--font-frank-ruhl), serif" }}
               >
                 {heading}
               </h2>
             )}
-            <div className="flex flex-col gap-4">
-              {body.split(/\n\s*\n/).filter((p) => p.trim()).map((p, j) => (
-                <p key={j} className="text-base text-blue-100/80 leading-relaxed">
-                  {p}
-                </p>
-              ))}
-            </div>
+            {sourceList ? (
+              <SourceList sources={sourceList} lang={lang} />
+            ) : (
+              <div className="flex flex-col gap-4">
+                {body.split(/\n\s*\n/).filter((p) => p.trim()).map((p, j) => (
+                  <p
+                    key={j}
+                    className={`leading-relaxed ${doubts ? "text-[15px] text-blue-100/70" : "text-base text-blue-100/80"}`}
+                  >
+                    {p}
+                  </p>
+                ))}
+              </div>
+            )}
           </section>
         );
       })}
@@ -234,6 +311,17 @@ export default function DeedPageBody({ entry }: { entry: Entry }) {
               </button>
             </div>
           </div>
+        )}
+
+        {/* The trailer, whole. The one reader who reads only the trailer is the
+            reader the page is written for, so it is never clamped and never
+            hidden behind a button. Pages without their own article keep the
+            layout they were written for, where the description sits inside the
+            chapters below. */}
+        {article && pick(lang, entry.description, entry.description_en) && (
+          <p className="text-lg text-blue-50/90 leading-relaxed mb-8">
+            {pick(lang, entry.description, entry.description_en)}
+          </p>
         )}
 
         {showFull && (

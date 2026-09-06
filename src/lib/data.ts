@@ -58,6 +58,10 @@ export interface InfoboxRow {
   value: string;
   value_en?: string;
   source?: string;
+  // The words at `source` that the value rests on. Written by the converter and
+  // by the bar-natan precedent; not rendered yet, kept so it is not silently
+  // dropped on the way in.
+  source_quote?: string;
 }
 
 export interface Infobox {
@@ -67,11 +71,33 @@ export interface Infobox {
 // Rule 168 — the article as the reader sees it: headings the writer chose for
 // this deed, not the field names. The content fields (origin_story, act,
 // ripple…) stay as they are; this is the same material laid out for reading.
+// One item of the sources layer, as the writer listed it at the foot of the
+// page: what it is, the words it is being relied on for, the live link and the
+// archived capture. Read only by the section whose `kind` is "sources".
+export interface SectionSource {
+  n?: number;
+  label: string;
+  quote?: string;
+  url?: string;
+  archive_url?: string;
+  // The page carried an archive link that is only a timestamp, with no target
+  // url behind it. Kept so it is not lost, never shown as a link.
+  archive_url_truncated?: string;
+  url_is_archive?: boolean;
+  no_archive_declared?: boolean;
+}
+
 export interface ArticleSection {
   heading?: string;
   heading_en?: string;
   body: string;
   body_en?: string;
+  // Optional presentation hint. "doubts" gives the chapter its own quiet band
+  // so a reader can see where the page stops asserting; "sources" turns the
+  // body into the linked source list. A section without one reads as before,
+  // which is what every page written until now has.
+  kind?: "doubts" | "sources";
+  sources?: SectionSource[];
 }
 
 export interface Entry {

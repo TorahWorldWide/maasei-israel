@@ -257,7 +257,10 @@ export default function DeedImageCollage({
               </p>
             )}
             {credit && (
-              <p className="mt-1 text-[10px] sm:text-[11px] text-blue-200/40 line-clamp-1">
+              // Two lines, not one: the credit carries the licence attribution
+              // ("צילום: X, ויקישיתוף, CC BY-SA 3.0"). Clamping it to one line
+              // cut a photographer's name in mid-word on the phone.
+              <p className="mt-1 text-[10px] sm:text-[11px] text-blue-200/40 line-clamp-2">
                 {credit}
               </p>
             )}

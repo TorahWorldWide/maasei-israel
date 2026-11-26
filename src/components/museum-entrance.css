@@ -35,3 +35,8 @@
   .ent { padding-top: 22px; }
   .mfeed-grid { grid-template-columns: 1fr; gap: 20px; }
 }
+
+/* 27.11 slim crown: one line above the cinema */
+.ent.ent-slim { padding: 14px 16px 0; }
+.ent-line { display: flex; flex-wrap: wrap; justify-content: center; align-items: baseline; gap: 4px 10px; margin: 0; font-size: 15px; color: #63554a; }
+.ent-line b { font-weight: 700; color: #6b4426; margin-inline-end: 4px; }

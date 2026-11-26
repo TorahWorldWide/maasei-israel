@@ -260,7 +260,7 @@ export default function Theater({ entries }: TheaterProps) {
       <div className="stage-haze" aria-hidden="true" />
       <div className="stage-vignette" aria-hidden="true" />
 
-      <div className="relative z-10 mx-auto px-0 sm:px-6 pt-6 sm:pt-8 md:pt-9 pb-10">
+      <div className="relative z-10 mx-auto px-0 sm:px-6 pt-3 sm:pt-4 pb-10">
         {/* THE STAGE — title crowns it, the screen is the show, story sits below.
             On wide desktops the poetic spark/light flank the screen in the margins. */}
         <div className="mx-auto xl:grid xl:items-center xl:gap-8 xl:max-w-[1640px] xl:[grid-template-columns:minmax(0,1fr)_auto_minmax(0,1fr)]">
@@ -276,30 +276,7 @@ export default function Theater({ entries }: TheaterProps) {
             )}
           </aside>
 
-        <div className="relative mx-auto" style={{ maxWidth: "min(100vw, 1240px, calc((100vh - 20rem) * 16 / 9))" }}>
-          {/* TITLE — crowning the screen */}
-          <div key={`ttl-${current.id}`} className="panel-rise mb-4 sm:mb-5 px-4 text-center">
-            <div className="flex items-center justify-center gap-x-2.5 gap-y-1 flex-wrap">
-              {(current.href ? [] : entryCategories(current)).map((cat) => (
-                <span
-                  key={cat}
-                  className="text-[11px] px-2.5 py-0.5 rounded-full flex-shrink-0"
-                  style={{ color: GOLD_BRIGHT, background: "rgba(107,68,38,0.12)", border: "1px solid rgba(107,68,38,0.3)" }}
-                >
-                  {categoryLabel(lang, cat)}
-                </span>
-              ))}
-              <h2
-                className="text-lg md:text-3xl font-bold leading-tight"
-                style={{ fontFamily: "var(--font-david), serif", color: "#221b14" }}
-                title={pick(lang, current.title, current.title_en)}
-              >
-                {pick(lang, current.title, current.title_en)}
-              </h2>
-              {current.year && <span className="text-[#63554a] text-xs flex-shrink-0">{current.year}</span>}
-            </div>
-          </div>
-
+        <div className="relative mx-auto" style={{ maxWidth: "min(100vw, 1240px, calc((100vh - 12rem) * 16 / 9))" }}>
           {/* the screen + arrows (arrows centered on the screen itself) */}
           <div className="relative">
             {featured.length > 1 && (
@@ -419,6 +396,29 @@ export default function Theater({ entries }: TheaterProps) {
           key={`desc-${current.id}`}
           className="panel-rise mt-5 sm:mt-6 mx-auto max-w-2xl px-5 text-center"
         >
+          {/* TITLE — 27.11: under the screen, so the video is seen first */}
+          <div key={`ttl-${current.id}`} className="mb-3 text-center">
+            <div className="flex items-center justify-center gap-x-2.5 gap-y-1 flex-wrap">
+              {(current.href ? [] : entryCategories(current)).map((cat) => (
+                <span
+                  key={cat}
+                  className="text-[11px] px-2.5 py-0.5 rounded-full flex-shrink-0"
+                  style={{ color: GOLD_BRIGHT, background: "rgba(107,68,38,0.12)", border: "1px solid rgba(107,68,38,0.3)" }}
+                >
+                  {categoryLabel(lang, cat)}
+                </span>
+              ))}
+              <h2
+                className="text-lg md:text-3xl font-bold leading-tight"
+                style={{ fontFamily: "var(--font-david), serif", color: "#221b14" }}
+                title={pick(lang, current.title, current.title_en)}
+              >
+                {pick(lang, current.title, current.title_en)}
+              </h2>
+              {current.year && <span className="text-[#63554a] text-xs flex-shrink-0">{current.year}</span>}
+            </div>
+          </div>
+
           {current.description && (
             <p className="text-[15px] sm:text-base leading-relaxed text-[#43382c]">
               {pick(lang, current.description, current.description_en)}

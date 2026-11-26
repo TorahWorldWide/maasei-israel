@@ -1,0 +1,1726 @@
+{
+  "schema": "maasei-museum/1",
+  "slug": "sydney-brenner-c-elegans-model",
+  "deed": "סידני ברנר וביסוס הצ׳-אלגנס כאורגניזם מודל",
+  "canonical_type": "idea-that-changed",
+  "year": "1963",
+  "title": "סידני ברנר והפיכת תולעת ה-C. elegans לאורגניזם מודל",
+  "trailer": [
+    {
+      "text": "סידני ברנר היה לפי המכלול ביולוג יהודי-דרום אפריקאי, ואחד משלושת זוכי פרס נובל ברפואה או פיזיולוגיה לשנת 2002.",
+      "claims": [
+        "c2",
+        "c21"
+      ]
+    },
+    {
+      "text": "ברנר סיפר שהתעניין במערכת העצבים ורצה למצוא מערכת ניסויית פשוטה שתראה כיצד נבנים מוחות.",
+      "claims": [
+        "c12"
+      ]
+    },
+    {
+      "text": "לפי Nature ובריטניקה, הוא בחר בתולעת הנמטודה C. elegans, שהיא פשוטה מספיק למחקר מעמיק, שקופה, מתרבה במהירות וזולה לתחזוקה.",
+      "claims": [
+        "c15",
+        "c16"
+      ]
+    },
+    {
+      "text": "לפי Nature, הפיכת התולעת למערכת מודל למחקר מחלות אדם בשנות ה-60 וה-70 פתחה תחום מחקר חדש.",
+      "claims": [
+        "c14"
+      ]
+    },
+    {
+      "text": "ב-2002 חלק ברנר את פרס נובל עם רוברט הורביץ וג'ון סולסטון, שלפי קרן סימונס היו פוסט-דוקטורנטים במעבדתו.",
+      "claims": [
+        "c21",
+        "c20"
+      ]
+    }
+  ],
+  "hero_media": [
+    "m14",
+    "m6",
+    "m4",
+    "m8",
+    "m2",
+    "m9",
+    "m22",
+    "m23",
+    "m28",
+    "m32",
+    "m35"
+  ],
+  "glance": [
+    {
+      "label": "נולד",
+      "value": "גרמיסטון, דרום אפריקה, 1927",
+      "claims": [
+        "c3"
+      ]
+    },
+    {
+      "label": "הרעיון",
+      "value": "C. elegans כמערכת מודל למחקר",
+      "claims": [
+        "c14"
+      ]
+    },
+    {
+      "label": "התולעת",
+      "value": "מילימטר אחד, שקופה, חיה כ-20 ימים",
+      "claims": [
+        "c40"
+      ]
+    },
+    {
+      "label": "המאמר המכונן",
+      "value": "1974, יותר מ-6,000 ציטוטים",
+      "claims": [
+        "c18",
+        "c53"
+      ]
+    },
+    {
+      "label": "הכרה",
+      "value": "פרס נובל ברפואה 2002",
+      "claims": [
+        "c21"
+      ]
+    },
+    {
+      "label": "היום",
+      "value": "לפי Nature, ב-2019 מנה מאגר PubMed כ-15,000 מאמרים שפורסמו בעשור שקדם לכך ושמזכירים את התולעת.",
+      "claims": [
+        "c44"
+      ]
+    }
+  ],
+  "stations": [
+    {
+      "id": "s1",
+      "title": "בן הסנדלר מגרמיסטון",
+      "kind": "story",
+      "paragraphs": [
+        [
+          {
+            "text": "לפי ארכיון ההיסטוריה של דרום אפריקה, סידני ברנר נולד ב-13 בינואר 1927 בגרמיסטון, סמוך ליוהנסבורג, להורים יהודים.",
+            "claims": [
+              "c3"
+            ]
+          },
+          {
+            "text": "ברנר סיפר שאביו הגיע לדרום אפריקה מליטא ב-1910, ואמו הגיעה מלטביה ב-1922.",
+            "claims": [
+              "c1"
+            ]
+          },
+          {
+            "text": "לפי המכלול, האב היגר כדי לחמוק מגיוס לצבא הצאר.",
+            "claims": [
+              "c4"
+            ]
+          }
+        ],
+        [
+          {
+            "text": "ברנר סיפר שאביו היה סנדלר, ושביתם הראשון היה בחדרים בחלקה האחורי של החנות.",
+            "claims": [
+              "c5"
+            ]
+          }
+        ],
+        [
+          {
+            "text": "ברנר סיפר שמועצת העיירה גרמיסטון העניקה לו מלגה של 60 פאונד בשנה, וזו אפשרה לו ללמוד רפואה באוניברסיטת ויטווטרסראנד ביוהנסבורג.",
+            "claims": [
+              "c6"
+            ]
+          },
+          {
+            "text": "לדבריו, בשנה האחרונה ללימודים נכשל ברפואה, בקושי עבר כירורגיה, וקיבל ציון מצטיין במיילדות וגינקולוגיה.",
+            "claims": [
+              "c7"
+            ]
+          }
+        ]
+      ],
+      "media": [
+        "m18",
+        "m5"
+      ],
+      "disagreements": []
+    },
+    {
+      "id": "s2",
+      "title": "אוקספורד, קיימברידג' והקוד הגנטי",
+      "kind": "story",
+      "paragraphs": [
+        [
+          {
+            "text": "ברנר סיפר שבאוקספורד הוא וחבריו היו זרים פי שלושה: מדענים, סטודנטים למחקר וקולוניאלים.",
+            "claims": [
+              "c8"
+            ]
+          },
+          {
+            "text": "לדבריו, ברגע שראה את מודל ה-DNA ושמע על זיווג הבסיסים, הבין שזה המפתח לבעיות שנראו בלתי פתירות בביולוגיה.",
+            "claims": [
+              "c9"
+            ]
+          }
+        ],
+        [
+          {
+            "text": "ברנר סיפר שפרנסיס קריק פעל להשיג לו משרה ביחידה של מועצת המחקר הרפואי בקיימברידג', ובדצמבר 1956 עזב לאנגליה.",
+            "claims": [
+              "c10"
+            ]
+          },
+          {
+            "text": "הוא סיפר שחלק משרד עם קריק במשך 20 שנה, ושמהשיחות ביניהם נולדו רעיונות רבים, נכונים ולא נכונים.",
+            "claims": [
+              "c11"
+            ]
+          },
+          {
+            "text": "קריק כתב שברנר היה טוב ממנו בהמצאת ניסויים חדשים, ושהוא עצמו שימש בעיקר כמבקר ומבהיר.",
+            "claims": [
+              "c51"
+            ]
+          }
+        ],
+        [
+          {
+            "text": "לפי קרן סימונס, הניסוי המפורסם ביותר של ברנר נערך ב-1960 עם פרנסואה ז'קוב במעבדת מזלסון בקלטק, והוכיח את קיומו של mRNA.",
+            "claims": [
+              "c23"
+            ]
+          },
+          {
+            "text": "לפי המכלול, גילוי ה-mRNA זיכה את ברנר בפרס לסקר למחקר רפואי בסיסי לשנת 1971.",
+            "claims": [
+              "c25"
+            ]
+          },
+          {
+            "text": "לפי Asian Scientist, ב-1961 ברנר, קריק ואחרים השתמשו במערכת בקטריופאג' כדי להראות שהקוד הגנטי מורכב משלשות שאינן חופפות.",
+            "claims": [
+              "c24"
+            ]
+          },
+          {
+            "text": "לפי Nature, השלשות האלה של נוקלאוטידים נקראות קודונים.",
+            "claims": [
+              "c22"
+            ]
+          },
+          {
+            "text": "לפי Nature, ב-1964 היה ברנר חבר מייסד של ארגון EMBO.",
+            "claims": [
+              "c52"
+            ]
+          }
+        ]
+      ],
+      "media": [
+        "m6",
+        "m4"
+      ],
+      "disagreements": []
+    },
+    {
+      "id": "s3",
+      "title": "לחפש חיה פשוטה כדי להבין מוח",
+      "kind": "story",
+      "paragraphs": [
+        [
+          {
+            "text": "ברנר סיפר שהתעניין במערכת העצבים ורצה למצוא מערכת ניסויית פשוטה שתראה כיצד נבנים מוחות.",
+            "claims": [
+              "c12"
+            ]
+          },
+          {
+            "text": "לפי קרן סימונס, הוא כתב לפרוץ שהוא רוצה \"לביית\" אורגניזם מטאזואי קטן, כדי לחקור התפתחות ישירות.",
+            "claims": [
+              "c13"
+            ]
+          }
+        ],
+        [
+          {
+            "text": "לפי Nature, הוא בחר בתולעת הנמטודה C. elegans, כי היא מורכבת יותר מאורגניזמים מובנים כמו חיידקים, אבל פשוטה מספיק למחקר מעמיק.",
+            "claims": [
+              "c15"
+            ]
+          },
+          {
+            "text": "לפי הלאופולדינה, ב-1963 תיאר ברנר בבקשה את התולעת כאורגניזם טוב למחקרו.",
+            "claims": [
+              "c47"
+            ]
+          }
+        ]
+      ],
+      "media": [
+        "m15",
+        "m4",
+        "m21",
+        "m24",
+        "m29"
+      ],
+      "disagreements": [
+        "d1"
+      ]
+    },
+    {
+      "id": "s4",
+      "title": "תולעת באורך מילימטר",
+      "kind": "story",
+      "paragraphs": [
+        [
+          {
+            "text": "לפי הלאופולדינה, התולעת באורכה מילימטר אחד, היא שקופה, והיא חיה כ-20 ימים.",
+            "claims": [
+              "c40"
+            ]
+          },
+          {
+            "text": "לפי בריטניקה, השקיפות מאפשרת לעקוב במיקרוסקופ אחר חלוקות התאים, והתולעת מתרבה במהירות וזולה לתחזוקה.",
+            "claims": [
+              "c16"
+            ]
+          }
+        ],
+        [
+          {
+            "text": "לפי קרן סימונס, ב-1974, עשר שנים אחרי תחילת העבודה על התולעת, פרסם ברנר מאמר שתיאר כ-300 מוטנטים.",
+            "claims": [
+              "c18"
+            ]
+          },
+          {
+            "text": "לפי הקרן, זה היה המאמר המשפיע ביותר שלו, ונכון למועד כתיבת הפרופיל, בחייו של ברנר, הוא צבר יותר מ-6,000 ציטוטים.",
+            "claims": [
+              "c53"
+            ]
+          }
+        ],
+        [
+          {
+            "text": "לפי קרן סימונס, מעבדתו של ברנר מיפתה במיקרוסקופ אלקטרונים את חיווט מערכת העצבים של התולעת, והעבודה הובילה ב-1986 למונוגרפיה בת 340 עמודים.",
+            "claims": [
+              "c19"
+            ]
+          }
+        ]
+      ],
+      "media": [
+        "m14",
+        "m8",
+        "m25",
+        "m26",
+        "m27",
+        "m31"
+      ],
+      "disagreements": []
+    },
+    {
+      "id": "s5",
+      "title": "959 תאים, פרס נובל ותחום חדש",
+      "kind": "story",
+      "paragraphs": [
+        [
+          {
+            "text": "לפי קרן סימונס, ג'ון סולסטון ורוברט הורביץ, פוסט-דוקטורנטים במעבדה, עקבו אחר שושלת כל 959 התאים של התולעת הבוגרת ואחר שושלת תאי העובר.",
+            "claims": [
+              "c20",
+              "c21"
+            ]
+          },
+          {
+            "text": "לפי בריטניקה, מוות תאים מתוכנת מסלק בתולעת 131 תאים, ולכן בבוגרת נותרים 959 תאי גוף.",
+            "claims": [
+              "c17"
+            ]
+          }
+        ],
+        [
+          {
+            "text": "לפי Asian Scientist, החוקרים זיהו גנים השולטים במוות תאים מתוכנת בתולעים, ופתחו דרך לחקר ויסותו בבני אדם.",
+            "claims": [
+              "c42"
+            ]
+          },
+          {
+            "text": "לפי הלאופולדינה, הבנת מוות תאים חשובה לרפואה, כי תהליכי אפופטוזה מעורבים במחלות רבות, כולל מחלות לב ומחלות ניווניות.",
+            "claims": [
+              "c41"
+            ]
+          }
+        ],
+        [
+          {
+            "text": "פרס נובל ברפואה או פיזיולוגיה לשנת 2002 הוענק במשותף לברנר, להורביץ ולסולסטון.",
+            "claims": [
+              "c21"
+            ]
+          },
+          {
+            "text": "לפי המכלול, באותה שנה, סמוך לפני פרס נובל, זכה ברנר בפרס דן דוד מטעם אוניברסיטת תל אביב.",
+            "claims": [
+              "c26"
+            ]
+          },
+          {
+            "text": "לפי הלאופולדינה, ב-1987 קיבל ברנר את פרס הארווי של הטכניון, מכון טכנולוגי לישראל.",
+            "claims": [
+              "c27"
+            ]
+          }
+        ],
+        [
+          {
+            "text": "לפי Nature, הפיכת התולעת למערכת מודל למחקר מחלות אדם פתחה תחום מחקר חדש.",
+            "claims": [
+              "c14"
+            ]
+          },
+          {
+            "text": "לפי Nature, בהספד מ-2019 נכתב שמאגר PubMed מונה כ-15,000 מאמרים שפורסמו בעשור שקדם לכך ושמזכירים את התולעת.",
+            "claims": [
+              "c44"
+            ]
+          }
+        ]
+      ],
+      "media": [
+        "m19",
+        "m16",
+        "m7",
+        "m33",
+        "m36",
+        "m37"
+      ],
+      "disagreements": []
+    },
+    {
+      "id": "s6",
+      "title": "סינגפור, הפוגו ומכון חדש",
+      "kind": "story",
+      "paragraphs": [
+        [
+          {
+            "text": "לפי Asian Scientist, בביקור בסינגפור ב-1984 אמר ברנר לראש הממשלה לי קואן יו שאם לא יקימו מוסד מחקר כזה, יישארו אומה של טכנאים.",
+            "claims": [
+              "c28"
+            ]
+          },
+          {
+            "text": "לפי קרן סימונס, בעידודו התמקדה ממשלת סינגפור במחקר ביולוגי בסיסי, פתחה מכון ב-1987 והשלימה את הביופוליס ב-2003.",
+            "claims": [
+              "c30"
+            ]
+          },
+          {
+            "text": "לפי המכלול, הוא הדריך את ממשלת סינגפור בשלבים הראשונים של המחקר הביו-רפואי שלה.",
+            "claims": [
+              "c31"
+            ]
+          },
+          {
+            "text": "לפי Asian Scientist, ב-2003 הוכרז ברנר אזרח כבוד של סינגפור, על תרומתו לשילוב המדינה במפת המחקר הביו-רפואי העולמית.",
+            "claims": [
+              "c29"
+            ]
+          }
+        ],
+        [
+          {
+            "text": "לפי Genome Research, גנום הפוגו רוצף ופורסם ב-2002 בידי קונסורציום בינלאומי שברנר הקים והוביל.",
+            "claims": [
+              "c34"
+            ]
+          },
+          {
+            "text": "לפי Asian Scientist, ברנר כינה את גנום הפוגו \"הגנום המוזל\", משום שהגנום הזה חסך לחוקרים 90 אחוזים מעלות הריצוף.",
+            "claims": [
+              "c33"
+            ]
+          },
+          {
+            "text": "לפי Asian Scientist, ברנר פיתח עם סם אלטר שיטה לריצוף מקבילי של מולקולות DNA על חרוזים מיקרוסקופיים.",
+            "claims": [
+              "c32"
+            ]
+          }
+        ],
+        [
+          {
+            "text": "ברנר סיפר שייסד את המכון למדעים מולקולריים במימון מתנה מחברת פיליפ מוריס.",
+            "claims": [
+              "c45"
+            ]
+          },
+          {
+            "text": "לפי בריטניקה, המכון נמצא בקליפורניה.",
+            "claims": [
+              "c46"
+            ]
+          }
+        ]
+      ],
+      "media": [
+        "m2",
+        "m13"
+      ],
+      "disagreements": [
+        "d2"
+      ]
+    },
+    {
+      "id": "s7",
+      "title": "האיש והאנשים שגידל",
+      "kind": "story",
+      "paragraphs": [
+        [
+          {
+            "text": "ברנר כתב שמדען צריך להישפט לפי איכות האנשים שעזר לגדל, ולא לפי פרסים או כבוד.",
+            "claims": [
+              "c38"
+            ]
+          },
+          {
+            "text": "לפי המכלול, נמטודה קרובה נקראת היום על שמו: Caenorhabditis brenneri.",
+            "claims": [
+              "c43"
+            ]
+          }
+        ],
+        [
+          {
+            "text": "לפי Asian Scientist, ברנר היה נשוי למאי עד מותה ב-2010.",
+            "claims": [
+              "c50"
+            ]
+          },
+          {
+            "text": "לפי Asian Scientist, ברנר מת בסינגפור ב-5 באפריל 2019, בגיל 92.",
+            "claims": [
+              "c39"
+            ]
+          }
+        ]
+      ],
+      "media": [
+        "m4",
+        "m9",
+        "m10",
+        "m11",
+        "m12",
+        "m20"
+      ],
+      "disagreements": [
+        "d3"
+      ]
+    },
+    {
+      "id": "s8",
+      "title": "מה שלא הלך",
+      "kind": "story",
+      "paragraphs": [
+        [
+          {
+            "text": "לפי קרן סימונס, בפרופיל שנכתב בחייו, ברנר ראה במינויו ב-1979 למנהל המעבדה לביולוגיה מולקולרית (LMB) אחת הטעויות הגרועות בחייו.",
+            "claims": [
+              "c37"
+            ]
+          }
+        ],
+        [
+          {
+            "text": "לפי קרן סימונס, מתנגדי גישת הריצוף של אזורים מקודדים טענו שהיא תחמיץ אזורים לא מקודדים השולטים בביטוי גנים.",
+            "claims": [
+              "c35"
+            ]
+          },
+          {
+            "text": "לפי Genome Research, כשנשאל ברנר, בעקבות דיווחים על אלפי אלמנטים מווסתים בגנום האנושי שהתפתחו ככל הנראה מטרנספוזונים, אם הוא עדיין חושב שהגנום האנושי מלא ב\"זבל\", הוא ענה בהומור שהוא שינה את דעתו ועכשיו הוא חושב ש\"רק\" 98% מהגנום האנושי הם \"זבל\".",
+            "claims": [
+              "c36"
+            ]
+          }
+        ]
+      ],
+      "media": [
+        "m17"
+      ],
+      "disagreements": []
+    }
+  ],
+  "disagreements": [
+    {
+      "id": "d1",
+      "question": "מתי ברנר התחיל לעבוד עם התולעת?",
+      "versions": [
+        {
+          "says": "הלאופולדינה: ב-1963 תיאר ברנר בבקשה את התולעת כאורגניזם טוב למחקרו",
+          "claims": [
+            "c47"
+          ]
+        },
+        {
+          "says": "לפי המכלול, ברנר היה הראשון שהשתמש, ב-1965, בתולעת הנימית C. elegans לצורכי מחקר גנטי, נוירוביולוגי וביולוגיה התפתחותית.",
+          "claims": [
+            "c48"
+          ]
+        },
+        {
+          "says": "קרן סימונס: מאמר 1974 פורסם עשר שנים אחרי תחילת העבודה על התולעת",
+          "claims": [
+            "c18"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d2",
+      "question": "באיזו שנה נוסד המכון למדעים מולקולריים?",
+      "versions": [
+        {
+          "says": "ברנר עצמו: ב-1995",
+          "claims": [
+            "c45"
+          ]
+        },
+        {
+          "says": "בריטניקה: ב-1996",
+          "claims": [
+            "c46"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d3",
+      "question": "כמה שנים נמשכו נישואי ברנר?",
+      "versions": [
+        {
+          "says": "המכלול: 57 שנים, עד מות אשתו בינואר 2010",
+          "claims": [
+            "c49"
+          ]
+        },
+        {
+          "says": "Asian Scientist: 58 שנים, עד מותה של מאי ב-2010",
+          "claims": [
+            "c50"
+          ]
+        }
+      ]
+    }
+  ],
+  "unknowns": [
+    {
+      "text": "לפי קרן סימונס, בעידודו של ברנר פתחה ממשלת סינגפור ב-1987 את המכון לביולוגיה מולקולרית ותאית (Institute for Molecular and Cell Biology).",
+      "claims": [
+        "c30"
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "id": "c2",
+      "text": "לפי המכלול, ברנר היה ביולוג יהודי-דרום אפריקאי שעבר לאנגליה בהמשך חייו.",
+      "source": "src1",
+      "quote": "היה ביולוג יהודי-דרום אפריקאי, שעבר לאנגליה בהמשך חייו",
+      "status": "confirmed",
+      "locator": "שורה 13"
+    },
+    {
+      "id": "c21",
+      "text": "פרס נובל ברפואה או פיזיולוגיה לשנת 2002 הוענק במשותף לסידני ברנר, ה' רוברט הורביץ וג'ון סולסטון.",
+      "source": "src2",
+      "quote": "The Nobel Prize in Physiology or Medicine 2002 was awarded jointly to Sydney Brenner, H. Robert Horvitz and John E. Sulston",
+      "status": "confirmed",
+      "locator": "שורה 13"
+    },
+    {
+      "id": "c12",
+      "text": "ברנר סיפר שהתעניין במערכת העצבים ורצה למצוא מערכת ניסויית פשוטה שתראה כיצד נבנים מוחות.",
+      "source": "src3",
+      "quote": "I was far more interested in finding a simple experimental system which might tell me how brains were constructed",
+      "status": "confirmed",
+      "locator": "שורה 14"
+    },
+    {
+      "id": "c15",
+      "text": "לפי Nature, ברנר בחר בתולעת כי היא מורכבת יותר מאורגניזמים מובנים כמו חיידקים, אך פשוטה מספיק למחקר מעמיק.",
+      "source": "src4",
+      "quote": "Brenner chose the worm because it was more complex than other well-understood organisms, such as bacteria, yet still simple enough to study in depth.",
+      "status": "confirmed",
+      "locator": "שורה 4"
+    },
+    {
+      "id": "c16",
+      "text": "לפי אנציקלופדיית בריטניקה, התולעת שקופה, מה שמאפשר לעקוב אחר חלוקות תאים במיקרוסקופ, מתרבה במהירות וזולה לתחזוקה.",
+      "source": "src5",
+      "quote": "Moreover, the animal is transparent, which allows scientists to follow cell divisions under a microscope; it reproduces quickly; and it is inexpensive to maintain.",
+      "status": "confirmed",
+      "locator": "שורה 21"
+    },
+    {
+      "id": "c14",
+      "text": "לפי Nature, אחד מהישגיו הבולטים של ברנר היה הפיכת תולעת הנמטודה C. elegans למערכת מודל למחקר מחלות אדם בשנות ה-60 וה-70, מה שפתח תחום מחקר חדש.",
+      "source": "src4",
+      "quote": "Among Brenner’s most notable achievements was turning the Caenorhabditis elegans nematode worm into a model system for human-disease research in the 1960s and 1970s, which sparked a new field of research.",
+      "status": "confirmed",
+      "locator": "שורה 3"
+    },
+    {
+      "id": "c20",
+      "text": "לפי קרן סימונס, סולסטון והורביץ, פוסט-דוקטורנטים במעבדה, עקבו אחר שושלת כל 959 התאים של התולעת הבוגרת ושל תאי עובר.",
+      "source": "src6",
+      "quote": "Sulston and Robert Horvitz, another postdoctoral fellow in the lab, also traced the lineage of all 959 cells of the adult worm as well as those of embryo cells.",
+      "status": "confirmed",
+      "locator": "שורה 15"
+    },
+    {
+      "id": "c3",
+      "text": "לפי ארכיון ההיסטוריה של דרום אפריקה, ברנר נולד בגרמיסטון, סמוך ליוהנסבורג, להורים יהודים ב-13 בינואר 1927.",
+      "source": "src7",
+      "quote": "Sydney Brenner was born in Germiston, close to Johannesburg, to Jewish parents on 13 January 1927.",
+      "status": "confirmed",
+      "locator": "שורה 2"
+    },
+    {
+      "id": "c40",
+      "text": "לפי הלאופולדינה, התולעת באורך מילימטר אחד, שקופה וחיה כ-20 ימים.",
+      "source": "src8",
+      "quote": "The worm is just one millimetre long, is transparent and has a life expectancy of 20 days.",
+      "status": "confirmed",
+      "locator": "שורה 16"
+    },
+    {
+      "id": "c18",
+      "text": "לפי קרן סימונס, ב-1974, עשר שנים אחרי תחילת העבודה על התולעת, ברנר פרסם מאמר שתיאר כ-300 מוטנטים.",
+      "source": "src6",
+      "quote": "In 1974, 10 years after beginning work on the worm, Brenner published a paper describing some 300 mutants.",
+      "status": "confirmed",
+      "locator": "שורה 13"
+    },
+    {
+      "id": "c53",
+      "text": "לפי קרן סימונס, מאמר 1974 היה המאמר המשפיע ביותר של ברנר, עם יותר מ-6,000 ציטוטים.",
+      "source": "src6",
+      "quote": "This proved to be his most influential paper, having garnered more than 6,000 citations to date.",
+      "status": "confirmed",
+      "locator": "שורה 13"
+    },
+    {
+      "id": "c44",
+      "text": "לפי Nature, מאגר PubMed מונה כ-15,000 מאמרים בעשור האחרון שמזכירים את התולעת.",
+      "source": "src4",
+      "quote": "research database PubMed lists some 15,000 papers published in the past decade that include a reference to the worm",
+      "status": "confirmed",
+      "locator": "שורה 4"
+    },
+    {
+      "id": "c47",
+      "text": "לפי הלאופולדינה, ב-1963 ברנר תיאר בבקשה את התולעת כאורגניזם טוב למחקרו.",
+      "source": "src8",
+      "quote": "In 1963, Brenner described the worm, in an application, as a good organism for his research.",
+      "status": "confirmed",
+      "locator": "שורה 16"
+    },
+    {
+      "id": "c1",
+      "text": "ברנר סיפר שהוריו היו מהגרים יהודים ממזרח אירופה: אביו הגיע לדרום אפריקה מליטא ב-1910 ואמו מלטביה ב-1922.",
+      "source": "src3",
+      "quote": "My parents were Jewish immigrants from Eastern Europe; my father came to South Africa from Lithuania in 1910, my mother, from Latvia, in 1922.",
+      "status": "confirmed",
+      "locator": "שורה 2"
+    },
+    {
+      "id": "c4",
+      "text": "לפי המכלול, אביו של ברנר היגר מליטא ב-1910 כדי לחמוק מגיוס לצבא הצאר.",
+      "source": "src1",
+      "quote": "אביו היגר אליה מליטא ב-1910, כדי לחמוק מגיוס לצבא הצאר",
+      "status": "confirmed",
+      "locator": "שורה 15"
+    },
+    {
+      "id": "c5",
+      "text": "ברנר סיפר שאביו היה סנדלר ושביתם הראשון היה בחדרים בחלקה האחורי של החנות שלו.",
+      "source": "src3",
+      "quote": "My father was a shoe repairer and our first home was in some rooms at the back of his shop.",
+      "status": "confirmed",
+      "locator": "שורה 2"
+    },
+    {
+      "id": "c6",
+      "text": "ברנר סיפר שמועצת העיירה גרמיסטון העניקה לו מלגה של 60 פאונד בשנה שאפשרה לו ללמוד רפואה באוניברסיטת ויטווטרסראנד ביוהנסבורג.",
+      "source": "src3",
+      "quote": "the Town Council of Germiston gave me a bursary of 60 pounds per year that allowed me to go to the University of the Witwatersrand in Johannesburg to study medicine",
+      "status": "confirmed",
+      "locator": "שורה 4"
+    },
+    {
+      "id": "c7",
+      "text": "ברנר סיפר שבשנתו האחרונה ללימודי הרפואה נכשל ברפואה, בקושי עבר כירורגיה, וקיבל ציון מצטיין במיילדות וגינקולוגיה.",
+      "source": "src3",
+      "quote": "In my final year I failed Medicine, scraped through Surgery but got a First Class in the third subject, Obstetrics and Gynecology.",
+      "status": "confirmed",
+      "locator": "שורה 6"
+    },
+    {
+      "id": "c8",
+      "text": "ברנר סיפר שבאוקספורד הוא וחבריו היו זרים פי שלושה: מדענים, סטודנטים למחקר וקולוניאלים.",
+      "source": "src3",
+      "quote": "I and the others were outsiders three times over; we were scientists, we were research students and we were colonials.",
+      "status": "confirmed",
+      "locator": "שורה 7"
+    },
+    {
+      "id": "c9",
+      "text": "ברנר סיפר שברגע שראה את מודל ה-DNA ושמע על זיווג הבסיסים הבין שזה המפתח לבעיות שנראו בלתי פתירות בביולוגיה.",
+      "source": "src3",
+      "quote": "The moment I saw the model and heard about the complementing base pairs I realized that it was the key to understanding all the problems in biology we had found intractable",
+      "status": "confirmed",
+      "locator": "שורה 9"
+    },
+    {
+      "id": "c10",
+      "text": "ברנר סיפר שפרנסיס קריק פעל להשגת משרה עבורו ביחידה של מועצת המחקר הרפואי בקיימברידג', ובדצמבר 1956 עזב לאנגליה.",
+      "source": "src3",
+      "quote": "Francis worked hard to get me an appointment at the Medical Research Council Unit in Cambridge and in December 1956 we left South Africa for a new career in England.",
+      "status": "confirmed",
+      "locator": "שורה 14"
+    },
+    {
+      "id": "c11",
+      "text": "ברנר סיפר שחלק משרד עם קריק במשך 20 שנה ושמשיחותיהם נולדו רעיונות רבים, נכונים ולא נכונים.",
+      "source": "src3",
+      "quote": "I spent 20 years sharing an office with Francis Crick and many new and exciting ideas (both right and wrong) were generated from our conversations.",
+      "status": "confirmed",
+      "locator": "שורה 14"
+    },
+    {
+      "id": "c51",
+      "text": "קריק כתב שברנר היה טוב ממנו בהמצאת ניסויים חדשים, ושהוא עצמו שימש בעיקר כמבקר ומבהיר.",
+      "source": "src6",
+      "quote": "He was much better than I at thinking up novel experiments. My role was more that of a critic and clarifier.",
+      "status": "confirmed",
+      "locator": "שורה 7"
+    },
+    {
+      "id": "c23",
+      "text": "לפי קרן סימונס, הניסוי המפורסם ביותר של ברנר, ב-1960 עם פרנסואה ז'קוב במעבדת מזלסון בקלטק, הוכיח את קיומו של mRNA.",
+      "source": "src6",
+      "quote": "Brenner’s most famous experiment, carried out in 1960 with French biologist François Jacob in Matthew Meselson’s laboratory at the California Institute of Technology, demonstrated the existence of messenger RNA",
+      "status": "confirmed",
+      "locator": "שורה 10"
+    },
+    {
+      "id": "c25",
+      "text": "לפי המכלול, גילוי ה-mRNA זיכה את ברנר בפרס לסקר למחקר רפואי בסיסי לשנת 1971.",
+      "source": "src1",
+      "quote": "תגלית אחרונה זו זיכתה אותו בפרס לסקר למחקר רפואי בסיסי לשנת 1971",
+      "status": "confirmed",
+      "locator": "שורה 29"
+    },
+    {
+      "id": "c24",
+      "text": "לפי Asian Scientist, ב-1961 ברנר, קריק ואחרים השתמשו במערכת בקטריופאג' כדי להראות שהקוד הגנטי מורכב משלשות שאינן חופפות.",
+      "source": "src9",
+      "quote": "In 1961, Brenner, Crick and others used a bacteriophage system to show that the genetic code is composed of non-overlapping triplets.",
+      "status": "confirmed",
+      "locator": "שורה 21"
+    },
+    {
+      "id": "c22",
+      "text": "לפי Nature, ברנר יחד עם קריק ואחרים הראה שהקוד הגנטי בנוי משלשות נוקלאוטידים הנקראות קודונים.",
+      "source": "src4",
+      "quote": "alongside Francis Crick and others, he worked out that the genetic code of DNA is made up of a series of triplets of nucleotides called codons",
+      "status": "confirmed",
+      "locator": "שורה 5"
+    },
+    {
+      "id": "c52",
+      "text": "לפי Nature, ב-1964 ברנר היה חבר מייסד של ארגון EMBO.",
+      "source": "src4",
+      "quote": "In 1964, Brenner became a founding member of the European Molecular Biology Organization",
+      "status": "confirmed",
+      "locator": "שורה 9"
+    },
+    {
+      "id": "c13",
+      "text": "לפי קרן סימונס, ברנר כתב לפרוץ שהוא רוצה 'לביית' אורגניזם מטאזואי קטן כדי לחקור התפתחות ישירות.",
+      "source": "src6",
+      "quote": "like to tame a small metazoan organism to study development directly.",
+      "status": "confirmed",
+      "locator": "שורה 12"
+    },
+    {
+      "id": "c19",
+      "text": "לפי קרן סימונס, מעבדתו של ברנר מיפתה את חיווט מערכת העצבים של התולעת במיקרוסקופ אלקטרונים, מה שהוביל ב-1986 למונוגרפיה בת 340 עמודים.",
+      "source": "src6",
+      "quote": "Brenner’s lab also began mapping the wiring of the worm’s nervous system using electron microscopy, an epic endeavor that led to a 340-page monograph in 1986",
+      "status": "confirmed",
+      "locator": "שורה 15"
+    },
+    {
+      "id": "c17",
+      "text": "לפי בריטניקה, מוות תאים מתוכנת מסלק 131 תאים ב-C. elegans, כך שבבוגרים נותרים 959 תאי גוף.",
+      "source": "src5",
+      "quote": "programmed cell death eliminates 131 cells in C. elegans, so that adults wind up with 959 body cells",
+      "status": "confirmed",
+      "locator": "שורה 21"
+    },
+    {
+      "id": "c42",
+      "text": "לפי Asian Scientist, החוקרים זיהו גנים השולטים במוות תאים מתוכנת בתולעים, ופתחו דרך לחקר ויסותו בבני אדם.",
+      "source": "src9",
+      "quote": "The researchers identified genes that control programmed cell death in worms, laying the ground for studying its regulation in humans.",
+      "status": "confirmed",
+      "locator": "שורה 26"
+    },
+    {
+      "id": "c41",
+      "text": "לפי הלאופולדינה, הבנת מוות תאים חשובה לרפואה כי תהליכי אפופטוזה מעורבים במחלות רבות, כולל מחלות לב ומחלות ניווניות.",
+      "source": "src8",
+      "quote": "Insights into cell death are very important for medicine, because apoptotic processes are involved in many diseases, such as heart disease and neurodegenerative conditions like Alzheimer’s and Parkinson’s diseases.",
+      "status": "confirmed",
+      "locator": "שורה 17"
+    },
+    {
+      "id": "c26",
+      "text": "לפי המכלול, ב-2002, סמוך לפני פרס נובל, ברנר זכה בפרס דן דוד מטעם אוניברסיטת תל אביב.",
+      "source": "src1",
+      "quote": "וב-2002, סמוך לפני הזכייה בפרס נובל זכה בפרס דן דוד במדעי החיים מטעם אוניברסיטת תל אביב",
+      "status": "confirmed",
+      "locator": "שורה 29"
+    },
+    {
+      "id": "c27",
+      "text": "לפי רשימת הלאופולדינה, ברנר קיבל ב-1987 את פרס הארווי של הטכניון – מכון טכנולוגי לישראל.",
+      "source": "src8",
+      "quote": "1987 Harvey Prize, Technion - Israel Institute of Technology",
+      "status": "confirmed",
+      "locator": "שורה 37"
+    },
+    {
+      "id": "c28",
+      "text": "לפי Asian Scientist, בביקור בסינגפור ב-1984 אמר ברנר לראש הממשלה לי קואן יו שאם לא יעשו מוסד מחקר כזה יישארו אומה של טכנאים.",
+      "source": "src9",
+      "quote": "Prime Minister, if you don’t do something like this, you will remain a nation of technicians.",
+      "status": "confirmed",
+      "locator": "שורה 34"
+    },
+    {
+      "id": "c30",
+      "text": "לפי קרן סימונס, בעידודו של ברנר ממשלת סינגפור התמקדה במחקר ביולוגי בסיסי, פתחה מכון ב-1987 והשלימה את הביופוליס ב-2003.",
+      "source": "src6",
+      "quote": "With Brenner’s encouragement, the Singapore government chose to focus on basic biological research, opening the Institute for Molecular and Cell Biology in 1987 and completing Biopolis, a 2.5-million-square-foot research complex, in 2003.",
+      "status": "confirmed",
+      "locator": "שורה 27"
+    },
+    {
+      "id": "c31",
+      "text": "לפי המכלול, ברנר הדריך את ממשלת סינגפור בשלבים הראשונים של המחקר הביו-רפואי שלה.",
+      "source": "src1",
+      "quote": "ברנר היה החוקר שהינחה וכיוון את ממשלת סינגפור בשלבים הראשונים של תחילת המחקר הביו-רפואי שלה",
+      "status": "confirmed",
+      "locator": "שורה 25"
+    },
+    {
+      "id": "c29",
+      "text": "לפי Asian Scientist, ב-2003 ברנר הוכרז אזרח כבוד של סינגפור על תרומתו לשילוב המדינה במפת המחקר הביו-רפואי העולמית.",
+      "source": "src9",
+      "quote": "In 2003, he was made an honorary citizen in recognition of his contributions towards putting Singapore on the biomedical research world map.",
+      "status": "confirmed",
+      "locator": "שורה 35"
+    },
+    {
+      "id": "c34",
+      "text": "לפי Genome Research, גנום הפוגו רוצף ופורסם ב-2002 בידי קונסורציום בינלאומי שהוקם והובל בידי ברנר.",
+      "source": "src10",
+      "quote": "The whole-genome of fugu was sequenced and published in 2002 (Aparicio et al. 2002) by an international consortium assembled and led by Sydney",
+      "status": "confirmed",
+      "locator": "שורה 11"
+    },
+    {
+      "id": "c33",
+      "text": "לפי Asian Scientist, ברנר כינה את גנום הפוגו 'הגנום המוזל' משום שהציע הנחה של 90 אחוזים בעלות הריצוף.",
+      "source": "src9",
+      "quote": "Brenner dubbed it the “discount genome,” as it offered researchers a 90 percent discount on the cost of sequencing.",
+      "status": "confirmed",
+      "locator": "שורה 30"
+    },
+    {
+      "id": "c32",
+      "text": "לפי Asian Scientist, ברנר פיתח עם סם אלטר שיטה לריצוף מקבילי של מולקולות DNA על חרוזים מיקרוסקופיים.",
+      "source": "src9",
+      "quote": "Together with Applied Biosystems founder Sam Eletr, he developed a technique for sequencing large numbers of DNA molecules in parallel by anchoring them to microscopic beads.",
+      "status": "confirmed",
+      "locator": "שורה 31"
+    },
+    {
+      "id": "c45",
+      "text": "ברנר סיפר שב-1995 ייסד את המכון למדעים מולקולריים במימון מתנה מחברת פיליפ מוריס.",
+      "source": "src3",
+      "quote": "In 1995, I founded The Molecular Sciences Institute with a gift from the Philip Morris Company",
+      "status": "confirmed",
+      "locator": "שורה 15"
+    },
+    {
+      "id": "c46",
+      "text": "לפי בריטניקה, ב-1996 ברנר ייסד את המכון למדעים מולקולריים שבקליפורניה.",
+      "source": "src5",
+      "quote": "In 1996 he founded the California-based Molecular Sciences Institute",
+      "status": "confirmed",
+      "locator": "שורה 20"
+    },
+    {
+      "id": "c38",
+      "text": "ברנר כתב שמדען צריך להישפט לפי איכות האנשים שעזר לגדל ולא לפי פרסים או כבוד.",
+      "source": "src3",
+      "quote": "I believe that a scientist should be judged by the quality of the people he has helped to produce and not by prizes or other honours bestowed on him.",
+      "status": "confirmed",
+      "locator": "שורה 16"
+    },
+    {
+      "id": "c43",
+      "text": "לפי המכלול, נמטודה קרובה נקראת היום על שמו של ברנר – Caenorhabditis brenneri.",
+      "source": "src1",
+      "quote": "נמטודה קרובה לנמטודה זו, נקראת כיום על שמו - Caenorhabditis brenneri.",
+      "status": "confirmed",
+      "locator": "שורה 33"
+    },
+    {
+      "id": "c50",
+      "text": "לפי Asian Scientist, ברנר היה נשוי למאי 58 שנים עד מותה ב-2010.",
+      "source": "src9",
+      "quote": "Brenner, who was married to his wife May for 58 years until her death in 2010",
+      "status": "confirmed",
+      "locator": "שורה 43"
+    },
+    {
+      "id": "c39",
+      "text": "לפי Asian Scientist, ברנר מת בסינגפור ב-5 באפריל 2019 בגיל 92.",
+      "source": "src9",
+      "quote": "died on April 5, 2019 in Singapore. He was 92.",
+      "status": "confirmed",
+      "locator": "שורה 9"
+    },
+    {
+      "id": "c37",
+      "text": "לפי קרן סימונס, ברנר רואה במינויו למנהל המעבדה ב-1979 אחת הטעויות הגדולות בחייו.",
+      "source": "src6",
+      "quote": "In 1979, Brenner became director of the LMB, a move he considers one of the worst mistakes of his life.",
+      "status": "confirmed",
+      "locator": "שורה 25"
+    },
+    {
+      "id": "c35",
+      "text": "לפי קרן סימונס, מתנגדי גישת הריצוף של אזורים מקודדים טענו שהיא תחמיץ אזורים לא מקודדים השולטים בביטוי גנים.",
+      "source": "src6",
+      "quote": "Opponents argued this approach would miss noncoding regions that include sequences controlling gene expression.",
+      "status": "confirmed",
+      "locator": "שורה 23"
+    },
+    {
+      "id": "c36",
+      "text": "לפי Genome Research, ברנר ענה בהומור שהוא שינה את דעתו ועכשיו הוא חושב ש-98% מהגנום האנושי הם 'זבל'.",
+      "source": "src10",
+      "quote": "No, I have changed my mind. Now I think that only 98% of the human genome is junk.",
+      "status": "confirmed",
+      "locator": "שורה 13"
+    },
+    {
+      "id": "c48",
+      "text": "לפי המכלול, ברנר היה הראשון שהשתמש ב-1965 בתולעת הנימית הקטנה והשקופה למחקר.",
+      "source": "src1",
+      "quote": "ברנר היה הראשון שהשתמש, ב-1965, בתולעת נימית עגולה, שקופה וקטנה",
+      "status": "confirmed",
+      "locator": "שורה 32"
+    },
+    {
+      "id": "c49",
+      "text": "לפי המכלול, נישואיו של ברנר נמשכו 57 שנים עד מות אשתו בינואר 2010.",
+      "source": "src1",
+      "quote": "נישואין אלה נמשכו חמישים ושבע שנים, עד פטירתה של אשתו בינואר 2010",
+      "status": "confirmed",
+      "locator": "שורה 21"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src1",
+      "label": "המכלול, סידני ברנר",
+      "url": "https://www.hamichlol.org.il/%D7%A1%D7%99%D7%93%D7%A0%D7%99_%D7%91%D7%A8%D7%A0%D7%A8",
+      "kind": "reference"
+    },
+    {
+      "id": "src2",
+      "label": "NobelPrize.org, פרס נובל ברפואה 2002 – סיכום",
+      "url": "https://www.nobelprize.org/prizes/medicine/2002/summary/",
+      "kind": "official"
+    },
+    {
+      "id": "src3",
+      "label": "NobelPrize.org, Sydney Brenner – Biographical, 2002",
+      "url": "https://www.nobelprize.org/prizes/medicine/2002/brenner/biographical/",
+      "kind": "official"
+    },
+    {
+      "id": "src4",
+      "label": "BioEd Online / Nature News, 2019",
+      "url": "https://bioedonline.org/news/nature-news-archive/geneticist-sydney-brenner-who-made-tiny-worm-a-scientific-legend-dies/",
+      "kind": "press"
+    },
+    {
+      "id": "src5",
+      "label": "Encyclopaedia Britannica, Sydney Brenner",
+      "url": "https://www.britannica.com/biography/Sydney-Brenner",
+      "kind": "reference"
+    },
+    {
+      "id": "src6",
+      "label": "Simons Foundation, Science Lives: Sydney Brenner",
+      "url": "https://www.simonsfoundation.org/?p=9492",
+      "kind": "press"
+    },
+    {
+      "id": "src7",
+      "label": "South African History Online, Sydney Brenner",
+      "url": "https://www.sahistory.org.za/people/sydney-brenner",
+      "kind": "reference"
+    },
+    {
+      "id": "src8",
+      "label": "Leopoldina, Sydney Brenner",
+      "url": "https://www.leopoldina.org/en/members/member-list/detail/sydney-brenner",
+      "kind": "organisation"
+    },
+    {
+      "id": "src9",
+      "label": "Asian Scientist, הספד, 2019",
+      "url": "https://www.asianscientist.com/2019/04/topnews/sydney-brenner-nobel-laureate-dies-92-c-elegans-obituary/",
+      "kind": "press"
+    },
+    {
+      "id": "src10",
+      "label": "Genome Research, Sydney Brenner—a personal perspective, 2019",
+      "url": "https://genome.cshlp.org/content/29/6/vii.short",
+      "kind": "press"
+    }
+  ],
+  "media": [
+    {
+      "id": "m2",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wang%20Jian%20showing%20Sydney%20Brenner%20around%20BGI.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Wang_Jian_showing_Sydney_Brenner_around_BGI.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "Scotted400",
+      "licence": "CC BY-SA 4.0",
+      "hosting": "hotlink",
+      "caption": "ברנר בכיסא גלגלים מדבר עם שני גברים ליד קיר תערוכה עם שערי כתבי עת; לפי Commons, בסיור במטה BGI בשנזן, נובמבר 2010.",
+      "illustrates": [],
+      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2010-11-04",
+      "width": 3216,
+      "height": 2136
+    },
+    {
+      "id": "m4",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sydney%20Brenner%20OIST%202008%20%2833208371153%29.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Sydney_Brenner_OIST_2008_%2833208371153%29.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "OIST from Onna Village, Japan",
+      "licence": "CC BY 2.0",
+      "hosting": "hotlink",
+      "caption": "ברנר עומד מול לוח לבן עם מחשב נייד ומדבר; לפי Commons, באוקינאווה בדצמבר 2008.",
+      "illustrates": [],
+      "licence_url": "https://creativecommons.org/licenses/by/2.0",
+      "date": "2008-12-12",
+      "width": 3872,
+      "height": 2592
+    },
+    {
+      "id": "m5",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sydney%20Brenner%20OIST%202008%20%2833208371153%29%20%28cropped%29%20%282%29.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Sydney_Brenner_OIST_2008_%2833208371153%29_%28cropped%29_%282%29.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "OIST from Onna Village, Japan",
+      "licence": "CC BY 2.0",
+      "hosting": "hotlink",
+      "caption": "תקריב של פניו של סידני ברנר בעת דיבור; לפי Commons, באוקינאווה בדצמבר 2008.",
+      "illustrates": [],
+      "licence_url": "https://creativecommons.org/licenses/by/2.0",
+      "date": "2008-12-12",
+      "width": 901,
+      "height": 1169
+    },
+    {
+      "id": "m6",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sydney%20Brenner%20OIST%202008%20%2833635364660%29.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Sydney_Brenner_OIST_2008_%2833635364660%29.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "OIST from Onna Village, Japan",
+      "licence": "CC BY 2.0",
+      "hosting": "hotlink",
+      "caption": "ברנר מרצה מול קהל, ועל הלוח שמאחוריו רשומות נוסחאות וגרף; לפי Commons, באוקינאווה בדצמבר 2008.",
+      "illustrates": [],
+      "licence_url": "https://creativecommons.org/licenses/by/2.0",
+      "date": "2008-12-12",
+      "width": 3872,
+      "height": 2592
+    },
+    {
+      "id": "m7",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sydney%20Brenner%20OIST%202008%20%2833863699182%29.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Sydney_Brenner_OIST_2008_%2833863699182%29.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "OIST from Onna Village, Japan",
+      "licence": "CC BY 2.0",
+      "hosting": "hotlink",
+      "caption": "ברנר מדבר ומחווה בידו בכיתה, כשחלק מהקהל נראה מאחור; לפי Commons, באוקינאווה בדצמבר 2008.",
+      "illustrates": [],
+      "licence_url": "https://creativecommons.org/licenses/by/2.0",
+      "date": "2008-12-12",
+      "width": 3872,
+      "height": 2592
+    },
+    {
+      "id": "m8",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sydney%20Brenner%20OIST%202008%20%2833635369620%29.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Sydney_Brenner_OIST_2008_%2833635369620%29.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "OIST from Onna Village, Japan",
+      "licence": "CC BY 2.0",
+      "hosting": "hotlink",
+      "caption": "ברנר עומד ליד לוח לבן ומדבר אל קהל סטודנטים; לפי Commons, באוקינאווה בדצמבר 2008.",
+      "illustrates": [],
+      "licence_url": "https://creativecommons.org/licenses/by/2.0",
+      "date": "2008-12-12",
+      "width": 3872,
+      "height": 2592
+    },
+    {
+      "id": "m9",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/OIST%20Inauguration%20Ceremony%202011%2C%20Akito%20Arima%2C%20Sydney%20Brenner%2C%20and%20Torsten%20Wiesel%20%2833893830242%29.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:OIST_Inauguration_Ceremony_2011%2C_Akito_Arima%2C_Sydney_Brenner%2C_and_Torsten_Wiesel_%2833893830242%29.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "OIST from Onna Village, Japan",
+      "licence": "CC BY 2.0",
+      "hosting": "hotlink",
+      "caption": "ברנר יושב בקהל באירוע בחוץ, בין אנשים נוספים; לפי Commons, בטקס ההשקה של המכון באוקינאווה ב-2011 עם אקיטו אאימה וטורסטן ויזל.",
+      "illustrates": [],
+      "licence_url": "https://creativecommons.org/licenses/by/2.0",
+      "date": "2011-11-19",
+      "width": 2000,
+      "height": 1328
+    },
+    {
+      "id": "m10",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/OIST%20Inauguration%20Ceremony%202011%2C%20Akito%20Arima%2C%20Sydney%20Brenner%2C%20and%20Torsten%20Wiesel%20%2834010250946%29.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:OIST_Inauguration_Ceremony_2011%2C_Akito_Arima%2C_Sydney_Brenner%2C_and_Torsten_Wiesel_%2834010250946%29.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "OIST from Onna Village, Japan",
+      "licence": "CC BY 2.0",
+      "hosting": "hotlink",
+      "caption": "ברנר מחייך קלות בין אנשים היושבים בטקס בחוץ; לפי Commons, טקס ההשקה של המכון באוקינאווה ב-2011.",
+      "illustrates": [],
+      "licence_url": "https://creativecommons.org/licenses/by/2.0",
+      "date": "2011-11-19",
+      "width": 2000,
+      "height": 1328
+    },
+    {
+      "id": "m11",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Brenner%20Symposium%20%2833921446571%29.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Brenner_Symposium_%2833921446571%29.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "OIST from Onna Village, Japan",
+      "licence": "CC BY 2.0",
+      "hosting": "hotlink",
+      "caption": "ברנר מחזיק מיקרופון ומדבר ליד שלט של המכון; לפי Commons, בסימפוזיון באוקינאווה ב-2011.",
+      "illustrates": [],
+      "licence_url": "https://creativecommons.org/licenses/by/2.0",
+      "date": "2011-11-19",
+      "width": 4288,
+      "height": 2848
+    },
+    {
+      "id": "m12",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Brenner%20Symposium%20%2833921444151%29.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Brenner_Symposium_%2833921444151%29.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "OIST from Onna Village, Japan",
+      "licence": "CC BY 2.0",
+      "hosting": "hotlink",
+      "caption": "ברנר עם מיקרופון בידו ליד שלט של המכון; לפי Commons, בסימפוזיון באוקינאווה ב-2011.",
+      "illustrates": [],
+      "licence_url": "https://creativecommons.org/licenses/by/2.0",
+      "date": "2011-11-19",
+      "width": 4288,
+      "height": 2848
+    },
+    {
+      "id": "m13",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Prime%20Minister%20of%20Japan%20Taro%20Aso%20%2833178352854%29.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Prime_Minister_of_Japan_Taro_Aso_%2833178352854%29.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "OIST from Onna Village, Japan",
+      "licence": "CC BY 2.0",
+      "hosting": "hotlink",
+      "caption": "צילום קבוצתי של ברנר עם מקל הליכה, עומד בין אנשים בחדר; לפי Commons, בפגישה עם ראש ממשלת יפן טארו אאסו.",
+      "illustrates": [],
+      "licence_url": "https://creativecommons.org/licenses/by/2.0",
+      "date": "2009-03-07",
+      "width": 4288,
+      "height": 2848
+    },
+    {
+      "id": "m14",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Varbuss.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Varbuss.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "Heiti Paves",
+      "licence": "CC BY-SA 3.0",
+      "hosting": "hotlink",
+      "caption": "תולעי C. elegans חיות במיקרוסקופ, עם נוירונים זוהרים בירוק.",
+      "illustrates": [
+        "c16"
+      ],
+      "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "date": "2010-09-28",
+      "width": 3075,
+      "height": 2031
+    },
+    {
+      "id": "m15",
+      "kind": "video",
+      "url": "https://www.youtube.com/watch?v=eFsobd3zY9s",
+      "youtube_id": "eFsobd3zY9s",
+      "source_page": "https://www.youtube.com/watch?v=eFsobd3zY9s",
+      "source_name": "YouTube",
+      "credit": "Simons Foundation",
+      "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+      "licence_url": "https://www.youtube.com/static?template=terms",
+      "hosting": "embed",
+      "caption": "ריאיון של קרן סימונס עם ברנר, שבו הוא מדבר על העבודה עם התולעת C. elegans.",
+      "illustrates": [
+        "c12",
+        "c13"
+      ],
+      "spoken": "en",
+      "audio_tracks": [
+        "en"
+      ]
+    },
+    {
+      "id": "m16",
+      "kind": "video",
+      "url": "https://www.youtube.com/watch?v=E5ueJJUJh7Q",
+      "youtube_id": "E5ueJJUJh7Q",
+      "source_page": "https://www.youtube.com/watch?v=E5ueJJUJh7Q",
+      "source_name": "YouTube",
+      "credit": "Web of Stories - Life Stories of Remarkable People",
+      "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+      "licence_url": "https://www.youtube.com/static?template=terms",
+      "hosting": "embed",
+      "caption": "ברנר מספר ב-Web of Stories על הקשר בין פרויקט הגנום האנושי לבין C. elegans.",
+      "illustrates": []
+    },
+    {
+      "id": "m17",
+      "kind": "video",
+      "url": "https://www.youtube.com/watch?v=k4jkg9ygHeI",
+      "youtube_id": "k4jkg9ygHeI",
+      "source_page": "https://www.youtube.com/watch?v=k4jkg9ygHeI",
+      "source_name": "YouTube",
+      "credit": "Web of Stories - Life Stories of Remarkable People",
+      "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+      "licence_url": "https://www.youtube.com/static?template=terms",
+      "hosting": "embed",
+      "caption": "ברנר מספר ב-Web of Stories על התפטרותו מניהול המעבדה ועל חזרתו להתעניין במערכת העצבים.",
+      "illustrates": [
+        "c12",
+        "c37"
+      ]
+    },
+    {
+      "id": "m18",
+      "kind": "video",
+      "url": "https://www.youtube.com/watch?v=0a9jiz78ALg",
+      "youtube_id": "0a9jiz78ALg",
+      "source_page": "https://www.youtube.com/watch?v=0a9jiz78ALg",
+      "source_name": "YouTube",
+      "credit": "כאן חינוכית",
+      "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+      "licence_url": "https://www.youtube.com/static?template=terms",
+      "hosting": "embed",
+      "caption": "ריאיון של כאן חינוכית עם ברנר בביתו באנגליה, על אביו, על תולעים ועל חשיבות ההומור.",
+      "illustrates": [],
+      "spoken": "en",
+      "audio_tracks": [
+        "en"
+      ]
+    },
+    {
+      "id": "m19",
+      "kind": "video",
+      "url": "https://www.youtube.com/watch?v=GQkb8_2SB5I",
+      "youtube_id": "GQkb8_2SB5I",
+      "source_page": "https://www.youtube.com/watch?v=GQkb8_2SB5I",
+      "source_name": "YouTube",
+      "credit": "Medicine & Health",
+      "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+      "licence_url": "https://www.youtube.com/static?template=terms",
+      "hosting": "embed",
+      "caption": "סרטון על דרכה של C. elegans אל פרס נובל, מעבודתם החלוצית של ברנר וחבריו.",
+      "illustrates": [
+        "c14",
+        "c21"
+      ],
+      "spoken": "en",
+      "audio_tracks": [
+        "en"
+      ]
+    },
+    {
+      "id": "m20",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Winter%20Course%20%2833635368590%29.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Winter_Course_%2833635368590%29.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "OIST from Onna Village, Japan",
+      "licence": "CC BY 2.0",
+      "hosting": "hotlink",
+      "caption": "סידני ברנר מרצה בפני קהל באולם הרצאות במכון למדע וטכנולוגיה באוקינאווה, דצמבר 2008.",
+      "illustrates": [],
+      "licence_url": "https://creativecommons.org/licenses/by/2.0",
+      "date": "Taken on 1",
+      "width": 3872,
+      "height": 2592,
+      "role": "deed"
+    },
+    {
+      "id": "m21",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/%27%27Caenorhabditis%20elegans%27%27%20intestine%20infected%20with%20%27%27Bacillus%20thuringiensis%27%27.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:%27%27Caenorhabditis_elegans%27%27_intestine_infected_with_%27%27Bacillus_thuringiensis%27%27.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "Joe Lange, Schulenburg Lab",
+      "licence": "CC BY-SA 4.0",
+      "hosting": "hotlink",
+      "caption": "צילום מיקרוסקופ אלקטרונים של מעי תולעת C. elegans שנדבקה בחיידק Bacillus thuringiensis.",
+      "illustrates": [],
+      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2012-08",
+      "width": 1754,
+      "height": 1275,
+      "role": "deed"
+    },
+    {
+      "id": "m22",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/2007%20May.tif?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:2007_May.tif",
+      "source_name": "Wikimedia Commons",
+      "credit": "Ploscompbiol",
+      "licence": "CC BY-SA 4.0",
+      "hosting": "hotlink",
+      "caption": "תולעת C. elegans במיקרוסקופ, עם גרעיני תאים זוהרים בצהוב ובכחול.",
+      "illustrates": [],
+      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2014-08-01",
+      "width": 615,
+      "height": 615,
+      "role": "deed"
+    },
+    {
+      "id": "m23",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Adult%20Caenorhabditis%20elegans.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Adult_Caenorhabditis_elegans.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "The original uploader was Kbradnam at English Wikipedia. (Original text: Zeynep F. Altun, Editor of www.wormatlas.org)",
+      "licence": "CC BY-SA 2.5",
+      "hosting": "hotlink",
+      "caption": "תולעת C. elegans בוגרת במיקרוסקופ, גופה שקוף.",
+      "illustrates": [],
+      "licence_url": "https://creativecommons.org/licenses/by-sa/2.5",
+      "date": "6 Septembe",
+      "width": 6424,
+      "height": 2113,
+      "role": "deed"
+    },
+    {
+      "id": "m24",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Archives%20de%20zoologie%20exp%C3%A9rimentale%20et%20g%C3%A9n%C3%A9rale%20%281900%29%20%2820139214309%29.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Archives_de_zoologie_exp%C3%A9rimentale_et_g%C3%A9n%C3%A9rale_%281900%29_%2820139214309%29.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "Centre national de la recherche scientifique (France); Lacaze-Duthiers, Henri de, 1821-1901",
+      "licence": "No restrictions",
+      "hosting": "hotlink",
+      "caption": "איור אנטומי של נמטודה מתוך כתב עת זואולוגי משנת 1900.",
+      "illustrates": [],
+      "licence_url": "https://www.flickr.com/commons/usage/",
+      "date": "1900",
+      "width": 1862,
+      "height": 2964,
+      "role": "related"
+    },
+    {
+      "id": "m25",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/C.%20elegans%20we%20looked%20in%20class.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:C._elegans_we_looked_in_class.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "Cannedfoods",
+      "licence": "CC BY 4.0",
+      "hosting": "hotlink",
+      "caption": "תולעי C. elegans בשדה ראייה עגול של מיקרוסקופ.",
+      "illustrates": [],
+      "licence_url": "https://creativecommons.org/licenses/by/4.0",
+      "date": "2019-10-07",
+      "width": 3024,
+      "height": 4032,
+      "role": "deed"
+    },
+    {
+      "id": "m26",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/C.%20elegans%2C%20model%20organism%20in%20life%20sciences%20%2828703152561%29.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:C._elegans%2C_model_organism_in_life_sciences_%2828703152561%29.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "ZEISS Microscopy from Germany",
+      "licence": "CC BY 2.0",
+      "hosting": "hotlink",
+      "caption": "תולעי C. elegans על צלחת גידול, בצילום דרך מיקרוסקופ סטריאו.",
+      "illustrates": [],
+      "licence_url": "https://creativecommons.org/licenses/by/2.0",
+      "date": "2016-08-05",
+      "width": 2560,
+      "height": 1920,
+      "role": "deed"
+    },
+    {
+      "id": "m27",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/C.%20elegns%20DIC%20l.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:C._elegns_DIC_l.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "kdfj",
+      "licence": "CC BY-SA 3.0",
+      "hosting": "hotlink",
+      "caption": "שלוש תולעי C. elegans שקופות במיקרוסקופ, עם ביצים סמוך לאחת מהן.",
+      "illustrates": [],
+      "licence_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "date": "2004-02-02",
+      "width": 1392,
+      "height": 1040,
+      "role": "deed"
+    },
+    {
+      "id": "m28",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Caenorhabditis%20elegans%20Oil-Red-o.tif?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Caenorhabditis_elegans_Oil-Red-o.tif",
+      "source_name": "Wikimedia Commons",
+      "credit": "Tormikotkas",
+      "licence": "CC BY-SA 3.0",
+      "hosting": "hotlink",
+      "caption": "תולעת C. elegans שקופה, שמאגרי השומן בה נצבעו באדום.",
+      "illustrates": [],
+      "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "date": "2012-05-29",
+      "width": 2040,
+      "height": 1536,
+      "role": "deed"
+    },
+    {
+      "id": "m29",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Caenorhabditis%20elegans%20under%20a%20light%20microscope%2001.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Caenorhabditis_elegans_under_a_light_microscope_01.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "Gannu03",
+      "licence": "CC BY-SA 4.0",
+      "hosting": "hotlink",
+      "caption": "תולעי C. elegans על צלחת גידול, בשדה ראייה עגול של מיקרוסקופ.",
+      "illustrates": [],
+      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2025-08-21",
+      "width": 2252,
+      "height": 4000,
+      "role": "deed"
+    },
+    {
+      "id": "m31",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fluorescence%20microscopic%20nematode.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Fluorescence_microscopic_nematode.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "Dineshbabudb",
+      "licence": "CC BY-SA 4.0",
+      "hosting": "hotlink",
+      "caption": "תולעת C. elegans מסולסלת הזוהרת בירוק במיקרוסקופ פלואורסצנציה.",
+      "illustrates": [],
+      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2021-04-02",
+      "width": 5472,
+      "height": 3648,
+      "role": "deed"
+    },
+    {
+      "id": "m32",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Varbussid.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Varbussid.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "Heiti Paves",
+      "licence": "CC BY-SA 4.0",
+      "hosting": "hotlink",
+      "caption": "תולעי C. elegans בשלבי התפתחות שונים, ובשלושה מהנוירונים שלהן סמן ירוק זוהר.",
+      "illustrates": [],
+      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2007",
+      "width": 2316,
+      "height": 1650,
+      "role": "deed"
+    },
+    {
+      "id": "m33",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/John%20Sulston%20%282008%29.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:John_Sulston_%282008%29.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "Arienette22",
+      "licence": "CC BY-SA 3.0",
+      "hosting": "hotlink",
+      "caption": "דיוקן של ג'ון סאלסטון, זקן לבן ומשקפיים, מחייך קלות.",
+      "illustrates": [],
+      "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "date": "2008-07-05",
+      "width": 1097,
+      "height": 1652,
+      "role": "deed"
+    },
+    {
+      "id": "m35",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/John%20Sulston%20copy.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:John_Sulston_copy.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "Jane Gitschier",
+      "licence": "CC BY 2.5",
+      "hosting": "hotlink",
+      "caption": "סר ג'ון סאלסטון נשען על מעקה במרפסת, ברקע עצים ואגם.",
+      "illustrates": [],
+      "licence_url": "https://creativecommons.org/licenses/by/2.5",
+      "date": "2006",
+      "width": 1247,
+      "height": 1662,
+      "role": "deed"
+    },
+    {
+      "id": "m36",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/John%20Sulston.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:John_Sulston.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "PLoS",
+      "licence": "CC BY 3.0",
+      "hosting": "hotlink",
+      "caption": "ג'ון סאלסטון מחייך, יושב ליד שולחן עם ניירות.",
+      "illustrates": [],
+      "licence_url": "https://creativecommons.org/licenses/by/3.0",
+      "date": "Unknown da",
+      "width": 1102,
+      "height": 1083,
+      "role": "deed"
+    },
+    {
+      "id": "m37",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sulston%2C%20John%20Edward%20%281942%29.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Sulston%2C_John_Edward_%281942%29.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "John Wilbanks",
+      "licence": "CC BY-SA 2.0",
+      "hosting": "hotlink",
+      "caption": "ג'ון סאלסטון עומד ליד קיר עץ, עם תג שם על החזה.",
+      "illustrates": [],
+      "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "date": "2005-09-01",
+      "width": 1230,
+      "height": 1542,
+      "role": "deed"
+    }
+  ],
+  "check": {
+    "passed": true,
+    "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
+    "checked_at": "2026-11-14T07:26:08Z",
+    "counts": {
+      "confirmed": 70,
+      "not_confirmed": 0,
+      "deleted_sentences": 1,
+      "first_round_confirmed": 68,
+      "first_round_contradicted": 2,
+      "first_round_unverifiable": 2
+    },
+    "note": "unverifiable sentences were deleted, contradicted ones fixed from the source and checked again"
+  },
+  "meta": {
+    "run": "sydney-brenner-c-elegans-model",
+    "pipeline": "scripts/museum/museum_line.py",
+    "models": {
+      "research": "sonnet-5-5",
+      "extract": "sonnet-5-5",
+      "media": "sonnet-5-5",
+      "write": "opus-5-5 medium",
+      "check": "opus-5-5 medium",
+      "fix": "opus-5-5 medium"
+    },
+    "source_quality": {
+      "sources": 10,
+      "wikipedia": 0,
+      "strong": 6,
+      "ok": true,
+      "warnings": []
+    },
+    "media_dedupe": [
+      {
+        "drop": "m1",
+        "keep": "m4",
+        "by": "reviewed 24.11"
+      },
+      {
+        "drop": "m3",
+        "keep": "m1",
+        "by": "reviewed 24.11"
+      }
+    ]
+  }
+}

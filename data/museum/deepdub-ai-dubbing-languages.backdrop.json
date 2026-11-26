@@ -1,0 +1,56 @@
+{
+ "schema": "maasei-backdrop/1",
+ "slug": "deepdub-ai-dubbing-languages",
+ "media": "m28",
+ "img": "https://commons.wikimedia.org/wiki/Special:FilePath/%D7%90%D7%95%D7%9C%D7%A4%D7%9F%20%D7%94%D7%94%D7%A7%D7%9C%D7%98%D7%95%D7%AA%20%D7%A9%D7%9C%20%D7%94%D7%91%D7%9E%D7%90%D7%99%D7%9D%20%D7%95%D7%94%D7%9E%D7%A4%D7%99%D7%A7%D7%99%D7%9D%202017.jpg?width=1920",
+ "img_small": "https://commons.wikimedia.org/wiki/Special:FilePath/%D7%90%D7%95%D7%9C%D7%A4%D7%9F%20%D7%94%D7%94%D7%A7%D7%9C%D7%98%D7%95%D7%AA%20%D7%A9%D7%9C%20%D7%94%D7%91%D7%9E%D7%90%D7%99%D7%9D%20%D7%95%D7%94%D7%9E%D7%A4%D7%99%D7%A7%D7%99%D7%9D%202017.jpg?width=1080",
+ "why": "A wide view of a dubbing studio's control room, with its mixer, screens and speakers in front of the glass window into the recording booth, shows the slow, equipment-heavy studio world that Deepdub's AI dubbing sets out to speed up.",
+ "chosen_by": "opus picker",
+ "alternates": [
+  "m22"
+ ],
+ "from": {
+  "average": "#695351",
+  "picked": "#79513c",
+  "coloured_share": 0.422,
+  "lightness": 0.36
+ },
+ "palette": {
+  "paper": "#f4ede9",
+  "surface": "#faf7f6",
+  "band": "#ecded7",
+  "tint": "#ead7cc",
+  "header": "#efe4df",
+  "rule": "#d5bcaf",
+  "text": "#2a1e18",
+  "text2": "#4c3c33",
+  "accent": "#784c36",
+  "meta": "#68584f",
+  "tone": "#231b1b",
+  "shadow": "33, 23, 18"
+ },
+ "checks": {
+  "text_on_paper": 13.98,
+  "text_on_surface": 15.18,
+  "text_on_band": 12.33,
+  "text_on_tint": 11.63,
+  "text_on_header": 12.97,
+  "text2_on_paper": 9.06,
+  "text2_on_surface": 9.84,
+  "text2_on_band": 7.99,
+  "text2_on_tint": 7.54,
+  "text2_on_header": 8.41,
+  "accent_on_paper": 6.29,
+  "accent_on_surface": 6.83,
+  "accent_on_band": 5.54,
+  "accent_on_tint": 5.23,
+  "accent_on_header": 5.83,
+  "meta_on_paper": 5.86,
+  "meta_on_surface": 6.36,
+  "meta_on_band": 5.16,
+  "meta_on_tint": 4.87,
+  "meta_on_header": 5.43,
+  "paper_on_accent": 6.29
+ },
+ "passed": true
+}

@@ -1,0 +1,56 @@
+{
+ "schema": "maasei-backdrop/1",
+ "slug": "ruth-handler-nearly-me",
+ "media": "m19",
+ "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Leksaks%20och%20samlarmuseet%2C%20Fisks%C3%A4tra%2C%202018a.jpg?width=1920",
+ "img_small": "https://commons.wikimedia.org/wiki/Special:FilePath/Leksaks%20och%20samlarmuseet%2C%20Fisks%C3%A4tra%2C%202018a.jpg?width=1080",
+ "why": "A warm, detailed museum case of early Barbie and Ken dolls with their original boxes and pool, showing the Mattel toy world Ruth Handler built before Nearly Me; it has depth and texture and stays readable when darkened, though none of the photos shows the prosthesis work itself.",
+ "chosen_by": "opus picker",
+ "alternates": [
+  "m12"
+ ],
+ "from": {
+  "average": "#8e683e",
+  "picked": "#8a662d",
+  "coloured_share": 0.858,
+  "lightness": 0.398
+ },
+ "palette": {
+  "paper": "#f4f0e9",
+  "surface": "#faf8f6",
+  "band": "#ece4d7",
+  "tint": "#eadfcc",
+  "header": "#efe9df",
+  "rule": "#d5c6af",
+  "text": "#2a2318",
+  "text2": "#4c4333",
+  "accent": "#775827",
+  "meta": "#655c4c",
+  "tone": "#291f14",
+  "shadow": "33, 27, 18"
+ },
+ "checks": {
+  "text_on_paper": 13.67,
+  "text_on_surface": 14.66,
+  "text_on_band": 12.31,
+  "text_on_tint": 11.78,
+  "text_on_header": 12.86,
+  "text2_on_paper": 8.57,
+  "text2_on_surface": 9.19,
+  "text2_on_band": 7.71,
+  "text2_on_tint": 7.38,
+  "text2_on_header": 8.06,
+  "accent_on_paper": 5.76,
+  "accent_on_surface": 6.18,
+  "accent_on_band": 5.19,
+  "accent_on_tint": 4.96,
+  "accent_on_header": 5.42,
+  "meta_on_paper": 5.8,
+  "meta_on_surface": 6.22,
+  "meta_on_band": 5.22,
+  "meta_on_tint": 4.99,
+  "meta_on_header": 5.45,
+  "paper_on_accent": 5.76
+ },
+ "passed": true
+}

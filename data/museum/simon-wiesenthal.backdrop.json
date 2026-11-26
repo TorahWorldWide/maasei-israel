@@ -1,0 +1,56 @@
+{
+ "schema": "maasei-backdrop/1",
+ "slug": "simon-wiesenthal",
+ "media": "m40",
+ "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Replica%20of%20the%20Simon%20Wiesenthal%27s%20office%20in%20Vienna%2C%20Museum%20of%20Tolerance.jpg?width=1920",
+ "img_small": "https://commons.wikimedia.org/wiki/Special:FilePath/Replica%20of%20the%20Simon%20Wiesenthal%27s%20office%20in%20Vienna%2C%20Museum%20of%20Tolerance.jpg?width=1080",
+ "why": "The recreated Vienna office, with full bookshelves, a desk under piles of papers and files, and certificates on the wall, is a deep, textured room that shows where the evidence work was done.",
+ "chosen_by": "opus picker",
+ "alternates": [
+  "m10"
+ ],
+ "from": {
+  "average": "#534434",
+  "picked": "#706149",
+  "coloured_share": 0.506,
+  "lightness": 0.265
+ },
+ "palette": {
+  "paper": "#f4f0e9",
+  "surface": "#faf8f6",
+  "band": "#ece4d7",
+  "tint": "#eadfcc",
+  "header": "#efe9df",
+  "rule": "#d5c6af",
+  "text": "#2a2318",
+  "text2": "#4c4333",
+  "accent": "#745b34",
+  "meta": "#655c4c",
+  "tone": "#261f18",
+  "shadow": "33, 27, 18"
+ },
+ "checks": {
+  "text_on_paper": 13.67,
+  "text_on_surface": 14.66,
+  "text_on_band": 12.31,
+  "text_on_tint": 11.78,
+  "text_on_header": 12.86,
+  "text2_on_paper": 8.57,
+  "text2_on_surface": 9.19,
+  "text2_on_band": 7.71,
+  "text2_on_tint": 7.38,
+  "text2_on_header": 8.06,
+  "accent_on_paper": 5.62,
+  "accent_on_surface": 6.03,
+  "accent_on_band": 5.06,
+  "accent_on_tint": 4.84,
+  "accent_on_header": 5.29,
+  "meta_on_paper": 5.8,
+  "meta_on_surface": 6.22,
+  "meta_on_band": 5.22,
+  "meta_on_tint": 4.99,
+  "meta_on_header": 5.45,
+  "paper_on_accent": 5.62
+ },
+ "passed": true
+}

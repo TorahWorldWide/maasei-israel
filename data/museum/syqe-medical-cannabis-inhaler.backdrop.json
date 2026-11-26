@@ -1,0 +1,56 @@
+{
+ "schema": "maasei-backdrop/1",
+ "slug": "syqe-medical-cannabis-inhaler",
+ "media": "m8",
+ "img": "https://commons.wikimedia.org/wiki/Special:FilePath/2nd%20Lebanese%20War%2C%20Rambam%20hospital%27s%20patients%20relocated%20to%20hspital%20shelter.jpg?width=1920",
+ "img_small": "https://commons.wikimedia.org/wiki/Special:FilePath/2nd%20Lebanese%20War%2C%20Rambam%20hospital%27s%20patients%20relocated%20to%20hspital%20shelter.jpg?width=1080",
+ "why": "A deep, detailed view of a crowded Rambam inpatient ward full of patients, beds and drips: the hospital where the inhaler was tested and where patients in pain are cared for. It is from the 2006 war, not the trial.",
+ "chosen_by": "opus picker",
+ "alternates": [
+  "m13"
+ ],
+ "from": {
+  "average": "#70695d",
+  "picked": "#77633f",
+  "coloured_share": 0.282,
+  "lightness": 0.4
+ },
+ "palette": {
+  "paper": "#f4f0e9",
+  "surface": "#faf8f6",
+  "band": "#ece5d7",
+  "tint": "#eae0cc",
+  "header": "#efe9df",
+  "rule": "#d5c7af",
+  "text": "#2a2418",
+  "text2": "#4c4333",
+  "accent": "#715a33",
+  "meta": "#655d4c",
+  "tone": "#22201b",
+  "shadow": "33, 28, 18"
+ },
+ "checks": {
+  "text_on_paper": 13.55,
+  "text_on_surface": 14.53,
+  "text_on_band": 12.28,
+  "text_on_tint": 11.75,
+  "text_on_header": 12.75,
+  "text2_on_paper": 8.57,
+  "text2_on_surface": 9.19,
+  "text2_on_band": 7.76,
+  "text2_on_tint": 7.43,
+  "text2_on_header": 8.06,
+  "accent_on_paper": 5.75,
+  "accent_on_surface": 6.17,
+  "accent_on_band": 5.22,
+  "accent_on_tint": 4.99,
+  "accent_on_header": 5.41,
+  "meta_on_paper": 5.74,
+  "meta_on_surface": 6.15,
+  "meta_on_band": 5.2,
+  "meta_on_tint": 4.97,
+  "meta_on_header": 5.4,
+  "paper_on_accent": 5.75
+ },
+ "passed": true
+}

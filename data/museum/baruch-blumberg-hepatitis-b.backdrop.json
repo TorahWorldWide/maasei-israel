@@ -1,0 +1,56 @@
+{
+ "schema": "maasei-backdrop/1",
+ "slug": "baruch-blumberg-hepatitis-b",
+ "media": "m20",
+ "img": "https://commons.wikimedia.org/wiki/Special:FilePath/US%20Navy%20070406-N-5627R-326%20Airman%20Sandra%20Valdovinos%2C%20from%20Delano%2C%20Calif.%2C%20administers%20Airman%20Adam%20Helton%2C%20from%20Mesa%2C%20Ariz.%2C%20a%20Hepatitis%20B%20vaccine.jpg?width=1920",
+ "img_small": "https://commons.wikimedia.org/wiki/Special:FilePath/US%20Navy%20070406-N-5627R-326%20Airman%20Sandra%20Valdovinos%2C%20from%20Delano%2C%20Calif.%2C%20administers%20Airman%20Adam%20Helton%2C%20from%20Mesa%2C%20Ariz.%2C%20a%20Hepatitis%20B%20vaccine.jpg?width=1080",
+ "why": "A navy medic gives a hepatitis B shot in a shipboard sick bay, with a sink and a red biohazard container behind them, so it shows the vaccine in use, not a portrait or a box on a table.",
+ "chosen_by": "opus picker",
+ "alternates": [
+  "m19"
+ ],
+ "from": {
+  "average": "#7c5d47",
+  "picked": "#a0714f",
+  "coloured_share": 0.702,
+  "lightness": 0.381
+ },
+ "palette": {
+  "paper": "#f4eee9",
+  "surface": "#faf8f6",
+  "band": "#ece0d7",
+  "tint": "#ead9cc",
+  "header": "#efe5df",
+  "rule": "#d5bfaf",
+  "text": "#2a2018",
+  "text2": "#4c3e33",
+  "accent": "#785136",
+  "meta": "#685a4f",
+  "tone": "#271d16",
+  "shadow": "33, 24, 18"
+ },
+ "checks": {
+  "text_on_paper": 13.85,
+  "text_on_surface": 15.04,
+  "text_on_band": 12.3,
+  "text_on_tint": 11.6,
+  "text_on_header": 12.85,
+  "text2_on_paper": 8.93,
+  "text2_on_surface": 9.7,
+  "text2_on_band": 7.93,
+  "text2_on_tint": 7.48,
+  "text2_on_header": 8.29,
+  "accent_on_paper": 6.03,
+  "accent_on_surface": 6.54,
+  "accent_on_band": 5.35,
+  "accent_on_tint": 5.05,
+  "accent_on_header": 5.59,
+  "meta_on_paper": 5.77,
+  "meta_on_surface": 6.27,
+  "meta_on_band": 5.12,
+  "meta_on_tint": 4.83,
+  "meta_on_header": 5.36,
+  "paper_on_accent": 6.03
+ },
+ "passed": true
+}

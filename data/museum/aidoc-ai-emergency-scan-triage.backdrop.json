@@ -1,0 +1,56 @@
+{
+ "schema": "maasei-backdrop/1",
+ "slug": "aidoc-ai-emergency-scan-triage",
+ "media": "m9",
+ "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Assuta%20Ashdod%20Medical%20Center%2C%20emergency%20room2916.jpg?width=1920",
+ "img_small": "https://commons.wikimedia.org/wiki/Special:FilePath/Assuta%20Ashdod%20Medical%20Center%2C%20emergency%20room2916.jpg?width=1080",
+ "why": "Ambulances lined up under the emergency-room canopy at Assuta Ashdod show the urgent stream of patients and scans that the triage system was built to speed up, in a deep, textured scene.",
+ "chosen_by": "opus picker",
+ "alternates": [
+  "m34"
+ ],
+ "from": {
+  "average": "#9b9895",
+  "picked": "#82474e",
+  "coloured_share": 0.023,
+  "lightness": 0.596
+ },
+ "palette": {
+  "paper": "#f0eeed",
+  "surface": "#f8f8f7",
+  "band": "#e5e2df",
+  "tint": "#e0dbd7",
+  "header": "#e9e7e4",
+  "rule": "#c7c2bc",
+  "text": "#2a2118",
+  "text2": "#4c4033",
+  "accent": "#71573d",
+  "meta": "#65594c",
+  "tone": "#221f1b",
+  "shadow": "33, 26, 18"
+ },
+ "checks": {
+  "text_on_paper": 13.66,
+  "text_on_surface": 14.87,
+  "text_on_band": 12.24,
+  "text_on_tint": 11.5,
+  "text_on_header": 12.8,
+  "text2_on_paper": 8.69,
+  "text2_on_surface": 9.46,
+  "text2_on_band": 7.79,
+  "text2_on_tint": 7.32,
+  "text2_on_header": 8.15,
+  "accent_on_paper": 5.8,
+  "accent_on_surface": 6.31,
+  "accent_on_band": 5.2,
+  "accent_on_tint": 4.88,
+  "accent_on_header": 5.43,
+  "meta_on_paper": 5.88,
+  "meta_on_surface": 6.4,
+  "meta_on_band": 5.27,
+  "meta_on_tint": 4.95,
+  "meta_on_header": 5.51,
+  "paper_on_accent": 5.8
+ },
+ "passed": true
+}

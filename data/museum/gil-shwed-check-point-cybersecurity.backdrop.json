@@ -1,0 +1,56 @@
+{
+ "schema": "maasei-backdrop/1",
+ "slug": "gil-shwed-check-point-cybersecurity",
+ "media": "m2",
+ "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Check%20Point%20building.jpg?width=1920",
+ "img_small": "https://commons.wikimedia.org/wiki/Special:FilePath/Check%20Point%20building.jpg?width=1080",
+ "why": "This wide, sharp street view of Check Point's Tel Aviv headquarters shows the company Shwed built in its real city setting, with enough depth and texture to work darkened behind the text cards.",
+ "chosen_by": "opus picker",
+ "alternates": [
+  "m8"
+ ],
+ "from": {
+  "average": "#7a8892",
+  "picked": "#5f80a7",
+  "coloured_share": 0.14,
+  "lightness": 0.527
+ },
+ "palette": {
+  "paper": "#e9eef4",
+  "surface": "#f6f8fa",
+  "band": "#d7e1ec",
+  "tint": "#ccdaea",
+  "header": "#dfe6ef",
+  "rule": "#afc0d5",
+  "text": "#18202a",
+  "text2": "#333f4c",
+  "accent": "#365478",
+  "meta": "#4f5b68",
+  "tone": "#1b1f22",
+  "shadow": "18, 25, 33"
+ },
+ "checks": {
+  "text_on_paper": 14.08,
+  "text_on_surface": 15.42,
+  "text_on_band": 12.41,
+  "text_on_tint": 11.56,
+  "text_on_header": 13.06,
+  "text2_on_paper": 9.2,
+  "text2_on_surface": 10.08,
+  "text2_on_band": 8.11,
+  "text2_on_tint": 7.56,
+  "text2_on_header": 8.54,
+  "accent_on_paper": 6.68,
+  "accent_on_surface": 7.32,
+  "accent_on_band": 5.89,
+  "accent_on_tint": 5.48,
+  "accent_on_header": 6.19,
+  "meta_on_paper": 5.94,
+  "meta_on_surface": 6.51,
+  "meta_on_band": 5.24,
+  "meta_on_tint": 4.88,
+  "meta_on_header": 5.51,
+  "paper_on_accent": 6.68
+ },
+ "passed": true
+}

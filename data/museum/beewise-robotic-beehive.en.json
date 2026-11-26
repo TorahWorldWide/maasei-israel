@@ -1,0 +1,2121 @@
+{
+ "schema": "maasei-museum/1",
+ "slug": "beewise-robotic-beehive",
+ "deed": "ביווייז מצילה מושבות דבורים מקריסה בכוורת רובוטית מבוססת בינה",
+ "canonical_type": "team-invention",
+ "year": "2018",
+ "title": "Israel's Beewise built a robotic beehive designed to protect bee colonies from collapse",
+ "trailer": [
+  {
+   "text": "Beewise Technologies is an Israeli startup that uses artificial intelligence, computer vision, sensors and advanced robotics to save honeybees.",
+   "claims": [
+    "c1"
+   ]
+  },
+  {
+   "text": "The company was founded in Israel in 2018 after a conversation between Saar Safra, who comes from a startup background, and beekeeper Eliyah Radzyner.",
+   "claims": [
+    "c3",
+    "c4",
+    "c6"
+   ]
+  },
+  {
+   "text": "They developed the BeeHome, a hive in which a robotic arm replaces the beekeeper, scans the frames, checks for disease and reports in real time on hazards to the colony.",
+   "claims": [
+    "c23",
+    "c24"
+   ]
+  },
+  {
+   "text": "When the system detects mites, it moves the frame to a warming compartment, and according to the report the heat kills 99% of the mites without harming the bees.",
+   "claims": [
+    "c25"
+   ]
+  },
+  {
+   "text": "The company expanded to the US, and its technology earned it a BloombergNEF Pioneers award.",
+   "claims": [
+    "c3",
+    "c47"
+   ]
+  }
+ ],
+ "hero_media": [
+  "m7",
+  "m11",
+  "m12",
+  "m13",
+  "m14",
+  "m16",
+  "m17",
+  "m18",
+  "m21",
+  "m22",
+  "m23",
+  "m24",
+  "m25",
+  "m31",
+  "m38",
+  "m39",
+  "m40",
+  "m46",
+  "m50",
+  "m51"
+ ],
+ "glance": [
+  {
+   "label": "Founders",
+   "value": "Saar Safra and Eliyah Radzyner",
+   "claims": [
+    "c4"
+   ]
+  },
+  {
+   "label": "Since",
+   "value": "2018",
+   "claims": [
+    "c4"
+   ]
+  },
+  {
+   "label": "Where",
+   "value": "Founded in Israel, expanded to the US",
+   "claims": [
+    "c3"
+   ]
+  },
+  {
+   "label": "Manufacturing",
+   "value": "The BeeHome is made in Mexico",
+   "claims": [
+    "c3"
+   ]
+  },
+  {
+   "label": "Recognition",
+   "value": "BloombergNEF Pioneers award",
+   "claims": [
+    "c47"
+   ]
+  }
+ ],
+ "stations": [
+  {
+   "id": "s1",
+   "title": "Disappearing bees",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "About 75% of agricultural crops require pollinators, especially nuts and fruits.",
+      "claims": [
+       "c18"
+      ]
+     },
+     {
+      "text": "In the US, 2.5 million commercial hives move on trucks, and some beekeepers come from as far as Florida to pollinate California's almonds.",
+      "claims": [
+       "c19"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "But the colonies are collapsing.",
+      "claims": [
+       "c10",
+       "c12"
+      ]
+     },
+     {
+      "text": "According to the Apiary Inspectors of America, more than 56% of commercial colonies were wiped out over a 12-month period.",
+      "claims": [
+       "c10"
+      ]
+     },
+     {
+      "text": "According to a statement by Beewise CEO Saar Safra in the company's 2024 impact report, reports he does not specify indicate that in 2024 the United States experienced an average colony collapse rate of 62%.",
+      "claims": [
+       "c12"
+      ]
+     },
+     {
+      "text": "According to an estimate by the Honey Bee Health Coalition, between June and the following March colony losses cost beekeepers about $600 million.",
+      "claims": [
+       "c11"
+      ]
+     },
+     {
+      "text": "According to Prof. Sharoni Shafir, between 20 and 30 percent of hives in Israel disappear every year.",
+      "claims": [
+       "c16"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "Toxic pesticides, climate change and a sharp rise in the varroa mite since the 1980s have contributed to the rise in colony collapse.",
+      "claims": [
+       "c20"
+      ]
+     },
+     {
+      "text": "The UN warns that bees face an unprecedented threat of extinction, at a rate 100 to 1,000 times higher than in the past, due to human impacts.",
+      "claims": [
+       "c17"
+      ]
+     },
+     {
+      "text": "Safra said that if bees collapse at a rate of 40% a year, they will disappear from the planet within 20 to 25 years.",
+      "claims": [
+       "c64"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m4",
+    "m27",
+    "m29",
+    "m41"
+   ],
+   "disagreements": [
+    "d1"
+   ]
+  },
+  {
+   "id": "s2",
+   "title": "A 150-year-old wooden box",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "The Langstroth hive, patented in 1852, is a simple wooden box with frames, and it has hardly changed since.",
+      "claims": [
+       "c7"
+      ]
+     },
+     {
+      "text": "Beekeepers are able to check the health of their colonies only once every week or two.",
+      "claims": [
+       "c8"
+      ]
+     },
+     {
+      "text": "According to Safra, beekeepers often must drive for hours to their hives, and may make the rounds only about once a month.",
+      "claims": [
+       "c9"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "Eliyah Radzyner is a beekeeper.",
+      "claims": [
+       "c6"
+      ]
+     },
+     {
+      "text": "Safra said that his partner, a commercial beekeeper, decided in 2017 that it made no sense to keep tending bees in 150-year-old wooden boxes.",
+      "claims": [
+       "c5"
+      ]
+     },
+     {
+      "text": "In 2018 the two founded the company, after a conversation Safra described as \"serendipitous\".",
+      "claims": [
+       "c4"
+      ]
+     },
+     {
+      "text": "That same year, Beewise built a first prototype with a GoPro camera.",
+      "claims": [
+       "c65"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m3",
+    "m6",
+    "m9",
+    "m19",
+    "m20"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s3",
+   "title": "A hive that works around the clock",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "According to Beewise, minimizing the risk of colony collapse requires tending the bees around the clock.",
+      "claims": [
+       "c2"
+      ]
+     },
+     {
+      "text": "Two years after the prototype, it housed its first commercial units in shipping containers.",
+      "claims": [
+       "c65"
+      ]
+     },
+     {
+      "text": "One of the hives is located at Kibbutz Beit Haemek in northern Israel, in a 12-square-metre container.",
+      "claims": [
+       "c60"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "Inside the BeeHome, a robotic arm replaces the beekeeper.",
+      "claims": [
+       "c23"
+      ]
+     },
+     {
+      "text": "It detects honey-filled frames and harvests them inside the hive.",
+      "claims": [
+       "c23"
+      ]
+     },
+     {
+      "text": "The machine scans the frames, checks for disease and pesticides, and reports in real time on hazards to the colony.",
+      "claims": [
+       "c24"
+      ]
+     },
+     {
+      "text": "Safra said that the robotic mechanism can mimic everything a beekeeper does, more efficiently and without getting tired.",
+      "claims": [
+       "c61"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "The BeeHomes are solar powered and communicate with one another and with the beekeeper via cellular networks.",
+      "claims": [
+       "c30"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m1",
+    "m8",
+    "m28",
+    "m30",
+    "m37"
+   ],
+   "disagreements": [
+    "d2",
+    "d3"
+   ]
+  },
+  {
+   "id": "s4",
+   "title": "No chemicals, and controlled from a phone",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "When the system detects mites, it moves the frame to a warming compartment that raises the temperature by 2 degrees Fahrenheit.",
+      "claims": [
+       "c25"
+      ]
+     },
+     {
+      "text": "According to the report, the heat kills 99% of the mites without harming the bees.",
+      "claims": [
+       "c25"
+      ]
+     },
+     {
+      "text": "Safra said that Beewise is the only solution in the world that allows varroa to be treated without chemicals.",
+      "claims": [
+       "c26"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "If a sensor detects a pesticide or another harmful substance, the unit can close its vents.",
+      "claims": [
+       "c27"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "When a problem arises, the beekeeper receives an alert in an app and can intervene remotely via computer or come in person.",
+      "claims": [
+       "c29"
+      ]
+     },
+     {
+      "text": "Safra said that Beewise's robotic hives have the lowest levels of swarming of any existing hive.",
+      "claims": [
+       "c66"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m5",
+    "m34",
+    "m35",
+    "m52"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s5",
+   "title": "What happened to the bees",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "Beewise says the BeeHome may reduce bee mortality by 80% and increase crop yields by at least 50%.",
+      "claims": [
+       "c36"
+      ]
+     },
+     {
+      "text": "Safra said that after two hurricanes in Florida, the BeeHomes kept operating while many wooden hives were destroyed.",
+      "claims": [
+       "c37"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to Prof. Shafir, with the robot beekeepers can deal with a problem in real time and reduce bee mortality.",
+      "claims": [
+       "c63"
+      ]
+     },
+     {
+      "text": "Beekeeper Shlomki Frankin said that the robot is a tool for beekeepers and does not replace them.",
+      "claims": [
+       "c62"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "Zach Ellis of OFI said BeeHomes are on 30% of his acreage, and that they aim for full coverage within three years.",
+      "claims": [
+       "c38"
+      ]
+     },
+     {
+      "text": "According to Safra, customers see the machines as an investment that pays for itself within 18 to 24 months.",
+      "claims": [
+       "c53"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m2",
+    "m15",
+    "m32",
+    "m33"
+   ],
+   "disagreements": [
+    "d4"
+   ]
+  },
+  {
+   "id": "s6",
+   "title": "From a kibbutz in the Galilee to the fields of America",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "Beewise was founded in Israel and expanded to the US, and the BeeHome is made in Mexico.",
+      "claims": [
+       "c3"
+      ]
+     },
+     {
+      "text": "According to The Robot Report, it has offices in California and Israel.",
+      "claims": [
+       "c55"
+      ]
+     },
+     {
+      "text": "According to Al-Monitor, in 2022 it employed 100 people.",
+      "claims": [
+       "c44"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "Insight Partners was the lead investor in the company's Series C round.",
+      "claims": [
+       "c45"
+      ]
+     },
+     {
+      "text": "According to Yosovzon, speaking in 2022, the $80 million Beewise raised in its latest funding round up to that point was the largest ag-tech investment in Israel.",
+      "claims": [
+       "c46"
+      ]
+     },
+     {
+      "text": "The company's technology earned it a BloombergNEF Pioneers award.",
+      "claims": [
+       "c47"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to a 2025 Bloomberg report, Beewise expected revenue of $100 million that year, and Safra said it was about a year away from profitability.",
+      "claims": [
+       "c40"
+      ]
+     },
+     {
+      "text": "According to a 2025 Bloomberg report, the startup wants to more than triple the number of BeeHomes in use and reach one million units within three years.",
+      "claims": [
+       "c39"
+      ]
+     },
+     {
+      "text": "Safra hopes the BeeHome will gradually replace the world's roughly 100 million beehives.",
+      "claims": [
+       "c67"
+      ]
+     }
+    ]
+   ],
+   "media": [],
+   "disagreements": [
+    "d5",
+    "d6",
+    "d7"
+   ]
+  },
+  {
+   "id": "s7",
+   "title": "Doubts and open questions",
+   "kind": "hard",
+   "paragraphs": [
+    [
+     {
+      "text": "Bloomberg raised the question of whether beekeepers will agree to replace equipment that has proven itself over many years.",
+      "claims": [
+       "c48"
+      ]
+     },
+     {
+      "text": "Safra said beekeepers doubt the hive's harvesting ability and want to see it in action.",
+      "claims": [
+       "c49"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "Bloomberg notes that a new hive design alone is not enough to save bees, but the hives provide real-time information on colony health.",
+      "claims": [
+       "c50"
+      ]
+     },
+     {
+      "text": "Beewise has competitors, such as BeeHero and Beeflow, which provide sensors for monitoring hives.",
+      "claims": [
+       "c52"
+      ]
+     },
+     {
+      "text": "Safra argues that upgrading wooden hives with sensors does not solve the root problem, because beekeepers still have to perform costly treatments in the field.",
+      "claims": [
+       "c51"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m48"
+   ],
+   "disagreements": []
+  }
+ ],
+ "disagreements": [
+  {
+   "id": "d1",
+   "question": "How many of the world's bee colonies collapse each year?",
+   "versions": [
+    {
+     "says": "Safra, in Fortune: 40% every year",
+     "claims": [
+      "c13"
+     ]
+    },
+    {
+     "says": "Safra, in The Robot Report: about 35% of all colonies in the world",
+     "claims": [
+      "c14"
+     ]
+    },
+    {
+     "says": "Pictet: between 35 and 40 percent of managed colonies worldwide",
+     "claims": [
+      "c15"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d2",
+   "question": "How many colonies or hives does each BeeHome hold?",
+   "versions": [
+    {
+     "says": "According to Fortune: 24 hives or 24 colonies",
+     "claims": [
+      "c31"
+     ]
+    },
+    {
+     "says": "According to Bloomberg: up to 10 hives, each with up to 15 frames",
+     "claims": [
+      "c32"
+     ]
+    },
+    {
+     "says": "According to Sustainable Brands: up to 48 colonies, about one to two million bees",
+     "claims": [
+      "c33"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d3",
+   "question": "How much of the beekeeper's work does the hive do?",
+   "versions": [
+    {
+     "says": "Safra, in Farm Progress: AI and robotics can replace 90% of what a beekeeper does in the field",
+     "claims": [
+      "c21"
+     ]
+    },
+    {
+     "says": "Safra, in Sustainable Brands: 97% of the work is carried out automatically, and sometimes autonomously, by the Beehome",
+     "claims": [
+      "c22"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d4",
+   "question": "How many colonies collapse in Beewise hives?",
+   "versions": [
+    {
+     "says": "Beewise, in Farm Progress: about 8%",
+     "claims": [
+      "c34"
+     ]
+    },
+    {
+     "says": "Safra, in Pictet: 7.59% over the past three years, compared with about 40% as the norm",
+     "claims": [
+      "c35"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d5",
+   "question": "How much money has Beewise raised?",
+   "versions": [
+    {
+     "says": "Farm Progress: nearly $170 million, including a $50 million Series D round",
+     "claims": [
+      "c41"
+     ]
+    },
+    {
+     "says": "Fortune, in 2022: $119 million, from investors including Insight Partners and Sanad Abu Dhabi",
+     "claims": [
+      "c42"
+     ]
+    },
+    {
+     "says": "An earlier report in Ynetnews: $40 million",
+     "claims": [
+      "c43"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d6",
+   "question": "How many BeeHome units are in operation?",
+   "versions": [
+    {
+     "says": "Bloomberg: about 300,000 units in use across the US",
+     "claims": [
+      "c56"
+     ]
+    },
+    {
+     "says": "DeepLearning.AI: more than 300,000 units in North America",
+     "claims": [
+      "c57"
+     ]
+    },
+    {
+     "says": "AgriFutures, in 2023: more than 1,000 units in the US",
+     "claims": [
+      "c58"
+     ]
+    },
+    {
+     "says": "Ynetnews: more than 100 systems in Israel and the US",
+     "claims": [
+      "c43"
+     ]
+    },
+    {
+     "says": "Al-Monitor, in 2022: about a hundred hives in Israel, and a dozen sent to the US",
+     "claims": [
+      "c59"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d7",
+   "question": "Is Beewise an Israeli or an American company?",
+   "versions": [
+    {
+     "says": "Fortune: an Israeli startup",
+     "claims": [
+      "c1"
+     ]
+    },
+    {
+     "says": "Pictet: founded in Israel and expanded to the US",
+     "claims": [
+      "c3"
+     ]
+    },
+    {
+     "says": "Australia's AgriFutures: a US-based company",
+     "claims": [
+      "c54"
+     ]
+    }
+   ]
+  }
+ ],
+ "unknowns": [
+  {
+   "text": "Ido Yosovzon, head of food and agriculture technologies at the nonprofit Start-Up Nation Central in Tel Aviv, said in 2022 that the $80 million Beewise raised in its latest funding round up to that point was the largest agro-tech investment in Israel.",
+   "claims": [
+    "c46"
+   ]
+  }
+ ],
+ "claims": [
+  {
+   "id": "c1",
+   "text": "בוויז טכנולוג'יס היא סטארטאפ ישראלי שמשתמש בבינה מלאכותית, ראיית מחשב, חיישנים ורובוטיקה מתקדמת כדי להציל דבורי דבש.",
+   "source": "src1",
+   "quote": "The box is the creation of Beewise Technologies, an Israeli startup using artificial intelligence, computer vision, sensors, and advanced robotics to save honeybees",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c3",
+   "text": "לפי הכתבה, ביווייז הוקמה בישראל והתרחבה לארה\"ב, וה-BeeHome מיוצר במקסיקו.",
+   "source": "src2",
+   "quote": "Beewise was founded in Israel and expanded to the US, the BeeHome is made in Mexico.",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c4",
+   "text": "החברה הוקמה ב-2018 אחרי שיחה \"מקרית\" בין סער ספרא, שמגיע מרקע של סטארטאפים, לבין שותפו המגדל אליהו רדזינר.",
+   "source": "src2",
+   "quote": "The company was launched in 2018 after Safra, who comes from a tech-startup background, had a “serendipitous” conversation with co-founder Eliyah Radzyner, a beekeeper.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c6",
+   "text": "אליהו רדזינר הוא מגדל דבורים ושותף מייסד בביווייז טכנולוג'יס.",
+   "source": "src3",
+   "quote": "Eliyah Radzyner, beekeeper and co-founder at Beewise Technologies, opens the solar-paneled lid of the company's robotic beekeeping system, the BeeHome.",
+   "status": "confirmed",
+   "locator": "שורה 137"
+  },
+  {
+   "id": "c23",
+   "text": "הזרוע הרובוטית מחליפה את המגדל, מזהה מסגרות מלאות בדבש ומקטפת אותן בתוך ה-BeeHome.",
+   "source": "src1",
+   "quote": "The robotic arm—which looks like a TV screen on a tall stand and fills in for the beekeeper—can also detect when honey-filled frames are ready and harvests them within the BeeHome.",
+   "status": "confirmed",
+   "locator": "שורה 17"
+  },
+  {
+   "id": "c24",
+   "text": "המכונה סרקה ערימות של מסגרות חלות, בדקה מחלות וחומרי הדברה ודיווחה בזמן אמת על סכנות למושבה.",
+   "source": "src4",
+   "quote": "inspecting them for disease, monitoring for pesticides and reporting in real time any hazards that threatened the colony",
+   "status": "confirmed",
+   "locator": "שורה 47"
+  },
+  {
+   "id": "c25",
+   "text": "כשמזוהה קרדית, המערכת מעבירה את המסגרת לתא חימום שמעלה את הטמפרטורה ב-2 מעלות פרנהייט ולפי הדיווח הורג 99% מהקרדיות בלי לפגוע בדבורים.",
+   "source": "src5",
+   "quote": "it moves the affected frame to a warming compartment that raises the temperature 2 degrees Fahrenheit, which kills 99 percent of the mites without harming the bees",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c47",
+   "text": "הטכנולוגיה של החברה זיכתה אותה בפרס BloombergNEF Pioneers.",
+   "source": "src6",
+   "quote": "The company’s technology earned it a BloombergNEF Pioneers award earlier this year.",
+   "status": "confirmed",
+   "locator": "שורה 30"
+  },
+  {
+   "id": "c44",
+   "text": "לפי אל-מוניטור, הסטארטאפ הושק ב-2018, מעסיק 100 עובדים וגייס עד אפריל כ-80 מיליון דולר.",
+   "source": "src7",
+   "quote": "Launched in 2018, the startup has 100 employees and by April had raised about $80 million to develop its exports.",
+   "status": "confirmed",
+   "locator": "שורה 20"
+  },
+  {
+   "id": "c65",
+   "text": "ביווייז בנתה אב-טיפוס ראשון ב-2018 עם מצלמת GoPro, ושנתיים אחר כך שיכנה את יחידותיה המסחריות הראשונות במכולות.",
+   "source": "src5",
+   "quote": "Beewise built its initial prototype in 2018 using a GoPro camera. Two years later, it housed its first commercial units in 20-foot shipping containers.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c18",
+   "text": "כ-75% מהגידולים החקלאיים דורשים מאביקים, ובמיוחד אגוזים ופירות.",
+   "source": "src6",
+   "quote": "Roughly 75% of crops require pollinators, with nuts and fruits particularly dependent.",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c19",
+   "text": "2.5 מיליון כוורות מסחריות נעות בארה\"ב על גבי משאיות, ומגדלים מגיעים אפילו מפלורידה כדי להאביק את שקדי קליפורניה.",
+   "source": "src6",
+   "quote": "Beekeepers with thousands of hives will travel from as far away as Florida to provide pollination services for California’s $3.9 billion almond crop in spring",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c10",
+   "text": "לפי איגוד מפקחי הכוורות של אמריקה, בתקופה של 12 חודשים יותר מ-56% מהמושבות המסחריות נמחקו.",
+   "source": "src6",
+   "quote": "more than 56% of commercial colonies were wiped out, according to the Apiary Inspectors of America",
+   "status": "confirmed",
+   "locator": "שורה 26"
+  },
+  {
+   "id": "c12",
+   "text": "לפי דוחות, ב-2024 ארה\"ב חוותה שיעור קריסת מושבות ממוצע של 62%.",
+   "source": "src8",
+   "quote": "reports indicate that the United States experienced an average colony collapse rate of 62%",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c11",
+   "text": "לפי קואליציית בריאות דבורי הדבש, אובדן המושבות עלה למגדלים כ-600 מיליון דולר.",
+   "source": "src6",
+   "quote": "colony losses cost beekeepers an estimated $600 million, according to the Honey Bee Health Coalition",
+   "status": "confirmed",
+   "locator": "שורה 26"
+  },
+  {
+   "id": "c16",
+   "text": "לדברי פרופ' שרוני שפיר, בישראל נעלמות מדי שנה בין 20 ל-30 אחוז מהכוורות.",
+   "source": "src7",
+   "quote": "In Israel, between 20 and 30 percent of hives disappear every year",
+   "status": "confirmed",
+   "locator": "שורה 27"
+  },
+  {
+   "id": "c20",
+   "text": "הדברה רעילה, שינויי אקלים ועלייה חדה בקרדית הוורואה מאז שנות ה-80 תרמו לעלייה בתופעת קריסת המושבות.",
+   "source": "src6",
+   "quote": "Toxic pesticides, a changing climate and a sharp uptick in the invasive, disease-transmitting varroa mite since the 1980s have contributed to the rise",
+   "status": "confirmed",
+   "locator": "שורה 23"
+  },
+  {
+   "id": "c17",
+   "text": "האו\"ם מזהיר שדבורים עומדות בפני איום הכחדה חסר תקדים, בקצב גבוה פי 100 עד 1,000 מבעבר, בשל השפעות האדם.",
+   "source": "src1",
+   "quote": "bees are facing an unprecedented threat of extinction, at a rate 100 to 1,000 times higher than in the past, due to human impacts, the UN warns",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c64",
+   "text": "ספרא אמר שדבורים הקורסות בקצב של 40% בשנה ייעלמו מכדור הארץ בתוך 20 עד 25 שנים.",
+   "source": "src1",
+   "quote": "Bees, collapsing at a 40% rate year over year, will disappear from our planet in 20 to 25 years.",
+   "status": "confirmed",
+   "locator": "שורה 39"
+  },
+  {
+   "id": "c7",
+   "text": "כוורת לנגסטרות', שנרשמה כפטנט ב-1852, היא קופסת עץ פשוטה עם מסגרות, והיא כמעט לא השתנתה מאז.",
+   "source": "src6",
+   "quote": "The Langstroth hive, named after the American reverend who patented it in 1852, is a simple wooden box with frames that can house the queen",
+   "status": "confirmed",
+   "locator": "שורה 16"
+  },
+  {
+   "id": "c8",
+   "text": "מגדלי דבורים מסוגלים לבדוק את בריאות המושבות שלהם רק אחת לשבוע או שבועיים.",
+   "source": "src6",
+   "quote": "Beekeepers are only able to check on their colonies’ health every week or two.",
+   "status": "confirmed",
+   "locator": "שורה 22"
+  },
+  {
+   "id": "c9",
+   "text": "לפי ספרא, מגדלים נאלצים לא פעם לנסוע שעות אל הכוורות ויכולים לעבור עליהן רק כאחת לחודש.",
+   "source": "src1",
+   "quote": "beekeepers often must drive for hours to tend to their hives, and they may make the rounds only about once a month",
+   "status": "confirmed",
+   "locator": "שורה 15"
+  },
+  {
+   "id": "c5",
+   "text": "ספרא סיפר ששותפו, מגדל דבורים מסחרי, החליט ב-2017 שאין היגיון להמשיך לטפל בדבורים בקופסאות עץ בנות 150 שנה.",
+   "source": "src9",
+   "quote": "at some point in 2017, he decided it doesn’t make sense that we still use 150-year-old wooden boxes to treat bees",
+   "status": "confirmed",
+   "locator": "שורה 34"
+  },
+  {
+   "id": "c2",
+   "text": "הכוורת מהדור הבא פותחה בידי הסטארטאפ הישראלי ביווייז, שלדבריו נדרשת טיפול סביב השעון כדי למזער את סכנת קריסת המושבות.",
+   "source": "src4",
+   "quote": "The next-generation hive was developed by Israeli startup Beewise, which says that this kind of around-the-clock care is what is needed to minimize the risk of colonies collapsing.",
+   "status": "confirmed",
+   "locator": "שורה 51"
+  },
+  {
+   "id": "c60",
+   "text": "אחת הכוורות מוצבת בקיבוץ בית העמק בצפון ישראל, במכולה בת 12 מ\"ר.",
+   "source": "src7",
+   "quote": "said Shlomki Frankin as he walks into a 12-square-metre container in Kibbutz Beit Haemek in northern Israel",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c61",
+   "text": "ספרא אמר שהמנגנון הרובוטי יכול לחקות כל מה שמגדל עושה ביעילות רבה יותר ומבלי להתעייף.",
+   "source": "src4",
+   "quote": "Anything a beekeeper would do the robotic mechanism can mimic and do it more effectively without ever getting tired",
+   "status": "confirmed",
+   "locator": "שורה 57"
+  },
+  {
+   "id": "c30",
+   "text": "ה-BeeHomes פועלות באנרגיה סולארית ומתקשרות ביניהן ועם המגדל דרך רשתות סלולריות.",
+   "source": "src1",
+   "quote": "The BeeHomes are solar powered and communicate with one another as well as the beekeeper via cellular networks.",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c26",
+   "text": "ספרא אמר שביווייז היא הפתרון היחיד בעולם שמאפשר טיפול בוורואה בלי כימיקלים.",
+   "source": "src10",
+   "quote": "We’re the only solution on the planet today that allows treatment of varroas without chemicals",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c27",
+   "text": "אם חיישן מזהה חומר הדברה או חומר מזיק אחר, היחידה יכולה לסגור את פתחי האוורור שלה.",
+   "source": "src5",
+   "quote": "If a sensor detects a pesticide or other harmful substances, the unit can close its vents.",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c29",
+   "text": "כשמתעוררת בעיה, המגדל מקבל התראה באפליקציה ויכול להתערב מרחוק דרך מחשב או באופן אישי.",
+   "source": "src7",
+   "quote": "If a problem comes up, the beekeeper is alerted through an application, allowing for intervention remotely via computer, or in person if necessary.",
+   "status": "confirmed",
+   "locator": "שורה 13"
+  },
+  {
+   "id": "c66",
+   "text": "ספרא אמר שלכוורות הרובוטיות של ביווייז יש את רמות הנחילה הנמוכות ביותר מכל כוורת קיימת.",
+   "source": "src11",
+   "quote": "Our robotic hives have the lowest levels of swarming",
+   "status": "confirmed",
+   "locator": "שורה 16"
+  },
+  {
+   "id": "c36",
+   "text": "ביווייז אומרת שה-BeeHome עשויה להפחית תמותת דבורים ב-80% ולהגדיל יבולים בלפחות 50%.",
+   "source": "src1",
+   "quote": "Beewise says the BeeHome has the potential to reduce bee mortality by 80%, resulting in increased crop yields of at least 50%",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c37",
+   "text": "ספרא ציין שאחרי שני הוריקנים בפלורידה ה-BeeHomes המשיכו לפעול בעוד כוורות עץ רבות נהרסו.",
+   "source": "src6",
+   "quote": "Safra noted that after two hurricanes hit Florida last year, BeeHomes in the state were still operational while many wooden hives were destroyed.",
+   "status": "confirmed",
+   "locator": "שורה 32"
+  },
+  {
+   "id": "c63",
+   "text": "לדברי פרופ' שפיר, עם הרובוט מגדלים יכולים לטפל בבעיה בזמן אמת ולהפחית את תמותת הדבורים.",
+   "source": "src7",
+   "quote": "with the robot, beekeepers can deal with the problem in real-time, reducing the bees' mortality rates",
+   "status": "confirmed",
+   "locator": "שורה 23"
+  },
+  {
+   "id": "c38",
+   "text": "זאק אליס מ-OFI אמר שה-BeeHomes נמצאות על 30% מהשטחים שלו ושהם שואפים לכיסוי מלא בתוך שלוש שנים.",
+   "source": "src6",
+   "quote": "Today, BeeHomes are on 30% of his acres, but he said within three years, they’re aiming for 100% coverage.",
+   "status": "confirmed",
+   "locator": "שורה 33"
+  },
+  {
+   "id": "c53",
+   "text": "לפי ספרא, הלקוחות רואים במכונות השקעה שמחזירה את עצמה, עם החזר השקעה של 18 עד 24 חודשים.",
+   "source": "src2",
+   "quote": "as far as its customers are concerned, the machines pay for themselves, with an ROI of 18-24 months",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c55",
+   "text": "לפי The Robot Report, לביווייז יש משרדים בקליפורניה ובישראל והיא גייסה לאחרונה 80 מיליון דולר.",
+   "source": "src10",
+   "quote": "Beewise, a company with offices in California and Israel that recently raised $80 million",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c45",
+   "text": "Insight Partners הייתה המשקיע המוביל בסבב C האחרון של החברה.",
+   "source": "src10",
+   "quote": "attracted investors like Insight Partners, the lead investor on the company’s most recent Series C round.",
+   "status": "confirmed",
+   "locator": "שורה 17"
+  },
+  {
+   "id": "c46",
+   "text": "לפי יוסובזון, 80 מיליון הדולר שגייסה ביווייז הם ההשקעה הגדולה ביותר באג'-טק בישראל.",
+   "source": "src1",
+   "quote": "the $80 million raised by Beewise in its latest funding round is not only the largest ag-tech investment in Israel",
+   "status": "confirmed",
+   "locator": "שורה 35"
+  },
+  {
+   "id": "c40",
+   "text": "ביווייז צופה הכנסות של 100 מיליון דולר השנה, וספרא אמר שהיא כשנה מרווחיות.",
+   "source": "src6",
+   "quote": "Beewise expects to have $100 million in revenue this year, and Safra said it’s a year away from profitability.",
+   "status": "confirmed",
+   "locator": "שורה 39"
+  },
+  {
+   "id": "c39",
+   "text": "הסטארטאפ רוצה יותר מלשלש את מספר ה-BeeHomes ולהגיע למיליון בעוד שלוש שנים.",
+   "source": "src6",
+   "quote": "The startup wants to more than triple the number of BeeHomes in use, reaching 1 million in three years.",
+   "status": "confirmed",
+   "locator": "שורה 34"
+  },
+  {
+   "id": "c67",
+   "text": "ספרא מקווה ש-BeeHome תחליף בהדרגה את כ-100 מיליון הכוורות בעולם.",
+   "source": "src2",
+   "quote": "There are about 100 million beehives on the planet and Safra hopes that BeeHome will steadily begin to replace them.",
+   "status": "confirmed",
+   "locator": "שורה 13"
+  },
+  {
+   "id": "c48",
+   "text": "בבלומברג נשאלת השאלה אם מגדלים יסכימו להחליף ציוד שהוכח לאורך שנים.",
+   "source": "src6",
+   "quote": "The question is whether beekeepers are willing to switch out what’s been tried and true equipment.",
+   "status": "confirmed",
+   "locator": "שורה 13"
+  },
+  {
+   "id": "c49",
+   "text": "ספרא סיפר שמגדלים מפקפקים ביכולת הקטיף של הכוורת ורוצים לראות אותה בפעולה.",
+   "source": "src2",
+   "quote": "Harvest is a complex process; they have to see it happen.",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c50",
+   "text": "בלומברג מציין שעיצוב כוורת חדש לבדו אינו מספיק כדי להציל דבורים, אבל הכוורות מספקות מידע בזמן אמת על בריאות המושבה.",
+   "source": "src6",
+   "quote": "While a new hive design alone isn’t enough to save bees, Beewise’s robotic hives help cut down on losses by providing a near-constant stream of information on colony health in real time",
+   "status": "confirmed",
+   "locator": "שורה 27"
+  },
+  {
+   "id": "c52",
+   "text": "לביווייז יש מתחרים בתחום, למשל BeeHero ו-Beeflow שמספקות חיישנים לניטור כוורות.",
+   "source": "src6",
+   "quote": "BeeHero and Beeflow (sensing a pattern?) are among those that provide sensors for monitoring health in hives and fields.",
+   "status": "confirmed",
+   "locator": "שורה 40"
+  },
+  {
+   "id": "c51",
+   "text": "ספרא טוען ששדרוג כוורות עץ בחיישנים לא פותר את שורש הבעיה, כי המגדלים עדיין צריכים לבצע טיפולים יקרים בשטח.",
+   "source": "src8",
+   "quote": "they don’t address the root problem; even with accurate data, beekeepers must still perform labor-intensive, in-field, costly treatments",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c13",
+   "text": "ספרא אמר ש-40% ממושבות הדבורים קורסות מדי שנה.",
+   "source": "src1",
+   "quote": "On the other hand, 40% of bee colonies collapse every year.",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c14",
+   "text": "לפי ספרא, כ-35% מכל מושבות הדבורים בעולם קורסות מדי שנה.",
+   "source": "src10",
+   "quote": "Every year, around 35% of all bee colonies on the planet collapse, according to Beewise CEO Saar Safra.",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c15",
+   "text": "כיום 35 עד 40 אחוז מהמושבות המנוהלות בעולם מתות מדי שנה.",
+   "source": "src2",
+   "quote": "Currently 35-40 per cent of managed bee colonies die each year globally.",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c31",
+   "text": "לפי פורצ'ן, כל BeeHome יכולה לאכסן 24 כוורות או 24 מושבות דבורים.",
+   "source": "src1",
+   "quote": "Each BeeHome can house 24 beehives or 24 bee colonies",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c32",
+   "text": "לפי בלומברג, BeeHome מחזיקה עד 10 כוורות, וכל כוורת עד 15 מסגרות.",
+   "source": "src6",
+   "quote": "A hive contains up to 15 frames and a BeeHome can hold up to 10 hives",
+   "status": "confirmed",
+   "locator": "שורה 28"
+  },
+  {
+   "id": "c33",
+   "text": "לפי Sustainable Brands, כל Beehome מכילה עד 48 מושבות, כמיליון עד שני מיליון דבורים.",
+   "source": "src11",
+   "quote": "Each Beehome houses up to 48 bee colonies — or one to two million bees.",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c21",
+   "text": "מנכ\"ל ביווייז סער ספרא אמר שבינה מלאכותית ורובוטיקה מסוגלות להחליף 90% ממה שמגדל דבורים עושה בשטח.",
+   "source": "src6",
+   "quote": "AI and robotics are able to replace “90% of what a beekeeper would do in the field,” said Beewise Chief Executive Officer and co-founder Saar Safra.",
+   "status": "confirmed",
+   "locator": "שורה 13"
+  },
+  {
+   "id": "c22",
+   "text": "ספרא אמר ש-97% ממה שמגדל דבורים עושה מבוצע באופן אוטומטי ולעיתים אוטונומי בידי ה-Beehome.",
+   "source": "src11",
+   "quote": "97 percent of what a beekeeper would do is carried out automatically and often autonomously by the Beehome.",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c34",
+   "text": "ביווייז אומרת שביחידות שלה אובדן המושבות עומד על כ-8%.",
+   "source": "src6",
+   "quote": "Beewise says its units — which it leases to provide pollination services at what it says are market rates — have seen colony losses of around 8%.",
+   "status": "confirmed",
+   "locator": "שורה 37"
+  },
+  {
+   "id": "c35",
+   "text": "לפי ספרא, בשלוש השנים האחרונות קרסו רק 7.59% מהמושבות של ביווייז, לעומת כ-40% כנורמה.",
+   "source": "src2",
+   "quote": "Beewise, in the past three years, has seen just 7.59 per cent of its colonies collapse",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c41",
+   "text": "ביווייז גייסה כמעט 170 מיליון דולר, כולל סבב D של 50 מיליון דולר.",
+   "source": "src6",
+   "quote": "Beewise has raised nearly $170 million, including a $50 million Series D earlier this month",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c42",
+   "text": "לפי פורצ'ן ב-2022, הסטארטאפ הישראלי גייס 119 מיליון דולר ממשקיעים בהם Insight Partners ו-Sanad Abu Dhabi.",
+   "source": "src1",
+   "quote": "The Israeli startup has raised $119 million to date from investors including Insight Partners, Corner Ventures, and Sanad Abu Dhabi",
+   "status": "confirmed",
+   "locator": "שורה 20"
+  },
+  {
+   "id": "c43",
+   "text": "לפי ידיעה מוקדמת, ביווייז גייסה 40 מיליון דולר ויותר מ-100 מערכות שלה פועלות בישראל ובארה\"ב.",
+   "source": "src4",
+   "quote": "Beewise has already raised $40 million of funding from private investors and over 100 of its systems are in use in Israel and the United States.",
+   "status": "confirmed",
+   "locator": "שורה 61"
+  },
+  {
+   "id": "c56",
+   "text": "לפי בלומברג, כ-300,000 יחידות כאלה בשימוש ברחבי ארה\"ב.",
+   "source": "src3",
+   "quote": "Roughly 300,000 of these units are in use across the US",
+   "status": "confirmed",
+   "locator": "שורה 150"
+  },
+  {
+   "id": "c57",
+   "text": "לפי DeepLearning.AI, יותר מ-300,000 יחידות פרוסות בצפון אמריקה.",
+   "source": "src5",
+   "quote": "Over 300,000 units are currently deployed in North America",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c58",
+   "text": "לפי AgriFutures ב-2023, ל-BeeHome יש כבר יותר מ-1000 יחידות בארה\"ב.",
+   "source": "src9",
+   "quote": "BeeHome, which already has more than 1000 units deployed across the United States.",
+   "status": "confirmed",
+   "locator": "שורה 22"
+  },
+  {
+   "id": "c59",
+   "text": "לפי אל-מוניטור ב-2022, כמאה כוורות היי-טק פועלות בישראל ותריסר נשלחו לארה\"ב.",
+   "source": "src7",
+   "quote": "About a hundred of these high-tech hives are already functional in Israel, with a dozen others sent to the United States.",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c54",
+   "text": "AgriFutures האוסטרלית תיארה את ביווייז כחברה מבוססת בארה\"ב שהציגה את הכוורת הרובוטית באוסטרליה.",
+   "source": "src9",
+   "quote": "US-based company, Beewise brought the world’s first robotic beehive to Australia for the first time, unveiling it at evokeAG. 2023.",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c62",
+   "text": "מגדל הדבורים שלומקי פרנקין אמר שהרובוט הוא כלי למגדלים ואינו מחליף אותם.",
+   "source": "src7",
+   "quote": "the robot is a tool for beekeepers, but doesn't replace them",
+   "status": "confirmed",
+   "locator": "שורה 16"
+  }
+ ],
+ "sources": [
+  {
+   "id": "src1",
+   "label": "Fortune, 31.10.2022",
+   "url": "https://fortune.com/2022/10/31/we-literally-live-on-the-stuff-they-pollinate-this-arab-backed-israeli-startup-is-helping-save-the-worlds-bees",
+   "kind": "press"
+  },
+  {
+   "id": "src2",
+   "label": "Pictet",
+   "url": "https://pictet.com/ch/it/insights/saving-the-bees-with-robotic-hives",
+   "kind": "press"
+  },
+  {
+   "id": "src3",
+   "label": "Bloomberg, 21.6.2025",
+   "url": "https://www.bloomberg.com/news/features/2025-06-21/beehives-equipped-with-ai-and-robotics-support-california-almond-crop",
+   "kind": "press"
+  },
+  {
+   "id": "src4",
+   "label": "Ynetnews",
+   "url": "https://www.ynetnews.com/business/article/sjsygo0jt",
+   "kind": "press"
+  },
+  {
+   "id": "src5",
+   "label": "DeepLearning.AI, The Batch",
+   "url": "https://www.deeplearning.ai/the-batch/beewises-robotic-beehive-uses-ai-to-save-pollinators",
+   "kind": "press"
+  },
+  {
+   "id": "src6",
+   "label": "Farm Progress, June 2025",
+   "url": "https://www.farmprogress.com/farm-business/how-robotic-hives-and-ai-are-lowering-the-risk-of-bee-colony-collapse",
+   "kind": "press"
+  },
+  {
+   "id": "src7",
+   "label": "Al-Monitor, May 2022",
+   "url": "https://www.al-monitor.com/originals/2022/05/robot-hives-israel-kibbutz-hope-keep-bees-buzzing",
+   "kind": "press"
+  },
+  {
+   "id": "src8",
+   "label": "Beewise, Impact Report 2024",
+   "url": "https://beewise.ag/blog/ceo-statement-on-beewises-2024-impact-report",
+   "kind": "organisation"
+  },
+  {
+   "id": "src9",
+   "label": "AgriFutures Australia, 2023",
+   "url": "https://agrifutures.com.au/news/littlest-livestock-biggest-impact-beewise-shares-worlds-first-robotic-beehive-at-evokeag-2023/",
+   "kind": "organisation"
+  },
+  {
+   "id": "src10",
+   "label": "The Robot Report",
+   "url": "https://www.therobotreport.com/this-robotic-beehive-wants-to-save-the-bees/",
+   "kind": "press"
+  },
+  {
+   "id": "src11",
+   "label": "Sustainable Brands",
+   "url": "https://sustainablebrands.com/read/world-s-first-robotic-beekeeper-on-mission-to-repopulate-and-protect-global-honeybee-populations",
+   "kind": "press"
+  }
+ ],
+ "media": [
+  {
+   "id": "m1",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=JExrqBSHR8w",
+   "youtube_id": "JExrqBSHR8w",
+   "source_page": "https://www.youtube.com/watch?v=JExrqBSHR8w",
+   "source_name": "YouTube",
+   "credit": "i24NEWS English",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "An i24NEWS report on the robotically controlled hive from Israel that keeps queens and bee colonies alive.",
+   "illustrates": [
+    "c1"
+   ],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m2",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=xNo6p_z8UAU",
+   "youtube_id": "xNo6p_z8UAU",
+   "source_page": "https://www.youtube.com/watch?v=xNo6p_z8UAU",
+   "source_name": "YouTube",
+   "credit": "WION",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "A WION report on an Israeli startup that created robotic hives to keep colonies stable and prevent their collapse.",
+   "illustrates": [
+    "c1",
+    "c2"
+   ],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m3",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=5VoYpsBPXys",
+   "youtube_id": "5VoYpsBPXys",
+   "source_page": "https://www.youtube.com/watch?v=5VoYpsBPXys",
+   "source_name": "YouTube",
+   "credit": "CTech by Calcalist ",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "A CTech interview with Saar Safra, CEO and co-founder of Beewise, at a conference in Tel Aviv on sustainability and food waste.",
+   "illustrates": [],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m4",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=SyAoEUxghkU",
+   "youtube_id": "SyAoEUxghkU",
+   "source_page": "https://www.youtube.com/watch?v=SyAoEUxghkU",
+   "source_name": "YouTube",
+   "credit": "Localish",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "A Localish report on Beewise Technologies' smart hives, designed to save bees and protect the world's food supply.",
+   "illustrates": [
+    "c1"
+   ],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m5",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=8V5nPvq-DVc",
+   "youtube_id": "8V5nPvq-DVc",
+   "source_page": "https://www.youtube.com/watch?v=8V5nPvq-DVc",
+   "source_name": "YouTube",
+   "credit": "Beewise",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "The organization's own film: an overview of Beewise's mission to save bees, showcasing its artificial intelligence and robotics.",
+   "illustrates": [
+    "c1"
+   ],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m6",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Masonic%20Beehive.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Masonic_Beehive.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Unknown authorUnknown author",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "An old color illustration of a traditional dome-shaped straw hive on a table, with bees and roses around it",
+   "illustrates": [],
+   "date": "1850",
+   "width": 1560,
+   "height": 1300,
+   "role": "related"
+  },
+  {
+   "id": "m7",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Beehive.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:The_Beehive.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Unknown authorUnknown author",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "An old color illustration of a yellow straw hive among garden plants, with bees hovering around it",
+   "illustrates": [],
+   "date": "1888",
+   "width": 2752,
+   "height": 1757,
+   "role": "related"
+  },
+  {
+   "id": "m8",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/20190616.VW-Manufaktur.-019.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:20190616.VW-Manufaktur.-019.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Bybbisch94, Christian Gebhardt",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "Rows of wooden hives behind a wooden fence in open ground, with a warning sign \"Vorsicht Bienen\"",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2019-06-16",
+   "width": 5184,
+   "height": 3888,
+   "role": "related"
+  },
+  {
+   "id": "m9",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/7.-Mel%20%2826049209914%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:7.-Mel_%2826049209914%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Museu Valencià d'Etnologia from València, España",
+   "licence": "CC BY-SA 2.0",
+   "hosting": "hotlink",
+   "caption": "Museum illustration of traditional beekeeping: straw hives and work implements on a table, with a rural landscape behind them",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "width": 2998,
+   "height": 1428,
+   "role": "related"
+  },
+  {
+   "id": "m11",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Apicultor%20Sandry%20Luis%20Osorio%20trabajando%20en%20el%20aumento%20de%20poblaciones%20de%20abeja%20mediante%20alimentaci%C3%B3n%20estimulante%20a%20base%20de%20jarabe%20de%20az%C3%BAcar%202x1.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Apicultor_Sandry_Luis_Osorio_trabajando_en_el_aumento_de_poblaciones_de_abeja_mediante_alimentaci%C3%B3n_estimulante_a_base_de_jarabe_de_az%C3%BAcar_2x1.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Sandry Luis Osorio",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "A beekeeper in a protective suit displays a comb frame with bees, with wooden hives in the background",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2025-02-12",
+   "width": 960,
+   "height": 1280,
+   "role": "related"
+  },
+  {
+   "id": "m12",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ar%C4%B1lara%20b%C4%B1rak%C4%B1rsan%20do%C4%9Fall%C4%B1%C4%9F%C4%B1%20bulursan.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Ar%C4%B1lara_b%C4%B1rak%C4%B1rsan_do%C4%9Fall%C4%B1%C4%9F%C4%B1_bulursan.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Sebocan",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "A beekeeper's hand holds a wooden frame with combs and bees above an open hive",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2021-05-24",
+   "width": 2088,
+   "height": 4640,
+   "role": "related"
+  },
+  {
+   "id": "m13",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Asalari%20uyasini%20tekshirayotgan%20asalarichi.png?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Asalari_uyasini_tekshirayotgan_asalarichi.png",
+   "source_name": "Wikimedia Commons",
+   "credit": "AIDEPCUL",
+   "licence": "CC BY 4.0",
+   "hosting": "hotlink",
+   "caption": "An elderly beekeeper inspects a comb frame covered with bees, near colorful hives. Documented in Tashkent, Uzbekistan",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/4.0",
+   "date": "2026-08-13",
+   "width": 964,
+   "height": 643,
+   "role": "related"
+  },
+  {
+   "id": "m14",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Asian%20Hornet%20protection%20Grid.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Asian_Hornet_protection_Grid.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Kalle Ute Inge Cindy Troy",
+   "licence": "CC BY 4.0",
+   "hosting": "hotlink",
+   "caption": "Bees at the entrance of a blue wooden hive, protected by metal mesh against Asian hornets",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/4.0",
+   "date": "2025-05-15",
+   "width": 3180,
+   "height": 2551,
+   "role": "related"
+  },
+  {
+   "id": "m15",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bastidor.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Bastidor.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Bellybee.09",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "A comb frame with honey, pollen and brood areas, from a hive in the state of Jalisco, Mexico",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2020-02-13",
+   "width": 840,
+   "height": 613,
+   "role": "related"
+  },
+  {
+   "id": "m16",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bee%20bee.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Bee_bee.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Marcobeltrametti",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "Close-up of a mass of bees on combs",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2014-09-27",
+   "width": 5616,
+   "height": 3744,
+   "role": "related"
+  },
+  {
+   "id": "m17",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bee%20feeder%20from%20Petrakov%2C%201973.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Bee_feeder_from_Petrakov%2C_1973.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Петър С. Петраков",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "Bees on wooden feeders holding liquid honey, made by a Bulgarian engineer, 1973",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2022-03-20",
+   "width": 2448,
+   "height": 3264,
+   "role": "related"
+  },
+  {
+   "id": "m18",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bee%20feeders%20from%20Petrakov%2C%201973.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Bee_feeders_from_Petrakov%2C_1973.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Петър С. Петраков",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "Sanded wooden bee feeders scattered on a table near a jar of honey",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2022-03-20",
+   "width": 2448,
+   "height": 3264,
+   "role": "related"
+  },
+  {
+   "id": "m19",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bee%20house.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Bee_house.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "MathieuL1984",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "An old white wooden hive with a landing board, and a bee at the entrance",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2012-03-26",
+   "width": 3456,
+   "height": 2304,
+   "role": "related"
+  },
+  {
+   "id": "m20",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bee%20Keepers%201952%20%284761363575%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Bee_Keepers_1952_%284761363575%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "rickpilot_2000",
+   "licence": "CC BY 2.0",
+   "hosting": "hotlink",
+   "caption": "Family photograph from 1952: two beekeepers in mesh veils hold a frame of bees. According to the description, Ethel Albee Green and her son in Brookfield, Connecticut",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/2.0",
+   "date": "1952-06-06",
+   "width": 998,
+   "height": 726,
+   "role": "related"
+  },
+  {
+   "id": "m21",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Beehives%20at%20Government%20House%20Adelaide%2C%20South%20Australia.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Beehives_at_Government_House_Adelaide%2C_South_Australia.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Sandy Beekeeper",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "Wooden hives in a stone wall, and beside them two police officers mounted on white horses, at Government House in Adelaide, Australia",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2021-10-10",
+   "width": 4000,
+   "height": 3000,
+   "role": "related"
+  },
+  {
+   "id": "m22",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Beekeeper%20%282489417001%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Beekeeper_%282489417001%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "rickpilot_2000",
+   "licence": "CC BY 2.0",
+   "hosting": "hotlink",
+   "caption": "A beekeeper in a white suit holds a comb frame near green wooden hives in a forest",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/2.0",
+   "date": "2008-05-13",
+   "width": 1400,
+   "height": 1050,
+   "role": "related"
+  },
+  {
+   "id": "m23",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Beekeeping%20Farm%20Showing%20Men%28GN07708%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Beekeeping_Farm_Showing_Men%28GN07708%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "State Government Photographer",
+   "licence": "CC0",
+   "hosting": "hotlink",
+   "caption": "Old black-and-white photograph of a wide field with dozens of wooden hives and people among the trees",
+   "illustrates": [],
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "date": "circa 1925",
+   "width": 3264,
+   "height": 2448,
+   "role": "related"
+  },
+  {
+   "id": "m24",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Beekeeping%20in%20Farrukhabad.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Beekeeping_in_Farrukhabad.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Mohammad Aqib Khan",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "A beekeeper holds a frame covered with bees between rows of hives, in Farrukhabad, India",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2023-02-07",
+   "width": 5545,
+   "height": 3737,
+   "role": "related"
+  },
+  {
+   "id": "m25",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bees%20house%20%28Harvesting%20Honey%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Bees_house_%28Harvesting_Honey%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Akbor777",
+   "licence": "CC BY 4.0",
+   "hosting": "hotlink",
+   "caption": "Beekeepers among hives against a yellow flowering field",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/4.0",
+   "date": "2024-12-16",
+   "width": 4472,
+   "height": 2519,
+   "role": "related"
+  },
+  {
+   "id": "m27",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Better%20fruit%20%2820360012192%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Better_fruit_%2820360012192%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Internet Archive Book Images",
+   "licence": "No restrictions",
+   "hosting": "hotlink",
+   "caption": "Old photograph from an agriculture book: a man and a woman between rows of hives in an orchard",
+   "illustrates": [],
+   "licence_url": "https://www.flickr.com/commons/usage/",
+   "date": "1825",
+   "width": 1400,
+   "height": 874,
+   "role": "related"
+  },
+  {
+   "id": "m28",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Beutenheber%20horizontal.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Beutenheber_horizontal.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Psychedilly Circus",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "A wooden hive on a green stand with a winch for lifting the hive boxes, in two positions",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2024-07-15",
+   "width": 4904,
+   "height": 2619,
+   "role": "related"
+  },
+  {
+   "id": "m29",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bienen%20am%20Bienenstock4.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Bienen_am_Bienenstock4.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Dellex",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "Bees at the entrance of a green hive",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2019-06-07",
+   "width": 4224,
+   "height": 2376,
+   "role": "related"
+  },
+  {
+   "id": "m30",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bienenhaus%20Tierpark%20Herberstein%2001.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Bienenhaus_Tierpark_Herberstein_01.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Liuthalas",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "A wooden bee house at an animal park in Herberstein, Austria",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2019-07-27",
+   "width": 5184,
+   "height": 3888,
+   "role": "related"
+  },
+  {
+   "id": "m31",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bienenstock%20-Sachsen%20-%20Bild%200021.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Bienenstock_-Sachsen_-_Bild_0021.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Lupus in Saxonia",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "Colorful wooden hive fronts, green, blue and yellow",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2018-07-30",
+   "width": 8192,
+   "height": 4724,
+   "role": "related"
+  },
+  {
+   "id": "m32",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bienenstock%20-Sachsen%20-%20Waben%20Bild%20001.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Bienenstock_-Sachsen_-_Waben_Bild_001.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Lupus in Saxonia",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "Close-up of empty, dark comb cells",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2018-07-29",
+   "width": 8399,
+   "height": 4724,
+   "role": "related"
+  },
+  {
+   "id": "m33",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bienenstock%20-Sachsen%20-%20Waben%20Bild%20002.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Bienenstock_-Sachsen_-_Waben_Bild_002.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Lupus in Saxonia",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "Close-up of light-colored wax comb cells",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2018-07-29",
+   "width": 8399,
+   "height": 4724,
+   "role": "related"
+  },
+  {
+   "id": "m34",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bienenvolk%20Gemuelldiagnose%2063.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Bienenvolk_Gemuelldiagnose_63.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Waugsberg",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "Debris from the bottom of a hive on a white surface. According to the description, examining it indicates the health of the colony",
+   "illustrates": [],
+   "licence_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "date": "2007-06-03",
+   "width": 3504,
+   "height": 2336,
+   "role": "related"
+  },
+  {
+   "id": "m35",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bienenvolk-Gemuell.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Bienenvolk-Gemuell.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "No machine-readable author provided. Waugsberg assumed (based on copyright claims).",
+   "licence": "CC BY 2.5",
+   "hosting": "hotlink",
+   "caption": "Debris from the bottom of a hive: pollen lumps, a bee's wing and wax crumbs, next to a match for size comparison",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/2.5",
+   "date": "25 July 20",
+   "width": 3504,
+   "height": 2336,
+   "role": "related"
+  },
+  {
+   "id": "m37",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Biodiversit%C3%A9%20-%20abeilles.png?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Biodiversit%C3%A9_-_abeilles.png",
+   "source_name": "Wikimedia Commons",
+   "credit": "CMTLSE",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "A beekeeper holds a frame covered with bees above a wooden hive, on the roof of a building",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2020-10-22",
+   "width": 480,
+   "height": 640,
+   "role": "related"
+  },
+  {
+   "id": "m38",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Close-up%20capture%20of%20a%20beehive%20frame%20full%20of%20honey%20and%20bees%20%2848461529137%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Close-up_capture_of_a_beehive_frame_full_of_honey_and_bees_%2848461529137%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Ivan Radic",
+   "licence": "CC BY 2.0",
+   "hosting": "hotlink",
+   "caption": "A comb frame full of honey and bees",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/2.0",
+   "date": "2019-07-28",
+   "width": 6000,
+   "height": 4000,
+   "role": "related"
+  },
+  {
+   "id": "m39",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Close-up%20of%20a%20beekeeper%27s%20hand%20holding%20a%20hive%20tool%20%2848414383032%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Close-up_of_a_beekeeper%27s_hand_holding_a_hive_tool_%2848414383032%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Ivan Radic",
+   "licence": "CC BY 2.0",
+   "hosting": "hotlink",
+   "caption": "A hand holds a yellow lever, a beekeepers' work tool",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/2.0",
+   "date": "2019-07-28",
+   "width": 5497,
+   "height": 3665,
+   "role": "related"
+  },
+  {
+   "id": "m40",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Antalya%20%28provincia%29%201998%2009.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Antalya_%28provincia%29_1998_09.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "LBM1948",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "Migratory beekeepers with rows of hives on a green slope and a tent, in Antalya, Turkey, 1998",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "1998-04",
+   "width": 1035,
+   "height": 701,
+   "role": "related"
+  },
+  {
+   "id": "m41",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lewinbeekeeping.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Lewinbeekeeping.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Meganesia",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "Hives on a lakeshore among hills, in the village of Levin in southeastern Turkey",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2018-07-17",
+   "width": 1578,
+   "height": 945,
+   "role": "related"
+  },
+  {
+   "id": "m46",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Beehives%20in%20Men%C3%A7una.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Beehives_in_Men%C3%A7una.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Kurmanbek",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "Hives in wooded mountainous terrain near the Mençuna Waterfall",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2024-05-18",
+   "width": 4032,
+   "height": 3024,
+   "role": "related"
+  },
+  {
+   "id": "m48",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Beekeeping%2C%20Adana%2002.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Beekeeping%2C_Adana_02.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Zeynel Cebeci",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "A migratory beekeeper inspects his hives in Sarıçam, Adana, Turkey",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2015-02-21",
+   "width": 4138,
+   "height": 2552,
+   "role": "related"
+  },
+  {
+   "id": "m50",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Karakovan%2C%20Rize%202014-1.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Karakovan%2C_Rize_2014-1.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Hamdigumus",
+   "licence": "CC0",
+   "hosting": "hotlink",
+   "caption": "Traditional barrel hives on wooden poles in a garden in Rize, Turkey, 2014",
+   "illustrates": [],
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "date": "2014-08-07",
+   "width": 3456,
+   "height": 5184,
+   "role": "related"
+  },
+  {
+   "id": "m51",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Karakovan%2C%20Rize%202014-2.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Karakovan%2C_Rize_2014-2.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Hamdigumus",
+   "licence": "CC0",
+   "hosting": "hotlink",
+   "caption": "Traditional hives on a platform among trees in Rize, Turkey, 2014",
+   "illustrates": [],
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "date": "2014-08-07",
+   "width": 5184,
+   "height": 3456,
+   "role": "related"
+  },
+  {
+   "id": "m52",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/En%20esta%20imagen%20se%20puede%20observar%20al%20Apicultor%20Sandry%20Luis%20Osorio%20trabajando%20en%20la%20crianza%20de%20abejas%20reinas%20creando%20h%C3%ADbridos%20de%20la%20l%C3%ADnea%20M%20y%20C%20de%20la%20rama%20evolutiva%20de%20apis%20meliferas..jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:En_esta_imagen_se_puede_observar_al_Apicultor_Sandry_Luis_Osorio_trabajando_en_la_crianza_de_abejas_reinas_creando_h%C3%ADbridos_de_la_l%C3%ADnea_M_y_C_de_la_rama_evolutiva_de_apis_meliferas..jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Sandry Luis Osorio",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "A yellow plastic device above frames in an open wooden hive, held by a gloved hand",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2025-02-15",
+   "width": 1600,
+   "height": 1204,
+   "role": "related"
+  }
+ ],
+ "check": {
+  "passed": true,
+  "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
+  "checked_at": "2026-11-14T07:40:27Z",
+  "counts": {
+   "confirmed": 84,
+   "not_confirmed": 0,
+   "deleted_sentences": 3,
+   "first_round_confirmed": 83,
+   "first_round_contradicted": 2,
+   "first_round_unverifiable": 3
+  },
+  "note": "unverifiable sentences were deleted, contradicted ones fixed from the source and checked again"
+ },
+ "meta": {
+  "run": "beewise-robotic-beehive",
+  "pipeline": "scripts/museum/museum_line.py",
+  "models": {
+   "research": "sonnet-5-5",
+   "extract": "sonnet-5-5",
+   "media": "sonnet-5-5",
+   "write": "opus-5-5 medium",
+   "check": "opus-5-5 medium",
+   "fix": "opus-5-5 medium"
+  },
+  "source_quality": {
+   "sources": 11,
+   "wikipedia": 0,
+   "strong": 9,
+   "ok": true,
+   "warnings": []
+  }
+ },
+ "lang": "en",
+ "translation": {
+  "from": "he",
+  "translator": "claude-opus-5-5",
+  "checker": "claude-opus-5-5 (separate call, blind to the translation prompt)",
+  "checked_at": "2026-11-21T04:34:33Z",
+  "passed": true,
+  "items": 149,
+  "pairs_checked": 6,
+  "reused": 143,
+  "first_round_flagged": 1,
+  "still_flagged": 0,
+  "flagged": [],
+  "quote_translations": {}
+ }
+}

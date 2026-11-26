@@ -1,0 +1,56 @@
+{
+ "schema": "maasei-backdrop/1",
+ "slug": "remilk-precision-fermentation-dairy-protein",
+ "media": "m14",
+ "img": "https://commons.wikimedia.org/wiki/Special:FilePath/20180124-OSEC-PJK-1132%20TONED%20%2839891696481%29.jpg?width=1920",
+ "img_small": "https://commons.wikimedia.org/wiki/Special:FilePath/20180124-OSEC-PJK-1132%20TONED%20%2839891696481%29.jpg?width=1080",
+ "why": "A wide view inside an industrial dairy barn, with a Holstein cow at the feed rails and starlings over the straw, shows the cow-based dairy that Remilk's yeast-made milk protein is meant to replace, with plenty of depth and texture that still read well when darkened.",
+ "chosen_by": "opus picker",
+ "alternates": [
+  "m10"
+ ],
+ "from": {
+  "average": "#76716b",
+  "picked": "#a08b5f",
+  "coloured_share": 0.285,
+  "lightness": 0.44
+ },
+ "palette": {
+  "paper": "#f4f0e9",
+  "surface": "#faf9f6",
+  "band": "#ece5d7",
+  "tint": "#eae1cc",
+  "header": "#efeadf",
+  "rule": "#d5c8af",
+  "text": "#2a2418",
+  "text2": "#4c4433",
+  "accent": "#715c33",
+  "meta": "#655e4c",
+  "tone": "#221f1b",
+  "shadow": "33, 28, 18"
+ },
+ "checks": {
+  "text_on_paper": 13.55,
+  "text_on_surface": 14.62,
+  "text_on_band": 12.28,
+  "text_on_tint": 11.83,
+  "text_on_header": 12.83,
+  "text2_on_paper": 8.47,
+  "text2_on_surface": 9.14,
+  "text2_on_band": 7.68,
+  "text2_on_tint": 7.4,
+  "text2_on_header": 8.02,
+  "accent_on_paper": 5.63,
+  "accent_on_surface": 6.08,
+  "accent_on_band": 5.11,
+  "accent_on_tint": 4.92,
+  "accent_on_header": 5.34,
+  "meta_on_paper": 5.67,
+  "meta_on_surface": 6.12,
+  "meta_on_band": 5.14,
+  "meta_on_tint": 4.95,
+  "meta_on_header": 5.37,
+  "paper_on_accent": 5.63
+ },
+ "passed": true
+}

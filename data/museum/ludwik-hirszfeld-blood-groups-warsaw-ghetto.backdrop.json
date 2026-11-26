@@ -1,0 +1,56 @@
+{
+ "schema": "maasei-backdrop/1",
+ "slug": "ludwik-hirszfeld-blood-groups-warsaw-ghetto",
+ "media": "m7",
+ "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Warsaw%20Ghetto%201941.jpg?width=1920",
+ "img_small": "https://commons.wikimedia.org/wiki/Special:FilePath/Warsaw%20Ghetto%201941.jpg?width=1080",
+ "why": "A colour street scene inside the Warsaw Ghetto in February 1941, the month Hirszfeld was forced in, with a crowd, a ghetto policeman and the city stretching back, so it shows the hardship his secret typhus vaccinations answered.",
+ "chosen_by": "opus picker",
+ "alternates": [
+  "m18"
+ ],
+ "from": {
+  "average": "#80787f",
+  "picked": "#422b38",
+  "coloured_share": 0.077,
+  "lightness": 0.492
+ },
+ "palette": {
+  "paper": "#f4e9ef",
+  "surface": "#faf6f8",
+  "band": "#ecd7e3",
+  "tint": "#eaccdd",
+  "header": "#efdfe8",
+  "rule": "#d5afc4",
+  "text": "#2a1822",
+  "text2": "#4c3341",
+  "accent": "#78365b",
+  "meta": "#684f5e",
+  "tone": "#221b21",
+  "shadow": "33, 18, 26"
+ },
+ "checks": {
+  "text_on_paper": 14.17,
+  "text_on_surface": 15.65,
+  "text_on_band": 12.3,
+  "text_on_tint": 11.32,
+  "text_on_header": 13.09,
+  "text2_on_paper": 9.56,
+  "text2_on_surface": 10.56,
+  "text2_on_band": 8.29,
+  "text2_on_tint": 7.64,
+  "text2_on_header": 8.83,
+  "accent_on_paper": 7.16,
+  "accent_on_surface": 7.91,
+  "accent_on_band": 6.21,
+  "accent_on_tint": 5.72,
+  "accent_on_header": 6.62,
+  "meta_on_paper": 6.19,
+  "meta_on_surface": 6.83,
+  "meta_on_band": 5.37,
+  "meta_on_tint": 4.94,
+  "meta_on_header": 5.71,
+  "paper_on_accent": 7.16
+ },
+ "passed": true
+}

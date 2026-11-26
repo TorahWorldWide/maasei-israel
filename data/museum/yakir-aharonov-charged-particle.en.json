@@ -1,0 +1,1398 @@
+{
+ "schema": "maasei-museum/1",
+ "slug": "yakir-aharonov-charged-particle",
+ "deed": "יקיר אהרונוב מתאר חלקיק טעון המושפע מפוטנציאל חשמלי גם ללא שדה",
+ "canonical_type": "scientific-discovery",
+ "year": "1959",
+ "title": "Israeli physicist Yakir Aharonov showed that an electron is influenced by a potential even in a region with no field",
+ "trailer": [
+  {
+   "text": "Yakir Aharonov, an Israeli physicist born in 1932, is a laureate of the Israel Prize in physics and the Wolf Prize in physics.",
+   "claims": [
+    "c16",
+    "c34",
+    "c35"
+   ]
+  },
+  {
+   "text": "In 1959, during his PhD studies in Bristol, he and the American theorist David Bohm showed a new phenomenon theoretically.",
+   "claims": [
+    "c18"
+   ]
+  },
+  {
+   "text": "According to it, in quantum theory an electron can be influenced by the potentials even when it does not pass through any region that contains a field.",
+   "claims": [
+    "c4"
+   ]
+  },
+  {
+   "text": "In 1986 the Japanese physicist Akira Tonomura and his team observed the effect in an experiment.",
+   "claims": [
+    "c21",
+    "c52"
+   ]
+  },
+  {
+   "text": "The original paper has been cited close to 10,000 times, and has influenced areas ranging from electron microscopy to fundamental questions in physics.",
+   "claims": [
+    "c22"
+   ]
+  }
+ ],
+ "hero_media": [
+  "m1",
+  "m3",
+  "m2",
+  "m12",
+  "m13"
+ ],
+ "glance": [
+  {
+   "label": "Who",
+   "value": "Yakir Aharonov, Israeli physicist",
+   "claims": [
+    "c16"
+   ]
+  },
+  {
+   "label": "When",
+   "value": "1959",
+   "claims": [
+    "c1",
+    "c18"
+   ]
+  },
+  {
+   "label": "Where",
+   "value": "University of Bristol, England",
+   "claims": [
+    "c1"
+   ]
+  },
+  {
+   "label": "Experimental proof",
+   "value": "Akira Tonomura, 1986",
+   "claims": [
+    "c21"
+   ]
+  },
+  {
+   "label": "Impact",
+   "value": "Close to 10,000 citations",
+   "claims": [
+    "c22"
+   ]
+  },
+  {
+   "label": "Recognition",
+   "value": "Israel Prize 1989, Wolf Prize 1998, US National Medal of Science 2010",
+   "claims": [
+    "c34",
+    "c35",
+    "c39"
+   ]
+  }
+ ],
+ "stations": [
+  {
+   "id": "s1",
+   "title": "From Kiryat Haim to Bristol",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "Yakir Aharonov was born in 1932 in Kiryat Haim, near Haifa.",
+      "claims": [
+       "c28",
+       "c32"
+      ]
+     },
+     {
+      "text": "In 1956 he completed a bachelor's degree at the Technion in Haifa.",
+      "claims": [
+       "c28"
+      ]
+     },
+     {
+      "text": "From there he moved to Bristol, England, together with his supervisor, David Bohm.",
+      "claims": [
+       "c28"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "At the time, classical mechanics regarded the potentials as purely mathematical aids.",
+      "claims": [
+       "c3"
+      ]
+     },
+     {
+      "text": "Only the fields were attributed a direct physical meaning.",
+      "claims": [
+       "c3"
+      ]
+     }
+    ]
+   ],
+   "media": [],
+   "disagreements": []
+  },
+  {
+   "id": "s2",
+   "title": "The idea: a potential without a field",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "The paper by Aharonov and Bohm was written at the H. H. Wills Physics Laboratory at the University of Bristol.",
+      "claims": [
+       "c1"
+      ]
+     },
+     {
+      "text": "According to its heading, it was received on May 28, 1959, and its revised version on June 16, 1959.",
+      "claims": [
+       "c1"
+      ]
+     },
+     {
+      "text": "According to Hayadan, Aharonov came up with the idea, and Bohm helped him formulate it.",
+      "claims": [
+       "c44"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "The paper argues that, contrary to classical mechanics, potentials affect charged particles even in a region where all the fields and forces vanish.",
+      "claims": [
+       "c2"
+      ]
+     },
+     {
+      "text": "The central result: in quantum theory an electron can be influenced by the potentials even when all the field regions are away from it.",
+      "claims": [
+       "c4"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "From this the authors proposed that in quantum mechanics the potentials are the fundamental entities, and the fields are derived from them.",
+      "claims": [
+       "c12"
+      ]
+     },
+     {
+      "text": "One of the directions they proposed for further work is a nonlocal theory, in which an electron responds to a field located at a distance from it.",
+      "claims": [
+       "c13"
+      ]
+     }
+    ]
+   ],
+   "media": [],
+   "disagreements": [
+    "d1"
+   ]
+  },
+  {
+   "id": "s3",
+   "title": "Two thought experiments",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "In the first experiment, a single beam of electrons is split into two parts.",
+      "claims": [
+       "c5"
+      ]
+     },
+     {
+      "text": "Each part enters a long cylindrical metal tube.",
+      "claims": [
+       "c5"
+      ]
+     },
+     {
+      "text": "In this way the electron is in a potential that varies in time, but never inside a field.",
+      "claims": [
+       "c6"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "In the second experiment, with a magnetic coil (solenoid), each part of the beam passes on a different side of the coil and does not enter it.",
+      "claims": [
+       "c7"
+      ]
+     },
+     {
+      "text": "According to the paper, the effect will exist even when there are no magnetic forces where the beam passes.",
+      "claims": [
+       "c8"
+      ]
+     },
+     {
+      "text": "The authors proposed testing this by varying the magnetic flux during the exposure, which should change the interference bands.",
+      "claims": [
+       "c11"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "The paper notes that until then no direct experiments had been carried out that confirmed the phenomenon.",
+      "claims": [
+       "c9"
+      ]
+     },
+     {
+      "text": "According to the paper, recent experiments had already succeeded in obtaining interference from electron beams separated by as much as 0.8 mm.",
+      "claims": [
+       "c10"
+      ]
+     },
+     {
+      "text": "The authors thanked Dr. Chambers for discussions on the experimental side, and Professor Pryce for many helpful discussions.",
+      "claims": [
+       "c14",
+       "c15"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m1",
+    "m9"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s4",
+   "title": "The proof in the laboratory",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "According to Wikipedia, the first claimed experimental confirmation was by Robert Chambers in 1960.",
+      "claims": [
+       "c50"
+      ]
+     },
+     {
+      "text": "He used an electron interferometer and a magnetic field from a thin iron \"whisker\".",
+      "claims": [
+       "c50"
+      ]
+     },
+     {
+      "text": "Later researchers questioned several of the early results, because the electrons may not have been completely shielded from the fields.",
+      "claims": [
+       "c51"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "In 1986 Akira Tonomura and his team observed the effect without ambiguity.",
+      "claims": [
+       "c52"
+      ]
+     },
+     {
+      "text": "They completely excluded the magnetic field from the electron path with the help of a superconducting film.",
+      "claims": [
+       "c52"
+      ]
+     },
+     {
+      "text": "This proof settled the question of whether the effect exists.",
+      "claims": [
+       "c24"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m3"
+   ],
+   "disagreements": [
+    "d2"
+   ]
+  },
+  {
+   "id": "s5",
+   "title": "What came of it",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "The original paper has received close to 10,000 citations.",
+      "claims": [
+       "c22"
+      ]
+     },
+     {
+      "text": "It has influenced areas ranging from practical applications in electron microscopy to fundamental discussions of gauge theory.",
+      "claims": [
+       "c22"
+      ]
+     },
+     {
+      "text": "The physicist Chen-Ning Yang considered the effect to be the only direct experimental proof of the gauge principle.",
+      "claims": [
+       "c53"
+      ]
+     },
+     {
+      "text": "New Scientist magazine chose it as one of the \"seven wonders of the quantum world\".",
+      "claims": [
+       "c54"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to the Wolf Foundation, geometric and topological phases have become an essential part of micron-sized electronic devices and SQUID devices.",
+      "claims": [
+       "c31"
+      ]
+     },
+     {
+      "text": "According to Tel Aviv University, Aharonov's discoveries have led to fruitful theoretical and experimental research worldwide.",
+      "claims": [
+       "c38"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "The idea continues to develop.",
+      "claims": [
+       "c46",
+       "c58"
+      ]
+     },
+     {
+      "text": "In early 2022 an experiment was carried out to observe a gravitational version of the effect, with ultracold rubidium atoms.",
+      "claims": [
+       "c58"
+      ]
+     },
+     {
+      "text": "In 2023, a paper by Aharonov and colleagues examined a version of the effect that ostensibly does not require the electron to close a loop.",
+      "claims": [
+       "c46"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m2"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s6",
+   "title": "Recognition",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "In 1984 Aharonov received the Rothschild Prize in physics, and in 1989 the Israel Prize in physics.",
+      "claims": [
+       "c34",
+       "c35"
+      ]
+     },
+     {
+      "text": "In 1991 he received the Elliot Cresson Medal, and in 1998 the Wolf Prize in physics.",
+      "claims": [
+       "c35"
+      ]
+     },
+     {
+      "text": "The Wolf Prize was awarded to him for the discovery of quantum topological and geometrical phases, including the Aharonov-Bohm effect.",
+      "claims": [
+       "c27"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "In 2010 he received the US National Medal of Science from President Obama.",
+      "claims": [
+       "c39"
+      ]
+     },
+     {
+      "text": "In 2024 he was elected to the Royal Society of London.",
+      "claims": [
+       "c17"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to Hayadan, John Maddox, the editor of Nature, wrote in December 1992 that Aharonov deserved the Nobel Prize for his discovery.",
+      "claims": [
+       "c41",
+       "c42"
+      ]
+     },
+     {
+      "text": "Hayadan reported that Aharonov was ranked at the top of the list of candidates expected to win the Nobel Prize in Physics for 2009, according to Thomson Reuters.",
+      "claims": [
+       "c40"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m8"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s7",
+   "title": "The man",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "After Bristol, Aharonov taught at Brandeis University in 1960–1961, and at Yeshiva University in 1964–1967.",
+      "claims": [
+       "c36"
+      ]
+     },
+     {
+      "text": "According to Tel Aviv University, apart from the effect with Bohm, a main contribution of his is weak measurements, together with Lev Vaidman and David Albert.",
+      "claims": [
+       "c37"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "His career in quantum theory spans eight decades.",
+      "claims": [
+       "c16"
+      ]
+     },
+     {
+      "text": "He still works as a Professor of Theoretical Physics at Chapman University in California.",
+      "claims": [
+       "c17"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "Guy Hetzroni of the Open University published an interview with him in the journal EPJ H.",
+      "claims": [
+       "c19"
+      ]
+     },
+     {
+      "text": "In the interview Aharonov talks about the discovery of the effect, its reception and the debates around it.",
+      "claims": [
+       "c26"
+      ]
+     },
+     {
+      "text": "He also shares memories of conversations with Heisenberg, Feynman and Chen-Ning Yang.",
+      "claims": [
+       "c25"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m5",
+    "m4",
+    "m6",
+    "m7"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s8",
+   "title": "Debates and open questions",
+   "kind": "hard",
+   "paragraphs": [
+    [
+     {
+      "text": "According to Aharonov, his and Bohm's ideas sparked long debates in the physics community.",
+      "claims": [
+       "c23"
+      ]
+     },
+     {
+      "text": "Tonomura's experiment settled that the effect exists, but the debate over its interpretation continues to this day.",
+      "claims": [
+       "c24"
+      ]
+     },
+     {
+      "text": "According to the Wolf Foundation, the effect requires an unsettling revision of classical ideas, and there is still much discussion about it.",
+      "claims": [
+       "c30"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "Lev Vaidman disputed the accepted interpretation.",
+      "claims": [
+       "c55"
+      ]
+     },
+     {
+      "text": "In his view, the effect can be explained without potentials, if the charges that create the field are treated fully quantum mechanically.",
+      "claims": [
+       "c55"
+      ]
+     },
+     {
+      "text": "Aharonov, Cohen and Rohrlich responded that the effect may be due to a local potential or to non-local fields.",
+      "claims": [
+       "c56"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "Werner Ehrenberg and Raymond Siday predicted the effect as early as 1949.",
+      "claims": [
+       "c48"
+      ]
+     },
+     {
+      "text": "According to Wikipedia, after the 1959 paper was published Bohm learned of their work, and it was acknowledged in the follow-up paper of 1961.",
+      "claims": [
+       "c49"
+      ]
+     },
+     {
+      "text": "The original time-dependent electric effect has not yet been verified experimentally.",
+      "claims": [
+       "c57"
+      ]
+     }
+    ]
+   ],
+   "media": [],
+   "disagreements": [
+    "d3"
+   ]
+  }
+ ],
+ "disagreements": [
+  {
+   "id": "d1",
+   "question": "In what year was the effect discovered?",
+   "versions": [
+    {
+     "says": "The original paper and the EPJ H interview: in 1959, in Bristol",
+     "claims": [
+      "c1",
+      "c18"
+     ]
+    },
+    {
+     "says": "Hayadan: in 1953, as part of Aharonov's doctoral thesis",
+     "claims": [
+      "c43"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d2",
+   "question": "Who first confirmed the effect experimentally, and how convincing is it?",
+   "versions": [
+    {
+     "says": "According to Wikipedia, the first claimed confirmation was by Robert Chambers in 1960",
+     "claims": [
+      "c50"
+     ]
+    },
+    {
+     "says": "Later researchers questioned several of the early results",
+     "claims": [
+      "c51"
+     ]
+    },
+    {
+     "says": "According to the EPJ H interview, experimental proof came in 1986 in studies by Akira Tonomura",
+     "claims": [
+      "c21"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d3",
+   "question": "Were Aharonov and Bohm the first?",
+   "versions": [
+    {
+     "says": "The EPJ H interview: the effect was discovered theoretically in 1959 by Aharonov and Bohm",
+     "claims": [
+      "c18"
+     ]
+    },
+    {
+     "says": "Wikipedia: Werner Ehrenberg and Raymond Siday first predicted the effect in 1949",
+     "claims": [
+      "c48"
+     ]
+    }
+   ]
+  }
+ ],
+ "unknowns": [
+  {
+   "text": "According to Hayadan, the scientific conference at Tel Aviv University in honor of the 50th anniversary of Aharonov's groundbreaking work was planned for October 11 to 14, 2009.",
+   "claims": [
+    "c45"
+   ]
+  }
+ ],
+ "claims": [
+  {
+   "id": "c16",
+   "text": "יקיר אהרונוב הוא פיזיקאי ישראלי יליד 1932, שקריירה בתורת הקוונטים שלו נמשכת כשמונה עשורים.",
+   "source": "src1",
+   "quote": "Yakir Aharonov is an Israeli physicist born in 1932, with a career in quantum theory now spanning eight decades.",
+   "status": "confirmed",
+   "locator": "שורה 95"
+  },
+  {
+   "id": "c34",
+   "text": "אהרונוב קיבל פרס ישראל בפיזיקה ב-1989.",
+   "source": "src2",
+   "quote": "In 1989 he was awarded the Israel Prize in physics.",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c35",
+   "text": "לפי האנציקלופדיה, פרסיו של אהרונוב כוללים את פרס רוטשילד בפיזיקה (1984), מדליית אליוט קרסון (1991) ופרס וולף בפיזיקה (1998).",
+   "source": "src2",
+   "quote": "Prizes and awards include the Rothschild Prize in physics (1984), the Elliot Cresson Medal (1991), and the Wolf Prize in physics (1998).",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c18",
+   "text": "אפקט אהרונוב-בוהם התגלה תאורטית ב-1959 בזמן לימודי הדוקטורט של אהרונוב בבריסטול עם התאורטיקן האמריקאי דיוויד בוהם.",
+   "source": "src1",
+   "quote": "made in 1959 during his PhD studies with American theorist David Bohm at the University of Bristol.",
+   "status": "confirmed",
+   "locator": "שורה 95"
+  },
+  {
+   "id": "c4",
+   "text": "התוצאה המרכזית של המאמר: בתורת הקוונטים אלקטרון יכול להיות מושפע מהפוטנציאלים גם כשכל אזורי השדה מוחרגים ממנו.",
+   "source": "src3",
+   "quote": "an electron (for example) can be influenced by the potentials even if all the field regions are excluded from it.",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c21",
+   "text": "ההוכחה הניסויית הגיעה ב-1986 במחקרים פורצי דרך בהובלת הפיזיקאי היפני אקירה טונומורה.",
+   "source": "src1",
+   "quote": "Experimental proof came in 1986 through groundbreaking studies led by Japanese physicist Akira Tonomura",
+   "status": "confirmed",
+   "locator": "שורה 98"
+  },
+  {
+   "id": "c52",
+   "text": "טונומורה וצוותו ב-1986 צפו באפקט ללא עמימות, תוך הרחקה מוחלטת של השדה המגנטי מנתיב האלקטרונים בעזרת שכבת מוליך-על.",
+   "source": "src4",
+   "quote": "An early experiment in which an unambiguous Aharonov–Bohm effect was observed by completely excluding the magnetic field from the electron path (with the help of a superconducting film) was performed by Tonomura et al. in 1986.",
+   "status": "confirmed",
+   "locator": "שורה 32"
+  },
+  {
+   "id": "c22",
+   "text": "המאמר המקורי זכה לכמעט 10,000 ציטוטים והשפיע על תחומים מיישומים בהם מיקרוסקופיית אלקטרונים ועד דיונים יסודיים בתורת המדידה (gauge).",
+   "source": "src1",
+   "quote": "with close to 10,000 citations, it has influenced areas ranging from practical applications in electron microscopy to fundamental discussions of gauge theory.",
+   "status": "confirmed",
+   "locator": "שורה 98"
+  },
+  {
+   "id": "c1",
+   "text": "המאמר המקורי של אהרונוב ובוהם נכתב במעבדת H. H. Wills לפיזיקה באוניברסיטת בריסטול באנגליה, ולפי הכיתוב התקבל ב-28 במאי 1959 וגרסתו המתוקנת ב-16 ביוני 1959.",
+   "source": "src3",
+   "quote": "H. II. Wills Physics Laboratory, University of Bristol, Bristol, England (Received May 28, 1959;revised manuscript received June 16, 1959)",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c39",
+   "text": "אהרונוב קיבל את מדליית המדע הלאומית של ארצות הברית מהנשיא אובמה ב-2010.",
+   "source": "src5",
+   "quote": "Receiving the National Medal of Science, USA from president Obama, 2010",
+   "status": "confirmed",
+   "locator": "שורה 143"
+  },
+  {
+   "id": "c28",
+   "text": "אהרונוב נולד ב-1932 בישראל, סיים תואר ראשון בטכניון בחיפה ב-1956 ועבר לבריסטול עם מנחהו בוהם.",
+   "source": "src6",
+   "quote": "completed his undergraduate education at the Technion – Israel Institute of Technology in Haifa, earning a BSc in 1956.",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c32",
+   "text": "האנציקלופדיה היהודית מגדירה את אהרונוב כפיזיקאי ישראלי שנולד בקריית חיים שליד חיפה.",
+   "source": "src2",
+   "quote": "AHARONOV, YAKIR (1932– ), Israeli physicist. Aharonov was born in the Haifa suburb of Kiryat ?ayyim",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c3",
+   "text": "במכניקה הקלאסית ראו בפוטנציאלים עזרים מתמטיים בלבד, ורק לשדות יוחסה משמעות פיזיקלית ישירה.",
+   "source": "src3",
+   "quote": "For this reason, the potentials have been regarded as purely mathematical auxiliaries, while only the field quantities were thought to have a direct physical meaning.",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c44",
+   "text": "לפי הידען, אהרונוב הגה את הרעיון ומנחהו דיוויד בוהם סייע לו לנסח אותו.",
+   "source": "src7",
+   "quote": "It was Aaronov who came up with the idea, and his mentor, physicist David Bohm, helped him put it down.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c2",
+   "text": "המאמר טוען שבניגוד למסקנות המכניקה הקלאסית, פוטנציאלים משפיעים על חלקיקים טעונים גם באזור שבו כל השדות (ולכן גם הכוחות) מתאפסים.",
+   "source": "src3",
+   "quote": "contrary to the conclusions of classical mechanics, there exist effects of poten- tials on charged particles, even in the region where all the fields",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c12",
+   "text": "המאמר מציע שבמכניקה הקוונטית הישויות הפיזיקליות היסודיות הן הפוטנציאלים, ואילו השדות נגזרים מהם בדיפרנציאציה.",
+   "source": "src3",
+   "quote": "It would therefore seem natural at this point to propose that, in quantum mechanics, the fundamental physical entities are the potentials, while the fields are derived from them by differentiations.",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c13",
+   "text": "אחד משני הכיוונים שהמאמר מציע להמשך הוא ניסוח תאוריה לא-מקומית שבה האלקטרון יכול לקיים אינטראקציה עם שדה הנמצא במרחק סופי ממנו.",
+   "source": "src3",
+   "quote": "First, we may try to formulate a nonlocal theory in which, for example, the electron could interact with a field that was a finite distance away.",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c5",
+   "text": "בניסוי המחשבתי הראשון קרן אלקטרונים קוהרנטית אחת מפוצלת לשני חלקים, וכל חלק נכנס לצינור מתכת גלילי ארוך.",
+   "source": "src3",
+   "quote": "Now consider a more complex experiment in which a single coherent electron beam is split into two parts and each part is then allowed to enter a long cylindrical metal tube",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c6",
+   "text": "המטרה בסידור הצינורות היא להבטיח שהאלקטרון נמצא בפוטנציאל המשתנה בזמן מבלי להימצא אי פעם בשדה.",
+   "source": "src3",
+   "quote": "to ensure that the electron is in a time-varying potential without ever being in a fmld",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c7",
+   "text": "בניסוי עם סולנואיד הקרן מפוצלת לשני חלקים, שכל אחד מהם עובר בצד אחר של הסולנואיד ונמנע ממנו.",
+   "source": "src3",
+   "quote": "The beam is split into two parts, each going on opposite sides of the solenoid, but avoiding it.",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c8",
+   "text": "לפי המאמר, ההשפעה תתקיים גם כשאין כוחות מגנטיים הפועלים במקומות שבהם עוברת קרן האלקטרונים.",
+   "source": "src3",
+   "quote": "This eGect will exist, even though there are no magnetic forces acting in the places where the electron beam passes.",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c11",
+   "text": "המאמר מציע לבדוק את התופעה על ידי שינוי השטף המגנטי תוך כדי חשיפה, מה שישנה את חדות פסי ההתאבכות וצורתם הכללית.",
+   "source": "src3",
+   "quote": "Such a variation would, according to our previous discussion, alter the sharpness and the general form of the interference bands.",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c9",
+   "text": "המאמר מציין שנכון לזמן כתיבתו לא בוצעו ניסויים ישירים שאישרו את השפעת הפוטנציאלים במקום שבו אין שדה.",
+   "source": "src3",
+   "quote": "As yet no direct experiments have been carried out which confirm the effect of potentials where there is no Geld.",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c10",
+   "text": "לפי המאמר, ניסויים אחרונים הצליחו להפיק התאבכות מקרני אלקטרונים שהופרדו במקרה אחד במרחק של עד 0.8 מ\"מ.",
+   "source": "src3",
+   "quote": "have succeeded in obtaining interference from electron beams that have been separated in one case by as much as 0.8 mm.",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c14",
+   "text": "המחברים הודו לפרופסור פרייס על דיונים מועילים רבים.",
+   "source": "src3",
+   "quote": "We are indebted to Professor M. H. I. Pryce for many helpful discussions.",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c15",
+   "text": "המחברים הודו לד\"ר צ'יימברס על דיונים רבים בנוגע להיבט הניסויי של הבעיה.",
+   "source": "src3",
+   "quote": "Ke wish to thank Dr. Chambers for many discussions connected with the experimental side of the problem.",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c50",
+   "text": "לפי ויקיפדיה, האישור הניסויי הראשון הנטען היה של רוברט צ'יימברס ב-1960, באינטרפרומטר אלקטרונים עם שדה מגנטי מ\"שערת\" ברזל דקה.",
+   "source": "src4",
+   "quote": "The first claimed experimental confirmation was by Robert G. Chambers in 1960,[21][22] in an electron interferometer with a magnetic field produced by a thin iron whisker",
+   "status": "confirmed",
+   "locator": "שורה 32"
+  },
+  {
+   "id": "c51",
+   "text": "חוקרים מאוחרים יותר הטילו ספק בתוקף של כמה מהתוצאות המוקדמות, משום שייתכן שהאלקטרונים לא היו מוגנים לגמרי מהשדות המגנטיים.",
+   "source": "src4",
+   "quote": "However, subsequent authors questioned the validity of several of these early results because the electrons may not have been completely shielded from the magnetic fields.",
+   "status": "confirmed",
+   "locator": "שורה 32"
+  },
+  {
+   "id": "c24",
+   "text": "הוכחתו הניסויית של טונומורה הסדירה את השאלה אם האפקט קיים, אך הדיונים על פרשנותו נמשכים עד היום.",
+   "source": "src1",
+   "quote": "discussions over its interpretation – the deeper meaning of how and why it arises – have remained active to this day.",
+   "status": "confirmed",
+   "locator": "שורה 99"
+  },
+  {
+   "id": "c53",
+   "text": "צ'ן-נינג יאנג ראה באפקט אהרונוב-בוהם את ההוכחה הניסויית הישירה היחידה לעקרון המדידה (gauge).",
+   "source": "src4",
+   "quote": "Chen-Ning Yang considered the Aharonov–Bohm effect to be the only direct experimental proof of the gauge principle.[12]",
+   "status": "confirmed",
+   "locator": "שורה 13"
+  },
+  {
+   "id": "c54",
+   "text": "המגזין New Scientist בחר באפקט כאחד מ\"שבעת פלאי העולם הקוונטי\".",
+   "source": "src4",
+   "quote": "the Aharonov–Bohm effect was chosen by the New Scientist magazine as one of the \"seven wonders of the quantum world\".[11]",
+   "status": "confirmed",
+   "locator": "שורה 13"
+  },
+  {
+   "id": "c31",
+   "text": "לפי קרן וולף, הפאזות הגאומטריות והטופולוגיות הפכו למרכיבים חיוניים ביישומים מעשיים כמו התקנים אלקטרוניים בגודל מיקרון והתקני התאבכות קוונטיים מוליכי-על (SQUID).",
+   "source": "src6",
+   "quote": "they have become essential ingredients in the development of practical applications like micron sized electronic devices and superconducting quantum interference devices (SQUIDS).",
+   "status": "confirmed",
+   "locator": "שורה 16"
+  },
+  {
+   "id": "c38",
+   "text": "לפי אוניברסיטת תל אביב, גילוייו של אהרונוב הובילו למחקר תאורטי וניסויי פורה ברחבי העולם.",
+   "source": "src5",
+   "quote": "His discoveries have led to fruitful theoretical and experimental research worldwide.",
+   "status": "confirmed",
+   "locator": "שורה 116"
+  },
+  {
+   "id": "c46",
+   "text": "מאמר מ-2023 של אהרונוב ועמיתיו בוחן גרסה של אפקט אהרונוב-בוהם שלכאורה מאתגרת את הדרישה שהאלקטרון יסגור את הלולאה כדי ליצור אפקט נצפה.",
+   "source": "src8",
+   "quote": "Its topological nature commonly implies that an electron encircling a magnetic flux source in a field-free region must close the loop in order to generate an observable effect.",
+   "status": "confirmed",
+   "locator": "שורה 17"
+  },
+  {
+   "id": "c58",
+   "text": "בתחילת 2022 בוצע ניסוי לצפייה באפקט אהרונוב-בוהם הכבידתי באמצעות אטומי רובידיום קרים במיוחד.",
+   "source": "src4",
+   "quote": "in early 2022[39][40][41] an experiment was carried out to observe it based on an experimental design from 2012.[42][43]",
+   "status": "confirmed",
+   "locator": "שורה 46"
+  },
+  {
+   "id": "c27",
+   "text": "אהרונוב זכה בפרס וולף בפיזיקה על גילוי הפאזות הטופולוגיות והגאומטריות הקוונטיות, ובהן אפקט אהרונוב-בוהם ופאזת ברי.",
+   "source": "src6",
+   "quote": "for the discovery of quantum topological and geometrical phases, specifically the Aharonov-Bohm effect, the Berry phase, and their incorporation into many fields of physics",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c17",
+   "text": "אהרונוב ממשיך לעבוד כפרופסור לפיזיקה תאורטית באוניברסיטת צ'פמן בקליפורניה, ובשנת 2024 נבחר לחברות ב-Royal Society של לונדון.",
+   "source": "src1",
+   "quote": "He continues to work as a Professor of Theoretical Physics at Chapman University in California, and in 2024 was elected to the Royal Society of London.",
+   "status": "confirmed",
+   "locator": "שורה 95"
+  },
+  {
+   "id": "c41",
+   "text": "לפי הידען, מועמדותו של אהרונוב לנובל הומלצה כבר ב-1992 על ידי עורך כתב העת Nature.",
+   "source": "src7",
+   "quote": "His candidacy was recommended back in 1992 by the editor of Nature.",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c42",
+   "text": "לפי הידען, ג'ון מדוקס, עורך Nature, כתב במאמר מערכת בדצמבר 1992 שאהרונוב ראוי לפרס נובל בפיזיקה על גילויו.",
+   "source": "src7",
+   "quote": "John Maddox, the editor of the journal Nature, wrote in an editorial in December 1992 that Aaronov deserved the Nobel Prize in Physics for his discovery.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c40",
+   "text": "אתר הידען מדווח שאהרונוב דורג בראש רשימת המועמדים הצפויים לזכות בנובל לפיזיקה לשנת 2009, לפי רשימה של תומסון רויטרס.",
+   "source": "src7",
+   "quote": "ranked at the top of the list of candidates expected to win the Nobel Prize in Physics for 2009.",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c45",
+   "text": "הידען מדווח על כנס מדעי באוניברסיטת תל אביב, בין 11 ל-14 באוקטובר, לכבוד 50 שנה לעבודתו פורצת הדרך של אהרונוב.",
+   "source": "src7",
+   "quote": "a scientific conference will be held at Tel Aviv University in honor of the 50th anniversary of Prof. Aharonov's groundbreaking work.",
+   "status": "confirmed",
+   "locator": "שורה 13"
+  },
+  {
+   "id": "c36",
+   "text": "אהרונוב לימד באוניברסיטת ברנדייס ב-1960–1961 ובאוניברסיטת ישיבה ב-1964–1967.",
+   "source": "src2",
+   "quote": "he taught at Brandeis University (1960–61) and Yeshiva University (1964–67) in the U.S.",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c37",
+   "text": "לפי פרופיל אוניברסיטת תל אביב, תרומותיו העיקריות של אהרונוב הן גילוי אפקט אהרונוב-בוהם יחד עם בוהם, ומדידות חלשות יחד עם לב ויידמן ודיוויד אלברט.",
+   "source": "src5",
+   "quote": "His main contributions are believed to be the discovery of Aharonov-Bohm effect (together with David Bohm) and weak measurements (together with Lev Vaidman and David Albert).",
+   "status": "confirmed",
+   "locator": "שורה 116"
+  },
+  {
+   "id": "c19",
+   "text": "גיא הצרוני מהאוניברסיטה הפתוחה בישראל פרסם ראיון בעל-פה עם אהרונוב בכתב העת EPJ H.",
+   "source": "src1",
+   "quote": "Guy Hetzroni at the Open University of Israel presents an oral interview with Aharonov.",
+   "status": "confirmed",
+   "locator": "שורה 96"
+  },
+  {
+   "id": "c26",
+   "text": "הראיון מציג את נקודת מבטו של אהרונוב על גילוי האפקט ב-1959 בבריסטול עם בוהם, על קבלתו ועל הוויכוחים בדבר קיומו ופרשנותו.",
+   "source": "src9",
+   "quote": "the theoretical discovery of the Aharonov-Bohm effect in 1959, during his PhD studies in Bristol with David Bohm",
+   "status": "confirmed",
+   "locator": "שורה 24"
+  },
+  {
+   "id": "c25",
+   "text": "בראיון אהרונוב משתף זיכרונות מפגישות ושיחות עם פיזיקאים מובילים, ובהם הייזנברג, פיינמן וצ'ן-נינג יאנג.",
+   "source": "src1",
+   "quote": "He also shares personal memories of meetings and conversations with many leading physicists, including Werner Heisenberg, Richard Feynman, and Chen-Ning Yang",
+   "status": "confirmed",
+   "locator": "שורה 100"
+  },
+  {
+   "id": "c23",
+   "text": "לפי אהרונוב, המחלוקות סביב הרעיונות שלו ושל בוהם עוררו ויכוחים ארוכי טווח בקהילת הפיזיקה.",
+   "source": "src1",
+   "quote": "how controversies surrounding his and Bohm’s ideas sparked long-standing debates in the physics community.",
+   "status": "confirmed",
+   "locator": "שורה 99"
+  },
+  {
+   "id": "c30",
+   "text": "לפי קרן וולף, קיום אפקט אהרונוב-בוהם, המבוסס על אי-המקומיות של מכניקת הקוונטים, מחייב שינוי מטריד ברעיונות קלאסיים, ועליו עדיין מתנהל דיון רב.",
+   "source": "src6",
+   "quote": "The existence of the Aharonov-Bohm effect, which is based on the non-locality of quantum mechanics, therefore requires an unsettling revision of classical ideas about which there is still much discussion.",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c55",
+   "text": "לב ויידמן חלק על הפרשנות המקובלת, בטענה שאפשר להסביר את האפקט בלי פוטנציאלים אם מטפלים קוונטית מלאה במטענים המקור.",
+   "source": "src4",
+   "quote": "Lev Vaidman has challenged this interpretation by showing that the Aharonov–Bohm effect can be explained without the use of potentials",
+   "status": "confirmed",
+   "locator": "שורה 16"
+  },
+  {
+   "id": "c56",
+   "text": "אהרונוב, כהן ורורליך השיבו שהאפקט עשוי לנבוע מפוטנציאל מדידה מקומי או משדות לא-מקומיים שאינם תלויי מדידה.",
+   "source": "src4",
+   "quote": "Aharonov, Cohen, and Rohrlich responded that the effect may be due to a local gauge potential or due to non-local gauge-invariant fields.",
+   "status": "confirmed",
+   "locator": "שורה 16"
+  },
+  {
+   "id": "c48",
+   "text": "ורנר ארנברג ורי\"מונד סידיי ניבאו לראשונה את האפקט ב-1949.",
+   "source": "src4",
+   "quote": "Werner Ehrenberg (1901–1975) and Raymond E. Siday first predicted the effect in 1949.[4]",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c49",
+   "text": "לפי ויקיפדיה, לאחר פרסום מאמר 1959 בוהם נודע על עבודת ארנברג וסידיי, והיא הוכרה ויוחסה במאמר ההמשך של 1961.",
+   "source": "src4",
+   "quote": "After publication of the 1959 paper, Bohm was informed of Ehrenberg and Siday's work, which was acknowledged and credited in Bohm and Aharonov's subsequent 1961 paper.",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c57",
+   "text": "האפקט החשמלי המקורי התלוי בזמן טרם זכה לאימות ניסויי.",
+   "source": "src4",
+   "quote": "The original time dependent electric Aharonov–Bohm effect has not yet found experimental verification.[38]",
+   "status": "confirmed",
+   "locator": "שורה 44"
+  },
+  {
+   "id": "c43",
+   "text": "הידען מדווח שהגילוי התרחש ב-1953 במסגרת עבודת הדוקטורט של אהרונוב.",
+   "source": "src7",
+   "quote": "The discovery took place in 1953 as part of his doctoral thesis.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  }
+ ],
+ "sources": [
+  {
+   "id": "src1",
+   "label": "EPJ H Highlight, interview with Yakir Aharonov, 2025",
+   "url": "https://www.epj.org/epjh-news/2930-epjh-highlight-an-interview-with-yakir-aharonov-reflections-on-the-origins-and-impacts-of-the-aharonov-bohm-effect",
+   "kind": "press"
+  },
+  {
+   "id": "src2",
+   "label": "Encyclopedia.com (Encyclopaedia Judaica), Aharonov, Yakir",
+   "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/aharonov-yakir",
+   "kind": "reference"
+  },
+  {
+   "id": "src3",
+   "label": "Aharonov & Bohm, Physical Review 115, 485, 1959",
+   "url": "https://docente.unife.it/guido.zavattini/allegati/aharonov-bohm-physrev-115-485.pdf",
+   "kind": "press"
+  },
+  {
+   "id": "src4",
+   "label": "Wikipedia, Aharonov–Bohm effect",
+   "url": "https://en.wikipedia.org/wiki/Aharonov%E2%80%93Bohm_effect",
+   "kind": "reference"
+  },
+  {
+   "id": "src5",
+   "label": "Tel Aviv University, Yakir Aharonov profile",
+   "url": "https://en-exact-sciences.tau.ac.il/profile/yakir",
+   "kind": "organisation"
+  },
+  {
+   "id": "src6",
+   "label": "Wolf Foundation, Yakir Aharonov",
+   "url": "https://wolffund.org.il/yakir-aharonov/",
+   "kind": "official"
+  },
+  {
+   "id": "src7",
+   "label": "Hayadan, Aharonov's chances of winning the Nobel Prize",
+   "url": "https://hayadan.com/chance-of-winning-nobel-prize-to-yakir-aharonov-0410098",
+   "kind": "press"
+  },
+  {
+   "id": "src8",
+   "label": "arXiv 2303.00701",
+   "url": "https://arxiv.org/abs/2303.00701v1",
+   "kind": "press"
+  },
+  {
+   "id": "src9",
+   "label": "EPJ H, 2025, interview with Aharonov (Guy Hetzroni, Open University)",
+   "url": "https://epjh.epj.org/articles/epjh/abs/2025/01/13129_2025_Article_107/13129_2025_Article_107.html",
+   "kind": "press"
+  }
+ ],
+ "media": [
+  {
+   "id": "m1",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/ElectricAB.png?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:ElectricAB.png",
+   "source_name": "Wikimedia Commons",
+   "credit": "AlexDFischer",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "Diagram of the electric Aharonov-Bohm effect: an electron splits into two paths in a kind of interferometer, and charges Q approach the upper mirror and move away from it.",
+   "illustrates": [
+    "c57"
+   ],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2023-12-13",
+   "width": 1194,
+   "height": 803
+  },
+  {
+   "id": "m2",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/GravAB.png?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:GravAB.png",
+   "source_name": "Wikimedia Commons",
+   "credit": "AlexDFischer",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "Diagram of the gravitational Aharonov-Bohm effect: a particle of mass m splits into two paths, and masses M approach the upper mirror and move away from it.",
+   "illustrates": [
+    "c58"
+   ],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2023-12-13",
+   "width": 1116,
+   "height": 770
+  },
+  {
+   "id": "m3",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Akira%20Tonomura%202009c.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Akira_Tonomura_2009c.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "OIST from Onna Village, Japan",
+   "licence": "CC BY 2.0",
+   "hosting": "hotlink",
+   "caption": "Portrait of a man with glasses and a gray jacket, outdoors; according to the Wikimedia Commons description, this is Akira Tonomura.",
+   "illustrates": [
+    "c21"
+   ],
+   "licence_url": "https://creativecommons.org/licenses/by/2.0",
+   "date": "2009-05-11",
+   "width": 2805,
+   "height": 2792
+  },
+  {
+   "id": "m4",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=azjpTeHi7kU",
+   "youtube_id": "azjpTeHi7kU",
+   "source_page": "https://www.youtube.com/watch?v=azjpTeHi7kU",
+   "source_name": "YouTube",
+   "credit": "Kan Educational",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "Interview by Rino Tzror with Prof. Yakir Aharonov on Kan Educational, in the program \"Crossing Israel\".",
+   "illustrates": [],
+   "spoken": "he",
+   "audio_tracks": [
+    "he"
+   ]
+  },
+  {
+   "id": "m5",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=AiYdhFrQB04",
+   "youtube_id": "AiYdhFrQB04",
+   "source_page": "https://www.youtube.com/watch?v=AiYdhFrQB04",
+   "source_name": "YouTube",
+   "credit": "The Israel Academy of Sciences and Humanities",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "Interview by Prof. Adiel Stern with Prof. Yakir Aharonov, member of the Israel Academy of Sciences and Humanities, from 2021.",
+   "illustrates": []
+  },
+  {
+   "id": "m6",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=mWL69Mo7c00",
+   "youtube_id": "mWL69Mo7c00",
+   "source_page": "https://www.youtube.com/watch?v=mWL69Mo7c00",
+   "source_name": "YouTube",
+   "credit": "Kan Educational",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "Conversation of Prof. Yosef Ben-Shlomo with Prof. Yakir Aharonov in the Kan Educational series \"Conversations in Spirit\".",
+   "illustrates": [],
+   "spoken": "he",
+   "audio_tracks": [
+    "he"
+   ]
+  },
+  {
+   "id": "m7",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=oGdHLlPW9ps",
+   "youtube_id": "oGdHLlPW9ps",
+   "source_page": "https://www.youtube.com/watch?v=oGdHLlPW9ps",
+   "source_name": "YouTube",
+   "credit": "George Musser",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "Interview by journalist George Musser with Aharonov, in which he explains his work in quantum physics.",
+   "illustrates": [],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m8",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=qbMd8yGECIs",
+   "youtube_id": "qbMd8yGECIs",
+   "source_page": "https://www.youtube.com/watch?v=qbMd8yGECIs",
+   "source_name": "YouTube",
+   "credit": "TAUVOD",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "Lecture by Mikhail Katanaev at the Israel Science Foundation conference marking 50 years of the Aharonov-Bohm effect, on its geometric interpretation and on the Berry phase.",
+   "illustrates": [
+    "c45"
+   ],
+   "spoken": "ru",
+   "audio_tracks": [
+    "ru"
+   ]
+  },
+  {
+   "id": "m9",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/100%20trajectories%20guided%20by%20the%20wave%20function.png?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:100_trajectories_guided_by_the_wave_function.png",
+   "source_name": "Wikimedia Commons",
+   "credit": "Alexandre Gondran",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "Simulation of electron trajectories in the two-slit experiment, in Bohm's interpretation – not the Aharonov-Bohm experiment itself",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2016-12-14",
+   "width": 2000,
+   "height": 1375,
+   "role": "related"
+  },
+  {
+   "id": "m12",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/H.H.%20Wills%20Physics%20Building%20and%20Ivy%20Gate%20in%20winter.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:H.H._Wills_Physics_Building_and_Ivy_Gate_in_winter.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "ArticCynda",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "The inner courtyard of the H.H. Wills Physics Building in Bristol, with the tower and the ivy gate, in winter",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2019-02-01",
+   "width": 5184,
+   "height": 3456,
+   "role": "deed"
+  },
+  {
+   "id": "m13",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/H.H.%20Wills%20Physics%20Building%20Tower.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:H.H._Wills_Physics_Building_Tower.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "ArticCynda",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "The tower of the University of Bristol's H.H. Wills Physics Building in snow",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2019-02-01",
+   "width": 3456,
+   "height": 5184,
+   "role": "deed"
+  }
+ ],
+ "check": {
+  "passed": true,
+  "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
+  "checked_at": "2026-11-14T04:58:10Z",
+  "counts": {
+   "confirmed": 79,
+   "not_confirmed": 0,
+   "deleted_sentences": 3,
+   "first_round_confirmed": 77,
+   "first_round_contradicted": 2,
+   "first_round_unverifiable": 3
+  },
+  "note": "unverifiable sentences were deleted, contradicted ones fixed from the source and checked again"
+ },
+ "meta": {
+  "run": "yakir-aharonov-charged-particle",
+  "pipeline": "scripts/museum/museum_line.py",
+  "models": {
+   "research": "sonnet-5-5",
+   "extract": "sonnet-5-5",
+   "media": "sonnet-5-5",
+   "write": "opus-5-5 medium",
+   "check": "opus-5-5 medium",
+   "fix": "opus-5-5 medium"
+  },
+  "source_quality": {
+   "sources": 9,
+   "wikipedia": 1,
+   "strong": 6,
+   "ok": true,
+   "warnings": []
+  }
+ },
+ "lang": "en",
+ "translation": {
+  "from": "he",
+  "translator": "claude-opus-5-5",
+  "checker": "claude-opus-5-5 (separate call, blind to the translation prompt)",
+  "checked_at": "2026-11-21T05:53:40Z",
+  "passed": true,
+  "items": 114,
+  "pairs_checked": 3,
+  "reused": 111,
+  "first_round_flagged": 0,
+  "still_flagged": 0,
+  "flagged": [],
+  "quote_translations": {}
+ }
+}

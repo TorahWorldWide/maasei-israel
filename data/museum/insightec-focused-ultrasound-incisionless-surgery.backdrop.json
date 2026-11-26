@@ -1,0 +1,56 @@
+{
+ "schema": "maasei-backdrop/1",
+ "slug": "insightec-focused-ultrasound-incisionless-surgery",
+ "media": "m11",
+ "img": "https://commons.wikimedia.org/wiki/Special:FilePath/TiratHacarmelEasthIdndustrialZone3996.JPG?width=1920",
+ "img_small": "https://commons.wikimedia.org/wiki/Special:FilePath/TiratHacarmelEasthIdndustrialZone3996.JPG?width=1080",
+ "why": "A wide hillside view down over the Tirat Carmel industrial zone where the company is based, with layered depth and texture that stays readable when darkened.",
+ "chosen_by": "opus picker",
+ "alternates": [
+  "m8"
+ ],
+ "from": {
+  "average": "#8f918e",
+  "picked": "#374a28",
+  "coloured_share": 0.038,
+  "lightness": 0.563
+ },
+ "palette": {
+  "paper": "#eef0ed",
+  "surface": "#f8f8f7",
+  "band": "#e1e5df",
+  "tint": "#dae0d7",
+  "header": "#e6e9e4",
+  "rule": "#c0c7bc",
+  "text": "#1e2a18",
+  "text2": "#3a4931",
+  "accent": "#456436",
+  "meta": "#52624a",
+  "tone": "#1d221b",
+  "shadow": "23, 33, 18"
+ },
+ "checks": {
+  "text_on_paper": 13.09,
+  "text_on_surface": 14.12,
+  "text_on_band": 11.77,
+  "text_on_tint": 11.16,
+  "text_on_header": 12.25,
+  "text2_on_paper": 8.42,
+  "text2_on_surface": 9.08,
+  "text2_on_band": 7.57,
+  "text2_on_tint": 7.18,
+  "text2_on_header": 7.87,
+  "accent_on_paper": 5.86,
+  "accent_on_surface": 6.32,
+  "accent_on_band": 5.26,
+  "accent_on_tint": 4.99,
+  "accent_on_header": 5.48,
+  "meta_on_paper": 5.72,
+  "meta_on_surface": 6.17,
+  "meta_on_band": 5.14,
+  "meta_on_tint": 4.88,
+  "meta_on_header": 5.35,
+  "paper_on_accent": 5.86
+ },
+ "passed": true
+}

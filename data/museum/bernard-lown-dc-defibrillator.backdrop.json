@@ -1,0 +1,56 @@
+{
+ "schema": "maasei-backdrop/1",
+ "slug": "bernard-lown-dc-defibrillator",
+ "media": "m27",
+ "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Hanlon%20Square%20looking%20to%20Peter%20Bent%20Brigham%20Hospital%20-TP062-%20%286082760536%29.jpg?width=1920",
+ "img_small": "https://commons.wikimedia.org/wiki/Special:FilePath/Hanlon%20Square%20looking%20to%20Peter%20Bent%20Brigham%20Hospital%20-TP062-%20%286082760536%29.jpg?width=1080",
+ "why": "A wide 1948 street view across Hanlon Square to Peter Bent Brigham Hospital, with trams, buses and depth, sets the scene of the Boston hospital where Lown's DC defibrillation work was done, close to that era.",
+ "chosen_by": "opus picker",
+ "alternates": [
+  "m29"
+ ],
+ "from": {
+  "average": "#a9a19b",
+  "picked": "#ddd2ca",
+  "coloured_share": 0.01,
+  "lightness": 0.636
+ },
+ "palette": {
+  "paper": "#f0eeec",
+  "surface": "#f9f8f7",
+  "band": "#e5e1de",
+  "tint": "#e1dbd6",
+  "header": "#eae6e4",
+  "rule": "#c8c1bb",
+  "text": "#2a2018",
+  "text2": "#4c3e33",
+  "accent": "#71533d",
+  "meta": "#685a4f",
+  "tone": "#221e1b",
+  "shadow": "33, 24, 18"
+ },
+ "checks": {
+  "text_on_paper": 13.77,
+  "text_on_surface": 15.02,
+  "text_on_band": 12.26,
+  "text_on_tint": 11.61,
+  "text_on_header": 12.85,
+  "text2_on_paper": 8.88,
+  "text2_on_surface": 9.69,
+  "text2_on_band": 7.9,
+  "text2_on_tint": 7.49,
+  "text2_on_header": 8.29,
+  "accent_on_paper": 6.03,
+  "accent_on_surface": 6.58,
+  "accent_on_band": 5.37,
+  "accent_on_tint": 5.09,
+  "accent_on_header": 5.63,
+  "meta_on_paper": 5.74,
+  "meta_on_surface": 6.26,
+  "meta_on_band": 5.11,
+  "meta_on_tint": 4.84,
+  "meta_on_header": 5.35,
+  "paper_on_accent": 6.03
+ },
+ "passed": true
+}

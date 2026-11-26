@@ -1,0 +1,56 @@
+{
+ "schema": "maasei-backdrop/1",
+ "slug": "eric-kandel-memory-nobel",
+ "media": "m29",
+ "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Aplysia%20argus%20%2827699211652%29.jpg?width=1920",
+ "img_small": "https://commons.wikimedia.org/wiki/Special:FilePath/Aplysia%20argus%20%2827699211652%29.jpg?width=1080",
+ "why": "An Aplysia sea slug, the animal at the heart of Kandel's memory research, on a richly textured, deep seabed that still reads as an underwater scene when darkened.",
+ "chosen_by": "opus picker",
+ "alternates": [
+  "m30"
+ ],
+ "from": {
+  "average": "#50584f",
+  "picked": "#3d6f74",
+  "coloured_share": 0.25,
+  "lightness": 0.317
+ },
+ "palette": {
+  "paper": "#e9f3f4",
+  "surface": "#f6fafa",
+  "band": "#d7eaec",
+  "tint": "#cce8ea",
+  "header": "#dfeeef",
+  "rule": "#afd1d5",
+  "text": "#18292a",
+  "text2": "#334a4c",
+  "accent": "#31686d",
+  "meta": "#4c6365",
+  "tone": "#1c221b",
+  "shadow": "18, 32, 33"
+ },
+ "checks": {
+  "text_on_paper": 13.38,
+  "text_on_surface": 14.37,
+  "text_on_band": 12.14,
+  "text_on_tint": 11.73,
+  "text_on_header": 12.68,
+  "text2_on_paper": 8.36,
+  "text2_on_surface": 8.98,
+  "text2_on_band": 7.58,
+  "text2_on_tint": 7.33,
+  "text2_on_header": 7.92,
+  "accent_on_paper": 5.58,
+  "accent_on_surface": 6.0,
+  "accent_on_band": 5.06,
+  "accent_on_tint": 4.89,
+  "accent_on_header": 5.29,
+  "meta_on_paper": 5.67,
+  "meta_on_surface": 6.09,
+  "meta_on_band": 5.14,
+  "meta_on_tint": 4.97,
+  "meta_on_header": 5.37,
+  "paper_on_accent": 5.58
+ },
+ "passed": true
+}

@@ -1,0 +1,1554 @@
+{
+ "schema": "maasei-museum/1",
+ "slug": "voiceitt-speech-communication-app",
+ "deed": "חברת ווייסאיט הישראלית פיתחה אפליקציה שמאפשרת לאנשים עם דיבור לקוי לתקשר בקולם",
+ "canonical_type": "team-invention",
+ "year": "2012",
+ "title": "Israel's Voiceitt developed an app that learns impaired speech and turns it into clear speech",
+ "trailer": [
+  {
+   "text": "Voiceitt is an Israeli company that develops speech recognition technology for atypical speech.",
+   "claims": [
+    "c1"
+   ]
+  },
+  {
+   "text": "The company was founded in 2012 by Danny Weissberg and Stas Tiomkin, both graduates of the Technion.",
+   "claims": [
+    "c32"
+   ]
+  },
+  {
+   "text": "Weissberg came up with the idea after his grandmother suffered from a speech impairment following a stroke.",
+   "claims": [
+    "c16"
+   ]
+  },
+  {
+   "text": "The app learns the user's pronunciation, and after brief training it instantly turns the user's words into clear speech, as audio or text.",
+   "claims": [
+    "c36",
+    "c37",
+    "c71"
+   ]
+  },
+  {
+   "text": "In 2021 the company announced the launch of the app on the Apple App Store; it makes it easier for people with non-standard speech to communicate with those around them and to operate devices by voice.",
+   "claims": [
+    "c3",
+    "c4"
+   ]
+  }
+ ],
+ "hero_media": [
+  "m8"
+ ],
+ "glance": [
+  {
+   "label": "Founders",
+   "value": "Danny Weissberg and Stas Tiomkin, followed by Sara Smolley",
+   "claims": [
+    "c28"
+   ]
+  },
+  {
+   "label": "Founded",
+   "value": "2012",
+   "claims": [
+    "c28",
+    "c29",
+    "c32"
+   ]
+  },
+  {
+   "label": "Where",
+   "value": "Israel, with a subsidiary in the United States",
+   "claims": [
+    "c29",
+    "c30"
+   ]
+  },
+  {
+   "label": "App launch",
+   "value": "June 2021, on the Apple App Store",
+   "claims": [
+    "c3"
+   ]
+  },
+  {
+   "label": "Recognition",
+   "value": "Best of Innovation award in the accessibility category, CES 2021",
+   "claims": [
+    "c57"
+   ]
+  }
+ ],
+ "stations": [
+  {
+   "id": "s1",
+   "title": "A grandmother no one understood",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "Danny Weissberg's grandmother had a stroke, and from then on she struggled to communicate.",
+      "claims": [
+       "c14"
+      ]
+     },
+     {
+      "text": "Her full-time caregiver gradually learned to understand her speech.",
+      "claims": [
+       "c15"
+      ]
+     },
+     {
+      "text": "Weissberg said that in the hospital, it was the nurse who cared for his grandmother who was the only one who understood her without difficulty.",
+      "claims": [
+       "c17"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to him, the most painful part was the frustration: his grandmother lost her independence, and the family lost the ability to talk with her.",
+      "claims": [
+       "c19"
+      ]
+     },
+     {
+      "text": "According to an article on Mako, Weissberg conceived the idea at home following this upsetting event, 15 years before the article.",
+      "claims": [
+       "c18"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "Sara Smolley, who later joined as a co-founder, also has a family story.",
+      "claims": [
+       "c21",
+       "c28"
+      ]
+     },
+     {
+      "text": "Her grandmother was diagnosed with early-onset Parkinson's disease at age 40 and lost much of her motor capabilities.",
+      "claims": [
+       "c21",
+       "c22"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m1"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s2",
+   "title": "A problem for millions",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "Voice systems were built for standard speech, and so they leave out millions of people with speech impairments or with a strong accent.",
+      "claims": [
+       "c5"
+      ]
+     },
+     {
+      "text": "Any atypical speech, such as slurred pronunciation, a heavy accent or an unsupported language, makes using voice assistants difficult.",
+      "claims": [
+       "c7"
+      ]
+     },
+     {
+      "text": "According to Weissberg, speech-to-text tools are meant for the mass market and the 90 percent of the population that speaks in a standard way.",
+      "claims": [
+       "c11"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to a document of a European project, over one million people around the world suffer from some form of speech disability.",
+      "claims": [
+       "c8"
+      ]
+     },
+     {
+      "text": "According to ASHA, between 5% and 10% of Americans have some form of communication disorder, and it estimates that these disorders cost the United States approximately $154 billion to $186 billion a year.",
+      "claims": [
+       "c12",
+       "c13"
+      ]
+     },
+     {
+      "text": "According to the same European document, existing augmentative and alternative communication devices are cumbersome, and expensive if high accuracy is wanted.",
+      "claims": [
+       "c9"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "Discussions with speech therapists revealed that impaired speech affects many children and adults, with a range of conditions.",
+      "claims": [
+       "c25"
+      ]
+     },
+     {
+      "text": "In 2014 Weissberg said that, to his surprise, no one had a solution like theirs.",
+      "claims": [
+       "c10"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m2"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s3",
+   "title": "Two Technion graduates and one idea",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "Since 1999 Weissberg had worked as a software developer at high-tech companies such as Check Point, Radvision and HP, and he saw potential in machine learning, which was then in its early days.",
+      "claims": [
+       "c23"
+      ]
+     },
+     {
+      "text": "He also volunteered with the elderly and with the organization Save a Child’s Heart, and saw the idea as an opportunity to make an impact.",
+      "claims": [
+       "c24"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "Weissberg described the moment of insight: if the human brain can learn to understand people with a speech disability, perhaps an artificial intelligence system can succeed too.",
+      "claims": [
+       "c20"
+      ]
+     },
+     {
+      "text": "Stas Tiomkin, a speech recognition expert and, like Weissberg, a graduate of the Technion, was then researching machine learning at the Hebrew University.",
+      "claims": [
+       "c26"
+      ]
+     },
+     {
+      "text": "According to Weissberg, Tiomkin thought the idea was unique and feasible.",
+      "claims": [
+       "c27"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to the company, the two founded Voiceitt in 2012, and Sara Smolley joined a few years later.",
+      "claims": [
+       "c28"
+      ]
+     },
+     {
+      "text": "When the company had three people, it won two development grants from Israel's Office of the Chief Scientist.",
+      "claims": [
+       "c31"
+      ]
+     },
+     {
+      "text": "According to a document of a European project, the company developed Talkitt, an app that translates unintelligible sounds into clear speech in real time.",
+      "claims": [
+       "c71"
+      ]
+     },
+     {
+      "text": "As part of the project, a market validation was planned with organizations and users in Israel, the UK, Italy and Spain.",
+      "claims": [
+       "c72"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m4",
+    "m7",
+    "m10"
+   ],
+   "disagreements": [
+    "d1"
+   ]
+  },
+  {
+   "id": "s4",
+   "title": "How a machine learns to listen",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "Weissberg said they began developing a speech recognition engine that learns a person's speech the way a person does, and builds a personalized speech model for him.",
+      "claims": [
+       "c33"
+      ]
+     },
+     {
+      "text": "In 2014 he stressed that the company does pattern recognition, not speech recognition.",
+      "claims": [
+       "c34"
+      ]
+     },
+     {
+      "text": "He gave an example: a child might say \"yum, yum, yum\" when he wants to say he is hungry, and a new caregiver does not know this dictionary.",
+      "claims": [
+       "c35"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to TechCrunch, users read short, useful sentences out loud to the app, and it learns their pronunciation.",
+      "claims": [
+       "c36"
+      ]
+     },
+     {
+      "text": "After brief training it instantly turns their words into clear speech, as audio or as a text message.",
+      "claims": [
+       "c37"
+      ]
+     },
+     {
+      "text": "According to the company, the engine also recognizes syllables, cadence of speech, breathing pauses and non-verbal sounds, in any language.",
+      "claims": [
+       "c38"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m3",
+    "m5"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s5",
+   "title": "Hundreds of people tried it, and the app changed",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "In 2017 the company's pilot customers were hospitals and schools, with people whose speech differs because of a health condition.",
+      "claims": [
+       "c75"
+      ]
+     },
+     {
+      "text": "Weissberg said that in the year before the launch, several hundred people with various speech disabilities tried the app, as a research group.",
+      "claims": [
+       "c40"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "From the research group they learned that it is important to operate the system with a single button press, to make things easier for people with motor disabilities.",
+      "claims": [
+       "c41"
+      ]
+     },
+     {
+      "text": "Following the feedback, virtual dividers were added that divide the word bank by different situations in life.",
+      "claims": [
+       "c42"
+      ]
+     }
+    ]
+   ],
+   "media": [],
+   "disagreements": []
+  },
+  {
+   "id": "s6",
+   "title": "Turning on the light by voice: the connection to Alexa",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "According to The Spoon, without voice control people with cerebral palsy depend on caregivers even to turn on a light.",
+      "claims": [
+       "c59"
+      ]
+     },
+     {
+      "text": "Weissberg said that for a person with motor and speech limitations, who cannot turn on a light or change a channel, Alexa can be life-changing.",
+      "claims": [
+       "c60"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "In 2018 Voiceitt took part in the Alexa Accelerator in Seattle, and received investment from Amazon through the Alexa Fund.",
+      "claims": [
+       "c48",
+       "c58"
+      ]
+     },
+     {
+      "text": "A person who cannot use Alexa because of a speech disability can speak to Voiceitt, and it translates what he says and passes it to Alexa.",
+      "claims": [
+       "c51"
+      ]
+     },
+     {
+      "text": "Peter Korn, an accessibility director at Amazon Lab126, said that in collaboration with Voiceitt they were able to bring Alexa to more customers.",
+      "claims": [
+       "c53"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "At ALYN Hospital in Jerusalem, one of the company's Israeli testing sites, Voiceitt was adopted so that patients could speak with Alexa in Hebrew or Arabic.",
+      "claims": [
+       "c52"
+      ]
+     }
+    ]
+   ],
+   "media": [],
+   "disagreements": [
+    "d4"
+   ]
+  },
+  {
+   "id": "s7",
+   "title": "The launch, and what came after",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "On June 8, 2021, Voiceitt announced the launch of its app on the Apple App Store.",
+      "claims": [
+       "c3"
+      ]
+     },
+     {
+      "text": "At launch, the app was offered for free for a limited period.",
+      "claims": [
+       "c54"
+      ]
+     },
+     {
+      "text": "According to the company, isolation and social distancing during the coronavirus period cut off many people with speech and motor impairments from their loved ones.",
+      "claims": [
+       "c55"
+      ]
+     },
+     {
+      "text": "According to Mako, Voiceitt launched the world's first app that offers a solution to the problem of people whose voices speech recognition systems, even the most advanced ones, cannot recognize and decipher because of a condition such as a stroke or cerebral palsy.",
+      "claims": [
+       "c73"
+      ]
+     },
+     {
+      "text": "\"Everyone deserves to be able to express themselves and to be understood,\" Weissberg said at the launch.",
+      "claims": [
+       "c56"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "The company won Microsoft's AI For Good competition and received a grant from its AI for Accessibility Fund.",
+      "claims": [
+       "c47"
+      ]
+     },
+     {
+      "text": "According to G3ict, it won a Best of Innovation award in the accessibility category at CES 2021.",
+      "claims": [
+       "c57"
+      ]
+     },
+     {
+      "text": "In 2017 it was reported that it had raised $2 million in seed funding.",
+      "claims": [
+       "c43"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "In 2023 Voiceitt 2 was released, a web app that lets people with speech disabilities speak spontaneously and be understood.",
+      "claims": [
+       "c69"
+      ]
+     },
+     {
+      "text": "The company's CEO, Allison Pace, said it was a milestone in the evolution of the technology and the business.",
+      "claims": [
+       "c77"
+      ]
+     },
+     {
+      "text": "According to CNN, the company also developed integrations with WebEx and ChatGPT and a Chrome extension that turns non-standard speech into captions on the screen.",
+      "claims": [
+       "c64"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "Colin Hughes, a former BBC producer who uses the app, said it is impressively accurate with his atypical speech, and that the training and setup are straightforward.",
+      "claims": [
+       "c66"
+      ]
+     },
+     {
+      "text": "Sara Smolley said that Voiceitt is to today's remote workplace what a ramp once was to an office building.",
+      "claims": [
+       "c65"
+      ]
+     },
+     {
+      "text": "According to G3ict, the company's partner network includes healthcare providers, therapists and researchers in the US, Israel and Europe.",
+      "claims": [
+       "c78"
+      ]
+     },
+     {
+      "text": "According to a 2023 article, the company expected to expand to the UK and Australia by 2024.",
+      "claims": [
+       "c70"
+      ]
+     }
+    ]
+   ],
+   "media": [],
+   "disagreements": [
+    "d2",
+    "d3"
+   ]
+  },
+  {
+   "id": "s8",
+   "title": "What is still missing",
+   "kind": "hard",
+   "paragraphs": [
+    [
+     {
+      "text": "Colin Hughes, who praises the app, has also criticized it.",
+      "claims": [
+       "c66",
+       "c67"
+      ]
+     },
+     {
+      "text": "According to him, Voiceitt is best suited to single-sentence messages, and he calls for adding features such as voice-driven cursor control and better dictation of long texts.",
+      "claims": [
+       "c67"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "CNN noted that technology that captures and stores private voice recordings may concern users.",
+      "claims": [
+       "c68"
+      ]
+     },
+     {
+      "text": "According to CNN, Apple also launched in 2024 a feature called Listen for Atypical Speech, which recognizes a wider range of speech patterns.",
+      "claims": [
+       "c74"
+      ]
+     }
+    ]
+   ],
+   "media": [],
+   "disagreements": []
+  }
+ ],
+ "disagreements": [
+  {
+   "id": "d1",
+   "question": "Where is the company based?",
+   "versions": [
+    {
+     "says": "ISRAEL21c article from 2014: in Ramat Gan",
+     "claims": [
+      "c29"
+     ]
+    },
+    {
+     "says": "Company announcement from 2021: in Tel Aviv, with a subsidiary in the United States",
+     "claims": [
+      "c30"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d2",
+   "question": "How much money did the company raise?",
+   "versions": [
+    {
+     "says": "ISRAEL21c in 2021: $17 million, from investors such as Amazon's Alexa Fund and Microsoft's M12",
+     "claims": [
+      "c44"
+     ]
+    },
+    {
+     "says": "The Spoon: $16 million, including non-equity money from governments and funds",
+     "claims": [
+      "c45"
+     ]
+    },
+    {
+     "says": "MobiHealthNews: $10 million in the summer before the article, to support people with speech impairments during the coronavirus.",
+     "claims": [
+      "c46"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d3",
+   "question": "How much does using the app cost?",
+   "versions": [
+    {
+     "says": "The Spoon: a subscription of $200 a year in the U.S.",
+     "claims": [
+      "c61"
+     ]
+    },
+    {
+     "says": "Article from 2014: the company was working on a subscription of about $20 per month",
+     "claims": [
+      "c62"
+     ]
+    },
+    {
+     "says": "CNN in 2024: a per-minute or per-user license, at prices from $20 to $50",
+     "claims": [
+      "c63"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d4",
+   "question": "Which pilot led to the connection with Alexa?",
+   "versions": [
+    {
+     "says": "ISRAEL21c: a pilot with AARP, together with an investment from AARP",
+     "claims": [
+      "c49"
+     ]
+    },
+    {
+     "says": "G3ict: a successful pilot with Inglis House in Philadelphia, a community for people with physical disabilities",
+     "claims": [
+      "c50"
+     ]
+    }
+   ]
+  }
+ ],
+ "unknowns": [],
+ "claims": [
+  {
+   "id": "c1",
+   "text": "ווייסאיט (Voiceitt) מתוארת כחברה ישראלית המפתחת טכנולוגיית זיהוי דיבור לדיבור לא טיפוסי.",
+   "source": "src1",
+   "quote": "Israeli company Voiceitt, a developer of speech recognition technology for atypical speech, is officially launching its app",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c32",
+   "text": "לפי הטכניון בבריטניה, וייסברג וטיומקין, בוגרי הטכניון, הקימו את החברה ב-2012.",
+   "source": "src2",
+   "quote": "The start-up was co-founded by Danny Weissberg and Stas Tiomkin in 2012, two graduates of the Technion – the Israel Institute of Technology.",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c16",
+   "text": "וייסברג הסביר שהרעיון ל-Voiceitt עלה לו אחרי שסבתו סבלה מלקות דיבור בעקבות שבץ.",
+   "source": "src3",
+   "quote": "he came up with the idea for Voiceitt after his grandmother suffered from speech impairments following a stroke",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c36",
+   "text": "לפי טקקראנץ', המשתמשים מורים לאפליקציה לקרוא בקול משפטים קצרים ושימושיים, והיא לומדת את ההגייה שלהם.",
+   "source": "src3",
+   "quote": "Users fire up the company’s app and it asks them to compose then read short, useful sentences out loud",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c37",
+   "text": "לאחר אימון קצר האפליקציה הופכת את דברי המשתמש מיידית לדיבור מנורמל, כאודיו או כהודעות טקסט.",
+   "source": "src3",
+   "quote": "the Voiceitt app can turn the user’s statements into normalized speech, which it outputs in the form of audio or text messages, instantly",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c71",
+   "text": "לפי מסמך הפרויקט האירופי, Voiceitt פיתחה את Talkitt, אפליקציה שמתרגמת בזמן אמת צלילים לא מובנים לדיבור ברור.",
+   "source": "src4",
+   "quote": "Voiceitt has developed Talkitt, a simple app downloadable to any device which translates unintelligible sounds into clear speech in real time.",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c3",
+   "text": "לפי הודעת החברה מ-8 ביוני 2021, ווייסאיט הודיעה על השקת האפליקציה שלה בחנות האפל.",
+   "source": "src5",
+   "quote": "TEL AVIV, Israel, June 8, 2021 /PRNewswire/ -- Voiceitt, a leading speech recognition company for non-standard speech, today announced the launch of its app",
+   "status": "confirmed",
+   "locator": "שורה 1"
+  },
+  {
+   "id": "c4",
+   "text": "האפליקציה מקלה על אנשים עם דיבור לא סטנדרטי לתקשר עם סביבתם ולהשתמש במכשירים המופעלים בפקודה קולית.",
+   "source": "src6",
+   "quote": "making it easier for people with non-standard speech to communicate with those around them and to use voice command devices",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c28",
+   "text": "לפי החברה, Voiceitt נוסדה ב-2012 על ידי וייסברג וטיומקין, ושרה סמולי הצטרפה כמה שנים אחר כך.",
+   "source": "src5",
+   "quote": "Voiceitt was co-founded by Danny Weissberg and Stas Tiomkin in 2012, and Sara Smolley, who joined the company a few years later",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c29",
+   "text": "לפי כתבה מ-2014, החברה נוסדה ב-2012 ומבוססת ברמת גן.",
+   "source": "src7",
+   "quote": "VoiceITT was founded in 2012, and is based in Ramat Gan outside of Tel Aviv.",
+   "status": "confirmed",
+   "locator": "שורה 27"
+  },
+  {
+   "id": "c30",
+   "text": "לפי הודעת החברה, Voiceitt ממוקמת בתל אביב ויש לה חברת בת בארצות הברית.",
+   "source": "src5",
+   "quote": "Voiceitt is based in Tel Aviv, Israel with a subsidiary in the U.S.",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c57",
+   "text": "לפי G3ict, Voiceitt זכתה בפרס Best of Innovation בקטגוריית הנגישות בכנס CES 2021.",
+   "source": "src1",
+   "quote": "Voiceitt won a “Best of Innovation” award in the accessibility category at the annual CES (International Consumer Electronics Show) 2021 conference",
+   "status": "confirmed",
+   "locator": "שורה 16"
+  },
+  {
+   "id": "c14",
+   "text": "סבתו של דני וייסברג התקשתה לתקשר לאחר שעברה שבץ.",
+   "source": "src8",
+   "quote": "Danny Weissberg’s grandmother struggled to communicate after suffering a stroke.",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c15",
+   "text": "המטפלת הצמודה של הסבתא למדה בהדרגה להבין את דיבורה הלקוי.",
+   "source": "src8",
+   "quote": "her full-time caregiver gradually learned to understand it.",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c17",
+   "text": "וייסברג סיפר שבבית החולים דווקא האחות שטיפלה בסבתו הייתה היחידה שהבינה אותה ללא קושי.",
+   "source": "src9",
+   "quote": "משום מה, דווקא האחות שטפלה בסבתו הייתה היחידה שהצליחה להבין אותה ללא כל בבעיה",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c19",
+   "text": "וייסברג סיפר שהחלק הכואב ביותר היה התסכול: הסבתא איבדה את עצמאותה והמשפחה איבדה את היכולת לתקשר איתה.",
+   "source": "src9",
+   "quote": "החלק הכי כואב בסיפור היה התסכול. מצד אחד היא איבדה את העצמאות שלה",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c18",
+   "text": "לפי מאקו, וייסברג הגה את הרעיון בביתו בעקבות אירוע מטלטל שחווה לפני 15 שנים.",
+   "source": "src9",
+   "quote": "אלא דווקא בביתו – בעקבות אירוע מטלטל שחווה לפני 15 שנים",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c21",
+   "text": "סבתה של שותפת המייסדת שרה סמולי אובחנה עם פרקינסון מוקדם בגיל 40 ואיבדה חלק גדול מיכולותיה המוטוריות.",
+   "source": "src10",
+   "quote": "She had been diagnosed with early onset Parkinson’s disease at the age of just 40, which stripped her of much of her motor capabilities.",
+   "status": "confirmed",
+   "locator": "שורה 142"
+  },
+  {
+   "id": "c22",
+   "text": "סמולי סיפרה שסבתה אובחנה עם פרקינסון מוקדם.",
+   "source": "src11",
+   "quote": "My grandmother was diagnosed with early-onset Parkinson’s disease",
+   "status": "confirmed",
+   "locator": "שורה 104"
+  },
+  {
+   "id": "c5",
+   "text": "מערכות קוליות נבנו לדיבור סטנדרטי, ולכן הן מוציאות מחוץ למשחק מיליוני אנשים עם לקויות דיבור או במבטא חזק.",
+   "source": "src3",
+   "quote": "voice systems have been built for standard speech today. That leaves out millions of people who live with speech impairments, or who just have a strong accent.",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c7",
+   "text": "כל דיבור לא טיפוסי, כמו הגייה מטושטשת, מבטא כבד או שפה שאינה נתמכת, מקשה על השימוש בעוזרים קוליים.",
+   "source": "src8",
+   "quote": "Any atypical speech makes using voice assistants difficult, whether it’s slurred pronunciation, a heavy accent, or speaking a language that’s not supported by the technology.",
+   "status": "confirmed",
+   "locator": "שורה 17"
+  },
+  {
+   "id": "c11",
+   "text": "לדברי וייסברג, כלי דיבור-לטקסט מיועדים לשוק ההמוני ול-90 אחוז מהאוכלוסייה שמדברת באופן סטנדרטי.",
+   "source": "src7",
+   "quote": "Speech-to-text and similar tools are meant for the mass market and the 90 percent of the population that talks in a standard way, he says.",
+   "status": "confirmed",
+   "locator": "שורה 20"
+  },
+  {
+   "id": "c8",
+   "text": "לפי מסמך הפרויקט האירופי, יותר ממיליון איש בעולם סובלים ממוגבלות דיבור כלשהי.",
+   "source": "src4",
+   "quote": "Over one million people around the world suffer from some form of speech disability.",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c12",
+   "text": "לפי ASHA, בין 5% ל-10% מהאמריקנים סובלים מהפרעת תקשורת כלשהי.",
+   "source": "src6",
+   "quote": "Between 5% and 10% of Americans have some form of communication disorder, according to the American Speech-Language-Hearing Association.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c13",
+   "text": "ASHA מעריכה שהפרעות אלה עולות לארצות הברית כ-154 עד 186 מיליארד דולר בשנה.",
+   "source": "src6",
+   "quote": "The ASHA estimates that these disorders cost the U.S. approximately $154 billion to $186 billion every year.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c9",
+   "text": "לפי מסמך הפרויקט האירופי, מכשירי תקשורת חלופית קיימים מסורבלים ויקרים אם רוצים דיוק גבוה.",
+   "source": "src4",
+   "quote": "Existing augmentative and alternative communication devices are bulky and awkward to use, and expensive if seeking high levels of accuracy.",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c25",
+   "text": "שיחות עם קלינאי תקשורת העלו שלקות דיבור פוגעת בילדים ומבוגרים רבים עם מגוון מצבים.",
+   "source": "src8",
+   "quote": "Discussions with speech therapists revealed that impaired speech impacts many children and adults with hearing impairment, autism, Down syndrome, neurological conditions or conditions affecting the throat or mouth.",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c10",
+   "text": "וייסברג אמר ב-2014 שלהפתעתו לאיש אין פתרון כמו שלהם.",
+   "source": "src7",
+   "quote": "To my surprise no one has a solution like ours",
+   "status": "confirmed",
+   "locator": "שורה 19"
+  },
+  {
+   "id": "c23",
+   "text": "וייסברג עבד כמפתח תוכנה בחברות הייטק כמו צ'ק פוינט, רדוויז'ן ו-HP מאז 1999 וזיהה פוטנציאל בלמידת מכונה מוקדמת.",
+   "source": "src8",
+   "quote": "Weissberg spotted the potential of early machine-learning technology to mimic what the caregiver had done naturally.",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c24",
+   "text": "וייסברג היה מתנדב מסור עם קשישים ועם הארגון Save a Child’s Heart, וראה בכך הזדמנות ליצור השפעה.",
+   "source": "src8",
+   "quote": "A dedicated volunteer with the elderly and with Save a Child’s Heart, Weissberg saw this as an opportunity",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c20",
+   "text": "וייסברג תיאר את רגע ההברקה שלו: אם המוח האנושי יכול ללמוד להבין אנשים עם מוגבלות דיבור, אולי גם מערכת בינה מלאכותית תצליח.",
+   "source": "src9",
+   "quote": "אם המוח האנושי יודע ללמוד, לעבד ולהבין אנשים בעלי מוגבלות דיבור – למה שמערכת מבוססת בינה מלאכותית לא תצליח?",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c26",
+   "text": "סטס טיומקין, מומחה לזיהוי דיבור ובוגר הטכניון כמו וייסברג, חקר אז למידת מכונה באוניברסיטה העברית.",
+   "source": "src8",
+   "quote": "Speech-recognition expert Stas Tiomkin, like Weissberg a graduate of the Technion-Israel Institute of Technology, was then researching machine learning at Hebrew University in Jerusalem.",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c27",
+   "text": "לפי וייסברג, טיומקין חשב שהרעיון ייחודי ובר ביצוע.",
+   "source": "src8",
+   "quote": "He thought my idea was not only unique but feasible",
+   "status": "confirmed",
+   "locator": "שורה 13"
+  },
+  {
+   "id": "c31",
+   "text": "החברה, שהייתה אז בת שלושה אנשים, זכתה בשני מענקי פיתוח מלשכת המדען הראשי של ישראל.",
+   "source": "src7",
+   "quote": "The three-person company won two development grants from Israel’s Office of the Chief Scientist.",
+   "status": "confirmed",
+   "locator": "שורה 27"
+  },
+  {
+   "id": "c72",
+   "text": "במסגרת הפרויקט האירופי תוכננה בדיקת שוק עם ארגונים ומשתמשים בישראל, בריטניה, איטליה וספרד.",
+   "source": "src4",
+   "quote": "perform a widespread market validation with organisations and end users in four different countries: Israel, the UK, Italy and Spain",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c33",
+   "text": "וייסברג סיפר שהחלו לפתח מנוע זיהוי דיבור שלומד את דיבורו של אדם כפי שאדם לומד ובונה לו מודל דיבור אישי.",
+   "source": "src8",
+   "quote": "We started to develop a speech recognition engine that learns a person’s speech the way a person does, and builds a personalized speech model for him",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c34",
+   "text": "וייסברג הדגיש ב-2014 שהחברה עושה זיהוי תבניות ולא זיהוי דיבור.",
+   "source": "src7",
+   "quote": "We don’t do speech recognition. We do pattern recognition",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c35",
+   "text": "וייסברג נתן דוגמה: ילד עשוי לומר yum yum yum כשהוא מתכוון לומר שהוא רעב, ומטפל חדש לא מכיר את המילון הזה.",
+   "source": "src7",
+   "quote": "A child might say ‘yum, yum, yum’ when he really means to say ‘I am hungry.’ The new caregiver comes and doesn’t know this dictionary.",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c38",
+   "text": "לפי החברה, המנוע מזהה גם דיבור לא טיפוסי וגם הברות, קצב דיבור, הפסקות נשימה וקולות לא מילוליים, בכל שפה.",
+   "source": "src5",
+   "quote": "can recognize not only atypical speech, but also speech patterns including utterances, cadence of speech, breathing pauses and non-verbal sounds, in any language",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c75",
+   "text": "לקוחות הפיילוט של החברה ב-2017 היו בתי חולים ובתי ספר, עם אנשים בעלי הבדלי דיבור בגלל מצב בריאותי.",
+   "source": "src3",
+   "quote": "The company’s pilot customers are hospitals and schools, and people there who have speech differences because of a health condition",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c40",
+   "text": "וייסברג סיפר שבשנה האחרונה נתנו לכמה מאות אנשים עם מוגבלויות דיבור שונות לנסות את האפליקציה כקבוצת מחקר.",
+   "source": "src9",
+   "quote": "לקחנו קבוצה של כמה מאות אנשים בעלי מוגבלויות דיבור שונות, ונתנו להם לנסות את באפליקציה כסוג של קבוצת מחקר",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c41",
+   "text": "מקבוצת המחקר למדו שחשוב שאפשר יהיה להפעיל את המערכת בלחיצת כפתור אחת, כדי להקל על אנשים עם מוגבלות מוטורית.",
+   "source": "src9",
+   "quote": "הבנו שחשוב שיהיה ניתן להפעיל את המערכת בלחיצת כפתור אחת, כדי להקל על אנשים עם מוגבלות מוטורית",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c42",
+   "text": "בעקבות המשוב נוספה פונקציה של חוצצים וירטואליים שמחלקים את מאגר המילים לסיטואציות שונות בחיים.",
+   "source": "src9",
+   "quote": "מעין חוצצים וירטואלים שמאפשרים למשתמש לחלק את מאגר המילים שלו לסיטואציות שונות בחיים",
+   "status": "confirmed",
+   "locator": "שורה 16"
+  },
+  {
+   "id": "c59",
+   "text": "לפי The Spoon, בלי שליטה קולית אנשים עם שיתוק מוחין תלויים במטפלים אפילו להדלקת אור.",
+   "source": "src12",
+   "quote": "without voice control, people with cerebral palsy, for instance, are reliant on caregivers to come in and do basic tasks like turning on a light",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c60",
+   "text": "וייסברג אמר שעבור אדם עם מגבלות מוטוריות וורבליות שלא יכול להדליק אור או להחליף ערוץ, אלקסה יכולה להיות משנת חיים.",
+   "source": "src9",
+   "quote": "עבור אדם בעל מגבלות מוטוריות וורבליות, שלא יכול להדליק את האור או להחליף ערוץ בטלוויזיה, הוא יכול להיות משנה חיים",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c48",
+   "text": "Voiceitt קיבלה השקעה מאמזון דרך קרן אלקסה ותמיכה ממאיץ Alexa Techstars בסיאטל.",
+   "source": "src8",
+   "quote": "Voiceitt received investment from Amazon through the Alexa Fund and support from the Alexa Techstars Accelerator in Seattle.",
+   "status": "confirmed",
+   "locator": "שורה 22"
+  },
+  {
+   "id": "c58",
+   "text": "Voiceitt השתתפה במאיץ Alexa Accelerator בסיאטל ב-2018.",
+   "source": "src1",
+   "quote": "Voiceitt is an Amazon Alexa Fund portfolio company and took part in the Alexa Accelerator, powered by Techstars, in Seattle in 2018.",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c51",
+   "text": "אדם שאינו יכול להשתמש באלקסה בגלל מוגבלות דיבור יכול להשתמש ב-Voiceitt כדי לתרגם את דבריו ולגשת לאלקסה.",
+   "source": "src8",
+   "quote": "That means a person who cannot use Alexa because of a speech disability can use Voiceitt to translate what he says and access Alexa",
+   "status": "confirmed",
+   "locator": "שורה 23"
+  },
+  {
+   "id": "c53",
+   "text": "פיטר קורן, מנהל נגישות באמזון Lab126, אמר שבשיתוף עם Voiceitt הצליחו להביא את אלקסה ללקוחות נוספים.",
+   "source": "src5",
+   "quote": "In collaboration with Voiceitt, we have been able to bring Alexa to even more customers",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c52",
+   "text": "בית החולים אלי\"ן בירושלים, אתר ניסוי ישראלי של החברה, אימץ את Voiceitt כדי שמטופלים ישוחחו עם אלקסה בעברית או בערבית.",
+   "source": "src8",
+   "quote": "One of the company’s Israeli testing sites, ALYN Pediatric and Adolescent Rehabilitation Hospital in Jerusalem, adopted Voiceitt to allow patients with atypical speech to interact with Alexa in Hebrew or Arabic.",
+   "status": "confirmed",
+   "locator": "שורה 32"
+  },
+  {
+   "id": "c54",
+   "text": "האפליקציה ניתנה בחינם בהשקה לתקופה מוגבלת.",
+   "source": "src5",
+   "quote": "The assistive technology app, which will be offered for free at launch for a limited period, empowers individuals to navigate their environments",
+   "status": "confirmed",
+   "locator": "שורה 1"
+  },
+  {
+   "id": "c55",
+   "text": "לפי החברה, הבידוד והריחוק החברתי בעקבות הקורונה הותירו אנשים רבים עם לקויות דיבור ותנועה מנותקים מיקיריהם.",
+   "source": "src5",
+   "quote": "Isolation and social distancing in the wake of the COVID-19 pandemic have left many individuals with speech and motor impairments either separated from loved ones",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c73",
+   "text": "לפי מאקו, החברה השיקה את האפליקציה הראשונה בעולם שמציעה פתרון לבעיה זו.",
+   "source": "src9",
+   "quote": "השיקה את האפליקציה הראשונה בעולם שמציעה פתרון לבעיה הזו",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c56",
+   "text": "וייסברג אמר בהשקה שכל אחד ראוי שיוכל להביע את עצמו ושיבינו אותו.",
+   "source": "src5",
+   "quote": "Everyone deserves to be able to express themselves and to be understood",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c47",
+   "text": "Voiceitt זכתה בתחרות AI For Good של מיקרוסופט וקיבלה מענק מקרן AI for Accessibility שלה.",
+   "source": "src8",
+   "quote": "Voiceitt won Microsoft’s AI For Good competition and received a grant from its AI for Accessibility Fund.",
+   "status": "confirmed",
+   "locator": "שורה 20"
+  },
+  {
+   "id": "c43",
+   "text": "ב-2017 דווח שהחברה גייסה 2 מיליון דולר במימון זרע.",
+   "source": "src3",
+   "quote": "a Tel Aviv-based startup called Voiceitt has raised $2 million in seed funding to translate into clear words speech that’s not easily intelligible",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c69",
+   "text": "Voiceitt 2 היא אפליקציית ווב חדשה שמאפשרת לאנשים עם מוגבלות דיבור לדבר באופן ספונטני ולהיות מובנים.",
+   "source": "src13",
+   "quote": "Voiceitt 2, developed by Voiceitt, lets people with speech disabilities speak spontaneously and be understood by others.",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c77",
+   "text": "בשנת 2023 אליסון פייס, מנכ\"לית Voiceitt, אמרה ששחרור Voiceitt2 הוא אבן דרך בהתפתחות הטכנולוגיה והעסק.",
+   "source": "src13",
+   "quote": "The launch of Voiceitt2 is an important milestone in the evolution of Voiceitt’s technology and business",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c64",
+   "text": "לפי CNN, Voiceitt פיתחה שילובים עם WebEx ו-ChatGPT ותוסף לכרום שהופכים דיבור לא סטנדרטי לכתוביות על המסך.",
+   "source": "src11",
+   "quote": "Voiceitt has developed integrations with WebEx and ChatGPT, along with a Google Chrome extension, which convert non-standard speech to captions shown on the screen.",
+   "status": "confirmed",
+   "locator": "שורה 107"
+  },
+  {
+   "id": "c66",
+   "text": "קולין יוז, מפיק לשעבר ב-BBC ומשתמש באפליקציה, אמר שהיא מדויקת להפליא עם דיבורו הלא טיפוסי ושהאימון וההגדרה פשוטים.",
+   "source": "src11",
+   "quote": "I found Voiceitt’s app to be impressively accurate with my atypical speech, and its training and setup process was straightforward",
+   "status": "confirmed",
+   "locator": "שורה 113"
+  },
+  {
+   "id": "c65",
+   "text": "סמולי אמרה ש-Voiceitt היא למקום העבודה המרוחק של היום מה שהייתה רמפה לבניין משרדים בעבר.",
+   "source": "src11",
+   "quote": "What a (wheelchair) ramp was to yesterday’s office building Voiceitt is to today’s remote workplace",
+   "status": "confirmed",
+   "locator": "שורה 108"
+  },
+  {
+   "id": "c78",
+   "text": "לפי G3ict, רשת השותפים של Voiceitt כוללת ספקי שירותי בריאות, מטפלים וחוקרים בארה\"ב, בישראל ובאירופה.",
+   "source": "src1",
+   "quote": "Voiceitt’s network of international partners also includes healthcare providers, speech and occupational therapists, researchers, and disability organizations in the US, Israel, and throughout Europe",
+   "status": "confirmed",
+   "locator": "שורה 15"
+  },
+  {
+   "id": "c70",
+   "text": "לפי הכתבה מ-2023, החברה מרמת גן צפתה להתרחב לבריטניה ולאוסטרליה עד 2024.",
+   "source": "src13",
+   "quote": "The Ramat Gan-based company expects to expand to the UK and Australia by 2024",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c67",
+   "text": "יוז ביקר: לדבריו Voiceitt מתאימה ביותר להודעות של משפט אחד, והוא קורא לתכונות כמו שליטה בסמן בקול ושיפור הכתבה לטקסטים ארוכים.",
+   "source": "src11",
+   "quote": "He advocates for features like voice-driven cursor control and improved dictation recognition for drafting long-form content, saying that Voiceitt works best for single-sentence messages.",
+   "status": "confirmed",
+   "locator": "שורה 114"
+  },
+  {
+   "id": "c68",
+   "text": "CNN ציינה שבטכנולוגיה שאוספת ושומרת הקלטות קול פרטיות עלולה להיות סיבת דאגה למשתמשים.",
+   "source": "src11",
+   "quote": "With technology that captures and stores personal data such as voice recordings, privacy can be a concern for users.",
+   "status": "confirmed",
+   "locator": "שורה 121"
+  },
+  {
+   "id": "c74",
+   "text": "לפי CNN, אפל השיקה בתחילת השנה את התכונה Listen for Atypical Speech שמזהה מגוון רחב יותר של דפוסי דיבור.",
+   "source": "src11",
+   "quote": "Earlier this year, Apple (AAPL) launched its AI-powered “Listen for Atypical Speech” feature, which uses machine learning to recognize a wider range of speech patterns.",
+   "status": "confirmed",
+   "locator": "שורה 120"
+  },
+  {
+   "id": "c44",
+   "text": "לפי ישראל21c ב-2021, Voiceitt גייסה 17 מיליון דולר ממשקיעים כמו קרן אלקסה של אמזון ו-M12 של מיקרוסופט.",
+   "source": "src8",
+   "quote": "Voiceitt has raised $17 million from Amazon Alexa Fund, M12 (Microsoft’s venture capital fund), AMIT Technion, Viking Maccabee Ventures",
+   "status": "confirmed",
+   "locator": "שורה 35"
+  },
+  {
+   "id": "c45",
+   "text": "לפי The Spoon, Voiceitt גייסה 16 מיליון דולר, כולל כסף שאינו הון מממשלות וקרנות אחרות.",
+   "source": "src12",
+   "quote": "Voiceitt has raised $16 million in funding so far including non-equity money from governments and other funds",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c46",
+   "text": "לפי MobiHealthNews, Voiceitt גייסה 10 מיליון דולר בקיץ הקודם כדי לתמוך באנשים עם לקויות דיבור בזמן מגפת הקורונה.",
+   "source": "src6",
+   "quote": "Voiceitt raised $10 million last summer to support people with speech impairments during the COVID-19 pandemic.",
+   "status": "confirmed",
+   "locator": "שורה 13"
+  },
+  {
+   "id": "c61",
+   "text": "לפי The Spoon, האפליקציה תהיה זמינה בארה\"ב בסוף מאי במנוי של 200 דולר בשנה.",
+   "source": "src12",
+   "quote": "The Voiceitt app will be available here in the U.S. at the end of May, with a subscription of $200 a year",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c62",
+   "text": "בכתבה מ-2014 נמסר שהחברה עובדת על מודל מנוי של כ-20 דולר לחודש.",
+   "source": "src7",
+   "quote": "For now, VoiceITT is working on a subscription model of about $20 per month.",
+   "status": "confirmed",
+   "locator": "שורה 24"
+  },
+  {
+   "id": "c63",
+   "text": "לפי CNN ב-2024, התוכנה נמכרת ברישיון לדקה או למשתמש במחירים של 20 עד 50 דולר.",
+   "source": "src11",
+   "quote": "The software is sold as either a per-minute or per-user license, with prices ranging from $20 to $50.",
+   "status": "confirmed",
+   "locator": "שורה 109"
+  },
+  {
+   "id": "c49",
+   "text": "לפי ישראל21c, פיילוט עם AARP, יחד עם השקעה של AARP, הוביל לשילוב ממשק Alexa באפליקציה.",
+   "source": "src8",
+   "quote": "A pilot in collaboration with the American Association of Retired Persons (AARP) followed along with investment from AARP.",
+   "status": "confirmed",
+   "locator": "שורה 22"
+  },
+  {
+   "id": "c50",
+   "text": "לפי G3ict, השותפות עם אלקסה באה בעקבות פיילוט מוצלח עם Inglis House בפילדלפיה, קהילה לאנשים עם מוגבלות פיזית.",
+   "source": "src1",
+   "quote": "The partnership with Alexa followed a successful pilot with Inglis House, a long-term care wheelchair community for people with physical disabilities based in Philadelphia.",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  }
+ ],
+ "sources": [
+  {
+   "id": "src1",
+   "label": "G3ict",
+   "url": "https://g3ict.org/headlines/voiceitt-launches-speech-recognition-app-to-enhance-communication",
+   "kind": "press"
+  },
+  {
+   "id": "src2",
+   "label": "Technion UK, 30.7.2021",
+   "url": "https://technionuk.org/?p=6559",
+   "kind": "organisation"
+  },
+  {
+   "id": "src3",
+   "label": "TechCrunch, 1.6.2017",
+   "url": "https://techcrunch.com/2017/06/01/voiceitt-lets-people-with-speech-impairments-use-voice-controlled-technology/",
+   "kind": "press"
+  },
+  {
+   "id": "src4",
+   "label": "CORDIS (European Union)",
+   "url": "https://cordis.europa.eu/project/id/779105/pl",
+   "kind": "official"
+  },
+  {
+   "id": "src5",
+   "label": "PR Newswire, 2021 (company announcement)",
+   "url": "https://prnewswire.com/news-releases/voiceitt-launches-state-of-the-art-speech-recognition-app-to-empower-communication-for-individuals-with-speech-impairments-301307887.html",
+   "kind": "organisation"
+  },
+  {
+   "id": "src6",
+   "label": "MobiHealthNews",
+   "url": "https://www.mobihealthnews.com/news/new-app-called-voiceitt-helps-folks-non-standard-speech-communicate",
+   "kind": "press"
+  },
+  {
+   "id": "src7",
+   "label": "ISRAEL21c",
+   "url": "https://archive.israel21c.org/voiceitt-speaks-for-those-who-cant/",
+   "kind": "press"
+  },
+  {
+   "id": "src8",
+   "label": "ISRAEL21c",
+   "url": "https://archive.israel21c.org/communication-made-easy-for-those-with-speech-difficulties/",
+   "kind": "press"
+  },
+  {
+   "id": "src9",
+   "label": "Mako (Channel 12 News), 2021",
+   "url": "https://www.mako.co.il/news-science/2021_q3/Article-be62f9a27628a71026.htm",
+   "kind": "press"
+  },
+  {
+   "id": "src10",
+   "label": "Assistive Technology Society",
+   "url": "https://ats.org/ats-news/voice-tech-for-those-with-speech-disabilities/",
+   "kind": "press"
+  },
+  {
+   "id": "src11",
+   "label": "CNN Business via KRDO, 23.9.2024",
+   "url": "https://krdo.com/news/2024/09/23/ai-powered-tech-could-help-people-with-speech-impairments-to-work-remotely/",
+   "kind": "press"
+  },
+  {
+   "id": "src12",
+   "label": "The Spoon",
+   "url": "https://thespoon.tech/voiceitts-app-aims-to-make-those-with-speech-impairments-able-to-use-voice-control",
+   "kind": "press"
+  },
+  {
+   "id": "src13",
+   "label": "Israel Trade Commission Australia, 24.8.2023",
+   "url": "https://israeltrade.org.au/2023/08/24/new-israeli-web-app-gives-a-voice-to-people-with-speech-impairment/",
+   "kind": "press"
+  }
+ ],
+ "media": [
+  {
+   "id": "m1",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=8c3v16d22sE",
+   "youtube_id": "8c3v16d22sE",
+   "source_page": "https://www.youtube.com/watch?v=8c3v16d22sE",
+   "source_name": "YouTube",
+   "credit": "Change Agent",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "A key excerpt from an interview with Danny Weissberg, founder of Voiceitt, about the company and the app.",
+   "illustrates": [
+    "c16",
+    "c33"
+   ],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m2",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=RASv4SJoYtA",
+   "youtube_id": "RASv4SJoYtA",
+   "source_page": "https://www.youtube.com/watch?v=RASv4SJoYtA",
+   "source_name": "YouTube",
+   "credit": "Radio Entrepreneurs",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "A radio interview from September 3, 2014 with Danny Weissberg and Jessica Eisenberg of the company, about Voiceitt's Talkitt.",
+   "illustrates": [
+    "c10",
+    "c11"
+   ],
+   "spoken": "vi",
+   "audio_tracks": [
+    "vi"
+   ]
+  },
+  {
+   "id": "m3",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=Q3GsVlyyl8w",
+   "youtube_id": "Q3GsVlyyl8w",
+   "source_page": "https://www.youtube.com/watch?v=Q3GsVlyyl8w",
+   "source_name": "YouTube",
+   "credit": "Equal IT: Mission-Driven Recruitment ",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "Sara Smolley, co-founder, and Rachel Levy of the company explain what Voiceitt is and how it recognizes non-standard speech.",
+   "illustrates": [
+    "c1",
+    "c4"
+   ],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m4",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=fOfUA3qKB9E",
+   "youtube_id": "fOfUA3qKB9E",
+   "source_page": "https://www.youtube.com/watch?v=fOfUA3qKB9E",
+   "source_name": "YouTube",
+   "credit": "43North",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "A Voiceitt presentation at the 43North competition final, showing the Talkitt app for people with speech impairments.",
+   "illustrates": [],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m5",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=-WpBVt6YLhQ",
+   "youtube_id": "-WpBVt6YLhQ",
+   "source_page": "https://www.youtube.com/watch?v=-WpBVt6YLhQ",
+   "source_name": "YouTube",
+   "credit": "Voiceitt",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "A film by the organization about itself: a demonstration of the app for communication and dictation by Michael Kash, the company's product specialist.",
+   "illustrates": [
+    "c4"
+   ],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m7",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Flickr%20-%20Technion%20-%20Israel%20Istitute%20of%20Technology%20-%20IMG%201122.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Flickr_-_Technion_-_Israel_Istitute_of_Technology_-_IMG_1122.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Technion | Israel Istitute of Technology",
+   "licence": "CC BY-SA 2.0",
+   "hosting": "hotlink",
+   "caption": "Sign of the Center for Science and Technology of the Faculty of Computer Science at the Technion",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "date": "2012-11-15",
+   "width": 4000,
+   "height": 3000,
+   "role": "related"
+  },
+  {
+   "id": "m8",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Flickr%20-%20Technion%20-%20Israel%20Istitute%20of%20Technology%20-%20IMG%201125.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Flickr_-_Technion_-_Israel_Istitute_of_Technology_-_IMG_1125.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Technion | Israel Istitute of Technology",
+   "licence": "CC BY-SA 2.0",
+   "hosting": "hotlink",
+   "caption": "Building of the Center for Science and Technology of the Faculty of Computer Science at the Technion, Haifa",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "date": "2012-11-15",
+   "width": 4000,
+   "height": 3000,
+   "role": "related"
+  },
+  {
+   "id": "m10",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Moderne%20architectuur%20op%20het%20terrein%20van%20het%20Technion%2C%20Bestanddeelnr%20255-2115.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Moderne_architectuur_op_het_terrein_van_het_Technion%2C_Bestanddeelnr_255-2115.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Willem van de Poll",
+   "licence": "CC0",
+   "hosting": "hotlink",
+   "caption": "Modern architecture on the Technion campus in Haifa, 1964–1965",
+   "illustrates": [],
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "date": "1964",
+   "width": 2561,
+   "height": 2643,
+   "role": "related"
+  }
+ ],
+ "check": {
+  "passed": true,
+  "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
+  "checked_at": "2026-11-14T07:54:35Z",
+  "counts": {
+   "confirmed": 80,
+   "not_confirmed": 0,
+   "deleted_sentences": 5,
+   "first_round_confirmed": 80,
+   "first_round_contradicted": 1,
+   "first_round_unverifiable": 5
+  },
+  "note": "unverifiable sentences were deleted, contradicted ones fixed from the source and checked again"
+ },
+ "meta": {
+  "run": "voiceitt-speech-communication-app",
+  "pipeline": "scripts/museum/museum_line.py",
+  "models": {
+   "research": "sonnet-5-5",
+   "extract": "sonnet-5-5",
+   "media": "sonnet-5-5",
+   "write": "opus-5-5 medium",
+   "check": "opus-5-5 medium",
+   "fix": "opus-5-5 medium"
+  },
+  "source_quality": {
+   "sources": 13,
+   "wikipedia": 0,
+   "strong": 11,
+   "ok": true,
+   "warnings": []
+  }
+ },
+ "lang": "en",
+ "translation": {
+  "from": "he",
+  "translator": "claude-opus-5-5",
+  "checker": "claude-opus-5-5 (separate call, blind to the translation prompt)",
+  "checked_at": "2026-11-21T05:47:54Z",
+  "passed": true,
+  "items": 117,
+  "pairs_checked": 1,
+  "reused": 116,
+  "first_round_flagged": 0,
+  "still_flagged": 0,
+  "flagged": [],
+  "quote_translations": {
+   "c17": "For some reason, it was the nurse who cared for his grandmother who was the only one who managed to understand her without any problem",
+   "c19": "The most painful part of the story was the frustration. On the one hand, she lost her independence",
+   "c18": "but rather in his home – following an upsetting event he experienced 15 years ago",
+   "c20": "If the human brain knows how to learn, process and understand people with speech disabilities – why shouldn't a system based on artificial intelligence succeed?",
+   "c40": "We took a group of several hundred people with various speech disabilities, and let them try the app as a kind of research group",
+   "c41": "We understood that it is important to be able to operate the system with a single button press, to make things easier for people with motor disabilities",
+   "c42": "A kind of virtual dividers that allow the user to divide his word bank into different situations in life",
+   "c60": "For a person with motor and verbal limitations, who cannot turn on the light or change a TV channel, it can be life-changing",
+   "c73": "launched the first app in the world that offers a solution to this problem"
+  }
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "schema": "maasei-backdrop/1",
+ "slug": "corneat-artificial-cornea-implant",
+ "media": "m10",
+ "img": "https://commons.wikimedia.org/wiki/Special:FilePath/91152%20rabin%20medical%20center%20PikiWiki%20Israel.jpg?width=1920",
+ "img_small": "https://commons.wikimedia.org/wiki/Special:FilePath/91152%20rabin%20medical%20center%20PikiWiki%20Israel.jpg?width=1080",
+ "why": "A sharp, recent aerial view of the Rabin Medical Center (Beilinson) campus in Petah Tikva, where the 2021 implant was done, gives a wide, detailed scene of the real place that still reads well when darkened.",
+ "chosen_by": "opus picker",
+ "alternates": [
+  "m2"
+ ],
+ "from": {
+  "average": "#8d8679",
+  "picked": "#a6957a",
+  "coloured_share": 0.152,
+  "lightness": 0.516
+ },
+ "palette": {
+  "paper": "#f1efec",
+  "surface": "#f9f8f7",
+  "band": "#e6e3de",
+  "tint": "#e1ddd6",
+  "header": "#eae8e4",
+  "rule": "#c9c4bb",
+  "text": "#2a2418",
+  "text2": "#4c4433",
+  "accent": "#6a5939",
+  "meta": "#655d4c",
+  "tone": "#22201b",
+  "shadow": "33, 28, 18"
+ },
+ "checks": {
+  "text_on_paper": 13.42,
+  "text_on_surface": 14.51,
+  "text_on_band": 12.03,
+  "text_on_tint": 11.37,
+  "text_on_header": 12.58,
+  "text2_on_paper": 8.39,
+  "text2_on_surface": 9.07,
+  "text2_on_band": 7.52,
+  "text2_on_tint": 7.11,
+  "text2_on_header": 7.87,
+  "accent_on_paper": 5.9,
+  "accent_on_surface": 6.38,
+  "accent_on_band": 5.29,
+  "accent_on_tint": 5.0,
+  "accent_on_header": 5.53,
+  "meta_on_paper": 5.68,
+  "meta_on_surface": 6.14,
+  "meta_on_band": 5.09,
+  "meta_on_tint": 4.81,
+  "meta_on_header": 5.32,
+  "paper_on_accent": 5.9
+ },
+ "passed": true
+}

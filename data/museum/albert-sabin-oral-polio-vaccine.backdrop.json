@@ -1,0 +1,56 @@
+{
+ "schema": "maasei-backdrop/1",
+ "slug": "albert-sabin-oral-polio-vaccine",
+ "media": "m5",
+ "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Hospital%20Infantil%20Albert%20Sabin.jpg?width=1920",
+ "img_small": "https://commons.wikimedia.org/wiki/Special:FilePath/Hospital%20Infantil%20Albert%20Sabin.jpg?width=1080",
+ "why": "A wide street view of the Albert Sabin children's hospital in Fortaleza, with depth, everyday life and palm trees; no candidate shows the lab work or the mass vaccinations, so this place of care for children named for him is the most fitting scene.",
+ "chosen_by": "opus picker",
+ "alternates": [
+  "m7"
+ ],
+ "from": {
+  "average": "#8f9496",
+  "picked": "#bacadd",
+  "coloured_share": 0.042,
+  "lightness": 0.577
+ },
+ "palette": {
+  "paper": "#edeff0",
+  "surface": "#f7f8f8",
+  "band": "#dfe3e5",
+  "tint": "#d7dde0",
+  "header": "#e4e8e9",
+  "rule": "#bcc4c7",
+  "text": "#18252a",
+  "text2": "#33454c",
+  "accent": "#3d6271",
+  "meta": "#4c5f65",
+  "tone": "#1b2022",
+  "shadow": "18, 29, 33"
+ },
+ "checks": {
+  "text_on_paper": 13.62,
+  "text_on_surface": 14.76,
+  "text_on_band": 12.16,
+  "text_on_tint": 11.45,
+  "text_on_header": 12.73,
+  "text2_on_paper": 8.68,
+  "text2_on_surface": 9.41,
+  "text2_on_band": 7.75,
+  "text2_on_tint": 7.3,
+  "text2_on_header": 8.12,
+  "accent_on_paper": 5.72,
+  "accent_on_surface": 6.2,
+  "accent_on_band": 5.11,
+  "accent_on_tint": 4.81,
+  "accent_on_header": 5.34,
+  "meta_on_paper": 5.81,
+  "meta_on_surface": 6.3,
+  "meta_on_band": 5.19,
+  "meta_on_tint": 4.89,
+  "meta_on_header": 5.43,
+  "paper_on_accent": 5.72
+ },
+ "passed": true
+}

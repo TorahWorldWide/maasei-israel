@@ -1,0 +1,56 @@
+{
+ "schema": "maasei-backdrop/1",
+ "slug": "protalix-elelyso",
+ "media": "m1",
+ "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Karmiel%20-%20Israel%202008.jpg?width=1920",
+ "img_small": "https://commons.wikimedia.org/wiki/Special:FilePath/Karmiel%20-%20Israel%202008.jpg?width=1080",
+ "why": "A sharp, wide panorama of Karmiel in the Galilee hills, the town where Protalix made the drug, with layered depth and texture that still reads as a place when darkened and partly covered.",
+ "chosen_by": "opus picker",
+ "alternates": [
+  "m2"
+ ],
+ "from": {
+  "average": "#7e7e75",
+  "picked": "#635d2f",
+  "coloured_share": 0.149,
+  "lightness": 0.479
+ },
+ "palette": {
+  "paper": "#f4f3e9",
+  "surface": "#faf9f6",
+  "band": "#ecead7",
+  "tint": "#eae7cc",
+  "header": "#efeddf",
+  "rule": "#d5d0af",
+  "text": "#2a2818",
+  "text2": "#4c4a33",
+  "accent": "#6a6330",
+  "meta": "#65634c",
+  "tone": "#22221b",
+  "shadow": "33, 31, 18"
+ },
+ "checks": {
+  "text_on_paper": 13.32,
+  "text_on_surface": 14.09,
+  "text_on_band": 12.24,
+  "text_on_tint": 11.87,
+  "text_on_header": 12.61,
+  "text2_on_paper": 8.07,
+  "text2_on_surface": 8.54,
+  "text2_on_band": 7.42,
+  "text2_on_tint": 7.2,
+  "text2_on_header": 7.65,
+  "accent_on_paper": 5.48,
+  "accent_on_surface": 5.8,
+  "accent_on_band": 5.03,
+  "accent_on_tint": 4.88,
+  "accent_on_header": 5.19,
+  "meta_on_paper": 5.47,
+  "meta_on_surface": 5.79,
+  "meta_on_band": 5.03,
+  "meta_on_tint": 4.88,
+  "meta_on_header": 5.19,
+  "paper_on_accent": 5.48
+ },
+ "passed": true
+}

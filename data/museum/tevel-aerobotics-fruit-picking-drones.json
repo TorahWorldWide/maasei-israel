@@ -1,0 +1,1943 @@
+{
+ "schema": "maasei-museum/1",
+ "slug": "tevel-aerobotics-fruit-picking-drones",
+ "deed": "טבל אירובוטיקס קוטפת פרי ברחפנים אוטונומיים ופותרת מחסור בקוטפים",
+ "canonical_type": "team-invention",
+ "year": "2016",
+ "title": "יניב מאור וטבל בנו רובוטים מעופפים שקוטפים פירות בפרדסים שחסרים בהם קוטפים",
+ "trailer": [
+  {
+   "text": "יניב מאור הוא מהנדס מחשבים ומנהל טכנולוגיה בעל ניסיון בראיית מכונה, והוא המייסד והמנכ\"ל של חברת טבל.",
+   "claims": [
+    "c51",
+    "c41",
+    "c18"
+   ]
+  },
+  {
+   "text": "טבל היא סטארט-אפ ישראלי מתל נוף שבמרכז ישראל, שפיתח רובוטים אוטונומיים מעופפים לקטיף פירות.",
+   "claims": [
+    "c28",
+    "c43"
+   ]
+  },
+  {
+   "text": "לפי AgFunder News, המהנדס יניב מאור ייסד אותה ב-2016 כדי לפתור את המחסור בידיים עובדות בחקלאות הפירות.",
+   "claims": [
+    "c51"
+   ]
+  },
+  {
+   "text": "הרובוטים ממריאים מתחנת בסיס, ובעזרת זרוע מכנית הם קוטפים פירות מהעצים אחד אחד ומניחים אותם במכל על הקרקע.",
+   "claims": [
+    "c28",
+    "c6"
+   ]
+  },
+  {
+   "text": "לפי ה-Jewish Chronicle, הרובוטים פועלים היום באיטליה, בצ'ילה, בארה\"ב ובישראל.",
+   "claims": [
+    "c45"
+   ]
+  },
+  {
+   "text": "מאור אמר שטבל אינה תחליף לעבודה אנושית אלא פתרון למחסור בכוח אדם.",
+   "claims": [
+    "c47"
+   ]
+  }
+ ],
+ "hero_media": [
+  "m9",
+  "m12",
+  "m20",
+  "m21",
+  "m22",
+  "m24",
+  "m26",
+  "m30",
+  "m33"
+ ],
+ "glance": [
+  {
+   "label": "מייסד",
+   "value": "יניב מאור",
+   "claims": [
+    "c51"
+   ]
+  },
+  {
+   "label": "נוסדה",
+   "value": "2016",
+   "claims": [
+    "c16",
+    "c51"
+   ]
+  },
+  {
+   "label": "איפה",
+   "value": "תל נוף, מרכז ישראל",
+   "claims": [
+    "c43"
+   ]
+  },
+  {
+   "label": "פועלת ב",
+   "value": "איטליה, צ'ילה, ארה\"ב, ישראל",
+   "claims": [
+    "c45",
+    "c63"
+   ]
+  },
+  {
+   "label": "שיתופי פעולה",
+   "value": "כ-20 בארה\"ב ובאירופה, לפי ישראל21c",
+   "claims": [
+    "c38"
+   ]
+  },
+  {
+   "label": "פירות",
+   "value": "תפוחים, אפרסקים, נקטרינות, שזיפים, משמשים",
+   "claims": [
+    "c31"
+   ]
+  }
+ ],
+ "stations": [
+  {
+   "id": "s1",
+   "title": "פרי שנשאר על העץ",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "לפי הבנק העולמי, רק כאחוז אחד מכלל העובדים בישראל מועסקים בחקלאות.",
+      "claims": [
+       "c1"
+      ]
+     },
+     {
+      "text": "לפי Future Farming, שמסתמך על Jewish Business News, מאור צפה בכתבה בטלוויזיה שבה הוצע לצעירים ישראלים סכום ניכר כדי שיעבדו בפרדסים, ואף אחד מהם לא החזיק מעמד אפילו יום שלם.",
+      "claims": [
+       "c65"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "לפי ארגון המזון והחקלאות של האו\"ם, המספר היחסי של עובדי הפרדסים ירד אולי בחצי בשני העשורים האחרונים, ובאותה תקופה ייצור הפירות הוכפל.",
+      "claims": [
+       "c52"
+      ]
+     },
+     {
+      "text": "לדברי מאור, הפער בין צריכת הפירות שגדלה לבין כוח האדם החקלאי שמצטמצם גדל בארה\"ב, בסין, ביפן ובאירופה.",
+      "claims": [
+       "c2"
+      ]
+     },
+     {
+      "text": "לפי ישראל21c, בארה\"ב רוב הקוטפים היו עובדים ממקסיקו, והם לא חזרו אחרי המגפה.",
+      "claims": [
+       "c36"
+      ]
+     },
+     {
+      "text": "לפי הפורום הכלכלי העולמי, הגבלות הנסיעה בקורונה מנעו מעובדים עונתיים לחצות גבולות.",
+      "claims": [
+       "c72"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "התוצאה היא שחלק גדול מהפרי נשאר תלוי על העצים, כי אין מספיק אנשים שיקטפו אותו כשהוא בשל.",
+      "claims": [
+       "c3"
+      ]
+     },
+     {
+      "text": "לפי ישראל21c, יותר מ-10% מהפירות בעולם אינם נקטפים כיום.",
+      "claims": [
+       "c27"
+      ]
+     },
+     {
+      "text": "לפי אותו מקור, פירות שנרקבים על העצים או על הקרקע עולים למגדלים כ-30 מיליארד דולר במכירות בכל שנה.",
+      "claims": [
+       "c26"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m27",
+    "m29",
+    "m36"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s2",
+   "title": "סרט תיעודי, פטנט וחברה חדשה",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "בראיון מאוגוסט 2022 סיפר מאור שכעשר שנים קודם לכן צפה בטלוויזיה בסרט תיעודי על משבר כוח האדם בחקלאות בישראל.",
+      "claims": [
+       "c40"
+      ]
+     },
+     {
+      "text": "לפי ישראל21c, הוא אינו חקלאי במקצועו אלא מנהל טכנולוגיה עם ניסיון בראיית מכונה ובאלקטרו-אופטיקה.",
+      "claims": [
+       "c41"
+      ]
+     },
+     {
+      "text": "מאור סיפר שלמד הנדסת מחשבים והנדסת מערכות בטכניון.",
+      "claims": [
+       "c54"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "מאור סיפר שבעבר כוח המחשוב והאלגוריתמים לא היו חזקים מספיק כדי לבנות רובוט לקטיף.",
+      "claims": [
+       "c55"
+      ]
+     },
+     {
+      "text": "לדבריו, הוא חשב על רובוטים מעופפים, כתב פטנט, וכך החלה דרכה של החברה.",
+      "claims": [
+       "c56"
+      ]
+     },
+     {
+      "text": "לפי Future Farming, החברה קרויה על שם בתו של מאור.",
+      "claims": [
+       "c66"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "את החברה ייסד מאור יחד עם עוז דשא.",
+      "claims": [
+       "c20"
+      ]
+     },
+     {
+      "text": "מאור סיפר שעוז דשא נפטר מסרטן בימיה הראשונים של החברה.",
+      "claims": [
+       "c57"
+      ]
+     },
+     {
+      "text": "אחיו, אייל דשא, הצטרף לחברה לאחר מותו של עוז באוקטובר 2017.",
+      "claims": [
+       "c20"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m7",
+    "m13"
+   ],
+   "disagreements": [
+    "d1"
+   ]
+  },
+  {
+   "id": "s3",
+   "title": "איך רובוט מעופף קוטף תפוח",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "טבל אומרת שפיתחה מכונה מעופפת אוטומטית, שעושה את עבודת הקטיף הקשה במהירות וביעילות.",
+      "claims": [
+       "c4"
+      ]
+     },
+     {
+      "text": "הרובוטים ממריאים מתחנת בסיס.",
+      "claims": [
+       "c28"
+      ]
+     },
+     {
+      "text": "לפי ה-Jewish Chronicle, כמה רובוטים מחוברים בכבל לפלטפורמה ניידת.",
+      "claims": [
+       "c44"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "לפי ה-Jewish Chronicle, הרובוט מרחף ליד העץ וקוטף את הפרי בסיבוב עדין של זרועות יניקה.",
+      "claims": [
+       "c42"
+      ]
+     },
+     {
+      "text": "לפי כלכליסט, הזרוע המכנית ארוכה מטר.",
+      "claims": [
+       "c16"
+      ]
+     },
+     {
+      "text": "המכונה לוקחת את הפירות אחד אחד ומניחה אותם במכל על הקרקע.",
+      "claims": [
+       "c6"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "לדברי מאור, המכונה משלבת ראייה בבינה מלאכותית, אלגוריתמים של איזון, תמרון וחישה, רכיבים מכניים, חיישנים ומעבד חזק.",
+      "claims": [
+       "c5"
+      ]
+     },
+     {
+      "text": "לדבריו, הרחפן אוטונומי לחלוטין, ומפעיל נדרש רק לבדיקה.",
+      "claims": [
+       "c7"
+      ]
+     },
+     {
+      "text": "לפי הכתבה בטיימס אוף ישראל, אב הטיפוס יודע לזהות תפוזים וזנים רבים של תפוחים.",
+      "claims": [
+       "c8"
+      ]
+     },
+     {
+      "text": "לפי הג'רוזלם פוסט, הרחפן יכול גם לדלל ולגזום בפרדסי תפוחים ותפוזים.",
+      "claims": [
+       "c24"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m2",
+    "m1"
+   ],
+   "disagreements": [
+    "d5",
+    "d6"
+   ]
+  },
+  {
+   "id": "s4",
+   "title": "חמישה שבועות בפרדס באיטליה",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "החברה ערכה את ניסויי השטח המסחריים הראשונים שלה בפרדס תפוחים באיטליה.",
+      "claims": [
+       "c53"
+      ]
+     },
+     {
+      "text": "מאור סיפר שבניסוי הרובוטים עבדו ברציפות חמישה שבועות וקטפו פרי.",
+      "claims": [
+       "c58"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "מאור סיפר שבאמצע הפיילוט הרובוטים נעשו טובים אף יותר מהקוטפים האנושיים.",
+      "claims": [
+       "c59"
+      ]
+     },
+     {
+      "text": "לדבריו, בקטיף סלקטיבי הרובוט היה טוב ועקבי יותר מהקוטפים, בהפרש של יותר מ-10% בדירוג.",
+      "claims": [
+       "c60"
+      ]
+     },
+     {
+      "text": "לדברי מאור, באיטליה הרובוטים קטפו כמו הקוטפים האנושיים או טוב מהם.",
+      "claims": [
+       "c37"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m5",
+    "m28",
+    "m34"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s5",
+   "title": "מתפוחים לאפרסקים, מאיטליה לקליפורניה",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "טבל התחילה עם תפוחים, ומאז הוסיפה אפרסקים, נקטרינות, שזיפים ומשמשים.",
+      "claims": [
+       "c31"
+      ]
+     },
+     {
+      "text": "לפי אתר טבל, הרובוטים משנים את שיטות הקטיף בפרדסים באיטליה, בארה\"ב, בצ'ילה ובישראל.",
+      "claims": [
+       "c63"
+      ]
+     },
+     {
+      "text": "לפי ישראל21c, לחברה כ-20 שיתופי פעולה בארה\"ב ובאירופה, ביניהם באיטליה ובקליפורניה.",
+      "claims": [
+       "c38"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "לפי כלכליסט, רוב ההזמנות של טבל מגיעות מלקוחות בצפון אמריקה ובאירופה, ויש גם הזמנות מסין, מיפן, מדרום קוריאה ומברזיל.",
+      "claims": [
+       "c19"
+      ]
+     },
+     {
+      "text": "מאור סיפר שבשנה ההיא היו לטבל כ-20 רובוטים, ושלשנה שאחריה תוכננו מאות יחידות.",
+      "claims": [
+       "c61"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "לפי ישראל21c, ההתקנה אורכת שעה עד שעתיים, ואנשי טבל נשארים שבוע כדי להכשיר את החקלאי.",
+      "claims": [
+       "c30"
+      ]
+     },
+     {
+      "text": "טבל גובה מהחקלאי דמי שירות שכוללים את כל העלויות.",
+      "claims": [
+       "c33"
+      ]
+     },
+     {
+      "text": "מאור מעריך שרובוט אחד יכול לכסות הקטר אחד בעונת קציר.",
+      "claims": [
+       "c34"
+      ]
+     },
+     {
+      "text": "לפי הכתבה בטיימס אוף ישראל, החברה רוצה להיות חברת שירות שמקימה מיזמים משותפים עם מגדלים מקומיים.",
+      "claims": [
+       "c15"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "ג'ון וייט, מנכ\"ל מרום אורצ'רדס, היה מהחקלאים הראשונים שהשתמשו ברובוטים.",
+      "claims": [
+       "c73"
+      ]
+     },
+     {
+      "text": "הוא אמר שצריך קוטפים אמינים, ושיש לשלם להם שכר ולארגן עבורם ויזות, דיור ואוכל.",
+      "claims": [
+       "c73"
+      ]
+     },
+     {
+      "text": "מאור אמר שהסיבה העיקרית לשימוש ברובוטים אינה החיסכון אלא העובדה שאנשים פשוט אינם זמינים.",
+      "claims": [
+       "c35"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m4",
+    "m10",
+    "m23",
+    "m31"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s6",
+   "title": "האנשים, הכסף וההכרה",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "את החברה מובילים המייסד והמנכ\"ל יניב מאור והיו\"ר אייל דשא.",
+      "claims": [
+       "c18"
+      ]
+     },
+     {
+      "text": "דשא היה בעבר יו\"ר ישראכרט וסמנכ\"ל הכספים של טבע ושל צ'ק פוינט.",
+      "claims": [
+       "c18"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "בעת סבב הגיוס שעליו דווח, שתי קרנות ישראליות, מאבריק ונצ'רס ו-OurCrowd, החזיקו יחד ב-27% ממניות טבל.",
+      "claims": [
+       "c21"
+      ]
+     },
+     {
+      "text": "לפי AgFunder News, בין המשקיעים בסבב של 20 מיליון דולר היו קובוטה ו-AgFunder.",
+      "claims": [
+       "c50"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "לפי הפורום הכלכלי העולמי, טבל, חברה ישראלית, המציאה רובוט אוטונומי מעופף שמזהה וקוטף פירות בעזרת בינה מלאכותית.",
+      "claims": [
+       "c71"
+      ]
+     },
+     {
+      "text": "לפי The Robot Report, ב-2020 הדגימה טבל קטיף פירות ברחפן קשור בעזרת ראייה ובינה מלאכותית.",
+      "claims": [
+       "c70"
+      ]
+     },
+     {
+      "text": "לפי אתר טבל, החברה זכתה בפרסים ובהוקרה בתחומי החקלאות והרובוטיקה.",
+      "claims": [
+       "c64"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "מאור אמר שחזון החברה הוא להפוך את קטיף הפירות מעבודת ידיים מסורתית לתהליך טכנולוגי.",
+      "claims": [
+       "c14"
+      ]
+     },
+     {
+      "text": "מאור צופה שבעתיד פחות אנשים יעבדו בקטיף, ויותר יעבדו בניהול הרובוטים, בניתוח הנתונים ובקבלת החלטות.",
+      "claims": [
+       "c48"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m3"
+   ],
+   "disagreements": [
+    "d2",
+    "d3",
+    "d4"
+   ]
+  },
+  {
+   "id": "s7",
+   "title": "מה עוד לא עובד",
+   "kind": "hard",
+   "paragraphs": [
+    [
+     {
+      "text": "לפי ה-Jewish Chronicle, הרובוטים עדיין איטיים מקוטפים אנושיים.",
+      "claims": [
+       "c46"
+      ]
+     },
+     {
+      "text": "לפי אותו מקור, הם קוטפים כטון, חצי ממה שאדם קוטף.",
+      "claims": [
+       "c46"
+      ]
+     },
+     {
+      "text": "לפי כלכליסט, הרחפנים עבדו אז רק באור יום, והחברה עבדה על ראיית לילה.",
+      "claims": [
+       "c17"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "לפי DroneXL, ככל שהאוטומציה מתקדמת עולות שאלות על אובדן מקומות עבודה.",
+      "claims": [
+       "c79"
+      ]
+     },
+     {
+      "text": "לפי הפורום הכלכלי העולמי, טבל מדגישה שהרובוטים נועדו להשלים את הקוטפים האנושיים ולא להחליף אותם.",
+      "claims": [
+       "c74"
+      ]
+     },
+     {
+      "text": "מאור אמר שטבל היא פתרון למחסור בכוח אדם ולא תחליף לעבודה אנושית.",
+      "claims": [
+       "c47"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "טבל קיוותה למסחר את הרחפנים הראשונים שלה ב-2020.",
+      "claims": [
+       "c9"
+      ]
+     },
+     {
+      "text": "לפי הג'רוזלם פוסט, החברה קיוותה להביא לשוק עד 2020 צי רחפנים מוגן בפטנט.",
+      "claims": [
+       "c25"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m8",
+    "m15",
+    "m16"
+   ],
+   "disagreements": []
+  }
+ ],
+ "disagreements": [
+  {
+   "id": "d1",
+   "question": "מתי נוסדה טבל?",
+   "versions": [
+    {
+     "says": "טיימס אוף ישראל: באוגוסט 2016",
+     "claims": [
+      "c12"
+     ]
+    },
+    {
+     "says": "Future Farming: באוקטובר 2016",
+     "claims": [
+      "c66"
+     ]
+    },
+    {
+     "says": "Farmers Journal: ב-2017",
+     "claims": [
+      "c76"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d2",
+   "question": "כמה אנשים עובדים בטבל?",
+   "versions": [
+    {
+     "says": "טיימס אוף ישראל: כ-15 אנשים",
+     "claims": [
+      "c12"
+     ]
+    },
+    {
+     "says": "ישראל21c: 56 עובדים, ומספרם גדל",
+     "claims": [
+      "c39"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d3",
+   "question": "כמה כסף גייסה טבל?",
+   "versions": [
+    {
+     "says": "טיימס אוף ישראל: כ-10 מיליון דולר בסבב שני, בעזרת משקיעים מלאכים",
+     "claims": [
+      "c13"
+     ]
+    },
+    {
+     "says": "Pitchbook, כפי שצוטט באלגמיינר: 10 מיליון דולר עד אז",
+     "claims": [
+      "c49"
+     ]
+    },
+    {
+     "says": "AgFunder News: סבב מוסדי ראשון של 20 מיליון דולר",
+     "claims": [
+      "c50"
+     ]
+    },
+    {
+     "says": "ישראל21c: כ-30 מיליון דולר",
+     "claims": [
+      "c32"
+     ]
+    },
+    {
+     "says": "מאור: למעלה מ-30 מיליון דולר בסך הכול",
+     "claims": [
+      "c62"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d4",
+   "question": "כמה שווה שוק הקטיף?",
+   "versions": [
+    {
+     "says": "מאור: כ-500 מיליארד דולר בשנה בעולם",
+     "claims": [
+      "c10"
+     ]
+    },
+    {
+     "says": "החברה, לפי כלכליסט: פוטנציאל של 3 מיליארד דולר בשנה בארה\"ב ובאירופה, ועוד 30 מיליארד דולר בשאר העולם",
+     "claims": [
+      "c23"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d5",
+   "question": "האם הרובוטים עובדים רק ביום או גם בלילה?",
+   "versions": [
+    {
+     "says": "כלכליסט: רק באור יום, ראיית לילה בפיתוח",
+     "claims": [
+      "c17"
+     ]
+    },
+    {
+     "says": "ישראל21c: הם יכולים לעבוד 24/7 בזמן הקציר",
+     "claims": [
+      "c29"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d6",
+   "question": "כמה רובוטים מחוברים לכל פלטפורמה?",
+   "versions": [
+    {
+     "says": "ה-Jewish Chronicle: ארבעה או שמונה",
+     "claims": [
+      "c44"
+     ]
+    },
+    {
+     "says": "Future Farming: עד שישה",
+     "claims": [
+      "c68"
+     ]
+    },
+    {
+     "says": "Farmers Journal: שישה",
+     "claims": [
+      "c77"
+     ]
+    }
+   ]
+  }
+ ],
+ "unknowns": [
+  {
+   "text": "הדף לא יודע באילו פרסים בדיוק זכתה טבל",
+   "claims": [
+    "c64"
+   ]
+  },
+  {
+   "text": "טבל קיוותה למסחר את הרחפנים הראשונים שלה ב-2020, ולפי הג'רוזלם פוסט היא קיוותה שצי הרחפנים שלה, המוגן בפטנט, יגיע לשוק עד 2020 ‹c9›.",
+   "claims": [
+    "c25"
+   ]
+  },
+  {
+   "text": "הדף לא יודע כמה רובוטים עובדים היום בפרדסים",
+   "claims": [
+    "c61"
+   ]
+  }
+ ],
+ "claims": [
+  {
+   "id": "c28",
+   "text": "טבל, סטארט-אפ ישראלי, פיתחה רובוטים אוטונומיים מעופפים (FAR) שממריאים מתחנת בסיס.",
+   "source": "src1",
+   "quote": "Israeli startup Tevel Aerobotics Technologies has developed flying autonomous robots (FARs) that take off from a base station",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c43",
+   "text": "לפי ה-Jewish Chronicle, טבל היא סטארט-אפ שמבוסס בתל נוף שבמרכז ישראל.",
+   "source": "src2",
+   "quote": "Tevel Aerobotics, a startup based in Tel Nof, central Israel, has developed the world’s only flying autonomous robots (FARs) that pick fruit.",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c51",
+   "text": "לפי AgFunder News, טבל נוסדה ב-2016 על ידי המהנדס יניב מאור כדי לפתור את הזמינות הפוחתת של עבודה ידנית בחקלאות הפירות.",
+   "source": "src3",
+   "quote": "Founded in 2016 by computer engineer Yaniv Maor, the Israeli ag robotics startup set out to solve one of the most pressing problems in modern fruit farming",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c6",
+   "text": "המכונה משתמשת בזרוע מכנית עם אחיזה כדי לקחת במהירות פירות מהעצים אחד אחד ולהניח אותם במכל על הקרקע.",
+   "source": "src4",
+   "quote": "The machine uses a gripper-ended mechanical claw to quickly take fruits from trees one by one, and put them in a bin on the ground.",
+   "status": "confirmed",
+   "locator": "שורה 23"
+  },
+  {
+   "id": "c45",
+   "text": "לפי ה-Jewish Chronicle, הרובוטים פועלים כיום באיטליה, בצ'ילה, בארה\"ב ובישראל.",
+   "source": "src2",
+   "quote": "Its robots are currently operating in Italy, Chile and the United States, as well as Israel.",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c47",
+   "text": "מאור אמר שטבל אינה תחליף לעבודה אנושית אלא פתרון למחסור בכוח אדם.",
+   "source": "src2",
+   "quote": "We’re not a substitute for labour, we are a solution for the labour shortage",
+   "status": "confirmed",
+   "locator": "שורה 16"
+  },
+  {
+   "id": "c16",
+   "text": "לפי כלכליסט, טבל נוסדה ב-2016, שוכנת במרכז ישראל ומפתחת רחפנים אוטונומיים עם זרוע מכנית באורך מטר.",
+   "source": "src5",
+   "quote": "Founded in 2016 and based in central Israel, Tevel is a developer of autonomous drones that are equipped with a one-meter long mechanical claw",
+   "status": "confirmed",
+   "locator": "שורה 20"
+  },
+  {
+   "id": "c63",
+   "text": "לפי אתר טבל, הרובוטים משנים את שיטות הקטיף בפרדסים באיטליה, בארה\"ב, בצ'ילה ובישראל.",
+   "source": "src6",
+   "quote": "these futuristic robots are transforming fruit harvesting practices in orchards around the world, from Italy to the United States, Chile, Israel, and beyond",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c38",
+   "text": "לפי ישראל21c, לטבל כ-20 שיתופי פעולה בארה\"ב ובאירופה, כולל איטליה וקליפורניה.",
+   "source": "src1",
+   "quote": "Tevel has about 20 collaborations in the United States and Europe, including Italy, California and (soon) Washington State.",
+   "status": "confirmed",
+   "locator": "שורה 45"
+  },
+  {
+   "id": "c31",
+   "text": "טבל התחילה עם תפוחים ומאז הוסיפה אפרסקים, נקטרינות, שזיפים ומשמשים.",
+   "source": "src1",
+   "quote": "Tevel started with apples, but has since added peaches, nectarines, plums and apricots.",
+   "status": "confirmed",
+   "locator": "שורה 27"
+  },
+  {
+   "id": "c1",
+   "text": "לפי הבנק העולמי, כאחוז אחד בלבד מכלל העובדים בישראל מועסקים בחקלאות.",
+   "source": "src4",
+   "quote": "just 1 percent or so of all Israeli workers are employed in the field, according to the",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c65",
+   "text": "לפי Future Farming, צעירים ישראלים שהוצע להם סכום ניכר לעבוד בפרדסים לא החזיקו מעמד אפילו יום שלם.",
+   "source": "src7",
+   "quote": "Young Israelis were offered a considerable sum of money to work in orchards, yet none of them lasted even a full day because they all found the work too difficult.",
+   "status": "confirmed",
+   "locator": "שורה 32"
+  },
+  {
+   "id": "c52",
+   "text": "לפי ארגון המזון והחקלאות של האו\"ם, מספר עובדי הפרדסים ירד אולי בחצי בעשורים האחרונים בעוד ייצור הפירות הוכפל.",
+   "source": "src3",
+   "quote": "the relative number of orchard workers may have halved over the past two decades; however, fruit production has doubled over the same period",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c2",
+   "text": "לדברי מאור, בארה\"ב, בסין, ביפן ובאירופה קיים פער גובר בין צריכת פירות הגדלה לבין כוח אדם חקלאי הולך ומצטמצם.",
+   "source": "src4",
+   "quote": "there is an increasing gap between fruit consumption, which is growing, and farming manpower, which is declining",
+   "status": "confirmed",
+   "locator": "שורה 19"
+  },
+  {
+   "id": "c36",
+   "text": "לפי ישראל21c, בארה\"ב העובדים המקסיקנים שהיוו את עיקר הקוטפים לא חזרו אחרי המגפה.",
+   "source": "src1",
+   "quote": "In the US, the Mexican workers who made up the bulk of the industry’s pickers have not been returning post-pandemic.",
+   "status": "confirmed",
+   "locator": "שורה 40"
+  },
+  {
+   "id": "c72",
+   "text": "לפי הפורום הכלכלי העולמי, הגבלות הנסיעה בקורונה מנעו מעובדים עונתיים לחצות גבולות, וחלק מהחקלאים פנו לרחפני בינה מלאכותית.",
+   "source": "src8",
+   "quote": "COVID-19 travel restrictions have prevented seasonal workers crossing borders, so some farmers are turning to AI drones to pick their crops.",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c3",
+   "text": "לפי הכתבה, חלק גדול מהפרי נשאר תלוי על העצים משום שאין מספיק אנשים לקטוף אותו כשהוא בשל.",
+   "source": "src4",
+   "quote": "much of the fruit is left hanging on the trees because there are not enough people to pick it when it is ripe",
+   "status": "confirmed",
+   "locator": "שורה 19"
+  },
+  {
+   "id": "c27",
+   "text": "לפי ישראל21c, כיום יותר מ-10% מהפירות בעולם אינם נקטפים.",
+   "source": "src1",
+   "quote": "Even today, more than 10% of all fruit worldwide cannot be harvested",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c26",
+   "text": "לפי ישראל21c, פירות שנרקבים על העצים או על הקרקע עולים למגדלים כ-30 מיליארד דולר במכירות בשנה.",
+   "source": "src1",
+   "quote": "Fruit rotting on trees or on the ground costs farmers some $30 billion in sales a year.",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c40",
+   "text": "מאור סיפר שלפני כעשר שנים צפה בסרט תיעודי בטלוויזיה על משבר כוח האדם בחקלאות בישראל.",
+   "source": "src1",
+   "quote": "Ten years ago, I was watching a TV documentary about the labor crisis in agriculture in Israel.",
+   "status": "confirmed",
+   "locator": "שורה 50"
+  },
+  {
+   "id": "c41",
+   "text": "לפי ישראל21c, מאור אינו חקלאי במקצועו אלא מנהל טכנולוגיה בעל ניסיון בראיית מכונה ואלקטרו-אופטיקה.",
+   "source": "src1",
+   "quote": "Maor isn’t a farmer by trade; he’s a tech executive whose experience is in machine vision and electro-optics for consumer electronics and defense applications.",
+   "status": "confirmed",
+   "locator": "שורה 49"
+  },
+  {
+   "id": "c54",
+   "text": "מאור סיפר שלמד הנדסת מחשבים והנדסת מערכות בטכניון.",
+   "source": "src3",
+   "quote": "I graduated from Technion, where I studied computer engineering and system engineering.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c55",
+   "text": "מאור סיפר שכוח המחשוב והאלגוריתמים לא היו חזקים מספיק בעבר לפתרון רובוטי לקטיף.",
+   "source": "src3",
+   "quote": "Processing power and algorithms were just not strong enough back then; the complexity was just too much.",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c56",
+   "text": "מאור סיפר שחשב על רובוטים מעופפים, כתב פטנט והחל את דרכה של החברה.",
+   "source": "src3",
+   "quote": "So that’s when I began to think about flying robots, wrote the patent, and started the journey of this company.",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c66",
+   "text": "לפי Future Farming, טבל נוסדה באוקטובר 2016 ונקראת על שם בתו של מאור.",
+   "source": "src7",
+   "quote": "4 years after founding Tevel (named after his daughter) in October 2016",
+   "status": "confirmed",
+   "locator": "שורה 32"
+  },
+  {
+   "id": "c20",
+   "text": "אייל דשא הצטרף לחברה לאחר שאחיו עוז, שייסד אותה יחד עם מאור, נפטר באוקטובר 2017.",
+   "source": "src9",
+   "quote": "Desheh joined the company after his brother, Oz, who had founded the company with Maor, passed away in October 2017.",
+   "status": "confirmed",
+   "locator": "שורה 24"
+  },
+  {
+   "id": "c57",
+   "text": "מאור סיפר שאחד השותפים המייסדים, עוז דשא, נפטר מסרטן בימים הראשונים של החברה.",
+   "source": "src3",
+   "quote": "One of the co-founders, Oz [Desheh], passed away from cancer; that was a very challenging time for us.",
+   "status": "confirmed",
+   "locator": "שורה 13"
+  },
+  {
+   "id": "c4",
+   "text": "טבל אומרת שפיתחה מכונה מעופפת אוטומטית שיכולה לבצע את קטיף הפירות העתיר העבודה במהירות וביעילות.",
+   "source": "src4",
+   "quote": "says it has come up with an automated flying machine that can do the labor-intensive fruit-picking quickly and efficiently",
+   "status": "confirmed",
+   "locator": "שורה 13"
+  },
+  {
+   "id": "c44",
+   "text": "לפי ה-Jewish Chronicle, ארבעה או שמונה רובוטים מחוברים בכבל לפלטפורמה ניידת.",
+   "source": "src2",
+   "quote": "either four or eight tethered to a mobile platform",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c42",
+   "text": "לפי ה-Jewish Chronicle, המכונות מרחפות ליד העץ וקוטפות פרי בסיבוב עדין של זרועות יניקה.",
+   "source": "src2",
+   "quote": "with a gentle twist of their suction arms and carefully deposit them in a collection bin.",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c5",
+   "text": "לדברי מאור, המכונה של טבל משלבת ראייה בינה מלאכותית, אלגוריתמים של איזון, תמרון וחישה, רכיבים מכניים, חיישנים ומעבד חזק.",
+   "source": "src4",
+   "quote": "Tevel’s machine integrates artificial intelligence vision, balancing, maneuvering and perception algorithms, along with mechanical features, sensors and a strong processor, Maor said.",
+   "status": "confirmed",
+   "locator": "שורה 21"
+  },
+  {
+   "id": "c7",
+   "text": "לדברי מאור, הרחפן אוטונומי לחלוטין ונדרש מפעיל רק לצורך בדיקה.",
+   "source": "src4",
+   "quote": "is totally autonomous and only needs an operator for inspection, he added",
+   "status": "confirmed",
+   "locator": "שורה 27"
+  },
+  {
+   "id": "c8",
+   "text": "לפי הכתבה, אב הטיפוס של טבל יודע לזהות תפוזים וזני תפוחים רבים.",
+   "source": "src4",
+   "quote": "So far, it can detect oranges and many varieties of apples",
+   "status": "confirmed",
+   "locator": "שורה 28"
+  },
+  {
+   "id": "c24",
+   "text": "לפי הג'רוזלם פוסט, חברה ישראלית פיתחה רחפן אוטונומי שיכול לקטוף פירות או לבצע דילול וגיזום בפרדסי תפוחים ותפוזים.",
+   "source": "src10",
+   "quote": "An Israeli company has developed an autonomous drone that can pick fruit or be used for thinning and pruning tasks in apple and orange orchards.",
+   "status": "confirmed",
+   "locator": "שורה 24"
+  },
+  {
+   "id": "c53",
+   "text": "בחציון השני של השנה שעברה ערכה החברה הישראלית את ניסויי השטח המסחריים הראשונים שלה בפרדס תפוחים באיטליה.",
+   "source": "src3",
+   "quote": "the Israeli company conducted its first commercial field trials in an Italian apple orchard, with particularly promising results",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c58",
+   "text": "מאור סיפר שבניסוי באיטליה הרובוטים עבדו ברציפות חמישה שבועות וקטפו פרי.",
+   "source": "src3",
+   "quote": "but we worked there non-stop for five weeks and we picked fruit",
+   "status": "confirmed",
+   "locator": "שורה 24"
+  },
+  {
+   "id": "c59",
+   "text": "מאור סיפר שבאמצע הפיילוט הרובוטים הפכו לטובים אף יותר מהקוטפים האנושיים.",
+   "source": "src3",
+   "quote": "by the middle of the pilot we became even better than the human pickers",
+   "status": "confirmed",
+   "locator": "שורה 25"
+  },
+  {
+   "id": "c60",
+   "text": "לדברי מאור, בקטיף סלקטיבי הרובוט היה טוב משמעותית ועקבי יותר מקוטפים אנושיים, עם הפרש של יותר מ-10% בדירוג.",
+   "source": "src3",
+   "quote": "When picking fruit selectively [FAR] was significantly better than human pickers, and also more consistent; there was more than 10% difference in grading.",
+   "status": "confirmed",
+   "locator": "שורה 26"
+  },
+  {
+   "id": "c37",
+   "text": "לדברי מאור, באיטליה הרובוטים קטפו שווה או טוב יותר מהקוטפים האנושיים.",
+   "source": "src1",
+   "quote": "The robots picked equal to or better than the human pickers.",
+   "status": "confirmed",
+   "locator": "שורה 41"
+  },
+  {
+   "id": "c19",
+   "text": "לפי כלכליסט, ספר ההזמנות של טבל מורכב ברובו מלקוחות בצפון אמריקה ובאירופה, ויש גם הזמנות מסין, יפן, דרום קוריאה וברזיל.",
+   "source": "src9",
+   "quote": "with orders also coming in from China, Japan, South Korea, and Brazil",
+   "status": "confirmed",
+   "locator": "שורה 23"
+  },
+  {
+   "id": "c61",
+   "text": "מאור סיפר שבשנה הנוכחית יש לטבל כ-20 רובוטים ושבשנה הבאה מתוכננות מאות יחידות.",
+   "source": "src3",
+   "quote": "This year we have about 20 robots. Next year we plan to have hundreds of units in operation.",
+   "status": "confirmed",
+   "locator": "שורה 33"
+  },
+  {
+   "id": "c30",
+   "text": "לפי ישראל21c, ההתקנה אורכת שעה עד שעתיים, ואנשי טבל נשארים שבוע כדי להכשיר את החקלאי.",
+   "source": "src1",
+   "quote": "Setup takes one to two hours, with Tevel personnel sticking around for a week to train the farmer how to operate the system.",
+   "status": "confirmed",
+   "locator": "שורה 20"
+  },
+  {
+   "id": "c33",
+   "text": "טבל גובה דמי שירות (SaaS) הכוללים את כל העלויות עבור החקלאי.",
+   "source": "src1",
+   "quote": "Tevel charges a software-as-a-service (SaaS) fee that includes all the costs for the farmer.",
+   "status": "confirmed",
+   "locator": "שורה 35"
+  },
+  {
+   "id": "c34",
+   "text": "מאור מעריך שרובוט אחד יכול לכסות הקטר אחד במהלך עונת קציר.",
+   "source": "src1",
+   "quote": "Maor estimates that a single robot can cover one hectare (2.5 acres) over the course of a harvesting season.",
+   "status": "confirmed",
+   "locator": "שורה 36"
+  },
+  {
+   "id": "c15",
+   "text": "לפי הכתבה, מטרת החברה היא להיות חברת שירות שמקימה מיזמים משותפים עם מגדלים כשותפים מקומיים.",
+   "source": "src4",
+   "quote": "The firm’s aim is to be a service company, setting up joint ventures with growers as local partners",
+   "status": "confirmed",
+   "locator": "שורה 33"
+  },
+  {
+   "id": "c73",
+   "text": "ג'ון וייט, מנכ\"ל מרום אורצ'רדס, מהחוות הראשונות שהשתמשו ברובוטים הקוטפים, אמר שנדרשים קוטפים אמינים ושיש לשלם שכר ולארגן ויזות, דיור ואוכל.",
+   "source": "src8",
+   "quote": "said John White, CEO of Marom Orchards, one of the first fruit farms to use the new flying robot pickers",
+   "status": "confirmed",
+   "locator": "שורה 22"
+  },
+  {
+   "id": "c35",
+   "text": "מאור אמר שהסיבה העיקרית אינה החיסכון אלא העובדה שאנשים פשוט אינם זמינים.",
+   "source": "src1",
+   "quote": "But the main reason is not the savings, but because the people are simply not available.",
+   "status": "confirmed",
+   "locator": "שורה 39"
+  },
+  {
+   "id": "c18",
+   "text": "את החברה מובילים המייסד והמנכ\"ל יניב מאור והיו\"ר אייל דשא, לשעבר יו\"ר ישראכרט וסמנכ\"ל הכספים של טבע ושל צ'ק פוינט.",
+   "source": "src9",
+   "quote": "The company is led by founder and CEO Yaniv Maor and chairman Eyal Desheh, the former chairman of Isracard and CFO of Teva Pharmaceuticals and Check Point.",
+   "status": "confirmed",
+   "locator": "שורה 22"
+  },
+  {
+   "id": "c21",
+   "text": "שני קרנות ישראליות, מאבריק ונצ'רס ו-OurCrowd, מחזיקות יחד ב-27% ממניות טבל.",
+   "source": "src9",
+   "quote": "Tevel’s other shareholders are Israeli funds Maverick Ventures and OurCrowd, which together own 27% of the company",
+   "status": "confirmed",
+   "locator": "שורה 25"
+  },
+  {
+   "id": "c50",
+   "text": "לפי AgFunder News, טבל סגרה סבב גיוס מוסדי ראשון של 20 מיליון דולר ממשקיעים ובהם קובוטה ו-AgFunder.",
+   "source": "src3",
+   "quote": "Tevel announced the close of its first institutional funding round, raising $20 million from investors including Kubota, Forbon, and AgFunder",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c71",
+   "text": "לפי הפורום הכלכלי העולמי, חברה ישראלית, טבל, המציאה רובוט אוטונומי מעופף שמשתמש בבינה מלאכותית לזיהוי וקטיף פירות.",
+   "source": "src8",
+   "quote": "Now an Israeli company, Tevel Aerobotics Technologies, has invented a flying autonomous robot (FAR) which uses artificial intelligence (AI) to identify and pick fruit.",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c70",
+   "text": "לפי The Robot Report, ב-2020 הדגימה טבל קטיף פירות בשילוב ראייה ובינה מלאכותית ברחפן קשור.",
+   "source": "src11",
+   "quote": "In 2020, Tevel Aerobotics demonstrated the ability to use a tethered drone to pick ripe fruit using vision and AI.",
+   "status": "confirmed",
+   "locator": "שורה 13"
+  },
+  {
+   "id": "c64",
+   "text": "לפי אתר טבל, החברה זכתה בפרסים והוקרה יוקרתיים בתחומי החקלאות והרובוטיקה.",
+   "source": "src6",
+   "quote": "Recipients of the most esteemed competition awards and recognition in agriculture and robotics",
+   "status": "confirmed",
+   "locator": "שורה 26"
+  },
+  {
+   "id": "c14",
+   "text": "מאור אמר שחזון החברה הוא להפוך את קטיף הפירות מפרקטיקה ידנית מסורתית לתהליך טכנולוגי מתקדם.",
+   "source": "src4",
+   "quote": "Our vision is to transform fruit harvesting from the traditional manual practice to an advanced technological process.",
+   "status": "confirmed",
+   "locator": "שורה 35"
+  },
+  {
+   "id": "c48",
+   "text": "מאור צופה שבעתיד פחות אנשים יעבדו בקטיף ויותר יעבדו בניהול הרובוטים, ניתוח הנתונים וקבלת החלטות.",
+   "source": "src2",
+   "quote": "In the future fewer people will work in picking and more will work managing the robots, analysing the data and making decisions.",
+   "status": "confirmed",
+   "locator": "שורה 17"
+  },
+  {
+   "id": "c46",
+   "text": "לפי ה-Jewish Chronicle, הרובוטים עדיין איטיים מהקוטפים האנושיים ומסוגלים לקטוף כטון, חצי ממה שאדם קוטף.",
+   "source": "src2",
+   "quote": "The Tevel robots aren’t yet as fast as human pickers. They can currently manage about a ton, half as much as a person.",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c17",
+   "text": "לפי כלכליסט, הרחפנים פועלים כרגע רק באור יום, והחברה עובדת על הוספת יכולות ראיית לילה.",
+   "source": "src5",
+   "quote": "The drones are currently only operational in daylight, but the company is working to give the drone night-vision capabilities to increase productivity.",
+   "status": "confirmed",
+   "locator": "שורה 21"
+  },
+  {
+   "id": "c79",
+   "text": "לפי DroneXL, ככל שהאוטומציה מתקדמת עולות שאלות לגבי עקירת מקומות עבודה.",
+   "source": "src12",
+   "quote": "Yet, as automation advances, questions linger about job displacement.",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c74",
+   "text": "לפי הפורום הכלכלי העולמי, טבל מדגישה שהרובוטים נועדו להשלים קוטפים אנושיים ולא להחליף אותם.",
+   "source": "src8",
+   "quote": "Tevel insists its robots are designed to complement human fruit pickers rather than replace them.",
+   "status": "confirmed",
+   "locator": "שורה 30"
+  },
+  {
+   "id": "c9",
+   "text": "טבל קיוותה למסחר את הרחפנים הראשונים שלה ב-2020.",
+   "source": "src4",
+   "quote": "Tevel hopes to commercialize its first drones in 2020.",
+   "status": "confirmed",
+   "locator": "שורה 32"
+  },
+  {
+   "id": "c25",
+   "text": "לפי הג'רוזלם פוסט, טבל עובדת על צי רחפנים מוגן בפטנט שהיא מקווה שיגיע לשוק עד 2020.",
+   "source": "src10",
+   "quote": "It is working on a patented fleet of drones, which it hopes will hit the market by 2020.",
+   "status": "confirmed",
+   "locator": "שורה 26"
+  },
+  {
+   "id": "c12",
+   "text": "לפי טיימס אוף ישראל, טבל נוסדה באוגוסט 2016 ומעסיקה כ-15 אנשים.",
+   "source": "src4",
+   "quote": "Tevel Aerobotics Technologies was founded in August 2016 and employs around 15 people.",
+   "status": "confirmed",
+   "locator": "שורה 38"
+  },
+  {
+   "id": "c76",
+   "text": "לפי Farmers Journal, החברה הישראלית נוסדה ב-2017 וגייסה לאחרונה 20 מיליון דולר.",
+   "source": "src13",
+   "quote": "The Israeli-based agtech company was founded in 2017 and recently secured $20m in investor funding.",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c39",
+   "text": "לפי ישראל21c, מצבת העובדים בטבל עומדת כיום על 56 ומתרחבת.",
+   "source": "src1",
+   "quote": "Staffing count is currently 56 and growing. The company’s chairman of the board is Eyal Desheh",
+   "status": "confirmed",
+   "locator": "שורה 46"
+  },
+  {
+   "id": "c13",
+   "text": "לפי הכתבה, טבל סיימה סבב גיוס שני וגייסה כ-10 מיליון דולר בעזרת משקיעים מלאכים.",
+   "source": "src4",
+   "quote": "The company has just concluded its second round of investment, raising around $10 million thanks to the support of angel investors",
+   "status": "confirmed",
+   "locator": "שורה 38"
+  },
+  {
+   "id": "c49",
+   "text": "לפי נתוני Pitchbook שצוטטו באלגמיינר, הגיוס של טבל עד כה עמד על 10 מיליון דולר.",
+   "source": "src14",
+   "quote": "Funding to date: $10 million, according to Pitchbook data",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c32",
+   "text": "לפי ישראל21c, המערכת בפיתוח כחמש שנים והחברה גייסה כ-30 מיליון דולר.",
+   "source": "src1",
+   "quote": "the system has been in development for some five years and the company has raised around $30 million.",
+   "status": "confirmed",
+   "locator": "שורה 32"
+  },
+  {
+   "id": "c62",
+   "text": "מאור סיפר שהחברה גייסה בסך הכול למעלה מ-30 מיליון דולר.",
+   "source": "src3",
+   "quote": "With funding, we’ve raised over $30 million overall, and this year in Q1, we will start a new investment round",
+   "status": "confirmed",
+   "locator": "שורה 34"
+  },
+  {
+   "id": "c10",
+   "text": "לדברי מאור, שוק הקטיף העולמי מסתכם בכ-500 מיליארד דולר בשנה.",
+   "source": "src4",
+   "quote": "The worldwide market for fruit picking amounts to some $500 billion per year, he said.",
+   "status": "confirmed",
+   "locator": "שורה 36"
+  },
+  {
+   "id": "c23",
+   "text": "לפי כלכליסט, החברה טוענת לפוטנציאל של 3 מיליארד דולר מכירות שנתיות במכירה למגדלים בארה\"ב ובאירופה ועוד 30 מיליארד דולר בשאר העולם.",
+   "source": "src9",
+   "quote": "The company claims it has a potential for $3 billion in annual sales to growers in the U.S. and Europe and an additional $30 billion in the rest of the world.",
+   "status": "confirmed",
+   "locator": "שורה 30"
+  },
+  {
+   "id": "c29",
+   "text": "לפי ישראל21c, הרובוטים של טבל יכולים לעבוד 24/7 בזמן הקציר.",
+   "source": "src1",
+   "quote": "Tevel’s robotic pickers can work 24/7 during the harvest",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c68",
+   "text": "לפי Future Farming, כל פלטפורמה אוטונומית משמשת מרכז לעד 6 רחפני קטיף.",
+   "source": "src7",
+   "quote": "autonomous platforms that each serve as a hub for up to 6 harvesting drones",
+   "status": "confirmed",
+   "locator": "שורה 34"
+  },
+  {
+   "id": "c77",
+   "text": "לפי Farmers Journal, כל רכב מצויד בשישה רובוטים מעופפים.",
+   "source": "src13",
+   "quote": "Each vehicle is equipped with six flying robots.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  }
+ ],
+ "sources": [
+  {
+   "id": "src1",
+   "label": "ISRAEL21c",
+   "url": "https://archive.israel21c.org/?p=121951",
+   "kind": "press"
+  },
+  {
+   "id": "src2",
+   "label": "The Jewish Chronicle",
+   "url": "https://www.thejc.com/news/israel/robot-fruit-pickers-make-life-sweeter-for-struggling-farmers-d94o68sf",
+   "kind": "press"
+  },
+  {
+   "id": "src3",
+   "label": "AgFunder News, ראיון עם יניב מאור",
+   "url": "https://agfundernews.com/tevel-co-founder-yaniv-maor-talks-fruit-field-trials-with-flying-robots",
+   "kind": "press"
+  },
+  {
+   "id": "src4",
+   "label": "Times of Israel",
+   "url": "https://www.timesofisrael.com/startup-says-time-is-ripe-for-fleets-of-drones-to-help-farmers-pick-fruit/",
+   "kind": "press"
+  },
+  {
+   "id": "src5",
+   "label": "Calcalist CTech",
+   "url": "https://www.calcalistech.com/ctech/articles/0,7340,L-3757774,00.html",
+   "kind": "press"
+  },
+  {
+   "id": "src6",
+   "label": "אתר טבל",
+   "url": "https://www.tevel-tech.com/",
+   "kind": "organisation"
+  },
+  {
+   "id": "src7",
+   "label": "Future Farming",
+   "url": "https://futurefarming.com/tech-in-focus/fruit-picking-drones-by-tevel-aerobotics-technologies",
+   "kind": "press"
+  },
+  {
+   "id": "src8",
+   "label": "World Economic Forum, 2021",
+   "url": "https://www.weforum.org/stories/2021/02/flying-ai-robot-harvest-fresh-fruit/",
+   "kind": "press"
+  },
+  {
+   "id": "src9",
+   "label": "Calcalist CTech, גיוס של 20 מיליון דולר",
+   "url": "https://www.calcalistech.com/ctech/articles/0,7340,L-3866192,00.html",
+   "kind": "press"
+  },
+  {
+   "id": "src10",
+   "label": "Jerusalem Post",
+   "url": "https://jpost.com/jpost-tech/israeli-drone-can-pick-your-fruit-for-you-583038",
+   "kind": "press"
+  },
+  {
+   "id": "src11",
+   "label": "The Robot Report, RBR50 2021",
+   "url": "https://www.therobotreport.com/rbr50-company-2021/tevel-aerobotics-technologies/",
+   "kind": "press"
+  },
+  {
+   "id": "src12",
+   "label": "DroneXL, 25.4.2025",
+   "url": "https://dronexl.co/2025/04/25/drones-revolutionize-fruit-harvesting-ai/",
+   "kind": "press"
+  },
+  {
+   "id": "src13",
+   "label": "Farmers Journal",
+   "url": "https://www.farmersjournal.ie/kubota-and-tevel-to-develop-flying-fruit-picking-robots-600406",
+   "kind": "press"
+  },
+  {
+   "id": "src14",
+   "label": "Algemeiner, 30.7.2019",
+   "url": "https://www.algemeiner.com/2019/07/30/from-apple-picking-to-security-details-six-israeli-companies-developing-specialized-drones/",
+   "kind": "press"
+  }
+ ],
+ "media": [
+  {
+   "id": "m1",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=SjNnq87XDbs",
+   "youtube_id": "SjNnq87XDbs",
+   "source_page": "https://www.youtube.com/watch?v=SjNnq87XDbs",
+   "source_name": "YouTube",
+   "credit": "כאן | חדשות - תאגיד השידור הישראלי",
+   "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "כתבה של חדשות כאן על רחפנים שקוטפים פירות במטעים ועל פיתוח ישראלי שמבטיח לחסוך לחקלאים בעלויות.",
+   "illustrates": [
+    "c4"
+   ]
+  },
+  {
+   "id": "m2",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=5LRYBXV1NAY",
+   "youtube_id": "5LRYBXV1NAY",
+   "source_page": "https://www.youtube.com/watch?v=5LRYBXV1NAY",
+   "source_name": "YouTube",
+   "credit": "פודי - Foody",
+   "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "פודי, חדשות האוכל עם ריטה גולדשטיין: רחפנים שמזהים לבד פרי בשל, מתקרבים אליו וקוטפים אותו בעדינות.",
+   "illustrates": [
+    "c4"
+   ],
+   "spoken": "he",
+   "audio_tracks": [
+    "he",
+    "en"
+   ]
+  },
+  {
+   "id": "m3",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=FMRUfeheBuw",
+   "youtube_id": "FMRUfeheBuw",
+   "source_page": "https://www.youtube.com/watch?v=FMRUfeheBuw",
+   "source_name": "YouTube",
+   "credit": "Calcalist | כלכליסט",
+   "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "אייל דשא, יו\"ר טבל, בשיחה עם סופי שולמן בוועידת הכלכלה והתעשייה של כלכליסט 2020.",
+   "illustrates": [
+    "c18"
+   ]
+  },
+  {
+   "id": "m4",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=3oYw035gYyk",
+   "youtube_id": "3oYw035gYyk",
+   "source_page": "https://www.youtube.com/watch?v=3oYw035gYyk",
+   "source_name": "YouTube",
+   "credit": "Tevel ",
+   "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "סרט של הארגון על עצמו: חוות HMC מאמצת את הרובוטים המעופפים של טבל לקטיף פירות גלעיניים כמו אפרסקים.",
+   "illustrates": [
+    "c31"
+   ],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m5",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=xzOf4-WaXzE",
+   "youtube_id": "xzOf4-WaXzE",
+   "source_page": "https://www.youtube.com/watch?v=xzOf4-WaXzE",
+   "source_name": "YouTube",
+   "credit": "Tevel ",
+   "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "סרט של הארגון על עצמו: עדות לקוח של מרקו ריבואירה, מנכ\"ל קבוצת Rivoira Giovanni & Figli, לאחר הפיילוט המסחרי הראשון של טבל.",
+   "illustrates": [],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m7",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/A%20depiction%20of%20stick%20used%20for%20plucking%20of%20fruits.JPG?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:A_depiction_of_stick_used_for_plucking_of_fruits.JPG",
+   "source_name": "Wikimedia Commons",
+   "credit": "Thamizhpparithi Maari",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "מקל מסורתי לקטיף פירות, מוצג בתערוכה",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "2012-01-07",
+   "width": 2736,
+   "height": 3648,
+   "role": "related"
+  },
+  {
+   "id": "m8",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Boy%20Scouts%20bring%20in%20baskets%20of%20plums%20for%20weighing%20on%20the%20fruit-picking%20farm%20near%20Cambridge%20in%201944.%20D16210.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Boy_Scouts_bring_in_baskets_of_plums_for_weighing_on_the_fruit-picking_farm_near_Cambridge_in_1944._D16210.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Ministry of Information Photo Division Photographer",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "נערים מביאים סלי שזיפים לשקילה בחוות קטיף ליד קיימברידג', 1944",
+   "illustrates": [],
+   "date": "1944date Q",
+   "width": 1796,
+   "height": 1772,
+   "role": "related"
+  },
+  {
+   "id": "m9",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Boy%20Scouts%20Pick%20Fruit%20For%20Jam-%20Life%20at%20a%20Fruit-picking%20Camp%20Near%20Cambridge%2C%20Cambridgeshire%2C%20England%2C%201944%20D16206.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Boy_Scouts_Pick_Fruit_For_Jam-_Life_at_a_Fruit-picking_Camp_Near_Cambridge%2C_Cambridgeshire%2C_England%2C_1944_D16206.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Ministry of Information Photo Division Photographer",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "נערי צופים קוטפים שזיפים, אחד מהם על סולם, במחנה קטיף ליד קיימברידג', 1944",
+   "illustrates": [],
+   "date": "1944date Q",
+   "width": 800,
+   "height": 790,
+   "role": "related"
+  },
+  {
+   "id": "m10",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Boy%20Scouts%20Pick%20Fruit%20For%20Jam-%20Life%20at%20a%20Fruit-picking%20Camp%20Near%20Cambridge%2C%20Cambridgeshire%2C%20England%2C%201944%20D16227.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Boy_Scouts_Pick_Fruit_For_Jam-_Life_at_a_Fruit-picking_Camp_Near_Cambridge%2C_Cambridgeshire%2C_England%2C_1944_D16227.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Ministry of Information Photo Division Photographer",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "נער מרוקן סל שזיפים לחבית במחנה קטיף ליד קיימברידג', 1944",
+   "illustrates": [],
+   "date": "1944date Q",
+   "width": 800,
+   "height": 795,
+   "role": "related"
+  },
+  {
+   "id": "m12",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Clinton%20Soldiers%20Settlement%20Estate%20-%20fruit%20picking%20%288315384861%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Clinton_Soldiers_Settlement_Estate_-_fruit_picking_%288315384861%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Photographic Collection from Australia",
+   "licence": "CC BY 2.0",
+   "hosting": "hotlink",
+   "caption": "קטיף פירות בפרדס עם סולמות, עגלה וארגזים, אוסטרליה, עד 1921",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/2.0",
+   "date": "1921-12-31",
+   "width": 2000,
+   "height": 1537,
+   "role": "related"
+  },
+  {
+   "id": "m13",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Coconut%20climber%20in%20Mumbai..jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Coconut_climber_in_Mumbai..jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Rudolph.A.furtado",
+   "licence": "CC0",
+   "hosting": "hotlink",
+   "caption": "קוטף קוקוסים מטפס על עץ דקל בעזרת חבל, מומבאי",
+   "illustrates": [],
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "date": "Wednesday(",
+   "width": 2448,
+   "height": 3264,
+   "role": "related"
+  },
+  {
+   "id": "m15",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cosecha%20de%20la%20manzana%20en%20Allen%2C%20Alto%20Valle%20del%20R%C3%ADo%20Negro%2004.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Cosecha_de_la_manzana_en_Allen%2C_Alto_Valle_del_R%C3%ADo_Negro_04.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "KehDon",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "קוטף תפוחים עולה על סולם גבוה בפרדס בפטגוניה, ארגנטינה",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2024-02-15",
+   "width": 4000,
+   "height": 3000,
+   "role": "related"
+  },
+  {
+   "id": "m16",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cosecha%20de%20la%20manzana%20en%20Allen%2C%20Alto%20Valle%20del%20R%C3%ADo%20Negro%2005.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Cosecha_de_la_manzana_en_Allen%2C_Alto_Valle_del_R%C3%ADo_Negro_05.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "KehDon",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "עובדים בקטיף תפוחים ידני: אחד על סולם ואחד ליד ארגז גדול, פטגוניה, ארגנטינה",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2024-02-15",
+   "width": 3000,
+   "height": 4000,
+   "role": "related"
+  },
+  {
+   "id": "m20",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Girl%20picking%20apples%20in%20an%20Oregon%20orchard%2C%201920%20%287951542998%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Girl_picking_apples_in_an_Oregon_orchard%2C_1920_%287951542998%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "OSU Special Collections &amp; Archives : Commons",
+   "licence": "No restrictions",
+   "hosting": "hotlink",
+   "caption": "נערה קוטפת תפוחים בפרדס באורגון, 1920",
+   "illustrates": [],
+   "licence_url": "https://www.flickr.com/commons/usage/",
+   "date": "1920",
+   "width": 4339,
+   "height": 3450,
+   "role": "related"
+  },
+  {
+   "id": "m21",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Group%20of%20fruit%20pickers%20picking%20oranges%20on%20Richards%20Ranch%2C%20north%20Pomona%2C%20California%2C%201905%20%28CHS-1662%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Group_of_fruit_pickers_picking_oranges_on_Richards_Ranch%2C_north_Pomona%2C_California%2C_1905_%28CHS-1662%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Unknown authorUnknown author",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "קבוצת קוטפים בפרדס תפוזים, חוות ריצ'רדס, צפון פומונה, קליפורניה, 1905",
+   "illustrates": [],
+   "date": "1905",
+   "width": 5079,
+   "height": 3869,
+   "role": "related"
+  },
+  {
+   "id": "m22",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Orange%20Harvest.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Orange_Harvest.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Los Angeles Times",
+   "licence": "CC BY 4.0",
+   "hosting": "hotlink",
+   "caption": "קוטפי תפוזים בסירות ובסולמות בפרדס מוצף, קליפורניה, 1941",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/4.0",
+   "date": "1941-06-03",
+   "width": 5646,
+   "height": 4060,
+   "role": "related"
+  },
+  {
+   "id": "m23",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Orange%20fruit%20pickers%2C%20Santa%20Ana%2C%20ca.1900%20%28CHS-154%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Orange_fruit_pickers%2C_Santa_Ana%2C_ca.1900_%28CHS-154%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Unknown authorUnknown author",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "קוטפים ואורזים תפוזים בפרדס בסנטה אנה, כ-1900",
+   "illustrates": [],
+   "date": "circa 1900",
+   "width": 5545,
+   "height": 3785,
+   "role": "related"
+  },
+  {
+   "id": "m24",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pear%20picker%20near%20Medford%2C%20Oregon%20%283387284097%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Pear_picker_near_Medford%2C_Oregon_%283387284097%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "OSU Special Collections &amp; Archives : Commons",
+   "licence": "No restrictions",
+   "hosting": "hotlink",
+   "caption": "קוטף נודד על סולם קוטף אגסים בפרדס ליד מדפורד, אורגון, 1944",
+   "illustrates": [],
+   "licence_url": "https://www.flickr.com/commons/usage/",
+   "date": "1944",
+   "width": 3319,
+   "height": 4143,
+   "role": "related"
+  },
+  {
+   "id": "m26",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Picking%20oranges-LCCN2008679609.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Picking_oranges-LCCN2008679609.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "לא צוין",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "קוטף תפוזים כורע ליד עץ, צילום צבעוני מראשית המאה העשרים",
+   "illustrates": [],
+   "date": "1902date Q",
+   "width": 5892,
+   "height": 7451,
+   "role": "related"
+  },
+  {
+   "id": "m27",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/PikiWiki%20Israel%205381%20fruit-picking.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:PikiWiki_Israel_5381_fruit-picking.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "אין מידע",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "קבוצה עם סלי פירות ובקבוקים, צילום היסטורי של קטיף פירות בחקלאות בישראל",
+   "illustrates": [],
+   "date": "between 19",
+   "width": 1070,
+   "height": 733,
+   "role": "related"
+  },
+  {
+   "id": "m28",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Saint-Pryv%C3%A9-Saint-Mesmin%20-%20arboriculture%20%282%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Saint-Pryv%C3%A9-Saint-Mesmin_-_arboriculture_%282%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Fab5669",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "שורות עצי פרי בסנט-פריבה-סן-מסמין, צרפת",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2021-07-18",
+   "width": 5472,
+   "height": 3648,
+   "role": "related"
+  },
+  {
+   "id": "m29",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/StateLibQld%201%20106604%20Picking%20fruit%20in%20Adavale%20area%2C%20ca.%201915.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:StateLibQld_1_106604_Picking_fruit_in_Adavale_area%2C_ca._1915.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "לא צוין",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "אנשים ליד עצי פרי באזור אדוואל, קווינסלנד, כ-1915",
+   "illustrates": [],
+   "date": "circa 1915",
+   "width": 1000,
+   "height": 740,
+   "role": "related"
+  },
+  {
+   "id": "m30",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Women%27s%20Land%20Army%20in%20Britain%2C%201915-1918%20Q30846.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:The_Women%27s_Land_Army_in_Britain%2C_1915-1918_Q30846.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Horace Nicholls",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "קוטפת דובדבנים מצבא האדמה הנשי בבריטניה עם סל וקרס קטיף, 1915–1918",
+   "illustrates": [],
+   "date": "between 19",
+   "width": 986,
+   "height": 1300,
+   "role": "related"
+  },
+  {
+   "id": "m31",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%A7%D0%BE%D1%80-%D0%91%D0%B0%D0%BA%D1%80%2C%20%D1%81%D0%B1%D0%BE%D1%80%D1%89%D0%B8%D0%BA%D0%B8%20%D0%BD%D0%B5%D0%BA%D1%82%D0%B0%D1%80%D0%B8%D0%BD%D0%BE%D0%B2%20%D0%B2%20%D1%81%D0%B0%D0%B4%D1%83%20%281%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:%D0%A7%D0%BE%D1%80-%D0%91%D0%B0%D0%BA%D1%80%2C_%D1%81%D0%B1%D0%BE%D1%80%D1%89%D0%B8%D0%BA%D0%B8_%D0%BD%D0%B5%D0%BA%D1%82%D0%B0%D1%80%D0%B8%D0%BD%D0%BE%D0%B2_%D0%B2_%D1%81%D0%B0%D0%B4%D1%83_%281%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Nikolai Bulykin",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "קוטפי נקטרינות עם דליים בין העצים בגן ליד קבר צ'ור-בכר, בוכרה, אוזבקיסטן",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2025-08-23",
+   "width": 3648,
+   "height": 5472,
+   "role": "related"
+  },
+  {
+   "id": "m33",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Apple%20picking%20in%20Berkely%20County%2C%20West%20Virginia%20LCCN2012646374.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Apple_picking_in_Berkely_County%2C_West_Virginia_LCCN2012646374.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Smith Brothers, photographer",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "קטיף תפוחים בפרדס במחוז ברקלי, מערב וירג'יניה, עם קוטפים על סולמות וחביות מלאות",
+   "illustrates": [],
+   "date": "1910",
+   "width": 1536,
+   "height": 1171,
+   "role": "related"
+  },
+  {
+   "id": "m34",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Apple%20picking%20in%20Fleurbaix%2C%20Queensland%20on%20ANZAC%20Day%202017%2001.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Apple_picking_in_Fleurbaix%2C_Queensland_on_ANZAC_Day_2017_01.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Kgbo",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "תרמילאים בריטים קוטפים תפוחים בפרדס עם טרקטור ועגלת ארגזים, פלרבה, קווינסלנד, 2017",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2017-04-25",
+   "width": 4032,
+   "height": 3024,
+   "role": "related"
+  },
+  {
+   "id": "m36",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Apple%20Picking%20Time%20LCCN2004680343.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Apple_Picking_Time_LCCN2004680343.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Miscellaneous Items in High Demand, PPOC, Library of Congress",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "ילדה ליד עץ גדול עם סולם עץ, צילום ישן של קטיף תפוחים",
+   "illustrates": [],
+   "date": "1914",
+   "width": 1087,
+   "height": 1536,
+   "role": "related"
+  }
+ ],
+ "check": {
+  "passed": true,
+  "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
+  "checked_at": "2026-11-22T03:42:54Z",
+  "counts": {
+   "confirmed": 95,
+   "not_confirmed": 0,
+   "deleted_sentences": 2,
+   "first_round_confirmed": 93,
+   "first_round_contradicted": 1,
+   "first_round_unverifiable": 2
+  },
+  "note": "unverifiable sentences were deleted, contradicted ones fixed from the source and checked again"
+ },
+ "meta": {
+  "run": "tevel-aerobotics-fruit-picking-drones",
+  "pipeline": "scripts/museum/museum_line.py",
+  "models": {
+   "research": "sonnet-5-5",
+   "extract": "sonnet-5-5",
+   "media": "sonnet-5-5",
+   "write": "opus-5-5 medium",
+   "check": "opus-5-5 medium",
+   "fix": "opus-5-5 medium"
+  },
+  "source_quality": {
+   "sources": 14,
+   "wikipedia": 0,
+   "strong": 13,
+   "ok": true,
+   "warnings": []
+  }
+ }
+}

@@ -1,0 +1,1266 @@
+{
+ "schema": "maasei-museum/1",
+ "slug": "aidoc-ai-emergency-scan-triage",
+ "deed": "חברת איידוק הישראלית פיתחה בינה מלאכותית שמזהה מצבי חירום בסריקות ומזרזת טיפול",
+ "canonical_type": "team-invention",
+ "year": "2016",
+ "title": "Israeli company Aidoc developed artificial intelligence that detects brain bleeding on CT scans and shortens the wait",
+ "trailer": [
+  {
+   "text": "Aidoc is an Israeli company that develops artificial intelligence software for radiology, and its triage tools are deployed widely in hospitals in Israel.",
+   "claims": [
+    "c45",
+    "c53",
+    "c24"
+   ]
+  },
+  {
+   "text": "Aidoc is an Israeli company founded by three alumni of the IDF's Talpiot program, who worked in artificial intelligence and machine learning in the army.",
+   "claims": [
+    "c24",
+    "c41"
+   ]
+  },
+  {
+   "text": "The algorithm they developed detects situations in medical images that require immediate intervention, and alerts the medical staff.",
+   "claims": [
+    "c42"
+   ]
+  },
+  {
+   "text": "The system sends an alert to the physician on duty, so that he reviews the urgent exam before the others, and marks the suspicious areas for him.",
+   "claims": [
+    "c2"
+   ]
+  },
+  {
+   "text": "According to ice, a study at Assuta analyzed 5,048 head CT exams, and the system contributed to a reduction of 1,505 hours in the wait for diagnosis.",
+   "claims": [
+    "c5"
+   ]
+  },
+  {
+   "text": "According to the Jerusalem Post, the three Israeli founders were named to the Forbes 30 Under 30 list.",
+   "claims": [
+    "c43"
+   ]
+  }
+ ],
+ "hero_media": [
+  "m34"
+ ],
+ "glance": [
+  {
+   "label": "Founders",
+   "value": "Three Talpiot alumni",
+   "claims": [
+    "c41"
+   ]
+  },
+  {
+   "label": "Since",
+   "value": "2016",
+   "claims": [
+    "c53"
+   ]
+  },
+  {
+   "label": "Scale",
+   "value": "More than 150 health systems, according to Healthcare Dive",
+   "claims": [
+    "c54"
+   ]
+  },
+  {
+   "label": "Assuta study",
+   "value": "5,048 scans, 1,505 fewer hours of waiting, according to ice",
+   "claims": [
+    "c5"
+   ]
+  },
+  {
+   "label": "Recognition",
+   "value": "FDA clearances and CE mark",
+   "claims": [
+    "c45",
+    "c44"
+   ]
+  }
+ ],
+ "stations": [
+  {
+   "id": "s1",
+   "title": "Before: a queue of scans",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "According to Walach, radiologists today go through hundreds of scans a day.",
+      "claims": [
+       "c40"
+      ]
+     },
+     {
+      "text": "According to Raskin, radiologists still largely work by the \"first study in, first study out\" method, even though the number of imaging exams and the number of images in each scan keep rising while the number of radiologists has remained almost unchanged.",
+      "claims": [
+       "c37"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "Aidoc CEO Elad Walach told of an elderly patient in an emergency room in the US who waited two and a half hours for his scan to be read, on a busy night.",
+      "claims": [
+       "c38"
+      ]
+     },
+     {
+      "text": "According to him, because of the long wait the patient suffered a significant mental deterioration from which there is no way back.",
+      "claims": [
+       "c39"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "Dr. Roi Barnea, principal researcher at the Assuta Health Policy Research Institute, said that when there are many exams, it is not always easy for staff to decide who comes first.",
+      "claims": [
+       "c18",
+       "c20"
+      ]
+     },
+     {
+      "text": "According to Dr. Arnon Makori, Israel has a limited number of CT machines.",
+      "claims": [
+       "c17"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m4"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s2",
+   "title": "Three Talpiot alumni found a company",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "According to Globes, three partners, alumni of the IDF's Talpiot program, founded Aidoc, and all of them worked in artificial intelligence and machine learning in the army.",
+      "claims": [
+       "c41"
+      ]
+     },
+     {
+      "text": "According to Healthcare Dive, the company was founded in 2016.",
+      "claims": [
+       "c53"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "At first it developed point solutions for radiology, such as detection of intracranial hemorrhages and pulmonary embolism.",
+      "claims": [
+       "c53"
+      ]
+     },
+     {
+      "text": "The algorithm the group developed detects situations in medical images that require immediate intervention, and alerts the medical staff, for example in emergency rooms.",
+      "claims": [
+       "c42"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m5"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s3",
+   "title": "How it works: an alert to the physician",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "The system sends an alert to the physician on duty, so that he reviews the exam urgently before the other exams.",
+      "claims": [
+       "c2"
+      ]
+     },
+     {
+      "text": "It also marks the suspicious areas for him.",
+      "claims": [
+       "c2"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to Dr. Makori, as soon as the system detects a brain bleed, it sends an immediate alert to the radiographer.",
+      "claims": [
+       "c13"
+      ]
+     },
+     {
+      "text": "The radiographer can consult the radiologist immediately and decide whether to refer the patient for urgent treatment.",
+      "claims": [
+       "c13"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to Maariv, the artificial intelligence system installed in the CT scanner at Assuta was developed in Israel.",
+      "claims": [
+       "c23"
+      ]
+     },
+     {
+      "text": "According to Makori, for the first time in Israel the system was implemented in an outpatient setting and not only in emergency rooms, and this is what makes it unique.",
+      "claims": [
+       "c15"
+      ]
+     },
+     {
+      "text": "According to Behadrei Haredim, this makes it possible to provide life-saving treatment also to people examined at community clinics, far from a general hospital with an active emergency room.",
+      "claims": [
+       "c16"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m1",
+    "m2",
+    "m9"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s4",
+   "title": "The Assuta study: 1,505 hours",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "The system was tested in a large-scale study at Assuta, on head CT exams performed at the network's medical centers and hospitals during 2024.",
+      "claims": [
+       "c3",
+       "c6"
+      ]
+     },
+     {
+      "text": "According to ice, 5,048 head CT exams were analyzed for the diagnosis of intracranial hemorrhages.",
+      "claims": [
+       "c5"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to Maariv, the system shortened waiting times for reading the exams of patients who had suffered a stroke.",
+      "claims": [
+       "c1"
+      ]
+     },
+     {
+      "text": "According to ice, it contributed to a reduction of 1,505 hours in the wait for diagnosis.",
+      "claims": [
+       "c5"
+      ]
+     },
+     {
+      "text": "The time was saved between performing the scan and the start of writing the radiology report.",
+      "claims": [
+       "c7"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "In prioritizing emergency cases, the system reached a sensitivity of 100%, and did not miss a single true emergency case.",
+      "claims": [
+       "c10"
+      ]
+     },
+     {
+      "text": "Technicians who were asked to triage the urgent cases reached a sensitivity of only 66.7 percent.",
+      "claims": [
+       "c11"
+      ]
+     },
+     {
+      "text": "According to Behadrei Haredim, the system identified 21 cases of brain bleeding that would not have appeared in the radiology reports without it, a 14.2% improvement in detection.",
+      "claims": [
+       "c12"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "Dr. Arnon Makori, head of the imaging division at Assuta Medical Centers, said that this is \"a revolution in diagnosis\".",
+      "claims": [
+       "c14"
+      ]
+     },
+     {
+      "text": "Dr. Barnea stressed that the study also showed the system's advantage in prioritization.",
+      "claims": [
+       "c18"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m3"
+   ],
+   "disagreements": [
+    "d1"
+   ]
+  },
+  {
+   "id": "s5",
+   "title": "At Sheba: lower mortality",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "A study at Sheba Medical Center found that the use of artificial intelligence led to a decrease in mortality, readmissions and disability among patients with intracranial hemorrhage.",
+      "claims": [
+       "c33"
+      ]
+     },
+     {
+      "text": "According to Dr. Raskin of Sheba, implementing software to flag these patients, for one year, resulted in a significant reduction in mortality, readmissions and the Modified Rankin Scale.",
+      "claims": [
+       "c34"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "A physician at Cedars-Sinai said that the ability to call the referring physician while the patient is still on site is huge.",
+      "claims": [
+       "c47"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m18"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s6",
+   "title": "Clearances, lists and funding rounds",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "According to the Jerusalem Post, the three Israeli founders were named to the Forbes 30 Under 30 list.",
+      "claims": [
+       "c43"
+      ]
+     },
+     {
+      "text": "According to the same newspaper, in December the company received a CE mark for commercial distribution of the product in Europe.",
+      "claims": [
+       "c44"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to AuntMinnie, the US FDA cleared Aidoc software for detecting large-vessel occlusion stroke.",
+      "claims": [
+       "c45"
+      ]
+     },
+     {
+      "text": "According to the same site, this was the company's sixth FDA clearance.",
+      "claims": [
+       "c46"
+      ]
+     },
+     {
+      "text": "Aidoc developed a clinical foundation model called CARE, which received a first-of-its-kind FDA clearance for a foundation model-based triage system.",
+      "claims": [
+       "c51"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to the Jerusalem Post, its triage tools are deployed widely in hospitals in Israel.",
+      "claims": [
+       "c24"
+      ]
+     },
+     {
+      "text": "According to Healthcare Dive, it supports more than 150 health systems.",
+      "claims": [
+       "c54"
+      ]
+     }
+    ]
+   ],
+   "media": [],
+   "disagreements": [
+    "d2"
+   ]
+  },
+  {
+   "id": "s7",
+   "title": "What's next",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "According to Maariv, the system is expected to expand also to MRI exams and to detecting additional conditions, including tumors and lung cancer.",
+      "claims": [
+       "c21"
+      ]
+     },
+     {
+      "text": "According to Makori, integrating additional systems, for example for early detection of lung cancer in the national screening program for smokers, could shorten exam and reading times and improve the chance of saving lives.",
+      "claims": [
+       "c22"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to Barnea, the system is a significant addition to the Israeli healthcare system, which is struggling to cope with growing workloads.",
+      "claims": [
+       "c19"
+      ]
+     },
+     {
+      "text": "According to Makori, when there are few CT machines, a system that makes exams more efficient and shortens reading times brings great health value to patients.",
+      "claims": [
+       "c17"
+      ]
+     }
+    ]
+   ],
+   "media": [],
+   "disagreements": []
+  },
+  {
+   "id": "s8",
+   "title": "Open questions and criticism",
+   "kind": "hard",
+   "paragraphs": [
+    [
+     {
+      "text": "The UK's NICE reviewed seven validation studies covering 31,118 scans.",
+      "claims": [
+       "c28"
+      ]
+     },
+     {
+      "text": "According to the review, the technology detected intracranial hemorrhages at the level of neuroradiologists, but the study conditions did not reflect real clinical work.",
+      "claims": [
+       "c28"
+      ]
+     },
+     {
+      "text": "NICE noted that the evidence would benefit from controlled comparative studies, with follow-up of patient outcomes and time to treatment.",
+      "claims": [
+       "c29"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "NICE also noted that it is not always clear whether the technology has been updated since the studies were published, and that many of the studies' authors work for the company.",
+      "claims": [
+       "c30"
+      ]
+     },
+     {
+      "text": "According to NICE, the licence cost of Aidoc: head ranges from £25,000 to £60,000 per year, depending on the volume of exams and workflow requirements.",
+      "claims": [
+       "c31"
+      ]
+     },
+     {
+      "text": "However, according to NICE, all the experts believed the technology could improve the speed of diagnosis and the service for people who need urgent diagnosis and treatment.",
+      "claims": [
+       "c32"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "A Swiss study in Basel found that the algorithm detected intracranial hemorrhage at a high rate, but subarachnoid and subdural hemorrhage at a lower rate.",
+      "claims": [
+       "c35"
+      ]
+     },
+     {
+      "text": "The Basel researchers warned against a \"false sense of security\" when using artificial intelligence, particularly for certain types of hemorrhage and in acute care.",
+      "claims": [
+       "c36"
+      ]
+     }
+    ]
+   ],
+   "media": [],
+   "disagreements": []
+  }
+ ],
+ "disagreements": [
+  {
+   "id": "d1",
+   "question": "How accurate is the system in detecting brain bleeding?",
+   "versions": [
+    {
+     "says": "According to Maariv: sensitivity of 89.9 percent and specificity of 99 percent, and in prioritizing urgent cases, sensitivity of 100 percent",
+     "claims": [
+      "c8"
+     ]
+    },
+    {
+     "says": "According to Behadrei Haredim: accuracy of up to 99%, compared with the radiology reports used as the standard",
+     "claims": [
+      "c9"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d2",
+   "question": "How many patients a year do Aidoc's systems handle?",
+   "versions": [
+    {
+     "says": "According to Globes: more than 60 million patient cases a year, in nearly 2,000 hospitals",
+     "claims": [
+      "c49"
+     ]
+    },
+    {
+     "says": "According to Aidoc: clinical decision support for about 70 million patients a year, and more than 110 million cases analyzed in total",
+     "claims": [
+      "c52"
+     ]
+    }
+   ]
+  }
+ ],
+ "unknowns": [],
+ "claims": [
+  {
+   "id": "c24",
+   "text": "לפי ג'רוזלם פוסט, איידוק היא חברה ישראלית שכלי המיון שלה פרוסים בהרחבה בבתי חולים מקומיים.",
+   "source": "src1",
+   "quote": "Aidoc is an Israeli company whose triage tools are deployed widely in local hospitals.",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c41",
+   "text": "לפי גלובס, שלושה שותפים בוגרי תוכנית תלפיות של צה\"ל הקימו את איידוק, כולם עבדו בצבא בבינה מלאכותית ולמידת מכונה.",
+   "source": "src2",
+   "quote": "We are three partners, alumni of the Talpiot program (an IDF program for recruits with scientific and leadership potential)",
+   "status": "confirmed",
+   "locator": "שורה 25"
+  },
+  {
+   "id": "c42",
+   "text": "האלגוריתם שפיתחה הקבוצה מזהה בתמונות רפואיות מצבים הדורשים התערבות מיידית ומתריע לצוות הרפואי, למשל בחדרי מיון.",
+   "source": "src2",
+   "quote": "The group developed an algorithm that detects situations in medical images requiring immediate intervention and alerts medical staff, for example in emergency rooms.",
+   "status": "confirmed",
+   "locator": "שורה 26"
+  },
+  {
+   "id": "c2",
+   "text": "המערכת שולחת התראה לרופא התורן, שנקרא לעבור על הבדיקה בדחיפות לפני הבדיקות האחרות, והיא גם מסמנת לו את האזורים החשודים.",
+   "source": "src3",
+   "quote": "המערכת שולחת התראה לרופא התורן שנקרא לעבור על הבדיקה בדחיפות, עוד קודם לבדיקות האחרות, ואף מסמנת לו את האזורים החשודים שנמצאו",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c5",
+   "text": "לפי ice, במחקר נותחו 5,048 בדיקות CT ראש לאבחון דימומים תוך־גולגולתיים, והמערכת תרמה להפחתה של 1,505 שעות בזמן ההמתנה לאבחון.",
+   "source": "src4",
+   "quote": "במחקר נותחו 5,048 בדיקות CT ראש לשם אבחון דימומים תוך־גולגולתיים, והמערכת תרמה להפחתת 1,505 שעות בזמן ההמתנה לאבחון.",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c43",
+   "text": "לפי ג'רוזלם פוסט, שלושת מייסדי איידוק הישראלים נבחרו לרשימת Forbes 30 Under 30.",
+   "source": "src5",
+   "quote": "A trio of Israeli co-founders of the start-up Aidoc, working on artificial intelligence to refine and quicken how radiologists read X rays, were listed in Forbes 30 Under 30.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c53",
+   "text": "לפי Healthcare Dive, איידוק הוקמה ב-2016 והחלה בפתרונות נקודתיים לרדיולוגיה כמו זיהוי דימומים תוך־גולגולתיים ואמבוליה ריאתית.",
+   "source": "src6",
+   "quote": "When Aidoc was founded in 2016, it started with building point solutions for radiology, such as AI to help detect and triage intracranial hemorrhages and pulmonary embolisms.",
+   "status": "confirmed",
+   "locator": "שורה 25"
+  },
+  {
+   "id": "c54",
+   "text": "לפי Healthcare Dive, איידוק גייסה עד כה 370 מיליון דולר ותומכת ביותר מ-150 מערכות בריאות.",
+   "source": "src6",
+   "quote": "Aidoc said it has raised $370 million to date. The company said it currently supports more than 150 health systems.",
+   "status": "confirmed",
+   "locator": "שורה 30"
+  },
+  {
+   "id": "c45",
+   "text": "לפי AuntMinnie, ה-FDA האמריקאי אישר תוכנה של איידוק, חברת תוכנה ישראלית לבינה מלאכותית, לזיהוי שבץ מסוג חסימת כלי דם גדול.",
+   "source": "src7",
+   "quote": "has cleared Israeli artificial intelligence (AI) software developer Aidoc's AI software for identifying large-vessel occlusion stroke on head CT angiography scans.",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c44",
+   "text": "לפי ג'רוזלם פוסט, איידוק קיבלה בדצמבר סימון CE להפצה מסחרית של המוצר באירופה.",
+   "source": "src5",
+   "quote": "And in December, Aidoc received a CE mark from the European Medicines Agency, giving the go-ahead to commercialize its product",
+   "status": "confirmed",
+   "locator": "שורה 26"
+  },
+  {
+   "id": "c40",
+   "text": "לפי וולך, רדיולוגים עוברים כיום על מאות סריקות ביום.",
+   "source": "src2",
+   "quote": "Radiologists today go through hundreds of scans a day.",
+   "status": "confirmed",
+   "locator": "שורה 33"
+  },
+  {
+   "id": "c37",
+   "text": "לפי ג'רוזלם פוסט, בעבר רדיולוגים עבדו לפי שיטת \"נכנס ראשון, יוצא ראשון\" והבעיה גברה בגלל עלייה בבדיקות, כפי שאמר רסקין.",
+   "source": "src8",
+   "quote": "And radiologists still largely work based on the same method: first study in, first study out, according to Raskin.",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c38",
+   "text": "מנכ\"ל איידוק אלעד וולך סיפר על חולה מבוגר בחדר מיון בארה\"ב שחיכה שעתיים וחצי לפענוח הסריקה בלילה עמוס.",
+   "source": "src5",
+   "quote": "For that patient, it was a busy night and it took two-and-a-half hours for someone to open the exam.",
+   "status": "confirmed",
+   "locator": "שורה 20"
+  },
+  {
+   "id": "c39",
+   "text": "וולך סיפר שבגלל ההמתנה הארוכה בחדר המיון נגרמה לחולה הידרדרות מנטלית משמעותית שאין ממנה דרך חזרה.",
+   "source": "src5",
+   "quote": "due to the long wait in the ER, this patient had a significant mental deterioration that there is no way of coming back from",
+   "status": "confirmed",
+   "locator": "שורה 24"
+  },
+  {
+   "id": "c18",
+   "text": "ד\"ר רועי ברנע הוא חוקר ראשי במכון אסותא לחקר מדיניות הבריאות, והדגיש שהמחקר הראה גם את יתרון המערכת בתעדוף.",
+   "source": "src3",
+   "quote": "רועי ברנע, חוקר ראשי במכון אסותא לחקר מדיניות הבריאות, הדגיש כי המחקר הדגים לא רק את יכולת האבחון של הבינה המלאכותית אלא גם את יתרונה בתעדוף",
+   "status": "confirmed",
+   "locator": "שורה 25"
+  },
+  {
+   "id": "c20",
+   "text": "ברנע אמר שבמערכת של בדיקות רבות לא תמיד קל לאנשי הצוות להחליט מי קודם.",
+   "source": "src3",
+   "quote": "במערכת של בדיקות רבות לא תמיד קל לאנשי הצוות להחליט מי קודם.",
+   "status": "confirmed",
+   "locator": "שורה 26"
+  },
+  {
+   "id": "c17",
+   "text": "לדברי מקורי, בישראל יש מספר מוגבל של מכשירי CT, ולכן מערכת שמייעלת בדיקות ומקצרת זמני פענוח מביאה ערך בריאותי גדול למטופלים.",
+   "source": "src3",
+   "quote": "בישראל יש מספר מוגבל של מכשירי CT ולכן כל מערכת שמייעלת את הבדיקות ומקצרת זמני פענוח מביאה ערך בריאותי גדול למטופלים",
+   "status": "confirmed",
+   "locator": "שורה 23"
+  },
+  {
+   "id": "c13",
+   "text": "לפי ד\"ר מקורי, ברגע שהמערכת מזהה דימום מוחי היא שולחת התראה מיידית לדימותן, שיכול להתייעץ מיד עם הרדיולוג ולהחליט אם להפנות את המטופל לטיפול דחוף.",
+   "source": "src4",
+   "quote": "ברגע שהמערכת מזהה דימום מוחי, היא שולחת התראה מיידית לדימותן שמבצע את הבדיקה, וזה יכול להתייעץ מיידית עם הרדיולוג",
+   "status": "confirmed",
+   "locator": "שורה 13"
+  },
+  {
+   "id": "c23",
+   "text": "לפי מעריב, מערכת הבינה המלאכותית שהותקנה בסורק ה־CT באסותא פותחה בישראל.",
+   "source": "src3",
+   "quote": "מערכת בינה מלאכותית שפותחה בישראל והותקנה לאחרונה בסורק ה־CT הצליחה",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c15",
+   "text": "לדברי מקורי, לראשונה בישראל יושמה המערכת במסגרת אמבולטורית ולא רק בחדרי מיון, וזה מה שמייחד אותה.",
+   "source": "src3",
+   "quote": "לראשונה בישראל יושמה המערכת במסגרת אמבולטורית ולא רק בחדרי מיון וזה מה שהופך אותה לייחודית.",
+   "status": "confirmed",
+   "locator": "שורה 21"
+  },
+  {
+   "id": "c16",
+   "text": "לפי בולוג, המערכת מאפשרת טיפול מציל חיים גם בבדיקות במרפאות קהילה הרחק מבית חולים כללי עם חדר מיון פעיל.",
+   "source": "src9",
+   "quote": "כך ניתן להעניק טיפול מציל חיים גם כאשר מדובר בבדיקות המתבצעות במרפאות קהילה, הרחק מבית חולים כללי עם חדר מיון פעיל.",
+   "status": "confirmed",
+   "locator": "שורה 13"
+  },
+  {
+   "id": "c3",
+   "text": "המערכת נבחנה במחקר רחב היקף באסותא, שבו נותחו יותר מחמשת אלפים סריקות CT מוח.",
+   "source": "src3",
+   "quote": "המערכת נבחנה במחקר רחב היקף באסותא שבו נותחו מעל חמשת אלפים סריקות CT מוח.",
+   "status": "confirmed",
+   "locator": "שורה 13"
+  },
+  {
+   "id": "c6",
+   "text": "המחקר נעשה על בדיקות CT ראש שבוצעו במרכזים הרפואיים ובבתי החולים של אסותא במהלך 2024.",
+   "source": "src9",
+   "quote": "נותחו 5,048 בדיקות CT ראש שנעשו במרכזים הרפואיים ובבתי החולים של אסותא במהלך שנת 2024",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c1",
+   "text": "לפי מעריב, המערכת שהוטמעה באסותא קיצרה את זמני ההמתנה לפענוח בדיקות של מטופלים שלקו בשבץ מוחי, כך עולה ממחקר חדש במרכז הרפואי בתל אביב.",
+   "source": "src3",
+   "quote": "הצליחה לקצר את זמני ההמתנה לפענוח בדיקות של מטופלים שלקו בשבץ מוחי, כך עולה ממחקר חדש שנערך במרכז הרפואי בתל אביב",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c7",
+   "text": "הקיצור בזמן ההמתנה הושג על ידי קיצור הזמן בין ביצוע הסריקה לתחילת כתיבת הדוח הרדיולוגי, בעקבות סיוע הבינה המלאכותית.",
+   "source": "src9",
+   "quote": "תוצאה שהושגה על ידי קיצור הזמן בין ביצוע הסריקה לבין תחילת כתיבת הדוח הרדיולוגי בעקבות הסיוע של הבינה המלאכותית",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c10",
+   "text": "בתעדוף מקרי חירום המערכת הגיעה לרגישות של 100%, ולכן לא החמיצה אף מקרה חירום אמיתי.",
+   "source": "src9",
+   "quote": "כאשר הוערכה כיכולת מיון למקרי חירום, הגיעה המערכת ל-100% רגישות",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c11",
+   "text": "טכנאים שהתבקשו למיין את המקרים הדחופים הגיעו לרגישות של 66.7 אחוזים בלבד.",
+   "source": "src3",
+   "quote": "טכנאים שהתבקשו למיין את המקרים הדחופים הגיעו לרגישות של 66.7 אחוזים בלבד",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c12",
+   "text": "לפי בולוג, המערכת זיהתה 21 מקרים חיוביים של דימום מוחי שלא הופיעו בדוחות הרדיולוגיים בלעדיה, שיפור של 14.2% בזיהוי.",
+   "source": "src9",
+   "quote": "ובמחקר נמצא כי הצליחה לזהות 21 מקרים חיוביים של דימום מוחי שלא הופיעו בדוחות הרדיולוגים אלמלא הבינה המלאכותית – שיפור של 14.2% בזיהוי",
+   "status": "confirmed",
+   "locator": "שורה 15"
+  },
+  {
+   "id": "c14",
+   "text": "ד\"ר ארנון מקורי הוא מנהל מערך הדימות באסותא מרכזים רפואיים, והוא אמר שמדובר במהפכה באבחון.",
+   "source": "src3",
+   "quote": "ארנון מקורי, מנהל מערך הדימות באסותא מרכזים רפואיים, מסביר כי מדובר במהפכה באבחון",
+   "status": "confirmed",
+   "locator": "שורה 19"
+  },
+  {
+   "id": "c33",
+   "text": "במחקר בבית החולים שיבא נמצא שהשימוש בבינה מלאכותית הוביל לירידה בתמותה, באשפוזים חוזרים ובנכות של חולי דימום תוך־גולגולתי.",
+   "source": "src8",
+   "quote": "found that the use of AI led to decreased patient mortality, readmission rates, and disability",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c34",
+   "text": "לפי ד\"ר רסקין משיבא, הטמעת תוכנה לסימון חולי דימום תוך־גולגולתי במשך שנה הביאה לירידה מובהקת בתמותה, באשפוזים חוזרים ובסולם רנקין המתוקן.",
+   "source": "src8",
+   "quote": "Implementation of AI software for flagging patients with intracranial hemorrhage for a year resulted in a significant reduction in mortality rate, readmission rate, and Modified Rankin Scale",
+   "status": "confirmed",
+   "locator": "שורה 28"
+  },
+  {
+   "id": "c47",
+   "text": "רופאה בסידרס-סיני אמרה שהיכולת להתקשר לרופא המפנה בזמן שהמטופל עדיין במקום היא עצומה.",
+   "source": "src10",
+   "quote": "The ability to call the referring physician while the patient is still in the house is huge.",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c46",
+   "text": "לפי AuntMinnie, זה אישור ה-FDA השישי של איידוק, והיא כבר הייתה מאושרת לדימום תוך־גולגולתי ולחסימת כלי דם גדול.",
+   "source": "src11",
+   "quote": "The clearance is the sixth for the company.",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c51",
+   "text": "איידוק פיתחה מודל יסוד קליני בשם CARE, שקיבל אישור FDA ראשון מסוגו למערכת מיון מבוססת מודל יסוד.",
+   "source": "src12",
+   "quote": "Earlier this year, CARE received what Aidoc described as a landmark first clearance from the U.S. Food and Drug Administration for a comprehensive double-digit foundation model-based triage system in clinical imaging.",
+   "status": "confirmed",
+   "locator": "שורה 52"
+  },
+  {
+   "id": "c21",
+   "text": "לפי מעריב, צפוי שהמערכת תורחב גם לבדיקות MRI ולזיהוי פתולוגיות נוספות, ובהן גידולים וסרטן ריאה.",
+   "source": "src3",
+   "quote": "בעתיד צפויה המערכת להתרחב גם לבדיקות MRI ולזיהוי פתולוגיות נוספות ובהן גידולים וסרטן ריאה.",
+   "status": "confirmed",
+   "locator": "שורה 30"
+  },
+  {
+   "id": "c22",
+   "text": "לדברי מקורי, שילוב מערכות נוספות, למשל לזיהוי מוקדם של סרטן ריאה בסקר הלאומי למעשנים, יוכל לקצר זמני בדיקה ופענוח ולשפר את הסיכוי להציל חיים.",
+   "source": "src9",
+   "quote": "שילוב של מערכות בינה מלאכותית נוספות, למשל לזיהוי מוקדם של סרטן ריאה במסגרת הסקר הלאומי שאנו מבצעים כאן למעשנים",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c19",
+   "text": "לפי ברנע, המערכת היא תוספת משמעותית למערכת הבריאות הישראלית שמתקשה לעמוד בעומסים הגדלים.",
+   "source": "src3",
+   "quote": "זוהי תוספת משמעותית למערכת הבריאות הישראלית שמתקשה לעמוד בעומסים ההולכים וגדלים",
+   "status": "confirmed",
+   "locator": "שורה 29"
+  },
+  {
+   "id": "c28",
+   "text": "לפי ביקורת של NICE הבריטי, שבעה מחקרי תיקוף על 31,118 סריקות הראו שהטכנולוגיה יעילה בזיהוי דימומים תוך־גולגולתיים כמו נוירורדיולוגים, אך תנאי המחקרים לא שיקפו תרגול קליני.",
+   "source": "src13",
+   "quote": "Seven validation studies, including 31,118 CT brain scans, showed the technology to be as effective at detecting intracranial haemorrhages as neuroradiologists.",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c29",
+   "text": "NICE ציין שבסיס הראיות ייהנה ממחקרים משווים מבוקרים עם מעקב מתאים לתוצאי מטופלים ולזמן עד טיפול.",
+   "source": "src13",
+   "quote": "The evidence base would benefit from well-controlled comparative studies with an appropriate follow-up time to capture patient outcome and time to treatment.",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c30",
+   "text": "NICE ציין שלא תמיד ברור אם הטכנולוגיה עודכנה מאז הפרסום, ושרבים מהמחברים עובדים בחברה.",
+   "source": "src13",
+   "quote": "It is not always clear whether the technology described in the studies has been updated since publication and many of the named authors involved in the studies work for the company.",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c31",
+   "text": "NICE ציין שעלות הרישיון של Aidoc: head נעה בין 25,000 ל-60,000 ליש\"ט בשנה, בהתאם להיקף הבדיקות ודרישות העבודה.",
+   "source": "src13",
+   "quote": "The licence cost of the technology ranges from £25,000 to £60,000 per year depending on the volume of exams and different workflow requirements.",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c32",
+   "text": "לפי NICE, כל המומחים סברו שהטכנולוגיה יכולה לשפר את מהירות האבחון והשירות לאנשים הזקוקים לאבחון וטיפול דחופים.",
+   "source": "src13",
+   "quote": "All experts believed the technology could improve the speed of diagnosis and the service for people that need urgent diagnosis and treatment.",
+   "status": "confirmed",
+   "locator": "שורה 36"
+  },
+  {
+   "id": "c35",
+   "text": "מחקר שוויצרי בבזל מצא שהאלגוריתם זיהה דימום תוך־גולגולתי בשיעור גבוה, אך בשיעור נמוך יותר דימום תת־עכבישי ותת־דורלי.",
+   "source": "src14",
+   "quote": "the algorithm had high rates of detection for ICH (97.1%) but lower rates for subarachnoid hemorrhage (80%) and subdural hemorrhage (69.2%)",
+   "status": "confirmed",
+   "locator": "שורה 24"
+  },
+  {
+   "id": "c36",
+   "text": "החוקרים בבזל הזהירו מ\"תחושת ביטחון מוטעית\" בשימוש בבינה מלאכותית, במיוחד בתתי־סוגים מסוימים של דימום ובטיפול דחוף.",
+   "source": "src14",
+   "quote": "a false sense of security using AI is a pitfall that must be addressed, particularly for certain subtypes of ICH and in acute care applications",
+   "status": "confirmed",
+   "locator": "שורה 24"
+  },
+  {
+   "id": "c8",
+   "text": "לפי מעריב, המערכת רגישה ב-89.9 אחוזים בזיהוי דימום מוחי, בסגוליות של 99 אחוזים, ובתעדוף מקרים דחופים הגיעה לרגישות של 100 אחוזים.",
+   "source": "src3",
+   "quote": "רגישות של 89.9 אחוזים בזיהוי דימום מוחי, סגוליות של 99 אחוזים, ובבחינת תעדוף מקרים דחופים השיגה המערכת רגישות של 100 אחוזים",
+   "status": "confirmed",
+   "locator": "שורה 16"
+  },
+  {
+   "id": "c9",
+   "text": "לפי בולוג, המערכת הגיעה לדיוק של עד 99% בזיהוי דימומים מוחיים בהשוואה לדוחות הרדיולוגיים ששימשו כסטנדרט ייחוס.",
+   "source": "src9",
+   "quote": "דיוק של עד 99% בזיהוי דימומים מוחיים לעומת הדוחות הרדיולוגיים ששימשו כסטנדרט הייחוס",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c49",
+   "text": "לפי גלובס, החברה הישראלית מנתחת יותר מ-60 מיליון מקרי מטופלים בשנה בכמעט 2,000 בתי חולים.",
+   "source": "src15",
+   "quote": "The Israeli company analyzes more than 60 million patient cases annually in nearly 2,000 hospitals.",
+   "status": "confirmed",
+   "locator": "שורה 41"
+  },
+  {
+   "id": "c52",
+   "text": "לפי איידוק, הטכנולוגיה שלה ניתחה יותר מ-110 מיליון מקרי מטופלים ותומכת בהחלטות קליניות עבור כ-70 מיליון מטופלים בשנה.",
+   "source": "src12",
+   "quote": "Aidoc says its technology has analyzed more than 110 million patient cases and supports clinical decision-making for about 70 million patients annually.",
+   "status": "confirmed",
+   "locator": "שורה 59"
+  }
+ ],
+ "sources": [
+  {
+   "id": "src1",
+   "label": "Jerusalem Post, article on Aidoc",
+   "url": "https://www.jpost.com/health-and-wellness/article-869819",
+   "kind": "press"
+  },
+  {
+   "id": "src2",
+   "label": "Globes, Elad Walach, Michael Braginsky, Guy Reiner",
+   "url": "https://en.globes.co.il/news/home.aspx?fid=10447",
+   "kind": "press"
+  },
+  {
+   "id": "src3",
+   "label": "Maariv, article on the Israeli system that detects stroke",
+   "url": "https://www.maariv.co.il/news/health/article-1239417",
+   "kind": "press"
+  },
+  {
+   "id": "src4",
+   "label": "ice.co.il, article on the Aidoc study (Assuta Medical Centers)",
+   "url": "https://www.ice.co.il/health/news/article/1086350",
+   "kind": "press"
+  },
+  {
+   "id": "src5",
+   "label": "Jerusalem Post, Israelis changing how doctors diagnose (Forbes 30 Under 30)",
+   "url": "https://m.jpost.com/jpost-tech/forbes-30-under-30-meet-the-israelis-changing-how-doctors-diagnose-you-539769",
+   "kind": "press"
+  },
+  {
+   "id": "src6",
+   "label": "Healthcare Dive, Aidoc raised $150 million, July 2025",
+   "url": "https://www.healthcaredive.com/news/aidoc-150m-funding-ai-foundation-model/753980/",
+   "kind": "press"
+  },
+  {
+   "id": "src7",
+   "label": "AuntMinnie, FDA clearance for Aidoc's stroke software",
+   "url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15625031/aidoc-secures-fda-clearance-for-ai-stroke-software",
+   "kind": "press"
+  },
+  {
+   "id": "src8",
+   "label": "AuntMinnie, detecting intracranial hemorrhage with artificial intelligence",
+   "url": "https://www.auntminnie.com/clinical-news/ct/article/15627912/ai-detection-of-intracranial-hemorrhage-saves-lives",
+   "kind": "press"
+  },
+  {
+   "id": "src9",
+   "label": "Behadrei Haredim (bhol), article on the Aidoc study",
+   "url": "https://www.bhol.co.il/news/1707922",
+   "kind": "press"
+  },
+  {
+   "id": "src10",
+   "label": "PR Newswire, Aidoc press release, October 2020",
+   "url": "https://www.prnewswire.com/il/news-releases/aidoc-granted-ai-industry-first-fda-clearance-for-triage-of-incidental-pulmonary-embolism-301156870.html",
+   "kind": "organisation"
+  },
+  {
+   "id": "src11",
+   "label": "AuntMinnie, FDA clearance for incidental pulmonary embolism",
+   "url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15627039/fda-clears-aidocs-incidental-pe-ai-algorithm",
+   "kind": "press"
+  },
+  {
+   "id": "src12",
+   "label": "Ynetnews, Aidoc raised $150 million, July 2025",
+   "url": "https://www.ynetnews.com/business/article/rjoa8pjcbl",
+   "kind": "press"
+  },
+  {
+   "id": "src13",
+   "label": "NICE (United Kingdom), medtech innovation briefing on artificial intelligence for analysing CT brain scans",
+   "url": "https://www.nice.org.uk/advice/mib207/resources/artificial-intelligence-for-analysing-ct-brain-scans-pdf-2285965396121029",
+   "kind": "official"
+  },
+  {
+   "id": "src14",
+   "label": "AuntMinnie, improving emergency department workflow",
+   "url": "https://www.auntminnie.com/clinical-news/ct/article/15630348/using-ai-to-detect-brain-hemorrhage-on-ct-improves-ed-workflow",
+   "kind": "press"
+  },
+  {
+   "id": "src15",
+   "label": "Globes, Aidoc raised $150 million",
+   "url": "https://en.globes.co.il/en/article-1001541446",
+   "kind": "press"
+  }
+ ],
+ "media": [
+  {
+   "id": "m1",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=KMCa3Z4c_l4",
+   "youtube_id": "KMCa3Z4c_l4",
+   "source_page": "https://www.youtube.com/watch?v=KMCa3Z4c_l4",
+   "source_name": "YouTube",
+   "credit": "Clalit Innovation",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "An episode in Clalit's series on healthcare innovation, in which Aidoc's product manager and development manager talk about the use of artificial intelligence in the emergency room.",
+   "illustrates": [
+    "c2",
+    "c42"
+   ],
+   "spoken": "he",
+   "audio_tracks": [
+    "he"
+   ]
+  },
+  {
+   "id": "m2",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=gNSfwloZPWU",
+   "youtube_id": "gNSfwloZPWU",
+   "source_page": "https://www.youtube.com/watch?v=gNSfwloZPWU",
+   "source_name": "YouTube",
+   "credit": "Sheba Medical Center Tel-HaShomer",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "A video by Sheba Medical Center explaining how Aidoc's artificial intelligence analyzes medical scans and identifies findings in the emergency room and in radiology.",
+   "illustrates": [
+    "c42",
+    "c24"
+   ],
+   "spoken": "en",
+   "audio_tracks": [
+    "en",
+    "de",
+    "es",
+    "fr",
+    "hi",
+    "id",
+    "it",
+    "pt"
+   ]
+  },
+  {
+   "id": "m3",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=oYYcvu7b-rU",
+   "youtube_id": "oYYcvu7b-rU",
+   "source_page": "https://www.youtube.com/watch?v=oYYcvu7b-rU",
+   "source_name": "YouTube",
+   "credit": "Aidoc",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "Dr. Gindi, head of the imaging and innovation division at Assuta Hospital in Tel Aviv, describes the hospital's decision to implement Aidoc's artificial intelligence.",
+   "illustrates": [
+    "c1"
+   ],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m4",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=G7dJjqv7HFU",
+   "youtube_id": "G7dJjqv7HFU",
+   "source_page": "https://www.youtube.com/watch?v=G7dJjqv7HFU",
+   "source_name": "YouTube",
+   "credit": "YouTube",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "An i24 News interview with Elad Walach, CEO of Aidoc.",
+   "illustrates": [],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m5",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=_3egeFslo5Y",
+   "youtube_id": "_3egeFslo5Y",
+   "source_page": "https://www.youtube.com/watch?v=_3egeFslo5Y",
+   "source_name": "YouTube",
+   "credit": "YouTube",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "A conversation with Elad Walach, founder of Aidoc, about artificial intelligence and medical imaging today and in the future.",
+   "illustrates": [],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m9",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Assuta%20Ashdod%20Medical%20Center%2C%20emergency%20room2916.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Assuta_Ashdod_Medical_Center%2C_emergency_room2916.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Yaakov",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "The emergency room sign and ambulances at the entrance to Assuta Ashdod Medical Center",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2023-03-21",
+   "width": 4039,
+   "height": 2855,
+   "role": "related"
+  },
+  {
+   "id": "m18",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/145973%20reception%20center%20building%20sheba%20medical%20center%20t%20PikiWiki%20Israel.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:145973_reception_center_building_sheba_medical_center_t_PikiWiki_Israel.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Israel Parker",
+   "licence": "CC BY 2.5",
+   "hosting": "hotlink",
+   "caption": "The comprehensive emergency medicine center at Sheba Medical Center, Tel HaShomer",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/2.5",
+   "date": "2026-04-20",
+   "width": 2652,
+   "height": 1803,
+   "role": "related"
+  },
+  {
+   "id": "m34",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Assuta%20Ashdod%20Medical%20Center%2C%20emergency%20room2915.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Assuta_Ashdod_Medical_Center%2C_emergency_room2915.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Yaakov",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "The emergency room entrance at Assuta Ashdod, with parked ambulances",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2023-03-21",
+   "width": 5184,
+   "height": 3888,
+   "role": "related"
+  }
+ ],
+ "check": {
+  "passed": true,
+  "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
+  "checked_at": "2026-11-22T04:35:26Z",
+  "counts": {
+   "confirmed": 65,
+   "not_confirmed": 0,
+   "deleted_sentences": 7,
+   "first_round_confirmed": 63,
+   "first_round_contradicted": 2,
+   "first_round_unverifiable": 7
+  },
+  "note": "unverifiable sentences were deleted, contradicted ones fixed from the source and checked again"
+ },
+ "meta": {
+  "run": "aidoc-ai-emergency-scan-triage",
+  "pipeline": "scripts/museum/museum_line.py",
+  "models": {
+   "research": "sonnet-5-5",
+   "extract": "sonnet-5-5",
+   "media": "sonnet-5-5",
+   "write": "opus-5-5 medium",
+   "check": "opus-5-5 medium",
+   "fix": "opus-5-5 medium"
+  },
+  "source_quality": {
+   "sources": 15,
+   "wikipedia": 0,
+   "strong": 14,
+   "ok": true,
+   "warnings": []
+  }
+ },
+ "lang": "en",
+ "translation": {
+  "from": "he",
+  "translator": "claude-opus-5-5",
+  "checker": "claude-opus-5-5 (separate call, blind to the translation prompt)",
+  "checked_at": "2026-11-22T06:53:16Z",
+  "passed": true,
+  "items": 127,
+  "pairs_checked": 1,
+  "reused": 126,
+  "first_round_flagged": 0,
+  "still_flagged": 0,
+  "flagged": [],
+  "quote_translations": {
+   "c2": "The system sends an alert to the physician on duty, who is called to review the exam urgently, even before the other exams, and also marks for him the suspicious areas that were found",
+   "c5": "The study analyzed 5,048 head CT exams for the diagnosis of intracranial hemorrhages, and the system contributed to a reduction of 1,505 hours in the wait for diagnosis.",
+   "c18": "Roi Barnea, principal researcher at the Assuta Health Policy Research Institute, stressed that the study demonstrated not only the diagnostic ability of the artificial intelligence but also its advantage in prioritization",
+   "c20": "In a system of many exams, it is not always easy for staff to decide who comes first.",
+   "c17": "Israel has a limited number of CT machines, and therefore any system that makes the exams more efficient and shortens reading times brings great health value to patients",
+   "c13": "As soon as the system detects a brain bleed, it sends an immediate alert to the radiographer performing the exam, and he can immediately consult the radiologist",
+   "c23": "An artificial intelligence system that was developed in Israel and recently installed in the CT scanner succeeded",
+   "c15": "For the first time in Israel, the system was implemented in an outpatient setting and not only in emergency rooms, and this is what makes it unique.",
+   "c16": "This makes it possible to provide life-saving treatment even when it comes to exams performed at community clinics, far from a general hospital with an active emergency room.",
+   "c3": "The system was tested in a large-scale study at Assuta in which more than five thousand brain CT scans were analyzed.",
+   "c6": "5,048 head CT exams performed at Assuta's medical centers and hospitals during 2024 were analyzed",
+   "c1": "succeeded in shortening waiting times for reading the exams of patients who had suffered a stroke, according to a new study conducted at the medical center in Tel Aviv",
+   "c7": "a result achieved by shortening the time between performing the scan and the start of writing the radiology report, thanks to the assistance of the artificial intelligence",
+   "c10": "When it was evaluated as a triage capability for emergency cases, the system reached 100% sensitivity",
+   "c11": "Technicians who were asked to triage the urgent cases reached a sensitivity of only 66.7 percent",
+   "c12": "And the study found that it succeeded in identifying 21 positive cases of brain bleeding that would not have appeared in the radiologists' reports were it not for the artificial intelligence – a 14.2% improvement in detection",
+   "c14": "Arnon Makori, head of the imaging division at Assuta Medical Centers, explains that this is a revolution in diagnosis",
+   "c21": "In the future, the system is expected to expand also to MRI exams and to detecting additional pathologies, including tumors and lung cancer.",
+   "c22": "integrating additional artificial intelligence systems, for example for early detection of lung cancer as part of the national screening program for smokers that we carry out here",
+   "c19": "This is a significant addition to the Israeli healthcare system, which is struggling to cope with ever-growing workloads",
+   "c8": "sensitivity of 89.9 percent in detecting brain bleeding, specificity of 99 percent, and in testing the prioritization of urgent cases the system achieved a sensitivity of 100 percent",
+   "c9": "accuracy of up to 99% in detecting brain bleeds compared with the radiology reports that served as the reference standard"
+  }
+ }
+}

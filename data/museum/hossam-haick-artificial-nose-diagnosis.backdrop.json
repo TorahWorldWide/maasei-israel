@@ -1,0 +1,56 @@
+{
+ "schema": "maasei-backdrop/1",
+ "slug": "hossam-haick-artificial-nose-diagnosis",
+ "media": "m3",
+ "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Technion%20%E2%80%93%20Israel%20Institute%20of%20Technology19.jpg?width=1920",
+ "img_small": "https://commons.wikimedia.org/wiki/Special:FilePath/Technion%20%E2%80%93%20Israel%20Institute%20of%20Technology19.jpg?width=1080",
+ "why": "A sharp, wide aerial view of today's Technion campus in Haifa, where Haick built the Na-Nose, with depth and texture that still reads as a place when darkened and partly covered.",
+ "chosen_by": "opus picker",
+ "alternates": [
+  "m4"
+ ],
+ "from": {
+  "average": "#5f6161",
+  "picked": "#a4b6d0",
+  "coloured_share": 0.169,
+  "lightness": 0.378
+ },
+ "palette": {
+  "paper": "#e9edf4",
+  "surface": "#f6f7fa",
+  "band": "#d7e0ec",
+  "tint": "#ccd9ea",
+  "header": "#dfe5ef",
+  "rule": "#afbed5",
+  "text": "#181f2a",
+  "text2": "#333d4c",
+  "accent": "#365178",
+  "meta": "#4f5968",
+  "tone": "#1b2222",
+  "shadow": "18, 24, 33"
+ },
+ "checks": {
+  "text_on_paper": 14.1,
+  "text_on_surface": 15.46,
+  "text_on_band": 12.43,
+  "text_on_tint": 11.58,
+  "text_on_header": 13.08,
+  "text2_on_paper": 9.35,
+  "text2_on_surface": 10.25,
+  "text2_on_band": 8.24,
+  "text2_on_tint": 7.68,
+  "text2_on_header": 8.67,
+  "accent_on_paper": 6.87,
+  "accent_on_surface": 7.53,
+  "accent_on_band": 6.05,
+  "accent_on_tint": 5.64,
+  "accent_on_header": 6.37,
+  "meta_on_paper": 6.04,
+  "meta_on_surface": 6.62,
+  "meta_on_band": 5.32,
+  "meta_on_tint": 4.96,
+  "meta_on_header": 5.6,
+  "paper_on_accent": 6.87
+ },
+ "passed": true
+}

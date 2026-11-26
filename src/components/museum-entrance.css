@@ -1,0 +1,37 @@
+/* ---------------------------------------------------------------- 26.11 entrance band */
+.ent { position: relative; padding: 30px 20px 6px; text-align: center; color: #221b14;
+  background: radial-gradient(ellipse 70% 90% at 50% 0%, #f6f1e6 0%, rgba(246,241,230,0) 70%), #ebe4d5; }
+.ent-head { position: relative; max-width: 720px; margin: 0 auto; }
+.ent-flag { display: flex; align-items: center; justify-content: center; gap: 14px; color: #2a4a86; }
+.ent-flag span { height: 0; width: min(150px, 26vw); border-top: 3px solid #2a4a86; box-shadow: 0 7px 0 -2px #2a4a86; margin-bottom: 7px; }
+.ent-flag svg { width: 34px; height: 34px; }
+.ent-title { font-family: var(--font-david), "David Libre", Georgia, serif; font-weight: 700; font-size: clamp(46px, 11vw, 84px); line-height: 1; margin: 14px 0 10px; letter-spacing: -0.01em; color: #221b14; }
+.ent-sub { font-size: clamp(17px, 4.4vw, 21px); line-height: 1.5; color: #43382c; margin: 0 auto; }
+.ent-stats { display: flex; justify-content: center; align-items: baseline; gap: 12px; font-size: 16px; color: #63554a; margin: 10px 0 0; }
+.ent-stats b { font-size: 22px; font-weight: 700; color: #6b4426; margin-inline-end: 5px; }
+.ent-dot { color: #cbbfa8; }
+
+/* ---------------------------------------------------------------- 26.11 scroll feed of written deeds */
+.mfeed { padding: 46px 16px 30px; background: #ebe4d5; }
+.mfeed-in { max-width: 1240px; margin: 0 auto; }
+.mfeed-h { text-align: center; font-family: var(--font-david), Georgia, serif; font-size: clamp(28px, 6vw, 40px); font-weight: 700; color: #221b14; margin: 0; }
+.mfeed-sub { text-align: center; color: #63554a; font-size: 17px; margin: 6px 0 30px; }
+.mfeed-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 26px 22px; }
+.mcard { display: block; text-decoration: none; color: inherit; background: #fdfaf3; padding: 9px 9px 14px; border-radius: 3px;
+  box-shadow: 0 1px 2px rgba(34,27,20,.16), 0 14px 28px -16px rgba(34,27,20,.45); transition: transform .2s ease, box-shadow .2s ease; }
+.mcard:hover { transform: translateY(-3px); box-shadow: 0 1px 2px rgba(34,27,20,.16), 0 20px 34px -16px rgba(34,27,20,.5); }
+.mcard-img { position: relative; display: block; aspect-ratio: 16 / 9; overflow: hidden; background: #e0d7c4; }
+.mcard-img img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.mcard-play { position: absolute; inset-inline-start: 10px; bottom: 10px; width: 34px; height: 34px; border-radius: 50%; background: rgba(246,241,230,.92); color: #6b4426; display: flex; align-items: center; justify-content: center; }
+.mcard-play svg { width: 14px; height: 14px; }
+.mcard-t { display: flex; justify-content: space-between; align-items: baseline; gap: 10px; margin: 12px 4px 4px; }
+.mcard-t b { font-family: var(--font-david), Georgia, serif; font-size: 21px; line-height: 1.2; color: #221b14; }
+.mcard-t em { font-style: normal; font-size: 14px; color: #6b4426; flex-shrink: 0; }
+.mcard-l { margin: 0 4px; font-size: 15px; line-height: 1.5; color: #43382c; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+.mfeed-more { display: flex; justify-content: center; margin-top: 34px; }
+.mfeed-more button { background: #6b4426; color: #f6f1e6; font-size: 17px; font-weight: 700; padding: 12px 28px; border-radius: 999px; border: 0; cursor: pointer; }
+.mfeed-more button:hover { background: #553419; }
+@media (max-width: 640px) {
+  .ent { padding-top: 22px; }
+  .mfeed-grid { grid-template-columns: 1fr; gap: 20px; }
+}

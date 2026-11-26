@@ -1,0 +1,1731 @@
+{
+ "schema": "maasei-museum/1",
+ "slug": "syqe-medical-cannabis-inhaler",
+ "deed": "חברת סייקי פיתחה משאף ראשון בעולם למינון מדויק של קנאביס רפואי",
+ "canonical_type": "team-invention",
+ "year": "2011",
+ "title": "סאיקי הישראלית פיתחה משאף שנותן קנאביס רפואי במנה מדויקת, ונוסה ברמב\"ם",
+ "trailer": [
+  {
+   "text": "סאיקי מדיקל היא חברה ישראלית, שמרכז הפיתוח שלה ביפו והמשאף שלה מיוצר בטבריה.",
+   "claims": [
+    "c11"
+   ]
+  },
+  {
+   "text": "רופאים היססו לרשום קנאביס רפואי, כי בדרכים הנהוגות אי אפשר לדעת כמה ממנו החולה מקבל.",
+   "claims": [
+    "c1",
+    "c2"
+   ]
+  },
+  {
+   "text": "סאיקי פיתחה משאף שהופך מנות קטנות של צמח הקנאביס לאירוסול במדויק, עם בקרי חום וזרימה אוטומטיים.",
+   "claims": [
+    "c14",
+    "c15"
+   ]
+  },
+  {
+   "text": "בניסוי במרכז הרפואי רמב\"ם בחיפה, אחרי שאיפה אחת של 1.0 מ\"ג THC, ירד הכאב בממוצע ב-39.42% בשיאו.",
+   "claims": [
+    "c18",
+    "c20",
+    "c21"
+   ]
+  },
+  {
+   "text": "לפי וואלה, המשאף מאושר לשימוש על ידי משרד הבריאות בישראל, והחברה קיבלה אישור להתקן רפואי גם מרשויות הבריאות בקנדה.",
+   "claims": [
+    "c72",
+    "c12"
+   ]
+  }
+ ],
+ "hero_media": [
+  "m1",
+  "m2",
+  "m11",
+  "m15",
+  "m16",
+  "m18",
+  "m20",
+  "m22"
+ ],
+ "glance": [
+  {
+   "label": "החברה",
+   "value": "סאיקי מדיקל, חברה ישראלית",
+   "claims": [
+    "c11"
+   ]
+  },
+  {
+   "label": "נוסדה",
+   "value": "2011, לפי כלכליסט",
+   "claims": [
+    "c13"
+   ]
+  },
+  {
+   "label": "איפה",
+   "value": "פיתוח ביפו, ייצור בטבריה",
+   "claims": [
+    "c11"
+   ]
+  },
+  {
+   "label": "ניסוי",
+   "value": "רמב\"ם, חיפה",
+   "claims": [
+    "c18"
+   ]
+  },
+  {
+   "label": "מטופלים במעקב",
+   "value": "215",
+   "claims": [
+    "c42"
+   ]
+  },
+  {
+   "label": "אישורים",
+   "value": "משרד הבריאות בישראל, קנדה",
+   "claims": [
+    "c57",
+    "c12"
+   ]
+  }
+ ],
+ "stations": [
+  {
+   "id": "s1",
+   "title": "לפני: אף אחד לא ידע כמה",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "לפי ynet, בישראל יש קרוב ל-110 אלף בעלי רישיון לקנאביס רפואי.",
+      "claims": [
+       "c10"
+      ]
+     },
+     {
+      "text": "יותר מ-80% מהם צורכים אותו בעישון או באידוי של תפרחות.",
+      "claims": [
+       "c10"
+      ]
+     },
+     {
+      "text": "לפי מאמר מחקר, כאב כרוני פוגע בערך באחד מכל חמישה מבוגרים במדינות מפותחות.",
+      "claims": [
+       "c9"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "לפי המחקר, הדרכים הנהוגות לתת קנאביס מספקות מינונים לא ידועים.",
+      "claims": [
+       "c2"
+      ]
+     },
+     {
+      "text": "לכן אי אפשר ליישם בהן תוכנית טיפול תרופתית רגילה.",
+      "claims": [
+       "c2"
+      ]
+     },
+     {
+      "text": "לפי ג'רוזלם פוסט, גם מאכלים, עישון ומשאפים מסחריים לא נותנים מינון אמין או מדויק.",
+      "claims": [
+       "c5"
+      ]
+     },
+     {
+      "text": "לפי מאמר הפיילוט, אף מכשיר אידוי זמין לא נותן מינונים מדויקים וקבועים לפי פרמטרים פרמצבטיים רגילים.",
+      "claims": [
+       "c8"
+      ]
+     },
+     {
+      "text": "לפי כלכליסט, בלי מינון מדויק לא היה אפשר עד אז להתייחס לקנאביס רפואי כאל טיפול מן המניין.",
+      "claims": [
+       "c4"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "פרופ' אלון אייזנברג, לימים החוקר הראשי בניסוי, סיפר שהדבר הראשון שהטריד את הרופאים היה העישון.",
+      "claims": [
+       "c6",
+       "c35"
+      ]
+     },
+     {
+      "text": "לדבריו, קשה לרופאים להמליץ לחולים לעשן.",
+      "claims": [
+       "c6"
+      ]
+     },
+     {
+      "text": "לפי המחקר, עישון אינו מקובל לטיפול, בעיקר בגלל הסיכון הבריאותי ממוצרי פירוליזה מזיקים.",
+      "claims": [
+       "c3"
+      ]
+     },
+     {
+      "text": "לדברי אייזנברג, גם המחקרים על קנאביס אינם עולים מעל רף איכות מסוים, כי לא ברור מה בדיוק החולים מקבלים.",
+      "claims": [
+       "c7"
+      ]
+     }
+    ]
+   ],
+   "media": [],
+   "disagreements": []
+  },
+  {
+   "id": "s2",
+   "title": "המשאף: מנה מדודה בכל שאיפה",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "לפי כלכליסט, סאיקי מדיקל נוסדה ב-2011.",
+      "claims": [
+       "c13"
+      ]
+     },
+     {
+      "text": "מרכז הפיתוח שלה נמצא ביפו, והמשאף והמחסניות מיוצרים בטבריה.",
+      "claims": [
+       "c11"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "המשאף נועד להפוך מנות רבות של צמח גולמי גרוס לאירוסול, בדיוק.",
+      "claims": [
+       "c14"
+      ]
+     },
+     {
+      "text": "יש בו בקרי חום וזרימה אוטומטיים.",
+      "claims": [
+       "c15"
+      ]
+     },
+     {
+      "text": "הם מבטיחים שהאירוסול יגיע לריאות, בלי תלות באופן שבו המטופל שואף.",
+      "claims": [
+       "c15"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "הקנאביס מגיע במחסנית, ובה מנות דחוסות שנטענו מראש.",
+      "claims": [
+       "c16",
+       "c38"
+      ]
+     },
+     {
+      "text": "כמה מנות יש במחסנית וכמה קנאביס יש בכל מנה, המקורות מתארים אחרת.",
+      "claims": [
+       "c16",
+       "c37",
+       "c38",
+       "c39",
+       "c40",
+       "c41"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m1",
+    "m3",
+    "m2",
+    "m6"
+   ],
+   "disagreements": [
+    "d1",
+    "d2"
+   ]
+  },
+  {
+   "id": "s3",
+   "title": "הניסוי ברמב\"ם",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "אייזנברג סיפר שהבעיות האלה גרמו לו לשתף פעולה עם סאיקי ולהכניס את המכשיר לניסוי במחלקת הכאב.",
+      "claims": [
+       "c71"
+      ]
+     },
+     {
+      "text": "הניסוי האקראי נערך ביחידה לחקר הכאב במרכז הרפואי רמב\"ם בחיפה.",
+      "claims": [
+       "c18"
+      ]
+     },
+     {
+      "text": "המשתתפים נדרשו להחזיק ברישיון ממשרד הבריאות.",
+      "claims": [
+       "c19"
+      ]
+     },
+     {
+      "text": "27 מטופלים נמצאו מתאימים לניסוי.",
+      "claims": [
+       "c17"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "בכל ביקור קיבל המטופל שאיפה אחת: 0.5 מ\"ג THC, 1.0 מ\"ג THC או פלצבו, בסדר אקראי.",
+      "claims": [
+       "c20"
+      ]
+     },
+     {
+      "text": "במינון 0.5 מ\"ג ירד הכאב בשיאו בממוצע ב-1.95 נקודות, שהן 24.97%.",
+      "claims": [
+       "c21"
+      ]
+     },
+     {
+      "text": "במינון 1.0 מ\"ג הוא ירד ב-2.95 נקודות, שהן 39.42%.",
+      "claims": [
+       "c21"
+      ]
+     },
+     {
+      "text": "הירידה במינון 1.0 מ\"ג הייתה גדולה במובהק מזו שבפלצבו ומזו שבמינון 0.5 מ\"ג.",
+      "claims": [
+       "c22"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "כשהכפילו את המינון, כמעט הוכפלה גם רמת ה-THC בדם.",
+      "claims": [
+       "c23"
+      ]
+     },
+     {
+      "text": "לא נמצאה עדות לפגיעה עקבית בחשיבה במינונים שנבדקו.",
+      "claims": [
+       "c25"
+      ]
+     },
+     {
+      "text": "החוקרים כותבים שלמיטב ידיעתם זו הפעם הראשונה שמנות בודדות, נמוכות ומדויקות של THC בשאיפה הראו אפקט משכך כאב.",
+      "claims": [
+       "c26"
+      ]
+     },
+     {
+      "text": "לפי ynet, המשאף הוא תוצר של מחקרים קליניים שנערכו ברמב\"ם.",
+      "claims": [
+       "c73"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m4",
+    "m5",
+    "m13",
+    "m14"
+   ],
+   "disagreements": [
+    "d3",
+    "d5"
+   ]
+  },
+  {
+   "id": "s4",
+   "title": "במחלקות ובבית",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "במחקר פיילוט נוסף גויסו מאושפזים ברמב\"ם בחיפה, שהחזיקו ברישיון לקנאביס רפואי ממשרד הבריאות.",
+      "claims": [
+       "c74"
+      ]
+     },
+     {
+      "text": "כל המשתתפים למדו בקלות להשתמש במשאף, ולא נרשמו תקלות במכשיר.",
+      "claims": [
+       "c55"
+      ]
+     },
+     {
+      "text": "כל המשתתפים דיווחו על הפחתה בכאב, ואצל 6 מתוך 12 הכאב ירד ב-20% או יותר.",
+      "claims": [
+       "c52"
+      ]
+     },
+     {
+      "text": "לפי המחקר, המטופלים והצוות היו מרוצים מאוד, ולא היו סיבוכים.",
+      "claims": [
+       "c36"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "במחקר מעקב ארוך יותר, עד אוקטובר 2020 נרשמו 215 מטופלים והתחילו טיפול במשאף.",
+      "claims": [
+       "c42"
+      ]
+     },
+     {
+      "text": "אצל 138 מטופלים עם כאב כרוני ירדה עוצמת הכאב ב-1.62 נקודות.",
+      "claims": [
+       "c43"
+      ]
+     },
+     {
+      "text": "מתוך 43 מטופלים שהשתמשו באופיואידים בתחילת הטיפול, 25 דיווחו שהפחיתו את המינון אחרי 120 יום.",
+      "claims": [
+       "c44"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "מבין מי שדירגו את איכות חייהם, 59% דיווחו על שיפור ו-33% על שיפור רב.",
+      "claims": [
+       "c45"
+      ]
+     },
+     {
+      "text": "9% דיווחו שאין שינוי.",
+      "claims": [
+       "c45"
+      ]
+     },
+     {
+      "text": "במחקר הזה, תופעות לוואי היו פחות שכיחות עם המשאף מאשר בדרכי מתן אחרות.",
+      "claims": [
+       "c46"
+      ]
+     },
+     {
+      "text": "לשם השוואה, לפי המאמר, חולה בישראל קיבל במרשם באמצע 2021 בממוצע כ-30 גרם קנאביס בחודש.",
+      "claims": [
+       "c68"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m8",
+    "m12",
+    "m17",
+    "m21",
+    "m23"
+   ],
+   "disagreements": [
+    "d4"
+   ]
+  },
+  {
+   "id": "s5",
+   "title": "אישורים",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "לפי מאמר הפיילוט, גרסה ביתית של המשאף אושרה על ידי משרד הבריאות ונמצאת בשימוש בישראל.",
+      "claims": [
+       "c57"
+      ]
+     },
+     {
+      "text": "בנובמבר 2016 דווח שטבע ישראל תהיה המשווקת והמפיצה הבלעדית של המשאף בישראל.",
+      "claims": [
+       "c60"
+      ]
+     },
+     {
+      "text": "לפי וואלה, רוכשים בסופר-פארם זכאים להנחה של 300 שקל על המשאף, ואחריה מחירו עומד על 1,650 שקל.",
+      "claims": [
+       "c61"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "אחר כך קיבלה מרשויות הבריאות בקנדה אישור משולב להתקן רפואי.",
+      "claims": [
+       "c12",
+       "c58"
+      ]
+     },
+     {
+      "text": "לפי כלכליסט, זה האישור הראשון שנתן רגולטור בינלאומי לשיווק משאף קנאביס מדיד כמוצר רפואי.",
+      "claims": [
+       "c59"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m19"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s6",
+   "title": "האנשים",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "רוני גולדנברג, מטופלת, סיפרה שלפני הקנאביס צרכה אופיאטים ברמה הגבוהה ביותר, עד שהייתה חייבת לעצור.",
+      "claims": [
+       "c62"
+      ]
+     },
+     {
+      "text": "לדבריה, הדיוק של המכשיר עוזר לה להשתמש בקנאביס בצורה מבוקרת ולהפחית את ההשפעה הפסיכואקטיבית.",
+      "claims": [
+       "c63"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "הדס אבשלום סיפרה שהייתה החולה הראשונה שטסה עם המשאף, ושיכלה להשתמש בו בכל מקום בלי להסתתר.",
+      "claims": [
+       "c64"
+      ]
+     },
+     {
+      "text": "לדבריה, עם המשאף צרכה רק שלוש מנות ביום והרגישה חיונית.",
+      "claims": [
+       "c65"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "מנכ\"ל סאיקי, פרי דוידסון, אמר שאם מטפלים בדיוק רב יותר, צריך פחות תרופה וצפויות פחות תופעות לוואי.",
+      "claims": [
+       "c34"
+      ]
+     },
+     {
+      "text": "פרופ' אייזנברג אמר שאפשר להסיק מהמחקר שמינונים נמוכים של קנאביס עשויים לתת את ההשפעה הרצויה בלי לפגוע בחשיבה.",
+      "claims": [
+       "c35"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m7"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s7",
+   "title": "מה עוד צריך לדעת",
+   "kind": "hard",
+   "paragraphs": [
+    [
+     {
+      "text": "חלק ממחברי הניסוי ברמב\"ם הם עובדי סאיקי, ואחרים קיבלו ממנה תמיכה במחקר.",
+      "claims": [
+       "c30"
+      ]
+     },
+     {
+      "text": "במחקר המעקב, שניים מהמחברים מועסקים בסאיקי, ואייזנברג מועסק בה כיועץ חיצוני.",
+      "claims": [
+       "c51"
+      ]
+     },
+     {
+      "text": "את מחקר האשפוז מימנה סאיקי, שפיתחה את המשאף ומחזיקה בקניין הרוחני שלו.",
+      "claims": [
+       "c54"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "הניסוי ברמב\"ם לא נרשם באתר ClinicalTrials.gov, בגלל טעות אדמיניסטרטיבית.",
+      "claims": [
+       "c28"
+      ]
+     },
+     {
+      "text": "החוקרים כותבים שלא שאלו את המטופלים איזה טיפול לדעתם קיבלו, ולכן אי אפשר להיות בטוחים שהעיוורון היה מלא.",
+      "claims": [
+       "c29"
+      ]
+     },
+     {
+      "text": "מחקר האשפוז נערך בלי פלצבו, ומחבריו כותבים שיש לפרש את תוצאותיו בזהירות.",
+      "claims": [
+       "c53"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "במחקר המעקב המדגם היה קטן יחסית, ו-28 מטופלים, שהם 19.5%, נשרו.",
+      "claims": [
+       "c50",
+       "c70"
+      ]
+     },
+     {
+      "text": "17% מהמטופלים דיווחו שהכאב לא ירד ו-7% שהוא החמיר, אבל בחרו להמשיך במשאף.",
+      "claims": [
+       "c49"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "בניסוי ברמב\"ם, 95% מתופעות הלוואי היו קלות, ו-80% נחשבו קשורות לטיפול הנבדק.",
+      "claims": [
+       "c24"
+      ]
+     },
+     {
+      "text": "במינון 1.0 מ\"ג עלה הדופק במובהק 15 דקות אחרי השאיפה.",
+      "claims": [
+       "c67"
+      ]
+     },
+     {
+      "text": "במחקר האשפוז, שלושה משתתפים השתעלו קלות מיד אחרי השאיפה, והשיעול חלף מעצמו בתוך דקה.",
+      "claims": [
+       "c56"
+      ]
+     }
+    ]
+   ],
+   "media": [],
+   "disagreements": []
+  }
+ ],
+ "disagreements": [
+  {
+   "id": "d1",
+   "question": "כמה קנאביס יש בכל מנה?",
+   "versions": [
+    {
+     "says": "מחקר האשפוז: 16.0 ± 0.5 מ\"ג פרחי קנאביס מגורענים",
+     "claims": [
+      "c40"
+     ]
+    },
+    {
+     "says": "מחקר המעקב ארוך הטווח: 13.5 ± 0.9 מ\"ג פרחי קנאביס בדרגה פרמצבטית",
+     "claims": [
+      "c41"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d2",
+   "question": "כמה מנות יש במחסנית?",
+   "versions": [
+    {
+     "says": "מחקר האשפוז: 18 מנות",
+     "claims": [
+      "c37"
+     ]
+    },
+    {
+     "says": "מחקר המעקב ארוך הטווח: 60 מנות",
+     "claims": [
+      "c38"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d3",
+   "question": "מה המינון הטוב ביותר לכאב?",
+   "versions": [
+    {
+     "says": "לפי הצהרה של OurCrowd: 500 מיקרוגרם THC בלבד",
+     "claims": [
+      "c32"
+     ]
+    },
+    {
+     "says": "לפי מאמר הניסוי: במינון 1.0 מ\"ג הכאב ירד במובהק יותר מאשר במינון 0.5 מ\"ג",
+     "claims": [
+      "c22"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d4",
+   "question": "בכמה פחתו תופעות הלוואי לעומת דרכים אחרות?",
+   "versions": [
+    {
+     "says": "מחקר המעקב: 41% לעומת 76%, ירידה של 35%",
+     "claims": [
+      "c46"
+     ]
+    },
+    {
+     "says": "ד\"ר איתן חי-עם, יו\"ר סאיקי: ירידה של כ-90% לפי נתוני המטופלים בישראל",
+     "claims": [
+      "c48"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d5",
+   "question": "מתי נערך הניסוי ברמב\"ם?",
+   "versions": [
+    {
+     "says": "מטופלים נמצאו מתאימים בין מרץ 2016 לאפריל 2017",
+     "claims": [
+      "c17"
+     ]
+    },
+    {
+     "says": "הניסוי נערך בין מרץ 2016 ליולי 2017",
+     "claims": [
+      "c18"
+     ]
+    }
+   ]
+  }
+ ],
+ "unknowns": [
+  {
+   "text": "לפי כלכליסט, ההסכם של סאיקי עם פיליפ מוריס אינו נוגע לפעילותה של סאיקי בתחום הקנאביס.",
+   "claims": [
+    "c66"
+   ]
+  }
+ ],
+ "claims": [
+  {
+   "id": "c11",
+   "text": "סאיקי היא חברה ישראלית; מרכז הפיתוח שלה ביפו והמשאף והמחסניות מיוצרים בטבריה.",
+   "source": "src1",
+   "quote": "סאיקי היא חברה ישראלית, שמרכז הפיתוח שלה נמצא ביפו והייצור של המשאף והמחסניות נעשה בטבריה.",
+   "status": "confirmed",
+   "locator": "שורה 83"
+  },
+  {
+   "id": "c1",
+   "text": "המחקר קובע שמינון מדויק של טיפול בקנאביס נותר אתגר מרכזי, והוא גורם לרופאים להסס לרשום קנאביס רפואי.",
+   "source": "src2",
+   "quote": "Precise cannabis treatment dosing remains a major challenge, leading to physicians’ reluctance to prescribe medical cannabis.",
+   "status": "confirmed",
+   "locator": "שורה 16"
+  },
+  {
+   "id": "c2",
+   "text": "לפי המחקר, דרכי מתן הקנאבינואידים הנהוגות היום מספקות מינונים לא ידועים, ולכן אי אפשר ליישם תוכנית טיפול תרופתית סטנדרטית.",
+   "source": "src2",
+   "quote": "currently used routes of cannabinoids delivery provide unknown doses, making it impossible to implement a pharmaceutical standard treatment plan",
+   "status": "confirmed",
+   "locator": "שורה 27"
+  },
+  {
+   "id": "c14",
+   "text": "המשאף של סייקי מיועד להפיכת מנות מרובות של צמח גולמי גרוע לאירוסול בדיוק.",
+   "source": "src2",
+   "quote": "designed to precisely aerosolize multiple doses of granulated raw plants",
+   "status": "confirmed",
+   "locator": "שורה 39"
+  },
+  {
+   "id": "c15",
+   "text": "המכשיר כולל בקרי חום וזרימה אוטומטיים שמבטיחים אספקת אירוסול קנאבינואידים לריאות, ללא תלות בדפוס השאיפה של המטופל.",
+   "source": "src2",
+   "quote": "The device engages automatic thermal and flow controllers that ensure the delivery of cannabinoid aerosol to the lungs, independent of the inhalation pattern of the individual patient.",
+   "status": "confirmed",
+   "locator": "שורה 39"
+  },
+  {
+   "id": "c18",
+   "text": "הניסוי האקראי נערך ביחידה לחקר הכאב במרכז הרפואי רמב\"ם בחיפה בין מרץ 2016 ליולי 2017.",
+   "source": "src2",
+   "quote": "was conducted at the Pain Research Unit of Rambam Health Care Campus (Haifa, Israel) between March 2016 and July 2017",
+   "status": "confirmed",
+   "locator": "שורה 35"
+  },
+  {
+   "id": "c20",
+   "text": "בכל ביקור קיבלו המטופלים שאיפה בודדת של אחד משלושה מינונים: 0.5 או 1.0 מ\"ג THC או פלצבו, בסדר אקראי.",
+   "source": "src2",
+   "quote": "patients were assigned to receive a single inhalation of one of three doses: 0.5, 1.0 mg THC or placebo at random order",
+   "status": "confirmed",
+   "locator": "שורה 37"
+  },
+  {
+   "id": "c21",
+   "text": "הירידה המרבית הממוצעת בכאב הייתה 1.95 נקודות (24.97%) במינון 0.5 מ\"ג ו-2.95 נקודות (39.42%) במינון 1.0 מ\"ג.",
+   "source": "src2",
+   "quote": "The mean maximum drop from baseline in the VAS pain score was 1.95 points (24.97%) in the 0.5 mg dose and 2.95 points (39.42%) in the 1.0 mg dose.",
+   "status": "confirmed",
+   "locator": "שורה 167"
+  },
+  {
+   "id": "c72",
+   "text": "לפי וואלה, המשאף מאושר לשימוש על ידי משרד הבריאות בישראל.",
+   "source": "src3",
+   "quote": "המשאף מאושר לשימוש על ידי משרד הבריאות בישראל",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c12",
+   "text": "סאיקי מדיקל הישראלית קיבלה מרשויות הבריאות הקנדיות אישור משולב להתקן רפואי (MDL).",
+   "source": "src4",
+   "quote": "סאיקי מדיקל הישראלית קיבלה אישור Medical Device License (MDL) משולב מרשויות הבריאות הקנדיות",
+   "status": "confirmed",
+   "locator": "שורה 121"
+  },
+  {
+   "id": "c13",
+   "text": "לפי כלכליסט, סאיקי מדיקל נוסדה ב-2011 ומרכז המחקר והפיתוח שלה נמצא ביפו.",
+   "source": "src4",
+   "quote": "סאיקי מדיקל נוסדה ב- 2011, מרכז המחקר והפיתוח של החברה נמצא ביפו",
+   "status": "confirmed",
+   "locator": "שורה 131"
+  },
+  {
+   "id": "c42",
+   "text": "בנקודת ניתוח הנתונים (אוקטובר 2020) נרשמו 215 מטופלים והחלו טיפול במשאף של סייקי.",
+   "source": "src5",
+   "quote": "215 patients were enrolled and initiated treatment with MC using the Syqe Inhaler",
+   "status": "confirmed",
+   "locator": "שורה 51"
+  },
+  {
+   "id": "c57",
+   "text": "לפי מאמר הפיילוט, גרסה ביתית של המשאף אושרה על ידי משרד הבריאות ונמצאת בשימוש בישראל.",
+   "source": "src6",
+   "quote": "a home version of the Syqe inhaler has been authorized by the MoH and is now in use in Israel",
+   "status": "confirmed",
+   "locator": "שורה 118"
+  },
+  {
+   "id": "c10",
+   "text": "לפי כתבה ב-ynet, בישראל יש קרוב ל-110 אלף בעלי רישיון לקנאביס רפואי, ויותר מ-80% מהם צורכים אותו בעישון או באידוי של תפרחות.",
+   "source": "src1",
+   "quote": "כיום, יש בישראל קרוב ל-110 אלף בעלי רישיונות לקנאביס רפואי, יותר מ-80% מהם צורכים אותו באמצעות תפרחות בעישון או באידוי.",
+   "status": "confirmed",
+   "locator": "שורה 73"
+  },
+  {
+   "id": "c9",
+   "text": "לפי המאמר, כאב כרוני פוגע בערך באחד מכל חמישה מבוגרים במדינות מפותחות.",
+   "source": "src6",
+   "quote": "Chronic pain affects approximately one in every five adults in developed countries",
+   "status": "confirmed",
+   "locator": "שורה 62"
+  },
+  {
+   "id": "c5",
+   "text": "לפי ג'רוזלם פוסט, אף אחת מדרכי המתן הקודמות של קנאביס רפואי (מאכלים, עישון, משאפים מסחריים) לא מספקת מינונים אמינים או מדויקים.",
+   "source": "src7",
+   "quote": "None of those, however, provide reliable or accurate doses.",
+   "status": "confirmed",
+   "locator": "שורה 41"
+  },
+  {
+   "id": "c8",
+   "text": "לפי מאמר הפיילוט, אף אחד ממכשירי האידוי הזמינים אינו מסוגל לתת קנאביס במינונים מדויקים וקבועים לפי פרמטרים פרמצבטיים סטנדרטיים.",
+   "source": "src6",
+   "quote": "none of the currently available vaporizer devices can administer cannabis under standard pharmaceutical parameters in precise and constant doses",
+   "status": "confirmed",
+   "locator": "שורה 65"
+  },
+  {
+   "id": "c4",
+   "text": "לפי כלכליסט, בהיעדר מינון מדויק לא ניתן היה עד כה להתייחס לקנאביס רפואי כאל טיפול מן המניין.",
+   "source": "src8",
+   "quote": "בהיעדר מינון מדויק, לא ניתן היה עד כה להתייחס לקנאביס רפואי כטיפול מן המניין",
+   "status": "confirmed",
+   "locator": "שורה 19"
+  },
+  {
+   "id": "c6",
+   "text": "פרופ' אייזנברג סיפר שהדבר הראשון שהטריד את הרופאים היה שאנשים צורכים קנאביס בעישון, ושקשה להם כרופאים להמליץ לחולים לעשן.",
+   "source": "src9",
+   "quote": "הדבר הראשון שהטריד אותנו הוא שאנשים לוקחים את הקנביס בצורת עישון. כרופאים, קשה לנו להמליץ לחולים לעשן",
+   "status": "confirmed",
+   "locator": "שורה 27"
+  },
+  {
+   "id": "c35",
+   "text": "החוקר הראשי פרופ' אלון אייזנברג אמר שניתן להסיק ממחקר שמינונים נמוכים של קנאביס עשויים לתת אפקטים רצויים תוך הימנעות מפגיעה קוגניטיבית.",
+   "source": "src7",
+   "quote": "We can conclude from the study results that low doses of cannabis may provide desirable effects while avoiding cognitive debilitations",
+   "status": "confirmed",
+   "locator": "שורה 44"
+  },
+  {
+   "id": "c3",
+   "text": "לפי המחקר, עישון אינו מקובל למטרות טיפוליות בעיקר בגלל הסיכון הבריאותי ממוצרי פירוליזה מזיקים.",
+   "source": "src2",
+   "quote": "Besides, smoking is not acceptable for therapeutic purposes, mainly because of the health risk caused by noxious pyrolytic",
+   "status": "confirmed",
+   "locator": "שורה 30"
+  },
+  {
+   "id": "c7",
+   "text": "לדברי אייזנברג, המחקרים על קנאביס אינם עולים מעל רף איכותי מסוים משום שלא ברור מה בדיוק החולים מקבלים.",
+   "source": "src9",
+   "quote": "המחקרים שיש לנו לגבי קנביס לא מצליחים לעלות מעל רף איכותי מסוים, פשוט מפני שאנחנו לא בטוחים מה אנשים מקבלים",
+   "status": "confirmed",
+   "locator": "שורה 27"
+  },
+  {
+   "id": "c16",
+   "text": "לפי בחדרי חרדים (2016), כל מנה במחסנית מכילה 15 מיליגרם קנביס דחוס.",
+   "source": "src9",
+   "quote": "15 מיליגרמים של קנביס דחוס להפליא שלכודים בין שתי רשתות צפופות",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c38",
+   "text": "במחקר המעקב ארוך הטווח, המחסנית הכילה 60 יחידות VC טעונות מראש.",
+   "source": "src5",
+   "quote": "The Syqe Inhaler 1.1 (Fig. 1) consists of a cartridge containing 60 preloaded VCs",
+   "status": "confirmed",
+   "locator": "שורה 32"
+  },
+  {
+   "id": "c37",
+   "text": "במחקר האשפוז, המחסנית הכילה 18 VaporChips.",
+   "source": "src6",
+   "quote": "The inhaler comprises a cartridge containing 18 VaporChips, a dose counter, an indication light, and a power switch.",
+   "status": "confirmed",
+   "locator": "שורה 79"
+  },
+  {
+   "id": "c39",
+   "text": "לפי בחדרי חרדים (2016), במחסנית יש 75 מנות.",
+   "source": "src9",
+   "quote": "יש בה 75 מנות שמסודרות זו לצד זו על גבי משטחונים",
+   "status": "confirmed",
+   "locator": "שורה 13"
+  },
+  {
+   "id": "c40",
+   "text": "במחקר האשפוז, כל VaporChip נטען מראש ב-16.0 ± 0.5 מ\"ג פרחי קנאביס מגורענים.",
+   "source": "src6",
+   "quote": "In the current study, each VaporChip was preloaded with 16.0 ± 0.5 mg of granulated flos",
+   "status": "confirmed",
+   "locator": "שורה 79"
+  },
+  {
+   "id": "c41",
+   "text": "במחקר המעקב ארוך הטווח, כל VC נטען מראש ב-13.5 ± 0.9 מ\"ג פרחי קנאביס מעובדים בדרגה פרמצבטית.",
+   "source": "src5",
+   "quote": "Each VC was preloaded with 13.5 ± 0.9 mg processed granulated pharmaceutical grade cannabis flowers",
+   "status": "confirmed",
+   "locator": "שורה 37"
+  },
+  {
+   "id": "c71",
+   "text": "אייזנברג סיפר שהסיבות הללו גרמו לו לשתף פעולה עם סאיקי ולהכניס את המכשיר לניסוי במחלקת הכאב.",
+   "source": "src9",
+   "quote": "הסיבות הללו גרמו לאייזנברג לשתף פעולה עם סאיקי ולהכניס את המכשיר לניסוי במחלקת הכאב",
+   "status": "confirmed",
+   "locator": "שורה 28"
+  },
+  {
+   "id": "c19",
+   "text": "משתתפי הניסוי נדרשו להיות בעלי רישיון ממשרד הבריאות הישראלי.",
+   "source": "src2",
+   "quote": "and licensed by the Israeli Ministry of Health to receive",
+   "status": "confirmed",
+   "locator": "שורה 35"
+  },
+  {
+   "id": "c17",
+   "text": "בין מרץ 2016 לאפריל 2017 נמצאו 27 מטופלים מתאימים לניסוי.",
+   "source": "src2",
+   "quote": "Between March 2016 and April 2017, a total of 27 patients were found eligible to participate in the current study",
+   "status": "confirmed",
+   "locator": "שורה 61"
+  },
+  {
+   "id": "c22",
+   "text": "הפחתת הכאב במינון 1.0 מ\"ג הייתה גדולה במובהק סטטיסטית מזו שבפלצבו ומזו שבמינון 0.5 מ\"ג.",
+   "source": "src2",
+   "quote": "The reduction in VAS score was statistically significantly larger in the 1.0 mg compared to the placebo and the 0.5 mg dose",
+   "status": "confirmed",
+   "locator": "שורה 167"
+  },
+  {
+   "id": "c23",
+   "text": "הכפלת מינון ה-THC הביאה כמעט להכפלת ה-Cmax וה-AUC של ה-THC בפלזמה.",
+   "source": "src2",
+   "quote": "Doubling the labelled THC dose resulted in nearly doubling the C max and AUC of plasma THC",
+   "status": "confirmed",
+   "locator": "שורה 162"
+  },
+  {
+   "id": "c25",
+   "text": "לא נמצאה עדות לפגיעה עקבית בתפקוד הקוגניטיבי של נבדקים שטופלו ב-THC באירוסול במינונים שנבדקו.",
+   "source": "src2",
+   "quote": "There was no evidence of any consistent impairment in performance in subjects treated with aerosolized THC in the studied doses.",
+   "status": "confirmed",
+   "locator": "שורה 231"
+  },
+  {
+   "id": "c26",
+   "text": "החוקרים כותבים שלמיטב ידיעתם זו הפעם הראשונה שמתן מינונים בודדים, נמוכים ומדויקים של THC בשאיפה הראה אפקט משכך כאב.",
+   "source": "src2",
+   "quote": "To the best of our knowledge, it is the first time that the delivery of selective, significantly low, and precise therapeutic single doses of inhaled THC demonstrates an analgesic effect.",
+   "status": "confirmed",
+   "locator": "שורה 244"
+  },
+  {
+   "id": "c73",
+   "text": "לפי ynet, המשאף הוא תוצר של מחקרים קליניים שנערכו במרכז הרפואי רמב\"ם.",
+   "source": "src1",
+   "quote": "המשאף הרפואי של סאיקי, הוא תוצר של מחקרים קליניים, שנערכו במרכז הרפואי",
+   "status": "confirmed",
+   "locator": "שורה 77"
+  },
+  {
+   "id": "c74",
+   "text": "במחקר הפיילוט גויסו מאושפזים ברמב\"ם בחיפה שהחזיקו ברישיון לקנאביס רפואי ממשרד הבריאות הישראלי.",
+   "source": "src6",
+   "quote": "hospitalized patients at the Rambam Health Care Campus (Haifa, Israel) holding a valid license to consume MC from the Israeli Ministry of Health (MoH)",
+   "status": "confirmed",
+   "locator": "שורה 74"
+  },
+  {
+   "id": "c55",
+   "text": "במחקר האשפוז כל המשתתפים הודרכו בקלות לשימוש במשאף ולא נרשמו תקלות במכשיר.",
+   "source": "src6",
+   "quote": "All participants were easily trained to use the inhaler and no device malfunctions were noted.",
+   "status": "confirmed",
+   "locator": "שורה 103"
+  },
+  {
+   "id": "c52",
+   "text": "במחקר האשפוז כל המשתתפים דיווחו על הפחתה בכאב, ו-50% (6/12) הראו הפחתה של 20% ויותר.",
+   "source": "src6",
+   "quote": "All participants reported reduction in pain, and 50% (6/12) demonstrated pain reduction of 20% or higher.",
+   "status": "confirmed",
+   "locator": "שורה 114"
+  },
+  {
+   "id": "c36",
+   "text": "לפי מחקר הפיילוט, השימוש במשאף במהלך אשפוז הניב שביעות רצון גבוהה של מטופלים וצוות ללא סיבוכים.",
+   "source": "src6",
+   "quote": "The use of Syqe Inhaler during hospitalization yielded high levels of patients and staff satisfaction with no complications.",
+   "status": "confirmed",
+   "locator": "שורה 50"
+  },
+  {
+   "id": "c43",
+   "text": "בקרב 138 מטופלים עם כאב כרוני ירדה עוצמת הכאב ב-1.62 נקודות לפי סולם NPS.",
+   "source": "src5",
+   "quote": "Among the 138 patients who had chronic pain, pain intensity measured by the NPS decreased by 1.62 points",
+   "status": "confirmed",
+   "locator": "שורה 65"
+  },
+  {
+   "id": "c44",
+   "text": "מבין 43 מטופלים שדיווחו על שימוש באופיואידים בתחילת הטיפול, 25 (58%) דיווחו על הפחתת מינון האופיואידים אחרי 120 יום.",
+   "source": "src5",
+   "quote": "Of 43 patients who reported opioid use at baseline, 25 patients (58%) reported reduced opioid doses at 120 days after initiating treatment with the inhaler.",
+   "status": "confirmed",
+   "locator": "שורה 66"
+  },
+  {
+   "id": "c45",
+   "text": "מבין מי שדירגו את איכות חייהם, 9% דיווחו על אין שינוי, 59% על שיפור ו-33% על שיפור רב.",
+   "source": "src5",
+   "quote": "Nine percent reported “no change,” 59% reported “better,” and 33% reported “much better” QoL.",
+   "status": "confirmed",
+   "locator": "שורה 70"
+  },
+  {
+   "id": "c46",
+   "text": "שיעור תופעות הלוואי עם המשאף היה נמוך ב-35% משיעורן בדרכי מתן אחרות (41% לעומת 76%).",
+   "source": "src5",
+   "quote": "was 35% lower than the rate of AEs reported when using MC by other administration routes (41% vs 76%)",
+   "status": "confirmed",
+   "locator": "שורה 125"
+  },
+  {
+   "id": "c68",
+   "text": "לפי המאמר, כמות הקנאביס הממוצעת שנרשמה לחולה בישראל (אמצע 2021) הייתה כ-30 גרם בחודש, כגרם ליום.",
+   "source": "src5",
+   "quote": "the mean monthly amount of MC prescribed per patient in Israel (as of mid-2021) was about 30 gr, which equals about 1 gram per day.",
+   "status": "confirmed",
+   "locator": "שורה 131"
+  },
+  {
+   "id": "c60",
+   "text": "בנובמבר 2016 דווח שטבע ישראל תהיה המשווקת והמפיצה הבלעדית בישראל של משאף Syqe.",
+   "source": "src8",
+   "quote": "טבע ישראל תהיה המשווקת והמפיצה הבלעדית בישראל של משאף Syqe למתן קנאביס רפואי",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c61",
+   "text": "לפי וואלה, רוכשים בסופר-פארם נהנים מהנחה של 300 שקל ומחיר המשאף עומד על 1,650 שקל.",
+   "source": "src3",
+   "quote": "מטופלים שירכשו את המשאף והמחסניות בסניפי הרשת, יהיו זכאים להנחה בגין המשאף בסך 300 שקל ומחירו יעמוד על סכום של 1,650 שקל",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c58",
+   "text": "לפי כלכליסט, סייקי קיבלה כמה חודשים קודם לכן תו תקן אירופי CE.",
+   "source": "src10",
+   "quote": "אישור זה מצטרף לתו תקן רגולטורי אירופאי (CE), שהתקבל לפני מספר חודשים",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c59",
+   "text": "לפי כלכליסט, האישור בקנדה הוא הראשון שניתן על ידי רגולטור בינלאומי לשיווק משאף קנאביס מדיד כמוצר רפואי.",
+   "source": "src4",
+   "quote": "זהו האישור הראשון שניתן על ידי רשות רגולטורית בינלאומית לשיווק משאף קנאביס מדיד כמוצר רפואי",
+   "status": "confirmed",
+   "locator": "שורה 121"
+  },
+  {
+   "id": "c62",
+   "text": "רוני גולדנברג, מטופלת, סיפרה שלפני הקנאביס צרכה אופיאטים ברמה הגבוהה ביותר ושהגיעה לשלב שבו הייתה חייבת לעצור.",
+   "source": "src1",
+   "quote": "לפני הקנאביס צרכתי אופיאטים ברמה הכי גבוהה שיש. הגיע שלב שהייתי חייבת לעצור",
+   "status": "confirmed",
+   "locator": "שורה 87"
+  },
+  {
+   "id": "c63",
+   "text": "רוני גולדנברג סיפרה שדיוק המכשיר גורם לה להשתמש בקנאביס בצורה מבוקרת ולהפחית את ההשפעה הפסיכואקטיבית.",
+   "source": "src1",
+   "quote": "רמת הדיוק של המכשיר גורמת לי להשתמש בצורה מבוקרת בקנאביס ובכך בעצם, להפחית את ההשפעה הפסיכואקטיבית",
+   "status": "confirmed",
+   "locator": "שורה 91"
+  },
+  {
+   "id": "c64",
+   "text": "הדס אבשלום סיפרה שהפכה לחולה הראשונה שטסה עם המשאף ויכלה להשתמש בו בכל מקום בלי להסתתר.",
+   "source": "src9",
+   "quote": "והפכתי לחולה הראשונה שטסה עם המכשיר ויכולתי להשתמש בו בכל מקום בלי שאני אצטרך להסתתר",
+   "status": "confirmed",
+   "locator": "שורה 36"
+  },
+  {
+   "id": "c65",
+   "text": "הדס אבשלום סיפרה שעם המשאף צרכה רק שלוש מנות ביום והרגישה חיונית.",
+   "source": "src9",
+   "quote": "עם המכשיר, זה אחרת. קודם כול, צרכתי רק שלוש מנות ביום והרגשתי חיונית",
+   "status": "confirmed",
+   "locator": "שורה 37"
+  },
+  {
+   "id": "c34",
+   "text": "מנכ\"ל סייקי מדיקל פרי דוידסון אמר שאם אפשר לטפל במטופלים בדיוק גבוה יותר, יידרשו כמויות תרופה קטנות יותר וצפויות פחות תופעות לוואי.",
+   "source": "src7",
+   "quote": "if we can treat patients with much higher precision, lower quantities of drug will be needed, resulting in fewer side effects and an overall more effective treatment",
+   "status": "confirmed",
+   "locator": "שורה 36"
+  },
+  {
+   "id": "c30",
+   "text": "חלק ממחברי המחקר הם עובדי סייקי מדיקל, ואחרים קיבלו ממנה תמיכה במחקר.",
+   "source": "src2",
+   "quote": "Dr. Hayon, Mrs. Ogintz, Mrs. Abalia, and Mr. Lupo are employees of Syqe Medical; Dr. Vulfsons and Prof. Eisenberg received research support from Syqe Medical.",
+   "status": "confirmed",
+   "locator": "שורה 246"
+  },
+  {
+   "id": "c51",
+   "text": "שניים ממחברי מחקר המעקב מועסקים בסייקי מדיקל, ואייזנברג מועסק בה כיועץ חיצוני.",
+   "source": "src5",
+   "quote": "J. Aviram and D. Atzmony are employed by Syqe Medical LTD. E. Eisenberg is employed by Syqe Medical Ltd as an external consultant.",
+   "status": "confirmed",
+   "locator": "שורה 138"
+  },
+  {
+   "id": "c54",
+   "text": "מחקר האשפוז מומן על ידי סייקי מדיקל, שפיתחה את המשאף ומחזיקה בקניינו הרוחני.",
+   "source": "src6",
+   "quote": "Funding to conduct this study was provided by Syqe Medical Ltd., which developed the Syqe Inhaler device and holds its intellectual property.",
+   "status": "confirmed",
+   "locator": "שורה 126"
+  },
+  {
+   "id": "c28",
+   "text": "המחקר לא נרשם באתר ClinicalTrials.gov של ה-NIH בגלל טעות אדמיניסטרטיבית.",
+   "source": "src2",
+   "quote": "Due to an administrative error, the study was not registered at the NIH ClinicalTrail.gov website.",
+   "status": "confirmed",
+   "locator": "שורה 35"
+  },
+  {
+   "id": "c29",
+   "text": "החוקרים מציינים כמגבלה שלא נשאלו המטופלים איזה טיפול לדעתם קיבלו, ולכן אי אפשר להיות בטוחים שהעיוורון היה מלא.",
+   "source": "src2",
+   "quote": "Fourth, patients were not asked at the end of each session what treatment they felt they had received, so we cannot be sure that patients were fully blinded to treatment arms.",
+   "status": "confirmed",
+   "locator": "שורה 242"
+  },
+  {
+   "id": "c53",
+   "text": "מחבריו מציינים שמחקר האשפוז היה ללא פלצבו ולכן יש לפרש את תוצאותיו בזהירות.",
+   "source": "src6",
+   "quote": "because no placebo was provided, results should be interpreted with caution",
+   "status": "confirmed",
+   "locator": "שורה 117"
+  },
+  {
+   "id": "c50",
+   "text": "החוקרים מציינים שהמדגם במחקר ארוך הטווח קטן יחסית ושהיה נשירה של 19.5%.",
+   "source": "src5",
+   "quote": "First, the sample is relatively small. Second, because of the ongoing nature of the study design and the 19.5% attrition rate",
+   "status": "confirmed",
+   "locator": "שורה 134"
+  },
+  {
+   "id": "c70",
+   "text": "במהלך המעקב נשרו 28 מטופלים (19.5%) מתוכנית התמיכה.",
+   "source": "src5",
+   "quote": "28 patients (19.5%) dropped out from the PSP for the following reasons",
+   "status": "confirmed",
+   "locator": "שורה 53"
+  },
+  {
+   "id": "c49",
+   "text": "במחקר ארוך הטווח, 17% מהמטופלים דיווחו על אי ירידה בכאב ו-7% על החמרתו, אך בחרו להמשיך להשתמש במשאף.",
+   "source": "src5",
+   "quote": "Although 17% of the patients in the current study reported no decrease in pain intensity at the end of the titration phase and 7% reported worsening of pain, these patients elected to continue using the inhaler.",
+   "status": "confirmed",
+   "locator": "שורה 128"
+  },
+  {
+   "id": "c24",
+   "text": "רוב תופעות הלוואי (95%) סווגו כקלות, ו-80% נחשבו קשורות להתערבות המחקרית.",
+   "source": "src2",
+   "quote": "Most of the AEs were classified as mild (95%) and were considered related to the study intervention (80%).",
+   "status": "confirmed",
+   "locator": "שורה 172"
+  },
+  {
+   "id": "c67",
+   "text": "במינון 1.0 מ\"ג נמצאה עלייה מובהקת בדופק 15 דקות אחרי השאיפה.",
+   "source": "src2",
+   "quote": "However, a significant increase in heart rate was noticed in the 1.0 mg dose 15 min following inhalation",
+   "status": "confirmed",
+   "locator": "שורה 228"
+  },
+  {
+   "id": "c56",
+   "text": "שלושה משתתפים דיווחו על שיעול קל מיד לאחר השאיפה, שחלף מעצמו בתוך דקה.",
+   "source": "src6",
+   "quote": "Three participants reported a mild cough immediately following inhalation, which resolved spontaneously within a minute.",
+   "status": "confirmed",
+   "locator": "שורה 107"
+  },
+  {
+   "id": "c32",
+   "text": "לפי הצהרה של פלטפורמת ההשקעות OurCrowd, המחקר מראה שהמינון היעיל האופטימלי להקלת כאב הוא 500 מיקרוגרם THC בלבד.",
+   "source": "src7",
+   "quote": "The study shows that an optimally effective dose to relieve pain is just 500 micrograms of THC.",
+   "status": "confirmed",
+   "locator": "שורה 28"
+  },
+  {
+   "id": "c48",
+   "text": "ד\"ר איתן חי-עם, יו\"ר סייקי, אמר שנתוני המטופלים בישראל מראים הפחתה של כ-90% בתופעות הלוואי בהשוואה לדרכי שימוש אחרות.",
+   "source": "src4",
+   "quote": "נתוני האמת של המטופלים בישראל מראים הפחתה של כ-90% מתופעות הלוואי בהשוואה לתצורות שימוש אחרות",
+   "status": "confirmed",
+   "locator": "שורה 130"
+  },
+  {
+   "id": "c66",
+   "text": "לפי כלכליסט, ההסכם עם פיליפ מוריס אינו נוגע לפעילות סייקי בתחום הקנאביס.",
+   "source": "src8",
+   "quote": "ההסכם עם חברת פיליפ מוריס אינו נוגע לפעילותה של חברת סאיקי מדיקל בתחום הקנאביס",
+   "status": "confirmed",
+   "locator": "שורה 16"
+  }
+ ],
+ "sources": [
+  {
+   "id": "src1",
+   "label": "Ynet, כתבה על סייקי מדיקל והמשאף",
+   "url": "https://www.ynet.co.il/article/hknmb0q0f",
+   "kind": "press"
+  },
+  {
+   "id": "src2",
+   "label": "מאמר מחקר שפורסם ב-PMC, ניסוי אקראי מבוקר פלצבו במשאף Syqe, 2020",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7496774/",
+   "kind": "reference"
+  },
+  {
+   "id": "src3",
+   "label": "וואלה! כלכלה, כתבה נוספת על סייקי",
+   "url": "https://finance.walla.co.il/item/3459628",
+   "kind": "press"
+  },
+  {
+   "id": "src4",
+   "label": "כלכליסט, כתבה על סייקי מדיקל",
+   "url": "https://www.calcalist.co.il/local_news/article/rky7vRUwO",
+   "kind": "press"
+  },
+  {
+   "id": "src5",
+   "label": "Pain Reports, Long-term effectiveness and safety of medical cannabis administered through the metered-dose Syqe Inhaler, 2022",
+   "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9116950/",
+   "kind": "reference"
+  },
+  {
+   "id": "src6",
+   "label": "Cambridge Core, מחקר פיילוט על משאף Syqe בחולים מאושפזים",
+   "url": "https://www.cambridge.org/core/product/0C1940413E704A7EADCB949F5F49603A/core-reader",
+   "kind": "reference"
+  },
+  {
+   "id": "src7",
+   "label": "Jerusalem Post, Israeli researchers provide evidence microdosing cannabis relieves pain",
+   "url": "https://www.jpost.com/health-science/israeli-researchers-provide-evidence-microdosing-cannabis-relieves-pain-633593",
+   "kind": "press"
+  },
+  {
+   "id": "src8",
+   "label": "כלכליסט, כתבה על המשאף ואישור הרגולטור הקנדי",
+   "url": "https://www.calcalist.co.il/articles/0,7340,L-3702713,00.html",
+   "kind": "press"
+  },
+  {
+   "id": "src9",
+   "label": "בחדרי חרדים, הכירו: הפיתרון המושלם לעישון קנאביס רפואי",
+   "url": "https://www.bhol.co.il/news/764369",
+   "kind": "press"
+  },
+  {
+   "id": "src10",
+   "label": "ice.co.il, כתבה על סייקי מדיקל",
+   "url": "https://www.ice.co.il/finance/news/article/818135",
+   "kind": "press"
+  }
+ ],
+ "media": [
+  {
+   "id": "m1",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Syqe%20inhaler%20and%20the%20cartridge.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Syqe_inhaler_and_the_cartridge.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Geva Rosenthal-Kaplan (גבע רוזנטל קפלן)",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "משאף של סאיקי ולצידו המחסנית העגולה שלו; על מסך המשאף מופיע המינון 500 מקג.",
+   "illustrates": [
+    "c14",
+    "c15"
+   ],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "2021",
+   "width": 4000,
+   "height": 2500
+  },
+  {
+   "id": "m2",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/SyqeAir%20Inhaler%20and%20Cartridge.png?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:SyqeAir_Inhaler_and_Cartridge.png",
+   "source_name": "Wikimedia Commons",
+   "credit": "מיכל אלמוג",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "משאף SyqeAir ולצידו מחסנית עגולה הנושאת את השם Syqe medical; על המסך מוצג המינון 500 מקג.",
+   "illustrates": [
+    "c14"
+   ],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2019-01-27",
+   "width": 2200,
+   "height": 1700
+  },
+  {
+   "id": "m3",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=45ed9NRQKD8",
+   "youtube_id": "45ed9NRQKD8",
+   "source_page": "https://www.youtube.com/watch?v=45ed9NRQKD8",
+   "source_name": "YouTube",
+   "credit": "Syqe Medical",
+   "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "סרט של סאיקי על עצמה: מבט אל הטכנולוגיה שהופכת צמח טבעי עם מאות חומרים פעילים למנה מדידה של אירוסול לשאיפה.",
+   "illustrates": [
+    "c14",
+    "c15"
+   ]
+  },
+  {
+   "id": "m4",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=P7-a2CkIaKE",
+   "youtube_id": "P7-a2CkIaKE",
+   "source_page": "https://www.youtube.com/watch?v=P7-a2CkIaKE",
+   "source_name": "YouTube",
+   "credit": "Syqe Medical",
+   "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "סרט של סאיקי על עצמה: הטכנולוגיה שפיתחה למתן מינון מדויק ונמוך של קנאביס בשאיפה להפחתת כאב עצבי כרוני.",
+   "illustrates": [
+    "c14"
+   ]
+  },
+  {
+   "id": "m5",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=kFx_XeKqht0",
+   "youtube_id": "kFx_XeKqht0",
+   "source_page": "https://www.youtube.com/watch?v=kFx_XeKqht0",
+   "source_name": "YouTube",
+   "credit": "Syqe Medical",
+   "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "סרט של סאיקי על עצמה: פתרון בשאיפה להפחתת כאב עצבי כרוני באמצעות קנאביס רפואי במינון מדיד.",
+   "illustrates": [],
+   "spoken": "he",
+   "audio_tracks": [
+    "he"
+   ]
+  },
+  {
+   "id": "m6",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=4rrt6KIZYQs",
+   "youtube_id": "4rrt6KIZYQs",
+   "source_page": "https://www.youtube.com/watch?v=4rrt6KIZYQs",
+   "source_name": "YouTube",
+   "credit": "Syqe Medical",
+   "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "סרט קצר של סאיקי על עצמה: הצגת הטכנולוגיה של משאף SyqeAir אחרי עשר שנות מחקר ופיתוח.",
+   "illustrates": []
+  },
+  {
+   "id": "m7",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=dE7wW-7aHl8",
+   "youtube_id": "dE7wW-7aHl8",
+   "source_page": "https://www.youtube.com/watch?v=dE7wW-7aHl8",
+   "source_name": "YouTube",
+   "credit": "Syqe Medical",
+   "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "ד\"ר ורד סימוביץ', מומחית לטיפול בכאב, מסבירה בסרטון של סאיקי למה היא ממליצה על טיפול במשאף SyqeAir.",
+   "illustrates": []
+  },
+  {
+   "id": "m8",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/2nd%20Lebanese%20War%2C%20Rambam%20hospital%27s%20patients%20relocated%20to%20hspital%20shelter.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:2nd_Lebanese_War%2C_Rambam_hospital%27s_patients_relocated_to_hspital_shelter.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "פיוטר פליטר -צלם ביה\"ח",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "מחלקת אשפוז תת-קרקעית בבית החולים רמב\"ם בחיפה, 7.8.2006, בזמן מלחמת לבנון השנייה",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2006-08-07",
+   "width": 1600,
+   "height": 1067,
+   "role": "related"
+  },
+  {
+   "id": "m11",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Helmsley%20Tower%2001.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Helmsley_Tower_01.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Ynhockey",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "מגדל תגליות הבריאות ע\"ש הלמסלי ברמב\"ם, ועליו שלט עם דגל ישראל",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2024-02-11",
+   "width": 3000,
+   "height": 3131,
+   "role": "related"
+  },
+  {
+   "id": "m12",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Isaac%20Herzog%20in%20Haifa%2C%20December%202023%20%28GPOHZ0%208056%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Isaac_Herzog_in_Haifa%2C_December_2023_%28GPOHZ0_8056%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Haim Zach",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "נשיא המדינה יצחק הרצוג מבקר מטופל בחדר אשפוז ברמב\"ם, דצמבר 2023",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "Taken on 3",
+   "width": 3000,
+   "height": 1937,
+   "role": "related"
+  },
+  {
+   "id": "m13",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Israel%20-%20Haifa%20-%20view%20001.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Israel_-_Haifa_-_view_001.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "User:EdoM",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "מבט מגבוה על בת גלים בחיפה, ובו בית החולים רמב\"ם",
+   "illustrates": [],
+   "date": "August 200",
+   "width": 2288,
+   "height": 1712,
+   "role": "related"
+  },
+  {
+   "id": "m14",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Maimonides%2C%20at%20Rambam%20Medical%20Center.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Maimonides%2C_at_Rambam_Medical_Center.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "David Shay",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "תבליט של הרמב\"ם, שעל שמו נקרא בית החולים, בקמפוס רמב\"ם בחיפה",
+   "illustrates": [],
+   "licence_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "date": "2007-06",
+   "width": 1116,
+   "height": 893,
+   "role": "related"
+  },
+  {
+   "id": "m15",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/New%20building%20corner%20stone%20laying%20ceremony.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:New_building_corner_stone_laying_ceremony.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Unknown authorUnknown author",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "האדריכל אריה שרון מציג את דגם המבנה החדש בטקס הנחת אבן הפינה, נובמבר 1966",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "1966",
+   "width": 1344,
+   "height": 874,
+   "role": "related"
+  },
+  {
+   "id": "m16",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Opening%20ceremony%20of%20the%20hospital%2022.12.1938.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Opening_ceremony_of_the_hospital_22.12.1938.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Unknown authorUnknown author",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "טקס פתיחת בית החולים, 22.12.1938",
+   "illustrates": [],
+   "date": "1938-12-22",
+   "width": 3918,
+   "height": 2483,
+   "role": "related"
+  },
+  {
+   "id": "m17",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Practicing.JPG?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Practicing.JPG",
+   "source_name": "Wikimedia Commons",
+   "credit": "hospital photographer Pioter Fliter",
+   "licence": "CC0",
+   "hosting": "hotlink",
+   "caption": "הדמיית טיפול בחדר טראומה במרכז הרפואי רמב\"ם",
+   "illustrates": [],
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "date": "2008",
+   "width": 1600,
+   "height": 1200,
+   "role": "related"
+  },
+  {
+   "id": "m18",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rambam%20Hospital%202017.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Rambam_Hospital_2017.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "דוד שי",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "בית החולים רמב\"ם ובית הספר לרפואה בחיפה, 2017",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2017-05-18",
+   "width": 2497,
+   "height": 873,
+   "role": "related"
+  },
+  {
+   "id": "m19",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rambam%20Hospital%20Haifa.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Rambam_Hospital_Haifa.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Kgiora",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "מבנה בטון של בית החולים רמב\"ם בחיפה, בצילום שחור-לבן",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "1975-01-01",
+   "width": 2384,
+   "height": 2350,
+   "role": "related"
+  },
+  {
+   "id": "m20",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rambam%20Hospital%20West%20Campus%20Architectual%20Model.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Rambam_Hospital_West_Campus_Architectual_Model.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "המודל :ראובן גנדלמן-דגמים הצלם:אלי גרוס",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "דגם של קמפוס בית החולים רמב\"ם",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2011-07-24",
+   "width": 2156,
+   "height": 1616,
+   "role": "related"
+  },
+  {
+   "id": "m21",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Aviv%20Kochavi%20visit%20to%20Keter%20Department%2C%20October%202020.%20II.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Aviv_Kochavi_visit_to_Keter_Department%2C_October_2020._II.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "IDF Spokesperson's Unit photographer",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "צוות בחליפות מגן במחלקת קורונה צבאית ברמב\"ם, אוקטובר 2020",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "Taken on 2",
+   "width": 1600,
+   "height": 1068,
+   "role": "related"
+  },
+  {
+   "id": "m22",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Aviv%20Kochavi%20visit%20to%20Keter%20Department%2C%20October%202020.%20III.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Aviv_Kochavi_visit_to_Keter_Department%2C_October_2020._III.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "IDF Spokesperson's Unit photographer",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "צוות בחליפות מגן סביב מיטת מטופל במחלקת קורונה ברמב\"ם, אוקטובר 2020",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "Taken on 2",
+   "width": 1317,
+   "height": 1068,
+   "role": "related"
+  },
+  {
+   "id": "m23",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Inauguration%20ceremony%20of%20the%20military%20corona%20wards%20at%20Rambam%20Hospital%2C%20October%202020.%20VI.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Inauguration_ceremony_of_the_military_corona_wards_at_Rambam_Hospital%2C_October_2020._VI.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "IDF Spokesperson's Unit photographer",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "אחות מול מסכי ניטור בעמדת מחלקה ברמב\"ם, אוקטובר 2020",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "Taken on 1",
+   "width": 1600,
+   "height": 1067,
+   "role": "related"
+  }
+ ],
+ "check": {
+  "passed": true,
+  "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
+  "checked_at": "2026-11-22T05:32:09Z",
+  "counts": {
+   "confirmed": 87,
+   "not_confirmed": 0,
+   "deleted_sentences": 7,
+   "first_round_confirmed": 84,
+   "first_round_contradicted": 4,
+   "first_round_unverifiable": 6
+  },
+  "note": "unverifiable sentences were deleted, contradicted ones fixed from the source and checked again"
+ },
+ "meta": {
+  "run": "syqe-medical-cannabis-inhaler",
+  "pipeline": "scripts/museum/museum_line.py",
+  "models": {
+   "research": "sonnet-5-5",
+   "extract": "sonnet-5-5",
+   "media": "sonnet-5-5",
+   "write": "opus-5-5 medium",
+   "check": "opus-5-5 medium",
+   "fix": "opus-5-5 medium"
+  },
+  "source_quality": {
+   "sources": 10,
+   "wikipedia": 0,
+   "strong": 7,
+   "ok": true,
+   "warnings": []
+  }
+ }
+}

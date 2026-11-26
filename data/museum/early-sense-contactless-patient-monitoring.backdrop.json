@@ -1,0 +1,56 @@
+{
+ "schema": "maasei-backdrop/1",
+ "slug": "early-sense-contactless-patient-monitoring",
+ "media": "m13",
+ "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Ac%C4%B1bademHospitalAltunizade%20%283%29.jpg?width=1920",
+ "img_small": "https://commons.wikimedia.org/wiki/Special:FilePath/Ac%C4%B1bademHospitalAltunizade%20%283%29.jpg?width=1080",
+ "why": "A ward room with a hospital bed and mattress, seen wide with depth and window light; it sets the scene for monitoring patients outside intensive care, where the sensor lies under the mattress.",
+ "chosen_by": "opus picker",
+ "alternates": [
+  "m11"
+ ],
+ "from": {
+  "average": "#6e665a",
+  "picked": "#7f614a",
+  "coloured_share": 0.576,
+  "lightness": 0.391
+ },
+ "palette": {
+  "paper": "#f4eee9",
+  "surface": "#faf8f6",
+  "band": "#ece0d7",
+  "tint": "#ead9cc",
+  "header": "#efe6df",
+  "rule": "#d5bfaf",
+  "text": "#2a2018",
+  "text2": "#4c3e33",
+  "accent": "#785236",
+  "meta": "#685a4f",
+  "tone": "#221f1b",
+  "shadow": "33, 24, 18"
+ },
+ "checks": {
+  "text_on_paper": 13.85,
+  "text_on_surface": 15.04,
+  "text_on_band": 12.3,
+  "text_on_tint": 11.6,
+  "text_on_header": 12.94,
+  "text2_on_paper": 8.93,
+  "text2_on_surface": 9.7,
+  "text2_on_band": 7.93,
+  "text2_on_tint": 7.48,
+  "text2_on_header": 8.34,
+  "accent_on_paper": 5.97,
+  "accent_on_surface": 6.48,
+  "accent_on_band": 5.3,
+  "accent_on_tint": 5.0,
+  "accent_on_header": 5.58,
+  "meta_on_paper": 5.77,
+  "meta_on_surface": 6.27,
+  "meta_on_band": 5.12,
+  "meta_on_tint": 4.83,
+  "meta_on_header": 5.39,
+  "paper_on_accent": 5.97
+ },
+ "passed": true
+}

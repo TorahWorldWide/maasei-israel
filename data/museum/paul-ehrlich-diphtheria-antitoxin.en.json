@@ -1,0 +1,2111 @@
+{
+  "schema": "maasei-museum/1",
+  "slug": "paul-ehrlich-diphtheria-antitoxin",
+  "deed": "פאול ארליך ונסיוב הנוגדנים נגד דיפתריה",
+  "canonical_type": "scientific-discovery",
+  "year": "1894",
+  "title": "Paul Ehrlich, born into a Jewish family, found a way to measure and standardize the serum against diphtheria",
+  "trailer": [
+    {
+      "text": "Paul Ehrlich was a physician and researcher whose work led to Salvarsan, a syphilis treatment that marked the beginning of the chemotherapeutic era.",
+      "claims": [
+        "c11",
+        "c59"
+      ]
+    },
+    {
+      "text": "Paul Ehrlich, born into a Jewish family, was born in 1854 in Strehlen, Silesia, obtained a doctorate of medicine, and in 1908 shared the Nobel Prize with Metchnikoff.",
+      "claims": [
+        "c1",
+        "c3",
+        "c11",
+        "c31"
+      ]
+    },
+    {
+      "text": "Emil Behring worked in Berlin on a serum against diphtheria, but his results were inconsistent.",
+      "claims": [
+        "c17"
+      ]
+    },
+    {
+      "text": "Ehrlich developed a way to measure the effectiveness of serums, and so it became possible to standardize the serum against diphtheria in units related to a fixed standard.",
+      "claims": [
+        "c20",
+        "c25"
+      ]
+    },
+    {
+      "text": "In 1894 Ehrlich, with Kossel and Wassermann, reported on 220 children with diphtheria treated with antitoxin, and in August of that year the company Hoechst began to market the serum.",
+      "claims": [
+        "c22",
+        "c26"
+      ]
+    },
+    {
+      "text": "According to Britannica, his measuring method was soon adopted all over the world.",
+      "claims": [
+        "c25"
+      ]
+    }
+  ],
+  "hero_media": [
+    "m15",
+    "m2",
+    "m3",
+    "m4",
+    "m6",
+    "m5",
+    "m7",
+    "m12",
+    "m13",
+    "m14",
+    "m20",
+    "m21",
+    "m22",
+    "m29",
+    "m31",
+    "m33"
+  ],
+  "glance": [
+    {
+      "label": "Born",
+      "value": "1854, Strehlen, Silesia",
+      "claims": [
+        "c1"
+      ]
+    },
+    {
+      "label": "Origin",
+      "value": "Jewish family",
+      "claims": [
+        "c3"
+      ]
+    },
+    {
+      "label": "The deed",
+      "value": "Measuring and standardizing the serum against diphtheria",
+      "claims": [
+        "c20",
+        "c25"
+      ]
+    },
+    {
+      "label": "Role",
+      "value": "Director of the Institute for the control of therapeutic sera, from the end of 1896",
+      "claims": [
+        "c24"
+      ]
+    },
+    {
+      "label": "Recognition",
+      "value": "Nobel Prize, 1908, together with Metchnikoff",
+      "claims": [
+        "c31"
+      ]
+    }
+  ],
+  "stations": [
+    {
+      "id": "s1",
+      "title": "A child from Strehlen",
+      "kind": "story",
+      "paragraphs": [
+        [
+          {
+            "text": "Paul Ehrlich was born on March 14, 1854 in Strehlen, Silesia, Germany.",
+            "claims": [
+              "c1"
+            ]
+          },
+          {
+            "text": "Strehlen was a town of some 5,000 inhabitants, and today it is in Poland.",
+            "claims": [
+              "c2"
+            ]
+          }
+        ],
+        [
+          {
+            "text": "He was born into a Jewish family prominent in business and industry.",
+            "claims": [
+              "c3"
+            ]
+          },
+          {
+            "text": "His cousin was the bacteriologist Carl Weigert, and Weigert was his mentor.",
+            "claims": [
+              "c4"
+            ]
+          },
+          {
+            "text": "Ehrlich did not convert from Judaism, but he was indifferent to Jewish customs and traditions.",
+            "claims": [
+              "c7"
+            ]
+          }
+        ]
+      ],
+      "media": [
+        "m15",
+        "m18",
+        "m28",
+        "m50"
+      ],
+      "disagreements": [
+        "d1",
+        "d2"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Dyes, bacteria and a laboratory",
+      "kind": "story",
+      "paragraphs": [
+        [
+          {
+            "text": "Ehrlich obtained a doctorate of medicine for a dissertation on staining animal tissues.",
+            "claims": [
+              "c11"
+            ]
+          },
+          {
+            "text": "In 1882 he published his method of staining the tubercle bacillus that Koch had discovered.",
+            "claims": [
+              "c13"
+            ]
+          },
+          {
+            "text": "In 1888 Ehrlich was infected with the tubercle bacillus in the laboratory, and his scientific career was disrupted.",
+            "claims": [
+              "c14"
+            ]
+          }
+        ],
+        [
+          {
+            "text": "In 1890 Robert Koch, Director of the new Institute for Infectious Diseases, appointed him as one of his assistants.",
+            "claims": [
+              "c23"
+            ]
+          },
+          {
+            "text": "In 1892 Ehrlich demonstrated that antibodies are passed in breast milk from mother to newborn.",
+            "claims": [
+              "c37"
+            ]
+          },
+          {
+            "text": "In another experiment he showed that rabbits given poison in a slow and measured increase survived 5,000 times the fatal dose.",
+            "claims": [
+              "c79"
+            ]
+          }
+        ]
+      ],
+      "media": [
+        "m4",
+        "m19"
+      ],
+      "disagreements": [
+        "d3"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "The problem: serum of variable quality",
+      "kind": "story",
+      "paragraphs": [
+        [
+          {
+            "text": "Until 1893 Emil Behring worked at the Institute of Infectious Diseases in Berlin on a serum against diphtheria and tetanus, but the results were inconsistent.",
+            "claims": [
+              "c17"
+            ]
+          },
+          {
+            "text": "Serums against diseases were an entirely new type of medicine, and their quality varied greatly.",
+            "claims": [
+              "c16"
+            ]
+          },
+          {
+            "text": "There were serious quality control problems in the production of antibody serums.",
+            "claims": [
+              "c15"
+            ]
+          }
+        ],
+        [
+          {
+            "text": "The amount of antitoxin varied greatly from serum to serum.",
+            "claims": [
+              "c19"
+            ]
+          },
+          {
+            "text": "A standard was therefore needed that would allow it to be measured exactly.",
+            "claims": [
+              "c19"
+            ]
+          }
+        ]
+      ],
+      "media": [
+        "m11",
+        "m41",
+        "m43",
+        "m45",
+        "m48"
+      ],
+      "disagreements": []
+    },
+    {
+      "id": "s4",
+      "title": "The deed: measure, standardize, test",
+      "kind": "story",
+      "paragraphs": [
+        [
+          {
+            "text": "According to Britannica, only a technique of Ehrlich's, which used the blood of live horses, made it possible to prepare a serum of optimum effectiveness against the toxin.",
+            "claims": [
+              "c18"
+            ]
+          },
+          {
+            "text": "Ehrlich built a standard for von Behring's serum against diphtheria, and the serum could be measured in units related to a fixed standard.",
+            "claims": [
+              "c20"
+            ]
+          }
+        ],
+        [
+          {
+            "text": "In testing the serum, Ehrlich set a clear target: the test animal was to die after four days.",
+            "claims": [
+              "c21"
+            ]
+          },
+          {
+            "text": "If it died earlier, the serum was rejected as too weak.",
+            "claims": [
+              "c21"
+            ]
+          }
+        ],
+        [
+          {
+            "text": "Early in 1894 the clinical tests of the serum were successful, and in August Hoechst began to market it.",
+            "claims": [
+              "c26"
+            ]
+          },
+          {
+            "text": "That same year Ehrlich, with Kossel and Wassermann, reported on 220 children with diphtheria treated with antitoxin, and stressed the importance of an early, liberal dose.",
+            "claims": [
+              "c22"
+            ]
+          },
+          {
+            "text": "At the end of 1896 an Institute for the control of therapeutic sera was established at Steglitz in Berlin, and Ehrlich was appointed its Director.",
+            "claims": [
+              "c24"
+            ]
+          },
+          {
+            "text": "According to Britannica, his measuring method for the standardization of the serum against diphtheria was soon adopted all over the world.",
+            "claims": [
+              "c25"
+            ]
+          }
+        ]
+      ],
+      "media": [
+        "m3",
+        "m24",
+        "m26",
+        "m59"
+      ],
+      "disagreements": []
+    },
+    {
+      "id": "s5",
+      "title": "The Nobel Prize, seven years later",
+      "kind": "story",
+      "paragraphs": [
+        [
+          {
+            "text": "The first Nobel Prize in Medicine was awarded in 1901 for research on diphtheria, and only von Behring received it.",
+            "claims": [
+              "c29"
+            ]
+          },
+          {
+            "text": "Only seven years later did the Swedish academy recognize the contribution of Ehrlich, who adapted serum therapy to actual medical application.",
+            "claims": [
+              "c30"
+            ]
+          }
+        ],
+        [
+          {
+            "text": "In 1908 Ehrlich shared the Nobel Prize with Metchnikoff, for their work on immunity.",
+            "claims": [
+              "c31",
+              "c32"
+            ]
+          },
+          {
+            "text": "According to Britannica, Ehrlich's side-chain theory described how antibodies are formed and how they react with other substances.",
+            "claims": [
+              "c35"
+            ]
+          }
+        ],
+        [
+          {
+            "text": "Even before that, in 1903, Ehrlich received the Prussian Great Gold Medal for Science, which before him had been awarded only to Rudolf Virchow.",
+            "claims": [
+              "c69"
+            ]
+          }
+        ]
+      ],
+      "media": [
+        "m2",
+        "m8",
+        "m10",
+        "m15",
+        "m27",
+        "m49",
+        "m56"
+      ],
+      "disagreements": [
+        "d6"
+      ]
+    },
+    {
+      "id": "s6",
+      "title": "From the serum to the \"magic bullet\"",
+      "kind": "story",
+      "paragraphs": [
+        [
+          {
+            "text": "Ehrlich knew that serum treatment had limits: many infectious diseases, in particular those caused by protozoa, did not respond to it.",
+            "claims": [
+              "c38"
+            ]
+          },
+          {
+            "text": "In 1899 the Royal Prussian Institute for Experimental Therapy opened, and Ehrlich directed it until his death.",
+            "claims": [
+              "c39"
+            ]
+          },
+          {
+            "text": "In 1906 the Georg-Speyer-Haus, a research institute for chemotherapy, was established with an endowment from Franziska Speyer in memory of her husband.",
+            "claims": [
+              "c40"
+            ]
+          }
+        ],
+        [
+          {
+            "text": "In 1907 Ehrlich and Bertheim synthesized and tested several hundred compounds derived from atoxyl.",
+            "claims": [
+              "c43"
+            ]
+          },
+          {
+            "text": "Compound number 606 was set aside that year as ineffective.",
+            "claims": [
+              "c44"
+            ]
+          },
+          {
+            "text": "Hata tested the rejected drug and found that it was very effective.",
+            "claims": [
+              "c48"
+            ]
+          }
+        ],
+        [
+          {
+            "text": "On 19 April 1910, in Wiesbaden, Ehrlich and Hata reported the discovery of arsphenamine.",
+            "claims": [
+              "c49"
+            ]
+          },
+          {
+            "text": "It seemed that a \"magic bullet\" had been found, an expression Ehrlich was fond of.",
+            "claims": [
+              "c77"
+            ]
+          },
+          {
+            "text": "Salvarsan was the first effective treatment for syphilis, and marked the beginning of the chemotherapeutic era.",
+            "claims": [
+              "c59"
+            ]
+          },
+          {
+            "text": "It remained the most effective drug for syphilis until penicillin arrived in the 1940s.",
+            "claims": [
+              "c57"
+            ]
+          }
+        ]
+      ],
+      "media": [
+        "m6",
+        "m7",
+        "m42"
+      ],
+      "disagreements": [
+        "d4",
+        "d5"
+      ]
+    },
+    {
+      "id": "s7",
+      "title": "Recognition and farewell",
+      "kind": "story",
+      "paragraphs": [
+        [
+          {
+            "text": "Chaim Weizmann, Israel's first President, convinced Ehrlich to serve on the University Committee.",
+            "claims": [
+              "c10"
+            ]
+          },
+          {
+            "text": "Ehrlich bequeathed money to the Nordau Institute, a forerunner of the Hebrew University.",
+            "claims": [
+              "c10"
+            ]
+          }
+        ],
+        [
+          {
+            "text": "Ehrlich died in August 1915.",
+            "claims": [
+              "c75",
+              "c76"
+            ]
+          },
+          {
+            "text": "In its obituary the London Times wrote that Ehrlich had opened new doors into the unknown, and that the whole world was in his debt.",
+            "claims": [
+              "c72"
+            ]
+          }
+        ]
+      ],
+      "media": [
+        "m5",
+        "m34",
+        "m36",
+        "m51"
+      ],
+      "disagreements": [
+        "d7"
+      ]
+    },
+    {
+      "id": "s8",
+      "title": "Credit, profits and hatred",
+      "kind": "hard",
+      "paragraphs": [
+        [
+          {
+            "text": "According to Encyclopedia.com, Behring overcame the difficulties in antitoxin production with Ehrlich's help, and procured for himself a remunerative contract.",
+            "claims": [
+              "c27"
+            ]
+          },
+          {
+            "text": "In the end Ehrlich was pressured into accepting only eight percent of the profits.",
+            "claims": [
+              "c28"
+            ]
+          },
+          {
+            "text": "According to a biography cited by the Forward, Ehrlich's prize was delayed because Arrhenius, a Swedish scientist on the committee, was irked by the \"markedly Jewish atmosphere\" of the institute.",
+            "claims": [
+              "c34"
+            ]
+          }
+        ],
+        [
+          {
+            "text": "In 1901 Max von Gruber launched a two-year polemic against the side-chain theory, and the polemic soon became insulting.",
+            "claims": [
+              "c36"
+            ]
+          },
+          {
+            "text": "After Salvarsan, fanatics and sensationalist commentators accused him of charlatanism, profiteering and ruthless experimentation.",
+            "claims": [
+              "c62"
+            ]
+          },
+          {
+            "text": "The accusations of excessive enrichment were made with clearly anti-Semitic undertones.",
+            "claims": [
+              "c65"
+            ]
+          },
+          {
+            "text": "In March 1914 the Reichstag endorsed Salvarsan.",
+            "claims": [
+              "c63"
+            ]
+          },
+          {
+            "text": "The most libelous of his opponents was given a jail sentence.",
+            "claims": [
+              "c64"
+            ]
+          },
+          {
+            "text": "Paul Uhlenhuth, an associate of Ehrlich's, claimed that he had discovered the drug first.",
+            "claims": [
+              "c68"
+            ]
+          }
+        ],
+        [
+          {
+            "text": "In Frankfurt the name of Paul Ehrlich Street was removed because Ehrlich was a Jew.",
+            "claims": [
+              "c8",
+              "c9"
+            ]
+          },
+          {
+            "text": "During the Third Reich his achievements were ignored, and von Behring was presented as the ideal Aryan scientist.",
+            "claims": [
+              "c73"
+            ]
+          },
+          {
+            "text": "The Nazi government opposed a 1940 film about Ehrlich.",
+            "claims": [
+              "c74"
+            ]
+          },
+          {
+            "text": "Shortly after the war the name Paul-Ehrlich-Strasse was reinstated, and many German cities named streets after him.",
+            "claims": [
+              "c78"
+            ]
+          }
+        ]
+      ],
+      "media": [
+        "m9",
+        "m47",
+        "m53",
+        "m55",
+        "m57"
+      ],
+      "disagreements": []
+    }
+  ],
+  "disagreements": [
+    {
+      "id": "d1",
+      "question": "In which part of Silesia was Ehrlich born?",
+      "versions": [
+        {
+          "says": "According to the Nobel Institute, Paul Ehrlich was born on March 14, 1854, in Strehlen, Silesia, Germany.",
+          "claims": [
+            "c1"
+          ]
+        },
+        {
+          "says": "According to JewishGen, Strehlen is in Lower Silesia",
+          "claims": [
+            "c2"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d2",
+      "question": "Which child in the family was Ehrlich?",
+      "versions": [
+        {
+          "says": "According to Encyclopedia.com, the only son and the fourth child",
+          "claims": [
+            "c5"
+          ]
+        },
+        {
+          "says": "According to JewishGen, the second child of Ismar and Rosa Ehrlich",
+          "claims": [
+            "c6"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d3",
+      "question": "In what year did Ehrlich obtain his doctorate?",
+      "versions": [
+        {
+          "says": "According to the Nobel Institute, in 1878",
+          "claims": [
+            "c11"
+          ]
+        },
+        {
+          "says": "According to JewishGen, after obtaining his doctorate, Ehrlich worked at the Charité in Berlin as an assistant medical director under Theodor Frerichs.",
+          "claims": [
+            "c12"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d4",
+      "question": "Who distributed 65,000 free doses of Salvarsan?",
+      "versions": [
+        {
+          "says": "According to the pharmacology article, Ehrlich's institute, for clinical trials",
+          "claims": [
+            "c50"
+          ]
+        },
+        {
+          "says": "According to Britannica, the manufacturer Farbwerke-Hoechst, to physicians all over the world",
+          "claims": [
+            "c51"
+          ]
+        },
+        {
+          "says": "According to Encyclopedia.com, the Georg-Speyer-Haus, by the end of the year",
+          "claims": [
+            "c52"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d5",
+      "question": "When did Neosalvarsan come into use?",
+      "versions": [
+        {
+          "says": "According to JewishGen, in 1911",
+          "claims": [
+            "c60"
+          ]
+        },
+        {
+          "says": "According to Encyclopedia.com, in 1912",
+          "claims": [
+            "c61"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d6",
+      "question": "How many honorary doctorates did Ehrlich receive?",
+      "versions": [
+        {
+          "says": "According to the pharmacology article, ten",
+          "claims": [
+            "c70"
+          ]
+        },
+        {
+          "says": "According to Encyclopedia.com, five, along with twelve orders",
+          "claims": [
+            "c71"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d7",
+      "question": "What did Ehrlich die of, and when did the final condition begin?",
+      "versions": [
+        {
+          "says": "According to the Nobel Institute, a second stroke on 20 August 1915",
+          "claims": [
+            "c75"
+          ]
+        },
+        {
+          "says": "According to JewishGen, a heart attack on 17 August 1915, and death on 20 August",
+          "claims": [
+            "c76"
+          ]
+        }
+      ]
+    }
+  ],
+  "unknowns": [
+    {
+      "text": "The sources tell of 220 children treated with antitoxin, but not how many of them recovered",
+      "claims": [
+        "c22"
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "text": "פאול ארליך נולד ב-14 במרץ 1854 בשטרלן שבשלזיה, גרמניה (המקור מציין שלזיה עילית).",
+      "source": "src1",
+      "quote": "Paul Ehrlich was born on March 14, 1854 at Strehlen, in Upper Silesia*, Germany.",
+      "status": "confirmed",
+      "locator": "שורה 1"
+    },
+    {
+      "id": "c3",
+      "text": "ארליך נולד למשפחה יהודית בולטת בעסקים ובתעשייה.",
+      "source": "src2",
+      "quote": "Ehrlich was born into a Jewish family prominent in business and industry.",
+      "status": "confirmed",
+      "locator": "שורה 64"
+    },
+    {
+      "id": "c11",
+      "text": "ב-1878 קיבל ארליך דוקטורט ברפואה על עבודה בנושא התאוריה והפרקטיקה של צביעת רקמות בעלי חיים.",
+      "source": "src1",
+      "quote": "In 1878 he obtained his doctorate of medicine by means of a dissertation on the theory and practice of staining animal tissues.",
+      "status": "confirmed",
+      "locator": "שורה 2"
+    },
+    {
+      "id": "c31",
+      "text": "ב-1908 חלק ארליך עם מצ'ניקוב את פרס נובל.",
+      "source": "src1",
+      "quote": "In 1908 he shared with Metchnikoff the highest scientific distinction, the Nobel Prize.",
+      "status": "confirmed",
+      "locator": "שורה 15"
+    },
+    {
+      "id": "c17",
+      "text": "אמיל בהרינג עבד במכון למחלות זיהומיות בברלין עד 1893 על נסיוב נגד דיפתריה וטטנוס, אך התוצאות לא היו עקביות.",
+      "source": "src3",
+      "quote": "Emil Behring had worked at the Berlin Institute of Infectious Diseases until 1893 on developing an antiserum for treating diphtheria and tetanus but with inconsistent results.",
+      "status": "confirmed",
+      "locator": "שורה 50"
+    },
+    {
+      "id": "c20",
+      "text": "ארליך עשה זאת עם הנסיוב נגד דיפתריה של פון בהרינג, ואפשר לתקנן אותו ביחידות הקשורות לתקן קבוע.",
+      "source": "src1",
+      "quote": "This he accomplished with von Behring‘s antidiphtheritic serum and thus made it possible to standardize this serum in units related to a fixed and invariable standard.",
+      "status": "confirmed",
+      "locator": "שורה 7"
+    },
+    {
+      "id": "c25",
+      "text": "לפי בריטניקה, ארליך פיתח דרך למדוד את יעילות הנסיובים, ועד מהרה אימץ אותה העולם כולו לתקנון הנסיוב נגד דיפתריה.",
+      "source": "src2",
+      "quote": "Ehrlich developed a way of measuring the effectiveness of serums that was soon adopted all over the world for the standardization of diphtheria serum.",
+      "status": "confirmed",
+      "locator": "שורה 70"
+    },
+    {
+      "id": "c22",
+      "text": "ב-1894 דיווח ארליך, עם קוסל ווסרמן, על 220 ילדים חולי דיפתריה שטופלו באנטי-רעלן, והדגיש את חשיבות מינון מוקדם ונדיב.",
+      "source": "src4",
+      "quote": "In 1894 he reported, with H. Kossel and A. von Wassermann, on 220 unselected diphtheritic children treated with antitoxin, stressing the importance of early, liberal dosages.",
+      "status": "confirmed",
+      "locator": "שורה 19"
+    },
+    {
+      "id": "c26",
+      "text": "בניסויים קליניים בנסיוב נגד דיפתריה בתחילת 1894 הושגה הצלחה, ובאוגוסט החלה חברת הואכסט לשווק אותו.",
+      "source": "src3",
+      "quote": "Clinical tests with diphtheria serum early in 1894 were successful and in August the chemical company Hoechst started to market",
+      "status": "confirmed",
+      "locator": "שורה 50"
+    },
+    {
+      "id": "c24",
+      "text": "בסוף 1896 הוקם בשטגליץ שבברלין מכון לבקרת נסיובים טיפוליים, וארליך מונה למנהלו.",
+      "source": "src1",
+      "quote": "At the end of 1896 an Institute for the control of therapeutic sera was established at Steglitz in Berlin and Ehrlich was appointed its Director.",
+      "status": "confirmed",
+      "locator": "שורה 7"
+    },
+    {
+      "id": "c2",
+      "text": "שטרלן, עיירה בת כ-5,000 תושבים במחוז שלזיה התחתית, נמצאת היום בפולין.",
+      "source": "src3",
+      "quote": "in Strehelen, a town of some 5,000 inhabitants in the province of Lower Silesia, now in Poland",
+      "status": "confirmed",
+      "locator": "שורה 21"
+    },
+    {
+      "id": "c4",
+      "text": "ארליך היה ממוצא הורים יהודים, ובן דודו היה הבקטריולוג קארל וייגרט, ששימש לו מנטור.",
+      "source": "src5",
+      "quote": "Of Jewish parentage, he was a cousin of the renowned bacteriologist Carl Weigert (1845–1904), who played an important role as his mentor.",
+      "status": "confirmed",
+      "locator": "שורה 16"
+    },
+    {
+      "id": "c7",
+      "text": "ארליך לא המיר את דתו, אך היה אדיש למנהגים ולמסורות יהודיים.",
+      "source": "src3",
+      "quote": "Paul Ehrlich did not convert away from Judaism, but was rather indifferent to Jewish customs and traditions.",
+      "status": "confirmed",
+      "locator": "שורה 21"
+    },
+    {
+      "id": "c13",
+      "text": "ב-1882 פרסם ארליך את שיטתו לצביעת חיידק השחפת שקוך גילה.",
+      "source": "src1",
+      "quote": "In 1882 Ehrlich published his method of staining the tubercle bacillus that Koch had discovered",
+      "status": "confirmed",
+      "locator": "שורה 4"
+    },
+    {
+      "id": "c14",
+      "text": "ב-1888 הידבק ארליך בחיידק השחפת בעבודתו במעבדה, ולכן הופרעה הקריירה המדעית שלו.",
+      "source": "src5",
+      "quote": "his scientific career was disrupted in 1888 when Ehrlich was infected by the Koch bacillus, contracted in the course of his laboratory work",
+      "status": "confirmed",
+      "locator": "שורה 35"
+    },
+    {
+      "id": "c23",
+      "text": "ב-1890 מינה רוברט קוך, מנהל המכון החדש למחלות זיהומיות, את ארליך לאחד מעוזריו.",
+      "source": "src1",
+      "quote": "In 1890 Robert Koch, Director of the newly established Institute for Infectious Diseases, appointed Ehrlich as one of his assistants",
+      "status": "confirmed",
+      "locator": "שורה 6"
+    },
+    {
+      "id": "c37",
+      "text": "ארליך הוכיח ב-1892 שנוגדנים עוברים בחלב אם מאם ליילוד.",
+      "source": "src2",
+      "quote": "He also demonstrated, in 1892, that antibodies are passed in breast milk from mother to newborn.",
+      "status": "confirmed",
+      "locator": "שורה 70"
+    },
+    {
+      "id": "c79",
+      "text": "ארליך הראה בניסוי שארנבות שקיבלו רעל בעלייה איטית ומדודה שרדו מינון קטלני פי 5,000.",
+      "source": "src2",
+      "quote": "Ehrlich was able to show experimentally that rabbits subjected to a slow and measured increase of toxic matter were able to survive 5,000 times the fatal dose.",
+      "status": "confirmed",
+      "locator": "שורה 70"
+    },
+    {
+      "id": "c16",
+      "text": "נסיובים נגד מחלות היו סוג חדש לגמרי של תרופה שאיכותו השתנתה מאוד, ולכן הוקמה מערכת ממשלתית שתבטיח את בטיחותם ויעילותם.",
+      "source": "src3",
+      "quote": "Since antiserums were an entirely new type of medicine whose quality was highly variable, a government system was established to guarantee their safety and effectiveness.",
+      "status": "confirmed",
+      "locator": "שורה 52"
+    },
+    {
+      "id": "c15",
+      "text": "בייצור נסיובי הנוגדנים היו בעיות משמעותיות של בקרת איכות.",
+      "source": "src5",
+      "quote": "However, there were considerable problems with quality control during the production of these sera.",
+      "status": "confirmed",
+      "locator": "שורה 37"
+    },
+    {
+      "id": "c19",
+      "text": "בשל השונות הרבה בתכולת האנטי-רעלן בנסיובים, היה צורך בתקן שיאפשר למדוד אותה במדויק.",
+      "source": "src1",
+      "quote": "the content of antitoxin in antitoxic sera varied so much for various reasons that it was necessary to establish a standard by which their antitoxin content could be exactly measured",
+      "status": "confirmed",
+      "locator": "שורה 7"
+    },
+    {
+      "id": "c18",
+      "text": "לפי בריטניקה, רק בעזרת טכניקת ארליך של שימוש בדם סוסים חיים התאפשר להכין נסיוב בעל יעילות אנטי-רעלנית אופטימלית.",
+      "source": "src2",
+      "quote": "it was only by adopting Ehrlich’s technique of using the blood of live horses that the preparation of a serum of optimum antitoxic effectiveness became possible",
+      "status": "confirmed",
+      "locator": "שורה 70"
+    },
+    {
+      "id": "c21",
+      "text": "בבדיקת הנסיוב קבע ארליך יעד חד-משמעי: מות חיית הניסוי אחרי ארבעה ימים; אם מתה מוקדם יותר, הנסיוב נפסל כחלש מדי.",
+      "source": "src3",
+      "quote": "The mixture was to be such that the test animal would die after four days. If it died earlier, the serum was too weak and was rejected.",
+      "status": "confirmed",
+      "locator": "שורה 53"
+    },
+    {
+      "id": "c29",
+      "text": "רק פון בהרינג קיבל את פרס נובל הראשון ברפואה, ב-1901, על תרומתו למחקר הדיפתריה.",
+      "source": "src3",
+      "quote": "Only von Behring received the first Nobel Prize in Medicine, in 1901, for contributions to research on diphtheria.[6]",
+      "status": "confirmed",
+      "locator": "שורה 50"
+    },
+    {
+      "id": "c30",
+      "text": "רק שבע שנים מאוחר יותר הכירה האקדמיה השוודית בתרומת ארליך להתאמת הטיפול הנסיובי ליישום רפואי בפועל.",
+      "source": "src5",
+      "quote": "it was not until 7 years later when the Swedish academy recognized Ehrlich's contribution in adapting this therapy to actual medical application",
+      "status": "confirmed",
+      "locator": "שורה 38"
+    },
+    {
+      "id": "c32",
+      "text": "נימוק הפרס היה הכרה בעבודתם על חסינות.",
+      "source": "src6",
+      "quote": "Prize motivation: “in recognition of their work on immunity”",
+      "status": "confirmed",
+      "locator": "שורה 6"
+    },
+    {
+      "id": "c35",
+      "text": "לפי בריטניקה, תורת שרשראות הצד של ארליך תיארה כיצד נוצרים נוגדנים וכיצד הם מגיבים עם חומרים אחרים.",
+      "source": "src2",
+      "quote": "His side-chain theory described how antibodies are formed and react with other substances.",
+      "status": "confirmed",
+      "locator": "שורה 37"
+    },
+    {
+      "id": "c69",
+      "text": "ארליך קיבל את מדליית הזהב הגדולה הפרוסית למדע ב-1903, שניתנה לפניו רק לרודולף וירכוב.",
+      "source": "src5",
+      "quote": "Ehrlich's work was recognized with ten honorary doctorates and the Prussian Great Gold Medal for Science(1903), awarded previously only to Rudolf Virchow.",
+      "status": "confirmed",
+      "locator": "שורה 61"
+    },
+    {
+      "id": "c38",
+      "text": "ארליך הבין את מגבלות הטיפול הנסיובי: הרבה הפרעות זיהומיות, בעיקר אלה שנגרמו מפרוטוזואה, לא הגיבו אליו.",
+      "source": "src2",
+      "quote": "Many infectious disorders, in particular those caused by protozoa rather than bacteria, failed to respond to serum treatment.",
+      "status": "confirmed",
+      "locator": "שורה 73"
+    },
+    {
+      "id": "c39",
+      "text": "המכון המלכותי הפרוסי לתרפיה ניסיונית נפתח ב-1899, וארליך ניהל אותו עד מותו.",
+      "source": "src4",
+      "quote": "Opened in 1899, the Royal Prussian Institute for Experimental Therapy was directed by Ehrlich until his death sixteen years later.",
+      "status": "confirmed",
+      "locator": "שורה 23"
+    },
+    {
+      "id": "c40",
+      "text": "ב-1906 הוקם בית גיאורג שפייר, מכון מחקר לכימותרפיה, בנדבת פראנציסקה שפייר לזכר בעלה.",
+      "source": "src4",
+      "quote": "In 1906 the adjacent Research Institute for Chemotherapy (designated the Georg-Speyer-Haus) was erected and endowed by Franziska Speyer in memory of her late husband.",
+      "status": "confirmed",
+      "locator": "שורה 24"
+    },
+    {
+      "id": "c43",
+      "text": "ב-1907 סינתזו ארליך ובֶּרטהיים ובדקו כמה מאות תרכובות נגזרות של אטוקסיל.",
+      "source": "src4",
+      "quote": "he and Bertheim synthesized and tested several hundred derivative compounds",
+      "status": "confirmed",
+      "locator": "שורה 31"
+    },
+    {
+      "id": "c44",
+      "text": "תרכובת 606 מסדרת הארסניקלים נדחתה ב-1907 כבלתי יעילה.",
+      "source": "src1",
+      "quote": "Among the arsenical drugs already tested for other purposes was one, the 606th of the series tested, which had been set aside in 1907 as being ineffective.",
+      "status": "confirmed",
+      "locator": "שורה 10"
+    },
+    {
+      "id": "c48",
+      "text": "האטה בדק את התרופה שנדחתה ומצא שהיא יעילה מאוד.",
+      "source": "src1",
+      "quote": "Hata did so and found that it was very effective.",
+      "status": "confirmed",
+      "locator": "שורה 10"
+    },
+    {
+      "id": "c49",
+      "text": "ב-19 באפריל 1910, בקונגרס לרפואה פנימית בוויסבאדן, דיווחו ארליך והאטה על גילוי הארספנמין ועל תוצאותיהם המעודדות.",
+      "source": "src5",
+      "quote": "On 19 April 1910, at the Congress for Internal Medicine at Wiesbaden, Ehrlich and Hata reported the discovery of arsphenamine",
+      "status": "confirmed",
+      "locator": "שורה 53"
+    },
+    {
+      "id": "c77",
+      "text": "נראה היה שנמצא \"כדור הקסם\", ביטוי אהוב על ארליך.",
+      "source": "src2",
+      "quote": "It seemed as if a “magic bullet,” to use a favourite expression of Ehrlich’s, had been found.",
+      "status": "confirmed",
+      "locator": "שורה 76"
+    },
+    {
+      "id": "c59",
+      "text": "עבודתו של ארליך הובילה לסלברסן, הטיפול היעיל הראשון בעגבת, שסימן את תחילת עידן הכימותרפיה.",
+      "source": "src2",
+      "quote": "Ehrlich's work led to Salvarsan, the first effective syphilis treatment, marking the beginning of the chemotherapeutic era and revolutionizing infectious disease control before antibiotics.",
+      "status": "confirmed",
+      "locator": "שורה 56"
+    },
+    {
+      "id": "c57",
+      "text": "סלברסן היה התרופה היעילה ביותר לעגבת עד שהפניצילין הפך לזמין בשנות ה-40.",
+      "source": "src3",
+      "quote": "It was the most effective drug for treating syphilis until penicillin became available in the 1940s",
+      "status": "confirmed",
+      "locator": "שורה 73"
+    },
+    {
+      "id": "c10",
+      "text": "חיים ויצמן, נשיאה הראשון של ישראל, שכנע את ארליך לכהן בוועדת האוניברסיטה, וארליך הוריש כסף למכון נורדאו, מבשר האוניברסיטה העברית.",
+      "source": "src7",
+      "quote": "Weizmann, a noted chemist as well as Israel’s first President, convinced Ehrlich to serve on the University Committee, and when Ehrlich died in 1915, he bequeathed money to The Nordau Institute, a forerunner of The Hebrew University.",
+      "status": "confirmed",
+      "locator": "שורה 7"
+    },
+    {
+      "id": "c75",
+      "text": "לפי מכון נובל, שבץ שני שסיים את חייו פקד את ארליך ב-20 באוגוסט 1915.",
+      "source": "src1",
+      "quote": "he had, on August 20 of that year, a second stroke which ended his life",
+      "status": "confirmed",
+      "locator": "שורה 18"
+    },
+    {
+      "id": "c76",
+      "text": "לפי JewishGen, ארליך לקה ב-17 באוגוסט 1915 בהתקף לב ומת ב-20 באוגוסט.",
+      "source": "src3",
+      "quote": "On 17 August 1915 Ehrlich suffered a heart attack and died on 20 August.",
+      "status": "confirmed",
+      "locator": "שורה 29"
+    },
+    {
+      "id": "c72",
+      "text": "בהספד שלו ציין הטיימס הלונדוני את הישגו של ארליך בפתיחת דלתות חדשות אל הלא נודע ואמר כי העולם כולו חייב לו.",
+      "source": "src2",
+      "quote": "In its obituary the London Times acknowledged Ehrlich’s achievement in opening new doors into the unknown, saying, “The whole world is in his debt.”",
+      "status": "confirmed",
+      "locator": "שורה 78"
+    },
+    {
+      "id": "c27",
+      "text": "לפי אנציקלופדיה.קום, בהרינג התגבר על קשיי ייצור האנטי-רעלן בכך שניצל את עזרת ארליך, והשיג לעצמו חוזה משתלם.",
+      "source": "src4",
+      "quote": "Meanwhile, Behring had overcome serious difficulties in diphtheria antitoxin production by exploiting Ehrlich’s assistance, procuring for himself a remunerative contract for supervising commercial manufacture of antitoxin.",
+      "status": "confirmed",
+      "locator": "שורה 19"
+    },
+    {
+      "id": "c28",
+      "text": "ארליך נאלץ בסופו של דבר להסכים לחלק של שמונה אחוזים בלבד מהרווחים.",
+      "source": "src3",
+      "quote": "Their contract was changed several times and finally Ehrlich was eventually pressured into accepting a profit share of only eight percent.",
+      "status": "confirmed",
+      "locator": "שורה 50"
+    },
+    {
+      "id": "c34",
+      "text": "לפי ביוגרפיה שמצטט הפורוורד, פרס נובל של ארליך התעכב משום שארהניוס, מדען שוודי בוועדה, נרגז מה\"אווירה היהודית הבולטת\" במכון.",
+      "source": "src7",
+      "quote": "Ehrlich’s Nobel Prize was delayed because Svante Arrhenius, a powerful Swedish scientist on the Nobel committee, was irked by the “markedly Jewish atmosphere” of Ehrlich’s Institute.",
+      "status": "confirmed",
+      "locator": "שורה 5"
+    },
+    {
+      "id": "c36",
+      "text": "ב-1901 פתח מקס פון גרובר פולמוס בן שנתיים נגד תורת שרשראות הצד, שהפך עד מהרה למעליב.",
+      "source": "src4",
+      "quote": "In 1901 Max von Gruber launched a twoyear polemic, which became inexcusably insulting, against the side-chain theory.",
+      "status": "confirmed",
+      "locator": "שורה 28"
+    },
+    {
+      "id": "c62",
+      "text": "קנאים ופרשנים סנסציוניים האשימו את ארליך בשרלטנות, ברדיפת רווחים ובניסויים חסרי רחמים.",
+      "source": "src4",
+      "quote": "Fanatic sensationalists accused him of charlatanism, profiteering, and ruthless experimentalism.",
+      "status": "confirmed",
+      "locator": "שורה 37"
+    },
+    {
+      "id": "c65",
+      "text": "ארליך הואשם, בנימות אנטישמיות ברורות, בהתעשרות מופרזת.",
+      "source": "src3",
+      "quote": "Ehrlich was also accused, with clearly anti-Semitic undertones, of excessively enriching himself.",
+      "status": "confirmed",
+      "locator": "שורה 74"
+    },
+    {
+      "id": "c63",
+      "text": "במרץ 1914 תמך הרייכסטאג בסלברסן וקבע שהוא העשרה ערכית מאוד של התרופות נגד עגבת.",
+      "source": "src4",
+      "quote": "until in March 1914 the Reichstag, forced to debate the merits of Salvarsan, endorsed it as “a very valuable enrichment of the remedies against syphilis.”",
+      "status": "confirmed",
+      "locator": "שורה 37"
+    },
+    {
+      "id": "c64",
+      "text": "המכפיש הגרוע ביותר מבין מתנגדיו של ארליך נידון למאסר.",
+      "source": "src2",
+      "quote": "The most libelous among them was given a jail sentence.",
+      "status": "confirmed",
+      "locator": "שורה 77"
+    },
+    {
+      "id": "c68",
+      "text": "פאול אוהלנהוט, מקורבו של ארליך, טען לבכורה בגילוי התרופה.",
+      "source": "src3",
+      "quote": "In addition, Ehrlich's associate, Paul Uhlenhuth claimed priority in discovering the drug.",
+      "status": "confirmed",
+      "locator": "שורה 74"
+    },
+    {
+      "id": "c8",
+      "text": "בפרנקפורט הוסר שמו של רחוב פאול ארליך כשהחלו רדיפות היהודים, משום שארליך היה יהודי.",
+      "source": "src1",
+      "quote": "later, when the Jewish persecution began, this name was removed because Ehrlich was a Jew.",
+      "status": "confirmed",
+      "locator": "שורה 13"
+    },
+    {
+      "id": "c9",
+      "text": "עד 1940 שינו הנאצים את שם הרחוב בפרנקפורט שבו שכן מכונו של ארליך, משום שהיה יהודי.",
+      "source": "src7",
+      "quote": "By 1940, the Frankfurt street in which Ehrlich’s Institute had been located, previously Paul Ehrlichstrasse, had been renamed by the Nazis because Ehrlich was Jewish.",
+      "status": "confirmed",
+      "locator": "שורה 4"
+    },
+    {
+      "id": "c73",
+      "text": "בתקופת הרייך השלישי הוזנחו הישגי ארליך, ואילו פון בהרינג הוצג כמדען הארי האידיאלי.",
+      "source": "src3",
+      "quote": "During the Third Reich, Ehrlich's achievements were ignored while Emil Adolf von Behring was stylized as the ideal Aryan scientist",
+      "status": "confirmed",
+      "locator": "שורה 79"
+    },
+    {
+      "id": "c74",
+      "text": "הממשל הנאצי התנגד להוקרה למדען יהודי בסרט על ארליך מ-1940, ונעשו ניסיונות להסתיר את הסרט בגרמניה.",
+      "source": "src3",
+      "quote": "Since the Nazi government was opposed to this tribute to a Jewish scientist, attempts were made to keep the film a secret in Germany.",
+      "status": "confirmed",
+      "locator": "שורה 85"
+    },
+    {
+      "id": "c78",
+      "text": "זמן קצר לאחר המלחמה הוחזר השם פאול-ארליך-שטראסה, וערים גרמניות רבות קראו רחובות על שמו.",
+      "source": "src3",
+      "quote": "Shortly after the end of the war the name Paul-Ehrlich-Strasse was reinstated and today numerous German cities have streets named after Paul Ehrlich.",
+      "status": "confirmed",
+      "locator": "שורה 79"
+    },
+    {
+      "id": "c5",
+      "text": "לפי אנציקלופדיה.קום, ארליך היה הבן היחיד והילד הרביעי של אב יהודי שהיה מזקק, בעל פונדק ואוסף הגרלות.",
+      "source": "src4",
+      "quote": "He was the only son and fourth child of Ismar Ehrlich, a respected but somewhat eccentric Jewish distiller, innkeeper, and lottery collector",
+      "status": "confirmed",
+      "locator": "שורה 9"
+    },
+    {
+      "id": "c6",
+      "text": "לפי ויקיפדיה (באתר JewishGen), ארליך היה הילד השני של איסמר ורוזה ארליך.",
+      "source": "src3",
+      "quote": "Paul Ehrlich was the second child of Ismar and Rosa Ehrlich.",
+      "status": "confirmed",
+      "locator": "שורה 21"
+    },
+    {
+      "id": "c12",
+      "text": "לפי JewishGen, ארליך קיבל את הדוקטורט ב-1882 ואחר כך עבד בשריטה בברלין.",
+      "source": "src3",
+      "quote": "After obtaining his doctorate in 1882, he worked at the Charité in Berlin as an assistant medical director under Theodor Frerichs",
+      "status": "confirmed",
+      "locator": "שורה 22"
+    },
+    {
+      "id": "c50",
+      "text": "לפי המאמר בפרמקולוגיה, מכונו של ארליך סיפק 65,000 דגימות חינם לניסויים קליניים נוספים.",
+      "source": "src5",
+      "quote": "Their announcement at this congress led to a large number of requests, which Ehrlich's institute fulfilled by dispensing 65,000 free samples so that further clinical trials could be done.",
+      "status": "confirmed",
+      "locator": "שורה 53"
+    },
+    {
+      "id": "c51",
+      "text": "לפי בריטניקה, היצרן פארבוורקה-הואכסט הפיץ 65,000 יחידות חינם לרופאים ברחבי העולם.",
+      "source": "src2",
+      "quote": "the manufacturer with whom Ehrlich had collaborated closely, Farbwerke-Hoechst, released a total of 65,000 units gratis to physicians all over the globe",
+      "status": "confirmed",
+      "locator": "שורה 77"
+    },
+    {
+      "id": "c52",
+      "text": "לפי אנציקלופדיה.קום, בית גיאורג שפייר סיפק עד סוף השנה כ-65,000 מנות חינם.",
+      "source": "src4",
+      "quote": "By the year’s end, when the full resources of the Georg-Speyer-Haus had provided about 65,000 doses gratis",
+      "status": "confirmed",
+      "locator": "שורה 35"
+    },
+    {
+      "id": "c60",
+      "text": "לפי JewishGen, סלברסן הוחלף בניאוסלברסן ב-1911.",
+      "source": "src3",
+      "quote": "Salvarsan required improvement as to side effects and solubility and was replaced in 1911 with Neosalvarsan.",
+      "status": "confirmed",
+      "locator": "שורה 73"
+    },
+    {
+      "id": "c61",
+      "text": "לפי אנציקלופדיה.קום, ניאוסלברסן הוכנס לשימוש קליני ב-1912.",
+      "source": "src4",
+      "quote": "It was introduced for clinical use in 1912 as Neosalvarsan.",
+      "status": "confirmed",
+      "locator": "שורה 36"
+    },
+    {
+      "id": "c70",
+      "text": "לפי המאמר בפרמקולוגיה, עבודתו של ארליך זכתה להכרה בעשרה תארי דוקטור לכבוד.",
+      "source": "src5",
+      "quote": "Ehrlich's work was recognized with ten honorary doctorates and the Prussian Great Gold Medal for Science(1903), awarded previously only to Rudolf Virchow.",
+      "status": "confirmed",
+      "locator": "שורה 61"
+    },
+    {
+      "id": "c71",
+      "text": "לפי אנציקלופדיה.קום, הוענקו לארליך שנים עשר אותות הוקרה וחמישה תארי דוקטור לכבוד.",
+      "source": "src4",
+      "quote": "Twelve orders (ten from foreign governments) and five honorary doctorates were conferred on him.",
+      "status": "confirmed",
+      "locator": "שורה 39"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src1",
+      "label": "NobelPrize.org, Paul Ehrlich – Biographical",
+      "url": "https://www.nobelprize.org/prizes/medicine/1908/ehrlich/biographical/",
+      "kind": "official"
+    },
+    {
+      "id": "src2",
+      "label": "Encyclopaedia Britannica, Paul Ehrlich",
+      "url": "https://www.britannica.com/biography/Paul-Ehrlich",
+      "kind": "reference"
+    },
+    {
+      "id": "src3",
+      "label": "JewishGen KehilaLinks, Paul Ehrlich",
+      "url": "https://kehilalinks.jewishgen.org/wroclaw/Paul_Ehrlich.html",
+      "kind": "press"
+    },
+    {
+      "id": "src4",
+      "label": "Encyclopedia.com, Paul Ehrlich",
+      "url": "https://www.encyclopedia.com/people/medicine/medicine-biographies/paul-ehrlich",
+      "kind": "reference"
+    },
+    {
+      "id": "src5",
+      "label": "PubMed Central, article on Ehrlich",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2790789",
+      "kind": "official"
+    },
+    {
+      "id": "src6",
+      "label": "NobelPrize.org, Paul Ehrlich – Facts",
+      "url": "https://www.nobelprize.org/prizes/medicine/1908/ehrlich/facts/",
+      "kind": "official"
+    },
+    {
+      "id": "src7",
+      "label": "The Forward, Paul Ehrlich, a 'Markedly Jewish' Humanitarian",
+      "url": "https://forward.com/schmooze/148647/paul-ehrlich-a-markedly-jewish-humanitarian/",
+      "kind": "press"
+    }
+  ],
+  "media": [
+    {
+      "id": "m2",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Ehrlich%20by%20Franz%20Wilhelm%20Voigt%202014.031.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Paul_Ehrlich_by_Franz_Wilhelm_Voigt_2014.031.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "Franz Wilhelm Voigt",
+      "licence": "Public domain",
+      "hosting": "hotlink",
+      "caption": "Oil portrait of Paul Ehrlich by Franz Wilhelm Voigt, showing a bearded man in a suit with shelves of jars behind him.",
+      "illustrates": [
+        "c31"
+      ],
+      "date": "1920date Q",
+      "width": 5470,
+      "height": 6497
+    },
+    {
+      "id": "m3",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Ehrlich%201915.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Paul_Ehrlich_1915.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "Harris &amp; Ewing",
+      "licence": "Public domain",
+      "hosting": "hotlink",
+      "caption": "Black-and-white portrait of Paul Ehrlich in partial profile, with round glasses and a white beard.",
+      "illustrates": [],
+      "date": "1915",
+      "width": 3123,
+      "height": 4167
+    },
+    {
+      "id": "m4",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Ehrlich%202.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Paul_Ehrlich_2.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "Unknown authorUnknown author",
+      "licence": "CC BY 4.0",
+      "hosting": "hotlink",
+      "caption": "Paul Ehrlich seated with a cigar in his hand and a book on his knees.",
+      "illustrates": [],
+      "licence_url": "https://creativecommons.org/licenses/by/4.0",
+      "date": "Unknown da",
+      "width": 2528,
+      "height": 3276
+    },
+    {
+      "id": "m5",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/PaulEhrlich%202.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:PaulEhrlich_2.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "Der wilde bernd",
+      "licence": "CC BY-SA 4.0",
+      "hosting": "hotlink",
+      "caption": "A memorial in the form of a black column with gilded balls, bearing text and a picture of Paul Ehrlich, in Frankfurt.",
+      "illustrates": [
+        "c31"
+      ],
+      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2021-08-21",
+      "width": 3472,
+      "height": 4624
+    },
+    {
+      "id": "m6",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/PaulEhrlich%203.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:PaulEhrlich_3.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "Der wilde bernd",
+      "licence": "CC BY-SA 4.0",
+      "hosting": "hotlink",
+      "caption": "A memorial column for Paul Ehrlich and his magic bullet, with a large portrait of him, text and a chemical diagram.",
+      "illustrates": [
+        "c77"
+      ],
+      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2021-08-21",
+      "width": 3472,
+      "height": 4624
+    },
+    {
+      "id": "m7",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/PaulEhrlich%201.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:PaulEhrlich_1.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "Der wilde bernd",
+      "licence": "CC BY-SA 4.0",
+      "hosting": "hotlink",
+      "caption": "A black memorial column on the lawn, bearing the inscription \"Paul Ehrlich und seine Zauberkugel\" (Paul Ehrlich and his magic bullet).",
+      "illustrates": [
+        "c77"
+      ],
+      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2021-08-21",
+      "width": 3472,
+      "height": 4624
+    },
+    {
+      "id": "m8",
+      "kind": "video",
+      "url": "https://www.youtube.com/watch?v=e6iic8OD540",
+      "youtube_id": "e6iic8OD540",
+      "source_page": "https://www.youtube.com/watch?v=e6iic8OD540",
+      "source_name": "YouTube",
+      "credit": "The World’s First",
+      "licence": "YouTube, embedded only (standard YouTube licence)",
+      "licence_url": "https://www.youtube.com/static?template=terms",
+      "hosting": "embed",
+      "caption": "A film about the first Nobel Prize in Medicine, awarded to Emil von Behring for the serum against diphtheria, and about the paper that had two authors.",
+      "illustrates": [
+        "c29"
+      ],
+      "spoken": "en",
+      "audio_tracks": [
+        "en",
+        "es",
+        "hi",
+        "id",
+        "ja",
+        "ko",
+        "pt"
+      ]
+    },
+    {
+      "id": "m9",
+      "kind": "video",
+      "url": "https://www.youtube.com/watch?v=lgCw61jdsaw",
+      "youtube_id": "lgCw61jdsaw",
+      "source_page": "https://www.youtube.com/watch?v=lgCw61jdsaw",
+      "source_name": "YouTube",
+      "credit": "LAUREATE LEGENDS",
+      "licence": "YouTube, embedded only (standard YouTube licence)",
+      "licence_url": "https://www.youtube.com/static?template=terms",
+      "hosting": "embed",
+      "caption": "A documentary film about the life of Emil von Behring and the question of whether he took the credit for the serum against diphtheria for himself.",
+      "illustrates": [
+        "c27",
+        "c29"
+      ],
+      "spoken": "en",
+      "audio_tracks": [
+        "en",
+        "de",
+        "es",
+        "fr",
+        "hi",
+        "id",
+        "it",
+        "ja",
+        "ml",
+        "nl",
+        "pl",
+        "pt",
+        "uk"
+      ]
+    },
+    {
+      "id": "m10",
+      "kind": "video",
+      "url": "https://www.youtube.com/watch?v=mCMv3X2HwwY",
+      "youtube_id": "mCMv3X2HwwY",
+      "source_page": "https://www.youtube.com/watch?v=mCMv3X2HwwY",
+      "source_name": "YouTube",
+      "credit": "AWARDS WORLDWIDE",
+      "licence": "YouTube, embedded only (standard YouTube licence)",
+      "licence_url": "https://www.youtube.com/static?template=terms",
+      "hosting": "embed",
+      "caption": "A film about Emil von Behring, Nobel laureate in Medicine in 1901, and his contribution to the treatment of diphtheria.",
+      "illustrates": [
+        "c29"
+      ],
+      "spoken": "en",
+      "audio_tracks": [
+        "en"
+      ]
+    },
+    {
+      "id": "m11",
+      "kind": "video",
+      "url": "https://www.youtube.com/watch?v=PnYe-EjF-yc",
+      "youtube_id": "PnYe-EjF-yc",
+      "source_page": "https://www.youtube.com/watch?v=PnYe-EjF-yc",
+      "source_name": "YouTube",
+      "credit": "Chronicles of Fame",
+      "licence": "YouTube, embedded only (standard YouTube licence)",
+      "licence_url": "https://www.youtube.com/static?template=terms",
+      "hosting": "embed",
+      "caption": "An episode in a series on Emil von Behring, \"the savior from diphtheria\".",
+      "illustrates": [
+        "c17"
+      ],
+      "spoken": "en",
+      "audio_tracks": [
+        "en"
+      ]
+    },
+    {
+      "id": "m12",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Ehrlich%20%281854-1915%29%20on%20the%20occasion%20of%20his%2060th%20birthday%20Wellcome%20M0013279.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Paul_Ehrlich_%281854-1915%29_on_the_occasion_of_his_60th_birthday_Wellcome_M0013279.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "not stated",
+      "licence": "CC BY 4.0",
+      "hosting": "hotlink",
+      "caption": "Paul Ehrlich holding glasses, photographed on the occasion of his 60th birthday",
+      "illustrates": [],
+      "licence_url": "https://creativecommons.org/licenses/by/4.0",
+      "width": 2850,
+      "height": 3699,
+      "role": "deed"
+    },
+    {
+      "id": "m13",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Ehrlich.%20Photograph.%20Wellcome%20V0026326.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Paul_Ehrlich._Photograph._Wellcome_V0026326.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "not stated",
+      "licence": "CC BY 4.0",
+      "hosting": "hotlink",
+      "caption": "Sepia portrait of an elderly Paul Ehrlich, with round glasses and a white beard",
+      "illustrates": [],
+      "licence_url": "https://creativecommons.org/licenses/by/4.0",
+      "width": 2279,
+      "height": 3097,
+      "role": "deed"
+    },
+    {
+      "id": "m14",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Paul%20Ehrlich%20%281854-1915%29%20Wellcome%20M0011450.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Portrait_of_Paul_Ehrlich_%281854-1915%29_Wellcome_M0011450.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "not stated",
+      "licence": "CC BY 4.0",
+      "hosting": "hotlink",
+      "caption": "Paul Ehrlich with round glasses and a cigar in his hand",
+      "illustrates": [],
+      "licence_url": "https://creativecommons.org/licenses/by/4.0",
+      "width": 2642,
+      "height": 4201,
+      "role": "deed"
+    },
+    {
+      "id": "m15",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Ehrlich%20%281854-1915%29%20Wellcome%20M0013322.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Paul_Ehrlich_%281854-1915%29_Wellcome_M0013322.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "not stated",
+      "licence": "CC BY 4.0",
+      "hosting": "hotlink",
+      "caption": "Portrait of Paul Ehrlich from the Wellcome Collection",
+      "illustrates": [],
+      "licence_url": "https://creativecommons.org/licenses/by/4.0",
+      "width": 2453,
+      "height": 3867,
+      "role": "deed"
+    },
+    {
+      "id": "m18",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Ehrlich.%20Photograph.%20Wellcome%20V0026327.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Paul_Ehrlich._Photograph._Wellcome_V0026327.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "not stated",
+      "licence": "CC BY 4.0",
+      "hosting": "hotlink",
+      "caption": "Portrait photograph of Paul Ehrlich",
+      "illustrates": [],
+      "licence_url": "https://creativecommons.org/licenses/by/4.0",
+      "width": 2385,
+      "height": 2946,
+      "role": "deed"
+    },
+    {
+      "id": "m19",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Ehrlich%20%281854-1915%29%20at%20work%20in%20his%20laboratory%20Wellcome%20M0013265.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Paul_Ehrlich_%281854-1915%29_at_work_in_his_laboratory_Wellcome_M0013265.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "not stated",
+      "licence": "CC BY 4.0",
+      "hosting": "hotlink",
+      "caption": "Paul Ehrlich at work in his laboratory",
+      "illustrates": [],
+      "licence_url": "https://creativecommons.org/licenses/by/4.0",
+      "width": 2950,
+      "height": 3643,
+      "role": "deed"
+    },
+    {
+      "id": "m20",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Ehrlich%20%281854-1915%29%20at%20work%20in%20his%20laboratory%20Wellcome%20M0013266.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Paul_Ehrlich_%281854-1915%29_at_work_in_his_laboratory_Wellcome_M0013266.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "not stated",
+      "licence": "CC BY 4.0",
+      "hosting": "hotlink",
+      "caption": "Paul Ehrlich at work in his laboratory, another moment",
+      "illustrates": [],
+      "licence_url": "https://creativecommons.org/licenses/by/4.0",
+      "width": 2850,
+      "height": 3826,
+      "role": "deed"
+    },
+    {
+      "id": "m21",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Ehrlich%20in%20seinem%20Laboratorium.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Paul_Ehrlich_in_seinem_Laboratorium.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "Waldemar Franz Hermann Titzenthaler",
+      "licence": "Public domain",
+      "hosting": "hotlink",
+      "caption": "Paul Ehrlich in the laboratory of his institute in Frankfurt am Main",
+      "illustrates": [],
+      "date": "1910",
+      "width": 1328,
+      "height": 1829,
+      "role": "deed"
+    },
+    {
+      "id": "m22",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Ehrlich%2C%20c.%201910.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Paul_Ehrlich%2C_c._1910.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "Unknown author, photo from SSPL/Getty Images",
+      "licence": "Public domain",
+      "hosting": "hotlink",
+      "caption": "Paul Ehrlich with laboratory equipment, around 1910",
+      "illustrates": [],
+      "date": "circa 1910",
+      "width": 838,
+      "height": 1024,
+      "role": "deed"
+    },
+    {
+      "id": "m24",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20P.%20Ehrlich%20at%20work%20in%20his%20laboratory.%20Wellcome%20M0013263.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Portrait_of_P._Ehrlich_at_work_in_his_laboratory._Wellcome_M0013263.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "not stated",
+      "licence": "CC BY 4.0",
+      "hosting": "hotlink",
+      "caption": "Paul Ehrlich at work in the laboratory",
+      "illustrates": [],
+      "licence_url": "https://creativecommons.org/licenses/by/4.0",
+      "width": 3700,
+      "height": 2905,
+      "role": "deed"
+    },
+    {
+      "id": "m26",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Ehrlich%20at%20work%20in%20his%20laboratory%20Wellcome%20M0013272.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Paul_Ehrlich_at_work_in_his_laboratory_Wellcome_M0013272.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "not stated",
+      "licence": "CC BY 4.0",
+      "hosting": "hotlink",
+      "caption": "Paul Ehrlich at work in the laboratory, examining an animal",
+      "illustrates": [],
+      "licence_url": "https://creativecommons.org/licenses/by/4.0",
+      "width": 2650,
+      "height": 4233,
+      "role": "deed"
+    },
+    {
+      "id": "m27",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Paul%20Ehrlich%20%281854-1915%29%2C%20Medical%20Scientist%20%282575161071%29.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Portrait_of_Paul_Ehrlich_%281854-1915%29%2C_Medical_Scientist_%282575161071%29.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "Smithsonian Institution from United States",
+      "licence": "No restrictions",
+      "hosting": "hotlink",
+      "caption": "Portrait of Paul Ehrlich, photograph from before 1915",
+      "illustrates": [],
+      "licence_url": "https://www.flickr.com/commons/usage/",
+      "date": "2008-05-20",
+      "width": 1330,
+      "height": 2025,
+      "role": "deed"
+    },
+    {
+      "id": "m28",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Prof.%20Paul%20Ehrlich%20LCCN00650787.tif?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Prof._Paul_Ehrlich_LCCN00650787.tif",
+      "source_name": "Wikimedia Commons",
+      "credit": "George Grantham Bain Collection",
+      "licence": "Public domain",
+      "hosting": "hotlink",
+      "caption": "Portrait of Paul Ehrlich from the Bain Collection in the Library of Congress",
+      "illustrates": [],
+      "date": "1909",
+      "width": 3319,
+      "height": 4096,
+      "role": "deed"
+    },
+    {
+      "id": "m29",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Ehrlich%20Arbeitszimmer.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Paul_Ehrlich_Arbeitszimmer.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "Waldemar Franz Hermann Titzenthaler",
+      "licence": "Public domain",
+      "hosting": "hotlink",
+      "caption": "Paul Ehrlich in his study in Frankfurt am Main",
+      "illustrates": [],
+      "date": "1910",
+      "width": 1870,
+      "height": 1372,
+      "role": "deed"
+    },
+    {
+      "id": "m31",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Ehrlich%20%281854-1915%29%20Wellcome%20M0013850.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Paul_Ehrlich_%281854-1915%29_Wellcome_M0013850.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "not stated",
+      "licence": "CC BY 4.0",
+      "hosting": "hotlink",
+      "caption": "Portrait of Paul Ehrlich",
+      "illustrates": [],
+      "licence_url": "https://creativecommons.org/licenses/by/4.0",
+      "width": 2623,
+      "height": 4346,
+      "role": "deed"
+    },
+    {
+      "id": "m33",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Prof%20Ehrlich%2C%20SFA005001616.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Prof_Ehrlich%2C_SFA005001616.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "Unknown authorUnknown author",
+      "licence": "Public domain",
+      "hosting": "hotlink",
+      "caption": "Prof. Paul Ehrlich, photograph from 1912",
+      "illustrates": [],
+      "date": "1912",
+      "width": 3135,
+      "height": 2252,
+      "role": "deed"
+    },
+    {
+      "id": "m34",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bad%20Homburg%2C%20Paul-Ehrlich-Klinik%2C%20Gedenkstein.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Bad_Homburg%2C_Paul-Ehrlich-Klinik%2C_Gedenkstein.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "Karsten Ratzke",
+      "licence": "CC0",
+      "hosting": "hotlink",
+      "caption": "Memorial stone near the Paul Ehrlich Clinic in Bad Homburg",
+      "illustrates": [],
+      "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "date": "2017-06-10",
+      "width": 3264,
+      "height": 4928,
+      "role": "related"
+    },
+    {
+      "id": "m36",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Instituto%20Butantan%202016%20090%20-%20Paul%20Ehrlich.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Instituto_Butantan_2016_090_-_Paul_Ehrlich.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "Photograph by Mike Peel (www.mikepeel.net).",
+      "licence": "CC BY-SA 4.0",
+      "hosting": "hotlink",
+      "caption": "Bust of Paul Ehrlich at the Butantan Institute in São Paulo, Brazil",
+      "illustrates": [],
+      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2016-12-04",
+      "width": 3024,
+      "height": 4032,
+      "role": "related"
+    },
+    {
+      "id": "m41",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Ehrlich%20%281854-1915%29%20and%20Dr%20Sachs%20Wellcome%20M0013270.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Paul_Ehrlich_%281854-1915%29_and_Dr_Sachs_Wellcome_M0013270.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "not stated",
+      "licence": "CC BY 4.0",
+      "hosting": "hotlink",
+      "caption": "Paul Ehrlich and Doctor Sachs, probably at the serum institute in Frankfurt",
+      "illustrates": [],
+      "licence_url": "https://creativecommons.org/licenses/by/4.0",
+      "width": 2750,
+      "height": 4055,
+      "role": "deed"
+    },
+    {
+      "id": "m42",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Ehrlich%20%281854-1915%29%20and%20his%20co-workers%20Wellcome%20M0011476.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Paul_Ehrlich_%281854-1915%29_and_his_co-workers_Wellcome_M0011476.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "not stated",
+      "licence": "CC BY 4.0",
+      "hosting": "hotlink",
+      "caption": "Paul Ehrlich and his colleagues, group photograph in a garden with the names of those present",
+      "illustrates": [],
+      "licence_url": "https://creativecommons.org/licenses/by/4.0",
+      "width": 3444,
+      "height": 3115,
+      "role": "deed"
+    },
+    {
+      "id": "m43",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Ehrlich%20and%20his%20co-workers%20and%20assistants%20Wellcome%20M0013271.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Paul_Ehrlich_and_his_co-workers_and_assistants_Wellcome_M0013271.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "not stated",
+      "licence": "CC BY 4.0",
+      "hosting": "hotlink",
+      "caption": "Paul Ehrlich and his assistants, probably at the serum institute in Frankfurt",
+      "illustrates": [],
+      "licence_url": "https://creativecommons.org/licenses/by/4.0",
+      "width": 3816,
+      "height": 2754,
+      "role": "deed"
+    },
+    {
+      "id": "m45",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Ehrlich%27s%20assistants%20and%20laboratory%20animals%20Wellcome%20M0013269.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Paul_Ehrlich%27s_assistants_and_laboratory_animals_Wellcome_M0013269.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "not stated",
+      "licence": "CC BY 4.0",
+      "hosting": "hotlink",
+      "caption": "Ehrlich's assistants with laboratory animals, among them goats, probably at the serum institute in Frankfurt",
+      "illustrates": [],
+      "licence_url": "https://creativecommons.org/licenses/by/4.0",
+      "width": 4000,
+      "height": 2813,
+      "role": "deed"
+    },
+    {
+      "id": "m47",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/DBP%201954%20197%20Paul%20Ehrlich%20und%20Emil%20Behring.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:DBP_1954_197_Paul_Ehrlich_und_Emil_Behring.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "scanned by NobbiP",
+      "licence": "Public domain",
+      "hosting": "hotlink",
+      "caption": "German stamp of 1954 marking 100 years since the birth of Paul Ehrlich and Emil von Behring",
+      "illustrates": [],
+      "date": "September ",
+      "width": 830,
+      "height": 720,
+      "role": "deed"
+    },
+    {
+      "id": "m48",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Diagrams%20illustrating%20the%20side-chain%20theory%20of%20Paul%20Ehrlich%20Wellcome%20M0013303.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Diagrams_illustrating_the_side-chain_theory_of_Paul_Ehrlich_Wellcome_M0013303.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "not stated",
+      "licence": "CC BY 4.0",
+      "hosting": "hotlink",
+      "caption": "Illustration of Ehrlich's side-chain theory, stages 1 to 4",
+      "illustrates": [],
+      "licence_url": "https://creativecommons.org/licenses/by/4.0",
+      "width": 3071,
+      "height": 3561,
+      "role": "deed"
+    },
+    {
+      "id": "m49",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Diagrams%20illustrating%20the%20side-chain%20theory%20of%20Paul%20Ehrlich%20Wellcome%20M0013304.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Diagrams_illustrating_the_side-chain_theory_of_Paul_Ehrlich_Wellcome_M0013304.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "not stated",
+      "licence": "CC BY 4.0",
+      "hosting": "hotlink",
+      "caption": "Illustration of Ehrlich's side-chain theory, stages 5 to 8",
+      "illustrates": [],
+      "licence_url": "https://creativecommons.org/licenses/by/4.0",
+      "width": 2995,
+      "height": 3633,
+      "role": "deed"
+    },
+    {
+      "id": "m50",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Die%20elteren%20von%20Paul%20Ehrlich%20%281915%29.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Die_elteren_von_Paul_Ehrlich_%281915%29.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "Unknown authorUnknown author",
+      "licence": "Public domain",
+      "hosting": "hotlink",
+      "caption": "Paul Ehrlich's parents, two round portraits",
+      "illustrates": [],
+      "date": "1915",
+      "width": 1018,
+      "height": 526,
+      "role": "deed"
+    },
+    {
+      "id": "m51",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/DNB%20Leipzig%20B%C3%BCste%20Paul%20Ehrlich.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:DNB_Leipzig_B%C3%BCste_Paul_Ehrlich.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "Frupa",
+      "licence": "CC BY-SA 4.0",
+      "hosting": "hotlink",
+      "caption": "Stone bust of Paul Ehrlich in the reading room of the German National Library in Leipzig",
+      "illustrates": [],
+      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2025-06-29",
+      "width": 3024,
+      "height": 4032,
+      "role": "related"
+    },
+    {
+      "id": "m53",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Ehrlich%20Institut%20building%20Langen%20-%202022-05-16.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Paul_Ehrlich_Institut_building_Langen_-_2022-05-16.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "Wvdp",
+      "licence": "CC0",
+      "hosting": "hotlink",
+      "caption": "The main building of the Paul Ehrlich Institute in Langen, Hesse",
+      "illustrates": [],
+      "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "date": "2022-05-16",
+      "width": 4080,
+      "height": 3072,
+      "role": "related"
+    },
+    {
+      "id": "m55",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/%27Serum%20straight%20from%20the%20horse%27.%2C%20inoculation%20caricature%20Wellcome%20L0009827.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:%27Serum_straight_from_the_horse%27.%2C_inoculation_caricature_Wellcome_L0009827.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "not stated",
+      "licence": "CC BY 4.0",
+      "hosting": "hotlink",
+      "caption": "German caricature: Behring drawing serum directly from a horse through a tap",
+      "illustrates": [],
+      "licence_url": "https://creativecommons.org/licenses/by/4.0",
+      "width": 1688,
+      "height": 1214,
+      "role": "related"
+    },
+    {
+      "id": "m56",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Emil%20v.%20Behring%20Nobel%201901.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Emil_v._Behring_Nobel_1901.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "Creator:Agi Lindegren[1]",
+      "licence": "Public domain",
+      "hosting": "hotlink",
+      "caption": "Emil von Behring's Nobel Prize in Medicine diploma, 1901",
+      "illustrates": [],
+      "date": "1901-11",
+      "width": 1256,
+      "height": 883,
+      "role": "related"
+    },
+    {
+      "id": "m57",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Behring%20Neapel%201895%20gro%C3%9F.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Behring_Neapel_1895_gro%C3%9F.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "Luigi Lamarra, Fotograf in Neapel",
+      "licence": "Public domain",
+      "hosting": "hotlink",
+      "caption": "Emil Behring in an 1895 portrait in Naples, with a handwritten dedication",
+      "illustrates": [],
+      "date": "1895",
+      "width": 2865,
+      "height": 4193,
+      "role": "related"
+    },
+    {
+      "id": "m59",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bottle%20of%20Behring%27s%20diphtheria%20remedy%2C%20Germany%2C%201914-1918%20Wellcome%20L0058480.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Bottle_of_Behring%27s_diphtheria_remedy%2C_Germany%2C_1914-1918_Wellcome_L0058480.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "not stated",
+      "licence": "CC BY 4.0",
+      "hosting": "hotlink",
+      "caption": "A jar of Behring's serum against diphtheria, Germany, 1914 to 1918",
+      "illustrates": [],
+      "licence_url": "https://creativecommons.org/licenses/by/4.0",
+      "width": 2832,
+      "height": 4256,
+      "role": "related"
+    }
+  ],
+  "check": {
+    "passed": true,
+    "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
+    "checked_at": "2026-11-21T22:17:29Z",
+    "counts": {
+      "confirmed": 84,
+      "not_confirmed": 0,
+      "deleted_sentences": 2,
+      "first_round_confirmed": 82,
+      "first_round_contradicted": 1,
+      "first_round_unverifiable": 2
+    },
+    "note": "unverifiable sentences were deleted, contradicted ones fixed from the source and checked again"
+  },
+  "meta": {
+    "run": "paul-ehrlich-diphtheria-antitoxin",
+    "pipeline": "scripts/museum/museum_line.py",
+    "models": {
+      "research": "sonnet-5-5",
+      "extract": "sonnet-5-5",
+      "media": "sonnet-5-5",
+      "write": "opus-5-5 medium",
+      "check": "opus-5-5 medium",
+      "fix": "opus-5-5 medium"
+    },
+    "source_quality": {
+      "sources": 7,
+      "wikipedia": 0,
+      "strong": 5,
+      "ok": true,
+      "warnings": []
+    },
+    "media_dedupe": [
+      {
+        "drop": "m16",
+        "keep": "m3",
+        "by": "reviewed 24.11"
+      },
+      {
+        "drop": "m1",
+        "keep": "m15",
+        "by": "reviewed 24.11"
+      }
+    ]
+  },
+  "lang": "en",
+  "translation": {
+    "from": "he",
+    "translator": "claude-opus-5-5",
+    "checker": "claude-opus-5-5 (separate call, blind to the translation prompt)",
+    "checked_at": "2026-11-21T23:00:57Z",
+    "passed": true,
+    "items": 149,
+    "pairs_checked": 2,
+    "reused": 147,
+    "first_round_flagged": 0,
+    "still_flagged": 0,
+    "flagged": [],
+    "quote_translations": {}
+  }
+}

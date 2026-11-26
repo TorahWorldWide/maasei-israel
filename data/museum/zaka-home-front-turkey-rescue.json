@@ -1,0 +1,2097 @@
+{
+ "schema": "maasei-museum/1",
+ "slug": "zaka-home-front-turkey-rescue",
+ "deed": "מתנדבי זאקה ולוחמי פיקוד העורף מגיעים לטורקיה — שלושה ימים בדרכים סבוכות",
+ "canonical_type": "rescue-operation",
+ "year": "2023",
+ "title": "משלחת פיקוד העורף וזק\"א בטורקיה: חילוץ ניצולים, איתור ראשי קהילת אנטקיה ושמירת מגילות אסתר",
+ "trailer": [
+  {
+   "text": "לפי TPS, חיילי פיקוד העורף הישראלי וחברי זק\"א, ארגון ההתנדבות הישראלי לתגובת חירום, יצאו יחד במשלחת לטורקיה כדי לסייע במאמצי החיפוש וההצלה אחרי רעידת האדמה.",
+   "claims": [
+    "c7",
+    "c8"
+   ]
+  },
+  {
+   "text": "לפי JNS, המשלחת הייתה מהראשונות שהגיעו לטורקיה, והצליחה לחלץ 19 ניצולים מההריסות.",
+   "claims": [
+    "c11"
+   ]
+  },
+  {
+   "text": "לפי דיווח של Ynetnews, צוות חילוץ ישראלי שהגיע לאנטקיה ביום רביעי מצא את גופותיהם של שאול ופורטונה ג'נודי בהריסות ביתם.",
+   "claims": [
+    "c2"
+   ]
+  },
+  {
+   "text": "בני הזוג היו ראשי הקהילה היהודית בעיר.",
+   "claims": [
+    "c18"
+   ]
+  },
+  {
+   "text": "לפי JDN, יהודי מהקהילה הביא לכוח שתי מגילות אסתר עתיקות מבית הכנסת, ולפי מפקד צוות זק\"א הוא מסר אותן בישראל לנציג הקהילה היהודית באיסטנבול.",
+   "claims": [
+    "c32",
+    "c35",
+    "c37"
+   ]
+  }
+ ],
+ "hero_media": [
+  "m1",
+  "m2",
+  "m8",
+  "m13",
+  "m16",
+  "m23",
+  "m36"
+ ],
+ "glance": [
+  {
+   "label": "מי",
+   "value": "חיילי פיקוד העורף ומתנדבי זק\"א",
+   "claims": [
+    "c8"
+   ]
+  },
+  {
+   "label": "איפה",
+   "value": "אנטקיה וקהרמנמרש, דרום מזרח טורקיה",
+   "claims": [
+    "c2",
+    "c12",
+    "c38"
+   ]
+  },
+  {
+   "label": "חולצו בחיים",
+   "value": "19 ניצולים, לפי JNS",
+   "claims": [
+    "c11"
+   ]
+  },
+  {
+   "label": "מורשת",
+   "value": "שתי מגילות אסתר מבית הכנסת באנטקיה נשמרו",
+   "claims": [
+    "c32",
+    "c35"
+   ]
+  },
+  {
+   "label": "הכרה",
+   "value": "תעודת הערכה מנשיא טורקיה ארדואן",
+   "claims": [
+    "c57"
+   ]
+  }
+ ],
+ "stations": [
+  {
+   "id": "s1",
+   "title": "הרעידה",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "לפי JTA, ביום שני היו שתי רעידות אדמה עזות.",
+      "claims": [
+       "c67"
+      ]
+     },
+     {
+      "text": "לפי ה-Jewish Chronicle, עוצמת הרעידה הייתה 7.8.",
+      "claims": [
+       "c65"
+      ]
+     },
+     {
+      "text": "לפי כיתוב תמונה ב-Forward, היא נמדדה בעוצמה של 7.7.",
+      "claims": [
+       "c66"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "לפי ynet, מספר ההרוגים בטורקיה ובסוריה הגיע ליותר מ-16 אלף.",
+      "claims": [
+       "c61"
+      ]
+     },
+     {
+      "text": "גם המקורות האחרים מסרו מספרים שונים.",
+      "claims": [
+       "c62",
+       "c63",
+       "c64"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "לפי המכון הגאולוגי של ארצות הברית (USGS), רצף רעידות האדמה בקהרמנמרש היה בעוצמה של 7.8 וב-7.5, והוא פקד את האזור שליד נורדאגי שבטורקיה ב-6 בפברואר 2023.",
+      "claims": [
+       "c74"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m2",
+    "m20",
+    "m21",
+    "m30"
+   ],
+   "disagreements": [
+    "d2"
+   ]
+  },
+  {
+   "id": "s2",
+   "title": "בית אחד באנטקיה",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "לפי JTA, יהודים חיים בעיר, שבעת העתיקה נקראה אנטיוכיה, כמעט 2,500 שנה, מאז הקמתה בימי האימפריה הסלאוקית.",
+      "claims": [
+       "c26"
+      ]
+     },
+     {
+      "text": "לפי JTA, בשנה שקדמה לרעידה צנח מספר היהודים בעיר ל-14 בלבד, והצעיר שבהם היה מעל גיל 60.",
+      "claims": [
+       "c27"
+      ]
+     },
+     {
+      "text": "לפי JTA, בית הכנסת של הקהילה בן יותר מ-130 שנה.",
+      "claims": [
+       "c25"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "בראש הקהילה עמד שאול ג'נודי.",
+      "claims": [
+       "c3"
+      ]
+     },
+     {
+      "text": "לפי JTA, הוא נולד באנטקיה ב-1941, כשהייתה בעיר קהילה יהודית גדולה בהרבה.",
+      "claims": [
+       "c22"
+      ]
+     },
+     {
+      "text": "לפי ה-Jewish Chronicle, הוא הפעיל בעיר עסק משפחתי לטקסטיל.",
+      "claims": [
+       "c69"
+      ]
+     },
+     {
+      "text": "לפי בן דודו, הוא ואשתו פורטונה הם אנשים פשוטים וטובי לב בשנות ה-70 לחייהם.",
+      "claims": [
+       "c21"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "לפי JTA, הבניין שבו גרו בני הזוג קרס ברעידה הראשונה.",
+      "claims": [
+       "c67"
+      ]
+     },
+     {
+      "text": "לפי ynet, הם הוגדרו כנעדרים מרגע הקריסה.",
+      "claims": [
+       "c16"
+      ]
+     },
+     {
+      "text": "לפי Ynetnews, אחיו עזרא שמע קולות מתוך ההריסות והודיע לרשויות על המיקום המדויק של בני הזוג.",
+      "claims": [
+       "c19"
+      ]
+     },
+     {
+      "text": "בן הדוד יוסי סיפר ל-Ynet שעזרא זעק לעזרה כדי שיחלצו את אחיו, חי או מת, ושיזכה לפחות לקבורה ראויה.",
+      "claims": [
+       "c20"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m33"
+   ],
+   "disagreements": [
+    "d3",
+    "d4",
+    "d9"
+   ]
+  },
+  {
+   "id": "s3",
+   "title": "המשלחת בדרך",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "לפי TPS, המשלחת הישראלית מורכבת מחיילי פיקוד העורף ומחברי זק\"א.",
+      "claims": [
+       "c8"
+      ]
+     },
+     {
+      "text": "לפי TPS היו בה 150 אנשי חירום.",
+      "claims": [
+       "c7"
+      ]
+     },
+     {
+      "text": "לפי JNS, צה\"ל שלח גם 230 מומחים רפואיים ומומחי חירום כדי להקים בית חולים שדה בקהרמנמרש.",
+      "claims": [
+       "c10"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "לפי Israel National News, עצם ההגעה לאזור האסון הייתה קשה מאוד בגלל מצב הכבישים.",
+      "claims": [
+       "c12"
+      ]
+     },
+     {
+      "text": "לפי Israel National News, צוותי צה\"ל וזק\"א שפעלו לחילוץ בני הזוג ג'נודי הגיעו לאזור האסון בדרום מזרח טורקיה ביום רביעי בערב, אחרי שעצם ההגעה הייתה מאתגרת מאוד בגלל מצב הכבישים.",
+      "claims": [
+       "c12"
+      ]
+     },
+     {
+      "text": "לפי TPS, בדרך עברו חברי המשלחת בכפרים שנהרסו כליל.",
+      "claims": [
+       "c14"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "לפי וינגרטן מזק\"א, המחלצים ציפו לראות בתים הרוסים, אבל לא רחובות וכפרים שלמים בהריסות.",
+      "claims": [
+       "c53"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m5",
+    "m3",
+    "m6",
+    "m1",
+    "m4",
+    "m9",
+    "m10",
+    "m12",
+    "m17"
+   ],
+   "disagreements": [
+    "d5"
+   ]
+  },
+  {
+   "id": "s4",
+   "title": "מתחת להריסות: מי שחולצו בחיים",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "לפי ynet, כוחות פיקוד העורף חילצו בלילה גבר בן 65 מהריסות מבנה בעיר קהרמנמרש.",
+      "claims": [
+       "c38"
+      ]
+     },
+     {
+      "text": "לפי ynet, באנטקיה שבמחוז האטיי חולץ בן 79 שהיה לכוד שלושה ימים בהריסות של מבנה שקרס. הדיווח אינו מציין מי חילץ אותו.",
+      "claims": [
+       "c39"
+      ]
+     },
+     {
+      "text": "לפי ynet, הקשיש חסן יוצ'ה עטף את רגליו בפיסות בד כדי להתחמם בקור המקפיא.",
+      "claims": [
+       "c40"
+      ]
+     },
+     {
+      "text": "לפי ynet, הוא אמר למחלצים שנכדו שוכב חצי מטר ממנו ונושם, ולכן החילוץ נמשך כדי לאתר גם את הנכד.",
+      "claims": [
+       "c41",
+       "c42"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "לפי ynet, באנטקיה חולצה גם ילדה קטנה, ואביה הוצא בחיים מההריסות שעתיים לפניה. הדיווח אינו מציין מי חילץ אותם.",
+      "claims": [
+       "c43"
+      ]
+     },
+     {
+      "text": "נילי עזריאל, אחת המחלצות, סיפרה לאולפן ynet שהצוות חילץ אישה אחרי 16 שעות.",
+      "claims": [
+       "c44"
+      ]
+     },
+     {
+      "text": "היא אמרה שהיא נשארת אופטימית.",
+      "claims": [
+       "c44"
+      ]
+     },
+     {
+      "text": "לפי צה\"ל, כפי שדווח ב-Israel National News, המשלחת חילצה עשרה אנשים ביממה אחת.",
+      "claims": [
+       "c60"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "ויינגרטן אמר שכשהמחלצים מוצאים מישהו חי, זו שמחה עצומה.",
+      "claims": [
+       "c51"
+      ]
+     },
+     {
+      "text": "הוא אמר שאחרי שלושה או ארבעה ימים מתחת להריסות, הניצולים היו מתים אלמלא הגיעו המחלצים עם כלים מיוחדים שאין לאנשים במקום.",
+      "claims": [
+       "c52"
+      ]
+     },
+     {
+      "text": "הוא הוסיף שכל משלחת שחסר לה כלי מקבלת אותו ממשלחת של מדינה אחרת.",
+      "claims": [
+       "c54"
+      ]
+     },
+     {
+      "text": "לפי ynet, מומחים אומרים ש-90% מהמחולצים בחיים מרעידות אדמה יוצאים מההריסות ב-72 השעות הראשונות, ושעות אלה כבר חלפו.",
+      "claims": [
+       "c45"
+      ]
+     },
+     {
+      "text": "לפי JDN, המתנדבים המשיכו לחפש סימני חיים ולחלץ אזרחים נוספים.",
+      "claims": [
+       "c73"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m7",
+    "m15",
+    "m22",
+    "m27"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s5",
+   "title": "ליד מי ששרדו",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "לפי ynet, בעיר אדנה הקימו כוחות סיוע עמדות תה. הדיווח אינו מציין לאילו גורמים השתייכו כוחות אלה.",
+      "claims": [
+       "c46"
+      ]
+     },
+     {
+      "text": "לפי אותו דיווח, הגיעה גם משאית מזון עם פסטה, אורז ומרק ירקות לתושבים שנשארו בלי כלום.",
+      "claims": [
+       "c46"
+      ]
+     },
+     {
+      "text": "לפי ynet, לצד המשאית הוקם אוהל לעזרה רפואית ראשונה, ועשרות אוהלים משמשים בית לאזרחים.",
+      "claims": [
+       "c47"
+      ]
+     },
+     {
+      "text": "לפי ynet, במרכז העזרה הראשונה בעיר נורדאגי עוזרים כוחות ההצלה למאות פצועים ששרדו. הדיווח אינו מציין לאילו גורמים השתייכו כוחות אלה.",
+      "claims": [
+       "c49"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "ויינגרטן אמר: \"בכל מקום שהולכים רואים אבל\".",
+      "claims": [
+       "c50"
+      ]
+     },
+     {
+      "text": "לדבריו, אין מה לאכול, ומי שיצא מהבית בפיג'מה, זה כל מה שיש לו.",
+      "claims": [
+       "c50"
+      ]
+     },
+     {
+      "text": "הוא אמר שאנשים נמצאים ימים בקור, מעל ההריסות ומתחתן, ועלולים למות מהיפותרמיה.",
+      "claims": [
+       "c55"
+      ]
+     },
+     {
+      "text": "אדם בשם עבדו סיפר ל-ynet שמשפחה שלמה, שכנים שלו, הורים וארבעה ילדים, לא שרדה.",
+      "claims": [
+       "c48"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m11",
+    "m26",
+    "m31"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s6",
+   "title": "הלילה ברחוב של בני הזוג ג'נודי",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "לפי JTA, צוות של צה\"ל נשלח לכתובת של בני הזוג כחלק מהמשלחת הישראלית.",
+      "claims": [
+       "c70"
+      ]
+     },
+     {
+      "text": "לפי ynet, המחלצים פעלו שעות בתנאים קשים עד שאיתרו שתי גופות.",
+      "claims": [
+       "c17"
+      ]
+     },
+     {
+      "text": "לפי Ynetnews, הגופות חולצו במבצע מורכב, שהשתתפו בו צוות חילוץ מיוחד של חיילי צה\"ל ומתנדבי זק\"א.",
+      "claims": [
+       "c6"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "לפי JDN, הגופה של ראש הקהילה אותרה אחרי ארבעה ימים של מאמצים והגעה בדרכים מורכבות, ובתום 48 שעות של חיפושים אינטנסיביים בלילה.",
+      "claims": [
+       "c13"
+      ]
+     },
+     {
+      "text": "לפי JDN, הצוותים עבדו כל הלילה, ובסביבות השעה 04:00 הוציאו את הגופה מבין ההריסות.",
+      "claims": [
+       "c15"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "לפי Ynetnews, המשפחה עודכנה.",
+      "claims": [
+       "c71"
+      ]
+     },
+     {
+      "text": "לפי TPS, שאול ופורטונה היו הנפגעים היהודים הראשונים ברעידה.",
+      "claims": [
+       "c4"
+      ]
+     },
+     {
+      "text": "לפי הרב חיטריק, הגופות היו בדרך מאנטקיה לאיסטנבול, ושם הייתה צפויה להתקיים ההלוויה.",
+      "claims": [
+       "c68"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m14",
+    "m19",
+    "m24",
+    "m25"
+   ],
+   "disagreements": [
+    "d6",
+    "d7",
+    "d8"
+   ]
+  },
+  {
+   "id": "s7",
+   "title": "שתי מגילות אסתר",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "לפי JDN, בזמן החיפושים הגיע אל הכוח אזרח טורקי יהודי מהקהילה באנטקיה.",
+      "claims": [
+       "c32"
+      ]
+     },
+     {
+      "text": "בידיו היו שתי מגילות אסתר עתיקות, בנות מאות שנים, מבית הכנסת.",
+      "claims": [
+       "c32"
+      ]
+     },
+     {
+      "text": "לפי JDN, הוא אמר שראש הקהילה היה האחרון שהפעיל את בית הכנסת, ושעכשיו אין מי שישמור על הזיכרונות ההיסטוריים של הקהילה.",
+      "claims": [
+       "c33"
+      ]
+     },
+     {
+      "text": "לפי JDN, הוא הזכיר את הקרבה לסוריה ואת החשש שהמגילות ייפלו לידיים הלא נכונות.",
+      "claims": [
+       "c34"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "לפי JDN, המגילות נשמרו בידי משלחת זק\"א, בתיאום עם רב הקהילה היהודית באיסטנבול, הרב מנדי חיטריק.",
+      "claims": [
+       "c35"
+      ]
+     },
+     {
+      "text": "לפי מפקד צוות זק\"א, הן נשמרו כדי שמורשת הקהילה היהודית באנטקיה תמשיך להתקיים גם אחרי שהקהילה, בת 2,300 שנה, נחרבה.",
+      "claims": [
+       "c36"
+      ]
+     },
+     {
+      "text": "לדבריו, מיד כשחזר לארץ הוא מסר בהתרגשות את המגילות לנציג הקהילה היהודית באיסטנבול שהגיע לישראל.",
+      "claims": [
+       "c37"
+      ]
+     }
+    ]
+   ],
+   "media": [],
+   "disagreements": [
+    "d9"
+   ]
+  },
+  {
+   "id": "s8",
+   "title": "הכרה, ומה שנאמר על האנשים",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "לפי JNS, תעודת הערכה מנשיא טורקיה ארדואן הוגשה למפקד יחידת החילוץ הלאומית של צה\"ל, גולן ווך.",
+      "claims": [
+       "c57"
+      ]
+     },
+     {
+      "text": "לפי JNS, היא הוגשה ביום הזיכרון, שחל מדי שנה יום לפני יום העצמאות.",
+      "claims": [
+       "c72"
+      ]
+     },
+     {
+      "text": "ראש הממשלה נתניהו אמר למחלצים שהם הביאו כבוד גדול למדינת ישראל.",
+      "claims": [
+       "c58"
+      ]
+     },
+     {
+      "text": "סגן שגריר ישראל בטורקיה, נדב מרקמן, אמר שחברי המשלחת פעלו באומץ ובמקצועיות.",
+      "claims": [
+       "c59"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "אלה, אחייניתו של סאול ג'נודי, נולדה וגדלה באנטקיה.",
+      "claims": [
+       "c23"
+      ]
+     },
+     {
+      "text": "היא סיפרה ל-JTA שהוא היה מנהיג בעל חזון, המחויב לקהילה היהודית ולערכיה.",
+      "claims": [
+       "c23"
+      ]
+     },
+     {
+      "text": "הרב מנדי חיטריק מאיסטנבול אמר ל-JTA שהוא היה עמוד תווך של הקהילה היהודית העתיקה של אנטקיה.",
+      "claims": [
+       "c24"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "לפי וינגרטן, שאר יהודי אנטקיה התפזרו בטורקיה, רובם לאיסטנבול.",
+      "claims": [
+       "c31"
+      ]
+     },
+     {
+      "text": "לפי ה-Jewish Chronicle, הם פונו לאיסטנבול מיד אחרי הרעידה, ובכך הסתיימה היסטוריה בת 2,500 שנה.",
+      "claims": [
+       "c30"
+      ]
+     },
+     {
+      "text": "נשיא הקהילה היהודית בטורקיה, יצחק איברהימזאדה, כתב בטוויטר שזהו סופו של סיפור אהבה בן 2,500 שנה.",
+      "claims": [
+       "c29"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "ויינגרטן אמר שבישראל יש 60,000 עד 80,000 בתים שאינם מחוזקים, ושהוא חושש מאוד.",
+      "claims": [
+       "c56"
+      ]
+     }
+    ]
+   ],
+   "media": [],
+   "disagreements": []
+  }
+ ],
+ "disagreements": [
+  {
+   "id": "d2",
+   "question": "כמה אנשים נהרגו ברעידה?",
+   "versions": [
+    {
+     "says": "לפי ynet: יותר מ-16 אלף בטורקיה ובסוריה",
+     "claims": [
+      "c61"
+     ]
+    },
+    {
+     "says": "לפי Ynetnews: יותר מ-15,000 בטורקיה ובסוריה",
+     "claims": [
+      "c62"
+     ]
+    },
+    {
+     "says": "לפי TPS: המספר הרשמי עבר את 20,000 בליל חמישי",
+     "claims": [
+      "c63"
+     ]
+    },
+    {
+     "says": "לפי ה-Jewish Chronicle: 22,368 במצטבר",
+     "claims": [
+      "c64"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d3",
+   "question": "כמה יהודים היו בקהילה באנטקיה?",
+   "versions": [
+    {
+     "says": "לפי JTA: 14 יהודים בשנה שלפני הרעידה",
+     "claims": [
+      "c27"
+     ]
+    },
+    {
+     "says": "לפי וינגרטן מזק\"א: 11 משפחות קטנות מאוד",
+     "claims": [
+      "c28"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d4",
+   "question": "בני כמה היו בני הזוג ג'נודי?",
+   "versions": [
+    {
+     "says": "לפי בן הדוד: בשנות ה-70 לחייהם",
+     "claims": [
+      "c21"
+     ]
+    },
+    {
+     "says": "לפי JTA: סאול ג'נודי נולד ב-1941",
+     "claims": [
+      "c22"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d5",
+   "question": "כמה אנשים מנתה המשלחת הישראלית?",
+   "versions": [
+    {
+     "says": "לפי TPS: 150 אנשי חירום",
+     "claims": [
+      "c7"
+     ]
+    },
+    {
+     "says": "לפי JTA: יותר מ-500 מחלצים ישראלים",
+     "claims": [
+      "c9"
+     ]
+    },
+    {
+     "says": "לפי JNS: 230 מומחים רפואיים ומומחי חירום לבית החולים השדה, ועוד 150 אנשי פיקוד העורף",
+     "claims": [
+      "c10"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d6",
+   "question": "באיזה יום נמצאו הגופות?",
+   "versions": [
+    {
+     "says": "לפי Ynetnews: הצוות הגיע ביום רביעי ומצא את הגופות, וראש הקהילה נמצא מת יחד עם אשתו ביום חמישי",
+     "claims": [
+      "c1",
+      "c2"
+     ]
+    },
+    {
+     "says": "לפי TPS: הגופות נמצאו ביום רביעי",
+     "claims": [
+      "c4"
+     ]
+    },
+    {
+     "says": "לפי JTA: מותו של שאול אושר ביום שישי, יום אחרי שגופת אשתו הוצאה מההריסות",
+     "claims": [
+      "c3"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d7",
+   "question": "האם שתי הגופות הוצאו יחד?",
+   "versions": [
+    {
+     "says": "לפי Ynetnews: שתי הגופות הוצאו במבצע מורכב אחד",
+     "claims": [
+      "c6",
+      "c71"
+     ]
+    },
+    {
+     "says": "לפי Forward: מותה של פורטונה אושר ביום חמישי בבוקר, וגורלו של שאול עדיין לא היה ידוע",
+     "claims": [
+      "c5"
+     ]
+    },
+    {
+     "says": "לפי JTA: גופת אשתו הוצאה יום לפני שמותו אושר",
+     "claims": [
+      "c3"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d8",
+   "question": "כמה זמן נמשכו החיפושים אחרי בני הזוג?",
+   "versions": [
+    {
+     "says": "לפי JDN: ארבעה ימים של מאמצים, ובסופם 48 שעות של חיפושים בלילה",
+     "claims": [
+      "c13"
+     ]
+    },
+    {
+     "says": "לפי ynet: שעות של עבודה בתנאים קשים",
+     "claims": [
+      "c17"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9",
+   "question": "בת כמה שנים הייתה הקהילה היהודית באנטקיה?",
+   "versions": [
+    {
+     "says": "לפי JTA: כמעט 2,500 שנה",
+     "claims": [
+      "c26"
+     ]
+    },
+    {
+     "says": "לפי מפקד צוות זק\"א: 2,300 שנה",
+     "claims": [
+      "c36"
+     ]
+    }
+   ]
+  }
+ ],
+ "unknowns": [
+  {
+   "text": "לא ידוע אם הנכד של חסן יוצ'ה נמצא",
+   "claims": [
+    "c41",
+    "c42"
+   ]
+  },
+  {
+   "text": "לא ידוע מה שמו של האזרח היהודי שהביא את המגילות",
+   "claims": [
+    "c32"
+   ]
+  },
+  {
+   "text": "לא ידוע אם ההלוויה באיסטנבול התקיימה",
+   "claims": [
+    "c68"
+   ]
+  }
+ ],
+ "claims": [
+  {
+   "id": "c7",
+   "text": "לפי TPS, משלחת של 150 אנשי חירום ישראלים נמצאת בטורקיה ומסייעת במאמצי חיפוש והצלה.",
+   "source": "src1",
+   "quote": "A delegation of 150 Israeli emergency workers are in Turkey assisting in search and rescue efforts.",
+   "status": "confirmed",
+   "locator": "שורה 29"
+  },
+  {
+   "id": "c8",
+   "text": "לפי TPS, המשלחת מורכבת מחיילי פיקוד העורף הישראלי ומחברי זק\"א, ארגון ההתנדבות הישראלי לתגובת חירום.",
+   "source": "src1",
+   "quote": "The delegation is made up of Israeli Homefront Command soldiers and members of ZAKA, Israel’s volunteer emergency response organization.",
+   "status": "confirmed",
+   "locator": "שורה 29"
+  },
+  {
+   "id": "c11",
+   "text": "לפי JNS, המשלחת הישראלית הייתה מהראשונות שהגיעו לטורקיה והצליחה לחלץ 19 ניצולים מההריסות.",
+   "source": "src2",
+   "quote": "The Israeli delegation was one of the first to arrive in Turkey and succeeded in rescuing 19 survivors from the ruins.",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c2",
+   "text": "לפי Ynetnews, צוות חילוץ ישראלי שהגיע לאנטקיה ביום רביעי מצא את גופותיהם של שאול ופורטונה ג'נודי בהריסות ביתם.",
+   "source": "src3",
+   "quote": "An Israeli rescue team that arrived in Antakya, Turkey on Wednesday found the bodies of Shaul and Fortuna Cenudioglu inside of the rubble of their home",
+   "status": "confirmed",
+   "locator": "שורה 40"
+  },
+  {
+   "id": "c18",
+   "text": "לפי ynet, צוות החילוץ איתר שתי גופות במקום שבו נערכו חיפושים אחרי בני הזוג שאול ופורטונה ג'נודי, ראשי הקהילה היהודית בעיר.",
+   "source": "src4",
+   "quote": "איתר שתי גופות במקום שבו נערכו חיפושים אחרי בני הזוג שאול ופורטונה ג'נודי, ראשי הקהילה היהודית בעיר",
+   "status": "confirmed",
+   "locator": "שורה 117"
+  },
+  {
+   "id": "c32",
+   "text": "לפי JDN, במהלך החיפושים הגיע אל הכוח אזרח טורקי יהודי מהקהילה באנטקיה ובידיו שתי מגילות אסתר עתיקות בנות מאות שנים מבית הכנסת.",
+   "source": "src5",
+   "quote": "הגיע אל הכוח אזרח טורקי יהודי מהקהילה היהודית באנטקיה, ובידיו ממצא היסטורי שהוחזק בבית הכנסת בקהילה: שתי מגילות אסתר עתיקות בנות מאות שנים.",
+   "status": "confirmed",
+   "locator": "שורה 263"
+  },
+  {
+   "id": "c35",
+   "text": "לפי JDN, בתיאום עם רב הקהילה היהודית באיסטנבול, הרב מנדי חיטריק, המגילות נשמרו בידי משלחת זק\"א.",
+   "source": "src5",
+   "quote": "בתאום עם רב הקהילה היהודית באיסטנבול הרב מנדי חיטריק נשמרו המגילות בידי משלחת",
+   "status": "confirmed",
+   "locator": "שורה 266"
+  },
+  {
+   "id": "c37",
+   "text": "לפי מפקד צוות זק\"א, מיד אחרי החזרה לארץ הוא מסר בהתרגשות את המגילות לנציג הקהילה היהודית באיסטנבול שהגיע לישראל.",
+   "source": "src5",
+   "quote": "מיד לאחר חזרתנו ארצה פגשתי בנציג הקהילה היהודית באיסטנבול שהגיע לארץ ומסרתי לו בהתרגשות גדולה את המגילות והזיכרון שנותר מהקהילה",
+   "status": "confirmed",
+   "locator": "שורה 267"
+  },
+  {
+   "id": "c12",
+   "text": "לפי Israel National News, עצם ההגעה לאזור האסון בדרום מזרח טורקיה הייתה מאתגרת מאוד בגלל מצב הכבישים, והצוותים הגיעו אליו ביום רביעי בערב.",
+   "source": "src6",
+   "quote": "Simply reaching the disaster-struck region in southeastern Turkey proved hugely challenging given the state of the roads, but the teams finally reached there on Wednesday evening.",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c38",
+   "text": "לפי ynet, כוחות פיקוד העורף חילצו בחיים בלילה גבר בן 65 מהריסות מבנה בעיר קהרמנמרש.",
+   "source": "src4",
+   "quote": "הלילה (רביעי) כוחות החילוץ של פיקוד העורף חילצו בחיים גבר בן 65, שאותר בהריסות מבנה בעיר קרמנמרש שבטורקיה.",
+   "status": "confirmed",
+   "locator": "שורה 115"
+  },
+  {
+   "id": "c57",
+   "text": "לפי JNS, תעודת הערכה מנשיא טורקיה ארדואן הוגשה ביום שלישי למפקד יחידת החילוץ הלאומית של צה\"ל, גולן ווך.",
+   "source": "src2",
+   "quote": "A certificate of appreciation from Turkish President Recep Tayyip Erdogan was presented on Tuesday to the commander of the Israel Defense Forces’ National Rescue Unit, Col. (Ret.) Golan Vach",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c4",
+   "text": "לפי TPS, גופות שאול ואשתו פורטונה נמצאו בהריסות ביום רביעי והיו הנפגעים היהודים הראשונים ברעידה.",
+   "source": "src1",
+   "quote": "The bodies of Saul and his wife, Fortuna, were found in the rubble on Wednesday, becoming the earthquake’s first Jewish casualties.",
+   "status": "confirmed",
+   "locator": "שורה 38"
+  },
+  {
+   "id": "c67",
+   "text": "לפי JTA, סאול ופורטונה נהרגו כשבניינם קרס ברעידה הראשונה מבין שתי רעידות עזות ביום שני.",
+   "source": "src7",
+   "quote": "Saul and Fortuna Cenudioglu were killed when their building collapsed in the first of two massive earthquakes that struck southeastern Turkey on Monday, sparking a humanitarian disaster.",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c65",
+   "text": "לפי ה-Jewish Chronicle, הרעידה הייתה בעוצמה של 7.8.",
+   "source": "src8",
+   "quote": "Saul and Fortuna Cenudioğlu were killed after a giant 7.8 magnitude quake hit Turkey and Syria in the early hours of Monday morning.",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c66",
+   "text": "לפי כיתוב התמונה ב-Forward, הרעידה נמדדה בעוצמה של 7.7.",
+   "source": "src9",
+   "quote": "The earthquake was measured at 7.7 magnitude.",
+   "status": "confirmed",
+   "locator": "שורה 1"
+  },
+  {
+   "id": "c61",
+   "text": "לפי ynet, מספר ההרוגים בטורקיה ובסוריה הגיע ליותר מ-16 אלף.",
+   "source": "src4",
+   "quote": "מספר ההרוגים בטורקיה ובסוריה כבר הגיע ליותר מ-16 אלף",
+   "status": "confirmed",
+   "locator": "שורה 80"
+  },
+  {
+   "id": "c62",
+   "text": "לפי Ynetnews, הרעידה והאחזור הרגו יותר מ-15,000 בטורקיה ובסוריה.",
+   "source": "src10",
+   "quote": "and series of aftershocks that hit Turkey and Syria, killing more than 15,000.",
+   "status": "confirmed",
+   "locator": "שורה 49"
+  },
+  {
+   "id": "c63",
+   "text": "לפי TPS, מספר ההרוגים הרשמי בטורקיה ובסוריה עבר את 20,000 בליל חמישי.",
+   "source": "src1",
+   "quote": "The official death toll from Turkey and Syria passed 20,000 on Thursday night.",
+   "status": "confirmed",
+   "locator": "שורה 48"
+  },
+  {
+   "id": "c64",
+   "text": "לפי ה-Jewish Chronicle, מספר ההרוגים המצטבר בטורקיה ובסוריה עומד על 22,368.",
+   "source": "src8",
+   "quote": "The combined death toll in Turkey and Syria now stands at 22,368.",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c26",
+   "text": "לפי JTA, יהודים חיים בעיר, שנקראה בעת העתיקה אנטיוכיה, כמעט 2,500 שנה, מאז הקמתה בימי האימפריה הסלאוקית.",
+   "source": "src7",
+   "quote": "Jews have been present in the city, known in antiquity as Antioch, for nearly 2,500 years, since its founding under the Seleucid Empire.",
+   "status": "confirmed",
+   "locator": "שורה 15"
+  },
+  {
+   "id": "c27",
+   "text": "לפי JTA, בשנה שעברה מספר היהודים בעיר צנח ל-14 בלבד, והצעיר שבהם מעל גיל 60.",
+   "source": "src7",
+   "quote": "by last year their number had dwindled to only 14, the youngest of whom was over 60.",
+   "status": "confirmed",
+   "locator": "שורה 16"
+  },
+  {
+   "id": "c25",
+   "text": "לפי JTA, בבית הכנסת של הקהילה, בן יותר מ-130 שנה, נמצא נזק חמור.",
+   "source": "src7",
+   "quote": "the community’s more than 130-year-old synagogue in a severely damaged state",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c3",
+   "text": "לפי JTA, מותו של שאול ג'נודי, נשיא הקהילה היהודית הקטנה באנטקיה, אושר ביום שישי, יום אחרי שגופת אשתו הוצאה מההריסות.",
+   "source": "src7",
+   "quote": "Saul Cenudioglu, the president of the small Jewish community in Antakya, Turkey, was confirmed dead on Friday, a day after his wife’s body had been pulled from the wreckage of their apartment building.",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c22",
+   "text": "לפי JTA, סאול ג'נודי נולד באנטקיה ב-1941, כשהיה בעיר קהילה יהודית גדולה בהרבה.",
+   "source": "src7",
+   "quote": "Saul Cenudioglu was born in Antakya in 1941, back when the city had a much larger Jewish community.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c69",
+   "text": "לפי ה-Jewish Chronicle, ג'נודי חי באנטקיה מאז לידתו ב-1941 והפעיל עסק משפחתי לטקסטיל.",
+   "source": "src8",
+   "quote": "Mr Cenudioğlu has lived in Antakya since his birth in 1941 and operated a family textiles business.",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c21",
+   "text": "לפי בן דודו, בני הזוג הם אנשים פשוטים וטובי לב בשנות ה-70 לחייהם, והקור במקום עז.",
+   "source": "src10",
+   "quote": "simple, kind people in their 70s, and it's freezing cold over there",
+   "status": "confirmed",
+   "locator": "שורה 55"
+  },
+  {
+   "id": "c16",
+   "text": "לפי ynet, צוות החילוץ הגיע לבניין שקרס ברעידה, שבו התגוררו ראש הקהילה היהודית ורעייתו, שהוגדרו כנעדרים מרגע הקריסה.",
+   "source": "src4",
+   "quote": "צוות החילוץ הגיע לבניין שקרס ברעידה, שבו התגוררו ראש הקהילה היהודית ורעייתו שהוגדרו כנעדרים מרגע הקריסה.",
+   "status": "confirmed",
+   "locator": "שורה 118"
+  },
+  {
+   "id": "c19",
+   "text": "לפי Ynetnews, אחיו של סאול, עזרא, הודיע לרשויות על המיקום המדויק של בני הזוג לאחר ששמע קולות מתוך ההריסות.",
+   "source": "src10",
+   "quote": "Cenudioglu's brother, Ezra, who the one who alerted the authorities of the exact location of the couple after hearing voices emerging from the rubble.",
+   "status": "confirmed",
+   "locator": "שורה 53"
+  },
+  {
+   "id": "c20",
+   "text": "בן דודו יוסי סיפר ל-Ynet שעזרא זעק לעזרה כדי לחלץ את אחיו, חי או מת, כדי שיזכה לפחות לקבורה ראויה.",
+   "source": "src10",
+   "quote": "his brother Ezra was crying out for help to retrieve his brother dead or alive, so at least he would be granted proper burial!",
+   "status": "confirmed",
+   "locator": "שורה 54"
+  },
+  {
+   "id": "c10",
+   "text": "לפי JNS, צה\"ל שלח 230 מומחים רפואיים ומומחי חירום להקמת בית חולים שדה בקהרמנמרש, בנוסף לצוות של 150 אנשי פיקוד העורף.",
+   "source": "src2",
+   "quote": "The IDF sent 230 medical and emergency response experts to set up a field hospital in Kahramanmaraş, in addition to a 150-member Home Front Command team.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c14",
+   "text": "לפי TPS, חברי המשלחת עברו בדרכם בכפרים שנהרסו כליל ובמאות משפחות שנהרסו לחלוטין.",
+   "source": "src1",
+   "quote": "The members of the delegation traveled along a route until they reached their destination, they passed villages that were completely destroyed, hundreds of families that were completely destroyed.",
+   "status": "confirmed",
+   "locator": "שורה 36"
+  },
+  {
+   "id": "c53",
+   "text": "לפי ויינגרטן, המחלצים הישראלים ציפו לראות בתים הרוסים אך לא רחובות וכפרים שלמים בהריסות.",
+   "source": "src1",
+   "quote": "the Israeli rescuers expected to see destroyed houses, but not entire streets and villages in ruins",
+   "status": "confirmed",
+   "locator": "שורה 35"
+  },
+  {
+   "id": "c39",
+   "text": "לפי ynet, באנטקיה שבמחוז האטיי חולץ בן 79 שהיה לכוד שלושה ימים בין הריסות מבנה שקרס.",
+   "source": "src4",
+   "quote": "חילוץ מרגש אירע באנטקיה שבמחוז האטיי, שם חולץ בן 79, שגם הוא היה לכוד שלושה ימים בין הריסות מבנה שקרס.",
+   "status": "confirmed",
+   "locator": "שורה 120"
+  },
+  {
+   "id": "c40",
+   "text": "לפי ynet, הקשיש חסן יוצ'ה עטף את רגליו בפיסות בד כדי להתחמם בקור המקפיא.",
+   "source": "src4",
+   "quote": "הקשיש, חסן יוצ'ה, עטף פיסות בד על רגליו כדי להתחמם בקור המקפיא.",
+   "status": "confirmed",
+   "locator": "שורה 121"
+  },
+  {
+   "id": "c41",
+   "text": "לפי ynet, יוצ'ה אמר למחלצים שנכדו היה חצי מטר ממנו ונשם.",
+   "source": "src4",
+   "quote": "יש לי נכד חצי מטר מהמקום שמצאתם אותי, הוא נשם",
+   "status": "confirmed",
+   "locator": "שורה 124"
+  },
+  {
+   "id": "c42",
+   "text": "לפי ynet, בעקבות דבריו נמשכו פעולות החילוץ במטרה לאתר את הנכד.",
+   "source": "src4",
+   "quote": "בעקבות זאת נמשכו פעולות החילוץ, במטרה לאתר את הנכד.",
+   "status": "confirmed",
+   "locator": "שורה 125"
+  },
+  {
+   "id": "c43",
+   "text": "לפי ynet, באנטקיה חולצה ילדה קטנה, ואביה הוצא בחיים מההריסות שעתיים קודם.",
+   "source": "src4",
+   "quote": "חדשות טובות נוספות מאנטקיה הגיעו בדמות חילוץ של ילדה קטנה, שאביה הוצא בחיים מההריסות שעתיים לפני כן.",
+   "status": "confirmed",
+   "locator": "שורה 126"
+  },
+  {
+   "id": "c44",
+   "text": "נילי עזריאל, מבין המחלצים, סיפרה לאולפן ynet שחילצו אישה אחרי 16 שעות והיא נשארת אופטימית.",
+   "source": "src4",
+   "quote": "חילצנו אישה אחרי 16 שעות. אני אופטימית עד שיגידו לנו להפסיק. אני מאמינה שעוד נצליח למצוא אנשים בחיים",
+   "status": "confirmed",
+   "locator": "שורה 92"
+  },
+  {
+   "id": "c60",
+   "text": "לפי צה\"ל, כך דווח ב-Israel National News, המשלחת ההומניטרית חילצה עשרה אנשים ביממה האחרונה.",
+   "source": "src6",
+   "quote": "According to the IDF, the humanitarian aid delegation has so far rescued ten people in the disaster-stricken area over the past day.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c51",
+   "text": "ויינגרטן אמר שכשהמחלצים מוצאים מישהו חי זו שמחה עצומה.",
+   "source": "src1",
+   "quote": "the rescuers, when they find someone alive, is an incredible joy",
+   "status": "confirmed",
+   "locator": "שורה 33"
+  },
+  {
+   "id": "c52",
+   "text": "ויינגרטן אמר שאחרי שלושה-ארבעה ימים מתחת להריסות הנצולים היו מתים לולא המחלצים שהגיעו עם כלים מיוחדים שאין להם.",
+   "source": "src1",
+   "quote": "After three to four days under the ruins he would have died for sure if you hadn’t come because you came with special tools that they don’t have, and you saved them",
+   "status": "confirmed",
+   "locator": "שורה 33"
+  },
+  {
+   "id": "c54",
+   "text": "ויינגרטן הדגיש את שיתוף הפעולה בין צוותי סיוע ממדינות שונות: כל משלחת שחסר לה כלי מביאה אחרת.",
+   "source": "src1",
+   "quote": "Each one tries to help the other do the best in order to save one more soul",
+   "status": "confirmed",
+   "locator": "שורה 42"
+  },
+  {
+   "id": "c45",
+   "text": "לפי ynet, מומחים אומרים ש-90% מהמחולצים בחיים מרעידות אדמה מחולצים ב-72 השעות הראשונות, והן כבר חלפו.",
+   "source": "src4",
+   "quote": "אבל מומחים אומרים ש-90% המחולצים בחיים מרעידות אדמה מחולצים ב-72 השעות הראשונות - ואלו כבר חלפו.",
+   "status": "confirmed",
+   "locator": "שורה 136"
+  },
+  {
+   "id": "c73",
+   "text": "לפי JDN, מתנדבי המשלחת הישראלית המשיכו במאמצים לאתר סימני חיים ולחלץ אזרחים נוספים מההריסות.",
+   "source": "src11",
+   "quote": "בשלב זה ממשיכים מתנדבי המשלחת הישראלית בטורקיה במאמצים לאיתור סימני חיים וחילוץ אזרחים נוספים מתוך ההריסות.",
+   "status": "confirmed",
+   "locator": "שורה 21"
+  },
+  {
+   "id": "c46",
+   "text": "לפי ynet, בעיר אדנה כוחות סיוע הקימו עמדות תה והגיעה משאית מזון עם פסטה, אורז ומרק ירקות לתושבים שנותרו ללא כלום.",
+   "source": "src4",
+   "quote": "כוחות הסיוע הקימו עמדות תה, ומשאית עם מזון הגיעה לרחוב כדי לספק מנות פסטה, אורז ומרק ירקות לתושבים שנותרו ללא כלום.",
+   "status": "confirmed",
+   "locator": "שורה 153"
+  },
+  {
+   "id": "c47",
+   "text": "לפי ynet, לצד משאית האוכל הוקם אוהל לסיוע רפואי ראשוני ועשרות אוהלים שמשמשים בית לאזרחים.",
+   "source": "src4",
+   "quote": "לצד משאית האוכל הוקם אוהל לסיוע רפואי ראשוני, כשלצידו הוקמו עשרות אוהלים שמשמשים בית לאזרחים חסרי האונים.",
+   "status": "confirmed",
+   "locator": "שורה 154"
+  },
+  {
+   "id": "c49",
+   "text": "לפי ynet, במרכז העזרה הראשונה בעיר נורדאגי כוחות ההצלה מסייעים למאות פצועים ששרדו.",
+   "source": "src4",
+   "quote": "במרכז העזרה הראשונה בעיר נורדאגי מסייעים כוחות ההצלה למאות הפצועים ששרדו את התופת.",
+   "status": "confirmed",
+   "locator": "שורה 142"
+  },
+  {
+   "id": "c50",
+   "text": "ויינגרטן מזק\"א אמר ש\"בכל מקום שהולכים רואים אבל\", ואין מה לאכול לאנשים שרק בפיג'מה יצאו מהבית.",
+   "source": "src1",
+   "quote": "Wherever you go, you see mourning. People who see all their loved ones disappear. Fear in the eyes, fear of the future. There is nothing to eat.",
+   "status": "confirmed",
+   "locator": "שורה 31"
+  },
+  {
+   "id": "c55",
+   "text": "ויינגרטן אמר שאנשים נמצאים בקור ימים מעל ומתחת להריסות ועלולים למות מהיפותרמיה.",
+   "source": "src1",
+   "quote": "People are in the cold for days under and above the ruins. They will die from hypothermia",
+   "status": "confirmed",
+   "locator": "שורה 44"
+  },
+  {
+   "id": "c48",
+   "text": "אדם בשם עבדו סיפר ל-ynet שמשפחה שלמה של הורים וארבעה ילדים, שכנים שלו, לא שרדה.",
+   "source": "src4",
+   "quote": "משפחה שלמה של הורים וארבעה ילדים לא שרדה.",
+   "status": "confirmed",
+   "locator": "שורה 171"
+  },
+  {
+   "id": "c70",
+   "text": "לפי JTA, גופת פורטונה נמצאה בידי צוות של צה\"ל שנשלח לכתובת בני הזוג כחלק מהמשלחת הישראלית.",
+   "source": "src7",
+   "quote": "Fortuna’s body was found by a team from the Israel Defense Forces that was combing the devastated city as part of the Israeli relief delegation and had been dispatched to the Cenudioglus’ address.",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c17",
+   "text": "לפי ynet, המחלצים פעלו בתנאים קשים במשך שעות עד לאיתור שתי הגופות.",
+   "source": "src4",
+   "quote": "המחלצים פעלו בתנאים קשים במשך שעות, עד לאיתור שתי הגופות.",
+   "status": "confirmed",
+   "locator": "שורה 119"
+  },
+  {
+   "id": "c6",
+   "text": "לפי Ynetnews, הגופות חולצו במבצע מורכב שכלל צוות חילוץ מיוחד של חיילי צה\"ל ומתנדבי זק\"א.",
+   "source": "src10",
+   "quote": "The bodies were recovered following a complex operation that included the special search-and-rescue team made up of IDF soldiers and ZAKA volunteers.",
+   "status": "confirmed",
+   "locator": "שורה 52"
+  },
+  {
+   "id": "c13",
+   "text": "לפי JDN, אחרי ארבעה ימים של מאמצים והגעה בדרכים מורכבות, ובתום 48 שעות של חיפושים אינטנסיביים בלילה, אותרה גופת ראש הקהילה באנטקיה.",
+   "source": "src11",
+   "quote": "לאחר ארבעה ימים של מאמצים וניסיונות הגעה בדרכים מורכבות, ובתום 48 שעות של חיפושים אינטנסיביים בשעות הלילה אותרה גופתו של ראש הקהילה באנטקיה שבטורקיה",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c15",
+   "text": "לפי JDN, הצוותים עמלו כל הלילה, ועד סמוך לשעה 04:00 הצליחו לחלץ את גופת ראש הקהילה מבין ההריסות.",
+   "source": "src11",
+   "quote": "במשך כל שעות הלילה עמלו הצוותים במקום להוצאת גופתו וסמוך לשעה 04:00 הצליחו לחלץ את גופתו מבין ההריסות",
+   "status": "confirmed",
+   "locator": "שורה 19"
+  },
+  {
+   "id": "c71",
+   "text": "לפי Ynetnews, הגופות הוצאו מההריסות במבצע מורכב והמשפחה עודכנה.",
+   "source": "src3",
+   "quote": "The bodies were removed from the wreckage in a complex operation and the family has been notified.",
+   "status": "confirmed",
+   "locator": "שורה 41"
+  },
+  {
+   "id": "c68",
+   "text": "לפי הרב חיטריק, גופות בני הזוג בדרך מאנטקיה לאיסטנבול, שם צפויה להתקיים הלוויה.",
+   "source": "src8",
+   "quote": "The couple’s bodies are currently on their way from Antakya to Istanbul, where a funeral is set to take place, Rabbi Mendy Chitrik told the JC.",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c33",
+   "text": "לפי JDN, האזרח אמר שראש הקהילה היה האחרון שהפעיל את בית הכנסת, ועכשיו אין מי שישמור על הזיכרונות ההיסטוריים של הקהילה.",
+   "source": "src5",
+   "quote": "ראש הקהילה היה האחרון שהפעיל את בית הכנסת, עכשיו שנפטר אין מי שישמור על הזכרונות ההיסטורים של הקהילה",
+   "status": "confirmed",
+   "locator": "שורה 264"
+  },
+  {
+   "id": "c34",
+   "text": "לפי JDN, האזרח ציין את הקרבה לסוריה ואת החשש שהמגילות ייפלו לידיים הלא נכונות.",
+   "source": "src5",
+   "quote": "לאור הקרבה שלנו לסוריה והפחד שהמגילות האלה יפלו לידיים הלא נכונות",
+   "status": "confirmed",
+   "locator": "שורה 264"
+  },
+  {
+   "id": "c36",
+   "text": "לפי מפקד צוות זק\"א, המגילות נשמרו כדי שמורשת הקהילה היהודית באנטקיה תמשיך להתקיים גם לאחר שהקהילה בת 2300 השנים נחרבה.",
+   "source": "src5",
+   "quote": "על מנת שהמורשת של הקהילה היהודית באנטקיה תמשיך להתקיים גם לאחר שהקהילה בת 2300 שנים נחרבה",
+   "status": "confirmed",
+   "locator": "שורה 267"
+  },
+  {
+   "id": "c72",
+   "text": "לפי JNS, תעודת ההערכה מארדואן הוגשה ביום הזיכרון, הנחגג מדי שנה יום לפני יום העצמאות.",
+   "source": "src2",
+   "quote": "The certificate from Erdogan was presented on Memorial Day, which is observed every year the day before Independence Day.",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c58",
+   "text": "ראש ממשלת ישראל נתניהו אמר למחלצים שהם הביאו כבוד גדול למדינת ישראל.",
+   "source": "src2",
+   "quote": "You went on behalf of the country and you brought great honor to the State of Israel.",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c59",
+   "text": "סגן שגריר ישראל בטורקיה, נדב מרקמן, אמר שחברי המשלחת פעלו באומץ ובמקצועיות.",
+   "source": "src2",
+   "quote": "The members of the Israeli delegation acted bravely and professionally.",
+   "status": "confirmed",
+   "locator": "שורה 15"
+  },
+  {
+   "id": "c23",
+   "text": "אחייניתו אלה, שנולדה וגדלה באנטקיה, סיפרה ל-JTA שהיה מנהיג בעל חזון המחויב לקהילה היהודית ולערכיה.",
+   "source": "src7",
+   "quote": "visionary leader committed to the Jewish community and the values it represents",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c24",
+   "text": "הרב מנדי חיטריק מאיסטנבול אמר ל-JTA שסאול ג'נודי היה עמוד תווך של הקהילה היהודית העתיקה של אנטקיה.",
+   "source": "src7",
+   "quote": "Our friend Saul Cenudi was a pillar of the ancient Jewish community of Antakya",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c31",
+   "text": "לפי וינגרטן, שאר יהודי אנטקיה התפזרו בטורקיה, ברובם לאיסטנבול.",
+   "source": "src1",
+   "quote": "all of them dispersed in Turkey,” mostly to Istanbul, Weingarten said",
+   "status": "confirmed",
+   "locator": "שורה 39"
+  },
+  {
+   "id": "c30",
+   "text": "לפי ה-Jewish Chronicle, שאר יהודי העיר פונו לאיסטנבול מיד אחרי הרעידה, ובכך הסתיימה היסטוריה בת 2,500 שנה.",
+   "source": "src8",
+   "quote": "The remainder of the city’s Jewish community were evacuated to Istanbul in the quake’s immediate aftermath, ending a 2,500 year history.",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c29",
+   "text": "נשיא הקהילה היהודית בטורקיה, יצחק איברהימזאדה, כתב בטוויטר שזהו סופו של סיפור אהבה בן 2500 שנה.",
+   "source": "src9",
+   "quote": "The end of a 2500 year old love story,” the Turkish Jewish Community’s president, Ishak Ibrahimzade wrote on Twitter.",
+   "status": "confirmed",
+   "locator": "שורה 15"
+  },
+  {
+   "id": "c56",
+   "text": "ויינגרטן אמר שבישראל יש 60,000-80,000 בתים שאינם מחוזקים, ושהוא חושש מאוד.",
+   "source": "src1",
+   "quote": "We in Israel know that we are not ready for the next earth disaster. There are 60,000-80,000 houses that are not reinforced.",
+   "status": "confirmed",
+   "locator": "שורה 47"
+  },
+  {
+   "id": "c28",
+   "text": "לפי וינגרטן מזק\"א, הקהילה היהודית באנטקיה הייתה קהילה של 11 משפחות קטנות מאוד בראשות סאול ג'נודי.",
+   "source": "src1",
+   "quote": "a community of 11 really small families,” led by Saul Cenudioglu",
+   "status": "confirmed",
+   "locator": "שורה 38"
+  },
+  {
+   "id": "c9",
+   "text": "לפי JTA, יותר מ-500 מחלצים ישראלים הגיעו לטורקיה ופועלים לצד יותר מ-30,000 עובדי הצלה.",
+   "source": "src7",
+   "quote": "Over 500 Israeli rescue workers have arrived in Turkey and are working alongside the more than 30,000 relief workers who have descended on the affected zone since Monday.",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c1",
+   "text": "לפי Ynetnews, ראש הקהילה היהודית באנטקיה שנעדר אחרי רעידת האדמה נמצא מת ביום חמישי יחד עם אשתו.",
+   "source": "src10",
+   "quote": "The head of the Jewish community of Antakya in southern Turkey who went missing after the devastating earthquake that shook the region was found dead on Thursday along with his wife.",
+   "status": "confirmed",
+   "locator": "שורה 42"
+  },
+  {
+   "id": "c5",
+   "text": "לפי Forward, גורלו של שאול ג'נודי עדיין לא היה ידוע, ואילו מותה של אשתו פורטונה אושר ביום חמישי בבוקר.",
+   "source": "src9",
+   "quote": "The fate of Saul Cenudioglu, the president of the small Jewish community in Antakya, remains unknown, while his wife Fortuna was confirmed dead Thursday morning",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c74",
+   "text": "לפי המכון הגאולוגי של ארצות הברית (USGS), רצף רעידות האדמה בקהרמנמרש היה בעוצמה של 7.8 וב-7.5, והוא פקד את האזור שליד נורדאגי שבטורקיה ב-6 בפברואר 2023.",
+   "source": "src12",
+   "quote": "The M7.8 and M7.5 Kahramanmaraş Earthquake Sequence struck near Nurdağı, Turkey (Türkiye) on February 6, 2023.",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  }
+ ],
+ "sources": [
+  {
+   "id": "src1",
+   "label": "TPS, 9.2.2023",
+   "url": "https://tps.co.il/articles/israeli-emergency-crew-in-turkey-wherever-you-go-you-see-mourning/",
+   "kind": "press"
+  },
+  {
+   "id": "src2",
+   "label": "JNS, 26.4.2023",
+   "url": "https://www.jns.org/news/turkish-president-honors-israeli-rescue-workers-who-saved-lives-after-earthquake",
+   "kind": "press"
+  },
+  {
+   "id": "src3",
+   "label": "Ynetnews, פברואר 2023",
+   "url": "https://www.ynetnews.com/article/skemsbz6o",
+   "kind": "press"
+  },
+  {
+   "id": "src4",
+   "label": "ynet, פברואר 2023",
+   "url": "https://www.ynet.co.il/news/article/hklllmfpj",
+   "kind": "press"
+  },
+  {
+   "id": "src5",
+   "label": "JDN, פברואר 2023",
+   "url": "https://www.jdn.co.il/j_world/jworld/1913796/",
+   "kind": "press"
+  },
+  {
+   "id": "src6",
+   "label": "Israel National News, פברואר 2023",
+   "url": "https://www.israelnationalnews.com/news/367200",
+   "kind": "press"
+  },
+  {
+   "id": "src7",
+   "label": "JTA, פברואר 2023",
+   "url": "https://www.jta.org/?p=1827539",
+   "kind": "press"
+  },
+  {
+   "id": "src8",
+   "label": "The Jewish Chronicle, פברואר 2023",
+   "url": "https://www.thejc.com/news/world/leader-of-turkish-jewish-community-found-dead-following-earthquake-sy00myql",
+   "kind": "press"
+  },
+  {
+   "id": "src9",
+   "label": "Forward, 9.2.2023",
+   "url": "https://forward.com/fast-forward/535618/stalwart-of-antakya-jewish-community-confirmed-dead-in-turkey-quake-as-search-continues",
+   "kind": "press"
+  },
+  {
+   "id": "src10",
+   "label": "Ynetnews, פברואר 2023",
+   "url": "https://www.ynetnews.com/article/s19c2sgps",
+   "kind": "press"
+  },
+  {
+   "id": "src11",
+   "label": "JDN, פברואר 2023",
+   "url": "https://www.jdn.co.il/news/israel/1907855/",
+   "kind": "press"
+  },
+  {
+   "id": "src12",
+   "label": "USGS, Magnitude 7.8 Earthquake near Nurdağı, Turkey",
+   "url": "https://www.usgs.gov/news/featured-story/magnitude-78-earthquake-nurdagi-turkey",
+   "kind": "official"
+  }
+ ],
+ "media": [
+  {
+   "id": "m1",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Olive%20Branches%20Search%20and%20Rescue%20Delegation%2C%20February%202023%20%28IDF%2036%29.jpeg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Olive_Branches_Search_and_Rescue_Delegation%2C_February_2023_%28IDF_36%29.jpeg",
+   "source_name": "Wikimedia Commons",
+   "credit": "IDF Spokesperson's Unit photographer",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "אישה במעיל לבן עם סמל דגל ישראל מוסרת חפץ קטן לגבר מזוקן במחלקת רנטגן בבית חולים בטורקיה, לפי השלטים בטורקית.",
+   "illustrates": [
+    "c10"
+   ],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "from 8 Feb",
+   "width": 1024,
+   "height": 683
+  },
+  {
+   "id": "m2",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hatay%20E%C4%9Fitim%20ve%20Ara%C5%9Ft%C4%B1rma%20Hastanesi%20-%206%20%C5%9Eubat%20Depremi%20Sonras%C4%B1.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Hatay_E%C4%9Fitim_ve_Ara%C5%9Ft%C4%B1rma_Hastanesi_-_6_%C5%9Eubat_Depremi_Sonras%C4%B1.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Mustafa Kuzugüdemn",
+   "licence": "CC0",
+   "hosting": "hotlink",
+   "caption": "מבנה בית חולים בהאטאי שקרס חלקית ברעידת האדמה, ושברי בטון מפוזרים לפניו.",
+   "illustrates": [],
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "date": "2026-04-04",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "id": "m3",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=3B0t4H3ZW1Q",
+   "youtube_id": "3B0t4H3ZW1Q",
+   "source_page": "https://www.youtube.com/watch?v=3B0t4H3ZW1Q",
+   "source_name": "YouTube",
+   "credit": "C14",
+   "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "ערוץ 14 מלווה את משלחת פיקוד העורף בדרכה לטורקיה ומשמיע את תחושות המחלצים לאחר אסון רעידת האדמה.",
+   "illustrates": [
+    "c8"
+   ]
+  },
+  {
+   "id": "m4",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=VK5HdP4gzOE",
+   "youtube_id": "VK5HdP4gzOE",
+   "source_page": "https://www.youtube.com/watch?v=VK5HdP4gzOE",
+   "source_name": "YouTube",
+   "credit": "כאן | חדשות - תאגיד השידור הישראלי",
+   "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "כאן חדשות: יחידת החילוץ הישראלית מתחילה לפעול בדרום טורקיה, בעיר הרוסה שבה גם אנשי פיקוד העורף ואיחוד הצלה לא ראו הרס כזה.",
+   "illustrates": [
+    "c53"
+   ]
+  },
+  {
+   "id": "m5",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=48V-mJeJ-NE",
+   "youtube_id": "48V-mJeJ-NE",
+   "source_page": "https://www.youtube.com/watch?v=48V-mJeJ-NE",
+   "source_name": "YouTube",
+   "credit": "חדשות NWS",
+   "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "יומן מסע של חדשות NWS המתעד את הכנת משלחת החילוץ \"ענפי זית\" של צה\"ל לטורקיה ואת דרכה אליה.",
+   "illustrates": []
+  },
+  {
+   "id": "m6",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=71_tnGLZ3lQ",
+   "youtube_id": "71_tnGLZ3lQ",
+   "source_page": "https://www.youtube.com/watch?v=71_tnGLZ3lQ",
+   "source_name": "YouTube",
+   "credit": "i24NEWS English",
+   "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "i24NEWS: מומחי חילוץ של צה\"ל וציודם הגיעו לטורקיה לחפש ניצולים.",
+   "illustrates": [
+    "c7"
+   ],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m7",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=Y5HI4x_QV5k",
+   "youtube_id": "Y5HI4x_QV5k",
+   "source_page": "https://www.youtube.com/watch?v=Y5HI4x_QV5k",
+   "source_name": "YouTube",
+   "credit": "i24NEWS English",
+   "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "i24NEWS: ראיון עם מפקד גדוד 979, סגן אלוף יואב עופן, על המאמצים הישראליים להצלת חיים ברעידת האדמה בטורקיה וסוריה.",
+   "illustrates": [],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m8",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hatay%20i%20Tyrkiet%20efter%20jordsk%C3%A6lvet%202023.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Hatay_i_Tyrkiet_efter_jordsk%C3%A6lvet_2023.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "U.S. Department of State from United States",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "מבט אווירי על מחוז האטאי בטורקיה, 19 בפברואר 2023: בניינים הרוסים בין בתים שנותרו עומדים.",
+   "illustrates": [],
+   "date": "2023-02-19",
+   "width": 7680,
+   "height": 5760,
+   "role": "related"
+  },
+  {
+   "id": "m9",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kahramanmara%C5%9F%20Earthquake%20effects%20Atat%C3%BCrk%20Bulvar%20seen%20in%202024%208214.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Kahramanmara%C5%9F_Earthquake_effects_Atat%C3%BCrk_Bulvar_seen_in_2024_8214.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Dosseman",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "עמוד בטון סדוק בבניין שניזוק בשדרות אטאטורק, קהרמנמרש, 2024.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2024-10-24",
+   "width": 5504,
+   "height": 8256,
+   "role": "related"
+  },
+  {
+   "id": "m10",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kahramanmara%C5%9F%20Earthquake%20effects%20seen%20in%202024%208216.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Kahramanmara%C5%9F_Earthquake_effects_seen_in_2024_8216.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Dosseman",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "מסגד עם גג בשיפוץ בקהרמנמרש, 2024.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2024-10-24",
+   "width": 8256,
+   "height": 5504,
+   "role": "related"
+  },
+  {
+   "id": "m11",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kahramanmara%C5%9F%20Earthquake%20effects%20seen%20in%202024%208227.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Kahramanmara%C5%9F_Earthquake_effects_seen_in_2024_8227.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Dosseman",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "דוכנים במבני מכולה ושלט מסעדה: אזור קניות מאולתר בקהרמנמרש, 2024.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2024-10-24",
+   "width": 8256,
+   "height": 5504,
+   "role": "related"
+  },
+  {
+   "id": "m12",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kahramanmara%C5%9F%20Earthquake%20effects%20seen%20in%202024%208235.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Kahramanmara%C5%9F_Earthquake_effects_seen_in_2024_8235.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Dosseman",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "סמטה מלאה פסולת ובתים פגועים בקהרמנמרש, 2024.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2024-10-24",
+   "width": 5504,
+   "height": 8256,
+   "role": "related"
+  },
+  {
+   "id": "m13",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/2023%20Gaziantep%20Earthquake-Diyarbakir%201.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:2023_Gaziantep_Earthquake-Diyarbakir_1.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Mahmut Bozarslan (Voice of America)",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "בניין שקרס בדיארבקיר, ואמבולנס ומנוף לפניו, אחרי הרעידה של 6 בפברואר 2023.",
+   "illustrates": [],
+   "date": "2023-02-06",
+   "width": 2048,
+   "height": 1152,
+   "role": "related"
+  },
+  {
+   "id": "m14",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/2023%20Turkey%20Earthquake%20Damage%202.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:2023_Turkey_Earthquake_Damage_2.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Mahmut Bozarslan (VOA)/VOA TURKICE",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "בניין רב־קומות שקרס חלקית בדיארבקיר, בלילה, אחרי הרעידה.",
+   "illustrates": [],
+   "date": "2023-02-06",
+   "width": 1600,
+   "height": 900,
+   "role": "related"
+  },
+  {
+   "id": "m15",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/2023%20Turkey%20Earthquake%20Damage%203.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:2023_Turkey_Earthquake_Damage_3.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "VOA",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "מחפר ואנשי הצלה ליד הריסות בניין שקרס בדיארבקיר.",
+   "illustrates": [],
+   "date": "2023-02-06",
+   "width": 2016,
+   "height": 1134,
+   "role": "related"
+  },
+  {
+   "id": "m16",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/2023%20Turkey%20Earthquake%20Damage%204.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:2023_Turkey_Earthquake_Damage_4.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "VOA",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "קהל אנשים בבגדי גשם ובאפודים על הריסות בניין שקרס בדיארבקיר.",
+   "illustrates": [],
+   "date": "2023-02-06",
+   "width": 2016,
+   "height": 1134,
+   "role": "related"
+  },
+  {
+   "id": "m17",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/2023%20Turkey%20Earthquake%20Damage%205.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:2023_Turkey_Earthquake_Damage_5.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "VOA",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "ערפל ואבק ברחוב בגזיאנטפ אחרי קריסת בניין.",
+   "illustrates": [],
+   "date": "2023-02-06",
+   "width": 1600,
+   "height": 900,
+   "role": "related"
+  },
+  {
+   "id": "m19",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/2023%20Turkey%20earthquake.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:2023_Turkey_earthquake.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Mahmut Bozarslan (VOA)",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "אדם עומד על ערמת הריסות בלילה, ליד שלט \"CENTER\".",
+   "illustrates": [],
+   "date": "2023-02-06",
+   "width": 1600,
+   "height": 900,
+   "role": "related"
+  },
+  {
+   "id": "m20",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/7.8%20earthquake%20in%20Gaziantep%2C%20Turkey.7FE.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:7.8_earthquake_in_Gaziantep%2C_Turkey.7FE.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "YG01",
+   "licence": "CC0",
+   "hosting": "hotlink",
+   "caption": "מנוף ליד בניין נטוי בגזיאנטפ, אחרי רעידת האדמה.",
+   "illustrates": [],
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "date": "2023-02-06",
+   "width": 2160,
+   "height": 2587,
+   "role": "related"
+  },
+  {
+   "id": "m21",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/7.8%20earthquake%20in%20Gaziantep%2C%20Turkey.%C4%B1mg.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:7.8_earthquake_in_Gaziantep%2C_Turkey.%C4%B1mg.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "YG01",
+   "licence": "CC0",
+   "hosting": "hotlink",
+   "caption": "בניין שקרס חלקית בגזיאנטפ, אחרי רעידת האדמה.",
+   "illustrates": [],
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "date": "2023-02-06",
+   "width": 2160,
+   "height": 3318,
+   "role": "related"
+  },
+  {
+   "id": "m22",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/7.8%20earthquake%20in%20Gaziantep%2C%20Turkey.%C4%B1mgg.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:7.8_earthquake_in_Gaziantep%2C_Turkey.%C4%B1mgg.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "YG01",
+   "licence": "CC0",
+   "hosting": "hotlink",
+   "caption": "אנשי חילוץ וציוד כבד על הריסות בניין שקרס, מאחורי סרט משטרה.",
+   "illustrates": [],
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "date": "2023-02-06",
+   "width": 2159,
+   "height": 2742,
+   "role": "related"
+  },
+  {
+   "id": "m23",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Huzurevleri%20Kapali%20Semt%20Pazari%20and%20around%20%28Earthquake%29%2001.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Huzurevleri_Kapali_Semt_Pazari_and_around_%28Earthquake%29_01.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Viktor Lazić",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "מחפרים, מנוף ואנשי צוות ליד הריסות בניין בשכונת הוזורבלרי שבאדנה.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2023-02-07",
+   "width": 4000,
+   "height": 2252,
+   "role": "related"
+  },
+  {
+   "id": "m24",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Huzurevleri%20Kapali%20Semt%20Pazari%20and%20around%20%28Earthquake%29%2003.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Huzurevleri_Kapali_Semt_Pazari_and_around_%28Earthquake%29_03.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Viktor Lazić",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "מנוף צהוב ואנשים על ערמת הריסות בין בנייני מגורים, באזור הוזורבלרי.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2023-02-07",
+   "width": 4000,
+   "height": 2252,
+   "role": "related"
+  },
+  {
+   "id": "m25",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Huzurevleri%20Kapali%20Semt%20Pazari%20and%20around%20%28Earthquake%29%2006.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Huzurevleri_Kapali_Semt_Pazari_and_around_%28Earthquake%29_06.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Viktor Lazić",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "ערמת הריסות מתחת לגג מתכת, ומחלצים רחוקים על ההריסות.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2023-02-07",
+   "width": 4000,
+   "height": 3000,
+   "role": "related"
+  },
+  {
+   "id": "m26",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Huzurevleri%20Kapali%20Semt%20Pazari%20and%20around%20%28Earthquake%29%2008.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Huzurevleri_Kapali_Semt_Pazari_and_around_%28Earthquake%29_08.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Viktor Lazić",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "כרית אדומה בצורת לב בין שברי בטון בהריסות.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2023-02-07",
+   "width": 5472,
+   "height": 3648,
+   "role": "related"
+  },
+  {
+   "id": "m27",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Huzurevleri%20Kapali%20Semt%20Pazari%20and%20around%20%28Earthquake%29%2009.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Huzurevleri_Kapali_Semt_Pazari_and_around_%28Earthquake%29_09.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Viktor Lazić",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "צעצוע כחול להתאמת צורות בין שברי בטון בהריסות.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2023-02-07",
+   "width": 3648,
+   "height": 5472,
+   "role": "related"
+  },
+  {
+   "id": "m30",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/A%20cracked%20land%20after%20the%207%2C8%20magnitude%20earthquake%20in%20Turkey.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:A_cracked_land_after_the_7%2C8_magnitude_earthquake_in_Turkey.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Adem",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "סדק באדמה אחרי רעידה בעוצמה 7.8, גולבאשי, מחוז עדיאמן.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2023-04-17",
+   "width": 4032,
+   "height": 3024,
+   "role": "related"
+  },
+  {
+   "id": "m31",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Afet%20Birlik%20ve%20Gen%C3%A7%20K%C4%B1z%C4%B1lay%20G%C3%B6n%C3%BCll%C3%BCs%C3%BC.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Afet_Birlik_ve_Gen%C3%A7_K%C4%B1z%C4%B1lay_G%C3%B6n%C3%BCll%C3%BCs%C3%BC.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Yıldırımlar07",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "מתנדב אפט בירליק ומתנדב חצי הסהר האדום הטורקי באוהל מחסן עם משטחי אספקה.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2023-02-10",
+   "width": 2250,
+   "height": 4000,
+   "role": "related"
+  },
+  {
+   "id": "m33",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Antakya%2012.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Antakya_12.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Vikiçizer",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "הר עם חורבות בפסגה, כפי שנראה מאנטקיה, תצלום לא מתוארך.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2006-12-15",
+   "width": 3680,
+   "height": 2760,
+   "role": "related"
+  },
+  {
+   "id": "m36",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dark%20Nights%20in%20Antakya%20%28SVS31224%29.tiff?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Dark_Nights_in_Antakya_%28SVS31224%29.tiff",
+   "source_name": "Wikimedia Commons",
+   "credit": "NASA's Scientific Visualization Studio - Marit Jentoft-Nilsen, Lauren Dauphin, Kathryn Hansen",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "תצלום לוויין של אנטקיה בלילה: אורות העיר ב-4 בפברואר 2023, ואחרי הרעידה ב-8 בפברואר.",
+   "illustrates": [],
+   "date": "7 April 20",
+   "width": 2880,
+   "height": 1620,
+   "role": "related"
+  }
+ ],
+ "check": {
+  "passed": true,
+  "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
+  "checked_at": "2026-11-14T01:12:23Z",
+  "counts": {
+   "confirmed": 107,
+   "not_confirmed": 0,
+   "deleted_sentences": 2,
+   "first_round_confirmed": 106,
+   "first_round_contradicted": 1,
+   "first_round_unverifiable": 2
+  },
+  "note": "unverifiable sentences were deleted, contradicted ones fixed from the source and checked again"
+ },
+ "meta": {
+  "run": "zaka-home-front-turkey-rescue.try2",
+  "pipeline": "scripts/museum/museum_line.py",
+  "models": {
+   "research": "sonnet-5-5",
+   "extract": "sonnet-5-5",
+   "media": "sonnet-5-5",
+   "write": "opus-5-5 medium",
+   "check": "opus-5-5 medium",
+   "fix": "opus-5-5 medium"
+  },
+  "source_quality": {
+   "sources": 11,
+   "wikipedia": 0,
+   "strong": 11,
+   "ok": true,
+   "warnings": []
+  },
+  "settled": [
+   {
+    "box": "d1",
+    "question": "מה הייתה עוצמת הרעידה?",
+    "url": "https://www.usgs.gov/news/featured-story/magnitude-78-earthquake-nurdagi-turkey",
+    "by": "settle 24.11"
+   }
+  ]
+ }
+}

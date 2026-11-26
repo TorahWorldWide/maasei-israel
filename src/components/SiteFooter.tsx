@@ -8,7 +8,7 @@ export default function SiteFooter({ entryCount }: { entryCount?: number }) {
   const { lang } = useLang();
 
   return (
-    <footer className="border-t border-[rgba(201,168,74,0.2)] bg-[#081026] py-8 text-center text-sm text-blue-200/50">
+    <footer className="border-t border-[#cbbfa8] bg-[#e0d7c4] py-8 text-center text-sm text-[#63554a]">
       <div className="max-w-6xl mx-auto px-4 flex flex-col gap-2">
         <svg
           viewBox="0 0 100 100"
@@ -18,28 +18,28 @@ export default function SiteFooter({ entryCount }: { entryCount?: number }) {
           <polygon
             points="50,8 12,80 88,80"
             fill="none"
-            stroke="#c9a84a"
+            stroke="#6b4426"
             strokeWidth="5"
           />
           <polygon
             points="50,92 88,20 12,20"
             fill="none"
-            stroke="#c9a84a"
+            stroke="#6b4426"
             strokeWidth="5"
           />
         </svg>
         {entryCount !== undefined && (
           <p>
             {t(lang, "siteTitle")} &mdash;{" "}
-            <span className="font-medium text-[#c9a84a]">{entryCount}</span>{" "}
+            <span className="font-medium text-[#6b4426]">{entryCount}</span>{" "}
             {t(lang, "documentedItems")}
           </p>
         )}
-        <p className="text-xs text-blue-200/35">{t(lang, "footerNote")}</p>
+        <p className="text-xs text-[#63554a]/80">{t(lang, "footerNote")}</p>
         <p className="text-xs">
           <Link
             href="/admin"
-            className="hover:text-blue-200/70 transition-colors"
+            className="hover:text-[#221b14] transition-colors"
           >
             {t(lang, "adminLogin")}
           </Link>

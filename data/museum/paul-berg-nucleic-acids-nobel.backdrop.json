@@ -1,0 +1,56 @@
+{
+ "schema": "maasei-backdrop/1",
+ "slug": "paul-berg-nucleic-acids-nobel",
+ "media": "m12",
+ "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Asilomar%20Chapel%20interior%20-%202023-02-21.jpg?width=1920",
+ "img_small": "https://commons.wikimedia.org/wiki/Special:FilePath/Asilomar%20Chapel%20interior%20-%202023-02-21.jpg?width=1080",
+ "why": "The wooden chapel interior at Asilomar, with rows of seats facing the stage, is a deep, textured hall that puts the visitor inside the place where the 1975 scientists' debate happened.",
+ "chosen_by": "opus picker",
+ "alternates": [
+  "m13"
+ ],
+ "from": {
+  "average": "#58473c",
+  "picked": "#563c2b",
+  "coloured_share": 0.576,
+  "lightness": 0.289
+ },
+ "palette": {
+  "paper": "#f4ede9",
+  "surface": "#faf7f6",
+  "band": "#ecdfd7",
+  "tint": "#ead8cc",
+  "header": "#efe5df",
+  "rule": "#d5beaf",
+  "text": "#2a1f18",
+  "text2": "#4c3d33",
+  "accent": "#785036",
+  "meta": "#68594f",
+  "tone": "#241d19",
+  "shadow": "33, 24, 18"
+ },
+ "checks": {
+  "text_on_paper": 13.87,
+  "text_on_surface": 15.07,
+  "text_on_band": 12.31,
+  "text_on_tint": 11.62,
+  "text_on_header": 12.96,
+  "text2_on_paper": 8.97,
+  "text2_on_surface": 9.74,
+  "text2_on_band": 7.96,
+  "text2_on_tint": 7.51,
+  "text2_on_header": 8.38,
+  "accent_on_paper": 6.05,
+  "accent_on_surface": 6.57,
+  "accent_on_band": 5.37,
+  "accent_on_tint": 5.07,
+  "accent_on_header": 5.65,
+  "meta_on_paper": 5.79,
+  "meta_on_surface": 6.29,
+  "meta_on_band": 5.14,
+  "meta_on_tint": 4.85,
+  "meta_on_header": 5.41,
+  "paper_on_accent": 6.05
+ },
+ "passed": true
+}

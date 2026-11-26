@@ -1,0 +1,56 @@
+{
+ "schema": "maasei-backdrop/1",
+ "slug": "warshel-levitt-chemistry-nobel",
+ "media": "m9",
+ "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Nobel%20Prize%202%202013.jpg?width=1920",
+ "img_small": "https://commons.wikimedia.org/wiki/Special:FilePath/Nobel%20Prize%202%202013.jpg?width=1080",
+ "why": "It is a wide, sharp shot of the 2013 Nobel press conference, the event on this page: the laureates, Warshel and Levitt among them, sit in a long row in front of a textured gold-and-blue curtain, which still reads as a scene when darkened and partly covered, though a ceremony is a weaker backdrop than a lab or computer room.",
+ "chosen_by": "opus picker",
+ "alternates": [
+  "m8"
+ ],
+ "from": {
+  "average": "#4d4440",
+  "picked": "#875d42",
+  "coloured_share": 0.222,
+  "lightness": 0.276
+ },
+ "palette": {
+  "paper": "#f4ede9",
+  "surface": "#faf7f6",
+  "band": "#ecdfd7",
+  "tint": "#ead8cc",
+  "header": "#efe5df",
+  "rule": "#d5beaf",
+  "text": "#2a1f18",
+  "text2": "#4c3d33",
+  "accent": "#785036",
+  "meta": "#68594f",
+  "tone": "#221d1b",
+  "shadow": "33, 24, 18"
+ },
+ "checks": {
+  "text_on_paper": 13.87,
+  "text_on_surface": 15.07,
+  "text_on_band": 12.31,
+  "text_on_tint": 11.62,
+  "text_on_header": 12.96,
+  "text2_on_paper": 8.97,
+  "text2_on_surface": 9.74,
+  "text2_on_band": 7.96,
+  "text2_on_tint": 7.51,
+  "text2_on_header": 8.38,
+  "accent_on_paper": 6.05,
+  "accent_on_surface": 6.57,
+  "accent_on_band": 5.37,
+  "accent_on_tint": 5.07,
+  "accent_on_header": 5.65,
+  "meta_on_paper": 5.79,
+  "meta_on_surface": 6.29,
+  "meta_on_band": 5.14,
+  "meta_on_tint": 4.85,
+  "meta_on_header": 5.41,
+  "paper_on_accent": 6.05
+ },
+ "passed": true
+}

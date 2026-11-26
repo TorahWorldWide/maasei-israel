@@ -1,0 +1,1934 @@
+{
+  "schema": "maasei-museum/1",
+  "slug": "warshel-levitt-chemistry-nobel",
+  "deed": "אריה ורשל ומייקל לויט זכו בנובל לכימיה על מודלים ממוחשבים למולקולות",
+  "canonical_type": "scientific-discovery",
+  "year": "1967",
+  "title": "אריה ורשל ומייקל לויט לימדו את המחשב לדמות תגובות כימיות, וזכו בנובל לכימיה",
+  "trailer": [
+    {
+      "text": "אריה ורשל ומייקל לויט הם 'חלוצים אמיתיים של הכימיה החישובית המודרנית', כדברי המדען אלאן אספורו-גוזיק; ורשל הוא פרופסור באוניברסיטת דרום קליפורניה בלוס אנג'לס.",
+      "claims": [
+        "c77",
+        "c14"
+      ]
+    },
+    {
+      "text": "אריה ורשל נולד ב-1940 בקיבוץ שדה נחום וקיבל דוקטורט ממכון ויצמן, ומייקל לויט נולד ב-1947 בפרטוריה שבדרום אפריקה; שניהם זכו ב-2013 בפרס נובל בכימיה יחד עם מרטין קרפלוס.",
+      "claims": [
+        "c1",
+        "c8",
+        "c9"
+      ]
+    },
+    {
+      "text": "לפי דיווח רויטרס ב'פורוורד', שלושת הזוכים יהודים.",
+      "claims": [
+        "c12",
+        "c13"
+      ]
+    },
+    {
+      "text": "לפי דוח סטנפורד, ב-1967 תכננו לויט וורשל יחד תוכנה שתיארה במחשב מבנה של מולקולות גדולות.",
+      "claims": [
+        "c66"
+      ]
+    },
+    {
+      "text": "לפי פיזיקס וורלד, הם עבדו יחד במכון ויצמן ובקיימברידג' על מודלים של אנזימים.",
+      "claims": [
+        "c62"
+      ]
+    },
+    {
+      "text": "לפי דוח סטנפורד, ב-1976 פרסמו השניים את המודל הממוחשב הראשון של תגובה אנזימטית.",
+      "claims": [
+        "c67"
+      ]
+    },
+    {
+      "text": "לפי רויטרס, האקדמיה השוודית אמרה שעבודתם העבירה את הכימיה למרחב הווירטואלי.",
+      "claims": [
+        "c63"
+      ]
+    }
+  ],
+  "hero_media": [
+    "m2",
+    "m8",
+    "m4",
+    "m6",
+    "m9",
+    "m1",
+    "m3",
+    "m17",
+    "m20",
+    "m25",
+    "m27"
+  ],
+  "glance": [
+    {
+      "label": "זוכים",
+      "value": "אריה ורשל, מייקל לויט, מרטין קרפלוס",
+      "claims": [
+        "c1"
+      ]
+    },
+    {
+      "label": "התחלה",
+      "value": "1967, תוכנה משותפת לוורשל וללויט",
+      "claims": [
+        "c45",
+        "c66"
+      ]
+    },
+    {
+      "label": "איפה",
+      "value": "מכון ויצמן וקיימברידג'",
+      "claims": [
+        "c62"
+      ]
+    },
+    {
+      "label": "פרס",
+      "value": "נובל בכימיה 2013, 8 מיליון כתרים שוודיים",
+      "claims": [
+        "c1",
+        "c11"
+      ]
+    },
+    {
+      "label": "ורשל",
+      "value": "אזרח ישראל וארצות הברית, יליד שדה נחום",
+      "claims": [
+        "c8"
+      ]
+    }
+  ],
+  "stations": [
+    {
+      "id": "s1",
+      "title": "לפני: כדורים, מקלות ושתי פיזיקות",
+      "kind": "story",
+      "paragraphs": [
+        [
+          {
+            "text": "לפי האקדמיה השוודית, כימאים נהגו לבנות מודלים של מולקולות מכדורי פלסטיק ומקלות.",
+            "claims": [
+              "c2"
+            ]
+          },
+          {
+            "text": "לפי האקדמיה, הם נאלצו לבחור בין פיזיקה קלאסית לפיזיקה קוונטית.",
+            "claims": [
+              "c3"
+            ]
+          }
+        ],
+        [
+          {
+            "text": "הפיזיקה הקלאסית נתנה חישובים פשוטים, שאפשרו לדמות מולקולות גדולות מאוד.",
+            "claims": [
+              "c3",
+              "c16"
+            ]
+          },
+          {
+            "text": "אבל היא לא אפשרה לדמות תגובות כימיות, שבהן נוצרות מולקולות חדשות.",
+            "claims": [
+              "c4",
+              "c17"
+            ]
+          },
+          {
+            "text": "לשם כך נדרשה פיזיקה קוונטית.",
+            "claims": [
+              "c4"
+            ]
+          },
+          {
+            "text": "החישובים הקוונטיים דרשו כוח חישוב עצום, ולכן התאימו רק למולקולות קטנות.",
+            "claims": [
+              "c5"
+            ]
+          }
+        ],
+        [
+          {
+            "text": "לפי האקדמיה, מידול תאורטי משלים את הניסויים, כי על שאלות של איך דברים פועלים קשה לענות בניסוי.",
+            "claims": [
+              "c15"
+            ]
+          }
+        ]
+      ],
+      "media": [],
+      "disagreements": []
+    },
+    {
+      "id": "s2",
+      "title": "ילד מקיבוץ שדה נחום",
+      "kind": "story",
+      "paragraphs": [
+        [
+          {
+            "text": "ורשל סיפר שנולד ב-20 בנובמבר 1940 בקיבוץ שדה נחום.",
+            "claims": [
+              "c22"
+            ]
+          },
+          {
+            "text": "לפי USC, בני משפחתו ששרדו את השואה שרדו בזכות עלייתם לפלשתינה שבשלטון בריטי, ואילו רוב משפחתו הקרובה של אביו, וכן אמה ושתי אחיותיה של אמו, נספו בשואה.",
+            "claims": [
+              "c49"
+            ]
+          }
+        ],
+        [
+          {
+            "text": "ורשל סיפר שבאוגוסט 1958 החל שירות צבאי, תחילה כמומחה קשר במפקדת חטיבת גולני.",
+            "claims": [
+              "c23"
+            ]
+          },
+          {
+            "text": "לדבריו, אחרי שהתקבל לטכניון בחר באקראי ללמוד כימיה, והחל ללמוד ב-1962.",
+            "claims": [
+              "c24"
+            ]
+          },
+          {
+            "text": "לפי USC, הבחירה האקראית הזו הפכה למשיכה לכל החיים, שהגיעה לשיאה בנובל.",
+            "claims": [
+              "c44"
+            ]
+          }
+        ]
+      ],
+      "media": [
+        "m3"
+      ],
+      "disagreements": []
+    },
+    {
+      "id": "s3",
+      "title": "מכון ויצמן ומחשב בשם גולם",
+      "kind": "story",
+      "paragraphs": [
+        [
+          {
+            "text": "ורשל סיפר שעבר למכון ויצמן בסתיו 1966, והחל לפתח שם את מה שנודע כשדה הכוח העקבי (CFF).",
+            "claims": [
+              "c26"
+            ]
+          },
+          {
+            "text": "לדבריו, במכון היה מחשב ייעודי בשם גולם, שאפשר לו לחשב נגזרות מדויקות מאוד.",
+            "claims": [
+              "c27"
+            ]
+          },
+          {
+            "text": "לפי דוח סטנפורד, הגולם נבנה ב-1963 ונקרא על שם יצור מהפולקלור היהודי.",
+            "claims": [
+              "c71"
+            ]
+          }
+        ],
+        [
+          {
+            "text": "לפי USC, ורשל פיתח רעיון לכתוב תוכנה כזו באופן כללי, וב-1967 הצטרף אליו מייקל לויט, אז סטודנט לפני הדוקטורט..",
+            "claims": [
+              "c45"
+            ]
+          },
+          {
+            "text": "לפי דוח סטנפורד, התוכנה השתמשה בפיזיקה ניוטונית לתיאור מבנה של מולקולות גדולות במנוחה.",
+            "claims": [
+              "c66"
+            ]
+          },
+          {
+            "text": "ורשל סיפר שהוא ולויט פיתחו יחד תוכניות כוח-שדה קרטזי כלליות, שאפשרו להשתמש במכניקה מולקולרית.",
+            "claims": [
+              "c29"
+            ]
+          }
+        ]
+      ],
+      "media": [
+        "m12"
+      ],
+      "disagreements": []
+    },
+    {
+      "id": "s4",
+      "title": "הרווארד: ורשל אצל קרפלוס",
+      "kind": "story",
+      "paragraphs": [
+        [
+          {
+            "text": "ורשל סיפר שאחרי הדוקטורט קיבל משרת פוסט-דוקטורט בהרווארד, אצל מרטין קרפלוס.",
+            "claims": [
+              "c30"
+            ]
+          },
+          {
+            "text": "לפי דוח סטנפורד, הוא לקח את התוכנה איתו למעבדה של קרפלוס.",
+            "claims": [
+              "c70"
+            ]
+          },
+          {
+            "text": "לפי פיזיקס וורלד, שם החלו השניים לשלב גישות קלאסיות וקוונטיות.",
+            "claims": [
+              "c61"
+            ]
+          }
+        ],
+        [
+          {
+            "text": "לפי הרקע המדעי של האקדמיה השוודית, הצעד הראשון בפיתוח המידול הרב-סקאלי נעשה כשוורשל בא לבקר את קרפלוס בהרווארד.",
+            "claims": [
+              "c18"
+            ]
+          }
+        ]
+      ],
+      "media": [
+        "m28"
+      ],
+      "disagreements": [
+        "d1"
+      ]
+    },
+    {
+      "id": "s5",
+      "title": "1976: אנזים בתוך המחשב",
+      "kind": "story",
+      "paragraphs": [
+        [
+          {
+            "text": "לפי פיזיקס וורלד, לויט וורשל עבדו יחד במכון ויצמן ובקיימברידג' על מודלים של אנזימים.",
+            "claims": [
+              "c62"
+            ]
+          },
+          {
+            "text": "ב-1976 הראו השניים שאפשר לבנות סכמה כללית, שבה חלק מהאלקטרונים מטופלים בפיזיקה קלאסית וחלקם מתוארים בפיזיקה קוונטית.",
+            "claims": [
+              "c19"
+            ]
+          },
+          {
+            "text": "לפי דוח סטנפורד, באותה שנה הם פרסמו את המודל הממוחשב הראשון של תגובה אנזימטית.",
+            "claims": [
+              "c67"
+            ]
+          },
+          {
+            "text": "לפי MRC LMB, המודל הזה אפשר לדמות כל תגובה כימית עם כל מולקולה.",
+            "claims": [
+              "c74"
+            ]
+          }
+        ],
+        [
+          {
+            "text": "ורשל סיפר שניסיונות הניסוי והטעייה שלו הובילו להבנה שהביאה לפריצת הדרך בפיתוח גישת QM/MM, שבה החלק הקוונטי והחלק הקלאסי צומדו באופן עקבי.",
+            "claims": [
+              "c33"
+            ]
+          },
+          {
+            "text": "הוא כתב שהשימוש בגישה הזו בדוגמנות התגובה הקטליטית של ליזוזים סלל את הדרך לכיוון הנוכחי במידול פעולת אנזימים.",
+            "claims": [
+              "c34"
+            ]
+          },
+          {
+            "text": "במחקר על קיפול החלבון BPTI הוצג שאפשר לקבץ אטומים ליחידות קשיחות, ולטפל בהן כפסאודו-אטומים קלאסיים.",
+            "claims": [
+              "c20"
+            ]
+          },
+          {
+            "text": "לפי אתר לינדאו, לויט כתב שהיה מעניין לספר איך העזו להשמיט 90 אחוז מהאטומים.",
+            "claims": [
+              "c75"
+            ]
+          }
+        ],
+        [
+          {
+            "text": "לפי האקדמיה, כך זה עובד בתרופה: כשמדמים איך תרופה נקשרת לחלבון המטרה, המחשב מבצע חישובים קוונטיים על האטומים שפוגשים את התרופה, ואת שאר החלבון הגדול הוא מדמה בפיזיקה קלאסית.",
+            "claims": [
+              "c6"
+            ]
+          },
+          {
+            "text": "לפי הרקע המדעי, עבודתם פתחה שיתוף פעולה בין תיאוריה לניסוי, שאפשר לפתור בעיות שקודם לא היו פתירות.",
+            "claims": [
+              "c21"
+            ]
+          },
+          {
+            "text": "ורשל סיפר שלאחר שהוא וצוותו המתינו ארבע שנים לקואורדינטות של מרכז התגובה הפוטוסינתטי, וכשכל תוכנות המחשב כבר היו מוכנות ובדוקות זמן רב, לקח להם בסוף 1987 שבועיים בלבד להפוך את המבנה למנגנון פונקציונלי מפורט.",
+            "claims": [
+              "c40"
+            ]
+          },
+          {
+            "text": "לפי דוח סטנפורד, עבודתו המוקדמת של לויט הובילה גם לשיטות מעשיות להאנשת נוגדנים, שחיוניות לטיפול מודרני בסרטן, כמו בתרופה אווסטין.",
+            "claims": [
+              "c68"
+            ]
+          }
+        ]
+      ],
+      "media": [
+        "m23"
+      ],
+      "disagreements": []
+    },
+    {
+      "id": "s6",
+      "title": "נובל 2013",
+      "kind": "story",
+      "paragraphs": [
+        [
+          {
+            "text": "פרס נובל בכימיה לשנת 2013 הוענק במשותף למרטין קרפלוס, למייקל לויט ולאריה ורשל.",
+            "claims": [
+              "c1"
+            ]
+          },
+          {
+            "text": "לפי דיווח רויטרס ב'פורוורד', שלושת המדענים יהודים, והם זכו על תוכנות מחשב שמדמות תהליכים כימיים מורכבים.",
+            "claims": [
+              "c12",
+              "c13"
+            ]
+          },
+          {
+            "text": "לפי רויטרס, האקדמיה אמרה שימי מידול התגובות בכדורי פלסטיק ומקלות חלפו.",
+            "claims": [
+              "c63"
+            ]
+          },
+          {
+            "text": "לפי האקדמיה, המחשב חשוב היום לכימאים כמו מבחנה.",
+            "claims": [
+              "c7"
+            ]
+          }
+        ],
+        [
+          {
+            "text": "סכום הפרס הוא 8 מיליון כתרים שוודיים, שיחולקו שווה בשווה בין שלושת הזוכים.",
+            "claims": [
+              "c11"
+            ]
+          },
+          {
+            "text": "לפי פיזיקס וורלד, השלושה יקבלו את המדליות בטקס בשטוקהולם ב-10 בדצמבר.",
+            "claims": [
+              "c59"
+            ]
+          },
+          {
+            "text": "לפי הטכניון, ראש הממשלה בנימין נתניהו התקשר לוורשל לברך אותו.",
+            "claims": [
+              "c41"
+            ]
+          }
+        ],
+        [
+          {
+            "text": "המדען אלאן אספורו-גוזיק אמר לפיזיקס וורלד שקרפלוס, לויט וורשל הם חלוצים אמיתיים של הכימיה החישובית המודרנית.",
+            "claims": [
+              "c77"
+            ]
+          },
+          {
+            "text": "לפי USC, מאז 1976 נבחר ורשל לאקדמיה הלאומית למדעים ולאגודה המלכותית לכימיה, ופרסם יותר מ-350 מאמרים.",
+            "claims": [
+              "c48"
+            ]
+          },
+          {
+            "text": "לפי USC Today, הוא קיבל גם מלגת מחקר על שם אלפרד פ. סלואן ונבחר לעמית בחברה לביופיזיקה.",
+            "claims": [
+              "c53"
+            ]
+          },
+          {
+            "text": "ורשל אמר שהוא מקווה שהנובל יסייע להשיג עוד מימון לכימיה חישובית.",
+            "claims": [
+              "c58"
+            ]
+          },
+          {
+            "text": "לפי רויטרס, היכולת למחשב תהליכים כימיים מורכבים עשויה לאפשר בעתיד לדמות יצור חי שלם ברמה המולקולרית.",
+            "claims": [
+              "c64"
+            ]
+          }
+        ]
+      ],
+      "media": [
+        "m8",
+        "m9",
+        "m2",
+        "m4",
+        "m6",
+        "m7",
+        "m5",
+        "m11",
+        "m13",
+        "m14",
+        "m19",
+        "m31"
+      ],
+      "disagreements": [
+        "d6"
+      ]
+    },
+    {
+      "id": "s7",
+      "title": "האנשים",
+      "kind": "story",
+      "paragraphs": [
+        [
+          {
+            "text": "אריה ורשל הוא אזרח ארצות הברית וישראל, ופרופסור באוניברסיטת דרום קליפורניה בלוס אנג'לס.",
+            "claims": [
+              "c14"
+            ]
+          },
+          {
+            "text": "הוא סיפר שבמלחמת ששת הימים לחם כקצין קשר של גדוד טנקים במילואים, שכבש יחד עם גדוד נוסף את רמת הגולן.",
+            "claims": [
+              "c28",
+              "c50"
+            ]
+          },
+          {
+            "text": "לפי USC Today, ביום האחרון של הלחימה ברמת הגולן נפגע באוזנו הימנית מכדור סורי.",
+            "claims": [
+              "c51"
+            ]
+          },
+          {
+            "text": "לפי USC Dornsife, צלקת באוזנו הימנית מזכירה את הכדור.",
+            "claims": [
+              "c52"
+            ]
+          },
+          {
+            "text": "ורשל סיפר שבמלחמת יום הכיפורים לחם שוב ברמת הגולן, ושהמלחמה הזו הייתה טראומטית עבורו.",
+            "claims": [
+              "c31"
+            ]
+          },
+          {
+            "text": "לימים עבר לאוניברסיטת דרום קליפורניה.",
+            "claims": [
+              "c35",
+              "c43"
+            ]
+          }
+        ],
+        [
+          {
+            "text": "מייקל לויט נולד ב-1947 בפרטוריה שבדרום אפריקה.",
+            "claims": [
+              "c9"
+            ]
+          },
+          {
+            "text": "לפי אנציקלופדיה בריטניקה, הוא כימאי אמריקני-בריטי-ישראלי.",
+            "claims": [
+              "c65"
+            ]
+          },
+          {
+            "text": "לפי אתר לינדאו, לויט התמיד בבקשתו להצטרף למעבדה ב-LMB בקיימברידג' גם אחרי שנדחה.",
+            "claims": [
+              "c76"
+            ]
+          },
+          {
+            "text": "הוא קיבל דוקטורט מקיימברידג'.",
+            "claims": [
+              "c72",
+              "c73"
+            ]
+          }
+        ],
+        [
+          {
+            "text": "מרטין קרפלוס נולד בווינה ב-1930, ולפי פיזיקס וורלד היגר עם משפחתו לארצות הברית ב-1938.",
+            "claims": [
+              "c78"
+            ]
+          },
+          {
+            "text": "הוא אזרח ארצות הברית ואוסטריה.",
+            "claims": [
+              "c10"
+            ]
+          }
+        ],
+        [
+          {
+            "text": "לפי Encyclopedia.com, ורשל הוא פרופסור באוניברסיטת דרום קליפורניה משנת 1976.",
+            "claims": [
+              "c79"
+            ]
+          }
+        ]
+      ],
+      "media": [
+        "m15",
+        "m1",
+        "m16",
+        "m22",
+        "m26"
+      ],
+      "disagreements": [
+        "d3",
+        "d4",
+        "d5"
+      ]
+    },
+    {
+      "id": "s8",
+      "title": "\"בלתי אפשרי\", ואחר כך \"טריוויאלי\"",
+      "kind": "hard",
+      "paragraphs": [
+        [
+          {
+            "text": "ורשל סיפר שנסיינים בישראל שמעו על חישוב רעידות של מולקולות גדולות, ואמרו שזה בלתי אפשרי.",
+            "claims": [
+              "c46"
+            ]
+          },
+          {
+            "text": "לדבריו, לדעת רבים בקהילה המדעית מידול ממוחשב בכימיה שימושי רק ליצירת תמונות יפות למאמרים.",
+            "claims": [
+              "c56"
+            ]
+          },
+          {
+            "text": "הוא סיפר שהגישה שלו ושל לויט לקיפול חלבונים זכתה לביקורת חריפה.",
+            "claims": [
+              "c32"
+            ]
+          }
+        ],
+        [
+          {
+            "text": "ורשל סיפר שמודל המים שלו נדחה על ידי שלושה כתבי עת, בהערות שופטים שלדבריו היו בלתי הגיוניות בעליל.",
+            "claims": [
+              "c36"
+            ]
+          },
+          {
+            "text": "הוא כתב שרוב הקהילה הביוכימית לא האמינה בקטליזה אלקטרוסטטית.",
+            "claims": [
+              "c37"
+            ]
+          },
+          {
+            "text": "לדבריו, דוחות השופטים היו כמעט תמיד עוינים מאוד, והמאבקים שלו עם השופטים הפכו לאגדיים.",
+            "claims": [
+              "c39"
+            ]
+          }
+        ],
+        [
+          {
+            "text": "ורשל כתב שהרעיונות המרכזיים שלו נחשבו תחילה שגויים, אחר כך טריוויאליים, ויוחסו שוב ושוב לאחרים.",
+            "claims": [
+              "c38"
+            ]
+          },
+          {
+            "text": "הוא תיאר שהקהילה אמרה קודם שהעבודה בלתי אפשרית, וכעבור כ-10 שנים שהיא טריוויאלית.",
+            "claims": [
+              "c47"
+            ]
+          }
+        ]
+      ],
+      "media": [],
+      "disagreements": []
+    }
+  ],
+  "disagreements": [
+    {
+      "id": "d1",
+      "question": "מתי הגיע ורשל לקרפלוס בהרווארד?",
+      "versions": [
+        {
+          "says": "לפי דוח סטנפורד, ב-1969 לקח ורשל את התוכנה למעבדה של קרפלוס בהרווארד",
+          "claims": [
+            "c70"
+          ]
+        },
+        {
+          "says": "לפי פיזיקס וורלד, ורשל הצטרף לקרפלוס בהרווארד ב-1970",
+          "claims": [
+            "c61"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d3",
+      "question": "מה אזרחויותיו של לויט?",
+      "versions": [
+        {
+          "says": "לפי האקדמיה השוודית ודוח סטנפורד, לויט הוא אזרח ארצות הברית, בריטניה וישראל",
+          "claims": [
+            "c9",
+            "c69"
+          ]
+        },
+        {
+          "says": "לפי פיזיקס וורלד, לויט הוא אזרח ארצות הברית ובריטניה",
+          "claims": [
+            "c60"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d4",
+      "question": "באיזו שנה קיבל לויט דוקטורט מקיימברידג'?",
+      "versions": [
+        {
+          "says": "לפי האקדמיה השוודית, ב-1971",
+          "claims": [
+            "c72"
+          ]
+        },
+        {
+          "says": "לפי דוח סטנפורד, ב-1972",
+          "claims": [
+            "c73"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d5",
+      "question": "מה קרה לקסדה של ורשל כשנפגע מהכדור?",
+      "versions": [
+        {
+          "says": "לפי USC Today, הכדור העיף את קסדתו",
+          "claims": [
+            "c51"
+          ]
+        },
+        {
+          "says": "לפי USC Dornsife, הכדור פילח את קסדתו",
+          "claims": [
+            "c52"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d6",
+      "question": "מה סכום הפרס בדולרים?",
+      "versions": [
+        {
+          "says": "לפי הטכניון, 8 מיליון כתרים הם כ-1.25 מיליון דולר",
+          "claims": [
+            "c42"
+          ]
+        },
+        {
+          "says": "לפי דוח סטנפורד, הפרס הוא 1.2 מיליון דולר",
+          "claims": [
+            "c69"
+          ]
+        }
+      ]
+    }
+  ],
+  "unknowns": [
+    {
+      "text": "גילו של ורשל בזמן הזכייה: הדיווח ב'פורוורד' מציין שהוא בן 74, ואילו לפי מקורות אחרים נולד ב-1940",
+      "claims": [
+        "c13",
+        "c8",
+        "c22"
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "text": "פרס נובל בכימיה לשנת 2013 הוענק במשותף למרטין קרפלוס, מייקל לויט ואריה ורשל.",
+      "source": "src1",
+      "quote": "The Nobel Prize in Chemistry 2013 was awarded jointly to Martin Karplus, Michael Levitt and Arieh Warshel",
+      "status": "confirmed",
+      "locator": "שורה 13"
+    },
+    {
+      "id": "c8",
+      "text": "אריה ורשל הוא אזרח ארצות הברית וישראל, נולד ב-1940 בקיבוץ שדה נחום וקיבל דוקטורט ב-1969 ממכון ויצמן.",
+      "source": "src2",
+      "quote": "Arieh Warshel, U.S. and Israeli citizen. Born 1940 in Kibbutz Sde-Nahum, Israel. Ph.D. 1969 from Weizmann Institute of Science, Rehovot, Israel.",
+      "status": "confirmed",
+      "locator": "שורה 12"
+    },
+    {
+      "id": "c9",
+      "text": "מייקל לויט הוא אזרח ארצות הברית, בריטניה וישראל, ונולד ב-1947 בפרטוריה שבדרום אפריקה.",
+      "source": "src2",
+      "quote": "Michael Levitt, U.S., British and Israeli citizen. Born 1947 in Pretoria, South Africa.",
+      "status": "confirmed",
+      "locator": "שורה 11"
+    },
+    {
+      "id": "c12",
+      "text": "לפי דיווח רויטרס ב'פורוורד', שלושה מדענים יהודים זכו בפרס נובל בכימיה על תוכנות מחשב המדמות תהליכים כימיים מורכבים.",
+      "source": "src3",
+      "quote": "Three Jewish scientists won the Nobel Prize for chemistry on Wednesday for pioneering work on computer programs that simulate complex chemical processes",
+      "status": "confirmed",
+      "locator": "שורה 3"
+    },
+    {
+      "id": "c13",
+      "text": "לפי הדיווח, שלושת המדענים יהודים, וורשל בן 74.",
+      "source": "src3",
+      "quote": "All three scientists are Jewish. Warshel, 74, received",
+      "status": "confirmed",
+      "locator": "שורה 7"
+    },
+    {
+      "id": "c66",
+      "text": "לפי דוח סטנפורד, ב-1967 תכננו לויט וורשל תוכנה שהשתמשה בפיזיקה ניוטונית לתיאור מבנה מולקולות גדולות במנוחה.",
+      "source": "src4",
+      "quote": "In 1967, Levitt and Warshel first designed a computer program that used traditional, Newtonion physics to describe the resting structure of large molecules based on their amino acid sequences.",
+      "status": "confirmed",
+      "locator": "שורה 26"
+    },
+    {
+      "id": "c62",
+      "text": "לפי פיזיקס וורלד, לויט וורשל עבדו יחד במכון ויצמן ובקיימברידג' על מודלים של אנזימים.",
+      "source": "src5",
+      "quote": "Over the next few years, Levitt and Warshel worked together at the Weizmann Institute and the University of Cambridge with the aim of developing models of enzymes",
+      "status": "confirmed",
+      "locator": "שורה 6"
+    },
+    {
+      "id": "c67",
+      "text": "לפי דוח סטנפורד, ב-1976 פרסמו לויט וורשל את המודל הממוחשב הראשון של תגובה אנזימטית.",
+      "source": "src4",
+      "quote": "In 1976, Levitt and Warshel published the first computerized model of an enzymatic reaction.",
+      "status": "confirmed",
+      "locator": "שורה 26"
+    },
+    {
+      "id": "c63",
+      "text": "לפי רויטרס, האקדמיה אמרה שעבודתם העבירה את הכימיה למרחב הווירטואלי, וימי מידול התגובות בכדורי פלסטיק ומקלות חלפו.",
+      "source": "src3",
+      "quote": "said their work had effectively taken chemistry into cyberspace. Gone were the days of modelling reactions using plastic balls and sticks.",
+      "status": "confirmed",
+      "locator": "שורה 4"
+    },
+    {
+      "id": "c45",
+      "text": "לפי USC, ב-1967 הצטרף ללוויט, אז סטודנט טרום-דוקטורט, לפיתוח תוכנה כללית.",
+      "source": "src6",
+      "quote": "He came up with an idea to write such a program in a general way, then in 1967 was joined by Michael Levitt, a pre-Ph.D. student.",
+      "status": "confirmed",
+      "locator": "שורה 7"
+    },
+    {
+      "id": "c11",
+      "text": "סכום הפרס הוא 8 מיליון כתרים שוודיים, שיחולקו שווה בשווה בין שלושת הזוכים.",
+      "source": "src2",
+      "quote": "Prize amount: SEK 8 million, to be shared equally between the Laureates.",
+      "status": "confirmed",
+      "locator": "שורה 13"
+    },
+    {
+      "id": "c2",
+      "text": "לפי האקדמיה השוודית, כימאים נהגו לבנות מודלים של מולקולות מכדורי פלסטיק ומקלות, ואילו כיום המידול נעשה במחשבים.",
+      "source": "src2",
+      "quote": "Chemists used to create models of molecules using plastic balls and sticks. Today, the modelling is carried out in computers.",
+      "status": "confirmed",
+      "locator": "שורה 4"
+    },
+    {
+      "id": "c3",
+      "text": "לפי האקדמיה, בעבר נאלצו כימאים לבחור בין פיזיקה קלאסית לקוונטית, והחוזק של הפיזיקה הקלאסית היה חישובים פשוטים שאפשרו לדמות מולקולות גדולות מאוד.",
+      "source": "src2",
+      "quote": "Previously, chemists had to choose to use either or. The strength of classical physics was that calculations were simple and could be used to model really large molecules.",
+      "status": "confirmed",
+      "locator": "שורה 7"
+    },
+    {
+      "id": "c16",
+      "text": "לפי הרקע המדעי, היתרון של שיטות הפוטנציאל הקלאסי הוא שאפשר לחשב אנרגיה בקלות ולחקור מערכות גדולות.",
+      "source": "src7",
+      "quote": "The advantage of the classical potential-based methods is that the energy can easily be evaluated and large systems can be studied.",
+      "status": "confirmed",
+      "locator": "שורה 11"
+    },
+    {
+      "id": "c4",
+      "text": "החולשה של הפיזיקה הקלאסית הייתה שלא אפשרה לדמות תגובות כימיות, ולכן נדרשה לשם כך פיזיקה קוונטית.",
+      "source": "src2",
+      "quote": "Its weakness, it offered no way to simulate chemical reactions. For that purpose, chemists instead had to use quantum physics.",
+      "status": "confirmed",
+      "locator": "שורה 7"
+    },
+    {
+      "id": "c17",
+      "text": "לפי הרקע המדעי, אי אפשר להשתמש בשיטות הקלאסיות לחקר תגובות כימיות שבהן נוצרות מולקולות חדשות מהמגיבים.",
+      "source": "src7",
+      "quote": "Consequently they cannot be used for the study of chemical reactions where new molecules are formed from the reactants.",
+      "status": "confirmed",
+      "locator": "שורה 11"
+    },
+    {
+      "id": "c5",
+      "text": "החישובים הקוונטיים דרשו כוח חישוב עצום ולכן התאימו רק למולקולות קטנות.",
+      "source": "src2",
+      "quote": "But such calculations required enormous computing power and could therefore only be carried out for small molecules.",
+      "status": "confirmed",
+      "locator": "שורה 7"
+    },
+    {
+      "id": "c15",
+      "text": "לפי האקדמיה השוודית, מידול תאורטי הוא כלי חשוב להשלמת הטכניקות הניסיוניות, משום ששאלות על פעולה קשה לענות עליהן בניסוי.",
+      "source": "src7",
+      "quote": "This makes theoretical modelling an important tool as a complement to the experimental techniques.",
+      "status": "confirmed",
+      "locator": "שורה 7"
+    },
+    {
+      "id": "c22",
+      "text": "ורשל סיפר שנולד ב-20 בנובמבר 1940 בקיבוץ שדה נחום.",
+      "source": "src8",
+      "quote": "I was born on November 20, 1940 in Kibbutz Sde Nahum",
+      "status": "confirmed",
+      "locator": "שורה 1"
+    },
+    {
+      "id": "c49",
+      "text": "לפי USC, משפחת ורשל שרדה את השואה בכך שהגיעה לפלשתינה הבריטית.",
+      "source": "src6",
+      "quote": "Tzvi Warshel, Rachel Spreicher and their family who survived the Holocaust did so by immigrating to the then-British-ruled Palestine.",
+      "status": "confirmed",
+      "locator": "שורה 46"
+    },
+    {
+      "id": "c23",
+      "text": "ורשל סיפר שהחל שירות צבאי באוגוסט 1958, תחילה כמומחה קשר במפקדת חטיבת גולני.",
+      "source": "src8",
+      "quote": "I started my army service in August 1958, first as a communication specialist (Morse transmission, etc.) in the headquarters of the famous Golani infantry brigade",
+      "status": "confirmed",
+      "locator": "שורה 7"
+    },
+    {
+      "id": "c24",
+      "text": "ורשל סיפר שאחרי שהתקבל לטכניון בחר באקראי ללמוד כימיה והחל ללמוד ב-1962.",
+      "source": "src8",
+      "quote": "After being accepted to the Technion, I rather randomly chose to study chemistry and started my studies in 1962.",
+      "status": "confirmed",
+      "locator": "שורה 8"
+    },
+    {
+      "id": "c44",
+      "text": "לפי USC, בחירתו של ורשל בכימיה הייתה אקראית, ובסופו של דבר הפכה למשיכה לכל החיים שהגיעה לשיאה בנובל.",
+      "source": "src6",
+      "quote": "What started out as a random choice became a lifelong obsession that culminated in October when Warshel won the 2013 Nobel Prize for Chemistry.",
+      "status": "confirmed",
+      "locator": "שורה 5"
+    },
+    {
+      "id": "c26",
+      "text": "ורשל סיפר שעבר למכון ויצמן בסתיו 1966 והחל לפתח את מה שנודע כשדה הכוח העקבי (CFF).",
+      "source": "src8",
+      "quote": "I moved to the Weizmann Institute in fall 1966 and started to develop what became known as the consistent force field (CFF)",
+      "status": "confirmed",
+      "locator": "שורה 11"
+    },
+    {
+      "id": "c27",
+      "text": "ורשל סיפר שבמכון ויצמן היה מחשב ייעודי בשם גולם, שאיפשר לו לחשב נגזרות מדויקות מאוד.",
+      "source": "src8",
+      "quote": "fortunately the Weizmann Institute had a specialized computer called the Golem",
+      "status": "confirmed",
+      "locator": "שורה 12"
+    },
+    {
+      "id": "c71",
+      "text": "לפי דוח סטנפורד, מחשב הגולם של מכון ויצמן נבנה ב-1963 ונקרא על שם יצור מהפולקלור היהודי.",
+      "source": "src4",
+      "quote": "The computer at the institute, a machine custom built in 1963, was called Golem, after an inanimate creature in Jewish folklore.",
+      "status": "confirmed",
+      "locator": "שורה 33"
+    },
+    {
+      "id": "c29",
+      "text": "ורשל סיפר שהוא ולויט פיתחו יחד תוכניות כוח-שדה קרטזי כלליות שאיפשרו להשתמש במכניקה מולקולרית.",
+      "source": "src8",
+      "quote": "we developed together the general CFF Cartesian force field programs that allowed one to use molecular mechanics (MM)",
+      "status": "confirmed",
+      "locator": "שורה 15"
+    },
+    {
+      "id": "c30",
+      "text": "ורשל סיפר שאחרי הדוקטורט קיבל משרת פוסט-דוקטורט בהרווארד אצל מרטין קרפלוס.",
+      "source": "src8",
+      "quote": "I accepted a postdoctoral position at Harvard with Martin Karplus",
+      "status": "confirmed",
+      "locator": "שורה 18"
+    },
+    {
+      "id": "c70",
+      "text": "לפי דוח סטנפורד, ב-1969 לקח ורשל את התוכנה למעבדתו של קרפלוס בהרווארד.",
+      "source": "src4",
+      "quote": "In 1969, Warshel took the computer program with him to the laboratory of Martin Karplus, PhD, at Harvard University.",
+      "status": "confirmed",
+      "locator": "שורה 38"
+    },
+    {
+      "id": "c61",
+      "text": "לפי פיזיקס וורלד, ורשל הצטרף לקרפלוס בהרווארד ב-1970 והשניים החלו לשלב גישות קלאסיות וקוונטיות.",
+      "source": "src5",
+      "quote": "Warshel joined Karplus at Harvard in 1970 and the pair started to combine their classical and quantum approaches.",
+      "status": "confirmed",
+      "locator": "שורה 5"
+    },
+    {
+      "id": "c18",
+      "text": "לפי הרקע המדעי, הצעד הראשון בפיתוח המידול הרב-סקאלי נעשה כשאריה ורשל בא לבקר את מרטין קרפלוס בהרווארד.",
+      "source": "src7",
+      "quote": "The first step in the development of multiscale modelling was taken when Arieh Warshel came to visit Martin Karplus at Harvard",
+      "status": "confirmed",
+      "locator": "שורה 13"
+    },
+    {
+      "id": "c19",
+      "text": "ב-1976 הראו ורשל ולויט שאפשר לבנות סכמה כללית לחלוקה בין אלקטרונים המטופלים קלאסית לאלה המתוארים קוונטית.",
+      "source": "src7",
+      "quote": "as was shown a few years later, in 1976. Then Arieh Warshel and Michael Levitt showed that it is possible to construct a general scheme",
+      "status": "confirmed",
+      "locator": "שורה 15"
+    },
+    {
+      "id": "c74",
+      "text": "לפי MRC LMB, ב-1976 הפיקו לויט וורשל את המודל הממוחשב הראשון של תגובה אנזימטית, שאיפשר לדמות כל תגובה כימית עם כל מולקולה.",
+      "source": "src9",
+      "quote": "In 1976, Michael and Arieh produced the first computerised model of an enzymatic reaction, a development that allowed any kind of chemical reaction to be simulated involving any molecule, irrespective of size.",
+      "status": "confirmed",
+      "locator": "שורה 30"
+    },
+    {
+      "id": "c33",
+      "text": "ורשל סיפר שהוביל לפריצת הדרך בפיתוח גישת QM/MM, שבה החלקים הקוונטי והקלאסי צומדו באופן עקבי.",
+      "source": "src8",
+      "quote": "This led to the breakthrough development of the QM/MM approach, where the QM and MM where consistently coupled in contrast to the previous QM+MM attempts.",
+      "status": "confirmed",
+      "locator": "שורה 21"
+    },
+    {
+      "id": "c34",
+      "text": "ורשל כתב שהשימוש בגישת QM/MM בדוגמנות התגובה הקטליטית של ליזוזים סלל את הדרך לכיוון הנוכחי במידול פעולת אנזימים.",
+      "source": "src8",
+      "quote": "the use of our QM/MM approach in modeling the catalytic reaction of lysozyme paved the way for the current direction in modeling enzyme action",
+      "status": "confirmed",
+      "locator": "שורה 22"
+    },
+    {
+      "id": "c20",
+      "text": "במחקר על קיפול החלבון BPTI הוצג שאפשר לקבץ אטומים במערכת קלאסית ליחידות קשיחות ולטפל בהן כפסאודו-אטומים קלאסיים.",
+      "source": "src7",
+      "quote": "it was shown that it is possible to group atoms in a classical system into rigid units and to treat these as classical pseudoatoms.",
+      "status": "confirmed",
+      "locator": "שורה 19"
+    },
+    {
+      "id": "c75",
+      "text": "לפי אתר לינדאו, לויט כתב שהיה מעניין לספר איך העזו להשמיט 90 אחוז מהאטומים.",
+      "source": "src10",
+      "quote": "How we dared to leave out 90 percent of the atoms is an interesting story.",
+      "status": "confirmed",
+      "locator": "שורה 3"
+    },
+    {
+      "id": "c6",
+      "text": "לפי האקדמיה, בסימולציה של קישור תרופה לחלבון המטרה, המחשב מבצע חישובים קוונטיים על האטומים המקיימים אינטראקציה עם התרופה, ואת שאר החלבון הגדול הוא מדמה בפיזיקה קלאסית.",
+      "source": "src2",
+      "quote": "For instance, in simulations of how a drug couples to its target protein in the body, the computer performs quantum theoretical calculations on those atoms in the target protein that interact with the drug.",
+      "status": "confirmed",
+      "locator": "שורה 8"
+    },
+    {
+      "id": "c21",
+      "text": "לפי הרקע המדעי, עבודתם פתחה שיתוף פעולה פורה בין תיאוריה לניסוי, שאיפשר לפתור בעיות שקודם לא היו פתירות.",
+      "source": "src7",
+      "quote": "But most importantly, it has opened up a fruitful cooperation between theory and experiment that has made many otherwise unsolvable problems solvable.",
+      "status": "confirmed",
+      "locator": "שורה 19"
+    },
+    {
+      "id": "c40",
+      "text": "ורשל סיפר שבסוף 1987 לקח לו ולצוותו שבועיים בלבד להפוך את מבנה מרכז התגובה הפוטוסינתטי למנגנון פונקציונלי מפורט.",
+      "source": "src8",
+      "quote": "it took us only two weeks at the end of 1987 to convert the structure of the RC to a detailed functional mechanism.",
+      "status": "confirmed",
+      "locator": "שורה 30"
+    },
+    {
+      "id": "c68",
+      "text": "לפי דוח סטנפורד, עבודתו המוקדמת של לויט הובילה גם לשיטות מעשיות להאנשת נוגדנים, החיוניות לטיפול מודרני בסרטן כמו התרופה אווסטין.",
+      "source": "src4",
+      "quote": "It also led to practical methods for antibody humanization that are key for modern anticancer therapy, such as the drug Avastin.",
+      "status": "confirmed",
+      "locator": "שורה 21"
+    },
+    {
+      "id": "c7",
+      "text": "לדברי האקדמיה, המחשב חשוב כיום לכימאים כמו מבחנה.",
+      "source": "src2",
+      "quote": "Today the computer is just as important a tool for chemists as the test tube.",
+      "status": "confirmed",
+      "locator": "שורה 9"
+    },
+    {
+      "id": "c59",
+      "text": "לפי פיזיקס וורלד, השלושה יקבלו את מדליותיהם בטקס בשטוקהולם ב-10 בדצמבר ויתחלקו ב-8 מיליון כתרים.",
+      "source": "src5",
+      "quote": "The trio will share the SEK 8m (£775,000) and will receive their medals at a ceremony in Stockholm on 10 December.",
+      "status": "confirmed",
+      "locator": "שורה 2"
+    },
+    {
+      "id": "c41",
+      "text": "לפי הטכניון, ראש ממשלת ישראל בנימין נתניהו התקשר לוורשל לברך אותו.",
+      "source": "src11",
+      "quote": "Israel Prime Minister Benyamin Netanyahu called new Nobel laureate Arieh Warshel today",
+      "status": "confirmed",
+      "locator": "שורה 7"
+    },
+    {
+      "id": "c77",
+      "text": "המדען אלאן אספורו-גוזיק אמר לפיזיקס וורלד שקרפלוס, לויט וורשל הם חלוצים אמיתיים של הכימיה החישובית המודרנית.",
+      "source": "src5",
+      "quote": "Karplus, Levitt and Warshel are true pioneers of modern computational chemistry.",
+      "status": "confirmed",
+      "locator": "שורה 7"
+    },
+    {
+      "id": "c48",
+      "text": "לפי USC, מאז 1976 נבחר ורשל לאקדמיה הלאומית למדעים ולאגודה המלכותית לכימיה ופרסם יותר מ-350 מאמרים.",
+      "source": "src6",
+      "quote": "Since arriving in 1976, Warshel has been elected to the National Academy of Sciences and the Royal Society of Chemistry, and has published more than 350 scientific papers.",
+      "status": "confirmed",
+      "locator": "שורה 36"
+    },
+    {
+      "id": "c53",
+      "text": "לפי USC Today, ורשל נבחר לעמית בחברת סלואן, בחברה לביופיזיקה, באגודה המלכותית לכימיה ולאקדמיה הלאומית למדעים.",
+      "source": "src12",
+      "quote": "Warshel has been named an Alfred P. Sloan fellow, a fellow of the Biophysical Society, a fellow of the Royal Society of Chemistry and a member of the National Academy of Sciences.",
+      "status": "confirmed",
+      "locator": "שורה 27"
+    },
+    {
+      "id": "c58",
+      "text": "ורשל אמר שהוא מקווה שהנובל יסייע להשיג מימון נוסף לכימיה חישובית.",
+      "source": "src12",
+      "quote": "Warshel, for his part, says he hopes the Nobel will help unlock doors for additional funding for computational chemistry.",
+      "status": "confirmed",
+      "locator": "שורה 31"
+    },
+    {
+      "id": "c64",
+      "text": "לפי רויטרס, היכולת למחשב תהליכים כימיים מורכבים עשויה לאפשר בעתיד לדמות יצור חי שלם ברמה המולקולרית.",
+      "source": "src3",
+      "quote": "Ultimately, the ability to computerise such complex chemical processes might make it possible to simulate a complete living organism at the molecular level",
+      "status": "confirmed",
+      "locator": "שורה 11"
+    },
+    {
+      "id": "c14",
+      "text": "ורשל הוא אזרח ארצות הברית וישראל ופרופסור באוניברסיטת דרום קליפורניה בלוס אנג'לס.",
+      "source": "src3",
+      "quote": "Warshel, a U.S. and Israel citizen, is a professor at the University of Southern California, Los Angeles.",
+      "status": "confirmed",
+      "locator": "שורה 15"
+    },
+    {
+      "id": "c28",
+      "text": "ורשל סיפר שבמלחמת ששת הימים לחם כקצין קשר של גדוד טנקים במילואים שכבש יחד עם גדוד נוסף את רמת הגולן.",
+      "source": "src8",
+      "quote": "During the Six-Day War, I fought as the communication officer of a reserve tank battalion that together with another battalion took the Golan Heights.",
+      "status": "confirmed",
+      "locator": "שורה 15"
+    },
+    {
+      "id": "c50",
+      "text": "ורשל הוא אזרח ארצות הברית וישראל ולחם בצה\"ל כקצין קשר של גדוד טנקים.",
+      "source": "src6",
+      "quote": "A dual citizen of the United States and Israel, Warshel fought in the Israeli Army as communications officer of a tank regiment",
+      "status": "confirmed",
+      "locator": "שורה 49"
+    },
+    {
+      "id": "c51",
+      "text": "לפי USC Today, ורשל נפגע באוזן הימנית מכדור סורי שהעיף את קסדתו ברמת הגולן ביום האחרון של הלחימה.",
+      "source": "src12",
+      "quote": "catching a Syrian bullet that blew off his helmet and nicked his right ear in the Golan Heights",
+      "status": "confirmed",
+      "locator": "שורה 3"
+    },
+    {
+      "id": "c52",
+      "text": "לפי USC Dornsife, צלקת באוזנו הימנית של ורשל מזכירה כדור שפילח את קסדתו.",
+      "source": "src6",
+      "quote": "A scar on his right ear is a reminder of his close brush with death when a bullet pierced his helmet.",
+      "status": "confirmed",
+      "locator": "שורה 49"
+    },
+    {
+      "id": "c31",
+      "text": "ורשל סיפר שמלחמת יום הכיפורים, שבה לחם שוב ברמת הגולן, הייתה טראומטית עבורו.",
+      "source": "src8",
+      "quote": "The 1973 Yom Kippur War (where I fought in the Golan Heights again) was quite traumatic for me",
+      "status": "confirmed",
+      "locator": "שורה 20"
+    },
+    {
+      "id": "c35",
+      "text": "ורשל סיפר שבפברואר 1976 עבר מקיימברידג' לאוניברסיטת דרום קליפורניה והחל לעבוד שם.",
+      "source": "src8",
+      "quote": "In February 1976 I moved from Cambridge to the University of Southern California (USC) and started my job there.",
+      "status": "confirmed",
+      "locator": "שורה 25"
+    },
+    {
+      "id": "c43",
+      "text": "לפי הטכניון, ורשל היה פרופסור חבר בוויצמן עד 1978, אז עבר לאוניברסיטת דרום קליפורניה.",
+      "source": "src11",
+      "quote": "was an associate professor at Weizmann until 1978, when he moved to the University of Southern California.",
+      "status": "confirmed",
+      "locator": "שורה 9"
+    },
+    {
+      "id": "c65",
+      "text": "לפי אנציקלופדיה בריטניקה, לויט הוא כימאי אמריקני-בריטי-ישראלי.",
+      "source": "src13",
+      "quote": "is an American British Israeli chemist who was awarded the 2013",
+      "status": "confirmed",
+      "locator": "שורה 80"
+    },
+    {
+      "id": "c76",
+      "text": "לפי אתר לינדאו, לויט התמיד בבקשתו להצטרף למעבדה ב-LMB בקיימברידג' גם לאחר שנדחה.",
+      "source": "src10",
+      "quote": "Michael Levitt persisted, asking to join LMB a year later, again without a clear result.",
+      "status": "confirmed",
+      "locator": "שורה 8"
+    },
+    {
+      "id": "c72",
+      "text": "לפי האקדמיה השוודית, לויט קיבל דוקטורט מקיימברידג' ב-1971.",
+      "source": "src2",
+      "quote": "Ph.D. 1971 from University of Cambridge, UK. Robert W. and Vivian K. Cahill Professor",
+      "status": "confirmed",
+      "locator": "שורה 11"
+    },
+    {
+      "id": "c73",
+      "text": "לפי דוח סטנפורד, לויט קיבל דוקטורט מקיימברידג' ב-1972.",
+      "source": "src4",
+      "quote": "He received his PhD from Cambridge University in 1972 and was a postdoctoral scholar at the Weizmann Institute of Science, in Israel, from 1972",
+      "status": "confirmed",
+      "locator": "שורה 29"
+    },
+    {
+      "id": "c78",
+      "text": "לפי פיזיקס וורלד, קרפלוס נולד בווינה ב-1930 והיגר עם משפחתו לארצות הברית ב-1938.",
+      "source": "src5",
+      "quote": "Karplus was born in Vienna in 1930 and immigrated to the US with his family in 1938.",
+      "status": "confirmed",
+      "locator": "שורה 9"
+    },
+    {
+      "id": "c10",
+      "text": "מרטין קרפלוס הוא אזרח ארצות הברית ואוסטריה, ונולד ב-1930 בווינה.",
+      "source": "src2",
+      "quote": "Martin Karplus, U.S. and Austrian citizen. Born 1930 in Vienna, Austria.",
+      "status": "confirmed",
+      "locator": "שורה 10"
+    },
+    {
+      "id": "c46",
+      "text": "ורשל סיפר שנסיינים בישראל שמעו על חישוב רעידות של מולקולות גדולות ואמרו שזה בלתי אפשרי.",
+      "source": "src6",
+      "quote": "There were experimentalists in Israel who heard I was taking big molecules and using our program to calculate vibrations",
+      "status": "confirmed",
+      "locator": "שורה 9"
+    },
+    {
+      "id": "c56",
+      "text": "ורשל אמר שלדעת רבים בקהילה המדעית מידול ממוחשב בכימיה שימושי רק ליצירת תמונות יפות למאמרים.",
+      "source": "src12",
+      "quote": "Even as computer modeling improved with new technology, many in the scientific community believed that computer modeling in chemistry was only good for generating pretty images",
+      "status": "confirmed",
+      "locator": "שורה 11"
+    },
+    {
+      "id": "c32",
+      "text": "ורשל סיפר שהגישה שלו ושל לויט לקיפול חלבונים זכתה לביקורת חריפה.",
+      "source": "src8",
+      "quote": "Incidentally, our approach was strongly criticized, implying that simpler amino acid chains would also fold similarly to our BPTI",
+      "status": "confirmed",
+      "locator": "שורה 20"
+    },
+    {
+      "id": "c36",
+      "text": "ורשל סיפר שמודל המים שלו נדחה על ידי שלושה כתבי עת בהערות שופטים בלתי הגיוניות בעליל.",
+      "source": "src8",
+      "quote": "This completely reasonable model was rejected by three journals with entirely illogical referees",
+      "status": "confirmed",
+      "locator": "שורה 26"
+    },
+    {
+      "id": "c37",
+      "text": "ורשל כתב שרוב הקהילה הביוכימית לא האמינה בקטליזה אלקטרוסטטית.",
+      "source": "src8",
+      "quote": "Significantly, the majority of the biochemical community did not believe in electrostatic catalysis",
+      "status": "confirmed",
+      "locator": "שורה 27"
+    },
+    {
+      "id": "c39",
+      "text": "ורשל כתב שדוחות השופטים היו כמעט תמיד עוינים מאוד ושהמאבקים שלו עם השופטים הפכו לאגדיים.",
+      "source": "src8",
+      "quote": "The referee reports were almost always very hostile and my fight with referees became legendary",
+      "status": "confirmed",
+      "locator": "שורה 35"
+    },
+    {
+      "id": "c38",
+      "text": "ורשל כתב שהרעיונות המרכזיים שלו נחשבו תחילה שגויים, אחר כך טריוויאליים, ויוחסו שוב ושוב לאחרים.",
+      "source": "src8",
+      "quote": "my key idea and results were originally considered to be incorrect and then termed as trivial ideas that were persistently attributed to others.",
+      "status": "confirmed",
+      "locator": "שורה 35"
+    },
+    {
+      "id": "c47",
+      "text": "ורשל תיאר שהקהילה אמרה קודם שהעבודה בלתי אפשרית, כעבור כ-10 שנים שהיא טריוויאלית.",
+      "source": "src6",
+      "quote": "So this goes on for 10 years. Then they would say what you are doing is trivial.",
+      "status": "confirmed",
+      "locator": "שורה 19"
+    },
+    {
+      "id": "c69",
+      "text": "לפי דוח סטנפורד, לויט הוא אזרח ארצות הברית, בריטניה וישראל והפרס הוא 1.2 מיליון דולר.",
+      "source": "src4",
+      "quote": "Levitt, who holds U.S., British and Israeli citizenship, shares the $1.2 million prize with",
+      "status": "confirmed",
+      "locator": "שורה 9"
+    },
+    {
+      "id": "c60",
+      "text": "לפי פיזיקס וורלד, לויט הוא אזרח ארצות הברית ובריטניה.",
+      "source": "src5",
+      "quote": "is a US and UK citizen working at Stanford University",
+      "status": "confirmed",
+      "locator": "שורה 2"
+    },
+    {
+      "id": "c42",
+      "text": "לפי הטכניון, הפרס עמד על 8 מיליון כתרים, כ-1.25 מיליון דולר.",
+      "source": "src11",
+      "quote": "when awarding the prize of 8 million crowns ($1.25 million)",
+      "status": "confirmed",
+      "locator": "שורה 5"
+    },
+    {
+      "id": "c79",
+      "text": "לפי Encyclopedia.com, ורשל הוא פרופסור באוניברסיטת דרום קליפורניה משנת 1976.",
+      "source": "src14",
+      "quote": "He has been a professor at the Univ. of Southern California since 1976.",
+      "status": "confirmed",
+      "locator": "שורה 5"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src1",
+      "label": "NobelPrize.org, פרס נובל בכימיה 2013, 9.10.2013",
+      "url": "https://www.nobelprize.org/prizes/chemistry/2013/summary/",
+      "kind": "official"
+    },
+    {
+      "id": "src2",
+      "label": "האקדמיה המלכותית השוודית למדעים, הודעה על פרס הנובל בכימיה 2013",
+      "url": "https://www.kva.se/en/news/nobelpriset-i-kemi-2013-2/",
+      "kind": "official"
+    },
+    {
+      "id": "src3",
+      "label": "The Forward, Three Jews Share Nobel Prize for Work Using Computers for Chemistry, 9.10.2013",
+      "url": "https://forward.com/news/breaking-news/185286/three-jews-share-nobel-prize-for-work-using-comput/",
+      "kind": "press"
+    },
+    {
+      "id": "src4",
+      "label": "Stanford Report, Krista Conger, 9.10.2013",
+      "url": "https://biox.stanford.edu/node/163",
+      "kind": "press"
+    },
+    {
+      "id": "src5",
+      "label": "Physics World, Chemistry Nobel honours trio who combined classical and quantum physics, 2013",
+      "url": "https://physicsworld.com/a/chemistry-nobel-honours-trio-who-combined-classical-and-quantum-physics/",
+      "kind": "press"
+    },
+    {
+      "id": "src6",
+      "label": "USC Dornsife, A Nobel Victory",
+      "url": "https://dornsife.usc.edu/news/stories/a-nobel-victory/",
+      "kind": "organisation"
+    },
+    {
+      "id": "src7",
+      "label": "האקדמיה המלכותית השוודית למדעים, Scientific Background, 2013",
+      "url": "https://nobelprize.org/uploads/2018/06/advanced-chemistryprize2013-1.pdf",
+      "kind": "official"
+    },
+    {
+      "id": "src8",
+      "label": "NobelPrize.org, ביוגרפיה של אריה ורשל",
+      "url": "https://www.nobelprize.org/nobel_prizes/chemistry/laureates/2013/warshel-bio.html",
+      "kind": "official"
+    },
+    {
+      "id": "src9",
+      "label": "MRC LMB, Nobel Prize in Chemistry 2013",
+      "url": "https://mrclmb.ac.uk/?p=972",
+      "kind": "organisation"
+    },
+    {
+      "id": "src10",
+      "label": "Lindau Nobel Laureate Meetings, Michael Levitt: a pioneer of computational biology",
+      "url": "https://www.lindau-nobel.org/michael-levitt-a-pioneer-of-computational-biology/",
+      "kind": "press"
+    },
+    {
+      "id": "src11",
+      "label": "הטכניון, ורשל, בוגר הטכניון, זוכה בנובל לכימיה 2013",
+      "url": "https://www.technion.ac.il/en/2013/12/technion-graduate-arieh-warshel-wins-2013-nobel-prize-in-chemistry/",
+      "kind": "organisation"
+    },
+    {
+      "id": "src12",
+      "label": "USC Today, The Nobel Man",
+      "url": "https://today.usc.edu/the-nobel-man/",
+      "kind": "press"
+    },
+    {
+      "id": "src13",
+      "label": "Encyclopaedia Britannica, Michael Levitt",
+      "url": "https://www.britannica.com/biography/Michael-Levitt",
+      "kind": "reference"
+    },
+    {
+      "id": "src14",
+      "label": "Encyclopedia.com, Warshel, Arieh",
+      "url": "https://encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/warshel-arieh",
+      "kind": "reference"
+    }
+  ],
+  "media": [
+    {
+      "id": "m1",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Arieh%20Warshel%20%2850372668511%29.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Arieh_Warshel_%2850372668511%29.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "Bengt Nyman from Vaxholm, Sweden",
+      "licence": "CC BY 2.0",
+      "hosting": "hotlink",
+      "caption": "דיוקן של אריה ורשל, מחבש משקפיים ולבוש חליפה וחולצה לבנה, על רקע שחור.",
+      "illustrates": [],
+      "licence_url": "https://creativecommons.org/licenses/by/2.0",
+      "date": "2013-12-07",
+      "width": 3150,
+      "height": 3150
+    },
+    {
+      "id": "m2",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Arieh%20Warshel%206%202013.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Arieh_Warshel_6_2013.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "Bengt Nyman",
+      "licence": "CC BY 2.0",
+      "hosting": "hotlink",
+      "caption": "דיוקן של אריה ורשל בדצמבר 2013, מחייך, לבוש חליפה כהה ועניבה אדומה.",
+      "illustrates": [],
+      "licence_url": "https://creativecommons.org/licenses/by/2.0",
+      "date": "2013-12-07",
+      "width": 2783,
+      "height": 2783
+    },
+    {
+      "id": "m3",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Arieh%20Warshel.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Arieh_Warshel.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "AW_TW_PS.jpg: Catgunhome *derivative work: User:an-d",
+      "licence": "CC BY 3.0",
+      "hosting": "hotlink",
+      "caption": "דיוקן של אריה ורשל בחולצה כחולה, בחוץ מול צמחייה.",
+      "illustrates": [],
+      "licence_url": "https://creativecommons.org/licenses/by/3.0",
+      "date": "2013-10-10",
+      "width": 2761,
+      "height": 3403
+    },
+    {
+      "id": "m4",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/DIMG%207552%20%2811253386895%29.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:DIMG_7552_%2811253386895%29.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "Bengt Nyman from Vaxholm, Sweden",
+      "licence": "CC BY 2.0",
+      "hosting": "hotlink",
+      "caption": "אריה ורשל יושב ליד שולחן במסיבת העיתונאים של זוכי נובל 2013 באקדמיה המלכותית השוודית למדעים, ולפניו שלט עם שמו.",
+      "illustrates": [],
+      "licence_url": "https://creativecommons.org/licenses/by/2.0",
+      "date": "2013-12-07",
+      "width": 2838,
+      "height": 2838
+    },
+    {
+      "id": "m5",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/DIMG%207461%20%2811253417206%29.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:DIMG_7461_%2811253417206%29.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "Bengt Nyman from Vaxholm, Sweden",
+      "licence": "CC BY 2.0",
+      "hosting": "hotlink",
+      "caption": "אריה ורשל במסיבת העיתונאים של זוכי נובל 2013, מביט הצידה על רקע וילון עם עיטורי זהב.",
+      "illustrates": [],
+      "licence_url": "https://creativecommons.org/licenses/by/2.0",
+      "date": "2013-12-07",
+      "width": 3150,
+      "height": 3150
+    },
+    {
+      "id": "m6",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/DIMG%207557%20%2811253385805%29.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:DIMG_7557_%2811253385805%29.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "Bengt Nyman from Vaxholm, Sweden",
+      "licence": "CC BY 2.0",
+      "hosting": "hotlink",
+      "caption": "אריה ורשל מחייך מאחורי שלט עם שמו במסיבת העיתונאים של זוכי נובל 2013.",
+      "illustrates": [],
+      "licence_url": "https://creativecommons.org/licenses/by/2.0",
+      "date": "2013-12-07",
+      "width": 2896,
+      "height": 2896
+    },
+    {
+      "id": "m7",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/DIMG%207483%20%2811253416446%29.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:DIMG_7483_%2811253416446%29.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "Bengt Nyman from Vaxholm, Sweden",
+      "licence": "CC BY 2.0",
+      "hosting": "hotlink",
+      "caption": "אריה ורשל יושב ליד מיקרופון ושלט עם שמו במסיבת העיתונאים של זוכי נובל 2013.",
+      "illustrates": [],
+      "licence_url": "https://creativecommons.org/licenses/by/2.0",
+      "date": "2013-12-07",
+      "width": 3059,
+      "height": 3059
+    },
+    {
+      "id": "m8",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nobel%20Prize%203%202013.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Nobel_Prize_3_2013.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "Bengt Nyman",
+      "licence": "CC BY 2.0",
+      "hosting": "hotlink",
+      "caption": "זוכי פרסי נובל 2013 יושבים בשורה ליד שולחן במסיבת העיתונאים באקדמיה השוודית, בהם ורשל, לויט וקרפלוס, לפי השלטים שלפניהם.",
+      "illustrates": [
+        "c1"
+      ],
+      "licence_url": "https://creativecommons.org/licenses/by/2.0",
+      "date": "2013-12-07",
+      "width": 7302,
+      "height": 2895
+    },
+    {
+      "id": "m9",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nobel%20Prize%202%202013.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Nobel_Prize_2_2013.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "Bengt Nyman",
+      "licence": "CC BY 2.0",
+      "hosting": "hotlink",
+      "caption": "זוכי פרסי נובל 2013 יושבים ליד שולחן במסיבת העיתונאים, ולפני כל אחד שלט עם שמו, ובהם ורשל, לויט וקרפלוס.",
+      "illustrates": [
+        "c1"
+      ],
+      "licence_url": "https://creativecommons.org/licenses/by/2.0",
+      "date": "2013-12-07",
+      "width": 7360,
+      "height": 2944
+    },
+    {
+      "id": "m11",
+      "kind": "video",
+      "url": "https://www.youtube.com/watch?v=_eNi_rpmH64",
+      "youtube_id": "_eNi_rpmH64",
+      "source_page": "https://www.youtube.com/watch?v=_eNi_rpmH64",
+      "source_name": "YouTube",
+      "credit": "Haaretz הארץ",
+      "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+      "licence_url": "https://www.youtube.com/static?template=terms",
+      "hosting": "embed",
+      "caption": "דיווח של הארץ על זכייתם של ורשל ולויט, ישראלים שהיגרו לארה\"ב, בפרס נובל בכימיה יחד עם מרטין קרפלוס, על פיתוח מודלים למערכות כימיות מורכבות.",
+      "illustrates": [
+        "c1"
+      ],
+      "spoken": "en",
+      "audio_tracks": [
+        "en"
+      ]
+    },
+    {
+      "id": "m12",
+      "kind": "video",
+      "url": "https://www.youtube.com/watch?v=DXuxlibtffc",
+      "youtube_id": "DXuxlibtffc",
+      "source_page": "https://www.youtube.com/watch?v=DXuxlibtffc",
+      "source_name": "YouTube",
+      "credit": "Haaretz הארץ",
+      "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+      "licence_url": "https://www.youtube.com/static?template=terms",
+      "hosting": "embed",
+      "caption": "דיווח של הארץ שבו בכיר באוניברסיטה העברית מספר שהמחקר שזיכה את ורשל ולויט בנובל בוצע בחלקו בישראל, במכון ויצמן.",
+      "illustrates": [],
+      "spoken": "he",
+      "audio_tracks": [
+        "he"
+      ]
+    },
+    {
+      "id": "m13",
+      "kind": "video",
+      "url": "https://www.youtube.com/watch?v=BwxKcwhA0_w",
+      "youtube_id": "BwxKcwhA0_w",
+      "source_page": "https://www.youtube.com/watch?v=BwxKcwhA0_w",
+      "source_name": "YouTube",
+      "credit": "IsraeliPM",
+      "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+      "licence_url": "https://www.youtube.com/static?template=terms",
+      "hosting": "embed",
+      "caption": "ראש הממשלה נתניהו מתקשר לברך את פרופ' אריה ורשל על זכייתו בפרס נובל בכימיה.",
+      "illustrates": [
+        "c41"
+      ],
+      "spoken": "he",
+      "audio_tracks": [
+        "he"
+      ]
+    },
+    {
+      "id": "m14",
+      "kind": "video",
+      "url": "https://www.youtube.com/watch?v=OA2IQxL6Quo",
+      "youtube_id": "OA2IQxL6Quo",
+      "source_page": "https://www.youtube.com/watch?v=OA2IQxL6Quo",
+      "source_name": "YouTube",
+      "credit": "Nobel Prize",
+      "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+      "licence_url": "https://www.youtube.com/static?template=terms",
+      "hosting": "embed",
+      "caption": "ראיון טלפוני של אתר פרס נובל עם אריה ורשל לאחר ההודעה על זכייתו בנובל לכימיה 2013.",
+      "illustrates": [],
+      "spoken": "en",
+      "audio_tracks": [
+        "en"
+      ]
+    },
+    {
+      "id": "m15",
+      "kind": "video",
+      "url": "https://www.youtube.com/watch?v=3IL2NEDVQpE",
+      "youtube_id": "3IL2NEDVQpE",
+      "source_page": "https://www.youtube.com/watch?v=3IL2NEDVQpE",
+      "source_name": "YouTube",
+      "credit": "גדי דן",
+      "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+      "licence_url": "https://www.youtube.com/static?template=terms",
+      "hosting": "embed",
+      "caption": "ראיון בחדשות 2 עם מייקל לויט, חודש לפני קבלת הפרס בשטוקהולם, על הסיבה שבגללה עזב את ישראל.",
+      "illustrates": []
+    },
+    {
+      "id": "m16",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Arieh%20Warshel%20at%20GYSS%2018Jan2016.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Arieh_Warshel_at_GYSS_18Jan2016.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "Sinednov",
+      "licence": "CC BY-SA 4.0",
+      "hosting": "hotlink",
+      "caption": "אריה ורשל נואם ליד דוכן עם מחשב נייד בפסגת המדענים הצעירים הגלובלית בסינגפור, ינואר 2016.",
+      "illustrates": [],
+      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2016-01-18",
+      "width": 2408,
+      "height": 4208,
+      "role": "deed"
+    },
+    {
+      "id": "m17",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Panel%20Discussion%20at%20GYSS%2018Jan2016.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Panel_Discussion_at_GYSS_18Jan2016.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "Sinednov",
+      "licence": "CC BY-SA 4.0",
+      "hosting": "hotlink",
+      "caption": "דיון פאנל בפסגת המדענים הצעירים בסינגפור, ינואר 2016, ובו אריה ורשל, הרביעי משמאל לפי תיאור הארכיון.",
+      "illustrates": [],
+      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2016-01-18",
+      "width": 3791,
+      "height": 1621,
+      "role": "deed"
+    },
+    {
+      "id": "m19",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/DIMG%207567%20%2811253381675%29.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:DIMG_7567_%2811253381675%29.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "Bengt Nyman from Vaxholm, Sweden",
+      "licence": "CC BY 2.0",
+      "hosting": "hotlink",
+      "caption": "מייקל לויט מדבר ליד מיקרופון ושלט עם שמו במסיבת העיתונאים של זוכי נובל, דצמבר 2013.",
+      "illustrates": [],
+      "licence_url": "https://creativecommons.org/licenses/by/2.0",
+      "date": "2013-12-07",
+      "width": 2941,
+      "height": 2941,
+      "role": "deed"
+    },
+    {
+      "id": "m20",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/ISMB%20Fellows%202015.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:ISMB_Fellows_2015.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "ismb",
+      "licence": "CC BY 2.0",
+      "hosting": "hotlink",
+      "caption": "חברי ISMB לשנת 2015 על הבמה, ובהם מייקל לויט, האחרון מימין לפי תיאור הארכיון.",
+      "illustrates": [],
+      "licence_url": "https://creativecommons.org/licenses/by/2.0",
+      "date": "2015-07-12",
+      "width": 1800,
+      "height": 1200,
+      "role": "deed"
+    },
+    {
+      "id": "m22",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Michael%20Levitt.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Michael_Levitt.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "Keilana",
+      "licence": "Public domain",
+      "hosting": "hotlink",
+      "caption": "מייקל לויט בכנס האגודה הביופיזית, 2013, בחולצה סגולה באולם.",
+      "illustrates": [],
+      "date": "2013-02-03",
+      "width": 1840,
+      "height": 1868,
+      "role": "deed"
+    },
+    {
+      "id": "m23",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nobel%20Prize%2017%202013.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Nobel_Prize_17_2013.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "Bengt Nyman",
+      "licence": "CC BY 2.0",
+      "hosting": "hotlink",
+      "caption": "מייקל לויט מחייך בחליפה, עם סיכת פרס נובל בדש, במסיבת העיתונאים של זוכי 2013.",
+      "illustrates": [],
+      "licence_url": "https://creativecommons.org/licenses/by/2.0",
+      "date": "2013-12-07",
+      "width": 2903,
+      "height": 2903,
+      "role": "deed"
+    },
+    {
+      "id": "m25",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nobel%20Prize%2019%202013.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Nobel_Prize_19_2013.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "Bengt Nyman",
+      "licence": "CC BY 2.0",
+      "hosting": "hotlink",
+      "caption": "מייקל לויט מדבר ומחווה בידו במסיבת העיתונאים של זוכי נובל, דצמבר 2013.",
+      "illustrates": [],
+      "licence_url": "https://creativecommons.org/licenses/by/2.0",
+      "date": "2013-12-07",
+      "width": 2953,
+      "height": 2953,
+      "role": "deed"
+    },
+    {
+      "id": "m26",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nobel%20Week%20Dialogue%202015%20Final%20panel.JPG?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Nobel_Week_Dialogue_2015_Final_panel.JPG",
+      "source_name": "Wikimedia Commons",
+      "credit": "Bengt Oberger",
+      "licence": "CC BY-SA 4.0",
+      "hosting": "hotlink",
+      "caption": "פאנל בשבוע הדיאלוג של נובל 2015, ובו מייקל לויט, הרביעי משמאל לפי תיאור הארכיון.",
+      "illustrates": [],
+      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2015-12-09",
+      "width": 5913,
+      "height": 2721,
+      "role": "deed"
+    },
+    {
+      "id": "m27",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/%E8%8E%B1%E7%BB%B4%E7%89%B9%2020261030.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:%E8%8E%B1%E7%BB%B4%E7%89%B9_20261030.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "Huangchinhsu",
+      "licence": "CC BY-SA 4.0",
+      "hosting": "hotlink",
+      "caption": "מייקל לויט בחליפה כהה מול רקע כחול בפורום מדענים מובילים, 2026.",
+      "illustrates": [],
+      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2026-10-31",
+      "width": 2468,
+      "height": 3700,
+      "role": "deed"
+    },
+    {
+      "id": "m28",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/DIMG%207468%20%2811253470303%29.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:DIMG_7468_%2811253470303%29.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "Bengt Nyman from Vaxholm, Sweden",
+      "licence": "CC BY 2.0",
+      "hosting": "hotlink",
+      "caption": "מרטין קרפלוס בפרופיל, בסוודר כהה, במסיבת העיתונאים של זוכי נובל בכימיה, דצמבר 2013.",
+      "illustrates": [],
+      "licence_url": "https://creativecommons.org/licenses/by/2.0",
+      "date": "2013-12-07",
+      "width": 3493,
+      "height": 3493,
+      "role": "deed"
+    },
+    {
+      "id": "m31",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/DIMG%207548%20%2811253376125%29.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:DIMG_7548_%2811253376125%29.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "Bengt Nyman from Vaxholm, Sweden",
+      "licence": "CC BY 2.0",
+      "hosting": "hotlink",
+      "caption": "מרטין קרפלוס מדבר ומחווה בשתי ידיו במסיבת העיתונאים של זוכי נובל, דצמבר 2013.",
+      "illustrates": [],
+      "licence_url": "https://creativecommons.org/licenses/by/2.0",
+      "date": "2013-12-07",
+      "width": 3201,
+      "height": 3201,
+      "role": "deed"
+    }
+  ],
+  "check": {
+    "passed": true,
+    "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
+    "checked_at": "2026-11-14T02:39:58Z",
+    "counts": {
+      "confirmed": 92,
+      "not_confirmed": 0,
+      "deleted_sentences": 1,
+      "first_round_confirmed": 89,
+      "first_round_contradicted": 2,
+      "first_round_unverifiable": 1
+    },
+    "note": "unverifiable sentences were deleted, contradicted ones fixed from the source and checked again"
+  },
+  "meta": {
+    "run": "warshel-levitt-chemistry-nobel",
+    "pipeline": "scripts/museum/museum_line.py",
+    "models": {
+      "research": "sonnet-5-5",
+      "extract": "sonnet-5-5",
+      "media": "sonnet-5-5",
+      "write": "opus-5-5 medium",
+      "check": "opus-5-5 medium",
+      "fix": "opus-5-5 medium"
+    },
+    "source_quality": {
+      "sources": 13,
+      "wikipedia": 0,
+      "strong": 9,
+      "ok": true,
+      "warnings": []
+    },
+    "settled": [
+      {
+        "box": "d2",
+        "question": "באיזו שנה עבר ורשל לאוניברסיטת דרום קליפורניה?",
+        "url": "https://encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/warshel-arieh",
+        "by": "settle 24.11"
+      }
+    ],
+    "media_dedupe": [
+      {
+        "drop": "m10",
+        "keep": "m8",
+        "by": "reviewed 24.11"
+      }
+    ]
+  }
+}

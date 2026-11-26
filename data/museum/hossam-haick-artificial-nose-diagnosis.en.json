@@ -1,0 +1,1743 @@
+{
+ "schema": "maasei-museum/1",
+ "slug": "hossam-haick-artificial-nose-diagnosis",
+ "deed": "פרופ׳ חוסאם חאיק המציא אף מלאכותי שמאבחן מחלות מנשיפת האוויר",
+ "canonical_type": "team-invention",
+ "year": "2006",
+ "title": "Prof. Hossam Haick of the Technion developed an artificial nose that identifies 17 diseases from a single breath",
+ "trailer": [
+  {
+   "text": "Prof. Hossam Haick is an Arab-Israeli scientist and engineer and a Full Professor at the Technion, born in 1975 in Nazareth into an Arab Christian family.",
+   "claims": [
+    "c80",
+    "c81"
+   ]
+  },
+  {
+   "text": "At the Technion he developed an \"artificial nose\" that diagnoses diseases through chemical analysis of exhaled breath.",
+   "claims": [
+    "c51"
+   ]
+  },
+  {
+   "text": "The array is called Na-Nose. It is based on gold particles and carbon tubes, and it diagnoses and classifies 17 diseases from a single breath.",
+   "claims": [
+    "c12"
+   ]
+  },
+  {
+   "text": "According to Haick, in a study of 1,404 subjects in five countries, the system detected and sorted the diseases with an average accuracy of 86%.",
+   "claims": [
+    "c56",
+    "c60"
+   ]
+  },
+  {
+   "text": "In 2026, Haick received the Presidential Medal of Honour.",
+   "claims": [
+    "c83"
+   ]
+  }
+ ],
+ "hero_media": [
+  "m2",
+  "m1",
+  "m3",
+  "m4",
+  "m12",
+  "m14",
+  "m15",
+  "m16",
+  "m18"
+ ],
+ "glance": [
+  {
+   "label": "Inventor",
+   "value": "Prof. Hossam Haick, Technion",
+   "claims": [
+    "c80"
+   ]
+  },
+  {
+   "label": "Since",
+   "value": "2006",
+   "claims": [
+    "c14",
+    "c82"
+   ]
+  },
+  {
+   "label": "Where",
+   "value": "Technion, Haifa",
+   "claims": [
+    "c11"
+   ]
+  },
+  {
+   "label": "Scope",
+   "value": "1,404 subjects in 5 countries",
+   "claims": [
+    "c56"
+   ]
+  },
+  {
+   "label": "Recognition",
+   "value": "Presidential Medal of Honour, 2026",
+   "claims": [
+    "c83"
+   ]
+  }
+ ],
+ "stations": [
+  {
+   "id": "s1",
+   "title": "From Nazareth to the Technion",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "Hossam Haick was born in 1975 in Nazareth, into an Arab Christian family.",
+      "claims": [
+       "c81"
+      ]
+     },
+     {
+      "text": "He is not a medical doctor.",
+      "claims": [
+       "c43"
+      ]
+     },
+     {
+      "text": "He did his doctorate in the field of energy, and only later switched to biomedical technology.",
+      "claims": [
+       "c43"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "After a postdoc at Caltech he returned to the Technion.",
+      "claims": [
+       "c49"
+      ]
+     },
+     {
+      "text": "In 2006 he joined the faculty as an Assistant Professor in the Wolfson Faculty of Chemical Engineering.",
+      "claims": [
+       "c82"
+      ]
+     },
+     {
+      "text": "That is also when he began developing the device.",
+      "claims": [
+       "c14"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "Haick said his inspiration was dogs that identify disease.",
+      "claims": [
+       "c44"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m2",
+    "m3",
+    "m10",
+    "m17",
+    "m19",
+    "m20"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s2",
+   "title": "How to smell a disease",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "The device is a white desktop box with a tube.",
+      "claims": [
+       "c15"
+      ]
+     },
+     {
+      "text": "A person exhales into the tube, and the breath is sent into an array of sensors.",
+      "claims": [
+       "c15"
+      ]
+     },
+     {
+      "text": "Some of the sensors are made of layers of gold nanoparticles, and others of a random network of carbon nanotubes.",
+      "claims": [
+       "c58"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "When volatile compounds from the breath bind to the ligands, the electrical resistance between the nanoparticles or nanotubes changes.",
+      "claims": [
+       "c16"
+      ]
+     },
+     {
+      "text": "The signal is sent to a computer.",
+      "claims": [
+       "c16"
+      ]
+     },
+     {
+      "text": "Haick explained that instead of a nose there are chemical sensors, and instead of a brain there are algorithms, as with dogs that identify a smell.",
+      "claims": [
+       "c29"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "As early as 2009, a paper of his in Nature Nanotechnology demonstrated the diagnosis of lung cancer from exhaled breath using sensor arrays with gold nanoparticles.",
+      "claims": [
+       "c87"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m6",
+    "m4",
+    "m11"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s3",
+   "title": "17 diseases, one breath",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "Between January 2011 and June 2014, samples were collected from 1,404 subjects.",
+      "claims": [
+       "c56"
+      ]
+     },
+     {
+      "text": "They were recruited in the United States, Israel, France, Latvia and China.",
+      "claims": [
+       "c33"
+      ]
+     },
+     {
+      "text": "First, using mass spectrometry, the group identified the compound signatures of 17 diseases.",
+      "claims": [
+       "c28"
+      ]
+     },
+     {
+      "text": "The diseases included lung, bowel, head and neck, ovarian, bladder, prostate, kidney and stomach cancer, as well as Crohn's disease.",
+      "claims": [
+       "c55"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "At an earlier stage, separately from the study on the 17 diseases, the team tested the device in clinics on more than 8,000 patients, to teach the software to distinguish between disease and confounding factors.",
+      "claims": [
+       "c18"
+      ]
+     },
+     {
+      "text": "Gender, age, smoking and geographic location were found to have a negligible effect on the sample.",
+      "claims": [
+       "c59"
+      ]
+     },
+     {
+      "text": "According to Haick, the system detected and sorted the diseases with an average accuracy of 86%.",
+      "claims": [
+       "c60"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "Until this study, efforts of this kind were mainly used to detect a single disease.",
+      "claims": [
+       "c27"
+      ]
+     },
+     {
+      "text": "According to ynet, the paper gave the first scientific proof of a 2,400-year-old hypothesis that breath tests may provide information about clinical conditions.",
+      "claims": [
+       "c52"
+      ]
+     },
+     {
+      "text": "Haick said that every disease has a chemical signature that distinguishes it from other diseases and from a normal state of health.",
+      "claims": [
+       "c57"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m5",
+    "m13"
+   ],
+   "disagreements": [
+    "d2",
+    "d3"
+   ]
+  },
+  {
+   "id": "s4",
+   "title": "Catching it early",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "In clinical studies the device distinguished between stages of stomach cancer and lung cancer, as early as stage one.",
+      "claims": [
+       "c24"
+      ]
+     },
+     {
+      "text": "In four out of five cases, the NaNose chip distinguished between benign and malignant lung lesions, and even between cancer subtypes.",
+      "claims": [
+       "c38"
+      ]
+     },
+     {
+      "text": "Haick said the aim is to detect disease at an early stage and raise the survival rate.",
+      "claims": [
+       "c25"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "A joint study by Beilinson and the Technion examined whether atherosclerotic heart disease can be predicted with a breath test.",
+      "claims": [
+       "c71"
+      ]
+     },
+     {
+      "text": "About 60 patients with no known heart disease, who came to the Beilinson emergency department because of chest pain, were tested.",
+      "claims": [
+       "c72"
+      ]
+     },
+     {
+      "text": "The test separated normal arteries from atherosclerosis with a sensitivity of 69% and a specificity of 67%.",
+      "claims": [
+       "c73"
+      ]
+     }
+    ]
+   ],
+   "media": [],
+   "disagreements": [
+    "d1"
+   ]
+  },
+  {
+   "id": "s5",
+   "title": "A Coronavirus Breath Test",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "The common coronavirus tests were done by taking a sample from the mucous membranes of the nose and throat and by testing by a professional team in a laboratory.",
+      "claims": [
+       "c64"
+      ]
+     },
+     {
+      "text": "Between taking the test and getting the result, several to many days passed.",
+      "claims": [
+       "c3"
+      ]
+     },
+     {
+      "text": "According to the Technion, a non-invasive, rapid and inexpensive method was needed to screen carriers.",
+      "claims": [
+       "c4"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "A team led by Prof. Haick and Dr. Yoav Broza of the Technion developed a breath device for coronavirus.",
+      "claims": [
+       "c1"
+      ]
+     },
+     {
+      "text": "The device is similar in size to a smartphone, and there is no need to touch it, so there is no infection between subjects.",
+      "claims": [
+       "c63"
+      ]
+     },
+     {
+      "text": "In a preliminary clinical study in Wuhan, China, it detected markers of the disease with 92% accuracy, 100% sensitivity and 84% specificity.",
+      "claims": [
+       "c5",
+       "c6"
+      ]
+     },
+     {
+      "text": "Haick said that the system succeeded in distinguishing between people with lung diseases and people with coronavirus.",
+      "claims": [
+       "c69"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "The study was funded by the Technion and published in the journal ACS Nano.",
+      "claims": [
+       "c8",
+       "c10"
+      ]
+     },
+     {
+      "text": "The device's artificial intelligence can be adapted to any other infectious disease.",
+      "claims": [
+       "c9"
+      ]
+     }
+    ]
+   ],
+   "media": [],
+   "disagreements": []
+  },
+  {
+   "id": "s6",
+   "title": "From the lab to the phone",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "According to IEEE Spectrum, at the time the study was published Haick was working on miniaturizing the device, in the hope of adding it as a module to smartphones.",
+      "claims": [
+       "c22"
+      ]
+     },
+     {
+      "text": "The project, SniffPhone, is funded by the European Commission with a grant of six million euros.",
+      "claims": [
+       "c23",
+       "c40"
+      ]
+     },
+     {
+      "text": "In 2018 SniffPhone won the European Commission Innovation Prize in Lisbon.",
+      "claims": [
+       "c85"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "Nanose Medical holds an exclusive license for medical uses of the technology.",
+      "claims": [
+       "c62"
+      ]
+     },
+     {
+      "text": "According to Haick, seven companies have licensed the research underlying the technology in order to create a commercial product.",
+      "claims": [
+       "c76"
+      ]
+     },
+     {
+      "text": "Haick noted that the array can also be used to detect food spoilage.",
+      "claims": [
+       "c36"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to Haick, the production cost of each breath device for detecting coronavirus is about 1,000 dollars, and in industrial production it can be brought down to a few hundred.",
+      "claims": [
+       "c67"
+      ]
+     },
+     {
+      "text": "He said the system is inexpensive, non-invasive and portable, and therefore suitable for wide screening.",
+      "claims": [
+       "c34"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m7",
+    "m9"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s7",
+   "title": "Recognition and people",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "GOOD magazine included Haick among the 100 people changing the world for the better.",
+      "claims": [
+       "c37"
+      ]
+     },
+     {
+      "text": "He was included in the list from 2015 to 2018.",
+      "claims": [
+       "c88"
+      ]
+     },
+     {
+      "text": "The list includes people from 37 countries.",
+      "claims": [
+       "c50"
+      ]
+     },
+     {
+      "text": "Haick also received the Humboldt Research Award in Germany.",
+      "claims": [
+       "c42"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "In 2026, he received the Presidential Medal of Honour and became a Fellow of the United States National Academy of Inventors.",
+      "claims": [
+       "c83"
+      ]
+     },
+     {
+      "text": "He has more than 500 scientific publications and more than 100 patents.",
+      "claims": [
+       "c84"
+      ]
+     },
+     {
+      "text": "He is a co-founder of five companies that emerged from academic research.",
+      "claims": [
+       "c86"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "Haick pioneered the first mass online course in Arabic on nanotechnology, and more than 5,000 students took it.",
+      "claims": [
+       "c41"
+      ]
+     },
+     {
+      "text": "Dr. Mangilal Agarwal, who was not involved in the development, said that Haick's group is ahead of his group in terms of getting close to tests at the doctor's clinic.",
+      "claims": [
+       "c79"
+      ]
+     },
+     {
+      "text": "Jonathan Beauchamp said the study demonstrates the power and promise of the technique.",
+      "claims": [
+       "c31"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m1",
+    "m8"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s8",
+   "title": "What has not yet been proven",
+   "kind": "hard",
+   "paragraphs": [
+    [
+     {
+      "text": "According to Jonathan Beauchamp, it is accepted in the breath research community that compounds unique to specific diseases probably do not exist.",
+      "claims": [
+       "c30"
+      ]
+     },
+     {
+      "text": "Dr. George Preti said it is hard to distinguish in breath samples between chemicals from the body and chemicals from the environment.",
+      "claims": [
+       "c78"
+      ]
+     },
+     {
+      "text": "According to Haick himself, prostate, breast and bladder cancer are hard to diagnose from breath, and other tests may be more suitable.",
+      "claims": [
+       "c21"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "The coronavirus test still needs a larger study to validate the results.",
+      "claims": [
+       "c7"
+      ]
+     },
+     {
+      "text": "The heart data are only preliminary.",
+      "claims": [
+       "c74"
+      ]
+     },
+     {
+      "text": "According to Haick, the system is in the process of commercialization and needs to go through regulatory processes.",
+      "claims": [
+       "c68"
+      ]
+     }
+    ]
+   ],
+   "media": [],
+   "disagreements": []
+  }
+ ],
+ "disagreements": [
+  {
+   "id": "d1",
+   "question": "What was the accuracy in detecting stomach cancer?",
+   "versions": [
+    {
+     "says": "According to IEEE Spectrum, in a blinded test the device detected gastric cancer with 92 to 94 percent accuracy.",
+     "claims": [
+      "c19"
+     ]
+    },
+    {
+     "says": "According to the Times of Israel, in a 2014 study in Gut the NaNose system was 80% as effective in detecting gastric cancer as the standard method for detecting the disease, GCMS.",
+     "claims": [
+      "c39"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d2",
+   "question": "How many institutions took part in the 17-disease study?",
+   "versions": [
+    {
+     "says": "According to Smithsonian, researchers from 14 research institutions in five countries",
+     "claims": [
+      "c32"
+     ]
+    },
+    {
+     "says": "According to ynet, 14 departments in 9 medical centers in 5 countries",
+     "claims": [
+      "c56"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d3",
+   "question": "On how many diseases was the device trained?",
+   "versions": [
+    {
+     "says": "According to IEEE Spectrum, the lab trained it on more than 23 diseases",
+     "claims": [
+      "c17"
+     ]
+    },
+    {
+     "says": "According to IEEE Spectrum, the study examined the discrimination among 17 diseases",
+     "claims": [
+      "c20"
+     ]
+    }
+   ]
+  }
+ ],
+ "unknowns": [
+  {
+   "text": "The pages do not say whether the device is already in use today by doctors or in hospitals",
+   "claims": [
+    "c68",
+    "c77"
+   ]
+  }
+ ],
+ "claims": [
+  {
+   "id": "c80",
+   "text": "ויקיפדיה מתארת את חאיק כמדען ומהנדס ערבי-ישראלי, פרופסור מן המניין בטכניון.",
+   "source": "src1",
+   "quote": "is an Arab-Israeli scientist and engineer, who is a Full Professor at the Technion – Israel Institute of Technology.",
+   "status": "confirmed",
+   "locator": "שורה 24"
+  },
+  {
+   "id": "c81",
+   "text": "חאיק נולד ב-1975 בנצרת, ישראל, למשפחה נוצרית ערבית.",
+   "source": "src1",
+   "quote": "Haick was born in 1975 in Nazareth, Israel, into an Arab Christian family.",
+   "status": "confirmed",
+   "locator": "שורה 36"
+  },
+  {
+   "id": "c51",
+   "text": "מדעני הטכניון פיתחו \"אף מלאכותי\" שמסוגל לאבחן מחלות רבות באמצעות ניתוח כימי של הבל הפה.",
+   "source": "src2",
+   "quote": "שמסוגל לאבחן מחלות רבות ובהן סרטן, מחלות דלקתיות, פרקינסון ואפילו טרשת נפוצה באמצעות ניתוח כימי של הבל הפה",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c12",
+   "text": "מערך ננומטרי בעל בינה מלאכותית בשם \"Na-Nose\", המבוסס על חלקיקי זהב ושפופרות פחמן, מאבחן ומסווג 17 מחלות מנשיפה אחת.",
+   "source": "src3",
+   "quote": "this artificially intelligent nanoarray relies on gold nanoparticles and carbon nanotubes to diagnose and classify 17 different diseases based on a single human breath.",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c56",
+   "text": "הדגימות נאספו בין ינואר 2011 ליוני 2014 מ-1,404 נבדקים ב-14 מחלקות ב-9 מרכזים רפואיים ב-5 מדינות.",
+   "source": "src2",
+   "quote": "הדגימות נאספו בין ינואר 2011 ליוני 2014 מ-1,404 נבדקים ב-14 מחלקות ב-9 מרכזים רפואיים ב-5 מדינות",
+   "status": "confirmed",
+   "locator": "שורה 15"
+  },
+  {
+   "id": "c60",
+   "text": "לדברי חאיק, המערכת ביצעה גילוי ומיון של המחלות בדיוק ממוצע של 86%.",
+   "source": "src2",
+   "quote": "המערכת שלנו ביצעה גילוי ומיון של המחלות השונות בדיוק ממוצע של 86%",
+   "status": "confirmed",
+   "locator": "שורה 21"
+  },
+  {
+   "id": "c83",
+   "text": "ב-2026 קיבל חאיק את עיטור הנשיא לאות כבוד הישראלי והפך לעמית באקדמיה הלאומית האמריקאית לממציאים.",
+   "source": "src1",
+   "quote": "In 2026, Haick was awarded the Israeli Presidential Medal of Honour and became a Fellow of the United States National Academy of Inventors.",
+   "status": "confirmed",
+   "locator": "שורה 25"
+  },
+  {
+   "id": "c14",
+   "text": "חאיק החל לפתח את המכשיר לפני כ-10 שנים, כשהצטרף לסגל הטכניון לאחר פוסט-דוקטורט בקאלטק.",
+   "source": "src3",
+   "quote": "Haick began developing the device 10 years ago when he joined the faculty at Technion after completing a postdoc at the California Institute of Technology.",
+   "status": "confirmed",
+   "locator": "שורה 17"
+  },
+  {
+   "id": "c82",
+   "text": "חאיק הצטרף לסגל הטכניון ב-2006 כפרופסור עוזר בפקולטה להנדסה כימית ע\"ש וולפסון.",
+   "source": "src1",
+   "quote": "Haick joined the Technion faculty in 2006 as an Assistant Professor in the Wolfson Faculty of Chemical Engineering.",
+   "status": "confirmed",
+   "locator": "שורה 38"
+  },
+  {
+   "id": "c11",
+   "text": "הצוות בראשות המהנדס חוסאם חאיק מהטכניון בחיפה מדווח על שיטה פשוטה ומתוחכמת לזיהוי מחלות בנשיפה.",
+   "source": "src3",
+   "quote": "led by engineer Hossam Haick of the Technion−Israel Institute of Technology in Haifa",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c43",
+   "text": "חאיק אינו רופא; הוא עשה דוקטורט בתחום האנרגיה ורק מאוחר יותר עבר לטכנולוגיה ביו-רפואית.",
+   "source": "src4",
+   "quote": "Perhaps surprisingly, Haick is not a medical doctor. He earned his doctorate in the field of energy and only later switched to biomedical technology",
+   "status": "confirmed",
+   "locator": "שורה 21"
+  },
+  {
+   "id": "c49",
+   "text": "אחרי פוסט-דוקטורט בקאלטק חזר חאיק לטכניון כפרופסור עוזר ב-2006.",
+   "source": "src5",
+   "quote": "and returned to the Technion as an assistant professor in 2006",
+   "status": "confirmed",
+   "locator": "שורה 17"
+  },
+  {
+   "id": "c44",
+   "text": "חאיק סיפר שהשראתו היתה כלבים שמזהים מחלה, ושפיתח מערכת דיגיטלית שמאבחנת את המחלה ואת שלב התפתחותה.",
+   "source": "src4",
+   "quote": "Inspired by dogs, who know how to identify disease but not to tell the person what disease he has, I developed this digital system that accurately diagnoses the disease and its stage of development.",
+   "status": "confirmed",
+   "locator": "שורה 22"
+  },
+  {
+   "id": "c15",
+   "text": "המכשיר כולל קופסה לבנה שולחנית עם צינור שאליו נושפים, ומערך חיישנים שאליו מוזרמת הנשיפה.",
+   "source": "src3",
+   "quote": "a white, desktop box with tube into which a person exhales, sending his or her breath into an array of sensors",
+   "status": "confirmed",
+   "locator": "שורה 17"
+  },
+  {
+   "id": "c58",
+   "text": "חלק מהחיישנים מבוססים על שכבות של חלקיקי זהב ננומטריים ואחרים על רשת אקראית של שפופרות פחמן ננומטריות.",
+   "source": "src2",
+   "quote": "חלק מהחיישנים מבוססים על שכבות של חלקיקי זהב ננומטריים ואחרים מכילים רשת אקראית של שפופרות פחמן ננומטריות המצופות בשכבה אורגנית לצורך חישה וזיהוי",
+   "status": "confirmed",
+   "locator": "שורה 19"
+  },
+  {
+   "id": "c16",
+   "text": "כשתרכובות נדיפות בנשיפה נקשרות לליגנדים, משתנה ההתנגדות החשמלית בין החלקיקים או השפופרות והאות נשלח למחשב.",
+   "source": "src3",
+   "quote": "When VOCs in the breath bind to the ligands, it changes the electrical resistance between the nanoparticles or nanotubes, and that signal is sent to a computer.",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c29",
+   "text": "חאיק הסביר שבמקום אף משתמשים בחיישנים כימיים ובמקום מוח באלגוריתמים, בדומה לכלבים שמזהים ריח.",
+   "source": "src6",
+   "quote": "We let it smell a given disease but instead of a nose we use chemical sensors, and instead of the brain we use the algorithms.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c87",
+   "text": "מאמרו משנת 2009 ב-Nature Nanotechnology הדגים אבחון סרטן ריאה מנשיפה באמצעות מערכי חיישנים עם חלקיקי זהב.",
+   "source": "src1",
+   "quote": "His 2009 paper in Nature Nanotechnology demonstrated the diagnosis of lung cancer from exhaled breath using gold-nanoparticle sensor arrays",
+   "status": "confirmed",
+   "locator": "שורה 42"
+  },
+  {
+   "id": "c33",
+   "text": "המשתתפים גויסו בארצות הברית, ישראל, צרפת, לטביה וסין.",
+   "source": "src6",
+   "quote": "Participants were recruited around the world in the United States, Israel, France, Latvia and China.",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c28",
+   "text": "באמצעות ספקטרומטריית מסות זיהתה הקבוצה תחילה את חתימות התרכובות הספציפיות של 17 מחלות.",
+   "source": "src6",
+   "quote": "Using mass spectrometry analysis, the group first identified the specific compound signatures for 17 different diseases.",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c55",
+   "text": "המחקר כלל, בין השאר, סרטן ריאה, מעי, ראש וצוואר, שחלות, שלפוחית השתן, ערמונית, כליות וקיבה, ומחלת קרוהן.",
+   "source": "src2",
+   "quote": "סרטן ריאה, סרטן המעי, סרטן הראש והצוואר, סרטן השחלות, סרטן שלפוחית השתן, סרטן הערמונית, סרטן כליות, סרטן הקיבה, מחלת קרון",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c18",
+   "text": "הצוות בדק את המכשיר במרפאות על יותר מ-8,000 חולים כדי ללמד את התוכנה להבחין בין מחלה לגורמים מתערבים.",
+   "source": "src3",
+   "quote": "testing on over 8,000 patients to teach the software to discriminate between disease and confounding factors",
+   "status": "confirmed",
+   "locator": "שורה 19"
+  },
+  {
+   "id": "c59",
+   "text": "נמצא שההשפעה של גורמים כמו מגדר, גיל, עישון ומיקום גיאוגרפי על הדגימה זניחה ואינה פוגעת ברגישות המערך.",
+   "source": "src2",
+   "quote": "נמצא כי מדובר בהשפעה זניחה שאינה פוגעת ברגישות המערך הננומטרי",
+   "status": "confirmed",
+   "locator": "שורה 20"
+  },
+  {
+   "id": "c27",
+   "text": "עד המחקר החדש, מאמצים מסוג זה שימשו בעיקר לגילוי מחלה אחת.",
+   "source": "src6",
+   "quote": "But previously, such efforts have mainly been used to detect a single disease.",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c52",
+   "text": "במאמר ניתנה לראשונה הוכחה מדעית להיפותזה בת 2,400 שנה, שלפיה בדיקות נשיפה עשויות לספק מידע על מצבים קליניים.",
+   "source": "src2",
+   "quote": "במאמר מספקים חוקרי הטכניון הוכחה מדעית ראשונה להיפותזה בת 2,400 שנה, לפיה בדיקות נשיפה עשויות לספק מידע חשוב על מצבים קליניים",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c57",
+   "text": "חאיק אמר שלכל מחלה יש חותמת כימית המבדילה אותה ממחלות אחרות וממצב בריאותי תקין.",
+   "source": "src2",
+   "quote": "כך יש לכל מחלה חותמת כימית המבדילה אותה ממחלות אחרות וממצב בריאותי תקין",
+   "status": "confirmed",
+   "locator": "שורה 17"
+  },
+  {
+   "id": "c24",
+   "text": "במחקרים קליניים המכשיר הבחין בין שלבים של סרטן קיבה וסרטן ריאה כבר מהשלב הראשון.",
+   "source": "src3",
+   "quote": "In clinical studies, it was able to discriminate among stages of gastric cancer and lung cancer as early as stage one.",
+   "status": "confirmed",
+   "locator": "שורה 23"
+  },
+  {
+   "id": "c38",
+   "text": "שבב NaNose הבחין בארבעה מתוך חמישה מקרים בין נגעי ריאה שפירים לממאירים ואף בין תת-סוגי סרטן.",
+   "source": "src4",
+   "quote": "In four out of five cases, the device differentiated between benign and malignant lung lesions and even different cancer subtypes.",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c25",
+   "text": "חאיק אמר שהמטרה היא לגלות מחלה בשלב מוקדם ולהעלות את שיעור ההישרדות.",
+   "source": "src3",
+   "quote": "We aim to catch disease at an early stage, where we can increase the survival rate",
+   "status": "confirmed",
+   "locator": "שורה 23"
+  },
+  {
+   "id": "c71",
+   "text": "מחקר משותף של בילינסון והטכניון בדק אם אפשר לנבא מחלת לב טרשתית בבדיקת נשיפה.",
+   "source": "src7",
+   "quote": "מחקר ראשון וחדשני של חוקרים מבית החולים בילינסון בפתח תקווה ומהטכניון בדק האם ניתן לנבא מחלת לב טרשתית בבדיקת נשיפה",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c72",
+   "text": "בחלקו הראשון של המחקר נבדקו כ-60 מטופלים ללא מחלה לבבית ידועה שפנו למיון בילינסון עקב כאבים בחזה.",
+   "source": "src7",
+   "quote": "בחלקו הראשון של המחקר נבדקו כ-60 מטופלים בגילאי 80-30 שנים ללא מחלה לבבית ידועה, אשר פנו למיון בילינסון בעקבות כאבים בחזה",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c73",
+   "text": "בדיקת הנשיפה הפרידה בין מטופלים עם עורקים תקינים לבין מטופלים עם טרשת עורקים ברגישות של 69% ובספציפיות של 67%.",
+   "source": "src7",
+   "quote": "תוצאות המחקר הראו שבדיקת הנשיפה הצליחה להפריד נכונה בין מטופלים עם עורקים תקינים לבין מטופלים עם טרשת עורקים ברגישות של 69% ובספציפיות של 67%",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c64",
+   "text": "בדיקות הקורונה הנפוצות נעשות בנטילת דגימה מריריות האף והלוע ובאנליזה על ידי צוות מקצועי במעבדה.",
+   "source": "src8",
+   "quote": "בדיקות הקורונה הנפוצות היום מתבצעות באמצעות נטילת דגימה מריריות האף והלוע ואנליזה על ידי צוות מקצועי במעבדה.",
+   "status": "confirmed",
+   "locator": "שורה 76"
+  },
+  {
+   "id": "c3",
+   "text": "יש עיכוב של כמה ימים ועד ימים רבים בין נטילת הבדיקה לקבלת התוצאות.",
+   "source": "src9",
+   "quote": "there is a delay of several to many days between when tests are taken, and results are obtained.",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c4",
+   "text": "לפי הטכניון, יש צורך בשיטת בדיקה לא פולשנית, מהירה וזולה לסינון נשאים חיוביים לקורונה.",
+   "source": "src9",
+   "quote": "There is a need for a non-invasive, rapid, inexpensive testing method to screen COVID-19 positive individuals",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c1",
+   "text": "צוות בהובלת פרופ' חוסאם חאיק וד\"ר יואב ברוזה מהפקולטה להנדסה כימית ומהמכון לננוטכנולוגיה ע\"ש Russell Berrie בטכניון.",
+   "source": "src9",
+   "quote": "A team led by F.M.W Academic Chair Professor Hossam Haick and Dr. Yoav Broza of the Technion Faculty of Chemical Engineering and Russell Berrie Nanotechnology Institute",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c63",
+   "text": "מכשיר הקורונה דומה בגודלו לסמארטפון, ואין צורך במגע עמו ולכן אין הדבקה בין נבדקים.",
+   "source": "src8",
+   "quote": "המכשיר דומה בגודלו לסמארטפון ואינו מכיל חלקים נלווים, אולם היתרון המרכזי שלו הוא שאין צורך במגע עמו על מנת לקבל תוצאות",
+   "status": "confirmed",
+   "locator": "שורה 74"
+  },
+  {
+   "id": "c5",
+   "text": "המכשיר מזהה סמנים ביולוגיים ייחודיים למחלה בנשיפה בדיוק של 92%, רגישות של 100% וסגוליות של 84%.",
+   "source": "src9",
+   "quote": "It can detect disease-specific biomarkers in exhaled breath with 92% accuracy, 100% sensitivity, and 84% specificity.",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c6",
+   "text": "יעילות המכשיר אומתה במרץ במחקר קליני ראשוני של מקרה-ביקורת בווהאן שבסין.",
+   "source": "src9",
+   "quote": "was successfully validated in March by a preliminary case-control clinical study in Wuhan, China",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c69",
+   "text": "חאיק אמר שהמערכת הצליחה להבדיל בין אנשים עם מחלות ריאתיות לאנשים עם קורונה.",
+   "source": "src8",
+   "quote": "אחד הדברים המדהימים שהמערכת שלנו הצליחה לעשות זה להבדיל בין אנשים עם מחלות ריאתיות לאנשים עם קורונה",
+   "status": "confirmed",
+   "locator": "שורה 81"
+  },
+  {
+   "id": "c8",
+   "text": "המחקר פורסם בכתב העת ACS Nano, והטכנולוגיה אמורה להתפתח לשוק על ידי חברת Nanose Medical.",
+   "source": "src9",
+   "quote": "The study is published in the journal ACS Nano and the technology is to be developed for the market by the company Nanose Medical.",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c10",
+   "text": "המחקר מומן על ידי הטכניון – מכון טכנולוגי לישראל.",
+   "source": "src9",
+   "quote": "The research was funded by the Technion – Israel Institute of Technology.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c9",
+   "text": "הבינה המלאכותית של המכשיר ניתנת לשינוי ולהתאמה לכל מחלה זיהומית אחרת.",
+   "source": "src9",
+   "quote": "Importantly, the artificial intelligence of the device can be modified and applied to any other infectious diseases.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c22",
+   "text": "חאיק עובד על מזעור המכשיר כדי להוסיף אותו כמודול לסמארטפון.",
+   "source": "src3",
+   "quote": "He is now working to miniaturize the device in the hopes of adding a module onto smartphones.",
+   "status": "confirmed",
+   "locator": "שורה 22"
+  },
+  {
+   "id": "c23",
+   "text": "פרויקט SniffPhone ממומן על ידי תוכנית Horizon 2020 של האיחוד האירופי והוא בעיצומו.",
+   "source": "src3",
+   "quote": "The project, called SniffPhone and funded by the European Union’s Horizon 2020 Program, is currently underway",
+   "status": "confirmed",
+   "locator": "שורה 22"
+  },
+  {
+   "id": "c40",
+   "text": "הפרויקט לפיתוח חיישן לסמארטפון ממומן על ידי הנציבות האירופית במענק של שישה מיליון אירו.",
+   "source": "src4",
+   "quote": "The project is being funded by the European Commission, which has the consortium developing it a six million euro grant.",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c85",
+   "text": "ב-2018 זכה פרויקט SniffPhone בפרס החדשנות של הנציבות האירופית בליסבון.",
+   "source": "src1",
+   "quote": "In 2018, SniffPhone received the European Commission Innovation Prize at EFECS in Lisbon.",
+   "status": "confirmed",
+   "locator": "שורה 39"
+  },
+  {
+   "id": "c62",
+   "text": "לחברת Nanose Medical יש רישיון בלעדי להשתמש בטכנולוגיית ה-Nanose של חאיק מהטכניון לשימושים רפואיים.",
+   "source": "src8",
+   "quote": "מימוש הטכנולוגיה והמסחור שלה נערכים במסגרת חברת Nanose Medical. לחברה יש רישיון בלעדי להשתמש בטכנולוגיה של פרופ׳ חאיק מהטכניון",
+   "status": "confirmed",
+   "locator": "שורה 73"
+  },
+  {
+   "id": "c76",
+   "text": "לדברי חאיק, שבע חברות קיבלו רישיון למחקר שבבסיס הטכנולוגיה מהטכניון כדי ליצור מוצר מסחרי.",
+   "source": "src10",
+   "quote": "Seven companies have licensed the underlying research for the technology from Technion in hopes of creating a commercial product, Haick said.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c36",
+   "text": "חאיק ציין שאפשר להשתמש במערך לבקרת איכות באמצעות זיהוי קלקול מזון.",
+   "source": "src6",
+   "quote": "the array could be used for quality control by detecting food spoilage",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c67",
+   "text": "לדברי חאיק, עלות הייצור של מכשיר היא כ-1,000 דולר, ובייצור תעשייתי אפשר להוריד אותה לכמה מאות.",
+   "source": "src8",
+   "quote": "עלות הייצור של כל מכשיר היא כ־1,000 דולר, אבל בייצור תעשייתי אפשר להוריד אותה לכמה מאות",
+   "status": "confirmed",
+   "locator": "שורה 77"
+  },
+  {
+   "id": "c34",
+   "text": "חאיק אמר שהמערכת זולה, לא פולשנית וניידת, ולכן אפשר להשתמש בה לסינון רחב למחלות.",
+   "source": "src6",
+   "quote": "He says that because it's affordable, non-invasive and portable, it could be used to screen widely for disease.",
+   "status": "confirmed",
+   "locator": "שורה 13"
+  },
+  {
+   "id": "c37",
+   "text": "לפי Times of Israel, מגזין GOOD כלל את חאיק בין 100 האנשים המשפיעים בעולם שמשנים אותו לטובה.",
+   "source": "src4",
+   "quote": "is one of the 100 most influential people in the world who are changing the world in a positive manner.",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c88",
+   "text": "חאיק נכלל ברשימת GOOD 100 משנת 2015 עד 2018.",
+   "source": "src1",
+   "quote": "was included in the GOOD 100 list of global citizens and creative change-makers from 2015 to 2018",
+   "status": "confirmed",
+   "locator": "שורה 26"
+  },
+  {
+   "id": "c50",
+   "text": "רשימת Good Magazine כוללת אנשים מ-37 מדינות התורמים לרווחת האנושות.",
+   "source": "src5",
+   "quote": "Good Magazine's 100 list includes people from 37 countries who contribute to the welfare of humankind in various aspects, including science, education, and business.",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c42",
+   "text": "חאיק קיבל גם את פרס המחקר של הומבולדט, שמוענק לחוקרים בולטים בשיתוף עם מוסדות מחקר בגרמניה.",
+   "source": "src4",
+   "quote": "Haick last weekend was also presented with the Humboldt Research Award, which recognizes top research done throughout the world in cooperation with research institutes in Germany.",
+   "status": "confirmed",
+   "locator": "שורה 19"
+  },
+  {
+   "id": "c84",
+   "text": "לחאיק יותר מ-500 פרסומים מדעיים ויותר מ-100 פטנטים, רבים מהם ברישיון לחברות בינלאומיות.",
+   "source": "src1",
+   "quote": "He has published more than 500 scientific publications and holds more than 100 patents, many of which have been licensed to international companies.",
+   "status": "confirmed",
+   "locator": "שורה 25"
+  },
+  {
+   "id": "c86",
+   "text": "חאיק הוא מייסד שותף של חמש חברות שצמחו ממחקר אקדמי.",
+   "source": "src1",
+   "quote": "Haick is a co-founder of five companies that emerged from academic research",
+   "status": "confirmed",
+   "locator": "שורה 40"
+  },
+  {
+   "id": "c41",
+   "text": "חאיק היה חלוץ הקורס המקוון ההמוני הראשון בערבית על ננוטכנולוגיה, עם למעלה מ-5,000 סטודנטים בעולם דובר הערבית.",
+   "source": "src4",
+   "quote": "Haick pioneered the first-ever mass online course in Arabic on nanotechnology, with over 5,000 students students in the Arabic-speaking world",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c79",
+   "text": "ד\"ר מנגילל אגרוואל, שלא היה מעורב בפיתוח, אמר שקבוצתו של חאיק מקדימה את קבוצתו בדרך לבדיקות לביקור רופא.",
+   "source": "src10",
+   "quote": "Dr. Haick's group is certainly ahead of our group in terms of getting close to doctor's visit tests",
+   "status": "confirmed",
+   "locator": "שורה 17"
+  },
+  {
+   "id": "c31",
+   "text": "בושמפ אמר שהמחקר מדגים בבירור את העוצמה והתקווה שבטכניקת מערך חלקיקי הזהב.",
+   "source": "src6",
+   "quote": "The current study clearly demonstrates the power and promise of the gold nanoparticle array technique",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c30",
+   "text": "לפי ג'ונתן בושמפ, מקובל בקהילת חקר הנשיפה שתרכובות ייחודיות למחלות ספציפיות כנראה אינן קיימות.",
+   "source": "src6",
+   "quote": "it is now widely accepted within the breath research community that unique VOCs for specific diseases are unlikely to exist.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c78",
+   "text": "ד\"ר ג'ורג' פרטי אמר שקשה להבחין בין כימיקלים מהגוף לכימיקלים מהסביבה בדגימות נשיפה.",
+   "source": "src10",
+   "quote": "it's hard to distinguish body chemicals from environmental chemicals in breath samples because",
+   "status": "confirmed",
+   "locator": "שורה 22"
+  },
+  {
+   "id": "c21",
+   "text": "לדברי חאיק, קשה לאבחן סרטן הערמונית, השד ושלפוחית השתן לפי נשיפה, ולכן ייתכן שבדיקות אחרות מתאימות יותר.",
+   "source": "src3",
+   "quote": "It has been difficult to accurately diagnose prostate, breast, and bladder cancer based on exhalations, says Haick",
+   "status": "confirmed",
+   "locator": "שורה 21"
+  },
+  {
+   "id": "c7",
+   "text": "עדיין נדרש מחקר גדול יותר כדי לאמת את התוצאות.",
+   "source": "src9",
+   "quote": "While a larger cohort study is still needed to validate the results",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c74",
+   "text": "הנתונים בתחום הלב הם ראשוניים ומעודדים בלבד.",
+   "source": "src7",
+   "quote": "מדובר בנתונים ראשוניים מעודדים לגבי יכולת האבחנה והדיוק של המערכת",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c68",
+   "text": "לדברי חאיק, המערכת בתהליכי מסחור וצריכה לעבור תהליכים רגולטוריים.",
+   "source": "src8",
+   "quote": "המערכת נמצאת בתהליכי מסחור כי צריך לעבור תהליכים רגולטוריים. אנחנו עושים את המקסימום",
+   "status": "confirmed",
+   "locator": "שורה 79"
+  },
+  {
+   "id": "c19",
+   "text": "בשנה הקודמת מצא הצוות שהמכשיר זיהה סרטן קיבה במבחן סמוי בדיוק של 92 עד 94 אחוז.",
+   "source": "src3",
+   "quote": "the team found that the tool could detect gastric cancer in a blinded test of patients with 92- to 94-percent accuracy.",
+   "status": "confirmed",
+   "locator": "שורה 19"
+  },
+  {
+   "id": "c39",
+   "text": "במחקר מ-2014 שפורסם ב-Gut היתה מערכת NaNose יעילה ב-80% מהשיטה הסטנדרטית לגילוי סרטן קיבה.",
+   "source": "src4",
+   "quote": "In a 2014 study published in medical journal Gut, the NaNose system was 80% as effective in detecting the diseaase as the standard method of gastric cancer detection",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c32",
+   "text": "במחקר השתתפו עשרות חוקרים מ-14 מוסדות מחקר בחמש מדינות.",
+   "source": "src6",
+   "quote": "The study involved dozens of scholars based at 14 research institutions across five different countries.",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c17",
+   "text": "המעבדה אימנה את המכשיר על יותר מ-23 מחלות, ללמד אותו להבחין בין אדם בריא לאדם עם אחת המחלות.",
+   "source": "src3",
+   "quote": "The lab has trained the device on over 23 illnesses, teaching it to discriminate between a healthy individual and an individual with one of these catalogued diseases.",
+   "status": "confirmed",
+   "locator": "שורה 19"
+  },
+  {
+   "id": "c20",
+   "text": "המחקר הנוכחי השתמש לראשונה ב-Na-Nose לזיהוי והבחנה בין 17 מחלות בנשימה של 1,404 אנשים בחמש מדינות.",
+   "source": "src3",
+   "quote": "The current study, for the first time, used the Na-Nose to detect and discriminate among 17 different diseases in the breath of 1,404 individuals across five countries.",
+   "status": "confirmed",
+   "locator": "שורה 20"
+  },
+  {
+   "id": "c77",
+   "text": "חאיק אמר שבגלל בדיקות נוספות ורגולציה, המכשיר לא יהיה זמין בשוק או אצל רופאים במשך שנים רבות.",
+   "source": "src10",
+   "quote": "neither the Na-nose device nor any variations will be available on the market -- or in our doctor's offices -- for a number of years, said Haick.",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  }
+ ],
+ "sources": [
+  {
+   "id": "src1",
+   "label": "Wikipedia, Hossam Haick",
+   "url": "https://en.wikipedia.org/wiki/Hossam_Haick",
+   "kind": "reference"
+  },
+  {
+   "id": "src2",
+   "label": "ynet, Technion researchers developed an \"artificial nose\" that diagnoses cancer",
+   "url": "https://www.ynet.co.il/articles/mobile/0,7340,L-4896987,00.html",
+   "kind": "press"
+  },
+  {
+   "id": "src3",
+   "label": "IEEE Spectrum, Breathalyzer distinguishes among 17 diseases at once",
+   "url": "https://spectrum.ieee.org/breathalyzer-distinguishes-among-17-diseases-at-once",
+   "kind": "press"
+  },
+  {
+   "id": "src4",
+   "label": "Times of Israel, Technion's artificial nose inventor makes 'Good Guy' list",
+   "url": "https://www.timesofisrael.com/technions-artificial-nose-inventor-makes-good-guy-list/",
+   "kind": "press"
+  },
+  {
+   "id": "src5",
+   "label": "Jerusalem Post, Israeli professor whose technology can diagnose cancer by sensing breath earns int'l honors",
+   "url": "https://www.jpost.com/Business-and-Innovation/Health-and-Science/Israeli-professor-whose-technology-can-diagnose-cancer-by-sensing-breath-earns-intl-honors-448645",
+   "kind": "press"
+  },
+  {
+   "id": "src6",
+   "label": "Smithsonian Magazine, Your Breath Does More Than Repulse",
+   "url": "https://www.smithsonianmag.com/science-nature/your-bad-breath-doesnt-just-repulseit-can-also-reveal-disease-180961527/",
+   "kind": "press"
+  },
+  {
+   "id": "src7",
+   "label": "Behadrei Haredim (bhol), a joint Technion and Beilinson study on coronary artery disease",
+   "url": "https://www.bhol.co.il/news/1425041",
+   "kind": "press"
+  },
+  {
+   "id": "src8",
+   "label": "Calcalist, article on Haick and the electronic nose",
+   "url": "https://www.calcalist.co.il/articles/0,7340,L-3847423,00.html",
+   "kind": "press"
+  },
+  {
+   "id": "src9",
+   "label": "Technion, 8.2020, Novel COVID-19 Breathalyzer Has Potential as Screening Tool",
+   "url": "https://www.technion.ac.il/en/2020/08/novel-covid-19-breathalyzer-has-potential-as-screening-tool/",
+   "kind": "organisation"
+  },
+  {
+   "id": "src10",
+   "label": "WRAL, Experimental technology can smell disease on your breath",
+   "url": "https://www.wral.com/experimental-technology-can-smell-disease-on-your-breath/17096514/",
+   "kind": "press"
+  }
+ ],
+ "media": [
+  {
+   "id": "m1",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hossam%20haiek.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Hossam_haiek.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Makbula Nassar",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "A man in glasses and a striped shirt speaks into a microphone in front of a sign in Hebrew and Arabic; according to the file description, Prof. Hossam Haick.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2013-08-20",
+   "width": 1296,
+   "height": 864
+  },
+  {
+   "id": "m2",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/HH-Photo2%28c%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:HH-Photo2%28c%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Liat.tsuri",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "A portrait of a man in glasses and a white shirt, smiling at the camera; according to the file description, Prof. Hossam Haick.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2023-07-09",
+   "width": 4050,
+   "height": 6075
+  },
+  {
+   "id": "m3",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Technion%20%E2%80%93%20Israel%20Institute%20of%20Technology19.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Technion_%E2%80%93_Israel_Institute_of_Technology19.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Technion / Israel Istitute of Technology",
+   "licence": "CC BY-SA 2.0",
+   "hosting": "hotlink",
+   "caption": "An aerial view of the Technion campus buildings in Haifa, among woodland and roads.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "date": "2012-05-31",
+   "width": 5982,
+   "height": 3666
+  },
+  {
+   "id": "m4",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Technion%20%E2%80%93%20Israel%20Institute%20of%20Technology.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Technion_%E2%80%93_Israel_Institute_of_Technology.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Hanay",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "A view from the mountain of the Technion buildings and residential neighborhoods in Haifa, and beyond them the bay.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "2009-01-11",
+   "width": 2592,
+   "height": 1944
+  },
+  {
+   "id": "m5",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=1dhOaArOYdM",
+   "youtube_id": "1dhOaArOYdM",
+   "source_page": "https://www.youtube.com/watch?v=1dhOaArOYdM",
+   "source_name": "YouTube",
+   "credit": "Technion – Israel Institute of Technology",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "A Technion film about an international team of 56 researchers in five countries that confirmed the ancient hypothesis on diagnosing diseases from breath, with Prof. Haick.",
+   "illustrates": [
+    "c52",
+    "c51"
+   ],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m6",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=xwMx2lrfnyA",
+   "youtube_id": "xwMx2lrfnyA",
+   "source_page": "https://www.youtube.com/watch?v=xwMx2lrfnyA",
+   "source_name": "YouTube",
+   "credit": "Technion – Israel Institute of Technology",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "A Technion film about Prof. Hossam Haick of the Faculty of Chemical Engineering and the artificial nose for detecting cancer.",
+   "illustrates": [],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m7",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=GPfPSX7Sufs",
+   "youtube_id": "GPfPSX7Sufs",
+   "source_page": "https://www.youtube.com/watch?v=GPfPSX7Sufs",
+   "source_name": "YouTube",
+   "credit": "Technion – Israel Institute of Technology",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "A Technion film about the Sniffphone, a smartphone that smells diseases, with Prof. Haick.",
+   "illustrates": [
+    "c22",
+    "c23"
+   ],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m8",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=8-qbDdR4vqk",
+   "youtube_id": "8-qbDdR4vqk",
+   "source_page": "https://www.youtube.com/watch?v=8-qbDdR4vqk",
+   "source_name": "YouTube",
+   "credit": "Kan Educational",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "An interview by Kobi Meidan on \"Hotze Yisrael\" on Kan Educational with Prof. Haick about the development of the electronic nose.",
+   "illustrates": [],
+   "spoken": "he",
+   "audio_tracks": [
+    "he"
+   ]
+  },
+  {
+   "id": "m9",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=7Ge6wtd-mG8",
+   "youtube_id": "7Ge6wtd-mG8",
+   "source_page": "https://www.youtube.com/watch?v=7Ge6wtd-mG8",
+   "source_name": "YouTube",
+   "credit": "Campus IL",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "An interview by Asaf Weiss with Prof. Haick as part of Campus IL, about artificial senses and the future of medicine.",
+   "illustrates": [],
+   "spoken": "he",
+   "audio_tracks": [
+    "he",
+    "en"
+   ]
+  },
+  {
+   "id": "m10",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/124990%20haifa%20PikiWiki%20Israel.png?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:124990_haifa_PikiWiki_Israel.png",
+   "source_name": "Wikimedia Commons",
+   "credit": "Michael Biran",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "Students near the building of the Faculty of Aerospace Engineering at the Technion in Haifa, old black-and-white photograph",
+   "illustrates": [],
+   "date": "1965",
+   "width": 1655,
+   "height": 1159,
+   "role": "related"
+  },
+  {
+   "id": "m11",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Au%C3%9Fenminister%20Alexander%20Schallenberg%20in%20Israel%2028.-30.03.2022%2006.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Au%C3%9Fenminister_Alexander_Schallenberg_in_Israel_28.-30.03.2022_06.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Österreichisches Außenministerium",
+   "licence": "CC BY 2.0",
+   "hosting": "hotlink",
+   "caption": "Visitors at the Technion near a display case holding a white sculpted head and a gray box",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/2.0",
+   "date": "2022-03-29",
+   "width": 3000,
+   "height": 2000,
+   "role": "related"
+  },
+  {
+   "id": "m12",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Flickr%20-%20Technion%20-%20Israel%20Istitute%20of%20Technology%20-%20IMG%201039.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Flickr_-_Technion_-_Israel_Istitute_of_Technology_-_IMG_1039.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Technion | Israel Istitute of Technology",
+   "licence": "CC BY-SA 2.0",
+   "hosting": "hotlink",
+   "caption": "Students sitting and standing on a lawn on the Technion campus, with buildings behind them",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "date": "2012-11-14",
+   "width": 4000,
+   "height": 3000,
+   "role": "related"
+  },
+  {
+   "id": "m13",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Israel%20Institute%20of%20Technology.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Israel_Institute_of_Technology.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Taodao111",
+   "licence": "CC BY 4.0",
+   "hosting": "hotlink",
+   "caption": "A researcher in a lab, in a white coat and gloves, holds a pipette next to an optical setup and a computer",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/4.0",
+   "date": "2016-08-01",
+   "width": 3456,
+   "height": 5184,
+   "role": "related"
+  },
+  {
+   "id": "m14",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Madatech01.JPG?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Madatech01.JPG",
+   "source_name": "Wikimedia Commons",
+   "credit": "Y.S. - talk 07:10, 4 September 2008 (IDT)",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "The historic Technion building in Haifa, panoramic view of the façade",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2008-08",
+   "width": 3300,
+   "height": 1226,
+   "role": "related"
+  },
+  {
+   "id": "m15",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Moderne%20architectuur%20op%20het%20terrein%20van%20het%20Technion%2C%20Bestanddeelnr%20255-2115.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Moderne_architectuur_op_het_terrein_van_het_Technion%2C_Bestanddeelnr_255-2115.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Willem van de Poll",
+   "licence": "CC0",
+   "hosting": "hotlink",
+   "caption": "Technion buildings above the valley, black-and-white photograph from 1964–1965",
+   "illustrates": [],
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "date": "1964",
+   "width": 2561,
+   "height": 2643,
+   "role": "related"
+  },
+  {
+   "id": "m16",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Moderne%20architectuur%20op%20het%20terrein%20van%20het%20Technion%2C%20Bestanddeelnr%20255-2118.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Moderne_architectuur_op_het_terrein_van_het_Technion%2C_Bestanddeelnr_255-2118.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Willem van de Poll",
+   "licence": "CC0",
+   "hosting": "hotlink",
+   "caption": "Modern Technion buildings on a hill, black-and-white photograph from 1964–1965",
+   "illustrates": [],
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "date": "1964",
+   "width": 2614,
+   "height": 2652,
+   "role": "related"
+  },
+  {
+   "id": "m17",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/PikiWiki%20Israel%2065540%20haifa%20-%20technion%20building.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:PikiWiki_Israel_65540_haifa_-_technion_building.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Unnkown",
+   "licence": "CC BY 2.5",
+   "hosting": "hotlink",
+   "caption": "The historic Technion building in Haifa, old black-and-white photograph",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/2.5",
+   "date": "משנת 1914 ",
+   "width": 4252,
+   "height": 3135,
+   "role": "related"
+  },
+  {
+   "id": "m18",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/PikiWiki%20Israel%2065646%20haifa%20technion%20machinery%20hall.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:PikiWiki_Israel_65646_haifa_technion_machinery_hall.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Unnkown",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "The machine hall at the Technion: boys beside workbenches and machines, old black-and-white photograph",
+   "illustrates": [],
+   "date": "משנת 1924 ",
+   "width": 3906,
+   "height": 2835,
+   "role": "related"
+  },
+  {
+   "id": "m19",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/127790%20nazareth-urban%20landscape%20PikiWiki%20Israel.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:127790_nazareth-urban_landscape_PikiWiki_Israel.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Unknown authorUnknown author",
+   "licence": "CC BY 2.5",
+   "hosting": "hotlink",
+   "caption": "Nazareth: houses on the hillside, and above them a church spire and a mosque minaret",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/2.5",
+   "date": "11.3.2025",
+   "width": 4032,
+   "height": 3024,
+   "role": "related"
+  },
+  {
+   "id": "m20",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/127792%20nazareth-urban%20landscape%20PikiWiki%20Israel.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:127792_nazareth-urban_landscape_PikiWiki_Israel.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Unknown authorUnknown author",
+   "licence": "CC BY 2.5",
+   "hosting": "hotlink",
+   "caption": "Nazareth: tiled roofs and dense houses facing distant residential towers",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/2.5",
+   "date": "11.3.2025",
+   "width": 4032,
+   "height": 3024,
+   "role": "related"
+  }
+ ],
+ "check": {
+  "passed": true,
+  "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
+  "checked_at": "2026-11-20T22:33:10Z",
+  "counts": {
+   "confirmed": 81,
+   "not_confirmed": 0,
+   "deleted_sentences": 2,
+   "first_round_confirmed": 81,
+   "first_round_contradicted": 1,
+   "first_round_unverifiable": 2
+  },
+  "note": "unverifiable sentences were deleted, contradicted ones fixed from the source and checked again"
+ },
+ "meta": {
+  "run": "hossam-haick-artificial-nose-diagnosis",
+  "pipeline": "scripts/museum/museum_line.py",
+  "models": {
+   "research": "sonnet-5-5",
+   "extract": "sonnet-5-5",
+   "media": "sonnet-5-5",
+   "write": "opus-5-5 medium",
+   "check": "opus-5-5 medium",
+   "fix": "opus-5-5 medium"
+  },
+  "source_quality": {
+   "sources": 10,
+   "wikipedia": 1,
+   "strong": 8,
+   "ok": true,
+   "warnings": []
+  }
+ },
+ "lang": "en",
+ "translation": {
+  "from": "he",
+  "translator": "claude-opus-5-5",
+  "checker": "claude-opus-5-5 (separate call, blind to the translation prompt)",
+  "checked_at": "2026-11-21T06:21:02Z",
+  "passed": true,
+  "items": 146,
+  "pairs_checked": 6,
+  "reused": 140,
+  "first_round_flagged": 0,
+  "still_flagged": 0,
+  "flagged": [],
+  "quote_translations": {
+   "c51": "that is capable of diagnosing many diseases, among them cancer, inflammatory diseases, Parkinson's and even multiple sclerosis, through chemical analysis of exhaled breath",
+   "c56": "The samples were collected between January 2011 and June 2014 from 1,404 subjects in 14 departments at 9 medical centers in 5 countries",
+   "c60": "Our system performed detection and classification of the various diseases with an average accuracy of 86%",
+   "c58": "Some of the sensors are based on layers of gold nanoparticles, and others contain a random network of carbon nanotubes coated with an organic layer for sensing and identification",
+   "c55": "lung cancer, bowel cancer, head and neck cancer, ovarian cancer, bladder cancer, prostate cancer, kidney cancer, stomach cancer, Crohn's disease",
+   "c59": "It was found to be a negligible effect that does not impair the sensitivity of the nanometric array",
+   "c52": "In the paper, the Technion researchers provide the first scientific proof of a 2,400-year-old hypothesis, according to which breath tests may provide important information about clinical conditions",
+   "c57": "Thus every disease has a chemical signature that distinguishes it from other diseases and from a normal state of health",
+   "c71": "A first and innovative study by researchers from Beilinson Hospital in Petah Tikva and from the Technion examined whether atherosclerotic heart disease can be predicted with a breath test",
+   "c72": "In the first part of the study, about 60 patients aged 30-80 with no known heart disease, who came to the Beilinson emergency department because of chest pain, were tested",
+   "c73": "The results of the study showed that the breath test succeeded in correctly separating patients with normal arteries from patients with atherosclerosis, with a sensitivity of 69% and a specificity of 67%",
+   "c64": "The coronavirus tests common today are carried out by taking a sample from the mucous membranes of the nose and throat and analysis by a professional team in a laboratory.",
+   "c63": "The device is similar in size to a smartphone and contains no accessory parts, but its main advantage is that there is no need for contact with it in order to obtain results",
+   "c69": "One of the amazing things that our system succeeded in doing is distinguishing between people with pulmonary diseases and people with coronavirus",
+   "c62": "The implementation of the technology and its commercialization are being carried out within the company Nanose Medical. The company has an exclusive license to use the technology of Prof. Haick of the Technion",
+   "c67": "The production cost of each device is about 1,000 dollars, but in industrial production it can be brought down to a few hundred",
+   "c74": "These are encouraging preliminary data regarding the diagnostic ability and accuracy of the system",
+   "c68": "The system is in the process of commercialization because it has to go through regulatory processes. We are doing the maximum"
+  }
+ }
+}

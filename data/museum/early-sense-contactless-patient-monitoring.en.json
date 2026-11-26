@@ -1,0 +1,1531 @@
+{
+ "schema": "maasei-museum/1",
+ "slug": "early-sense-contactless-patient-monitoring",
+ "deed": "חברת ארלי-סנס מנטרת חולים בלי מגע ומונעת נפילות בבית החולים",
+ "canonical_type": "team-invention",
+ "year": "2004",
+ "title": "Israel's EarlySense developed an under-mattress sensor that monitors patients' heart rate and breathing without contact",
+ "trailer": [
+  {
+   "text": "EarlySense was an Israeli medical device company, founded in 2004 by Dr. Danny Lange, Yossi Gross and Avner Halperin.",
+   "claims": [
+    "c1",
+    "c3"
+   ]
+  },
+  {
+   "text": "The company developed a sensor that is placed under the mattress or in a chair cushion and does not need to touch the patient.",
+   "claims": [
+    "c12"
+   ]
+  },
+  {
+   "text": "The sensor measures changes in pressure through the mattress, and software converts them into heart rate, breathing rate and motion.",
+   "claims": [
+    "c13"
+   ]
+  },
+  {
+   "text": "The system was intended for patients outside intensive care, whom staff usually check only at set intervals.",
+   "claims": [
+    "c5",
+    "c11"
+   ]
+  },
+  {
+   "text": "According to the company in 2020, the technology was installed in more than 40,000 beds in hospitals and post-acute care facilities.",
+   "claims": [
+    "c55"
+   ]
+  }
+ ],
+ "hero_media": [
+  "m12"
+ ],
+ "glance": [
+  {
+   "label": "Founders",
+   "value": "Dr. Danny Lange, Yossi Gross, Avner Halperin",
+   "claims": [
+    "c3"
+   ]
+  },
+  {
+   "label": "Since",
+   "value": "2004",
+   "claims": [
+    "c3",
+    "c4"
+   ]
+  },
+  {
+   "label": "Where",
+   "value": "Ramat Gan, Israel, and Massachusetts, United States",
+   "claims": [
+    "c4",
+    "c68"
+   ]
+  },
+  {
+   "label": "Scale",
+   "value": "More than 40,000 beds, according to the company in 2020",
+   "claims": [
+    "c55"
+   ]
+  },
+  {
+   "label": "Recognition",
+   "value": "Fall-prevention provider in 34 NHS hospitals, according to the company",
+   "claims": [
+    "c50"
+   ]
+  }
+ ],
+ "stations": [
+  {
+   "id": "s1",
+   "title": "The patient between checks",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "According to NICE, outside intensive care, vital signs are often monitored through checks by nursing staff at set intervals.",
+      "claims": [
+       "c5"
+      ]
+     },
+     {
+      "text": "According to NICE, if a patient's condition deteriorates between checks, detection of the change may be delayed.",
+      "claims": [
+       "c6"
+      ]
+     },
+     {
+      "text": "According to a British study summary, in the 24 hours before admission to intensive care, as many as 80% of these patients showed abnormal values for heart rate, breathing rate and oxygenation.",
+      "claims": [
+       "c7"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "Another danger is falls.",
+      "claims": [
+       "c8"
+      ]
+     },
+     {
+      "text": "Falls are considered one of the major hazards leading to injuries, complications and even death among hospitalised patients, especially the elderly and people with dementia.",
+      "claims": [
+       "c8"
+      ]
+     },
+     {
+      "text": "According to a 2007 report by the UK's National Patient Safety Agency, falls account for almost 40% of safety incidents in NHS hospitals.",
+      "claims": [
+       "c9"
+      ]
+     },
+     {
+      "text": "According to the same report, an average 800-bed acute hospital has over 1,260 falls a year, at an estimated cost of at least £92,000.",
+      "claims": [
+       "c10"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m11"
+   ],
+   "disagreements": [
+    "d3"
+   ]
+  },
+  {
+   "id": "s2",
+   "title": "Three founders and one idea",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "EarlySense was founded in 2004 by Dr. Danny Lange, Yossi Gross and Avner Halperin.",
+      "claims": [
+       "c3"
+      ]
+     },
+     {
+      "text": "Avner Halperin was the company's CEO from its founding.",
+      "claims": [
+       "c58"
+      ]
+     },
+     {
+      "text": "The company is described as an Israeli digital health startup providing contact-free continuous monitoring solutions.",
+      "claims": [
+       "c2"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to O'Malley, development took about six years, and the sensors were tested on more than 60,000 patients.",
+      "claims": [
+       "c64"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m1"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s3",
+   "title": "A notepad-sized sensor, under the mattress",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "According to NICE, it is a contact-free continuous measurement system for routine monitoring of hospital patients outside intensive care.",
+      "claims": [
+       "c11"
+      ]
+     },
+     {
+      "text": "The system is based on a piezoelectric sensor placed under the mattress or in a chair cushion.",
+      "claims": [
+       "c12"
+      ]
+     },
+     {
+      "text": "According to O'Malley, the sensor is the size of a pad of legal paper, and it detects vibration through the mattress.",
+      "claims": [
+       "c18"
+      ]
+     },
+     {
+      "text": "According to the company's announcement, the sensor never touches the patient.",
+      "claims": [
+       "c15"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to Wikipedia, the sensor measures changes in pressure through the mattress, and software converts them into heart rate, breathing rate and motion.",
+      "claims": [
+       "c13"
+      ]
+     },
+     {
+      "text": "High and low alerts for heart rate and breathing rate can be set for each patient.",
+      "claims": [
+       "c14"
+      ]
+     },
+     {
+      "text": "According to HealthExec, the InSight system relays the data to a variety of connected devices.",
+      "claims": [
+       "c17"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to the company's announcement, the system was designed for low-risk patients outside intensive care.",
+      "claims": [
+       "c22"
+      ]
+     },
+     {
+      "text": "According to NICE, the system with Vitals software costs about £35,000 for a 10-bed unit, and the sensor is replaced every year at a cost of £475 per bed, excluding VAT.",
+      "claims": [
+       "c21"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m5",
+    "m13"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s4",
+   "title": "Approvals and studies",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "According to NICE, the system's components received CE marks in April 2009.",
+      "claims": [
+       "c20"
+      ]
+     },
+     {
+      "text": "According to Wikipedia, the hospital version of the system received 510K marketing clearance from the FDA that same year.",
+      "claims": [
+       "c19"
+      ]
+     },
+     {
+      "text": "According to NICE, in a case series of 38 intensive care patients, heart rate accuracy was 92.1% and breathing rate accuracy was 80.1%, compared with manual counting.",
+      "claims": [
+       "c69"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "In Eyal Zimlichman's study, 113 patients were analysed, and nine of them had a major clinical event.",
+      "claims": [
+       "c25"
+      ]
+     },
+     {
+      "text": "In a study published in the Journal of Hospital Medicine, in predicting deterioration by heart rate, sensitivity was 82% and specificity 67%.",
+      "claims": [
+       "c24"
+      ]
+     },
+     {
+      "text": "By breathing rate, sensitivity was 64% and specificity 81%.",
+      "claims": [
+       "c24"
+      ]
+     },
+     {
+      "text": "Zimlichman said the system measured breathing and heart rate continuously, with few alerts.",
+      "claims": [
+       "c28"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "In Brown's study, in the unit that used the system, code blue events fell from 6.3 to 0.9 per 1,000 patients (p<0.01).",
+      "claims": [
+       "c29"
+      ]
+     },
+     {
+      "text": "In an internal company report, signs of deterioration were detected in 31 of 35 deterioration events (88.6%).",
+      "claims": [
+       "c26"
+      ]
+     },
+     {
+      "text": "According to the same internal report, the system detected signs of deterioration in 100% of the major events.",
+      "claims": [
+       "c27"
+      ]
+     },
+     {
+      "text": "According to a study summarised by NICE, the system can indicate which ventilated patients are not yet ready for extubation.",
+      "claims": [
+       "c70"
+      ]
+     }
+    ]
+   ],
+   "media": [],
+   "disagreements": []
+  },
+  {
+   "id": "s5",
+   "title": "Fewer falls in nursing homes",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "The study collected 833 patient records at the Dorot Geriatric Center in Netanya, a 374-bed facility.",
+      "claims": [
+       "c38"
+      ]
+     },
+     {
+      "text": "The study also collected 773 records at the Hebrew Home at Riverdale, an 870-bed skilled nursing facility.",
+      "claims": [
+       "c39"
+      ]
+     },
+     {
+      "text": "According to HealthExec, the Hebrew Home at Riverdale saw a decrease of nearly 40 percent in falls.",
+      "claims": [
+       "c42"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "Dr. Zachary Palace said the system alerted to early warning signs of deterioration, the staff responded, and \"literally save four lives\".",
+      "claims": [
+       "c37"
+      ]
+     },
+     {
+      "text": "Dr. Gad Mendelson of the Dorot Center said that thanks to the low number of false alarms, the staff reached deteriorating patients earlier, without alarm fatigue.",
+      "claims": [
+       "c66"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to the company, Newton-Wellesley Hospital reported dozens of cases in which InSight alerted staff and helped them care for patients in time.",
+      "claims": [
+       "c43"
+      ]
+     },
+     {
+      "text": "Nurse Jessie Munn said the sensor detected a low breathing rate in a patient with schizoaffective disorder and cancer who was suffering uncontrollable pain.",
+      "claims": [
+       "c44"
+      ]
+     },
+     {
+      "text": "According to Munn, the breathing difficulties were linked to a Fentanyl patch, and the patient's condition improved after it was removed.",
+      "claims": [
+       "c45"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m4"
+   ],
+   "disagreements": [
+    "d1",
+    "d2"
+   ]
+  },
+  {
+   "id": "s6",
+   "title": "From Britain to Nairobi",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "According to the company's announcement, it was chosen as a framework provider for the supply of fall-prevention products in 34 NHS hospitals, with over 6,000 beds in North West England.",
+      "claims": [
+       "c50"
+      ]
+     },
+     {
+      "text": "The UK Health Research Authority registered a study examining the impact of the monitoring system on fall prevention in one acute UK hospital.",
+      "claims": [
+       "c62"
+      ]
+     },
+     {
+      "text": "One of the study's aims is to measure the system's impact on the number and severity of falls.",
+      "claims": [
+       "c63"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to HIT Consultant, in 2016 a $25 million round brought total funding to $100 million, with investments from Samsung, Welch Allyn and Mitsui.",
+      "claims": [
+       "c60"
+      ]
+     },
+     {
+      "text": "On 7 January 2019, the company announced a $39 million round, mostly from Hill-Rom and Wells Fargo.",
+      "claims": [
+       "c51"
+      ]
+     },
+     {
+      "text": "According to chairman Itai Harel, within a year the company more than tripled its installations in hospitals and nursing homes.",
+      "claims": [
+       "c53"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "CEO Avner Halperin claimed that in 2018 alone the technology saved providers over $100 million and prevented 3,000 deaths, 5,000 falls and 4,000 cardiac arrests.",
+      "claims": [
+       "c52"
+      ]
+     },
+     {
+      "text": "In April 2019 it was reported that Matt Johnson would replace Halperin as CEO.",
+      "claims": [
+       "c58"
+      ]
+     },
+     {
+      "text": "According to Calcalist, the company's sensors would be used to continuously monitor vital signs of newborns in hospitals in Nairobi, Kenya.",
+      "claims": [
+       "c61"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m3"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s7",
+   "title": "In Sheba's isolation rooms",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "In March 2020 the company announced that Sheba Medical Center was using its system to monitor isolated patients suspected of coronavirus exposure.",
+      "claims": [
+       "c54"
+      ]
+     },
+     {
+      "text": "According to the company's announcement, the sensor transmits real-time data to a display outside the room.",
+      "claims": [
+       "c16"
+      ]
+     },
+     {
+      "text": "This way staff need to put on protective clothing and enter isolation areas less often.",
+      "claims": [
+       "c16"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m2"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s8",
+   "title": "Questions, criticism and the end of the company",
+   "kind": "hard",
+   "paragraphs": [
+    [
+     {
+      "text": "According to NICE, the available clinical evidence was limited in quantity and quality.",
+      "claims": [
+       "c33"
+      ]
+     },
+     {
+      "text": "NICE noted that Brown's study was not truly randomised and was not blinded.",
+      "claims": [
+       "c32"
+      ]
+     },
+     {
+      "text": "NICE also noted that in this study there was a large difference in intensive care days between the two wards from the start, and that this difference may have caused bias.",
+      "claims": [
+       "c31"
+      ]
+     },
+     {
+      "text": "Brown's study found no significant differences in transfers to intensive care or in APACHE II scores.",
+      "claims": [
+       "c30"
+      ]
+     },
+     {
+      "text": "NICE noted that Zimlichman's study recruited patients at increased risk of respiratory failure, so the results may not apply to a general medical ward.",
+      "claims": [
+       "c34"
+      ]
+     },
+     {
+      "text": "Prof. Robert Wachter, whom the company quotes as supporting the study, is a member of the company's Medical Advisory Board.",
+      "claims": [
+       "c65"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "Two specialists consulted by NICE were concerned that the upfront cost was too high for the NHS, without clear data on future savings.",
+      "claims": [
+       "c47"
+      ]
+     },
+     {
+      "text": "Two specialists noted that the system requires patients to be in bed, so its benefit may be limited.",
+      "claims": [
+       "c49"
+      ]
+     },
+     {
+      "text": "One specialist remarked that \"alarm fatigue\" is a risk in all early warning systems, when staff ignore alerts because of false alarms.",
+      "claims": [
+       "c48"
+      ]
+     },
+     {
+      "text": "Nurse Jessie Munn said the system was not integrated with the hospital's communication platform, so staff had to carry multiple alert devices.",
+      "claims": [
+       "c46"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to Calcalist, the company fell into debt and went into receivership.",
+      "claims": [
+       "c56"
+      ]
+     },
+     {
+      "text": "According to Calcalist, EarlySense sold its intellectual property rights for $30 million.",
+      "claims": [
+       "c57"
+      ]
+     },
+     {
+      "text": "According to Wikipedia, the company sold its contact-free continuous monitoring technology to Hill-Rom, now Baxter International.",
+      "claims": [
+       "c59"
+      ]
+     }
+    ]
+   ],
+   "media": [],
+   "disagreements": []
+  }
+ ],
+ "disagreements": [
+  {
+   "id": "d1",
+   "question": "By how much did falls decrease with the system?",
+   "versions": [
+    {
+     "says": "According to the company's announcement, the falls rate at the Hebrew Home at Riverdale decreased by 38.5% (p<0.05)",
+     "claims": [
+      "c35"
+     ]
+    },
+    {
+     "says": "According to HealthExec, the decrease in falls at the Hebrew Home at Riverdale was nearly 40 percent",
+     "claims": [
+      "c42"
+     ]
+    },
+    {
+     "says": "According to the company's announcement, Dr. Spiegel of the Dorot Center presented a 28% reduction in falls",
+     "claims": [
+      "c40"
+     ]
+    },
+    {
+     "says": "According to the same announcement, US researchers reported a 47% decrease in fall events",
+     "claims": [
+      "c41"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d2",
+   "question": "What changed in transfers and readmissions at the Dorot Center?",
+   "versions": [
+    {
+     "says": "According to the company's announcement, transfers to the hospital decreased by 21%, but without statistical significance (p=0.12)",
+     "claims": [
+      "c36"
+     ]
+    },
+    {
+     "says": "According to the company's announcement, Dr. Spiegel presented a 19% improvement in readmission rates",
+     "claims": [
+      "c40"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d3",
+   "question": "How often are low-risk patients usually checked?",
+   "versions": [
+    {
+     "says": "According to the company's announcement, once every four to five hours",
+     "claims": [
+      "c22"
+     ]
+    },
+    {
+     "says": "According to the company's announcement in 2013, approximately once every four hours",
+     "claims": [
+      "c23"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d4",
+   "question": "Where is the company's headquarters?",
+   "versions": [
+    {
+     "says": "According to the company's announcement in 2013, headquarters in Waltham, Massachusetts",
+     "claims": [
+      "c67"
+     ]
+    },
+    {
+     "says": "According to the company's announcement in 2020, the company is based in Ramat Gan and Woburn, Massachusetts",
+     "claims": [
+      "c68"
+     ]
+    }
+   ]
+  }
+ ],
+ "unknowns": [],
+ "claims": [
+  {
+   "id": "c1",
+   "text": "ארלי-סנס הייתה חברת מכשור רפואי ישראלית עם משרדים בארצות הברית.",
+   "source": "src1",
+   "quote": "EarlySense was an Israeli medical device company with offices in the United States.",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c3",
+   "text": "החברה נוסדה ב-2004 על ידי ד\"ר דני לאנג', יוסי גרוס ואבנר הלפרין.",
+   "source": "src1",
+   "quote": "The company was founded in 2004 by Dr. Danny Lange, Yossi Gross, and Avner Halperin.",
+   "status": "confirmed",
+   "locator": "שורה 20"
+  },
+  {
+   "id": "c12",
+   "text": "המערכת מבוססת על חיישן פיזואלקטרי שמונח מתחת למזרן או בכרית מושב כיסא, ואינה דורשת מגע ישיר עם המטופל.",
+   "source": "src2",
+   "quote": "The system is based on a piezoelectric sensor that is placed under the patient's mattress or inside a chair seat cushion and is sensitive to applied mechanical strain.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c13",
+   "text": "לפי ויקיפדיה, החיישן מודד שינויי לחץ דרך המזרן ומעביר אותם לתוכנה שהופכת אותם לדופק, קצב נשימה ותנועה.",
+   "source": "src1",
+   "quote": "the sensor measures changes in pressure applied to it through the mattress, and transmits the measurements to the software, which converts them to heart rate, breathing rate, and motion",
+   "status": "confirmed",
+   "locator": "שורה 21"
+  },
+  {
+   "id": "c5",
+   "text": "לפי NICE, ניטור סימנים חיוניים מחוץ ליחידה לטיפול נמרץ מסתמך לרוב על בדיקות של הצוות הסיעודי במרווחי זמן קבועים.",
+   "source": "src2",
+   "quote": "Monitoring people's vital signs outside an ICU often relies on nursing staff conducting checks at set intervals.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c11",
+   "text": "לפי NICE, המערכת היא מערכת מדידה רציפה ללא מגע, המשמשת לניטור שגרתי של מאושפזים מחוץ לטיפול נמרץ.",
+   "source": "src2",
+   "quote": "The EarlySense system is a contact-free continuous measurement system used for routine monitoring of non-intensive care unit (ICU) hospital patients.",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c55",
+   "text": "לפי החברה ב-2020, הטכנולוגיה מותקנת ביותר מ-40,000 מיטות בבתי חולים ובמוסדות המשך טיפול.",
+   "source": "src3",
+   "quote": "EarlySense technology is installed in more than 40,000 patient beds in hospitals and post acute care facilities.",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c4",
+   "text": "נשיא החברה טים אומאלי סיפר שהחברה הושקה ב-2004 ושיש לה משרדים ברמת גן ובוולתם, מסצ'וסטס.",
+   "source": "src4",
+   "quote": "president of EarlySense, which launched in 2004 and has offices in Ramat Gan, Israel, and Waltham, Mass.",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c68",
+   "text": "לפי הודעת החברה ב-2020, החברה ממוקמת ברמת גן, ישראל, ובוובורן, מסצ'וסטס.",
+   "source": "src3",
+   "quote": "EarlySense is based in Ramat Gan, Israel and Woburn, Massachusetts.",
+   "status": "confirmed",
+   "locator": "שורה 17"
+  },
+  {
+   "id": "c50",
+   "text": "החברה הודיעה שנבחרה כספקית במסגרת לאספקת מוצרים למניעת נפילות ב-34 בתי חולים של ה-NHS עם יותר מ-6,000 מיטות בצפון-מערב אנגליה.",
+   "source": "src5",
+   "quote": "has been chosen as a framework provider for the supply of products to aid the prevention of patient falls in 34 NHS hospitals, with over 6,000 beds in North West England.",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c6",
+   "text": "לפי NICE, אם מצב המטופל מידרדר בין מועדי הניטור, עלולה להיות עיכוב בזיהוי השינוי.",
+   "source": "src2",
+   "quote": "However, if the patient deteriorates between monitoring times, there may be a delay in detecting the change in their condition.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c7",
+   "text": "לפי תקציר המחקר הבריטי, ב-24 השעות שלפני קבלה לטיפול נמרץ עד 80% מהחולים הללו הציגו ערכים חריגים של דופק, קצב נשימה וחמצון.",
+   "source": "src6",
+   "quote": "In the 24 hours prior to Intensive Care Unit (ICU) admission, as many as 80% of these patients will have had abnormal values for heart rate, respiratory rate, and oxygenation.",
+   "status": "confirmed",
+   "locator": "שורה 25"
+  },
+  {
+   "id": "c8",
+   "text": "נפילות נחשבות לאחד הסיכונים המרכזיים לפציעות, סיבוכים ואף תמותה בקרב מאושפזים, במיוחד קשישים וחולי דמנציה.",
+   "source": "src6",
+   "quote": "Falls are considered one of the major hazards that can lead to injuries, complications or even mortality among hospitalised patients, especially the elderly and those with dementia.",
+   "status": "confirmed",
+   "locator": "שורה 26"
+  },
+  {
+   "id": "c9",
+   "text": "לפי דוח משנת 2007 של הסוכנות הלאומית לבטיחות מטופלים בבריטניה, נפילות הן כמעט 40% מאירועי הבטיחות בבתי החולים של ה-NHS.",
+   "source": "src5",
+   "quote": "patient falls account for almost 40% of the patient safety incidents in NHS hospitals",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c10",
+   "text": "לפי אותו דוח, בבית חולים אקוטי ממוצע של 800 מיטות יש יותר מ-1,260 נפילות בשנה, בעלות מוערכת של לפחות 92,000 פאונד.",
+   "source": "src5",
+   "quote": "In an average 800-bed acute hospital trust, there will be over 1,260 falls and estimated costs at a minimum of £92,000 per year.",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c58",
+   "text": "באפריל 2019 דווח שמאט ג'ונסון יחליף את המייסד אבנר הלפרין, מנכ\"ל החברה הישראלית מאז הקמתה.",
+   "source": "src7",
+   "quote": "Healthcare veteran Matt Johnson will replace co-founder Avner Halperin, the Israel-based company’s CEO since its foundation",
+   "status": "confirmed",
+   "locator": "שורה 89"
+  },
+  {
+   "id": "c2",
+   "text": "ארלי-סנס מתוארת כסטארט-אפ ישראלי לבריאות דיגיטלית, ספק של פתרונות ניטור רציף ללא מגע.",
+   "source": "src8",
+   "quote": "Israeli digital health startup, EarlySense, a contact-free continuous monitoring solutions provider",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c64",
+   "text": "לפי אומאלי, החיישנים נבדקו על יותר מ-60,000 מטופלים, והפיתוח נמשך כשש שנים.",
+   "source": "src4",
+   "quote": "the technology has been in development for roughly six years, with the sensors being tested on more than 60,000 patients",
+   "status": "confirmed",
+   "locator": "שורה 15"
+  },
+  {
+   "id": "c18",
+   "text": "לפי אומאלי, החיישן בגודל פנקס נייר משפטי מזהה רעידות דרך המזרן.",
+   "source": "src4",
+   "quote": "the sensor, which is about the size of a pad of legal paper, detects vibration through the mattress",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c15",
+   "text": "לפי הודעת החברה, המערכת משתמשת בחיישן מתחת למזרן ואף פעם אינה נוגעת במטופל.",
+   "source": "src9",
+   "quote": "The EarlySense System uses a sensor, placed under the mattress of a bed, and never touches the patient.",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c14",
+   "text": "אפשר להגדיר לכל מטופל התראות על ערך גבוה ונמוך של דופק ושל קצב נשימה.",
+   "source": "src2",
+   "quote": "High and low threshold alerts for both heart rate and respiration rate can be set for each patient.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c17",
+   "text": "לפי HealthExec, מערכת InSight מעבירה נתוני דופק, קצב נשימה ותנועה למגוון מכשירים מחוברים.",
+   "source": "src10",
+   "quote": "InSight relays heart rate, respiratory rate and motion statistics to a variety of connected devices",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c22",
+   "text": "לפי הודעת החברה, המערכת תוכננה לחולים בסיכון נמוך מחוץ לטיפול נמרץ, שאחיות בודקות בדרך כלל אחת לארבע עד חמש שעות.",
+   "source": "src9",
+   "quote": "who are usually monitored by on-duty nurses once every four to five hours",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c21",
+   "text": "לפי NICE, המערכת עם תוכנת Vitals עולה כ-35,000 פאונד ליחידה של 10 מיטות, והחיישן מוחלף מדי שנה בעלות 475 פאונד למיטה (ללא מע\"מ).",
+   "source": "src2",
+   "quote": "costs about £35,000 for a 10-bed unit and the sensor must be replaced annually at a cost of £475.00 per bed (excluding VAT)",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c20",
+   "text": "לפי NICE, רכיבי המערכת קיבלו סימון CE באפריל 2009.",
+   "source": "src2",
+   "quote": "EarlySense was awarded CE marks for the following components in April 2009",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c19",
+   "text": "לפי ויקיפדיה, גרסת בית החולים של המערכת קיבלה אישור שיווק 510K מה-FDA ב-2009.",
+   "source": "src1",
+   "quote": "received 510K marketing clearance from the FDA in 2009, meaning that it is equivalent to devices already on the market",
+   "status": "confirmed",
+   "locator": "שורה 21"
+  },
+  {
+   "id": "c69",
+   "text": "לפי NICE, בסדרת מקרים של 38 מטופלי טיפול נמרץ דיוק הדופק היה 92.1% ודיוק קצב הנשימה 80.1% מול ספירה ידנית.",
+   "source": "src2",
+   "quote": "In another case series of 38 patients in ICU, the heart rate accuracy was 92.1% compared with ECG and the respiratory rate accuracy was 80.1% compared with manual measurements.",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c25",
+   "text": "במחקר של זימליכמן מתוך 113 מטופלים שנותחו, תשעה חוו אירוע קליני משמעותי.",
+   "source": "src11",
+   "quote": "Nine out of 113 patients had a major clinical event.",
+   "status": "confirmed",
+   "locator": "שורה 15"
+  },
+  {
+   "id": "c24",
+   "text": "במחקר שפורסם ב-Journal of Hospital Medicine, רגישות וסגוליות בניבוי הידרדרות היו 82% ו-67% בדופק, ו-64% ו-81% בקצב נשימה.",
+   "source": "src9",
+   "quote": "Sensitivity and specificity in predicting deterioration was found to be 82% and 67%, respectively, for HR and 64% and 81%, respectively, for RR.",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c28",
+   "text": "החוקר איל זימליכמן סיפר שהמערכת מדדה נשימה ודופק ברציפות עם תדירות התראות נמוכה.",
+   "source": "src9",
+   "quote": "The EarlySense monitor was able to continuously measure respiration and heart rates, providing low alert frequency.",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c29",
+   "text": "במחקר של בראון, ביחידה עם המערכת ירדו אירועי קוד כחול מ-6.3 ל-0.9 לכל 1,000 מטופלים (p<0.01).",
+   "source": "src11",
+   "quote": "had 6.3 code blue events per 1000 patients before implementation, improving to 0.9 events per 1000 patients after implementation (p<0.01).",
+   "status": "confirmed",
+   "locator": "שורה 16"
+  },
+  {
+   "id": "c26",
+   "text": "בדוח פנימי של החברה, סימני הידרדרות זוהו ב-31 מתוך 35 אירועי ההידרדרות (88.6%).",
+   "source": "src11",
+   "quote": "Signs of worsening were detected by monitoring heart or respiratory rates (alerts and trends) in 31 of these events (88.6%).",
+   "status": "confirmed",
+   "locator": "שורה 17"
+  },
+  {
+   "id": "c27",
+   "text": "בדוח הפנימי של החברה, המערכת זיהתה סימני הידרדרות ב-100% מהאירועים המשמעותיים.",
+   "source": "src11",
+   "quote": "The EarlySense system detected signs of worsening in 100% of these major events.",
+   "status": "confirmed",
+   "locator": "שורה 17"
+  },
+  {
+   "id": "c70",
+   "text": "לפי מחקר שסוכם ב-NICE, המערכת יכולה להצביע על מטופלים מונשמים שעדיין אינם מוכנים להוצאת הצינור.",
+   "source": "src11",
+   "quote": "The authors concluded that the EarlySense system can indicate which ventilated patients are not yet ready for extubation.",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c38",
+   "text": "במחקר נאספו וסוכמו 833 רשומות מטופלים במרכז הגריאטרי דורות בנתניה, מוסד בן 374 מיטות.",
+   "source": "src12",
+   "quote": "Eight-hundred and thirty-three (833) patient records at The Dorot Geriatric Center, a 374-bed facility in Netanya, Israel",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c39",
+   "text": "במחקר נאספו גם 773 רשומות בבית ההברי בריוורדייל, מוסד סיעודי בן 870 מיטות.",
+   "source": "src12",
+   "quote": "seven-hundred and seventy-three (773) records at the Hebrew Home at Riverdale, an 870-bed skilled nursing facility in Riverdale, N.Y.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c42",
+   "text": "לפי HealthExec, בבית ההברי בריוורדייל נרשמה ירידה של כמעט 40 אחוז בנפילות וירידה משמעותית באשפוזים חוזרים.",
+   "source": "src10",
+   "quote": "Other facilities like the Hebrew Home at Riverdale in New York have seen a nearly 40 percent decrease in patient falls and a significant reduction in readmissions.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c37",
+   "text": "ד\"ר זכרי פלאס סיפר שהמערכת התריעה על סימני הידרדרות מוקדמים והצוות הגיב ו\"הציל ממש ארבעה חיים\".",
+   "source": "src12",
+   "quote": "The system also alerted regarding early warning signs of patient deterioration which enabled our medical team to proactively respond and literally save four lives.",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c66",
+   "text": "ד\"ר גד מנדלסון ממרכז דורות אמר שהתראות השווא הנמוכות אפשרו לצוות להגיע למטופלים מידרדרים מוקדם יותר בלי עייפות מהתראות.",
+   "source": "src12",
+   "quote": "its low level of false alarms allowed our team to reach deteriorating patients earlier without creating alarm fatigue",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c43",
+   "text": "לפי החברה, בבית החולים ניוטון-ולסלי דווחו עשרות מקרים שבהם InSight התריעה לצוות וסייעה לטפל במטופלים בזמן.",
+   "source": "src10",
+   "quote": "has reported dozens of cases in which InSight alerted staff, allowing them to help patients in a timely manner",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c44",
+   "text": "לפי האחות ג'סי מאן, החיישן זיהה קצב נשימה נמוך אצל מטופלת עם הפרעה סכיזואפקטיבית וסרטן שסבלה מכאב בלתי נשלט.",
+   "source": "src4",
+   "quote": "the sensor detected a low respiratory rate in a patient suffering from a schizoaffective disorder and cancer who was experiencing uncontrollable pain and needed narcotic analgesia",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c45",
+   "text": "לפי מאן, קשיי הנשימה נקשרו לפלסטר פנטניל ומצב המטופל השתפר לאחר הסרתו.",
+   "source": "src4",
+   "quote": "The breathing difficulties were linked to a Fentanyl patch, she said, and the patient's condition improved after the patch was removed.",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c62",
+   "text": "רשות המחקר הבריאותי הבריטית רשמה מחקר להערכת השפעת מערכת ניטור רציף על מניעת נפילות בבית חולים אקוטי אחד בבריטניה.",
+   "source": "src6",
+   "quote": "An evaluation of the impact of a continuous patient monitoring system on the prevention of falls in one acute U.K. hospital",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c63",
+   "text": "אחת ממטרות המחקר הבריטי היא למדוד את השפעת מערכת הניטור על מספר הנפילות וחומרתן.",
+   "source": "src6",
+   "quote": "To measure the impact of a continuous monitoring system on the number and severity of patient falls",
+   "status": "confirmed",
+   "locator": "שורה 28"
+  },
+  {
+   "id": "c60",
+   "text": "לפי HIT Consultant, הסבב של 25 מיליון דולר הביא את סך הגיוסים ל-100 מיליון דולר, כולל השקעות של סמסונג, וולש אלין ומיצוי.",
+   "source": "src8",
+   "quote": "brings the company’s total funding to $100M including strategic investments from Samsung, Welch Allyn and Mitsui",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c51",
+   "text": "החברה הישראלית הודיעה ב-7 בינואר 2019 על השלמת סבב גיוס של 39 מיליון דולר, רובו מהיל-רום ומוולס פארגו.",
+   "source": "src13",
+   "quote": "today announced that it has completed a $39 million financing round, with the majority of the funding coming from Hill-Rom",
+   "status": "confirmed",
+   "locator": "שורה 41"
+  },
+  {
+   "id": "c53",
+   "text": "לפי יו\"ר הדירקטוריון איתי הראל, החברה יותר משילשה את בסיס ההתקנות שלה בבתי חולים ובבתי אבות בתוך שנה.",
+   "source": "src13",
+   "quote": "has since more than tripled its installed base in hospitals and nursing homes within the last year alone",
+   "status": "confirmed",
+   "locator": "שורה 50"
+  },
+  {
+   "id": "c52",
+   "text": "מנכ\"ל החברה אבנר הלפרין טען שב-2018 לבדה הטכנולוגיה חסכה לספקים מעל 100 מיליון דולר ומנעה 3,000 מקרי מוות, 5,000 נפילות ו-4,000 דום לב.",
+   "source": "src13",
+   "quote": "In 2018 alone, our technology helped providers save over $100 million, and played the pivotal role in preventing 3,000 deaths, 5,000 patient falls and 4,000 cardiac arrests",
+   "status": "confirmed",
+   "locator": "שורה 42"
+  },
+  {
+   "id": "c61",
+   "text": "לפי כלכליסט, חיישני החברה ישמשו לניטור רציף של סימנים חיוניים של יילודים בבתי חולים בנאירובי, קניה.",
+   "source": "src7",
+   "quote": "EarlySense’s sensors will be used to continuously track key vital signs of newborns in hospitals in Nairobi",
+   "status": "confirmed",
+   "locator": "שורה 93"
+  },
+  {
+   "id": "c54",
+   "text": "במרץ 2020 הודיעה החברה שמערכתה משמשת את המרכז הרפואי שיבא הישראלי לניטור מטופלים בבידוד החשודים בחשיפה לקורונה.",
+   "source": "src3",
+   "quote": "one of the strategic medical technologies being used by Israel’s Sheba Medical Center to help protect staff while monitoring isolated patients suspected of coronavirus exposure",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c16",
+   "text": "לפי הודעת החברה, החיישן מעביר נתונים בזמן אמת לצג מחוץ לחדר המטופל, כך שהצוות פחות צריך ללבוש ביגוד מגן ולהיכנס לאזורי בידוד.",
+   "source": "src3",
+   "quote": "transmits real-time patient data for the early detection of clinical changes to a display outside of the patient’s room, limiting the need for staff to gown up and enter isolation areas",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c33",
+   "text": "לפי NICE, הראיות הקליניות הזמינות היו מוגבלות בכמות ובאיכות.",
+   "source": "src11",
+   "quote": "The currently available evidence for the clinical effectiveness of the EarlySense system was limited in both quantity and quality",
+   "status": "confirmed",
+   "locator": "שורה 33"
+  },
+  {
+   "id": "c32",
+   "text": "NICE ציין שהמחקר של בראון לא היה אקראי באמת ולא היה עיוור.",
+   "source": "src11",
+   "quote": "but this is not true randomisation and the study was not blinded.",
+   "status": "confirmed",
+   "locator": "שורה 37"
+  },
+  {
+   "id": "c31",
+   "text": "NICE ציין שבמחקר של בראון היה הבדל גדול בימי טיפול נמרץ בין שתי המחלקות כבר בבסיס, ועלול היה ליצור הטיה.",
+   "source": "src11",
+   "quote": "this is a large difference in ICU length of stay between the 2 wards at baseline, and may have caused bias",
+   "status": "confirmed",
+   "locator": "שורה 37"
+  },
+  {
+   "id": "c30",
+   "text": "במחקר של בראון לא נמצאו הבדלים מובהקים סטטיסטית בהעברות לטיפול נמרץ או בציוני APACHE II בין שתי המחלקות.",
+   "source": "src11",
+   "quote": "There were no statistically significant differences in ICU transfers or APACHE II scores between the 2 wards after the EarlySense system was introduced.",
+   "status": "confirmed",
+   "locator": "שורה 16"
+  },
+  {
+   "id": "c34",
+   "text": "NICE ציין שמחקר זימליכמן גייס מטופלים בסיכון מוגבר לאי ספיקה נשימתית, ולכן התוצאות אולי אינן מתאימות למחלקה פנימית רגילה.",
+   "source": "src11",
+   "quote": "The study recruited patients at an increased risk for respiratory failure, so the results from this study may not be applicable to a general medical ward.",
+   "status": "confirmed",
+   "locator": "שורה 39"
+  },
+  {
+   "id": "c65",
+   "text": "פרופ' רוברט וואכטר, שמצטט תומך במחקר, הוא חבר במועצה הרפואית המייעצת של החברה.",
+   "source": "src9",
+   "quote": "a member of the EarlySense Medical Advisory Board",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c47",
+   "text": "שני מומחים שהתייעצו איתם ב-NICE חששו שעלות ההקמה גבוהה מדי ל-NHS ללא נתונים ברורים על חיסכון עתידי.",
+   "source": "src2",
+   "quote": "Two specialist commentators were concerned that the upfront cost of the EarlySense system might be prohibitive for the NHS without clear data on the likely downstream savings",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c49",
+   "text": "שני מומחים ציינו שהמערכת דורשת שהמטופלים יהיו במיטה, ולכן התועלת שלה עלולה להיות מוגבלת.",
+   "source": "src2",
+   "quote": "Two specialist commentators noted that the EarlySense system needed patients to be in bed for monitoring",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c48",
+   "text": "מומחה אחד העיר ש\"עייפות מהתראות\" היא סיכון במערכות התראה מוקדמת בכלל, כשהצוות מתעלם מהתראות בגלל התראות שווא.",
+   "source": "src2",
+   "quote": "One commentator noted the risk of 'alarm fatigue' from early warning systems in general",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c46",
+   "text": "לפי מאן, המערכת עדיין לא משולבת בפלטפורמת התקשורת הנייחת של בית החולים, ולכן הצוות נאלץ לשאת כמה מכשירי התראה.",
+   "source": "src4",
+   "quote": "Munn said the system is so new that it doesn't yet integrate with the hospital's mobile phone-based nurse-patient care communication platform, forcing clinicians to carry multiple alert devices.",
+   "status": "confirmed",
+   "locator": "שורה 13"
+  },
+  {
+   "id": "c56",
+   "text": "לפי כלכליסט, החברה שפיתחה חיישנים למיטות בית חולים נקלעה לחובות ונכנסה לכינוס נכסים.",
+   "source": "src7",
+   "quote": "The company, which developed sensors for hospital beds, fell into debt and went into receivership.",
+   "status": "confirmed",
+   "locator": "שורה 77"
+  },
+  {
+   "id": "c57",
+   "text": "לפי כלכליסט, ארלי-סנס מכרה את זכויות הקניין הרוחני שלה תמורת 30 מיליון דולר.",
+   "source": "src7",
+   "quote": "Earlysense sells its intellectual property rights for $30 million",
+   "status": "confirmed",
+   "locator": "שורה 78"
+  },
+  {
+   "id": "c59",
+   "text": "לפי ויקיפדיה, החברה מכרה את טכנולוגיית הניטור הרציף ללא מגע להיל-רום, שהיא כיום בקסטר אינטרנשיונל.",
+   "source": "src1",
+   "quote": "It has sold its proprietary contact-free continuous monitoring technology to Hill-Rom, now Baxter International.",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c35",
+   "text": "לפי הודעת החברה, בניסוי בבית אבות בבית ההברי בריוורדייל ירד שיעור הנפילות ב-38.5% (p<0.05).",
+   "source": "src12",
+   "quote": "the falls rate decreased by 38.5% (p<0.05) at the Hebrew Home",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c40",
+   "text": "לפי הודעת החברה, ד\"ר ספיגל ממרכז דורות הציג ירידה של 28% בנפילות ושיפור של 19% בשיעורי אשפוז חוזר.",
+   "source": "src5",
+   "quote": "a 28% reduction in falls and a 19% improvement in readmission rates",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c41",
+   "text": "לפי אותה הודעה, חוקרים אמריקאים דיווחו על ירידה של 47% באירועי נפילה בשימוש במערכת.",
+   "source": "src5",
+   "quote": "US researchers reported a 47% decrease of fall events using the EarlySense monitoring solution.",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c36",
+   "text": "לפי הודעת החברה, שיעור ההעברות לבית החולים במרכז דורות ירד ב-21%, אך ללא מובהקות סטטיסטית (p=0.12).",
+   "source": "src12",
+   "quote": "The transfer rate to the hospital decreased by 21% (p=0.12) at Dorot",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c23",
+   "text": "לפי הודעת החברה ב-2013, מטופלים כאלה נבדקים בדרך כלל על ידי הצוות הסיעודי כאחת לארבע שעות בערך.",
+   "source": "src12",
+   "quote": "who are usually monitored by nursing staff approximately once every four hours",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c67",
+   "text": "לפי הודעת החברה ב-2013, מטה החברה נמצא בוולתם, מסצ'וסטס.",
+   "source": "src12",
+   "quote": "EarlySense Inc. is headquartered in Waltham, MA. Investors include: JK&B, Pitango Venture Capital, Etgar Challenge Fund",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  }
+ ],
+ "sources": [
+  {
+   "id": "src1",
+   "label": "Wikipedia, EarlySense",
+   "url": "https://en.wikipedia.org/wiki/EarlySense",
+   "kind": "reference"
+  },
+  {
+   "id": "src2",
+   "label": "NICE, MIB49 EarlySense (PDF)",
+   "url": "https://www.nice.org.uk/advice/mib49/resources/earlysense-for-heart-and-respiratory-monitoring-and-predicting-patient-deterioration-pdf-63499174459333",
+   "kind": "official"
+  },
+  {
+   "id": "src3",
+   "label": "Healthcare Dive, EarlySense helps Sheba Medical Center, 16.3.2020",
+   "url": "https://www.healthcaredive.com/press-release/20200316-earlysense-helps-sheba-medical-center-protect-staff-treating-patients-from/",
+   "kind": "organisation"
+  },
+  {
+   "id": "src4",
+   "label": "MobiHealthNews, Contact-free sensors may hold key to effective patient monitoring",
+   "url": "https://www.mobihealthnews.com/news/contact-free-sensors-may-hold-key-effective-patient-monitoring",
+   "kind": "press"
+  },
+  {
+   "id": "src5",
+   "label": "Fierce Electronics, NHS Hospitals Choose EarlySense to Improve Patient Safety",
+   "url": "https://www.fierceelectronics.com/components/nhs-hospitals-choose-earlysense-to-improve-patient-safety",
+   "kind": "press"
+  },
+  {
+   "id": "src6",
+   "label": "NHS Health Research Authority, UK EarlySense Study – Prevention of Falls",
+   "url": "https://www.hra.nhs.uk/planning-and-improving-research/application-summaries/research-summaries/uk-earlysense-study-prevention-of-falls/",
+   "kind": "official"
+  },
+  {
+   "id": "src7",
+   "label": "Calcalist, EarlySense tag page, including An early demise: The sad end of Israel's EarlySense, 2022",
+   "url": "https://www.calcalistech.com/tags/EarlySense",
+   "kind": "press"
+  },
+  {
+   "id": "src8",
+   "label": "HIT Consultant, EarlySense lands $25M, 1.6.2016",
+   "url": "https://hitconsultant.net/2016/06/01/earlysense-lands-25m",
+   "kind": "press"
+  },
+  {
+   "id": "src9",
+   "label": "Fierce Healthcare, Journal of Hospital Medicine study on predicting deterioration",
+   "url": "https://www.fiercehealthcare.com/healthcare/data-demonstrates-earlysense-s-contact-free-patient-monitoring-system-accurately",
+   "kind": "press"
+  },
+  {
+   "id": "src10",
+   "label": "HealthExec, New patient monitoring system reduces falls, readmissions",
+   "url": "https://healthexec.com/node/78651",
+   "kind": "press"
+  },
+  {
+   "id": "src11",
+   "label": "NICE, Medtech innovation briefing MIB49 – EarlySense, evidence review",
+   "url": "https://www.nice.org.uk/advice/mib49/chapter/Evidence-review",
+   "kind": "official"
+  },
+  {
+   "id": "src12",
+   "label": "Fierce Healthcare, EarlySense data from the American Geriatrics Society meeting, 2013",
+   "url": "https://www.fiercehealthcare.com/healthcare/earlysense-system-implementation-shown-to-reduce-falls-decrease-transfers-to-hospitals",
+   "kind": "press"
+  },
+  {
+   "id": "src13",
+   "label": "Globes (English), Patient monitoring co EarlySense raises $39m, 2019",
+   "url": "https://en.globes.co.il/en/article-patient-monitoring-co-earlysense-raises-39m-1001268026",
+   "kind": "press"
+  }
+ ],
+ "media": [
+  {
+   "id": "m1",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=JFm_xphl11Q",
+   "youtube_id": "JFm_xphl11Q",
+   "source_page": "https://www.youtube.com/watch?v=JFm_xphl11Q",
+   "source_name": "YouTube",
+   "credit": "EarlySense",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "The organisation's own product film: EarlySense presents its medical monitoring technology, intended to help staff save patients' lives.",
+   "illustrates": [
+    "c2"
+   ],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m2",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=NitsEUUqDUE",
+   "youtube_id": "NitsEUUqDUE",
+   "source_page": "https://www.youtube.com/watch?v=NitsEUUqDUE",
+   "source_name": "YouTube",
+   "credit": "EarlySense",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "Triventures interview with an EarlySense representative on continuous, contact-free monitoring of coronavirus patients.",
+   "illustrates": [
+    "c2",
+    "c16"
+   ],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m3",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=sbfmZaExQyo",
+   "youtube_id": "sbfmZaExQyo",
+   "source_page": "https://www.youtube.com/watch?v=sbfmZaExQyo",
+   "source_name": "YouTube",
+   "credit": "EarlySense",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "The organisation's own film: Franciscus Hospital in the Netherlands installed the monitors in a pulmonary ward to prevent patient deterioration and falls.",
+   "illustrates": [
+    "c8"
+   ],
+   "spoken": "nl",
+   "audio_tracks": [
+    "nl"
+   ]
+  },
+  {
+   "id": "m4",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=cD4fxgkmPRc",
+   "youtube_id": "cD4fxgkmPRc",
+   "source_page": "https://www.youtube.com/watch?v=cD4fxgkmPRc",
+   "source_name": "YouTube",
+   "credit": "EarlySense",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "The organisation's own film: the WijkKliniek clinic in Amsterdam, which specialises in frail elderly people, uses the system to anticipate deterioration and prevent falls.",
+   "illustrates": [
+    "c8"
+   ],
+   "spoken": "nl",
+   "audio_tracks": [
+    "nl"
+   ]
+  },
+  {
+   "id": "m5",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=_FJFQMw9XvM",
+   "youtube_id": "_FJFQMw9XvM",
+   "source_page": "https://www.youtube.com/watch?v=_FJFQMw9XvM",
+   "source_name": "YouTube",
+   "credit": "EarlySense",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "Company training film showing how to use the bed-exit function for patients at risk of falling.",
+   "illustrates": [
+    "c8"
+   ],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m11",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/500px%20photo%20%2885065079%29.jpeg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:500px_photo_%2885065079%29.jpeg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Escenfunam",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "Simulation room with a training mannequin on a hospital bed, an equipment cart and a wheelchair",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "15 Septemb",
+   "width": 2048,
+   "height": 1536,
+   "role": "related"
+  },
+  {
+   "id": "m12",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/A%20Modern%20Hospital%20Bed%20in%20Pok%20Oi%20Hospital.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:A_Modern_Hospital_Bed_in_Pok_Oi_Hospital.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Peachyeung316",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "Mobile hospital bed with rails and a mattress, at a clinic in Hong Kong",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2023-04-14",
+   "width": 5184,
+   "height": 3888,
+   "role": "related"
+  },
+  {
+   "id": "m13",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ac%C4%B1bademHospitalAltunizade%20%283%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Ac%C4%B1bademHospitalAltunizade_%283%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "CeeGee",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "Patient room with a hospital bed and mattress at a hospital in Istanbul",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2017-05-29",
+   "width": 2560,
+   "height": 1536,
+   "role": "related"
+  }
+ ],
+ "check": {
+  "passed": true,
+  "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
+  "checked_at": "2026-11-22T05:58:46Z",
+  "counts": {
+   "confirmed": 85,
+   "not_confirmed": 0,
+   "deleted_sentences": 7,
+   "first_round_confirmed": 84,
+   "first_round_contradicted": 1,
+   "first_round_unverifiable": 7
+  },
+  "note": "unverifiable sentences were deleted, contradicted ones fixed from the source and checked again"
+ },
+ "meta": {
+  "run": "early-sense-contactless-patient-monitoring",
+  "pipeline": "scripts/museum/museum_line.py",
+  "models": {
+   "research": "sonnet-5-5",
+   "extract": "sonnet-5-5",
+   "media": "sonnet-5-5",
+   "write": "opus-5-5 medium",
+   "check": "opus-5-5 medium",
+   "fix": "opus-5-5 medium"
+  },
+  "source_quality": {
+   "sources": 13,
+   "wikipedia": 1,
+   "strong": 11,
+   "ok": true,
+   "warnings": []
+  }
+ },
+ "lang": "en",
+ "translation": {
+  "from": "he",
+  "translator": "claude-opus-5-5",
+  "checker": "claude-opus-5-5 (separate call, blind to the translation prompt)",
+  "checked_at": "2026-11-22T07:30:47Z",
+  "passed": true,
+  "items": 115,
+  "pairs_checked": 105,
+  "reused": 0,
+  "first_round_flagged": 1,
+  "still_flagged": 0,
+  "flagged": [],
+  "quote_translations": {}
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "schema": "maasei-backdrop/1",
+ "slug": "gavriel-iddan-pillcam-capsule-endoscopy",
+ "media": "m2",
+ "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Capsule%20Endoscopy1.jpg?width=1920",
+ "img_small": "https://commons.wikimedia.org/wiki/Special:FilePath/Capsule%20Endoscopy1.jpg?width=1080",
+ "why": "A wide hospital-room scene with depth, where a doctor checks the sensor belt on a patient while staff look on, sets the clinical world of a real capsule endoscopy.",
+ "chosen_by": "opus picker",
+ "alternates": [
+  "m1"
+ ],
+ "from": {
+  "average": "#808b89",
+  "picked": "#376c63",
+  "coloured_share": 0.429,
+  "lightness": 0.522
+ },
+ "palette": {
+  "paper": "#e9f4f2",
+  "surface": "#f6faf9",
+  "band": "#d7ece9",
+  "tint": "#cceae5",
+  "header": "#dfefec",
+  "rule": "#afd5ce",
+  "text": "#182a27",
+  "text2": "#334c48",
+  "accent": "#306a5f",
+  "meta": "#4c6562",
+  "tone": "#1b2221",
+  "shadow": "18, 33, 31"
+ },
+ "checks": {
+  "text_on_paper": 13.35,
+  "text_on_surface": 14.26,
+  "text_on_band": 12.19,
+  "text_on_tint": 11.77,
+  "text_on_header": 12.65,
+  "text2_on_paper": 8.24,
+  "text2_on_surface": 8.8,
+  "text2_on_band": 7.52,
+  "text2_on_tint": 7.26,
+  "text2_on_header": 7.8,
+  "accent_on_paper": 5.57,
+  "accent_on_surface": 5.95,
+  "accent_on_band": 5.09,
+  "accent_on_tint": 4.91,
+  "accent_on_header": 5.28,
+  "meta_on_paper": 5.59,
+  "meta_on_surface": 5.97,
+  "meta_on_band": 5.1,
+  "meta_on_tint": 4.92,
+  "meta_on_header": 5.29,
+  "paper_on_accent": 5.57
+ },
+ "passed": true
+}

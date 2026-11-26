@@ -1,0 +1,56 @@
+{
+ "schema": "maasei-backdrop/1",
+ "slug": "ehud-shapiro-dna-computer-cancer",
+ "media": "m9",
+ "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Arnold%20B.%20Meyer%20Building%20of%20Biological%20Sciences.jpg?width=1920",
+ "img_small": "https://commons.wikimedia.org/wiki/Special:FilePath/Arnold%20B.%20Meyer%20Building%20of%20Biological%20Sciences.jpg?width=1080",
+ "why": "A wide, deep view of the Weizmann Institute's biological sciences building behind palms and a paved plaza places the visitor on the campus where the DNA computer was built.",
+ "chosen_by": "opus picker",
+ "alternates": [
+  "m12"
+ ],
+ "from": {
+  "average": "#64a1ca",
+  "picked": "#6edbf6",
+  "coloured_share": 0.867,
+  "lightness": 0.593
+ },
+ "palette": {
+  "paper": "#e9f2f4",
+  "surface": "#f6f9fa",
+  "band": "#d7e8ec",
+  "tint": "#cce4ea",
+  "header": "#dfecef",
+  "rule": "#afcdd5",
+  "text": "#18272a",
+  "text2": "#33474c",
+  "accent": "#1c6577",
+  "meta": "#4c6165",
+  "tone": "#142129",
+  "shadow": "18, 30, 33"
+ },
+ "checks": {
+  "text_on_paper": 13.56,
+  "text_on_surface": 14.57,
+  "text_on_band": 12.22,
+  "text_on_tint": 11.64,
+  "text_on_header": 12.76,
+  "text2_on_paper": 8.61,
+  "text2_on_surface": 9.25,
+  "text2_on_band": 7.75,
+  "text2_on_tint": 7.39,
+  "text2_on_header": 8.1,
+  "accent_on_paper": 5.81,
+  "accent_on_surface": 6.25,
+  "accent_on_band": 5.24,
+  "accent_on_tint": 4.99,
+  "accent_on_header": 5.47,
+  "meta_on_paper": 5.76,
+  "meta_on_surface": 6.19,
+  "meta_on_band": 5.19,
+  "meta_on_tint": 4.95,
+  "meta_on_header": 5.42,
+  "paper_on_accent": 5.81
+ },
+ "passed": true
+}

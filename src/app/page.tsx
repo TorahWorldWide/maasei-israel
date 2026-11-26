@@ -5,6 +5,9 @@ import OverviewPanel from "@/components/OverviewPanel";
 import SiteHeader from "@/components/SiteHeader";
 import SiteFooter from "@/components/SiteFooter";
 import CatalogHeading from "@/components/CatalogHeading";
+import MuseumEntrance from "@/components/MuseumEntrance";
+import MuseumFeed from "@/components/MuseumFeed";
+import { getMuseumReel } from "@/lib/museumReel";
 
 export const dynamic = "force-dynamic";
 
@@ -13,10 +16,11 @@ export default async function Home({
 }: {
   searchParams: Promise<{ era?: string }>;
 }) {
-  const [entries, overview, params] = await Promise.all([
+  const [entries, overview, params, reel] = await Promise.all([
     getApprovedEntries(),
     getOverview(),
     searchParams,
+    getMuseumReel(),
   ]);
   const initialEras = params.era?.split(",").filter(Boolean) ?? [];
 
@@ -24,8 +28,15 @@ export default async function Home({
     <div className="min-h-screen flex flex-col">
       <SiteHeader />
 
-      {/* Theater (auto-playing video reel + music) */}
-      <Theater entries={entries} />
+      {/* 26.11: a short crown, then the cinema reel of the written museum deeds
+          (videos play one after another), then the deeds as a scroll feed */}
+      <MuseumEntrance deeds={reel.cards.length} sources={reel.sources} />
+
+      <div id="theater" className="scroll-mt-16">
+        <Theater entries={reel.entries.length ? reel.entries : entries} />
+      </div>
+
+      <MuseumFeed cards={reel.cards} />
 
       {/* The historian's big-picture overview (renders once written) */}
       {overview && <OverviewPanel overview={overview} />}

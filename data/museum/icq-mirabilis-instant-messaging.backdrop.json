@@ -1,0 +1,56 @@
+{
+ "schema": "maasei-backdrop/1",
+ "slug": "icq-mirabilis-instant-messaging",
+ "media": "m25",
+ "img": "https://commons.wikimedia.org/wiki/Special:FilePath/AOL%20promotional%20CDs%20in%20Canada.jpg?width=1920",
+ "img_small": "https://commons.wikimedia.org/wiki/Special:FilePath/AOL%20promotional%20CDs%20in%20Canada.jpg?width=1080",
+ "why": "A wide spread of late-1990s AOL trial CDs on a wooden table, the only frame-filling, textured scene from the time of the AOL deal, since every other candidate is a portrait or a posed group.",
+ "chosen_by": "opus picker",
+ "alternates": [
+  "m24"
+ ],
+ "from": {
+  "average": "#815e3f",
+  "picked": "#90511f",
+  "coloured_share": 0.838,
+  "lightness": 0.377
+ },
+ "palette": {
+  "paper": "#f4eee9",
+  "surface": "#faf8f6",
+  "band": "#ece0d7",
+  "tint": "#eadacc",
+  "header": "#efe6df",
+  "rule": "#d5c0af",
+  "text": "#2a2018",
+  "text2": "#4c3e33",
+  "accent": "#884f20",
+  "meta": "#685a4f",
+  "tone": "#291e14",
+  "shadow": "33, 25, 18"
+ },
+ "checks": {
+  "text_on_paper": 13.85,
+  "text_on_surface": 15.04,
+  "text_on_band": 12.3,
+  "text_on_tint": 11.68,
+  "text_on_header": 12.94,
+  "text2_on_paper": 8.93,
+  "text2_on_surface": 9.7,
+  "text2_on_band": 7.93,
+  "text2_on_tint": 7.53,
+  "text2_on_header": 8.34,
+  "accent_on_paper": 5.73,
+  "accent_on_surface": 6.22,
+  "accent_on_band": 5.09,
+  "accent_on_tint": 4.83,
+  "accent_on_header": 5.35,
+  "meta_on_paper": 5.77,
+  "meta_on_surface": 6.27,
+  "meta_on_band": 5.12,
+  "meta_on_tint": 4.87,
+  "meta_on_header": 5.39,
+  "paper_on_accent": 5.73
+ },
+ "passed": true
+}

@@ -1,0 +1,56 @@
+{
+ "schema": "maasei-backdrop/1",
+ "slug": "israel-brumadinho-dam-collapse-rescue",
+ "media": "m1",
+ "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Brumadinho%2C%20Minas%20Gerais%20%2847021723582%29.jpg?width=1920",
+ "img_small": "https://commons.wikimedia.org/wiki/Special:FilePath/Brumadinho%2C%20Minas%20Gerais%20%2847021723582%29.jpg?width=1080",
+ "why": "An aerial view of the Brumadinho valley shows the path of the mudflow through green hills, giving the visitor the whole disaster zone where the rescuers searched.",
+ "chosen_by": "opus picker",
+ "alternates": [
+  "m4"
+ ],
+ "from": {
+  "average": "#63675d",
+  "picked": "#557686",
+  "coloured_share": 0.333,
+  "lightness": 0.383
+ },
+ "palette": {
+  "paper": "#e9f0f4",
+  "surface": "#f6f9fa",
+  "band": "#d7e5ec",
+  "tint": "#cce1ea",
+  "header": "#dfeaef",
+  "rule": "#afc8d5",
+  "text": "#18242a",
+  "text2": "#33444c",
+  "accent": "#366278",
+  "meta": "#4c5e65",
+  "tone": "#1f221b",
+  "shadow": "18, 28, 33"
+ },
+ "checks": {
+  "text_on_paper": 13.77,
+  "text_on_surface": 14.98,
+  "text_on_band": 12.31,
+  "text_on_tint": 11.72,
+  "text_on_header": 12.95,
+  "text2_on_paper": 8.8,
+  "text2_on_surface": 9.58,
+  "text2_on_band": 7.87,
+  "text2_on_tint": 7.49,
+  "text2_on_header": 8.28,
+  "accent_on_paper": 5.74,
+  "accent_on_surface": 6.25,
+  "accent_on_band": 5.14,
+  "accent_on_tint": 4.89,
+  "accent_on_header": 5.4,
+  "meta_on_paper": 5.89,
+  "meta_on_surface": 6.41,
+  "meta_on_band": 5.27,
+  "meta_on_tint": 5.01,
+  "meta_on_header": 5.54,
+  "paper_on_accent": 5.74
+ },
+ "passed": true
+}

@@ -1,0 +1,56 @@
+{
+ "schema": "maasei-backdrop/1",
+ "slug": "otto-loewi-frog-heart-experiment",
+ "media": "m5",
+ "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Otto%20Loewi%20in%20the%20Institute%20of%20Pharmacology%20in%20Graz%2C%20Austria%2C%20with%20equipment.jpg?width=1920",
+ "img_small": "https://commons.wikimedia.org/wiki/Special:FilePath/Otto%20Loewi%20in%20the%20Institute%20of%20Pharmacology%20in%20Graz%2C%20Austria%2C%20with%20equipment.jpg?width=1080",
+ "why": "Loewi's Graz pharmacology lab bench with a kymograph drum showing heartbeat tracings, a stand and glassware sets the scene of the frog-heart experiment, though Loewi himself fills the right half of the frame.",
+ "chosen_by": "opus picker",
+ "alternates": [
+  "m20"
+ ],
+ "from": {
+  "average": "#73644b",
+  "picked": "#726144",
+  "coloured_share": 0.687,
+  "lightness": 0.372
+ },
+ "palette": {
+  "paper": "#f4f0e9",
+  "surface": "#faf8f6",
+  "band": "#ece4d7",
+  "tint": "#eadfcc",
+  "header": "#efe9df",
+  "rule": "#d5c7af",
+  "text": "#2a2418",
+  "text2": "#4c4333",
+  "accent": "#715933",
+  "meta": "#655c4c",
+  "tone": "#252018",
+  "shadow": "33, 27, 18"
+ },
+ "checks": {
+  "text_on_paper": 13.55,
+  "text_on_surface": 14.53,
+  "text_on_band": 12.2,
+  "text_on_tint": 11.68,
+  "text_on_header": 12.75,
+  "text2_on_paper": 8.57,
+  "text2_on_surface": 9.19,
+  "text2_on_band": 7.71,
+  "text2_on_tint": 7.38,
+  "text2_on_header": 8.06,
+  "accent_on_paper": 5.82,
+  "accent_on_surface": 6.24,
+  "accent_on_band": 5.24,
+  "accent_on_tint": 5.01,
+  "accent_on_header": 5.47,
+  "meta_on_paper": 5.8,
+  "meta_on_surface": 6.22,
+  "meta_on_band": 5.22,
+  "meta_on_tint": 4.99,
+  "meta_on_header": 5.45,
+  "paper_on_accent": 5.82
+ },
+ "passed": true
+}

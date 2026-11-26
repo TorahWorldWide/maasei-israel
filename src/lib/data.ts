@@ -58,6 +58,10 @@ export interface InfoboxRow {
   value: string;
   value_en?: string;
   source?: string;
+  // The words at `source` that the value rests on. Written by the converter and
+  // by the bar-natan precedent; not rendered yet, kept so it is not silently
+  // dropped on the way in.
+  source_quote?: string;
 }
 
 export interface Infobox {
@@ -67,11 +71,33 @@ export interface Infobox {
 // Rule 168 — the article as the reader sees it: headings the writer chose for
 // this deed, not the field names. The content fields (origin_story, act,
 // ripple…) stay as they are; this is the same material laid out for reading.
+// One item of the sources layer, as the writer listed it at the foot of the
+// page: what it is, the words it is being relied on for, the live link and the
+// archived capture. Read only by the section whose `kind` is "sources".
+export interface SectionSource {
+  n?: number;
+  label: string;
+  quote?: string;
+  url?: string;
+  archive_url?: string;
+  // The page carried an archive link that is only a timestamp, with no target
+  // url behind it. Kept so it is not lost, never shown as a link.
+  archive_url_truncated?: string;
+  url_is_archive?: boolean;
+  no_archive_declared?: boolean;
+}
+
 export interface ArticleSection {
   heading?: string;
   heading_en?: string;
   body: string;
   body_en?: string;
+  // Optional presentation hint. "doubts" gives the chapter its own quiet band
+  // so a reader can see where the page stops asserting; "sources" turns the
+  // body into the linked source list. A section without one reads as before,
+  // which is what every page written until now has.
+  kind?: "doubts" | "sources";
+  sources?: SectionSource[];
 }
 
 export interface Entry {
@@ -79,6 +105,11 @@ export interface Entry {
   title: string;
   description: string;
   category: Category;
+  // A museum page (data/museum/schema/museum-page.schema.json), written by
+  // scripts/museum/publish_museum.py. When present the deed page renders it.
+  museum?: import("@/lib/museum").MuseumPageData | null;
+  // 26.11: a reel item from a written museum deed links to its museum page
+  href?: string;
   // Optional multiple tags. When present, the UI filters/badges by these;
   // when absent it falls back to the single `category`. The first element
   // mirrors `category` (the primary tag).
@@ -236,26 +267,47 @@ async function getServiceClient() {
   return createClient(supabaseUrl!, supabaseServiceKey);
 }
 
+/**
+ * Thrown when Supabase is configured but a read fails (network, quota, missing
+ * table). The page then shows the error boundary instead of the 8 seed deeds:
+ * in September a 402 egress block made the live site show 8 deeds for 5+ days
+ * and nobody could tell, because this read fell back to the seed silently.
+ */
+export class DataUnavailableError extends Error {
+  constructor(where: string, cause: unknown) {
+    const detail =
+      cause && typeof cause === "object" && "message" in cause
+        ? String((cause as { message: unknown }).message)
+        : String(cause);
+    super(`Supabase read failed in ${where}: ${detail}`);
+    this.name = "DataUnavailableError";
+  }
+}
+
+// The seed (data/entries.json) is for a checkout with NO Supabase settings at
+// all (local development). It is never a stand-in for a failing database.
 export async function getApprovedEntries(): Promise<Entry[]> {
   if (!hasSupabase()) {
     return seedEntries as Entry[];
   }
+  let result;
   try {
     const client = await getAnonClient();
-    const { data, error } = await client
+    result = await client
       .from("entries")
       .select("*")
       .eq("status", "approved")
       .order("created_at", { ascending: false });
-    if (error) throw error;
-    // If the DB is reachable but empty (e.g. schema run, no rows yet),
-    // fall back to the seed so the site is never blank.
-    if (!data || data.length === 0) return seedEntries as Entry[];
-    return data as Entry[];
-  } catch {
-    // Tables missing, network error, etc. — never crash the page.
-    return seedEntries as Entry[];
+  } catch (e) {
+    console.error("[data] getApprovedEntries:", e);
+    throw new DataUnavailableError("getApprovedEntries", e);
   }
+  if (result.error) {
+    console.error("[data] getApprovedEntries:", result.error);
+    throw new DataUnavailableError("getApprovedEntries", result.error);
+  }
+  // A reachable, empty table is shown as empty, not filled with seed deeds.
+  return (result.data ?? []) as Entry[];
 }
 
 export async function insertSubmission(
@@ -343,23 +395,25 @@ export async function getEntryById(id: string): Promise<Entry | null> {
       ) ?? null
     );
   }
+  let result;
   try {
     const client = await getAnonClient();
-    const { data, error } = await client
+    result = await client
       .from("entries")
       .select("*")
       .eq("id", id)
       .eq("status", "approved")
-      .single();
-    if (error) throw error;
-    return data as Entry;
-  } catch {
-    return (
-      (seedEntries as Entry[]).find(
-        (e) => e.id === id && e.status === "approved"
-      ) ?? null
-    );
+      .maybeSingle();
+  } catch (e) {
+    console.error("[data] getEntryById:", e);
+    throw new DataUnavailableError("getEntryById", e);
   }
+  if (result.error) {
+    console.error("[data] getEntryById:", result.error);
+    throw new DataUnavailableError("getEntryById", result.error);
+  }
+  // No row is a real "not found" (404), not a reason to look in the seed.
+  return (result.data as Entry | null) ?? null;
 }
 
 // ─── Admin: image order (rule 132) ──────────────────────────────────────────

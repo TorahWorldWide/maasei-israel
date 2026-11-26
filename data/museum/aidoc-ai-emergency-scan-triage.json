@@ -1,0 +1,1228 @@
+{
+ "schema": "maasei-museum/1",
+ "slug": "aidoc-ai-emergency-scan-triage",
+ "deed": "חברת איידוק הישראלית פיתחה בינה מלאכותית שמזהה מצבי חירום בסריקות ומזרזת טיפול",
+ "canonical_type": "team-invention",
+ "year": "2016",
+ "title": "איידוק הישראלית פיתחה בינה מלאכותית שמזהה דימום מוחי בסריקות CT ומקצרת את ההמתנה",
+ "trailer": [
+  {
+   "text": "איידוק היא חברה ישראלית שמפתחת תוכנות בינה מלאכותית לרדיולוגיה, וכלי המיון שלה פרוסים בהרחבה בבתי חולים בישראל.",
+   "claims": [
+    "c45",
+    "c53",
+    "c24"
+   ]
+  },
+  {
+   "text": "איידוק היא חברה ישראלית שהקימו שלושה בוגרי תוכנית תלפיות של צה\"ל, שעבדו בצבא בבינה מלאכותית ובלמידת מכונה.",
+   "claims": [
+    "c24",
+    "c41"
+   ]
+  },
+  {
+   "text": "האלגוריתם שפיתחו מזהה בתמונות רפואיות מצבים שדורשים התערבות מיידית, ומתריע לצוות הרפואי.",
+   "claims": [
+    "c42"
+   ]
+  },
+  {
+   "text": "המערכת שולחת התראה לרופא התורן, כדי שיעבור על הבדיקה הדחופה לפני האחרות, ומסמנת לו את האזורים החשודים.",
+   "claims": [
+    "c2"
+   ]
+  },
+  {
+   "text": "לפי ice, במחקר באסותא נותחו 5,048 בדיקות CT ראש, והמערכת תרמה להפחתה של 1,505 שעות בזמן ההמתנה לאבחון.",
+   "claims": [
+    "c5"
+   ]
+  },
+  {
+   "text": "לפי ג'רוזלם פוסט, שלושת המייסדים הישראלים נבחרו לרשימת Forbes 30 Under 30.",
+   "claims": [
+    "c43"
+   ]
+  }
+ ],
+ "hero_media": [
+  "m34"
+ ],
+ "glance": [
+  {
+   "label": "מייסדים",
+   "value": "שלושה בוגרי תלפיות",
+   "claims": [
+    "c41"
+   ]
+  },
+  {
+   "label": "מאז",
+   "value": "2016",
+   "claims": [
+    "c53"
+   ]
+  },
+  {
+   "label": "היקף",
+   "value": "יותר מ־150 מערכות בריאות, לפי Healthcare Dive",
+   "claims": [
+    "c54"
+   ]
+  },
+  {
+   "label": "מחקר אסותא",
+   "value": "5,048 סריקות, 1,505 שעות פחות המתנה, לפי ice",
+   "claims": [
+    "c5"
+   ]
+  },
+  {
+   "label": "הכרה",
+   "value": "אישורי FDA וסימון CE",
+   "claims": [
+    "c45",
+    "c44"
+   ]
+  }
+ ],
+ "stations": [
+  {
+   "id": "s1",
+   "title": "לפני: תור של סריקות",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "לפי וולך, רדיולוגים עוברים כיום על מאות סריקות ביום.",
+      "claims": [
+       "c40"
+      ]
+     },
+     {
+      "text": "לפי רסקין, רדיולוגים עדיין עובדים ברובם לפי שיטת \"נכנס ראשון, יוצא ראשון\", אף שמספר בדיקות ההדמיה ומספר התמונות בכל סריקה ממשיכים לעלות בעוד שמספר הרדיולוגים נותר כמעט ללא שינוי.",
+      "claims": [
+       "c37"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "מנכ\"ל איידוק, אלעד וולך, סיפר על חולה מבוגר בחדר מיון בארה\"ב שחיכה שעתיים וחצי לפענוח הסריקה, בלילה עמוס.",
+      "claims": [
+       "c38"
+      ]
+     },
+     {
+      "text": "לדבריו, בגלל ההמתנה הארוכה נגרמה לחולה הידרדרות מנטלית משמעותית שאין ממנה דרך חזרה.",
+      "claims": [
+       "c39"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "ד\"ר רועי ברנע, חוקר ראשי במכון אסותא לחקר מדיניות הבריאות, אמר שכשיש בדיקות רבות, לא תמיד קל לאנשי הצוות להחליט מי קודם.",
+      "claims": [
+       "c18",
+       "c20"
+      ]
+     },
+     {
+      "text": "לדברי ד\"ר ארנון מקורי, בישראל יש מספר מוגבל של מכשירי CT.",
+      "claims": [
+       "c17"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m4"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s2",
+   "title": "שלושה בוגרי תלפיות מקימים חברה",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "לפי גלובס, שלושה שותפים, בוגרי תוכנית תלפיות של צה\"ל, הקימו את איידוק, וכולם עבדו בצבא בבינה מלאכותית ובלמידת מכונה.",
+      "claims": [
+       "c41"
+      ]
+     },
+     {
+      "text": "לפי Healthcare Dive, החברה הוקמה ב־2016.",
+      "claims": [
+       "c53"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "בהתחלה היא פיתחה פתרונות ממוקדים לרדיולוגיה, כמו זיהוי דימומים תוך־גולגולתיים ואמבוליה ריאתית.",
+      "claims": [
+       "c53"
+      ]
+     },
+     {
+      "text": "האלגוריתם שפיתחה הקבוצה מזהה בתמונות רפואיות מצבים שדורשים התערבות מיידית, ומתריע לצוות הרפואי, למשל בחדרי מיון.",
+      "claims": [
+       "c42"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m5"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s3",
+   "title": "איך זה עובד: התראה לרופא",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "המערכת שולחת התראה לרופא התורן, כדי שיעבור על הבדיקה בדחיפות לפני הבדיקות האחרות.",
+      "claims": [
+       "c2"
+      ]
+     },
+     {
+      "text": "היא גם מסמנת לו את האזורים החשודים.",
+      "claims": [
+       "c2"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "לפי ד\"ר מקורי, ברגע שהמערכת מזהה דימום מוחי, היא שולחת התראה מיידית לדימותן.",
+      "claims": [
+       "c13"
+      ]
+     },
+     {
+      "text": "הדימותן יכול להתייעץ מיד עם הרדיולוג ולהחליט אם להפנות את המטופל לטיפול דחוף.",
+      "claims": [
+       "c13"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "לפי מעריב, מערכת הבינה המלאכותית שהותקנה בסורק ה־CT באסותא פותחה בישראל.",
+      "claims": [
+       "c23"
+      ]
+     },
+     {
+      "text": "לדברי מקורי, לראשונה בישראל המערכת יושמה במסגרת אמבולטורית ולא רק בחדרי מיון, וזה מה שמייחד אותה.",
+      "claims": [
+       "c15"
+      ]
+     },
+     {
+      "text": "לפי בחדרי חרדים, כך אפשר לתת טיפול מציל חיים גם לאנשים שנבדקים במרפאות קהילה, רחוק מבית חולים כללי עם חדר מיון פעיל.",
+      "claims": [
+       "c16"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m1",
+    "m2",
+    "m9"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s4",
+   "title": "המחקר באסותא: 1,505 שעות",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "המערכת נבחנה במחקר רחב היקף באסותא, על בדיקות CT ראש שבוצעו במרכזים הרפואיים ובבתי החולים של הרשת במהלך 2024.",
+      "claims": [
+       "c3",
+       "c6"
+      ]
+     },
+     {
+      "text": "לפי ice, נותחו 5,048 בדיקות CT ראש לאבחון דימומים תוך־גולגולתיים.",
+      "claims": [
+       "c5"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "לפי מעריב, המערכת קיצרה את זמני ההמתנה לפענוח בדיקות של מטופלים שלקו בשבץ מוחי.",
+      "claims": [
+       "c1"
+      ]
+     },
+     {
+      "text": "לפי ice, היא תרמה להפחתה של 1,505 שעות בזמן ההמתנה לאבחון.",
+      "claims": [
+       "c5"
+      ]
+     },
+     {
+      "text": "הזמן נחסך בין ביצוע הסריקה לבין תחילת כתיבת הדוח הרדיולוגי.",
+      "claims": [
+       "c7"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "בתעדוף מקרי חירום המערכת הגיעה לרגישות של 100%, ולא החמיצה אף מקרה חירום אמיתי.",
+      "claims": [
+       "c10"
+      ]
+     },
+     {
+      "text": "טכנאים שהתבקשו למיין את המקרים הדחופים הגיעו לרגישות של 66.7 אחוזים בלבד.",
+      "claims": [
+       "c11"
+      ]
+     },
+     {
+      "text": "לפי בחדרי חרדים, המערכת זיהתה 21 מקרים של דימום מוחי שלא הופיעו בדוחות הרדיולוגיים בלעדיה, שיפור של 14.2% בזיהוי.",
+      "claims": [
+       "c12"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "ד\"ר ארנון מקורי, מנהל מערך הדימות באסותא מרכזים רפואיים, אמר שמדובר ב\"מהפכה באבחון\".",
+      "claims": [
+       "c14"
+      ]
+     },
+     {
+      "text": "ד\"ר ברנע הדגיש שהמחקר הראה גם את יתרון המערכת בתעדוף.",
+      "claims": [
+       "c18"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m3"
+   ],
+   "disagreements": [
+    "d1"
+   ]
+  },
+  {
+   "id": "s5",
+   "title": "בשיבא: פחות תמותה",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "במחקר בבית החולים שיבא נמצא שהשימוש בבינה מלאכותית הוביל לירידה בתמותה, באשפוזים חוזרים ובנכות של חולי דימום תוך־גולגולתי.",
+      "claims": [
+       "c33"
+      ]
+     },
+     {
+      "text": "לפי ד\"ר רסקין משיבא, הטמעה של תוכנה לסימון החולים האלה, במשך שנה, הביאה לירידה מובהקת בתמותה, באשפוזים חוזרים ובסולם רנקין המתוקן.",
+      "claims": [
+       "c34"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "רופאה בסידרס־סיני אמרה שהיכולת להתקשר לרופא המפנה בזמן שהמטופל עדיין במקום היא עצומה.",
+      "claims": [
+       "c47"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m18"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s6",
+   "title": "אישורים, רשימות וגיוסים",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "לפי ג'רוזלם פוסט, שלושת המייסדים הישראלים נבחרו לרשימת Forbes 30 Under 30.",
+      "claims": [
+       "c43"
+      ]
+     },
+     {
+      "text": "לפי אותו עיתון, החברה קיבלה בדצמבר סימון CE להפצה מסחרית של המוצר באירופה.",
+      "claims": [
+       "c44"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "לפי AuntMinnie, ה־FDA האמריקאי אישר תוכנה של איידוק לזיהוי שבץ מסוג חסימת כלי דם גדול.",
+      "claims": [
+       "c45"
+      ]
+     },
+     {
+      "text": "לפי אותו אתר, היה זה אישור ה־FDA השישי של החברה.",
+      "claims": [
+       "c46"
+      ]
+     },
+     {
+      "text": "איידוק פיתחה מודל יסוד קליני בשם CARE, שקיבל אישור FDA ראשון מסוגו למערכת מיון מבוססת מודל יסוד.",
+      "claims": [
+       "c51"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "לפי ג'רוזלם פוסט, כלי המיון שלה פרוסים בהרחבה בבתי חולים בישראל.",
+      "claims": [
+       "c24"
+      ]
+     },
+     {
+      "text": "לפי Healthcare Dive, היא תומכת ביותר מ־150 מערכות בריאות.",
+      "claims": [
+       "c54"
+      ]
+     }
+    ]
+   ],
+   "media": [],
+   "disagreements": [
+    "d2"
+   ]
+  },
+  {
+   "id": "s7",
+   "title": "מה הלאה",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "לפי מעריב, צפוי שהמערכת תורחב גם לבדיקות MRI ולזיהוי מצבים נוספים, ובהם גידולים וסרטן ריאה.",
+      "claims": [
+       "c21"
+      ]
+     },
+     {
+      "text": "לדברי מקורי, שילוב מערכות נוספות, למשל לזיהוי מוקדם של סרטן ריאה בסקר הלאומי למעשנים, יוכל לקצר זמני בדיקה ופענוח ולשפר את הסיכוי להציל חיים.",
+      "claims": [
+       "c22"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "לפי ברנע, המערכת היא תוספת משמעותית למערכת הבריאות הישראלית, שמתקשה לעמוד בעומסים הגדלים.",
+      "claims": [
+       "c19"
+      ]
+     },
+     {
+      "text": "לדברי מקורי, כשיש מעט מכשירי CT, מערכת שמייעלת בדיקות ומקצרת זמני פענוח מביאה ערך בריאותי גדול למטופלים.",
+      "claims": [
+       "c17"
+      ]
+     }
+    ]
+   ],
+   "media": [],
+   "disagreements": []
+  },
+  {
+   "id": "s8",
+   "title": "שאלות פתוחות וביקורת",
+   "kind": "hard",
+   "paragraphs": [
+    [
+     {
+      "text": "NICE הבריטי בדק שבעה מחקרי תיקוף על 31,118 סריקות.",
+      "claims": [
+       "c28"
+      ]
+     },
+     {
+      "text": "לפי הסקירה, הטכנולוגיה זיהתה דימומים תוך־גולגולתיים ברמה של נוירורדיולוגים, אבל תנאי המחקרים לא שיקפו עבודה קלינית אמיתית.",
+      "claims": [
+       "c28"
+      ]
+     },
+     {
+      "text": "NICE ציין שהראיות ירוויחו ממחקרים משווים מבוקרים, עם מעקב אחרי תוצאות המטופלים והזמן עד לטיפול.",
+      "claims": [
+       "c29"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "NICE ציין גם שלא תמיד ברור אם הטכנולוגיה עודכנה מאז פרסום המחקרים, ושרבים מכותבי המחקרים עובדים בחברה.",
+      "claims": [
+       "c30"
+      ]
+     },
+     {
+      "text": "לפי NICE, עלות הרישיון של Aidoc: head נעה בין 25,000 ל־60,000 ליש\"ט בשנה, לפי היקף הבדיקות ודרישות העבודה.",
+      "claims": [
+       "c31"
+      ]
+     },
+     {
+      "text": "עם זאת, לפי NICE, כל המומחים סברו שהטכנולוגיה יכולה לשפר את מהירות האבחון ואת השירות לאנשים שזקוקים לאבחון ולטיפול דחופים.",
+      "claims": [
+       "c32"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "מחקר שוויצרי בבזל מצא שהאלגוריתם זיהה דימום תוך־גולגולתי בשיעור גבוה, אבל דימום תת־עכבישי ותת־דורלי בשיעור נמוך יותר.",
+      "claims": [
+       "c35"
+      ]
+     },
+     {
+      "text": "החוקרים בבזל הזהירו מפני \"תחושת ביטחון מוטעית\" בשימוש בבינה מלאכותית, במיוחד בסוגים מסוימים של דימום ובטיפול דחוף.",
+      "claims": [
+       "c36"
+      ]
+     }
+    ]
+   ],
+   "media": [],
+   "disagreements": []
+  }
+ ],
+ "disagreements": [
+  {
+   "id": "d1",
+   "question": "עד כמה המערכת מדויקת בזיהוי דימום מוחי?",
+   "versions": [
+    {
+     "says": "לפי מעריב: רגישות של 89.9 אחוזים וסגוליות של 99 אחוזים, ובתעדוף מקרים דחופים רגישות של 100 אחוזים",
+     "claims": [
+      "c8"
+     ]
+    },
+    {
+     "says": "לפי בחדרי חרדים: דיוק של עד 99%, בהשוואה לדוחות הרדיולוגיים ששימשו כסטנדרט",
+     "claims": [
+      "c9"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d2",
+   "question": "בכמה מטופלים בשנה המערכות של איידוק מטפלות?",
+   "versions": [
+    {
+     "says": "לפי גלובס: יותר מ־60 מיליון מקרי מטופלים בשנה, בכמעט 2,000 בתי חולים",
+     "claims": [
+      "c49"
+     ]
+    },
+    {
+     "says": "לפי איידוק: תמיכה בהחלטות קליניות עבור כ־70 מיליון מטופלים בשנה, ויותר מ־110 מיליון מקרים שנותחו בסך הכול",
+     "claims": [
+      "c52"
+     ]
+    }
+   ]
+  }
+ ],
+ "unknowns": [],
+ "claims": [
+  {
+   "id": "c24",
+   "text": "לפי ג'רוזלם פוסט, איידוק היא חברה ישראלית שכלי המיון שלה פרוסים בהרחבה בבתי חולים מקומיים.",
+   "source": "src1",
+   "quote": "Aidoc is an Israeli company whose triage tools are deployed widely in local hospitals.",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c41",
+   "text": "לפי גלובס, שלושה שותפים בוגרי תוכנית תלפיות של צה\"ל הקימו את איידוק, כולם עבדו בצבא בבינה מלאכותית ולמידת מכונה.",
+   "source": "src2",
+   "quote": "We are three partners, alumni of the Talpiot program (an IDF program for recruits with scientific and leadership potential)",
+   "status": "confirmed",
+   "locator": "שורה 25"
+  },
+  {
+   "id": "c42",
+   "text": "האלגוריתם שפיתחה הקבוצה מזהה בתמונות רפואיות מצבים הדורשים התערבות מיידית ומתריע לצוות הרפואי, למשל בחדרי מיון.",
+   "source": "src2",
+   "quote": "The group developed an algorithm that detects situations in medical images requiring immediate intervention and alerts medical staff, for example in emergency rooms.",
+   "status": "confirmed",
+   "locator": "שורה 26"
+  },
+  {
+   "id": "c2",
+   "text": "המערכת שולחת התראה לרופא התורן, שנקרא לעבור על הבדיקה בדחיפות לפני הבדיקות האחרות, והיא גם מסמנת לו את האזורים החשודים.",
+   "source": "src3",
+   "quote": "המערכת שולחת התראה לרופא התורן שנקרא לעבור על הבדיקה בדחיפות, עוד קודם לבדיקות האחרות, ואף מסמנת לו את האזורים החשודים שנמצאו",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c5",
+   "text": "לפי ice, במחקר נותחו 5,048 בדיקות CT ראש לאבחון דימומים תוך־גולגולתיים, והמערכת תרמה להפחתה של 1,505 שעות בזמן ההמתנה לאבחון.",
+   "source": "src4",
+   "quote": "במחקר נותחו 5,048 בדיקות CT ראש לשם אבחון דימומים תוך־גולגולתיים, והמערכת תרמה להפחתת 1,505 שעות בזמן ההמתנה לאבחון.",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c43",
+   "text": "לפי ג'רוזלם פוסט, שלושת מייסדי איידוק הישראלים נבחרו לרשימת Forbes 30 Under 30.",
+   "source": "src5",
+   "quote": "A trio of Israeli co-founders of the start-up Aidoc, working on artificial intelligence to refine and quicken how radiologists read X rays, were listed in Forbes 30 Under 30.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c53",
+   "text": "לפי Healthcare Dive, איידוק הוקמה ב-2016 והחלה בפתרונות נקודתיים לרדיולוגיה כמו זיהוי דימומים תוך־גולגולתיים ואמבוליה ריאתית.",
+   "source": "src6",
+   "quote": "When Aidoc was founded in 2016, it started with building point solutions for radiology, such as AI to help detect and triage intracranial hemorrhages and pulmonary embolisms.",
+   "status": "confirmed",
+   "locator": "שורה 25"
+  },
+  {
+   "id": "c54",
+   "text": "לפי Healthcare Dive, איידוק גייסה עד כה 370 מיליון דולר ותומכת ביותר מ-150 מערכות בריאות.",
+   "source": "src6",
+   "quote": "Aidoc said it has raised $370 million to date. The company said it currently supports more than 150 health systems.",
+   "status": "confirmed",
+   "locator": "שורה 30"
+  },
+  {
+   "id": "c45",
+   "text": "לפי AuntMinnie, ה-FDA האמריקאי אישר תוכנה של איידוק, חברת תוכנה ישראלית לבינה מלאכותית, לזיהוי שבץ מסוג חסימת כלי דם גדול.",
+   "source": "src7",
+   "quote": "has cleared Israeli artificial intelligence (AI) software developer Aidoc's AI software for identifying large-vessel occlusion stroke on head CT angiography scans.",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c44",
+   "text": "לפי ג'רוזלם פוסט, איידוק קיבלה בדצמבר סימון CE להפצה מסחרית של המוצר באירופה.",
+   "source": "src5",
+   "quote": "And in December, Aidoc received a CE mark from the European Medicines Agency, giving the go-ahead to commercialize its product",
+   "status": "confirmed",
+   "locator": "שורה 26"
+  },
+  {
+   "id": "c40",
+   "text": "לפי וולך, רדיולוגים עוברים כיום על מאות סריקות ביום.",
+   "source": "src2",
+   "quote": "Radiologists today go through hundreds of scans a day.",
+   "status": "confirmed",
+   "locator": "שורה 33"
+  },
+  {
+   "id": "c37",
+   "text": "לפי ג'רוזלם פוסט, בעבר רדיולוגים עבדו לפי שיטת \"נכנס ראשון, יוצא ראשון\" והבעיה גברה בגלל עלייה בבדיקות, כפי שאמר רסקין.",
+   "source": "src8",
+   "quote": "And radiologists still largely work based on the same method: first study in, first study out, according to Raskin.",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c38",
+   "text": "מנכ\"ל איידוק אלעד וולך סיפר על חולה מבוגר בחדר מיון בארה\"ב שחיכה שעתיים וחצי לפענוח הסריקה בלילה עמוס.",
+   "source": "src5",
+   "quote": "For that patient, it was a busy night and it took two-and-a-half hours for someone to open the exam.",
+   "status": "confirmed",
+   "locator": "שורה 20"
+  },
+  {
+   "id": "c39",
+   "text": "וולך סיפר שבגלל ההמתנה הארוכה בחדר המיון נגרמה לחולה הידרדרות מנטלית משמעותית שאין ממנה דרך חזרה.",
+   "source": "src5",
+   "quote": "due to the long wait in the ER, this patient had a significant mental deterioration that there is no way of coming back from",
+   "status": "confirmed",
+   "locator": "שורה 24"
+  },
+  {
+   "id": "c18",
+   "text": "ד\"ר רועי ברנע הוא חוקר ראשי במכון אסותא לחקר מדיניות הבריאות, והדגיש שהמחקר הראה גם את יתרון המערכת בתעדוף.",
+   "source": "src3",
+   "quote": "רועי ברנע, חוקר ראשי במכון אסותא לחקר מדיניות הבריאות, הדגיש כי המחקר הדגים לא רק את יכולת האבחון של הבינה המלאכותית אלא גם את יתרונה בתעדוף",
+   "status": "confirmed",
+   "locator": "שורה 25"
+  },
+  {
+   "id": "c20",
+   "text": "ברנע אמר שבמערכת של בדיקות רבות לא תמיד קל לאנשי הצוות להחליט מי קודם.",
+   "source": "src3",
+   "quote": "במערכת של בדיקות רבות לא תמיד קל לאנשי הצוות להחליט מי קודם.",
+   "status": "confirmed",
+   "locator": "שורה 26"
+  },
+  {
+   "id": "c17",
+   "text": "לדברי מקורי, בישראל יש מספר מוגבל של מכשירי CT, ולכן מערכת שמייעלת בדיקות ומקצרת זמני פענוח מביאה ערך בריאותי גדול למטופלים.",
+   "source": "src3",
+   "quote": "בישראל יש מספר מוגבל של מכשירי CT ולכן כל מערכת שמייעלת את הבדיקות ומקצרת זמני פענוח מביאה ערך בריאותי גדול למטופלים",
+   "status": "confirmed",
+   "locator": "שורה 23"
+  },
+  {
+   "id": "c13",
+   "text": "לפי ד\"ר מקורי, ברגע שהמערכת מזהה דימום מוחי היא שולחת התראה מיידית לדימותן, שיכול להתייעץ מיד עם הרדיולוג ולהחליט אם להפנות את המטופל לטיפול דחוף.",
+   "source": "src4",
+   "quote": "ברגע שהמערכת מזהה דימום מוחי, היא שולחת התראה מיידית לדימותן שמבצע את הבדיקה, וזה יכול להתייעץ מיידית עם הרדיולוג",
+   "status": "confirmed",
+   "locator": "שורה 13"
+  },
+  {
+   "id": "c23",
+   "text": "לפי מעריב, מערכת הבינה המלאכותית שהותקנה בסורק ה־CT באסותא פותחה בישראל.",
+   "source": "src3",
+   "quote": "מערכת בינה מלאכותית שפותחה בישראל והותקנה לאחרונה בסורק ה־CT הצליחה",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c15",
+   "text": "לדברי מקורי, לראשונה בישראל יושמה המערכת במסגרת אמבולטורית ולא רק בחדרי מיון, וזה מה שמייחד אותה.",
+   "source": "src3",
+   "quote": "לראשונה בישראל יושמה המערכת במסגרת אמבולטורית ולא רק בחדרי מיון וזה מה שהופך אותה לייחודית.",
+   "status": "confirmed",
+   "locator": "שורה 21"
+  },
+  {
+   "id": "c16",
+   "text": "לפי בולוג, המערכת מאפשרת טיפול מציל חיים גם בבדיקות במרפאות קהילה הרחק מבית חולים כללי עם חדר מיון פעיל.",
+   "source": "src9",
+   "quote": "כך ניתן להעניק טיפול מציל חיים גם כאשר מדובר בבדיקות המתבצעות במרפאות קהילה, הרחק מבית חולים כללי עם חדר מיון פעיל.",
+   "status": "confirmed",
+   "locator": "שורה 13"
+  },
+  {
+   "id": "c3",
+   "text": "המערכת נבחנה במחקר רחב היקף באסותא, שבו נותחו יותר מחמשת אלפים סריקות CT מוח.",
+   "source": "src3",
+   "quote": "המערכת נבחנה במחקר רחב היקף באסותא שבו נותחו מעל חמשת אלפים סריקות CT מוח.",
+   "status": "confirmed",
+   "locator": "שורה 13"
+  },
+  {
+   "id": "c6",
+   "text": "המחקר נעשה על בדיקות CT ראש שבוצעו במרכזים הרפואיים ובבתי החולים של אסותא במהלך 2024.",
+   "source": "src9",
+   "quote": "נותחו 5,048 בדיקות CT ראש שנעשו במרכזים הרפואיים ובבתי החולים של אסותא במהלך שנת 2024",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c1",
+   "text": "לפי מעריב, המערכת שהוטמעה באסותא קיצרה את זמני ההמתנה לפענוח בדיקות של מטופלים שלקו בשבץ מוחי, כך עולה ממחקר חדש במרכז הרפואי בתל אביב.",
+   "source": "src3",
+   "quote": "הצליחה לקצר את זמני ההמתנה לפענוח בדיקות של מטופלים שלקו בשבץ מוחי, כך עולה ממחקר חדש שנערך במרכז הרפואי בתל אביב",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c7",
+   "text": "הקיצור בזמן ההמתנה הושג על ידי קיצור הזמן בין ביצוע הסריקה לתחילת כתיבת הדוח הרדיולוגי, בעקבות סיוע הבינה המלאכותית.",
+   "source": "src9",
+   "quote": "תוצאה שהושגה על ידי קיצור הזמן בין ביצוע הסריקה לבין תחילת כתיבת הדוח הרדיולוגי בעקבות הסיוע של הבינה המלאכותית",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c10",
+   "text": "בתעדוף מקרי חירום המערכת הגיעה לרגישות של 100%, ולכן לא החמיצה אף מקרה חירום אמיתי.",
+   "source": "src9",
+   "quote": "כאשר הוערכה כיכולת מיון למקרי חירום, הגיעה המערכת ל-100% רגישות",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c11",
+   "text": "טכנאים שהתבקשו למיין את המקרים הדחופים הגיעו לרגישות של 66.7 אחוזים בלבד.",
+   "source": "src3",
+   "quote": "טכנאים שהתבקשו למיין את המקרים הדחופים הגיעו לרגישות של 66.7 אחוזים בלבד",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c12",
+   "text": "לפי בולוג, המערכת זיהתה 21 מקרים חיוביים של דימום מוחי שלא הופיעו בדוחות הרדיולוגיים בלעדיה, שיפור של 14.2% בזיהוי.",
+   "source": "src9",
+   "quote": "ובמחקר נמצא כי הצליחה לזהות 21 מקרים חיוביים של דימום מוחי שלא הופיעו בדוחות הרדיולוגים אלמלא הבינה המלאכותית – שיפור של 14.2% בזיהוי",
+   "status": "confirmed",
+   "locator": "שורה 15"
+  },
+  {
+   "id": "c14",
+   "text": "ד\"ר ארנון מקורי הוא מנהל מערך הדימות באסותא מרכזים רפואיים, והוא אמר שמדובר במהפכה באבחון.",
+   "source": "src3",
+   "quote": "ארנון מקורי, מנהל מערך הדימות באסותא מרכזים רפואיים, מסביר כי מדובר במהפכה באבחון",
+   "status": "confirmed",
+   "locator": "שורה 19"
+  },
+  {
+   "id": "c33",
+   "text": "במחקר בבית החולים שיבא נמצא שהשימוש בבינה מלאכותית הוביל לירידה בתמותה, באשפוזים חוזרים ובנכות של חולי דימום תוך־גולגולתי.",
+   "source": "src8",
+   "quote": "found that the use of AI led to decreased patient mortality, readmission rates, and disability",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c34",
+   "text": "לפי ד\"ר רסקין משיבא, הטמעת תוכנה לסימון חולי דימום תוך־גולגולתי במשך שנה הביאה לירידה מובהקת בתמותה, באשפוזים חוזרים ובסולם רנקין המתוקן.",
+   "source": "src8",
+   "quote": "Implementation of AI software for flagging patients with intracranial hemorrhage for a year resulted in a significant reduction in mortality rate, readmission rate, and Modified Rankin Scale",
+   "status": "confirmed",
+   "locator": "שורה 28"
+  },
+  {
+   "id": "c47",
+   "text": "רופאה בסידרס-סיני אמרה שהיכולת להתקשר לרופא המפנה בזמן שהמטופל עדיין במקום היא עצומה.",
+   "source": "src10",
+   "quote": "The ability to call the referring physician while the patient is still in the house is huge.",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c46",
+   "text": "לפי AuntMinnie, זה אישור ה-FDA השישי של איידוק, והיא כבר הייתה מאושרת לדימום תוך־גולגולתי ולחסימת כלי דם גדול.",
+   "source": "src11",
+   "quote": "The clearance is the sixth for the company.",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c51",
+   "text": "איידוק פיתחה מודל יסוד קליני בשם CARE, שקיבל אישור FDA ראשון מסוגו למערכת מיון מבוססת מודל יסוד.",
+   "source": "src12",
+   "quote": "Earlier this year, CARE received what Aidoc described as a landmark first clearance from the U.S. Food and Drug Administration for a comprehensive double-digit foundation model-based triage system in clinical imaging.",
+   "status": "confirmed",
+   "locator": "שורה 52"
+  },
+  {
+   "id": "c21",
+   "text": "לפי מעריב, צפוי שהמערכת תורחב גם לבדיקות MRI ולזיהוי פתולוגיות נוספות, ובהן גידולים וסרטן ריאה.",
+   "source": "src3",
+   "quote": "בעתיד צפויה המערכת להתרחב גם לבדיקות MRI ולזיהוי פתולוגיות נוספות ובהן גידולים וסרטן ריאה.",
+   "status": "confirmed",
+   "locator": "שורה 30"
+  },
+  {
+   "id": "c22",
+   "text": "לדברי מקורי, שילוב מערכות נוספות, למשל לזיהוי מוקדם של סרטן ריאה בסקר הלאומי למעשנים, יוכל לקצר זמני בדיקה ופענוח ולשפר את הסיכוי להציל חיים.",
+   "source": "src9",
+   "quote": "שילוב של מערכות בינה מלאכותית נוספות, למשל לזיהוי מוקדם של סרטן ריאה במסגרת הסקר הלאומי שאנו מבצעים כאן למעשנים",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c19",
+   "text": "לפי ברנע, המערכת היא תוספת משמעותית למערכת הבריאות הישראלית שמתקשה לעמוד בעומסים הגדלים.",
+   "source": "src3",
+   "quote": "זוהי תוספת משמעותית למערכת הבריאות הישראלית שמתקשה לעמוד בעומסים ההולכים וגדלים",
+   "status": "confirmed",
+   "locator": "שורה 29"
+  },
+  {
+   "id": "c28",
+   "text": "לפי ביקורת של NICE הבריטי, שבעה מחקרי תיקוף על 31,118 סריקות הראו שהטכנולוגיה יעילה בזיהוי דימומים תוך־גולגולתיים כמו נוירורדיולוגים, אך תנאי המחקרים לא שיקפו תרגול קליני.",
+   "source": "src13",
+   "quote": "Seven validation studies, including 31,118 CT brain scans, showed the technology to be as effective at detecting intracranial haemorrhages as neuroradiologists.",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c29",
+   "text": "NICE ציין שבסיס הראיות ייהנה ממחקרים משווים מבוקרים עם מעקב מתאים לתוצאי מטופלים ולזמן עד טיפול.",
+   "source": "src13",
+   "quote": "The evidence base would benefit from well-controlled comparative studies with an appropriate follow-up time to capture patient outcome and time to treatment.",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c30",
+   "text": "NICE ציין שלא תמיד ברור אם הטכנולוגיה עודכנה מאז הפרסום, ושרבים מהמחברים עובדים בחברה.",
+   "source": "src13",
+   "quote": "It is not always clear whether the technology described in the studies has been updated since publication and many of the named authors involved in the studies work for the company.",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c31",
+   "text": "NICE ציין שעלות הרישיון של Aidoc: head נעה בין 25,000 ל-60,000 ליש\"ט בשנה, בהתאם להיקף הבדיקות ודרישות העבודה.",
+   "source": "src13",
+   "quote": "The licence cost of the technology ranges from £25,000 to £60,000 per year depending on the volume of exams and different workflow requirements.",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c32",
+   "text": "לפי NICE, כל המומחים סברו שהטכנולוגיה יכולה לשפר את מהירות האבחון והשירות לאנשים הזקוקים לאבחון וטיפול דחופים.",
+   "source": "src13",
+   "quote": "All experts believed the technology could improve the speed of diagnosis and the service for people that need urgent diagnosis and treatment.",
+   "status": "confirmed",
+   "locator": "שורה 36"
+  },
+  {
+   "id": "c35",
+   "text": "מחקר שוויצרי בבזל מצא שהאלגוריתם זיהה דימום תוך־גולגולתי בשיעור גבוה, אך בשיעור נמוך יותר דימום תת־עכבישי ותת־דורלי.",
+   "source": "src14",
+   "quote": "the algorithm had high rates of detection for ICH (97.1%) but lower rates for subarachnoid hemorrhage (80%) and subdural hemorrhage (69.2%)",
+   "status": "confirmed",
+   "locator": "שורה 24"
+  },
+  {
+   "id": "c36",
+   "text": "החוקרים בבזל הזהירו מ\"תחושת ביטחון מוטעית\" בשימוש בבינה מלאכותית, במיוחד בתתי־סוגים מסוימים של דימום ובטיפול דחוף.",
+   "source": "src14",
+   "quote": "a false sense of security using AI is a pitfall that must be addressed, particularly for certain subtypes of ICH and in acute care applications",
+   "status": "confirmed",
+   "locator": "שורה 24"
+  },
+  {
+   "id": "c8",
+   "text": "לפי מעריב, המערכת רגישה ב-89.9 אחוזים בזיהוי דימום מוחי, בסגוליות של 99 אחוזים, ובתעדוף מקרים דחופים הגיעה לרגישות של 100 אחוזים.",
+   "source": "src3",
+   "quote": "רגישות של 89.9 אחוזים בזיהוי דימום מוחי, סגוליות של 99 אחוזים, ובבחינת תעדוף מקרים דחופים השיגה המערכת רגישות של 100 אחוזים",
+   "status": "confirmed",
+   "locator": "שורה 16"
+  },
+  {
+   "id": "c9",
+   "text": "לפי בולוג, המערכת הגיעה לדיוק של עד 99% בזיהוי דימומים מוחיים בהשוואה לדוחות הרדיולוגיים ששימשו כסטנדרט ייחוס.",
+   "source": "src9",
+   "quote": "דיוק של עד 99% בזיהוי דימומים מוחיים לעומת הדוחות הרדיולוגיים ששימשו כסטנדרט הייחוס",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c49",
+   "text": "לפי גלובס, החברה הישראלית מנתחת יותר מ-60 מיליון מקרי מטופלים בשנה בכמעט 2,000 בתי חולים.",
+   "source": "src15",
+   "quote": "The Israeli company analyzes more than 60 million patient cases annually in nearly 2,000 hospitals.",
+   "status": "confirmed",
+   "locator": "שורה 41"
+  },
+  {
+   "id": "c52",
+   "text": "לפי איידוק, הטכנולוגיה שלה ניתחה יותר מ-110 מיליון מקרי מטופלים ותומכת בהחלטות קליניות עבור כ-70 מיליון מטופלים בשנה.",
+   "source": "src12",
+   "quote": "Aidoc says its technology has analyzed more than 110 million patient cases and supports clinical decision-making for about 70 million patients annually.",
+   "status": "confirmed",
+   "locator": "שורה 59"
+  }
+ ],
+ "sources": [
+  {
+   "id": "src1",
+   "label": "Jerusalem Post, כתבה על איידוק",
+   "url": "https://www.jpost.com/health-and-wellness/article-869819",
+   "kind": "press"
+  },
+  {
+   "id": "src2",
+   "label": "Globes, Elad Walach, Michael Braginsky, Guy Reiner",
+   "url": "https://en.globes.co.il/news/home.aspx?fid=10447",
+   "kind": "press"
+  },
+  {
+   "id": "src3",
+   "label": "מעריב, כתבה על המערכת הישראלית שמזהה שבץ מוחי",
+   "url": "https://www.maariv.co.il/news/health/article-1239417",
+   "kind": "press"
+  },
+  {
+   "id": "src4",
+   "label": "ice.co.il, כתבה על מחקר איידוק (מרכזים רפואיים אסותא)",
+   "url": "https://www.ice.co.il/health/news/article/1086350",
+   "kind": "press"
+  },
+  {
+   "id": "src5",
+   "label": "Jerusalem Post, ישראלים שמשנים את אבחון הרופאים (Forbes 30 Under 30)",
+   "url": "https://m.jpost.com/jpost-tech/forbes-30-under-30-meet-the-israelis-changing-how-doctors-diagnose-you-539769",
+   "kind": "press"
+  },
+  {
+   "id": "src6",
+   "label": "Healthcare Dive, איידוק גייסה 150 מיליון דולר, יולי 2025",
+   "url": "https://www.healthcaredive.com/news/aidoc-150m-funding-ai-foundation-model/753980/",
+   "kind": "press"
+  },
+  {
+   "id": "src7",
+   "label": "AuntMinnie, אישור FDA לתוכנת שבץ של איידוק",
+   "url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15625031/aidoc-secures-fda-clearance-for-ai-stroke-software",
+   "kind": "press"
+  },
+  {
+   "id": "src8",
+   "label": "AuntMinnie, זיהוי דימום תוך־גולגולתי בבינה מלאכותית",
+   "url": "https://www.auntminnie.com/clinical-news/ct/article/15627912/ai-detection-of-intracranial-hemorrhage-saves-lives",
+   "kind": "press"
+  },
+  {
+   "id": "src9",
+   "label": "בחדרי חרדים (bhol), כתבה על מחקר איידוק",
+   "url": "https://www.bhol.co.il/news/1707922",
+   "kind": "press"
+  },
+  {
+   "id": "src10",
+   "label": "PR Newswire, הודעת איידוק לעיתונות, אוקטובר 2020",
+   "url": "https://www.prnewswire.com/il/news-releases/aidoc-granted-ai-industry-first-fda-clearance-for-triage-of-incidental-pulmonary-embolism-301156870.html",
+   "kind": "organisation"
+  },
+  {
+   "id": "src11",
+   "label": "AuntMinnie, אישור FDA לפקקת ריאתית אגבית",
+   "url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15627039/fda-clears-aidocs-incidental-pe-ai-algorithm",
+   "kind": "press"
+  },
+  {
+   "id": "src12",
+   "label": "Ynetnews, איידוק גייסה 150 מיליון דולר, יולי 2025",
+   "url": "https://www.ynetnews.com/business/article/rjoa8pjcbl",
+   "kind": "press"
+  },
+  {
+   "id": "src13",
+   "label": "NICE (הממלכה המאוחדת), סקירת טכנולוגיה רפואית על בינה מלאכותית לניתוח סריקות CT של המוח",
+   "url": "https://www.nice.org.uk/advice/mib207/resources/artificial-intelligence-for-analysing-ct-brain-scans-pdf-2285965396121029",
+   "kind": "official"
+  },
+  {
+   "id": "src14",
+   "label": "AuntMinnie, שיפור זרימת העבודה במיון",
+   "url": "https://www.auntminnie.com/clinical-news/ct/article/15630348/using-ai-to-detect-brain-hemorrhage-on-ct-improves-ed-workflow",
+   "kind": "press"
+  },
+  {
+   "id": "src15",
+   "label": "Globes, איידוק גייסה 150 מיליון דולר",
+   "url": "https://en.globes.co.il/en/article-1001541446",
+   "kind": "press"
+  }
+ ],
+ "media": [
+  {
+   "id": "m1",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=KMCa3Z4c_l4",
+   "youtube_id": "KMCa3Z4c_l4",
+   "source_page": "https://www.youtube.com/watch?v=KMCa3Z4c_l4",
+   "source_name": "YouTube",
+   "credit": "Clalit Innovation",
+   "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "פרק בסדרה של כללית על חדשנות בבריאות, שבו מנהלת המוצר ומנהל הפיתוח של איידוק מדברים על שימוש בבינה מלאכותית בחדר המיון.",
+   "illustrates": [
+    "c2",
+    "c42"
+   ],
+   "spoken": "he",
+   "audio_tracks": [
+    "he"
+   ]
+  },
+  {
+   "id": "m2",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=gNSfwloZPWU",
+   "youtube_id": "gNSfwloZPWU",
+   "source_page": "https://www.youtube.com/watch?v=gNSfwloZPWU",
+   "source_name": "YouTube",
+   "credit": "Sheba Medical Center Tel-HaShomer",
+   "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "סרטון של מרכז רפואי שיבא שמסביר איך הבינה המלאכותית של איידוק מנתחת סריקות רפואיות ומזהה ממצאים בחדר המיון וברדיולוגיה.",
+   "illustrates": [
+    "c42",
+    "c24"
+   ],
+   "spoken": "en",
+   "audio_tracks": [
+    "en",
+    "de",
+    "es",
+    "fr",
+    "hi",
+    "id",
+    "it",
+    "pt"
+   ]
+  },
+  {
+   "id": "m3",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=oYYcvu7b-rU",
+   "youtube_id": "oYYcvu7b-rU",
+   "source_page": "https://www.youtube.com/watch?v=oYYcvu7b-rU",
+   "source_name": "YouTube",
+   "credit": "Aidoc",
+   "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "ד\"ר גינדי, ראשת מערך הדימות והחדשנות בבית החולים אסותא בתל אביב, מספרת על החלטת בית החולים להטמיע את הבינה המלאכותית של איידוק.",
+   "illustrates": [
+    "c1"
+   ],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m4",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=G7dJjqv7HFU",
+   "youtube_id": "G7dJjqv7HFU",
+   "source_page": "https://www.youtube.com/watch?v=G7dJjqv7HFU",
+   "source_name": "YouTube",
+   "credit": "YouTube",
+   "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "ראיון של i24 News עם אלעד וולך, מנכ\"ל איידוק.",
+   "illustrates": [],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m5",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=_3egeFslo5Y",
+   "youtube_id": "_3egeFslo5Y",
+   "source_page": "https://www.youtube.com/watch?v=_3egeFslo5Y",
+   "source_name": "YouTube",
+   "credit": "YouTube",
+   "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "שיחה עם אלעד וולך, מייסד איידוק, על בינה מלאכותית והדימות הרפואי היום ובעתיד.",
+   "illustrates": [],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m9",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Assuta%20Ashdod%20Medical%20Center%2C%20emergency%20room2916.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Assuta_Ashdod_Medical_Center%2C_emergency_room2916.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "יעקב",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "שלט חדר המיון ואמבולנסים בכניסה למרכז הרפואי אסותא אשדוד",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2023-03-21",
+   "width": 4039,
+   "height": 2855,
+   "role": "related"
+  },
+  {
+   "id": "m18",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/145973%20reception%20center%20building%20sheba%20medical%20center%20t%20PikiWiki%20Israel.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:145973_reception_center_building_sheba_medical_center_t_PikiWiki_Israel.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "ישראל פרקר",
+   "licence": "CC BY 2.5",
+   "hosting": "hotlink",
+   "caption": "המרכז הכולל לרפואה דחופה במרכז הרפואי שיבא, תל השומר",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/2.5",
+   "date": "2026-04-20",
+   "width": 2652,
+   "height": 1803,
+   "role": "related"
+  },
+  {
+   "id": "m34",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Assuta%20Ashdod%20Medical%20Center%2C%20emergency%20room2915.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Assuta_Ashdod_Medical_Center%2C_emergency_room2915.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "יעקב",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "כניסת חדר המיון באסותא אשדוד, עם אמבולנסים חונים",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2023-03-21",
+   "width": 5184,
+   "height": 3888,
+   "role": "related"
+  }
+ ],
+ "check": {
+  "passed": true,
+  "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
+  "checked_at": "2026-11-22T04:35:26Z",
+  "counts": {
+   "confirmed": 65,
+   "not_confirmed": 0,
+   "deleted_sentences": 7,
+   "first_round_confirmed": 63,
+   "first_round_contradicted": 2,
+   "first_round_unverifiable": 7
+  },
+  "note": "unverifiable sentences were deleted, contradicted ones fixed from the source and checked again"
+ },
+ "meta": {
+  "run": "aidoc-ai-emergency-scan-triage",
+  "pipeline": "scripts/museum/museum_line.py",
+  "models": {
+   "research": "sonnet-5-5",
+   "extract": "sonnet-5-5",
+   "media": "sonnet-5-5",
+   "write": "opus-5-5 medium",
+   "check": "opus-5-5 medium",
+   "fix": "opus-5-5 medium"
+  },
+  "source_quality": {
+   "sources": 15,
+   "wikipedia": 0,
+   "strong": 14,
+   "ok": true,
+   "warnings": []
+  }
+ }
+}

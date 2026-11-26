@@ -1,0 +1,56 @@
+{
+ "schema": "maasei-backdrop/1",
+ "slug": "kedar-rabinowitch-cherry-tomato",
+ "media": "m22",
+ "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Cherry%20tomatoes%20in%20the%20school%20garden%20%2821232228746%29.jpg?width=1920",
+ "img_small": "https://commons.wikimedia.org/wiki/Special:FilePath/Cherry%20tomatoes%20in%20the%20school%20garden%20%2821232228746%29.jpg?width=1080",
+ "why": "A dense, rain-wet cherry tomato plant with clusters of fruit at every stage of ripeness fills the frame with depth and texture, setting the story's world of the cherry tomato crop; none of the candidates shows the Hebrew University or 1970s Israel, so this is the strongest honest generic scene.",
+ "chosen_by": "opus picker",
+ "alternates": [
+  "m4"
+ ],
+ "from": {
+  "average": "#508745",
+  "picked": "#52912b",
+  "coloured_share": 0.887,
+  "lightness": 0.387
+ },
+ "palette": {
+  "paper": "#edf4e9",
+  "surface": "#f7faf6",
+  "band": "#dfecd7",
+  "tint": "#d8eacc",
+  "header": "#e5efdf",
+  "rule": "#bdd5af",
+  "text": "#1f2a18",
+  "text2": "#3d4c33",
+  "accent": "#3c6b20",
+  "meta": "#57654c",
+  "tone": "#182815",
+  "shadow": "24, 33, 18"
+ },
+ "checks": {
+  "text_on_paper": 13.34,
+  "text_on_surface": 14.23,
+  "text_on_band": 12.2,
+  "text_on_tint": 11.81,
+  "text_on_header": 12.65,
+  "text2_on_paper": 8.21,
+  "text2_on_surface": 8.75,
+  "text2_on_band": 7.51,
+  "text2_on_tint": 7.26,
+  "text2_on_header": 7.78,
+  "accent_on_paper": 5.64,
+  "accent_on_surface": 6.02,
+  "accent_on_band": 5.16,
+  "accent_on_tint": 4.99,
+  "accent_on_header": 5.35,
+  "meta_on_paper": 5.55,
+  "meta_on_surface": 5.92,
+  "meta_on_band": 5.08,
+  "meta_on_tint": 4.91,
+  "meta_on_header": 5.26,
+  "paper_on_accent": 5.64
+ },
+ "passed": true
+}

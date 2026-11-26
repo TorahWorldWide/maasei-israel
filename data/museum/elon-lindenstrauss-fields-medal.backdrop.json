@@ -1,0 +1,56 @@
+{
+ "schema": "maasei-backdrop/1",
+ "slug": "elon-lindenstrauss-fields-medal",
+ "media": "m18",
+ "img": "https://commons.wikimedia.org/wiki/Special:FilePath/East-Jerusalem%20-%20Hosted%20by%20Yuval%20%282%29%20%285364649353%29.jpg?width=1920",
+ "img_small": "https://commons.wikimedia.org/wiki/Special:FilePath/East-Jerusalem%20-%20Hosted%20by%20Yuval%20%282%29%20%285364649353%29.jpg?width=1080",
+ "why": "A wide view from the Hebrew University student village across Jerusalem to the Old City and the Dome of the Rock shows his home university and city, the place he chose to come back to.",
+ "chosen_by": "opus picker",
+ "alternates": [
+  "m15"
+ ],
+ "from": {
+  "average": "#838081",
+  "picked": "#786455",
+  "coloured_share": 0.0,
+  "lightness": 0.51
+ },
+ "palette": {
+  "paper": "#f0edee",
+  "surface": "#f8f7f8",
+  "band": "#e5dfe1",
+  "tint": "#e0d7da",
+  "header": "#e9e4e6",
+  "rule": "#c7bcc0",
+  "text": "#2a181e",
+  "text2": "#4c333b",
+  "accent": "#713d4e",
+  "meta": "#6e535c",
+  "tone": "#221b1d",
+  "shadow": "33, 18, 23"
+ },
+ "checks": {
+  "text_on_paper": 14.47,
+  "text_on_surface": 15.75,
+  "text_on_band": 12.8,
+  "text_on_tint": 11.94,
+  "text_on_header": 13.39,
+  "text2_on_paper": 9.79,
+  "text2_on_surface": 10.66,
+  "text2_on_band": 8.66,
+  "text2_on_tint": 8.08,
+  "text2_on_header": 9.06,
+  "accent_on_paper": 7.28,
+  "accent_on_surface": 7.92,
+  "accent_on_band": 6.44,
+  "accent_on_tint": 6.01,
+  "accent_on_header": 6.74,
+  "meta_on_paper": 5.91,
+  "meta_on_surface": 6.43,
+  "meta_on_band": 5.23,
+  "meta_on_tint": 4.88,
+  "meta_on_header": 5.47,
+  "paper_on_accent": 7.28
+ },
+ "passed": true
+}

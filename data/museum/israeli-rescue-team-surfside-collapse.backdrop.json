@@ -1,0 +1,56 @@
+{
+ "schema": "maasei-backdrop/1",
+ "slug": "israeli-rescue-team-surfside-collapse",
+ "media": "m15",
+ "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Surfside%20condominium%20collapse%20photo%20from%20Miami-Dade%20Fire%20Rescue%206.jpg?width=1920",
+ "img_small": "https://commons.wikimedia.org/wiki/Special:FilePath/Surfside%20condominium%20collapse%20photo%20from%20Miami-Dade%20Fire%20Rescue%206.jpg?width=1080",
+ "why": "A wide, deep daytime view of the collapsed Champlain Towers South rubble pile, with crushed cars and rescuers working with a search dog, shows the disaster site the team came to help at.",
+ "chosen_by": "opus picker",
+ "alternates": [
+  "m1"
+ ],
+ "from": {
+  "average": "#868786",
+  "picked": "#b2c8d9",
+  "coloured_share": 0.101,
+  "lightness": 0.526
+ },
+ "palette": {
+  "paper": "#e9eff4",
+  "surface": "#f6f8fa",
+  "band": "#d7e3ec",
+  "tint": "#ccddea",
+  "header": "#dfe8ef",
+  "rule": "#afc4d5",
+  "text": "#18222a",
+  "text2": "#33414c",
+  "accent": "#365b78",
+  "meta": "#4f5e68",
+  "tone": "#1b221b",
+  "shadow": "18, 26, 33"
+ },
+ "checks": {
+  "text_on_paper": 13.93,
+  "text_on_surface": 15.16,
+  "text_on_band": 12.37,
+  "text_on_tint": 11.6,
+  "text_on_header": 13.01,
+  "text2_on_paper": 9.05,
+  "text2_on_surface": 9.86,
+  "text2_on_band": 8.04,
+  "text2_on_tint": 7.54,
+  "text2_on_header": 8.46,
+  "accent_on_paper": 6.2,
+  "accent_on_surface": 6.75,
+  "accent_on_band": 5.5,
+  "accent_on_tint": 5.16,
+  "accent_on_header": 5.79,
+  "meta_on_paper": 5.78,
+  "meta_on_surface": 6.3,
+  "meta_on_band": 5.13,
+  "meta_on_tint": 4.82,
+  "meta_on_header": 5.4,
+  "paper_on_accent": 6.2
+ },
+ "passed": true
+}

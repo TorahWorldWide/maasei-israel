@@ -1,0 +1,56 @@
+{
+ "schema": "maasei-backdrop/1",
+ "slug": "rosenwald-washington-black-schools",
+ "media": "m10",
+ "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Mars%20Hill%20Anderson%20Rosenwald%20School%2C%20Mars%20Hill%2C%20NC.jpg?width=1920",
+ "img_small": "https://commons.wikimedia.org/wiki/Special:FilePath/Mars%20Hill%20Anderson%20Rosenwald%20School%2C%20Mars%20Hill%2C%20NC.jpg?width=1080",
+ "why": "A rural wooden Rosenwald school among old trees, its long banks of tall daylight windows and receding gravel road giving a deep, textured scene of the very buildings the deed created.",
+ "chosen_by": "opus picker",
+ "alternates": [
+  "m3"
+ ],
+ "from": {
+  "average": "#7e7f6b",
+  "picked": "#4b5a30",
+  "coloured_share": 0.354,
+  "lightness": 0.467
+ },
+ "palette": {
+  "paper": "#f0f4e9",
+  "surface": "#f8faf6",
+  "band": "#e5ecd7",
+  "tint": "#e0eacc",
+  "header": "#e9efdf",
+  "rule": "#c7d5af",
+  "text": "#242a18",
+  "text2": "#434c33",
+  "accent": "#556a30",
+  "meta": "#5d654c",
+  "tone": "#22221b",
+  "shadow": "28, 33, 18"
+ },
+ "checks": {
+  "text_on_paper": 13.26,
+  "text_on_surface": 14.09,
+  "text_on_band": 12.2,
+  "text_on_tint": 11.84,
+  "text_on_header": 12.59,
+  "text2_on_paper": 8.11,
+  "text2_on_surface": 8.62,
+  "text2_on_band": 7.46,
+  "text2_on_tint": 7.25,
+  "text2_on_header": 7.7,
+  "accent_on_paper": 5.39,
+  "accent_on_surface": 5.73,
+  "accent_on_band": 4.96,
+  "accent_on_tint": 4.82,
+  "accent_on_header": 5.12,
+  "meta_on_paper": 5.49,
+  "meta_on_surface": 5.83,
+  "meta_on_band": 5.05,
+  "meta_on_tint": 4.9,
+  "meta_on_header": 5.21,
+  "paper_on_accent": 5.39
+ },
+ "passed": true
+}

@@ -1,0 +1,56 @@
+{
+ "schema": "maasei-backdrop/1",
+ "slug": "ort-vocational-training-since-1880",
+ "media": "m13",
+ "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Ort%20High%20School%20for%20Aviation%20Technology%20and%20Space%20%283064312294%29.jpg?width=1920",
+ "img_small": "https://commons.wikimedia.org/wiki/Special:FilePath/Ort%20High%20School%20for%20Aviation%20Technology%20and%20Space%20%283064312294%29.jpg?width=1080",
+ "why": "A wide, detailed view of the library at an ORT technical high school, with full bookshelves and reading tables, puts the visitor inside an ORT school and still reads clearly when darkened and partly covered.",
+ "chosen_by": "opus picker",
+ "alternates": [
+  "m11"
+ ],
+ "from": {
+  "average": "#887848",
+  "picked": "#9a8c51",
+  "coloured_share": 0.801,
+  "lightness": 0.409
+ },
+ "palette": {
+  "paper": "#f4f2e9",
+  "surface": "#faf9f6",
+  "band": "#ece8d7",
+  "tint": "#eae5cc",
+  "header": "#efecdf",
+  "rule": "#d5cdaf",
+  "text": "#2a2718",
+  "text2": "#4c4833",
+  "accent": "#6d6231",
+  "meta": "#65614c",
+  "tone": "#282315",
+  "shadow": "33, 30, 18"
+ },
+ "checks": {
+  "text_on_paper": 13.36,
+  "text_on_surface": 14.23,
+  "text_on_band": 12.19,
+  "text_on_tint": 11.83,
+  "text_on_header": 12.65,
+  "text2_on_paper": 8.2,
+  "text2_on_surface": 8.74,
+  "text2_on_band": 7.49,
+  "text2_on_tint": 7.26,
+  "text2_on_header": 7.77,
+  "accent_on_paper": 5.44,
+  "accent_on_surface": 5.8,
+  "accent_on_band": 4.97,
+  "accent_on_tint": 4.82,
+  "accent_on_header": 5.15,
+  "meta_on_paper": 5.56,
+  "meta_on_surface": 5.92,
+  "meta_on_band": 5.08,
+  "meta_on_tint": 4.92,
+  "meta_on_header": 5.27,
+  "paper_on_accent": 5.44
+ },
+ "passed": true
+}

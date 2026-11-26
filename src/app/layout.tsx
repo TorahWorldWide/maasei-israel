@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import { cookies, headers } from "next/headers";
-import { Rubik, Heebo, Frank_Ruhl_Libre } from "next/font/google";
+import { Rubik, Heebo, Frank_Ruhl_Libre, David_Libre } from "next/font/google";
 import { LangProvider } from "@/components/LangProvider";
 import { SITE_TITLE_BILINGUAL, LANG_COOKIE, type Lang } from "@/lib/i18n";
 import "./globals.css";
@@ -23,6 +23,14 @@ const frankRuhl = Frank_Ruhl_Libre({
   variable: "--font-frank-ruhl",
   subsets: ["latin", "hebrew"],
   weight: ["400", "500", "700", "900"],
+  display: "swap",
+});
+
+// 26.11: the album look (cream + sepia, David Libre) is now the whole site's look
+const davidLibre = David_Libre({
+  variable: "--font-david",
+  subsets: ["hebrew", "latin"],
+  weight: ["400", "500", "700"],
   display: "swap",
 });
 
@@ -57,7 +65,7 @@ export default async function RootLayout({
     <html
       lang={lang}
       dir={lang === "he" ? "rtl" : "ltr"}
-      className={`${rubik.variable} ${heebo.variable} ${frankRuhl.variable}`}
+      className={`${rubik.variable} ${heebo.variable} ${frankRuhl.variable} ${davidLibre.variable}`}
     >
       <body className="min-h-screen flex flex-col">
         <LangProvider initialLang={lang}>{children}</LangProvider>

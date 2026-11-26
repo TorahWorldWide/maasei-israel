@@ -1,0 +1,56 @@
+{
+ "schema": "maasei-backdrop/1",
+ "slug": "roger-kornberg-transcription",
+ "media": "m18",
+ "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Men%20in%20science.JPG?width=1920",
+ "img_small": "https://commons.wikimedia.org/wiki/Special:FilePath/Men%20in%20science.JPG?width=1080",
+ "why": "A wide, deep view of a packed lecture hall with Israeli flags, where Kornberg speaks at a science lecture, sets the scene of his science and his Israeli connection.",
+ "chosen_by": "opus picker",
+ "alternates": [
+  "m28"
+ ],
+ "from": {
+  "average": "#574942",
+  "picked": "#5e3f29",
+  "coloured_share": 0.482,
+  "lightness": 0.296
+ },
+ "palette": {
+  "paper": "#f4ede9",
+  "surface": "#faf8f6",
+  "band": "#ece0d7",
+  "tint": "#ead9cc",
+  "header": "#efe5df",
+  "rule": "#d5bfaf",
+  "text": "#2a2018",
+  "text2": "#4c3e33",
+  "accent": "#795135",
+  "meta": "#685a4f",
+  "tone": "#231d1a",
+  "shadow": "33, 24, 18"
+ },
+ "checks": {
+  "text_on_paper": 13.76,
+  "text_on_surface": 15.04,
+  "text_on_band": 12.3,
+  "text_on_tint": 11.6,
+  "text_on_header": 12.85,
+  "text2_on_paper": 8.87,
+  "text2_on_surface": 9.7,
+  "text2_on_band": 7.93,
+  "text2_on_tint": 7.48,
+  "text2_on_header": 8.29,
+  "accent_on_paper": 5.96,
+  "accent_on_surface": 6.52,
+  "accent_on_band": 5.33,
+  "accent_on_tint": 5.03,
+  "accent_on_header": 5.57,
+  "meta_on_paper": 5.73,
+  "meta_on_surface": 6.27,
+  "meta_on_band": 5.12,
+  "meta_on_tint": 4.83,
+  "meta_on_header": 5.36,
+  "paper_on_accent": 5.96
+ },
+ "passed": true
+}

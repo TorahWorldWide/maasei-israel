@@ -1,0 +1,1919 @@
+{
+ "schema": "maasei-museum/1",
+ "slug": "deepdub-ai-dubbing-languages",
+ "deed": "חברת דיפדאב הישראלית מנגישה סרטים וסדרות בעשרות שפות באמצעות בינה מלאכותית",
+ "canonical_type": "team-invention",
+ "year": "2019",
+ "title": "דיפדאב הישראלית מדבבת סרטים וסדרות בבינה מלאכותית, בקול השחקנים המקוריים",
+ "trailer": [
+  {
+   "text": "דיפדאב היא סטארטאפ ישראלי מתל אביב, שהקימו ב-2019 האחים אופיר וניר קרקובסקי.",
+   "claims": [
+    "c3",
+    "c4",
+    "c77"
+   ]
+  },
+  {
+   "text": "החברה פיתחה טכנולוגיית בינה מלאכותית לדיבוב סרטים, סדרות ומשחקים.",
+   "claims": [
+    "c10"
+   ]
+  },
+  {
+   "text": "היא לוקחת דגימת קול קצרה של השחקנים המקוריים, ובונה ממנה מודל שמעביר את הקול שלהם לשפה אחרת.",
+   "claims": [
+    "c20",
+    "c21"
+   ]
+  },
+  {
+   "text": "לפי TechCrunch, דיבוב מסורתי של סרט בן שעתיים עשוי לקחת 15 עד 20 שבועות, ודיפדאב יכולה להשלים אותו בכארבעה שבועות.",
+   "claims": [
+    "c18"
+   ]
+  },
+  {
+   "text": "בהמשך השיקה החברה את Deepdub GO, ובה יוצרים יכולים לדבב בקולם שלהם ל-65 שפות.",
+   "claims": [
+    "c60",
+    "c61"
+   ]
+  }
+ ],
+ "hero_media": [
+  "m8",
+  "m9",
+  "m11",
+  "m15",
+  "m19",
+  "m21",
+  "m22",
+  "m24",
+  "m27",
+  "m31"
+ ],
+ "glance": [
+  {
+   "label": "מייסדים",
+   "value": "האחים אופיר וניר קרקובסקי",
+   "claims": [
+    "c4"
+   ]
+  },
+  {
+   "label": "מאז",
+   "value": "2019",
+   "claims": [
+    "c4",
+    "c8"
+   ]
+  },
+  {
+   "label": "איפה",
+   "value": "תל אביב",
+   "claims": [
+    "c77"
+   ]
+  },
+  {
+   "label": "היקף",
+   "value": "יותר מ-130 שפות וניבים, לפי החברה.",
+   "claims": [
+    "c74"
+   ]
+  },
+  {
+   "label": "הכרה",
+   "value": "הסמכת TPN של איגוד הקולנוע האמריקאי",
+   "claims": [
+    "c69"
+   ]
+  }
+ ],
+ "stations": [
+  {
+   "id": "s1",
+   "title": "חודשים באולפן",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "לפי ICE, דיבוב של סרט או סדרה נמשך כמה חודשים, ודורש הרבה כסף, אנשים ומשאבים.",
+      "claims": [
+       "c11"
+      ]
+     },
+     {
+      "text": "בדיבוב רגיל, חמש דקות של קריינות יכולות לדרוש שעה באולפן הקלטה.",
+      "claims": [
+       "c12"
+      ]
+     },
+     {
+      "text": "לפי מחשבון אחד, דיבוב של סרטון פשוט עולה 75 דולר לדקה.",
+      "claims": [
+       "c13"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "גם המשמעות נפגעת לפעמים. כדי להתאים לתנועת הפה של השחקן, צריך למתוח או לקצר משפטים במילים אחרות, וזה יכול לשנות מעט את מה שנאמר.",
+      "claims": [
+       "c14"
+      ]
+     },
+     {
+      "text": "יוצר \"שחקן הדיונון\" אפילו המליץ לצופים לראות את הסדרה עם כתוביות.",
+      "claims": [
+       "c15"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "בינתיים הביקוש גדל ככל שענף הסטרימינג נעשה תחרותי יותר.",
+      "claims": [
+       "c52"
+      ]
+     },
+     {
+      "text": "לפי גרג פיטרס, סמנכ\"ל התפעול ומנהל המוצר הראשי של נטפליקס, נטפליקס עצמה דיבבה ב-2021 כ-5 מיליון דקות תוכן.",
+      "claims": [
+       "c51"
+      ]
+     },
+     {
+      "text": "לפי Statista, 59% מהמבוגרים בארה\"ב אמרו שהם מעדיפים סרט זר מדובב לאנגלית על פני סרט עם כתוביות.",
+      "claims": [
+       "c53"
+      ]
+     },
+     {
+      "text": "לפי Slator, מחסור באנשי מקצוע ובקיבולת הפך לאתגר משמעותי בתחום.",
+      "claims": [
+       "c16"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m6",
+    "m10",
+    "m28",
+    "m29"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s2",
+   "title": "שני אחים",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "את דיפדאב הקימו ב-2019 שני אחים: אופיר קרקובסקי, מנכ\"ל החברה, וניר קרקובסקי, סמנכ\"ל הטכנולוגיות.",
+      "claims": [
+       "c8"
+      ]
+     },
+     {
+      "text": "לשניהם יש רקע בלמידת מכונה ובבינה מלאכותית.",
+      "claims": [
+       "c4"
+      ]
+     },
+     {
+      "text": "אופיר שירת ביחידה הטכנולוגית אופק 324 של חיל האוויר, וניר היה ממקימי יחידת הסייבר בשב\"כ.",
+      "claims": [
+       "c9"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "המטרה שהציבו לחברה הייתה לגשר על מחסום השפה ועל הפער התרבותי בבידור לקהלים בינלאומיים.",
+      "claims": [
+       "c2"
+      ]
+     },
+     {
+      "text": "לפי המייסדים, הם רוצים לאפשר למיליארדי אנשים לראות כל תוכן בשפה שלהם.",
+      "claims": [
+       "c76"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "לפי Slator, החברה יצאה ממצב חשאי בדצמבר 2020.",
+      "claims": [
+       "c59"
+      ]
+     },
+     {
+      "text": "לפי Slator, אופיר קרקובסקי הבחין בזינוק בביקוש לדיבוב מכונה בתקופת המגפה.",
+      "claims": [
+       "c58"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m2"
+   ],
+   "disagreements": [
+    "d4",
+    "d5"
+   ]
+  },
+  {
+   "id": "s3",
+   "title": "איך זה עובד",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "המערכת מתחילה מכמה דקות של קול השחקנים המקוריים.",
+      "claims": [
+       "c20",
+       "c21"
+      ]
+     },
+     {
+      "text": "ממנו היא בונה מודל שמעביר את מאפייני הקול לשפת היעד.",
+      "claims": [
+       "c20"
+      ]
+     },
+     {
+      "text": "לפי VentureBeat, רשתות עצביות מפרידות את הקולות בפס הקול ומחליפות אותם בערוצי השמע המקוריים.",
+      "claims": [
+       "c25"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "זו לא רק מכונה. בכל שלב יש מומחים אנושיים שמפקחים על העבודה ומתקנים כשצריך.",
+      "claims": [
+       "c23"
+      ]
+     },
+     {
+      "text": "לפי אופיר קרקובסקי, החברה מציעה את כל התהליך: תמלול, תרגום, התאמה וכתוביות.",
+      "claims": [
+       "c24"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "לפי VentureBeat, המערכת עדיין לא מדבבת בזמן אמת, אבל היא משתלבת בעבודת הפוסט-פרודקשן.",
+      "claims": [
+       "c26"
+      ]
+     },
+     {
+      "text": "לפי ICE, הלקוחות משלימים דיבוב של סרט מלא בארבעה שבועות, לעומת 15 עד 20 שבועות בפתרונות הקיימים.",
+      "claims": [
+       "c19"
+      ]
+     },
+     {
+      "text": "פרטי התהליך הם סוד של החברה.",
+      "claims": [
+       "c28"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m1",
+    "m30"
+   ],
+   "disagreements": [
+    "d1"
+   ]
+  },
+  {
+   "id": "s4",
+   "title": "הסרט הראשון",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "לפי Slator, דיפדאב הודיעה באוקטובר 2021 על תפקידה במה שהיא הגדירה \"הסרט הראשון באורך מלא שדובב כולו בבינה מלאכותית\", Every Time I Die.",
+      "claims": [
+       "c38"
+      ]
+     },
+     {
+      "text": "לפי VentureBeat, החברה דיבבה את הסרט משנת 2019 לספרדית ולפורטוגזית.",
+      "claims": [
+       "c32"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "לפי ICE, עד 2022 שימשה הטכנולוגיה של החברה לדיבוב עשרות כותרים.",
+      "claims": [
+       "c34"
+      ]
+     },
+     {
+      "text": "אז היא הייתה זמינה במספר שפות, בהן אנגלית, ספרדית ופורטוגזית, וצפויה הייתה להתרחב לשפות נוספות.",
+      "claims": [
+       "c29"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m3"
+   ],
+   "disagreements": [
+    "d3"
+   ]
+  },
+  {
+   "id": "s5",
+   "title": "מהוליווד ועד חדשות מישראל",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "דיפדאב חתמה על שותפות עם שירות הסטרימינג Topic.com, כדי לדבב לאנגלית את קטלוג התוכניות הזרות שלו.",
+      "claims": [
+       "c35"
+      ]
+     },
+     {
+      "text": "לפי Slator, ההסכם נחתם בדצמבר 2021.",
+      "claims": [
+       "c36"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "החברה עבדה עם אולפני הוליווד על עשרות פרויקטים של קולנוע וטלוויזיה.",
+      "claims": [
+       "c62"
+      ]
+     },
+     {
+      "text": "חלק מהתוכניות האלה מוצגות ב-Hulu וב-Amazon Prime.",
+      "claims": [
+       "c62"
+      ]
+     },
+     {
+      "text": "לפי ג'רוזלם פוסט, דיפדאב תרמה לדיבוב של כמה סרטים שמוקרנים בבתי קולנוע ברחבי העולם.",
+      "claims": [
+       "c70"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "החברה עובדת גם עם רשת 13, אחת משדרניות הטלוויזיה המובילות בישראל.",
+      "claims": [
+       "c65"
+      ]
+     },
+     {
+      "text": "רשת תדבב בעזרתה את פריטי החדשות שלה, קודם לספרדית ולאנגלית.",
+      "claims": [
+       "c66"
+      ]
+     },
+     {
+      "text": "כך תוכל רשת להעלות במהירות חדשות לערוץ ה-FAST החדש שלה ביוטיוב.",
+      "claims": [
+       "c67"
+      ]
+     },
+     {
+      "text": "מנכ\"ל רשת, אמיליאנו קלמזוק, אמר שהטכנולוגיה מרחיבה את קהל החדשות הפוטנציאלי של רשת בעולם.",
+      "claims": [
+       "c68"
+      ]
+     }
+    ]
+   ],
+   "media": [],
+   "disagreements": []
+  },
+  {
+   "id": "s6",
+   "title": "כלים חדשים לכל יוצר",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "דיפדאב השיקה את Deepdub GO, פלטפורמה ללוקליזציה וליצירה של וידאו ואודיו.",
+      "claims": [
+       "c60"
+      ]
+     },
+     {
+      "text": "היא מיועדת לעסקים, לסוכנויות פרסום, לפלטפורמות למידה וליוצרי תוכן.",
+      "claims": [
+       "c60"
+      ]
+     },
+     {
+      "text": "מעלים סרטון, בוחרים סגנון ושפות, וזמן קצר אחר כך הסרטון מוכן להורדה.",
+      "claims": [
+       "c64"
+      ]
+     },
+     {
+      "text": "יוצרים יכולים לדבב בה בקולם שלהם ל-65 שפות.",
+      "claims": [
+       "c61"
+      ]
+     },
+     {
+      "text": "אפשר גם להקליט את הקול, כדי להראות למערכת איזה רגש צריך להישמע.",
+      "claims": [
+       "c63"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "דיפדאב וחברת התמלול Verbit הודיעו על שותפות לדיבוב אוטומטי בהרבה שפות.",
+      "claims": [
+       "c71"
+      ]
+     },
+     {
+      "text": "לפי שתי החברות, השירות המשותף מקצר בימים את זמן הדיבוב, ומחבר נגישות ותרגום לתהליך אחד.",
+      "claims": [
+       "c72"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "באפריל 2026 השיקה דיפדאב את מה שהיא מכנה העמית הראשון לדיבוב מבוסס סוכן בינה מלאכותית.",
+      "claims": [
+       "c73"
+      ]
+     },
+     {
+      "text": "לפי החברה, היא עובדת היום ביותר מ-130 שפות ומבטאים.",
+      "claims": [
+       "c74"
+      ]
+     },
+     {
+      "text": "לפי מנכ\"לית Love TV Channels, בזכות דיפדאב הגיע תוכן למיליוני צופים בערוצי FAST באירופה, לראשונה בספרדית, באיטלקית ובצרפתית.",
+      "claims": [
+       "c75"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m4",
+    "m5"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s7",
+   "title": "כסף, צוות והכרה",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "בפברואר 2022 גייסה דיפדאב 20 מיליון דולר בסבב A, בהובלת חברת ההשקעות Insight Partners מניו יורק.",
+      "claims": [
+       "c1"
+      ]
+     },
+     {
+      "text": "השתתפו גם Booster Ventures ו-Stardom Ventures, וכן משקיעה חדשה, Swift VC.",
+      "claims": [
+       "c39"
+      ]
+     },
+     {
+      "text": "בין משקיעי האנג'ל היו אמיליאנו קלמזוק, לשעבר נשיא Fox Television Studios, וקווין ריילי, לשעבר מנהל התוכן הראשי של HBO Max.",
+      "claims": [
+       "c40"
+      ]
+     },
+     {
+      "text": "לפי Slator, הסבב הביא את סך הגיוסים של החברה ל-26 מיליון דולר.",
+      "claims": [
+       "c41"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "הכסף נועד להרחיב את צוותי המכירות והאספקה של החברה בעולם.",
+      "claims": [
+       "c46"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "ג'ורג' מתיו, שותף מנהל ב-Insight Partners שהובילה את סבב הגיוס, אמר שהוא מאמין שדיפדאב מייצגת את הקפיצה הגדולה הבאה בהפצת תוכן עולמית, במעורבות ובצריכה.",
+      "claims": [
+       "c47"
+      ]
+     },
+     {
+      "text": "ניר קרקובסקי אמר שהסבב הוא הכרה בטכנולוגיה שבנו, בתעשייה שבה בודקים בקפדנות כל פיקסל וכל גל קול.",
+      "claims": [
+       "c49"
+      ]
+     },
+     {
+      "text": "לדבריו, האתגר הבא הוא לייעל ולהרחיב תהליך שמקיף אקסה-בייטים של וידאו, אודיו, שפה וטקסט.",
+      "claims": [
+       "c50"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "דיפדאב קיבלה הסמכה מרשת השותפים המהימנים (TPN) של איגוד הקולנוע האמריקאי.",
+      "claims": [
+       "c69"
+      ]
+     },
+     {
+      "text": "זה פתרון הדיבוב הראשון מבוסס בינה מלאכותית שהתקבל כספק שירות מהימן בתעשיית הבידור.",
+      "claims": [
+       "c69"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m17",
+    "m18"
+   ],
+   "disagreements": [
+    "d2"
+   ]
+  },
+  {
+   "id": "s8",
+   "title": "שאלות על קול שאינו אנושי",
+   "kind": "hard",
+   "paragraphs": [
+    [
+     {
+      "text": "דיבוב בבינה מלאכותית מעורר שאלות אתיות, למשל האם מותר לשחזר את קולו של אדם שנפטר.",
+      "claims": [
+       "c54"
+      ]
+     },
+     {
+      "text": "אולפנים מוסיפים לחוזים יותר ויותר סעיפים שמבקשים לאפשר שימוש בקולות סינתטיים במקום בשחקנים \"כשנחוץ\", למשל כדי לתקן שורות דיאלוג בשלב הפוסט-פרודקשן.",
+      "claims": [
+       "c55"
+      ]
+     },
+     {
+      "text": "לפי VentureBeat, דיפדאב אומרת שהיא לא יוצרת דיפפייקס, ושהיא עובדת עם השחקנים כדי שיבינו איך משתמשים בקולותיהם.",
+      "claims": [
+       "c56"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "לפי הוושינגטון פוסט, תוכן שמדובב בבינה מלאכותית בלי תשומת לב לפרטים עלול לאבד את ה\"טעם המקומי\" שלו.",
+      "claims": [
+       "c57"
+      ]
+     },
+     {
+      "text": "לפי Slator, לקוחות בקולנוע ובטלוויזיה לא ממהרים לוותר על דרכי העבודה המוכרות של אולפני הדיבוב.",
+      "claims": [
+       "c17"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m12",
+    "m14",
+    "m16",
+    "m20",
+    "m26"
+   ],
+   "disagreements": []
+  }
+ ],
+ "disagreements": [
+  {
+   "id": "d1",
+   "question": "כמה דקות של קול צריך כדי לשכפל אותו?",
+   "versions": [
+    {
+     "says": "לפי TechCrunch, שתיים עד שלוש דקות של נתוני קול",
+     "claims": [
+      "c20"
+     ]
+    },
+    {
+     "says": "לפי ICE, דגימת קול של שתי דקות בלבד",
+     "claims": [
+      "c21"
+     ]
+    },
+    {
+     "says": "ניר קרקובסקי אמר ל-VentureBeat: לא יותר משלוש דקות",
+     "claims": [
+      "c22"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d2",
+   "question": "כמה עובדים יש בחברה?",
+   "versions": [
+    {
+     "says": "לפי TechCrunch, 30 עובדים במשרה מלאה, רובם בתל אביב, והחברה תכפיל את הצוות",
+     "claims": [
+      "c42"
+     ]
+    },
+    {
+     "says": "לפי CTech, 30 עובדים, ובתכנון גיוס של עשרות נוספים בישראל ובארה\"ב",
+     "claims": [
+      "c43"
+     ]
+    },
+    {
+     "says": "לפי Slator, יותר מ-30, לעומת שבעה בתחילת 2021",
+     "claims": [
+      "c44"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d3",
+   "question": "לאילו שפות דובב Every Time I Die, ובמה הוא היה ראשון?",
+   "versions": [
+    {
+     "says": "לפי TechCrunch, דיפדאב הייתה הראשונה שדיבבה סרט באורך מלא לספרדית לטינו-אמריקנית בקולות בינה מלאכותית",
+     "claims": [
+      "c31"
+     ]
+    },
+    {
+     "says": "לפי VentureBeat, הסרט דובב לספרדית ולפורטוגזית",
+     "claims": [
+      "c32"
+     ]
+    },
+    {
+     "says": "לפי ביזפורטל, זה הסרט הראשון בעולם שדובב בבינה מלאכותית, והוא הוצג בנטפליקס באנגלית",
+     "claims": [
+      "c33"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d4",
+   "question": "מה עשה אופיר קרקובסקי בצבא?",
+   "versions": [
+    {
+     "says": "לפי אחיו עוז, אופיר הקים בעצם את חטיבת למידת המכונה של חיל האוויר",
+     "claims": [
+      "c5"
+     ]
+    },
+    {
+     "says": "לפי CTech, אופיר שירת ביחידת אופק 324 של חיל האוויר",
+     "claims": [
+      "c6"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d5",
+   "question": "מה הרקע של ניר קרקובסקי?",
+   "versions": [
+    {
+     "says": "לפי CTech, ניר היה בין מקימי היחידה הסייברית של השב\"כ",
+     "claims": [
+      "c6"
+     ]
+    },
+    {
+     "says": "לפי TechCrunch, ניר הקים עם אחרים את Metapacket, שער רשת שנתמך על ידי Y Combinator",
+     "claims": [
+      "c7"
+     ]
+    }
+   ]
+  }
+ ],
+ "unknowns": [
+  {
+   "text": "איך בדיוק עובד התהליך: החברה שומרת אותו בסוד",
+   "claims": [
+    "c28"
+   ]
+  },
+  {
+   "text": "עם אילו אולפני הוליווד היא עובדת: החברה לא חושפת את שמותיהם בגלל הסכמי סודיות",
+   "claims": [
+    "c37"
+   ]
+  }
+ ],
+ "claims": [
+  {
+   "id": "c3",
+   "text": "דיפדאב היא סטארטאפ שבסיסו בישראל, שפיתח טכנולוגיית דיבוב והתאמת שפה מבוססת בינה מלאכותית.",
+   "source": "src1",
+   "quote": "Israel-based start-up Deepdub, which has developed AI-driven audiovisual dubbing and language localization technology",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c4",
+   "text": "החברה נוסדה ב-2019 על ידי האחים אופיר וניר קרקובסקי, שרקעם כולל מומחיות בלמידת מכונה ובינה מלאכותית.",
+   "source": "src2",
+   "quote": "The company was founded in 2019 by two brothers, Ofir and Nir Krakowski, whose backgrounds included machine learning and AI expertise.",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c77",
+   "text": "מטה החברה נמצא בתל אביב ושם מרוכזת פעילות המחקר והפיתוח.",
+   "source": "src3",
+   "quote": "מטה החברה ממוקם בתל אביב ובו מרוכזת פעילות המחקר והפיתוח.",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c10",
+   "text": "דיפדאב היא סטארט-אפ ישראלי שפיתח טכנולוגיית בינה מלאכותית לדיבוב סרטים, סדרות ומשחקים, והשלים סבב גיוס A של 20 מיליון דולר.",
+   "source": "src4",
+   "quote": "הסטארט-אפ הישראלי Deepdub (דיפדאב), שפיתח טכנולוגיית AI לדיבוב סרטים, סדרות ומשחקים, השלים סבב גיוס A בסך 20 מיליון דולר.",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c20",
+   "text": "לפי TechCrunch, דיפדאב לוקחת שתיים עד שלוש דקות של נתוני קול של השחקנים המקוריים ובונה מהן מודל שמתרגם את מאפייני הקולות לשפת היעד.",
+   "source": "src2",
+   "quote": "Deepdub first takes two to three minutes of the original actors’ voice data and uses that to create a model that translates the characteristics of the original voices into the target language.",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c21",
+   "text": "לפי ההודעה, הפלטפורמה מאפשרת לשכפל את קול השחקנים משפת המקור לשפת היעד באמצעות דגימת קול של שתי דקות בלבד.",
+   "source": "src3",
+   "quote": "הפלטפורמה מאפשרת לשכפל את הקול של השחקנים מתוכן המקור לשפת היעד, דרך דגימת קול של שתי דקות בלבד.",
+   "status": "confirmed",
+   "locator": "שורה 20"
+  },
+  {
+   "id": "c18",
+   "text": "לפי TechCrunch, דיבוב מסורתי של סרט בן שעתיים יכול לקחת 15 עד 20 שבועות, ודיפדאב משלימה אותו בכארבעה שבועות.",
+   "source": "src2",
+   "quote": "Where a traditional dubbing process may take 15 to 20 weeks to convert a two-hour movie into another language, Deepdub can wrap the same project in just about four weeks.",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c60",
+   "text": "דיפדאב השיקה את Deepdub GO, פלטפורמה חדשה מבוססת בינה מלאכותית ללוקליזציה ויצירה של אודיו-וידאו לעסקים, סוכנויות פרסום, פלטפורמות למידה ויוצרי תוכן.",
+   "source": "src5",
+   "quote": "Deepdub has launched Deepdub GO, a new AI-powered audio-video localization and creation platform for businesses, advertising agencies, online learning platforms, and content creators.",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c61",
+   "text": "Deepdub GO מאפשרת ליוצרים להשתמש בקולם שלהם לדיבוב ב-65 שפות.",
+   "source": "src5",
+   "quote": "Deepdub GO lets creators use their own voice for dubbing in 65 languages.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c8",
+   "text": "דיפדאב הוקמה ב-2019 על ידי האחים אופיר קרקובסקי, מנכ\"ל החברה, וניר קרקובסקי, סמנכ\"ל הטכנולוגיות.",
+   "source": "src3",
+   "quote": "Deepdub הוקמה בשנת 2019 על ידי האחים אופיר קרקובסקי, מנכ\"ל החברה, וניר קרקובסקי, סמנכ\"ל הטכנולוגיות.",
+   "status": "confirmed",
+   "locator": "שורה 16"
+  },
+  {
+   "id": "c74",
+   "text": "לפי החברה, היא מספקת פתרון קול מקצה לקצה ביותר מ-130 שפות ומבטאים.",
+   "source": "src6",
+   "quote": "deliver an end-to-end voice solution that preserves the emotional and cultural integrity of original content in more than 130 languages and dialects.",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c69",
+   "text": "דיפדאב קיבלה הסמכה מרשת השותפים המהימנים (TPN) של איגוד הקולנוע האמריקאי, והיא פתרון הדיבוב הראשון מבוסס בינה מלאכותית שהתקבל כספק שירות מהימן בתעשיית הבידור.",
+   "source": "src1",
+   "quote": "has received certification from the Motion Picture Association’s Trusted Partner Network (TPN), making it the first AI-powered dubbing solution to be accepted as a trusted service provider in the entertainment industry.",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c11",
+   "text": "לפי הידיעה, תהליך הדיבוב של סרטים וסדרות נמשך כיום מספר חודשים ודורש השקעה כספית גדולה, כוח אדם ומשאבים.",
+   "source": "src3",
+   "quote": "תהליך הדיבוב של סרטים וסדרות אורך כיום מספר חודשים ודורש השקעה כספית רבה, כוח אדם ומשאבים.",
+   "status": "confirmed",
+   "locator": "שורה 20"
+  },
+  {
+   "id": "c12",
+   "text": "בדיבוב מסורתי יכולה לקחת שעה של זמן אולפן הקלטה עבור חמש דקות של קריינות.",
+   "source": "src7",
+   "quote": "On average, it can take an hour of recording studio time for five minutes of narration",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c13",
+   "text": "לפי מחשבון אחד, המחיר של דיבוב אפילו סרטון פשוט הוא 75 דולר לדקה.",
+   "source": "src7",
+   "quote": "One calculator pegs the price at $75 per minute for even a simple video.",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c14",
+   "text": "בדיבוב לעיתים צריך למתוח או לקצר קטעים בעזרת מילים וביטויים אחרים כדי להתאים לתנועת הפה של השחקן, וזה יכול לשנות מעט את המשמעות.",
+   "source": "src2",
+   "quote": "Some dubs have to be stretched out or cut shorter using different words and phrases so that the dubbed speech is in line with the actor’s mouth movement",
+   "status": "confirmed",
+   "locator": "שורה 16"
+  },
+  {
+   "id": "c15",
+   "text": "יוצר \"שחקן הדיונון\" המליץ לצופים לצפות דווקא בגרסה עם הכתוביות.",
+   "source": "src2",
+   "quote": "Even “Squid Game’s” creator recommended that viewers watch the subtitled version instead.",
+   "status": "confirmed",
+   "locator": "שורה 15"
+  },
+  {
+   "id": "c52",
+   "text": "הביקוש לתוכן מדובב גדל ככל שענף הסטרימינג הופך תחרותי יותר.",
+   "source": "src2",
+   "quote": "the demand for dubbed content is growing as the streaming industry becomes more competitive.",
+   "status": "confirmed",
+   "locator": "שורה 19"
+  },
+  {
+   "id": "c51",
+   "text": "נטפליקס דיבבה כ-5 מיליון דקות תוכן ב-2021 וכתיבה כ-7 מיליון, לפי גרג פיטרס מנטפליקס.",
+   "source": "src2",
+   "quote": "the streamer had dubbed some 5 million run-time minutes of content in 2021 and had subtitled 7 million.",
+   "status": "confirmed",
+   "locator": "שורה 20"
+  },
+  {
+   "id": "c53",
+   "text": "לפי Statista, 59% מהמבוגרים בארה\"ב אמרו שהם מעדיפים לצפות בסרטים בשפה זרה מדובבים לאנגלית ולא במקור עם כתוביות.",
+   "source": "src7",
+   "quote": "59% of U.S. adults said that they'd prefer to watch foreign language films dubbed into English than see the original feature with subtitles.",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c16",
+   "text": "לפי Slator, מחסור בכישרונות ובקיבולת, שהחריף עקב גידול בהיקפי התוכן ובכיסוי שפות, הפך לאתגר משמעותי ללקוחות ולספקים בתחום הלוקליזציה.",
+   "source": "src8",
+   "quote": "the talent and capacity shortage, exacerbated by growth in content volumes and broader language coverage, has become a significant challenge for both localization customers and suppliers.",
+   "status": "confirmed",
+   "locator": "שורה 19"
+  },
+  {
+   "id": "c9",
+   "text": "אופיר שירת במגוון תפקידים ביחידה הטכנולוגית אופק 324 של חיל האוויר, וניר היה ממקימי יחידת הסייבר בשב\"כ.",
+   "source": "src3",
+   "quote": "אופיר שירת במגוון תפקידים ביחידה הטכנולוגית \"אופק 324\" של חיל האוויר וניר היה ממקימי יחידת הסייבר בשב\"כ.",
+   "status": "confirmed",
+   "locator": "שורה 16"
+  },
+  {
+   "id": "c2",
+   "text": "דיפדאב היא חברה ישראלית שמטרתה לגשר על מחסום השפה והפער התרבותי בחוויות בידור לקהלים בינלאומיים.",
+   "source": "src9",
+   "quote": "Deepdub is an Israeli startup company that aims to bridge the language barrier and cultural gap of entertainment experiences to international audiences",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c76",
+   "text": "לפי מייסדי דיפדאב, המטרה היא לחולל מהפכה בצריכת התוכן ולאפשר למיליארדי אנשים לחוות כל תוכן בשפתם.",
+   "source": "src3",
+   "quote": "במטרה לחולל מהפכה בתחום צריכת התוכן ולאפשר למיליארדי אנשים ברחבי העולם לחוות לראשונה כל תוכן בשפתם",
+   "status": "confirmed",
+   "locator": "שורה 24"
+  },
+  {
+   "id": "c59",
+   "text": "לפי Slator, החברה הודיעה על יציאתה ממצב חשאי בדצמבר 2020.",
+   "source": "src8",
+   "quote": "the company announced its emergence out of stealth in December 2020",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c58",
+   "text": "לפי Slator, קרקובסקי הבחין בזינוק בביקוש לדיבוב מכונה בתקופת המגפה.",
+   "source": "src8",
+   "quote": "Krakowski also observed a spike in demand for machine dubbing during the pandemic.",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c25",
+   "text": "לפי VentureBeat, החברה מפעילה רשתות עצביות שמפרידות ומבודדות קולות ומחליפות אותם בערוצי השמע המקוריים.",
+   "source": "src7",
+   "quote": "The company provides AI-powered dubbing services for film, TV, gaming, and advertising, powered by neural networks that split and isolate voices and replace them in the original tracks.",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c23",
+   "text": "דיפדאב אינה רק פלטפורמת בינה מלאכותית אלא עסק שלם הכולל מומחים אנושיים בכל שלב, שמפקחים על העבודה ומתקנים לפי הצורך.",
+   "source": "src2",
+   "quote": "it’s not just an AI platform, it’s a full business that includes human experts at every step along the way to help oversee the work and make corrections, as needed.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c24",
+   "text": "לפי אופיר קרקובסקי ל-Slator, החברה מציעה פתרון מקצה לקצה הכולל תמלול, תרגום, התאמה וכתוביות.",
+   "source": "src8",
+   "quote": "the company acts as an end-to-end solution for customers, handling transcription, translation, adaption, and subtitling.",
+   "status": "confirmed",
+   "locator": "שורה 26"
+  },
+  {
+   "id": "c26",
+   "text": "לפי VentureBeat, האלגוריתמים של החברה עדיין אינם מדבבים בזמן אמת, אך משתלבים במערכות פוסט-פרודקשן.",
+   "source": "src7",
+   "quote": "which can't yet dub voices in real time, but plug into post-production systems",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c19",
+   "text": "לפי ההודעה, החברה מאפשרת ללקוחותיה להשלים דיבוב של סרט מלא תוך ארבעה שבועות, לעומת 15-20 שבועות בפתרונות הקיימים.",
+   "source": "src3",
+   "quote": "כיום החברה מאפשרת ללקוחותיה להשלים דיבוב לסרט מלא תוך ארבעה שבועות בלבד, לעומת 15-20 שבועות באמצעות הפתרונות הקיימים.",
+   "status": "confirmed",
+   "locator": "שורה 21"
+  },
+  {
+   "id": "c28",
+   "text": "פרטי התהליך הם הסוד של החברה, והיא אומרת רק שהיא הקדימה את המחקר האקדמי שפורסם בנושא.",
+   "source": "src2",
+   "quote": "they’re not saying, beyond noting they’ve jumped ahead of the published academic research on the matter.",
+   "status": "confirmed",
+   "locator": "שורה 13"
+  },
+  {
+   "id": "c5",
+   "text": "לפי אחיו הצעיר עוז קרקובסקי, אופיר הקים בעצם את חטיבת למידת המכונה של חיל האוויר הישראלי.",
+   "source": "src2",
+   "quote": "basically founded the machine learning division of the Israeli Air Force",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c38",
+   "text": "לפי Slator, דיפדאב הודיעה באוקטובר 2021 על תפקידה בסרט העלילתי הראשון שדובב כולו על ידי בינה מלאכותית, Every Time I Die.",
+   "source": "src8",
+   "quote": "announcing its role in “the first-ever feature-length film dubbed entirely by AI,” Every Time I Die, in October 2021.",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c32",
+   "text": "לפי VentureBeat, הסרט Every Time I Die משנת 2019 דובב על ידי החברה לספרדית ולפורטוגזית.",
+   "source": "src7",
+   "quote": "a 2019 English-language thriller that the startup dubbed into Spanish and Portuguese.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c34",
+   "text": "לפי ההודעה, הטכנולוגיה של החברה שימשה עד היום לדיבוב עשרות כותרים.",
+   "source": "src3",
+   "quote": "הטכנולוגיה של החברה שימשה עד היום לדיבוב עשרות כותרים",
+   "status": "confirmed",
+   "locator": "שורה 16"
+  },
+  {
+   "id": "c29",
+   "text": "לפי ההודעה, הפלטפורמה זמינה כיום במספר שפות, בהן אנגלית, ספרדית ופורטוגזית, וצפויה להתרחב לשפות נוספות.",
+   "source": "src3",
+   "quote": "הפלטפורמה זמינה כיום במספר שפות שונות, בהן אנגלית, ספרדית ופורטוגזית, וצפויה להתרחב לשפות נוספות בהמשך.",
+   "status": "confirmed",
+   "locator": "שורה 21"
+  },
+  {
+   "id": "c35",
+   "text": "דיפדאב נכנסה לשותפות רב-סדרתית עם שירות הסטרימינג Topic.com לדיבוב קטלוג תוכניות הטלוויזיה הזרות שלו לאנגלית.",
+   "source": "src2",
+   "quote": "Deepdub recently entered into a multi-series partnership with streaming service Topic.com to dub their catalog of foreign TV shows into English.",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c36",
+   "text": "לפי Slator, דיפדאב חתמה עם Topic.com בדצמבר 2021 על לוקליזציה לאנגלית של הקטלוג הזר שלה.",
+   "source": "src8",
+   "quote": "with which Deepdub signed a deal for into-English localization of their foreign-language catalog in December 2021.",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c62",
+   "text": "דיפדאב שיתפה פעולה עם אולפני הוליווד בעשרות פרויקטים של קולנוע וטלוויזיה, כולל תוכניות שמוצגות כיום ב-Hulu וב-Amazon Prime.",
+   "source": "src5",
+   "quote": "has collaborated with Hollywood studios on dozens of film and television projects, including shows that are currently streaming on Hulu and Amazon Prime.",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c70",
+   "text": "לפי ג'רוזלם פוסט, דיפדאב תרמה לדיבוב של כמה סרטים שמוקרנים כיום בבתי קולנוע ברחבי העולם.",
+   "source": "src1",
+   "quote": "has already contributed to the dubbing of several movies currently being screened in theaters worldwide.",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c65",
+   "text": "דיפדאב מעבדת שיתוף פעולה עם רשת 13, אחת משדרניות הטלוויזיה המובילות בישראל.",
+   "source": "src10",
+   "quote": "Deepdub, a provider of AI-based audiovisual dubbing and language localization services, has announced it is working with Reshet 13, one of Israel's leading broadcasters.",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c66",
+   "text": "רשת תשתמש בפלטפורמת Deepdub GO כדי לדבב את פריטי החדשות שלה, החל מספרדית ואנגלית.",
+   "source": "src10",
+   "quote": "Reshet will utilize the Deepdub GO Platform to dub its news items, starting with Spanish and English.",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c67",
+   "text": "רשת תוכל להעלות במהירות תוכן חדשות מותאם לערוץ ה-FAST החדש שלה ביוטיוב.",
+   "source": "src10",
+   "quote": "Reshet will be able to quickly upload localized news content onto its newly created YouTube FAST channel, the companies said.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c68",
+   "text": "מנכ\"ל רשת, אמיליאנו קלמזוק, אמר שהטכנולוגיה החדשה מרחיבה את קהל החדשות הפוטנציאלי של רשת בעולם.",
+   "source": "src10",
+   "quote": "said Reshet CEO Emiliano Calemzuk. “This amazing new technology expands our potential worldwide news audience",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c64",
+   "text": "משתמשים מעלים סרטונים ל-Deepdub GO, בוחרים סגנון ושפות, והסרטון זמין להורדה זמן קצר לאחר מכן.",
+   "source": "src5",
+   "quote": "Users simply upload their videos to the Deepdub GO platform, choose the video style and desired languages, and the video is available for download shortly.",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c63",
+   "text": "ב-Deepdub GO משתמשים יכולים לספק הקלטת קול שתשמש מדריך לביטוי הרגשי הרצוי של האודיו שנוצר בבינה מלאכותית.",
+   "source": "src5",
+   "quote": "Users can provide a voice recording to act as a guide for the desired emotional expressivity of the AI-generated audio",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c71",
+   "text": "דיפדאב וחברת התמלול Verbit הודיעו על שותפות לאוטומציה של דיבוב רב-לשוני בקנה מידה רחב.",
+   "source": "src11",
+   "quote": "Voice AI company Deepdub and AI-powered transcription provider Verbit announced this week a partnership to streamline and automate multilingual dubbing at scale",
+   "status": "confirmed",
+   "locator": "שורה 44"
+  },
+  {
+   "id": "c72",
+   "text": "לפי החברות, ההצעה המשותפת מקצרת את לוחות הזמנים המסורתיים של דיבוב בימים ומאחדת נגישות ולוקליזציה בתהליך אחד.",
+   "source": "src11",
+   "quote": "The companies say the offering reduces traditional dubbing timelines by days and brings accessibility and localization into a single workflow.",
+   "status": "confirmed",
+   "locator": "שורה 45"
+  },
+  {
+   "id": "c73",
+   "text": "באפריל 2026 דיפדאב, חברת בינה מלאכותית קולית, השיקה את מה שהיא מכנה העמית הראשון לדיבוב מבוסס סוכן בינה מלאכותית.",
+   "source": "src6",
+   "quote": "Deepdub, a foundational voice AI company, has launched the first Agentic Dubbing Co-Worker.",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c75",
+   "text": "לפי מנכ\"לית Love TV Channels, דיפדאב אפשרה להביא תוכן למיליוני צופים בערוצי ה-FAST האירופיים בספרדית, איטלקית וצרפתית לראשונה.",
+   "source": "src6",
+   "quote": "Deepdub has already enabled us to bring content to millions of viewers across our European FAST channels in Spanish, Italian, and French for the first time.",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c1",
+   "text": "סטארטאפ תל אביבי בשם דיפדאב סגר סבב גיוס סדרה A בסך 20 מיליון דולר בהובלת חברת ההשקעות Insight Partners מניו יורק.",
+   "source": "src2",
+   "quote": "The Tel Aviv startup has now closed on $20 million in Series A funding for its efforts, led by New York-based investment firm Insight Partners.",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c39",
+   "text": "משקיעות קיימות, Booster Ventures ו-Stardom Ventures, השתתפו בסבב יחד עם משקיעה חדשה, Swift VC.",
+   "source": "src2",
+   "quote": "Existing investors Booster Ventures and Stardom Ventures also participated in the round, alongside new investors at Swift VC.",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c40",
+   "text": "בין משקיעי האנג'ל בסבב היו אמיליאנו קלמזוק, לשעבר נשיא Fox Television Studios, וקווין ריילי, לשעבר מנהל התוכן הראשי של HBO Max.",
+   "source": "src9",
+   "quote": "Angel investors joining this round include Emiliano Calemzuk former President of Fox Television Studios, Kevin Reilly former CCO of HBO Max",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c41",
+   "text": "לפי Slator, הסבב הביא את סך הכספים שגייסה דיפדאב ל-26 מיליון דולר.",
+   "source": "src8",
+   "quote": "On February 10, 2022, machine dubbing company Deepdub announced it had raised USD 20m in series A funding, taking total funds raised to USD 26m.",
+   "status": "confirmed",
+   "locator": "שורה 1"
+  },
+  {
+   "id": "c46",
+   "text": "הכספים ישמשו להרחבת צוותי המכירות והאספקה של החברה בעולם.",
+   "source": "src9",
+   "quote": "The funds will be used to expand the global reach of the company's sales and delivery teams",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c47",
+   "text": "ג'ורג' מתיו מ-Insight Partners אמר שהוא מאמין שדיפדאב מייצגת את הקפיצה הגדולה הבאה בהפצת תוכן עולמית, במעורבות ובצריכה.",
+   "source": "src9",
+   "quote": "We believe Deepdub represents the next great leap forward in global content distribution, engagement and consumption.",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c49",
+   "text": "ניר קרקובסקי, מנהל הטכנולוגיות, אמר שהסבב הוא הכרה בטכנולוגיה המהפכנית שהחברה בנתה, בתעשייה שבה כל פיקסל וכל גל קול נבחנים בקפדנות.",
+   "source": "src9",
+   "quote": "This funding round is an acknowledgement of the revolutionary technology that we have built, taking generative AI to an industry where every pixel and every sound wave is rigorously examined.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c50",
+   "text": "לדברי ניר קרקובסקי, האתגר כעת הוא להמשיך לייעל ולהרחיב תהליך שמקיף אקסה-בייטים של וידאו, אודיו, שפה וטקסט.",
+   "source": "src9",
+   "quote": "The challenge now is to continue optimizing and scaling a process that spans exabytes of video, audio, language and text.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c54",
+   "text": "דיבוב בבינה מלאכותית מעורר שאלות אתיות, למשל האם לשחזר את קולו של אדם שנפטר.",
+   "source": "src7",
+   "quote": "AI dubs pose ethical questions, like whether to recreate the voice of a person who's passed away.",
+   "status": "confirmed",
+   "locator": "שורה 13"
+  },
+  {
+   "id": "c55",
+   "text": "אולפנים מוסיפים יותר ויותר סעיפים בחוזים שמבקשים להשתמש בקולות סינתטיים במקום שחקנים.",
+   "source": "src7",
+   "quote": "studios are increasingly adding provisions in contracts that seek to use synthetic voices in place of performers",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c56",
+   "text": "לפי VentureBeat, דיפדאב אומרת שהיא אינה עוסקת ביצירת דיפפייקס ועובדת עם שחקנים כדי שיבינו כיצד משתמשים בקולותיהם.",
+   "source": "src7",
+   "quote": "Deepdub says that it's not engaged in creating \"deepfakes\" and works with performers to ensure that they understand how their voices are being used.",
+   "status": "confirmed",
+   "locator": "שורה 15"
+  },
+  {
+   "id": "c57",
+   "text": "לפי העיתון וושינגטון פוסט, תוכן מדובב בבינה מלאכותית בלי תשומת לב לפרטים עלול לאבד את ה\"טעם המקומי\" שלו.",
+   "source": "src7",
+   "quote": "AI-dubbed content without attention to detail could lose its \"local flavor.\"",
+   "status": "confirmed",
+   "locator": "שורה 13"
+  },
+  {
+   "id": "c17",
+   "text": "לקוחות קולנוע וטלוויזיה גילו חוסר נכונות לנטוש את שיטות העבודה המוכרות של אולפני דיבוב מסורתיים.",
+   "source": "src8",
+   "quote": "Film and TV customers have proven reluctant to abandon the trusted work practices of brick-and-mortar dubbing studios",
+   "status": "confirmed",
+   "locator": "שורה 13"
+  },
+  {
+   "id": "c22",
+   "text": "ניר קרקובסקי אמר ל-VentureBeat שמודלי הבינה המלאכותית מאפשרים לשכפל מאפייני קול באמצעות לא יותר משלוש דקות של נתוני קול.",
+   "source": "src7",
+   "quote": "[Our] AI models enable replication of voice characteristics using not more than three minutes of voice data.",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c42",
+   "text": "לפי TechCrunch, הסטארטאפ יכפיל את צוותו הנוכחי של 30 עובדים במשרה מלאה, רובם בתל אביב.",
+   "source": "src2",
+   "quote": "The startup said it will use the funds to double its current team of 30 full-time employees, most of whom are based in Tel Aviv.",
+   "status": "confirmed",
+   "locator": "שורה 22"
+  },
+  {
+   "id": "c43",
+   "text": "לפי CTech, החברה מעסיקה 30 עובדים ומתכננת לגייס עשרות נוספים בישראל ובארה\"ב.",
+   "source": "src12",
+   "quote": "Deepdub currently employs 30 people and intends to recruit dozens more in Israel and the U.S.",
+   "status": "confirmed",
+   "locator": "שורה 29"
+  },
+  {
+   "id": "c44",
+   "text": "לפי Slator, החברה מעסיקה כעת יותר מ-30 אנשים, לעומת שבעה בתחילת 2021.",
+   "source": "src8",
+   "quote": "the company now employs more than 30 people — up from seven at the start of 2021",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c31",
+   "text": "לפי TechCrunch, דיפדאב הפכה לחברה הראשונה שדיבבה סרט באורך מלא שלם לספרדית לטינו-אמריקנית באמצעות קולות בינה מלאכותית.",
+   "source": "src2",
+   "quote": "Deepdub also became the first company to dub an entire feature-length film into Latin American Spanish utilizing AI voices",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c33",
+   "text": "Every Time I Die, הסרט הראשון בעולם שדובב על ידי בינה מלאכותית, הוצג בנטפליקס באנגלית.",
+   "source": "src4",
+   "quote": "Every Time I Die, הסרט הראשון בעולם שדובב על ידי בינה מלאכותית והוצג בנטפליקס באנגלית.",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c6",
+   "text": "לפי גלובס-כלכליסט (CTech), אופיר שירת ביחידת אופק 324 של חיל האוויר, וניר היה בין מקימי היחידה הסייברית של השב\"כ.",
+   "source": "src12",
+   "quote": "Ofir, the CEO, served in the Israel Air Force’s Ofek 324 technology unit while Nir was one of the founders of the Shin Bet’s cyber unit.",
+   "status": "confirmed",
+   "locator": "שורה 26"
+  },
+  {
+   "id": "c7",
+   "text": "ניר קרקובסקי הקים בעבר יחד עם אחרים את Metapacket, שער רשת שנתמך על ידי Y Combinator.",
+   "source": "src2",
+   "quote": "had previously co-founded the Y Combinator-backed web gateway Metapacket.",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c37",
+   "text": "לפי TechCrunch, דיפדאב אומרת שהיא עובדת עם אולפני הוליווד קטנים וגדולים, אך אינה יכולה לנקוב בשמותיהם בגלל הסכמי סודיות.",
+   "source": "src2",
+   "quote": "Deepdub says it’s working with both small and large Hollywood studios on projects, but isn’t able to say which ones due to non-disclosure agreements.",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  }
+ ],
+ "sources": [
+  {
+   "id": "src1",
+   "label": "Jerusalem Post, 2023",
+   "url": "https://jpost.com/business-and-innovation/tech-and-start-ups/article-742738",
+   "kind": "press"
+  },
+  {
+   "id": "src2",
+   "label": "TechCrunch, 10.2.2022",
+   "url": "https://techcrunch.com/2022/02/10/deepdub-raises-20m-for-a-i-powered-dubbing-that-uses-actors-original-voices/",
+   "kind": "press"
+  },
+  {
+   "id": "src3",
+   "label": "ICE, 2022",
+   "url": "https://www.ice.co.il/finance/news/article/843504",
+   "kind": "press"
+  },
+  {
+   "id": "src4",
+   "label": "ביזפורטל, 2022",
+   "url": "https://www.bizportal.co.il/BizTech/news/article/801365",
+   "kind": "press"
+  },
+  {
+   "id": "src5",
+   "label": "TV Technology",
+   "url": "https://tvtechnology.com/news/deepdub-launches-deepdub-go",
+   "kind": "press"
+  },
+  {
+   "id": "src6",
+   "label": "הודעה לעיתונות, 2026",
+   "url": "https://www.bolsamania.com/nota-de-prensa/mercados/deepdub-introduces-the-worlds-first-agentic-dubbing-co-worker--22301138.html",
+   "kind": "press"
+  },
+  {
+   "id": "src7",
+   "label": "VentureBeat, 2022",
+   "url": "https://venturebeat.com/ai/deepdub-closes-fresh-financing-round-for-ai-that-dubs-movies-shows-and-games",
+   "kind": "press"
+  },
+  {
+   "id": "src8",
+   "label": "Slator, 2022",
+   "url": "https://slator.com/machine-dubbing-startup-deepdub-raises-usd-20m/",
+   "kind": "press"
+  },
+  {
+   "id": "src9",
+   "label": "Insight Partners, 2022",
+   "url": "https://www.insightpartners.com/ideas/deepdub-raises-20-million-in-series-a-funding-led-by-insight-partners-to-bring-ai-based-dubbing-global/",
+   "kind": "organisation"
+  },
+  {
+   "id": "src10",
+   "label": "TV Technology",
+   "url": "https://www.tvtechnology.com/news/israels-reshet-13-deploys-deepdubs-ai-based-deepdub-go-platform",
+   "kind": "press"
+  },
+  {
+   "id": "src11",
+   "label": "Ynetnews",
+   "url": "https://www.ynetnews.com/business/article/symdp4bclg",
+   "kind": "press"
+  },
+  {
+   "id": "src12",
+   "label": "Calcalist / CTech, 2022",
+   "url": "https://www.calcalistech.com/ctech/articles/0,7340,L-3929183,00.html",
+   "kind": "press"
+  }
+ ],
+ "media": [
+  {
+   "id": "m1",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=CDWWJcFQnBQ",
+   "youtube_id": "CDWWJcFQnBQ",
+   "source_page": "https://www.youtube.com/watch?v=CDWWJcFQnBQ",
+   "source_name": "YouTube",
+   "credit": "Slator",
+   "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "ראיון בפודקאסט SlatorPod עם אופיר קרקובסקי, מייסד ומנכ\"ל דיפדאב, על פלטפורמת הדיבוב בבינה מלאכותית.",
+   "illustrates": [
+    "c3"
+   ]
+  },
+  {
+   "id": "m2",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=KZxR_YSNG94",
+   "youtube_id": "KZxR_YSNG94",
+   "source_page": "https://www.youtube.com/watch?v=KZxR_YSNG94",
+   "source_name": "YouTube",
+   "credit": "AWS Partner Network",
+   "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "ראיון של AWS Partner Network עם עוז קרקובסקי, מנהל פיתוח עסקי בדיפדאב, על לוקליזציה ודיבוב מבוססי בינה מלאכותית.",
+   "illustrates": [
+    "c3"
+   ],
+   "spoken": "en",
+   "audio_tracks": [
+    "en",
+    "uk",
+    "bn",
+    "fr",
+    "id",
+    "he",
+    "ja",
+    "ml",
+    "pl",
+    "de",
+    "es",
+    "hi",
+    "it",
+    "ko",
+    "nl",
+    "pt",
+    "ru"
+   ]
+  },
+  {
+   "id": "m3",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=JQpBYDS2BIw",
+   "youtube_id": "JQpBYDS2BIw",
+   "source_page": "https://www.youtube.com/watch?v=JQpBYDS2BIw",
+   "source_name": "YouTube",
+   "credit": "Deepdub",
+   "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "טריילר של הסרט Every Time I Die בגרסה הספרדית, שדובבה בטכנולוגיית דיפדאב (סרט של הארגון על עצמו).",
+   "illustrates": [
+    "c32"
+   ],
+   "spoken": "es",
+   "audio_tracks": [
+    "es"
+   ]
+  },
+  {
+   "id": "m4",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=e9Fb2dve9W8",
+   "youtube_id": "e9Fb2dve9W8",
+   "source_page": "https://www.youtube.com/watch?v=e9Fb2dve9W8",
+   "source_name": "YouTube",
+   "credit": "Deepdub",
+   "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "סרט של הארגון על עצמו: הצגת Deepdub GO, פלטפורמת הלוקליזציה החדשה של דיפדאב למקצוענים.",
+   "illustrates": [
+    "c60"
+   ],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m5",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=wsWbf2o6mWY",
+   "youtube_id": "wsWbf2o6mWY",
+   "source_page": "https://www.youtube.com/watch?v=wsWbf2o6mWY",
+   "source_name": "YouTube",
+   "credit": "Deepdub",
+   "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "סרט של הארגון על עצמו: מאיה, במאית דיבוב בדיפדאב, מציגה את \"עמית הדיבוב\" מבוסס סוכן הבינה המלאכותית.",
+   "illustrates": [
+    "c73"
+   ],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m6",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dubbing%20films%20in%20Europe.png?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Dubbing_films_in_Europe.png",
+   "source_name": "Wikimedia Commons",
+   "credit": "Häsk (talk).",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "מפת אירופה לפי שיטות הדיבוב והכתוביות בכל מדינה",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "26 April 2",
+   "width": 1105,
+   "height": 975,
+   "role": "related"
+  },
+  {
+   "id": "m8",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Adlershof%20Am%20Studio.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Adlershof_Am_Studio.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Fridolin freudenfett (Peter Kuley)",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "מבנה אולפן הדיבוב TV+Synchron בברלין-אדלרסהוף",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "2012-03-17",
+   "width": 3264,
+   "height": 2448,
+   "role": "related"
+  },
+  {
+   "id": "m9",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cabin%20dubbing.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Cabin_dubbing.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "arceus555",
+   "licence": "CC BY-SA 2.0",
+   "hosting": "hotlink",
+   "caption": "חדר בקרה בולט עם חלון זכוכית לתא ההקלטה באולפן דיבוב, והמסך מציג סצנת אנימציה",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "date": "2010-09-06",
+   "width": 700,
+   "height": 469,
+   "role": "related"
+  },
+  {
+   "id": "m10",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cabina%20de%20doblaje.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Cabina_de_doblaje.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "laap mx",
+   "licence": "CC BY 2.0",
+   "hosting": "hotlink",
+   "caption": "שני אנשים מדבבים בתא זכוכית מול מסך טלוויזיה, בין קהל בתערוכה",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/2.0",
+   "date": "2004-07-17",
+   "width": 1200,
+   "height": 800,
+   "role": "related"
+  },
+  {
+   "id": "m11",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/David%20Santana%20doblaje.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:David_Santana_doblaje.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "King7717",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "שחקן קול מחייך מול מיקרופון באולפן הקלטה",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2019-07-10",
+   "width": 3840,
+   "height": 5760,
+   "role": "related"
+  },
+  {
+   "id": "m12",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eric%20Dean%20Hordes%20und%20Helmut%20Krauss.png?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Eric_Dean_Hordes_und_Helmut_Krauss.png",
+   "source_name": "Wikimedia Commons",
+   "credit": "Chakotay23",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "הבמאי אריק דין הורדס עם השחקן הלמוט קראוס בעבודת סינכרון, 2018",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2018-06-21",
+   "width": 2950,
+   "height": 1890,
+   "role": "related"
+  },
+  {
+   "id": "m14",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/George%20Liratsis.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:George_Liratsis.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Hordes",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "שחקן קול עם אוזניות ומיקרופון בהקלטת סינכרון באולפן",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2019-02-01",
+   "width": 2483,
+   "height": 3310,
+   "role": "related"
+  },
+  {
+   "id": "m15",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ill%C3%A9s%20Horv%C3%A1th%20-%20dubbing%20-%20by%20%C3%81d%C3%A1m%20Jasinka.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Ill%C3%A9s_Horv%C3%A1th_-_dubbing_-_by_%C3%81d%C3%A1m_Jasinka.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Jasinka Ádám/MűsorVízió",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "שחקן מדבב מול מיקרופון ומסך בבודקה ההקלטה באולפן, 2017",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2017-06-14",
+   "width": 655,
+   "height": 368,
+   "role": "related"
+  },
+  {
+   "id": "m16",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Karlo%20Hackenberger.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Karlo_Hackenberger.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Eric Hordes",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "שחקן קול מבעד לזכוכית התא, עם אוזניות ומיקרופון",
+   "illustrates": [],
+   "date": "2009-11-30",
+   "width": 1920,
+   "height": 1080,
+   "role": "related"
+  },
+  {
+   "id": "m17",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Deutscher%20Preis%20f%C3%BCr%20Synchron.JPG?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Deutscher_Preis_f%C3%BCr_Synchron.JPG",
+   "source_name": "Wikimedia Commons",
+   "credit": "Helen Krüger",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "הפרס הגרמני לדיבוב (Deutscher Synchronpreis)",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "2011-08-28",
+   "width": 2191,
+   "height": 2779,
+   "role": "related"
+  },
+  {
+   "id": "m18",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Deutscher%20Synchronpreis%202021%20%28Ehrenpreis%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Deutscher_Synchronpreis_2021_%28Ehrenpreis%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "IvaBerlin",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "פסלון פרס הכבוד של הפרס הגרמני לדיבוב, שהוענק ב-15 בספטמבר 2021",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "2021-10-06",
+   "width": 2448,
+   "height": 3264,
+   "role": "related"
+  },
+  {
+   "id": "m19",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lithuanian%20dubbing.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Lithuanian_dubbing.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Adas Viliušis",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "סטודנט מדבב מול מיקרופון באוניברסיטת וילנה",
+   "illustrates": [],
+   "date": "2018-12-21",
+   "width": 960,
+   "height": 540,
+   "role": "related"
+  },
+  {
+   "id": "m20",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Marco%20Clini.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Marco_Clini.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Amelia Anna Rita De Cristofaro",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "מרקו אנטונינו קליני מדבב באולפן, עם אוזניות ומיקרופון",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2015-08-02",
+   "width": 2053,
+   "height": 2120,
+   "role": "related"
+  },
+  {
+   "id": "m21",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mateus%20Dublagem.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Mateus_Dublagem.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Mantoraia",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "מטאוס מדבב בתא הקלטה, מול מיקרופון ועמדת טקסט",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2017-12-05",
+   "width": 612,
+   "height": 612,
+   "role": "related"
+  },
+  {
+   "id": "m22",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Peter%20de%20Kroon%20Voice-over.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Peter_de_Kroon_Voice-over.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Zingezang",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "שחקן קול מדבב סצנת אנימציה של רכבות מול מסך ומיקרופון",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2012-04-28",
+   "width": 3264,
+   "height": 2448,
+   "role": "related"
+  },
+  {
+   "id": "m24",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/TV%2BSynchron%2C%20Berlin-Adlershof%2C%202026-01-19.jpeg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:TV%2BSynchron%2C_Berlin-Adlershof%2C_2026-01-19.jpeg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Nylki",
+   "licence": "CC0",
+   "hosting": "hotlink",
+   "caption": "חזית אולפן הדיבוב TV+Synchron בברלין-אדלרסהוף",
+   "illustrates": [],
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "date": "19 January",
+   "width": 4032,
+   "height": 3024,
+   "role": "related"
+  },
+  {
+   "id": "m26",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Uwe%20Karpa.JPG?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Uwe_Karpa.JPG",
+   "source_name": "Wikimedia Commons",
+   "credit": "Eric Hordes",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "אובה קרפה מדבב באולפן, מול מיקרופון",
+   "illustrates": [],
+   "date": "2009-12-02",
+   "width": 3648,
+   "height": 2736,
+   "role": "related"
+  },
+  {
+   "id": "m27",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/V%C3%B6lz.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:V%C3%B6lz.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Eric Hordes",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "וולפגנג וולץ מדבב את הסרט \"המייסד\", ברקע הלמוט קראוס",
+   "illustrates": [],
+   "date": "2010-06-29",
+   "width": 3264,
+   "height": 1840,
+   "role": "related"
+  },
+  {
+   "id": "m28",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/%D7%90%D7%95%D7%9C%D7%A4%D7%9F%20%D7%94%D7%94%D7%A7%D7%9C%D7%98%D7%95%D7%AA%20%D7%A9%D7%9C%20%D7%94%D7%91%D7%9E%D7%90%D7%99%D7%9D%20%D7%95%D7%94%D7%9E%D7%A4%D7%99%D7%A7%D7%99%D7%9D%202017.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:%D7%90%D7%95%D7%9C%D7%A4%D7%9F_%D7%94%D7%94%D7%A7%D7%9C%D7%98%D7%95%D7%AA_%D7%A9%D7%9C_%D7%94%D7%91%D7%9E%D7%90%D7%99%D7%9D_%D7%95%D7%94%D7%9E%D7%A4%D7%99%D7%A7%D7%99%D7%9D_2017.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Tamirsofer",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "חדר הבקרה של הבמאים והמפיקים באולפן הקלטות, 2017",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2018-11-13",
+   "width": 4608,
+   "height": 3456,
+   "role": "related"
+  },
+  {
+   "id": "m29",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/%D7%97%D7%93%D7%A8%20%D7%94%D7%A7%D7%9C%D7%98%D7%95%D7%AA%20%D7%A9%D7%9C%20%D7%94%D7%9E%D7%93%D7%91%D7%91%D7%99%D7%9D%202017.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:%D7%97%D7%93%D7%A8_%D7%94%D7%A7%D7%9C%D7%98%D7%95%D7%AA_%D7%A9%D7%9C_%D7%94%D7%9E%D7%93%D7%91%D7%91%D7%99%D7%9D_2017.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Tamirsofer",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "תא ההקלטה של המדבבים עם מיקרופון, מסך ושולחן, 2017",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2018-11-13",
+   "width": 4608,
+   "height": 3456,
+   "role": "related"
+  },
+  {
+   "id": "m30",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dublav%C3%ADdeo%2C%20S%C3%A3o%20Paulo.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Dublav%C3%ADdeo%2C_S%C3%A3o_Paulo.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "EuLan (Eu - Lan)",
+   "licence": "CC BY 3.0",
+   "hosting": "hotlink",
+   "caption": "שולחן מיקס גדול באולפן הקלטות",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/3.0",
+   "date": "2017-06-09",
+   "width": 1671,
+   "height": 551,
+   "role": "related"
+  },
+  {
+   "id": "m31",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lankwitz%20BSG.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Lankwitz_BSG.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Zona",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "מבנה הראשי של Berliner Synchron בברלין-לנקוויץ",
+   "illustrates": [],
+   "width": 2624,
+   "height": 1749,
+   "role": "related"
+  }
+ ],
+ "check": {
+  "passed": true,
+  "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
+  "checked_at": "2026-11-14T09:28:05Z",
+  "counts": {
+   "confirmed": 88,
+   "not_confirmed": 0,
+   "deleted_sentences": 3,
+   "first_round_confirmed": 88,
+   "first_round_contradicted": 2,
+   "first_round_unverifiable": 2
+  },
+  "note": "unverifiable sentences were deleted, contradicted ones fixed from the source and checked again"
+ },
+ "meta": {
+  "run": "deepdub-ai-dubbing-languages",
+  "pipeline": "scripts/museum/museum_line.py",
+  "models": {
+   "research": "sonnet-5-5",
+   "extract": "sonnet-5-5",
+   "media": "sonnet-5-5",
+   "write": "opus-5-5 medium",
+   "check": "opus-5-5 medium",
+   "fix": "opus-5-5 medium"
+  },
+  "source_quality": {
+   "sources": 12,
+   "wikipedia": 0,
+   "strong": 11,
+   "ok": true,
+   "warnings": []
+  }
+ }
+}

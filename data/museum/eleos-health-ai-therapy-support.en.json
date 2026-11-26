@@ -1,0 +1,1494 @@
+{
+ "schema": "maasei-museum/1",
+ "slug": "eleos-health-ai-therapy-support",
+ "deed": "חברת אלאוס מפעילה בינה מלאכותית שמפחיתה דיכאון וחרדה בטיפול נפשי",
+ "canonical_type": "team-invention",
+ "year": "2020",
+ "title": "Israel's Eleos built AI for therapists, and in the trial depression and anxiety fell more",
+ "trailer": [
+  {
+   "text": "Eleos Health is an Israeli company founded in 2020 by Alon Joffe, Alon Rabinovich and Dror Zaide, and it uses machine learning to improve mental health therapy and talk therapy.",
+   "claims": [
+    "c9",
+    "c8"
+   ]
+  },
+  {
+   "text": "According to the company's executives, therapists spend on average one full day a week on documentation.",
+   "claims": [
+    "c4"
+   ]
+  },
+  {
+   "text": "Its platform transcribes and summarizes the therapy session and prepares a draft note, which the therapist can submit or edit.",
+   "claims": [
+    "c17",
+    "c19"
+   ]
+  },
+  {
+   "text": "In a trial at the Ozark Center in Missouri, depression and anxiety fell by 34% and 29% in the group that worked with the platform, compared with 20% and 8% in usual treatment.",
+   "claims": [
+    "c22",
+    "c25"
+   ]
+  },
+  {
+   "text": "According to Joffe, the product is installed today at about 130 organizations that treat tens of thousands of patients.",
+   "claims": [
+    "c53"
+   ]
+  }
+ ],
+ "hero_media": [
+  "m7",
+  "m15"
+ ],
+ "glance": [
+  {
+   "label": "Founders",
+   "value": "Alon Joffe, Alon Rabinovich, Dror Zaide",
+   "claims": [
+    "c9"
+   ]
+  },
+  {
+   "label": "Since",
+   "value": "2020, in the Zell program at Reichman University",
+   "claims": [
+    "c13"
+   ]
+  },
+  {
+   "label": "What it is",
+   "value": "AI that transcribes, summarizes and documents therapy sessions",
+   "claims": [
+    "c17",
+    "c19"
+   ]
+  },
+  {
+   "label": "In the trial",
+   "value": "A 34% reduction in depression and a 29% reduction in anxiety",
+   "claims": [
+    "c25"
+   ]
+  },
+  {
+   "label": "Scale",
+   "value": "About 130 customers, tens of thousands of patients, according to Joffe",
+   "claims": [
+    "c53"
+   ]
+  },
+  {
+   "label": "Funding",
+   "value": "More than $120 million",
+   "claims": [
+    "c52"
+   ]
+  }
+ ],
+ "stations": [
+  {
+   "id": "s1",
+   "title": "Before: therapists facing a pile of paperwork",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "According to a study published in 2023, mental health centers are inundated by referrals and by increasing distress in the communities they serve.",
+      "claims": [
+       "c2"
+      ]
+     },
+     {
+      "text": "According to the paper, community clinics face longer waitlists of patients with more serious mental health difficulties.",
+      "claims": [
+       "c71"
+      ]
+     },
+     {
+      "text": "Their therapists carry an unprecedented documentation and administrative burden.",
+      "claims": [
+       "c3"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "Eleos executives said that therapists describe documentation as the bane of their existence.",
+      "claims": [
+       "c4"
+      ]
+     },
+     {
+      "text": "According to the Menlo Ventures fund, over 90% of mental health care providers report symptoms of burnout.",
+      "claims": [
+       "c5"
+      ]
+     },
+     {
+      "text": "According to the fund, the workforce has not kept up with the growth in demand.",
+      "claims": [
+       "c6"
+      ]
+     },
+     {
+      "text": "In the U.S., the number of mental health sessions rose by 20%, to 330 million a year, according to the fund.",
+      "claims": [
+       "c65"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "Alon Rabinovich said that when the company started working, COVID broke out, and a huge wave of demand for mental health services arrived.",
+      "claims": [
+       "c7"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m5"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s2",
+   "title": "The founders: from the army to the therapy room",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "Alon Joffe, Alon Rabinovich and Dror Zaide founded the company in 2020, while participating in the Zell Entrepreneurship Program at Reichman University.",
+      "claims": [
+       "c13"
+      ]
+     },
+     {
+      "text": "According to Menlo Ventures, the founders served in the Israeli military and saw firsthand the importance of treatment for colleagues with PTSD.",
+      "claims": [
+       "c12"
+      ]
+     },
+     {
+      "text": "According to Rabinovich, Alon and Dror saw firsthand their soldiers dealing with mental health conditions, Alon in Unit 669 and Dror as a drone operator.",
+      "claims": [
+       "c11"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "Joffe, the CEO, said the company was founded after the founders personally witnessed the immense administrative barriers facing clinicians.",
+      "claims": [
+       "c14"
+      ]
+     },
+     {
+      "text": "The founders were later joined by Dr. Shiri Sade Sharvit, a clinical psychologist.",
+      "claims": [
+       "c10"
+      ]
+     },
+     {
+      "text": "Sharvit served as Chief Clinical Officer and headed a team of seven clinical psychologists.",
+      "claims": [
+       "c61"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m2",
+    "m6",
+    "m8",
+    "m10"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s3",
+   "title": "How it works",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "Eleos is an Israeli startup that uses machine learning to improve mental health and talk therapy.",
+      "claims": [
+       "c8"
+      ]
+     },
+     {
+      "text": "According to Axios, the system analyzes the conversation between therapist and patient, with the consent of both parties.",
+      "claims": [
+       "c77"
+      ]
+     },
+     {
+      "text": "The platform transcribes and summarizes the session, and gives the therapist feedback on their use of evidence-based practices.",
+      "claims": [
+       "c17"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "Insights from the session are summarized into a draft note, and the therapist can submit it or edit it.",
+      "claims": [
+       "c19"
+      ]
+     },
+     {
+      "text": "According to Menlo Ventures, the software learns each therapist's style over time.",
+      "claims": [
+       "c78"
+      ]
+     },
+     {
+      "text": "According to Rabinovich, this saves time and reduces burnout.",
+      "claims": [
+       "c16"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "Rabinovich said the company is not here to replace therapists, but to give them aids and signals.",
+      "claims": [
+       "c15",
+       "c66"
+      ]
+     },
+     {
+      "text": "According to Rabinovich, access to the data is protected by strict passwords and two-factor authentication.",
+      "claims": [
+       "c68"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m3"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s4",
+   "title": "The trial in Missouri",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "The trial was conducted at the adult outpatient program at the Ozark Center in Missouri, United States.",
+      "claims": [
+       "c22"
+      ]
+     },
+     {
+      "text": "Its participants were 47 adults referred for cognitive behavioral therapy because of depression or anxiety.",
+      "claims": [
+       "c21"
+      ]
+     },
+     {
+      "text": "23 of them were in the AI group and 24 in usual treatment.",
+      "claims": [
+       "c23"
+      ]
+     },
+     {
+      "text": "Six therapists worked with the platform and eight worked as usual.",
+      "claims": [
+       "c39"
+      ]
+     },
+     {
+      "text": "Therapists in the Eleos group received a 45-minute training.",
+      "claims": [
+       "c20"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "Participants in the AI group attended on average 5.24 sessions, compared with 3.14 in usual treatment.",
+      "claims": [
+       "c24"
+      ]
+     },
+     {
+      "text": "Their depression fell by 34% and their anxiety by 29%, compared with 20% and 8% in usual treatment.",
+      "claims": [
+       "c25"
+      ]
+     },
+     {
+      "text": "The effect size for depression was 0.82, compared with 0.34 in usual treatment.",
+      "claims": [
+       "c74"
+      ]
+     },
+     {
+      "text": "For anxiety it was 0.78, compared with 0.14.",
+      "claims": [
+       "c75"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "Therapists who worked with the platform submitted their notes on average 55 hours earlier.",
+      "claims": [
+       "c26"
+      ]
+     },
+     {
+      "text": "One of them wrote that the system gave them more time to work with the client, instead of sitting at the computer documenting.",
+      "claims": [
+       "c30"
+      ]
+     },
+     {
+      "text": "None of the therapists or clients withdrew from the study.",
+      "claims": [
+       "c29"
+      ]
+     },
+     {
+      "text": "The researchers wrote that this is the first controlled clinical trial to report the efficacy of an artificial intelligence platform for improving behavioral therapy.",
+      "claims": [
+       "c35"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m1"
+   ],
+   "disagreements": [
+    "d1",
+    "d2"
+   ]
+  },
+  {
+   "id": "s5",
+   "title": "From the trial to the clinics",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "Eleos has deployed its solution with over a dozen leading provider organizations, among them Solvista Health, Achieve, Yeshiva University and ReachLink.",
+      "claims": [
+       "c60"
+      ]
+     },
+     {
+      "text": "According to Axios, the company works only with community health providers and federal health centers, which serve areas with inadequate medical services.",
+      "claims": [
+       "c62"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to the report, in 2023 Eleos analyzed more than 3 million minutes of therapy sessions and saved more than 300 days of documentation.",
+      "claims": [
+       "c46"
+      ]
+     },
+     {
+      "text": "According to Menlo Ventures, documentation times dropped by more than 50%.",
+      "claims": [
+       "c44"
+      ]
+     },
+     {
+      "text": "According to the fund, providers describe Eleos as “life-changing” and say they would be devastated if it were taken away from them.",
+      "claims": [
+       "c45"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to Joffe, the product is installed by about 130 customers, organizations that treat tens of thousands of patients.",
+      "claims": [
+       "c53"
+      ]
+     },
+     {
+      "text": "With the launch of Eleos Compliance, the tool flags potential documentation errors before they lead to fines.",
+      "claims": [
+       "c55"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to Eleos Health's announcement of its Series B funding round, in 2023 the platform expanded to serve 23 states in the United States.",
+      "claims": [
+       "c81"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m4"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s6",
+   "title": "The money and the people",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "In 2021 the company raised $6 million in a Seed round, led by the Israeli fund aMoon.",
+      "claims": [
+       "c59"
+      ]
+     },
+     {
+      "text": "In 2023 it announced a $40 million Series B round.",
+      "claims": [
+       "c47"
+      ]
+     },
+     {
+      "text": "The round was led by Menlo Ventures, with participation from F-Prime Capital, Eight Roads, Arkin Digital Health, SamsungNEXT and ION.",
+      "claims": [
+       "c48"
+      ]
+     },
+     {
+      "text": "The round brought the total amount raised to $68 million.",
+      "claims": [
+       "c49"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "In January 2025 a $60 million Series C round was completed, led by Greenfield Partners.",
+      "claims": [
+       "c51"
+      ]
+     },
+     {
+      "text": "The round brought the total amount raised to over $120 million.",
+      "claims": [
+       "c52"
+      ]
+     },
+     {
+      "text": "That month the company had 160 employees, about half of them in Israel.",
+      "claims": [
+       "c54"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "Dr. David Shulkin, former U.S. Secretary of Veterans Affairs, is a member of the company's board.",
+      "claims": [
+       "c80"
+      ]
+     },
+     {
+      "text": "Rabinovich described a future plan for a predictive suicidal risk score.",
+      "claims": [
+       "c67"
+      ]
+     }
+    ]
+   ],
+   "media": [],
+   "disagreements": []
+  },
+  {
+   "id": "s7",
+   "title": "What else to know about the study",
+   "kind": "hard",
+   "paragraphs": [
+    [
+     {
+      "text": "The researchers themselves wrote that the small sample size and the length of the study are important limitations of the trial.",
+      "claims": [
+       "c31"
+      ]
+     },
+     {
+      "text": "Most participants' symptoms were mild to moderate at the start of treatment.",
+      "claims": [
+       "c32"
+      ]
+     },
+     {
+      "text": "94% of the participants were White and 6% were Hispanic or Latino.",
+      "claims": [
+       "c73"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "Randomization was done at the therapist level, after consent was given.",
+      "claims": [
+       "c40"
+      ]
+     },
+     {
+      "text": "Therapists could choose which group to join.",
+      "claims": [
+       "c41"
+      ]
+     },
+     {
+      "text": "After two months, no difference was found between the groups in treatment satisfaction.",
+      "claims": [
+       "c27"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "Two of the researchers are employees of Eleos Health, which provided the platform.",
+      "claims": [
+       "c33"
+      ]
+     },
+     {
+      "text": "The study protocol was approved by the Ozark Center's Research Committee, the Freeman Health System Institutional Research Board and the State of Missouri Department of Mental Health.",
+      "claims": [
+       "c43"
+      ]
+     }
+    ]
+   ],
+   "media": [],
+   "disagreements": []
+  }
+ ],
+ "disagreements": [
+  {
+   "id": "d1",
+   "question": "How many of those invited agreed to participate?",
+   "versions": [
+    {
+     "says": "According to the paper's Results section, 72 adults were invited and 47 of them (65%) agreed",
+     "claims": [
+      "c37"
+     ]
+    },
+    {
+     "says": "According to the article's abstract, 72 were identified and 47 of them (67%) agreed",
+     "claims": [
+      "c38"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d2",
+   "question": "How much higher was treatment attendance?",
+   "versions": [
+    {
+     "says": "According to the study data, 67% more sessions on average (5.24 versus 3.14)",
+     "claims": [
+      "c24"
+     ]
+    },
+    {
+     "says": "According to the researchers' wording, attendance 2 times higher and improvement in symptoms 3 to 4 times better",
+     "claims": [
+      "c36"
+     ]
+    }
+   ]
+  }
+ ],
+ "unknowns": [
+  {
+   "text": "Dror Zaide, a co-founder of Eleos Health, serves as the company's Chief Operating Officer (COO).",
+   "claims": [
+    "c9",
+    "c13"
+   ]
+  },
+  {
+   "text": "According to an article from November 8, 2023, the company employed at that time approximately 95 people worldwide, a 56% increase compared with the previous year.",
+   "claims": [
+    "c56"
+   ]
+  },
+  {
+   "text": "It is not known whether the predictive suicidal risk score was actually developed",
+   "claims": [
+    "c67"
+   ]
+  }
+ ],
+ "claims": [
+  {
+   "id": "c9",
+   "text": "Eleos Health היא חברה ישראלית שנוסדה ב-2020 על ידי אלון יפה, אלון רבינוביץ' ודרור זייד.",
+   "source": "src1",
+   "quote": "Eleos Health is an Israeli company founded in 2020 by Alon Joffe, Alon Rabinovich, and Dror Zaide",
+   "status": "confirmed",
+   "locator": "שורה 66"
+  },
+  {
+   "id": "c4",
+   "text": "מנהלי Eleos אמרו שמטפלים מתארים את התיעוד כמכה הגדולה בחייהם, ושהם מבלים בו בממוצע יום שלם בשבוע.",
+   "source": "src2",
+   "quote": "Clinicians say that documentation is the bane of their existence. They usually spend on average one day a week only on documentation.",
+   "status": "confirmed",
+   "locator": "שורה 30"
+  },
+  {
+   "id": "c17",
+   "text": "לפי המחקר, הפלטפורמה מסכמת ומתמללת את מפגש הטיפול ומספקת למטפלים משוב על שימוש בפרקטיקות מבוססות ראיות.",
+   "source": "src3",
+   "quote": "This AI platform summarizes and transcribes the therapy session, provides feedback to therapists on the use of evidence-based practices",
+   "status": "confirmed",
+   "locator": "שורה 24"
+  },
+  {
+   "id": "c19",
+   "text": "לפי המחקר, תובנות ואינדיקטורים מהפגישה ומטיפול מבוסס מדידה מסוכמים לטיוטת רשומה, שהמטפל יכול להגיש או לערוך.",
+   "source": "src3",
+   "quote": "Insights and key indicators from the session data and measurement-based care are summarized into a progress note draft, which the therapist can then submit or edit as needed",
+   "status": "confirmed",
+   "locator": "שורה 108"
+  },
+  {
+   "id": "c22",
+   "text": "המחקר נערך בתוכנית החוץ-אשפוזית למבוגרים במרכז Ozark שבמיזורי, ארצות הברית.",
+   "source": "src3",
+   "quote": "This study was conducted at the adult outpatient program at the Ozark Center, Missouri, United States.",
+   "status": "confirmed",
+   "locator": "שורה 105"
+  },
+  {
+   "id": "c25",
+   "text": "הדיכאון והחרדה ירדו ב-34% וב-29% בקבוצת הבינה המלאכותית, לעומת 20% ו-8% בטיפול הרגיל.",
+   "source": "src3",
+   "quote": "Depression and anxiety symptoms were reduced by 34% and 29% in the AI platform group versus 20% and 8% for TAU, respectively",
+   "status": "confirmed",
+   "locator": "שורה 25"
+  },
+  {
+   "id": "c53",
+   "text": "לפי יפה, מוצר החברה מותקן אצל כ-130 לקוחות, ארגונים שמספקים טיפול נפשי לעשרות אלפי מטופלים.",
+   "source": "src4",
+   "quote": "Joffe says the company's product is installed by about 130 customers, who are organizations that provide mental health care to tens of thousands of patients.",
+   "status": "confirmed",
+   "locator": "שורה 46"
+  },
+  {
+   "id": "c13",
+   "text": "החברה נוסדה ב-2020 כשרבינוביץ', אלון יפה ודרור זייד השתתפו בתוכנית זל ליזמות באוניברסיטת רייכמן.",
+   "source": "src2",
+   "quote": "was founded in 2020 when Rabinovich, CEO Alon Joffe, and COO Dror Zaide participated at Reichman University’s (formerly the IDC) Zell Entrepreneurship Program",
+   "status": "confirmed",
+   "locator": "שורה 33"
+  },
+  {
+   "id": "c52",
+   "text": "סבב C הביא את סך הגיוסים של Eleos ליותר מ-120 מיליון דולר.",
+   "source": "src4",
+   "quote": "This round brings the total amount raised by Eleos to over $120 million.",
+   "status": "confirmed",
+   "locator": "שורה 42"
+  },
+  {
+   "id": "c2",
+   "text": "לפי המחקר, מרכזי בריאות הנפש מוצפים בהפניות ובמצוקה מוגברת בקהילות שהם משרתים.",
+   "source": "src3",
+   "quote": "Mental health centers are inundated by referrals and increased distress in the communities they support",
+   "status": "confirmed",
+   "locator": "שורה 30"
+  },
+  {
+   "id": "c71",
+   "text": "לפי המאמר, מרפאות קהילתיות מתמודדות עם רשימות המתנה ארוכות יותר של מטופלים עם קשיים נפשיים חמורים יותר.",
+   "source": "src3",
+   "quote": "With community-based clinics facing longer waitlists of patients presenting with more serious mental health difficulties",
+   "status": "confirmed",
+   "locator": "שורה 196"
+  },
+  {
+   "id": "c3",
+   "text": "לפי המחקר, המטפלים במרכזים קהילתיים ניצבים בפני נטל תיעוד ונטל אדמיניסטרטיבי חסרי תקדים.",
+   "source": "src3",
+   "quote": "the therapists in community-based centers face unprecedented documentation and administrative burden",
+   "status": "confirmed",
+   "locator": "שורה 30"
+  },
+  {
+   "id": "c5",
+   "text": "לפי Menlo Ventures, מעל 90% מספקי הטיפול בבריאות הנפש מדווחים על סימני שחיקה.",
+   "source": "src5",
+   "quote": "Over 90% of behavioral health providers report symptoms of burnout.",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c6",
+   "text": "לפי Menlo Ventures, כוח העבודה בבריאות הנפש לא הדביק את הגידול בביקוש, ולכן הספקים נתונים ללחץ משמעותי.",
+   "source": "src5",
+   "quote": "the size of the mental health workforce has not kept up—putting significant stress on providers as they handle the influx of patients",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c65",
+   "text": "לפי Menlo Ventures, בשנים האחרונות עלה מספר מפגשי בריאות הנפש ב-20% ל-330 מיליון בשנה בארה\"ב.",
+   "source": "src5",
+   "quote": "While the number of mental health sessions has surged 20% to 330 million sessions per year in the U.S. alone",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c7",
+   "text": "אלון רבינוביץ' סיפר שכשהחברה התחילה לעבוד פרצה הקורונה, הביקוש זינק והיה גל ענק של פניות לשירותי בריאות הנפש.",
+   "source": "src2",
+   "quote": "We started working and then COVID hit, and demand skyrocketed, there was a tsunami for mental health services.",
+   "status": "confirmed",
+   "locator": "שורה 46"
+  },
+  {
+   "id": "c12",
+   "text": "לפי Menlo Ventures, המייסדים שירתו בצבא הישראלי וראו מקרוב את חשיבות הטיפול בעמיתים עם פוסט-טראומה.",
+   "source": "src5",
+   "quote": "Having previously served in the Israeli military, they saw firsthand the importance of treatment for their colleagues with PTSD",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c11",
+   "text": "לפי רבינוביץ', אלון ודרור חוו מקרוב חיילים שלהם שמתמודדים עם בעיות נפשיות, אלון ביחידה 669 ודרור כמפעיל רחפן.",
+   "source": "src2",
+   "quote": "Both Alon and Dror have experienced firsthand their soldiers dealing with mental health conditions, Alon in the IDF’s unit 669, the combat search and rescue unit, and Dror as a drone operator.",
+   "status": "confirmed",
+   "locator": "שורה 34"
+  },
+  {
+   "id": "c14",
+   "text": "אלון יפה, המנכ\"ל, אמר ש-Eleos הוקמה לאחר שהמייסדים ראו מקרוב את החסמים האדמיניסטרטיביים העצומים העומדים בפני מטפלים.",
+   "source": "src1",
+   "quote": "We started Eleos after personally witnessing the immense administrative barriers facing clinicians",
+   "status": "confirmed",
+   "locator": "שורה 71"
+  },
+  {
+   "id": "c10",
+   "text": "לייסדים הצטרפה מאוחר יותר ד\"ר שירי שדה שרביט, פסיכולוגית קלינית.",
+   "source": "src1",
+   "quote": "who were later joined by Dr. Shiri Sade Sharvit, a clinical psychologist",
+   "status": "confirmed",
+   "locator": "שורה 66"
+  },
+  {
+   "id": "c61",
+   "text": "הפסיכולוגית שירי שרביט כיהנה כקצינה קלינית ראשית וניהלה צוות של שבעה פסיכולוגים קליניים.",
+   "source": "src2",
+   "quote": "to serve as the company’s Chief Clinical Officer heading a team of seven, in-house, clinical psychologists",
+   "status": "confirmed",
+   "locator": "שורה 38"
+  },
+  {
+   "id": "c8",
+   "text": "Eleos היא סטארטאפ ישראלי שמשתמש בלמידת מכונה כדי לשפר בריאות נפש וטיפול בשיחה.",
+   "source": "src2",
+   "quote": "an Israeli startup that is looking to improve mental health and talk therapy by using machine learning",
+   "status": "confirmed",
+   "locator": "שורה 25"
+  },
+  {
+   "id": "c77",
+   "text": "לפי Axios, Eleos מנתחת שיחות בין ספקים למטופלים באמצעות בינה מלאכותית, בהסכמת שני הצדדים.",
+   "source": "src6",
+   "quote": "Boston-based Eleos analyzes conversations between behavioral health providers and patients using AI, with both parties' consent.",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c78",
+   "text": "לפי Menlo Ventures, המשתמשים בודקים ועורכים את התיעוד ש-Eleos מייצרת, והתוכנה לומדת עם הזמן את סגנון הספק.",
+   "source": "src5",
+   "quote": "Users review and edit the documentation that Eleos generates, which, in turn, allows the software to learn more about each provider’s style and preferences over time.",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c16",
+   "text": "לפי רבינוביץ', המערכת מנתחת את נתוני הפגישה ועוזרת למטפלים להיות יעילים יותר באמצעות יצירה אוטומטית של רשומות קליניות, חיסכון בזמן והפחתת שחיקה.",
+   "source": "src2",
+   "quote": "We analyze the data of the session and we help clinicians to be more efficient by auto-generating clinical notes, saving them time, and reducing burnout.",
+   "status": "confirmed",
+   "locator": "שורה 26"
+  },
+  {
+   "id": "c15",
+   "text": "רבינוביץ' אמר שהחברה לא באה להחליף מטפלים אלא להעצים אותם בבינה מלאכותית ממוקדת אדם.",
+   "source": "src2",
+   "quote": "We are not here to replace therapists, we are here to empower them with human-centered AI.",
+   "status": "confirmed",
+   "locator": "שורה 25"
+  },
+  {
+   "id": "c66",
+   "text": "רבינוביץ' אמר שאין כוונה להחליף אדם בלולאה, אלא לספק למטפלים כלים ואותות.",
+   "source": "src2",
+   "quote": "We will not replace a human in the loop. This is very important to say, we are just giving them aids and signals that they might want to take a look into",
+   "status": "confirmed",
+   "locator": "שורה 49"
+  },
+  {
+   "id": "c68",
+   "text": "לפי רבינוביץ', הגישה לנתונים מוגנת בסיסמאות מחמירות ובאימות דו-שלבי.",
+   "source": "src2",
+   "quote": "All the passwords are very strict and everything is accessed through two-factor authentication.",
+   "status": "confirmed",
+   "locator": "שורה 41"
+  },
+  {
+   "id": "c21",
+   "text": "המשתתפים במחקר היו 47 מבוגרים שהופנו לטיפול קוגניטיבי-התנהגותי אישי חוץ-אשפוזי עקב אבחנה עיקרית של הפרעת דיכאון או חרדה.",
+   "source": "src3",
+   "quote": "Participants were 47 adults referred for outpatient, individual cognitive behavioral therapy for a main diagnosis of a depressive or anxiety disorder.",
+   "status": "confirmed",
+   "locator": "שורה 24"
+  },
+  {
+   "id": "c23",
+   "text": "23 משתתפים חולקו אקראית לקבוצת פלטפורמת הבינה המלאכותית ו-24 לטיפול הרגיל.",
+   "source": "src3",
+   "quote": "with 23 randomized to the AI platform group, and 24 to TAU",
+   "status": "confirmed",
+   "locator": "שורה 25"
+  },
+  {
+   "id": "c39",
+   "text": "שישה מטפלים השתתפו בקבוצת הבינה המלאכותית ושמונה מטפלים בקבוצת הטיפול הרגיל.",
+   "source": "src3",
+   "quote": "A total of 6 therapists participated in the AI group, and they treated between 1 to 6 clients; 8 therapists provided interventions in the TAU group, treating between 1 to 4 clients.",
+   "status": "confirmed",
+   "locator": "שורה 117"
+  },
+  {
+   "id": "c20",
+   "text": "מטפלי קבוצת Eleos קיבלו הדרכה של 45 דקות על הפלטפורמה.",
+   "source": "src3",
+   "quote": "Therapists in the Eleos group received a 45-minute training on the platform",
+   "status": "confirmed",
+   "locator": "שורה 109"
+  },
+  {
+   "id": "c24",
+   "text": "משתתפי קבוצת הבינה המלאכותית נכחו בממוצע ב-67% יותר מפגשים מקבוצת הטיפול הרגיל (5.24 לעומת 3.14).",
+   "source": "src3",
+   "quote": "Participants in the AI group attended, on average, 67% (mean 5.24, SD 2.31) more sessions compared to those in TAU (mean 3.14, SD 1.99).",
+   "status": "confirmed",
+   "locator": "שורה 25"
+  },
+  {
+   "id": "c74",
+   "text": "גודל האפקט בדיכאון היה גדול בקבוצת הבינה המלאכותית (0.82) וקטן בטיפול הרגיל (0.34).",
+   "source": "src3",
+   "quote": "Depression symptoms were reduced by 34% with Eleos, compared to 20% for TAU, with a large effect size for the AI group (d=0.82) versus a small effect size for the TAU group (d=0.34).",
+   "status": "confirmed",
+   "locator": "שורה 121"
+  },
+  {
+   "id": "c75",
+   "text": "גודל האפקט בחרדה היה 0.78 בקבוצת Eleos לעומת 0.14 בטיפול הרגיל.",
+   "source": "src3",
+   "quote": "Anxiety symptoms were reduced by 29% with Eleos, compared to 8% for TAU, with a larger effect size for Eleos (d=0.78) versus a small effect size for the TAU group (d=0.14).",
+   "status": "confirmed",
+   "locator": "שורה 121"
+  },
+  {
+   "id": "c26",
+   "text": "מטפלים שהשתמשו בפלטפורמה הגישו את רשומות הטיפול בממוצע 55 שעות מוקדם יותר ממטפלי קבוצת הביקורת.",
+   "source": "src3",
+   "quote": "therapists using the AI platform submitted their progress notes, on average, 55 hours earlier than therapists in the TAU group",
+   "status": "confirmed",
+   "locator": "שורה 25"
+  },
+  {
+   "id": "c30",
+   "text": "אחד המטפלים בקבוצת הבינה המלאכותית כתב שהמערכת אפשרה יותר זמן לעבוד עם המטופל במקום להיות מול המחשב ולתעד.",
+   "source": "src3",
+   "quote": "It allowed for more time to engage with the client rather than being on the computer working on documentation.",
+   "status": "confirmed",
+   "locator": "שורה 165"
+  },
+  {
+   "id": "c29",
+   "text": "אף מטפל או מטופל לא פרש מהמחקר.",
+   "source": "src3",
+   "quote": "None of the therapists or clients withdrew from the study.",
+   "status": "confirmed",
+   "locator": "שורה 165"
+  },
+  {
+   "id": "c35",
+   "text": "החוקרים כתבו שזהו הניסוי הקליני המבוקר הראשון שמדווח על היתכנות, קבילות ויעילות של פלטפורמה מבוססת בינה מלאכותית לשיפור טיפול התנהגותי.",
+   "source": "src3",
+   "quote": "This study is the first RCT to report the feasibility, acceptability, and efficacy of an AI-powered platform designed to improve behavioral therapy through data and therapist feedback.",
+   "status": "confirmed",
+   "locator": "שורה 196"
+  },
+  {
+   "id": "c60",
+   "text": "ב-2021 הטמיעה Eleos את הפתרון אצל יותר מtens ארגוני ספקים מובילים, כולל Solvista Health, Achieve, אוניברסיטת ישיבה ו-ReachLink.",
+   "source": "src2",
+   "quote": "Eleos has already deployed its solution with over a dozen leading provider organizations such as Solvista Health, Achieve, Yeshiva University, and ReachLink.",
+   "status": "confirmed",
+   "locator": "שורה 39"
+  },
+  {
+   "id": "c62",
+   "text": "לפי Axios, Eleos עובדת באופן בלעדי עם ספקי בריאות קהילתיים ומרכזי בריאות פדרליים שמשרתים אוכלוסיות ואזורים עם שירותי רפואה לא מספקים.",
+   "source": "src6",
+   "quote": "Eleos works exclusively with community health providers and Federally Qualified Health Centers, which serve medically underserved geographies and populations.",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c46",
+   "text": "לפי הדיווח, ב-2023 Eleos ניתחה יותר מ-3 מיליון דקות של מפגשי טיפול וחסכה יותר מ-300 ימי תיעוד.",
+   "source": "src8",
+   "quote": "The company has analyzed more than 3 million minutes of therapy sessions year-to-date in 2023, saving more than 300 days of documentation time across all providers and organizations.",
+   "status": "confirmed",
+   "locator": "שורה 44"
+  },
+  {
+   "id": "c44",
+   "text": "לפי Menlo Ventures, זמני התיעוד ירדו ביותר מ-50% ושביעות הרצון של הספקים עלתה משמעותית.",
+   "source": "src5",
+   "quote": "With Eleos, documentation times have dropped by more than 50% and provider job satisfaction increased significantly.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c45",
+   "text": "לפי Menlo Ventures, ספקים מתארים את Eleos כ\"משנה חיים\" ואומרים שיהיו הרוסים אם יקחו אותה מהם.",
+   "source": "src5",
+   "quote": "Providers describe Eleos as “life-changing” and say that they’d “be devastated if you took it away.”",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c55",
+   "text": "עם השקת Eleos Compliance, הכלי מסמן שגיאות תיעוד אפשריות לפני שיגרמו לקנסות או להחזרי תשלום.",
+   "source": "src4",
+   "quote": "Eleos Compliance flags potential documentation errors before they can trigger costly fines or payment claw-backs.",
+   "status": "confirmed",
+   "locator": "שורה 47"
+  },
+  {
+   "id": "c59",
+   "text": "ב-2021 הושג גיוס Seed של 6 מיליון דולר בהובלת קרן aMoon הישראלית.",
+   "source": "src2",
+   "quote": "which secured $6 million in its Seed round this past September led by Israel’s largest health-tech fund aMoon",
+   "status": "confirmed",
+   "locator": "שורה 32"
+  },
+  {
+   "id": "c47",
+   "text": "ב-2023 הודיעה Eleos Health, סטארטאפ ישראלי, על גיוס של 40 מיליון דולר בסבב B.",
+   "source": "src1",
+   "quote": "Eleos Health, an Israeli startup that develops automated healthtech solutions, has announced a $40 million Series B funding round.",
+   "status": "confirmed",
+   "locator": "שורה 65"
+  },
+  {
+   "id": "c48",
+   "text": "סבב B בהובלת Menlo Ventures כלל גם את F-Prime Capital, Eight Roads, Arkin Digital Health, SamsungNEXT ו-ION.",
+   "source": "src8",
+   "quote": "completion of a $40 million Series B financing round led by Menlo Ventures, with participation from F-Prime Capital, Eight Roads, Arkin Digital Health, SamsungNEXT and ION",
+   "status": "confirmed",
+   "locator": "שורה 41"
+  },
+  {
+   "id": "c49",
+   "text": "הסבב הביא את סך הגיוסים של Eleos Health ל-68 מיליון דולר.",
+   "source": "src8",
+   "quote": "This round brings the total amount raised by Eleos Health to $68 million.",
+   "status": "confirmed",
+   "locator": "שורה 41"
+  },
+  {
+   "id": "c51",
+   "text": "בינואר 2025 הושלם סבב C של 60 מיליון דולר בהובלת Greenfield Partners.",
+   "source": "src4",
+   "quote": "completion of a $60 million Series C financing round led by Greenfield Partners",
+   "status": "confirmed",
+   "locator": "שורה 42"
+  },
+  {
+   "id": "c54",
+   "text": "בינואר 2025 לחברה היו 160 עובדים, כמחציתם בישראל.",
+   "source": "src4",
+   "quote": "Eleos has 160 employees, about half of whom are in Israel.",
+   "status": "confirmed",
+   "locator": "שורה 46"
+  },
+  {
+   "id": "c80",
+   "text": "ד\"ר דיוויד שולקין, שר ותיקי המלחמה לשעבר וחבר בדירקטוריון Eleos, מאמין שחדשנות טכנולוגית חיונית לקיימות מערכת הבריאות האמריקאית.",
+   "source": "src7",
+   "quote": "Former VA Secretary and current Eleos Board Member Dr. David Shulkin believes smart tech innovation is crucial to the overall sustainability of the U.S. healthcare system",
+   "status": "confirmed",
+   "locator": "שורה 15"
+  },
+  {
+   "id": "c67",
+   "text": "רבינוביץ' תיאר תוכנית עתידית לציון סיכון אובדני חזוי.",
+   "source": "src2",
+   "quote": "One such example is having a suicidal risk score, a predictive score.",
+   "status": "confirmed",
+   "locator": "שורה 48"
+  },
+  {
+   "id": "c31",
+   "text": "החוקרים ציינו שגודל המדגם הקטן ואורך המחקר הם מגבלות חשובות של הניסוי.",
+   "source": "src3",
+   "quote": "The small sample size and the length of the study are important limitations of this trial, particularly compared to other studies involving AI or digital tools.",
+   "status": "confirmed",
+   "locator": "שורה 200"
+  },
+  {
+   "id": "c32",
+   "text": "לפי המחקר, תסמיני הדיכאון והחרדה של המשתתפים היו ברובם קלים עד בינוניים בתחילת הטיפול.",
+   "source": "src3",
+   "quote": "the study participants presented with baseline depression and anxiety symptoms that were mostly mild to moderate in severity",
+   "status": "confirmed",
+   "locator": "שורה 200"
+  },
+  {
+   "id": "c73",
+   "text": "רוב המשתתפים היו לבנים (94%) ו-6% היו היספנים או לטינים.",
+   "source": "src3",
+   "quote": "Most participants were White (44/47, 94%), and 6% (3/47) were Hispanic or Latino.",
+   "status": "confirmed",
+   "locator": "שורה 39"
+  },
+  {
+   "id": "c40",
+   "text": "החלוקה האקראית נעשתה ברמת המטפל, אחרי מתן הסכמה.",
+   "source": "src3",
+   "quote": "were randomized at the therapist level to either the Eleos or TAU group after consent",
+   "status": "confirmed",
+   "locator": "שורה 105"
+  },
+  {
+   "id": "c41",
+   "text": "המטפלים יכלו לבחור לאיזו קבוצה במחקר להצטרף.",
+   "source": "src3",
+   "quote": "Therapists could choose which study arm they wanted to join",
+   "status": "confirmed",
+   "locator": "שורה 117"
+  },
+  {
+   "id": "c27",
+   "text": "לא נמצא הבדל בין הקבוצות בשביעות הרצון מהטיפול ובתפיסת התועלת שלו אחרי חודשיים.",
+   "source": "src3",
+   "quote": "No group difference was found in 2-month treatment satisfaction and perceived helpfulness.",
+   "status": "confirmed",
+   "locator": "שורה 25"
+  },
+  {
+   "id": "c33",
+   "text": "שניים מהחוקרים הם עובדי Eleos Health, שסיפקה את הפלטפורמה.",
+   "source": "src3",
+   "quote": "SSS and EG are employees of Eleos Health Inc, which provided the AI platform used in this study.",
+   "status": "confirmed",
+   "locator": "שורה 204"
+  },
+  {
+   "id": "c43",
+   "text": "פרוטוקול המחקר אושר על ידי ועדת המחקר של מרכז Ozark, ועדת הלסינקי של Freeman Health System ומחלקת בריאות הנפש של מדינת מיזורי.",
+   "source": "src3",
+   "quote": "The RCT protocol was reviewed and approved by the Ozark Center’s Research Committee, the Freeman Health System Institutional Research Board, and the State of Missouri Department of Mental Health",
+   "status": "confirmed",
+   "locator": "שורה 37"
+  },
+  {
+   "id": "c37",
+   "text": "לפי תוצאות המאמר, 72 מבוגרים הוצעו להשתתף ו-47 (65%) נתנו הסכמה.",
+   "source": "src3",
+   "quote": "A total of 72 adults who had been recommended outpatient CBT for a main diagnosis of a depressive or anxiety disorder were offered to participate in this study, of whom 47 (65%) provided their consent.",
+   "status": "confirmed",
+   "locator": "שורה 117"
+  },
+  {
+   "id": "c38",
+   "text": "לפי תקציר המחקר, 72 מטופלים אותרו ו-47 מהם (67%) הסכימו להשתתף.",
+   "source": "src3",
+   "quote": "A total of 72 patients were approached, of whom 47 (67%) agreed to participate.",
+   "status": "confirmed",
+   "locator": "שורה 25"
+  },
+  {
+   "id": "c36",
+   "text": "לפי החוקרים, הנוכחות בטיפול הייתה גבוהה פי 2 והשיפור בתסמינים טוב פי 3 עד 4 בקרב מטופלים בליווי הפלטפורמה.",
+   "source": "src3",
+   "quote": "The study found that patient attendance in treatment supported by the AI platform was 2 times higher, and improvement in symptoms was 3 to 4 times better in these patients, compared to patients receiving TAU.",
+   "status": "confirmed",
+   "locator": "שורה 196"
+  },
+  {
+   "id": "c56",
+   "text": "לפי הדיווח, החברה העסיקה כ-95 עובדים ברחבי העולם, עלייה של 56% לעומת השנה הקודמת.",
+   "source": "src1",
+   "quote": "Today, the company employs approximately 95 people worldwide (a 56% increase compared to last year).",
+   "status": "confirmed",
+   "locator": "שורה 70"
+  },
+  {
+   "id": "c81",
+   "text": "לפי הודעת Eleos Health על סבב ההשקעה מסדרה B, בשנת 2023 הפלטפורמה התרחבה כך שהיא משרתת 23 מדינות בארצות הברית.",
+   "source": "src9",
+   "quote": "expanding to serve 23 states",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  }
+ ],
+ "sources": [
+  {
+   "id": "src1",
+   "label": "Calcalist, Eleos Health founders",
+   "url": "https://www.calcalistech.com/ctechnews/article/sybphzyqp",
+   "kind": "press"
+  },
+  {
+   "id": "src2",
+   "label": "Calcalist, Unlocking mental health therapy with AI, 2021",
+   "url": "https://www.calcalistech.com/articles/0,7340,L-3924591,00.html",
+   "kind": "press"
+  },
+  {
+   "id": "src3",
+   "label": "Journal of Medical Internet Research, 2023, Vol 25, e46781 (randomized study of the Eleos platform)",
+   "url": "https://www.jmir.org/2023/1/e46781",
+   "kind": "reference"
+  },
+  {
+   "id": "src4",
+   "label": "Globes, $60 million Series C raise",
+   "url": "https://en.globes.co.il/en/article-1001500113",
+   "kind": "press"
+  },
+  {
+   "id": "src5",
+   "label": "Menlo Ventures, investment in Eleos",
+   "url": "https://menlovc.com/perspective/empowering-behavioral-health-providers-with-ai-our-investment-in-eleos/",
+   "kind": "organisation"
+  },
+  {
+   "id": "src6",
+   "label": "Axios Pro, 8.11.2023",
+   "url": "https://www.axios.com/pro/health-tech-deals/2023/11/08/eleos-health-raises-40m-series-b-quantify-therapy-voice-analysis-mental-health",
+   "kind": "press"
+  },
+  {
+   "id": "src7",
+   "label": "Healthcare IT Today, 1.12.2023",
+   "url": "https://www.healthcareittoday.com/2023/12/01/behavioral-health-ai-leader-eleos-health-raises-40m-series-b-round-to-expand-careops-automation-footprint/",
+   "kind": "press"
+  },
+  {
+   "id": "src8",
+   "label": "Globes, $40 million Series B raise, 2023",
+   "url": "https://en.globes.co.il/en/article-ai-behavioral-health-co-eleos-health-raises-40m-1001462070",
+   "kind": "press"
+  },
+  {
+   "id": "src9",
+   "label": "Eleos Health, Series B funding announcement",
+   "url": "https://eleos.health/press-releases/eleos-health-series-b-funding-announcement/",
+   "kind": "organisation"
+  }
+ ],
+ "media": [
+  {
+   "id": "m1",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=lqrhiSBipnU",
+   "youtube_id": "lqrhiSBipnU",
+   "source_page": "https://www.youtube.com/watch?v=lqrhiSBipnU",
+   "source_name": "YouTube",
+   "credit": "Eleos Health",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "The organization's own film: a conversation between Eleos's clinical team head and Dr. Simon Rego of Montefiore Health System about the study published in JMIR.",
+   "illustrates": [],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m2",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=8MSn-re0hYE",
+   "youtube_id": "8MSn-re0hYE",
+   "source_page": "https://www.youtube.com/watch?v=8MSn-re0hYE",
+   "source_name": "YouTube",
+   "credit": "CareTalk: Healthcare. Unfiltered. Podcast",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "Interview on the CareTalk podcast with Alon Joffe, founder and CEO of Eleos Health, on AI and the future of mental health.",
+   "illustrates": [],
+   "spoken": "en",
+   "audio_tracks": [
+    "en",
+    "ar",
+    "bn",
+    "de",
+    "es",
+    "fr",
+    "hi",
+    "id",
+    "it",
+    "he",
+    "ja",
+    "ko",
+    "ml",
+    "nl",
+    "pa",
+    "pl",
+    "pt",
+    "ru",
+    "ta",
+    "te",
+    "uk"
+   ]
+  },
+  {
+   "id": "m3",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=ITIwkdG1z0w",
+   "youtube_id": "ITIwkdG1z0w",
+   "source_page": "https://www.youtube.com/watch?v=ITIwkdG1z0w",
+   "source_name": "YouTube",
+   "credit": "Slice of Healthcare Network",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "Interview with Alon Joffe, CEO of Eleos Health, on how AI reduces administrative burden on therapists and expands access to care.",
+   "illustrates": [],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m4",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=w4F5AoE_zWU",
+   "youtube_id": "w4F5AoE_zWU",
+   "source_page": "https://www.youtube.com/watch?v=w4F5AoE_zWU",
+   "source_name": "YouTube",
+   "credit": "Behavioral Health Tech",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "A conversation between Alon Joffe and therapist Shiri Ayer of McKay-Dee Behavioral Health, who uses Eleos, on empowering therapists.",
+   "illustrates": [],
+   "spoken": "en",
+   "audio_tracks": [
+    "en",
+    "ar",
+    "bn",
+    "de",
+    "es",
+    "fr",
+    "hi",
+    "id",
+    "it",
+    "he",
+    "ja",
+    "ko",
+    "ml",
+    "nl",
+    "pa",
+    "pl",
+    "pt",
+    "ru",
+    "ta",
+    "te",
+    "uk"
+   ]
+  },
+  {
+   "id": "m5",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=3ZPJZGA0x0k",
+   "youtube_id": "3ZPJZGA0x0k",
+   "source_page": "https://www.youtube.com/watch?v=3ZPJZGA0x0k",
+   "source_name": "YouTube",
+   "credit": "UCSF Rosenman Institute",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "A lecture by Alon Joffe at the UCSF Rosenman Institute on bridging the gap between patients and therapists in mental health.",
+   "illustrates": [],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m6",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Baruch%20Ivcher%20school%20of%20Psychology%208077.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Baruch_Ivcher_school_of_Psychology_8077.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Yaakov",
+   "licence": "CC0",
+   "hosting": "hotlink",
+   "caption": "The Baruch Ivcher School of Psychology at Reichman University in Herzliya",
+   "illustrates": [],
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "date": "2026-07-01",
+   "width": 5184,
+   "height": 3888,
+   "role": "related"
+  },
+  {
+   "id": "m7",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Beinthumi.JPG?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Beinthumi.JPG",
+   "source_name": "Wikimedia Commons",
+   "credit": "Gilabrand",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "Students and a lawn on the Reichman University campus in Herzliya",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "Taken on 1",
+   "width": 2592,
+   "height": 1944,
+   "role": "related"
+  },
+  {
+   "id": "m8",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/I%20Love%20RUNI.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:I_Love_RUNI.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "David Shay",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "An \"I ♥ RUNI\" sign on the Reichman University campus",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2023-06-18",
+   "width": 3258,
+   "height": 1643,
+   "role": "related"
+  },
+  {
+   "id": "m10",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ofer%20lecture%20halls%208070.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Ofer_lecture_halls_8070.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Yaakov",
+   "licence": "CC0",
+   "hosting": "hotlink",
+   "caption": "The Ofer lecture halls on the Reichman University campus",
+   "illustrates": [],
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "date": "2026-07-01",
+   "width": 5184,
+   "height": 3888,
+   "role": "related"
+  },
+  {
+   "id": "m15",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/%D7%A4%D7%A8%D7%95%D7%A4%27%20%D7%90%D7%95%D7%A8%D7%99%D7%90%D7%9C%20%D7%A8%D7%99%D7%99%D7%9B%D7%9E%D7%9F%20%D7%91%D7%98%D7%A7%D7%A1%20%D7%94%D7%A2%D7%A0%D7%A7%D7%AA%20%D7%AA%D7%90%D7%A8%D7%99%D7%9D.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:%D7%A4%D7%A8%D7%95%D7%A4%27_%D7%90%D7%95%D7%A8%D7%99%D7%90%D7%9C_%D7%A8%D7%99%D7%99%D7%9B%D7%9E%D7%9F_%D7%91%D7%98%D7%A7%D7%A1_%D7%94%D7%A2%D7%A0%D7%A7%D7%AA_%D7%AA%D7%90%D7%A8%D7%99%D7%9D.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Adi Cohen Zedek",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "A degree ceremony at Reichman University, graduates and audience in the stadium",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "2014-05-29",
+   "width": 5760,
+   "height": 3840,
+   "role": "related"
+  }
+ ],
+ "check": {
+  "passed": true,
+  "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
+  "checked_at": "2026-11-22T05:30:33Z",
+  "counts": {
+   "confirmed": 81,
+   "not_confirmed": 0,
+   "deleted_sentences": 3,
+   "first_round_confirmed": 76,
+   "first_round_contradicted": 3,
+   "first_round_unverifiable": 4
+  },
+  "note": "unverifiable sentences were deleted, contradicted ones fixed from the source and checked again"
+ },
+ "meta": {
+  "run": "eleos-health-ai-therapy-support",
+  "pipeline": "scripts/museum/museum_line.py",
+  "models": {
+   "research": "sonnet-5-5",
+   "extract": "sonnet-5-5",
+   "media": "sonnet-5-5",
+   "write": "opus-5-5 medium",
+   "check": "opus-5-5 medium",
+   "fix": "opus-5-5 medium"
+  },
+  "source_quality": {
+   "sources": 8,
+   "wikipedia": 0,
+   "strong": 6,
+   "ok": true,
+   "warnings": []
+  },
+  "settled": [
+   {
+    "box": "d3",
+    "question": "באיזה היקף פועלת הפלטפורמה?",
+    "url": "https://eleos.health/press-releases/eleos-health-series-b-funding-announcement/",
+    "by": "settle 24.11"
+   }
+  ]
+ },
+ "lang": "en",
+ "translation": {
+  "from": "he",
+  "translator": "claude-opus-5-5",
+  "checker": "claude-opus-5-5 (separate call, blind to the translation prompt)",
+  "checked_at": "2026-11-23T22:27:00Z",
+  "passed": true,
+  "items": 113,
+  "pairs_checked": 1,
+  "reused": 112,
+  "first_round_flagged": 0,
+  "still_flagged": 0,
+  "flagged": [],
+  "quote_translations": {}
+ }
+}

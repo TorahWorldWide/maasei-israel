@@ -1,0 +1,56 @@
+{
+ "schema": "maasei-backdrop/1",
+ "slug": "idf-reopens-hospital-kahramanmaras",
+ "media": "m7",
+ "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Olive%20Branches%20Search%20and%20Rescue%20Delegation%2C%20February%202023%20%28IDF%2019%29.jpg?width=1920",
+ "img_small": "https://commons.wikimedia.org/wiki/Special:FilePath/Olive%20Branches%20Search%20and%20Rescue%20Delegation%2C%20February%202023%20%28IDF%2019%29.jpg?width=1080",
+ "why": "The mission's own rescuers in helmets climb through a collapsed building at night, a deep, textured scene of the disaster the delegation answered, with no posed faces, captions or logos.",
+ "chosen_by": "opus picker",
+ "alternates": [
+  "m22"
+ ],
+ "from": {
+  "average": "#1a1914",
+  "picked": "#493d28",
+  "coloured_share": 0.028,
+  "lightness": 0.09
+ },
+ "palette": {
+  "paper": "#f2f1eb",
+  "surface": "#f9f9f7",
+  "band": "#e8e6db",
+  "tint": "#e5e2d2",
+  "header": "#eceae2",
+  "rule": "#cdc9b6",
+  "text": "#2a2718",
+  "text2": "#4c4833",
+  "accent": "#675f38",
+  "meta": "#625f4a",
+  "tone": "#23211b",
+  "shadow": "33, 31, 18"
+ },
+ "checks": {
+  "text_on_paper": 13.24,
+  "text_on_surface": 14.21,
+  "text_on_band": 11.96,
+  "text_on_tint": 11.51,
+  "text_on_header": 12.44,
+  "text2_on_paper": 8.13,
+  "text2_on_surface": 8.73,
+  "text2_on_band": 7.35,
+  "text2_on_tint": 7.07,
+  "text2_on_header": 7.64,
+  "accent_on_paper": 5.67,
+  "accent_on_surface": 6.09,
+  "accent_on_band": 5.13,
+  "accent_on_tint": 4.93,
+  "accent_on_header": 5.33,
+  "meta_on_paper": 5.7,
+  "meta_on_surface": 6.12,
+  "meta_on_band": 5.15,
+  "meta_on_tint": 4.96,
+  "meta_on_header": 5.36,
+  "paper_on_accent": 5.67
+ },
+ "passed": true
+}

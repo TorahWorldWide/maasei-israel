@@ -1,0 +1,437 @@
+/* Trial looks for the museum page, chosen with ?look=a|b|c (data-look on
+   .mx-root). Each is built on one design system from open-design
+   (C:\Users\tomer\open-design\design-systems), adapted to Hebrew RTL:
+     a  catalogue  kami   paper canvas, one ink-blue, one serif, weight 400/500
+     b  newspaper  wired  white broadsheet, black rules, big serif headline
+     c  archive    ibm    Carbon: white/grey-10 layers, Plex Sans Hebrew, blue 60
+   Content, stations, sources and media rules are the same in every look; only
+   colour, type, spacing and motion change. "0" is the current navy look. */
+
+/* ======================================================================
+   shared by the three light looks
+   ====================================================================== */
+.mx-root:not([data-look="0"]) {
+  background: var(--lk-bg);
+  color: var(--lk-text);
+  font-family: var(--lk-body);
+}
+.mx-root:not([data-look="0"]) a:focus-visible,
+.mx-root:not([data-look="0"]) button:focus-visible,
+.mx-root:not([data-look="0"]) summary:focus-visible {
+  outline: 2px solid var(--lk-focus, var(--lk-accent));
+  outline-offset: 2px;
+  border-radius: 0;
+}
+
+/* entrance: pictures first, the title below them on the page, never over them */
+.mx-root:not([data-look="0"]) .mx-entrance { height: auto; min-height: 0; overflow: visible; background: var(--lk-bg); }
+.mx-root:not([data-look="0"]) .mx-entrance-shade { display: none; }
+.mx-root:not([data-look="0"]) .mx-collage {
+  position: relative;
+  inset: auto;
+  height: min(50vh, 470px);
+  max-width: 1180px;
+  margin: 0 auto;
+  padding: 16px 16px 0;
+}
+.mx-root:not([data-look="0"]) .mx-tile { background: var(--lk-surface); border-radius: 0; }
+.mx-root:not([data-look="0"]) .mx-tile img { filter: none; }
+.mx-root:not([data-look="0"]) .mx-entrance-text {
+  position: static;
+  max-width: 1180px;
+  padding: 28px 16px 0;
+  pointer-events: auto;
+}
+.mx-root:not([data-look="0"]) .mx-back { color: var(--lk-meta); font-family: var(--lk-ui); }
+.mx-root:not([data-look="0"]) .mx-back:hover { color: var(--lk-link-hover, var(--lk-accent)); }
+.mx-root:not([data-look="0"]) .mx-title {
+  font-family: var(--lk-head);
+  color: var(--lk-text);
+  text-shadow: none;
+  max-width: 24ch;
+}
+
+/* intro */
+.mx-root:not([data-look="0"]) .mx-intro { max-width: 1180px; padding-top: 20px; }
+.mx-root:not([data-look="0"]) .mx-trailer { color: var(--lk-text); font-family: var(--lk-body); }
+.mx-root:not([data-look="0"]) .mx-trailer-src,
+.mx-root:not([data-look="0"]) .mx-trailer-src a { color: var(--lk-meta); font-family: var(--lk-ui); text-decoration-color: var(--lk-rule); }
+.mx-root:not([data-look="0"]) .mx-trailer-src a:hover { color: var(--lk-link-hover, var(--lk-accent)); }
+.mx-root:not([data-look="0"]) .mx-glance { background: var(--lk-surface); color: var(--lk-text); box-shadow: none; border-radius: 0; }
+.mx-root:not([data-look="0"]) .mx-glance div { border-bottom-color: var(--lk-rule); }
+.mx-root:not([data-look="0"]) .mx-glance dt { color: var(--lk-meta); font-family: var(--lk-ui); }
+.mx-root:not([data-look="0"]) .mx-glance dd { font-family: var(--lk-head); color: var(--lk-text); }
+.mx-root:not([data-look="0"]) .mx-check { color: var(--lk-meta); border-top-color: var(--lk-rule); font-family: var(--lk-ui); }
+.mx-root:not([data-look="0"]) .mx-check-ok::before { color: var(--lk-accent); }
+
+/* station map */
+.mx-root:not([data-look="0"]) .mx-map { background: var(--lk-bg); backdrop-filter: none; border-block-color: var(--lk-rule); }
+.mx-root:not([data-look="0"]) .mx-map ol { max-width: 1180px; }
+.mx-root:not([data-look="0"]) .mx-map a { color: var(--lk-text2); border-radius: 0; font-family: var(--lk-ui); }
+.mx-root:not([data-look="0"]) .mx-map a:hover { color: var(--lk-text); }
+.mx-root:not([data-look="0"]) .mx-map a[aria-current="true"] { background: transparent; color: var(--lk-text); box-shadow: inset 0 -2px 0 var(--lk-accent); }
+.mx-root:not([data-look="0"]) .mx-map-n { color: var(--lk-accent); font-family: var(--lk-num, var(--lk-head)); font-weight: 500; }
+.mx-root:not([data-look="0"]) .mx-map-progress { background: var(--lk-accent); }
+
+/* stations */
+.mx-root:not([data-look="0"]) .mx-station { border-bottom-color: var(--lk-rule); }
+.mx-root:not([data-look="0"]) .mx-st-kicker { color: var(--lk-meta); font-family: var(--lk-ui); }
+.mx-root:not([data-look="0"]) .mx-st-title { font-family: var(--lk-head); color: var(--lk-text); }
+.mx-root:not([data-look="0"]) .mx-prose p { color: var(--lk-text); font-family: var(--lk-body); }
+.mx-root:not([data-look="0"]) .mx-ref { color: var(--lk-accent); background: var(--lk-tint); border-radius: 0; font-family: var(--lk-num, var(--lk-ui)); }
+.mx-root:not([data-look="0"]) .mx-ref:hover { background: var(--lk-rule); }
+.mx-root:not([data-look="0"]) .mx-sources { border-top: 1px solid var(--lk-rule); }
+.mx-root:not([data-look="0"]) .mx-sources-h { color: var(--lk-text); font-family: var(--lk-ui); }
+.mx-root:not([data-look="0"]) .mx-sources li { font-family: var(--lk-ui); }
+.mx-root:not([data-look="0"]) .mx-sources li:target .mx-src-label { color: var(--lk-accent); }
+.mx-root:not([data-look="0"]) .mx-src-n { color: var(--lk-accent); background: var(--lk-tint); font-family: var(--lk-num, var(--lk-ui)); }
+.mx-root:not([data-look="0"]) .mx-src-label { color: var(--lk-text2); text-decoration-color: var(--lk-rule); }
+.mx-root:not([data-look="0"]) .mx-src-label:hover { color: var(--lk-link-hover, var(--lk-accent)); }
+.mx-root:not([data-look="0"]) .mx-src-arch,
+.mx-root:not([data-look="0"]) .mx-quotes summary { color: var(--lk-meta); }
+.mx-root:not([data-look="0"]) .mx-quotes ul { border-inline-start-color: var(--lk-accent); }
+.mx-root:not([data-look="0"]) .mx-quotes li { color: var(--lk-text2); font-style: normal; }
+
+/* the wall: no zoom on hover, captions as quiet text under the picture */
+.mx-root:not([data-look="0"]) .mx-photo,
+.mx-root:not([data-look="0"]) .mx-video { background: var(--lk-surface); border-radius: 0; }
+.mx-root:not([data-look="0"]) .mx-photo:hover img { transform: none; }
+.mx-root:not([data-look="0"]) .mx-video-facade img { opacity: 1; }
+.mx-root:not([data-look="0"]) .mx-placard {
+  background: transparent;
+  color: var(--lk-text2);
+  padding: 8px 0 0;
+  border-radius: 0;
+  font-family: var(--lk-ui);
+}
+.mx-root:not([data-look="0"]) .mx-placard-text { color: var(--lk-text); }
+.mx-root:not([data-look="0"]) .mx-date,
+.mx-root:not([data-look="0"]) .mx-credit { color: var(--lk-meta); }
+.mx-root:not([data-look="0"]) .mx-credit a:hover { color: var(--lk-link-hover, var(--lk-accent)); }
+
+/* disagreement */
+.mx-root:not([data-look="0"]) .mx-dis { border-top: 2px solid var(--lk-text); }
+.mx-root:not([data-look="0"]) .mx-dis-q { color: var(--lk-text); font-family: var(--lk-head); }
+.mx-root:not([data-look="0"]) .mx-dis-tag { color: var(--lk-meta); font-family: var(--lk-ui); }
+.mx-root:not([data-look="0"]) .mx-dis-cols { border-top-color: var(--lk-rule); }
+.mx-root:not([data-look="0"]) .mx-dis-card { border-bottom-color: var(--lk-rule); }
+.mx-root:not([data-look="0"]) .mx-dis-who { color: var(--lk-text); font-family: var(--lk-ui); }
+.mx-root:not([data-look="0"]) .mx-dis-card { background: transparent; }
+.mx-root:not([data-look="0"]) .mx-dis-says { color: var(--lk-text); font-family: var(--lk-body); }
+.mx-root:not([data-look="0"]) .mx-dis-src { font-family: var(--lk-ui); }
+.mx-root:not([data-look="0"]) .mx-dis-src a { color: var(--lk-accent); }
+.mx-root:not([data-look="0"]) .mx-dis-note { color: var(--lk-meta); font-family: var(--lk-ui); }
+
+/* the hard chapter: its own band */
+.mx-root:not([data-look="0"]) .mx-hard { background: var(--lk-band); }
+.mx-root:not([data-look="0"]) .mx-hard .mx-st-kicker { color: var(--lk-meta); }
+.mx-root:not([data-look="0"]) .mx-hard .mx-st-title { color: var(--lk-text); }
+.mx-root:not([data-look="0"]) .mx-hard .mx-prose p { color: var(--lk-text2); }
+.mx-root:not([data-look="0"]) .mx-hard .mx-dis-card { background: var(--lk-bg); }
+
+/* unknowns, credits */
+.mx-root:not([data-look="0"]) .mx-unknowns,
+.mx-root:not([data-look="0"]) .mx-credits { max-width: 1180px; }
+.mx-root:not([data-look="0"]) .mx-unknowns h2,
+.mx-root:not([data-look="0"]) .mx-credits h2 { color: var(--lk-text); font-family: var(--lk-head); }
+.mx-root:not([data-look="0"]) .mx-unknowns li { color: var(--lk-text2); font-family: var(--lk-body); }
+.mx-root:not([data-look="0"]) .mx-unknowns li::before { color: var(--lk-accent); font-family: var(--lk-head); }
+.mx-root:not([data-look="0"]) .mx-credits > p,
+.mx-root:not([data-look="0"]) .mx-credits ol { color: var(--lk-meta); font-family: var(--lk-ui); }
+.mx-root:not([data-look="0"]) .mx-credits ol a { color: var(--lk-text2); }
+.mx-root:not([data-look="0"]) .mx-credits .mx-credit { color: var(--lk-meta); }
+
+/* lightbox */
+.mx-root:not([data-look="0"]) .mx-lightbox::backdrop { background: rgba(22, 22, 22, 0.92); }
+.mx-root:not([data-look="0"]) .mx-close { background: #ffffff; color: #161616; border-radius: 0; }
+
+@media (max-width: 640px) {
+  .mx-root:not([data-look="0"]) .mx-collage { height: min(54vh, 460px); }
+  .mx-root:not([data-look="0"]) .mx-entrance-text { padding-top: 20px; }
+}
+
+/* ======================================================================
+   a  catalogue  (kami)
+   Parchment, never white. One ink-blue under 5% of the surface. One serif,
+   weights 400 and 500 only, no italic. Rings instead of shadows. The collage
+   stays, without the drift, turning over every 7 s.
+   ====================================================================== */
+.mx-page[data-look^="a"] {
+  --lk-bg: #f5f4ed;
+  --lk-surface: #faf9f5;
+  --lk-band: #ebe9df;
+  --lk-text: #141413;
+  --lk-text2: #3d3d3a;
+  --lk-meta: #6b6a64;
+  --lk-rule: #dcd9cc;
+  --lk-accent: #1b365d;
+  --lk-tint: #e4ecf5;
+  --lk-head: var(--font-noto-serif-he), "Frank Ruhl Libre", Georgia, serif;
+  --lk-body: var(--font-noto-serif-he), "Frank Ruhl Libre", Georgia, serif;
+  --lk-ui: var(--font-noto-serif-he), "Frank Ruhl Libre", Georgia, serif;
+}
+/* stone on the darker band falls just under 4.5:1; one step darker there */
+.mx-root[data-cat] .mx-hard { --lk-meta: #5c5b55; }
+.mx-root[data-cat] .mx-kb { animation: mx-turn 1.6s ease both; }
+.mx-root[data-cat] .mx-collage { gap: 8px; }
+.mx-root[data-cat] .mx-tile { box-shadow: 0 0 0 1px #e8e6dc; }
+.mx-root[data-cat] .mx-title { font-weight: 500; font-size: clamp(30px, 4.4vw, 54px); line-height: 1.15; letter-spacing: 0; }
+.mx-root[data-cat] .mx-trailer { font-size: clamp(18px, 2vw, 21px); line-height: 1.75; }
+.mx-root[data-cat] .mx-glance { box-shadow: 0 0 0 1px #e8e6dc; }
+.mx-root[data-cat] .mx-glance dd { font-weight: 500; font-size: 16.5px; }
+.mx-root[data-cat] .mx-st-head { align-items: baseline; gap: 16px; }
+.mx-root[data-cat] .mx-st-num {
+  color: var(--lk-accent);
+  -webkit-text-stroke: 0;
+  font-family: var(--lk-head);
+  font-weight: 500;
+  font-size: clamp(30px, 3.6vw, 40px);
+  line-height: 1;
+  padding-inline-end: 16px;
+  border-inline-end: 1px solid var(--lk-rule);
+}
+.mx-root[data-cat] .mx-station:not(.mx-hard) .mx-st-kicker { display: none; }
+.mx-root[data-cat] .mx-st-title { font-weight: 500; font-size: clamp(25px, 3vw, 34px); line-height: 1.25; }
+.mx-root[data-cat] .mx-prose p { font-size: 17.5px; line-height: 1.8; }
+.mx-root[data-cat] .mx-ref { font-size: 11px; border-radius: 2px; }
+.mx-root[data-cat] .mx-src-n { border-radius: 50%; }
+.mx-root[data-cat] .mx-sources-h { font-weight: 500; }
+.mx-root[data-cat] .mx-photo,
+.mx-root[data-cat] .mx-video { box-shadow: 0 0 0 1px #e8e6dc; }
+.mx-root[data-cat] .mx-placard { border-top: 0; }
+.mx-root[data-cat] .mx-placard-text { font-weight: 500; }
+.mx-root[data-cat] .mx-dis { border-top: 1px solid var(--lk-accent); }
+.mx-root[data-cat] .mx-dis-q { font-weight: 500; }
+.mx-root[data-cat] .mx-dis-tag { font-weight: 500; color: var(--lk-accent); }
+
+.mx-root[data-cat] .mx-play { background: rgba(20, 20, 19, 0.6); border-color: #faf9f5; }
+.mx-root[data-cat] .mx-play::after { border-color: transparent transparent transparent #faf9f5; }
+.mx-root[data-cat] .mx-unknowns h2,
+.mx-root[data-cat] .mx-credits h2 { font-weight: 500; }
+
+/* ======================================================================
+   b  newspaper  (wired)
+   Paper-white broadsheet. Square corners, hard black rules, no cards, no
+   shadows, no animation. One huge serif headline, a book serif for reading,
+   a sans for labels. Colour comes only from the photographs; blue only on
+   link hover. The collage becomes one lead picture and three beside it.
+   ====================================================================== */
+.mx-root[data-look="b"] {
+  --lk-bg: #ffffff;
+  --lk-surface: #f2f2f2;
+  --lk-band: #f2f2f2;
+  --lk-text: #1a1a1a;
+  --lk-text2: #1a1a1a;
+  --lk-meta: #6b6b6b;
+  --lk-rule: #d9d9d9;
+  --lk-accent: #000000;
+  --lk-tint: transparent;
+  --lk-link-hover: #057dbc;
+  --lk-focus: #057dbc;
+  --lk-head: var(--font-frank-ruhl), "Frank Ruhl Libre", Georgia, serif;
+  --lk-body: var(--font-david), "David Libre", Georgia, serif;
+  --lk-ui: var(--font-heebo), "Heebo", Arial, sans-serif;
+}
+.mx-root[data-look="b"] .mx-tile,
+.mx-root[data-look="b"] .mx-kb,
+.mx-root[data-look="b"] .mx-title { animation: none; }
+.mx-root[data-look="b"] .mx-collage {
+  gap: 4px;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(3, 1fr);
+  grid-template-areas:
+    "a a a b"
+    "a a a c"
+    "a a a d";
+}
+.mx-root[data-look="b"] .mx-t-e,
+.mx-root[data-look="b"] .mx-t-f,
+.mx-root[data-look="b"] .mx-t-g { display: none; }
+.mx-root[data-look="b"] .mx-entrance-text { padding-top: 0; }
+.mx-root[data-look="b"] .mx-back {
+  display: block;
+  margin: 0 0 18px;
+  padding-top: 10px;
+  border-top: 2px solid #000;
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--lk-text);
+}
+.mx-root[data-look="b"] .mx-title { font-weight: 900; font-size: clamp(34px, 6vw, 76px); line-height: 1.02; letter-spacing: -0.5px; max-width: 20ch; }
+.mx-root[data-look="b"] .mx-trailer { font-size: clamp(20px, 2.2vw, 23px); line-height: 1.6; }
+.mx-root[data-look="b"] .mx-glance { background: transparent; border-top: 2px solid #000; padding: 6px 0 0; }
+.mx-root[data-look="b"] .mx-glance dt { font-size: 12px; font-weight: 600; letter-spacing: 0.04em; color: var(--lk-meta); }
+.mx-root[data-look="b"] .mx-glance dd { font-weight: 700; font-size: 18px; }
+.mx-root[data-look="b"] .mx-map { border-block: 0; border-bottom: 1px solid #000; }
+.mx-root[data-look="b"] .mx-map a { font-weight: 600; font-size: 13px; }
+.mx-root[data-look="b"] .mx-map a[aria-current="true"] { box-shadow: inset 0 -3px 0 #000; }
+.mx-root[data-look="b"] .mx-map-n { font-family: var(--lk-ui); font-weight: 600; color: var(--lk-meta); }
+.mx-root[data-look="b"] .mx-station { border-bottom: 0; border-top: 2px solid #000; padding-top: 18px; margin-top: 40px; }
+.mx-root[data-look="b"] .mx-st-num { display: none; }
+.mx-root[data-look="b"] .mx-st-head { margin-bottom: 24px; }
+.mx-root[data-look="b"] .mx-st-kicker { font-size: 13px; font-weight: 600; letter-spacing: 0.04em; color: var(--lk-text); margin-bottom: 8px; }
+.mx-root[data-look="b"] .mx-st-title { font-weight: 900; font-size: clamp(28px, 4vw, 46px); line-height: 1.06; letter-spacing: -0.3px; }
+.mx-root[data-look="b"] .mx-prose p { font-size: 19.5px; line-height: 1.65; }
+.mx-root[data-look="b"] .mx-ref { color: var(--lk-text); font-weight: 600; font-size: 11px; }
+.mx-root[data-look="b"] .mx-ref:hover { color: var(--lk-link-hover); background: transparent; }
+.mx-root[data-look="b"] .mx-sources { border-top: 1px solid #000; }
+.mx-root[data-look="b"] .mx-sources-h { font-weight: 700; }
+.mx-root[data-look="b"] .mx-src-n { border-radius: 0; background: #000; color: #fff; }
+.mx-root[data-look="b"] .mx-src-label { text-decoration-color: #000; }
+.mx-root[data-look="b"] .mx-quotes ul { border-inline-start-color: #000; }
+.mx-root[data-look="b"] .mx-placard { border-top: 1px solid #000; margin-top: 6px; font-size: 13px; }
+.mx-root[data-look="b"] .mx-placard-text { font-weight: 600; }
+.mx-root[data-look="b"] .mx-play { border-radius: 0; background: #000; border: 0; width: 56px; height: 56px; margin: -28px 0 0 -28px; }
+.mx-root[data-look="b"] .mx-play::after { border-color: transparent transparent transparent #fff; }
+.mx-root[data-look="b"] .mx-dis-q { font-weight: 900; font-size: 23px; }
+.mx-root[data-look="b"] .mx-dis-tag { font-weight: 700; color: var(--lk-text); }
+.mx-root[data-look="b"] .mx-dis-cols { border-top: 2px solid #000; }
+.mx-root[data-look="b"] .mx-dis-src a { color: var(--lk-text); text-decoration: underline; }
+.mx-root[data-look="b"] .mx-dis-src a:hover { color: var(--lk-link-hover); }
+.mx-root[data-look="b"] .mx-hard { border-top-width: 6px; }
+.mx-root[data-look="b"] .mx-hard .mx-st-kicker { color: var(--lk-text); }
+.mx-root[data-look="b"] .mx-unknowns h2,
+.mx-root[data-look="b"] .mx-credits h2 { font-weight: 900; border-top: 2px solid #000; padding-top: 12px; }
+.mx-root[data-look="b"] .mx-unknowns li::before { color: var(--lk-text); }
+@media (max-width: 640px) {
+  .mx-root[data-look="b"] .mx-collage {
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: 2fr 1fr;
+    grid-template-areas:
+      "a a a"
+      "b c d";
+  }
+}
+
+/* ======================================================================
+   c  archive  (ibm Carbon)
+   White and grey-10 layers, depth by background only. IBM Plex Sans Hebrew,
+   light 300 for headings. One interactive colour, blue 60. 8 px grid, square
+   corners, tabs for the station map. Nothing moves at all.
+   ====================================================================== */
+.mx-root[data-look="c"] {
+  --lk-bg: #ffffff;
+  --lk-surface: #f4f4f4;
+  --lk-band: #f4f4f4;
+  --lk-text: #161616;
+  --lk-text2: #393939;
+  --lk-meta: #6f6f6f;
+  --lk-rule: #e0e0e0;
+  --lk-accent: #0f62fe;
+  --lk-tint: #edf5ff;
+  --lk-link-hover: #0043ce;
+  --lk-head: var(--font-plex-he), "IBM Plex Sans Hebrew", "Helvetica Neue", Arial, sans-serif;
+  --lk-body: var(--font-plex-he), "IBM Plex Sans Hebrew", "Helvetica Neue", Arial, sans-serif;
+  --lk-ui: var(--font-plex-he), "IBM Plex Sans Hebrew", "Helvetica Neue", Arial, sans-serif;
+  --lk-num: var(--font-plex-mono), "IBM Plex Mono", Menlo, monospace;
+}
+.mx-root[data-look="c"] .mx-tile,
+.mx-root[data-look="c"] .mx-kb,
+.mx-root[data-look="c"] .mx-title { animation: none; }
+.mx-root[data-look="c"] .mx-photo img,
+.mx-root[data-look="c"] .mx-map a { transition: none; }
+.mx-root[data-look="c"] .mx-collage {
+  gap: 2px;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  grid-template-areas:
+    "a b c"
+    "d e f";
+}
+.mx-root[data-look="c"] .mx-t-g { display: none; }
+.mx-root[data-look="c"] .mx-back { font-size: 14px; color: var(--lk-accent); }
+.mx-root[data-look="c"] .mx-title { font-weight: 300; font-size: clamp(32px, 4.8vw, 60px); line-height: 1.17; letter-spacing: 0; }
+.mx-root[data-look="c"] .mx-trailer { font-size: clamp(18px, 2vw, 20px); line-height: 1.6; font-weight: 400; }
+.mx-root[data-look="c"] .mx-trailer-src a { color: var(--lk-accent); text-decoration: none; }
+.mx-root[data-look="c"] .mx-trailer-src a:hover { text-decoration: underline; }
+.mx-root[data-look="c"] .mx-glance { padding: 16px; }
+.mx-root[data-look="c"] .mx-glance dt { font-size: 12px; letter-spacing: 0.32px; }
+.mx-root[data-look="c"] .mx-glance dd { font-weight: 600; font-size: 16px; line-height: 1.4; }
+.mx-root[data-look="c"] .mx-check {
+  border-top: 0;
+  background: var(--lk-tint);
+  border-inline-start: 3px solid var(--lk-accent);
+  padding: 12px 16px;
+  color: var(--lk-text);
+  font-size: 14px;
+}
+.mx-root[data-look="c"] .mx-map { border-block: 0; box-shadow: inset 0 -1px 0 var(--lk-rule); }
+.mx-root[data-look="c"] .mx-map ol { gap: 0; padding-block: 0; }
+.mx-root[data-look="c"] .mx-map a { padding: 12px 16px; font-size: 14px; }
+.mx-root[data-look="c"] .mx-map a:hover { background: #e8e8e8; }
+.mx-root[data-look="c"] .mx-map a[aria-current="true"] { box-shadow: inset 0 -2px 0 var(--lk-accent); font-weight: 600; }
+.mx-root[data-look="c"] .mx-map-n { font-weight: 400; font-size: 13px; }
+.mx-root[data-look="c"] .mx-station { border-bottom: 0; border-top: 1px solid var(--lk-rule); padding: 48px 0 40px; }
+.mx-root[data-look="c"] .mx-st-head { flex-direction: column; align-items: flex-start; gap: 8px; margin-bottom: 32px; }
+.mx-root[data-look="c"] .mx-st-num {
+  color: var(--lk-accent);
+  -webkit-text-stroke: 0;
+  font-family: var(--lk-num);
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1;
+  letter-spacing: 0.32px;
+}
+.mx-root[data-look="c"] .mx-station:not(.mx-hard) .mx-st-kicker { display: none; }
+.mx-root[data-look="c"] .mx-st-kicker { font-size: 14px; }
+.mx-root[data-look="c"] .mx-st-title { font-weight: 300; font-size: clamp(28px, 3.4vw, 42px); line-height: 1.2; }
+.mx-root[data-look="c"] .mx-prose p { font-size: 17px; line-height: 1.75; }
+.mx-root[data-look="c"] .mx-ref { font-size: 11px; }
+.mx-root[data-look="c"] .mx-sources-h { font-weight: 600; font-size: 14px; }
+.mx-root[data-look="c"] .mx-src-n { border-radius: 0; font-size: 12px; }
+.mx-root[data-look="c"] .mx-src-label { color: var(--lk-accent); text-decoration: none; }
+.mx-root[data-look="c"] .mx-src-label:hover { text-decoration: underline; color: var(--lk-link-hover); }
+.mx-root[data-look="c"] .mx-placard { background: var(--lk-surface); padding: 8px 16px 10px; font-size: 13px; line-height: 1.45; }
+.mx-root[data-look="c"] .mx-credit a { color: var(--lk-accent); text-decoration: none; }
+.mx-root[data-look="c"] .mx-play { border-radius: 0; background: var(--lk-accent); border: 0; width: 56px; height: 56px; margin: -28px 0 0 -28px; }
+.mx-root[data-look="c"] .mx-play::after { border-color: transparent transparent transparent #fff; }
+.mx-root[data-look="c"] .mx-dis { border-top: 1px solid var(--lk-text); }
+.mx-root[data-look="c"] .mx-dis-q { font-weight: 300; font-size: 22px; }
+.mx-root[data-look="c"] .mx-dis-tag { font-weight: 600; color: var(--lk-accent); }
+
+.mx-root[data-look="c"] .mx-dis-card { background: var(--lk-surface); padding: 16px; margin-bottom: 2px; border: 0; }
+.mx-root[data-look="c"] .mx-hard { border-top: 0; }
+.mx-root[data-look="c"] .mx-hard .mx-dis-card { background: var(--lk-bg); }
+.mx-root[data-look="c"] .mx-hard .mx-placard { background: var(--lk-bg); }
+.mx-root[data-look="c"] .mx-unknowns h2,
+.mx-root[data-look="c"] .mx-credits h2 { font-weight: 300; font-size: 28px; }
+.mx-root[data-look="c"] .mx-credits ol a { color: var(--lk-accent); text-decoration: none; }
+@media (max-width: 640px) {
+  .mx-root[data-look="c"] .mx-collage {
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    grid-template-areas:
+      "a b"
+      "c d"
+      "e f";
+  }
+}
+
+/* ======================================================================
+   the preview switcher (all looks)
+   ====================================================================== */
+.mx-looks {
+  position: fixed;
+  bottom: 12px;
+  inset-inline-end: 80px;
+  z-index: 60;
+  display: flex;
+  align-items: center;
+  gap: 2px;
+  padding: 4px;
+  background: #ffffff;
+  color: #161616;
+  border: 1px solid #c6c6c6;
+  font-family: var(--font-heebo), Arial, sans-serif;
+  font-size: 13px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.18);
+}
+.mx-looks span { padding: 0 6px; color: #6f6f6f; }
+.mx-looks a { padding: 5px 9px; color: #161616; text-decoration: none; }
+.mx-looks a:hover { background: #e8e8e8; }
+.mx-looks a[aria-current="true"] { background: #161616; color: #ffffff; }
+@media (max-width: 640px) {
+  .mx-looks { inset-inline: 8px 64px; overflow-x: auto; scrollbar-width: none; font-size: 12.5px; }
+  .mx-looks span { display: none; }
+  .mx-looks a { padding: 5px 7px; white-space: nowrap; }
+}

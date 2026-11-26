@@ -1,0 +1,1817 @@
+{
+  "schema": "maasei-museum/1",
+  "slug": "isidor-rabi-nuclear-magnetic-resonance",
+  "deed": "איזידור רבי ותהודת הגרעין המגנטית",
+  "canonical_type": "scientific-discovery",
+  "year": "1930",
+  "title": "איזידור רבי מדד את המגנטים הזעירים שבגרעין האטום, ושיטתו הובילה ל-MRI",
+  "trailer": [
+    {
+      "text": "איזידור רבי, זוכה פרס נובל לפיזיקה לשנת 1944, נולד ב-1898 ברימנוב למשפחה יהודית שהיגרה לארצות הברית כשהיה בן שנה.",
+      "claims": [
+        "c1",
+        "c2",
+        "c3"
+      ]
+    },
+    {
+      "text": "ב-1930 החל לחקור את התכונות המגנטיות של גרעיני אטומים, שבהם פרוטונים וניטרונים פועלים כמגנטים קטנים מסתובבים.",
+      "claims": [
+        "c14",
+        "c7"
+      ]
+    },
+    {
+      "text": "בעזרת עקרון התהודה הצליח לזהות ולמדוד מצבי סיבוב בודדים של אטומים ומולקולות.",
+      "claims": [
+        "c15"
+      ]
+    },
+    {
+      "text": "שיטתו הייתה הבסיס לתהודה מגנטית גרעינית, NMR.",
+      "claims": [
+        "c47"
+      ]
+    },
+    {
+      "text": "בשנות ה-80, כשנלחם בסרטן, בדקו אותו רופאיו במכשיר MRI שצמח ממחקרו המוקדם.",
+      "claims": [
+        "c65"
+      ]
+    }
+  ],
+  "hero_media": [
+    "m1",
+    "m3",
+    "m11",
+    "m9",
+    "m7",
+    "m8",
+    "m4",
+    "m2",
+    "m20",
+    "m23"
+  ],
+  "glance": [
+    {
+      "label": "מי",
+      "value": "פיזיקאי יהודי יליד רימנוב",
+      "claims": [
+        "c1",
+        "c3"
+      ]
+    },
+    {
+      "label": "מתי",
+      "value": "מ-1930",
+      "claims": [
+        "c14"
+      ]
+    },
+    {
+      "label": "איפה",
+      "value": "אוניברסיטת קולומביה",
+      "claims": [
+        "c12"
+      ]
+    },
+    {
+      "label": "מה יצא",
+      "value": "הבסיס ל-NMR",
+      "claims": [
+        "c47"
+      ]
+    },
+    {
+      "label": "הכרה",
+      "value": "פרס נובל לפיזיקה 1944",
+      "claims": [
+        "c2"
+      ]
+    },
+    {
+      "label": "קשר לישראל",
+      "value": "חבר מועצת הנגידים של מכון ויצמן מ-1959",
+      "claims": [
+        "c17"
+      ]
+    }
+  ],
+  "stations": [
+    {
+      "id": "s1",
+      "title": "ילד מרימנוב בשכונות העוני של מנהטן",
+      "kind": "story",
+      "paragraphs": [
+        [
+          {
+            "text": "איזידור רבי נולד ב-29 ביולי 1898 ברימנוב שבגליציה, אז באוסטריה-הונגריה וכיום בפולין, למשפחה יהודית מסורתית.",
+            "claims": [
+              "c1",
+              "c24"
+            ]
+          },
+          {
+            "text": "לפי הביוגרפיה של האקדמיה הלאומית למדעים, הוריו היו יהודים אורתודוקסים וקראו לו ישראל יצחק רבי.",
+            "claims": [
+              "c18"
+            ]
+          },
+          {
+            "text": "המשפחה היגרה לארצות הברית כשהיה בן שנה.",
+            "claims": [
+              "c3"
+            ]
+          },
+          {
+            "text": "אביו הגיע ראשון, וזמן קצר אחר כך שלח להביא אליו את אשתו ואת בנו.",
+            "claims": [
+              "c32"
+            ]
+          }
+        ],
+        [
+          {
+            "text": "בית המשפחה היה בגטו יהודי בשכונות העוני של מנהטן.",
+            "claims": [
+              "c19"
+            ]
+          },
+          {
+            "text": "המקורות חלוקים בשאלה במה עסק אביו.",
+            "claims": [
+              "c20",
+              "c56"
+            ]
+          }
+        ],
+        [
+          {
+            "text": "בגיל שתים עשרה בערך גילה רבי את הספרייה הציבורית, וזה היה רגע מכריע בחייו.",
+            "claims": [
+              "c34"
+            ]
+          },
+          {
+            "text": "הוא היה קורא להוט, ורכש חלק גדול מהשכלתו ומהתעניינותו במדע מספרים ששאל מהספרייה.",
+            "claims": [
+              "c21"
+            ]
+          },
+          {
+            "text": "המאמר המדעי הראשון שלו, שכתב עוד בבית הספר היסודי, עסק בתכנון קבל רדיו.",
+            "claims": [
+              "c22"
+            ]
+          },
+          {
+            "text": "הוריו רצו שילמד בישיבה, אבל הוא סירב, וגם לא רצה בתיכון הנחשב שאליו הלכו הנערים היהודים המוכשרים.",
+            "claims": [
+              "c35"
+            ]
+          },
+          {
+            "text": "לפי שירות הפארקים האמריקאי, רבי סיפר שאמו עשתה אותו למדען בלי שהתכוונה לכך.",
+            "claims": [
+              "c64"
+            ]
+          }
+        ]
+      ],
+      "media": [
+        "m13"
+      ],
+      "disagreements": [
+        "d1",
+        "d2"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "מאירופה לקולומביה",
+      "kind": "story",
+      "paragraphs": [
+        [
+          {
+            "text": "ב-1927 קיבל רבי תואר דוקטור על עבודה בנושא התכונות המגנטיות של גבישים.",
+            "claims": [
+              "c10"
+            ]
+          },
+          {
+            "text": "בעזרת מלגות שהה שנתיים באירופה, ועבד בזמנים שונים עם זומרפלד, בוהר, פאולי, שטרן והייזנברג.",
+            "claims": [
+              "c11"
+            ]
+          }
+        ],
+        [
+          {
+            "text": "ב-1929 התקשו חוקרים יהודים למצוא משרות פרופסור, ורבי לא ציפה לקבל משרה אקדמית.",
+            "claims": [
+              "c36"
+            ]
+          },
+          {
+            "text": "הייזנברג המליץ עליו בחום לקולומביה.",
+            "claims": [
+              "c37",
+              "c60"
+            ]
+          },
+          {
+            "text": "עם שובו ב-1929 מונה רבי למרצה לפיזיקה עיונית באוניברסיטת קולומביה, וב-1937 הפך לפרופסור.",
+            "claims": [
+              "c12"
+            ]
+          }
+        ],
+        [
+          {
+            "text": "ב-1933 הורו השלטונות הגרמניים לאוטו שטרן, יהודי, לעזוב את משרתו באוניברסיטת המבורג, והדבר הטריד את רבי.",
+            "claims": [
+              "c42"
+            ]
+          }
+        ]
+      ],
+      "media": [
+        "m9",
+        "m22",
+        "m30",
+        "m31"
+      ],
+      "disagreements": []
+    },
+    {
+      "id": "s3",
+      "title": "המגנטים הזעירים שבתוך הגרעין",
+      "kind": "story",
+      "paragraphs": [
+        [
+          {
+            "text": "פרוטונים וניטרונים בגרעיני האטומים פועלים כמגנטים קטנים מסתובבים.",
+            "claims": [
+              "c7"
+            ]
+          },
+          {
+            "text": "ב-1930 החל רבי לחקור את התכונות המגנטיות של גרעיני אטומים.",
+            "claims": [
+              "c14"
+            ]
+          },
+          {
+            "text": "ב-1933 זיהו כהן ורבי ארבע קרניות בגלאי, ומכך הסיקו שספין הגרעין של נתרן הוא 3/2.",
+            "claims": [
+              "c38"
+            ]
+          }
+        ],
+        [
+          {
+            "text": "לפי אתר פרס נובל, רבי העביר קרן מולקולות דרך שדה מגנטי.",
+            "claims": [
+              "c8"
+            ]
+          },
+          {
+            "text": "כשהקרן נחשפה לגלי רדיו, כיוון הסיבוב יכול היה להשתנות, אך רק בשלבים מסוימים, בהתאם למכניקת הקוואנטים.",
+            "claims": [
+              "c9"
+            ]
+          },
+          {
+            "text": "בניסוי השלישי הוחלף שדה T הסטטי בשדה חלש שהתנדנד בתדר רדיו מתכוונן.",
+            "claims": [
+              "c39"
+            ]
+          },
+          {
+            "text": "באמצעות יישום מחוכם של עקרון התהודה הצליח רבי לזהות ולמדוד מצבי סיבוב בודדים של אטומים ומולקולות.",
+            "claims": [
+              "c15"
+            ]
+          }
+        ],
+        [
+          {
+            "text": "לפי נורמן רמזי, רבי ועמיתיו מדדו בשיטה מומנטים מגנטיים ומומנטי רבעון חשמליים של גרעינים רבים.",
+            "claims": [
+              "c23"
+            ]
+          },
+          {
+            "text": "ניתוח נתוני הדאוטריום חשף שלדאוטרון יש מומנט רבעון חשמלי שלא היה ידוע, בנוסף למומנט המגנטי.",
+            "claims": [
+              "c41"
+            ]
+          },
+          {
+            "text": "הטכניקה של רבי אפשרה מדידות מדויקות של מומנטים מגנטיים גרעיניים יותר מכל מה שהיה אפשרי קודם.",
+            "claims": [
+              "c59"
+            ]
+          }
+        ]
+      ],
+      "media": [
+        "m12"
+      ],
+      "disagreements": [
+        "d3"
+      ]
+    },
+    {
+      "id": "s4",
+      "title": "מה צמח מהשיטה",
+      "kind": "story",
+      "paragraphs": [
+        [
+          {
+            "text": "שיטת רבי הייתה הבסיס לתהודה מגנטית גרעינית, NMR, שהתגלתה באופן עצמאי בידי פרסל ובלוך ב-1945 וב-1946.",
+            "claims": [
+              "c47"
+            ]
+          },
+          {
+            "text": "פרס נובל לפיזיקה לשנת 1952 הוענק לפליקס בלוך ולאדוארד פרסל על שיטות חדשות למדידות מגנטיות גרעיניות מדויקות.",
+            "claims": [
+              "c63"
+            ]
+          },
+          {
+            "text": "אחרי המלחמה המשיך רבי במחקרו, שתרם להמצאת הלייזר והשעון האטומי.",
+            "claims": [
+              "c27"
+            ]
+          }
+        ],
+        [
+          {
+            "text": "בשנות ה-80, כשנלחם בסרטן, בדקו אותו רופאיו במכשיר MRI שצמח ממחקרו המוקדם.",
+            "claims": [
+              "c65"
+            ]
+          },
+          {
+            "text": "דימות התהודה המגנטית שבו נעזרו הרופאים היה פרי מעשי של עבודתו.",
+            "claims": [
+              "c62"
+            ]
+          },
+          {
+            "text": "רבי מת ב-11 בינואר 1988 בניו יורק, אחרי מחלה ממושכת.",
+            "claims": [
+              "c55"
+            ]
+          }
+        ]
+      ],
+      "media": [],
+      "disagreements": []
+    },
+    {
+      "id": "s5",
+      "title": "הכרה",
+      "kind": "story",
+      "paragraphs": [
+        [
+          {
+            "text": "ב-1940 נבחר רבי לאקדמיה הלאומית למדעים.",
+            "claims": [
+              "c57"
+            ]
+          },
+          {
+            "text": "פרס נובל לפיזיקה לשנת 1944 ניתן לו על שיטת התהודה שלו לרישום התכונות המגנטיות של גרעיני אטומים.",
+            "claims": [
+              "c2",
+              "c57"
+            ]
+          },
+          {
+            "text": "ב-1948 קיבל את מדליית ההצטיינות, שנחשבה לעיטור האזרחי הגבוה ביותר במלחמת העולם השנייה.",
+            "claims": [
+              "c16"
+            ]
+          }
+        ],
+        [
+          {
+            "text": "לפי האנציקלופדיה, כשמת כינו אותו פיזיקאים רבים \"דיקן הפיזיקה העולמית\", ושמו יצא גם כאדם קשוח שהוערץ בכל זאת.",
+            "claims": [
+              "c31"
+            ]
+          }
+        ]
+      ],
+      "media": [
+        "m1",
+        "m2",
+        "m4",
+        "m5",
+        "m18",
+        "m24",
+        "m29"
+      ],
+      "disagreements": []
+    },
+    {
+      "id": "s6",
+      "title": "מעבדת הקרינה ב-MIT",
+      "kind": "story",
+      "paragraphs": [
+        [
+          {
+            "text": "ב-1940 קיבל רבי חופשה מקולומביה כדי לעבוד כסגן מנהל מעבדת הקרינה ב-MIT, על פיתוח מכ\"ם ופצצת האטום.",
+            "claims": [
+              "c13"
+            ]
+          },
+          {
+            "text": "הוא עזב את מעבדתו, את תלמידיו ואת ביתו בניו יורק כדי להצטרף למעבדה בקיימברידג'.",
+            "claims": [
+              "c43"
+            ]
+          },
+          {
+            "text": "שם עמד תחילה בראש חטיבת המחקר, ואחר כך הפך לסגן מנהל המעבדה.",
+            "claims": [
+              "c61"
+            ]
+          },
+          {
+            "text": "הוא יצא מיד לסיבוב הרצאות כדי לגייס פיזיקאים למעבדה.",
+            "claims": [
+              "c44"
+            ]
+          },
+          {
+            "text": "פרויקט הכתיבה שארגן במעבדה הניב את סדרת מעבדת הקרינה של MIT, בעשרים ושמונה כרכים.",
+            "claims": [
+              "c48"
+            ]
+          }
+        ],
+        [
+          {
+            "text": "רבי, מנהל משא ומתן קשוח, סירב לעבוד עם הצבא בלי לדעת כיצד ישמשו המכשירים שביקשו.",
+            "claims": [
+              "c45"
+            ]
+          },
+          {
+            "text": "אופנהיימר ביקש ממנו להצטרף ללוס אלמוס כסגן מנהל פרויקט מנהטן, אך רבי סירב.",
+            "claims": [
+              "c46"
+            ]
+          }
+        ]
+      ],
+      "media": [
+        "m3"
+      ],
+      "disagreements": []
+    },
+    {
+      "id": "s7",
+      "title": "אחרי המלחמה: שלום, מעבדות ומכון ויצמן",
+      "kind": "story",
+      "paragraphs": [
+        [
+          {
+            "text": "אחרי המלחמה קידם רבי שלום והגבלת נשק גרעיני.",
+            "claims": [
+              "c5"
+            ]
+          },
+          {
+            "text": "הוא ואנריקו פרמי כתבו דוח מיעוט שהתנגד לפצצת המימן מטעמים אתיים.",
+            "claims": [
+              "c49"
+            ]
+          },
+          {
+            "text": "רבי היה גם יושב ראש של גוף בוועדת האנרגיה האטומית, אך המקורות חלוקים באיזה גוף מדובר.",
+            "claims": [
+              "c66",
+              "c67"
+            ]
+          }
+        ],
+        [
+          {
+            "text": "רבי מילא תפקיד משמעותי בהקמת מעבדות מחקר גדולות בברוקהייבן וב-CERN.",
+            "claims": [
+              "c6"
+            ]
+          },
+          {
+            "text": "ב-1950 הציג ביונסקו החלטה להקים באירופה מעבדת מאיצים, והיא התקבלה והובילה להקמת CERN בז'נבה.",
+            "claims": [
+              "c53"
+            ]
+          },
+          {
+            "text": "המקורות חלוקים בשנת הקמתה של מעבדת ברוקהייבן.",
+            "claims": [
+              "c51",
+              "c52"
+            ]
+          }
+        ],
+        [
+          {
+            "text": "בקולומביה עמד רבי בראש המחלקה לפיזיקה, והמקורות נותנים לכך שנים מעט שונות.",
+            "claims": [
+              "c28",
+              "c58"
+            ]
+          },
+          {
+            "text": "הוא היה הראשון שקיבל ב-1964 את הדרגה של פרופסור אוניברסיטאי בקולומביה, ופרש מההוראה ב-1967.",
+            "claims": [
+              "c30",
+              "c54"
+            ]
+          },
+          {
+            "text": "ב-1959 מונה לחבר מועצת הנגידים של מכון ויצמן למדע ברחובות, ישראל.",
+            "claims": [
+              "c17"
+            ]
+          }
+        ],
+        [
+          {
+            "text": "לפי אתר מעבדת ברוקהייבן, המעבדה הוקמה ב-1947.",
+            "claims": [
+              "c68"
+            ]
+          }
+        ],
+        [
+          {
+            "text": "לפי קרן המורשת האטומית, רבי עמד בראש הוועדה המייעצת הכללית של ועדת האנרגיה האטומית.",
+            "claims": [
+              "c69"
+            ]
+          }
+        ]
+      ],
+      "media": [
+        "m11",
+        "m8",
+        "m7",
+        "m15",
+        "m16",
+        "m26",
+        "m27"
+      ],
+      "disagreements": [
+        "d5"
+      ]
+    },
+    {
+      "id": "s8",
+      "title": "הפצצה והשימוע",
+      "kind": "hard",
+      "paragraphs": [
+        [
+          {
+            "text": "לפי אתר פרס נובל, במלחמת העולם השנייה השתתף רבי בפיתוח פצצת האטום.",
+            "claims": [
+              "c4"
+            ]
+          }
+        ],
+        [
+          {
+            "text": "ב-1954 התקיים שימוע שנוי במחלוקת של ועדת האנרגיה האטומית, ובו נשלל אישור הביטחון של אופנהיימר.",
+            "claims": [
+              "c26",
+              "c50"
+            ]
+          },
+          {
+            "text": "רבי העיד לטובת אופנהיימר, ולפי האנציקלופדיה היה מהעדים היעילים ביותר לטובתו.",
+            "claims": [
+              "c26",
+              "c50"
+            ]
+          },
+          {
+            "text": "לפי אתר ג'ואייג', רבי אמר שהעולם היה טוב יותר בלי אדוארד טלר.",
+            "claims": [
+              "c29"
+            ]
+          }
+        ]
+      ],
+      "media": [
+        "m14",
+        "m19",
+        "m25"
+      ],
+      "disagreements": []
+    }
+  ],
+  "disagreements": [
+    {
+      "id": "d1",
+      "question": "במה עסק אביו של רבי?",
+      "versions": [
+        {
+          "says": "לפי זיכרונות האקדמיה הלאומית למדעים, ביום עבד במפעל סחטני עבודה לבגדי נשים, ובלילה ניהל מכולת קטנה שלא הצליחה",
+          "claims": [
+            "c20"
+          ]
+        },
+        {
+          "says": "לפי האנציקלופדיה, עסק בנדל\"ן בניו יורק",
+          "claims": [
+            "c56"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d2",
+      "question": "מה היה שם אמו של רבי?",
+      "versions": [
+        {
+          "says": "לפי אתר פרס נובל, ג'נט טייג",
+          "claims": [
+            "c33"
+          ]
+        },
+        {
+          "says": "לפי האנציקלופדיה, שיינדל",
+          "claims": [
+            "c32"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d3",
+      "question": "באיזו שנה המציא רבי את שיטת התהודה?",
+      "versions": [
+        {
+          "says": "לפי אתר פרס נובל, ב-1938, כשהעביר קרן מולקולות דרך שדה מגנטי",
+          "claims": [
+            "c8"
+          ]
+        },
+        {
+          "says": "לפי האנציקלופדיה, רבי המציא את שיטת התהודה המגנטית בעת תכנון הניסוי השלישי שלו על איזוטופי המימן, ב-1939.",
+          "claims": [
+            "c40"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d5",
+      "question": "באילו שנים עמד רבי בראש המחלקה לפיזיקה בקולומביה?",
+      "versions": [
+        {
+          "says": "לפי ג'ואייג', בשנים 1945 עד 1949, תקופה שבה שהו במחלקה שני זוכי נובל",
+          "claims": [
+            "c28"
+          ]
+        },
+        {
+          "says": "לפי האנציקלופדיה, בשנים 1945 עד 1948 שימש רבי כמנהל (executive officer) של המחלקה לפיזיקה באוניברסיטת קולומביה, ובתקופה זו חיזק אותה.",
+          "claims": [
+            "c58"
+          ]
+        }
+      ]
+    }
+  ],
+  "unknowns": [
+    {
+      "text": "המקורות אינם מספרים מה עשה רבי בפועל במועצת הנגידים של מכון ויצמן",
+      "claims": [
+        "c17"
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "text": "איזידור רבי נולד ב-29 ביולי 1898 ברימנוב, אוסטריה-הונגריה (כיום פולין).",
+      "source": "src1",
+      "quote": "Born: 29 July 1898, Rymanow, Austria-Hungary (now Poland)",
+      "status": "confirmed",
+      "locator": "שורה 3"
+    },
+    {
+      "id": "c2",
+      "text": "פרס נובל לפיזיקה לשנת 1944 ניתן לרבי על שיטת התהודה שלו לרישום התכונות המגנטיות של גרעיני אטומים.",
+      "source": "src1",
+      "quote": "for his resonance method for recording the magnetic properties of atomic nuclei",
+      "status": "confirmed",
+      "locator": "שורה 6"
+    },
+    {
+      "id": "c3",
+      "text": "רבי נולד למשפחה יהודית באוסטריה דאז, והמשפחה היגרה לארצות הברית כשהיה בן שנה.",
+      "source": "src1",
+      "quote": "was born into a Jewish family in what was then Austria, but the family emigrated to the U.S. when he was one year old",
+      "status": "confirmed",
+      "locator": "שורה 9"
+    },
+    {
+      "id": "c14",
+      "text": "ב-1930 החל רבי לחקור את התכונות המגנטיות של גרעיני אטומים.",
+      "source": "src2",
+      "quote": "In 1930 he began studying the magnetic properties of atomic nuclei",
+      "status": "confirmed",
+      "locator": "שורה 3"
+    },
+    {
+      "id": "c7",
+      "text": "פרוטונים וניטרונים בגרעינים פועלים כמגנטים קטנים מסתובבים.",
+      "source": "src1",
+      "quote": "Protons and neutrons in nuclei act like small, rotating magnets.",
+      "status": "confirmed",
+      "locator": "שורה 11"
+    },
+    {
+      "id": "c15",
+      "text": "באמצעות יישום מחוכם של עקרון התהודה הצליח רבי לזהות ולמדוד מצבי סיבוב בודדים של אטומים ומולקולות.",
+      "source": "src2",
+      "quote": "By an ingenious application of the resonance principle he succeeded in detecting and measuring single states of rotation of atoms and molecules",
+      "status": "confirmed",
+      "locator": "שורה 3"
+    },
+    {
+      "id": "c47",
+      "text": "שיטת רבי הייתה הבסיס לתהודה מגנטית גרעינית (NMR), שהתגלתה באופן עצמאי בידי פרסל ובלוך ב-1945 וב-1946.",
+      "source": "src3",
+      "quote": "This method became the basis for nuclear magnetic resonance (NMR), discovered independently by Edward Purcell and Felix Bloch in 1945 and 1946.",
+      "status": "confirmed",
+      "locator": "שורה 44"
+    },
+    {
+      "id": "c65",
+      "text": "בשנות ה-80, כשנלחם בסרטן, בדקו אותו רופאיו במכשיר MRI שצמח ממחקרו המוקדם.",
+      "source": "src4",
+      "quote": "In the 1980s when he was fighting cancer, his doctors examined him using an MRI (magnetic resonance imaging) machine",
+      "status": "confirmed",
+      "locator": "שורה 5"
+    },
+    {
+      "id": "c12",
+      "text": "עם שובו ב-1929 מונה רבי למרצה לפיזיקה עיונית באוניברסיטת קולומביה, ובשנת 1937 הפך לפרופסור.",
+      "source": "src2",
+      "quote": "On his return in 1929 he was appointed lecturer in Theoretical Physics at Columbia University, and after promotion through the various grades became professor in 1937.",
+      "status": "confirmed",
+      "locator": "שורה 1"
+    },
+    {
+      "id": "c17",
+      "text": "ב-1959 מונה רבי לחבר מועצת הנגידים של מכון ויצמן למדע ברחובות, ישראל.",
+      "source": "src2",
+      "quote": "In 1959 he was appointed a member of the Board of Governors of the Weizmann Institute of Science, Rehovoth, Israel.",
+      "status": "confirmed",
+      "locator": "שורה 6"
+    },
+    {
+      "id": "c24",
+      "text": "רבי נולד למשפחה יהודית מסורתית ברימנוב שבגליציה.",
+      "source": "src5",
+      "quote": "Rabi was born into a traditional Jewish family in Rymanów, Galicia, Austria-Hungary (now Poland)",
+      "status": "confirmed",
+      "locator": "שורה 16"
+    },
+    {
+      "id": "c18",
+      "text": "לפי הביוגרפיה של האקדמיה הלאומית למדעים, הוריו היו יהודים אורתודוקסים שקראו לו ישראל יצחק רבי.",
+      "source": "src6",
+      "quote": "His parents were Orthodox Jews who gave their son the name Israel Isaac Rabi.",
+      "status": "confirmed",
+      "locator": "שורה 8"
+    },
+    {
+      "id": "c32",
+      "text": "אביו של רבי שלח להביא אליו את בנו ואשתו, שנקראה שיינדל, זמן קצר אחרי שהגיע לארצות הברית.",
+      "source": "src3",
+      "quote": "and within a few months, he sent for Rabi and his mother, Sheindel.",
+      "status": "confirmed",
+      "locator": "שורה 9"
+    },
+    {
+      "id": "c19",
+      "text": "בית משפחת רבי היה בגטו יהודי בשכונות העוני של מנהטן.",
+      "source": "src6",
+      "quote": "The Rabi home was in a Jewish ghetto in the Manhattan slums.",
+      "status": "confirmed",
+      "locator": "שורה 9"
+    },
+    {
+      "id": "c20",
+      "text": "לפי זיכרונות האקדמיה הלאומית, אביו עבד ביום במפעל סחטני עבודה לבגדי נשים, ובלילה ניהל מכולת קטנה שלא הצליחה.",
+      "source": "src6",
+      "quote": "His father worked in a sweatshop making women's clothes by day, and at night he operated a small but unsuccessful grocery store",
+      "status": "confirmed",
+      "locator": "שורה 9"
+    },
+    {
+      "id": "c56",
+      "text": "לפי האנציקלופדיה, אביו של רבי עסק בנדל\"ן בניו יורק.",
+      "source": "src3",
+      "quote": "As an infant, he was brought to the United States, where his father engaged in the real estate business in New York City.",
+      "status": "confirmed",
+      "locator": "שורה 96"
+    },
+    {
+      "id": "c34",
+      "text": "רגע מכריע בחייו של רבי הגיע בגיל שתים עשרה בערך, כשגילה את הספרייה הציבורית.",
+      "source": "src3",
+      "quote": "A defining moment came, however, when Rabi, at about age twelve, discovered the public library.",
+      "status": "confirmed",
+      "locator": "שורה 12"
+    },
+    {
+      "id": "c21",
+      "text": "רבי היה קורא להוט, ורכש חלק גדול מהשכלתו והתעניינותו במדע מספרים שהשאיל מהספרייה הציבורית.",
+      "source": "src6",
+      "quote": "Rabi was an avid reader and gained much of his education and interest in science through books borrowed from the public library.",
+      "status": "confirmed",
+      "locator": "שורה 10"
+    },
+    {
+      "id": "c22",
+      "text": "המאמר המדעי הראשון של רבי, שנכתב בעוד הוא בבית ספר יסודי, עסק בתכנון קבל רדיו.",
+      "source": "src6",
+      "quote": "His first scientific paper, written while he was still in elementary school, was on the design of a radio condenser",
+      "status": "confirmed",
+      "locator": "שורה 10"
+    },
+    {
+      "id": "c35",
+      "text": "הוריו רצו שילמד בישיבה, אך רבי סירב, ולא רצה גם בתיכון הנחשב שאליו הלכו הנערים היהודים המוכשרים.",
+      "source": "src3",
+      "quote": "but Rabi refused. Nor did he wish to go to Boys High, where all the smart Jewish boys typically went.",
+      "status": "confirmed",
+      "locator": "שורה 13"
+    },
+    {
+      "id": "c64",
+      "text": "לפי שירות הפארקים האמריקאי, רבי סיפר שאמו עשתה אותו למדען בלי שהתכוונה לכך.",
+      "source": "src4",
+      "quote": "My mother made me a scientist without ever intending to.",
+      "status": "confirmed",
+      "locator": "שורה 4"
+    },
+    {
+      "id": "c10",
+      "text": "ב-1927 קיבל רבי תואר דוקטור על עבודה בנושא התכונות המגנטיות של גבישים.",
+      "source": "src2",
+      "quote": "In 1927 he received his Ph.D. degree for work on the magnetic properties of crystals.",
+      "status": "confirmed",
+      "locator": "שורה 1"
+    },
+    {
+      "id": "c11",
+      "text": "בעזרת מלגות שהה רבי שנתיים באירופה ועבד בזמנים שונים עם זומרפלד, בוהר, פאולי, שטרן והייזנברג.",
+      "source": "src2",
+      "quote": "Aided by fellowships, he spent two years in Europe, working at different times with Sommerfeld, Bohr, Pauli, Stern, and Heisenberg.",
+      "status": "confirmed",
+      "locator": "שורה 1"
+    },
+    {
+      "id": "c36",
+      "text": "ב-1929 התקשו חוקרים יהודים למצוא משרות פרופסור, ולכן רבי לא ציפה לקבל משרה אקדמית.",
+      "source": "src3",
+      "quote": "In 1929 Jewish scholars had great difficulty finding positions as university professors, and because of this, Rabi did not expect to get a faculty position.",
+      "status": "confirmed",
+      "locator": "שורה 20"
+    },
+    {
+      "id": "c37",
+      "text": "הייזנברג המליץ בחום על רבי לקולומביה.",
+      "source": "src3",
+      "quote": "Heisenberg strongly recommended Rabi.",
+      "status": "confirmed",
+      "locator": "שורה 20"
+    },
+    {
+      "id": "c60",
+      "text": "רבי קיבל משרה בקולומביה בתקופה שבה היה קשה ליהודים לקבל מינויים אקדמיים, הודות להמלצה מצוינת של הייזנברג.",
+      "source": "src7",
+      "quote": "He had obtained a post there during a time period when it was difficult for Jews to attain academic appointments",
+      "status": "confirmed",
+      "locator": "שורה 7"
+    },
+    {
+      "id": "c42",
+      "text": "ב-1933 הורו השלטונות הגרמניים לאוטו שטרן, יהודי, לעזוב את משרתו באוניברסיטת המבורג, דבר שהטריד את רבי.",
+      "source": "src3",
+      "quote": "In 1933 Otto Stern, a Jew, was ordered by the German authorities to leave his faculty position at the University of Hamburg.",
+      "status": "confirmed",
+      "locator": "שורה 37"
+    },
+    {
+      "id": "c38",
+      "text": "ב-1933 זיהו כהן ורבי ארבע קרניות בגלאי, ומכך הסיקו שספין הגרעין של נתרן הוא 3/2.",
+      "source": "src3",
+      "quote": "In 1933 Cohen and Rabi detected four distinct beamlets reaching the detector, and from this they could infer unequivocally that the nuclear spin of sodium is 3/2.",
+      "status": "confirmed",
+      "locator": "שורה 28"
+    },
+    {
+      "id": "c8",
+      "text": "לפי אתר פרס נובל, ב-1938 העביר רבי קרן מולקולות דרך שדה מגנטי.",
+      "source": "src1",
+      "quote": "In 1938, Isaac Isidor Rabi passed a beam of molecules through a magnetic field.",
+      "status": "confirmed",
+      "locator": "שורה 11"
+    },
+    {
+      "id": "c9",
+      "text": "כשהקרן נחשפה לגלי רדיו, כיוון הסיבוב יכול היה להשתנות, אך רק בשלבים מסוימים בהתאם למכניקת הקוואנטים.",
+      "source": "src1",
+      "quote": "When the beam was exposed to radio waves, the direction of rotation could be changed, but only in certain stages, in accordance with quantum mechanics.",
+      "status": "confirmed",
+      "locator": "שורה 11"
+    },
+    {
+      "id": "c39",
+      "text": "בניסוי השלישי ב-1939 הוחלף שדה T הסטטי בשדה חלש שהתנדנד בתדר רדיו מתכוונן.",
+      "source": "src3",
+      "quote": "The new feature of this experiment was that the static T-field was replaced by a weak field that oscillated at an adjustable radio frequency.",
+      "status": "confirmed",
+      "locator": "שורה 34"
+    },
+    {
+      "id": "c23",
+      "text": "לפי נורמן רמזי, רבי המציא את שיטת התהודה המגנטית בקרן מולקולרית, ששימשה אותו ואת עמיתיו למדוד מומנטים מגנטיים ומומנטי רבעון חשמליים של גרעינים רבים.",
+      "source": "src6",
+      "quote": "including the invention of the molecular beam magnetic resonance method, which he and his associates used to measure magnetic moments and electric quadrupole moments of many atomic nuclei",
+      "status": "confirmed",
+      "locator": "שורה 6"
+    },
+    {
+      "id": "c41",
+      "text": "ניתוח נתוני הדאוטריום חשף שלדאוטרון יש מומנט רבעון חשמלי לא ידוע בנוסף למומנט המגנטי.",
+      "source": "src3",
+      "quote": "The analysis of the deuterium data revealed that the deuteron had, in addition to the known magnetic moment, an unknown electric quadrupole moment.",
+      "status": "confirmed",
+      "locator": "שורה 35"
+    },
+    {
+      "id": "c59",
+      "text": "הטכניקה של רבי אפשרה מדידות מדויקות של מומנטים מגנטיים גרעיניים יותר מכל מה שהיה אפשרי קודם.",
+      "source": "src7",
+      "quote": "it enabled more precise measurements of nuclear magnetic moments than had ever been previously possible",
+      "status": "confirmed",
+      "locator": "שורה 4"
+    },
+    {
+      "id": "c63",
+      "text": "פרס נובל לפיזיקה לשנת 1952 הוענק לפליקס בלוך ולאדוארד פרסל על שיטות חדשות למדידות מגנטיות גרעיניות מדויקות.",
+      "source": "src8",
+      "quote": "The Nobel Prize in Physics 1952 was awarded jointly to Felix Bloch and Edward Mills Purcell",
+      "status": "confirmed",
+      "locator": "שורה 9"
+    },
+    {
+      "id": "c27",
+      "text": "אחרי המלחמה המשיך רבי במחקרו, שתרם להמצאת הלייזר והשעון האטומי.",
+      "source": "src5",
+      "quote": "After the war he continued his research, which contributed to the inventions of the laser and the atomic clock.",
+      "status": "confirmed",
+      "locator": "שורה 20"
+    },
+    {
+      "id": "c62",
+      "text": "קרוב למותו נעזרו הרופאים בדימות תהודה מגנטית כדי לאבחן את רבי, פרי מעשי של עבודתו.",
+      "source": "src7",
+      "quote": "Shortly before his death, Rabi experienced first-hand the practical offspring of his magnetic resonance work when doctors used MRI to aid in his diagnosis.",
+      "status": "confirmed",
+      "locator": "שורה 12"
+    },
+    {
+      "id": "c55",
+      "text": "רבי מת ב-11 בינואר 1988 בניו יורק אחרי מחלה ממושכת.",
+      "source": "src3",
+      "quote": "Rabi died of a long-term illness on January 11, 1988 in New York City.",
+      "status": "confirmed",
+      "locator": "שורה 106"
+    },
+    {
+      "id": "c57",
+      "text": "רבי נבחר לאקדמיה הלאומית למדעים ב-1940 וקיבל את פרס נובל ב-1944 על עבודתו בקרניים אטומיות ומולקולריות ועל גילוי שיטת התהודה.",
+      "source": "src3",
+      "quote": "Rabi was elected to the National Academy of Sciences in 1940 and received the 1944 Nobel Prize.",
+      "status": "confirmed",
+      "locator": "שורה 100"
+    },
+    {
+      "id": "c16",
+      "text": "רבי קיבל ב-1948 את מדליית ההצטיינות, שנחשבה לעיטור האזרחי הגבוה ביותר במלחמת העולם השנייה.",
+      "source": "src2",
+      "quote": "He was awarded the Medal for Merit, the highest civilian award in World War II, in 1948",
+      "status": "confirmed",
+      "locator": "שורה 4"
+    },
+    {
+      "id": "c31",
+      "text": "לפי האנציקלופדיה, פיזיקאים רבים כינו את רבי \"דיקן הפיזיקה העולמית\" כשמת, ושמו יצא גם כאדם קשוח שהוערץ בכל זאת.",
+      "source": "src3",
+      "quote": "Rabi could be tough, and his toughness sometimes made people angry; however, even at such times, he was universally admired.",
+      "status": "confirmed",
+      "locator": "שורה 8"
+    },
+    {
+      "id": "c13",
+      "text": "ב-1940 קיבל רבי חופשה מקולומביה כדי לעבוד כסגן מנהל מעבדת הקרינה ב-MIT על פיתוח מכ\"ם ופצצת האטום.",
+      "source": "src2",
+      "quote": "In 1940 he was granted leave from Columbia to work as Associate Director of the Radiation Laboratory at the Massachusetts Institute of Technology on the development of radar and the atomic bomb.",
+      "status": "confirmed",
+      "locator": "שורה 2"
+    },
+    {
+      "id": "c43",
+      "text": "שבעה ימים אחר כך עזב רבי את מעבדתו, תלמידיו וביתו בניו יורק כדי להצטרף למעבדת הקרינה של MIT בקיימברידג'.",
+      "source": "src3",
+      "quote": "Seven days later, he left his Columbia laboratory, left his students, left his home, and left his beloved New York City to join the MIT Radiation Laboratory in Cambridge, Massachusetts.",
+      "status": "confirmed",
+      "locator": "שורה 39"
+    },
+    {
+      "id": "c61",
+      "text": "במעבדת הקרינה רבי עמד תחילה בראש חטיבת המחקר ואחר כך הפך לסגן מנהל המעבדה.",
+      "source": "src7",
+      "quote": "Rabi initially headed the research division and later became the associate director of the lab.",
+      "status": "confirmed",
+      "locator": "שורה 9"
+    },
+    {
+      "id": "c44",
+      "text": "רבי יצא מיד לסיבוב הרצאות כדי לגייס פיזיקאים למעבדת הקרינה.",
+      "source": "src3",
+      "quote": "Rabi immediately went on a lecture tour to recruit physicists for the Radiation Laboratory.",
+      "status": "confirmed",
+      "locator": "שורה 40"
+    },
+    {
+      "id": "c48",
+      "text": "פרויקט הכתיבה שארגן רבי במעבדת הקרינה הניב את סדרת מעבדת הקרינה של MIT בעשרים ושמונה כרכים.",
+      "source": "src3",
+      "quote": "The result of this effort was the twenty-eight-volume MIT Radiation Laboratory Series.",
+      "status": "confirmed",
+      "locator": "שורה 45"
+    },
+    {
+      "id": "c45",
+      "text": "רבי, מנהל משא ומתן קשוח, סירב לעבוד עם הצבא בלי לדעת כיצד ישמשו המכשירים שביקשו.",
+      "source": "src3",
+      "quote": "Rabi, a tough negotiator, refused to work on that basis because he linked the design of apparatus to its use.",
+      "status": "confirmed",
+      "locator": "שורה 42"
+    },
+    {
+      "id": "c46",
+      "text": "אופנהיימר ביקש מרבי להצטרף ללוס אלמוס כסגן מנהל פרויקט מנהטן, אך רבי סירב.",
+      "source": "src3",
+      "quote": "Oppenheimer first asked Rabi to join him at Los Alamos as the associate director of the Manhattan Project, but Rabi refused",
+      "status": "confirmed",
+      "locator": "שורה 43"
+    },
+    {
+      "id": "c5",
+      "text": "אחרי המלחמה רבי קידם שלום והגבלת נשק גרעיני.",
+      "source": "src1",
+      "quote": "After the war he promoted peace and the limiting of nuclear weapons.",
+      "status": "confirmed",
+      "locator": "שורה 9"
+    },
+    {
+      "id": "c49",
+      "text": "רבי ואנריקו פרמי כתבו דוח מיעוט שהתנגד לפצצת המימין מטעמים אתיים.",
+      "source": "src3",
+      "quote": "Rabi and Enrico Fermi wrote a minority report in which they opposed the fusion weapon on ethical grounds",
+      "status": "confirmed",
+      "locator": "שורה 49"
+    },
+    {
+      "id": "c66",
+      "text": "לפי שירות הפארקים, רבי החליף את אופנהיימר כיושב ראש ועדת האנרגיה האטומית בשנים 1952 עד 1957.",
+      "source": "src4",
+      "quote": "He followed Oppenheimer as chair of the Atomic Energy Commission, 1952-1957",
+      "status": "confirmed",
+      "locator": "שורה 5"
+    },
+    {
+      "id": "c67",
+      "text": "לפי האנציקלופדיה, רבי היה יושב ראש הוועדה המייעצת הכללית של ועדת האנרגיה האטומית.",
+      "source": "src3",
+      "quote": "He was the chairman of the General Advisory Committee of the Atomic Energy Commission",
+      "status": "confirmed",
+      "locator": "שורה 103"
+    },
+    {
+      "id": "c6",
+      "text": "רבי מילא תפקיד משמעותי בהקמת מעבדות מחקר גדולות בברוקהייבן וב-CERN.",
+      "source": "src1",
+      "quote": "He also played a significant role in establishing major research laboratories in Brookhaven and CERN.",
+      "status": "confirmed",
+      "locator": "שורה 9"
+    },
+    {
+      "id": "c53",
+      "text": "ב-1950 הציג רבי ביוונסקו החלטה להקים באירופה מעבדת מאיצים, והיא התקבלה והובילה להקמת CERN בז'נבה.",
+      "source": "src3",
+      "quote": "The resolution passed, and the establishment of CERN (Conseil Européen pour la Recherche Nucleaire) in Geneva, Switzerland, was the eventual result.",
+      "status": "confirmed",
+      "locator": "שורה 52"
+    },
+    {
+      "id": "c51",
+      "text": "לפי האנציקלופדיה, מעבדת ברוקהייבן הוקמה ב-1947.",
+      "source": "src3",
+      "quote": "The first, the Brookhaven National Laboratory on Long Island, was established in 1947.",
+      "status": "confirmed",
+      "locator": "שורה 51"
+    },
+    {
+      "id": "c52",
+      "text": "לפי מקור אחר, רבי היה גורם מכריע בהקמת מעבדת ברוקהייבן ב-1945.",
+      "source": "src3",
+      "quote": "He was also instrumental in establishing the Brookhaven National Laboratory on Long Island in 1945",
+      "status": "confirmed",
+      "locator": "שורה 103"
+    },
+    {
+      "id": "c28",
+      "text": "רבי עמד בראש המחלקה לפיזיקה בקולומביה בשנים 1945 עד 1949, תקופה שבה שהו בה שני זוכי נובל.",
+      "source": "src5",
+      "quote": "Rabi chaired Columbia's physics department from 1945 to 1949, a period during which it was home to two Nobel Laureates",
+      "status": "confirmed",
+      "locator": "שורה 22"
+    },
+    {
+      "id": "c58",
+      "text": "רבי היה קצין מבצע של המחלקה לפיזיקה בקולומביה בשנים 1945 עד 1948 וחיזק אותה.",
+      "source": "src3",
+      "quote": "Rabi was executive officer of the physics department at Columbia (1945-1948), during which time he increased the strength of the department",
+      "status": "confirmed",
+      "locator": "שורה 103"
+    },
+    {
+      "id": "c30",
+      "text": "רבי היה הראשון שקיבל ב-1964 את הדרגה של פרופסור אוניברסיטאי בקולומביה, והוא פרש מההוראה ב-1967.",
+      "source": "src5",
+      "quote": "When Columbia created the rank of University Professor in 1964, Rabi was the first to receive such a chair.",
+      "status": "confirmed",
+      "locator": "שורה 22"
+    },
+    {
+      "id": "c54",
+      "text": "רבי פרש ב-1967 כפרופסור האוניברסיטאי הראשון בקולומביה.",
+      "source": "src3",
+      "quote": "Rabi retired in 1967 as the first university professor at Columbia University",
+      "status": "confirmed",
+      "locator": "שורה 54"
+    },
+    {
+      "id": "c4",
+      "text": "במלחמת העולם השנייה רבי השתתף בפיתוח פצצת האטום.",
+      "source": "src1",
+      "quote": "During World War II, Rabi took part in development of the atomic bomb.",
+      "status": "confirmed",
+      "locator": "שורה 9"
+    },
+    {
+      "id": "c26",
+      "text": "רבי העיד לטובת אופנהיימר בשימוע שנוי במחלוקת של ועדת האנרגיה האטומית ב-1954.",
+      "source": "src5",
+      "quote": "Rabi testified on Oppenheimer's behalf at a controversial United States Atomic Energy Commission hearing in 1954",
+      "status": "confirmed",
+      "locator": "שורה 21"
+    },
+    {
+      "id": "c50",
+      "text": "בשימוע ב-1954 שבו נשלל אישור הביטחון של אופנהיימר, רבי היה אחד העדים היעילים ביותר לטובתו.",
+      "source": "src3",
+      "quote": "Rabi was one of the most effective witnesses on Oppenheimer",
+      "status": "confirmed",
+      "locator": "שורה 50"
+    },
+    {
+      "id": "c29",
+      "text": "לפי אתר ג'ואייג', רבי אמר שהעולם היה טוב יותר בלי אדוארד טלר.",
+      "source": "src5",
+      "quote": "the world would be better without an Edward Teller",
+      "status": "confirmed",
+      "locator": "שורה 24"
+    },
+    {
+      "id": "c33",
+      "text": "לפי מקור זה, אמו של רבי נקראה ג'נט טייג.",
+      "source": "src2",
+      "quote": "Isidor Isaac Rabi was born in Raymanov, Austria, on July 29, 1898, the son of David Rabi and Janet Teig.",
+      "status": "confirmed",
+      "locator": "שורה 1"
+    },
+    {
+      "id": "c40",
+      "text": "לפי האנציקלופדיה, רבי המציא את שיטת התהודה המגנטית בעת תכנון הניסוי השלישי ב-1939.",
+      "source": "src3",
+      "quote": "During the planning for the third experiment in 1939, Rabi invented the magnetic resonance method",
+      "status": "confirmed",
+      "locator": "שורה 34"
+    },
+    {
+      "id": "c68",
+      "text": "לפי אתר מעבדת ברוקהייבן, המעבדה הוקמה ב-1947.",
+      "source": "src9",
+      "quote": "Brookhaven National Laboratory was established in 1947",
+      "status": "confirmed",
+      "locator": "שורה 49"
+    },
+    {
+      "id": "c69",
+      "text": "לפי קרן המורשת האטומית, רבי עמד בראש הוועדה המייעצת הכללית של ועדת האנרגיה האטומית.",
+      "source": "src10",
+      "quote": "Rabi would also serve as head of the General Advisory Committee of the Atomic Energy Commission",
+      "status": "confirmed",
+      "locator": "שורה 7"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src1",
+      "label": "Nobel Foundation, Isidor Isaac Rabi – Facts",
+      "url": "https://www.nobelprize.org/prizes/physics/1944/rabi/facts/",
+      "kind": "official"
+    },
+    {
+      "id": "src2",
+      "label": "Nobel Foundation, Rabi – Biographical",
+      "url": "https://www.nobelprize.org/prizes/physics/1944/rabi/biographical/",
+      "kind": "official"
+    },
+    {
+      "id": "src3",
+      "label": "Encyclopedia.com, Rabi, Isidor Isaac (Complete Dictionary of Scientific Biography)",
+      "url": "https://encyclopedia.com/people/science-and-technology/physics-biographies/isidor-isaac-rabi",
+      "kind": "reference"
+    },
+    {
+      "id": "src4",
+      "label": "US National Park Service, Manhattan Project scientists: Isidor Isaac Rabi",
+      "url": "https://www.nps.gov/people/manhattan-project-scientists-isidor-isaac-rabi.htm",
+      "kind": "official"
+    },
+    {
+      "id": "src5",
+      "label": "Jewage, Isidor Isaac Rabi – Biography",
+      "url": "https://www.jewage.org/wiki/en/Article:Isidor_Isaac_Rabi_-_Biography",
+      "kind": "reference"
+    },
+    {
+      "id": "src6",
+      "label": "National Academy of Sciences, Biographical Memoirs vol. 62, Norman F. Ramsey, 1993",
+      "url": "https://nap.nationalacademies.org/read/2201/chapter/65",
+      "kind": "reference"
+    },
+    {
+      "id": "src7",
+      "label": "National MagLab, Isidor Isaac Rabi",
+      "url": "https://nationalmaglab.org/magnet-academy/history-of-electricity-magnetism/pioneers/isidor-isaac-rabi/",
+      "kind": "organisation"
+    },
+    {
+      "id": "src8",
+      "label": "Nobel Foundation, Physics 1952 (Bloch and Purcell)",
+      "url": "https://www.nobelprize.org/prizes/physics/1952/summary/",
+      "kind": "official"
+    },
+    {
+      "id": "src9",
+      "label": "Brookhaven National Laboratory, About / History",
+      "url": "https://www.bnl.gov/about/history/",
+      "kind": "organisation"
+    },
+    {
+      "id": "src10",
+      "label": "Atomic Heritage Foundation, Isidor I. Rabi profile",
+      "url": "https://ahf.nuclearmuseum.org/profile/isidor-i-rabi",
+      "kind": "organisation"
+    }
+  ],
+  "media": [
+    {
+      "id": "m1",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/II%20Rabi.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:II_Rabi.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "Nobel Foundation",
+      "licence": "Public domain",
+      "hosting": "hotlink",
+      "caption": "דיוקן שחור-לבן של איזידור רבי, עם משקפיים עגולים, חליפה ועניבה.",
+      "illustrates": [
+        "c2"
+      ],
+      "date": "1944",
+      "width": 992,
+      "height": 1488
+    },
+    {
+      "id": "m2",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/I.%20I.%20Rabi%20signature.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:I._I._Rabi_signature.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "Isidor Isaac Rabi",
+      "licence": "Public domain",
+      "hosting": "hotlink",
+      "caption": "חתימתו של איזידור רבי בכתב יד: \"I. I. Rabi\".",
+      "illustrates": [],
+      "date": "Unknown da",
+      "width": 597,
+      "height": 164
+    },
+    {
+      "id": "m3",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Isidor%20I.%20Rabi%20Rad%20Lab%20Office%20GCP-00020880.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Isidor_I._Rabi_Rad_Lab_Office_GCP-00020880.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "Unknown authorUnknown author",
+      "licence": "Public domain",
+      "hosting": "hotlink",
+      "caption": "איזידור רבי יושב ליד שולחן במשרדו במעבדת הקרינה של MIT.",
+      "illustrates": [
+        "c13"
+      ],
+      "date": "August 26,",
+      "width": 800,
+      "height": 643
+    },
+    {
+      "id": "m4",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/1979%20Nobelpreistr%C3%A4gertagung%20Physik%3B%20Maik%C3%A4ferrede%20Frau%20Giaever%2C%20Isidor%20I.%20Rabi%2C%20Ivar%20Giaever%20-%20W134Nr.113951e%20-%20Willy%20Pragher.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:1979_Nobelpreistr%C3%A4gertagung_Physik%3B_Maik%C3%A4ferrede_Frau_Giaever%2C_Isidor_I._Rabi%2C_Ivar_Giaever_-_W134Nr.113951e_-_Willy_Pragher.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "Willy Pragher",
+      "licence": "CC BY 3.0 de",
+      "hosting": "hotlink",
+      "caption": "רבי, קשיש עם משקפיים כהים, עומד בין אישה לגבר בחליפה באירוע חוצות. לפי התיאור בוויקישיתוף, האישה היא גברת ג'יוור והגבר איוור ג'יוור.",
+      "illustrates": [],
+      "licence_url": "https://creativecommons.org/licenses/by/3.0/de/deed.en",
+      "date": "1979date Q",
+      "width": 1102,
+      "height": 723
+    },
+    {
+      "id": "m5",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/1979%20Nobelpreistr%C3%A4gertagung%20Physik%3B%20Maik%C3%A4ferrede%20Frau%20Giaever%2C%20Isidor%20I.%20Rabi%2C%20Ivar%20Giaever%20-%20W134Nr.113951c%20-%20Willy%20Pragher.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:1979_Nobelpreistr%C3%A4gertagung_Physik%3B_Maik%C3%A4ferrede_Frau_Giaever%2C_Isidor_I._Rabi%2C_Ivar_Giaever_-_W134Nr.113951c_-_Willy_Pragher.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "Willy Pragher",
+      "licence": "CC BY 3.0 de",
+      "hosting": "hotlink",
+      "caption": "רבי משוחח עם אישה וגבר בחליפה באירוע חוצות. לפי התיאור בוויקישיתוף, הם גברת ג'יוור ואיוור ג'יוור.",
+      "illustrates": [],
+      "licence_url": "https://creativecommons.org/licenses/by/3.0/de/deed.en",
+      "date": "1979date Q",
+      "width": 1102,
+      "height": 725
+    },
+    {
+      "id": "m7",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Isidor%20Isaac%20Rabi%20%281958%20UN%20photo%29.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Isidor_Isaac_Rabi_%281958_UN_photo%29.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "United Nations",
+      "licence": "Public domain",
+      "hosting": "hotlink",
+      "caption": "דיוקן שחור-לבן של רבי המבוגר, עם שיער לבן ומשקפי מסגרת כהים. לפי התיאור בוויקישיתוף זהו צילום של האו\"ם מ-1958.",
+      "illustrates": [],
+      "date": "1958",
+      "width": 1124,
+      "height": 1608
+    },
+    {
+      "id": "m8",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Atomic%20physicists%20Ernest%20O.%20Lawrence%2C%20Enrico%20Fermi%2C%20and%20Isidor%20Rabi%20-%20NARA%20-%20558595.tif?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Atomic_physicists_Ernest_O._Lawrence%2C_Enrico_Fermi%2C_and_Isidor_Rabi_-_NARA_-_558595.tif",
+      "source_name": "Wikimedia Commons",
+      "credit": "Unknown authorUnknown author or not provided",
+      "licence": "Public domain",
+      "hosting": "hotlink",
+      "caption": "שלושה גברים מדברים וצוחקים ליד קיר לבן שעליו תלוי תוף. לפי התיאור בוויקישיתוף, הם לורנס, פרמי ורבי.",
+      "illustrates": [],
+      "date": "between 19",
+      "width": 2382,
+      "height": 3000
+    },
+    {
+      "id": "m9",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bardeen%2C%20Rabi%2C%20Heisenberg%201962.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Bardeen%2C_Rabi%2C_Heisenberg_1962.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "Unknown authorUnknown author",
+      "licence": "CC BY-SA 3.0 nl",
+      "hosting": "hotlink",
+      "caption": "רבי יושב בחליפה ובפפיון באולם, ומשוחח עם שני גברים לצדו. לפי התיאור בוויקישיתוף, הם ג'ון ברדין וורנר הייזנברג.",
+      "illustrates": [],
+      "licence_url": "https://creativecommons.org/licenses/by-sa/3.0/nl/deed.en",
+      "date": "1962-07-02",
+      "width": 1761,
+      "height": 1400
+    },
+    {
+      "id": "m11",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ernest%20Lawrence%2C%20Enrico%20Fermi%2C%20and%20Isadore%20I.%20Rabi.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ernest_Lawrence%2C_Enrico_Fermi%2C_and_Isadore_I._Rabi.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "Los Alamos Laboratory",
+      "licence": "Attribution",
+      "hosting": "hotlink",
+      "caption": "שלושה גברים יושבים ומשוחחים ליד קמין בחדר שקיר לבן בו ותוף תלוי מעליהם. לפי התיאור בוויקישיתוף, הם לורנס, פרמי ורבי באוגוסט 1946.",
+      "illustrates": [],
+      "date": "1946-08",
+      "width": 982,
+      "height": 750
+    },
+    {
+      "id": "m12",
+      "kind": "video",
+      "url": "https://www.youtube.com/watch?v=l5NC4aUIWdI",
+      "youtube_id": "l5NC4aUIWdI",
+      "source_page": "https://www.youtube.com/watch?v=l5NC4aUIWdI",
+      "source_name": "YouTube",
+      "credit": "Freedom Pact | Joseph & Lewis",
+      "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+      "licence_url": "https://www.youtube.com/static?template=terms",
+      "hosting": "embed",
+      "caption": "שיחה שבה סאפי בהכל מסביר למה רבי זכה בפרס נובל בפיזיקה על גילוי התהודה המגנטית הגרעינית.",
+      "illustrates": [
+        "c2"
+      ],
+      "spoken": "en",
+      "audio_tracks": [
+        "en",
+        "ar",
+        "bn",
+        "de",
+        "es",
+        "fr",
+        "hi",
+        "id",
+        "it",
+        "he",
+        "ja",
+        "ko",
+        "ml",
+        "nl",
+        "pa",
+        "pl",
+        "pt",
+        "ru",
+        "ta",
+        "te",
+        "uk"
+      ]
+    },
+    {
+      "id": "m13",
+      "kind": "video",
+      "url": "https://www.youtube.com/watch?v=ZA6uNSg32kg",
+      "youtube_id": "ZA6uNSg32kg",
+      "source_page": "https://www.youtube.com/watch?v=ZA6uNSg32kg",
+      "source_name": "YouTube",
+      "credit": "trueimagesphoto",
+      "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+      "licence_url": "https://www.youtube.com/static?template=terms",
+      "hosting": "embed",
+      "caption": "הרצאה של דניאל קלפנר על חייו של רבי, ממוצא עני לפרס נובל.",
+      "illustrates": [],
+      "spoken": "en",
+      "audio_tracks": [
+        "en"
+      ]
+    },
+    {
+      "id": "m14",
+      "kind": "video",
+      "url": "https://www.youtube.com/watch?v=Lm412GwSkIM",
+      "youtube_id": "Lm412GwSkIM",
+      "source_page": "https://www.youtube.com/watch?v=Lm412GwSkIM",
+      "source_name": "YouTube",
+      "credit": "CBS News",
+      "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+      "licence_url": "https://www.youtube.com/static?template=terms",
+      "hosting": "embed",
+      "caption": "ארכיון CBS News: רבי חוזר ללוס אלמוס ב-1983, במלאת 40 שנה למעבדה, ומדבר על צערו על קיומה.",
+      "illustrates": [],
+      "spoken": "en",
+      "audio_tracks": [
+        "en"
+      ]
+    },
+    {
+      "id": "m15",
+      "kind": "video",
+      "url": "https://www.youtube.com/watch?v=0NUvx93e92g",
+      "youtube_id": "0NUvx93e92g",
+      "source_page": "https://www.youtube.com/watch?v=0NUvx93e92g",
+      "source_name": "YouTube",
+      "credit": "Web of Stories - Life Stories of Remarkable People",
+      "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+      "licence_url": "https://www.youtube.com/static?template=terms",
+      "hosting": "embed",
+      "caption": "ג'רמי ברנשטיין מספר על רבי, בסדרת ראיונות של Web of Stories.",
+      "illustrates": []
+    },
+    {
+      "id": "m16",
+      "kind": "video",
+      "url": "https://www.youtube.com/watch?v=gOE3cn96Gz0",
+      "youtube_id": "gOE3cn96Gz0",
+      "source_page": "https://www.youtube.com/watch?v=gOE3cn96Gz0",
+      "source_name": "YouTube",
+      "credit": "Web of Stories - Life Stories of Remarkable People",
+      "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+      "licence_url": "https://www.youtube.com/static?template=terms",
+      "hosting": "embed",
+      "caption": "הנס בטה מספר על ביקור אצל רבי, בסדרת ראיונות של Web of Stories.",
+      "illustrates": [],
+      "spoken": "de",
+      "audio_tracks": [
+        "de",
+        "en"
+      ]
+    },
+    {
+      "id": "m18",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/12.%20Tagung%201962%20Physik%3B%20Bayrisches%20Fr%C3%BChst%C3%BCck-%20Isidor%20I.%20Rabi%20fotografierend%20-%20LABW%20-%20Staatsarchiv%20Freiburg%20W%20134%20Nr.%20069601a.jpeg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:12._Tagung_1962_Physik%3B_Bayrisches_Fr%C3%BChst%C3%BCck-_Isidor_I._Rabi_fotografierend_-_LABW_-_Staatsarchiv_Freiburg_W_134_Nr._069601a.jpeg",
+      "source_name": "Wikimedia Commons",
+      "credit": "Willy Pragher",
+      "licence": "CC BY 4.0",
+      "hosting": "hotlink",
+      "caption": "רבי מצלם דרך מצלמה קטנה בכינוס חתני נובל, 1962",
+      "illustrates": [],
+      "licence_url": "https://creativecommons.org/licenses/by/4.0",
+      "date": "1962date Q",
+      "width": 723,
+      "height": 1043,
+      "role": "deed"
+    },
+    {
+      "id": "m19",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/HD.4G.040%20%2810537699686%29.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:HD.4G.040_%2810537699686%29.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "ENERGY.GOV",
+      "licence": "Public domain",
+      "hosting": "hotlink",
+      "caption": "רבי יושב ומשוחח עם אישה וגבר צעיר; לפי התיאור בארכיון, ג'יין ורוברט ווילסון ורבי",
+      "illustrates": [],
+      "date": "circa 1950",
+      "width": 3000,
+      "height": 2388,
+      "role": "deed"
+    },
+    {
+      "id": "m20",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Albert%20Einstein%2C%20Niels%20Bohr%2C%20James%20Franck%20and%20Rabi.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Portrait_of_Albert_Einstein%2C_Niels_Bohr%2C_James_Franck_and_Rabi.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "Smithsonian Institution from United States",
+      "licence": "No restrictions",
+      "hosting": "hotlink",
+      "caption": "רבי עומד מאחורי נילס בוהר, ג'יימס פרנק ואלברט איינשטיין היושבים על ספה, אוקטובר 1954",
+      "illustrates": [],
+      "licence_url": "https://www.flickr.com/commons/usage/",
+      "date": "20 May 200",
+      "width": 3555,
+      "height": 3014,
+      "role": "deed"
+    },
+    {
+      "id": "m22",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Physiker%20Kopenhagen%20Juli%201963.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Physiker_Kopenhagen_Juli_1963.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "Unknown authorUnknown author",
+      "licence": "Public domain",
+      "hosting": "hotlink",
+      "caption": "תצלום קבוצתי נוסף של פיזיקאים ובני זוגם בקופנהגן, יולי 1963, אחרי מותו של בוהר",
+      "illustrates": [],
+      "date": "1963-07",
+      "width": 4500,
+      "height": 2600,
+      "role": "deed"
+    },
+    {
+      "id": "m23",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/1979%20Nobelpreistr%C3%A4gertagung%20Physik%3B%20Maik%C3%A4ferrede%20Isidor%20I.%20Rabi%2C%20Ivar%20Giaever%20-%20W134Nr.113951a%20-%20Willy%20Pragher.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:1979_Nobelpreistr%C3%A4gertagung_Physik%3B_Maik%C3%A4ferrede_Isidor_I._Rabi%2C_Ivar_Giaever_-_W134Nr.113951a_-_Willy_Pragher.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "Willy Pragher",
+      "licence": "CC BY 3.0 de",
+      "hosting": "hotlink",
+      "caption": "רבי המבוגר משוחח עם איוור ג'יוור בכינוס חתני נובל בלינדאו, 1979",
+      "illustrates": [],
+      "licence_url": "https://creativecommons.org/licenses/by/3.0/de/deed.en",
+      "date": "1979date Q",
+      "width": 720,
+      "height": 1102,
+      "role": "deed"
+    },
+    {
+      "id": "m24",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/HD.3F.010%20%2811086446676%29.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:HD.3F.010_%2811086446676%29.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "ENERGY.GOV",
+      "licence": "Public domain",
+      "hosting": "hotlink",
+      "caption": "חתני נובל בפיזיקה: יושבים צ'ן-נינג יאנג ואיזידור רבי; עומדים ואל פיץ', ג'יימס קרונין וסמואל טינג",
+      "illustrates": [],
+      "width": 2233,
+      "height": 3200,
+      "role": "deed"
+    },
+    {
+      "id": "m25",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/HD.4G.026%20%2810537567494%29.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:HD.4G.026_%2810537567494%29.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "ENERGY.GOV",
+      "licence": "Public domain",
+      "hosting": "hotlink",
+      "caption": "בביתו של אופנהיימר בלוס אלמוס, 1944; לפי התיאור, רבי, דורותי מקיבין, אופנהיימר וויסקופף",
+      "illustrates": [],
+      "date": "1944",
+      "width": 2646,
+      "height": 2060,
+      "role": "deed"
+    },
+    {
+      "id": "m26",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/HD.4G.039%20%2810537699636%29.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:HD.4G.039_%2810537699636%29.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "ENERGY.GOV",
+      "licence": "Public domain",
+      "hosting": "hotlink",
+      "caption": "חברי הוועדה המייעצת של ועדת האנרגיה האטומית מגיעים לשדה התעופה בסנטה פה, 3 באפריל 1947",
+      "illustrates": [],
+      "date": "1947-04-03",
+      "width": 2637,
+      "height": 1913,
+      "role": "deed"
+    },
+    {
+      "id": "m27",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/President%20John%20F.%20Kennedy%20and%20Others%20at%20Swearing-In%20Ceremony%20for%20General%20Advisory%20Committee%20of%20the%20Arms%20Control%20and%20Disarmament%20Agency.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:President_John_F._Kennedy_and_Others_at_Swearing-In_Ceremony_for_General_Advisory_Committee_of_the_Arms_Control_and_Disarmament_Agency.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "Rowe, Abbie, 1905-1967",
+      "licence": "Public domain",
+      "hosting": "hotlink",
+      "caption": "הנשיא קנדי ואחרים במשרד הסגלגל בטקס השבעה של חברי הוועדה המייעצת של סוכנות פיקוח הנשק וההשבתה",
+      "illustrates": [],
+      "date": "1962-04-02",
+      "width": 1000,
+      "height": 781,
+      "role": "deed"
+    },
+    {
+      "id": "m29",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wheeler%20Rabi%20Wigner.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Wheeler_Rabi_Wigner.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "AIP Emilio Segrè Visual Archives, Wheeler Collection",
+      "licence": "Attribution",
+      "hosting": "hotlink",
+      "caption": "ג'ון ארצ'יבלד ויילר, איזידור רבי ויוג'ין ויגנר יושבים ליד שולחן",
+      "illustrates": [],
+      "date": "Unknown da",
+      "width": 3620,
+      "height": 2550,
+      "role": "deed"
+    },
+    {
+      "id": "m30",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Columbia%20University%2C%20New%20York%20City%20LCCN2007661253.tif?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Columbia_University%2C_New_York_City_LCCN2007661253.tif",
+      "source_name": "Wikimedia Commons",
+      "credit": "לא צוין",
+      "licence": "Public domain",
+      "hosting": "hotlink",
+      "caption": "פנורמה היסטורית של הקמפוס של קולומביה קולג' בניו יורק, תצלום ארכיון בשחור-לבן",
+      "illustrates": [],
+      "date": "1909date Q",
+      "width": 4096,
+      "height": 3320,
+      "role": "related"
+    },
+    {
+      "id": "m31",
+      "kind": "image",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/John%20Jay%20lobby.jpg?width=1280",
+      "source_page": "https://commons.wikimedia.org/wiki/File:John_Jay_lobby.jpg",
+      "source_name": "Wikimedia Commons",
+      "credit": "Alphalfalfa",
+      "licence": "CC BY-SA 4.0",
+      "hosting": "hotlink",
+      "caption": "אולם הכניסה של ג'ון ג'יי הול באוניברסיטת קולומביה, 1927",
+      "illustrates": [],
+      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2013-03-18",
+      "width": 1583,
+      "height": 1198,
+      "role": "related"
+    }
+  ],
+  "check": {
+    "passed": true,
+    "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
+    "checked_at": "2026-11-14T06:38:45Z",
+    "counts": {
+      "confirmed": 82,
+      "not_confirmed": 0,
+      "deleted_sentences": 3,
+      "first_round_confirmed": 81,
+      "first_round_contradicted": 2,
+      "first_round_unverifiable": 2
+    },
+    "note": "unverifiable sentences were deleted, contradicted ones fixed from the source and checked again"
+  },
+  "meta": {
+    "run": "isidor-rabi-nuclear-magnetic-resonance",
+    "pipeline": "scripts/museum/museum_line.py",
+    "models": {
+      "research": "sonnet-5-5",
+      "extract": "sonnet-5-5",
+      "media": "sonnet-5-5",
+      "write": "opus-5-5 medium",
+      "check": "opus-5-5 medium",
+      "fix": "opus-5-5 medium"
+    },
+    "source_quality": {
+      "sources": 8,
+      "wikipedia": 0,
+      "strong": 4,
+      "ok": true,
+      "warnings": []
+    },
+    "settled": [
+      {
+        "box": "d4",
+        "question": "באיזו שנה הוקמה מעבדת ברוקהייבן?",
+        "url": "https://www.bnl.gov/about/history/",
+        "by": "settle 24.11"
+      },
+      {
+        "box": "d6",
+        "question": "איזה גוף ניהל רבי, ועדת האנרגיה האטומית או הוועדה המייעצת שלה?",
+        "url": "https://ahf.nuclearmuseum.org/profile/isidor-i-rabi",
+        "by": "settle 24.11"
+      }
+    ],
+    "media_dedupe": [
+      {
+        "drop": "m6",
+        "keep": "m8",
+        "by": "reviewed 24.11"
+      },
+      {
+        "drop": "m10",
+        "keep": "m9",
+        "by": "reviewed 24.11"
+      }
+    ]
+  }
+}

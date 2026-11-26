@@ -1,0 +1,56 @@
+{
+ "schema": "maasei-backdrop/1",
+ "slug": "israeli-aid-myanmar-cyclone",
+ "media": "m7",
+ "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Cyclone%20Nargis%20%2810690701526%29.jpg?width=1920",
+ "img_small": "https://commons.wikimedia.org/wiki/Special:FilePath/Cyclone%20Nargis%20%2810690701526%29.jpg?width=1080",
+ "why": "An aerial view of flooded rice fields, a winding river and villages in the Irrawaddy Delta after Cyclone Nargis shows the disaster zone the Israeli teams came to, with wide depth and texture that still reads when darkened.",
+ "chosen_by": "opus picker",
+ "alternates": [
+  "m1"
+ ],
+ "from": {
+  "average": "#979d8e",
+  "picked": "#49502a",
+  "coloured_share": 0.112,
+  "lightness": 0.584
+ },
+ "palette": {
+  "paper": "#f2f4e9",
+  "surface": "#f9faf6",
+  "band": "#e8ecd7",
+  "tint": "#e5eacc",
+  "header": "#ecefdf",
+  "rule": "#ced5af",
+  "text": "#272a18",
+  "text2": "#484c33",
+  "accent": "#5c662e",
+  "meta": "#61654c",
+  "tone": "#1f221b",
+  "shadow": "30, 33, 18"
+ },
+ "checks": {
+  "text_on_paper": 13.21,
+  "text_on_surface": 14.0,
+  "text_on_band": 12.17,
+  "text_on_tint": 11.86,
+  "text_on_header": 12.57,
+  "text2_on_paper": 8.02,
+  "text2_on_surface": 8.5,
+  "text2_on_band": 7.39,
+  "text2_on_tint": 7.2,
+  "text2_on_header": 7.63,
+  "accent_on_paper": 5.56,
+  "accent_on_surface": 5.9,
+  "accent_on_band": 5.13,
+  "accent_on_tint": 5.0,
+  "accent_on_header": 5.3,
+  "meta_on_paper": 5.44,
+  "meta_on_surface": 5.77,
+  "meta_on_band": 5.01,
+  "meta_on_tint": 4.89,
+  "meta_on_header": 5.18,
+  "paper_on_accent": 5.56
+ },
+ "passed": true
+}

@@ -1,0 +1,56 @@
+{
+ "schema": "maasei-backdrop/1",
+ "slug": "israel-jordan-egypt-cyprus-wildfire",
+ "media": "m22",
+ "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Agios%20Amvrosios%2C%20Cyprus%20-%20panoramio.jpg?width=1920",
+ "img_small": "https://commons.wikimedia.org/wiki/Special:FilePath/Agios%20Amvrosios%2C%20Cyprus%20-%20panoramio.jpg?width=1080",
+ "why": "A wide, deep view of the green valley, village roofs and hills around Agios Amvrosios in the Limassol foothills, where the fire burned, showing the landscape that was at stake.",
+ "chosen_by": "opus picker",
+ "alternates": [
+  "m3"
+ ],
+ "from": {
+  "average": "#697774",
+  "picked": "#7da0b8",
+  "coloured_share": 0.294,
+  "lightness": 0.438
+ },
+ "palette": {
+  "paper": "#e9eff4",
+  "surface": "#f6f8fa",
+  "band": "#d7e4ec",
+  "tint": "#ccdeea",
+  "header": "#dfe8ef",
+  "rule": "#afc5d5",
+  "text": "#18232a",
+  "text2": "#33424c",
+  "accent": "#365d78",
+  "meta": "#4f5e68",
+  "tone": "#1b2221",
+  "shadow": "18, 27, 33"
+ },
+ "checks": {
+  "text_on_paper": 13.8,
+  "text_on_surface": 15.03,
+  "text_on_band": 12.34,
+  "text_on_tint": 11.58,
+  "text_on_header": 12.89,
+  "text2_on_paper": 8.95,
+  "text2_on_surface": 9.74,
+  "text2_on_band": 8.0,
+  "text2_on_tint": 7.51,
+  "text2_on_header": 8.36,
+  "accent_on_paper": 6.05,
+  "accent_on_surface": 6.59,
+  "accent_on_band": 5.41,
+  "accent_on_tint": 5.08,
+  "accent_on_header": 5.65,
+  "meta_on_paper": 5.78,
+  "meta_on_surface": 6.3,
+  "meta_on_band": 5.17,
+  "meta_on_tint": 4.85,
+  "meta_on_header": 5.4,
+  "paper_on_accent": 6.05
+ },
+ "passed": true
+}

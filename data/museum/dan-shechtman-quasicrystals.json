@@ -1,0 +1,2486 @@
+{
+ "schema": "maasei-museum/1",
+ "slug": "dan-shechtman-quasicrystals",
+ "deed": "דן שכטמן ראה סימטריה אסורה, ספג לעג — ושינה את הגדרת הגביש",
+ "canonical_type": "scientific-discovery",
+ "year": "1982",
+ "title": "דן שכטמן ראה במיקרוסקופ סימטריה אסורה, ספג לעג, ושינה את הגדרת הגביש",
+ "trailer": [
+  {
+   "text": "דן שכטמן, כימאי ישראלי יליד תל אביב, זכה בפרס נובל בכימיה לשנת 2011 על גילוי הקוואזי-גבישים.",
+   "claims": [
+    "c1",
+    "c2",
+    "c21"
+   ]
+  },
+  {
+   "text": "בבוקר 8 באפריל 1982 הופיעה במיקרוסקופ האלקטרונים שלו תמונה שבה האטומים ארוזים בדפוס שאינו יכול לחזור על עצמו.",
+   "claims": [
+    "c3",
+    "c5"
+   ]
+  },
+  {
+   "text": "הוא סיפר שאנשים פשוט צחקו עליו, וראש קבוצת המחקר ביקש ממנו לעזוב.",
+   "claims": [
+    "c39",
+    "c6"
+   ]
+  },
+  {
+   "text": "רק ב-1984 הצליח לפרסם את ממצאיו.",
+   "claims": [
+    "c17"
+   ]
+  },
+  {
+   "text": "ב-1992 שינה האיגוד הבינלאומי לקריסטלוגרפיה את הגדרת הגביש כך שתכלול קוואזי-גבישים.",
+   "claims": [
+    "c57"
+   ]
+  }
+ ],
+ "hero_media": [
+  "m8",
+  "m3",
+  "m5",
+  "m1",
+  "m2",
+  "m11",
+  "m10",
+  "m7",
+  "m21",
+  "m23",
+  "m24",
+  "m26",
+  "m31",
+  "m32",
+  "m34",
+  "m35",
+  "m36",
+  "m38",
+  "m39",
+  "m40",
+  "m41",
+  "m42",
+  "m43",
+  "m44",
+  "m57",
+  "m60",
+  "m61",
+  "m62",
+  "m66"
+ ],
+ "glance": [
+  {
+   "label": "מי",
+   "value": "דן שכטמן, כימאי ישראלי, יליד 1941 בתל אביב",
+   "claims": [
+    "c2",
+    "c21"
+   ]
+  },
+  {
+   "label": "הגילוי",
+   "value": "8 באפריל 1982",
+   "claims": [
+    "c3"
+   ]
+  },
+  {
+   "label": "איפה",
+   "value": "בארצות הברית, בשבתון מהטכניון",
+   "claims": [
+    "c44",
+    "c63"
+   ]
+  },
+  {
+   "label": "הפרסום",
+   "value": "Physical Review Letters, נובמבר 1984",
+   "claims": [
+    "c34"
+   ]
+  },
+  {
+   "label": "הגדרה חדשה לגביש",
+   "value": "1992",
+   "claims": [
+    "c57"
+   ]
+  },
+  {
+   "label": "הכרה",
+   "value": "פרס נובל בכימיה 2011",
+   "claims": [
+    "c1"
+   ]
+  }
+ ],
+ "stations": [
+  {
+   "id": "s1",
+   "title": "ילד מתל אביב, וחוק ישן על גבישים",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "דן שכטמן הוא אזרח ישראלי, יליד 1941 בתל אביב.",
+      "claims": [
+       "c2"
+      ]
+     },
+     {
+      "text": "לפי בריטניקה, הוא נולד ב-24 בינואר 1941.",
+      "claims": [
+       "c21"
+      ]
+     },
+     {
+      "text": "לפי ויקיפדיה, הוא גדל בפתח תקווה וברמת גן במשפחה יהודית.",
+      "claims": [
+       "c22"
+      ]
+     },
+     {
+      "text": "כילד הוקסם מ\"האי המסתורי\" של ז'ול ורן וקרא אותו פעמים רבות.",
+      "claims": [
+       "c23"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "לפי בריטניקה, הוא קיבל תואר שני ב-1968 ודוקטורט ב-1972 בהנדסת חומרים בטכניון.",
+      "claims": [
+       "c71"
+      ]
+     },
+     {
+      "text": "לפי הטכניון, ב-1975 הצטרף למחלקה למדע והנדסה של חומרים בטכניון.",
+      "claims": [
+       "c62"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "האמינו שבכל חומר מוצק האטומים ארוזים בגבישים, בדפוסים סימטריים שחוזרים על עצמם שוב ושוב.",
+      "claims": [
+       "c4"
+      ]
+     },
+     {
+      "text": "בגבישים יכולה להיות סימטריה סיבובית כפולה, משולשת, מרובעת או שישית, אבל לעולם לא חמישית.",
+      "claims": [
+       "c47"
+      ]
+     },
+     {
+      "text": "לפי הפיזיקאי פול שטיינהרדט, במשך 200 שנה הייתה תפיסה די מוצקה של מהו גביש.",
+      "claims": [
+       "c29"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "לפי הטכניון, שכטמן קיבל את התואר הראשון ב-1966, את התואר השני ב-1968 ואת הדוקטורט ב-1972.",
+      "claims": [
+       "c81"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m18",
+    "m7",
+    "m51"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s2",
+   "title": "הבוקר של 8 באפריל 1982",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "לפי הטכניון, בשבתון בג'ונס הופקינס, בתוכנית משותפת עם NBS, חקר שכטמן סגסוגות של אלומיניום ומתכות מעבר שהתמצקו במהירות.",
+      "claims": [
+       "c63"
+      ]
+     },
+     {
+      "text": "לפי NPR, הוא עבד בפרויקט במימון משרד ההגנה האמריקאי, שחיפש חומרים חריגים במכון הלאומי לתקנים.",
+      "claims": [
+       "c24"
+      ]
+     },
+     {
+      "text": "שכטמן ועמיתיו ערבבו אלומיניום ומנגן ביחס של כשש לאחד.",
+      "claims": [
+       "c13"
+      ]
+     },
+     {
+      "text": "הם חיממו את התערובת עד שנמסה וקיררו אותה מהר בחזרה למצב מוצק.",
+      "claims": [
+       "c13"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "בבוקר 8 באפריל 1982 הופיעה במיקרוסקופ האלקטרונים שלו תמונה שנוגדת את חוקי הטבע.",
+      "claims": [
+       "c3"
+      ]
+     },
+     {
+      "text": "שכטמן סיפר שספר את הנקודות, שהיו 10, ואמר לעצמו שזה לא יכול להיות.",
+      "claims": [
+       "c25"
+      ]
+     },
+     {
+      "text": "התמונה הראתה שהאטומים בגביש שלו ארוזים בדפוס שאינו יכול לחזור על עצמו.",
+      "claims": [
+       "c5"
+      ]
+     },
+     {
+      "text": "לפי אתר נובל, זה היה דפוס עקיפה סדיר שלא התאים לשום מבנה שחוזר על עצמו מחזורית.",
+      "claims": [
+       "c79"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "לפי בריטניקה, הסגסוגת הציגה סימטריה חמישית, כלומר סיבוב ב-72 מעלות מחזיר את אותו מבנה.",
+      "claims": [
+       "c14"
+      ]
+     },
+     {
+      "text": "לפי האקדמיה השוודית, היחס בין מרחקים שונים בין אטומים בקוואזי-גבישים קשור ליחס הזהב.",
+      "claims": [
+       "c80"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "לפי NIST, שכטמן עשה את הגילוי שזיכה אותו בפרס נובל ב-1982, בזמן שבתון של שנתיים ב-NIST.",
+      "claims": [
+       "c82"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m15",
+    "m16",
+    "m5",
+    "m47",
+    "m53",
+    "m54"
+   ],
+   "disagreements": [
+    "d2",
+    "d4"
+   ]
+  },
+  {
+   "id": "s3",
+   "title": "\"בושה לקבוצה\"",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "שכטמן סיפר בראיון ל\"הארץ\" שאנשים פשוט צחקו עליו.",
+      "claims": [
+       "c39"
+      ]
+     },
+     {
+      "text": "הוא אמר שהיה נושא ללעג ולהרצאות על יסודות הקריסטלוגרפיה.",
+      "claims": [
+       "c73"
+      ]
+     },
+     {
+      "text": "לדבריו, ראש המעבדה הניח על שולחנו ספר על עקיפה ואמר שמה שהוא טוען נוגד כל מה שפורסם.",
+      "claims": [
+       "c51",
+       "c45"
+      ]
+     },
+     {
+      "text": "לפי שכטמן, ראש המעבדה שלו בישראל אמר לו שהוא בושה לקבוצה ושהוא לא יכול לשאת את הבושה.",
+      "claims": [
+       "c26"
+      ]
+     },
+     {
+      "text": "שכטמן התבקש לעזוב את קבוצת המחקר שלו במכון הלאומי לתקנים.",
+      "claims": [
+       "c6",
+       "c17"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "הכימאי האמריקאי לינוס פאולינג היה עז במיוחד ואמר שאין קוואזי-גבישים, יש רק קוואזי-מדענים.",
+      "claims": [
+       "c18"
+      ]
+     },
+     {
+      "text": "פאולינג הציע שהדפוס נגרם מחמישה גבישים המסובבים ב-72 מעלות זה ביחס לזה.",
+      "claims": [
+       "c35"
+      ]
+     },
+     {
+      "text": "לפי ויקיפדיה, פאולינג כנראה לא הכיר מאמר מ-1981 של קלינרט ומאקי, שהצביע על האפשרות לפאזה איקוסהדרלית לא-מחזורית.",
+      "claims": [
+       "c76"
+      ]
+     },
+     {
+      "text": "ב-1981 חזה הקריסטלוגרף אלן לינדזי מקאיי את קיומם של מבנים כאלה.",
+      "claims": [
+       "c78"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "שכטמן אמר על פאולינג שהיה מדען מזהיר, אבל חסר ענווה, וחשב שהוא יודע הכול.",
+      "claims": [
+       "c54"
+      ]
+     },
+     {
+      "text": "הוא גם אמר שכמדען צעיר, כשפאולינג מתווכח איתו כשווה והוא יודע שפאולינג טועה, זו לא תחושה רעה.",
+      "claims": [
+       "c42"
+      ]
+     },
+     {
+      "text": "לפי האקדמיה השוודית, שכטמן נאלץ לנהל מאבק עז נגד המדע המבוסס.",
+      "claims": [
+       "c7"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m14"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s4",
+   "title": "שנתיים של בדיקה, ומאמר אחד",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "שכטמן בדק ובדק שוב, במשך שנתיים, שהכול נכון.",
+      "claims": [
+       "c48"
+      ]
+     },
+     {
+      "text": "לפי NPR, הוא נלחם שנתיים כדי להוכיח שזו לא טעות, ולא הצליח לפרסם עד שהצטרף לעמיתים מוערכים.",
+      "claims": [
+       "c27"
+      ]
+     },
+     {
+      "text": "לפי Physics World, כתב העת Journal of Applied Physics דחה את המאמר המקורי בנימוק שהוא לא יעניין את הפיזיקאים שקוראים אותו.",
+      "claims": [
+       "c32"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "ב-1984 הוגש תקציר המאמר ל-Physical Review Letters ונתקבל.",
+      "claims": [
+       "c53"
+      ]
+     },
+     {
+      "text": "המאמר פורסם שם בנובמבר 1984, ומאז הפך לאחד המאמרים המצוטטים ביותר בספרות המדעית.",
+      "claims": [
+       "c34"
+      ]
+     },
+     {
+      "text": "לפי ג'ון קאן, בשנה שאחרי הפרסום נראו 300 מאמרים מכל העולם.",
+      "claims": [
+       "c28"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m3"
+   ],
+   "disagreements": [
+    "d5"
+   ]
+  },
+  {
+   "id": "s5",
+   "title": "מלעג להגדרה חדשה",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "עד 1987 הצליחו קבוצות נוספות ליצור קוואזי-גבישים דומים.",
+      "claims": [
+       "c77"
+      ]
+     },
+     {
+      "text": "ב-1987 זוכה שכטמן מחדש, כשמדענים בצרפת וביפן יצרו קוואזי-גבישים גדולים מספיק כדי לבחון אותם בקרני רנטגן.",
+      "claims": [
+       "c19"
+      ]
+     },
+     {
+      "text": "התוצאות הוצגו באותה שנה בכנס קריסטלוגרפיה בינלאומי באוסטרליה.",
+      "claims": [
+       "c58"
+      ]
+     },
+     {
+      "text": "ב-1984, השנה שבה הצליח שכטמן לפרסם את ממצאיו, טבעו הפיזיקאי האמריקאי פול שטיינהרדט והפיזיקאי הישראלי דב לוין את המונח \"קוואזי-גביש\".",
+      "claims": [
+       "c20"
+      ]
+     },
+     {
+      "text": "שטיינהרדט סיפר שהדפוס שחישב והדפוס של שכטמן תאמו להפליא.",
+      "claims": [
+       "c31"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "שכטמן סיפר שפאולינג שלח לו מכתב והציע לפרסם יחד מאמר מדעי. שכטמן הסכים בתנאי שפאולינג יכיר בקיומם של הקוואזי-גבישים, ופאולינג השיב שעליו לחכות עוד עד שקיומם יוכח.",
+      "claims": [
+       "c55"
+      ]
+     },
+     {
+      "text": "לדבריו, כשפאולינג מת, הרעיון של קוואזי-מחזוריות בגבישים כבר התקבל כמעט לחלוטין.",
+      "claims": [
+       "c56"
+      ]
+     },
+     {
+      "text": "ב-1992 שינה האיגוד הבינלאומי לקריסטלוגרפיה את הגדרת הגביש כך שתכלול קוואזי-גבישים.",
+      "claims": [
+       "c57",
+       "c46"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "לדברי רני דיהל, הגילוי שינה את החשיבה על חומר גבישי ואף חייב הגדרה חדשה למונח \"גביש\".",
+      "claims": [
+       "c37"
+      ]
+     },
+     {
+      "text": "לפי האגודה האמריקאית של הטכניון, המחקר הצית שפע של ספרים ומחקרים על הקוואזי-גביש.",
+      "claims": [
+       "c66"
+      ]
+     },
+     {
+      "text": "הפיזיקאי רונאן מקגרת' אמר ששכטמן הצליח לשכנע את הקהילה שצדק לאורך כל הדרך.",
+      "claims": [
+       "c36"
+      ]
+     },
+     {
+      "text": "לדברי רון ליפשיץ מאוניברסיטת תל אביב, שכטמן התמודד עם הספקנות באופן מדעי וג'נטלמני והשיב למבקריו דרך המדע.",
+      "claims": [
+       "c41"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m48",
+    "m49",
+    "m55"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s6",
+   "title": "ממחבתות ועד פלדה",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "לפי האקדמיה השוודית, חברה שוודית מצאה קוואזי-גבישים בסוג מסוים של פלדה, ושם הם מחזקים את החומר כמו שריון.",
+      "claims": [
+       "c9"
+      ]
+     },
+     {
+      "text": "לגבישים המלאכותיים האלה יש תכונות כמו קשיחות וחלקלקות חריגות, ולכן אפשר להשתמש בהם במכונות גילוח ובמחבתות מסוימות נגד הידבקות.",
+      "claims": [
+       "c30"
+      ]
+     },
+     {
+      "text": "לפי האגודה האמריקאית של הטכניון, הם משמשים גם בפלדה עמידה בפני קורוזיה בציוד כירורגי.",
+      "claims": [
+       "c67"
+      ]
+     },
+     {
+      "text": "שלושה עשורים אחרי הגילוי, קוואזי-גבישים עמידים לחום ולחלודה נכנסים לכלים כמו מנועים ומחבתות.",
+      "claims": [
+       "c43"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "פסיפסים לא-מחזוריים באלהמברה שבספרד ובמקדש דרב-אי אימאם באיראן עזרו למדענים להבין איך נראים קוואזי-גבישים ברמה האטומית.",
+      "claims": [
+       "c8"
+      ]
+     },
+     {
+      "text": "כיום דווח ואושר קיומם של מאות קוואזי-גבישים מלאכותיים.",
+      "claims": [
+       "c50"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m58",
+    "m59"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s7",
+   "title": "נובל, והאיש שמאחוריו",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "האקדמיה המלכותית השוודית למדעים החליטה להעניק את פרס נובל בכימיה לשנת 2011 לדן שכטמן, על גילוי הקוואזי-גבישים.",
+      "claims": [
+       "c1",
+       "c21"
+      ]
+     },
+     {
+      "text": "הפרס היה בסך 10 מיליון כתר שוודי, כ-1.5 מיליון דולר.",
+      "claims": [
+       "c10"
+      ]
+     },
+     {
+      "text": "לפי FAPESP, שכטמן הוא הישראלי השני שזכה בנובל בכימיה בתוך שנתיים, והרביעי בעשור.",
+      "claims": [
+       "c59"
+      ]
+     },
+     {
+      "text": "שכטמן ייחס את הצלחת ישראל בפרסי נובל להשקעה של ישראל בכל תחומי המדע.",
+      "claims": [
+       "c60"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "לפני כן זכה בפרס רוטשילד (1990), בפרס ויצמן (1993), בפרס ישראל (1998), בפרס וולף בפיזיקה (1999) ובפרס אמינוף (2000).",
+      "claims": [
+       "c64",
+       "c38"
+      ]
+     },
+     {
+      "text": "ב-1996 נבחר לחבר באקדמיה הישראלית למדעים.",
+      "claims": [
+       "c65"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "בטכניון יצר והעביר את הקורס יזמות טכנולוגית, אחד הקורסים הפופולריים בקמפוס.",
+      "claims": [
+       "c68"
+      ]
+     },
+     {
+      "text": "הוא אמר שניהל בחיפה פרויקט חינוך מדעי לילדי גן.",
+      "claims": [
+       "c61"
+      ]
+     },
+     {
+      "text": "הוא נשוי לפרופ' ציפורה שכטמן, ראשת המחלקה ליעוץ והתפתחות האדם באוניברסיטת חיפה.",
+      "claims": [
+       "c74"
+      ]
+     },
+     {
+      "text": "לפי ויקיפדיה, הוא מבלה כחמישה חודשים בשנה באיימס, במשרה חלקית.",
+      "claims": [
+       "c75"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m17",
+    "m8",
+    "m1",
+    "m2",
+    "m9",
+    "m10",
+    "m11",
+    "m13",
+    "m12",
+    "m4",
+    "m6",
+    "m22",
+    "m27",
+    "m29",
+    "m45"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s8",
+   "title": "קול אחד בכנסת",
+   "kind": "hard",
+   "paragraphs": [
+    [
+     {
+      "text": "ב-2014 התמודד שכטמן על נשיאות ישראל.",
+      "claims": [
+       "c69"
+      ]
+     },
+     {
+      "text": "בבחירות בכנסת ב-10 ביוני 2014 קיבל קול אחד בלבד, וראובן ריבלין נבחר.",
+      "claims": [
+       "c69",
+       "c72"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m33",
+    "m37"
+   ],
+   "disagreements": []
+  }
+ ],
+ "disagreements": [
+  {
+   "id": "d2",
+   "question": "היכן נעשה הגילוי?",
+   "versions": [
+    {
+     "says": "לפי אתר נובל, באוניברסיטת ג'ונס הופקינס בבולטימור, בתחילת שנות ה-80",
+     "claims": [
+      "c11"
+     ]
+    },
+    {
+     "says": "לפי בריטניקה, ב-1982 היה שכטמן בשבתון במכון הלאומי לתקנים בגיתרסבורג שבמרילנד",
+     "claims": [
+      "c12"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d4",
+   "question": "איזו סימטריה נצפתה?",
+   "versions": [
+    {
+     "says": "לפי בריטניקה, סימטריה חמישית: סיבוב ב-72 מעלות מחזיר את אותו מבנה",
+     "claims": [
+      "c14"
+     ]
+    },
+    {
+     "says": "לפי Physics World, סימטריה סיבובית \"10-קיפולית\" בדפוס שאינו חוזר על עצמו",
+     "claims": [
+      "c15"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d5",
+   "question": "לאיזה כתב עת נשלח המאמר הראשון?",
+   "versions": [
+    {
+     "says": "לפי Physics World, כתב העת Journal of Applied Physics דחה את המאמר המקורי",
+     "claims": [
+      "c32"
+     ]
+    },
+    {
+     "says": "לפי FAPESP, ב-1983 הגיש שכטמן את המאמר הראשון לכתב עת כימי",
+     "claims": [
+      "c52"
+     ]
+    }
+   ]
+  }
+ ],
+ "unknowns": [
+  {
+   "text": "הדף לא יודע את שמו של ראש קבוצת המחקר שביקש משכטמן לעזוב",
+   "claims": [
+    "c6",
+    "c26"
+   ]
+  },
+  {
+   "text": "שכטמן נלחם שנתיים כדי להוכיח שזו לא טעות, ולא הצליח לפרסם עד שחבר לעמיתים מוערכים, ובהם המחבר-השותף ג'ון קאן ממעבדת מכון התקנים.",
+   "claims": [
+    "c27"
+   ]
+  },
+  {
+   "text": "הדף לא יודע אם המאמר המשותף שהציע פאולינג נכתב אי פעם",
+   "claims": [
+    "c55"
+   ]
+  }
+ ],
+ "claims": [
+  {
+   "id": "c1",
+   "text": "האקדמיה המלכותית השוודית למדעים החליטה להעניק את פרס נובל בכימיה לשנת 2011 לדן שכטמן.",
+   "source": "src1",
+   "quote": "The Royal Swedish Academy of Sciences has decided to award the Nobel Prize in Chemistry for 2011 to",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c2",
+   "text": "שכטמן הוא אזרח ישראלי, יליד 1941 בתל אביב.",
+   "source": "src1",
+   "quote": "Dan Shechtman, Israeli citizen. Born 1941 in Tel Aviv, Israel.",
+   "status": "confirmed",
+   "locator": "שורה 16"
+  },
+  {
+   "id": "c21",
+   "text": "דניאל שכטמן הוא כימאי ישראלי שנולד ב-24 בינואר 1941 וזכה בפרס נובל בכימיה 2011 על גילוי הקוואזי-גבישים.",
+   "source": "src2",
+   "quote": "Daniel Shechtman (born January 24, 1941, Palestine [now Tel Aviv–Yafo, Israel]) is an Israeli chemist who was awarded the 2011 Nobel Prize for Chemistry",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c3",
+   "text": "בבוקר 8 באפריל 1982 הופיעה במיקרוסקופ האלקטרונים של שכטמן תמונה שנוגדת את חוקי הטבע.",
+   "source": "src1",
+   "quote": "On the morning of 8 April 1982, an image counter to the laws of nature appeared in Dan Shechtman’s electron microscope.",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c5",
+   "text": "התמונה של שכטמן הראתה שהאטומים בגביש שלו ארוזים בדפוס שאינו יכול לחזור על עצמו.",
+   "source": "src1",
+   "quote": "Shechtman’s image, however, showed that the atoms in his crystal were packed in a pattern that could not be repeated.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c39",
+   "text": "שכטמן סיפר בראיון להארץ שאנשים פשוט צחקו עליו.",
+   "source": "src3",
+   "quote": "People just laughed at me,” Shechtman recalled in an interview this year with Israeli newspaper Haaretz",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c6",
+   "text": "במהלך הגנתו על ממצאיו התבקש שכטמן לעזוב את קבוצת המחקר שלו.",
+   "source": "src1",
+   "quote": "In the course of defending his findings, he was asked to leave his research group.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c17",
+   "text": "שכטמן התבקש לעזוב את קבוצת המחקר שלו במכון הלאומי לתקנים, ורק ב-1984 הצליח לפרסם את ממצאיו.",
+   "source": "src2",
+   "quote": "Shechtman was asked to leave his research group at the National Bureau of Standards, and it was not until 1984 that he was able to publish his findings.",
+   "status": "confirmed",
+   "locator": "שורה 15"
+  },
+  {
+   "id": "c57",
+   "text": "ב-1992 האיגוד הבינלאומי לקריסטלוגרפיה שינה את הגדרת הגביש כך שתכלול קוואזי-גבישים.",
+   "source": "src4",
+   "quote": "Finally, in 1992, the International Union of Crystallography changed the definition of crystal to include quasicrystals.",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c44",
+   "text": "לפי אל-ג'זירה, שכטמן עבד בארצות הברית ב-1982 כשראה אטומים בגביש יוצרים דפוס חמש-צלעי שאינו חוזר על עצמו.",
+   "source": "src3",
+   "quote": "Shechtman, now 70 years old, was working in the United States in 1982 when he observed atoms in a crystal he had made form a five-sided pattern",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c63",
+   "text": "לפי הטכניון, בשבתון בג'ונס הופקינס (בתוכנית משותפת עם NBS) למד שכטמן סגסוגות אלומיניום-מתכת מעבר שהתמצקו במהירות.",
+   "source": "src5",
+   "quote": "In 1981-l983 he was on Sabbatical at the Johns Hopkins University, where he studied rapidly solidified aluminum transition metal alloys (joint program with NBS).",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c34",
+   "text": "מאמרו של שכטמן פורסם סוף סוף ב-Physical Review Letters בנובמבר 1984 ומאז הפך לאחד המאמרים המצוטטים ביותר בספרות המדעית.",
+   "source": "src6",
+   "quote": "Shechtman’s paper – which was finally published in Physical Review Letters in November 1984 – has since become one of the most-cited research articles in the scientific literature.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c22",
+   "text": "לפי ויקיפדיה, שכטמן גדל בפתח תקווה וברמת גן במשפחה יהודית.",
+   "source": "src7",
+   "quote": "He grew up in Petah Tikva and Ramat Gan in a Jewish family.",
+   "status": "confirmed",
+   "locator": "שורה 38"
+  },
+  {
+   "id": "c23",
+   "text": "כילד שכטמן הוקסם מ\"האי המסתורי\" של ז'ול ורן וקרא אותו פעמים רבות.",
+   "source": "src7",
+   "quote": "As a child, Shechtman was fascinated by Jules Verne's The Mysterious Island (1874), which he read many times.",
+   "status": "confirmed",
+   "locator": "שורה 38"
+  },
+  {
+   "id": "c71",
+   "text": "לפי בריטניקה, שכטמן קיבל תואר שני ב-1968 ודוקטורט ב-1972 בהנדסת חומרים בטכניון.",
+   "source": "src2",
+   "quote": "He then earned a master’s (1968) and a doctoral degree (1972) in materials engineering from Technion.",
+   "status": "confirmed",
+   "locator": "שורה 13"
+  },
+  {
+   "id": "c62",
+   "text": "לפי הטכניון, ב-1975 הצטרף שכטמן למחלקה למדע והנדסה של חומרים בטכניון.",
+   "source": "src5",
+   "quote": "In 1975 he joined the department of materials science & engineering at Technion.",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c4",
+   "text": "האמינו שבכל חומר מוצק האטומים ארוזים בגבישים בדפוסים סימטריים החוזרים על עצמם מחזורית שוב ושוב.",
+   "source": "src1",
+   "quote": "In all solid matter, atoms were believed to be packed inside crystals in symmetrical patterns that were repeated periodically over and over again.",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c47",
+   "text": "בגבישים יכולה להיות סימטריה סיבובית כפולה, משולשת, מרובעת ושישית, אך לעולם לא חמישית.",
+   "source": "src9",
+   "quote": "With crystals, you can have two-fold, three-fold, four-fold, and six-fold rotational symmetry ─ but never five.",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c29",
+   "text": "לפי פול שטיינהרדט, במשך 200 שנה הייתה תפיסה די מוצקה של מהו גביש.",
+   "source": "src10",
+   "quote": "\"For 200 years, we had a pretty firm idea of what a crystal is,\" says Paul Steinhardt, a professor of physics at Princeton University.",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c24",
+   "text": "לפי NPR, מדען ישראלי בשם דניאל שכטמן עבד בפרויקט במימון משרד ההגנה האמריקאי שחיפש חומרים חריגים במכון הלאומי לתקנים.",
+   "source": "src10",
+   "quote": "An Israeli scientist named Daniel Shechtman was working on a U.S. Defense Department-funded project to search for unusual materials at what was then the National Bureau of Standards",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c13",
+   "text": "שכטמן ועמיתיו ערבבו אלומיניום ומנגן ביחס של כשש לאחד, חיממו עד להתכה וקירררו במהירות בחזרה למצב מוצק.",
+   "source": "src2",
+   "quote": "Shechtman and his colleagues mixed aluminum and manganese in a roughly six-to-one proportion; they then heated the mixture and, once it melted, rapidly cooled it back into the solid state.",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c25",
+   "text": "שכטמן סיפר שספר את הנקודות, היו 10 נקודות, ואמר לעצמו שזה לא יכול להיות.",
+   "source": "src10",
+   "quote": "And I counted, and there were 10 spots. And I said, 'No, cannot be!' And I counted the other way",
+   "status": "confirmed",
+   "locator": "שורה 15"
+  },
+  {
+   "id": "c79",
+   "text": "לפי אתר נובל, שכטמן גילה דפוס עקיפה סדיר שלא התאים לשום מבנה החוזר על עצמו מחזורית.",
+   "source": "src11",
+   "quote": "he discovered a regular diffraction pattern that did not match any periodically repeated structure.",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c14",
+   "text": "לפי בריטניקה, במיקרוסקופ אלקטרונים מצא שכטמן שהסגסוגת המוצקה מציגה באופן בלתי צפוי סימטריה חמישית, כלומר סיבוב ב-72 מעלות מחזיר את אותו מבנה.",
+   "source": "src2",
+   "quote": "Using an electron microscope, Shechtman found that the solidified alloy unexpectedly displayed fivefold symmetry; that is, rotating it by 72° (360°/5) reproduced the same structure.",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c80",
+   "text": "לפי האקדמיה השוודית, היחס בין מרחקים שונים בין אטומים בקוואזי-גבישים קשור ליחס הזהב.",
+   "source": "src1",
+   "quote": "In quasicrystals, for instance, the ratio of various distances between atoms is related to the golden mean.",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c73",
+   "text": "שכטמן אמר שהיה נושא ללעג ולהרצאות על יסודות הקריסטלוגרפיה.",
+   "source": "src7",
+   "quote": "I was a subject of ridicule and lectures about the basics of crystallography.",
+   "status": "confirmed",
+   "locator": "שורה 54"
+  },
+  {
+   "id": "c51",
+   "text": "שכטמן סיפר שראש המעבדה הניח על שולחנו ספר על עקיפה ואמר שמה שהוא טוען נוגד כל מה שפורסם.",
+   "source": "src4",
+   "quote": "The head of the laboratory where I worked put a book on diffraction on my table and told me I should take it",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c45",
+   "text": "ראש קבוצת המחקר של שכטמן נתן לו ספר על גבישים והציע שיקרא אותו.",
+   "source": "src9",
+   "quote": "The head of Shechtman’s own research group gave him a textbook on crystallography and suggested that he read it.",
+   "status": "confirmed",
+   "locator": "שורה 23"
+  },
+  {
+   "id": "c26",
+   "text": "לפי שכטמן, ראש הקבוצה שלו אמר לו שהוא בושה לקבוצה ושהוא לא יכול לשאת את הבושה.",
+   "source": "src10",
+   "quote": "You are a disgrace to our group, and I cannot bear this disgrace.",
+   "status": "confirmed",
+   "locator": "שורה 17"
+  },
+  {
+   "id": "c18",
+   "text": "הכימאי האמריקאי לינוס פאולינג היה עז במיוחד ואמר שאין קוואזי-גבישים, רק קוואזי-מדענים.",
+   "source": "src2",
+   "quote": "American chemist Linus Pauling was particularly vehement, saying, “There are no quasicrystals, only quasi-scientists.”",
+   "status": "confirmed",
+   "locator": "שורה 15"
+  },
+  {
+   "id": "c35",
+   "text": "פאולינג הציע שדפוס ההעקיפה נגרם מחמישה גבישים המסובבים ב-72 מעלות זה ביחס לזה.",
+   "source": "src6",
+   "quote": "Pauling, for example, suggesting that the observed diffraction pattern was caused by five crystals rotated by 72 degrees relative to one other",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c76",
+   "text": "לפי ויקיפדיה, פאולינג כנראה לא הכיר מאמר מ-1981 של קלינרט ומאקי שהצביע על האפשרות לפאזה איקוסהדרלית לא-מחזורית.",
+   "source": "src7",
+   "quote": "Pauling was apparently unaware of a paper in 1981 by H. Kleinert and K. Maki which had pointed out the possibility of a non-periodic Icosahedral Phase",
+   "status": "confirmed",
+   "locator": "שורה 54"
+  },
+  {
+   "id": "c78",
+   "text": "ב-1981 הקריסטלוגרף אלן לינדזי מקאיי חזה את קיומם של מבנים כאלה.",
+   "source": "src9",
+   "quote": "In 1981, crystallographer Alan Lindsay Mackay predicted the existence of such structures.",
+   "status": "confirmed",
+   "locator": "שורה 19"
+  },
+  {
+   "id": "c54",
+   "text": "שכטמן אמר על פאולינג שהיה מדען מזהיר אך חסר ענווה וחשב שהוא יודע הכול.",
+   "source": "src4",
+   "quote": "Pauling was a brilliant scientist, but lacked humility and thought he knew everything,” said Shechtman.",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c42",
+   "text": "שכטמן אמר שכמדען צעיר, כשפאולינג מתווכח איתו כשווה והוא יודע שפאולינג טועה, זו לא תחושה רעה.",
+   "source": "src3",
+   "quote": "When you’re a young scientist, and you’re faced with perhaps the top international scientist, Professor Linus Pauling… and he argues with you as an equal",
+   "status": "confirmed",
+   "locator": "שורה 17"
+  },
+  {
+   "id": "c7",
+   "text": "לפי האקדמיה השוודית, שכטמן נאלץ לנהל מאבק עז נגד המדע המבוסס.",
+   "source": "src1",
+   "quote": "Dan Shechtman had to fight a fierce battle against established science.",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c48",
+   "text": "שכטמן בדק ובדק שוב במשך שנתיים שהכול נכון, ובסוף פרסם מאמר.",
+   "source": "src9",
+   "quote": "For two years, he checked and double-checked that everything was correct, and in the end, managed to publish a paper.",
+   "status": "confirmed",
+   "locator": "שורה 17"
+  },
+  {
+   "id": "c27",
+   "text": "שכטמן נלחם שנתיים כדי להוכיח שזו לא טעות, ולא הצליח לפרסם עד שהצטרף לעמיתים מוערכים.",
+   "source": "src10",
+   "quote": "For two years, Shechtman fought to prove it wasn't a mistake. But he couldn't get his findings published until finally he teamed up with some respected colleagues.",
+   "status": "confirmed",
+   "locator": "שורה 19"
+  },
+  {
+   "id": "c32",
+   "text": "לפי Physics World, כתב העת Journal of Applied Physics דחה את המאמר המקורי של שכטמן בנימוק שהוא לא יעניין את הפיזיקאים הקוראים אותו.",
+   "source": "src6",
+   "quote": "The Journal of Applied Physics, for example, rejected Shechtman’s original paper detailing the discovery on the grounds that it would not interest the physicists who read the journal.",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c53",
+   "text": "ב-1984 תקציר המאמר המקורי הוגש ונתקבל ב-Physical Review Letters היוקרתי.",
+   "source": "src4",
+   "quote": "In 1984, a summary of the original article on quasicrystals was submitted and accepted by the prestigious Physical Review Letters",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c28",
+   "text": "לפי ג'ון קאן, בשנה שאחרי הפרסום נראו 300 מאמרים מכל העולם.",
+   "source": "src10",
+   "quote": "Cahn says they saw 300 papers over the next year from people around the world.",
+   "status": "confirmed",
+   "locator": "שורה 23"
+  },
+  {
+   "id": "c77",
+   "text": "בעקבות גילוי שכטמן קבוצות נוספות הצליחו ליצור קוואזי-גבישים דומים עד 1987.",
+   "source": "src7",
+   "quote": "Through Shechtman's discovery, several other groups were able to form similar quasicrystals by 1987",
+   "status": "confirmed",
+   "locator": "שורה 53"
+  },
+  {
+   "id": "c19",
+   "text": "ב-1987 שכטמן זוכה מחדש כשמדענים בצרפת וביפן יצרו קוואזי-גבישים גדולים מספיק כדי לבחון אותם בקרני רנטגן.",
+   "source": "src2",
+   "quote": "In 1987 Shechtman was vindicated when scientists in France and Japan made quasicrystals that were large enough to be examined with X-rays.",
+   "status": "confirmed",
+   "locator": "שורה 15"
+  },
+  {
+   "id": "c58",
+   "text": "תוצאות מחקר 1987 הוצגו בכנס קריסטלוגרפיה בינלאומי באוסטרליה באותה שנה.",
+   "source": "src4",
+   "quote": "The results of the 1987 study were presented at an international crystallography congress in the same year in Australia.",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c20",
+   "text": "בהמשך אותה שנה טבעו הפיזיקאי האמריקאי פול שטיינהרדט והפיזיקאי הישראלי דב לוין את המונח קוואזי-גביש.",
+   "source": "src2",
+   "quote": "Later that year American physicist Paul Steinhardt and Israeli physicist Dov Levine coined the term quasicrystal to describe Shechtman’s discovery.",
+   "status": "confirmed",
+   "locator": "שורה 15"
+  },
+  {
+   "id": "c31",
+   "text": "שטיינהרדט סיפר שהדפוס שחישב והדפוס של שכטמן תאמו להפליא.",
+   "source": "src10",
+   "quote": "Sitting on my desk was the pattern we had computed, and the two agreed beautifully.",
+   "status": "confirmed",
+   "locator": "שורה 26"
+  },
+  {
+   "id": "c55",
+   "text": "שכטמן סיפר שפאולינג שלח לו מכתב שהציע לפרסם יחד מאמר מדעי.",
+   "source": "src4",
+   "quote": "Once, Pauling sent him a letter proposing that that the two publish a scientific article together",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c56",
+   "text": "שכטמן אמר שכשפאולינג מת, הרעיון של קוואזי-מחזוריות בגבישים כבר התקבל כמעט לחלוטין.",
+   "source": "src4",
+   "quote": "When he died, the quaisperiodicity of crystals had already become nearly totally accepted,” said Shechtman.",
+   "status": "confirmed",
+   "locator": "שורה 15"
+  },
+  {
+   "id": "c46",
+   "text": "ב-1992 האיגוד הבינלאומי לקריסטלוגרפיה שינה את הגדרת הגביש באופן שמתייחס לסוגיית הקוואזי-גבישים.",
+   "source": "src9",
+   "quote": "In 1992, the International Union of Crystallography altered its definition of a crystal in a way that addresses the quasicrystal issue",
+   "status": "confirmed",
+   "locator": "שורה 26"
+  },
+  {
+   "id": "c37",
+   "text": "לדברי רני דיהל, הגילוי שינה את החשיבה על חומר גבישי ואף חייב הגדרה חדשה למונח \"גביש\".",
+   "source": "src6",
+   "quote": "This discovery completely changed how we think of crystalline matter and even necessitated a new definition for the term ‘crystal’.",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c66",
+   "text": "לפי האגודה האמריקאית של הטכניון, בסוף המחקר התקבל, ושינה את עצם הגדרת הגביש והצית שפע של ספרים ומחקרים על הקוואזי-גביש.",
+   "source": "src12",
+   "quote": "But eventually his research was accepted, changing the very definition of a crystal, and sparking reams of scientific books and research about the quasicrystal.",
+   "status": "confirmed",
+   "locator": "שורה 142"
+  },
+  {
+   "id": "c36",
+   "text": "הפיזיקאי רונאן מקגרת' אמר ששכטמן הצליח לשכנע את הקהילה שצדק לאורך כל הדרך.",
+   "source": "src6",
+   "quote": "He managed to convince the community that he was correct all along. It is right that Shechtman alone is awarded.",
+   "status": "confirmed",
+   "locator": "שורה 13"
+  },
+  {
+   "id": "c41",
+   "text": "לדברי רון ליפשיץ מאוניברסיטת תל אביב, שכטמן התמודד עם הספקנות באופן מדעי וג'נטלמני והשיב למבקריו דרך המדע.",
+   "source": "src3",
+   "quote": "He dealt with the scepticism in a very scientific and gentlemanly manner and answered his critics as every scientist should – through science.",
+   "status": "confirmed",
+   "locator": "שורה 13"
+  },
+  {
+   "id": "c9",
+   "text": "לפי האקדמיה, חברה שוודית מצאה קוואזי-גבישים בסוג מסוים של פלדה, שם הם מחזקים את החומר כמו שריון.",
+   "source": "src1",
+   "quote": "A Swedish company has also found quasicrystals in a certain form of steel, where the crystals reinforce the material like armor.",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c30",
+   "text": "לגבישים המלאכותיים האלה יש תכונות כמו קשיחות וחלקלקות חריגות, ולכן אפשר להשתמש בהם במכונות גילוח ובמחבתות מסוימות נגד הידבקות.",
+   "source": "src10",
+   "quote": "These man-made crystals have strange properties, like unusual hardness and slipperiness, so they can be used in shavers and certain nonstick frying pans.",
+   "status": "confirmed",
+   "locator": "שורה 27"
+  },
+  {
+   "id": "c67",
+   "text": "לפי האגודה האמריקאית של הטכניון, לקוואזי-גביש יש שימושים כמו ציפויי מחבתות נגד הידבקות ופלדה עמידה בפני קורוזיה בציוד כירורגי.",
+   "source": "src12",
+   "quote": "protective coatings for nonstick frying pans, corrosion-resistant steel used in surgical equipment, and other innovative products.",
+   "status": "confirmed",
+   "locator": "שורה 142"
+  },
+  {
+   "id": "c43",
+   "text": "שלושה עשורים אחרי הגילוי, קוואזי-גבישים עמידים לחום ולחלודה נכנסים לכלים כמו מנועים ומחבתות.",
+   "source": "src3",
+   "quote": "Three decades after Shechtman’s discovery, non-stick, rust-free, heat-resistant quasicrystals are finding their way into tools from LEDs to engines and frying pans.",
+   "status": "confirmed",
+   "locator": "שורה 20"
+  },
+  {
+   "id": "c8",
+   "text": "פסיפסים לא-מחזוריים באלהמברה שבספרד ובמקדש דרב-אי אימאם באיראן עזרו למדענים להבין כיצד נראים קוואזי-גבישים ברמה האטומית.",
+   "source": "src1",
+   "quote": "Aperiodic mosaics, such as those found in the medieval Islamic mosaics of the Alhambra Palace in Spain and the Darb-i Imam Shrine in Iran, have helped scientists understand what quasicrystals look like at the atomic level.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c50",
+   "text": "כיום דווח ואושר קיומם של מאות קוואזי-גבישים מלאכותיים.",
+   "source": "src9",
+   "quote": "Nowadays, hundreds of man-made quasicrystals have been reported and confirmed.",
+   "status": "confirmed",
+   "locator": "שורה 28"
+  },
+  {
+   "id": "c10",
+   "text": "פרס נובל היה בסך 10 מיליון כתר שוודי, כ-1.5 מיליון דולר.",
+   "source": "src7",
+   "quote": "The Nobel prize was 10 million Swedish krona (approximately US$1.5 million).",
+   "status": "confirmed",
+   "locator": "שורה 56"
+  },
+  {
+   "id": "c59",
+   "text": "לפי FAPESP, שכטמן הוא הישראלי השני שזוכה בנובל בכימיה בתוך שנתיים והרביעי בעשור.",
+   "source": "src4",
+   "quote": "Shechtman is the second Israeli to win the Nobel Prize in Chemistry in an interval of just two years and the fourth in a decade.",
+   "status": "confirmed",
+   "locator": "שורה 25"
+  },
+  {
+   "id": "c60",
+   "text": "שכטמן ייחס את הצלחת ישראל בפרסי נובל להשקעה שישראל השקיעה בכל תחומי המדע.",
+   "source": "src4",
+   "quote": "This is due to the investment Israel has made in all areas of sciences,” Shechtman commented",
+   "status": "confirmed",
+   "locator": "שורה 26"
+  },
+  {
+   "id": "c64",
+   "text": "שכטמן זכה בפרס רוטשילד (1990), פרס ויצמן (1993), פרס ישראל (1998), פרס וולף בפיזיקה (1999), פרס אמינוף (2000) ופרס נובל בכימיה (2011).",
+   "source": "src7",
+   "quote": "Rothschild Prize (1990) Weizmann Prize (1993) Israel Prize (1998) Wolf Prize in Physics (1999) Gregori Aminoff Prize (2000) Nobel Prize in Chemistry (2011)",
+   "status": "confirmed",
+   "locator": "שורה 16"
+  },
+  {
+   "id": "c38",
+   "text": "שכטמן זכה בפרס וולף לפיזיקה ב-1999.",
+   "source": "src6",
+   "quote": "He was also awarded the Wolf Prize for Physics in 1999.",
+   "status": "confirmed",
+   "locator": "שורה 15"
+  },
+  {
+   "id": "c65",
+   "text": "ב-1996 נבחר שכטמן לחבר באקדמיה הישראלית למדעים.",
+   "source": "src5",
+   "quote": "1996 Elected member of the Israel Academy of Sciences.",
+   "status": "confirmed",
+   "locator": "שורה 27"
+  },
+  {
+   "id": "c68",
+   "text": "שכטמן יצר והעביר בטכניון את אחד הקורסים הפופולריים בקמפוס, יזמות טכנולוגית.",
+   "source": "src12",
+   "quote": "He created and taught one of the most popular courses on campus, Technological Entrepreneurship.",
+   "status": "confirmed",
+   "locator": "שורה 144"
+  },
+  {
+   "id": "c61",
+   "text": "שכטמן אמר שניהל בחיפה פרויקט חינוך מדעי המיועד לילדי גן.",
+   "source": "src4",
+   "quote": "Shechtman also stated that he conducted a science education project in Haifa, focused on children in kindergarten.",
+   "status": "confirmed",
+   "locator": "שורה 27"
+  },
+  {
+   "id": "c74",
+   "text": "שכטמן נשוי לפרופ' ציפורה שכטמן, ראשת המחלקה ליעוץ והתפתחות האדם באוניברסיטת חיפה.",
+   "source": "src7",
+   "quote": "Shechtman is married to Prof. Tzipora Shechtman, Head of the Department of Counseling and Human Development at Haifa University",
+   "status": "confirmed",
+   "locator": "שורה 42"
+  },
+  {
+   "id": "c75",
+   "text": "שכטמן מבלה כחמישה חודשים בשנה באיימס בהיקף משרה חלקי.",
+   "source": "src7",
+   "quote": "He currently spends about five months a year in Ames on a part-time appointment.",
+   "status": "confirmed",
+   "locator": "שורה 47"
+  },
+  {
+   "id": "c69",
+   "text": "שכטמן התמודד ב-2014 על נשיאות ישראל וקיבל רק קול אחד בכנסת כשראובן ריבלין נבחר.",
+   "source": "src8",
+   "quote": "Shechtman runs for president of Israel in 2014 but receives only one vote in the Knesset as Reuven Rivlin is elected.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c72",
+   "text": "בבחירות ב-10 ביוני 2014 קיבל שכטמן קול אחד בלבד.",
+   "source": "src7",
+   "quote": "In the elections, held on June 10, 2014, he was awarded only one vote.",
+   "status": "confirmed",
+   "locator": "שורה 59"
+  },
+  {
+   "id": "c11",
+   "text": "לפי אתר נובל, שכטמן עשה את הגילוי שזכה בפרס באוניברסיטת ג'ונס הופקינס בבולטימור בתחילת שנות ה-80.",
+   "source": "src11",
+   "quote": "He made his Nobel Prize-awarded discovery at Johns Hopkins University in Baltimore, Maryland in the early 1980s.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c12",
+   "text": "לפי בריטניקה, ב-1982 שכטמן היה בשבתון במכון הלאומי לתקנים בגיתרסבורג שבמרילנד.",
+   "source": "src2",
+   "quote": "In 1982, while on sabbatical at the National Bureau of Standards (now the National Institute of Standards and Technology) in Gaithersburg, Maryland",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c15",
+   "text": "לפי Physics World, האטומים בגביש של שכטמן היו ארוזים בדפוס שאינו חוזר על עצמו ובכל זאת בעל סימטריה סיבובית \"10-קיפולית\".",
+   "source": "src6",
+   "quote": "However, Shechtman found that the atoms in his crystal were packed in a pattern that could not be repeated and yet had “10-fold” rotational symmetry.",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c52",
+   "text": "לפי FAPESP, ב-1983 הגיש שכטמן את המאמר הראשון המתאר את הגילוי לכתב עת כימי.",
+   "source": "src4",
+   "quote": "In 1983, Shechtman submitted the first article describing the discovery to a chemical journal.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c81",
+   "text": "לפי הטכניון, שכטמן קיבל את התואר הראשון ב-1966, את התואר השני ב-1968 ואת הדוקטורט ב-1972.",
+   "source": "src13",
+   "quote": "Shechtman received his BSc, MSc, and PhD from Technion in 1966, 1968, and 1972, respectively.",
+   "status": "confirmed",
+   "locator": "שורה 26"
+  },
+  {
+   "id": "c82",
+   "text": "לפי NIST, שכטמן עשה את הגילוי שזיכה אותו בפרס נובל ב-1982, בזמן שבתון של שנתיים ב-NIST.",
+   "source": "src14",
+   "quote": "he made his Nobel-winning discovery in 1982 while on a two-year sabbatical at NIST.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  }
+ ],
+ "sources": [
+  {
+   "id": "src1",
+   "label": "NobelPrize.org / האקדמיה המלכותית השוודית למדעים, הודעה לעיתונות, 5.10.2011",
+   "url": "https://www.nobelprize.org/prizes/chemistry/2011/press-release/",
+   "kind": "official"
+  },
+  {
+   "id": "src2",
+   "label": "Encyclopaedia Britannica, Daniel Shechtman",
+   "url": "https://www.britannica.com/biography/Daniel-Shechtman",
+   "kind": "reference"
+  },
+  {
+   "id": "src3",
+   "label": "Al Jazeera, 5.10.2011",
+   "url": "https://www.aljazeera.com/news/2011/10/5/israeli-scientist-wins-nobel-chemistry-prize",
+   "kind": "press"
+  },
+  {
+   "id": "src4",
+   "label": "Agência FAPESP, שכטמן מתאר את המאבק בהכרה בקוואזי-גבישים",
+   "url": "https://agencia.fapesp.br/nobel-laureate-in-chemistry-describes-the-quest-to-have-quasicrystals-recognized/16063",
+   "kind": "press"
+  },
+  {
+   "id": "src5",
+   "label": "הטכניון, הפקולטה למדע והנדסה של חומרים, פרופ' דן שכטמן",
+   "url": "https://materials.technion.ac.il/en/team/distinguished-prof-emeritus-dan-shechtman/",
+   "kind": "organisation"
+  },
+  {
+   "id": "src6",
+   "label": "Physics World, 2011",
+   "url": "https://physicsworld.com/a/quasicrystal-discovery-bags-2011-chemistry-nobel/",
+   "kind": "press"
+  },
+  {
+   "id": "src7",
+   "label": "ויקיפדיה, Dan Shechtman",
+   "url": "https://en.wikipedia.org/wiki/Dan_Shechtman",
+   "kind": "reference"
+  },
+  {
+   "id": "src8",
+   "label": "israeled.org, דן שכטמן נולד ב-24.1.1941",
+   "url": "https://israeled.org/nobel-laureate-dan-shechtman-born",
+   "kind": "press"
+  },
+  {
+   "id": "src9",
+   "label": "Lindau Nobel Laureate Meetings, בלוג",
+   "url": "https://www.lindau-nobel.org/blog-adversity-quasicrystals-and-a-nobel-the-forbidden-fivefold-symmetry-that-was/",
+   "kind": "press"
+  },
+  {
+   "id": "src10",
+   "label": "NPR, 5.10.2011",
+   "url": "https://www.npr.org/2011/10/05/141087726/nobel-winning-chemist-fought-hard-for-acceptance",
+   "kind": "press"
+  },
+  {
+   "id": "src11",
+   "label": "NobelPrize.org, עובדות על דן שכטמן",
+   "url": "https://www.nobelprize.org/prizes/chemistry/2011/shechtman/facts/",
+   "kind": "official"
+  },
+  {
+   "id": "src12",
+   "label": "American Technion Society, Faces of the Technion",
+   "url": "https://ats.org/about/faces-of-the-technion/distinguished-professor-emeritus-dan-shechtman/",
+   "kind": "organisation"
+  },
+  {
+   "id": "src13",
+   "label": "Technion, Who is Dan Shechtman?",
+   "url": "https://www.technion.ac.il/en/blog/2011/10/who-is-dan-shechtman/",
+   "kind": "official"
+  },
+  {
+   "id": "src14",
+   "label": "NIST, NIST and Nobel: Dan Shechtman",
+   "url": "https://www.nist.gov/nist-and-nobel/dan-shechtman",
+   "kind": "official"
+  }
+ ],
+ "media": [
+  {
+   "id": "m1",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nobel%20Prize%202011-Nobel%20interviews%20KVA-DSC%208049.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Nobel_Prize_2011-Nobel_interviews_KVA-DSC_8049.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Holger Motzkau",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "דן שכטמן מחייך מול רקע כחול, בראיונות עם זוכי פרס נובל 2011 באולם אולה מאגנה.",
+   "illustrates": [
+    "c1"
+   ],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "2011-12-08",
+   "width": 3011,
+   "height": 4516
+  },
+  {
+   "id": "m2",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nobel%20Prize%202011-Press%20Conference%20KVA-DSC%207728.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Nobel_Prize_2011-Press_Conference_KVA-DSC_7728.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Holger Motzkau",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "דן שכטמן מול וילון אדום-זהוב במסיבת העיתונאים של זוכי פרס נובל 2011 באקדמיה המלכותית השוודית למדעים.",
+   "illustrates": [
+    "c1"
+   ],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "2011-12-07",
+   "width": 4321,
+   "height": 2881
+  },
+  {
+   "id": "m3",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dan%20Shechtman%20in%201985.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Dan_Shechtman_in_1985.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Phillip Westcott, National Institute of Standards and Technology",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "צילום שחור-לבן מ-1985 במכון הלאומי לתקנים (NIST): חמישה גברים סביב שולחן עם דגם מקלות וכדורים ותצלומי מיקרוסקופ, וגבר שישי עומד מאחור.",
+   "illustrates": [
+    "c12"
+   ],
+   "date": "1985",
+   "width": 4557,
+   "height": 4784
+  },
+  {
+   "id": "m4",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dan%20Shechtman%20%28Nobel%20Chemistry%202011%29%20in%20Stockholm%2C%20June%202016.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Dan_Shechtman_%28Nobel_Chemistry_2011%29_in_Stockholm%2C_June_2016.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Betsythedevine",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "דן שכטמן בסטוקהולם ביוני 2016, בוחן מכשיר בידו על רקע מים וגינה.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2016-06-14",
+   "width": 3054,
+   "height": 2290
+  },
+  {
+   "id": "m5",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dan%20Shechtman.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Dan_Shechtman.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Technion - Israel Institute of Technology",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "דן שכטמן מחזיק בידיו דגם גיאומטרי של מוט שחור בצורת גוף רב-פאונים.",
+   "illustrates": [
+    "c5"
+   ],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "2011-05-17",
+   "width": 700,
+   "height": 933
+  },
+  {
+   "id": "m6",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/SBPC%20-%20Helena%20Nader%20e%20Daniel%20Shechtman%20%287638029198%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:SBPC_-_Helena_Nader_e_Daniel_Shechtman_%287638029198%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Universidade de Brasília from Brasília, Brasil",
+   "licence": "CC BY 2.0",
+   "hosting": "hotlink",
+   "caption": "דן שכטמן משוחח עם הלנה נדר באירוע של SBPC.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/2.0",
+   "date": "2012-07-24",
+   "width": 2000,
+   "height": 1333
+  },
+  {
+   "id": "m7",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/SBPC%20-%20Daniel%20Shechtman.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:SBPC_-_Daniel_Shechtman.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "UnB Agência",
+   "licence": "CC BY 2.0",
+   "hosting": "hotlink",
+   "caption": "דניאל שכטמן מחייך בחליפה ובעניבה כחולה, בצילום מיולי 2012.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/2.0",
+   "date": "2012-07-24",
+   "width": 2000,
+   "height": 1333
+  },
+  {
+   "id": "m8",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dan%20shartman.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Dan_shartman.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "פרס א.מ.ת",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "דן שכטמן מחייך, ובפינת התמונה מדליית נובל.",
+   "illustrates": [
+    "c1"
+   ],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "2002-01-01",
+   "width": 540,
+   "height": 315
+  },
+  {
+   "id": "m9",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nobel%20Prize%202011-Nobel%20interviews%20KVA-DSC%208039.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Nobel_Prize_2011-Nobel_interviews_KVA-DSC_8039.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Holger Motzkau",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "דן שכטמן מדבר מול רקע כחול בראיונות עם זוכי פרס נובל 2011 באולם אולה מאגנה.",
+   "illustrates": [
+    "c1"
+   ],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "2011-12-08",
+   "width": 2879,
+   "height": 4318
+  },
+  {
+   "id": "m10",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nobel%20Prize%202011-Press%20Conference%20KVA-DSC%207721.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Nobel_Prize_2011-Press_Conference_KVA-DSC_7721.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Holger Motzkau",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "דן שכטמן מחייך ומביט הצידה מול וילון אדום-זהוב במסיבת העיתונאים של פרס נובל 2011.",
+   "illustrates": [
+    "c1"
+   ],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "2011-12-07",
+   "width": 2799,
+   "height": 4199
+  },
+  {
+   "id": "m11",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nobel%20Prize%202011-Press%20Conference%20KVA-DSC%207827.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Nobel_Prize_2011-Press_Conference_KVA-DSC_7827.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Holger Motzkau",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "דן שכטמן יושב ליד זוכה נובל נוסף בפיזיקה, סול פרלמוטר, מול וילון אדום-זהוב במסיבת העיתונאים של פרס נובל 2011.",
+   "illustrates": [
+    "c1"
+   ],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "2011-12-07",
+   "width": 4187,
+   "height": 2791
+  },
+  {
+   "id": "m12",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Reuven%20Rivlin%20hosted%20the%20winners%20declaration%20event%20of%20the%202018%20Wolf%20Prize%2C%20February%202018%20%286355%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Reuven_Rivlin_hosted_the_winners_declaration_event_of_the_2018_Wolf_Prize%2C_February_2018_%286355%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Mark Neyman",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "נשיא ישראל ראובן ריבלין ודן שכטמן מחזיקים יחד תיקייה של זוכי פרס וולף 2018.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "2018-02-12",
+   "width": 3307,
+   "height": 2680
+  },
+  {
+   "id": "m13",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nobel%20Prize%202011-Press%20Conference%20KVA-DSC%207748.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Nobel_Prize_2011-Press_Conference_KVA-DSC_7748.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Holger Motzkau",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "דן שכטמן במסיבת העיתונאים של זוכי פרס נובל 2011, מול וילון אדום-זהוב.",
+   "illustrates": [
+    "c1"
+   ],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "2011-12-07",
+   "width": 2182,
+   "height": 3273
+  },
+  {
+   "id": "m14",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=i1evm-rCApY",
+   "youtube_id": "i1evm-rCApY",
+   "source_page": "https://www.youtube.com/watch?v=i1evm-rCApY",
+   "source_name": "YouTube",
+   "credit": "Nobel Prize",
+   "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "ראיון של אתר פרס נובל עם שכטמן, שמתאר את התגובות, הטובות והרעות, לגילוי שלו.",
+   "illustrates": [
+    "c39",
+    "c73"
+   ],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m15",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=lUUF-dnekOg",
+   "youtube_id": "lUUF-dnekOg",
+   "source_page": "https://www.youtube.com/watch?v=lUUF-dnekOg",
+   "source_name": "YouTube",
+   "credit": "הטכניון - מכון טכנולוגי לישראל",
+   "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "הרצאתו של שכטמן בטכניון, שלוקחת את הצופים בזמן: מהגילוי ב-1982 ויומן המעבדה שבו תיעד אותו.",
+   "illustrates": [
+    "c3",
+    "c25"
+   ],
+   "spoken": "he",
+   "audio_tracks": [
+    "he"
+   ]
+  },
+  {
+   "id": "m16",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=ga71v4nofVM",
+   "youtube_id": "ga71v4nofVM",
+   "source_page": "https://www.youtube.com/watch?v=ga71v4nofVM",
+   "source_name": "YouTube",
+   "credit": "KTHLearningLab",
+   "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "הרצאת הנובל של שכטמן, \"גילוי הקוואזי-גבישים\", בביקורו ב-KTH.",
+   "illustrates": [
+    "c79"
+   ],
+   "spoken": "en",
+   "audio_tracks": [
+    "en",
+    "ar",
+    "bn",
+    "de",
+    "es",
+    "hi",
+    "id",
+    "it",
+    "he",
+    "ja",
+    "ko",
+    "ml",
+    "nl",
+    "pa",
+    "pl",
+    "pt",
+    "ru",
+    "ta",
+    "te",
+    "uk"
+   ]
+  },
+  {
+   "id": "m17",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=EgcPEmbHbTM",
+   "youtube_id": "EgcPEmbHbTM",
+   "source_page": "https://www.youtube.com/watch?v=EgcPEmbHbTM",
+   "source_name": "YouTube",
+   "credit": "הטכניון - מכון טכנולוגי לישראל",
+   "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "סרט של הטכניון על שיחת הטלפון משטוקהולם ב-5 באוקטובר 2011, שבה נודע לשכטמן על זכייתו בפרס נובל בכימיה.",
+   "illustrates": [
+    "c1"
+   ],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m18",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=n2hya1Ib0ho",
+   "youtube_id": "n2hya1Ib0ho",
+   "source_page": "https://www.youtube.com/watch?v=n2hya1Ib0ho",
+   "source_name": "YouTube",
+   "credit": "ערוץ כנסת 99",
+   "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "שכטמן מתראיין באולפן ערוץ הכנסת ומספר על התעניינותו במדע מגיל צעיר.",
+   "illustrates": []
+  },
+  {
+   "id": "m21",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Isaac%20Herzog%20in%20Beit%20HaNassi%2C%20February%202023%20%28GPOABG%201607%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Isaac_Herzog_in_Beit_HaNassi%2C_February_2023_%28GPOABG_1607%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Amos Ben Gershom",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "הנשיא הרצוג ושכטמן מחזיקים יחד את תיקיית זוכי פרס וולף 2023.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "Taken on 7",
+   "width": 3000,
+   "height": 2000,
+   "role": "deed"
+  },
+  {
+   "id": "m22",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nobel%20Prize%202011-Press%20Conference%20KVA-DSC%207700.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Nobel_Prize_2011-Press_Conference_KVA-DSC_7700.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Holger Motzkau",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "שכטמן ועוד ארבעה זוכי פרס נובל 2011 עומדים מאחורי השולחן במסיבת העיתונאים באקדמיה המלכותית השוודית.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "2011-12-07",
+   "width": 4743,
+   "height": 3162,
+   "role": "deed"
+  },
+  {
+   "id": "m23",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nobel%20Prize%202011-Press%20Conference%20KVA-DSC%207760.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Nobel_Prize_2011-Press_Conference_KVA-DSC_7760.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Holger Motzkau",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "שכטמן בפרופיל, עם סיכת פרס נובל בדש, מול וילון אדום-זהוב.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "2011-12-07",
+   "width": 2153,
+   "height": 3229,
+   "role": "deed"
+  },
+  {
+   "id": "m24",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nobel%20Prize%202011-Press%20Conference%20KVA-DSC%207773.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Nobel_Prize_2011-Press_Conference_KVA-DSC_7773.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Holger Motzkau",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "שישה זוכי נובל 2011 יושבים ליד השולחן במסיבת העיתונאים, ושכטמן שלישי משמאל.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "2011-12-07",
+   "width": 4754,
+   "height": 3169,
+   "role": "deed"
+  },
+  {
+   "id": "m26",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nobel%20Prize%202011-Press%20Conference%20KVA-DSC%207781.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Nobel_Prize_2011-Press_Conference_KVA-DSC_7781.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Holger Motzkau",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "שכטמן מביט הצידה לצד סול פרלמוטר וברייאן שמידט בשולחן מסיבת העיתונאים של נובל 2011.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "2011-12-07",
+   "width": 4928,
+   "height": 3264,
+   "role": "deed"
+  },
+  {
+   "id": "m27",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nobel%20Prize%202011-Press%20Conference%20KVA-DSC%207802.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Nobel_Prize_2011-Press_Conference_KVA-DSC_7802.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Holger Motzkau",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "שכטמן מדבר מול מיקרופונים במסיבת העיתונאים של נובל 2011, וכריסטופר סימס מאזין לצדו.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "2011-12-07",
+   "width": 4006,
+   "height": 2671,
+   "role": "deed"
+  },
+  {
+   "id": "m29",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nobel%20Prize%202011-Press%20Conference%20KVA-DSC%207915.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Nobel_Prize_2011-Press_Conference_KVA-DSC_7915.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Holger Motzkau",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "שכטמן לוחץ יד לאיש שניגש אליו ליד השולחן במסיבת העיתונאים של נובל 2011.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "2011-12-07",
+   "width": 4075,
+   "height": 2717,
+   "role": "deed"
+  },
+  {
+   "id": "m31",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nobel%20Prize%202011-Press%20Conference%20KVA-DSC%208262.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Nobel_Prize_2011-Press_Conference_KVA-DSC_8262.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Holger Motzkau",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "דובר ליד דוכן האקדמיה המלכותית השוודית למדעים, ומאחוריו זוכי נובל 2011 ליד השולחן.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "2011-12-07",
+   "width": 3566,
+   "height": 2377,
+   "role": "deed"
+  },
+  {
+   "id": "m32",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nobel%20Prize%202011-Press%20Conference%20KVA-DSC%208269.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Nobel_Prize_2011-Press_Conference_KVA-DSC_8269.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Holger Motzkau",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "אולם מסיבת העיתונאים של נובל 2011 באקדמיה השוודית, מהשורות האחוריות של הקהל.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "2011-12-07",
+   "width": 3880,
+   "height": 2600,
+   "role": "deed"
+  },
+  {
+   "id": "m33",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Reuven%20Rivlin%20hosted%20the%20winners%20declaration%20event%20of%20the%202018%20Wolf%20Prize%2C%20February%202018%20%286299%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Reuven_Rivlin_hosted_the_winners_declaration_event_of_the_2018_Wolf_Prize%2C_February_2018_%286299%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Mark Neyman",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "הנשיא ראובן ריבלין לוחץ ידיים באירוע הכרזת זוכי פרס וולף 2018, 12 בפברואר 2018.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "2018-02-12",
+   "width": 3307,
+   "height": 2270,
+   "role": "deed"
+  },
+  {
+   "id": "m34",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Reuven%20Rivlin%20hosting%20the%202021%20Wolf%20Prize%20winners%20award%20ceremony%2C%20February%202021%20%28GPOMN1%209254%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Reuven_Rivlin_hosting_the_2021_Wolf_Prize_winners_award_ceremony%2C_February_2021_%28GPOMN1_9254%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Mark Neyman",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "הנשיא ריבלין ושני גברים נוספים יושבים עם מסכות בבית הנשיא, בטקס פרס וולף של פברואר 2021.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "Taken on 9",
+   "width": 3780,
+   "height": 2407,
+   "role": "related"
+  },
+  {
+   "id": "m35",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Reuven%20Rivlin%20hosting%20the%202021%20Wolf%20Prize%20winners%20award%20ceremony%2C%20February%202021%20%28GPOMN1%209303%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Reuven_Rivlin_hosting_the_2021_Wolf_Prize_winners_award_ceremony%2C_February_2021_%28GPOMN1_9303%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Mark Neyman",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "דובר ליד דוכן בבית הנשיא באירוע פרס וולף של פברואר 2021, והנשיא ריבלין יושב בצד.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "Taken on 9",
+   "width": 5669,
+   "height": 3780,
+   "role": "related"
+  },
+  {
+   "id": "m36",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Reuven%20Rivlin%20hosting%20the%202021%20Wolf%20Prize%20winners%20award%20ceremony%2C%20February%202021%20%28GPOMN1%209372%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Reuven_Rivlin_hosting_the_2021_Wolf_Prize_winners_award_ceremony%2C_February_2021_%28GPOMN1_9372%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Mark Neyman",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "הנשיא ריבלין ושלושה אחרים מצטלמים במסכות עם תיקיית זוכי פרס וולף 2021, ושכטמן מימין.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "Taken on 9",
+   "width": 6075,
+   "height": 3780,
+   "role": "deed"
+  },
+  {
+   "id": "m37",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Reuven%20Rivlin%20hosting%20the%20Mada%20VeDaat%20event%2C%20March%202018%20%283430%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Reuven_Rivlin_hosting_the_Mada_VeDaat_event%2C_March_2018_%283430%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Mark Neyman",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "הנשיא ריבלין ורעייתו נחמה עם אורחים באירוע \"מדע ודעת\" במרץ 2018, ושכטמן עומד מימין.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "2018-03-14",
+   "width": 3307,
+   "height": 2167,
+   "role": "deed"
+  },
+  {
+   "id": "m38",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Visit%20to%20Technion%20No%203.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Visit_to_Technion_No_3.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "U.S. Embassy Tel Aviv",
+   "licence": "CC BY-SA 2.0",
+   "hosting": "hotlink",
+   "caption": "שכטמן מחזיק ספר אמנות בביקור שגריר ארה\"ב בטכניון, יחד עם נשיא הטכניון ואחרים.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "date": "2011-11-29",
+   "width": 1200,
+   "height": 700,
+   "role": "deed"
+  },
+  {
+   "id": "m39",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/%D7%93%D7%9F%20%D7%A9%D7%9B%D7%98%D7%9E%D7%9F%20%D7%91%D7%90%D7%95%D7%9C%D7%A4%D7%9F%20%D7%AA%D7%9B%D7%A0%D7%99%D7%AA%20%D7%94%D7%A8%D7%93%D7%99%D7%95%20%22%D7%A4%D7%A8%D7%9C%D7%9E%D7%A0%D7%98%20%D7%A9%D7%99%D7%A9%D7%99%22%20%D7%A2%D7%9D%20%D7%A8%D7%95%D7%A2%D7%99%20%D7%9B%22%D7%A5%20%282016%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:%D7%93%D7%9F_%D7%A9%D7%9B%D7%98%D7%9E%D7%9F_%D7%91%D7%90%D7%95%D7%9C%D7%A4%D7%9F_%D7%AA%D7%9B%D7%A0%D7%99%D7%AA_%D7%94%D7%A8%D7%93%D7%99%D7%95_%22%D7%A4%D7%A8%D7%9C%D7%9E%D7%A0%D7%98_%D7%A9%D7%99%D7%A9%D7%99%22_%D7%A2%D7%9D_%D7%A8%D7%95%D7%A2%D7%99_%D7%9B%22%D7%A5_%282016%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "TYPE O LUCRATIVE",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "שכטמן באולפן תוכנית הרדיו \"פרלמנט שישי\", 2016.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2015-01-29",
+   "width": 4032,
+   "height": 3024,
+   "role": "deed"
+  },
+  {
+   "id": "m40",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%9F%D1%80%D0%B5%D0%B4%D0%B0%D0%B2%D0%B0%D1%9A%D0%B5%20%D0%BD%D0%B0%20%D0%94%D0%B0%D0%BD%20%D0%A8%D0%B5%D1%85%D1%82%D0%BC%D0%B0%D0%BD%20%D0%B2%D0%BE%20%D0%98%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%82%D0%BE%D1%82%20%D0%B7%D0%B0%20%D1%85%D0%B5%D0%BC%D0%B8%D1%98%D0%B0%2C%20%D0%9F%D0%9C%D0%A4%2C%20%D0%A1%D0%BA%D0%BE%D0%BF%D1%98%D0%B5%2003.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:%D0%9F%D1%80%D0%B5%D0%B4%D0%B0%D0%B2%D0%B0%D1%9A%D0%B5_%D0%BD%D0%B0_%D0%94%D0%B0%D0%BD_%D0%A8%D0%B5%D1%85%D1%82%D0%BC%D0%B0%D0%BD_%D0%B2%D0%BE_%D0%98%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%82%D0%BE%D1%82_%D0%B7%D0%B0_%D1%85%D0%B5%D0%BC%D0%B8%D1%98%D0%B0%2C_%D0%9F%D0%9C%D0%A4%2C_%D0%A1%D0%BA%D0%BE%D0%BF%D1%98%D0%B5_03.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Dandarmkd",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "אולם ההרצאה של שכטמן במכון לכימיה באוניברסיטה בסקופיה, מלמעלה.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2023-05-23",
+   "width": 6000,
+   "height": 4000,
+   "role": "deed"
+  },
+  {
+   "id": "m41",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%9F%D1%80%D0%B5%D0%B4%D0%B0%D0%B2%D0%B0%D1%9A%D0%B5%20%D0%BD%D0%B0%20%D0%94%D0%B0%D0%BD%20%D0%A8%D0%B5%D1%85%D1%82%D0%BC%D0%B0%D0%BD%20%D0%B2%D0%BE%20%D0%98%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%82%D0%BE%D1%82%20%D0%B7%D0%B0%20%D1%85%D0%B5%D0%BC%D0%B8%D1%98%D0%B0%2C%20%D0%9F%D0%9C%D0%A4%2C%20%D0%A1%D0%BA%D0%BE%D0%BF%D1%98%D0%B5%2004.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:%D0%9F%D1%80%D0%B5%D0%B4%D0%B0%D0%B2%D0%B0%D1%9A%D0%B5_%D0%BD%D0%B0_%D0%94%D0%B0%D0%BD_%D0%A8%D0%B5%D1%85%D1%82%D0%BC%D0%B0%D0%BD_%D0%B2%D0%BE_%D0%98%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%82%D0%BE%D1%82_%D0%B7%D0%B0_%D1%85%D0%B5%D0%BC%D0%B8%D1%98%D0%B0%2C_%D0%9F%D0%9C%D0%A4%2C_%D0%A1%D0%BA%D0%BE%D0%BF%D1%98%D0%B5_04.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Dandarmkd",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "שכטמן ומארח עומדים ליד לוח ירוק לפני ההרצאה בסקופיה.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2023-05-23",
+   "width": 4000,
+   "height": 6000,
+   "role": "deed"
+  },
+  {
+   "id": "m42",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%9F%D1%80%D0%B5%D0%B4%D0%B0%D0%B2%D0%B0%D1%9A%D0%B5%20%D0%BD%D0%B0%20%D0%94%D0%B0%D0%BD%20%D0%A8%D0%B5%D1%85%D1%82%D0%BC%D0%B0%D0%BD%20%D0%B2%D0%BE%20%D0%98%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%82%D0%BE%D1%82%20%D0%B7%D0%B0%20%D1%85%D0%B5%D0%BC%D0%B8%D1%98%D0%B0%2C%20%D0%9F%D0%9C%D0%A4%2C%20%D0%A1%D0%BA%D0%BE%D0%BF%D1%98%D0%B5%2007.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:%D0%9F%D1%80%D0%B5%D0%B4%D0%B0%D0%B2%D0%B0%D1%9A%D0%B5_%D0%BD%D0%B0_%D0%94%D0%B0%D0%BD_%D0%A8%D0%B5%D1%85%D1%82%D0%BC%D0%B0%D0%BD_%D0%B2%D0%BE_%D0%98%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%82%D0%BE%D1%82_%D0%B7%D0%B0_%D1%85%D0%B5%D0%BC%D0%B8%D1%98%D0%B0%2C_%D0%9F%D0%9C%D0%A4%2C_%D0%A1%D0%BA%D0%BE%D0%BF%D1%98%D0%B5_07.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Dandarmkd",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "שכטמן עומד ליד פרח סחלב כשהמארח מדבר למיקרופון, בהרצאה בסקופיה.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2023-05-23",
+   "width": 6000,
+   "height": 4000,
+   "role": "deed"
+  },
+  {
+   "id": "m43",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%9F%D1%80%D0%B5%D0%B4%D0%B0%D0%B2%D0%B0%D1%9A%D0%B5%20%D0%BD%D0%B0%20%D0%94%D0%B0%D0%BD%20%D0%A8%D0%B5%D1%85%D1%82%D0%BC%D0%B0%D0%BD%20%D0%B2%D0%BE%20%D0%98%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%82%D0%BE%D1%82%20%D0%B7%D0%B0%20%D1%85%D0%B5%D0%BC%D0%B8%D1%98%D0%B0%2C%20%D0%9F%D0%9C%D0%A4%2C%20%D0%A1%D0%BA%D0%BE%D0%BF%D1%98%D0%B5%2009.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:%D0%9F%D1%80%D0%B5%D0%B4%D0%B0%D0%B2%D0%B0%D1%9A%D0%B5_%D0%BD%D0%B0_%D0%94%D0%B0%D0%BD_%D0%A8%D0%B5%D1%85%D1%82%D0%BC%D0%B0%D0%BD_%D0%B2%D0%BE_%D0%98%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%82%D0%BE%D1%82_%D0%B7%D0%B0_%D1%85%D0%B5%D0%BC%D0%B8%D1%98%D0%B0%2C_%D0%9F%D0%9C%D0%A4%2C_%D0%A1%D0%BA%D0%BE%D0%BF%D1%98%D0%B5_09.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Dandarmkd",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "שכטמן מוחא כפיים ליד שולחן ירוק בהרצאה בסקופיה.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2023-05-23",
+   "width": 6000,
+   "height": 4000,
+   "role": "deed"
+  },
+  {
+   "id": "m44",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%9F%D1%80%D0%B5%D0%B4%D0%B0%D0%B2%D0%B0%D1%9A%D0%B5%20%D0%BD%D0%B0%20%D0%94%D0%B0%D0%BD%20%D0%A8%D0%B5%D1%85%D1%82%D0%BC%D0%B0%D0%BD%20%D0%B2%D0%BE%20%D0%98%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%82%D0%BE%D1%82%20%D0%B7%D0%B0%20%D1%85%D0%B5%D0%BC%D0%B8%D1%98%D0%B0%2C%20%D0%9F%D0%9C%D0%A4%2C%20%D0%A1%D0%BA%D0%BE%D0%BF%D1%98%D0%B5%2010.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:%D0%9F%D1%80%D0%B5%D0%B4%D0%B0%D0%B2%D0%B0%D1%9A%D0%B5_%D0%BD%D0%B0_%D0%94%D0%B0%D0%BD_%D0%A8%D0%B5%D1%85%D1%82%D0%BC%D0%B0%D0%BD_%D0%B2%D0%BE_%D0%98%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%82%D0%BE%D1%82_%D0%B7%D0%B0_%D1%85%D0%B5%D0%BC%D0%B8%D1%98%D0%B0%2C_%D0%9F%D0%9C%D0%A4%2C_%D0%A1%D0%BA%D0%BE%D0%BF%D1%98%D0%B5_10.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Dandarmkd",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "קהל סטודנטים ומבוגרים באולם ההרצאה של שכטמן בסקופיה.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2023-05-23",
+   "width": 6000,
+   "height": 4000,
+   "role": "deed"
+  },
+  {
+   "id": "m45",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%9F%D1%80%D0%B5%D0%B4%D0%B0%D0%B2%D0%B0%D1%9A%D0%B5%20%D0%BD%D0%B0%20%D0%94%D0%B0%D0%BD%20%D0%A8%D0%B5%D1%85%D1%82%D0%BC%D0%B0%D0%BD%20%D0%B2%D0%BE%20%D0%98%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%82%D0%BE%D1%82%20%D0%B7%D0%B0%20%D1%85%D0%B5%D0%BC%D0%B8%D1%98%D0%B0%2C%20%D0%9F%D0%9C%D0%A4%2C%20%D0%A1%D0%BA%D0%BE%D0%BF%D1%98%D0%B5%2011.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:%D0%9F%D1%80%D0%B5%D0%B4%D0%B0%D0%B2%D0%B0%D1%9A%D0%B5_%D0%BD%D0%B0_%D0%94%D0%B0%D0%BD_%D0%A8%D0%B5%D1%85%D1%82%D0%BC%D0%B0%D0%BD_%D0%B2%D0%BE_%D0%98%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%82%D0%BE%D1%82_%D0%B7%D0%B0_%D1%85%D0%B5%D0%BC%D0%B8%D1%98%D0%B0%2C_%D0%9F%D0%9C%D0%A4%2C_%D0%A1%D0%BA%D0%BE%D0%BF%D1%98%D0%B5_11.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Dandarmkd",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "שכטמן מרצה מאחורי שולחן ירוק במכון לכימיה בסקופיה, מבט מלמעלה.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2023-05-23",
+   "width": 6000,
+   "height": 4000,
+   "role": "deed"
+  },
+  {
+   "id": "m47",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Al-Cu-Fe-Cr%20decagonal%20quasicrystal%20diffraction%20pattern.tif?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Al-Cu-Fe-Cr_decagonal_quasicrystal_diffraction_pattern.tif",
+   "source_name": "Wikimedia Commons",
+   "credit": "Ldm1954",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "תבנית עקיפת אלקטרונים של קוואזי-גביש עשרתי מסגסוגת Al-Cu-Fe-Cr, מעבודה של 2002–2003 ולא מהניסוי של שכטמן.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2003-07-16",
+   "width": 1273,
+   "height": 1281,
+   "role": "related"
+  },
+  {
+   "id": "m48",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bindi%2C%20Kryachko%2C%20Steinhardt.JPG?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Bindi%2C_Kryachko%2C_Steinhardt.JPG",
+   "source_name": "Wikimedia Commons",
+   "credit": "Paul Steinhardt",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "לוקה בינדי, ולרי קריאצ'קו ופול שטיינהרדט (משמאל לימין) במסע לצ'וקוטקה, 2011.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2011-07-26",
+   "width": 5184,
+   "height": 3456,
+   "role": "related"
+  },
+  {
+   "id": "m49",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Chukotka%20Expedition%202011.tif?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Chukotka_Expedition_2011.tif",
+   "source_name": "Wikimedia Commons",
+   "credit": "Paul Steinhardt",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "חברי משלחת צ'וקוטקה 2011 בראשות פול שטיינהרדט, ליד רכב שטח כתום.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2011-07-26",
+   "width": 2395,
+   "height": 1756,
+   "role": "related"
+  },
+  {
+   "id": "m51",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fibonacci%20chain%20%E2%80%93%20one-dimensional%20quasicrystal.png?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Fibonacci_chain_%E2%80%93_one-dimensional_quasicrystal.png",
+   "source_name": "Wikimedia Commons",
+   "credit": "Jacobolus",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "תרשים של שרשרת פיבונאצ'י, קוואזי-גביש חד-ממדי שנבנה בשיטת חתוך-והטל.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2025-07-13",
+   "width": 1766,
+   "height": 1040,
+   "role": "related"
+  },
+  {
+   "id": "m53",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ho-Mg-Zn%20E8-5Cube.png?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Ho-Mg-Zn_E8-5Cube.png",
+   "source_name": "Wikimedia Commons",
+   "credit": "Materialscientist (original image) Jgmoxness (derivative work)",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "תבנית עקיפת אלקטרונים של קוואזי-גביש איקוסהדרלי Zn-Mg-Ho, עם שכבה גרפית של הקרנת 5-קובייה.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "2011-12-29",
+   "width": 2700,
+   "height": 2700,
+   "role": "related"
+  },
+  {
+   "id": "m54",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Icosahedrite%20Diffraction%20Pattern.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Icosahedrite_Diffraction_Pattern.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Paul Steinhardt",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "תבנית עקיפת אלקטרונים של איקוסהדריט, הקוואזי-גביש הטבעי הראשון, לאורך ציר סימטריה חמישי.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2009-03-04",
+   "width": 667,
+   "height": 568,
+   "role": "related"
+  },
+  {
+   "id": "m55",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kv%C3%A1zikrist%C3%A1ly-s%C3%ADkok%20a%20Penrose-csemp%C3%A9ben.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Kv%C3%A1zikrist%C3%A1ly-s%C3%ADkok_a_Penrose-csemp%C3%A9ben.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Laszlovszky András",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "ריצוף פנרוז בתרשים צבעוני של מעוינים ירוקים וכחולים, עם עיגולים אדומים לאורך קווים בו.",
+   "illustrates": [],
+   "date": "2009-09-14",
+   "width": 605,
+   "height": 392,
+   "role": "related"
+  },
+  {
+   "id": "m57",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pentagon%20tile%20by%20Alexander%20Braun%20pt27.png?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Pentagon_tile_by_Alexander_Braun_pt27.png",
+   "source_name": "Wikimedia Commons",
+   "credit": "Alexander Braun Atumtem",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "גרפיקה של ריצוף המחומשים של אלכסנדר בראון, בדוגמת כוכב עשרה-קודקודים.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "2007-05-27",
+   "width": 1332,
+   "height": 1332,
+   "role": "related"
+  },
+  {
+   "id": "m58",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rendering%20of%20quasicrystal%20lattice%20structure.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Rendering_of_quasicrystal_lattice_structure.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "LinKayser",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "הדמיית מחשב של מבנה קוואזי-גביש בצבע נחושת, ממודל פתוח של LEAP 71.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2024-03-30",
+   "width": 1920,
+   "height": 1920,
+   "role": "related"
+  },
+  {
+   "id": "m59",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rendering%20of%20quasicrystal%20structure.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Rendering_of_quasicrystal_structure.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "LinKayser",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "הדמיית מחשב של מבנה קוואזי-גביש מעוינים בצבעי סגול ונחושת, ממודל פתוח של LEAP 71.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2024-04-06",
+   "width": 1920,
+   "height": 1920,
+   "role": "related"
+  },
+  {
+   "id": "m60",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wieringa%20Roof.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Wieringa_Roof.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Qubeat",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "הדמיה תלת-ממדית של גג וירינגה, משטח שנוצר מריצוף פנרוז בהגבהת קודקודים.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2015-11-23",
+   "width": 6400,
+   "height": 3600,
+   "role": "related"
+  },
+  {
+   "id": "m61",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/3D%20TIling%20Rhombi%20Triacontahedron.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:3D_TIling_Rhombi_Triacontahedron.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Francoise Delpérée",
+   "licence": "CC0",
+   "hosting": "hotlink",
+   "caption": "הדמיית ריצוף תלת-ממדי מתלת-עשרוני מעוינים, גוף בן 30 פאות מעוינות.",
+   "illustrates": [],
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "date": "2024-03-02",
+   "width": 1840,
+   "height": 1902,
+   "role": "related"
+  },
+  {
+   "id": "m62",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/AnimSun%2013.png?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:AnimSun_13.png",
+   "source_name": "Wikimedia Commons",
+   "credit": "PrzemekMajewski",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "הדמיית ריצוף פנרוז מסוג P2 אחרי שמונה שלבי פירוק סביב קודקוד \"שמש\".",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2015-05-01",
+   "width": 6548,
+   "height": 6885,
+   "role": "related"
+  },
+  {
+   "id": "m66",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Churchillbuilding.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Churchillbuilding.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Nil pat13",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "בניין צ'רצ'יל בטכניון, חיפה, בצילום חיצוני.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "2012-03-08",
+   "width": 2592,
+   "height": 1936,
+   "role": "related"
+  }
+ ],
+ "check": {
+  "passed": true,
+  "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
+  "checked_at": "2026-11-21T16:22:11Z",
+  "counts": {
+   "confirmed": 92,
+   "not_confirmed": 0,
+   "deleted_sentences": 1,
+   "first_round_confirmed": 93,
+   "first_round_contradicted": 1,
+   "first_round_unverifiable": 1
+  },
+  "note": "unverifiable sentences were deleted, contradicted ones fixed from the source and checked again"
+ },
+ "meta": {
+  "run": "dan-shechtman-quasicrystals",
+  "pipeline": "scripts/museum/museum_line.py",
+  "models": {
+   "research": "sonnet-5-5",
+   "extract": "sonnet-5-5",
+   "media": "sonnet-5-5",
+   "write": "opus-5-5 medium",
+   "check": "opus-5-5 medium",
+   "fix": "opus-5-5 medium"
+  },
+  "source_quality": {
+   "sources": 12,
+   "wikipedia": 1,
+   "strong": 8,
+   "ok": true,
+   "warnings": []
+  },
+  "settled": [
+   {
+    "box": "d1",
+    "question": "באיזו שנה קיבל שכטמן תואר שני?",
+    "url": "https://www.technion.ac.il/en/blog/2011/10/who-is-dan-shechtman/",
+    "by": "settle 24.11"
+   },
+   {
+    "box": "d3",
+    "question": "באיזו שנה נעשה הגילוי?",
+    "url": "https://www.nist.gov/nist-and-nobel/dan-shechtman",
+    "by": "settle 24.11"
+   }
+  ]
+ }
+}

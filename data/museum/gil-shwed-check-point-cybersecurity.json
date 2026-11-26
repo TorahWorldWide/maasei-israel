@@ -1,0 +1,1927 @@
+{
+ "schema": "maasei-museum/1",
+ "slug": "gil-shwed-check-point-cybersecurity",
+ "deed": "גיל שוד ייסד את צ'ק פוינט — חברת אבטחת הסייבר הטהורה הגדולה בעולם",
+ "canonical_type": "single-inventor",
+ "year": "1993",
+ "title": "גיל שוד מייסד צ'ק פוינט",
+ "trailer": [
+  {
+   "text": "גיל שוד, מהנדס תוכנה ויזם ישראלי, הוא ממייסדי צ'ק פוינט ויושב ראש הדירקטוריון המבצע שלה.",
+   "claims": [
+    "c1"
+   ]
+  },
+  {
+   "text": "ב-1993 הקים את החברה עם שלמה קרמר, חברו מהיחידה הצבאית, ועם מריוס נכט, שעבד איתו באופטרוטק.",
+   "claims": [
+    "c60"
+   ]
+  },
+  {
+   "text": "באותה שנה המציא את stateful inspection ורשם עליה פטנט, והיא הבסיס לגרסה הראשונה של המוצר FireWall-1.",
+   "claims": [
+    "c30"
+   ]
+  },
+  {
+   "text": "לפי ויקיפדיה, צ'ק פוינט היא חברת הסייבר הטהורה הגדולה בעולם.",
+   "claims": [
+    "c2"
+   ]
+  },
+  {
+   "text": "שוד נבחר לקבל את פרס ישראל למפעל חיים בתחום טכנולוגיה וחדשנות יישומית.",
+   "claims": [
+    "c42"
+   ]
+  }
+ ],
+ "hero_media": [
+  "m3",
+  "m1",
+  "m2",
+  "m7",
+  "m5",
+  "m4",
+  "m8",
+  "m9",
+  "m16",
+  "m20",
+  "m21",
+  "m22",
+  "m32",
+  "m33",
+  "m35",
+  "m37",
+  "m39"
+ ],
+ "glance": [
+  {
+   "label": "מייסדים",
+   "value": "גיל שוד, שלמה קרמר ומריוס נכט",
+   "claims": [
+    "c60"
+   ]
+  },
+  {
+   "label": "נוסדה",
+   "value": "יולי 1993",
+   "claims": [
+    "c6"
+   ]
+  },
+  {
+   "label": "איפה",
+   "value": "לפי פרופיל של CIO מתחילת שנות ה-2000, רמת גן ורדווד סיטי, קליפורניה.",
+   "claims": [
+    "c61"
+   ]
+  },
+  {
+   "label": "הכרה",
+   "value": "פרס ישראל למפעל חיים",
+   "claims": [
+    "c42"
+   ]
+  }
+ ],
+ "stations": [
+  {
+   "id": "s1",
+   "title": "ילד מחשבים מירושלים",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "גיל שוד נולד בירושלים.",
+      "claims": [
+       "c25"
+      ]
+     },
+     {
+      "text": "בגיל 10 החל ללמוד מחשבים פעם בשבוע בעיר הולדתו.",
+      "claims": [
+       "c23"
+      ]
+     },
+     {
+      "text": "לפי ויקיפדיה, בגיל 13 החל לתכנת, ושנתיים אחר כך כבר למד מדעי המחשב באוניברסיטה העברית, בעודו תלמיד תיכון.",
+      "claims": [
+       "c24"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "לפי שוד, בגיל 14, עוד בבית הספר, החל לעבוד כמעט במשרה מלאה כמנהל מערכות באוניברסיטה העברית.",
+      "claims": [
+       "c26"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m11",
+    "m38"
+   ],
+   "disagreements": [
+    "d1"
+   ]
+  },
+  {
+   "id": "s2",
+   "title": "בצבא נולד רעיון",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "לפי דיווחים, שוד שירת באמ\"ן ביחידה 8200, ושם בנה רשתות מחשבים צבאיות.",
+      "claims": [
+       "c27"
+      ]
+     },
+     {
+      "text": "במהלך ארבע שנות שירותו בצה\"ל עלה בראשו לראשונה הרעיון ל-stateful inspection.",
+      "claims": [
+       "c28"
+      ]
+     },
+     {
+      "text": "שלמה קרמר היה חברו מהיחידה הצבאית.",
+      "claims": [
+       "c60"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "אחרי הצבא הצטרף שוד לחברה הישראלית אופטרוטק כמפתח תוכנה, ושם הכיר את מריוס נכט.",
+      "claims": [
+       "c5"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m14",
+    "m28",
+    "m29",
+    "m30",
+    "m34",
+    "m36"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s3",
+   "title": "דירה, שלושה חברים ו-14 שעות ביום",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "באותם ימים מעטים ידעו מהו האינטרנט, ועוד פחות אנשים ידעו שהוא יוצר סיכון אבטחה שצריך להגן מפניו.",
+      "claims": [
+       "c8"
+      ]
+     },
+     {
+      "text": "שוד אמר שבתחילת דרכו נאלץ לשכנע אנשים שיש שוק לאינטרנט.",
+      "claims": [
+       "c59"
+      ]
+     },
+     {
+      "text": "השלושה הבינו שעסקים שיתחברו לאינטרנט יזדקקו להגנות, וכך נוצר שוק ליכולות חסימה ובקרת פרוטוקולים.",
+      "claims": [
+       "c9"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "באפריל 1993 פותח לראשונה הרעיון שהתפתח בהמשך ל-FireWall-1.",
+      "claims": [
+       "c7"
+      ]
+     },
+     {
+      "text": "באותה שנה המציא שוד את stateful inspection ורשם עליה פטנט.",
+      "claims": [
+       "c30"
+      ]
+     },
+     {
+      "text": "ביולי 1993 הקימו השלושה את צ'ק פוינט.",
+      "claims": [
+       "c6",
+       "c60"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "שוד, קרמר ונכט עבדו שנה בדירה של קרוב משפחה, ותכנתו 12 עד 14 שעות ביום.",
+      "claims": [
+       "c10"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m10"
+   ],
+   "disagreements": [
+    "d3"
+   ]
+  },
+  {
+   "id": "s4",
+   "title": "FireWall-1 עולה לבמה",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "FireWall-1 הוצג לראשונה לציבור בתערוכת NetWorld Interop בלאס וגאס ב-1994.",
+      "claims": [
+       "c12"
+      ]
+     },
+     {
+      "text": "הוא זכה בפרס המוצר הטוב ביותר בתערוכה, וזה עזר להביא את צ'ק פוינט לאור הזרקורים.",
+      "claims": [
+       "c11"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "לפי CIO, זו הייתה חומת האש הראשונה לשוק ההמונים.",
+      "claims": [
+       "c39"
+      ]
+     },
+     {
+      "text": "הייחוד של צ'ק פוינט היה העברת הטכנולוגיה ממערכות יוניקס לסביבת ה-PC.",
+      "claims": [
+       "c19"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "ב-1994 חתמה החברה על הסכם OEM עם סאן מיקרוסיסטמס, ושנה אחר כך על עסקה עם HP.",
+      "claims": [
+       "c13"
+      ]
+     },
+     {
+      "text": "השותפות עם סאן הפכה את צ'ק פוינט מחברה חסרת חשיבות למובילת שוק.",
+      "claims": [
+       "c22"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m4",
+    "m6",
+    "m15"
+   ],
+   "disagreements": [
+    "d2"
+   ]
+  },
+  {
+   "id": "s5",
+   "title": "מחברה קטנה לשוק עולמי",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "צ'ק פוינט הונפקה ב-1996.",
+      "claims": [
+       "c14"
+      ]
+     },
+     {
+      "text": "בתקופת הקמת צ'ק פוינט ב-1993 קמו כארבעים חברות חומת אש שהתחרו בשוק אבטחת התקשורת באינטרנט.",
+      "claims": [
+       "c18"
+      ]
+     },
+     {
+      "text": "בשנתיים שלפני 1999 נאלץ שוד להתמודד עם הערכות של אנליסטים, ולפיהן שוק חומות האש עומד להיעלם.",
+      "claims": [
+       "c20"
+      ]
+     },
+     {
+      "text": "לפי גלובס ב-1999, צ'ק פוינט שלטה ללא עוררין בשוק העולמי, שוויה עלה על 5 מיליארד דולר, ושמה היה מילה נרדפת לכל התחום.",
+      "claims": [
+       "c17",
+       "c21"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "לפי החברה, FireWall-1 מותקן בכל חברה ברשימת פורצ'ן 100.",
+      "claims": [
+       "c15"
+      ]
+     },
+     {
+      "text": "צ'ק פוינט גם טוענת שהוא מעולם לא נפרץ.",
+      "claims": [
+       "c16"
+      ]
+     },
+     {
+      "text": "טכנולוגיית ה-stateful inspection שפיתח שוד ורשם עליה פטנט עדיין משמשת חומות אש מודרניות.",
+      "claims": [
+       "c29"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "מוצרי החברה כוללים חומות אש, מכשירי UTM ואבטחת נקודות קצה.",
+      "claims": [
+       "c62"
+      ]
+     },
+     {
+      "text": "לפי CIO, צ'ק פוינט שוכנת ברמת גן שבישראל וברדווד סיטי שבקליפורניה.",
+      "claims": [
+       "c61"
+      ]
+     },
+     {
+      "text": "כלכליסט כתב שצ'ק פוינט נחשבת לחברה הישראלית הגדולה ביותר, אחרי ירידת מעמדה של טבע.",
+      "claims": [
+       "c4"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m3",
+    "m1",
+    "m2",
+    "m7",
+    "m17"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s6",
+   "title": "מנכ\"ל מ-1994 עד 2024",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "לפי ויקיפדיה, שוד כיהן כמנכ\"ל מ-1994 עד 2024, וזו הכהונה הארוכה ביותר בחברה הנסחרת בנאסד\"ק.",
+      "claims": [
+       "c33"
+      ]
+     },
+     {
+      "text": "ב-2024 פרש מתפקיד המנכ\"ל והפך ליושב ראש הדירקטוריון המבצע.",
+      "claims": [
+       "c34"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "שוד אמר שהחברה רואה את עצמה חברת טכנולוגיה, לא חברה צבאית או ישראלית.",
+      "claims": [
+       "c40"
+      ]
+     },
+     {
+      "text": "הוא אמר שהוא גאה בהיותו ישראלי, אבל מכיר במגבלות, כי הלקוח האמריקאי רוצה מודל אמריקאי.",
+      "claims": [
+       "c41"
+      ]
+     },
+     {
+      "text": "לפי CIO, הוא רואה בצ'ק פוינט חברה גלובלית.",
+      "claims": [
+       "c61"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "שוד מתח ביקורת על ריבוי הסטארט-אפים ועל תכנון הקמת חברה במטרה למכור אותה, ואמר שחברה היא כמו ילד.",
+      "claims": [
+       "c63"
+      ]
+     },
+     {
+      "text": "הוא אמר שהוא אוהב את מה שהוא עושה, ושהסיכוי להקים עוד חברה מעניינת ומצליחה כל כך אינו גבוה.",
+      "claims": [
+       "c57"
+      ]
+     },
+     {
+      "text": "לדבריו, אבטחת מידע תחרותית הרבה יותר היום, וקשה לפתח בה דבר חדש לגמרי.",
+      "claims": [
+       "c58"
+      ]
+     },
+     {
+      "text": "שוד וצ'ק פוינט מדגישים את הדור החמישי של אבטחת הסייבר.",
+      "claims": [
+       "c56"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m13",
+    "m12",
+    "m18",
+    "m19"
+   ],
+   "disagreements": [
+    "d4"
+   ]
+  },
+  {
+   "id": "s7",
+   "title": "פרס ישראל ותארים",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "שוד נבחר לקבל את פרס ישראל למפעל חיים בתחום טכנולוגיה וחדשנות יישומית.",
+      "claims": [
+       "c42"
+      ]
+     },
+     {
+      "text": "זו הפעם הראשונה שהפרס מוענק בתחום הזה, ואת חתן הפרס בחרה ועדה בראשות שלמה דוברת.",
+      "claims": [
+       "c43"
+      ]
+     },
+     {
+      "text": "שר החינוך בנט יזם את הקטגוריה החדשה בפרס ישראל לרגל חגיגות ה-70 למדינה.",
+      "claims": [
+       "c49"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "לפי ועדת הפרס, תרומתו לפיתוח תעשיית ההייטק הישראלית נמשכת כבר כמעט 25 שנה.",
+      "claims": [
+       "c44"
+      ]
+     },
+     {
+      "text": "הוועדה ציינה את יצירת אלפי מקומות העבודה ואת ייצוג המצוינות וההון האנושי של ישראל בעולם.",
+      "claims": [
+       "c45"
+      ]
+     },
+     {
+      "text": "בנט כתב בטוויטר ששוד הוא חלוץ ה-Start Up Nation, וסיפורו הוא סיפור ההייטק הישראלי.",
+      "claims": [
+       "c48"
+      ]
+     },
+     {
+      "text": "שוד אמר שהפרס מגיע לכל עובדי צ'ק פוינט ב-25 השנים האחרונות.",
+      "claims": [
+       "c47"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "לפי סרוגים, רבים רואים בו את אבי חומת האש המודרנית.",
+      "claims": [
+       "c31"
+      ]
+     },
+     {
+      "text": "ויקיפדיה כותבת שהוא נחשב לממציא חומת האש המחשובית המודרנית.",
+      "claims": [
+       "c32"
+      ]
+     },
+     {
+      "text": "ביוני 2005 קיבל תואר דוקטור לשם כבוד מהטכניון.",
+      "claims": [
+       "c53"
+      ]
+     },
+     {
+      "text": "ב-2002 הופיע ברשימת פורבס של \"תינוקות מיליארדרים\" מתחת לגיל 35, ובעקבות זאת כמה ליצנים בישראל כינו אותו \"הביל גייטס של ישראל\".",
+      "claims": [
+       "c38"
+      ]
+     },
+     {
+      "text": "גלובס הכתיר אותו \"איש השנה\" ב-2014.",
+      "claims": [
+       "c54"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m5",
+    "m9"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s8",
+   "title": "מעבר לחברה: נוער וחינוך",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "שוד חבר בוועד הנאמנים של אוניברסיטת תל אביב, והוא יושב ראש ועד הנאמנים של האוניברסיטה לנוער שבה.",
+      "claims": [
+       "c55"
+      ]
+     },
+     {
+      "text": "ועדת פרס ישראל ציינה את פעילותו הציבורית לקידום מנהיגות ומצוינות בקרב בני נוער מוכשרים.",
+      "claims": [
+       "c46"
+      ]
+     },
+     {
+      "text": "הוא גם חבר בדירקטוריון עמותת יכולות, שנוסדה בידי קרן רש\"י ופועלת בין היתר להפחתת נשירה בתיכונים.",
+      "claims": [
+       "c64"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "על ההון האישי שלו יש כמה הערכות שונות.",
+      "claims": [
+       "c50",
+       "c51",
+       "c52"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m8",
+    "m23",
+    "m25",
+    "m26",
+    "m27"
+   ],
+   "disagreements": [
+    "d5"
+   ]
+  }
+ ],
+ "disagreements": [
+  {
+   "id": "d1",
+   "question": "באיזה גיל התחיל שוד עם מחשבים?",
+   "versions": [
+    {
+     "says": "The Register: בגיל 10 החל ללמוד מחשבים פעם בשבוע בירושלים",
+     "claims": [
+      "c23"
+     ]
+    },
+    {
+     "says": "ויקיפדיה: החל לתכנת בגיל 13",
+     "claims": [
+      "c24"
+     ]
+    },
+    {
+     "says": "סרוגים: החל את דרכו בעולם הטכנולוגיה בגיל 13",
+     "claims": [
+      "c25"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d2",
+   "question": "באיזו שנה הוצג FireWall-1 לראשונה?",
+   "versions": [
+    {
+     "says": "The Register: הוצג לראשונה לציבור בלאס וגאס ב-1994",
+     "claims": [
+      "c12"
+     ]
+    },
+    {
+     "says": "ויקיפדיה: הגרסה הראשונה יצאה ב-1994",
+     "claims": [
+      "c30"
+     ]
+    },
+    {
+     "says": "CIO: הוצג ב-1993",
+     "claims": [
+      "c39"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d3",
+   "question": "בן כמה היה שוד כשהקים את צ'ק פוינט?",
+   "versions": [
+    {
+     "says": "הספר The Battle for the Cybersecurity Industry: ב-1991 היה בן 22, ישר אחרי הצבא",
+     "claims": [
+      "c36"
+     ]
+    },
+    {
+     "says": "CIO: היה כמעט בן 25 כשהקים את החברה עם שני עמיתים",
+     "claims": [
+      "c37"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d4",
+   "question": "מתי התחיל שוד לכהן כמנכ\"ל?",
+   "versions": [
+    {
+     "says": "ויקיפדיה: מ-1994",
+     "claims": [
+      "c33"
+     ]
+    },
+    {
+     "says": "כלכליסט: מאז הקמת החברה",
+     "claims": [
+      "c35"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d5",
+   "question": "מה שווי ההון של שוד?",
+   "versions": [
+    {
+     "says": "סרוגים: כ-2 מיליארד דולר",
+     "claims": [
+      "c50"
+     ]
+    },
+    {
+     "says": "ויקיפדיה: ב-2018 החזיק ב-19.1% ממניות צ'ק פוינט, בשווי משוער של 3.4 מיליארד דולר",
+     "claims": [
+      "c51"
+     ]
+    },
+    {
+     "says": "פורבס: בינואר 2024, 4.38 מיליארד דולר",
+     "claims": [
+      "c52"
+     ]
+    }
+   ]
+  }
+ ],
+ "unknowns": [
+  {
+   "text": "הדף לא יודע כמה אנשים עובדים בצ'ק פוינט; ועדת הפרס מדברת רק על \"אלפי מקומות עבודה\"",
+   "claims": [
+    "c45"
+   ]
+  }
+ ],
+ "claims": [
+  {
+   "id": "c1",
+   "text": "גיל שוד הוא מהנדס תוכנה ויזם ישראלי, ממייסדי צ'ק פוינט ויושב ראש הדירקטוריון המבצע שלה.",
+   "source": "src1",
+   "quote": "is an Israeli software engineer and entrepreneur.[3][4] He is the co-founder and Executive Chairman of the Board of Check Point",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c60",
+   "text": "ב-1993 הקים שוד את צ'ק פוינט עם שלמה קרמר, חברו מהיחידה הצבאית, ועם מריוס נכט, שעבד איתו באופטרוטק.",
+   "source": "src1",
+   "quote": "In 1993, Shwed founded Check Point with Shlomo Kramer, Shwed's friend from the military unit, and Marius Nacht with whom he worked at Optrotech.[4]",
+   "status": "confirmed",
+   "locator": "שורה 21"
+  },
+  {
+   "id": "c30",
+   "text": "שוד המציא ורשם פטנט על stateful inspection ב-1993, והיא הבסיס לגרסה הראשונה של FireWall-1 שיצאה ב-1994.",
+   "source": "src1",
+   "quote": "That year, Shwed invented and patented stateful inspection,[9] which was the basis for the first version of the company's renowned FireWall-1, released in 1994.[10]",
+   "status": "confirmed",
+   "locator": "שורה 22"
+  },
+  {
+   "id": "c2",
+   "text": "לפי ויקיפדיה, צ'ק פוינט היא אחת מחברות הטכנולוגיה הגדולות בישראל וחברת הסייבר הטהורה הגדולה בעולם.",
+   "source": "src1",
+   "quote": "one of Israel's largest technology companies and the world's largest pure-play cybersecurity company.[5][4]",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c42",
+   "text": "שוד יקבל את פרס ישראל למפעל חיים בתחום טכנולוגיה וחדשנות יישומית.",
+   "source": "src2",
+   "quote": "יקבל את פרס ישראל למפעל חיים בתחום טכנולוגיה וחדשנות יישומית",
+   "status": "confirmed",
+   "locator": "שורה 74"
+  },
+  {
+   "id": "c6",
+   "text": "שלושת החברים הקימו את צ'ק פוינט ביולי 1993.",
+   "source": "src3",
+   "quote": "The three friends started Check Point Software in July 1993, just a few months later.",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c61",
+   "text": "לפי CIO, צ'ק פוינט שוכנת ברמת גן שבישראל וברדווד סיטי בקליפורניה, ושוד רואה בה חברה גלובלית.",
+   "source": "src4",
+   "quote": "Shwed sees Check Point, headquartered in Ramat Gan, Israel, and Redwood City, Calif., as a global company.",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c25",
+   "text": "לפי סרוגים, שויד נולד בירושלים והחל את דרכו בעולם הטכנולוגיה בגיל 13.",
+   "source": "src5",
+   "quote": "שויד נולד בירושלים והחל את דרכו בעולם הטכנולוגיה כבר בגיל 13",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c23",
+   "text": "בגיל 10 החל שוד ללמוד מחשבים אחת לשבוע בעיר הולדתו ירושלים.",
+   "source": "src3",
+   "quote": "At the tender age of 10, Shwed began taking weekly computer classes in his home town of Jerusalem",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c24",
+   "text": "לפי ויקיפדיה, שוד החל לתכנת בגיל 13, ושנתיים אחר כך החל ללמוד מדעי המחשב באוניברסיטה העברית בעודו בתיכון.",
+   "source": "src1",
+   "quote": "He started programming at the age of 13, and two years later began studying computer sciences at Hebrew University in Jerusalem, while he was still in high-school.",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c26",
+   "text": "לפי שוד, בגיל 14 כשעוד למד בבית הספר החל לעבוד כמעט במשרה מלאה כמנהל מערכות באוניברסיטה העברית.",
+   "source": "src3",
+   "quote": "While still at school at age 14, Shwed says he started an almost full-time job as a system administrator at Hebrew University in Jerusalem.",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c27",
+   "text": "לפי דיווחים, שוד שירת באמ\"ן ביחידה 8200, שם בנה רשתות מחשבים צבאיות.",
+   "source": "src3",
+   "quote": "Shwed reportedly joined the IDF's Intelligence Corps (Unit 8200) where he put together military computer networks",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c28",
+   "text": "הרעיון ל-stateful inspection עלה לשוד לראשונה במהלך ארבע שנות שירותו בצה\"ל.",
+   "source": "src4",
+   "quote": "It was during Shwed’s four years in the Israeli Defense Forces that he first had the idea for stateful inspection",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c5",
+   "text": "אחרי הצבא הצטרף שוד לחברה הישראלית אופטרוטק כמפתח תוכנה, ושם הכיר את מריוס נכט.",
+   "source": "src3",
+   "quote": "After the army, Shwed joined the Israeli startup company Optrotech as a software developer, where he met Marius Nacht.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c8",
+   "text": "באותה תקופה מעטים ידעו מהו האינטרנט, ופחות מכך שהוא יוצר סיכון אבטחה שצריך להגן מפניו.",
+   "source": "src3",
+   "quote": "few people knew what the internet was - much less that it posed a network security risk that needed guarding.",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c59",
+   "text": "שוד אמר שבתחילת דרכו נאלץ לשכנע אנשים שיש שוק לאינטרנט.",
+   "source": "src3",
+   "quote": "But when I first started out I had to persuade people there was a market for the internet, so at least there's not that problem.",
+   "status": "confirmed",
+   "locator": "שורה 23"
+  },
+  {
+   "id": "c9",
+   "text": "השלושה הבינו שעסקים שיתחברו לאינטרנט יזדקקו להגנות, וכך נוצר שוק ליכולות חסימה ובקרת פרוטוקולים.",
+   "source": "src3",
+   "quote": "businesses that connected themselves to the internet would need safeguards, creating a market for the port control protocol and blocking capabilities",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c7",
+   "text": "הרעיון שהתפתח בהמשך ל-FireWall-1 פותח לראשונה באפריל 1993.",
+   "source": "src3",
+   "quote": "The idea that would eventually evolve into FireWall-1 was first developed in April 1993.",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c10",
+   "text": "שוד, קרמר ונכט עבדו שנה בדירה של קרוב משפחה, ותכנתו 12 עד 14 שעות ביום.",
+   "source": "src3",
+   "quote": "worked in a relative’s apartment for a year, programming for 12-14 hours a day",
+   "status": "confirmed",
+   "locator": "שורה 13"
+  },
+  {
+   "id": "c12",
+   "text": "FireWall-1 הוצג לראשונה לציבור בתערוכת NetWorld Interop בלאס וגאס ב-1994.",
+   "source": "src3",
+   "quote": "The team gave FireWall-1 first public debut at the 1994 NetWorld Interop show in Las Vegas.",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c11",
+   "text": "FireWall-1 זכה בפרס המוצר הטוב ביותר בתערוכה, מה שסייע להבאת צ'ק פוינט לאור הזרקורים.",
+   "source": "src3",
+   "quote": "FireWall-1 ended up winning the best-in-show award, helping to propel Check Point into the limelight.",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c39",
+   "text": "לפי CIO, FireWall-1 הוא חומת האש הראשונה לשוק ההמונים, והוצג ב-1993 בדיוק כשהאינטרנט החל להתפשט.",
+   "source": "src4",
+   "quote": "Check Point FireWall-1, the first mass-market firewall that made its debut just as the Internet was taking off in 1993.",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c19",
+   "text": "הייחוד של צ'ק פוינט היה העברת הטכנולוגיה ממערכות יוניקס לסביבת ה-PC.",
+   "source": "src6",
+   "quote": "the uniqueness of Check Point was that it transferred the technology used in UNIX to the PC environment.",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c13",
+   "text": "ב-1994 חתמה צ'ק פוינט על הסכם OEM עם סאן מיקרוסיסטמס, ושנה לאחר מכן על עסקה עם HP.",
+   "source": "src3",
+   "quote": "In 1994 Check Point signed an OEM agreement with Sun Microsystems. It followed this up with a deal with HP a year later.",
+   "status": "confirmed",
+   "locator": "שורה 15"
+  },
+  {
+   "id": "c22",
+   "text": "השותפות עם סאן מיקרוסיסטמס הפכה את צ'ק פוינט מחברה חסרת חשיבות למובילת שוק.",
+   "source": "src6",
+   "quote": "The partnership with Sun Microsystems turned Check Point from an insignificant company into a market leader.",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c14",
+   "text": "צ'ק פוינט הונפקה בשנת 1996.",
+   "source": "src3",
+   "quote": "The firm went public a year after that, in 1996.",
+   "status": "confirmed",
+   "locator": "שורה 15"
+  },
+  {
+   "id": "c18",
+   "text": "באותה תקופה קמו כארבעים חברות חומת אש שהתחרו בשוק אבטחת התקשורת באינטרנט.",
+   "source": "src6",
+   "quote": "About forty different Firewall companies sprung up in that period, competing on the Internet communications network security market.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c20",
+   "text": "בשנתיים שקדמו ל-1999 נאלץ שוד להתמודד עם הערכות אנליסטים שלפיהן שוק חומות האש עומד להיעלם.",
+   "source": "src6",
+   "quote": "Shwed has had to face analysts' estimates that the Firewall market is on the verge of disappearing",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c17",
+   "text": "לפי גלובס ב-1999, צ'ק פוינט שולטת ללא עוררין בשוק העולמי ומשמשת מילה נרדפת לכל התחום.",
+   "source": "src6",
+   "quote": "Check Point is the Firewall. The company undisputedly controls the global market, and serves as the synonym for the entire sector.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c21",
+   "text": "לפי גלובס ב-1999, שוד הקים חברה השולטת בשוק העולמי ושווייה עולה על 5 מיליארד דולר.",
+   "source": "src6",
+   "quote": "He set up a company that controls the global market, and that is listed at more than $5 billion company value.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c15",
+   "text": "לפי החברה, FireWall-1 מותקן בכל חברה מרשימת פורצ'ן 100.",
+   "source": "src3",
+   "quote": "whose FireWall-1 software, according to the firm, is installed at every Fortune 100 company.",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c16",
+   "text": "צ'ק פוינט טוענת ש-FireWall-1 מעולם לא נפרץ.",
+   "source": "src3",
+   "quote": "Check Point claims FireWall-1 has never been breached.",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c29",
+   "text": "טכנולוגיית stateful inspection שפיתח ופטנט שוד עדיין בשימוש בחומות אש מודרניות.",
+   "source": "src3",
+   "quote": "The stateful inspection* technology Shwed developed and patented is still in use in modern firewalls",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c62",
+   "text": "מוצרי צ'ק פוינט כוללים חומות אש, מכשירי UTM ואבטחת נקודות קצה.",
+   "source": "src3",
+   "quote": "Check Point's range of software products includes firewalls, UTM appliances, endpoint security (partly through the Zone Alarms acquisition)",
+   "status": "confirmed",
+   "locator": "שורה 16"
+  },
+  {
+   "id": "c4",
+   "text": "כלכליסט כתב שצ'ק פוינט נחשבת כיום לחברה הישראלית הגדולה ביותר, לאחר ירידת מעמדה של טבע.",
+   "source": "src2",
+   "quote": "כיום החברה נחשבת לחברה הישראלית הגדולה ביותר לאחר ירידת מעמדה של טבע",
+   "status": "confirmed",
+   "locator": "שורה 84"
+  },
+  {
+   "id": "c33",
+   "text": "לפי ויקיפדיה, שוד היה מנכ\"ל מ-1994 עד 2024, הכהונה הארוכה ביותר בחברה הנסחרת בנאסד\"ק.",
+   "source": "src1",
+   "quote": "Shwed was CEO from 1994 until 2024, the longest tenure for a Nasdaq-listed company.[6]",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c34",
+   "text": "ב-2024 פרש שוד מתפקיד המנכ\"ל והפך ליושב ראש הדירקטוריון המבצע.",
+   "source": "src1",
+   "quote": "In 2024, Shwed stepped down as CEO and became Executive Chairman of the Board.[18]",
+   "status": "confirmed",
+   "locator": "שורה 26"
+  },
+  {
+   "id": "c40",
+   "text": "שוד אמר שהחברה רואה עצמה חברת טכנולוגיה ולא חברה צבאית או ישראלית.",
+   "source": "src4",
+   "quote": "We look at ourselves as a technology company, not as a military company or as an Israeli company.",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c41",
+   "text": "שוד אמר שהוא גאה בהיותו ישראלי אך מכיר במגבלות, כי הלקוח האמריקאי רוצה מודל אמריקאי.",
+   "source": "src2",
+   "quote": "אני גאה בזה שאני ישראלי, אבל מכיר במגבלות שלנו. הלקוח האמריקאי רוצה לראות מודל אמריקאי, ואני לא כזה.",
+   "status": "confirmed",
+   "locator": "שורה 86"
+  },
+  {
+   "id": "c63",
+   "text": "שוד מתח ביקורת על ריבוי הסטארט-אפים ועל תכנון הקמת חברה במטרה למכור אותה, ואמר שחברה היא כמו ילד.",
+   "source": "src6",
+   "quote": "How can anyone plan setting up a company in order to sell it?",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c57",
+   "text": "שוד אמר שהוא אוהב את מה שהוא עושה, ושהסיכוי להקים חברה נוספת מעניינת ומצליחה כל כך אינו גבוה.",
+   "source": "src3",
+   "quote": "I like it, so why should I do something else? The chances of founding another firm that's as interesting and successful aren't high,",
+   "status": "confirmed",
+   "locator": "שורה 19"
+  },
+  {
+   "id": "c58",
+   "text": "שוד אמר שאבטחת מידע תחרותית הרבה יותר היום וקשה לפתח בה דבר חדש לגמרי.",
+   "source": "src3",
+   "quote": "information security is much more competitive; it's hard to develop something completely new.",
+   "status": "confirmed",
+   "locator": "שורה 22"
+  },
+  {
+   "id": "c56",
+   "text": "שוד וצ'ק פוינט מדגישים את הדור החמישי של אבטחת הסייבר.",
+   "source": "src1",
+   "quote": "Shwed and Check Point emphasize the \"fifth generation\" of cybersecurity",
+   "status": "confirmed",
+   "locator": "שורה 24"
+  },
+  {
+   "id": "c43",
+   "text": "הפרס מוענק לראשונה בתחום זה, וחתן הפרס נבחר בידי ועדה בראשות שלמה דוברת.",
+   "source": "src2",
+   "quote": "חתן הפרס - שמוענק לראשונה בתחום זה - נבחר בידי יו\"ר ועדת הפרס שלמה דוברת כשלצדו רן מידן ואילון תירוש",
+   "status": "confirmed",
+   "locator": "שורה 74"
+  },
+  {
+   "id": "c49",
+   "text": "בנט יזם את הקטגוריה החדשה בפרס ישראל לרגל חגיגות ה-70 למדינה.",
+   "source": "src5",
+   "quote": "שר החינוך, נפתלי בנט שיזם את הקטגוריה בפרס ישראל לרגל חגיגות ה70 למדינת ישראל",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c44",
+   "text": "לפי ועדת הפרס, תרומתו של שויד לפיתוח תעשיית ההייטק הישראלית נמשכת כבר כמעט 25 שנה.",
+   "source": "src2",
+   "quote": "תרומתו של שויד למדינת ישראל משמעותית בפיתוחה של תעשיית ההייטק כבר קרוב ל-25 שנה",
+   "status": "confirmed",
+   "locator": "שורה 78"
+  },
+  {
+   "id": "c45",
+   "text": "הוועדה ציינה את יצירת אלפי מקומות העבודה ואת ייצוג המצוינות וההון האנושי של ישראל בעולם.",
+   "source": "src2",
+   "quote": "יצירת אלפי מקומות עבודה וייצוג מצוינות וההון האנושי של ישראל בעולם",
+   "status": "confirmed",
+   "locator": "שורה 78"
+  },
+  {
+   "id": "c48",
+   "text": "שר החינוך בנט כתב בטוויטר ששויד הוא חלוץ ה-Start Up Nation וסיפורו הוא סיפור ההייטק הישראלי.",
+   "source": "src2",
+   "quote": "גיל שויד הוא חלוץ ה-Start Up Nation סיפורו הוא סיפור ההייטק הישראלי.",
+   "status": "confirmed",
+   "locator": "שורה 79"
+  },
+  {
+   "id": "c47",
+   "text": "שוד אמר שהפרס מגיע לכל עובדי צ'ק פוינט ב-25 השנים האחרונות.",
+   "source": "src2",
+   "quote": "הפרס אולי ניתן לי אך הוא מגיע לכל עובדות ועובדי צ'ק פוינט ב-25 השנים האחרונות",
+   "status": "confirmed",
+   "locator": "שורה 82"
+  },
+  {
+   "id": "c31",
+   "text": "לפי סרוגים, רבים רואים בשויד את אבי חומת האש המודרנית.",
+   "source": "src5",
+   "quote": "ונחשב על ידי רבים לאבי חומת האש המודרנית",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c32",
+   "text": "ויקיפדיה כותבת שהוא נחשב לממציא חומת האש המחשובית המודרנית.",
+   "source": "src1",
+   "quote": "He is considered the inventor of the modern computer firewall.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c53",
+   "text": "שוד קיבל תואר דוקטור לשם כבוד מהטכניון ביוני 2005.",
+   "source": "src1",
+   "quote": "He received an honorary doctorate from the Technion – Israel Institute of Technology in June 2005.[19]",
+   "status": "confirmed",
+   "locator": "שורה 30"
+  },
+  {
+   "id": "c38",
+   "text": "שוד הופיע ב-2002 ברשימת פורבס של מתחת לגיל 35, וכונה בישראל \"הביל גייטס של ישראל\".",
+   "source": "src4",
+   "quote": "His appearance on Forbes’ 2002 list of under-35",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c54",
+   "text": "עיתון גלובס הכתיר את שוד \"איש השנה\" ב-2014.",
+   "source": "src1",
+   "quote": "Globes newspaper honored Shwed as their \"Person of the Year\" in 2014.[20]",
+   "status": "confirmed",
+   "locator": "שורה 31"
+  },
+  {
+   "id": "c55",
+   "text": "שוד חבר בוועד הנאמנים של אוניברסיטת תל אביב ויו\"ר ועד הנאמנים של האוניברסיטה לנוער באוניברסיטת תל אביב.",
+   "source": "src3",
+   "quote": "Shwed is a member of the board of trustees of Tel Aviv University and the chairman of the board of trustees of the Youth University of Tel Aviv University.",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c46",
+   "text": "הוועדה ציינה את פעילותו הציבורית של שויד בקידום מנהיגות ומצוינות בקרב בני נוער מוכשרים.",
+   "source": "src2",
+   "quote": "שוויד עוסק בפעילות ציבורית משמעותית ונרחבת בסיוע לקידום מנהיגות ומצוינות בקרב בני נוער מוכשרים",
+   "status": "confirmed",
+   "locator": "שורה 81"
+  },
+  {
+   "id": "c64",
+   "text": "שוד חבר בדירקטוריון עמותת יחדיו, שנוסדה בידי קרן רש\"י ופועלת בין היתר להפחתת נשירה בתיכונים.",
+   "source": "src1",
+   "quote": "Board of Directors of Yeholot Association founded by the Rashi Foundation whose charter is, among other things, to reduce dropout rates in high schools.",
+   "status": "confirmed",
+   "locator": "שורה 28"
+  },
+  {
+   "id": "c50",
+   "text": "לפי סרוגים, הונו האישי של שויד נאמד בכ-2 מיליארד דולר.",
+   "source": "src5",
+   "quote": "הונו האישי נאמד בכ-2 מיליארד דולרים, והוא מאנשי העסקים העשירים בישראל.",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c51",
+   "text": "לפי ויקיפדיה, ב-2018 החזיק שוד ב-19.1% ממניות צ'ק פוינט, בשווי משוער של 3.4 מיליארד דולר.",
+   "source": "src1",
+   "quote": "As of 2018, Shwed is the leading shareholder in Checkpoint, owning 19.1% of the company, with an estimated worth of US$3.4 billion.",
+   "status": "confirmed",
+   "locator": "שורה 23"
+  },
+  {
+   "id": "c52",
+   "text": "לפי פורבס, בינואר 2024 הונו של שוד היה 4.38 מיליארד דולר.",
+   "source": "src1",
+   "quote": "As of January 27, 2024, Forbes listed Gil Shwed net worth at US$4.38 billion, ranking him 682 on the Billionaires list.[17]",
+   "status": "confirmed",
+   "locator": "שורה 25"
+  },
+  {
+   "id": "c36",
+   "text": "לפי הספר, ב-1991 היה שוד בן 22 וישר אחרי הצבא.",
+   "source": "src7",
+   "quote": "Aged 22 and fresh out of the army, back in 1991, Shwed",
+   "status": "confirmed",
+   "locator": "שורה 27"
+  },
+  {
+   "id": "c37",
+   "text": "לפי CIO, שוד היה כמעט בן 25 כשהוא ושני עמיתים הקימו את צ'ק פוינט.",
+   "source": "src4",
+   "quote": "He was just shy of 25 when he and two colleagues started Check Point Software.",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c35",
+   "text": "לפי כלכליסט, שוויד מכהן כמנכ\"ל צ'ק פוינט מאז הקמתה.",
+   "source": "src2",
+   "quote": "שוויד מכהן כמנכ\"ל צ'ק פוינט מאז הקמתה; כיום החברה נחשבת לחברה הישראלית",
+   "status": "confirmed",
+   "locator": "שורה 84"
+  }
+ ],
+ "sources": [
+  {
+   "id": "src1",
+   "label": "Wikipedia, Gil Shwed",
+   "url": "https://en.wikipedia.org/wiki/Gil_Shwed",
+   "kind": "reference"
+  },
+  {
+   "id": "src2",
+   "label": "כלכליסט, פרס ישראל להייטק יוענק לגיל שוויד, 2018",
+   "url": "https://www.calcalist.co.il/articles/0,7340,L-3733208,00.html",
+   "kind": "press"
+  },
+  {
+   "id": "src3",
+   "label": "The Register, פרופיל של גיל שוד, 23.4.2013",
+   "url": "https://www.theregister.co.uk/2013/04/23/check_point_profile/",
+   "kind": "press"
+  },
+  {
+   "id": "src4",
+   "label": "CIO, פרופיל של גיל שוד",
+   "url": "https://www.cio.com/article/270359/innovation-cio-20-20-honorees-innovator-s-profile-gil-schwed-of-check-point-software-technologies.html",
+   "kind": "press"
+  },
+  {
+   "id": "src5",
+   "label": "סרוגים, חתן פרס ישראל בתחום טכנולוגיה, 2018",
+   "url": "https://www.srugim.co.il/242700-לראשונה-חתן-פרס-ישראל-בתחום-טכנולוגיה",
+   "kind": "press"
+  },
+  {
+   "id": "src6",
+   "label": "Globes, Gil Shwed - Check Point",
+   "url": "https://en.globes.co.il/en/article-380714",
+   "kind": "press"
+  },
+  {
+   "id": "src7",
+   "label": "The Battle for the Cybersecurity Industry, פרק 5: The Pioneer—The Story of Check Point",
+   "url": "https://www.oreilly.com/library/view/the-battle-for/9781394174157/c05.xhtml",
+   "kind": "book"
+  }
+ ],
+ "media": [
+  {
+   "id": "m1",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/PikiWiki%20Israel%2032378%20Top%20View%20of%20Tel%20Aviv.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:PikiWiki_Israel_32378_Top_View_of_Tel_Aviv.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "shaula haitner",
+   "licence": "CC BY 2.5",
+   "hosting": "hotlink",
+   "caption": "מבט מלמעלה על בניין המשרדים של צ'ק פוינט בתל אביב, עם שלט החברה על גג הכנף הימנית.",
+   "illustrates": [
+    "c61"
+   ],
+   "licence_url": "https://creativecommons.org/licenses/by/2.5",
+   "date": "circa 2013",
+   "width": 1832,
+   "height": 2355
+  },
+  {
+   "id": "m2",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Check%20Point%20building.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Check_Point_building.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Avi1111 dr. avishai teicher",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "בניין זכוכית רב־קומות עם שלט צ'ק פוינט בראשו, בתל אביב.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2016-12-30",
+   "width": 4608,
+   "height": 3456
+  },
+  {
+   "id": "m3",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Check%20Point%20offices.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Check_Point_offices.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Petr Cícha",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "בניין משרדי צ'ק פוינט בתל אביב, עם הלוגו בראשו וקירות ירוקים מצמחייה בחזיתו.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2023-02-22",
+   "width": 1238,
+   "height": 759
+  },
+  {
+   "id": "m4",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Check%20Point%20headquarters.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Check_Point_headquarters.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "דוד שי",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "מבט מגובה, מבעד לזכוכית, על בניין צ'ק פוינט בתל אביב ועל הרחובות שסביבו.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "2013-01-18",
+   "width": 1454,
+   "height": 1445
+  },
+  {
+   "id": "m5",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Check%20Point-Tel%20Aviv.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Check_Point-Tel_Aviv.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Avi1111 dr. avishai teicher",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "תקריב של שלט צ'ק פוינט בעברית ובאנגלית על גג הבניין.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2016-12-30",
+   "width": 4608,
+   "height": 3456
+  },
+  {
+   "id": "m6",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Check%20point%20hq.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Check_point_hq.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "דוד שי",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "בניין צ'ק פוינט בתל אביב מרחוק, בין מגדל מגורים לאתרי בנייה.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "2015-08-17",
+   "width": 1919,
+   "height": 1454
+  },
+  {
+   "id": "m7",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Check%20Point%20HQ%20new%20wing.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Check_Point_HQ_new_wing.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "דוד שי",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "חזית ירוקה מכוסה צמחייה באגף החדש של מטה צ'ק פוינט בתל אביב.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2017-11-08",
+   "width": 3000,
+   "height": 3395
+  },
+  {
+   "id": "m8",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Check%20point%20hq%202.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Check_point_hq_2.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "דוד שי",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "מבט מהרחוב על מבנה המטה של צ'ק פוינט בתל אביב, לצד מגדל מגורים.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2016-09-03",
+   "width": 4160,
+   "height": 2340
+  },
+  {
+   "id": "m9",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Chkpnt.JPG?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Chkpnt.JPG",
+   "source_name": "Wikimedia Commons",
+   "credit": "Gilabrand",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "שלט צ'ק פוינט בעברית ובאנגלית על גג בניין זכוכית בתל אביב.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "2013-04-07",
+   "width": 2354,
+   "height": 1995
+  },
+  {
+   "id": "m10",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=jg-5VvN8gJo",
+   "youtube_id": "jg-5VvN8gJo",
+   "source_page": "https://www.youtube.com/watch?v=jg-5VvN8gJo",
+   "source_name": "YouTube",
+   "credit": "כאן | חדשות - תאגיד השידור הישראלי",
+   "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "ראיון של כאן חדשות עם גיל שוויד, מייסד צ'ק פוינט וזוכה פרס ישראל, על הדרך מהדירה של סבתא להצלחה של מיליארדי דולרים.",
+   "illustrates": [
+    "c42",
+    "c59",
+    "c8",
+    "c10"
+   ]
+  },
+  {
+   "id": "m11",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=QzpXcXXARUQ",
+   "youtube_id": "QzpXcXXARUQ",
+   "source_page": "https://www.youtube.com/watch?v=QzpXcXXARUQ",
+   "source_name": "YouTube",
+   "credit": "ScaleUP Nation",
+   "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "פרק בסדרת ScaleUP Nation על גיל שויד, מייסד צ'ק פוינט והמנכ\"ל הוותיק בנאסד\"ק, מילד מחשבים ירושלמי בן 14 באוניברסיטה ועד המצאת חומת האש.",
+   "illustrates": [
+    "c26",
+    "c33",
+    "c32"
+   ],
+   "spoken": "he",
+   "audio_tracks": [
+    "he"
+   ]
+  },
+  {
+   "id": "m12",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=wRKukfeR38Q",
+   "youtube_id": "wRKukfeR38Q",
+   "source_page": "https://www.youtube.com/watch?v=wRKukfeR38Q",
+   "source_name": "YouTube",
+   "credit": "IsraelClouds",
+   "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "ראיון מליאה עם גיל שויד, מייסד ומנכ\"ל צ'ק פוינט, בכנס IsraelClouds בהנחיית אביב פרנקל.",
+   "illustrates": []
+  },
+  {
+   "id": "m13",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=VnmCu-2F_Xo",
+   "youtube_id": "VnmCu-2F_Xo",
+   "source_page": "https://www.youtube.com/watch?v=VnmCu-2F_Xo",
+   "source_name": "YouTube",
+   "credit": "CNBC Television",
+   "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "ראיון של CNBC עם מנכ\"ל צ'ק פוינט גיל שויד על איומי סייבר ועל שוק הפשע המקוון.",
+   "illustrates": [
+    "c56"
+   ],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m14",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=f0auHjT5s9g",
+   "youtube_id": "f0auHjT5s9g",
+   "source_page": "https://www.youtube.com/watch?v=f0auHjT5s9g",
+   "source_name": "YouTube",
+   "credit": "Ilana Golan - Leap Academy | Career Reinvention",
+   "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "ראיון עם גיל שויד על בניית צ'ק פוינט לחברת סייבר של 20 מיליארד דולר, החל מפגם אבטחה שזיהה כמתכנת.",
+   "illustrates": [
+    "c2",
+    "c28"
+   ],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m15",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Checkpoint%20switch.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Checkpoint_switch.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Christo",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "מכשיר אבטחת רשת של צ'ק פוינט עם יציאות רשת, שהוצג בתערוכה בבודפשט ב-2014",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2005-01-01",
+   "width": 2592,
+   "height": 1944,
+   "role": "related"
+  },
+  {
+   "id": "m16",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/139718%20tel%20aviv%20checkpoint%20building%20in%20the%20bitzaron%20neigh%20PikiWiki%20Israel.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:139718_tel_aviv_checkpoint_building_in_the_bitzaron_neigh_PikiWiki_Israel.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "ישראל פרקר",
+   "licence": "CC BY 2.5",
+   "hosting": "hotlink",
+   "caption": "בניין צ'ק פוינט בשכונת ביצרון בתל אביב, עם חזית ירוקה ושלט החברה בראשו",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/2.5",
+   "date": "2025-10-29",
+   "width": 2285,
+   "height": 3000,
+   "role": "deed"
+  },
+  {
+   "id": "m17",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/139719%20tel%20aviv%20checkpoint%20building%20in%20the%20bitzaron%20neigh%20PikiWiki%20Israel.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:139719_tel_aviv_checkpoint_building_in_the_bitzaron_neigh_PikiWiki_Israel.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "ישראל פרקר",
+   "licence": "CC BY 2.5",
+   "hosting": "hotlink",
+   "caption": "פינת בניין צ'ק פוינט בתל אביב, מצולמת מלמטה, עם שלט החברה בקצה הגג",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/2.5",
+   "date": "2025-10-29",
+   "width": 1398,
+   "height": 3000,
+   "role": "deed"
+  },
+  {
+   "id": "m18",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/139721%20tel%20aviv%20checkpoint%20building%20in%20the%20bitzaron%20neigh%20PikiWiki%20Israel.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:139721_tel_aviv_checkpoint_building_in_the_bitzaron_neigh_PikiWiki_Israel.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "ישראל פרקר",
+   "licence": "CC BY 2.5",
+   "hosting": "hotlink",
+   "caption": "החזית הירוקה של בניין צ'ק פוינט בתל אביב, מבט מהרחוב",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/2.5",
+   "date": "29.10.2025",
+   "width": 2788,
+   "height": 3000,
+   "role": "deed"
+  },
+  {
+   "id": "m19",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/139722%20tel%20aviv%20checkpoint%20building%20in%20the%20bitzaron%20neigh%20PikiWiki%20Israel.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:139722_tel_aviv_checkpoint_building_in_the_bitzaron_neigh_PikiWiki_Israel.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "ישראל פרקר",
+   "licence": "CC BY 2.5",
+   "hosting": "hotlink",
+   "caption": "כניסה לבניין צ'ק פוינט בתל אביב, בין מעלית זכוכית לחזית מכוסה צמחייה",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/2.5",
+   "date": "2025-10-29",
+   "width": 969,
+   "height": 2295,
+   "role": "deed"
+  },
+  {
+   "id": "m20",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Blavatnik7712.JPG?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Blavatnik7712.JPG",
+   "source_name": "Wikimedia Commons",
+   "credit": "יעקב",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "בניין צ'ק פוינט בקמפוס אוניברסיטת תל אביב, בית הספר למדעי המחשב, מול בניין ישן יותר",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2019-09-16",
+   "width": 4608,
+   "height": 2592,
+   "role": "related"
+  },
+  {
+   "id": "m21",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Blavatnik7716.JPG?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Blavatnik7716.JPG",
+   "source_name": "Wikimedia Commons",
+   "credit": "יעקב",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "כניסה לבניין למדעי המחשב באוניברסיטת תל אביב, מתחת לחזית רבועים לבנה",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2019-09-16",
+   "width": 4608,
+   "height": 2592,
+   "role": "related"
+  },
+  {
+   "id": "m22",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Check%20Point%20Building%20in%20Tel%20Aviv%20University%20.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Check_Point_Building_in_Tel_Aviv_University_.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Tomer T",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "בניין צ'ק פוינט באוניברסיטת תל אביב בשעת בין ערביים, עם חלונות מוארים בחזית",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2 December",
+   "width": 4032,
+   "height": 1960,
+   "role": "related"
+  },
+  {
+   "id": "m23",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Check%20Point%20Building%2C%20Tel%20Aviv%20University3969.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Check_Point_Building%2C_Tel_Aviv_University3969.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "יעקב",
+   "licence": "CC0",
+   "hosting": "hotlink",
+   "caption": "בניין צ'ק פוינט בקמפוס אוניברסיטת תל אביב, עם השלט על חזיתו",
+   "illustrates": [],
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "date": "2023-05-09",
+   "width": 5184,
+   "height": 3888,
+   "role": "related"
+  },
+  {
+   "id": "m25",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/PikiWiki%20Israel%2056327%20check%20point%20house%20-%20computer%20science.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:PikiWiki_Israel_56327_check_point_house_-_computer_science.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "שאולה הייטנר",
+   "licence": "CC BY 2.5",
+   "hosting": "hotlink",
+   "caption": "בניין צ'ק פוינט באוניברסיטת תל אביב באור שקיעה, עם דשא ואנשים בקדמת התמונה",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/2.5",
+   "date": "2019",
+   "width": 4032,
+   "height": 3024,
+   "role": "related"
+  },
+  {
+   "id": "m26",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/PikiWiki%20Israel%2056328%20check%20point%20house%20-%20computer%20science.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:PikiWiki_Israel_56328_check_point_house_-_computer_science.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "שאולה הייטנר",
+   "licence": "CC BY 2.5",
+   "hosting": "hotlink",
+   "caption": "חלל פנים עם גרם מדרגות לבן בבית צ'ק פוינט למדעי המחשב באוניברסיטת תל אביב",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/2.5",
+   "date": "2019",
+   "width": 4032,
+   "height": 3024,
+   "role": "related"
+  },
+  {
+   "id": "m27",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/PikiWiki%20Israel%2056329%20check%20point%20house%20-%20computer%20science.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:PikiWiki_Israel_56329_check_point_house_-_computer_science.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "שאולה הייטנר",
+   "licence": "CC BY 2.5",
+   "hosting": "hotlink",
+   "caption": "אטריום בן כמה קומות עם פינות ישיבה, בבית צ'ק פוינט למדעי המחשב באוניברסיטת תל אביב",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/2.5",
+   "date": "2019",
+   "width": 2776,
+   "height": 3702,
+   "role": "related"
+  },
+  {
+   "id": "m28",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/BarLevSharoni878-1970.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:BarLevSharoni878-1970.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "IDF Spokesperson's Unit photographer",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "הרמטכ\"ל חיים בר לב עם סגל בכיר ביחידה 8200, כשנקראה עוד 848, בצילום משנת 1970",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "1970",
+   "width": 1291,
+   "height": 841,
+   "role": "related"
+  },
+  {
+   "id": "m29",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Base%20of%20Unit%208200%20in%20Sinai%201.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Base_of_Unit_8200_in_Sinai_1.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "IDF Spokesperson's Unit photographer",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "בסיס של יחידה 848, לימים 8200, על הר אום־חשיבה בסיני, עם צלחות קליטה וקשתות אנטנות",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "between 19",
+   "width": 624,
+   "height": 383,
+   "role": "related"
+  },
+  {
+   "id": "m30",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Base%20of%20Unit%208200%20in%20Sinai%2010.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Base_of_Unit_8200_in_Sinai_10.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "IDF Spokesperson's Unit photographer",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "חיילים על מתקן של צלחת אנטנה ענקית בבסיס האזנה של יחידה 848 בסיני",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "between 19",
+   "width": 624,
+   "height": 383,
+   "role": "related"
+  },
+  {
+   "id": "m32",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Base%20of%20Unit%208200%20in%20Sinai%203.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Base_of_Unit_8200_in_Sinai_3.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "IDF Spokesperson's Unit photographer",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "מסוק מתקרב לרחבת נחיתה בפסגת הר, בבסיס של יחידה 8200 בסיני",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "between 19",
+   "width": 624,
+   "height": 383,
+   "role": "related"
+  },
+  {
+   "id": "m33",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Base%20of%20Unit%208200%20in%20Sinai%206.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Base_of_Unit_8200_in_Sinai_6.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "IDF Spokesperson's Unit photographer",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "מחנה צריפים במדבר, עם מגדל מים ובלון באוויר, בבסיס של יחידה 8200 בסיני",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "between 19",
+   "width": 624,
+   "height": 383,
+   "role": "related"
+  },
+  {
+   "id": "m34",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Base%20of%20Unit%208200%20in%20Sinai%208.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Base_of_Unit_8200_in_Sinai_8.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "IDF Spokesperson's Unit photographer",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "חיילים מול קירות של ציוד קשר והאזנה בבסיס של יחידה 8200 בסיני",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "between 19",
+   "width": 624,
+   "height": 383,
+   "role": "related"
+  },
+  {
+   "id": "m35",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/GazitLeaving8200-1979.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:GazitLeaving8200-1979.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "אפרים לפיד",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "מפגש פרידה מראש אמ\"ן שלמה גזית ביחידה 8200, 1979",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "1979",
+   "width": 1309,
+   "height": 899,
+   "role": "related"
+  },
+  {
+   "id": "m36",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Har%20Avital.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Har_Avital.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Marion Doss",
+   "licence": "CC BY-SA 2.0",
+   "hosting": "hotlink",
+   "caption": "בסיס של יחידה 8200 על הר אביטל ברמת הגולן, עם צלחות קליטה ואנטנות על הפסגה",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "date": "2007-03-17",
+   "width": 3998,
+   "height": 1169,
+   "role": "related"
+  },
+  {
+   "id": "m37",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/IDF%208200%20change%20of%20command%20ceremony%2C%202021.png?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:IDF_8200_change_of_command_ceremony%2C_2021.png",
+   "source_name": "Wikimedia Commons",
+   "credit": "IDF Spokesperson's Unit photographer",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "טקס החלפת מפקד ביחידה 8200, 2021: דגל היחידה וקצינים על במה",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "Taken on 2",
+   "width": 1016,
+   "height": 677,
+   "role": "related"
+  },
+  {
+   "id": "m38",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/%D7%A1%D7%99%D7%95%D7%A8%20%D7%95%D7%99%D7%A7%D7%99%D7%A4%D7%93%D7%99%D7%94%20126%20%D7%91%D7%A2%D7%A7%D7%91%D7%95%D7%AA%208200%20%D7%90%201.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:%D7%A1%D7%99%D7%95%D7%A8_%D7%95%D7%99%D7%A7%D7%99%D7%A4%D7%93%D7%99%D7%94_126_%D7%91%D7%A2%D7%A7%D7%91%D7%95%D7%AA_8200_%D7%90_1.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Yoavd",
+   "licence": "CC0",
+   "hosting": "hotlink",
+   "caption": "מבנה אבן בירושלים, תחנה בסיור על תחילת ההאזנה ביחידה 8200",
+   "illustrates": [],
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "date": "2026-11-17",
+   "width": 4000,
+   "height": 2250,
+   "role": "related"
+  },
+  {
+   "id": "m39",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dadovisit8200Sinai1972.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Dadovisit8200Sinai1972.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "IDF Spokesperson's Unit photographer",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "הרמטכ\"ל דוד אלעזר מבקר בבסיס האזנה של יחידה 8200 בסיני, 1972",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "1972",
+   "width": 1407,
+   "height": 943,
+   "role": "related"
+  }
+ ],
+ "check": {
+  "passed": true,
+  "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
+  "checked_at": "2026-11-20T21:52:05Z",
+  "counts": {
+   "confirmed": 80,
+   "not_confirmed": 0,
+   "deleted_sentences": 3,
+   "first_round_confirmed": 77,
+   "first_round_contradicted": 2,
+   "first_round_unverifiable": 4
+  },
+  "note": "unverifiable sentences were deleted, contradicted ones fixed from the source and checked again"
+ },
+ "meta": {
+  "run": "gil-shwed-check-point-cybersecurity",
+  "pipeline": "scripts/museum/museum_line.py",
+  "models": {
+   "research": "sonnet-5-5",
+   "extract": "sonnet-5-5",
+   "media": "sonnet-5-5",
+   "write": "opus-5-5 medium",
+   "check": "opus-5-5 medium",
+   "fix": "opus-5-5 medium"
+  },
+  "source_quality": {
+   "sources": 7,
+   "wikipedia": 1,
+   "strong": 6,
+   "ok": true,
+   "warnings": []
+  }
+ }
+}

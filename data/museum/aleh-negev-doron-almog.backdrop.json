@@ -1,0 +1,56 @@
+{
+ "schema": "maasei-backdrop/1",
+ "slug": "aleh-negev-doron-almog",
+ "media": "m23",
+ "img": "https://commons.wikimedia.org/wiki/Special:FilePath/%D7%90%D7%9E%D7%A4%D7%99%20%D7%A2%D7%9C%D7%94%20%D7%A0%D7%92%D7%91.jpg?width=1920",
+ "img_small": "https://commons.wikimedia.org/wiki/Special:FilePath/%D7%90%D7%9E%D7%A4%D7%99%20%D7%A2%D7%9C%D7%94%20%D7%A0%D7%92%D7%91.jpg?width=1080",
+ "why": "A wide aerial view of the Aleh Negev–Nahalat Eran village, with its paths, lawns, low buildings and residents (some in wheelchairs) gathered around the amphitheatre, shows the whole world of the village with depth and texture.",
+ "chosen_by": "opus picker",
+ "alternates": [
+  "m24"
+ ],
+ "from": {
+  "average": "#a5aca1",
+  "picked": "#9ab6cb",
+  "coloured_share": 0.39,
+  "lightness": 0.644
+ },
+ "palette": {
+  "paper": "#e9eff4",
+  "surface": "#f6f8fa",
+  "band": "#d7e3ec",
+  "tint": "#ccddea",
+  "header": "#dfe8ef",
+  "rule": "#afc4d5",
+  "text": "#18222a",
+  "text2": "#33424c",
+  "accent": "#365b78",
+  "meta": "#4f5e68",
+  "tone": "#1e221b",
+  "shadow": "18, 27, 33"
+ },
+ "checks": {
+  "text_on_paper": 13.93,
+  "text_on_surface": 15.16,
+  "text_on_band": 12.37,
+  "text_on_tint": 11.6,
+  "text_on_header": 13.01,
+  "text2_on_paper": 8.95,
+  "text2_on_surface": 9.74,
+  "text2_on_band": 7.95,
+  "text2_on_tint": 7.46,
+  "text2_on_header": 8.36,
+  "accent_on_paper": 6.2,
+  "accent_on_surface": 6.75,
+  "accent_on_band": 5.5,
+  "accent_on_tint": 5.16,
+  "accent_on_header": 5.79,
+  "meta_on_paper": 5.78,
+  "meta_on_surface": 6.3,
+  "meta_on_band": 5.13,
+  "meta_on_tint": 4.82,
+  "meta_on_header": 5.4,
+  "paper_on_accent": 6.2
+ },
+ "passed": true
+}

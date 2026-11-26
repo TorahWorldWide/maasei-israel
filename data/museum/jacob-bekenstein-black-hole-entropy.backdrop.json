@@ -1,0 +1,56 @@
+{
+ "schema": "maasei-backdrop/1",
+ "slug": "jacob-bekenstein-black-hole-entropy",
+ "media": "m19",
+ "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Path%20behind%20Alexander%20Hall%2C%20Princeton%2C%20New%20Jersey.jpg?width=1920",
+ "img_small": "https://commons.wikimedia.org/wiki/Special:FilePath/Path%20behind%20Alexander%20Hall%2C%20Princeton%2C%20New%20Jersey.jpg?width=1080",
+ "why": "A wide, textured autumn path beside Alexander Hall at Princeton, where Bekenstein did the 1972 black-hole entropy work, sets the world of the story without becoming a portrait.",
+ "chosen_by": "opus picker",
+ "alternates": [
+  "m12"
+ ],
+ "from": {
+  "average": "#7d7561",
+  "picked": "#6c601c",
+  "coloured_share": 0.406,
+  "lightness": 0.439
+ },
+ "palette": {
+  "paper": "#f4f2e9",
+  "surface": "#faf9f6",
+  "band": "#ece9d7",
+  "tint": "#eae6cc",
+  "header": "#efeddf",
+  "rule": "#d5cfaf",
+  "text": "#2a2818",
+  "text2": "#4c4933",
+  "accent": "#6e611d",
+  "meta": "#65624c",
+  "tone": "#22201b",
+  "shadow": "33, 31, 18"
+ },
+ "checks": {
+  "text_on_paper": 13.23,
+  "text_on_surface": 14.09,
+  "text_on_band": 12.16,
+  "text_on_tint": 11.79,
+  "text_on_header": 12.61,
+  "text2_on_paper": 8.11,
+  "text2_on_surface": 8.64,
+  "text2_on_band": 7.45,
+  "text2_on_tint": 7.23,
+  "text2_on_header": 7.73,
+  "accent_on_paper": 5.52,
+  "accent_on_surface": 5.88,
+  "accent_on_band": 5.07,
+  "accent_on_tint": 4.92,
+  "accent_on_header": 5.26,
+  "meta_on_paper": 5.5,
+  "meta_on_surface": 5.86,
+  "meta_on_band": 5.05,
+  "meta_on_tint": 4.9,
+  "meta_on_header": 5.24,
+  "paper_on_accent": 5.52
+ },
+ "passed": true
+}

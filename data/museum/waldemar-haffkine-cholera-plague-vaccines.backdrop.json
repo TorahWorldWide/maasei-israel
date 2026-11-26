@@ -1,0 +1,56 @@
+{
+ "schema": "maasei-backdrop/1",
+ "slug": "waldemar-haffkine-cholera-plague-vaccines",
+ "media": "m17",
+ "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Anti-cholera%20inoculation%2C%20Calcutta%2C%201894%20Wellcome%20L0037329.jpg?width=1920",
+ "img_small": "https://commons.wikimedia.org/wiki/Special:FilePath/Anti-cholera%20inoculation%2C%20Calcutta%2C%201894%20Wellcome%20L0037329.jpg?width=1080",
+ "why": "It shows the 1894 cholera vaccination in Calcutta: a crowd of local people, doctors and the vaccine table in front of a mud-and-bamboo hut, which puts the visitor right in the world of the deed (the printed title and margins should be cropped away).",
+ "chosen_by": "opus picker",
+ "alternates": [
+  "m18"
+ ],
+ "from": {
+  "average": "#afaaa7",
+  "picked": "#afaaa7",
+  "coloured_share": 0.0,
+  "lightness": 0.668
+ },
+ "palette": {
+  "paper": "#f0eeed",
+  "surface": "#f8f8f7",
+  "band": "#e5e1df",
+  "tint": "#e0dad7",
+  "header": "#e9e6e4",
+  "rule": "#c7c0bc",
+  "text": "#2a1f18",
+  "text2": "#4c3d33",
+  "accent": "#71503d",
+  "meta": "#68594f",
+  "tone": "#221e1b",
+  "shadow": "33, 24, 18"
+ },
+ "checks": {
+  "text_on_paper": 13.89,
+  "text_on_surface": 15.11,
+  "text_on_band": 12.36,
+  "text_on_tint": 11.61,
+  "text_on_header": 12.93,
+  "text2_on_paper": 8.98,
+  "text2_on_surface": 9.77,
+  "text2_on_band": 7.99,
+  "text2_on_tint": 7.5,
+  "text2_on_header": 8.36,
+  "accent_on_paper": 6.22,
+  "accent_on_surface": 6.77,
+  "accent_on_band": 5.54,
+  "accent_on_tint": 5.2,
+  "accent_on_header": 5.79,
+  "meta_on_paper": 5.8,
+  "meta_on_surface": 6.31,
+  "meta_on_band": 5.16,
+  "meta_on_tint": 4.85,
+  "meta_on_header": 5.4,
+  "paper_on_accent": 6.22
+ },
+ "passed": true
+}

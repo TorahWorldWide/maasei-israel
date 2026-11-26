@@ -26,8 +26,8 @@ function moodLabel(lang: Lang, i: number): string {
   return t(lang, MOODS[i].key);
 }
 
-const GOLD = "#c9a84a";
-const GOLD_BRIGHT = "#e6c66e";
+const GOLD = "#6b4426"; // 26.11 album palette: sepia replaces gold
+const GOLD_BRIGHT = "#8a5a34";
 const CLAMP: CSSProperties = {
   display: "-webkit-box",
   WebkitBoxOrient: "vertical",
@@ -119,6 +119,7 @@ export default function Theater({ entries }: TheaterProps) {
         width: "100%",
         height: "100%",
         playerVars: {
+          ...(current?.href ? { start: 8 } : {}),
           autoplay: 1,
           mute: 1,
           controls: 1,
@@ -162,6 +163,23 @@ export default function Theater({ entries }: TheaterProps) {
     window.addEventListener("keydown", onKey);
     return () => window.removeEventListener("keydown", onKey);
   }, [go, modalOpen]);
+
+  // 26.11 reel (museum deeds): like a cinema trailer reel, a video that is still
+  // muted moves on after ~40s of play. Once someone unmutes it, it plays to its end.
+  useEffect(() => {
+    if (!current?.href || featured.length <= 1 || modalOpen) return;
+    const tid = setInterval(() => {
+      const pl = ytPlayerRef.current;
+      try {
+        if (!pl || typeof pl.isMuted !== "function" || typeof pl.getCurrentTime !== "function") return;
+        if (!pl.isMuted() || pl.getCurrentTime() < 48) return;
+      } catch {
+        return;
+      }
+      goRef.current(1);
+    }, 4000);
+    return () => clearInterval(tid);
+  }, [current?.href, current?.id, featured.length, modalOpen]);
 
   // A blocked (un-embeddable) video can't play — after a short beat, move on so
   // the stage never gets stuck. Only when there's somewhere else to go.
@@ -264,11 +282,11 @@ export default function Theater({ entries }: TheaterProps) {
           {/* SPARK — reading-start side; flips automatically with dir (rtl/ltr) */}
           <aside key={`spark-${current.id}`} className="hidden xl:block justify-self-end max-w-[17rem] panel-rise" style={{ textAlign: "end" }}>
             {spark && (
-              <div className="pe-6" style={{ borderInlineEnd: "1px solid rgba(201,168,74,0.22)" }}>
+              <div className="pe-6" style={{ borderInlineEnd: "1px solid rgba(107,68,38,0.22)" }}>
                 <p className="text-[11px] tracking-[0.14em] uppercase mb-2.5" style={{ color: GOLD }}>
                   {t(lang, "actLabel")}
                 </p>
-                <p className="text-[13.5px] leading-relaxed text-blue-100/70" style={CLAMP}>{spark}</p>
+                <p className="text-[13.5px] leading-relaxed text-[#43382c]" style={CLAMP}>{spark}</p>
               </div>
             )}
           </aside>
@@ -277,23 +295,23 @@ export default function Theater({ entries }: TheaterProps) {
           {/* TITLE — crowning the screen */}
           <div key={`ttl-${current.id}`} className="panel-rise mb-4 sm:mb-5 px-4 text-center">
             <div className="flex items-center justify-center gap-x-2.5 gap-y-1 flex-wrap">
-              {entryCategories(current).map((cat) => (
+              {(current.href ? [] : entryCategories(current)).map((cat) => (
                 <span
                   key={cat}
                   className="text-[11px] px-2.5 py-0.5 rounded-full flex-shrink-0"
-                  style={{ color: GOLD_BRIGHT, background: "rgba(201,168,74,0.12)", border: "1px solid rgba(201,168,74,0.3)" }}
+                  style={{ color: GOLD_BRIGHT, background: "rgba(107,68,38,0.12)", border: "1px solid rgba(107,68,38,0.3)" }}
                 >
                   {categoryLabel(lang, cat)}
                 </span>
               ))}
               <h2
                 className="text-lg md:text-3xl font-bold leading-tight"
-                style={{ fontFamily: "var(--font-frank-ruhl), serif", color: GOLD_BRIGHT }}
+                style={{ fontFamily: "var(--font-david), serif", color: "#221b14" }}
                 title={pick(lang, current.title, current.title_en)}
               >
                 {pick(lang, current.title, current.title_en)}
               </h2>
-              {current.year && <span className="text-blue-300/55 text-xs flex-shrink-0">{current.year}</span>}
+              {current.year && <span className="text-[#63554a] text-xs flex-shrink-0">{current.year}</span>}
             </div>
           </div>
 
@@ -305,7 +323,7 @@ export default function Theater({ entries }: TheaterProps) {
                   onClick={() => go(1)}
                   aria-label={t(lang, "ariaPrev")}
                   className="absolute z-30 right-1 sm:right-2 md:-right-6 top-1/2 -translate-y-1/2 rounded-full p-3 md:p-4 backdrop-blur-sm transition-all hover:scale-110"
-                  style={{ background: "rgba(201,168,74,0.16)", color: GOLD_BRIGHT, border: "1px solid rgba(201,168,74,0.4)" }}
+                  style={{ background: "rgba(107,68,38,0.16)", color: GOLD_BRIGHT, border: "1px solid rgba(107,68,38,0.4)" }}
                 >
                   <svg className="w-7 h-7 md:w-9 md:h-9" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
@@ -315,7 +333,7 @@ export default function Theater({ entries }: TheaterProps) {
                   onClick={() => go(-1)}
                   aria-label={t(lang, "ariaNext")}
                   className="absolute z-30 left-1 sm:left-2 md:-left-6 top-1/2 -translate-y-1/2 rounded-full p-3 md:p-4 backdrop-blur-sm transition-all hover:scale-110"
-                  style={{ background: "rgba(201,168,74,0.16)", color: GOLD_BRIGHT, border: "1px solid rgba(201,168,74,0.4)" }}
+                  style={{ background: "rgba(107,68,38,0.16)", color: GOLD_BRIGHT, border: "1px solid rgba(107,68,38,0.4)" }}
                 >
                   <svg className="w-7 h-7 md:w-9 md:h-9" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
@@ -344,7 +362,7 @@ export default function Theater({ entries }: TheaterProps) {
                 // eslint-disable-next-line @next/next/no-img-element
                 <img src={current.media_url} alt={pick(lang, current.title, current.title_en)} className="absolute inset-0 w-full h-full object-cover" />
               ) : (
-                <div className="absolute inset-0 flex items-center justify-center" style={{ background: "#0f234d" }}>
+                <div className="absolute inset-0 flex items-center justify-center" style={{ background: "#e0d7c4" }}>
                   <svg viewBox="0 0 100 100" className="w-32 h-32" style={{ opacity: 0.25 }} aria-hidden="true">
                     <polygon points="50,5 5,85 95,85" fill="none" stroke={GOLD} strokeWidth="2" />
                     <polygon points="50,95 95,15 5,15" fill="none" stroke={GOLD} strokeWidth="2" />
@@ -354,7 +372,7 @@ export default function Theater({ entries }: TheaterProps) {
 
               {/* video can't be embedded (owner-disabled / removed) → graceful fallback */}
               {isBlocked && (
-                <div className="absolute inset-0 z-[15] flex flex-col items-center justify-center gap-5 text-center px-6" style={{ background: "#0b1e42" }}>
+                <div className="absolute inset-0 z-[15] flex flex-col items-center justify-center gap-5 text-center px-6" style={{ background: "#e0d7c4" }}>
                   <svg className="w-14 h-14" viewBox="0 0 24 24" fill="none" stroke={GOLD} strokeWidth={1.4} aria-hidden="true">
                     <rect x="2" y="5" width="20" height="14" rx="3" />
                     <path strokeLinecap="round" strokeLinejoin="round" d="M10 9l5 3-5 3V9z" fill={GOLD} />
@@ -365,7 +383,7 @@ export default function Theater({ entries }: TheaterProps) {
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-flex items-center gap-2 px-5 py-2.5 rounded-full font-semibold text-sm transition-all hover:scale-[1.04]"
-                    style={{ background: `linear-gradient(to bottom, ${GOLD_BRIGHT}, ${GOLD})`, color: "#0a1834" }}
+                    style={{ background: `linear-gradient(to bottom, ${GOLD_BRIGHT}, ${GOLD})`, color: "#f6f1e6" }}
                   >
                     <svg className="w-4 h-4" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5v14l11-7z" /></svg>
                     {t(lang, "watchOnYoutube")}
@@ -374,21 +392,21 @@ export default function Theater({ entries }: TheaterProps) {
               )}
 
               {/* expand → depth modal (sits above the iframe so the corner stays clickable) */}
-              <button
+              {!current.href && <button
                 onClick={openModal}
                 aria-label={t(lang, "ariaExpand")}
                 className="absolute z-20 top-3 left-3 rounded-full p-2 backdrop-blur-md transition-all hover:scale-110"
-                style={{ background: "rgba(10,24,52,0.7)", color: GOLD_BRIGHT, border: "1px solid rgba(201,168,74,0.4)" }}
+                style={{ background: "rgba(246,241,230,0.9)", color: GOLD_BRIGHT, border: "1px solid rgba(107,68,38,0.4)" }}
               >
                 <svg className="w-4 h-4 md:w-5 md:h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 8V4m0 0h4M4 4l5 5m11-1V4m0 0h-4m4 0l-5 5M4 16v4m0 0h4m-4 0l5-5m11 5l-5-5m5 5v-4m0 4h-4" />
                 </svg>
-              </button>
+              </button>}
 
               {/* position counter — scales to any number of deeds (replaces the dots) */}
               <div
                 className="absolute z-20 top-3 right-3 text-[11px] tabular-nums px-2.5 py-1 rounded-full backdrop-blur-md"
-                style={{ background: "rgba(10,24,52,0.7)", color: GOLD_BRIGHT, border: "1px solid rgba(201,168,74,0.3)" }}
+                style={{ background: "rgba(246,241,230,0.9)", color: GOLD_BRIGHT, border: "1px solid rgba(107,68,38,0.3)" }}
               >
                 {idx + 1} / {featured.length}
               </div>
@@ -401,11 +419,11 @@ export default function Theater({ entries }: TheaterProps) {
           {/* LIGHT — reading-end side */}
           <aside key={`light-${current.id}`} className="hidden xl:block justify-self-start max-w-[17rem] panel-rise" style={{ textAlign: "start" }}>
             {light && (
-              <div className="ps-6" style={{ borderInlineStart: "1px solid rgba(201,168,74,0.22)" }}>
+              <div className="ps-6" style={{ borderInlineStart: "1px solid rgba(107,68,38,0.22)" }}>
                 <p className="text-[11px] tracking-[0.14em] uppercase mb-2.5" style={{ color: GOLD }}>
                   {t(lang, "rippleLabel")}
                 </p>
-                <p className="text-[13.5px] leading-relaxed text-blue-100/70" style={CLAMP}>{light}</p>
+                <p className="text-[13.5px] leading-relaxed text-[#43382c]" style={CLAMP}>{light}</p>
               </div>
             )}
           </aside>
@@ -417,21 +435,34 @@ export default function Theater({ entries }: TheaterProps) {
           className="panel-rise mt-5 sm:mt-6 mx-auto max-w-2xl px-5 text-center"
         >
           {current.description && (
-            <p className="text-[15px] sm:text-base leading-relaxed text-blue-100/80">
+            <p className="text-[15px] sm:text-base leading-relaxed text-[#43382c]">
               {pick(lang, current.description, current.description_en)}
             </p>
           )}
 
+          {current.href ? (
+            <a
+              href={current.href}
+              className="mt-4 inline-flex items-center gap-1.5 px-5 py-2 rounded-full font-semibold text-sm transition-all hover:scale-[1.04]"
+              style={{ background: `linear-gradient(to bottom, ${GOLD_BRIGHT}, ${GOLD})`, color: "#f6f1e6", boxShadow: "0 8px 22px -10px rgba(107,68,38,0.5)" }}
+            >
+              {lang === "en" ? "Read the whole deed" : "לקריאת המעשה המלא"}
+              <svg className="w-3.5 h-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
+              </svg>
+            </a>
+          ) : (
           <button
             onClick={openModal}
             className="mt-4 inline-flex items-center gap-1.5 px-4 py-1.5 rounded-full font-semibold text-sm transition-all hover:scale-[1.04]"
-            style={{ background: `linear-gradient(to bottom, ${GOLD_BRIGHT}, ${GOLD})`, color: "#0a1834", boxShadow: "0 8px 22px -10px rgba(201,168,74,0.5)" }}
+            style={{ background: `linear-gradient(to bottom, ${GOLD_BRIGHT}, ${GOLD})`, color: "#f6f1e6", boxShadow: "0 8px 22px -10px rgba(107,68,38,0.5)" }}
           >
             {t(lang, "proofAndSources")}
             <svg className="w-3.5 h-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
             </svg>
           </button>
+          )}
         </div>
 
         {/* music */}
@@ -459,9 +490,9 @@ export default function Theater({ entries }: TheaterProps) {
                       animationDelay: `${i * 0.05}s`,
                       background: active
                         ? `linear-gradient(to bottom, ${GOLD_BRIGHT}, ${GOLD})`
-                        : "rgba(15,35,77,0.85)",
+                        : "#f6f1e6",
                       color: active ? "#0a1834" : GOLD_BRIGHT,
-                      border: `1px solid ${active ? GOLD : "rgba(201,168,74,0.3)"}`,
+                      border: `1px solid ${active ? GOLD : "rgba(107,68,38,0.3)"}`,
                     }}
                     aria-label={`${t(lang, "playMusic")} ${m.num} — ${moodLabel(lang, i)}`}
                   >
@@ -477,16 +508,16 @@ export default function Theater({ entries }: TheaterProps) {
               className="group flex items-center gap-2.5 px-6 py-3 rounded-full font-semibold text-sm transition-all shadow-lg"
               style={
                 musicOn
-                  ? { background: `linear-gradient(to bottom, ${GOLD_BRIGHT}, ${GOLD})`, color: "#0a1834", boxShadow: "0 10px 30px -8px rgba(201,168,74,0.5)" }
-                  : { background: "rgba(201,168,74,0.14)", color: GOLD_BRIGHT, border: `1px solid ${GOLD}` }
+                  ? { background: `linear-gradient(to bottom, ${GOLD_BRIGHT}, ${GOLD})`, color: "#f6f1e6", boxShadow: "0 10px 30px -8px rgba(107,68,38,0.5)" }
+                  : { background: "rgba(107,68,38,0.14)", color: GOLD_BRIGHT, border: `1px solid ${GOLD}` }
               }
             >
               {musicOn ? (
                 <>
                   <span className="flex items-end gap-0.5 h-4" aria-hidden="true">
-                    <span className="w-1 rounded-full animate-pulse" style={{ height: "60%", background: "#0a1834" }} />
-                    <span className="w-1 rounded-full animate-pulse" style={{ height: "100%", background: "#0a1834", animationDelay: "0.15s" }} />
-                    <span className="w-1 rounded-full animate-pulse" style={{ height: "40%", background: "#0a1834", animationDelay: "0.3s" }} />
+                    <span className="w-1 rounded-full animate-pulse" style={{ height: "60%", background: "#f6f1e6" }} />
+                    <span className="w-1 rounded-full animate-pulse" style={{ height: "100%", background: "#f6f1e6", animationDelay: "0.15s" }} />
+                    <span className="w-1 rounded-full animate-pulse" style={{ height: "40%", background: "#f6f1e6", animationDelay: "0.3s" }} />
                   </span>
                   {t(lang, "nowPlaying")} · {moodLabel(lang, trackIdx)}
                 </>
@@ -504,7 +535,7 @@ export default function Theater({ entries }: TheaterProps) {
 
         {/* scroll hint — minimal */}
         <div className="mt-6 text-center">
-          <a href="#catalog" className="inline-flex flex-col items-center transition-colors" style={{ color: "rgba(201,168,74,0.6)" }}>
+          <a href="#catalog" className="inline-flex flex-col items-center transition-colors" style={{ color: "rgba(107,68,38,0.6)" }}>
             <span className="text-xs mb-0.5">{t(lang, "allDeeds")}</span>
             <svg className="w-5 h-5 animate-bounce" fill="none" viewBox="0 0 24 24" stroke="currentColor">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 14l-7 7m0 0l-7-7m7 7V3" />

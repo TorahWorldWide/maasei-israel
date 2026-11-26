@@ -1,0 +1,1603 @@
+{
+ "schema": "maasei-museum/1",
+ "slug": "insightec-focused-ultrasound-incisionless-surgery",
+ "deed": "חברת אינסייטק הישראלית פיתחה טיפול באולטרסאונד ממוקד שהורס רקמה בלי חתך",
+ "canonical_type": "team-invention",
+ "year": "1999",
+ "title": "Insightec of Tirat Carmel developed a focused ultrasound treatment for essential tremor, with no incision and no implant",
+ "trailer": [
+  {
+   "text": "Insightec is an Israeli privately held medical device company from Tirat Carmel that sells MR guided focused ultrasound equipment.",
+   "claims": [
+    "c1",
+    "c4"
+   ]
+  },
+  {
+   "text": "It was founded in 1999 on the initiative of Kobi Vortman, a healthcare entrepreneur and expert in medical imaging.",
+   "claims": [
+    "c5"
+   ]
+  },
+  {
+   "text": "According to the company, its device, Exablate Neuro, targets focused ultrasound waves and ablates tissue deep within the brain, with no incisions and no implants.",
+   "claims": [
+    "c20"
+   ]
+  },
+  {
+   "text": "In 2016 the FDA approved the device for the treatment of essential tremor.",
+   "claims": [
+    "c66"
+   ]
+  },
+  {
+   "text": "According to MedCity News, by 2019 about 2,000 tremor patients had been treated with it.",
+   "claims": [
+    "c44"
+   ]
+  }
+ ],
+ "hero_media": [
+  "m2",
+  "m1",
+  "m11",
+  "m13"
+ ],
+ "glance": [
+  {
+   "label": "Founder",
+   "value": "Kobi Vortman, and according to Wikipedia also Oded Tamir",
+   "claims": [
+    "c5",
+    "c6"
+   ]
+  },
+  {
+   "label": "Since",
+   "value": "1999",
+   "claims": [
+    "c5",
+    "c6"
+   ]
+  },
+  {
+   "label": "Where",
+   "value": "Tirat Carmel, Israel",
+   "claims": [
+    "c4"
+   ]
+  },
+  {
+   "label": "Scale",
+   "value": "About 2,000 tremor patients by 2019",
+   "claims": [
+    "c44"
+   ]
+  },
+  {
+   "label": "Approval",
+   "value": "FDA for essential tremor, 2016",
+   "claims": [
+    "c66"
+   ]
+  },
+  {
+   "label": "Award",
+   "value": "Prix Galien, 2017",
+   "claims": [
+    "c73"
+   ]
+  }
+ ],
+ "stations": [
+  {
+   "id": "s1",
+   "title": "A tremor that disrupts the day",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "According to Insightec, essential tremor is the most common movement disorder.",
+      "claims": [
+       "c13"
+      ]
+     },
+     {
+      "text": "According to the company, people with it find it hard to perform everyday tasks, and this impairs their quality of life.",
+      "claims": [
+       "c15"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to MedCity News, there are medications for tremor, but in more severe cases they are largely ineffective.",
+      "claims": [
+       "c10"
+      ]
+     },
+     {
+      "text": "In such cases the standard of care is deep brain stimulation, a complex surgery to place electrodes near the center of the brain.",
+      "claims": [
+       "c11"
+      ]
+     },
+     {
+      "text": "According to MDDI, there is also thalamotomy, a riskier surgical approach that destroys part of the thalamus in order to stem the tremor.",
+      "claims": [
+       "c12"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m7"
+   ],
+   "disagreements": [
+    "d1"
+   ]
+  },
+  {
+   "id": "s2",
+   "title": "A company born at Elbit",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "Kobi Vortman received a BSc in Electrical Engineering and a PhD in Electro-Optics from the Technion in Haifa.",
+      "claims": [
+       "c7"
+      ]
+     },
+     {
+      "text": "He established the technology at Elbit Medical Imaging, and from there it led to the founding of Insightec in 1999, in a joint effort by Elbit and GE Healthcare.",
+      "claims": [
+       "c8"
+      ]
+     },
+     {
+      "text": "According to Wikipedia, Vortman founded the company in 1999 with Oded Tamir, with seed investment from Elbit Medical Imaging and GE Healthcare, but in Wikipedia itself this statement is marked 'citation needed'.",
+      "claims": [
+       "c6"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to Eyal Zadicario, Vortman's vision, that focused ultrasound can transform the lives of millions, was very controversial in the early years.",
+      "claims": [
+       "c9"
+      ]
+     },
+     {
+      "text": "According to MDDI, at the time the article was published, Insightec, which was privately held, was held by GE Healthcare, Elbit Imaging, York Capital Management, GEOC Hentong Investment Limited Partnership and MediTech Advisors, who by then had together invested $300 million in the company's ultrasound technology.",
+      "claims": [
+       "c56"
+      ]
+     },
+     {
+      "text": "According to MDDI, the company is based in Israel and has offices in Dallas and Miami.",
+      "claims": [
+       "c3"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m3",
+    "m1",
+    "m8",
+    "m10"
+   ],
+   "disagreements": [
+    "d2"
+   ]
+  },
+  {
+   "id": "s3",
+   "title": "Sound waves that converge on one point",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "According to MedCity News, focused ultrasound concentrates multiple high intensity sound waves using an acoustic lens and targets the energy using medical imaging.",
+      "claims": [
+       "c19"
+      ]
+     },
+     {
+      "text": "The treatment is performed under MRI guidance, which allows it to be monitored in real time.",
+      "claims": [
+       "c21"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to Maurice Ferré, the company's CEO, to reach the brain the waves must pass through bone, and bone absorbs and diffuses energy.",
+      "claims": [
+       "c16",
+       "c51"
+      ]
+     },
+     {
+      "text": "According to MDDI, when the beams reach the brain they need to align so that they hit only the intended tissue.",
+      "claims": [
+       "c17"
+      ]
+     },
+     {
+      "text": "According to Ferré, the technology that aligns the beams is similar to the one Israel uses in Iron Dome.",
+      "claims": [
+       "c18"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to MDDI, the procedure lasts three to four hours, and the patient is fully conscious and wears a cooling cap.",
+      "claims": [
+       "c22"
+      ]
+     },
+     {
+      "text": "According to MDDI, with each 10–15 second pulse, patients may feel headaches, dizziness and numbness in parts of the body.",
+      "claims": [
+       "c23"
+      ]
+     },
+     {
+      "text": "According to Insightec, the treatment requires a single session with no anesthesia, and patients quickly return to normal activity.",
+      "claims": [
+       "c24"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m5",
+    "m4",
+    "m2"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s4",
+   "title": "The trial and the approval",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "According to MDDI, Insightec studied the technology for three years in a randomized, sham-controlled trial involving 76 patients who did not respond to medication.",
+      "claims": [
+       "c35"
+      ]
+     },
+     {
+      "text": "According to the company, 56 of them were assigned to treatment and 20 to the sham procedure.",
+      "claims": [
+       "c28"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to Insightec, a year after the procedure the patients retained a 40% improvement compared to baseline.",
+      "claims": [
+       "c31"
+      ]
+     },
+     {
+      "text": "According to the company, the control group had no improvement, and some experienced a slight worsening.",
+      "claims": [
+       "c32"
+      ]
+     },
+     {
+      "text": "According to Wikipedia, the trial data were published in the New England Journal of Medicine in the month after the approval.",
+      "claims": [
+       "c69"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to MassDevice, the company applied for pre-market approval in October 2015.",
+      "claims": [
+       "c25"
+      ]
+     },
+     {
+      "text": "According to MDDI, the FDA granted the approval in July, giving surgeons a completely new approach to treating tremor.",
+      "claims": [
+       "c27"
+      ]
+     },
+     {
+      "text": "According to Insightec, the approval is for the non-invasive treatment of essential tremor in patients who have not responded to medication.",
+      "claims": [
+       "c26"
+      ]
+     },
+     {
+      "text": "According to MDDI, the approval requires the company to conduct annual follow-up studies for five years after treatment.",
+      "claims": [
+       "c34"
+      ]
+     }
+    ]
+   ],
+   "media": [],
+   "disagreements": [
+    "d3"
+   ]
+  },
+  {
+   "id": "s5",
+   "title": "What came of it",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "Earlier, in 2004, Exablate was the first focused ultrasound device approved by the FDA for the treatment of uterine fibroids.",
+      "claims": [
+       "c60"
+      ]
+     },
+     {
+      "text": "According to MedCity News, FDA approval for the treatment of pain from bone cancer came in 2012.",
+      "claims": [
+       "c61"
+      ]
+     },
+     {
+      "text": "According to Wikipedia, that same year the company received a European CE mark for the treatment of neurological disorders in the brain, including essential tremor.",
+      "claims": [
+       "c62"
+      ]
+     },
+     {
+      "text": "According to MassDevice, in an article from July 2016, Health Canada approved Exablate Neuro in May of that year.",
+      "claims": [
+       "c64"
+      ]
+     },
+     {
+      "text": "According to MDDI, the technology also has approval in Korea and Israel.",
+      "claims": [
+       "c65"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "Dr. Jeffrey Elias said that patients show immediate tremor control and go back to eating and writing.",
+      "claims": [
+       "c36"
+      ]
+     },
+     {
+      "text": "Ferré said the treatment has enabled patients to enjoy their hobbies or extend their careers.",
+      "claims": [
+       "c46"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to MDDI, in 2016 the company counted about 500 brain procedures at 30 medical centers around the world.",
+      "claims": [
+       "c43"
+      ]
+     },
+     {
+      "text": "According to MedCity News, in 2019 the device was offered at 16 sites in the U.S.",
+      "claims": [
+       "c44"
+      ]
+     },
+     {
+      "text": "According to MedCity News, 18 Blue plans in the U.S., equivalent to around 50 million covered lives, cover the treatment, and Medicare covers it in 38 states.",
+      "claims": [
+       "c47",
+       "c48"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to MedCity News, the company is likely to tackle neuropathic pain, for which it has received approval in Europe, Russia and Korea.",
+      "claims": [
+       "c76"
+      ]
+     },
+     {
+      "text": "According to MDDI, in another application ultrasound is used to temporarily open the blood-brain barrier and deliver targeted drugs to the brain.",
+      "claims": [
+       "c77"
+      ]
+     },
+     {
+      "text": "According to MedCity News, the number of manufacturers in the field has ballooned to nearly 50 companies.",
+      "claims": [
+       "c79"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m6"
+   ],
+   "disagreements": [
+    "d4"
+   ]
+  },
+  {
+   "id": "s6",
+   "title": "Recognition",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "According to the company's website, in 2017 Exablate Neuro won the Prix Galien as best medical technology product.",
+      "claims": [
+       "c73"
+      ]
+     },
+     {
+      "text": "According to the company's website, in 2018 it won an Edison Award in the medical innovation category.",
+      "claims": [
+       "c74"
+      ]
+     },
+     {
+      "text": "According to the company's website, that same year Fast Company ranked Insightec the #1 innovative company in the Israel sector.",
+      "claims": [
+       "c75"
+      ]
+     }
+    ]
+   ],
+   "media": [],
+   "disagreements": []
+  },
+  {
+   "id": "s7",
+   "title": "The people",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "According to MassDevice, in an article from July 2016, in January of that year Insightec raised $22 million and appointed Maurice Ferré, and Kobi Vortman, the former CEO, stepped down and joined the board.",
+      "claims": [
+       "c53"
+      ]
+     },
+     {
+      "text": "According to Wikipedia, Ferré is the founder and former CEO of Mako Surgical.",
+      "claims": [
+       "c52"
+      ]
+     },
+     {
+      "text": "According to MedCity News, he focused on neurology.",
+      "claims": [
+       "c51"
+      ]
+     },
+     {
+      "text": "According to MedCity News, in 2017 the company raised $150 million in a round led by Koch Disruptive Technologies, at a valuation of $610 million.",
+      "claims": [
+       "c57"
+      ]
+     },
+     {
+      "text": "According to MedCity News, Ferré hopes to install 300 or more systems in the U.S. over the next decade.",
+      "claims": [
+       "c78"
+      ]
+     },
+     {
+      "text": "According to the company's website, it has 400 employees.",
+      "claims": [
+       "c58"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to the Focused Ultrasound Foundation, Kobi Vortman himself became a patient when he underwent treatment with the technology for Parkinson's disease.",
+      "claims": [
+       "c70"
+      ]
+     },
+     {
+      "text": "According to his son, the treatment greatly reduced the tremor and stiffness, and improved his posture and how far he can walk.",
+      "claims": [
+       "c71"
+      ]
+     },
+     {
+      "text": "According to his son, his physician, Dr. Lior Lev-Tov at Rambam, is interested in innovative treatments.",
+      "claims": [
+       "c72"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to Stryker's announcement, Mako Surgical was acquired for $30 per share, with an aggregate purchase price of approximately $1.65 billion.",
+      "claims": [
+       "c80"
+      ]
+     }
+    ]
+   ],
+   "media": [],
+   "disagreements": [
+    "d5"
+   ]
+  },
+  {
+   "id": "s8",
+   "title": "Limitations and difficulties",
+   "kind": "hard",
+   "paragraphs": [
+    [
+     {
+      "text": "Carlos Peña of the FDA said the device is not a cure, but can help patients live better.",
+      "claims": [
+       "c37"
+      ]
+     },
+     {
+      "text": "According to Practical Neurology, 184 adverse events were reported in the treatment group, 137 of them mild and 46 moderate.",
+      "claims": [
+       "c33"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to Dr. Krishna, focused ultrasound is an alternative to deep brain stimulation, not a replacement, and some patients have skulls that are too thick.",
+      "claims": [
+       "c38"
+      ]
+     },
+     {
+      "text": "On the other hand, according to MedCity News, focused ultrasound has a low risk of infection or bleeding, and recovery takes hours or days.",
+      "claims": [
+       "c42"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to MedCity News, the equipment costs around $2 million.",
+      "claims": [
+       "c45"
+      ]
+     },
+     {
+      "text": "According to MedCity News, in the years after the 2004 and 2012 FDA approvals and before Maurice Ferré was appointed CEO, and despite the approvals and investments, reimbursement and a viable American market for the technology did not materialize.",
+      "claims": [
+       "c49"
+      ]
+     },
+     {
+      "text": "According to MedCity News, one of the reasons for the failure of the company's fibroid product was the lucrative business many providers had in performing hysterectomies.",
+      "claims": [
+       "c50"
+      ]
+     }
+    ]
+   ],
+   "media": [],
+   "disagreements": []
+  }
+ ],
+ "disagreements": [
+  {
+   "id": "d1",
+   "question": "How many people in the U.S. have essential tremor?",
+   "versions": [
+    {
+     "says": "According to Insightec, more than 5 million",
+     "claims": [
+      "c13"
+     ]
+    },
+    {
+     "says": "According to the U.S. National Institutes of Health, as reported in MDDI, up to 10 million",
+     "claims": [
+      "c14"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d2",
+   "question": "Where is Insightec's headquarters in Israel?",
+   "versions": [
+    {
+     "says": "According to Wikipedia and MedCity News, in Tirat Carmel",
+     "claims": [
+      "c59",
+      "c4"
+     ]
+    },
+    {
+     "says": "According to the company's website, the offices are in Haifa, Miami, Dallas, Shanghai and Tokyo",
+     "claims": [
+      "c58"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d3",
+   "question": "How much did the tremor improve after three months?",
+   "versions": [
+    {
+     "says": "According to Insightec, nearly 50% in tremor and motor function",
+     "claims": [
+      "c29"
+     ]
+    },
+    {
+     "says": "According to Practical Neurology, 46.9% in CRST score",
+     "claims": [
+      "c30"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d4",
+   "question": "When was Exablate approved for Parkinson's?",
+   "versions": [
+    {
+     "says": "According to MedCity News, in 2018 the indication was expanded to tremor-dominant Parkinson's",
+     "claims": [
+      "c67"
+     ]
+    },
+    {
+     "says": "According to Practical Neurology, in 2021, for drug-refractory Parkinson's with mobility, rigidity or dyskinesia problems",
+     "claims": [
+      "c68"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d5",
+   "question": "When was Maurice Ferré appointed CEO of Insightec?",
+   "versions": [
+    {
+     "says": "According to MedCity News, in 2014",
+     "claims": [
+      "c51"
+     ]
+    },
+    {
+     "says": "According to Wikipedia, in 2016",
+     "claims": [
+      "c52"
+     ]
+    }
+   ]
+  }
+ ],
+ "unknowns": [
+  {
+   "text": "The page does not know what the five-year follow-up studies required by the FDA found",
+   "claims": [
+    "c34"
+   ]
+  },
+  {
+   "text": "The page does not know how many systems have actually been installed in the U.S. since 2019",
+   "claims": [
+    "c78"
+   ]
+  }
+ ],
+ "claims": [
+  {
+   "id": "c1",
+   "text": "אינסייטק היא חברה ישראלית פרטית לציוד רפואי שמוכרת ציוד אולטרסאונד ממוקד בהנחיית MR.",
+   "source": "src1",
+   "quote": "INSIGHTEC Ltd., is an Israeli privately held medical device company that sells MR guided Focused Ultrasound equipment.",
+   "status": "confirmed",
+   "locator": "שורה 16"
+  },
+  {
+   "id": "c4",
+   "text": "לפי MedCity News, אינסייטק היא חברה שבסיסה בטירת הכרמל, ישראל, והיא מפתחת את מכשיר האולטרסאונד הממוקד Exablate Neuro.",
+   "source": "src2",
+   "quote": "Tirat Carmel, Israel-based company Insightec is making that scenario a reality with its Exablate Neuro focused ultrasound device",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c5",
+   "text": "אינסייטק נוסדה ב-1999 ביוזמת קובי וורטמן, יזם בתחום הבריאות ומומחה להדמיה רפואית.",
+   "source": "src2",
+   "quote": "Insightec was founded back in 1999, the brainchild of Kobi Vortman, a healthcare entrepreneur and expert in medical imaging.",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c20",
+   "text": "לפי אינסייטק, Exablate Neuro משתמש בגלי אולטרסאונד ממוקדים כדי לכוון ולהרוס רקמה עמוק במוח ללא חתכים או שתלים.",
+   "source": "src3",
+   "quote": "Exablate Neuro uses focused ultrasound waves to precisely target and ablate tissue deep within the brain with no incisions or implants.",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c66",
+   "text": "לפי MedCity News, אינסייטק קיבלה אישור FDA ל-Exablate Neuro לרעד חיוני ב-2016.",
+   "source": "src2",
+   "quote": "Insightec received FDA approval for its Exablate Neuro device to treat essential tremor in 2016.",
+   "status": "confirmed",
+   "locator": "שורה 23"
+  },
+  {
+   "id": "c44",
+   "text": "לפי MedCity News ב-2019, Exablate Neuro טיפל בכ-2,000 מטופלי רעד והוא מוצע ב-16 אתרים בארה\"ב.",
+   "source": "src2",
+   "quote": "So far, Exablate Neuro has treated around 2,000 tremor patients and is currently offered at 16 sites around the U.S.",
+   "status": "confirmed",
+   "locator": "שורה 22"
+  },
+  {
+   "id": "c6",
+   "text": "לפי ויקיפדיה, החברה נוסדה ב-1999 על ידי קובי וורטמן ואודד תמיר, עם השקעת הזנק מאלביט הדמיה רפואית וג'י אי הלת'קר.",
+   "source": "src1",
+   "quote": "The company was founded in 1999[3] by Kobi Vortman and Oded Tamir, with seed investment from Elbit Medical Imaging and GE Healthcare.",
+   "status": "confirmed",
+   "locator": "שורה 19"
+  },
+  {
+   "id": "c73",
+   "text": "Exablate Neuro זכה בפרס Prix Galien ב-2017 כמוצר הטכנולוגיה הרפואית הטוב ביותר, לפי אתר החברה.",
+   "source": "src4",
+   "quote": "PRIX GALIEN2017Exablate Neuro Wins Best Medical Technology Product",
+   "status": "confirmed",
+   "locator": "שורה 102"
+  },
+  {
+   "id": "c13",
+   "text": "לפי אינסייטק, רעד חיוני הוא הפרעת התנועה הנפוצה ביותר ופוגע ביותר מ-5 מיליון בני אדם בארצות הברית.",
+   "source": "src3",
+   "quote": "Essential tremor is the most common movement disorder, affecting more than 5 million people in the United States, and millions more worldwide.",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c15",
+   "text": "לפי אינסייטק, עבור החולים האלה ביצוע משימות יומיומיות הוא אתגר ופוגע באיכות חייהם.",
+   "source": "src3",
+   "quote": "For these patients, performing everyday tasks presents a challenge and impacts their quality of life.",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c10",
+   "text": "לפי MedCity News, תרופות קיימות לטיפול ברעד, אך הן בעיקר לא יעילות במקרים חמורים יותר.",
+   "source": "src2",
+   "quote": "Medications exist to treat the issue, but are largely ineffective for more severe cases.",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c11",
+   "text": "במקרים כאלה הטיפול הסטנדרטי הוא גירוי מוחי עמוק, שכולל ניתוח מורכב להצבת אלקטרודות סמוך למרכז המוח.",
+   "source": "src2",
+   "quote": "the standard of care is deep brain stimulation (DBS), which involves an intensive surgery to apply electrodes near the center of the brain",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c12",
+   "text": "לפי MDDI, תלמוטומיה היא גישה ניתוחית מסוכנת יותר שהורסת חלק מהתלמוס כדי לבלום את הרעד.",
+   "source": "src5",
+   "quote": "A riskier approach is thalamotomy, a surgical procedure that destroys part of the thalamus in order to stem the tremors.",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c7",
+   "text": "קובי וורטמן קיבל דוקטורט באלקטרו-אופטיקה ותואר ראשון בהנדסת חשמל מהטכניון בחיפה.",
+   "source": "src4",
+   "quote": "Kobi Vortman received his PhD in Electro Optics and a BSc in Electrical Engineering from the Technion, Israel Institute of Technology in Haifa.",
+   "status": "confirmed",
+   "locator": "שורה 55"
+  },
+  {
+   "id": "c8",
+   "text": "הטכנולוגיה שהקים וורטמן באלביט הדמיה רפואית הובילה להקמת אינסייטק ב-1999 במאמץ משותף של אלביט וג'י אי הלת'קר.",
+   "source": "src6",
+   "quote": "It was this technology that launched Insightec in 1999 as part of a joint effort by Elbit and GE Healthcare.",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c9",
+   "text": "לפי אייל זדיקריו, החזון של וורטמן שאולטרסאונד ממוקד יכול לשנות את חייהם של מיליונים היה שנוי מאוד במחלוקת בשנים הראשונות.",
+   "source": "src6",
+   "quote": "has the potential to transform the lives of millions was very controversial in the early years",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c56",
+   "text": "לפי MDDI, אינסייטק מוחזקת באופן פרטי בידי כמה משקיעים, ובהם GE Healthcare ואלביט, שהשקיעו 300 מיליון דולר בטכנולוגיה.",
+   "source": "src5",
+   "quote": "Insightec is privately held by GE Healthcare, Elbit Imaging, York Capital Management, GEOC Hentong Investment Limited Partnership, and MediTech Advisors, who have invested $300 million",
+   "status": "confirmed",
+   "locator": "שורה 19"
+  },
+  {
+   "id": "c3",
+   "text": "לפי MDDI, החברה שוכנת בישראל ויש לה משרדים בארה\"ב בדאלאס ובמיאמי.",
+   "source": "src5",
+   "quote": "The company, which is based in Israel and has U.S. offices in Dallas and Miami",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c19",
+   "text": "לפי MedCity News, אולטרסאונד ממוקד פועל בריכוז גלי קול רבים בעוצמה גבוהה בעזרת עדשה אקוסטית וכיוון האנרגיה בעזרת הדמיה רפואית.",
+   "source": "src2",
+   "quote": "Focused ultrasound works by concentrating multiple high intensity sound waves using an acoustic lens and targeting that energy source with medical imaging technology.",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c21",
+   "text": "הטיפול מתבצע בהנחיית MRI לניטור בזמן אמת.",
+   "source": "src3",
+   "quote": "The treatment is done under Magnetic Resonance Imaging (MRI) guidance for real time treatment monitoring.",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c16",
+   "text": "לפי פרה, כדי להגיע למוח האולטרסאונד חייב לעבור דרך עצם, שבולעת ומפזרת אנרגיה.",
+   "source": "src5",
+   "quote": "In order to reach the brain, ultrasound must first travel through bone, which absorbs and diffuses energy.",
+   "status": "confirmed",
+   "locator": "שורה 13"
+  },
+  {
+   "id": "c51",
+   "text": "לפי MedCity News, הדירקטוריון מינה את מוריס פרה למנכ\"ל ב-2014, והוא התמקד בנוירולוגיה.",
+   "source": "src2",
+   "quote": "chief executive back in 2014, who refocused on Insightec",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c17",
+   "text": "לפי MDDI, כשהקרניים מגיעות למוח הן צריכות להתיישר כך שיפגעו רק ברקמה המיועדת.",
+   "source": "src5",
+   "quote": "Upon reaching the brain, ultrasound beams need to align in a way that targets only the intended tissue.",
+   "status": "confirmed",
+   "locator": "שורה 13"
+  },
+  {
+   "id": "c18",
+   "text": "לפי פרה, הטכנולוגיה שמיישרת את קרני האולטרסאונד דומה לטכנולוגיה שישראל משתמשת בה במערכת כיפת ברזל.",
+   "source": "src5",
+   "quote": "The technology that aligns the ultrasound beams is similar to the technology that Israel uses for its iron dome defense system",
+   "status": "confirmed",
+   "locator": "שורה 13"
+  },
+  {
+   "id": "c22",
+   "text": "לפי MDDI, במהלך ההליך שנמשך שלוש עד ארבע שעות המטופל ער לגמרי ועונד כובע קירור.",
+   "source": "src5",
+   "quote": "During the three to four hour procedure, the fully-conscious patient wears a cooling cap.",
+   "status": "confirmed",
+   "locator": "שורה 13"
+  },
+  {
+   "id": "c23",
+   "text": "לפי MDDI, מטופלים עשויים להרגיש כאבי ראש, סחרחורת ונימול בחלקי גוף בכל פולס אולטרסאונד של 10-15 שניות.",
+   "source": "src5",
+   "quote": "Patients may feel headaches, dizziness, and numbness in parts of the body with each 10-15 second pulse of ultrasound.",
+   "status": "confirmed",
+   "locator": "שורה 15"
+  },
+  {
+   "id": "c24",
+   "text": "לפי אינסייטק, הטיפול דורש מפגש אחד בלי הרדמה, וכך המטופלים חוזרים במהירות לפעילות רגילה.",
+   "source": "src3",
+   "quote": "The treatment requires a single session with no anesthesia, allowing patients to quickly return to normal activity.",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c35",
+   "text": "לפי MDDI, אינסייטק בחנה את הטכנולוגיה במשך שלוש שנים בניסוי אקראי עם הליך דמה בקרב 76 מטופלים שלא הגיבו לתרופות.",
+   "source": "src5",
+   "quote": "Insightec studied its technology for three years in a randomized and sham-controlled clinical trial involving 76 patients who did not respond to drug therapy.",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c28",
+   "text": "לפי אינסייטק, במחקר נרשמו 76 מטופלים, ו-56 מהם חולקו אקראית לטיפול ו-20 להליך דמה.",
+   "source": "src3",
+   "quote": "A total of 76 patients were enrolled in the study and randomly assigned to receive the Exablate treatment (56 patients) or the sham procedure (20 patients)",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c31",
+   "text": "לפי אינסייטק, שנה אחרי ההליך נשמר אצל מטופלי Exablate Neuro שיפור של 40% לעומת הבסיס.",
+   "source": "src3",
+   "quote": "A year following the procedure, the patients who underwent the Exablate Neuro procedure retained a 40% improvement in these scores compared to baseline.",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c32",
+   "text": "לפי אינסייטק, בקבוצת הביקורת לא נרשם שיפור, ויש שחוו החמרה קלה לאחר הליך הדמה.",
+   "source": "src3",
+   "quote": "Patients in the control group had no improvement, and some experienced a slight worsening after the sham procedure before they crossed over into the treatment group.",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c69",
+   "text": "לפי ויקיפדיה, בחודש שלאחר האישור פורסמו נתוני הניסוי המכריע בכתב העת New England Journal of Medicine.",
+   "source": "src1",
+   "quote": "the next month published data from the pivotal trial in the New England Journal of Medicine.",
+   "status": "confirmed",
+   "locator": "שורה 23"
+  },
+  {
+   "id": "c25",
+   "text": "לפי MassDevice, אינסייטק הגישה בקשה לאישור טרום-שיווק ל-Exablate Neuro באוקטובר 2015.",
+   "source": "src7",
+   "quote": "Insightec applied for pre-market approval for the Exablate Neuro treatment in October 2015.",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c27",
+   "text": "לפי MDDI, ה-FDA העניק ל-Exablate Neuro אישור טרום-שיווק ביולי, ונתן למנתחים גישה חדשה לגמרי לטיפול ברעד.",
+   "source": "src5",
+   "quote": "FDA granted Exablate Neuro premarket approval in July, giving surgeons a completely new approach for treating tremors.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c26",
+   "text": "לפי אינסייטק, ה-FDA אישר את מערכת Exablate Neuro לטיפול לא פולשני ברעד חיוני בחולים שלא הגיבו לתרופות.",
+   "source": "src3",
+   "quote": "announced today that the FDA has approved its Exablate Neuro system for the non-invasive treatment of essential tremor (ET) in patients who have not responded to medication.",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c34",
+   "text": "לפי MDDI, אישור ה-FDA מחייב את אינסייטק לבצע מחקרי מעקב שנתיים במשך חמש שנים אחרי הטיפול.",
+   "source": "src5",
+   "quote": "requires Insightec to conduct follow up studies evaluating patients from the clinical trial each year through five years following treatment",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c60",
+   "text": "ב-2004 מערכת Exablate הייתה מכשיר האולטרסאונד הממוקד הראשון שאושר בידי ה-FDA לטיפול בפיברואידים ברחם.",
+   "source": "src6",
+   "quote": "Exablate system was the first focused ultrasound device to be approved by the US Food and Drug Administration for the treatment of uterine fibroids.",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c61",
+   "text": "לפי MedCity News, החברה קיבלה אישור FDA ב-2004 לטיפול בפיברואידים וב-2012 לטיפול בכאב מסרטן עצמות.",
+   "source": "src2",
+   "quote": "The company received FDA approval in 2004 for the use of its technology in treating uterine fibroids, followed by another approval in 2012 as a pain treatment for bone cancers",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c62",
+   "text": "לפי ויקיפדיה, ב-2012 החברה קיבלה סימן CE אירופי לטיפול בהפרעות נוירולוגיות במוח, ובהן רעד חיוני.",
+   "source": "src1",
+   "quote": "In 2012, the company received European CE mark for the treatment of neurological disorders in the brain including essential tremor",
+   "status": "confirmed",
+   "locator": "שורה 22"
+  },
+  {
+   "id": "c64",
+   "text": "לפי MassDevice, Exablate Neuro קיבל אישור ממשרד הבריאות של קנדה במאי.",
+   "source": "src7",
+   "quote": "Exablate Neuro won a nod from Health Canada in May.",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c65",
+   "text": "לפי MDDI, לטכנולוגיה יש אישור רגולטורי גם בקנדה, קוריאה וישראל.",
+   "source": "src5",
+   "quote": "The technology also has the regulatory nod in Canada, Korea, and Israel.",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c36",
+   "text": "ד\"ר ג'פרי אליאס אמר שהמטופלים מראים שליטה מיידית ברעד ויכולים לחזור לבצע משימות יומיומיות כמו אכילה וכתיבה.",
+   "source": "src3",
+   "quote": "The patients we have treated show immediate tremor control, allowing them to regain ability to perform daily tasks such as eating and writing",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c46",
+   "text": "פרה סיפר בראיון טלפוני שהטיפול איפשר למטופלים ליהנות מתחביביהם או להאריך את הקריירה המקצועית שלהם.",
+   "source": "src2",
+   "quote": "In a phone interview, Ferré said the treatment has enabled patients to enjoy their hobbies or extend their professional careers.",
+   "status": "confirmed",
+   "locator": "שורה 15"
+  },
+  {
+   "id": "c43",
+   "text": "לפי MDDI ב-2016, אינסייטק ספרה כ-500 הליכי מוח בעזרת הטכנולוגיה ב-30 מרכזים רפואיים בעולם.",
+   "source": "src5",
+   "quote": "To date, InSightec counts about 500 brain procedures that have been performed with its technology at 30 medical centers around the world.",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c47",
+   "text": "לפי MedCity News, אינסייטק זכתה לכיסוי מ-18 תוכניות Blue בארה\"ב, המקבילות לכ-50 מיליון מבוטחים.",
+   "source": "src2",
+   "quote": "Insightec has also won coverage from 18 Blue plans around the country, equivalent to around 50 million covered lives.",
+   "status": "confirmed",
+   "locator": "שורה 24"
+  },
+  {
+   "id": "c48",
+   "text": "לפי MedCity News, הטיפול מאושר כהטבה מכוסה במדיקר ב-38 מדינות בארה\"ב.",
+   "source": "src2",
+   "quote": "Insightec has finally made strides in its reimbursement strategy and is currently approved as a Medicare covered benefit in 38 states.",
+   "status": "confirmed",
+   "locator": "שורה 24"
+  },
+  {
+   "id": "c76",
+   "text": "לפי MedCity News, בעתיד הקרוב אינסייטק צפויה לטפל בכאב נוירופתי, שאושר לה באירופה, ברוסיה ובקוריאה.",
+   "source": "src2",
+   "quote": "In the near future, Insightec is likely to tackle neuropathic pain, an indication for which it has already received approval in Europe, Russia and Korea.",
+   "status": "confirmed",
+   "locator": "שורה 36"
+  },
+  {
+   "id": "c77",
+   "text": "לפי MDDI, ביישום נוסף משתמשים באולטרסאונד כדי לפתוח זמנית את מחסום הדם-מוח להעברת תרופות ממוקדת למוח.",
+   "source": "src5",
+   "quote": "In one of them, ultrasound is used to temporarily open the blood brain barrier for targeted drug delivery to the brain.",
+   "status": "confirmed",
+   "locator": "שורה 20"
+  },
+  {
+   "id": "c79",
+   "text": "לפי MedCity News, מספר היצרנים בתחום האולטרסאונד הממוקד זינק לכמעט 50 חברות.",
+   "source": "src2",
+   "quote": "Additionally, the number of manufacturers working in the space have ballooned to nearly 50 companies.",
+   "status": "confirmed",
+   "locator": "שורה 32"
+  },
+  {
+   "id": "c74",
+   "text": "Exablate Neuro זכה ב-2018 בפרס אדיסון בקטגוריית החדשנות הרפואית, לפי אתר החברה.",
+   "source": "src4",
+   "quote": "EDISON AWARD2018Exablate Neuro Takes Top Honor in Medical Innovations Category",
+   "status": "confirmed",
+   "locator": "שורה 99"
+  },
+  {
+   "id": "c75",
+   "text": "לפי אתר החברה, ב-2018 פאסט קומפני דירגה את אינסייטק כחברה החדשנית מספר 1 במגזר הישראלי.",
+   "source": "src4",
+   "quote": "FAST COMPANY2018INSIGHTEC Named #1 Innovative Company, Israel Sector",
+   "status": "confirmed",
+   "locator": "שורה 96"
+  },
+  {
+   "id": "c53",
+   "text": "לפי MassDevice, בינואר אינסייטק גייסה 22 מיליון דולר ומינתה את פרה, וקובי וורטמן, המנכ\"ל לשעבר, פרש והצטרף לדירקטוריון.",
+   "source": "src7",
+   "quote": "In January Insightec pulled down a $22 million funding round and tapped Ferré, with former CEO Kobi Vortman stepping down and taking a seat on the board.",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c52",
+   "text": "לפי ויקיפדיה, ב-2016 החברה שכרה את מוריס פרה, מייסד ומנכ\"ל לשעבר של Mako Surgical, כמנכ\"ל.",
+   "source": "src1",
+   "quote": "In 2016, the company hired Maurice R. Ferré, the founder and former CEO of Mako Surgical, as its CEO.",
+   "status": "confirmed",
+   "locator": "שורה 24"
+  },
+  {
+   "id": "c57",
+   "text": "לפי MedCity News, ב-2017 החברה גייסה סבב E של 150 מיליון דולר בהובלת Koch Disruptive Technologies בשווי של 610 מיליון דולר.",
+   "source": "src2",
+   "quote": "a $150 million Series E round led by Koch Disruptive Technologies in 2017 at a post-money valuation of $610 million.",
+   "status": "confirmed",
+   "locator": "שורה 13"
+  },
+  {
+   "id": "c78",
+   "text": "לפי MedCity News, פרה מקווה להתקין 300 מערכות או יותר בארה\"ב בעשור הקרוב.",
+   "source": "src2",
+   "quote": "with the hope to install 300 or more systems in the U.S. over the next decade.",
+   "status": "confirmed",
+   "locator": "שורה 25"
+  },
+  {
+   "id": "c58",
+   "text": "לפי אתר החברה, לאינסייטק 400 עובדים במשרדים בחיפה, מיאמי, דאלאס, שנגחאי וטוקיו.",
+   "source": "src4",
+   "quote": "400 strong at offices in Haifa, Israel, Miami, Dallas, Shanghai, and Tokyo",
+   "status": "confirmed",
+   "locator": "שורה 24"
+  },
+  {
+   "id": "c70",
+   "text": "לפי קרן האולטרסאונד הממוקד, קובי וורטמן עצמו הפך למטופל.",
+   "source": "src6",
+   "quote": "Now, in a unique turn of events, he has become a patient himself",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c71",
+   "text": "לפי בניו של וורטמן, הטיפול הפחית מאוד רעד וקשיחות והביא לשיפור בתנוחת גופו ובמרחק ההליכה שלו.",
+   "source": "src6",
+   "quote": "He had much less tremors and stiffness, which led to an improvement in his posture and how far he can walk.",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c72",
+   "text": "לפי בניו של וורטמן, הרופא שלו ד\"ר ליאור לב-טוב ברמב\"ם מעוניין בטיפולים חדשניים.",
+   "source": "src6",
+   "quote": "We were fortunate that his physician, Dr. Lior Lev-Tov at Rambam Hospital, is interested in trying new, innovative treatments.",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c37",
+   "text": "קרלוס פניה מה-FDA אמר שהמכשיר החדש אינו מרפא אך יכול לסייע למטופלים ליהנות מאיכות חיים טובה יותר.",
+   "source": "src7",
+   "quote": "this new device is not a cure but could help patients enjoy a better quality of life.",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c33",
+   "text": "לפי Practical Neurology, בקבוצת Exablate Neuro דווחו 184 אירועים שליליים, מהם 137 קלים ו-46 בינוניים.",
+   "source": "src8",
+   "quote": "184 adverse events (AEs) were reported in the Exablate Neuro group (137 mild AEs and 46 moderate AEs).",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c38",
+   "text": "לפי ד\"ר קרישנה, אולטרסאונד ממוקד הוא חלופה לגירוי מוחי עמוק ולא תחליף, ולחלק מהמטופלים יש גולגולת עבה מדי.",
+   "source": "src5",
+   "quote": "But Krishna added that focused ultrasound offers an alternative to deep brain stimulation, not a replacement. Some patients have skulls too thick for ultrasound.",
+   "status": "confirmed",
+   "locator": "שורה 17"
+  },
+  {
+   "id": "c42",
+   "text": "לפי MedCity News, לאולטרסאונד ממוקד סיכון נמוך לזיהום או דימום והחלמה מהירה בהרבה, של שעות או ימים.",
+   "source": "src2",
+   "quote": "Focused ultrasound, on the other hand, has little risk of infection or bleeding and a much faster recovery time of hours or days, rather than weeks.",
+   "status": "confirmed",
+   "locator": "שורה 20"
+  },
+  {
+   "id": "c45",
+   "text": "לפי MedCity News, ציוד Exablate Neuro עולה כ-2 מיליון דולר וההליך האמבולטורי נמשך שעתיים עד ארבע.",
+   "source": "src2",
+   "quote": "The cost of the Exablate Neuro equipment is around $2 million and the outpatient procedure takes between two and four hours.",
+   "status": "confirmed",
+   "locator": "שורה 22"
+  },
+  {
+   "id": "c49",
+   "text": "לפי MedCity News, למרות האישורים וההשקעות, החזר כספי ושוק אמריקאי בר-קיימא לטכנולוגיה לא התממשו.",
+   "source": "src2",
+   "quote": "But, the approval and investments notwithstanding, reimbursement and a viable U.S. market for the technology failed to materialize.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c50",
+   "text": "לפי MedCity News, אחת הסיבות לכישלון מוצר הפיברואידים של אינסייטק הייתה הסטטוס קוו: העסק המשתלם של ספקים רבים בביצוע כריתות רחם.",
+   "source": "src2",
+   "quote": "the status quo: the lucrative business many providers had in performing hysterectomies.",
+   "status": "confirmed",
+   "locator": "שורה 30"
+  },
+  {
+   "id": "c14",
+   "text": "לפי המכונים הלאומיים לבריאות של ארה\"ב, כפי שדווח ב-MDDI, עד 10 מיליון בני אדם בארצות הברית סובלים מרעד חיוני.",
+   "source": "src5",
+   "quote": "According to the National Institutes of Health, as many as 10 million people in the United States suffer from essential tremor",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c59",
+   "text": "לפי ויקיפדיה, מטה החברה נמצא בטירת הכרמל ויש לה משרדים בדאלאס, מיאמי, טוקיו ושנגחאי.",
+   "source": "src1",
+   "quote": "The company is headquartered in Tirat Carmel, and maintains offices in Dallas, Miami, Tokyo, and Shanghai.",
+   "status": "confirmed",
+   "locator": "שורה 17"
+  },
+  {
+   "id": "c29",
+   "text": "לפי אינסייטק, מטופלי Exablate Neuro הראו שיפור של כמעט 50% ברעד ובתפקוד המוטורי שלושה חודשים אחרי הטיפול לעומת הבסיס.",
+   "source": "src3",
+   "quote": "Patients treated with the Exablate Neuro showed nearly a 50% improvement in their tremors and motor function three months after treatment compared to their baseline score.",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c30",
+   "text": "לפי Practical Neurology, אחרי שלושה חודשים נרשם שיפור של 46.9% בציון CRST לעומת הבסיס אצל המטופלים.",
+   "source": "src8",
+   "quote": "After 3 months, participants treated with Exablate Neuro showed a 46.9% improvement from baseline in CRST score",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c67",
+   "text": "לפי MedCity News, ב-2018 הרגולטורים הרחיבו את האינדיקציה לפרקינסון עם רעד דומיננטי.",
+   "source": "src2",
+   "quote": "That was followed up with an expanded indication from regulators in 2018 for the treatment of with tremor-dominant",
+   "status": "confirmed",
+   "locator": "שורה 23"
+  },
+  {
+   "id": "c68",
+   "text": "לפי Practical Neurology, המכשיר אושר קודם ב-2021 לטיפול בחולי פרקינסון עמיד לתרופות עם בעיות ניידות, קשיחות או דיסקינזיה.",
+   "source": "src8",
+   "quote": "The device was previously approved in 2021 for the treatment of people with drug-refractory Parkinson disease (PD) with mobility, rigidity, or dyskinesia symptoms.",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c80",
+   "text": "לפי הודעת סטרייקר, חברת Mako Surgical נרכשה תמורת 30 דולר למניה, במחיר רכישה כולל של כ-1.65 מיליארד דולר.",
+   "source": "src9",
+   "quote": "for $30.00 per share with an aggregate purchase price of approximately $1.65 billion.",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  }
+ ],
+ "sources": [
+  {
+   "id": "src1",
+   "label": "Wikipedia, Insightec",
+   "url": "https://en.wikipedia.org/wiki/Insightec",
+   "kind": "reference"
+  },
+  {
+   "id": "src2",
+   "label": "MedCity News, Insightec wants to usher in a new era of incisionless surgery, 7.2019",
+   "url": "https://medcitynews.com/2019/07/insightec-wants-to-usher-in-a-new-era-of-incisionless-surgery/",
+   "kind": "press"
+  },
+  {
+   "id": "src3",
+   "label": "InSightec, FDA approval announcement for Exablate Neuro, 2016",
+   "url": "https://insightec.com/global/news-global/fda-approves-exablate-neuro-focused-ultrasound/",
+   "kind": "organisation"
+  },
+  {
+   "id": "src4",
+   "label": "InSightec, About us",
+   "url": "https://insightec.com/about-us/",
+   "kind": "organisation"
+  },
+  {
+   "id": "src5",
+   "label": "MDDI Online, Insightec's Ultrasound Tech Wins FDA Nod as Essential Tremor Treatment",
+   "url": "https://www.mddionline.com/business/insightecs-ultrasound-tech-wins-fda-nod-essential-tremor-treatment",
+   "kind": "press"
+  },
+  {
+   "id": "src6",
+   "label": "Focused Ultrasound Foundation, profile of Jacob (Kobi) Vortman",
+   "url": "https://www.fusfoundation.org/profiles/jacob-kobi-vortman-phd/",
+   "kind": "organisation"
+  },
+  {
+   "id": "src7",
+   "label": "MassDevice, FDA approves Insightec's Exablate Neuro, 2016",
+   "url": "https://www.massdevice.com/fda-approves-insightecs-exablate-neuro-focused-ultrasound-device/",
+   "kind": "press"
+  },
+  {
+   "id": "src8",
+   "label": "Practical Neurology, The FDA Has Approved a Focused Ultrasound Device for Essential Tremor",
+   "url": "https://practicalneurology.com/news/the-fda-has-approved-a-focused-ultrasound-device-for-essential-tremor/2475661/",
+   "kind": "press"
+  },
+  {
+   "id": "src9",
+   "label": "Stryker Investor Relations, Stryker Announces Definitive Agreement to Acquire MAKO Surgical Corp. for $1.65 Billion (2013)",
+   "url": "https://investors.stryker.com/press-releases/news-details/2013/Stryker-Announces-Definitive-Agreement-to-Acquire-MAKO-Surgical-Corp-for-165-Billion/default.aspx",
+   "kind": "official"
+  }
+ ],
+ "media": [
+  {
+   "id": "m1",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/INSIGHTEC%20LOGO%20FINAL%20RGB.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:INSIGHTEC_LOGO_FINAL_RGB.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Xenmen",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "The INSIGHTEC company logo in gray letters, with a green line and a blue line inside the letter H.",
+   "illustrates": [
+    "c1"
+   ],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2015-11-16",
+   "width": 753,
+   "height": 124
+  },
+  {
+   "id": "m2",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/MRI-guided%20HIFU%2C%20essential%20tremor%2C%2002-14%20165%2C%20pointed.png?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:MRI-guided_HIFU%2C_essential_tremor%2C_02-14_165%2C_pointed.png",
+   "source_name": "Wikimedia Commons",
+   "credit": "Jmarchn",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "Lateral MRI scan of a head, four days after MRI-guided focused ultrasound treatment for essential tremor, with the treated spot in the thalamus marked with a red circle. The Commons description does not state that the treatment was done with Insightec equipment.",
+   "illustrates": [
+    "c20",
+    "c21"
+   ],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "2023-06-26",
+   "width": 543,
+   "height": 510
+  },
+  {
+   "id": "m3",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=BG_-7Tc0wuo",
+   "youtube_id": "BG_-7Tc0wuo",
+   "source_page": "https://www.youtube.com/watch?v=BG_-7Tc0wuo",
+   "source_name": "YouTube",
+   "credit": "YouTube",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "Interview with Kobi Vortman, president and CEO of Insightec.",
+   "illustrates": [
+    "c5"
+   ],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m4",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=z3wHE76ghjI",
+   "youtube_id": "z3wHE76ghjI",
+   "source_page": "https://www.youtube.com/watch?v=z3wHE76ghjI",
+   "source_name": "YouTube",
+   "credit": "YouTube",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "A video explaining what Insightec's focused ultrasound treatment is.",
+   "illustrates": [
+    "c20"
+   ]
+  },
+  {
+   "id": "m5",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=AS-yWnlG4cw",
+   "youtube_id": "AS-yWnlG4cw",
+   "source_page": "https://www.youtube.com/watch?v=AS-yWnlG4cw",
+   "source_name": "YouTube",
+   "credit": "YouTube",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "A three-dimensional rendering of Insightec's Exablate Neuro platform for treating essential tremor.",
+   "illustrates": [
+    "c20",
+    "c21"
+   ]
+  },
+  {
+   "id": "m6",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=w-PbeFG4i7Y",
+   "youtube_id": "w-PbeFG4i7Y",
+   "source_page": "https://www.youtube.com/watch?v=w-PbeFG4i7Y",
+   "source_name": "YouTube",
+   "credit": "YouTube",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "The organization's own film: a brain surgeon explains focused ultrasound treatment for essential tremor and Parkinson's.",
+   "illustrates": [],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m7",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=D-3ygRxS_dg",
+   "youtube_id": "D-3ygRxS_dg",
+   "source_page": "https://www.youtube.com/watch?v=D-3ygRxS_dg",
+   "source_name": "YouTube",
+   "credit": "INSIGHTEC",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "The organization's own film: an animated testimony of a patient with Parkinsonian tremor about the experience of focused ultrasound treatment.",
+   "illustrates": [
+    "c15"
+   ],
+   "spoken": "he",
+   "audio_tracks": [
+    "he"
+   ]
+  },
+  {
+   "id": "m8",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/NeotCarmel3997.JPG?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:NeotCarmel3997.JPG",
+   "source_name": "Wikimedia Commons",
+   "credit": "Yaakov",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "View from Denya in Haifa toward Tirat Carmel, with residential neighborhoods and an industrial zone in the background",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2018-05-04",
+   "width": 4608,
+   "height": 3072,
+   "role": "related"
+  },
+  {
+   "id": "m10",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/TiratCarmelWestIndustrialZone4001.JPG?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:TiratCarmelWestIndustrialZone4001.JPG",
+   "source_name": "Wikimedia Commons",
+   "credit": "Yaakov",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "The western industrial zone of Tirat Carmel, photographed from Denya in Haifa",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2018-05-04",
+   "width": 4608,
+   "height": 3072,
+   "role": "related"
+  },
+  {
+   "id": "m11",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/TiratHacarmelEasthIdndustrialZone3996.JPG?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:TiratHacarmelEasthIdndustrialZone3996.JPG",
+   "source_name": "Wikimedia Commons",
+   "credit": "Yaakov",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "The eastern industrial zone of Tirat Carmel, photographed from Denya in Haifa",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2018-05-04",
+   "width": 4608,
+   "height": 3072,
+   "role": "related"
+  },
+  {
+   "id": "m13",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/WikiAir%20Flight%20IL-13-02%201209.JPG?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:WikiAir_Flight_IL-13-02_1209.JPG",
+   "source_name": "Wikimedia Commons",
+   "credit": "Meronim",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "Aerial photograph of Tirat Carmel, with greenhouses in the foreground and Mount Carmel behind",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "2013-06-07",
+   "width": 6016,
+   "height": 4000,
+   "role": "related"
+  }
+ ],
+ "check": {
+  "passed": true,
+  "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
+  "checked_at": "2026-11-20T21:52:33Z",
+  "counts": {
+   "confirmed": 86,
+   "not_confirmed": 0,
+   "deleted_sentences": 2,
+   "first_round_confirmed": 85,
+   "first_round_contradicted": 2,
+   "first_round_unverifiable": 2
+  },
+  "note": "unverifiable sentences were deleted, contradicted ones fixed from the source and checked again"
+ },
+ "meta": {
+  "run": "insightec-focused-ultrasound-incisionless-surgery",
+  "pipeline": "scripts/museum/museum_line.py",
+  "models": {
+   "research": "sonnet-5-5",
+   "extract": "sonnet-5-5",
+   "media": "sonnet-5-5",
+   "write": "opus-5-5 medium",
+   "check": "opus-5-5 medium",
+   "fix": "opus-5-5 medium"
+  },
+  "source_quality": {
+   "sources": 8,
+   "wikipedia": 1,
+   "strong": 4,
+   "ok": true,
+   "warnings": []
+  },
+  "settled": [
+   {
+    "box": "d6",
+    "question": "בכמה נמכרה Mako Surgical לסטרייקר?",
+    "url": "https://investors.stryker.com/press-releases/news-details/2013/Stryker-Announces-Definitive-Agreement-to-Acquire-MAKO-Surgical-Corp-for-165-Billion/default.aspx",
+    "by": "settle 24.11"
+   }
+  ]
+ },
+ "lang": "en",
+ "translation": {
+  "from": "he",
+  "translator": "claude-opus-5-5",
+  "checker": "claude-opus-5-5 (separate call, blind to the translation prompt)",
+  "checked_at": "2026-11-23T22:31:03Z",
+  "passed": true,
+  "items": 120,
+  "pairs_checked": 1,
+  "reused": 119,
+  "first_round_flagged": 0,
+  "still_flagged": 0,
+  "flagged": [],
+  "quote_translations": {}
+ }
+}

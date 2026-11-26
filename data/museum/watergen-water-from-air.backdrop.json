@@ -1,0 +1,56 @@
+{
+ "schema": "maasei-backdrop/1",
+ "slug": "watergen-water-from-air",
+ "media": "m16",
+ "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Gaza%20-%2019117908235.jpg?width=1920",
+ "img_small": "https://commons.wikimedia.org/wiki/Special:FilePath/Gaza%20-%2019117908235.jpg?width=1080",
+ "why": "The long fenced and roofed crossing walkway into the Gaza Strip has strong depth and texture, holds up when darkened behind cards, and sets the scene for the water machines entering Gaza.",
+ "chosen_by": "opus picker",
+ "alternates": [
+  "m14"
+ ],
+ "from": {
+  "average": "#a7a29b",
+  "picked": "#a5957e",
+  "coloured_share": 0.197,
+  "lightness": 0.63
+ },
+ "palette": {
+  "paper": "#f0efed",
+  "surface": "#f8f8f7",
+  "band": "#e5e2df",
+  "tint": "#e0dcd7",
+  "header": "#e9e7e4",
+  "rule": "#c7c3bc",
+  "text": "#2a2318",
+  "text2": "#4c4233",
+  "accent": "#6e583b",
+  "meta": "#655b4c",
+  "tone": "#221f1b",
+  "shadow": "33, 27, 18"
+ },
+ "checks": {
+  "text_on_paper": 13.52,
+  "text_on_surface": 14.62,
+  "text_on_band": 12.04,
+  "text_on_tint": 11.38,
+  "text_on_header": 12.58,
+  "text2_on_paper": 8.56,
+  "text2_on_surface": 9.26,
+  "text2_on_band": 7.63,
+  "text2_on_tint": 7.21,
+  "text2_on_header": 7.97,
+  "accent_on_paper": 5.85,
+  "accent_on_surface": 6.33,
+  "accent_on_band": 5.21,
+  "accent_on_tint": 4.93,
+  "accent_on_header": 5.45,
+  "meta_on_paper": 5.79,
+  "meta_on_surface": 6.27,
+  "meta_on_band": 5.16,
+  "meta_on_tint": 4.88,
+  "meta_on_header": 5.39,
+  "paper_on_accent": 5.85
+ },
+ "passed": true
+}

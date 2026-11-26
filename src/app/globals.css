@@ -1,18 +1,19 @@
 @import "tailwindcss";
 
 @theme inline {
-  --color-background: #0a1834;
-  --color-foreground: #eaf1ff;
+  /* 26.11: album palette (same as the museum "a4" look). Navy+gold retired. */
+  --color-background: #ebe4d5;
+  --color-foreground: #221b14;
   --color-primary: #1e3a8a;
   --color-primary-light: #2563eb;
   --color-sky-accent: #38bdf8;
   --color-sky-light: #7dd3fc;
-  --color-gold: #c9a84a;
-  --color-gold-bright: #e6c66e;
-  --color-card: #0f234d;
-  --color-border: rgba(201, 168, 74, 0.22);
-  --font-sans: var(--font-heebo);
-  --font-heading: var(--font-frank-ruhl);
+  --color-gold: #6b4426;
+  --color-gold-bright: #8a5a34;
+  --color-card: #f6f1e6;
+  --color-border: #cbbfa8;
+  --font-sans: var(--font-david);
+  --font-heading: var(--font-david);
 }
 
 *,
@@ -27,13 +28,9 @@ html {
 
 body {
   /* Deep navy, top to bottom — classic, no white break. */
-  background-color: #0a1834;
-  background-image:
-    radial-gradient(ellipse 80% 50% at 50% -10%, rgba(37, 99, 235, 0.22), transparent 60%),
-    radial-gradient(ellipse 60% 50% at 50% 110%, rgba(201, 168, 74, 0.08), transparent 60%);
-  background-attachment: fixed;
-  color: #eaf1ff;
-  font-family: var(--font-heebo), "Heebo", Arial, Helvetica, sans-serif;
+  background-color: #ebe4d5;
+  color: #221b14;
+  font-family: var(--font-david), "David Libre", Georgia, serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -59,7 +56,7 @@ h4,
 h5,
 h6 {
   /* Classic serif headings. */
-  font-family: var(--font-frank-ruhl), "Frank Ruhl Libre", Georgia, serif;
+  font-family: var(--font-david), "David Libre", Georgia, serif;
   letter-spacing: -0.01em;
 }
 
@@ -69,7 +66,7 @@ h6 {
   background: linear-gradient(
     to left,
     transparent,
-    rgba(201, 168, 74, 0.55),
+    rgba(107, 68, 38, 0.45),
     transparent
   );
 }
@@ -300,4 +297,15 @@ h6 {
   .stage-beam-l {
     animation: none;
   }
+}
+
+/* ---------------------------------------------------------------- 26.11 album
+   The dark theatre is retired: cream paper like the museum pages, the video
+   mounted as a print (white mat, a little lift), no curtains or spotlights. */
+.stage { background: #ebe4d5 !important; }
+.stage-beam, .stage-haze, .stage-vignette, .curtain, .curtain-r, .curtain-l, .valance, .footlight { display: none !important; }
+.screen-glow {
+  border: 10px solid #fdfaf3 !important;
+  border-radius: 3px !important;
+  box-shadow: 0 1px 2px rgba(34, 27, 20, 0.18), 0 14px 34px -14px rgba(34, 27, 20, 0.35) !important;
 }

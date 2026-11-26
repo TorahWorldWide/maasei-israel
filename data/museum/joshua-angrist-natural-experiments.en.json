@@ -1,0 +1,1573 @@
+{
+ "schema": "maasei-museum/1",
+ "slug": "joshua-angrist-natural-experiments",
+ "deed": "יהושע אנגריסט מפתח שיטת ניסויים טבעיים לזיהוי קשרים סיבתיים בכלכלה",
+ "canonical_type": "idea-that-changed",
+ "year": "1990",
+ "title": "Joshua Angrist turned lotteries and birth dates into natural experiments, and won the Nobel Prize in Economics",
+ "trailer": [
+  {
+   "text": "Joshua Angrist, an economist and professor at MIT, won the 2021 Nobel Prize in Economics together with David Card and Guido Imbens.",
+   "claims": [
+    "c1",
+    "c63"
+   ]
+  },
+  {
+   "text": "According to Wikipedia, he was born to a Jewish family in Ohio, and according to ISRAEL21c, he holds American and Israeli citizenship.",
+   "claims": [
+    "c51",
+    "c50"
+   ]
+  },
+  {
+   "text": "Many questions in the social sciences concern cause and effect, and they are difficult to answer because there is nothing to use as a comparison.",
+   "claims": [
+    "c2"
+   ]
+  },
+  {
+   "text": "The laureates showed that it is possible to answer them using natural experiments, real-life situations that resemble a randomised experiment.",
+   "claims": [
+    "c3",
+    "c9"
+   ]
+  },
+  {
+   "text": "According to the Nobel Committee, their work revolutionised empirical research in the social sciences.",
+   "claims": [
+    "c22"
+   ]
+  }
+ ],
+ "hero_media": [
+  "m1",
+  "m2",
+  "m3",
+  "m11"
+ ],
+ "glance": [
+  {
+   "label": "Born",
+   "value": "1960, Columbus, Ohio",
+   "claims": [
+    "c5"
+   ]
+  },
+  {
+   "label": "Citizenship",
+   "value": "American and Israeli, according to ISRAEL21c",
+   "claims": [
+    "c50"
+   ]
+  },
+  {
+   "label": "Academic home",
+   "value": "MIT, since 1996",
+   "claims": [
+    "c63"
+   ]
+  },
+  {
+   "label": "Partners",
+   "value": "Alan Krueger, Guido Imbens",
+   "claims": [
+    "c16",
+    "c4"
+   ]
+  },
+  {
+   "label": "Recognition",
+   "value": "Nobel Prize in Economics, 2021",
+   "claims": [
+    "c1"
+   ]
+  }
+ ],
+ "stations": [
+  {
+   "id": "s1",
+   "title": "A boy from Pittsburgh, a paratrooper in the IDF",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "According to the Swedish Academy, Angrist was born in 1960 in Columbus, Ohio.",
+      "claims": [
+       "c5"
+      ]
+     },
+     {
+      "text": "According to Wikipedia, he was born to a Jewish family and raised in Pittsburgh.",
+      "claims": [
+       "c51"
+      ]
+     },
+     {
+      "text": "According to MIT Technology Review, he left high school after the eleventh grade, having completed the minimum requirements.",
+      "claims": [
+       "c55"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to The Tech, after his bachelor's degree he moved to Israel, became a citizen and began graduate studies.",
+      "claims": [
+       "c53"
+      ]
+     },
+     {
+      "text": "According to Wikipedia, he lived in Israel from 1982 to 1985 and served as a paratrooper in the Israel Defense Forces.",
+      "claims": [
+       "c52"
+      ]
+     },
+     {
+      "text": "According to The Tech, he left his studies, served two years in the Israeli army, and returned to the United States to complete them at Princeton.",
+      "claims": [
+       "c54"
+      ]
+     },
+     {
+      "text": "According to the Academy, he received a Ph.D. from Princeton in 1989.",
+      "claims": [
+       "c5"
+      ]
+     }
+    ]
+   ],
+   "media": [],
+   "disagreements": []
+  },
+  {
+   "id": "s2",
+   "title": "A question with no comparison group",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "Many questions in the social sciences concern cause and effect.",
+      "claims": [
+       "c2"
+      ]
+     },
+     {
+      "text": "They are difficult to answer, because we have nothing to use as a comparison.",
+      "claims": [
+       "c2"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to the Nobel Committee, it is not possible to conduct a randomised experiment determining who attends upper-secondary school and who does not.",
+      "claims": [
+       "c8"
+      ]
+     },
+     {
+      "text": "According to MIT Technology Review, it is also not possible to assign students to schools randomly in order to test their effect.",
+      "claims": [
+       "c29"
+      ]
+     },
+     {
+      "text": "Comparing scores between schools can be misleading, because top districts may attract families with better-prepared students.",
+      "claims": [
+       "c30"
+      ]
+     },
+     {
+      "text": "Therefore, according to the magazine, Angrist relies on natural experiments.",
+      "claims": [
+       "c29"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "The Nobel Committee described natural experiments as situations that arise in real life and resemble randomised experiments.",
+      "claims": [
+       "c9"
+      ]
+     }
+    ]
+   ],
+   "media": [],
+   "disagreements": []
+  },
+  {
+   "id": "s3",
+   "title": "The draft lottery and the quarter of birth",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "According to The Tech, in 1990 Angrist used the Vietnam-era draft lottery to estimate the effect of military service on lifetime earnings.",
+      "claims": [
+       "c31"
+      ]
+     },
+     {
+      "text": "According to MIT Technology Review, he found that white men who were drafted and served in the early 1970s earned about 15 percent less in the early 1980s.",
+      "claims": [
+       "c32"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to the Nobel Committee, Angrist worked with his colleague Alan Krueger, now deceased, on a landmark article that showed how the effect of years of education on income can be examined.",
+      "claims": [
+       "c16"
+      ]
+     },
+     {
+      "text": "In the United States, children may leave school at age 16 or 17, depending on the state.",
+      "claims": [
+       "c11"
+      ]
+     },
+     {
+      "text": "Angrist and Krueger compared people born in the first quarter of the year with those born in the fourth quarter.",
+      "claims": [
+       "c12"
+      ]
+     },
+     {
+      "text": "They found that the first group had spent less time in education.",
+      "claims": [
+       "c12"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to the Nobel Committee, the causal effect they found was stronger than the association between education and income, which amounted to seven percent, and this was surprising.",
+      "claims": [
+       "c14"
+      ]
+     },
+     {
+      "text": "According to MIT Technology Review, the paper they published in 1991 is considered a textbook example of a natural experiment.",
+      "claims": [
+       "c33"
+      ]
+     }
+    ]
+   ],
+   "media": [],
+   "disagreements": [
+    "d1"
+   ]
+  },
+  {
+   "id": "s4",
+   "title": "A new framework with Guido Imbens",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "In the mid-1990s, Angrist and Imbens solved a methodological problem.",
+      "claims": [
+       "c4"
+      ]
+     },
+     {
+      "text": "They showed how precise conclusions about cause and effect can be drawn from natural experiments.",
+      "claims": [
+       "c4",
+       "c17"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to Angrist's CV, their paper on the local average treatment effect was published in Econometrica in March 1994.",
+      "claims": [
+       "c19"
+      ]
+     },
+     {
+      "text": "According to MIT Technology Review, the paper formalized the idea that the average effect of a policy is best measured by its influence on people who otherwise would not have been exposed to the circumstances it encouraged.",
+      "claims": [
+       "c18"
+      ]
+     },
+     {
+      "text": "Econometrics expert Whitney Newey said that this is probably one of the best papers in econometrics over a span of a decade, according to the magazine.",
+      "claims": [
+       "c67"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to MIT Technology Review, Angrist did not invent the quasi-experimental methods.",
+      "claims": [
+       "c36"
+      ]
+     },
+     {
+      "text": "They spread from the eighties onward through a group of prominent economists, among them Alan Krueger.",
+      "claims": [
+       "c36"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m1",
+    "m9"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s5",
+   "title": "Years in Jerusalem, classes of 40",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "Angrist taught in the Department of Economics at the Hebrew University as a senior lecturer in the early 1990s.",
+      "claims": [
+       "c57",
+       "c58"
+      ]
+     },
+     {
+      "text": "In 1994 he served on the Israeli Finance Ministry's Working Group on Israeli-Palestinian Labor Market Relations.",
+      "claims": [
+       "c56"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to MIT Technology Review, classes in Israel are capped at 40 students, and Angrist and Lavy used this to examine the effect of class size.",
+      "claims": [
+       "c34"
+      ]
+     },
+     {
+      "text": "They found that smaller classes produced significant gains in math and reading among fifth-graders.",
+      "claims": [
+       "c35"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "Prof. Victor Lavy of the Hebrew University said that Angrist is a loyal friend of the State of Israel.",
+      "claims": [
+       "c59"
+      ]
+     }
+    ]
+   ],
+   "media": [],
+   "disagreements": [
+    "d2"
+   ]
+  },
+  {
+   "id": "s6",
+   "title": "A virtual laboratory at MIT",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "According to The Tech, Angrist joined the MIT faculty in 1996, and he has been the Ford Professor of Economics since 2008.",
+      "claims": [
+       "c63"
+      ]
+     },
+     {
+      "text": "According to MIT Technology Review, he built a kind of virtual laboratory of economics, in which he generates precise answers to difficult social questions.",
+      "claims": [
+       "c27"
+      ]
+     },
+     {
+      "text": "He relies only on empirical data that illuminate causal relationships in society.",
+      "claims": [
+       "c28"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to MIT Technology Review, in 2011 Angrist, together with David Autor and Parag Pathak, launched the School Effectiveness and Inequality Initiative (SEII).",
+      "claims": [
+       "c44"
+      ]
+     },
+     {
+      "text": "According to The Tech, Angrist said that some applicants to charter schools are admitted by lottery, and that this turns out to be the key, because it contains an element of random assignment.",
+      "claims": [
+       "c48"
+      ]
+     },
+     {
+      "text": "According to MIT Technology Review, a 2009 report found that certain Boston charter schools produced an average gain of roughly 15 percentile points on middle-school math exams.",
+      "claims": [
+       "c45"
+      ]
+     },
+     {
+      "text": "Soon after the research was released, the governor of Massachusetts and the mayor of Boston adopted more charter-friendly positions.",
+      "claims": [
+       "c47"
+      ]
+     },
+     {
+      "text": "Angrist himself thinks charter schools are too different from one another to justify sweeping conclusions, according to the magazine.",
+      "claims": [
+       "c46"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to MIT Technology Review, Esther Duflo, whom Angrist advised, said that his focus on selection bias spurred her to conduct field experiments.",
+      "claims": [
+       "c38"
+      ]
+     },
+     {
+      "text": "David Autor said that Angrist managed to answer questions that others did not think could be answered empirically.",
+      "claims": [
+       "c39"
+      ]
+     },
+     {
+      "text": "According to the magazine, as of the August before the article was published, Angrist was among the 100 most-cited economists in the world, according to the Federal Reserve Bank of St. Louis, which holds data on more than 33,000 authors.",
+      "claims": [
+       "c37"
+      ]
+     },
+     {
+      "text": "According to The Tech, he doubted that data and AI tools are revolutionizing econometrics, noting that these tools are rarely central.",
+      "claims": [
+       "c49"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m3"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s7",
+   "title": "Nobel 2021",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "The Royal Swedish Academy of Sciences decided to award the 2021 Nobel Prize in Economics to David Card, Joshua Angrist and Guido Imbens.",
+      "claims": [
+       "c1"
+      ]
+     },
+     {
+      "text": "The laureates showed that it is possible to answer questions of cause and effect using natural experiments.",
+      "claims": [
+       "c3"
+      ]
+     },
+     {
+      "text": "The chair of the prize committee said that their research substantially improved the ability to answer key causal questions, to the great benefit of society.",
+      "claims": [
+       "c7"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to the Academy, Angrist and Imbens's framework fundamentally changed how researchers approach empirical questions examined with data from natural experiments or randomized field experiments.",
+      "claims": [
+       "c10"
+      ]
+     },
+     {
+      "text": "According to the Nobel Committee, it has been widely adopted by researchers who work with observational data.",
+      "claims": [
+       "c20"
+      ]
+     },
+     {
+      "text": "Clarifying the assumptions necessary to establish a causal relationship increased the transparency and credibility of empirical research.",
+      "claims": [
+       "c21"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "The prize amount is 10 million Swedish kronor, with one half to Card and the other half jointly to Angrist and Imbens.",
+      "claims": [
+       "c6"
+      ]
+     },
+     {
+      "text": "According to the Academy, Card's studies showed, among other things, that increasing the minimum wage does not necessarily lead to fewer jobs.",
+      "claims": [
+       "c24"
+      ]
+     },
+     {
+      "text": "According to the Nobel Committee, in the early 1990s the conventional view among economists was that a high minimum wage reduces employment.",
+      "claims": [
+       "c23"
+      ]
+     },
+     {
+      "text": "According to NBER, all three laureates were affiliated with the NBER Labor Studies Program, which Card directed for nearly a decade.",
+      "claims": [
+       "c66"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to ISRAEL21c, Angrist is the 13th Israeli to win the Nobel Prize and the third in economics.",
+      "claims": [
+       "c60"
+      ]
+     },
+     {
+      "text": "According to The Tech, he is the eighth MIT faculty member to win the Nobel Prize in Economics.",
+      "claims": [
+       "c64"
+      ]
+     },
+     {
+      "text": "According to his CV, in June 2022 he received an honorary doctorate from Oberlin, and in April 2023 he was elected to the National Academy of Sciences.",
+      "claims": [
+       "c65"
+      ]
+     },
+     {
+      "text": "Card said that one of the secrets of Angrist's success is his tenacity.",
+      "claims": [
+       "c43"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m4",
+    "m5",
+    "m6",
+    "m7",
+    "m8",
+    "m2",
+    "m13",
+    "m14",
+    "m15"
+   ],
+   "disagreements": [
+    "d3",
+    "d4"
+   ]
+  },
+  {
+   "id": "s8",
+   "title": "The criticism",
+   "kind": "hard",
+   "paragraphs": [
+    [
+     {
+      "text": "According to MIT Technology Review, some economists found pure empiricism foreign to them, and younger economists working in Angrist's mode drew criticism.",
+      "claims": [
+       "c40"
+      ]
+     },
+     {
+      "text": "According to the magazine, a 2007 article in the New Republic decried the “academic parlor game” of new scholars using natural experiments.",
+      "claims": [
+       "c41"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "In an interview with MIT Technology Review, Angrist said that in the ten years before the interview there had been criticism that he, his students and his school of thought were concerned with tools and not with questions, and added that in his view this is not fair.",
+      "claims": [
+       "c42"
+      ]
+     },
+     {
+      "text": "He considered this unfair.",
+      "claims": [
+       "c42"
+      ]
+     }
+    ]
+   ],
+   "media": [],
+   "disagreements": []
+  }
+ ],
+ "disagreements": [
+  {
+   "id": "d1",
+   "question": "How much does an additional year of education add to income, according to Angrist and Krueger?",
+   "versions": [
+    {
+     "says": "Nobel Committee: nine percent",
+     "claims": [
+      "c13"
+     ]
+    },
+    {
+     "says": "MIT Technology Review: about 7.5 percent more in annual earnings",
+     "claims": [
+      "c15"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d2",
+   "question": "Until what year was Angrist a senior lecturer at the Hebrew University?",
+   "versions": [
+    {
+     "says": "ISRAEL21c: from 1991 to 1996",
+     "claims": [
+      "c57"
+     ]
+    },
+    {
+     "says": "His CV: 1991–95",
+     "claims": [
+      "c58"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d3",
+   "question": "What amount was shared by Angrist and Imbens?",
+   "versions": [
+    {
+     "says": "ISRAEL21c: the two share half of the prize money, stated as $1.14 million",
+     "claims": [
+      "c61"
+     ]
+    },
+    {
+     "says": "Wikipedia: the two received half of 10 million Swedish kronor, which is $1.14 million, and the rest went to Card",
+     "claims": [
+      "c62"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d4",
+   "question": "When was the minimum wage increase in New Jersey studied?",
+   "versions": [
+    {
+     "says": "Nobel Committee: the hourly minimum wage in New Jersey was increased on 1 April 1992, from 4.25 to 5.05 dollars",
+     "claims": [
+      "c25"
+     ]
+    },
+    {
+     "says": "The Tech: Card studied employment in fast food establishments in New Jersey and Pennsylvania in 1993, after the increase",
+     "claims": [
+      "c26"
+     ]
+    }
+   ]
+  }
+ ],
+ "unknowns": [
+  {
+   "text": "According to Wikipedia, Angrist and Imbens together received half of the prize money of 10 million Swedish crowns ($1.14 million), and the rest went to the third laureate, Card.",
+   "claims": [
+    "c62"
+   ]
+  }
+ ],
+ "claims": [
+  {
+   "id": "c1",
+   "text": "האקדמיה המלכותית השוודית למדעים החליטה להעניק את פרס הנובל בכלכלה לשנת 2021 לדיוויד קארד, ליהושע אנגריסט ולגידו אימבנס.",
+   "source": "src1",
+   "quote": "has decided to award the Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel 2021 to David Card",
+   "status": "confirmed",
+   "locator": "שורה 1"
+  },
+  {
+   "id": "c63",
+   "text": "לפי The Tech, אנגריסט הצטרף לסגל MIT ב-1996 והוא פרופסור פורד לכלכלה מאז 2008.",
+   "source": "src2",
+   "quote": "Angrist joined the MIT faculty in 1996, and has served as the Ford Professor of Economics at MIT since 2008.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c51",
+   "text": "לפי ויקיפדיה, אנגריסט נולד למשפחה יהודית בקולומבוס, אוהיו, וגדל בפיטסבורג.",
+   "source": "src3",
+   "quote": "Angrist was born to a Jewish family in Columbus, Ohio, and raised in Pittsburgh",
+   "status": "confirmed",
+   "locator": "שורה 30"
+  },
+  {
+   "id": "c50",
+   "text": "ISRAEL21c דיווח שאנגריסט הוא בעל אזרחות כפולה, אמריקאית וישראלית.",
+   "source": "src4",
+   "quote": "Ohio-born Angrist, a 61-year-old dual American and Israeli citizen, specializes in econometrics and labor and education economics.",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c2",
+   "text": "שאלות רבות במדעי החברה עוסקות בסיבה ותוצאה, וקשה לענות עליהן כי אין לנו דבר שישמש להשוואה.",
+   "source": "src1",
+   "quote": "These questions are difficult to answer because we have nothing to use as a comparison.",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c3",
+   "text": "חתני הפרס הראו שאפשר לענות על שאלות כאלה באמצעות ניסויים טבעיים.",
+   "source": "src1",
+   "quote": "this year’s Laureates have shown that it is possible to answer these and similar questions using natural experiments",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c9",
+   "text": "ועדת הנובל תיארה ניסויים טבעיים כמצבים המתרחשים בחיים האמיתיים ומזכירים ניסויים אקראיים.",
+   "source": "src5",
+   "quote": "Their solution is to use natural experiments – situations arising in real life that resemble randomised experiments.",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c22",
+   "text": "ועדת הנובל קבעה שעבודת חתני הפרס חוללה מהפכה במחקר האמפירי במדעי החברה.",
+   "source": "src5",
+   "quote": "The work of the Laureates has revolutionised empirical research in the social sciences",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c5",
+   "text": "לפי האקדמיה, אנגריסט נולד ב-1960 בקולומבוס, אוהיו, וקיבל דוקטורט מפרינסטון ב-1989.",
+   "source": "src1",
+   "quote": "Joshua D. Angrist, born 1960 in Columbus, Ohio, USA. Ph.D. 1989 from Princeton University, USA.",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c16",
+   "text": "לפי ועדת הנובל, אנגריסט עבד עם עמיתו אלן קרוגר (שנפטר) במאמר דרך שהראה כיצד אפשר לבחון את השפעת שנות לימוד על הכנסה.",
+   "source": "src5",
+   "quote": "Joshua Angrist and his colleague Alan Krueger (now deceased) showed how this could be done in a landmark article.",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c4",
+   "text": "באמצע שנות ה-90 פתרו אנגריסט ואימבנס בעיה מתודולוגית והראו כיצד אפשר להסיק מסקנות מדויקות על סיבה ותוצאה מניסויים טבעיים.",
+   "source": "src1",
+   "quote": "In the mid-1990s, Joshua Angrist and Guido Imbens solved this methodological problem, demonstrating how precise conclusions about cause and effect can be drawn from natural experiments.",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c31",
+   "text": "לפי The Tech, ב-1990 ניצל אנגריסט את הגרלת הגיוס מתקופת וייטנאם כדי להעריך את השפעת השירות הצבאי על הכנסה לאורך החיים.",
+   "source": "src2",
+   "quote": "in 1990, Angrist leveraged the Vietnam-era draft lottery to estimate the effect of military service on lifetime earnings",
+   "status": "confirmed",
+   "locator": "שורה 13"
+  },
+  {
+   "id": "c55",
+   "text": "לפי MIT Technology Review, אנגריסט עזב את התיכון אחרי כיתה י\"א לאחר שמילא את מינימום הדרישות.",
+   "source": "src6",
+   "quote": "Angrist left high school after the 11th grade, having completed the bare minimum of coursework needed to graduate.",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c53",
+   "text": "לפי The Tech, אנגריסט עבר לישראל לאחר התואר הראשון, הפך לאזרח והחל לימודי תארים מתקדמים.",
+   "source": "src2",
+   "quote": "After completing his bachelor’s degree, he moved to Israel, becoming a citizen and starting graduate studies.",
+   "status": "confirmed",
+   "locator": "שורה 17"
+  },
+  {
+   "id": "c52",
+   "text": "לפי ויקיפדיה, אנגריסט חי בישראל בין 1982 ל-1985 ושירת כצנחן בצה\"ל.",
+   "source": "src3",
+   "quote": "He lived in Israel from 1982 until 1985 and served as a paratrooper in the Israeli Defence Forces.",
+   "status": "confirmed",
+   "locator": "שורה 30"
+  },
+  {
+   "id": "c54",
+   "text": "לפי The Tech, אנגריסט עזב את לימודיו ושירת שנתיים בצבא הישראלי לפני שחזר לארצות הברית לסיים בפרינסטון.",
+   "source": "src2",
+   "quote": "He left his graduate studies and served two years in the Israeli Army before moving back to the US to complete his studies at Princeton.",
+   "status": "confirmed",
+   "locator": "שורה 17"
+  },
+  {
+   "id": "c8",
+   "text": "לפי ועדת הנובל, לא ניתן לערוך ניסוי אקראי שיקבע מי ילמד בבית ספר תיכון ומי לא.",
+   "source": "src5",
+   "quote": "we cannot have a randomised experiment determining who gets to attend upper-secondary school and who does not",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c29",
+   "text": "לפי MIT Technology Review, אי אפשר לשבץ תלמידים באופן אקראי לבתי ספר כדי לבדוק את השפעתם, ולכן אנגריסט נשען על ניסויים טבעיים.",
+   "source": "src6",
+   "quote": "Scholars can’t answer questions like this by randomly assigning students to schools themselves and studying the results.",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c30",
+   "text": "לפי MIT Technology Review, השוואת ציונים בין בתי ספר עלולה להטעות, כי מחוזות מובילים אולי מושכים משפחות עם תלמידים מוכנים יותר.",
+   "source": "src6",
+   "quote": "it could just be that the top-rated school districts attract a greater proportion of families with well-prepared students.",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c32",
+   "text": "לפי MIT Technology Review, אנגריסט מצא שגברים לבנים שגויסו ושירתו בראשית שנות ה-70 הרוויחו כ-15 אחוזים פחות בראשית שנות ה-80.",
+   "source": "src6",
+   "quote": "Ultimately, Angrist found that white men who were drafted and served in the early 1970s earned about 15 percent less in the early 1980s than counterparts who were not drafted and never served.",
+   "status": "confirmed",
+   "locator": "שורה 22"
+  },
+  {
+   "id": "c11",
+   "text": "בארצות הברית ילדים רשאים לעזוב את בית הספר בגיל 16 או 17, בהתאם למדינה.",
+   "source": "src5",
+   "quote": "In the US, children can leave school when they turn 16 or 17, depending on the state where they go to school.",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c12",
+   "text": "אנגריסט וקרוגר השוו בין נולדים ברבעון הראשון לרבעון הרביעי של השנה, ומצאו שהקבוצה הראשונה שהתה פחות זמן בלימודים.",
+   "source": "src5",
+   "quote": "When Angrist and Krueger compared people born in the first and fourth quarters of the year, they saw that the first group had, on average, spent less time in education.",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c14",
+   "text": "ועדת הנובל ציינה כי ההשפעה הסיבתית הייתה חזקה מהמתאם בין השכלה להכנסה, שעמד על שבעה אחוזים, וזה היה מפתיע.",
+   "source": "src5",
+   "quote": "It was surprising that this effect was stronger than the association between education and income, which amounted to seven per cent.",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c33",
+   "text": "לפי MIT Technology Review, ב-1991 פרסמו אנגריסט וקרוגר מאמר על השכלה והכנסה שנחשב לדוגמה לימודית לניסוי טבעי.",
+   "source": "src6",
+   "quote": "Soon after, in 1991, he and Krueger published a paper on the relationship between education and earnings that remains a textbook example of a natural experiment",
+   "status": "confirmed",
+   "locator": "שורה 23"
+  },
+  {
+   "id": "c17",
+   "text": "לפי ועדת הנובל, אנגריסט ואימבנס הראו כיצד ניסויים טבעיים מובילים למסקנות מדויקות על סיבה ותוצאה.",
+   "source": "src5",
+   "quote": "Joshua Angrist and Guido Imbens showed how natural experiments can be used to arrive at precise conclusions about cause and effect.",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c19",
+   "text": "לפי קורות החיים של אנגריסט, המאמר על אפקט הטיפול הממוצע המקומי עם אימבנס פורסם ב-Econometrica במרץ 1994.",
+   "source": "src7",
+   "quote": "Identification and Estimation of Local Average Treatment Effects,” (with Guido Imbens), Econometrica, March 1994.",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c18",
+   "text": "לפי MIT Technology Review, מאמר מ-1994 של אנגריסט ואימבנס ניסח את הרעיון שהאפקט הממוצע של מדיניות נמדד בעיקר לפי השפעתה על אנשים שאחרת לא היו נחשפים לנסיבות שעודדה.",
+   "source": "src6",
+   "quote": "The paper formalized the idea that the average effect of, say, a new government policy is best measured by its influence on people who otherwise never would have found themselves in the circumstances it encouraged.",
+   "status": "confirmed",
+   "locator": "שורה 27"
+  },
+  {
+   "id": "c67",
+   "text": "לפי MIT Technology Review, מומחה האקונומטריקה ויטני ניואי כינה את מאמרו של אנגריסט ואימבנס מ-1994 אחד המאמרים הטובים ביותר באקונומטריקה בעשור.",
+   "source": "src6",
+   "quote": "That’s probably one of the very best papers over a 10-year span in econometrics",
+   "status": "confirmed",
+   "locator": "שורה 29"
+  },
+  {
+   "id": "c36",
+   "text": "לפי MIT Technology Review, אנגריסט לא המציא את השיטות מעין-הניסוייות, שהתפשטו מהשמונים בידי קבוצת כלכלנים בולטים כולל אלן קרוגר.",
+   "source": "src6",
+   "quote": "they were largely popularized from the 1980s onward by a group of prominent economists including Alan Krueger",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c57",
+   "text": "לפי ISRAEL21c, אנגריסט היה מרצה בכיר באוניברסיטה העברית מ-1991 עד 1996.",
+   "source": "src4",
+   "quote": "was a senior lecturer at the Hebrew University of Jerusalem from 1991 to 1996",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c58",
+   "text": "לפי קורות החיים שלו, אנגריסט היה מרצה בכיר במחלקה לכלכלה באוניברסיטה העברית בשנים 1991-95.",
+   "source": "src7",
+   "quote": "Senior Lecturer in Economics, Hebrew University Economics Department, 1991-95.",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c56",
+   "text": "ב-1994 שירת אנגריסט בקבוצת עבודה של משרד האוצר הישראלי ליחסי שוק העבודה הישראלי-פלסטיני.",
+   "source": "src4",
+   "quote": "In 1994, Angrist served on the Israeli Finance Ministry’s Working Group on Israeli-Palestinian Labor Market Relations.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c34",
+   "text": "לפי MIT Technology Review, בישראל מוגבלות כיתות ל-40 תלמידים, ואנגריסט ולבי ניצלו זאת לבחינת השפעת גודל כיתה.",
+   "source": "src6",
+   "quote": "In Israel, classes are capped at 40 students.",
+   "status": "confirmed",
+   "locator": "שורה 26"
+  },
+  {
+   "id": "c35",
+   "text": "לפי MIT Technology Review, אנגריסט ולבי מצאו שכיתות קטנות הניבו שיפור משמעותי בחשבון ובקריאה אצל תלמידי כיתה ה'.",
+   "source": "src6",
+   "quote": "Angrist and Lavy found that smaller class sizes generated “significant and substantial” gains in math and reading achievement among the fifth-graders",
+   "status": "confirmed",
+   "locator": "שורה 26"
+  },
+  {
+   "id": "c59",
+   "text": "פרופ' ויקטור לבי מהאוניברסיטה העברית אמר שאנגריסט הוא ידיד נאמן של מדינת ישראל.",
+   "source": "src4",
+   "quote": "Joshua Angrist is a loyal friend of the State of Israel and of Hebrew University.",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c27",
+   "text": "לפי MIT Technology Review, אנגריסט בנה מעין מעבדה וירטואלית לכלכלה שבה הוא מפיק תשובות מדויקות לשאלות חברתיות קשות.",
+   "source": "src6",
+   "quote": "Angrist has built a kind of virtual laboratory of economics, where he generates precise answers to difficult social questions.",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c28",
+   "text": "לפי MIT Technology Review, אנגריסט מסתמך על נתונים אמפיריים בלבד המאירים קשרים סיבתיים בחברה.",
+   "source": "src6",
+   "quote": "Angrist uses only empirical data that illuminate causal relationships in society.",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c44",
+   "text": "לפי MIT Technology Review, ב-2011 השיק אנגריסט יחד עם אוטור ופאראג פתאק את היוזמה לאפקטיביות בתי ספר ואי-שוויון (SEII).",
+   "source": "src6",
+   "quote": "In 2011, along with Autor and fellow MIT economist Parag Pathak, he launched the School Effectiveness and Inequality Initiative (SEII)",
+   "status": "confirmed",
+   "locator": "שורה 36"
+  },
+  {
+   "id": "c48",
+   "text": "לפי The Tech, אנגריסט אמר שבבתי ספר צ'ארטר מתקבלים מועמדים בהגרלה, וזהו המפתח לאקראיות.",
+   "source": "src2",
+   "quote": "some applicants to charter schools are admitted by lottery, and that turns out to be the key",
+   "status": "confirmed",
+   "locator": "שורה 20"
+  },
+  {
+   "id": "c45",
+   "text": "לפי MIT Technology Review, דו\"ח מ-2009 מצא שבתי ספר צ'ארטר מסוימים בבוסטון הניבו עלייה ממוצעת של כ-15 אחוזונים במבחני מתמטיקה בחטיבת הביניים.",
+   "source": "src6",
+   "quote": "In a 2009 report, they found that certain Boston charter schools had produced an average gain of roughly 15 percentile points for middle-school students on the state math exams.",
+   "status": "confirmed",
+   "locator": "שורה 38"
+  },
+  {
+   "id": "c47",
+   "text": "לפי MIT Technology Review, מושל מסצ'וסטס ראש עיריית בוסטון אימצו עמדות ידידותיות יותר לצ'ארטר זמן קצר אחרי פרסום המחקר.",
+   "source": "src6",
+   "quote": "Both Massachusetts governor Deval Patrick and Boston mayor Thomas Menino adopted more charter-friendly positions soon after the research was released",
+   "status": "confirmed",
+   "locator": "שורה 43"
+  },
+  {
+   "id": "c46",
+   "text": "לפי MIT Technology Review, אנגריסט סבור שבתי ספר צ'ארטר שונים זה מזה מכדי להצדיק מסקנות גורפות.",
+   "source": "src6",
+   "quote": "Angrist thinks charter schools may be too different from one another to justify sweeping conclusions",
+   "status": "confirmed",
+   "locator": "שורה 39"
+  },
+  {
+   "id": "c38",
+   "text": "לפי MIT Technology Review, אסתר דופלו, שאנגריסט הנחה, אמרה שהתמקדותו בהטיית הבחירה הניעה אותה לערוך ניסויי שדה.",
+   "source": "src6",
+   "quote": "spurred her to go beyond his techniques and conduct actual field experiments",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c39",
+   "text": "לפי דיוויד אוטור ב-MIT Technology Review, אנגריסט הצליח לענות על שאלות שאחרים לא חשבו שאפשר לענות עליהן באופן אמפירי.",
+   "source": "src6",
+   "quote": "figured out how to answer questions other people didn’t think could be answered",
+   "status": "confirmed",
+   "locator": "שורה 30"
+  },
+  {
+   "id": "c37",
+   "text": "לפי MIT Technology Review, אנגריסט היה בין 100 הכלכלנים המצוטטים ביותר בעולם, על פי הפדרל ריזרב של סנט לואיס.",
+   "source": "src6",
+   "quote": "As of August, he was one of the 100 most-cited economists in the world, according to the Federal Reserve Bank of St. Louis",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c49",
+   "text": "לפי The Tech, אנגריסט פקפק בכך שכלי דאטה ו-AI מחוללים מהפכה באקונומטריקה, וציין שהכלים הללו נדירות מרכזיים.",
+   "source": "src2",
+   "quote": "that those tools are revolutionizing econometrics as much as some of the other fields where they’re used",
+   "status": "confirmed",
+   "locator": "שורה 21"
+  },
+  {
+   "id": "c7",
+   "text": "יו\"ר ועדת הפרס אמר שמחקרם של אנגריסט ואימבנס ושל קארד שיפר מאוד את היכולת לענות על שאלות סיבתיות מרכזיות, לתועלת רבה לחברה.",
+   "source": "src1",
+   "quote": "Their research has substantially improved our ability to answer key causal questions, which has been of great benefit to society",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c10",
+   "text": "לפי האקדמיה, המסגרת שיצרו אנגריסט ואימבנס שינתה מן היסוד את גישת החוקרים לשאלות אמפיריות על בסיס ניסויים טבעיים או ניסויי שדה אקראיים.",
+   "source": "src4",
+   "quote": "The framework they created has radically changed how researchers approach empirical questions using data from natural experiments or randomised field experiments.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c20",
+   "text": "לפי ועדת הנובל, המסגרת של אנגריסט ואימבנס אומצה בהרחבה בידי חוקרים העובדים עם נתונים תצפיתיים.",
+   "source": "src5",
+   "quote": "The framework developed by Angrist and Imbens has been widely adopted by researchers who work with observational data.",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c21",
+   "text": "לפי ועדת הנובל, הבהרת ההנחות הדרושות לביסוס קשר סיבתי הגבירה את השקיפות והאמינות של מחקר אמפירי.",
+   "source": "src5",
+   "quote": "By clarifying the assumptions necessary to establish a causal relationship, their framework has also increased the transparency",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c6",
+   "text": "סכום הפרס הוא 10 מיליון כתר שוודי, מחציתו לקארד והמחצית השנייה במשותף לאנגריסט ולאימבנס.",
+   "source": "src1",
+   "quote": "Prize amount: 10 million Swedish kronor, with one half to David Card and the other half jointly to Joshua Angrist and Guido Imbens.",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c24",
+   "text": "לפי האקדמיה, מחקרי קארד הראו בין השאר שהעלאת שכר המינימום אינה מובילה בהכרח לפחות משרות.",
+   "source": "src1",
+   "quote": "The results showed, among other things, that increasing the minimum wage does not necessarily lead to fewer jobs.",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c23",
+   "text": "לפי ועדת הנובל, בראשית שנות ה-90 הדעה המקובלת בקרב כלכלנים הייתה ששכר מינימום גבוה מפחית תעסוקה.",
+   "source": "src5",
+   "quote": "In the early 1990s, the conventional wisdom among economists was that higher minimum wages lead to lower employment because they increase wage costs for businesses.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c66",
+   "text": "לפי NBER, שלושת הזוכים היו שותפים בתוכנית לימודי העבודה של NBER, שקארד ניהל כמעט עשור.",
+   "source": "src8",
+   "quote": "All three were affiliated with the NBER Labor Studies Program, which Card directed for nearly a decade.",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c60",
+   "text": "לפי ISRAEL21c, אנגריסט הוא הישראלי ה-13 שזוכה בנובל והשלישי בכלכלה.",
+   "source": "src4",
+   "quote": "Now he has become the 13th Israeli to win the coveted award, and the third to win it in economics.",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c64",
+   "text": "לפי The Tech, אנגריסט הוא חבר הסגל השמיני של MIT שזוכה בנובל בכלכלה.",
+   "source": "src2",
+   "quote": "Angrist is the eighth MIT faculty member to win the Nobel Prize in Economic Sciences.",
+   "status": "confirmed",
+   "locator": "שורה 24"
+  },
+  {
+   "id": "c65",
+   "text": "לפי קורות החיים של אנגריסט, הוא נבחר לחבר באקדמיה הלאומית למדעים באפריל 2023 וקיבל תואר דוקטור לשם כבוד מאוברלין ביוני 2022.",
+   "source": "src7",
+   "quote": "Elected Member, National Academy of Sciences, April 2023. Honorary Degrees, Oberlin College, June 2022",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c43",
+   "text": "קארד אמר שאחד הסודות להצלחתו של אנגריסט הוא עקשנותו.",
+   "source": "src6",
+   "quote": "One of the secrets of his success is his tenacity",
+   "status": "confirmed",
+   "locator": "שורה 35"
+  },
+  {
+   "id": "c40",
+   "text": "לפי MIT Technology Review, חלק מהכלכלנים מצאו אמפיריציזם טהור זר, וכלכלנים צעירים העובדים בדרכו של אנגריסט ספגו ביקורת.",
+   "source": "src6",
+   "quote": "some younger economists working in the mode of Angrist, Card, and Krueger have drawn criticism",
+   "status": "confirmed",
+   "locator": "שורה 32"
+  },
+  {
+   "id": "c41",
+   "text": "לפי MIT Technology Review, מאמר ב-New Republic מ-2007 גינה את \"משחק הסלון האקדמי\" של חוקרים חדשים העושים שימוש בניסויים טבעיים.",
+   "source": "src6",
+   "quote": "A 2007 article in the New Republic decried the “academic parlor game” played by new scholars using natural experiments.",
+   "status": "confirmed",
+   "locator": "שורה 32"
+  },
+  {
+   "id": "c42",
+   "text": "אנגריסט אמר שהייתה התנגדות בעשור האחרון לטענה שהוא ותלמידיו עוסקים בכלים ולא בשאלות, וסבר שזה לא הוגן.",
+   "source": "src6",
+   "quote": "There has been some pushback in the last 10 years, that guys like me, or my students, or my school of thought—that we’re all about the tools and not about the questions",
+   "status": "confirmed",
+   "locator": "שורה 33"
+  },
+  {
+   "id": "c13",
+   "text": "לפי ועדת הנובל, אנגריסט וקרוגר מצאו שהשפעתה של שנת לימוד נוספת על ההכנסה היא תשעה אחוזים.",
+   "source": "src5",
+   "quote": "the effect of an additional year of education on income was nine per cent",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c15",
+   "text": "לפי MIT Technology Review, אנגריסט וקרוגר מצאו ששנת לימוד נוספת שווה כ-7.5 אחוזים יותר בשכר שנתי.",
+   "source": "src6",
+   "quote": "an additional year of education was worth about 7.5 percent more in annual earnings",
+   "status": "confirmed",
+   "locator": "שורה 24"
+  },
+  {
+   "id": "c61",
+   "text": "לפי ISRAEL21c, אנגריסט יתחלק עם אימבנס במחצית מסכום הפרס, שצוין כ-1.14 מיליון דולר.",
+   "source": "src4",
+   "quote": "He will share half the $1.14 million prize money with Imbens for their",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c62",
+   "text": "לפי ויקיפדיה, השניים קיבלו מחצית מסכום הפרס של 10 מיליון כתר שוודי (1.14 מיליון דולר), והשאר הלך לקארד.",
+   "source": "src3",
+   "quote": "The two men received one-half of the prize money of 10 million Swedish crowns ($1.14 million U.S.)",
+   "status": "confirmed",
+   "locator": "שורה 47"
+  },
+  {
+   "id": "c25",
+   "text": "לפי ועדת הנובל, ב-1 באפריל 1992 הועלה שכר המינימום השעתי בניו ג'רזי מ-4.25 ל-5.05 דולר.",
+   "source": "src5",
+   "quote": "1 April 1992: The hourly minimum wage in New Jersey was increased from 4.25 dollars to 5.05 dollars.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c26",
+   "text": "לפי The Tech, קארד חקר תעסוקה במסעדות מזון מהיר בניו ג'רזי ובפנסילבניה ב-1993, לאחר העלאת שכר המינימום בניו ג'רזי.",
+   "source": "src2",
+   "quote": "Card studied employment in fast food establishments in New Jersey and Pennsylvania in 1993, on the heels of a minimum wage hike in New Jersey",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  }
+ ],
+ "sources": [
+  {
+   "id": "src1",
+   "label": "Royal Swedish Academy of Sciences, 11.10.2021",
+   "url": "https://www.kva.se/en/news/ekonomipriset-2021-2/",
+   "kind": "official"
+  },
+  {
+   "id": "src2",
+   "label": "The Tech (MIT), 14.10.2021",
+   "url": "https://thetech.com/2021/10/14/2021-econ-nobel-memorial-angrist",
+   "kind": "press"
+  },
+  {
+   "id": "src3",
+   "label": "Wikipedia, Joshua Angrist",
+   "url": "https://en.wikipedia.org/wiki/Joshua_Angrist",
+   "kind": "reference"
+  },
+  {
+   "id": "src4",
+   "label": "ISRAEL21c, October 2021",
+   "url": "https://archive.israel21c.org/israeli-american-economist-wins-nobel-prize/",
+   "kind": "press"
+  },
+  {
+   "id": "src5",
+   "label": "Nobel Prize Committee, Popular science background, 2021",
+   "url": "https://www.nobelprize.org/uploads/2021/10/popular-economicsciencesprize2021-2.pdf",
+   "kind": "official"
+  },
+  {
+   "id": "src6",
+   "label": "MIT Technology Review, 2.1.2013",
+   "url": "https://www.technologyreview.com/2013/01/02/180812/the-natural-experimenter/amp/",
+   "kind": "press"
+  },
+  {
+   "id": "src7",
+   "label": "MIT Economics, Angrist's CV, March 2025",
+   "url": "https://economics.mit.edu/sites/default/files/2025-03/Vita_Mar2025.pdf",
+   "kind": "official"
+  },
+  {
+   "id": "src8",
+   "label": "NBER, October 2021",
+   "url": "https://www.nber.org/news/joshua-angrist-david-card-and-guido-imbens-awarded-2021-nobel-prize",
+   "kind": "organisation"
+  }
+ ],
+ "media": [
+  {
+   "id": "m1",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Joshua%20Angrist%20-%202011.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Joshua_Angrist_-_2011.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "MeJudice",
+   "licence": "CC BY 3.0",
+   "hosting": "hotlink",
+   "caption": "Joshua Angrist speaking in an interview, as seen in a still from a 2011 video.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/3.0",
+   "date": "17 Novembe",
+   "width": 992,
+   "height": 720
+  },
+  {
+   "id": "m2",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nobel%202022%20Group%20-%2052637857287.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Nobel_2022_Group_-_52637857287.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "US Embassy Sweden",
+   "licence": "CC BY 2.0",
+   "hosting": "hotlink",
+   "caption": "Group photo of American Nobel laureates for 2022 at the reception of the U.S. Embassy in Sweden; according to the file description, Angrist was among those present.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/2.0",
+   "date": "2022-12-09",
+   "width": 3468,
+   "height": 2271
+  },
+  {
+   "id": "m3",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/MIT%20Department%20of%20Economics%20-%20Morris%20and%20Sophie%20Chang%20Building%20%28Building%20E52%29%20%2854960815443%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:MIT_Department_of_Economics_-_Morris_and_Sophie_Chang_Building_%28Building_E52%29_%2854960815443%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "ajay_suresh",
+   "licence": "CC BY 4.0",
+   "hosting": "hotlink",
+   "caption": "The MIT Department of Economics building in Cambridge, Massachusetts, among trees in autumn colours.",
+   "illustrates": [
+    "c63"
+   ],
+   "licence_url": "https://creativecommons.org/licenses/by/4.0",
+   "date": "2025-11-07",
+   "width": 8392,
+   "height": 4720
+  },
+  {
+   "id": "m4",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=AwCRJ6lnHSQ",
+   "youtube_id": "AwCRJ6lnHSQ",
+   "source_page": "https://www.youtube.com/watch?v=AwCRJ6lnHSQ",
+   "source_name": "YouTube",
+   "credit": "Reuters",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "A Reuters report on Card, Angrist and Imbens winning the 2021 Nobel Prize in Economics for developing \"natural experiments\".",
+   "illustrates": [
+    "c1",
+    "c3"
+   ],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m5",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=Bh_CXgAdou8",
+   "youtube_id": "Bh_CXgAdou8",
+   "source_page": "https://www.youtube.com/watch?v=Bh_CXgAdou8",
+   "source_name": "YouTube",
+   "credit": "Nobel Prize",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "The Nobel Prize channel presents Angrist's first reaction in a telephone interview, after he had been asleep when Stockholm called him.",
+   "illustrates": [
+    "c1"
+   ],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m6",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=XfMFqUBGHKI",
+   "youtube_id": "XfMFqUBGHKI",
+   "source_page": "https://www.youtube.com/watch?v=XfMFqUBGHKI",
+   "source_name": "YouTube",
+   "credit": "ynet",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "A ynet report on Joshua Angrist, a professor at MIT, winning half of the Nobel Prize in Economics together with Guido Imbens.",
+   "illustrates": [
+    "c1",
+    "c6"
+   ],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m7",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=qDF1Fdk5eCQ",
+   "youtube_id": "qDF1Fdk5eCQ",
+   "source_page": "https://www.youtube.com/watch?v=qDF1Fdk5eCQ",
+   "source_name": "YouTube",
+   "credit": "Kan | News - Israeli Public Broadcasting Corporation",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "A Kan News report on the Nobel win of the American-Israeli researcher Angrist.",
+   "illustrates": [
+    "c1",
+    "c50"
+   ],
+   "spoken": "ko",
+   "audio_tracks": [
+    "ko"
+   ]
+  },
+  {
+   "id": "m8",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=og3iJU7ifR4",
+   "youtube_id": "og3iJU7ifR4",
+   "source_page": "https://www.youtube.com/watch?v=og3iJU7ifR4",
+   "source_name": "YouTube",
+   "credit": "AFP News Agency",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "An AFP report on the awarding of the Nobel Prize in Economics to David Card, Joshua Angrist and Guido Imbens.",
+   "illustrates": [
+    "c1"
+   ],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m9",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Guido%20Imbens%202025%20Reprocessed.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Guido_Imbens_2025_Reprocessed.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Cmichel67",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "Guido Imbens, Angrist's co-laureate of the Nobel Prize, in a 2025 portrait photo.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2025-02-20",
+   "width": 5541,
+   "height": 8308,
+   "role": "deed"
+  },
+  {
+   "id": "m11",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Guido%20Imbens%20Lemley%20Lecture%202.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Guido_Imbens_Lemley_Lecture_2.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Filetime",
+   "licence": "CC0",
+   "hosting": "hotlink",
+   "caption": "Guido Imbens smiling and gesturing with his hands during a lecture at Brown University, 3 March 2022.",
+   "illustrates": [],
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "date": "2022-03-02",
+   "width": 3350,
+   "height": 4466,
+   "role": "deed"
+  },
+  {
+   "id": "m13",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/David%20Card%20-%20Nobel%20prize%20interview%20screenshot.png?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:David_Card_-_Nobel_prize_interview_screenshot.png",
+   "source_name": "Wikimedia Commons",
+   "credit": "Roxanne Makasdjian and Alan Toth for the University of California, Berkeley",
+   "licence": "CC BY 3.0",
+   "hosting": "hotlink",
+   "caption": "David Card, who shared the 2021 Nobel Prize in Economics with Angrist, in a University of California, Berkeley interview about the prize.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/3.0",
+   "date": "2021-10-11",
+   "width": 1920,
+   "height": 1080,
+   "role": "deed"
+  },
+  {
+   "id": "m14",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nobel2008Economics%20news%20conference1.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Nobel2008Economics_news_conference1.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Prolineserver (talk)",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "Press conference announcing the 2008 Nobel Prize in Economics, at the Royal Swedish Academy of Sciences.",
+   "illustrates": [],
+   "licence_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "date": "2008-10-13",
+   "width": 1085,
+   "height": 786,
+   "role": "related"
+  },
+  {
+   "id": "m15",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nobel%20Prize%202009-Press%20Conference%20KVA-02.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Nobel_Prize_2009-Press_Conference_KVA-02.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Prolineserver (talk)",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "Nobel laureates in economics, chemistry and physics seated in a row at a press conference in Stockholm, 2009.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "2009-12-07",
+   "width": 3648,
+   "height": 1448,
+   "role": "related"
+  }
+ ],
+ "check": {
+  "passed": true,
+  "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
+  "checked_at": "2026-11-14T04:49:14Z",
+  "counts": {
+   "confirmed": 84,
+   "not_confirmed": 0,
+   "deleted_sentences": 1,
+   "first_round_confirmed": 82,
+   "first_round_contradicted": 2,
+   "first_round_unverifiable": 1
+  },
+  "note": "unverifiable sentences were deleted, contradicted ones fixed from the source and checked again"
+ },
+ "meta": {
+  "run": "joshua-angrist-natural-experiments",
+  "pipeline": "scripts/museum/museum_line.py",
+  "models": {
+   "research": "sonnet-5-5",
+   "extract": "sonnet-5-5",
+   "media": "sonnet-5-5",
+   "write": "opus-5-5 medium",
+   "check": "opus-5-5 medium",
+   "fix": "opus-5-5 medium"
+  },
+  "source_quality": {
+   "sources": 8,
+   "wikipedia": 1,
+   "strong": 6,
+   "ok": true,
+   "warnings": []
+  }
+ },
+ "lang": "en",
+ "translation": {
+  "from": "he",
+  "translator": "claude-opus-5-5",
+  "checker": "claude-opus-5-5 (separate call, blind to the translation prompt)",
+  "checked_at": "2026-11-21T05:20:13Z",
+  "passed": true,
+  "items": 119,
+  "pairs_checked": 7,
+  "reused": 112,
+  "first_round_flagged": 0,
+  "still_flagged": 0,
+  "flagged": [],
+  "quote_translations": {}
+ }
+}

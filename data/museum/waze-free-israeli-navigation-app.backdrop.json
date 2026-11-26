@@ -1,0 +1,56 @@
+{
+ "schema": "maasei-backdrop/1",
+ "slug": "waze-free-israeli-navigation-app",
+ "media": "m26",
+ "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Uri%20Levine%20visita%20el%20Centro%20de%20Control%20de%20Tr%C3%A1nsito%20de%20Medell%C3%ADn%20%2815845052351%29.jpg?width=1920",
+ "img_small": "https://commons.wikimedia.org/wiki/Special:FilePath/Uri%20Levine%20visita%20el%20Centro%20de%20Control%20de%20Tr%C3%A1nsito%20de%20Medell%C3%ADn%20%2815845052351%29.jpg?width=1080",
+ "why": "A Waze co-founder and staff stand before a wall of live city maps and traffic-camera feeds in Medellín's traffic control room, a deep, textured scene of mapping and traffic that matches the app's world.",
+ "chosen_by": "opus picker",
+ "alternates": [
+  "m20"
+ ],
+ "from": {
+  "average": "#707477",
+  "picked": "#618eab",
+  "coloured_share": 0.167,
+  "lightness": 0.453
+ },
+ "palette": {
+  "paper": "#e9f0f4",
+  "surface": "#f6f8fa",
+  "band": "#d7e4ec",
+  "tint": "#ccdfea",
+  "header": "#dfe9ef",
+  "rule": "#afc6d5",
+  "text": "#18232a",
+  "text2": "#33434c",
+  "accent": "#365e78",
+  "meta": "#4f5f68",
+  "tone": "#1b1f22",
+  "shadow": "18, 27, 33"
+ },
+ "checks": {
+  "text_on_paper": 13.89,
+  "text_on_surface": 15.03,
+  "text_on_band": 12.34,
+  "text_on_tint": 11.66,
+  "text_on_header": 12.98,
+  "text2_on_paper": 8.9,
+  "text2_on_surface": 9.63,
+  "text2_on_band": 7.91,
+  "text2_on_tint": 7.48,
+  "text2_on_header": 8.32,
+  "accent_on_paper": 6.02,
+  "accent_on_surface": 6.51,
+  "accent_on_band": 5.35,
+  "accent_on_tint": 5.05,
+  "accent_on_header": 5.63,
+  "meta_on_paper": 5.75,
+  "meta_on_surface": 6.22,
+  "meta_on_band": 5.11,
+  "meta_on_tint": 4.83,
+  "meta_on_header": 5.38,
+  "paper_on_accent": 6.02
+ },
+ "passed": true
+}

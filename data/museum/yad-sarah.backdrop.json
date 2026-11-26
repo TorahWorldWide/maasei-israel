@@ -1,0 +1,56 @@
+{
+ "schema": "maasei-backdrop/1",
+ "slug": "yad-sarah",
+ "media": "m1",
+ "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Yad%20Sarah%20House%20medical%20equipment%20lending%20center.jpg?width=1920",
+ "img_small": "https://commons.wikimedia.org/wiki/Special:FilePath/Yad%20Sarah%20House%20medical%20equipment%20lending%20center.jpg?width=1080",
+ "why": "The wide, deep view of the medical-equipment lending hall at Yad Sarah House in Jerusalem, with shelves, oxygen trolleys, crutches, a wheelchair and numbered service desks, shows the place where the lending happens and still reads as a scene when darkened.",
+ "chosen_by": "opus picker",
+ "alternates": [
+  "m2"
+ ],
+ "from": {
+  "average": "#7d7d7d",
+  "picked": "#4f6789",
+  "coloured_share": 0.084,
+  "lightness": 0.49
+ },
+ "palette": {
+  "paper": "#e9edf4",
+  "surface": "#f6f8fa",
+  "band": "#d7e0ec",
+  "tint": "#ccd9ea",
+  "header": "#dfe5ef",
+  "rule": "#afbfd5",
+  "text": "#18202a",
+  "text2": "#333e4c",
+  "accent": "#365178",
+  "meta": "#4f5a68",
+  "tone": "#221b1b",
+  "shadow": "18, 24, 33"
+ },
+ "checks": {
+  "text_on_paper": 13.98,
+  "text_on_surface": 15.42,
+  "text_on_band": 12.33,
+  "text_on_tint": 11.48,
+  "text_on_header": 12.97,
+  "text2_on_paper": 9.25,
+  "text2_on_surface": 10.2,
+  "text2_on_band": 8.15,
+  "text2_on_tint": 7.59,
+  "text2_on_header": 8.58,
+  "accent_on_paper": 6.87,
+  "accent_on_surface": 7.57,
+  "accent_on_band": 6.05,
+  "accent_on_tint": 5.64,
+  "accent_on_header": 6.37,
+  "meta_on_paper": 5.97,
+  "meta_on_surface": 6.59,
+  "meta_on_band": 5.26,
+  "meta_on_tint": 4.9,
+  "meta_on_header": 5.54,
+  "paper_on_accent": 6.87
+ },
+ "passed": true
+}

@@ -1,0 +1,1909 @@
+{
+ "schema": "maasei-museum/1",
+ "slug": "waze-free-israeli-navigation-app",
+ "deed": "Waze — אפליקציית הניווט הישראלית החינמית",
+ "canonical_type": "team-invention",
+ "year": "2007",
+ "title": "שלושה ישראלים ומתנדבים מיפו את הארץ ובנו את ווייז, שגוגל קנתה ביותר ממיליארד דולר",
+ "trailer": [
+  {
+   "text": "ווייז, אפליקציית הניווט שנולדה כפתרון לעומסי התנועה בתל אביב, הוקמה על ידי שלושה ישראלים: אהוד שבתאי, עמיר שנער ואורי לוין.",
+   "claims": [
+    "c38",
+    "c41"
+   ]
+  },
+  {
+   "text": "זה התחיל כשאהוד שבתאי קיבל מכשיר GPS והחליט לכתוב אפליקציה לשיתוף מידע על מצלמות מהירות.",
+   "claims": [
+    "c47"
+   ]
+  },
+  {
+   "text": "בשלבים הראשונים מיפו את ישראל יותר מ-1,500 מתנדבים.",
+   "claims": [
+    "c50"
+   ]
+  },
+  {
+   "text": "ב-2013 רכשה גוגל את ווייז, לפי הדיווחים תמורת יותר ממיליארד דולר.",
+   "claims": [
+    "c30"
+   ]
+  },
+  {
+   "text": "לפי כתבה של CNBC, מה שהיה פעם סטארטאפ ישראלי קטן מנה בזמן כתיבתה יותר מ-140 מיליון משתמשים חודשיים בעולם.",
+   "claims": [
+    "c29"
+   ]
+  }
+ ],
+ "hero_media": [
+  "m1",
+  "m3",
+  "m4",
+  "m7",
+  "m2",
+  "m8",
+  "m9",
+  "m5",
+  "m16",
+  "m17",
+  "m25",
+  "m26"
+ ],
+ "glance": [
+  {
+   "label": "מייסדים",
+   "value": "אהוד שבתאי, עמיר שנער, אורי לוין",
+   "claims": [
+    "c41"
+   ]
+  },
+  {
+   "label": "מפת ישראל",
+   "value": "35,126 ק\"מ, כשלוש שנות עבודה",
+   "claims": [
+    "c66"
+   ]
+  },
+  {
+   "label": "נמכרה",
+   "value": "לגוגל ב-2013, לפי הדיווחים ביותר ממיליארד דולר",
+   "claims": [
+    "c30"
+   ]
+  },
+  {
+   "label": "משתמשים",
+   "value": "יותר מ-140 מיליון בחודש, לפי CNBC",
+   "claims": [
+    "c29"
+   ]
+  },
+  {
+   "label": "הוקרה",
+   "value": "פרס אפליקציית המובייל הטובה ביותר של איגוד GSM, 2013",
+   "claims": [
+    "c78"
+   ]
+  }
+ ],
+ "stations": [
+  {
+   "id": "s1",
+   "title": "מכשיר GPS אחד ורעיון",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "ווייז נולדה כפתרון לעומסי התנועה בתל אביב, עירו של אורי לוין.",
+      "claims": [
+       "c38"
+      ]
+     },
+     {
+      "text": "אהוד שבתאי היה נלהב ממכשיר GPS שקיבל, והחליט לכתוב אפליקציה לשיתוף מידע על מצלמות מהירות.",
+      "claims": [
+       "c47"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "חברת מפה טענה שהוא הפר זכויות יוצרים.",
+      "claims": [
+       "c48"
+      ]
+     },
+     {
+      "text": "היא הייתה מוכנה לקנות ממנו את האפליקציה, אבל לא לאפשר לו להשתמש במפות שלה.",
+      "claims": [
+       "c48"
+      ]
+     },
+     {
+      "text": "שבתאי החליט למחוק את המפות של מפה וליצור מפות חדשות לגמרי.",
+      "claims": [
+       "c49"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m5"
+   ],
+   "disagreements": [
+    "d1"
+   ]
+  },
+  {
+   "id": "s2",
+   "title": "מתנדבים ממפים את ישראל",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "בתנאי השימוש של FreeMap Israel ב-2006 נכתב שמטרת הפרויקט ליצור מאגר דיגיטלי חופשי של מפת ישראל בעזרת קהילת המשתמשים.",
+      "claims": [
+       "c57"
+      ]
+     },
+     {
+      "text": "יותר מ-1,500 מתנדבים מיפו את ישראל בשלבים הראשונים.",
+      "claims": [
+       "c50"
+      ]
+     },
+     {
+      "text": "עמיר שנער, לימים אחד המייסדים, התחיל את דרכו בווייז כאחד מהם.",
+      "claims": [
+       "c50",
+       "c41"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "המפה שנבנתה בישראל לקחה כשלוש שנים.",
+      "claims": [
+       "c66"
+      ]
+     },
+     {
+      "text": "היא כיסתה 35,126 קילומטרים.",
+      "claims": [
+       "c66"
+      ]
+     },
+     {
+      "text": "לפי המשקיע ג'ון מאלוי, בתחילת הדרך השתמשו המייסדים במכניקות משחק כדי למשוך אנשים לאפליקציה.",
+      "claims": [
+       "c28"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m7",
+    "m12"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s3",
+   "title": "שלושה מייסדים והשקה",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "ווייז נוסדה על ידי הישראלים אורי לוין, אהוד שבתאי ועמיר שנער, שכולם עבדו בעבר בקומברס.",
+      "claims": [
+       "c41"
+      ]
+     },
+     {
+      "text": "לפי ויקיפדיה, השלושה הם ותיקי יחידה 8200.",
+      "claims": [
+       "c72"
+      ]
+     },
+     {
+      "text": "לוין מייחס את הצלחתו בחלקו לשש שנות שירות בצה\"ל.",
+      "claims": [
+       "c42"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "בהשקה תיאר לוין את הפוטנציאל למהפכה עולמית שמקורה בישראל.",
+      "claims": [
+       "c51"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m11",
+    "m13",
+    "m21"
+   ],
+   "disagreements": [
+    "d2"
+   ]
+  },
+  {
+   "id": "s4",
+   "title": "משקיעים, חודש של כסף וצמיחה",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "ג'ון מאלוי מ-BlueRun Ventures הוביל את ההשקעה המקורית בווייז.",
+      "claims": [
+       "c21"
+      ]
+     },
+     {
+      "text": "לדבריו, ההימור של המשקיעים היה שהמייסדים יוכלו לשבש את הקרטוגרפיה המסורתית, ושהעיתוי מתאים.",
+      "claims": [
+       "c23"
+      ]
+     },
+     {
+      "text": "לדבריו, אנשי תעשיית המפות המסורתית טענו לאורך השנים שמה שווייז רצתה לעשות הוא בלתי אפשרי.",
+      "claims": [
+       "c24"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "לוין סיפר שב-2010, כשחיפשו סבב גיוס שני, נותר להם כסף לחודש בערך, אבל הם הצליחו לגייס.",
+      "claims": [
+       "c40"
+      ]
+     },
+     {
+      "text": "סך הגיוס הפרטי הגיע ל-67 מיליון דולר.",
+      "claims": [
+       "c18"
+      ]
+     },
+     {
+      "text": "נועם ברדין כתב שאחת הטעויות של ווייז הייתה ההערכה של סבב A, שדילל משמעותית את המייסדים.",
+      "claims": [
+       "c16"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "לדברי מאלוי, פריצת הדרך הגיעה כשנועם ברדין נכנס כמנכ\"ל ועבר לקליפורניה.",
+      "claims": [
+       "c27"
+      ]
+     },
+     {
+      "text": "ברדין אמר שכשהתחיל בווייז היו בה כ-14,000 משתמשים.",
+      "claims": [
+       "c70"
+      ]
+     },
+     {
+      "text": "ברדין כתב שכשגוגל השיקה ניווט חינמי, המשקיעים הישראלים הציעו להתמקד בסינגפור או ברומניה כדי להימנע מעימות בארה\"ב.",
+      "claims": [
+       "c19"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "מ-2009 התרחבה ווייז ל-4.5 מיליון משתמשים ביותר מ-45 מדינות.",
+      "claims": [
+       "c67"
+      ]
+     },
+     {
+      "text": "לפי VentureBeat ב-2012, היו לווייז יותר מ-15 מיליון משתמשים.",
+      "claims": [
+       "c46"
+      ]
+     },
+     {
+      "text": "לפי VentureBeat, נתוני התנועה שלה היו אמינים מספיק כדי להזין דיווחי תנועה בטלוויזיה המקומית.",
+      "claims": [
+       "c46"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m14",
+    "m2"
+   ],
+   "disagreements": [
+    "d3",
+    "d4",
+    "d5"
+   ]
+  },
+  {
+   "id": "s5",
+   "title": "גוגל קונה, והצוות נשאר בישראל",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "לפי פורצ'ן, גוגל גברה על מציעות מוקדמות כמו אפל ופייסבוק.",
+      "claims": [
+       "c22"
+      ]
+     },
+     {
+      "text": "דווח שעסקה עם פייסבוק קרסה כי פייסבוק התעקשה שצוות ווייז יעבור לאחד ממתקני המו\"פ שלה באירופה או בארה\"ב.",
+      "claims": [
+       "c3"
+      ]
+     },
+     {
+      "text": "לפי הדיווחים, הנהגת ווייז התעקשה להישאר בישראל.",
+      "claims": [
+       "c4"
+      ]
+     },
+     {
+      "text": "ברדין כתב שעסקת פייסבוק הייתה אמורה להיסגר ב-25 דולר למניה.",
+      "claims": [
+       "c63"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "גוגל וווייז הודיעו במשותף שהחברה הישראלית נמכרה לגוגל.",
+      "claims": [
+       "c1"
+      ]
+     },
+     {
+      "text": "ברדין כתב שהנפקה מסיטה את תשומת הלב לבנקאים ולעורכי דין, ושהם העדיפו להקדיש את זמנם לקהילת ווייז.",
+      "claims": [
+       "c9"
+      ]
+     },
+     {
+      "text": "לדברי אנליסטים רבים, המניע של גוגל לרכישה היה למנוע מפייסבוק פרס, ולא לשפר את האפליקציה שלה.",
+      "claims": [
+       "c6"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "אחד התנאים שהמייסדים התעקשו עליו היה שווייז תישאר יחידה עסקית אוטונומית בתוך גוגל ותמשיך לפעול מישראל.",
+      "claims": [
+       "c59"
+      ]
+     },
+     {
+      "text": "סגן נשיא בגוגל, בריאן מקלנדון, כתב שצוות פיתוח המוצר של ווייז יישאר בישראל ויפעל בנפרד בינתיים.",
+      "claims": [
+       "c5"
+      ]
+     },
+     {
+      "text": "אורי לוין אמר שהחברה גאה מאוד בשורשיה הישראליים ושהוא לא צפה לעבור למקום אחר.",
+      "claims": [
+       "c13"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m10"
+   ],
+   "disagreements": [
+    "d6"
+   ]
+  },
+  {
+   "id": "s6",
+   "title": "ווייז על הכביש, בעולם",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "ברדין כתב שגוגל נתנה לווייז עצמאות לגדול מ-10 מיליון משתמשים חודשיים ל-150 מיליון.",
+      "claims": [
+       "c62"
+      ]
+     },
+     {
+      "text": "ברדין ציין שרבים ציפו שווייז תיכשל תחת גוגל תוך שנה.",
+      "claims": [
+       "c71"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "בסופת סנדי השתמשה סוכנות FEMA באפליקציה כדי לספק מידע על מיקומי דלק בזמן מחסור.",
+      "claims": [
+       "c37"
+      ]
+     },
+     {
+      "text": "באפריל 2020 דיווחה ווייז שמשתמשיה ברחבי העולם נהגו 60% פחות קילומטרים לעומת חודשיים קודם.",
+      "claims": [
+       "c34"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m1",
+    "m3",
+    "m8",
+    "m9",
+    "m6",
+    "m18",
+    "m20",
+    "m24"
+   ],
+   "disagreements": [
+    "d7"
+   ]
+  },
+  {
+   "id": "s7",
+   "title": "הכרה ואנשים",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "ב-2013 העניק איגוד GSM לווייז את פרס אפליקציית המובייל הטובה ביותר.",
+      "claims": [
+       "c78"
+      ]
+     },
+     {
+      "text": "ראש הממשלה נתניהו איחל לברדין בטלפון \"מזל טוב\" ו\"מברוק\".",
+      "claims": [
+       "c10"
+      ]
+     },
+     {
+      "text": "נתניהו ציין שמיליארד דולר צפוי להיכנס בקרוב לארץ.",
+      "claims": [
+       "c12"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "לפי הכתבה ב-Times of Israel, ראש הממשלה בנימין נתניהו אמר שישראלים יכולים להתגאות בכך שאחת מאפליקציות המובייל החדשניות ביותר, שפותחה בישראל, נמכרת בסכום הגבוה ביותר אי פעם לשירות צרכני.",
+      "claims": [
+       "c11"
+      ]
+     },
+     {
+      "text": "מאלוי סיפר שבישראל קיים תסכול ממושך מהיעדר חברת טכנולוגיה צרכנית פורצת דרך ושהוא ואנשיו חשו בלחץ הזה, ולדבריו, בעיניהם ווייז הייתה אוצר לאומי של ישראל.",
+      "claims": [
+       "c25"
+      ]
+     },
+     {
+      "text": "לפי גלובס, כל אחד מ-100 העובדים שעזרו להקים את החברה קיבל יותר ממיליון דולר.",
+      "claims": [
+       "c58"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "ברדין עבר לגוגל אחרי הרכישה.",
+      "claims": [
+       "c20"
+      ]
+     },
+     {
+      "text": "לוין אמר שווייז הייתה מגדלור לתעשייה, ושיזמים רבים אומרים לו שהם רוצים להיות גדולים ממנה.",
+      "claims": [
+       "c44"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m4"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s8",
+   "title": "ביקורת, תביעות וקשיים",
+   "kind": "hard",
+   "paragraphs": [
+    [
+     {
+      "text": "בארה\"ב היו מבקרים שקראו למשרד המשפטים לעצור את העסקה, משום שהיא תחזק את שליטת גוגל בשירותי המובייל.",
+      "claims": [
+       "c8"
+      ]
+     },
+     {
+      "text": "לפי דיווח ב\"דה מרקר\", רגולטורים אירופיים דרשו ערבויות שגוגל לא תוסיף את מידע המשתמשים של ווייז למאגר המשתמשים שלה.",
+      "claims": [
+       "c7"
+      ]
+     },
+     {
+      "text": "רשות הסחר הפדרלית בארה\"ב החליטה בהמשך שלא לערער על העסקה.",
+      "claims": [
+       "c74"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "האפליקציה זכתה לביקורת על כך שהיא עלולה להסיח את דעתם של נהגים, שנדרשים להשתמש בטלפון בזמן הנהיגה כדי לדווח.",
+      "claims": [
+       "c32"
+      ]
+     },
+     {
+      "text": "ב-2014 התלונן צ'רלי בק ממשטרת לוס אנג'לס על תכונת איתור המשטרה באפליקציה.",
+      "claims": [
+       "c77"
+      ]
+     },
+     {
+      "text": "ב-2018 איימו מחוקקים בלוס אנג'לס בצעדים משפטיים על ווייז, בשל קיצורי דרך שגרמו לעומס בכבישים צדדיים.",
+      "claims": [
+       "c31"
+      ]
+     },
+     {
+      "text": "לוין השיב לביקורת ואמר שווייז מפזרת מחדש את התנועה כדי ליצור מצב תנועה טוב יותר לכולם.",
+      "claims": [
+       "c33"
+      ]
+     },
+     {
+      "text": "עיראק הודיעה על איסור על ווייז בשל מקורה הישראלי, כיוון שאין לה יחסים דיפלומטיים עם ישראל.",
+      "claims": [
+       "c75"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "נגד ווייז הוגשה בבית המשפט המחוזי בתל אביב תביעת שותפות וזכויות יוצרים בהיקף של מיליוני שקלים.",
+      "claims": [
+       "c52"
+      ]
+     },
+     {
+      "text": "התובעים, מפתחים, טוענים שהמייסד אהוד שבתאי נטל לעצמו את הפרויקט.",
+      "claims": [
+       "c53"
+      ]
+     },
+     {
+      "text": "בית המשפט העליון דחה את הערעור על ההחלטה שלא לנהל תובענה ייצוגית, אבל הבהיר שהטענות עצמן אינן חסרות בסיס.",
+      "claims": [
+       "c55"
+      ]
+     },
+     {
+      "text": "ווייז הגיבה שהיא מגיבה בעניינים משפטיים רק בבית המשפט ולא בתקשורת.",
+      "claims": [
+       "c56"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "בספטמבר 2020 פיטרה ווייז 5% מכוח האדם העולמי שלה, וסגרה לצמיתות משרדים באסיה-פסיפיק ובאמריקה הלטינית.",
+      "claims": [
+       "c35"
+      ]
+     },
+     {
+      "text": "לפי CNBC, ווייז סגרה גם את Waze Carpool, שירות נסיעות משותפות בן שש שנים, בספטמבר (הכתבה אינה מציינת באיזו שנה).",
+      "claims": [
+       "c36"
+      ]
+     },
+     {
+      "text": "נועם ברדין עזב את החברה ב-2020 בנסיבות שנויות במחלוקת, לאחר חיכוך על תרבות העבודה בגוגל.",
+      "claims": [
+       "c60"
+      ]
+     },
+     {
+      "text": "הוא התלונן על תרבות הנכונות הפוליטית בגוגל, וטען שגוגל לא מקדמת מספיק את ווייז בחנויות.",
+      "claims": [
+       "c61"
+      ]
+     }
+    ]
+   ],
+   "media": [],
+   "disagreements": []
+  }
+ ],
+ "disagreements": [
+  {
+   "id": "d1",
+   "question": "מאיפה ומתי קיבל שבתאי את מכשיר ה-GPS?",
+   "versions": [
+    {
+     "says": "לפי גלובס, הוא קיבל את המכשיר מחבר",
+     "claims": [
+      "c47"
+     ]
+    },
+    {
+     "says": "לפי ג'רוזלם פוסט, הוא קיבל אותו ליום הולדתו ב-2005 ואז החל לפתח את ווייז",
+     "claims": [
+      "c65"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d2",
+   "question": "מתי נולדה ווייז ומתי הושקה?",
+   "versions": [
+    {
+     "says": "לפי Jewish News, ווייז נולדה ב-2007",
+     "claims": [
+      "c38"
+     ]
+    },
+    {
+     "says": "לפי ג'רוזלם פוסט, גרסת הבטא הושקה בישראל ב-2008",
+     "claims": [
+      "c68"
+     ]
+    },
+    {
+     "says": "לפי TechCrunch, השלושה הקימו את ווייז בישראל ב-2008",
+     "claims": [
+      "c69"
+     ]
+    },
+    {
+     "says": "לפי גלובס, ווייז הושקה ב-2009",
+     "claims": [
+      "c51"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d3",
+   "question": "כמה גייסה ווייז בסבב הראשון?",
+   "versions": [
+    {
+     "says": "לפי The Next Web, 12 מיליון דולר בסבב A, במרץ 2008",
+     "claims": [
+      "c17"
+     ]
+    },
+    {
+     "says": "לפי פורצ'ן, ההשקעה המקורית בהובלת מאלוי הייתה 14 מיליון דולר",
+     "claims": [
+      "c21"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d4",
+   "question": "כמה גייסה ווייז בסבב השני, ומתי?",
+   "versions": [
+    {
+     "says": "לפי ויקיפדיה, 25 מיליון דולר ב-2010, בסבב המימון השני",
+     "claims": [
+      "c76"
+     ]
+    },
+    {
+     "says": "לפי The Next Web, 30 מיליון דולר ב-2011",
+     "claims": [
+      "c18"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d5",
+   "question": "האם נועם ברדין היה ממייסדי ווייז?",
+   "versions": [
+    {
+     "says": "The Next Web מכנה אותו מנכ\"ל ומייסד שותף",
+     "claims": [
+      "c14"
+     ]
+    },
+    {
+     "says": "לפי TechCrunch, ברדין לא הקים את החברה, והמייסדים הם שבתאי, שנער ולוין",
+     "claims": [
+      "c69"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d6",
+   "question": "כמה שילמה גוגל על ווייז?",
+   "versions": [
+    {
+     "says": "לפי הדיווח בעת ההודעה המשותפת על העסקה, 1.1 מיליארד דולר",
+     "claims": [
+      "c1"
+     ]
+    },
+    {
+     "says": "לפי מקורות בחברה, מיליארד דולר במזומן ועוד 100 מיליון דולר בתשלומי ביצועים לעובדים",
+     "claims": [
+      "c2"
+     ]
+    },
+    {
+     "says": "לפי ברדין בלינקדאין, 1.15 מיליארד דולר",
+     "claims": [
+      "c14"
+     ]
+    },
+    {
+     "says": "לפי Jewish News, 1.15 מיליארד דולר",
+     "claims": [
+      "c39"
+     ]
+    },
+    {
+     "says": "לפי ויקיפדיה, 1.3 מיליארד דולר",
+     "claims": [
+      "c73"
+     ]
+    },
+    {
+     "says": "לפי גלובס, כמעט מיליארד דולר",
+     "claims": [
+      "c54"
+     ]
+    },
+    {
+     "says": "לפי CNBC, יותר ממיליארד דולר",
+     "claims": [
+      "c30"
+     ]
+    },
+    {
+     "says": "הערכות בתקשורת נעו בין 1.1 ל-1.3 מיליארד דולר",
+     "claims": [
+      "c15"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d7",
+   "question": "כמה משתמשים יש לווייז?",
+   "versions": [
+    {
+     "says": "לפי CNBC, יותר מ-140 מיליון משתמשים חודשיים",
+     "claims": [
+      "c29"
+     ]
+    },
+    {
+     "says": "לפי Jewish News, 150 מיליון משתמשים חודשיים",
+     "claims": [
+      "c38"
+     ]
+    },
+    {
+     "says": "לפי ברדין בגלובס, 150 מיליון משתמשים חודשיים",
+     "claims": [
+      "c62"
+     ]
+    },
+    {
+     "says": "לפי גלובס, ב-2023 כ-150 מיליון איש בעולם מדי יום",
+     "claims": [
+      "c64"
+     ]
+    }
+   ]
+  }
+ ],
+ "unknowns": [],
+ "claims": [
+  {
+   "id": "c38",
+   "text": "ווייז נולדה ב-2007 כפתרון לעומסי תנועה בתל אביב, עיר הולדתו של לוין, ויש לה 150 מיליון משתמשים חודשיים.",
+   "source": "src1",
+   "quote": "Waze was born in 2007 as a solution to help deal with congestion issues in Tel Aviv, Levine’s home town.",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c41",
+   "text": "ווייז נוסדה על ידי הישראלים אורי לוין, אהוד שבתאי ועמיר שנער, שכולם עבדו בעבר בקומברס.",
+   "source": "src1",
+   "quote": "Levine founded Waze alongside fellow Israelis Ehud Shabtai and Amir Shinar. All three had at some point worked at technology company Comverse.",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c47",
+   "text": "אהוד שבתאי היה נלהב ממכשיר GPS שקיבל מחבר והחליט לכתוב אפליקציה לשיתוף מידע על מצלמות מהירות.",
+   "source": "src2",
+   "quote": "He was enthusiastic about the product, and decided to write an application that would allow people to share information about speed cameras.",
+   "status": "confirmed",
+   "locator": "שורה 41"
+  },
+  {
+   "id": "c50",
+   "text": "עמיר שנער התחיל בווייז כאחד מיותר מ-1,500 מתנדבים שמיפו את ישראל בשלבים הראשונים.",
+   "source": "src2",
+   "quote": "He started at Waze as one of more than 1,500 volunteers who mapped Israel in the early stages of the application.",
+   "status": "confirmed",
+   "locator": "שורה 44"
+  },
+  {
+   "id": "c30",
+   "text": "גוגל רכשה את ווייז ב-2013, לפי הדיווחים תמורת יותר ממיליארד דולר.",
+   "source": "src3",
+   "quote": "In 2013 – shortly after the app made the inaugural CNBC Disruptor 50 list – Alphabet's Google acquired Waze, reportedly for more than $1 billion.",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c29",
+   "text": "לפי CNBC, מה שהיה פעם סטארטאפ ישראלי קטן מונה היום יותר מ-140 מיליון משתמשים חודשיים בעולם.",
+   "source": "src3",
+   "quote": "What was once a small Israeli startup now has more than 140 million monthly users worldwide.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c66",
+   "text": "המפה שנבנתה בישראל לקחה כשלוש שנים וכיסתה 35,126 קילומטרים.",
+   "source": "src4",
+   "quote": "The completed map took about three years to build and now covers 35,126 kilometers in Israel.",
+   "status": "confirmed",
+   "locator": "שורה 13"
+  },
+  {
+   "id": "c78",
+   "text": "ב-2013 הענקי איגוד GSM לווייז את פרס אפליקציית המובייל הטובה ביותר.",
+   "source": "src5",
+   "quote": "In 2013, the GSM Association, a trade association of mobile network operators, gave Waze the Best Overall Mobile App award",
+   "status": "confirmed",
+   "locator": "שורה 59"
+  },
+  {
+   "id": "c48",
+   "text": "חברת מפה טענה שהפר זכויות יוצרים והייתה מוכנה לקנות ממנו את האפליקציה אך לא לאפשר שימוש במפות שלה.",
+   "source": "src2",
+   "quote": "Mapa was prepared to buy the application from him, but would not allow him to use the maps.",
+   "status": "confirmed",
+   "locator": "שורה 41"
+  },
+  {
+   "id": "c49",
+   "text": "שבתאי החליט למחוק את המפות של מפה וליצור מפות חדשות לגמרי.",
+   "source": "src2",
+   "quote": "At this point, he decided to delete Mapa's maps and create completely new ones.",
+   "status": "confirmed",
+   "locator": "שורה 41"
+  },
+  {
+   "id": "c57",
+   "text": "בתנאי השימוש של FreeMap Israel ב-2006 נכתב שמטרת הפרויקט ליצור מאגר דיגיטלי חופשי של מפת ישראל בעזרת קהילת המשתמשים.",
+   "source": "src6",
+   "quote": "The purpose of the project is to create a free digital database of the map of Israel with the help of the community of users",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c28",
+   "text": "מאלוי סיפר שבתחילת הדרך המייסדים השתמשו במכניקות משחק כדי למשוך אנשים לאפליקציה.",
+   "source": "src7",
+   "quote": "In the beginning, the guys used game mechanics just to get people to come on the app because we didn’t have much for people to do.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c72",
+   "text": "לפי ויקיפדיה, ווייז הוקמה על ידי היזמים הישראלים שבתאי, שנער ולוין, ותיקי יחידה 8200.",
+   "source": "src5",
+   "quote": "a company founded by Israeli entrepreneurs Ehud Shabtai, Amir Shinar, and Uri Levine, who are also veterans of Unit 8200.",
+   "status": "confirmed",
+   "locator": "שורה 34"
+  },
+  {
+   "id": "c42",
+   "text": "לוין מייחס את הצלחתו בחלקו לשש שנות שירות בצה\"ל.",
+   "source": "src1",
+   "quote": "Father-of-five Levine credits his success in part to his six years serving in the Israel Defense Forces.",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c51",
+   "text": "כשווייז הושקה ב-2009 תיאר אורי לוין את הפוטנציאל למהפכה עולמית שמקורה בישראל.",
+   "source": "src2",
+   "quote": "with the potential of a global revolution which originates in Israel",
+   "status": "confirmed",
+   "locator": "שורה 47"
+  },
+  {
+   "id": "c21",
+   "text": "ג'ון מאלוי מ-BlueRun Ventures הוביל את ההשקעה המקורית של 14 מיליון דולר בווייז.",
+   "source": "src7",
+   "quote": "John Malloy, a general partner with BlueRun Ventures, who led the original $14 million investment in Waze.",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c23",
+   "text": "מאלוי סיפר שההימור של המשקיעים היה שהמייסדים יוכלו לשבש את הקרטוגרפיה המסורתית ושהעיתוי מתאים.",
+   "source": "src7",
+   "quote": "Our bet was basically that they could disrupt old-fashioned cartography, and that they were at just the right time to begin trying it.",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c24",
+   "text": "לדברי מאלוי, אנשי תעשיית המפות המסורתית טענו לאורך השנים שמה שווייז רצתה לעשות הוא בלתי אפשרי.",
+   "source": "src7",
+   "quote": "Throughout the history of this company, anytime you’d talk to people from the traditional map industry they’d argue what Waze wanted to do was impossible.",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c40",
+   "text": "לוין סיפר שב-2010, כשחיפשו סבב גיוס שני, נותר להם כסף לחודש בערך אך הצליחו לגייס.",
+   "source": "src1",
+   "quote": "We were about a month away from running out but were able to raise the capital.",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c18",
+   "text": "ווייז גייסה עוד 30 מיליון דולר ב-2011, וסך הגיוס הפרטי הגיע ל-67 מיליון דולר.",
+   "source": "src8",
+   "quote": "It went on to raise a further $30 million in 2011, which took it to $67 million in private funding in total.",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c16",
+   "text": "ברדין כתב שאחת הטעויות של ווייז הייתה ההערכה של סבב A, שדילל משמעותית את המייסדים.",
+   "source": "src8",
+   "quote": "One of Waze’s mistakes was the valuation of its A round which significantly diluted the founders.",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c27",
+   "text": "לדברי מאלוי, פריצת הדרך הגיעה כשנועם ברדין נכנס כמנכ\"ל ועבר לקליפורניה.",
+   "source": "src7",
+   "quote": "But our big break was when Noam Bardin came in as CEO and he moved to California.",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c70",
+   "text": "ברדין אמר שכשהתחיל בווייז היו בה כ-14,000 משתמשים, והיום יש 140 מיליון משתמשים פעילים חודשיים.",
+   "source": "src9",
+   "quote": "When Bardin started at Waze, he said the company had maybe 14,000 users. Today, Waze has 140 million monthly active users",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c19",
+   "text": "ברדין כתב שכשגוגל השיקה ניווט חינמי, המשקיעים הישראלים הציעו להתמקד בסינגפור או ברומניה כדי להימנע מעימות בארה\"ב.",
+   "source": "src8",
+   "quote": "When Google came out with free Turn-by-Turn navigation, stealing our thunder, the response of our Israeli investors was that we should focus on Singapore or Romania instead of the US",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c67",
+   "text": "מ-2009 ווייז התרחבה ל-4.5 מיליון משתמשים ביותר מ-45 מדינות.",
+   "source": "src4",
+   "quote": "Since 2009, Waze has expanded to 4.5 million users in over 45 countries; 27.7% are active users.",
+   "status": "confirmed",
+   "locator": "שורה 27"
+  },
+  {
+   "id": "c46",
+   "text": "לפי VentureBeat ב-2012, ל-ווייז היו יותר מ-15 מיליון משתמשים ונתוני התנועה שלה אמינים מספיק כדי להזין דיווחי תנועה בטלוויזיה המקומית.",
+   "source": "src10",
+   "quote": "With more than 15 million users, Waze’s traffic data has become reliable enough that it’s even powering local TV traffic reports.",
+   "status": "confirmed",
+   "locator": "שורה 42"
+  },
+  {
+   "id": "c22",
+   "text": "לפי פורצ'ן, גוגל גברה על מציעות מוקדמות כמו אפל ופייסבוק.",
+   "source": "src7",
+   "quote": "beating out earlier suitors like Apple (AAPL) and Facebook (FB)",
+   "status": "confirmed",
+   "locator": "שורה 1"
+  },
+  {
+   "id": "c3",
+   "text": "דווח כי עסקה בין ווייז לפייסבוק קרסה בגלל התעקשות פייסבוק שצוות ווייז יעבור לאחד ממתקני המו\"פ שלה באירופה או בארה\"ב.",
+   "source": "src11",
+   "quote": "a deal between Waze and Facebook had broken down over Facebook’s insistence that the Waze team relocate to one of its existing R&D facilities in Europe or the US",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c4",
+   "text": "לפי הדיווחים, הנהגת ווייז התעקשה להישאר בישראל.",
+   "source": "src11",
+   "quote": "Waze’s leadership reportedly insisted on remaining in Israel.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c63",
+   "text": "ברדין כתב שעסקת פייסבוק הייתה אמורה להיסגר ב-25 דולר למניה.",
+   "source": "src12",
+   "quote": "At the time, the Facebook deal was supposed to close for $25 per share.",
+   "status": "confirmed",
+   "locator": "שורה 23"
+  },
+  {
+   "id": "c1",
+   "text": "גוגל ווייז הודיעו במשותף שהחברה הישראלית נמכרה לגוגל תמורת 1.1 מיליארד דולר.",
+   "source": "src11",
+   "quote": "Google and Waze mutually announcing that the Israeli company had sold itself to the search engine giant for $1.1 billion.",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c9",
+   "text": "נועם ברדין כתב שהנפקה מסיטה תשומת לב לבנקאים ולעורכי דין, ושהם העדיפו להקדיש את זמנם לקהילת ווייז.",
+   "source": "src11",
+   "quote": "choosing the path of an IPO often shifts attention to bankers, lawyers and the happiness of Wall Street, and we decided we’d rather spend our time with you, the Waze community.",
+   "status": "confirmed",
+   "locator": "שורה 17"
+  },
+  {
+   "id": "c6",
+   "text": "לדברי אנליסטים רבים, המניע של גוגל לרכישה היה לא לשפר את האפליקציה שלה אלא למנוע מפייסבוק פרס.",
+   "source": "src11",
+   "quote": "Although Waze’s 50 million users will help beef up Google Maps, many analysts believe that Google’s motivation in buying Waze was not to improve its own app",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c59",
+   "text": "אחד התנאים שהמייסדים התעקשו עליו היה שווייז תישאר יחידה עסקית אוטונומית בתוך גוגל ותמשיך לפעול מישראל.",
+   "source": "src12",
+   "quote": "One of the conditions that Waze founders insisted on was that the app would remain an autonomous business unit within Google and would continue to operate from Israel.",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c5",
+   "text": "סגן נשיא בגוגל, בריאן מקלנדון, כתב שצוות פיתוח המוצר של ווייז יישאר בישראל ויפעל בנפרד בינתיים.",
+   "source": "src11",
+   "quote": "the Waze product development team will remain in Israel and operate separately for now.",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c13",
+   "text": "אורי לוין, מייסד שותף ונשיא ווייז, אמר שהחברה גאה מאוד בשורשיה הישראליים ושלא צפה לעבור למקום אחר.",
+   "source": "src11",
+   "quote": "Waze co-founder and President Uri Levine said that the company is very proud of its Israeli roots, and that he did not foresee moving anywhere.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c62",
+   "text": "ברדין כתב שגוגל נתנה לווייז עצמאות לגדול מ-10 מיליון משתמשים חודשיים ל-150 מיליון.",
+   "source": "src12",
+   "quote": "we had a better click with the engineering team, they gave us independence to grow from 10 million monthly users to 150 million",
+   "status": "confirmed",
+   "locator": "שורה 23"
+  },
+  {
+   "id": "c71",
+   "text": "ברדין ציין שרבים ציפו שווייז תיכשל תחת גוגל תוך שנה.",
+   "source": "src9",
+   "quote": "Bardin noted that many expected Waze to fail under Google’s ownership within a year.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c37",
+   "text": "סוכנות FEMA השתמשה באפליקציה בסופת סנדי כדי לספק מידע על מיקומי דלק בזמן מחסור.",
+   "source": "src3",
+   "quote": "The app was used by FEMA during Hurricane Sandy to provide information on available fuel locations in the midst of gas shortages",
+   "status": "confirmed",
+   "locator": "שורה 16"
+  },
+  {
+   "id": "c34",
+   "text": "ווייז דיווחה באפריל 2020 שמשתמשיה ברחבי העולם נהגו 60% פחות קילומטרים לעומת חודשיים קודם.",
+   "source": "src3",
+   "quote": "Waze reported in April 2020 that its users across the globe were driving 60% fewer miles compared to two months prior",
+   "status": "confirmed",
+   "locator": "שורה 13"
+  },
+  {
+   "id": "c10",
+   "text": "ראש הממשלה נתניהו איחל לברדין בטלפון \"מזל טוב\" ו\"מברוק\".",
+   "source": "src11",
+   "quote": "Netanyahu wished Bardin a “mazal tov” and a “mabrouk,” the Arabic term for congratulations.",
+   "status": "confirmed",
+   "locator": "שורה 19"
+  },
+  {
+   "id": "c12",
+   "text": "נתניהו ציין שמיליארד דולר צפוי להיכנס בקרוב לארץ.",
+   "source": "src11",
+   "quote": "by the fact that a billion dollars would soon be brought into the country",
+   "status": "confirmed",
+   "locator": "שורה 20"
+  },
+  {
+   "id": "c11",
+   "text": "לפי הכתבה, ישראלים יכולים להתגאות באחת מאפליקציות המובייל החדשניות ביותר, שפותחה בישראל ונמכרה בסכום הגבוה ביותר אי פעם לשירות צרכני.",
+   "source": "src11",
+   "quote": "Israelis can be proud that one of the most innovative mobile apps, developed right here, is fetching the largest amount of money ever for a consumer-oriented service",
+   "status": "confirmed",
+   "locator": "שורה 19"
+  },
+  {
+   "id": "c25",
+   "text": "מאלוי סיפר שהתסכול הישראלי הממושך מהיעדר חברת טכנולוגיה צרכנית פורצת דרך גרם לתחושה שווייז היא אוצר לאומי.",
+   "source": "src7",
+   "quote": "Maybe Silicon Valley people don’t understand it, but to us this felt like a national treasure to Israel.",
+   "status": "confirmed",
+   "locator": "שורה 21"
+  },
+  {
+   "id": "c58",
+   "text": "לפי גלובס, כל אחד מ-100 העובדים שעזרו להקים את החברה קיבל יותר ממיליון דולר.",
+   "source": "src12",
+   "quote": "Each of the 100 employees who had helped to found the company received more than $1 million while the entrepreneurs received tens of millions of dollars",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c39",
+   "text": "ווייז נמכרה לגוגל ב-2013 תמורת 1.15 מיליארד דולר, ולוין עזב למחרת.",
+   "source": "src1",
+   "quote": "When Waze was sold to Google in 2013 for $1.15 billion, Levine left the next day",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c20",
+   "text": "ברדין עבר לגוגל אחרי הרכישה, בניגוד לאורי לוין שמנהל כעת את FeeX.",
+   "source": "src8",
+   "quote": "Bardin transitioned over to Google following the Waze acquisition, unlike his fellow co-founder Uri Levine, who is now running FeeX",
+   "status": "confirmed",
+   "locator": "שורה 13"
+  },
+  {
+   "id": "c44",
+   "text": "לוין אמר שווייז הייתה מגדלור לתעשייה ושיזמים רבים אומרים לו שהם רוצים להיות גדולים ממנה.",
+   "source": "src1",
+   "quote": "Waze was a beacon to the rest of the industry and acting as a target, with many entrepreneurs telling me they want to be bigger than Waze",
+   "status": "confirmed",
+   "locator": "שורה 17"
+  },
+  {
+   "id": "c8",
+   "text": "בארה\"ב ביקרו חלק מהמבקרים וקראו למשרד המשפטים לעצור את העסקה משום שהיא תחזק את שליטת גוגל בשירותי המובייל.",
+   "source": "src11",
+   "quote": "some critics are calling on the Department of Justice to put a stop to the deal, as it will give Google even greater domination in the mobile services area.",
+   "status": "confirmed",
+   "locator": "שורה 15"
+  },
+  {
+   "id": "c7",
+   "text": "לפי דיווח ב\"דה מרקר\", רגולטורים אירופיים דרשו ערבויות שגוגל לא תוסיף את מידע המשתמשים של ווייז למאגר המשתמשים שלה.",
+   "source": "src11",
+   "quote": "European regulators as demanding “guarantees” that Google will not add Waze’s user information to its own user database",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c74",
+   "text": "רשות הסחר הפדרלית בארה\"ב החליטה בהמשך שלא לערער על העסקה.",
+   "source": "src5",
+   "quote": "The FTC later decided that it would not challenge the deal",
+   "status": "confirmed",
+   "locator": "שורה 62"
+  },
+  {
+   "id": "c32",
+   "text": "האפליקציה זכתה לביקורת על כך שהיא עלולה להסיח את דעת נהגים שנדרשים להשתמש בטלפון בזמן הנהיגה כדי לדווח.",
+   "source": "src3",
+   "quote": "The app's innovation has had led to backlash in the past, for potentially distracting drivers, who must use their phones behind the wheel to make reports on Waze.",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c77",
+   "text": "ב-2014 קצין משטרת לוס אנג'לס צ'רלי בק התלונן על תכונת איתור המשטרה באפליקציה.",
+   "source": "src5",
+   "quote": "In December 2014, in a letter sent to Google, Los Angeles Police Department Chief Charlie Beck complained about the police locator feature",
+   "status": "confirmed",
+   "locator": "שורה 87"
+  },
+  {
+   "id": "c31",
+   "text": "ב-2018 חוקקי חוק בלוס אנג'לס איימו בצעדים משפטיים על ווייז בשל קיצורי דרך שגרמו לעומס בכבישים צדדיים.",
+   "source": "src3",
+   "quote": "In 2018, it faced threats of legal action by Los Angeles lawmakers for suggesting shortcuts that ended up causing more congestion on side roads not prepared to handle high amounts of traffic.",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c33",
+   "text": "אורי לוין השיב לביקורת ואמר שווייז מפזרת מחדש את התנועה ליצירת מצב תנועה טוב יותר לכולם.",
+   "source": "src3",
+   "quote": "In that sense, Waze redistributes traffic to create a better traffic situation for everyone",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c75",
+   "text": "עיראק הודיעה על איסור על ווייז בשל מקורה הישראלי, כיוון שאין לה יחסים דיפלומטיים עם ישראל.",
+   "source": "src5",
+   "quote": "Iraq announced it would be banning Waze due to its Israeli origin, as Iraq does not have diplomatic ties with Israel.",
+   "status": "confirmed",
+   "locator": "שורה 93"
+  },
+  {
+   "id": "c52",
+   "text": "תביעה ייצוגית-שותפותית ושל זכויות יוצרים בהיקף של מיליוני שקלים הוגשה נגד ווייז בבית המשפט המחוזי בתל אביב.",
+   "source": "src6",
+   "quote": "A multi-million-shekel partnership and copyright lawsuit has been filed against popular navigating app Waze in the Tel Aviv District Court.",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c53",
+   "text": "התובעים טוענים שהמייסד אהוד שבתאי נטל לעצמו את הפרויקט.",
+   "source": "src6",
+   "quote": "that Waze cofounder Ehud Shabtai appropriated the project for himself",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c55",
+   "text": "בית המשפט העליון דחה את הערעור על ההחלטה שלא לנהל תובענה ייצוגית, אך הבהיר שהטענות עצמן אינן חסרות בסיס.",
+   "source": "src6",
+   "quote": "but made it clear that the allegations themselves were not groundless",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c56",
+   "text": "ווייז הגיבה שהיא מגיבה בעניינים משפטיים רק בבית המשפט ולא בתקשורת.",
+   "source": "src6",
+   "quote": "We comment on legal matters only in court, not in the media.",
+   "status": "confirmed",
+   "locator": "שורה 24"
+  },
+  {
+   "id": "c35",
+   "text": "ווייז פיטרה 5% מכוח האדם העולמי שלה בספטמבר 2020 וסגרה לצמיתות משרדים באסיה-פסיפיק ובאמריקה הלטינית.",
+   "source": "src3",
+   "quote": "Waze laid off 5% of its global workforce in September 2020 and permanently closed offices in the Asia-Pacific and Latin America regions.",
+   "status": "confirmed",
+   "locator": "שורה 13"
+  },
+  {
+   "id": "c36",
+   "text": "ווייז סגרה את שירות הנסיעות המשותפות Waze Carpool בספטמבר.",
+   "source": "src3",
+   "quote": "The company also shutdown Waze Carpool in September, a service connecting Wazers with similar commutes to carpool.",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c60",
+   "text": "המנכ\"ל לשעבר נועם ברדין עזב את החברה ב-2020 בנסיבות שנויות במחלוקת, לאחר חיכוך על תרבות העבודה בגוגל.",
+   "source": "src12",
+   "quote": "former CEO Noam Bardin left the company in controversial circumstances in 2020, after friction that arose over the corporate culture at Google",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c61",
+   "text": "ברדין התלונן על תרבות הנכונות הפוליטית בגוגל וטען שגוגל לא מקדמת מספיק את ווייז בחנויות.",
+   "source": "src12",
+   "quote": "Bardin also lamented the culture of political correctness at the tech giant, and insisted that Google was not promoting the Waze app sufficiently in stores",
+   "status": "confirmed",
+   "locator": "שורה 22"
+  },
+  {
+   "id": "c65",
+   "text": "לפי ג'רוזלם פוסט, אהוד שבתאי קיבל מכשיר GPS ליום הולדתו ב-2005 ואז החל לפתח את ווייז.",
+   "source": "src4",
+   "quote": "When Software engineer Ehud Shabtai received a hand held device with a GPS for his birthday in 2005",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c68",
+   "text": "שבתאי הקים עם הישראלים עמיר שנער ואורי לוין את ווייז והשיק את גרסת הבטא בישראל ב-2008.",
+   "source": "src4",
+   "quote": "Shabtai teamed up with fellow Israelis Amir Shinar, now vice-president of research and development, and Uri Levine, president, to found Waze and launch the beta version of the program in Israel in 2008.",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c69",
+   "text": "ברדין לא הקים את החברה; המייסדים הם שבתאי, שנער ולוין שהקימו את ווייז בישראל ב-2008.",
+   "source": "src9",
+   "quote": "That credit goes to Ehud Shabtai, Amir Shinar and Uri Levine who started Waze in Israel in 2008.",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c17",
+   "text": "ווייז גייסה 12 מיליון דולר בסבב A במרץ 2008.",
+   "source": "src8",
+   "quote": "Waze raised its $12 million Series A funding round in March 2008.",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c76",
+   "text": "לפי ויקיפדיה, ב-2010 החברה גייסה 25 מיליון דולר בסבב מימון שני.",
+   "source": "src5",
+   "quote": "In 2010, the company raised US$25 million in the second round of funding",
+   "status": "confirmed",
+   "locator": "שורה 57"
+  },
+  {
+   "id": "c14",
+   "text": "נועם ברדין, מנכ\"ל ומייסד שותף של ווייז, אישר בפוסט בלינקדאין שגוגל הסכימה לשלם 1.15 מיליארד דולר.",
+   "source": "src8",
+   "quote": "A blog post on LinkedIn from Noam Bardin, who is CEO and co-founder of Waze, confirms that Google agreed to a $1.15 billion deal to buy the company.",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c2",
+   "text": "לפי מקורות בחברה, גוגל שילמה מיליארד דולר במזומן ועוד 100 מיליון דולר בתשלומי ביצועים במזומן ובמניות גוגל לעובדים.",
+   "source": "src11",
+   "quote": "Google won, buying Waze for $1 billion in cash, with an additional $100 million in performance payouts in cash and Google stock for employees, company sources said.",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c73",
+   "text": "לפי ויקיפדיה, גוגל רכשה את ווייז ביוני 2013 תמורת 1.3 מיליארד דולר.",
+   "source": "src5",
+   "quote": "In June 2013, Waze was acquired by Google for $1.3 billion.",
+   "status": "confirmed",
+   "locator": "שורה 61"
+  },
+  {
+   "id": "c54",
+   "text": "לפי גלובס, גוגל ישראל רכשה את האפליקציה משבתאי ב-2013 תמורת כמעט מיליארד דולר.",
+   "source": "src6",
+   "quote": "which acquired the app from Shabtai in 2013 for nearly $1 billion",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c15",
+   "text": "הערכות בתקשורת לגבי מחיר העסקה נעו בין 1.1 ל-1.3 מיליארד דולר.",
+   "source": "src8",
+   "quote": "media estimates had varied from $1.1 billion to $1.3 billion",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c64",
+   "text": "לפי גלובס, ב-2023 משתמשים בווייז כ-150 מיליון איש בעולם מדי יום.",
+   "source": "src12",
+   "quote": "which is used by about 150 million people worldwide every day",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  }
+ ],
+ "sources": [
+  {
+   "id": "src1",
+   "label": "Jewish News (UK), על אורי לוין",
+   "url": "https://www.jewishnews.co.uk/where-theres-a-will-theres-a-waze/",
+   "kind": "press"
+  },
+  {
+   "id": "src2",
+   "label": "Globes, The Waze millionaires",
+   "url": "https://en.globes.co.il/en/article-1000851150",
+   "kind": "press"
+  },
+  {
+   "id": "src3",
+   "label": "CNBC, 1.12.2022",
+   "url": "https://www.cnbc.com/2022/12/01/how-googles-waze-changed-from-its-early-days-as-car-travel-is-remade.html",
+   "kind": "press"
+  },
+  {
+   "id": "src4",
+   "label": "Jerusalem Post",
+   "url": "https://www.jpost.com/Metro/Features/Waze-to-make-commuting-easier",
+   "kind": "press"
+  },
+  {
+   "id": "src5",
+   "label": "Wikipedia, Waze",
+   "url": "https://en.wikipedia.org/wiki/Waze",
+   "kind": "reference"
+  },
+  {
+   "id": "src6",
+   "label": "Globes, Developers sue Waze founder for share of IP",
+   "url": "https://en.globes.co.il/en/article-developers-sue-waze-founder-for-share-of-ip-1001316612",
+   "kind": "press"
+  },
+  {
+   "id": "src7",
+   "label": "Fortune, 13.6.2013",
+   "url": "https://fortune.com/2013/06/13/early-waze-backer-maps-out-investment-thesis/",
+   "kind": "press"
+  },
+  {
+   "id": "src8",
+   "label": "The Next Web, 6.4.2014",
+   "url": "https://thenextweb.com/news/waze-ceo-confirms-google-paid-1-15b-for-the-company-hints-investor-pressure-forced-deal",
+   "kind": "press"
+  },
+  {
+   "id": "src9",
+   "label": "TechCrunch, 10.11.2020",
+   "url": "https://techcrunch.com/2020/11/10/waze-ceo-noam-bardin-to-leave-company-in-early-2021",
+   "kind": "press"
+  },
+  {
+   "id": "src10",
+   "label": "Globes, VentureBeat names Waze founder in top ten mobile industry shapers",
+   "url": "https://en.globes.co.il/en/article-1000735555",
+   "kind": "press"
+  },
+  {
+   "id": "src11",
+   "label": "Times of Israel, 2013",
+   "url": "https://www.timesofisrael.com/you-have-reached-your-destination-why-waze-went-with-google/amp/",
+   "kind": "press"
+  },
+  {
+   "id": "src12",
+   "label": "Globes, Waze fails to reach its destination",
+   "url": "https://en.globes.co.il/en/article-1001451145",
+   "kind": "press"
+  }
+ ],
+ "media": [
+  {
+   "id": "m1",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Utilisation%20de%20Waze%20via%20Apple%20CarPlay.png?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Utilisation_de_Waze_via_Apple_CarPlay.png",
+   "source_name": "Wikimedia Commons",
+   "credit": "Futurhit12",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "מסך ניווט של Waze המוצג דרך Apple CarPlay, עם מסלול, מגבלת מהירות ודיווחים של משתמשים על המפה.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2022-03-08",
+   "width": 800,
+   "height": 480
+  },
+  {
+   "id": "m2",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Waze%20app%20screenshot.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Waze_app_screenshot.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "DirtyPotatoEditor",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "צילום מסך של אפליקציית הניווט Waze, עם הוראת פנייה ימינה ומסלול על המפה.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2022-06-06",
+   "width": 1125,
+   "height": 2436
+  },
+  {
+   "id": "m3",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Waze%20Budapesten.PNG?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Waze_Budapesten.PNG",
+   "source_name": "Wikimedia Commons",
+   "credit": "Waze",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "צילום מסך של Waze בבודפשט, עם משתמשים ואירועי תנועה על המפה.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "2011-05-31",
+   "width": 640,
+   "height": 960
+  },
+  {
+   "id": "m4",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Waze%20W10%20Event%20%2815412760511%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Waze_W10_Event_%2815412760511%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "René C. Nielsen from Brooklyn, United States",
+   "licence": "CC BY-SA 2.0",
+   "hosting": "hotlink",
+   "caption": "שלט מואר עם סמל הרוח המחייכת ושם Waze, באירוע של Waze בניו יורק.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "date": "2014-10-01",
+   "width": 2174,
+   "height": 1520
+  },
+  {
+   "id": "m5",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Waze%20logo.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Waze_logo.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "waze Mobile",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "הלוגו הישן של Waze: דמות מחייכת על גלגלים לצד השם.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "2011-06-01",
+   "width": 1772,
+   "height": 572
+  },
+  {
+   "id": "m6",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Waze%20logo%202022.png?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Waze_logo_2022.png",
+   "source_name": "Wikimedia Commons",
+   "credit": "UnknownUnknown",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "הלוגו של Waze משנת 2022, בשחור ולבן.",
+   "illustrates": [],
+   "date": "2022-06-06",
+   "width": 1024,
+   "height": 296
+  },
+  {
+   "id": "m7",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/WikiBrasilEditorEntrada.png?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:WikiBrasilEditorEntrada.png",
+   "source_name": "Wikimedia Commons",
+   "credit": "Thiagob76",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "מסך הכניסה לעורך המפות של Waze בפורטוגזית של ברזיל, שבו מתנדבים מעדכנים את המפה.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "2014-05-12",
+   "width": 701,
+   "height": 460
+  },
+  {
+   "id": "m8",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/2018%20Triumph%20Tiger%201200%20XRt%20%284%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:2018_Triumph_Tiger_1200_XRt_%284%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Cjp24",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "סמארטפון על לוח המחוונים של אופנוע טריומף, עם מסך ניווט של Waze.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2021-10-19",
+   "width": 4608,
+   "height": 3456
+  },
+  {
+   "id": "m9",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tour%20de%20France%202022%2C%20%C3%A9tape%203%20the%20caravan%20at%20Genner%2C%20Denmark%20%28hh%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Tour_de_France_2022%2C_%C3%A9tape_3_the_caravan_at_Genner%2C_Denmark_%28hh%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Thomas Dahlstrøm Nielsen",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "רכב של שיירת הפרסומות של סיבוב צרפת, ועל גגו שלט עם סמל Waze, לצד צופים בצד הדרך.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2022-07-03",
+   "width": 6000,
+   "height": 4000
+  },
+  {
+   "id": "m10",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=XhZrCNx0Hxc",
+   "youtube_id": "XhZrCNx0Hxc",
+   "source_page": "https://www.youtube.com/watch?v=XhZrCNx0Hxc",
+   "source_name": "YouTube",
+   "credit": "PublikaOnlineTV",
+   "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "כתבה ברומנית על רכישת סטארטאפ הניווט הישראלי Waze בידי גוגל בסכום של יותר ממיליארד דולר.",
+   "illustrates": [
+    "c30"
+   ],
+   "spoken": "ro",
+   "audio_tracks": [
+    "ro"
+   ]
+  },
+  {
+   "id": "m11",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=c0QsCU7nrOY",
+   "youtube_id": "c0QsCU7nrOY",
+   "source_page": "https://www.youtube.com/watch?v=c0QsCU7nrOY",
+   "source_name": "YouTube",
+   "credit": "Uri Levine",
+   "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "אורי לוין, ממייסדי Waze, מספר על דרכה של החברה, בסרטון מהערוץ שלו.",
+   "illustrates": [],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m12",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=j65UCIMbDCk",
+   "youtube_id": "j65UCIMbDCk",
+   "source_page": "https://www.youtube.com/watch?v=j65UCIMbDCk",
+   "source_name": "YouTube",
+   "credit": "Uri Levine",
+   "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "אורי לוין מסביר כיצד נבנתה מפת Waze: מהמפה הריקה ועד מיפוי בעזרת המשתמשים, בסרטון מהערוץ שלו.",
+   "illustrates": [],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m13",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=blmKfPN3PRA",
+   "youtube_id": "blmKfPN3PRA",
+   "source_page": "https://www.youtube.com/watch?v=blmKfPN3PRA",
+   "source_name": "YouTube",
+   "credit": "The Open University of Israel",
+   "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "הרצאה של אורי לוין, מייסד שותף ונשיא Waze, באוניברסיטה הפתוחה על הטכנולוגיה שמאחורי Waze ועל היזמות שמאחורי הקלעים.",
+   "illustrates": [],
+   "spoken": "he",
+   "audio_tracks": [
+    "he"
+   ]
+  },
+  {
+   "id": "m14",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=mc6OkwJn7Io",
+   "youtube_id": "mc6OkwJn7Io",
+   "source_page": "https://www.youtube.com/watch?v=mc6OkwJn7Io",
+   "source_name": "YouTube",
+   "credit": "Comparably",
+   "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "ראיון עם מנכ\"ל Waze על הדרך מסטארטאפ לתופעה עולמית ועל הרכישה בידי גוגל.",
+   "illustrates": [],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m16",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/2022-07-08%20-%20TDF%20-%20Belonchamp%20-%20327.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:2022-07-08_-_TDF_-_Belonchamp_-_327.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "A.BourgeoisP",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "רכב של Waze, שותפת התנועה הרשמית של סיבוב צרפת, עובר ליד צופים בצד הכביש ב-2022",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2022-07-08",
+   "width": 6000,
+   "height": 4000,
+   "role": "related"
+  },
+  {
+   "id": "m17",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/2022-07-08%20-%20TDF%20-%20Belonchamp%20-%20504.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:2022-07-08_-_TDF_-_Belonchamp_-_504.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "A.BourgeoisP",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "רכב \"בטיחות השיירה\" עם שלט Waze על הגג, בסיבוב צרפת 2022",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2022-07-08",
+   "width": 6000,
+   "height": 4000,
+   "role": "related"
+  },
+  {
+   "id": "m18",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/TdF%202023-08%20%28177%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:TdF_2023-08_%28177%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Cjp24",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "רכב \"בטיחות השיירה\" עם שלט Waze בראש שיירת הפרסומות, ליד טנדר של השיירה, סיבוב צרפת 2023",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2023-07-08",
+   "width": 2911,
+   "height": 1501,
+   "role": "related"
+  },
+  {
+   "id": "m20",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/TdF%202023-08%20%28284%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:TdF_2023-08_%28284%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Cjp24",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "מכונית תכולה בצבעי Waze עם סמל הרוח המחייכת, בסיבוב צרפת 2023",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2023-07-08",
+   "width": 3700,
+   "height": 2775,
+   "role": "related"
+  },
+  {
+   "id": "m21",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Uri%20Levine%202019.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Uri_Levine_2019.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Campus Party Brasil",
+   "licence": "CC BY-SA 2.0",
+   "hosting": "hotlink",
+   "caption": "אורי לוין, ממייסדי ווייז, מדבר במיקרופון באירוע, 2019",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "date": "2019-02-15",
+   "width": 6016,
+   "height": 4016,
+   "role": "deed"
+  },
+  {
+   "id": "m24",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Uri%20Levine%20visita%20el%20Centro%20de%20Control%20de%20Tr%C3%A1nsito%20de%20Medell%C3%ADn%20%2815661650047%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Uri_Levine_visita_el_Centro_de_Control_de_Tr%C3%A1nsito_de_Medell%C3%ADn_%2815661650047%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Secretaría de Movilidad de Medellín from Medellín, Colombia",
+   "licence": "CC BY 2.0",
+   "hosting": "hotlink",
+   "caption": "אורי לוין, ממייסדי ווייז, מצטלם עם שלושה גברים מול קיר המפות במרכז בקרת התנועה של מדיין",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/2.0",
+   "date": "2014-11-22",
+   "width": 5184,
+   "height": 3456,
+   "role": "deed"
+  },
+  {
+   "id": "m25",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Uri%20Levine%20visita%20el%20Centro%20de%20Control%20de%20Tr%C3%A1nsito%20de%20Medell%C3%ADn%20%2815821594996%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Uri_Levine_visita_el_Centro_de_Control_de_Tr%C3%A1nsito_de_Medell%C3%ADn_%2815821594996%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Secretaría de Movilidad de Medellín from Medellín, Colombia",
+   "licence": "CC BY 2.0",
+   "hosting": "hotlink",
+   "caption": "אורי לוין משוחח עם אנשי מרכז בקרת התנועה של מדיין, מול קיר מפות ענק",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/2.0",
+   "date": "2014-11-22",
+   "width": 5184,
+   "height": 3456,
+   "role": "deed"
+  },
+  {
+   "id": "m26",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Uri%20Levine%20visita%20el%20Centro%20de%20Control%20de%20Tr%C3%A1nsito%20de%20Medell%C3%ADn%20%2815845052351%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Uri_Levine_visita_el_Centro_de_Control_de_Tr%C3%A1nsito_de_Medell%C3%ADn_%2815845052351%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Secretaría de Movilidad de Medellín from Medellín, Colombia",
+   "licence": "CC BY 2.0",
+   "hosting": "hotlink",
+   "caption": "אורי לוין ואנשי צוות מול מסכי המפות והמצלמות במרכז בקרת התנועה של מדיין",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/2.0",
+   "date": "2014-11-22",
+   "width": 5184,
+   "height": 3456,
+   "role": "deed"
+  }
+ ],
+ "check": {
+  "passed": true,
+  "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
+  "checked_at": "2026-11-21T13:26:33Z",
+  "counts": {
+   "confirmed": 100,
+   "not_confirmed": 0,
+   "deleted_sentences": 10,
+   "first_round_confirmed": 97,
+   "first_round_contradicted": 3,
+   "first_round_unverifiable": 10
+  },
+  "note": "unverifiable sentences were deleted, contradicted ones fixed from the source and checked again"
+ },
+ "meta": {
+  "run": "waze-free-israeli-navigation-app",
+  "pipeline": "scripts/museum/museum_line.py",
+  "models": {
+   "research": "sonnet-5-5",
+   "extract": "sonnet-5-5",
+   "media": "sonnet-5-5",
+   "write": "opus-5-5 medium",
+   "check": "opus-5-5 medium",
+   "fix": "opus-5-5 medium"
+  },
+  "source_quality": {
+   "sources": 12,
+   "wikipedia": 1,
+   "strong": 11,
+   "ok": true,
+   "warnings": []
+  }
+ }
+}

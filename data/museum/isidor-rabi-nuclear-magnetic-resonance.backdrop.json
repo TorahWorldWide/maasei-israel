@@ -1,0 +1,56 @@
+{
+ "schema": "maasei-backdrop/1",
+ "slug": "isidor-rabi-nuclear-magnetic-resonance",
+ "media": "m31",
+ "img": "https://commons.wikimedia.org/wiki/Special:FilePath/John%20Jay%20lobby.jpg?width=1920",
+ "img_small": "https://commons.wikimedia.org/wiki/Special:FilePath/John%20Jay%20lobby.jpg?width=1080",
+ "why": "A deep, richly textured 1927 interior of John Jay Hall at Columbia, the university where Rabi did his work, which sets the academic world of his discovery without putting any face at the center.",
+ "chosen_by": "opus picker",
+ "alternates": [
+  "m30"
+ ],
+ "from": {
+  "average": "#676867",
+  "picked": "#676867",
+  "coloured_share": 0.0,
+  "lightness": 0.404
+ },
+ "palette": {
+  "paper": "#edf0ed",
+  "surface": "#f7f8f7",
+  "band": "#dfe5df",
+  "tint": "#d7e0d7",
+  "header": "#e4e9e4",
+  "rule": "#bcc7bc",
+  "text": "#182a18",
+  "text2": "#314931",
+  "accent": "#386738",
+  "meta": "#4a624a",
+  "tone": "#1b221b",
+  "shadow": "18, 33, 18"
+ },
+ "checks": {
+  "text_on_paper": 13.22,
+  "text_on_surface": 14.26,
+  "text_on_band": 11.86,
+  "text_on_tint": 11.23,
+  "text_on_header": 12.34,
+  "text2_on_paper": 8.59,
+  "text2_on_surface": 9.27,
+  "text2_on_band": 7.71,
+  "text2_on_tint": 7.3,
+  "text2_on_header": 8.02,
+  "accent_on_paper": 5.78,
+  "accent_on_surface": 6.23,
+  "accent_on_band": 5.18,
+  "accent_on_tint": 4.91,
+  "accent_on_header": 5.39,
+  "meta_on_paper": 5.83,
+  "meta_on_surface": 6.29,
+  "meta_on_band": 5.23,
+  "meta_on_tint": 4.95,
+  "meta_on_header": 5.44,
+  "paper_on_accent": 5.78
+ },
+ "passed": true
+}

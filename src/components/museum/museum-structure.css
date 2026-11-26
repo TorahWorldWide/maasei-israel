@@ -1,0 +1,229 @@
+/* Page structure (13.11, Tomer): collage on top, then ONE video viewer for all the deed's videos,
+   then the title and the stations. The text of every station sits in one centred reading column,
+   with or without media; a station's photos hang in the margins beside it on wide screens and
+   follow the text, two to a row, on narrow ones. Colours come from the look (--lk-*). */
+
+/* ---------- the video viewer ---------- */
+.mx-root .mx-viewer {
+  max-width: 880px;
+  margin: 32px auto 0;
+  padding: 0 16px;
+  outline: none;
+}
+.mx-root .mx-viewer:focus-visible { outline: 2px solid var(--lk-accent, var(--mx-gold)); outline-offset: 6px; }
+.mx-root .mx-viewer-stage {
+  display: grid;
+  grid-template-columns: 44px minmax(0, 1fr) 44px;
+  gap: 14px;
+  align-items: start;
+}
+.mx-root .mx-viewer-stage > .mx-figure { grid-column: 2; margin: 0; }
+.mx-root .mx-viewer-btn {
+  width: 44px;
+  height: 44px;
+  margin-top: calc((min(880px, 100vw) - 32px - 116px) * 9 / 32 - 22px);
+  display: grid;
+  place-items: center;
+  border-radius: 50%;
+  border: 1px solid var(--lk-rule, var(--mx-line));
+  background: var(--lk-surface, var(--mx-panel));
+  color: var(--lk-accent, var(--mx-gold));
+  font-size: 28px;
+  line-height: 1;
+  cursor: pointer;
+}
+.mx-root .mx-viewer-btn:hover { border-color: var(--lk-accent, var(--mx-gold)); }
+.mx-root .mx-viewer-prev { grid-column: 1; grid-row: 1; }
+.mx-root .mx-viewer-next { grid-column: 3; grid-row: 1; }
+.mx-root .mx-viewer-dots {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 2px;
+  margin-top: 10px;
+}
+.mx-root .mx-viewer-count { font-size: 14px; color: var(--lk-meta, rgba(191, 208, 255, 0.7)); margin-inline-end: 10px; }
+.mx-root .mx-viewer-dots button {
+  width: 24px;
+  height: 24px;
+  display: grid;
+  place-items: center;
+  border: 0;
+  background: none;
+  cursor: pointer;
+}
+.mx-root .mx-viewer-dots button::before {
+  content: "";
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--lk-rule, var(--mx-line));
+}
+.mx-root .mx-viewer-dots button[aria-selected="true"]::before { background: var(--lk-accent, var(--mx-gold)); width: 10px; height: 10px; }
+@media (max-width: 640px) {
+  .mx-root .mx-viewer { margin-top: 22px; }
+  .mx-root .mx-viewer-stage { grid-template-columns: minmax(0, 1fr); gap: 0; position: relative; }
+  .mx-root .mx-viewer-stage > .mx-figure { grid-column: 1; }
+  .mx-root .mx-viewer-btn {
+    position: absolute;
+    z-index: 2;
+    top: calc((100vw - 32px) * 9 / 32 - 20px);
+    width: 40px;
+    height: 40px;
+    margin: 0;
+    background: var(--lk-surface, #fff);
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.25);
+  }
+  .mx-root .mx-viewer-prev { inset-inline-start: 6px; }
+  .mx-root .mx-viewer-next { inset-inline-end: 6px; }
+}
+
+/* ---------- a station: one centred reading column ---------- */
+.mx-root .mx-st-head,
+.mx-root .mx-st-text {
+  max-width: 42rem;
+  margin-inline: auto;
+}
+.mx-root .mx-st-body { display: block; }
+.mx-root .mx-st-videos { display: flex; flex-direction: column; align-items: flex-start; gap: 6px; margin: 6px 0 4px; }
+.mx-root .mx-st-video-link {
+  border: 0;
+  background: none;
+  padding: 4px 0;
+  text-align: start;
+  font: inherit;
+  font-size: 16px;
+  color: var(--lk-accent, var(--mx-gold));
+  text-decoration: underline;
+  text-decoration-color: var(--lk-rule, var(--mx-line));
+  text-underline-offset: 4px;
+  cursor: pointer;
+}
+.mx-root .mx-st-video-link span { text-decoration: none; display: inline-block; margin-inline-end: 6px; font-size: 12px; }
+.mx-root .mx-st-video-link:hover { text-decoration-color: currentColor; }
+
+/* narrow and medium screens: the photos follow the text, two to a row */
+.mx-root .mx-st-body.mx-st-has-margins {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  column-gap: 16px;
+  row-gap: 18px;
+  max-width: 42rem;
+  margin-inline: auto;
+}
+.mx-root .mx-st-has-margins .mx-st-text { grid-column: 1 / -1; max-width: none; margin-inline: 0; }
+.mx-root .mx-st-has-margins .mx-margin { display: contents; }
+.mx-root .mx-st-has-margins[data-n="1"] .mx-figure { grid-column: 1 / -1; }
+.mx-root .mx-margin .mx-figure { margin: 0; }
+
+/* the hard part of the story keeps its band and its full place in the sequence */
+.mx-root .mx-hard .mx-st-head { max-width: 42rem; }
+
+/* ---------- credits and licences: right to left, one entry per line pair ---------- */
+.mx-root .mx-credits ol { direction: rtl; text-align: start; padding-inline-start: 24px; gap: 12px; }
+.mx-root .mx-credits li { display: flex; flex-direction: column; gap: 2px; }
+.mx-root .mx-cr-cap { font-size: 15px; }
+.mx-root .mx-cr-meta { font-size: 13.5px; color: var(--lk-meta, rgba(191, 208, 255, 0.6)); overflow-wrap: anywhere; }
+.mx-root .mx-cr-meta a { color: inherit; }
+
+/* ---------- English (left to right) ---------- */
+.mx-root[dir="ltr"] .mx-map-progress { transform-origin: left; }
+.mx-root .mx-quote-tr { display: block; margin-top: 4px; font-style: normal; color: var(--lk-meta, rgba(191, 208, 255, 0.7)); }
+.mx-root .mx-only-he { font-size: 15px; color: var(--lk-meta, rgba(191, 208, 255, 0.7)); margin-bottom: 8px; }
+
+/* ---------- large screens (Tomer, 13.11: "fatter and shorter", use the width) ----------
+   The reading column grows to 880px from 1200px and 960px from 1700px, with larger type so a line
+   stays readable; lines stay right-aligned (left in English) inside the centred column. Photos go to
+   the margins only where the margins can hold a real print (1500px+); below that they follow the text.
+   Phone and tablet are unchanged. */
+@media (min-width: 1200px) {
+  .mx-root .mx-stations { max-width: 1760px; }
+  .mx-root .mx-st-head,
+  .mx-root .mx-st-text { max-width: 880px; }
+  .mx-root .mx-st-text .mx-prose p { font-size: 21px; line-height: 1.8; }
+  .mx-root .mx-station .mx-st-title { font-size: 40px; }
+  /* 1200-1499: photos after the text, three to a row, inside the wide column */
+  .mx-root .mx-st-body.mx-st-has-margins {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    max-width: 880px;
+    margin-inline: auto;
+    column-gap: 18px;
+  }
+  .mx-root .mx-st-has-margins .mx-st-text { grid-column: 1 / -1; grid-row: auto; max-width: none; }
+  .mx-root .mx-st-has-margins .mx-margin { display: contents; padding: 0; }
+  .mx-root .mx-st-has-margins[data-n="1"] .mx-figure { grid-column: 2 / span 1; }
+  /* the station's sources spread over two columns */
+  .mx-root .mx-sources { max-width: none; }
+  .mx-root .mx-sources ol { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); column-gap: 32px; align-items: start; }
+  /* credits use the page width: two columns, three on very wide screens */
+  .mx-root .mx-credits { max-width: 1500px; }
+  .mx-root .mx-credits ol { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); column-gap: 40px; row-gap: 14px; align-items: start; }
+}
+@media (min-width: 1500px) {
+  .mx-root .mx-st-body.mx-st-has-margins {
+    grid-template-columns: minmax(0, 1fr) minmax(0, 880px) minmax(0, 1fr);
+    column-gap: 44px;
+    max-width: none;
+  }
+  .mx-root .mx-st-has-margins .mx-st-text { grid-column: 2; grid-row: 1; }
+  .mx-root .mx-st-has-margins .mx-margin { display: flex; flex-direction: column; gap: 34px; grid-row: 1; }
+  .mx-root .mx-st-has-margins .mx-margin-r { grid-column: 1; padding-top: 72px; }
+  .mx-root .mx-st-has-margins .mx-margin-l { grid-column: 3; padding-top: 230px; }
+  .mx-root .mx-st-has-margins[data-n="1"] .mx-figure { grid-column: auto; }
+  .mx-root .mx-margin .mx-figure { max-width: 340px; }
+  .mx-root .mx-margin-r .mx-figure { margin-inline-start: auto; }
+  .mx-root .mx-credits ol { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+}
+@media (min-width: 1700px) {
+  .mx-root .mx-st-head,
+  .mx-root .mx-st-text { max-width: 960px; }
+  .mx-root .mx-st-body.mx-st-has-margins { grid-template-columns: minmax(0, 1fr) minmax(0, 960px) minmax(0, 1fr); }
+  .mx-root .mx-st-text .mx-prose p { font-size: 22px; }
+}
+
+/* the column sets the measure: the old 64ch cap (≈490px in David Libre, whose ch is narrow) kept the
+   paragraphs in the right half of the centred column, which read as "off centre" */
+.mx-root .mx-st-text .mx-prose { max-width: none; }
+.mx-root .mx-st-text .mx-dis-says { max-width: none; }
+.mx-root .mx-video-lang { display: block; font-size: 14px; color: var(--lk-meta, rgba(191, 208, 255, 0.7)); margin-top: 2px; }
+
+/* phone: a station's photos one per row, so their captions keep a readable measure */
+@media (max-width: 640px) {
+  .mx-root .mx-st-body.mx-st-has-margins { grid-template-columns: minmax(0, 1fr); }
+}
+
+/* ---------- centred lines (Tomer, 13.11): the title, the station headings and the station text are
+   centred, in both languages. Balanced headings, "pretty" paragraphs (no one-word last line where the
+   browser can avoid it), a measure of about 80 characters on desktop, air between paragraphs, and the
+   source numbers glued to their sentence. The sources list, the disagreement rows and the credits keep
+   start alignment: they are tables of names, dates and licences, which centring makes harder to scan. */
+.mx-root .mx-entrance-text { text-align: center; }
+.mx-root .mx-entrance-text .mx-title { margin-inline: auto; text-wrap: balance; }
+.mx-root .mx-st-head {
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  gap: 12px;
+}
+.mx-root .mx-station .mx-st-title,
+.mx-root .mx-st-kicker { text-wrap: balance; }
+.mx-root .mx-st-text .mx-prose p {
+  text-align: center;
+  text-wrap: pretty;
+  margin-bottom: 1.1em;
+}
+.mx-root .mx-refs { white-space: nowrap; }
+.mx-root .mx-st-videos { align-items: center; text-align: center; }
+.mx-root .mx-st-video-link { text-align: center; }
+.mx-root .mx-st-text .mx-dis-q { align-items: center; text-align: center; text-wrap: balance; }
+.mx-root .mx-st-text .mx-dis-note { text-align: center; }
+@media (min-width: 1700px) {
+  .mx-root .mx-st-head,
+  .mx-root .mx-st-text { max-width: 880px; }
+  .mx-root .mx-st-body.mx-st-has-margins { grid-template-columns: minmax(0, 1fr) minmax(0, 880px) minmax(0, 1fr); }
+}
+
+.mx-root .mx-st-video-link { text-wrap: balance; }
+.mx-root .mx-dis-says, .mx-root .mx-placard-text, .mx-root .mx-trailer { text-wrap: pretty; }

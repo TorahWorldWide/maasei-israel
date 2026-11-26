@@ -1,0 +1,56 @@
+{
+ "schema": "maasei-backdrop/1",
+ "slug": "weizmann-copaxone-multiple-sclerosis",
+ "media": "m4",
+ "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Weizmann%20Institute%20of%20Science%20in%20Rehovot%2C%20January%202025%2026.jpg?width=1920",
+ "img_small": "https://commons.wikimedia.org/wiki/Special:FilePath/Weizmann%20Institute%20of%20Science%20in%20Rehovot%2C%20January%202025%2026.jpg?width=1080",
+ "why": "None of the photos shows a laboratory, so this wide, textured view of a garden path with cypresses on the Weizmann Institute campus in Rehovot is the best choice, because it shows the place where the discovery was made rather than a portrait, a ceremony or a sign.",
+ "chosen_by": "opus picker",
+ "alternates": [
+  "m22"
+ ],
+ "from": {
+  "average": "#8c8c78",
+  "picked": "#828a51",
+  "coloured_share": 0.35,
+  "lightness": 0.519
+ },
+ "palette": {
+  "paper": "#f2f4e9",
+  "surface": "#f9faf6",
+  "band": "#e9ecd7",
+  "tint": "#e6eacc",
+  "header": "#edefdf",
+  "rule": "#cfd5af",
+  "text": "#282a18",
+  "text2": "#494c33",
+  "accent": "#5e662e",
+  "meta": "#63654c",
+  "tone": "#22221b",
+  "shadow": "31, 33, 18"
+ },
+ "checks": {
+  "text_on_paper": 13.17,
+  "text_on_surface": 13.96,
+  "text_on_band": 12.16,
+  "text_on_tint": 11.85,
+  "text_on_header": 12.56,
+  "text2_on_paper": 7.99,
+  "text2_on_surface": 8.47,
+  "text2_on_band": 7.38,
+  "text2_on_tint": 7.19,
+  "text2_on_header": 7.62,
+  "accent_on_paper": 5.53,
+  "accent_on_surface": 5.86,
+  "accent_on_band": 5.11,
+  "accent_on_tint": 4.98,
+  "accent_on_header": 5.27,
+  "meta_on_paper": 5.4,
+  "meta_on_surface": 5.73,
+  "meta_on_band": 4.99,
+  "meta_on_tint": 4.86,
+  "meta_on_header": 5.15,
+  "paper_on_accent": 5.53
+ },
+ "passed": true
+}

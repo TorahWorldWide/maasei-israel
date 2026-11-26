@@ -1,0 +1,56 @@
+{
+ "schema": "maasei-backdrop/1",
+ "slug": "tevel-aerobotics-fruit-picking-drones",
+ "media": "m15",
+ "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Cosecha%20de%20la%20manzana%20en%20Allen%2C%20Alto%20Valle%20del%20R%C3%ADo%20Negro%2004.jpg?width=1920",
+ "img_small": "https://commons.wikimedia.org/wiki/Special:FilePath/Cosecha%20de%20la%20manzana%20en%20Allen%2C%20Alto%20Valle%20del%20R%C3%ADo%20Negro%2004.jpg?width=1080",
+ "why": "A modern apple orchard with fruit-laden trees, where one picker climbs a tall ladder: the slow hand labour that Tevel's flying robots were built to replace.",
+ "chosen_by": "opus picker",
+ "alternates": [
+  "m28"
+ ],
+ "from": {
+  "average": "#7b8586",
+  "picked": "#94c2f8",
+  "coloured_share": 0.161,
+  "lightness": 0.511
+ },
+ "palette": {
+  "paper": "#e9eef4",
+  "surface": "#f6f8fa",
+  "band": "#d7e1ec",
+  "tint": "#ccdaea",
+  "header": "#dfe6ef",
+  "rule": "#afc0d5",
+  "text": "#18202a",
+  "text2": "#333f4c",
+  "accent": "#21528c",
+  "meta": "#4f5b68",
+  "tone": "#1b2222",
+  "shadow": "18, 25, 33"
+ },
+ "checks": {
+  "text_on_paper": 14.08,
+  "text_on_surface": 15.42,
+  "text_on_band": 12.41,
+  "text_on_tint": 11.56,
+  "text_on_header": 13.06,
+  "text2_on_paper": 9.2,
+  "text2_on_surface": 10.08,
+  "text2_on_band": 8.11,
+  "text2_on_tint": 7.56,
+  "text2_on_header": 8.54,
+  "accent_on_paper": 6.79,
+  "accent_on_surface": 7.44,
+  "accent_on_band": 5.99,
+  "accent_on_tint": 5.58,
+  "accent_on_header": 6.3,
+  "meta_on_paper": 5.94,
+  "meta_on_surface": 6.51,
+  "meta_on_band": 5.24,
+  "meta_on_tint": 4.88,
+  "meta_on_header": 5.51,
+  "paper_on_accent": 6.79
+ },
+ "passed": true
+}

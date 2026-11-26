@@ -1,0 +1,56 @@
+{
+ "schema": "maasei-backdrop/1",
+ "slug": "jonas-salk-polio",
+ "media": "m29",
+ "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Polio%20vaccine%20clinics%2C%201956%20%2816429691147%29.jpg?width=1920",
+ "img_small": "https://commons.wikimedia.org/wiki/Special:FilePath/Polio%20vaccine%20clinics%2C%201956%20%2816429691147%29.jpg?width=1080",
+ "why": "A nurse works with children and mothers in a makeshift 1956 polio vaccination clinic, a deep room full of texture that puts the visitor right where Salk's vaccine reached the public.",
+ "chosen_by": "opus picker",
+ "alternates": [
+  "m32"
+ ],
+ "from": {
+  "average": "#9d9d9a",
+  "picked": "#9d9d9a",
+  "coloured_share": 0.0,
+  "lightness": 0.609
+ },
+ "palette": {
+  "paper": "#f0f0ed",
+  "surface": "#f8f8f7",
+  "band": "#e5e5df",
+  "tint": "#e0e0d7",
+  "header": "#e9e9e4",
+  "rule": "#c7c7bc",
+  "text": "#2a2a18",
+  "text2": "#46462f",
+  "accent": "#606034",
+  "meta": "#5f5f48",
+  "tone": "#22221b",
+  "shadow": "33, 33, 18"
+ },
+ "checks": {
+  "text_on_paper": 12.75,
+  "text_on_surface": 13.7,
+  "text_on_band": 11.51,
+  "text_on_tint": 10.96,
+  "text_on_header": 11.95,
+  "text2_on_paper": 8.45,
+  "text2_on_surface": 9.08,
+  "text2_on_band": 7.63,
+  "text2_on_tint": 7.26,
+  "text2_on_header": 7.92,
+  "accent_on_paper": 5.71,
+  "accent_on_surface": 6.14,
+  "accent_on_band": 5.16,
+  "accent_on_tint": 4.91,
+  "accent_on_header": 5.35,
+  "meta_on_paper": 5.72,
+  "meta_on_surface": 6.14,
+  "meta_on_band": 5.16,
+  "meta_on_tint": 4.92,
+  "meta_on_header": 5.36,
+  "paper_on_accent": 5.71
+ },
+ "passed": true
+}

@@ -1,0 +1,56 @@
+{
+ "schema": "maasei-backdrop/1",
+ "slug": "drew-weissman-mrna-nucleoside-modification",
+ "media": "m30",
+ "img": "https://commons.wikimedia.org/wiki/Special:FilePath/201229-F-WQ860-1005.jpg?width=1920",
+ "img_small": "https://commons.wikimedia.org/wiki/Special:FilePath/201229-F-WQ860-1005.jpg?width=1080",
+ "why": "A gloved hand sets Moderna mRNA vaccine vials into a tray full of syringes during the December 2020 rollout, a busy, textured scene of the vaccination work the discovery made possible.",
+ "chosen_by": "opus picker",
+ "alternates": [
+  "m36"
+ ],
+ "from": {
+  "average": "#89817c",
+  "picked": "#7f98ad",
+  "coloured_share": 0.409,
+  "lightness": 0.51
+ },
+ "palette": {
+  "paper": "#e9eff4",
+  "surface": "#f6f8fa",
+  "band": "#d7e3ec",
+  "tint": "#ccddea",
+  "header": "#dfe7ef",
+  "rule": "#afc3d5",
+  "text": "#18222a",
+  "text2": "#33414c",
+  "accent": "#365a78",
+  "meta": "#4f5d68",
+  "tone": "#221e1b",
+  "shadow": "18, 26, 33"
+ },
+ "checks": {
+  "text_on_paper": 13.93,
+  "text_on_surface": 15.16,
+  "text_on_band": 12.37,
+  "text_on_tint": 11.6,
+  "text_on_header": 12.92,
+  "text2_on_paper": 9.05,
+  "text2_on_surface": 9.86,
+  "text2_on_band": 8.04,
+  "text2_on_tint": 7.54,
+  "text2_on_header": 8.4,
+  "accent_on_paper": 6.27,
+  "accent_on_surface": 6.82,
+  "accent_on_band": 5.57,
+  "accent_on_tint": 5.22,
+  "accent_on_header": 5.82,
+  "meta_on_paper": 5.85,
+  "meta_on_surface": 6.37,
+  "meta_on_band": 5.19,
+  "meta_on_tint": 4.87,
+  "meta_on_header": 5.43,
+  "paper_on_accent": 6.27
+ },
+ "passed": true
+}

@@ -1,0 +1,1885 @@
+{
+ "schema": "maasei-museum/1",
+ "slug": "paul-baran-packet-switching",
+ "deed": "פול ברן, אחד משני ממציאי מיתוג המנות שבבסיס תקשורת המחשבים בעולם",
+ "canonical_type": "team-invention",
+ "year": "1960",
+ "title": "At RAND, Paul Baran designed a network that would survive a nuclear attack, and his idea made ARPANET possible",
+ "trailer": [
+  {
+   "text": "Paul Baran, an electrical engineer born to a Jewish family in Grodno, was, according to Wikipedia, one of the inventors of packet switching, the basis for data communications in computer networks worldwide.",
+   "claims": [
+    "c2",
+    "c6",
+    "c42"
+   ]
+  },
+  {
+   "text": "At RAND he examined AT&T’s telephone network and concluded that a small number of well-placed bombs could disrupt communications throughout the country.",
+   "claims": [
+    "c10",
+    "c12"
+   ]
+  },
+  {
+   "text": "His solution was a distributed, digital network, in which messages are broken into message blocks that are sent separately and reassembled at the destination.",
+   "claims": [
+    "c19",
+    "c20",
+    "c31"
+   ]
+  },
+  {
+   "text": "According to EBSCO, AT&T insisted that the idea was unworkable.",
+   "claims": [
+    "c28"
+   ]
+  },
+  {
+   "text": "According to an AI-generated summary on the Britannica website, which carries a warning that it may contain errors, ARPA rediscovered the idea and it became the key concept that made ARPANET possible.",
+   "claims": [
+    "c49"
+   ]
+  }
+ ],
+ "hero_media": [
+  "m1",
+  "m8",
+  "m10"
+ ],
+ "glance": [
+  {
+   "label": "Who",
+   "value": "Paul Baran, an electrical engineer from a Jewish family",
+   "claims": [
+    "c2",
+    "c6"
+   ]
+  },
+  {
+   "label": "Born",
+   "value": "Grodno, April 29, 1926",
+   "claims": [
+    "c1"
+   ]
+  },
+  {
+   "label": "What",
+   "value": "A digital distributed network and packet switching",
+   "claims": [
+    "c31",
+    "c42"
+   ]
+  },
+  {
+   "label": "Published",
+   "value": "1960–1964",
+   "claims": [
+    "c29"
+   ]
+  },
+  {
+   "label": "Recognition",
+   "value": "IEEE Alexander Graham Bell Medal, National Inventors Hall of Fame",
+   "claims": [
+    "c61",
+    "c62"
+   ]
+  }
+ ],
+ "stations": [
+  {
+   "id": "s1",
+   "title": "From Grodno to Boston",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "Paul Baran was born on April 29, 1926, in Grodno, Poland, now in Belarus.",
+      "claims": [
+       "c1"
+      ]
+     },
+     {
+      "text": "He was the youngest of three children in a Lithuanian Jewish family.",
+      "claims": [
+       "c3"
+      ]
+     },
+     {
+      "text": "On May 11, 1928, the family moved to the United States and settled in Boston.",
+      "claims": [
+       "c4"
+      ]
+     },
+     {
+      "text": "In Philadelphia, his father, Morris Baran, opened a grocery store.",
+      "claims": [
+       "c5"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "In 1949 Baran completed a degree in electrical engineering at Drexel.",
+      "claims": [
+       "c6"
+      ]
+     },
+     {
+      "text": "He joined the Eckert-Mauchly company and worked on UNIVAC models, the first brand of commercial computers in the United States.",
+      "claims": [
+       "c7"
+      ]
+     },
+     {
+      "text": "In 1955 he moved to Los Angeles and worked at Hughes Aircraft on radar data processing systems.",
+      "claims": [
+       "c8"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "Through night classes at UCLA he received a master’s degree in engineering in 1959.",
+      "claims": [
+       "c9"
+      ]
+     },
+     {
+      "text": "According to his advisor, he was the only student who went to the Patent Office to check whether his thesis work could be patented.",
+      "claims": [
+       "c75"
+      ]
+     },
+     {
+      "text": "According to Wikipedia, he was forced to abandon his doctoral studies because of a heavy travel and work load.",
+      "claims": [
+       "c76"
+      ]
+     }
+    ]
+   ],
+   "media": [],
+   "disagreements": []
+  },
+  {
+   "id": "s2",
+   "title": "A network that collapses from a few bombs",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "Baran left Hughes and joined RAND’s computer science department.",
+      "claims": [
+       "c10"
+      ]
+     },
+     {
+      "text": "There he became interested in the survivability of communications systems in the event of a nuclear attack.",
+      "claims": [
+       "c10"
+      ]
+     },
+     {
+      "text": "He examined AT&T’s telephone network and concluded that it was vulnerable: a small number of well-placed bombs could disrupt communications throughout the country.",
+      "claims": [
+       "c12"
+      ]
+     },
+     {
+      "text": "The reason was the network’s centralized design.",
+      "claims": [
+       "c13"
+      ]
+     },
+     {
+      "text": "According to Wikipedia, most American military communications then used high-frequency connections, and a nuclear attack could put them out of action for many hours.",
+      "claims": [
+       "c14"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "Baran wanted to prevent a nuclear holocaust, not for money or fame, but out of personal anxiety.",
+      "claims": [
+       "c15"
+      ]
+     },
+     {
+      "text": "He recounted that he first proposed relaying teletype signals from one AM broadcast station to another, building on an idea by Frank Collbohm, the president of RAND.",
+      "claims": [
+       "c21"
+      ]
+     },
+     {
+      "text": "According to the history, the Air Force replied that the proposal might suit the President, but communicating with forces in the field required a system with much greater capacity.",
+      "claims": [
+       "c22"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m6",
+    "m11",
+    "m12",
+    "m15"
+   ],
+   "disagreements": [
+    "d1"
+   ]
+  },
+  {
+   "id": "s3",
+   "title": "A network without a center",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "Baran was influenced by the principle that the human brain can recover lost functions by bypassing a dysfunctional area.",
+      "claims": [
+       "c18"
+      ]
+     },
+     {
+      "text": "He considered breaking large messages into message blocks, each sent separately and reassembled at the destination.",
+      "claims": [
+       "c19"
+      ]
+     },
+     {
+      "text": "He did not use the word “packets” but rather “blocks” or “message-blocks.”",
+      "claims": [
+       "c47"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "Baran recounted that analog signals deteriorate rapidly when they pass through many links in tandem, and therefore concluded that all communications would have to be digital.",
+      "claims": [
+       "c20"
+      ]
+     },
+     {
+      "text": "In the system he described, each node attempts to get rid of its messages, and if the preferred route is busy or destroyed, it chooses an alternate route (“hot potato”).",
+      "claims": [
+       "c23"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "A simulation by Baran showed that networks with a connectivity level of 3 or more are more resilient, even when up to 50% of the nodes are lost.",
+      "claims": [
+       "c17"
+      ]
+     },
+     {
+      "text": "According to Baran, a critical mass of the network was reached at about 15–20 nodes in width, with a redundancy of about three times the minimum number of links.",
+      "claims": [
+       "c16"
+      ]
+     },
+     {
+      "text": "A 1962 RAND paper examines a high-speed digital data transmission network, composed of unreliable links, that nevertheless has some desired level of reliability and survivability.",
+      "claims": [
+       "c79"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m13",
+    "m16"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s4",
+   "title": "Volumes, briefings and closed doors",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "Baran’s work was published in a series of RAND studies between 1960 and 1962.",
+      "claims": [
+       "c29"
+      ]
+     },
+     {
+      "text": "In November 1962 Baran presented a paper titled On Distributed Communications Networks.",
+      "claims": [
+       "c80"
+      ]
+     },
+     {
+      "text": "In August 1964 RAND published his multivolume study, “On Distributed Communications.”",
+      "claims": [
+       "c29",
+       "c30"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "His ideas were considered radical at the time, and met resistance from proponents of the circuit switching that was conventional in the telephone network.",
+      "claims": [
+       "c24"
+      ]
+     },
+     {
+      "text": "Baran recounted that he conducted about forty or more briefings around the country, in government and at major research organizations.",
+      "claims": [
+       "c25"
+      ]
+     },
+     {
+      "text": "According to EBSCO, he first approached AT&T, but decision makers there insisted that the idea was unworkable, despite repeated approaches.",
+      "claims": [
+       "c28"
+      ]
+     },
+     {
+      "text": "According to Wikipedia, AT&T engineers scoffed at his idea of non-dedicated physical circuits for voice communications.",
+      "claims": [
+       "c27"
+      ]
+     },
+     {
+      "text": "According to Baran, AT&T, which held the monopoly on telecommunications, was among the most negative parties.",
+      "claims": [
+       "c26"
+      ]
+     },
+     {
+      "text": "According to AP, the idea was so advanced for its time that private companies passed on it.",
+      "claims": [
+       "c48"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "Baran recounted that in 1965 a formal RAND recommendation to implement his plan was submitted to the Air Force.",
+      "claims": [
+       "c33"
+      ]
+     },
+     {
+      "text": "According to Baran, the Department of Defense ruled that the Defense Communications Agency, not the Air Force, should build the system.",
+      "claims": [
+       "c34"
+      ]
+     },
+     {
+      "text": "Baran recommended shelving the project, arguing that it was better to wait for the right group to manage its creation.",
+      "claims": [
+       "c35"
+      ]
+     },
+     {
+      "text": "An interview abstract at the Charles Babbage Institute notes his decision not to implement the network in 1966.",
+      "claims": [
+       "c36"
+      ]
+     },
+     {
+      "text": "In a 1967 document Baran listed the limitations of existing systems: vulnerability, limited secrecy, high error rate, delay and rising cost.",
+      "claims": [
+       "c78"
+      ]
+     }
+    ]
+   ],
+   "media": [],
+   "disagreements": [
+    "d2"
+   ]
+  },
+  {
+   "id": "s5",
+   "title": "The idea returns: ARPANET",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "According to an AI-generated summary on the Britannica website, which carries a warning that it may contain errors, the military initially ignored the idea, but ARPA rediscovered it and it became the key concept that made ARPANET possible.",
+      "claims": [
+       "c49"
+      ]
+     },
+     {
+      "text": "According to EBSCO, the development of ARPANET incorporated the distributed network idea and Baran’s packet-switching method.",
+      "claims": [
+       "c39"
+      ]
+     },
+     {
+      "text": "According to the Lemelson Program, Lawrence Roberts adopted Baran’s distributed network and packet-switching schemes, and Baran was an informal consultant to the project.",
+      "claims": [
+       "c40"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "At first ARPANET connected only four nodes.",
+      "claims": [
+       "c82"
+      ]
+     },
+     {
+      "text": "It was heterogeneous: its computers did not need to be compatible with one another.",
+      "claims": [
+       "c82"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "In Britain, Donald Davies explored similar ideas in the mid-1960s and gave the method the name “packet switching.”",
+      "claims": [
+       "c83"
+      ]
+     },
+     {
+      "text": "According to RAND, Davies developed a similar system independently, and it was his term that was eventually adopted.",
+      "claims": [
+       "c45"
+      ]
+     },
+     {
+      "text": "According to Wikipedia, Baran was happy to acknowledge that Davies had come up with the same idea independently.",
+      "claims": [
+       "c46"
+      ]
+     }
+    ]
+   ],
+   "media": [],
+   "disagreements": [
+    "d3"
+   ]
+  },
+  {
+   "id": "s6",
+   "title": "After RAND: the future, modems and companies",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "In 1966 Baran presented a paper on the future of marketing to the American Marketing Association.",
+      "claims": [
+       "c69"
+      ]
+     },
+     {
+      "text": "According to his son, Baran wrote in 1966 that by the year 2000 people would be using online networks for shopping and news.",
+      "claims": [
+       "c70"
+      ]
+     },
+     {
+      "text": "In 1968 he left RAND to help found the Institute for the Future, together with RAND colleagues.",
+      "claims": [
+       "c50"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "In 1972 he founded CableData to explore moving data on cable television networks.",
+      "claims": [
+       "c51"
+      ]
+     },
+     {
+      "text": "The Telebit TrailBlazer modem achieved data rates of about 18 kilobits per second, while contemporary modems delivered 2400 bits per second.",
+      "claims": [
+       "c52"
+      ]
+     },
+     {
+      "text": "According to Wikipedia, Telebit’s modem technology was among the first commercial products to use OFDM, which was later deployed in DSL and Wi-Fi modems.",
+      "claims": [
+       "c81"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "Baran founded Metricom, which led to the Ricochet system.",
+      "claims": [
+       "c53",
+       "c54"
+      ]
+     },
+     {
+      "text": "According to Wikipedia, Metricom was the first wireless Internet company.",
+      "claims": [
+       "c54"
+      ]
+     },
+     {
+      "text": "According to Wikipedia, Baran is also credited with inventing the first doorway gun detector.",
+      "claims": [
+       "c58"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m4",
+    "m5"
+   ],
+   "disagreements": [
+    "d4",
+    "d5"
+   ]
+  },
+  {
+   "id": "s7",
+   "title": "Recognition, and what was said of him",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "In 1990 Baran received the IEEE Alexander Graham Bell Medal.",
+      "claims": [
+       "c61"
+      ]
+     },
+     {
+      "text": "In 2007 he was inducted into the National Inventors Hall of Fame.",
+      "claims": [
+       "c62"
+      ]
+     },
+     {
+      "text": "President George Bush awarded him the National Medal of Technology.",
+      "claims": [
+       "c59",
+       "c60"
+      ]
+     },
+     {
+      "text": "In 2009 the UCLA school of engineering gave him the Alumnus of the Year Award, its highest honor.",
+      "claims": [
+       "c63"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "RAND President James Thomson said that the world is better for the technologies Baran invented and developed, and for his concern with appropriate public policy.",
+      "claims": [
+       "c64"
+      ]
+     },
+     {
+      "text": "Vint Cerf said that Baran was not afraid to go in directions counter to what everyone else thought was the right or only thing to do.",
+      "claims": [
+       "c65"
+      ]
+     },
+     {
+      "text": "According to the National Academy of Engineering memorial tribute, Baran was modest, always minimized his own part and gave much to others.",
+      "claims": [
+       "c66"
+      ]
+     },
+     {
+      "text": "He said that if you are not careful, you can convince yourself that you did the most important part.",
+      "claims": [
+       "c67"
+      ]
+     },
+     {
+      "text": "According to EBSCO, he always stressed that the modern Internet was the result of the work of hundreds of people, not of one or two innovations.",
+      "claims": [
+       "c68"
+      ]
+     },
+     {
+      "text": "According to James Pelkey, Baran believed that innovation was a team effort.",
+      "claims": [
+       "c77"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "Evelyn, his wife since 1955, died in 2007.",
+      "claims": [
+       "c73"
+      ]
+     },
+     {
+      "text": "Baran died in 2011 at his home in Palo Alto, of complications from lung cancer.",
+      "claims": [
+       "c71",
+       "c72"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to the United States Patent and Trademark Office (USPTO), Paul Baran was among the 2007 laureates of the National Medal of Technology and Innovation.",
+      "claims": [
+       "c84"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to the Computer History Museum, Paul Baran passed away on March 26, 2011.",
+      "claims": [
+       "c85"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m2",
+    "m1",
+    "m3"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s8",
+   "title": "Who invented it, and what was missed",
+   "kind": "hard",
+   "paragraphs": [
+    [
+     {
+      "text": "According to Wikipedia, it was Davies’s work, not Baran’s, that initially caught the attention of the ARPANET developers.",
+      "claims": [
+       "c41"
+      ]
+     },
+     {
+      "text": "The number of inventors is also disputed: according to Wikipedia there were two, and according to ARRL three.",
+      "claims": [
+       "c42",
+       "c43"
+      ]
+     },
+     {
+      "text": "According to Wikipedia, the representation of Leonard Kleinrock’s early work as the origin of the packet switching concept is disputed among other internet pioneers.",
+      "claims": [
+       "c44"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to his son, it took decades for the social and commercial possibilities of the technology to become clear, and Baran missed out on much of the money and glory.",
+      "claims": [
+       "c74"
+      ]
+     }
+    ]
+   ],
+   "media": [],
+   "disagreements": [
+    "d8"
+   ]
+  }
+ ],
+ "disagreements": [
+  {
+   "id": "d1",
+   "question": "In what year did Baran join RAND?",
+   "versions": [
+    {
+     "says": "According to ARRL, in 1959",
+     "claims": [
+      "c10"
+     ]
+    },
+    {
+     "says": "According to the National Academy of Engineering memorial tribute, in 1960",
+     "claims": [
+      "c11"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d2",
+   "question": "How many volumes did the On Distributed Communications series comprise?",
+   "versions": [
+    {
+     "says": "According to History of Computer Communications, Volumes I through XI",
+     "claims": [
+      "c30"
+     ]
+    },
+    {
+     "says": "According to the Computer History Museum, 13 volumes",
+     "claims": [
+      "c31"
+     ]
+    },
+    {
+     "says": "According to the interview abstract at the Charles Babbage Institute, eleven volumes",
+     "claims": [
+      "c32"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d3",
+   "question": "When was the technology adopted to create ARPANET?",
+   "versions": [
+    {
+     "says": "According to ARRL, MIT and DARPA adopted the technology in 1968",
+     "claims": [
+      "c37"
+     ]
+    },
+    {
+     "says": "According to AP, in 1969 the Department of Defense used it in creating ARPANET",
+     "claims": [
+      "c38"
+     ]
+    },
+    {
+     "says": "According to EBSCO, development of ARPANET began in 1967",
+     "claims": [
+      "c39"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d4",
+   "question": "In what year was Metricom founded?",
+   "versions": [
+    {
+     "says": "According to the National Academy of Engineering memorial tribute, in 1986, and it was cofounded",
+     "claims": [
+      "c53"
+     ]
+    },
+    {
+     "says": "According to Wikipedia, in 1985",
+     "claims": [
+      "c54"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d5",
+   "question": "How many companies did Baran found?",
+   "versions": [
+    {
+     "says": "According to UCLA, seven start-up companies, five of which went public",
+     "claims": [
+      "c55"
+     ]
+    },
+    {
+     "says": "According to the National Academy of Engineering memorial tribute, ten companies that he founded or cofounded",
+     "claims": [
+      "c56"
+     ]
+    },
+    {
+     "says": "According to the Lemelson Program, six companies in Silicon Valley",
+     "claims": [
+      "c57"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d8",
+   "question": "Was Baran one of two or one of three inventors of packet switching?",
+   "versions": [
+    {
+     "says": "According to Wikipedia, one of two independent inventors",
+     "claims": [
+      "c42"
+     ]
+    },
+    {
+     "says": "According to ARRL, one of three, along with Donald Davies and Leonard Kleinrock",
+     "claims": [
+      "c43"
+     ]
+    }
+   ]
+  }
+ ],
+ "unknowns": [],
+ "claims": [
+  {
+   "id": "c2",
+   "text": "ברן נולד כילד הצעיר במשפחה יהודית בגרודנו שבפולין ב-29 באפריל 1926.",
+   "source": "src1",
+   "quote": "Paul Baran was born the youngest child of a Jewish family in Grodno, Poland (now part of Belarus), on April 29, 1926",
+   "status": "confirmed",
+   "locator": "שורה 17"
+  },
+  {
+   "id": "c6",
+   "text": "ברן סיים את לימודיו בדרקסל ב-1949 בהנדסת חשמל.",
+   "source": "src2",
+   "quote": "Paul graduated from the Institute of Technology (now Drexel University) in 1949 with a degree in electrical engineering.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c42",
+   "text": "לפי ויקיפדיה, ברן היה אחד משני ממציאים עצמאיים של מיתוג מנות, ששימש היום בסיס דומיננטי לתקשורת נתונים ברשתות מחשבים בעולם.",
+   "source": "src3",
+   "quote": "He was one of the two independent inventors of packet switching, which is today the dominant basis for data communications in computer networks worldwide",
+   "status": "confirmed",
+   "locator": "שורה 20"
+  },
+  {
+   "id": "c10",
+   "text": "לפי ארגון NAE... לפי מקור זה, ב-1959 עזב ברן את היוז והצטרף למחלקת מדעי המחשב של RAND, והתעניין בהישרדות מערכות תקשורת בעת מתקפה גרעינית.",
+   "source": "src4",
+   "quote": "In 1959, Baran left Hughes to join RAND’s computer science department. He quickly developed an interest in the survivability of communications systems in the event of a nuclear attack.",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c12",
+   "text": "ברן בחן את רשת הטלפון של AT&T והסיק שהיא פגיעה: מספר קטן של פצצות שהוצבו היטב יכול לשבש את התקשורת בכל המדינה.",
+   "source": "src5",
+   "quote": "He concluded it was a disaster: a few well-placed bombs could disrupt communications throughout the country.",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c19",
+   "text": "ברן חשב על פירוק הודעות גדולות ל\"בלוקי הודעה\" שנשלחים בנפרד ומורכבים מחדש ביעד.",
+   "source": "src6",
+   "quote": "separate pieces of data that would be sent independently to the target destination, where they would be rejoined into the original message",
+   "status": "confirmed",
+   "locator": "שורה 46"
+  },
+  {
+   "id": "c20",
+   "text": "ברן סיפר שאותות אנלוגיים מידרדרים במהירות בקישורים רבים בטור, ולכן הסיק שכל התקשורת צריכה להיות דיגיטלית.",
+   "source": "src5",
+   "quote": "Analog signals deteriorate rapidly when you have many links in tandem. Therefore, I concluded that all communications would have to be digital to maintain signal quality.",
+   "status": "confirmed",
+   "locator": "שורה 13"
+  },
+  {
+   "id": "c31",
+   "text": "לפי מוזיאון ההיסטוריה של המחשוב, ברן כתב ב-RAND סדרה של 13 כרכים המגדירה רשת מבוזרת דיגיטלית.",
+   "source": "src7",
+   "quote": "he also wrote a 13-volume set of reports defining in detail an all-digital nationally distributed network for digital voice and data",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c28",
+   "text": "לפי EBSCO, ברן פנה תחילה ל-AT&T, אך מקבלי ההחלטות שם התעקשו שהרעיון אינו מעשי, למרות פניות חוזרות.",
+   "source": "src1",
+   "quote": "Originally Baran approached AT&T with the idea, but decision makers at that company insisted his idea was unworkable, despite repeated pitches from Baran.",
+   "status": "confirmed",
+   "locator": "שורה 50"
+  },
+  {
+   "id": "c49",
+   "text": "לפי בריטניקה, הצבא התעלם בתחילה מהרעיון, אך ARPA גילתה אותו מחדש והוא הפך למושג המפתח שאפשר את ARPANET.",
+   "source": "src6",
+   "quote": "Although the military initially ignored it, his idea was rediscovered by ARPA and became the key concept that made ARPANET possible.",
+   "status": "confirmed",
+   "locator": "שורה 26"
+  },
+  {
+   "id": "c1",
+   "text": "פול ברן נולד בגרודנו שבפולין (כיום בבלארוס) ב-29 באפריל 1926, הצעיר בין שלושה ילדים.",
+   "source": "src2",
+   "quote": "PAUL BARAN was born in Grodno, Poland (which is now in Belarus), on April 29, 1926. He was the youngest of three children.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c29",
+   "text": "עבודתו פורסמה בסדרת מחקרי RAND בין 1960 ל-1962 ותועדה במחקר רב-כרכים בשם \"On Distributed Communications\" שפורסם ב-1964.",
+   "source": "src2",
+   "quote": "was documented in a multivolume study entitled “On Distributed Communications,” published in 1964.",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c61",
+   "text": "ב-1990 זכה ברן במדליית אלכסנדר גרהאם בל של IEEE.",
+   "source": "src4",
+   "quote": "In 1990, Baran was awarded the IEEE’s Alexander Graham Bell Medal.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c62",
+   "text": "ב-2007 נבחר ברן להיכל התהילה הלאומי של ממציאים.",
+   "source": "src2",
+   "quote": "In 2007 he was inducted into the National Inventors Hall of Fame.",
+   "status": "confirmed",
+   "locator": "שורה 19"
+  },
+  {
+   "id": "c3",
+   "text": "ברן היה הצעיר מבין שלושה ילדים במשפחה יהודית ליטאית.",
+   "source": "src3",
+   "quote": "He was the youngest of three children in his Lithuanian Jewish family",
+   "status": "confirmed",
+   "locator": "שורה 32"
+  },
+  {
+   "id": "c4",
+   "text": "משפחתו עברה לארצות הברית ב-11 במאי 1928 והתיישבה בבוסטון.",
+   "source": "src2",
+   "quote": "His family moved to the United States on May 11, 1928, settling in Boston.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c5",
+   "text": "בפילדלפיה אביו, מוריס ברן, פתח חנות מכולת.",
+   "source": "src2",
+   "quote": "Later, in Philadelphia, his father, Morris Baran (1884–1979), opened a grocery store.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c7",
+   "text": "עם סיום הלימודים הצטרף לחברת אקרט-מוקלי ועשה עבודה טכנית על דגמי UNIVAC, המותג המסחרי הראשון של מחשבים בארצות הברית.",
+   "source": "src2",
+   "quote": "Baran joined the Eckert-Mauchly Computer Company upon graduation from Drexel. There he did technical work on UNIVAC models, the first brand of commercial computers in the United States.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c8",
+   "text": "ב-1955 עבר ללוס אנג'לס ועבד בהיוז אירקרפט על מערכות לעיבוד נתוני מכ\"ם.",
+   "source": "src4",
+   "quote": "In 1955, Baran moved to Los Angeles, where he took a job at Hughes Aircraft to work on radar data processing systems.",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c9",
+   "text": "הוא למד בשיעורי ערב ב-UCLA וקיבל תואר שני בהנדסה ב-1959.",
+   "source": "src4",
+   "quote": "He enrolled in night classes at the University of California, Los Angeles, where he received a master’s degree in engineering in 1959.",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c75",
+   "text": "לפי המנחה שלו, ברן היה התלמיד היחיד שהלך למשרד הפטנטים לבדוק אם עבודת התזה שלו ניתנת לרישום כפטנט.",
+   "source": "src2",
+   "quote": "Estrin said that Baran was the only student of his who actually went to the Patent and Trademark Office in Washington, D.C., to see whether his master’s thesis was patentable!",
+   "status": "confirmed",
+   "locator": "שורה 20"
+  },
+  {
+   "id": "c76",
+   "text": "לפי ויקיפדיה, ברן נאלץ לנטוש את לימודי הדוקטורט בגלל עומס נסיעות ועבודה.",
+   "source": "src3",
+   "quote": "While Baran initially stayed on at UCLA to pursue his doctorate, a heavy travel and work schedule forced him to abandon his doctoral work.",
+   "status": "confirmed",
+   "locator": "שורה 32"
+  },
+  {
+   "id": "c13",
+   "text": "הפגיעות של רשת הטלפון של AT&T נבעה מהתכנון המרוכז שלה.",
+   "source": "src5",
+   "quote": "AT&T’s telephone network vulnerability came from its highly centralized design.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c14",
+   "text": "לפי ויקיפדיה, רוב התקשורת הצבאית האמריקנית השתמשה אז בקשרי תדר גבוה, שמתקפה גרעינית יכלה להשביתם לשעות רבות.",
+   "source": "src3",
+   "quote": "Then, most American military communications used high-frequency connections, which could be put out of action for many hours by a nuclear attack.",
+   "status": "confirmed",
+   "locator": "שורה 35"
+  },
+  {
+   "id": "c15",
+   "text": "ברן רצה למנוע שואה גרעינית, לא בשביל כסף או תהילה אלא מתוך חרדה אישית.",
+   "source": "src5",
+   "quote": "Baran wanted to prevent a nuclear holocaust, not for money or fame, but from personal angst.",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c21",
+   "text": "ברן סיפר שהציע בתחילה להעביר אותות טלפרינטר מתחנת שידור AM אחת לאחרת, בהמשך לרעיון של פרנק קולבוהם, נשיא RAND.",
+   "source": "src5",
+   "quote": "I proposed to relay teletype signals from one AM broadcast station to another, building on an idea earlier proposed by Frank Collbohm, the President of RAND Corporation.",
+   "status": "confirmed",
+   "locator": "שורה 13"
+  },
+  {
+   "id": "c22",
+   "text": "לפי ההיסטוריה, חיל האוויר אמר לברן שהצעתו אולי תתאים לנשיא אך נדרשת מערכת בעלת קיבולת גדולה בהרבה לתקשורת עם כוחות בשטח.",
+   "source": "src5",
+   "quote": "He was told that while his proposal might take care of the President, the Air Force and other military branches also needed a system with a lot more capacity to communicate with field personnel.",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c18",
+   "text": "ברן הושפע מהעיקרון שהמוח האנושי יכול להתאושש מתפקודים שאבדו על ידי עקיפת אזור לא תקין.",
+   "source": "src6",
+   "quote": "Influenced by the principle that the human brain can recover lost functions by bypassing a dysfunctional area",
+   "status": "confirmed",
+   "locator": "שורה 45"
+  },
+  {
+   "id": "c47",
+   "text": "ברן לא השתמש במונח \"packets\" אלא ב\"blocks\" או \"message-blocks\".",
+   "source": "src8",
+   "quote": "Baran did not use the word “packets” but rather “blocks” or “message-blocks,”",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c23",
+   "text": "במערכת שברן תיאר, כל צומת מנסה להיפטר מהודעותיו על ידי בחירת נתיבים חלופיים אם הנתיב המועדף עמוס או הרוס (\"תפוח אדמה לוהט\").",
+   "source": "src5",
+   "quote": "each node will attempt to get rid of its messages by choosing alternate routes if its preferred route is busy or destroyed.",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c17",
+   "text": "סימולציה של ברן הראתה שרשתות עם דרגת קישוריות 3 ומעלה עמידות יותר גם באובדן של עד 50% מהצמתים.",
+   "source": "src3",
+   "quote": "The result of the simulation revealed that networks in which n ≥ 3 had a significant increase in resilience against even as much as 50% node loss.",
+   "status": "confirmed",
+   "locator": "שורה 36"
+  },
+  {
+   "id": "c16",
+   "text": "לפי ברן, מסה קריטית של הרשת נוצרה בערך ברוחב של 15–20 צמתים וברמת יתירות של פי שלושה בקירוב ממספר הקישורים המינימלי.",
+   "source": "src5",
+   "quote": "reached about 15 to 20 nodes in width and used a redundancy level of about three times as many links as the minimum needed",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c79",
+   "text": "מאמר RAND מ-1962 בוחן רשת שידור נתונים דיגיטלית מהירה המורכבת מקישורים לא אמינים אך בעלת רמת אמינות והישרדות רצויה כלשהי.",
+   "source": "src9",
+   "quote": "The system considered is a high-speed digital data transmission network composed of unreliable links, but which exhibits any arbitrarily desired level of systems reliability or survivability.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c80",
+   "text": "בנובמבר 1962 הציג ברן מאמר בשם On Distributed Communications Networks.",
+   "source": "src5",
+   "quote": "In November 1962, Baran presented a paper titled: On Distributed Communications Networks.",
+   "status": "confirmed",
+   "locator": "שורה 15"
+  },
+  {
+   "id": "c30",
+   "text": "באוגוסט 1964 פרסמה RAND את \"On Distributed Communications\" בכרכים I עד XI מאת ברן.",
+   "source": "src5",
+   "quote": "In August 1964, RAND Corporation published “On Distributed Communications,” Vols. I through XI by Baran",
+   "status": "confirmed",
+   "locator": "שורה 21"
+  },
+  {
+   "id": "c24",
+   "text": "רעיונותיו של ברן נחשבו רדיקליים בזמנו ונתקלו בהתנגדות של תומכי מיתוג המעגלים המקובל ברשת הטלפון.",
+   "source": "src2",
+   "quote": "Baran’s ideas were considered radical at the time and were met with resistance from proponents of conventional circuit switching, which was used in the telephone network.",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c25",
+   "text": "ברן סיפר שערך כארבעים תדריכים או יותר ברחבי המדינה בממשל ובארגוני מחקר גדולים.",
+   "source": "src5",
+   "quote": "I conducted probably 40 or more briefings around the country on my research throughout government and to major research organizations.",
+   "status": "confirmed",
+   "locator": "שורה 20"
+  },
+  {
+   "id": "c27",
+   "text": "לפי ויקיפדיה, מהנדסי AT&T לגלגו על רעיונו של ברן למעגלים פיזיים לא ייעודיים לתקשורת קולית.",
+   "source": "src3",
+   "quote": "In subsequent interviews, Baran mentioned how the AT&T engineers scoffed at his idea of non-dedicated physical circuits for voice communications",
+   "status": "confirmed",
+   "locator": "שורה 40"
+  },
+  {
+   "id": "c26",
+   "text": "לפי ברן, AT&T, שהחזיקה במונופול על התקשורת, הייתה בין הגורמים השליליים ביותר.",
+   "source": "src5",
+   "quote": "AT&T that held the monopoly for telecommunications at the time was among the most negative.",
+   "status": "confirmed",
+   "locator": "שורה 20"
+  },
+  {
+   "id": "c48",
+   "text": "לפי AP, הרעיון היה מתקדם כל כך בזמנו שחברות פרטיות ויתרו עליו.",
+   "source": "src10",
+   "quote": "The idea had been so advanced at its development that private companies had passed on it.",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c33",
+   "text": "ברן סיפר שב-1965 הוגשה לחיל האוויר המלצה רשמית של RAND ליישם את תוכניתו.",
+   "source": "src5",
+   "quote": "In 1965, a formal RAND Recommendation was made to the Air Force to implement my plan.",
+   "status": "confirmed",
+   "locator": "שורה 23"
+  },
+  {
+   "id": "c34",
+   "text": "לפי ברן, משרד ההגנה קבע שהסוכנות לתקשורת ההגנה, ולא חיל האוויר, צריכה לבנות את המערכת.",
+   "source": "src5",
+   "quote": "The Department of Defense ruled that the agency that should be building the system was the Defense Communications Agency, not the Air Force",
+   "status": "confirmed",
+   "locator": "שורה 23"
+  },
+  {
+   "id": "c35",
+   "text": "ברן המליץ להקפיא את הפרויקט וטען שעדיף להמתין לקבוצה הנכונה שתנהל את הקמתו.",
+   "source": "src5",
+   "quote": "Baran recommended the project be shelved, arguing it was better to wait for the right group to manage its creation.",
+   "status": "confirmed",
+   "locator": "שורה 24"
+  },
+  {
+   "id": "c36",
+   "text": "תקציר הראיון מציין את החלטתו של ברן שלא ליישם את הרשת ב-1966.",
+   "source": "src11",
+   "quote": "his decision against implementation of the network in 1966",
+   "status": "confirmed",
+   "locator": "שורה 23"
+  },
+  {
+   "id": "c78",
+   "text": "במסמך של ברן מ-1967 נמנו מגבלות המערכות הקיימות: פגיעות, סודיות מוגבלת, שיעור שגיאות גבוה, עיכוב והתייקרות.",
+   "source": "src12",
+   "quote": "Limitations of present communication systems are: vulnerability, limited secrecy, high error rate, high delay time in written communication, inflexibility, and rapidly increasing volume and cost.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c39",
+   "text": "לפי EBSCO, פיתוח ARPANET החל ב-1967 וכלל את רעיון הרשת המבוזרת ואת שיטת מיתוג המנות של ברן.",
+   "source": "src1",
+   "quote": "ARPANET went into development in 1967, incorporating both the distributed network idea and Baran's packet-switching methodology.",
+   "status": "confirmed",
+   "locator": "שורה 23"
+  },
+  {
+   "id": "c40",
+   "text": "לפי מעבדת למלסון, לורנס רוברטס אימץ את הרשת המבוזרת ושיטות מיתוג המנות של ברן, וברן היה יועץ לא רשמי לפרויקט ARPANET.",
+   "source": "src13",
+   "quote": "He decided to adopt Baran's distributed network and packet-switching schemes, and Baran became an informal consultant for the ARPANET project",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c82",
+   "text": "ARPANET חיברה בתחילה רק ארבעה צמתים, והייתה הטרוגנית: מחשבים לא נדרשו להיות תואמים זה לזה.",
+   "source": "src1",
+   "quote": "Although it originally connected only four nodes, one of the important innovations of ARPANET over previous computer networks was that it was heterogeneous",
+   "status": "confirmed",
+   "locator": "שורה 23"
+  },
+  {
+   "id": "c83",
+   "text": "בבריטניה דונלד דייויס בחן רעיונות דומים באמצע שנות ה-60 והעניק לשיטה את השם \"packet switching\".",
+   "source": "src2",
+   "quote": "At the National Physical Laboratory (NPL) in Teddington, England, Donald W. Davies pursued similar ideas in the mid-1960s, ultimately christening the switching method “packet switching”",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c45",
+   "text": "לפי RAND, דונלד דייויס מבריטניה פיתח באופן עצמאי מערכת דומה, ומונחו \"packet-switching\" הוא שאומץ בסופו של דבר.",
+   "source": "src10",
+   "quote": "Donald Davies of Great Britain independently developed a similar system and his term, “packet-switching,” eventually would be adopted, RAND said.",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c46",
+   "text": "לפי ויקיפדיה, ברן שמח להודות שדייויס הגיע לאותו רעיון באופן עצמאי.",
+   "source": "src3",
+   "quote": "Baran was happy to acknowledge that Davies had come up with the same idea as him independently.",
+   "status": "confirmed",
+   "locator": "שורה 41"
+  },
+  {
+   "id": "c69",
+   "text": "ב-1966 הציג ברן בפני איגוד השיווק האמריקאי מאמר על עתיד השיווק.",
+   "source": "src1",
+   "quote": "in 1966 he presented a paper on the future of marketing to the American Marketing Association",
+   "status": "confirmed",
+   "locator": "שורה 52"
+  },
+  {
+   "id": "c70",
+   "text": "לפי בנו, ברן כתב ב-1966 שעד שנת 2000 אנשים ישתמשו ברשתות מקוונות לקניות ולחדשות.",
+   "source": "src10",
+   "quote": "It spelled out this idea that by the year 2000 that people would be using online networks for shopping and news,",
+   "status": "confirmed",
+   "locator": "שורה 15"
+  },
+  {
+   "id": "c50",
+   "text": "ב-1968 עזב ברן את RAND כדי לסייע בהקמת Institute for the Future עם עמיתים מ-RAND.",
+   "source": "src2",
+   "quote": "In 1968, Baran left RAND to help found, with RAND colleagues, the Institute for the Future.",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c51",
+   "text": "ב-1972 ייסד ברן את CableData כדי לבחון העברת נתונים ברשתות טלוויזיה בכבלים.",
+   "source": "src2",
+   "quote": "In 1972, Baran founded CableData to explore the idea of moving data on conventional cable television networks.",
+   "status": "confirmed",
+   "locator": "שורה 15"
+  },
+  {
+   "id": "c52",
+   "text": "מודם Telebit TrailBlazer הפיק קצבי נתונים של כ-18 קילובט לשנייה בעוד מודמים בני הזמן סיפקו 2400 ביט לשנייה.",
+   "source": "src2",
+   "quote": "extracting data rates on the order of 18 kilobits per second when contemporary modems were delivering 2400 bits per second.",
+   "status": "confirmed",
+   "locator": "שורה 16"
+  },
+  {
+   "id": "c81",
+   "text": "טכנולוגיית המודם של Telebit הייתה בין המוצרים המסחריים הראשונים שהשתמשו ב-OFDM, שהופץ מאוחר יותר במודמי DSL ו-Wi-Fi.",
+   "source": "src3",
+   "quote": "It was one of the first commercial products to use orthogonal frequency-division multiplexing, which was later widely deployed in DSL modems and Wi-Fi wireless modems.",
+   "status": "confirmed",
+   "locator": "שורה 49"
+  },
+  {
+   "id": "c53",
+   "text": "לפי ההספד של ה-NAE, ברן הקים במשותף את Metricom ב-1986, שהובילה למערכת Ricochet.",
+   "source": "src2",
+   "quote": "In 1986, Baran cofounded Metricom, Inc. (electric/utility industry remote metering and distribution automation), which led to the Ricochet wireless data communications system.",
+   "status": "confirmed",
+   "locator": "שורה 15"
+  },
+  {
+   "id": "c54",
+   "text": "לפי ויקיפדיה, ברן הקים את Metricom ב-1985, חברת האינטרנט האלחוטי הראשונה, שהפעילה את Ricochet.",
+   "source": "src3",
+   "quote": "In 1985, Baran founded Metricom, the first wireless Internet company, which deployed Ricochet",
+   "status": "confirmed",
+   "locator": "שורה 50"
+  },
+  {
+   "id": "c58",
+   "text": "לפי ויקיפדיה, ברן מיוחס כממציא גלאי הנשק הראשון בפתחי כניסה.",
+   "source": "src3",
+   "quote": "he is also credited with inventing the first doorway gun detector.",
+   "status": "confirmed",
+   "locator": "שורה 52"
+  },
+  {
+   "id": "c59",
+   "text": "לפי ARRL, ב-2007 הנשיא ג'ורג' בוש העניק לברן את מדליית הטכנולוגיה הלאומית.",
+   "source": "src4",
+   "quote": "In 2007, Baran was recognized for his achievements by President George W. Bush, who presented Baran with the National Medal of Technology",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c60",
+   "text": "לפי AP, הנשיא בוש העניק לו את מדליית הטכנולוגיה והחדשנות הלאומית ב-2008.",
+   "source": "src10",
+   "quote": "President George W. Bush presented him with the National Medal of Technology and Innovation in 2008.",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c63",
+   "text": "ב-2009 העניק בית הספר להנדסה של UCLA לברן את פרס בוגר השנה, ההוקרה הגבוהה ביותר שלו.",
+   "source": "src14",
+   "quote": "In 2009, the UCLA Henry Samueli School of Engineering and Applied Science awarded Baran with the Alumnus of the Year Award, the school’s highest honor.",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c64",
+   "text": "נשיא RAND ג'יימס תומסון אמר שהעולם טוב יותר בזכות הטכנולוגיות שברן המציא ופיתח ובזכות דאגתו למדיניות ציבורית הולמת.",
+   "source": "src4",
+   "quote": "Our world is a better place for the technologies Paul Baran invented and developed, and also because of his consistent concern with appropriate public policies for their use,",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c65",
+   "text": "וינט סרף אמר שברן לא חשש ללכת בכיוונים הנוגדים את מה שכולם חשבו שהוא הדבר הנכון או היחיד.",
+   "source": "src10",
+   "quote": "Paul wasn’t afraid to go in directions counter to what everyone else thought was the right or only thing to do",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c66",
+   "text": "ברן היה צנוע ותמיד הקטין את חלקו שלו ונתן הרבה לאחרים.",
+   "source": "src2",
+   "quote": "Ever modest, Baran never failed to minimize his own credit and gave much to others.",
+   "status": "confirmed",
+   "locator": "שורה 37"
+  },
+  {
+   "id": "c67",
+   "text": "ברן אמר שאם לא נזהרים אפשר לשכנע את עצמך שעשית את החלק החשוב ביותר.",
+   "source": "src2",
+   "quote": "If you are not careful you can con yourself into believing that you did the most important part.",
+   "status": "confirmed",
+   "locator": "שורה 31"
+  },
+  {
+   "id": "c68",
+   "text": "לפי EBSCO, ברן הדגיש תמיד שהאינטרנט המודרני הוא תוצאה של עבודת מאות אנשים ולא של חידוש אחד או שניים.",
+   "source": "src1",
+   "quote": "Baran was always quick to point out that the modern Internet was the result of not one or two innovations but the hard work of hundreds of people",
+   "status": "confirmed",
+   "locator": "שורה 54"
+  },
+  {
+   "id": "c77",
+   "text": "לפי ג'יימס פלקי, ברן האמין שהחדשנות היא מאמץ צוותי.",
+   "source": "src8",
+   "quote": "and believed that the act of innovation was a team effort",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c73",
+   "text": "אשתו של ברן מאז 1955, אוולין, מתה ב-2007.",
+   "source": "src10",
+   "quote": "Baran’s wife since 1955, Evelyn, died in 2007.",
+   "status": "confirmed",
+   "locator": "שורה 19"
+  },
+  {
+   "id": "c71",
+   "text": "לפי ARRL, ברן מת ב-27 במרץ בביתו בפאלו אלטו.",
+   "source": "src4",
+   "quote": "died March 27 at his home in Palo Alto, California.",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c72",
+   "text": "לפי EBSCO, ברן מת ב-26 במרץ 2011 מסיבוכי סרטן ריאות.",
+   "source": "src1",
+   "quote": "He died on March 26, 2011, of complications from lung cancer.",
+   "status": "confirmed",
+   "locator": "שורה 56"
+  },
+  {
+   "id": "c41",
+   "text": "לפי ויקיפדיה, דווקא עבודתו של דייויס, ולא של ברן, משכה תחילה את תשומת לבם של מפתחי ARPANET.",
+   "source": "src3",
+   "quote": "It was in fact Davies's work on packet switching, not Baran's, that initially caught the attention of the developers of ARPANET",
+   "status": "confirmed",
+   "locator": "שורה 41"
+  },
+  {
+   "id": "c43",
+   "text": "לפי ARRL, ברן היה אחד משלושה ממציאי הרשתות מבוססות המנות, יחד עם דונלד דייויס ולאונרד קליינרוק.",
+   "source": "src4",
+   "quote": "Baran was one of the three inventors of packet-switched networks, along with Donald Davies and Leonard Kleinrock.",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c44",
+   "text": "לפי ויקיפדיה, ייצוג עבודתו המוקדמת של קליינרוק כמקור הרעיון של מיתוג מנות שנוי במחלוקת בין חלוצי אינטרנט אחרים.",
+   "source": "src3",
+   "quote": "However, the representation of Kleinrock's early work as originating the concept of packet switching is disputed by other internet pioneers",
+   "status": "confirmed",
+   "locator": "שורה 43"
+  },
+  {
+   "id": "c74",
+   "text": "לפי בנו, חלפו עשורים עד שהאפשרויות החברתיות והמסחריות של הטכנולוגיה התבהרו, וברן החמיץ חלק גדול מהכסף והתהילה.",
+   "source": "src10",
+   "quote": "It would be decades before the social and commercial possibilities of the technology would become clear, and Baran would miss out on a lot of the money and glory that came with it",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c11",
+   "text": "לפי ההספד של האקדמיה הלאומית להנדסה, ברן הצטרף ל-RAND ב-1960.",
+   "source": "src2",
+   "quote": "Baran joined the RAND Corporation in 1960, two years after the invention of the integrated circuit.",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c32",
+   "text": "תקציר הראיון במכון צ'רלס באבאג' מתאר את כתיבתו והפצתו של חיבור בן אחד-עשר כרכים.",
+   "source": "src11",
+   "quote": "the writing and distribution of his eleven-volume work",
+   "status": "confirmed",
+   "locator": "שורה 23"
+  },
+  {
+   "id": "c37",
+   "text": "לפי ARRL, ב-1968 אימצו MIT ו-DARPA את הטכנולוגיה כדי ליצור את ARPANET.",
+   "source": "src4",
+   "quote": "In 1968, the technology was adopted by MIT and the DARPA -- the Department of Defense’s research agency -- to create what became the Advanced Research Projects Agency Network",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c38",
+   "text": "לפי דיווח AP, ב-1969 הפכה הטכנולוגיה לרעיון שמשרד ההגנה השתמש בו ביצירת ארפנט.",
+   "source": "src10",
+   "quote": "In 1969 the technology became a concept the Department of Defense used in creating the Arpanet, the precursor to the Internet",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c55",
+   "text": "לפי UCLA, ברן הקים שבע חברות סטארט-אפ, חמש מהן הונפקו.",
+   "source": "src14",
+   "quote": "In all, he founded seven start-up companies, five of which went public.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c56",
+   "text": "לפי ההספד של ה-NAE, ברן הקים או הקים במשותף עשר חברות לאורך השנים.",
+   "source": "src2",
+   "quote": "That Baran resonated strongly with this idea is evident from the 10 companies that he founded or cofounded over the years.",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c57",
+   "text": "לפי מעבדת למלסון, ברן הקים שש חברות בעמק הסיליקון.",
+   "source": "src13",
+   "quote": "He founded six companies in Silicon Valley including Cable Data Associates, established in Menlo Park in 1974.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c84",
+   "text": "לפי משרד הפטנטים והסימנים המסחריים של ארה\"ב (USPTO), פול ברן נמנה עם עטורי מדליית הטכנולוגיה והחדשנות הלאומית לשנת 2007.",
+   "source": "src15",
+   "quote": "2007 Laureates- National Medal of Technology and Innovation",
+   "status": "confirmed",
+   "locator": "שורה 1"
+  },
+  {
+   "id": "c85",
+   "text": "לפי מוזיאון ההיסטוריה של המחשוב, פול ברן הלך לעולמו ב-26 במרץ 2011.",
+   "source": "src7",
+   "quote": "passed away on March 26, 2011",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  }
+ ],
+ "sources": [
+  {
+   "id": "src1",
+   "label": "EBSCO Research Starters, Paul Baran",
+   "url": "https://ebsco.com/research-starters/history/paul-baran",
+   "kind": "reference"
+  },
+  {
+   "id": "src2",
+   "label": "National Academy of Engineering, Memorial Tributes vol. 16, 2012",
+   "url": "https://www.nationalacademies.org/read/13338/chapter/4",
+   "kind": "reference"
+  },
+  {
+   "id": "src3",
+   "label": "Wikipedia, Paul Baran",
+   "url": "https://en.wikipedia.org/wiki/Paul_Baran",
+   "kind": "reference"
+  },
+  {
+   "id": "src4",
+   "label": "ARRL, Internet Pioneer Paul Baran, W3KAS, SK",
+   "url": "https://www.arrl.org/news/internet-pioneer-paul-baran-w3kas-sk",
+   "kind": "press"
+  },
+  {
+   "id": "src5",
+   "label": "History of Computer Communications, Paul Baran 1959-1965",
+   "url": "https://historyofcomputercommunications.info/section/4.4/Paul-Baran-1959-1965/",
+   "kind": "reference"
+  },
+  {
+   "id": "src6",
+   "label": "Encyclopaedia Britannica, Paul Baran",
+   "url": "https://www.britannica.com/biography/Paul-Baran",
+   "kind": "reference"
+  },
+  {
+   "id": "src7",
+   "label": "Computer History Museum, Paul Baran profile",
+   "url": "https://computerhistory.org/profile/paul-baran/",
+   "kind": "reference"
+  },
+  {
+   "id": "src8",
+   "label": "Computer History Museum, Baran–Pelkey interview, 12.1.1988",
+   "url": "https://computerhistory.org/collections/catalog/102740210",
+   "kind": "press"
+  },
+  {
+   "id": "src9",
+   "label": "RAND, On Distributed Communications Networks (P-2626), 1962",
+   "url": "https://www.rand.org/pubs/papers/P2626.html",
+   "kind": "official"
+  },
+  {
+   "id": "src10",
+   "label": "Associated Press (Bangor Daily News), 29.3.2011",
+   "url": "https://www.bangordailynews.com/2011/03/29/news/internet-pioneer-paul-baran-dies-in-calif-at-84/",
+   "kind": "press"
+  },
+  {
+   "id": "src11",
+   "label": "Charles Babbage Institute, interview with Paul Baran (Judy O'Neill), 5.3.1990",
+   "url": "https://conservancy.umn.edu/items/c1b8f8cf-37fe-43c5-99d0-52cb67278ae1",
+   "kind": "press"
+  },
+  {
+   "id": "src12",
+   "label": "RAND, Some Remarks on Digital Distributed Communications Networks (P-3536)",
+   "url": "https://www.rand.org/pubs/papers/P3536.html",
+   "kind": "official"
+  },
+  {
+   "id": "src13",
+   "label": "MIT Lemelson Program, Paul Baran",
+   "url": "https://lemelson.mit.edu/resources/paul-baran",
+   "kind": "reference"
+  },
+  {
+   "id": "src14",
+   "label": "UCLA Samueli School of Engineering, In Memoriam: Paul Baran",
+   "url": "https://www.samueli.ucla.edu/?p=5551",
+   "kind": "press"
+  },
+  {
+   "id": "src15",
+   "label": "USPTO, National Medal of Technology and Innovation, 2007 Laureates",
+   "url": "https://www.uspto.gov/learning-and-resources/ip-programs-and-awards/national-medal-technology-and-innovation/recipients/2007",
+   "kind": "official"
+  }
+ ],
+ "media": [
+  {
+   "id": "m1",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/With%20Paul%20Baran.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:With_Paul_Baran.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Andreu Veà, WiWiW.org",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "Paul Baran stands beside a young man next to a glass cabinet in a wooden wall; the photograph was taken at his home in California during a personal interview to record his voice.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "2003-09-27",
+   "width": 1123,
+   "height": 794
+  },
+  {
+   "id": "m2",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=SZey878-Mp4",
+   "youtube_id": "SZey878-Mp4",
+   "source_page": "https://www.youtube.com/watch?v=SZey878-Mp4",
+   "source_name": "YouTube",
+   "credit": "Computer History Museum",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "An evening conversation with Paul Baran, moderated by Henry Lowood, at the Computer History Museum, after he received the museum’s Fellow Award for his work on the foundations of packet switching.",
+   "illustrates": [
+    "c42"
+   ],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m3",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=CoeHrKB5Fa4",
+   "youtube_id": "CoeHrKB5Fa4",
+   "source_page": "https://www.youtube.com/watch?v=CoeHrKB5Fa4",
+   "source_name": "YouTube",
+   "credit": "CyberneticArts",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "An interview with Paul Baran in the High Tech Heroes series, part one, recorded close to his death.",
+   "illustrates": [],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m4",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=77eBn3w8SHs",
+   "youtube_id": "77eBn3w8SHs",
+   "source_page": "https://www.youtube.com/watch?v=77eBn3w8SHs",
+   "source_name": "YouTube",
+   "credit": "CyberneticArts",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "In the second part of the interview, Baran speaks about technological forecasting, long-range planning and the founding of the Institute for the Future.",
+   "illustrates": [
+    "c50"
+   ],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m5",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=A6SXD1atX7A",
+   "youtube_id": "A6SXD1atX7A",
+   "source_page": "https://www.youtube.com/watch?v=A6SXD1atX7A",
+   "source_name": "YouTube",
+   "credit": "CyberneticArts",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "In the third part of the interview, Baran speaks about Packetdax and packet-based telephony, and about Telebit, a modem technology.",
+   "illustrates": [],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m6",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=dGCF0k-ohlE",
+   "youtube_id": "dGCF0k-ohlE",
+   "source_page": "https://www.youtube.com/watch?v=dGCF0k-ohlE",
+   "source_name": "YouTube",
+   "credit": "Atlantis Information Store",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "Baran talks about the beginnings of the Internet and its connection to the Cold War.",
+   "illustrates": [],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m8",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Randcorporationsantamonica.JPG?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Randcorporationsantamonica.JPG",
+   "source_name": "Wikimedia Commons",
+   "credit": "Coolcaesar",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "The RAND headquarters building in Santa Monica, California, photographed in 2015",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2015-03-28",
+   "width": 3664,
+   "height": 2692,
+   "role": "related"
+  },
+  {
+   "id": "m10",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Johniac%20%28411106583%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Johniac_%28411106583%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Adam Schuster from Orlando, FL, USA",
+   "licence": "CC BY 2.0",
+   "hosting": "hotlink",
+   "caption": "The JOHNNIAC computer, an old computer built at RAND, on display in the museum: cabinets with lamps and control panels",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/2.0",
+   "date": "2007-02-25",
+   "width": 2786,
+   "height": 1857,
+   "role": "related"
+  },
+  {
+   "id": "m11",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Johnniac%20%28289998153%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Johnniac_%28289998153%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "vonguard from Oakland, Nmibia",
+   "licence": "CC BY-SA 2.0",
+   "hosting": "hotlink",
+   "caption": "The JOHNNIAC computer at the computer museum, behind a display railing",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "date": "2006-11-05",
+   "width": 1024,
+   "height": 768,
+   "role": "related"
+  },
+  {
+   "id": "m12",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/JOHNNIAC%20badge.JPG?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:JOHNNIAC_badge.JPG",
+   "source_name": "Wikimedia Commons",
+   "credit": "No machine-readable author provided. Indolences assumed (based on copyright claims).",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "The metal sign “Johnniac” above the computer cabinets",
+   "illustrates": [],
+   "date": "24 March 2",
+   "width": 1600,
+   "height": 1200,
+   "role": "related"
+  },
+  {
+   "id": "m13",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/JOHNNIAC%20buttons.JPG?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:JOHNNIAC_buttons.JPG",
+   "source_name": "Wikimedia Commons",
+   "credit": "No machine-readable author provided. Indolences assumed (based on copyright claims).",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "Digit keys on the control panel of the JOHNNIAC computer, close up",
+   "illustrates": [],
+   "date": "24 March 2",
+   "width": 1600,
+   "height": 1200,
+   "role": "related"
+  },
+  {
+   "id": "m15",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Johnniac.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Johnniac.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "not stated",
+   "licence": "CC BY-SA 2.0",
+   "hosting": "hotlink",
+   "caption": "JOHNNIAC’s glass cabinets, with tubes, wires and a control panel at the front",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "width": 1224,
+   "height": 1632,
+   "role": "related"
+  },
+  {
+   "id": "m16",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/JOHNNIAC.JPG?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:JOHNNIAC.JPG",
+   "source_name": "Wikimedia Commons",
+   "credit": "No machine-readable author provided. Indolences assumed (based on copyright claims).",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "The JOHNNIAC computer from a low angle: glass doors, a typewriter and a control panel",
+   "illustrates": [],
+   "date": "24 March 2",
+   "width": 1600,
+   "height": 1200,
+   "role": "related"
+  }
+ ],
+ "check": {
+  "passed": true,
+  "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
+  "checked_at": "2026-11-21T07:22:44Z",
+  "counts": {
+   "confirmed": 103,
+   "not_confirmed": 0,
+   "deleted_sentences": 3,
+   "first_round_confirmed": 102,
+   "first_round_contradicted": 2,
+   "first_round_unverifiable": 2
+  },
+  "note": "unverifiable sentences were deleted, contradicted ones fixed from the source and checked again"
+ },
+ "meta": {
+  "run": "paul-baran-packet-switching",
+  "pipeline": "scripts/museum/museum_line.py",
+  "models": {
+   "research": "sonnet-5-5",
+   "extract": "sonnet-5-5",
+   "media": "sonnet-5-5",
+   "write": "opus-5-5 medium",
+   "check": "opus-5-5 medium",
+   "fix": "opus-5-5 medium"
+  },
+  "source_quality": {
+   "sources": 14,
+   "wikipedia": 1,
+   "strong": 7,
+   "ok": true,
+   "warnings": []
+  },
+  "settled": [
+   {
+    "box": "d6",
+    "question": "באיזו שנה קיבל ברן את מדליית הטכנולוגיה הלאומית?",
+    "url": "https://www.uspto.gov/learning-and-resources/ip-programs-and-awards/national-medal-technology-and-innovation/recipients/2007",
+    "by": "settle 24.11"
+   },
+   {
+    "box": "d7",
+    "question": "באיזה תאריך מת ברן?",
+    "url": "https://computerhistory.org/profile/paul-baran/",
+    "by": "settle 24.11"
+   }
+  ]
+ },
+ "lang": "en",
+ "translation": {
+  "from": "he",
+  "translator": "claude-opus-5-5",
+  "checker": "claude-opus-5-5 (separate call, blind to the translation prompt)",
+  "checked_at": "2026-11-23T22:37:01Z",
+  "passed": true,
+  "items": 136,
+  "pairs_checked": 2,
+  "reused": 134,
+  "first_round_flagged": 0,
+  "still_flagged": 0,
+  "flagged": [],
+  "quote_translations": {}
+ }
+}

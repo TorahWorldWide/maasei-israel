@@ -1,0 +1,56 @@
+{
+ "schema": "maasei-backdrop/1",
+ "slug": "idf-soldiers-turkey-rescue-19-survivors",
+ "media": "m19",
+ "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Hatay%20i%20Tyrkiet%20efter%20jordsk%C3%A6lvet%202023.jpg?width=1920",
+ "img_small": "https://commons.wikimedia.org/wiki/Special:FilePath/Hatay%20i%20Tyrkiet%20efter%20jordsk%C3%A6lvet%202023.jpg?width=1080",
+ "why": "A sharp, high-resolution aerial view of collapsed buildings turned to rubble in Hatay after the February 2023 earthquake, showing the scale of the disaster the rescue team answered.",
+ "chosen_by": "opus picker",
+ "alternates": [
+  "m5"
+ ],
+ "from": {
+  "average": "#85776b",
+  "picked": "#c2aa8b",
+  "coloured_share": 0.466,
+  "lightness": 0.47
+ },
+ "palette": {
+  "paper": "#f4efe9",
+  "surface": "#faf8f6",
+  "band": "#ece3d7",
+  "tint": "#eaddcc",
+  "header": "#efe8df",
+  "rule": "#d5c4af",
+  "text": "#2a2218",
+  "text2": "#4c4133",
+  "accent": "#745834",
+  "meta": "#655b4c",
+  "tone": "#221e1b",
+  "shadow": "33, 26, 18"
+ },
+ "checks": {
+  "text_on_paper": 13.7,
+  "text_on_surface": 14.79,
+  "text_on_band": 12.34,
+  "text_on_tint": 11.72,
+  "text_on_header": 12.89,
+  "text2_on_paper": 8.7,
+  "text2_on_surface": 9.39,
+  "text2_on_band": 7.83,
+  "text2_on_tint": 7.44,
+  "text2_on_header": 8.18,
+  "accent_on_paper": 5.76,
+  "accent_on_surface": 6.22,
+  "accent_on_band": 5.19,
+  "accent_on_tint": 4.93,
+  "accent_on_header": 5.42,
+  "meta_on_paper": 5.82,
+  "meta_on_surface": 6.28,
+  "meta_on_band": 5.24,
+  "meta_on_tint": 4.98,
+  "meta_on_header": 5.48,
+  "paper_on_accent": 5.76
+ },
+ "passed": true
+}

@@ -1,0 +1,56 @@
+{
+ "schema": "maasei-backdrop/1",
+ "slug": "zaka-volunteers-global-rescue-missions",
+ "media": "m8",
+ "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Disaster%20Victim%20Identification%20after%202023%20Hamas%20attack%20on%20Israel%20%28ZAKA194%29..JPG?width=1920",
+ "img_small": "https://commons.wikimedia.org/wiki/Special:FilePath/Disaster%20Victim%20Identification%20after%202023%20Hamas%20attack%20on%20Israel%20%28ZAKA194%29..JPG?width=1080",
+ "why": "ZAKA volunteers lie flat among the ruins of a destroyed house in the Gaza envelope during a rocket alert, a wide, deep scene of rubble that shows the disaster world they work in.",
+ "chosen_by": "opus picker",
+ "alternates": [
+  "m11"
+ ],
+ "from": {
+  "average": "#b5b4b2",
+  "picked": "#97a8c6",
+  "coloured_share": 0.011,
+  "lightness": 0.705
+ },
+ "palette": {
+  "paper": "#f0efed",
+  "surface": "#f8f8f7",
+  "band": "#e5e3df",
+  "tint": "#e0ddd7",
+  "header": "#e9e8e4",
+  "rule": "#c7c4bc",
+  "text": "#2a2418",
+  "text2": "#4c4433",
+  "accent": "#6a5939",
+  "meta": "#655d4c",
+  "tone": "#22201b",
+  "shadow": "33, 28, 18"
+ },
+ "checks": {
+  "text_on_paper": 13.4,
+  "text_on_surface": 14.49,
+  "text_on_band": 12.01,
+  "text_on_tint": 11.36,
+  "text_on_header": 12.56,
+  "text2_on_paper": 8.38,
+  "text2_on_surface": 9.06,
+  "text2_on_band": 7.51,
+  "text2_on_tint": 7.1,
+  "text2_on_header": 7.85,
+  "accent_on_paper": 5.89,
+  "accent_on_surface": 6.37,
+  "accent_on_band": 5.28,
+  "accent_on_tint": 5.0,
+  "accent_on_header": 5.52,
+  "meta_on_paper": 5.67,
+  "meta_on_surface": 6.13,
+  "meta_on_band": 5.08,
+  "meta_on_tint": 4.81,
+  "meta_on_header": 5.31,
+  "paper_on_accent": 5.89
+ },
+ "passed": true
+}

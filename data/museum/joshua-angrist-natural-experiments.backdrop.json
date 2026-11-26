@@ -1,0 +1,56 @@
+{
+ "schema": "maasei-backdrop/1",
+ "slug": "joshua-angrist-natural-experiments",
+ "media": "m3",
+ "img": "https://commons.wikimedia.org/wiki/Special:FilePath/MIT%20Department%20of%20Economics%20-%20Morris%20and%20Sophie%20Chang%20Building%20%28Building%20E52%29%20%2854960815443%29.jpg?width=1920",
+ "img_small": "https://commons.wikimedia.org/wiki/Special:FilePath/MIT%20Department%20of%20Economics%20-%20Morris%20and%20Sophie%20Chang%20Building%20%28Building%20E52%29%20%2854960815443%29.jpg?width=1080",
+ "why": "A wide, sharp view of the MIT economics building among autumn trees, the place where Angrist did his research, with enough depth and texture to stay readable when darkened.",
+ "chosen_by": "opus picker",
+ "alternates": [
+  "m2"
+ ],
+ "from": {
+  "average": "#a6a19e",
+  "picked": "#927443",
+  "coloured_share": 0.244,
+  "lightness": 0.636
+ },
+ "palette": {
+  "paper": "#f4f0e9",
+  "surface": "#faf8f6",
+  "band": "#ece4d7",
+  "tint": "#eadfcc",
+  "header": "#efe9df",
+  "rule": "#d5c6af",
+  "text": "#2a2318",
+  "text2": "#4c4333",
+  "accent": "#715933",
+  "meta": "#655c4c",
+  "tone": "#221e1b",
+  "shadow": "33, 27, 18"
+ },
+ "checks": {
+  "text_on_paper": 13.67,
+  "text_on_surface": 14.66,
+  "text_on_band": 12.31,
+  "text_on_tint": 11.78,
+  "text_on_header": 12.86,
+  "text2_on_paper": 8.57,
+  "text2_on_surface": 9.19,
+  "text2_on_band": 7.71,
+  "text2_on_tint": 7.38,
+  "text2_on_header": 8.06,
+  "accent_on_paper": 5.82,
+  "accent_on_surface": 6.24,
+  "accent_on_band": 5.24,
+  "accent_on_tint": 5.01,
+  "accent_on_header": 5.47,
+  "meta_on_paper": 5.8,
+  "meta_on_surface": 6.22,
+  "meta_on_band": 5.22,
+  "meta_on_tint": 4.99,
+  "meta_on_header": 5.45,
+  "paper_on_accent": 5.82
+ },
+ "passed": true
+}

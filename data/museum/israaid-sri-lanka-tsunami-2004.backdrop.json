@@ -1,0 +1,56 @@
+{
+ "schema": "maasei-backdrop/1",
+ "slug": "israaid-sri-lanka-tsunami-2004",
+ "media": "m17",
+ "img": "https://commons.wikimedia.org/wiki/Special:FilePath/2004%20Sri%20Lanka%20Tsunami%2010%20%2816398716455%29.jpg?width=1920",
+ "img_small": "https://commons.wikimedia.org/wiki/Special:FilePath/2004%20Sri%20Lanka%20Tsunami%2010%20%2816398716455%29.jpg?width=1080",
+ "why": "A wide view of homes in Sri Lanka flattened by the tsunami beside a road, with survivors among the rubble under the palms, showing the place and the need that the Israeli team came to answer.",
+ "chosen_by": "opus picker",
+ "alternates": [
+  "m22"
+ ],
+ "from": {
+  "average": "#8d847e",
+  "picked": "#957460",
+  "coloured_share": 0.236,
+  "lightness": 0.525
+ },
+ "palette": {
+  "paper": "#f4ede9",
+  "surface": "#faf7f6",
+  "band": "#ecdfd7",
+  "tint": "#ead8cc",
+  "header": "#efe5df",
+  "rule": "#d5bdaf",
+  "text": "#2a1f18",
+  "text2": "#4c3d33",
+  "accent": "#784f36",
+  "meta": "#68594f",
+  "tone": "#221e1b",
+  "shadow": "33, 24, 18"
+ },
+ "checks": {
+  "text_on_paper": 13.87,
+  "text_on_surface": 15.07,
+  "text_on_band": 12.31,
+  "text_on_tint": 11.62,
+  "text_on_header": 12.96,
+  "text2_on_paper": 8.97,
+  "text2_on_surface": 9.74,
+  "text2_on_band": 7.96,
+  "text2_on_tint": 7.51,
+  "text2_on_header": 8.38,
+  "accent_on_paper": 6.11,
+  "accent_on_surface": 6.63,
+  "accent_on_band": 5.42,
+  "accent_on_tint": 5.11,
+  "accent_on_header": 5.7,
+  "meta_on_paper": 5.79,
+  "meta_on_surface": 6.29,
+  "meta_on_band": 5.14,
+  "meta_on_tint": 4.85,
+  "meta_on_header": 5.41,
+  "paper_on_accent": 6.11
+ },
+ "passed": true
+}

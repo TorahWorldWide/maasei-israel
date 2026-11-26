@@ -1,0 +1,56 @@
+{
+ "schema": "maasei-backdrop/1",
+ "slug": "baruj-benacerraf-immune-response-genes",
+ "media": "m20",
+ "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Harvard%20Medical%20School%20%2854954429258%29.jpg?width=1920",
+ "img_small": "https://commons.wikimedia.org/wiki/Special:FilePath/Harvard%20Medical%20School%20%2854954429258%29.jpg?width=1080",
+ "why": "A sharp, wide real photograph of Harvard Medical School across its quad, where Benacerraf did his later immunology work; it's the strongest of a weak set because none of the candidates shows a lab or his experiments.",
+ "chosen_by": "opus picker",
+ "alternates": [
+  "m9"
+ ],
+ "from": {
+  "average": "#a1a18f",
+  "picked": "#adb321",
+  "coloured_share": 0.299,
+  "lightness": 0.598
+ },
+ "palette": {
+  "paper": "#f4f4e9",
+  "surface": "#fafaf6",
+  "band": "#ebecd7",
+  "tint": "#e9eacc",
+  "header": "#eeefdf",
+  "rule": "#d3d5af",
+  "text": "#2a2a18",
+  "text2": "#4b4c33",
+  "accent": "#646718",
+  "meta": "#64654c",
+  "tone": "#22221b",
+  "shadow": "33, 33, 18"
+ },
+ "checks": {
+  "text_on_paper": 13.14,
+  "text_on_surface": 13.91,
+  "text_on_band": 12.14,
+  "text_on_tint": 11.86,
+  "text_on_header": 12.51,
+  "text2_on_paper": 7.97,
+  "text2_on_surface": 8.43,
+  "text2_on_band": 7.36,
+  "text2_on_tint": 7.19,
+  "text2_on_header": 7.58,
+  "accent_on_paper": 5.43,
+  "accent_on_surface": 5.74,
+  "accent_on_band": 5.01,
+  "accent_on_tint": 4.89,
+  "accent_on_header": 5.16,
+  "meta_on_paper": 5.41,
+  "meta_on_surface": 5.72,
+  "meta_on_band": 4.99,
+  "meta_on_tint": 4.88,
+  "meta_on_header": 5.15,
+  "paper_on_accent": 5.43
+ },
+ "passed": true
+}

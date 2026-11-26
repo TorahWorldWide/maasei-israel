@@ -1,0 +1,56 @@
+{
+ "schema": "maasei-backdrop/1",
+ "slug": "judah-touro-new-orleans-philanthropy",
+ "media": "m30",
+ "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Old%20Touro%20Infirmary%20Picayune%20Guide%201904.jpg?width=1920",
+ "img_small": "https://commons.wikimedia.org/wiki/Special:FilePath/Old%20Touro%20Infirmary%20Picayune%20Guide%201904.jpg?width=1080",
+ "why": "An early-20th-century photo of the old Touro Infirmary on Prytania Street, a wide, tree-lined view with depth that puts the visitor in the period world of the hospital he founded.",
+ "chosen_by": "opus picker",
+ "alternates": [
+  "m23"
+ ],
+ "from": {
+  "average": "#635c3b",
+  "picked": "#6b6441",
+  "coloured_share": 0.833,
+  "lightness": 0.309
+ },
+ "palette": {
+  "paper": "#f4f2e9",
+  "surface": "#faf9f6",
+  "band": "#ece9d7",
+  "tint": "#eae5cc",
+  "header": "#efecdf",
+  "rule": "#d5ceaf",
+  "text": "#2a2718",
+  "text2": "#4c4833",
+  "accent": "#6a6030",
+  "meta": "#65624c",
+  "tone": "#262417",
+  "shadow": "33, 31, 18"
+ },
+ "checks": {
+  "text_on_paper": 13.36,
+  "text_on_surface": 14.23,
+  "text_on_band": 12.27,
+  "text_on_tint": 11.83,
+  "text_on_header": 12.65,
+  "text2_on_paper": 8.2,
+  "text2_on_surface": 8.74,
+  "text2_on_band": 7.54,
+  "text2_on_tint": 7.26,
+  "text2_on_header": 7.77,
+  "accent_on_paper": 5.63,
+  "accent_on_surface": 5.99,
+  "accent_on_band": 5.17,
+  "accent_on_tint": 4.98,
+  "accent_on_header": 5.33,
+  "meta_on_paper": 5.5,
+  "meta_on_surface": 5.86,
+  "meta_on_band": 5.05,
+  "meta_on_tint": 4.87,
+  "meta_on_header": 5.21,
+  "paper_on_accent": 5.63
+ },
+ "passed": true
+}

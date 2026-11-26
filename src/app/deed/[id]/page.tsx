@@ -4,6 +4,7 @@ import { getEntryById } from "@/lib/data";
 import { SITE_TITLE_BILINGUAL } from "@/lib/i18n";
 import SiteHeader from "@/components/SiteHeader";
 import SiteFooter from "@/components/SiteFooter";
+import MuseumPage from "@/components/museum/MuseumPage";
 import DeedPageBody from "@/components/DeedPageBody";
 
 export const dynamic = "force-dynamic";
@@ -66,7 +67,11 @@ export default async function DeedPage({
       />
       <div className="min-h-screen flex flex-col">
         <SiteHeader />
-        <DeedPageBody entry={entry} />
+        {entry.museum?.schema === "maasei-museum/1" ? (
+          <MuseumPage page={entry.museum} />
+        ) : (
+          <DeedPageBody entry={entry} />
+        )}
         <SiteFooter />
       </div>
     </>

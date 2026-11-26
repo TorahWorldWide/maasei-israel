@@ -1,0 +1,56 @@
+{
+ "schema": "maasei-backdrop/1",
+ "slug": "israaid-mozambique-cyclone-idai",
+ "media": "m3",
+ "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Destroyed%20houses%20in%20Beira%2C%20Mozambique%20%289409%29.jpg?width=1920",
+ "img_small": "https://commons.wikimedia.org/wiki/Special:FilePath/Destroyed%20houses%20in%20Beira%2C%20Mozambique%20%289409%29.jpg?width=1080",
+ "why": "This aerial view of Beira's packed neighbourhoods with destroyed homes on 26 March 2019 shows the exact place and moment the team worked in, and its dense, detailed texture still reads well when darkened behind the text cards.",
+ "chosen_by": "opus picker",
+ "alternates": [
+  "m28"
+ ],
+ "from": {
+  "average": "#5c6269",
+  "picked": "#323e50",
+  "coloured_share": 0.044,
+  "lightness": 0.387
+ },
+ "palette": {
+  "paper": "#edeef0",
+  "surface": "#f7f8f9",
+  "band": "#dee1e5",
+  "tint": "#d7dbe0",
+  "header": "#e4e7e9",
+  "rule": "#bcc1c8",
+  "text": "#18202a",
+  "text2": "#333f4c",
+  "accent": "#3d5571",
+  "meta": "#515d6b",
+  "tone": "#1b1e22",
+  "shadow": "18, 25, 33"
+ },
+ "checks": {
+  "text_on_paper": 14.14,
+  "text_on_surface": 15.44,
+  "text_on_band": 12.52,
+  "text_on_tint": 11.81,
+  "text_on_header": 13.22,
+  "text2_on_paper": 9.25,
+  "text2_on_surface": 10.1,
+  "text2_on_band": 8.18,
+  "text2_on_tint": 7.72,
+  "text2_on_header": 8.64,
+  "accent_on_paper": 6.61,
+  "accent_on_surface": 7.22,
+  "accent_on_band": 5.85,
+  "accent_on_tint": 5.52,
+  "accent_on_header": 6.18,
+  "meta_on_paper": 5.78,
+  "meta_on_surface": 6.31,
+  "meta_on_band": 5.12,
+  "meta_on_tint": 4.83,
+  "meta_on_header": 5.4,
+  "paper_on_accent": 6.61
+ },
+ "passed": true
+}

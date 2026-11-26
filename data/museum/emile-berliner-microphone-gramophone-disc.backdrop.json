@@ -1,0 +1,56 @@
+{
+ "schema": "maasei-backdrop/1",
+ "slug": "emile-berliner-microphone-gramophone-disc",
+ "media": "m3",
+ "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Emile%20Berliner%20a%20son%20bureau.jpg?width=1920",
+ "img_small": "https://commons.wikimedia.org/wiki/Special:FilePath/Emile%20Berliner%20a%20son%20bureau.jpg?width=1080",
+ "why": "A wide, deep sepia view of Berliner's laboratory, with him bent over a disc record among a microscope, vials, stacked discs and cabinets, sets the scene in the workshop where the flat record was developed.",
+ "chosen_by": "opus picker",
+ "alternates": [
+  "m45"
+ ],
+ "from": {
+  "average": "#7c7258",
+  "picked": "#756547",
+  "coloured_share": 0.508,
+  "lightness": 0.416
+ },
+ "palette": {
+  "paper": "#f4f0e9",
+  "surface": "#faf8f6",
+  "band": "#ece5d7",
+  "tint": "#eae0cc",
+  "header": "#efe9df",
+  "rule": "#d5c7af",
+  "text": "#2a2418",
+  "text2": "#4c4433",
+  "accent": "#715b33",
+  "meta": "#655d4c",
+  "tone": "#242119",
+  "shadow": "33, 28, 18"
+ },
+ "checks": {
+  "text_on_paper": 13.55,
+  "text_on_surface": 14.53,
+  "text_on_band": 12.28,
+  "text_on_tint": 11.75,
+  "text_on_header": 12.75,
+  "text2_on_paper": 8.47,
+  "text2_on_surface": 9.08,
+  "text2_on_band": 7.68,
+  "text2_on_tint": 7.35,
+  "text2_on_header": 7.97,
+  "accent_on_paper": 5.69,
+  "accent_on_surface": 6.11,
+  "accent_on_band": 5.16,
+  "accent_on_tint": 4.94,
+  "accent_on_header": 5.36,
+  "meta_on_paper": 5.74,
+  "meta_on_surface": 6.15,
+  "meta_on_band": 5.2,
+  "meta_on_tint": 4.97,
+  "meta_on_header": 5.4,
+  "paper_on_accent": 5.69
+ },
+ "passed": true
+}

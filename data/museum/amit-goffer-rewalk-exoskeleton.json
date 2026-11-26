@@ -1,0 +1,1630 @@
+{
+ "schema": "maasei-museum/1",
+ "slug": "amit-goffer-rewalk-exoskeleton",
+ "deed": "עמית גופר יצר שלד חיצוני רובוטי שמחזיר לנכי עמוד שדרה את ההליכה",
+ "canonical_type": "single-inventor",
+ "year": "1998",
+ "title": "עמית גופר, משותק בארבע גפיו, המציא את ReWalk: שלד רובוטי שמחזיר נכים להליכה",
+ "trailer": [
+  {
+   "text": "ד\"ר עמית גופר, יזם ישראלי ובוגר הטכניון, הקים לאחר פרישתו מאלביט את אודין, חברה רפואית שהתמחתה בבניית מכשירי MRI.",
+   "claims": [
+    "c2",
+    "c38",
+    "c20"
+   ]
+  },
+  {
+   "text": "עמית גופר הוא יזם ישראלי שהפך למשותק בארבע גפיו אחרי תאונת טרקטורון קשה.",
+   "claims": [
+    "c2"
+   ]
+  },
+  {
+   "text": "אחרי השיקום הוא ראה באינטרנט שאין חלופה לכיסא הגלגלים, ואז עלה לו הרעיון של ה-ReWalk.",
+   "claims": [
+    "c14"
+   ]
+  },
+  {
+   "text": "הוא ייסד את חברת ארגו כדי ליצור מוצר שיאפשר לפצועי חוט שדרה ללכת שוב.",
+   "claims": [
+    "c28"
+   ]
+  },
+  {
+   "text": "ה-ReWalk היה השלד החיצוני המנועי הראשון שקיבל אישור FDA.",
+   "claims": [
+    "c38"
+   ]
+  },
+  {
+   "text": "לפי כלכליסט, גופר עצמו לא יהיה בין מי שיסתייעו בהמצאתו.",
+   "claims": [
+    "c17"
+   ]
+  }
+ ],
+ "hero_media": [
+  "m1"
+ ],
+ "glance": [
+  {
+   "label": "ממציא",
+   "value": "עמית גופר, יזם ישראלי",
+   "claims": [
+    "c2"
+   ]
+  },
+  {
+   "label": "מתחיל לעבוד על המכשיר",
+   "value": "1998",
+   "claims": [
+    "c21"
+   ]
+  },
+  {
+   "label": "החברה",
+   "value": "ארגו, נוסדה ב-2001",
+   "claims": [
+    "c28",
+    "c72"
+   ]
+  },
+  {
+   "label": "משרדים",
+   "value": "מרלבורו שבמסצ'וסטס, ברלין ויוקנעם עילית.",
+   "claims": [
+    "c72"
+   ]
+  },
+  {
+   "label": "אישור FDA",
+   "value": "הוכרז ב-26 ביוני 2014",
+   "claims": [
+    "c39"
+   ]
+  },
+  {
+   "label": "משתמשים",
+   "value": "כ-400 ברחבי העולם, לפי כתבה לא מתוארכת ב-JNS.",
+   "claims": [
+    "c53"
+   ]
+  }
+ ],
+ "stations": [
+  {
+   "id": "s1",
+   "title": "התאונה",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "גופר סיפר שבתאונה משהו השתבש בבלמי הטרקטורון.",
+      "claims": [
+       "c9"
+      ]
+     },
+     {
+      "text": "הוא סטה מהמסלול, נתקל בעץ ושבר את צווארו.",
+      "claims": [
+       "c9"
+      ]
+     },
+     {
+      "text": "לדבריו בגלובס, בתו הייתה איתו והושלכה לצד אחד, והוא עצמו עף אל העץ.",
+      "claims": [
+       "c10"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "כבר ברגע התאונה, עדיין בזירה, הבין גופר שהוא משותק.",
+      "claims": [
+       "c11"
+      ]
+     },
+     {
+      "text": "הוא נותר משותק בארבע גפיו.",
+      "claims": [
+       "c2"
+      ]
+     },
+     {
+      "text": "תשעה חודשים אחרי התאונה חזר לביתו בטבעון מהשיקום הארוך בתל השומר.",
+      "claims": [
+       "c12"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m10"
+   ],
+   "disagreements": [
+    "d1"
+   ]
+  },
+  {
+   "id": "s2",
+   "title": "הרעיון",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "גופר סיפר שהחליט להפסיק לקחת את התרופות לשיכוך כאבים, ופתאום הכל התבהר.",
+      "claims": [
+       "c13"
+      ]
+     },
+     {
+      "text": "הוא לא הבין למה כיסא גלגלים הוא הפתרון היחיד ולמה אין מכשיר שמוליך אנשים.",
+      "claims": [
+       "c15"
+      ]
+     },
+     {
+      "text": "הוא ראה באינטרנט שאין חלופה לכיסא הגלגלים, ואז עלה לו הרעיון של ה-ReWalk.",
+      "claims": [
+       "c14"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "לפי כלכליסט, בהיסטוריה הרפואית מתועדים מאות ניסיונות כושלים להעמיד משותקים ולגרום להם ללכת.",
+      "claims": [
+       "c4"
+      ]
+     },
+     {
+      "text": "גופר סיפר שאף אחד לא האמין לו והתייחסו אליו כמו אל משוגע.",
+      "claims": [
+       "c18"
+      ]
+     },
+     {
+      "text": "לפני כן הקים את אודין, חברה רפואית שהתמחתה בבניית מכשירי MRI, אחרי שפרש מאלביט.",
+      "claims": [
+       "c20"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "לפי כלכליסט, גופר החל לעבוד על ה-ReWalk ב-1998.",
+      "claims": [
+       "c21"
+      ]
+     },
+     {
+      "text": "המכשיר יכול לסייע רק למי שידיו אינן משותקות ויכולות להשתמש בקביים, ולא למשותקי ארבע גפיים כמוהו.",
+      "claims": [
+       "c16"
+      ]
+     }
+    ]
+   ],
+   "media": [],
+   "disagreements": []
+  },
+  {
+   "id": "s3",
+   "title": "מרעיון לחברה",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "גופר ייסד את חברת ארגו מדיקל טכנולוג'יס ב-2001.",
+      "claims": [
+       "c28"
+      ]
+     },
+     {
+      "text": "חברות הון סיכון סירבו להשקיע בו.",
+      "claims": [
+       "c24"
+      ]
+     },
+     {
+      "text": "המדען הראשי נתן בו אמון, וב-2003 הסכים להוסיף שקל מקופת המדינה על כל שקל שגופר יביא.",
+      "claims": [
+       "c22"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "כעבור כשנתיים נכנסה ארגו לחממת הטכניון.",
+      "claims": [
+       "c23"
+      ]
+     },
+     {
+      "text": "שם הפכה את הדגם הראשון לאב-טיפוס עובד.",
+      "claims": [
+       "c23"
+      ]
+     },
+     {
+      "text": "בראיון לכלכליסט, שנערך עוד לפני קבלת אישור ה-FDA בארצות הברית, אמר גופר שהחברה גייסה עד אז כ-5 מיליון דולר.",
+      "claims": [
+       "c26"
+      ]
+     },
+     {
+      "text": "לפי מאגר IVC, קרן ויטהלייף השקיעה בה כמיליון וחצי דולר.",
+      "claims": [
+       "c27"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "כתבה ב-CNN הביאה לגופר פרסום בינלאומי.",
+      "claims": [
+       "c25"
+      ]
+     },
+     {
+      "text": "בעקבותיה הגיעו עיתונים זרים ורשתות טלוויזיה.",
+      "claims": [
+       "c25"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m2",
+    "m9"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s4",
+   "title": "איך הולכים עם ReWalk",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "הטיה קלה של פלג הגוף העליון מפעילה את רגלי המתכת.",
+      "claims": [
+       "c31"
+      ]
+     },
+     {
+      "text": "ההליכה נעשית בעזרת קביים רגילים.",
+      "claims": [
+       "c31"
+      ]
+     },
+     {
+      "text": "גופר אמר שהאדם מכוון את המערכת בהתקן עם כפתורים על פרק היד, והמכשיר אינו מוביל אותו.",
+      "claims": [
+       "c51"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "לפי אתר החברה, המכשיר דורש יכולת שימוש בגפיים העליונות, פעילות לב-ריאות וצפיפות עצם תקינות.",
+      "claims": [
+       "c36"
+      ]
+     },
+     {
+      "text": "לפי JNS, לבעלי שיתוק יש עצמות חלשות מאוד, ולכן ReWalk ממליצה להימנע ממשטחים חלקים, משופעים או לא ישרים.",
+      "claims": [
+       "c54"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "לפי גופר, ההליכה קרובה להליכה רגילה.",
+      "claims": [
+       "c32"
+      ]
+     },
+     {
+      "text": "לפי החברה, שלד ReWalk האישי הוא השלד החיצוני האישי היחיד שאושר ב-FDA לשימוש במדרגות ובאבני שפה.",
+      "claims": [
+       "c35"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m1",
+    "m8",
+    "m11",
+    "m12"
+   ],
+   "disagreements": [
+    "d2",
+    "d3"
+   ]
+  },
+  {
+   "id": "s5",
+   "title": "האנשים שהלכו",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "רדי כויף, נסיין המכשיר, נפגע משני כדורים בגבו בשירותו הצבאי בלבנון.",
+      "claims": [
+       "c62"
+      ]
+     },
+     {
+      "text": "לפי גלובס, הוא נפצע ב-3 במאי 1988, כשגדוד צנחנים 202 פשט על העיירה מיידון.",
+      "claims": [
+       "c63"
+      ]
+     },
+     {
+      "text": "הוא נותר משותק מהמותניים ומטה והיה כבול לכיסא גלגלים 20 שנה.",
+      "claims": [
+       "c64"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "לפי גופר, כויף הלך 10 קילומטרים במרתון תל אביב עם המכשיר ללא בעיה.",
+      "claims": [
+       "c65"
+      ]
+     },
+     {
+      "text": "כויף אמר שכשעומדים רואים את העולם בגובה רגיל, וזה מחזיר את הכבוד העצמי.",
+      "claims": [
+       "c66"
+      ]
+     },
+     {
+      "text": "לדברי גופר, הנסיין רדי כויף סיפר לו שבתו אמרה לו שסוף סוף היא רואה אותו בגובה העיניים, כמו אבא אמיתי.",
+      "claims": [
+       "c67"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "קפטן דרק הררה ממארינס ארצות הברית, שהשתתק באפגניסטן, התאמן במכשיר ReWalk.",
+      "claims": [
+       "c49"
+      ]
+     },
+     {
+      "text": "הוא כתב שהטכנולוגיה שינתה את חייו לטובה, פיזית, רגשית ופסיכולוגית.",
+      "claims": [
+       "c77"
+      ]
+     },
+     {
+      "text": "לפי JNS, יש כ-400 משתמשים ברחבי העולם, כולל חיילים משוחררים אמריקאיים ואנשי אכיפת חוק.",
+      "claims": [
+       "c53"
+      ]
+     }
+    ]
+   ],
+   "media": [],
+   "disagreements": [
+    "d4"
+   ]
+  },
+  {
+   "id": "s6",
+   "title": "אישור, הכרה ושוק",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "המוצר זכה לאישור CE האירופי, ולדברי גופר שיווקו באיטליה על ידי מרכז שיקום החל ב-2010.",
+      "claims": [
+       "c45"
+      ]
+     },
+     {
+      "text": "ה-ReWalk Personal הושק ב-2012 וזמין ברחבי אירופה.",
+      "claims": [
+       "c46"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "ארגו הכריזה ב-26 ביוני 2014 על אישור ה-FDA, שמאפשר לרכוש את המכשיר לשימוש פרטי.",
+      "claims": [
+       "c39"
+      ]
+     },
+     {
+      "text": "לפי סיינטיפיק אמריקן, זה השלד החיצוני הלביש הראשון שאושר לשימוש ביתי.",
+      "claims": [
+       "c52"
+      ]
+     },
+     {
+      "text": "מנכ\"ל החברה לארי ג'סינסקי אמר שהמוצר ישפיע מיד ובאופן משנה חיים על פצועי חוט שדרה.",
+      "claims": [
+       "c47"
+      ]
+     },
+     {
+      "text": "לפי ג'רוזלם פוסט, מחקרים הראו שמשתמשים משפרים את בריאות הלב וכלי הדם וביצועי שרירים ומערכת העיכול.",
+      "claims": [
+       "c50"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "לפי JNS, ב-2014 הסכים משרד ענייני החיילים המשוחררים האמריקאי לשלם עבור שלדים חיצוניים לחיילים משוחררים זכאים עם פגיעות חוט שדרה.",
+      "claims": [
+       "c55"
+      ]
+     },
+     {
+      "text": "לפי גלובס, המשרד יקים 24 מרכזים שיבדקו את יכולת הפצועים להשתמש במערכת.",
+      "claims": [
+       "c61"
+      ]
+     },
+     {
+      "text": "ב-11 באפריל 2024 סיים מדיקר את קביעת ההחזר עבור שלדים חיצוניים אישיים.",
+      "claims": [
+       "c71"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "הנשיא ברק אובמה צפה במכשיר בביקורו בישראל.",
+      "claims": [
+       "c30"
+      ]
+     },
+     {
+      "text": "לפי מדיקל אקספרס, ReWalk זכה בפרסי ההמצאה הטובה ביותר של Popular Science ושל Time.",
+      "claims": [
+       "c74"
+      ]
+     },
+     {
+      "text": "ארגו גדלה מסטארט-אפ קטן בישראל לחברה בינלאומית עם מטה בארצות הברית, בגרמניה ובישראל.",
+      "claims": [
+       "c29"
+      ]
+     },
+     {
+      "text": "לפי גלובס (ינואר 2016), לאחר שירד בהדרגה במשך כ-15 חודשים מאז ההנפקה, זינק מחיר המניה ב-90% ביום אחד כשבועיים לפני פרסום הכתבה, בעקבות הודעת משרד ענייני החיילים המשוחררים האמריקאי, ובעת פרסום הכתבה עמד על כמעט 14.50 דולר.",
+      "claims": [
+       "c60"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m3"
+   ],
+   "disagreements": [
+    "d5"
+   ]
+  },
+  {
+   "id": "s7",
+   "title": "הצעד הבא: לעמוד על גלגלים",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "לפי ויקיפדיה, גופר היה מנכ\"ל החברה בין 2001 ל-2012, ובין 2012 ל-2015 היה נשיאה וה-CTO שלה.",
+      "claims": [
+       "c75"
+      ]
+     },
+     {
+      "text": "לפי כתבה של האגודה האמריקאית לידידי הטכניון משנת 2014, גופר עבד באותה עת על UPnRIDE.",
+      "claims": [
+       "c73"
+      ]
+     },
+     {
+      "text": "זה מכשיר זקוף על גלגלים, שיאפשר למשתמשי כיסא גלגלים לנוע בעמידה.",
+      "claims": [
+       "c73"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m4",
+    "m5",
+    "m6"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s8",
+   "title": "מחיר, ביטוח ונכי צה\"ל",
+   "kind": "hard",
+   "paragraphs": [
+    [
+     {
+      "text": "לפי JNS, רוב חברות הביטוח בארצות הברית סירבו לכסות את המכשיר.",
+      "claims": [
+       "c44"
+      ]
+     },
+     {
+      "text": "ביוני 2017 קבע בית משפט בפלורידה שחברת Blue Cross Blue Shield of Florida חייבת לכסות מערכת ReWalk למבוטח עם פגיעת חוט שדרה.",
+      "claims": [
+       "c56"
+      ]
+     },
+     {
+      "text": "לפי JNS, גופר ומומחים נוספים מאמינים שחברות הביטוח יכלו לחסוך כ-30,000 דולר למטופל בשנה.",
+      "claims": [
+       "c57"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "גם בישראל, שבה הומצא המכשיר, הוא לא הגיע לנכי צה\"ל.",
+      "claims": [
+       "c68"
+      ]
+     },
+     {
+      "text": "הגורמים תיארו זאת בכמה דרכים שונות.",
+      "claims": [
+       "c68",
+       "c69",
+       "c70"
+      ]
+     }
+    ]
+   ],
+   "media": [],
+   "disagreements": [
+    "d6",
+    "d7"
+   ]
+  }
+ ],
+ "disagreements": [
+  {
+   "id": "d1",
+   "question": "באיזו שנה אירעה התאונה?",
+   "versions": [
+    {
+     "says": "JNS: התאונה התרחשה ב-1996",
+     "claims": [
+      "c6"
+     ]
+    },
+    {
+     "says": "גופר בכלכליסט: השתחרר מתל השומר בינואר 1997",
+     "claims": [
+      "c5"
+     ]
+    },
+    {
+     "says": "מדיקל אקספרס: תאונת טרקטור ב-1997",
+     "claims": [
+      "c7"
+     ]
+    },
+    {
+     "says": "סיינטיפיק אמריקן: תאונת ATV ב-1997",
+     "claims": [
+      "c8"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d2",
+   "question": "האם ה-ReWalk מתאים לעלייה במדרגות?",
+   "versions": [
+    {
+     "says": "גופר בכלכליסט: כן, כולל עלייה וירידה במדרגות ותנועה בשטחים משובשים",
+     "claims": [
+      "c32"
+     ]
+    },
+    {
+     "says": "גלובס: כן, בעזרת אלגוריתם ייחודי להרמת הרגליים",
+     "claims": [
+      "c34"
+     ]
+    },
+    {
+     "says": "ג'רוזלם פוסט: על פי דיווחים, המכשיר אינו מתאים לעלייה במדרגות",
+     "claims": [
+      "c33"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d3",
+   "question": "כמה מפגשי אימון צריך?",
+   "versions": [
+    {
+     "says": "מדיקל אקספרס: כ-15 מפגשים בני שעה, ונדרש כוח בפלג הגוף העליון",
+     "claims": [
+      "c40"
+     ]
+    },
+    {
+     "says": "JNS: בדרך כלל בין 12 ל-15 מפגשים",
+     "claims": [
+      "c41"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d4",
+   "question": "איך מאוית שם החייל האמריקאי?",
+   "versions": [
+    {
+     "says": "ג'רוזלם פוסט: \"Harare\"",
+     "claims": [
+      "c48"
+     ]
+    },
+    {
+     "says": "מדיקל אקספרס: הררה",
+     "claims": [
+      "c49"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d5",
+   "question": "באיזו בורסה נסחרת החברה?",
+   "versions": [
+    {
+     "says": "JNS: בורסת ניו יורק",
+     "claims": [
+      "c58"
+     ]
+    },
+    {
+     "says": "גלובס: הנפקה בנאסד\"ק בספטמבר 2014, חודשיים אחרי אישור ה-FDA",
+     "claims": [
+      "c59"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d6",
+   "question": "כמה עולה המכשיר?",
+   "versions": [
+    {
+     "says": "ג'רוזלם פוסט: לפי דיווחים, 65,000 עד 68,000 דולר",
+     "claims": [
+      "c42"
+     ]
+    },
+    {
+     "says": "סיינטיפיק אמריקן: 69,500 דולר ליחידה",
+     "claims": [
+      "c43"
+     ]
+    },
+    {
+     "says": "JNS: כ-70,000 דולר",
+     "claims": [
+      "c44"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d7",
+   "question": "למה המכשיר לא הגיע לנכי צה\"ל?",
+   "versions": [
+    {
+     "says": "גופר ב-2016: מנכ\"ל משרד הביטחון דאז פנחס בוכריס, קצין הרפואה הראשי ומחלקת השיקום הסכימו, אך העניין נעלם",
+     "claims": [
+      "c69"
+     ]
+    },
+    {
+     "says": "משרד הביטחון: הנושא לא צלח מסיבות שונות",
+     "claims": [
+      "c70"
+     ]
+    }
+   ]
+  }
+ ],
+ "unknowns": [
+  {
+   "text": "לא ידוע אילו חברות הון סיכון סירבו להשקיע",
+   "claims": [
+    "c24"
+   ]
+  },
+  {
+   "text": "לא ידוע אם המכשיר הגיע בסוף לנכי צה\"ל",
+   "claims": [
+    "c69",
+    "c70"
+   ]
+  }
+ ],
+ "claims": [
+  {
+   "id": "c2",
+   "text": "עמית גופר הוא יזם וסטארטאפיסט ישראלי שהפך למשותק בארבע גפיו בעקבות תאונת טרקטורון קשה לפני יותר מעשור.",
+   "source": "src1",
+   "quote": "עמית גופר, יזם וסטארטאפיסט ישראלי שלפני יותר מעשור נהפך למשותק בארבע גפיו בעקבות תאונת טרקטורון קשה",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c14",
+   "text": "גופר סיפר שראה באינטרנט שאין חלופה לכיסא הגלגלים, ואז עלה לו הרעיון של ה-ReWalk.",
+   "source": "src1",
+   "quote": "התחברתי לאינטרנט וראיתי שאין שום חלופה לכיסא הגלגלים, ואז עלה לי הרעיון של ה־ReWalk",
+   "status": "confirmed",
+   "locator": "שורה 26"
+  },
+  {
+   "id": "c28",
+   "text": "גופר ייסד את חברת ארגו מדיקל טכנולוג'יס ב-2001 כדי ליצור מוצר מוגן פטנט שיאפשר לפצועי חוט שדרה ללכת שוב.",
+   "source": "src2",
+   "quote": "He founded Argo Medical Technologies in 2001 to create a patented product that would enable persons with spinal cord injuries to walk again.",
+   "status": "confirmed",
+   "locator": "שורה 31"
+  },
+  {
+   "id": "c38",
+   "text": "ה-ReWalk, שהמציא בוגר הטכניון ד\"ר עמית גופר, הוא השלד החיצוני המנועי הראשון שקיבל אישור FDA.",
+   "source": "src3",
+   "quote": "ReWalk, invented by Technion graduate Dr. Amit Goffer, is the first motorized exoskeleton to receive FDA approval.",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c17",
+   "text": "לפי כלכליסט, גופר עצמו לא יהיה בין מי שיסתייעו בהמצאתו.",
+   "source": "src1",
+   "quote": "חייו החדשים כנכה, צמחה ההמצאה שעשויה לסייע למיליוני נכים ברחבי העולם. למרבה האירוניה, גופר עצמו לא יהיה ביניהם.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c21",
+   "text": "גופר החל לעבוד על ה-ReWalk ב-1998, שנה אחרי התאונה, לפי כלכליסט.",
+   "source": "src1",
+   "quote": "על פיתוח ה־ReWalk החל גופר לעבוד בעצמו כבר ב־1998, שנה אחרי התאונה הקשה שעבר",
+   "status": "confirmed",
+   "locator": "שורה 35"
+  },
+  {
+   "id": "c72",
+   "text": "החברה נוסדה ב-2001, ויש לה משרדים במרלבורו, בברלין וביוקנעם עילית בישראל.",
+   "source": "src4",
+   "quote": "Founded in 2001, the company has offices in Marlborough, Mass.; Berlin; and Yokneam Illit, Israel.",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c39",
+   "text": "אישור ה-FDA הוכרז ב-26 ביוני 2014 על ידי ארגו, והוא מאפשר לרכוש את המכשיר לשימוש פרטי.",
+   "source": "src3",
+   "quote": "The FDA approval, announced June 26, 2014 by Argo Medical Technologies, will allow people to purchase the device for private use.",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c53",
+   "text": "לפי JNS יש כ-400 משתמשי ReWalk ברחבי העולם, כולל חיילים משוחררים אמריקאיים ואנשי אכיפת חוק.",
+   "source": "src5",
+   "quote": "There are roughly 400 users of ReWalk around the globe, including a number of U.S. military veterans and law-enforcement officials.",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c9",
+   "text": "גופר סיפר שבתאונה משהו השתבש בבלמי הטרקטורון, הוא סטה מהמסלול, נתקל בעץ ושבר את צווארו.",
+   "source": "src1",
+   "quote": "ואז משהו השתבש בבלמים של הטרקטורון שבו נהגתי, סטיתי מהמסלול, נתקלתי בעץ ושברתי את הצוואר",
+   "status": "confirmed",
+   "locator": "שורה 21"
+  },
+  {
+   "id": "c10",
+   "text": "גופר סיפר בגלובס שבתו, שהייתה איתו, הושלכה לצד אחד והוא עצמו עף אל העץ, והפגיעה שברה את צווארו.",
+   "source": "src6",
+   "quote": "My daughter, who was with me, was thrown in one direction, and I flew into the tree. The collision broke my neck",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c11",
+   "text": "כבר ברגע התאונה, עדיין בזירה, הבין גופר שהוא משותק.",
+   "source": "src1",
+   "quote": "כבר ברגע התאונה, עדיין בזירה, הבין גופר שהוא משותק.",
+   "status": "confirmed",
+   "locator": "שורה 22"
+  },
+  {
+   "id": "c12",
+   "text": "תשעה חודשים אחרי התאונה חזר גופר לביתו בטבעון מהשיקום הארוך בתל השומר.",
+   "source": "src1",
+   "quote": "תשעה חודשים מאוחר יותר חזר גופר לביתו בטבעון מהשיקום הארוך בתל השומר",
+   "status": "confirmed",
+   "locator": "שורה 23"
+  },
+  {
+   "id": "c13",
+   "text": "גופר סיפר שהחליט להפסיק לקחת את התרופות שנתנו לו לשיכוך כאבים, ופתאום הכל התבהר.",
+   "source": "src1",
+   "quote": "ואז החלטתי להפסיק לקחת את כל התרופות שנתנו לי לשיכוך כאבים - ופתאום הכל התבהר",
+   "status": "confirmed",
+   "locator": "שורה 26"
+  },
+  {
+   "id": "c15",
+   "text": "גופר אמר שלא הבין למה כיסא גלגלים הוא הפתרון היחיד ולמה אין מכשיר שמוליך אנשים.",
+   "source": "src1",
+   "quote": "לא הבנתי למה כיסא גלגלים הוא הפתרון היחיד, למה אין מכשיר שפשוט מוליך אנשים.",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c4",
+   "text": "לפי כלכליסט, בהיסטוריה הרפואית מתועדים מאות ניסיונות כושלים להעמיד משותקים ולגרום להם ללכת.",
+   "source": "src1",
+   "quote": "בהיסטוריה הרפואית מתועדים מאות ניסיונות כושלים להעמיד משותקים ולגרום להם ללכת",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c18",
+   "text": "גופר סיפר שאף אחד לא האמין לו והתייחסו אליו כמו אל משוגע.",
+   "source": "src1",
+   "quote": "גם לי אף אחד לא האמין, והתייחסו אלי כמו אל משוגע.",
+   "status": "confirmed",
+   "locator": "שורה 28"
+  },
+  {
+   "id": "c20",
+   "text": "אודין, חברה רפואית שגופר הקים לאחר פרישתו מאלביט, התמחתה בבניית מכשירי MRI.",
+   "source": "src1",
+   "quote": "סטארט־אפ רפואי שהקים לאחר פרישתו מאלביט ושהתמחה בבניית מכשירי MRI",
+   "status": "confirmed",
+   "locator": "שורה 17"
+  },
+  {
+   "id": "c16",
+   "text": "בראיון נאמר לגופר שהמכשיר יכול לסייע רק למי שידיו אינן משותקות ויכולות להשתמש בקביים, ולא למשותקי ארבע גפיים כמוהו.",
+   "source": "src1",
+   "quote": "המכשיר שלך יכול לסייע רק למי שידיו אינן משותקות ויכול להשתמש בקביים, לא למשותקי ארבע גפיים כמוך.",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c24",
+   "text": "גם חברות הון סיכון סירבו להשקיע בגופר, ושמן אינו מוזכר.",
+   "source": "src1",
+   "quote": "גם חברות הון סיכון, שאת שמן גופר אינו רוצה להזכיר, סירבו להשקיע בו",
+   "status": "confirmed",
+   "locator": "שורה 36"
+  },
+  {
+   "id": "c22",
+   "text": "המדען הראשי נתן בגופר אמון, וב-2003 הסכים להוסיף שקל מקופת המדינה על כל שקל שגופר יביא.",
+   "source": "src1",
+   "quote": "רק המדען הראשי נתן בו אמון, וב־2003 הסכים לשים שקל מקופת המדינה על כל שקל שגופר יביא",
+   "status": "confirmed",
+   "locator": "שורה 35"
+  },
+  {
+   "id": "c23",
+   "text": "כעבור כשנתיים נכנסה ארגו לחממת הטכניון, ושם הפכה את הדגם הראשון לאב-טיפוס עובד.",
+   "source": "src1",
+   "quote": "כעבור כשנתיים כבר נכנסה ארגו לפעילות בחממת הטכניון, שם הפכה את הדגם הראשון לאב־טיפוס עובד",
+   "status": "confirmed",
+   "locator": "שורה 35"
+  },
+  {
+   "id": "c26",
+   "text": "לדברי גופר, החברה גייסה לאורך השנים כ-5 מיליון דולר.",
+   "source": "src1",
+   "quote": "לדברי גופר, לאורך השנים גייסה החברה כ־5 מיליון דולר.",
+   "status": "confirmed",
+   "locator": "שורה 37"
+  },
+  {
+   "id": "c27",
+   "text": "לפי מאגר IVC, קרן ויטהלייף השקיעה בארגו כמיליון וחצי דולר.",
+   "source": "src1",
+   "quote": "על פי מאגר המידע של תעשיית ההייטק בישראל IVC, ויטהלייף השקיעה בארגו כמיליון וחצי דולר",
+   "status": "confirmed",
+   "locator": "שורה 37"
+  },
+  {
+   "id": "c25",
+   "text": "כתבה ב-CNN קנתה לגופר פרסום בינלאומי, ובעקבותיה הגיעו עיתונים זרים ורשתות טלוויזיה.",
+   "source": "src1",
+   "quote": "כתבה אחת ב־CNN קנתה לו פרסום בינלאומי, ובעקבותיה הגיעו עוד עיתונים זרים ורשתות טלוויזיה",
+   "status": "confirmed",
+   "locator": "שורה 36"
+  },
+  {
+   "id": "c31",
+   "text": "ב-ReWalk הטיה קלה של פלג הגוף העליון מפעילה את רגלי המתכת, וההליכה נעשית בעזרת קביים רגילים.",
+   "source": "src1",
+   "quote": "ב־ReWalk הטיה קלה של פלג הגוף העליון מפעילה את רגלי המתכת, וההליכה מתבצעת בעזרת קביים רגילים",
+   "status": "confirmed",
+   "locator": "שורה 34"
+  },
+  {
+   "id": "c51",
+   "text": "גופר אמר שהאדם מכוון את המערכת באמצעות התקן עם כפתורים על פרק היד, והמכשיר אינו מוביל אותו.",
+   "source": "src2",
+   "quote": "The person directs the system using a device attached to the wrist that has buttons; it does not lead him",
+   "status": "confirmed",
+   "locator": "שורה 50"
+  },
+  {
+   "id": "c36",
+   "text": "לפי אתר החברה, המכשיר דורש גפיים עליונות מתפקדות, פעילות לב-ריאות ופעילות עצם תקינות.",
+   "source": "src1",
+   "quote": "נוסף על יכולת שימוש בגפיים העליונות, דורש המכשיר פעילות לב־ריאות וצפיפות עצם תקינות",
+   "status": "confirmed",
+   "locator": "שורה 34"
+  },
+  {
+   "id": "c54",
+   "text": "לפי JNS, בעלי שיתוק בעלי עצמות חלשות מאוד, ולכן ReWalk ממליצה להימנע משימוש על משטחים חלקים, משופעים או לא ישרים.",
+   "source": "src5",
+   "quote": "Paraplegics have very weak bones, so ReWalk encourages patients not to use the device on slippery, sloped or uneven surfaces.",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c32",
+   "text": "לפי גופר, ה-ReWalk מאפשר הליכה הקרובה להליכה רגילה, כולל עלייה וירידה במדרגות ותנועה בשטחים משובשים.",
+   "source": "src1",
+   "quote": "ה־ReWalk מאפשר הליכה הקרובה להליכה רגילה, ואף מאפשרת עלייה וירידה במדרגות ותנועה בשטחים משובשים",
+   "status": "confirmed",
+   "locator": "שורה 34"
+  },
+  {
+   "id": "c35",
+   "text": "לפי החברה, ה-ReWalk הוא המכשיר האישי היחיד שאושר ב-FDA לשימוש במדרגות ובמדרכות.",
+   "source": "src7",
+   "quote": "It is the only personal exoskeleton FDA-cleared for use on stairs and curbs.",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c62",
+   "text": "רדי כויף, נסיין המכשיר, נפגע משני כדורים בגבו במהלך שירותו הצבאי בלבנון.",
+   "source": "src1",
+   "quote": "לראשונה מאז פילחו שני כדורים את גבו בעת שירותו הצבאי בלבנון, כויף מסתובב בחדר כשהוא עומד זקוף על שניים",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c63",
+   "text": "לפי גלובס, ב-3 במאי 1988 גדוד צנחנים 202 פשט על העיירה מיידון בדרום לבנון, ושם נפצע כויף.",
+   "source": "src6",
+   "quote": "on May 3, 1988, one month before his scheduled release from the IDF, Paratrooper Battalion 202, in which he was serving, raided the town of Maidun in southern Lebanon",
+   "status": "confirmed",
+   "locator": "שורה 16"
+  },
+  {
+   "id": "c64",
+   "text": "כויף נותר משותק מהמותניים ומטה והיה כבול לכיסא גלגלים 20 שנה.",
+   "source": "src6",
+   "quote": "Kaiuf was left paralyzed for life from his waist downwards, and was wheelchair-bound for 20 years",
+   "status": "confirmed",
+   "locator": "שורה 17"
+  },
+  {
+   "id": "c65",
+   "text": "לפי גופר, כויף הלך 10 קילומטרים במרתון תל אביב עם המכשיר ללא בעיה.",
+   "source": "src6",
+   "quote": "our test pilot, Radi Kaiuf, walked 10 kilometers in the Tel Aviv Marathon with no problem",
+   "status": "confirmed",
+   "locator": "שורה 15"
+  },
+  {
+   "id": "c66",
+   "text": "כויף אמר שכשעומדים רואים את העולם בגובה רגיל, וזה מחזיר את הכבוד העצמי.",
+   "source": "src6",
+   "quote": "When you stand, you see the world at your normal height.",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c67",
+   "text": "לפי כויף, בתו אמרה לו שסוף סוף היא רואה אותו בגובה העיניים, כמו אבא אמיתי.",
+   "source": "src1",
+   "quote": "אבא, סוף סוף אני רואה אותך בגובה העיניים. עכשיו אני רואה אותך כמו אבא אמיתי",
+   "status": "confirmed",
+   "locator": "שורה 43"
+  },
+  {
+   "id": "c49",
+   "text": "לפי מדיקל אקספרס, קפטן דרק הררה ממארינס ארצות הברית, שהשתתק באפגניסטן ואימן עם ReWalk, יהיה בין האמריקאים הראשונים שיחזיקו במכשיר.",
+   "source": "src3",
+   "quote": "Derek Herrera, a U.S. Marine Corps Captain who was paralyzed in Afghanistan and has trained with ReWalk, will be one of the first Americans to own the device.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c77",
+   "text": "דרק הררה, חייל משוחרר מהמארינס, כתב שהטכנולוגיה שינתה את חייו לטובה פיזית, רגשית ופסיכולוגית.",
+   "source": "src7",
+   "quote": "I can unequivocally state that this technology has changed my life for the better physically, emotionally, and psychologically.",
+   "status": "confirmed",
+   "locator": "שורה 32"
+  },
+  {
+   "id": "c45",
+   "text": "המוצר זכה לאישור CE האירופי, ולדברי גופר שיווקו באיטליה על ידי מרכז שיקום החל ב-2010.",
+   "source": "src1",
+   "quote": "לאחר בדיקות מדוקדקות זכה המוצר לאישור האיחוד האירופי, ה־CE, ולדברי גופר בימים אלה מתחיל שיווקו באיטליה על ידי מרכז שיקום לנכים",
+   "status": "confirmed",
+   "locator": "שורה 40"
+  },
+  {
+   "id": "c46",
+   "text": "ה-ReWalk Personal הושק ב-2012 וזמין ברחבי אירופה.",
+   "source": "src2",
+   "quote": "Launched in 2012, the ReWalk Personal is currently available throughout Europe.",
+   "status": "confirmed",
+   "locator": "שורה 33"
+  },
+  {
+   "id": "c52",
+   "text": "ReWalk הוא השלד החיצוני הלביש הראשון שאושר על ידי ה-FDA לשימוש ביתי, לפי סיינטיפיק אמריקן.",
+   "source": "src8",
+   "quote": "the first wearable exoskeleton to be approved by the FDA for home use",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c47",
+   "text": "מנכ\"ל החברה לארי ג'סינסקי אמר שהמוצר ישפיע מיד ובאופן משנה חיים על פצועי חוט שדרה.",
+   "source": "src3",
+   "quote": "This revolutionary product will have an immediate, life-changing impact on individuals with spinal cord injuries",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c50",
+   "text": "לפי ג'רוזלם פוסט, מחקרים הראו שמשתמשים משפרים את בריאות הלב וכלי הדם, עוצרים את אובדן רקמת השומן ומשפרים ביצועי שרירים ומערכת העיכול.",
+   "source": "src2",
+   "quote": "Studies have shown that users improve their cardiovascular health, halt the loss of fat tissue, and boost their muscle and gastrointestinal performance.",
+   "status": "confirmed",
+   "locator": "שורה 45"
+  },
+  {
+   "id": "c55",
+   "text": "ב-2014 משרד ענייני החיילים המשוחררים האמריקאי הסכים לשלם עבור שלדים חיצוניים לחיילים משוחררים זכאים עם פגיעות חוט שדרה.",
+   "source": "src5",
+   "quote": "In 2014, the U.S. Department of Veterans Affairs agreed to pay the cost of exoskeletons for eligible veterans with spinal-cord injuries.",
+   "status": "confirmed",
+   "locator": "שורה 15"
+  },
+  {
+   "id": "c61",
+   "text": "לפי גלובס, משרד ענייני החיילים המשוחררים האמריקאי יקים 24 מרכזים בארצות הברית שיבדקו את יכולת פצועי חוט שדרה להשתמש במערכת.",
+   "source": "src6",
+   "quote": "will establish 24 centers all over the US to evaluate the ability of people with spinal cord injuries to use the system",
+   "status": "confirmed",
+   "locator": "שורה 21"
+  },
+  {
+   "id": "c71",
+   "text": "ב-11 באפריל 2024 מדיקר סיים את קביעת ההחזר עבור שלדים חיצוניים אישיים.",
+   "source": "src7",
+   "quote": "On April 11, 2024, Medicare finalized its reimbursement for personal exoskeletons.",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c30",
+   "text": "נשיא ארצות הברית ברק אובמה צפה במכשיר בביקורו בישראל בשנה הקודמת.",
+   "source": "src2",
+   "quote": "The device was viewed by US President Barack Obama during his visit to Israel last year.",
+   "status": "confirmed",
+   "locator": "שורה 28"
+  },
+  {
+   "id": "c74",
+   "text": "לפי מדיקל אקספרס, ReWalk זכה בפרסי ההמצאה הטובה ביותר מהמגזינים Popular Science ו-Time.",
+   "source": "src3",
+   "quote": "which has won \"best invention\" awards from Popular Science and Time magazines",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c29",
+   "text": "במהלך העשור שחלף ארגו גדלה מסטארט-אפ קטן שבסיסו בישראל לחברה בינלאומית עם מטה בארצות הברית, בגרמניה ובישראל.",
+   "source": "src2",
+   "quote": "Over the past decade, Argo has grown from a small research and development start-up based in Israel to an international company with headquarters in the US, Germany, and Israel.",
+   "status": "confirmed",
+   "locator": "שורה 32"
+  },
+  {
+   "id": "c60",
+   "text": "מחיר המניה זינק ב-90% ביום אחד והגיע לכמעט 14.50 דולר.",
+   "source": "src6",
+   "quote": "the share price skyrocketed 90% in a single day, and has now reached almost $14.50, almost 140% above its low point",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c75",
+   "text": "לפי ויקיפדיה, גופר היה מנכ\"ל החברה שייסד בין 2001 ל-2012, ובין 2012 ל-2015 נשיאה וה-CTO שלה.",
+   "source": "src9",
+   "quote": "From 2001 to 2012 he was CEO, and then from 2012 to 2015 the President and CTO of the company he founded",
+   "status": "confirmed",
+   "locator": "שורה 15"
+  },
+  {
+   "id": "c73",
+   "text": "גופר עובד כיום על UPnRIDE, מכשיר זקוף על גלגלים שיאפשר למשתמשי כיסא גלגלים להיות ניידים בעמידה.",
+   "source": "src3",
+   "quote": "Currently, Dr. Goffer is at work on UPnRIDE, a product that would improve the quality of life for all wheelchair users.",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c44",
+   "text": "לפי JNS, ReWalk עולה כ-70,000 דולר, ורוב חברות הביטוח בארצות הברית סירבו לכסות אותו.",
+   "source": "src5",
+   "quote": "Because ReWalk costs approximately $70,000, many who could benefit from using it cannot afford it.",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c56",
+   "text": "ביוני 2017 בית משפט בפלורידה קבע שחברת הביטוח Blue Cross Blue Shield of Florida חייבת לכסות מערכת ReWalk עבור מבוטח עם פגיעת חוט שדרה.",
+   "source": "src5",
+   "quote": "in June 2017, a Florida court ruled that Blue Cross Blue Shield of Florida must provide coverage of a ReWalk exoskeleton system for a plan member with a spinal-cord injury",
+   "status": "confirmed",
+   "locator": "שורה 16"
+  },
+  {
+   "id": "c57",
+   "text": "לפי JNS, גופר ומומחים נוספים מאמינים שחברות ביטוח יכלו לחסוך כ-30,000 דולר למטופל בשנה.",
+   "source": "src5",
+   "quote": "Goffer and other experts believe insurance providers could save approximately $30,000 per patient annually",
+   "status": "confirmed",
+   "locator": "שורה 17"
+  },
+  {
+   "id": "c68",
+   "text": "לדברי גופר, בישראל שבה הומצא המכשיר נכי צה\"ל יישארו ישובים בכיסא גלגלים בעוד שבעולם ילכו.",
+   "source": "src1",
+   "quote": "דווקא בישראל שבה הומצא המכשיר הם יישארו ישובים בכיסא גלגלים",
+   "status": "confirmed",
+   "locator": "שורה 41"
+  },
+  {
+   "id": "c69",
+   "text": "גופר סיפר ב-2016 שמנכ\"ל משרד הביטחון דאז פנחס בוכריס, קצין הרפואה הראשי ומחלקת השיקום הסכימו, אך העניין נעלם.",
+   "source": "src6",
+   "quote": "When Pinchas Buchris was director general of the Ministry of Defense (two terms ago, S.S.), he agreed, the IDF chief medical officer agreed",
+   "status": "confirmed",
+   "locator": "שורה 23"
+  },
+  {
+   "id": "c70",
+   "text": "משרד הביטחון הגיב שהנושא לא צלח מסיבות שונות.",
+   "source": "src6",
+   "quote": "but for various reasons, the matter did not work out",
+   "status": "confirmed",
+   "locator": "שורה 24"
+  },
+  {
+   "id": "c6",
+   "text": "לפי JNS, התאונה שבה גופר נפל מרכב שטח ושבר את צווארו התרחשה ב-1996.",
+   "source": "src5",
+   "quote": "The story begins in 1996, when Amit Goffer, an accomplished academic who studied electrical and computer engineering in Israel and the United States, fell off an all-terrain vehicle",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c5",
+   "text": "גופר סיפר שהשתחרר מתל השומר בינואר 1997.",
+   "source": "src1",
+   "quote": "אחרי שהשתחררתי מתל השומר, בינואר 1997, הכל היה מעורפל",
+   "status": "confirmed",
+   "locator": "שורה 26"
+  },
+  {
+   "id": "c7",
+   "text": "לפי מדיקל אקספרס, ה-ReWalk הומצא אחרי תאונת טרקטור ב-1997 שהותירה את גופר משותק בארבע גפיים.",
+   "source": "src3",
+   "quote": "ReWalk was invented after a tractor accident in 1997 left Dr. Goffer a quadriplegic.",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c8",
+   "text": "לפי סיינטיפיק אמריקן, גופר משותק בארבע גפיים בעקבות תאונת ATV ב-1997.",
+   "source": "src8",
+   "quote": "himself quadriplegic as the result of a 1997 ATV accident",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c34",
+   "text": "לפי גלובס, ה-ReWalk מאפשר גם לטפס במדרגות באמצעות אלגוריתם ייחודי להרמת הרגליים.",
+   "source": "src6",
+   "quote": "This is done through a unique algorithm for picking up the legs differently.",
+   "status": "confirmed",
+   "locator": "שורה 19"
+  },
+  {
+   "id": "c33",
+   "text": "לפי ג'רוזלם פוסט, על פי דיווחים המכשיר אינו מתאים לעלייה במדרגות.",
+   "source": "src2",
+   "quote": "However, it is reportedly not suitable for going up stairs.",
+   "status": "confirmed",
+   "locator": "שורה 52"
+  },
+  {
+   "id": "c40",
+   "text": "לפי מדיקל אקספרס, המשתמש צריך כוח בפלג הגוף העליון ולעבור כ-15 מפגשי אימון בני שעה כדי ללמוד ללכת.",
+   "source": "src3",
+   "quote": "Users must have upper body strength to manipulate crutches, (making ReWalk unsuitable for quadriplegics), and undergo some 15 one-hour training sessions to learn to walk.",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c41",
+   "text": "לפי JNS, לימוד השימוש בשלד החיצוני לוקח בדרך כלל בין 12 ל-15 מפגשים.",
+   "source": "src5",
+   "quote": "It generally takes somewhere between 12 and 15 sessions to learn how to use the exoskeleton.",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c48",
+   "text": "ג'רוזלם פוסט כתב שקפטן דרק האררה (בכתיב \"Harare\") ממארינס ארצות הברית, שמתאמן עם ReWalk, יהיה בין האמריקאים הראשונים שירכשו אותו.",
+   "source": "src2",
+   "quote": "Derek Harare, a paraplegic in the US Marine Corps who has been training with ReWalk, will be one of the first Americans to buy one.",
+   "status": "confirmed",
+   "locator": "שורה 42"
+  },
+  {
+   "id": "c58",
+   "text": "לפי JNS, החברה נסחרת בבורסת ניו יורק.",
+   "source": "src5",
+   "quote": "And the company is publicly traded on the New York Stock Exchange.",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c59",
+   "text": "לפי גלובס, ריוואוק ביצעה הנפקה בנאסד\"ק בספטמבר 2014, חודשיים אחרי אישור ה-FDA.",
+   "source": "src6",
+   "quote": "held its Nasdaq IPO in September 2014, two months after obtaining US Food and Drug Administration (FDA) approval for its product",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c42",
+   "text": "לפי ג'רוזלם פוסט, הדיווחים בתקשורת מעמידים את מחיר המכשיר על 65,000 עד 68,000 דולר.",
+   "source": "src2",
+   "quote": "The prices have not officially been publicized, but news reports give the cost as between $65,000 to $68,000.",
+   "status": "confirmed",
+   "locator": "שורה 35"
+  },
+  {
+   "id": "c43",
+   "text": "לפי סיינטיפיק אמריקן, מחיר יחידה הוא 69,500 דולר.",
+   "source": "src8",
+   "quote": "The green light from the FDA is a big step forward for the entire exoskeleton industry. The price for a unit is $69,500.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  }
+ ],
+ "sources": [
+  {
+   "id": "src1",
+   "label": "כלכליסט, 2010",
+   "url": "https://www.calcalist.co.il/articles/0,7340,L-3413629,00.html",
+   "kind": "press"
+  },
+  {
+   "id": "src2",
+   "label": "Jerusalem Post, FDA approves Israel's ReWalk device",
+   "url": "https://m.jpost.com/health-and-science/fda-approves-israels-rewalk-device-enabling-paraplegics-to-walk-360975",
+   "kind": "press"
+  },
+  {
+   "id": "src3",
+   "label": "MedicalXpress, ReWalk receives FDA approval, clearing the way for US sales, 7.2014",
+   "url": "https://medicalxpress.com/news/2014-07-rewalk-fda-sales.html",
+   "kind": "press"
+  },
+  {
+   "id": "src4",
+   "label": "The Robot Report, ReWalk Robotics rebrands to Lifeward",
+   "url": "https://www.therobotreport.com/rewalk-robotics-rebrands-to-lifeward-as-portfolio-expands/",
+   "kind": "press"
+  },
+  {
+   "id": "src5",
+   "label": "JNS, Israeli inventor creates exoskeleton allowing paraplegics to walk again",
+   "url": "https://www.jns.org/israeli-inventor-creates-exoskeleton-allowing-paraplegics-to-walk-again/",
+   "kind": "press"
+  },
+  {
+   "id": "src6",
+   "label": "Globes, Israeli co ReWalk brings new hope to disabled",
+   "url": "https://www.globes.co.il/en/article-israeli-co-rewalk-brings-new-hope-to-disabled-1001093448",
+   "kind": "press"
+  },
+  {
+   "id": "src7",
+   "label": "Lifeward, Medicare Finalizes Reimbursement for the ReWalk Personal Exoskeleton, 2024",
+   "url": "https://golifeward.com/medicare",
+   "kind": "organisation"
+  },
+  {
+   "id": "src8",
+   "label": "Scientific American, Robotic Exoskeleton Gets First-Ever FDA Approval",
+   "url": "https://www.scientificamerican.com/podcast/episode/robotic-exoskeleton-gets-first-ever-fda-approval/",
+   "kind": "press"
+  },
+  {
+   "id": "src9",
+   "label": "Wikipedia, Amit Goffer",
+   "url": "https://wikipedia.com/wiki/Amit_Goffer",
+   "kind": "reference"
+  }
+ ],
+ "media": [
+  {
+   "id": "m1",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%AD%D0%BA%D0%B7%D0%BE%D2%9B%D0%B0%D2%A3%D2%9B%D0%B0.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:%D0%AD%D0%BA%D0%B7%D0%BE%D2%9B%D0%B0%D2%A3%D2%9B%D0%B0.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Soltanbekova Gulsezim",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "שלד חיצוני רובוטי לרגליים ולגב, מצולם בעמידה על רקע אפור.",
+   "illustrates": [
+    "c31"
+   ],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2020-05-06",
+   "width": 1920,
+   "height": 1440
+  },
+  {
+   "id": "m2",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=Z6dReXS6934",
+   "youtube_id": "Z6dReXS6934",
+   "source_page": "https://www.youtube.com/watch?v=Z6dReXS6934",
+   "source_name": "YouTube",
+   "credit": "הטכניון - מכון טכנולוגי לישראל",
+   "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "סרט של הטכניון, שהפיק אולפן קדנצה, על חברת ReWalk ועל השלד החיצוני שהמציא בוגר הטכניון.",
+   "illustrates": [
+    "c38"
+   ],
+   "spoken": "he",
+   "audio_tracks": [
+    "he"
+   ]
+  },
+  {
+   "id": "m3",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=Nb8v0H866wU",
+   "youtube_id": "Nb8v0H866wU",
+   "source_page": "https://www.youtube.com/watch?v=Nb8v0H866wU",
+   "source_name": "YouTube",
+   "credit": "State of Israel",
+   "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "סרטון של מדינת ישראל על טכנולוגיית ReWalk הישראלית, שעוזרת לאנשים בכיסא גלגלים ללכת שוב ושאושרה ב-FDA.",
+   "illustrates": [],
+   "spoken": "he",
+   "audio_tracks": [
+    "he"
+   ]
+  },
+  {
+   "id": "m4",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=boSTQX2w1i8",
+   "youtube_id": "boSTQX2w1i8",
+   "source_page": "https://www.youtube.com/watch?v=boSTQX2w1i8",
+   "source_name": "YouTube",
+   "credit": "הטכניון - מכון טכנולוגי לישראל",
+   "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "סרט של הטכניון על UPnRIDE, חברה שייסד בוגר הטכניון ד\"ר עמית גופר לפיתוח פתרונות למשותקי ארבע גפיים.",
+   "illustrates": [
+    "c73"
+   ]
+  },
+  {
+   "id": "m5",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=zz9BwzBMk_0",
+   "youtube_id": "zz9BwzBMk_0",
+   "source_page": "https://www.youtube.com/watch?v=zz9BwzBMk_0",
+   "source_name": "YouTube",
+   "credit": "טוגדר השקעות - Together investments",
+   "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "ד\"ר עמית גופר, ממציא UPnRIDE, מתאר איך הדבר נשמע ואיך הוא מרגיש.",
+   "illustrates": [
+    "c73"
+   ]
+  },
+  {
+   "id": "m6",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=AS91zTnJQ6k",
+   "youtube_id": "AS91zTnJQ6k",
+   "source_page": "https://www.youtube.com/watch?v=AS91zTnJQ6k",
+   "source_name": "YouTube",
+   "credit": "YouTube",
+   "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "ראיון בכנס OurCrowd על האופן שבו UPnRIDE אפשר לאדם משותק בארבע גפיים לעמוד.",
+   "illustrates": [
+    "c73"
+   ],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m8",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Human%20Universal%20Load%20Carrier.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Human_Universal_Load_Carrier.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "rdecom",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "שלד חיצוני צבאי מדגם HULC של לוקהיד מרטין על לובש בשיחה עם קצינים אמריקאים.",
+   "illustrates": [],
+   "date": "2011-01-07",
+   "width": 683,
+   "height": 1024,
+   "role": "related"
+  },
+  {
+   "id": "m9",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/StartupVillage-Yokneam%2001.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:StartupVillage-Yokneam_01.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Unclefeet",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "מבט על אזור ההייטק של יקנעם, עיר שבה פועלות חברות טכנולוגיה רפואית.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "2014-02-21",
+   "width": 1408,
+   "height": 480,
+   "role": "related"
+  },
+  {
+   "id": "m10",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/C6-C7-disc-herniation-cevical-mri-scan.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:C6-C7-disc-herniation-cevical-mri-scan.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Anthonp",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "סריקת MRI המראה בקע בדיסק בצוואר, בחלק C6-C7 (איור כללי, לא של גופר).",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "2011-12-07",
+   "width": 998,
+   "height": 934,
+   "role": "related"
+  },
+  {
+   "id": "m11",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Community%20Rehabilitation%20of%20Spinal%20Cord%20Injury.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Community_Rehabilitation_of_Spinal_Cord_Injury.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Brainshedrach",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "מכשיר תמיכה מרצועות עור ומתכת ברגליים של אדם בבית באפריקה, שיקום לאחר פגיעת חוט שדרה.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2021-03-23",
+   "width": 1728,
+   "height": 3840,
+   "role": "related"
+  },
+  {
+   "id": "m12",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/ADELI%20suit.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:ADELI_suit.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "ADELI Medical Center",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "ילד בחליפת שיקום מרצועות וגומיות ליד מטפלת בחדר טיפול (חליפת Adeli, לא ReWalk).",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "2013-01-10",
+   "width": 3456,
+   "height": 5184,
+   "role": "related"
+  }
+ ],
+ "check": {
+  "passed": true,
+  "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
+  "checked_at": "2026-11-21T14:34:21Z",
+  "counts": {
+   "confirmed": 93,
+   "not_confirmed": 0,
+   "deleted_sentences": 3,
+   "first_round_confirmed": 89,
+   "first_round_contradicted": 3,
+   "first_round_unverifiable": 3
+  },
+  "note": "unverifiable sentences were deleted, contradicted ones fixed from the source and checked again"
+ },
+ "meta": {
+  "run": "amit-goffer-rewalk-exoskeleton",
+  "pipeline": "scripts/museum/museum_line.py",
+  "models": {
+   "research": "sonnet-5-5",
+   "extract": "sonnet-5-5",
+   "media": "sonnet-5-5",
+   "write": "opus-5-5 medium",
+   "check": "opus-5-5 medium",
+   "fix": "opus-5-5 medium"
+  },
+  "source_quality": {
+   "sources": 9,
+   "wikipedia": 0,
+   "strong": 7,
+   "ok": true,
+   "warnings": []
+  }
+ }
+}

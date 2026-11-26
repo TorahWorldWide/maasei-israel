@@ -1,0 +1,56 @@
+{
+ "schema": "maasei-backdrop/1",
+ "slug": "emma-lazarus-new-colossus-refugees",
+ "media": "m18",
+ "img": "https://commons.wikimedia.org/wiki/Special:FilePath/1-Museo%20de%20la%20Estatua%20de%20la%20Libertad-2023%2002.jpg?width=1920",
+ "img_small": "https://commons.wikimedia.org/wiki/Special:FilePath/1-Museo%20de%20la%20Estatua%20de%20la%20Libertad-2023%2002.jpg?width=1080",
+ "why": "This 19th-century engraving of the Statue of Liberty's crowned head and raised arm comes from the time of the poem, and its etched texture and cloudy sky still read well when large and darkened.",
+ "chosen_by": "opus picker",
+ "alternates": [
+  "m15"
+ ],
+ "from": {
+  "average": "#8b8a7f",
+  "picked": "#8f8559",
+  "coloured_share": 0.047,
+  "lightness": 0.523
+ },
+ "palette": {
+  "paper": "#f0f0ed",
+  "surface": "#f8f8f7",
+  "band": "#e5e4df",
+  "tint": "#e0dfd7",
+  "header": "#e9e9e4",
+  "rule": "#c7c6bc",
+  "text": "#2a2918",
+  "text2": "#494731",
+  "accent": "#645f36",
+  "meta": "#5f5e48",
+  "tone": "#22221b",
+  "shadow": "33, 32, 18"
+ },
+ "checks": {
+  "text_on_paper": 12.87,
+  "text_on_surface": 13.83,
+  "text_on_band": 11.54,
+  "text_on_tint": 10.99,
+  "text_on_header": 12.07,
+  "text2_on_paper": 8.25,
+  "text2_on_surface": 8.87,
+  "text2_on_band": 7.4,
+  "text2_on_tint": 7.05,
+  "text2_on_header": 7.73,
+  "accent_on_paper": 5.69,
+  "accent_on_surface": 6.11,
+  "accent_on_band": 5.1,
+  "accent_on_tint": 4.86,
+  "accent_on_header": 5.33,
+  "meta_on_paper": 5.78,
+  "meta_on_surface": 6.21,
+  "meta_on_band": 5.18,
+  "meta_on_tint": 4.94,
+  "meta_on_header": 5.42,
+  "paper_on_accent": 5.69
+ },
+ "passed": true
+}

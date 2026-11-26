@@ -1,0 +1,165 @@
+/* The album look (a4) over the deed's own background photograph (13.11).
+   data/museum/<slug>.backdrop.json holds the photo and the colour set derived from it
+   (scripts/museum/backdrop_palette.py): paper, mats, band, tint, rules, text, accent, small print, the
+   dark tone laid over the photo and the shadow colour. Each text colour was darkened until it passes
+   on every surface it sits on (body 7:1, small print 4.5:1).
+   Rule of this file: no text ever sits on the photograph itself. The photo shows around the collage
+   and between the cards (entrance, every station, credits), so it is felt all the way down the page
+   on a phone as well as on a wide screen. */
+.mx-page[data-bg] {
+  --lk-bg: var(--bd-paper);
+  --lk-surface: var(--bd-surface);
+  --lk-band: var(--bd-band);
+  --lk-tint: var(--bd-tint);
+  --lk-rule: var(--bd-rule);
+  --lk-text: var(--bd-text);
+  --lk-text2: var(--bd-text2);
+  --lk-accent: var(--bd-accent);
+  --lk-meta: var(--bd-meta);
+  --hd-bg: var(--bd-header);
+  --bd-gap: 64px;
+  --bd-pad: 56px;
+  --bd-lift: 0 1px 2px rgba(var(--bd-shadow), 0.25), 0 26px 60px -30px rgba(var(--bd-shadow), 0.75);
+  position: relative;
+  isolation: isolate;
+  background: var(--bd-tone);
+}
+.mx-page[data-bg]::before,
+.mx-page[data-bg]::after {
+  content: "";
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+}
+/* the photograph: sharp enough to recognise, a little calmer in colour */
+.mx-page[data-bg]::before {
+  z-index: -2;
+  inset: -6px;
+  background: var(--bd-img) center / cover no-repeat;
+  /* a touch of blur keeps the prints on the wall apart from the photo behind them */
+  filter: saturate(0.85) blur(1.5px);
+  /* trims scan borders and archive frames at the photo's edges */
+  transform: scale(1.12);
+}
+/* the deed's own dark tone over it: darker at the bottom, where the long text is */
+.mx-page[data-bg]::after {
+  z-index: -1;
+  background: linear-gradient(180deg,
+    color-mix(in srgb, var(--bd-tone) 30%, transparent) 0%,
+    color-mix(in srgb, var(--bd-tone) 45%, transparent) 55%,
+    color-mix(in srgb, var(--bd-tone) 58%, transparent) 100%);
+}
+.mx-page[data-bg] > header { box-shadow: 0 6px 24px -12px rgba(var(--bd-shadow), 0.6); }
+.mx-page[data-bg] .mx-root,
+.mx-page[data-bg] .mx-entrance,
+.mx-page[data-bg] .mx-stations { background: transparent; }
+
+/* ---- entrance: the prints hang straight on the photograph ---- */
+.mx-page[data-bg] .mx-root .mx-collage { padding-top: 40px; }
+.mx-page[data-bg] .mx-root .mx-tile,
+.mx-page[data-bg] .mx-root .mx-photo {
+  background: var(--bd-surface);
+  box-shadow: 0 1px 2px rgba(var(--bd-shadow), 0.35), 0 18px 34px -16px rgba(var(--bd-shadow), 0.85);
+}
+.mx-page[data-bg] .mx-root .mx-plate-cap {
+  width: fit-content;
+  max-width: min(1100px, calc(100% - 32px));
+  margin: 18px auto 0;
+  padding: 7px 14px;
+  background: var(--bd-paper);
+  box-shadow: var(--bd-lift);
+}
+/* the video viewer on its own card */
+.mx-page[data-bg] .mx-root .mx-viewer {
+  width: min(820px, calc(100% - 32px));
+  max-width: none;
+  margin-inline: auto;
+  margin-top: 36px;
+  padding: 18px 18px 12px;
+  background: var(--bd-paper);
+  box-shadow: var(--bd-lift);
+}
+.mx-page[data-bg] .mx-root .mx-video { box-shadow: none; }
+.mx-page[data-bg] .mx-root .mx-placard { background: var(--bd-surface); }
+
+/* ---- the title card: title, opening sentences, at a glance, the check line ---- */
+.mx-page[data-bg] .mx-root .mx-entrance-text,
+.mx-page[data-bg] .mx-root .mx-intro {
+  max-width: 1076px;
+  margin-inline: auto;
+  padding-inline: var(--bd-pad);
+  background: var(--bd-paper);
+}
+/* the title now sits at the top, above the photos (23.11); the opening text is its own card below them */
+.mx-page[data-bg] .mx-root .mx-entrance-text { margin-top: var(--bd-gap); padding-top: 36px; padding-bottom: 30px; box-shadow: 0 18px 40px -28px rgba(var(--bd-shadow), 0.75); }
+.mx-page[data-bg] .mx-root .mx-intro { margin-top: var(--bd-gap); padding-top: 32px; padding-bottom: 32px; box-shadow: 0 26px 60px -30px rgba(var(--bd-shadow), 0.75); }
+.mx-page[data-bg] .mx-root .mx-glance,
+.mx-page[data-bg] .mx-root .mx-dis-cols { background: var(--bd-surface); box-shadow: 0 1px 2px rgba(var(--bd-shadow), 0.18); }
+.mx-page[data-bg] .mx-root .mx-glance { border-top: 3px solid var(--bd-accent); }
+
+/* the station map stays one opaque band under the header */
+.mx-page[data-bg] .mx-root .mx-map { margin-top: var(--bd-gap); background: var(--bd-header); box-shadow: 0 8px 24px -14px rgba(var(--bd-shadow), 0.7); }
+
+/* ---- every station its own card, the photograph between them ---- */
+.mx-page[data-bg] .mx-root .mx-stations { max-width: 1124px; padding-inline: 24px; }
+.mx-page[data-bg] .mx-root .mx-station {
+  margin-block: var(--bd-gap);
+  padding: var(--bd-pad) var(--bd-pad) 40px;
+  background: var(--bd-paper);
+  border-bottom: 0;
+  border-top: 4px solid var(--bd-accent);
+  box-shadow: var(--bd-lift);
+}
+/* the hard part of the story keeps its own band, now as its own card */
+.mx-page[data-bg] .mx-root .mx-hard {
+  margin-inline: 0;
+  padding-inline: var(--bd-pad);
+  background: var(--bd-band);
+  border-top-color: var(--bd-text2);
+  --lk-meta: var(--bd-meta);
+}
+.mx-page[data-bg] .mx-root .mx-hard .mx-dis-card { background: var(--bd-paper); }
+
+/* ---- what is not known, credits ---- */
+.mx-page[data-bg] .mx-root .mx-unknowns,
+.mx-page[data-bg] .mx-root .mx-credits {
+  max-width: 1076px;
+  margin-inline: auto;
+  margin-bottom: var(--bd-gap);
+  padding: 44px var(--bd-pad) 40px;
+  background: var(--bd-paper);
+  box-shadow: var(--bd-lift);
+}
+.mx-page[data-bg] .mx-root .mx-credits { margin-bottom: 0; padding-bottom: 56px; }
+.mx-bd-credit { display: none; }
+.mx-page[data-bg] .mx-bd-credit { display: block; margin: 6px 0 14px; color: var(--lk-meta); font-size: 14px; }
+.mx-page[data-bg] > footer { position: relative; margin-top: var(--bd-gap); }
+
+/* wide screens: the stations widen for the photos in the side margins */
+@media (min-width: 1500px) {
+  .mx-page[data-bg] .mx-root .mx-stations { max-width: 1800px; }
+  .mx-page[data-bg] .mx-root .mx-credits { max-width: 1560px; }
+}
+@media (max-width: 1100px) {
+  .mx-page[data-bg] { --bd-pad: 36px; --bd-gap: 48px; }
+}
+/* phone: narrower margins, but the photo still shows at the sides and between every station */
+@media (max-width: 640px) {
+  .mx-page[data-bg] { --bd-pad: 18px; --bd-gap: 36px; }
+  .mx-page[data-bg]::before { background-image: var(--bd-img-s); }
+  .mx-page[data-bg] .mx-root .mx-collage { padding-top: 24px; }
+  .mx-page[data-bg] .mx-root .mx-entrance-text,
+  .mx-page[data-bg] .mx-root .mx-intro { margin-inline: 12px; }
+  .mx-page[data-bg] .mx-root .mx-entrance-text { padding-top: 28px; }
+  .mx-page[data-bg] .mx-root .mx-viewer { width: calc(100% - 24px); padding: 10px 10px 8px; margin-top: 24px; }
+  .mx-page[data-bg] .mx-root .mx-plate-cap { max-width: calc(100% - 24px); font-size: 14px; }
+  .mx-page[data-bg] .mx-root .mx-stations { padding-inline: 12px; }
+  .mx-page[data-bg] .mx-root .mx-station { padding: 30px var(--bd-pad) 26px; }
+  .mx-page[data-bg] .mx-root .mx-unknowns,
+  .mx-page[data-bg] .mx-root .mx-credits { margin-inline: 12px; padding: 30px var(--bd-pad) 28px; }
+  /* the column is narrower here: give the photo strip's prints more of it */
+  .mx-page[data-bg] .mx-wall-rest > * { flex-basis: 80%; }
+}
+@media (prefers-reduced-transparency: reduce) {
+  .mx-page[data-bg]::after { background: color-mix(in srgb, var(--bd-tone) 70%, transparent); }
+}

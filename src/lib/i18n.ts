@@ -40,6 +40,11 @@ type Strings = {
   honorsLabel: string;
   infoboxHeading: string;
   infoboxSourceTitle: string;
+  // the sources chapter at the foot of the article, and the quiet band
+  doubtsLabel: string;
+  toSource: string;
+  toArchive: string;
+  noSourceLink: string;
   readMore: string;
   readLess: string;
   backedBySingle: string;
@@ -207,6 +212,10 @@ const dict: Record<Lang, Strings> = {
     honorsLabel: "כבוד על שמם",
     infoboxHeading: "בקצרה",
     infoboxSourceTitle: "המקור לשורה הזו",
+    doubtsLabel: "מה שנוי במחלוקת",
+    toSource: "למקור",
+    toArchive: "ארכיון",
+    noSourceLink: "אין לינק בדף",
     readMore: "קרא עוד",
     readLess: "סגור",
     backedBySingle: "מגובה במקור מאומת",
@@ -362,6 +371,10 @@ const dict: Record<Lang, Strings> = {
     honorsLabel: "Honors in their name",
     infoboxHeading: "At a glance",
     infoboxSourceTitle: "The source for this line",
+    doubtsLabel: "What is disputed",
+    toSource: "To the source",
+    toArchive: "Archive",
+    noSourceLink: "No link on the page",
     readMore: "Read more",
     readLess: "Close",
     backedBySingle: "Backed by a verified source",

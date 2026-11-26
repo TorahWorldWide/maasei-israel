@@ -9,7 +9,12 @@ node_modules/
 tsconfig.tsbuildinfo
 
 # generated audit artifacts (regenerable, zero tokens)
-/data/
+# (`/data/*` and not `/data/`: git cannot re-include a file whose parent
+# directory is excluded, and data/preview has to be in the deployment.)
+/data/*
+!/data/preview/
+# museum pages (scripts/museum) are rendered by /museum/<slug>, so they ship with the site
+!/data/museum/
 
 # python caches
 __pycache__/

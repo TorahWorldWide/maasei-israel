@@ -1,0 +1,56 @@
+{
+ "schema": "maasei-backdrop/1",
+ "slug": "jdc-joint-70-countries-aid",
+ "media": "m25",
+ "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Eli%20Eliezri%20in%20Thailand%20in%202005%20after%20the%20tsunami.jpg?width=1920",
+ "img_small": "https://commons.wikimedia.org/wiki/Special:FilePath/Eli%20Eliezri%20in%20Thailand%20in%202005%20after%20the%20tsunami.jpg?width=1080",
+ "why": "Wide view of a tsunami-wrecked Thai village with a broken house, uprooted trees and debris under green mountains: the disaster scene that the JDC's non-sectarian aid answers, with depth and texture that still read when darkened, though a man stands in the foreground on the right.",
+ "chosen_by": "opus picker",
+ "alternates": [
+  "m1"
+ ],
+ "from": {
+  "average": "#8b8c88",
+  "picked": "#91adc3",
+  "coloured_share": 0.16,
+  "lightness": 0.542
+ },
+ "palette": {
+  "paper": "#e9eff4",
+  "surface": "#f6f8fa",
+  "band": "#d7e3ec",
+  "tint": "#ccddea",
+  "header": "#dfe8ef",
+  "rule": "#afc4d5",
+  "text": "#18222a",
+  "text2": "#33414c",
+  "accent": "#365b78",
+  "meta": "#4f5e68",
+  "tone": "#20221b",
+  "shadow": "18, 26, 33"
+ },
+ "checks": {
+  "text_on_paper": 13.93,
+  "text_on_surface": 15.16,
+  "text_on_band": 12.37,
+  "text_on_tint": 11.6,
+  "text_on_header": 13.01,
+  "text2_on_paper": 9.05,
+  "text2_on_surface": 9.86,
+  "text2_on_band": 8.04,
+  "text2_on_tint": 7.54,
+  "text2_on_header": 8.46,
+  "accent_on_paper": 6.2,
+  "accent_on_surface": 6.75,
+  "accent_on_band": 5.5,
+  "accent_on_tint": 5.16,
+  "accent_on_header": 5.79,
+  "meta_on_paper": 5.78,
+  "meta_on_surface": 6.3,
+  "meta_on_band": 5.13,
+  "meta_on_tint": 4.82,
+  "meta_on_header": 5.4,
+  "paper_on_accent": 6.2
+ },
+ "passed": true
+}

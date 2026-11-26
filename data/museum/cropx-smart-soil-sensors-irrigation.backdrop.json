@@ -1,0 +1,56 @@
+{
+ "schema": "maasei-backdrop/1",
+ "slug": "cropx-smart-soil-sensors-irrigation",
+ "media": "m16",
+ "img": "https://commons.wikimedia.org/wiki/Special:FilePath/-%20panoramio%20-%20Luciano%20Ohse%20%281%29.jpg?width=1920",
+ "img_small": "https://commons.wikimedia.org/wiki/Special:FilePath/-%20panoramio%20-%20Luciano%20Ohse%20%281%29.jpg?width=1080",
+ "why": "A center-pivot irrigation rig is spraying water over a green field on wet red soil, a wide, deep scene that puts the visitor in a modern irrigated farm where CropX's sensors are used.",
+ "chosen_by": "opus picker",
+ "alternates": [
+  "m8"
+ ],
+ "from": {
+  "average": "#8b857e",
+  "picked": "#8f5c45",
+  "coloured_share": 0.702,
+  "lightness": 0.527
+ },
+ "palette": {
+  "paper": "#f4ece9",
+  "surface": "#faf7f6",
+  "band": "#ecded7",
+  "tint": "#ead6cc",
+  "header": "#efe4df",
+  "rule": "#d5bbaf",
+  "text": "#2a1e18",
+  "text2": "#4c3b33",
+  "accent": "#784a36",
+  "meta": "#68574f",
+  "tone": "#221f1b",
+  "shadow": "33, 23, 18"
+ },
+ "checks": {
+  "text_on_paper": 13.89,
+  "text_on_surface": 15.18,
+  "text_on_band": 12.33,
+  "text_on_tint": 11.55,
+  "text_on_header": 12.97,
+  "text2_on_paper": 9.1,
+  "text2_on_surface": 9.95,
+  "text2_on_band": 8.08,
+  "text2_on_tint": 7.57,
+  "text2_on_header": 8.5,
+  "accent_on_paper": 6.36,
+  "accent_on_surface": 6.96,
+  "accent_on_band": 5.65,
+  "accent_on_tint": 5.29,
+  "accent_on_header": 5.95,
+  "meta_on_paper": 5.88,
+  "meta_on_surface": 6.43,
+  "meta_on_band": 5.22,
+  "meta_on_tint": 4.89,
+  "meta_on_header": 5.49,
+  "paper_on_accent": 6.36
+ },
+ "passed": true
+}

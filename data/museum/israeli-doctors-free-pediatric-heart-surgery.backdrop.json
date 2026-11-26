@@ -1,0 +1,56 @@
+{
+ "schema": "maasei-backdrop/1",
+ "slug": "israeli-doctors-free-pediatric-heart-surgery",
+ "media": "m40",
+ "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Edith%20Wolfson%20Medical%20Center%20P1030035.JPG?width=1920",
+ "img_small": "https://commons.wikimedia.org/wiki/Special:FilePath/Edith%20Wolfson%20Medical%20Center%20P1030035.JPG?width=1080",
+ "why": "A crowded intensive-care room at Wolfson, with an incubator, monitors, a ventilator and tubes in front of colourful children's wallpaper, puts the visitor straight into the ward where these babies' hearts are cared for, and it shows no faces.",
+ "chosen_by": "opus picker",
+ "alternates": [
+  "m17"
+ ],
+ "from": {
+  "average": "#6f7370",
+  "picked": "#1f626b",
+  "coloured_share": 0.105,
+  "lightness": 0.439
+ },
+ "palette": {
+  "paper": "#e9f3f4",
+  "surface": "#f6f9fa",
+  "band": "#d7eaec",
+  "tint": "#cce7ea",
+  "header": "#dfedef",
+  "rule": "#afd0d5",
+  "text": "#18282a",
+  "text2": "#33494c",
+  "accent": "#216972",
+  "meta": "#4c6365",
+  "tone": "#1b221d",
+  "shadow": "18, 31, 33"
+ },
+ "checks": {
+  "text_on_paper": 13.51,
+  "text_on_surface": 14.43,
+  "text_on_band": 12.26,
+  "text_on_tint": 11.76,
+  "text_on_header": 12.72,
+  "text2_on_paper": 8.46,
+  "text2_on_surface": 9.03,
+  "text2_on_band": 7.67,
+  "text2_on_tint": 7.36,
+  "text2_on_header": 7.96,
+  "accent_on_paper": 5.59,
+  "accent_on_surface": 5.96,
+  "accent_on_band": 5.07,
+  "accent_on_tint": 4.86,
+  "accent_on_header": 5.26,
+  "meta_on_paper": 5.67,
+  "meta_on_surface": 6.05,
+  "meta_on_band": 5.14,
+  "meta_on_tint": 4.93,
+  "meta_on_header": 5.33,
+  "paper_on_accent": 5.59
+ },
+ "passed": true
+}

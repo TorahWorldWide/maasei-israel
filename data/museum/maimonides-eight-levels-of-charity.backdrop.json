@@ -1,0 +1,56 @@
+{
+ "schema": "maasei-backdrop/1",
+ "slug": "maimonides-eight-levels-of-charity",
+ "media": "m42",
+ "img": "https://commons.wikimedia.org/wiki/Special:FilePath/By%20ovedc%20-%20Synagogue%20of%20Moses%20Maimonides%20-%203.jpg?width=1920",
+ "img_small": "https://commons.wikimedia.org/wiki/Special:FilePath/By%20ovedc%20-%20Synagogue%20of%20Moses%20Maimonides%20-%203.jpg?width=1080",
+ "why": "The worn stone courtyard of the Maimonides synagogue in Cairo, with its wooden door and lamps, is a wide, textured scene of the city where he wrote and lived, which matches the page's opening station.",
+ "chosen_by": "opus picker",
+ "alternates": [
+  "m10"
+ ],
+ "from": {
+  "average": "#91877c",
+  "picked": "#b2a492",
+  "coloured_share": 0.333,
+  "lightness": 0.527
+ },
+ "palette": {
+  "paper": "#f1efec",
+  "surface": "#f9f8f7",
+  "band": "#e6e2dd",
+  "tint": "#e2dcd5",
+  "header": "#eae7e3",
+  "rule": "#c9c2ba",
+  "text": "#2a2218",
+  "text2": "#4c4033",
+  "accent": "#71583d",
+  "meta": "#655a4c",
+  "tone": "#221f1b",
+  "shadow": "33, 26, 18"
+ },
+ "checks": {
+  "text_on_paper": 13.65,
+  "text_on_surface": 14.77,
+  "text_on_band": 12.15,
+  "text_on_tint": 11.51,
+  "text_on_header": 12.71,
+  "text2_on_paper": 8.76,
+  "text2_on_surface": 9.48,
+  "text2_on_band": 7.8,
+  "text2_on_tint": 7.39,
+  "text2_on_header": 8.16,
+  "accent_on_paper": 5.78,
+  "accent_on_surface": 6.25,
+  "accent_on_band": 5.15,
+  "accent_on_tint": 4.88,
+  "accent_on_header": 5.38,
+  "meta_on_paper": 5.86,
+  "meta_on_surface": 6.35,
+  "meta_on_band": 5.22,
+  "meta_on_tint": 4.95,
+  "meta_on_header": 5.46,
+  "paper_on_accent": 5.78
+ },
+ "passed": true
+}

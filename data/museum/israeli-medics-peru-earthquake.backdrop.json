@@ -1,0 +1,56 @@
+{
+ "schema": "maasei-backdrop/1",
+ "slug": "israeli-medics-peru-earthquake",
+ "media": "m2",
+ "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Pisco%20after%20the%202007%20quake.jpg?width=1920",
+ "img_small": "https://commons.wikimedia.org/wiki/Special:FilePath/Pisco%20after%20the%202007%20quake.jpg?width=1080",
+ "why": "A dusty street in Pisco, the city the team was heading to, with piles of rubble from collapsed brick houses running back into the distance, so the visitor sees the destroyed city at once.",
+ "chosen_by": "opus picker",
+ "alternates": [
+  "m4"
+ ],
+ "from": {
+  "average": "#897567",
+  "picked": "#7b5a41",
+  "coloured_share": 0.526,
+  "lightness": 0.471
+ },
+ "palette": {
+  "paper": "#f4eee9",
+  "surface": "#faf8f6",
+  "band": "#ece0d7",
+  "tint": "#ead9cc",
+  "header": "#efe6df",
+  "rule": "#d5bfaf",
+  "text": "#2a2018",
+  "text2": "#4c3e33",
+  "accent": "#785236",
+  "meta": "#685a4f",
+  "tone": "#231e1a",
+  "shadow": "33, 24, 18"
+ },
+ "checks": {
+  "text_on_paper": 13.85,
+  "text_on_surface": 15.04,
+  "text_on_band": 12.3,
+  "text_on_tint": 11.6,
+  "text_on_header": 12.94,
+  "text2_on_paper": 8.93,
+  "text2_on_surface": 9.7,
+  "text2_on_band": 7.93,
+  "text2_on_tint": 7.48,
+  "text2_on_header": 8.34,
+  "accent_on_paper": 5.97,
+  "accent_on_surface": 6.48,
+  "accent_on_band": 5.3,
+  "accent_on_tint": 5.0,
+  "accent_on_header": 5.58,
+  "meta_on_paper": 5.77,
+  "meta_on_surface": 6.27,
+  "meta_on_band": 5.12,
+  "meta_on_tint": 4.83,
+  "meta_on_header": 5.39,
+  "paper_on_accent": 5.97
+ },
+ "passed": true
+}

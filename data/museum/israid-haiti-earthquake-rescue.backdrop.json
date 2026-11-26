@@ -1,0 +1,56 @@
+{
+ "schema": "maasei-backdrop/1",
+ "slug": "israid-haiti-earthquake-rescue",
+ "media": "m27",
+ "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Cleanup%20of%20the%20site%20of%20the%20landmark%20Hotel%20Montana%20is%20photographed%20March%2012%2C%202010%2C%20in%20Port-au-Prince%2C%20Haiti%2C%20two%20months%20after%20a%207.0-magnitude%20earthquake%20struck%20the%20area%20100312-N-HX866-003.jpg?width=1920",
+ "img_small": "https://commons.wikimedia.org/wiki/Special:FilePath/Cleanup%20of%20the%20site%20of%20the%20landmark%20Hotel%20Montana%20is%20photographed%20March%2012%2C%202010%2C%20in%20Port-au-Prince%2C%20Haiti%2C%20two%20months%20after%20a%207.0-magnitude%20earthquake%20struck%20the%20area%20100312-N-HX866-003.jpg?width=1080",
+ "why": "A wide view of the collapsed Hotel Montana in Port-au-Prince, with an excavator, workers and the city stretching away behind, shows the earthquake's destruction and the rescue work with real depth and texture.",
+ "chosen_by": "opus picker",
+ "alternates": [
+  "m26"
+ ],
+ "from": {
+  "average": "#a4abae",
+  "picked": "#98b6db",
+  "coloured_share": 0.28,
+  "lightness": 0.665
+ },
+ "palette": {
+  "paper": "#e9eef4",
+  "surface": "#f6f8fa",
+  "band": "#d7e1ec",
+  "tint": "#ccdaea",
+  "header": "#dfe6ef",
+  "rule": "#afc0d5",
+  "text": "#18202a",
+  "text2": "#333e4c",
+  "accent": "#2d5280",
+  "meta": "#4f5a68",
+  "tone": "#1b2022",
+  "shadow": "18, 25, 33"
+ },
+ "checks": {
+  "text_on_paper": 14.08,
+  "text_on_surface": 15.42,
+  "text_on_band": 12.41,
+  "text_on_tint": 11.56,
+  "text_on_header": 13.06,
+  "text2_on_paper": 9.31,
+  "text2_on_surface": 10.2,
+  "text2_on_band": 8.21,
+  "text2_on_tint": 7.64,
+  "text2_on_header": 8.64,
+  "accent_on_paper": 6.84,
+  "accent_on_surface": 7.5,
+  "accent_on_band": 6.03,
+  "accent_on_tint": 5.62,
+  "accent_on_header": 6.35,
+  "meta_on_paper": 6.01,
+  "meta_on_surface": 6.59,
+  "meta_on_band": 5.3,
+  "meta_on_tint": 4.94,
+  "meta_on_header": 5.58,
+  "paper_on_accent": 6.84
+ },
+ "passed": true
+}

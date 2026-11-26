@@ -1,0 +1,56 @@
+{
+ "schema": "maasei-backdrop/1",
+ "slug": "bronicki-ormat-kenya-geothermal-plant",
+ "media": "m10",
+ "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Renogeothermal.JPG?width=1920",
+ "img_small": "https://commons.wikimedia.org/wiki/Special:FilePath/Renogeothermal.JPG?width=1080",
+ "why": "None of the candidates shows Olkaria in Kenya, so this is the closest honest choice: a wide, sharp view of a geothermal plant that Ormat built and runs near Reno, with its long rows of cooling units, a winding road and pipes in dry hills, showing the Bronickis' company at work.",
+ "chosen_by": "opus picker",
+ "alternates": [
+  "m16"
+ ],
+ "from": {
+  "average": "#849390",
+  "picked": "#83c2e7",
+  "coloured_share": 0.49,
+  "lightness": 0.542
+ },
+ "palette": {
+  "paper": "#e9f0f4",
+  "surface": "#f6f8fa",
+  "band": "#d7e4ec",
+  "tint": "#ccdfea",
+  "header": "#dfe9ef",
+  "rule": "#afc7d5",
+  "text": "#18242a",
+  "text2": "#33434c",
+  "accent": "#206288",
+  "meta": "#4f5f68",
+  "tone": "#1b2221",
+  "shadow": "18, 27, 33"
+ },
+ "checks": {
+  "text_on_paper": 13.77,
+  "text_on_surface": 14.89,
+  "text_on_band": 12.23,
+  "text_on_tint": 11.56,
+  "text_on_header": 12.86,
+  "text2_on_paper": 8.9,
+  "text2_on_surface": 9.63,
+  "text2_on_band": 7.91,
+  "text2_on_tint": 7.48,
+  "text2_on_header": 8.32,
+  "accent_on_paper": 5.76,
+  "accent_on_surface": 6.23,
+  "accent_on_band": 5.12,
+  "accent_on_tint": 4.84,
+  "accent_on_header": 5.39,
+  "meta_on_paper": 5.75,
+  "meta_on_surface": 6.22,
+  "meta_on_band": 5.11,
+  "meta_on_tint": 4.83,
+  "meta_on_header": 5.38,
+  "paper_on_accent": 5.76
+ },
+ "passed": true
+}

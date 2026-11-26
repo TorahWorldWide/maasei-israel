@@ -1,0 +1,56 @@
+{
+ "schema": "maasei-backdrop/1",
+ "slug": "robert-lefkowitz-g-protein-receptors",
+ "media": "m23",
+ "img": "https://commons.wikimedia.org/wiki/Special:FilePath/2008-07-24%20Duke%20Hospital%20PRT%201.jpg?width=1920",
+ "img_small": "https://commons.wikimedia.org/wiki/Special:FilePath/2008-07-24%20Duke%20Hospital%20PRT%201.jpg?width=1080",
+ "why": "A wide, layered view of the Duke University Medical Center buildings and people-mover, the institution where Lefkowitz ran his receptor research from 1972, setting the scene of his long scientific work.",
+ "chosen_by": "opus picker",
+ "alternates": [
+  "m24"
+ ],
+ "from": {
+  "average": "#4c5a65",
+  "picked": "#527cb0",
+  "coloured_share": 0.375,
+  "lightness": 0.35
+ },
+ "palette": {
+  "paper": "#e9eef4",
+  "surface": "#f6f8fa",
+  "band": "#d7e1ec",
+  "tint": "#ccdaea",
+  "header": "#dfe6ef",
+  "rule": "#afc0d5",
+  "text": "#18202a",
+  "text2": "#333e4c",
+  "accent": "#365378",
+  "meta": "#4f5a68",
+  "tone": "#1a1f23",
+  "shadow": "18, 25, 33"
+ },
+ "checks": {
+  "text_on_paper": 14.08,
+  "text_on_surface": 15.42,
+  "text_on_band": 12.41,
+  "text_on_tint": 11.56,
+  "text_on_header": 13.06,
+  "text2_on_paper": 9.31,
+  "text2_on_surface": 10.2,
+  "text2_on_band": 8.21,
+  "text2_on_tint": 7.64,
+  "text2_on_header": 8.64,
+  "accent_on_paper": 6.75,
+  "accent_on_surface": 7.4,
+  "accent_on_band": 5.95,
+  "accent_on_tint": 5.55,
+  "accent_on_header": 6.27,
+  "meta_on_paper": 6.01,
+  "meta_on_surface": 6.59,
+  "meta_on_band": 5.3,
+  "meta_on_tint": 4.94,
+  "meta_on_header": 5.58,
+  "paper_on_accent": 6.75
+ },
+ "passed": true
+}

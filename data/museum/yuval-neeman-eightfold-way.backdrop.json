@@ -1,0 +1,56 @@
+{
+ "schema": "maasei-backdrop/1",
+ "slug": "yuval-neeman-eightfold-way",
+ "media": "m5",
+ "img": "https://commons.wikimedia.org/wiki/Special:FilePath/%C3%89cole%20de%20Physique%20des%20Houches%20%28Les%20Houches%20Physics%20School%29%20main%20lecture%20hall%201972.jpg?width=1920",
+ "img_small": "https://commons.wikimedia.org/wiki/Special:FilePath/%C3%89cole%20de%20Physique%20des%20Houches%20%28Les%20Houches%20Physics%20School%29%20main%20lecture%20hall%201972.jpg?width=1080",
+ "why": "This 1972 photo shows physicists, Ne'eman among them, talking in front of a chalkboard full of equations, which sets the scene of theoretical physics work.",
+ "chosen_by": "opus picker",
+ "alternates": [
+  "m7"
+ ],
+ "from": {
+  "average": "#6a6363",
+  "picked": "#aa9272",
+  "coloured_share": 0.41,
+  "lightness": 0.4
+ },
+ "palette": {
+  "paper": "#f4efe9",
+  "surface": "#faf8f6",
+  "band": "#ece3d7",
+  "tint": "#eaddcc",
+  "header": "#efe8df",
+  "rule": "#d5c4af",
+  "text": "#2a2218",
+  "text2": "#4c4233",
+  "accent": "#745834",
+  "meta": "#655b4c",
+  "tone": "#221b1b",
+  "shadow": "33, 27, 18"
+ },
+ "checks": {
+  "text_on_paper": 13.7,
+  "text_on_surface": 14.79,
+  "text_on_band": 12.34,
+  "text_on_tint": 11.72,
+  "text_on_header": 12.89,
+  "text2_on_paper": 8.61,
+  "text2_on_surface": 9.29,
+  "text2_on_band": 7.75,
+  "text2_on_tint": 7.36,
+  "text2_on_header": 8.1,
+  "accent_on_paper": 5.76,
+  "accent_on_surface": 6.22,
+  "accent_on_band": 5.19,
+  "accent_on_tint": 4.93,
+  "accent_on_header": 5.42,
+  "meta_on_paper": 5.82,
+  "meta_on_surface": 6.28,
+  "meta_on_band": 5.24,
+  "meta_on_tint": 4.98,
+  "meta_on_header": 5.48,
+  "paper_on_accent": 5.76
+ },
+ "passed": true
+}

@@ -1,0 +1,1680 @@
+{
+ "schema": "maasei-museum/1",
+ "slug": "walter-kohn-density-functional-theory",
+ "deed": "וולטר קון ותורת פונקציונל הצפיפות",
+ "canonical_type": "scientific-discovery",
+ "year": "1964",
+ "title": "Walter Kohn, a child refugee from Vienna, developed density functional theory and won the Nobel Prize in Chemistry",
+ "trailer": [
+  {
+   "text": "Walter Kohn, born in Vienna in 1923 to Jewish parents, won the 1998 Nobel Prize in Chemistry for the development of density functional theory.",
+   "claims": [
+    "c6",
+    "c47"
+   ]
+  },
+  {
+   "text": "According to The Canadian Encyclopedia, he was expelled from his school soon after the annexation of Austria by Nazi Germany in March 1938.",
+   "claims": [
+    "c8"
+   ]
+  },
+  {
+   "text": "According to the University of California, Santa Barbara, the Kindertransport saved him and his sister Minna, and according to The Canadian Encyclopedia, his parents were murdered at Auschwitz.",
+   "claims": [
+    "c11",
+    "c13"
+   ]
+  },
+  {
+   "text": "In 1964, Hohenberg and Kohn presented an exact, variational reformulation of many-body quantum theory, in which a single position-dependent density of electrons replaces the wave functions.",
+   "claims": [
+    "c35"
+   ]
+  },
+  {
+   "text": "Since the 1980s chemists have used the method to predict the properties of complex atoms and molecules.",
+   "claims": [
+    "c42"
+   ]
+  }
+ ],
+ "hero_media": [
+  "m2",
+  "m3",
+  "m4",
+  "m1",
+  "m5",
+  "m11"
+ ],
+ "glance": [
+  {
+   "label": "Born",
+   "value": "Vienna, 1923",
+   "claims": [
+    "c2"
+   ]
+  },
+  {
+   "label": "The discovery",
+   "value": "1964, with Hohenberg",
+   "claims": [
+    "c35"
+   ]
+  },
+  {
+   "label": "Use",
+   "value": "Physics, chemistry, biochemistry, materials science, engineering",
+   "claims": [
+    "c45"
+   ]
+  },
+  {
+   "label": "Recognition",
+   "value": "Nobel Prize in Chemistry 1998, with John Pople",
+   "claims": [
+    "c46"
+   ]
+  },
+  {
+   "label": "Institute",
+   "value": "Founding director, Institute for Theoretical Physics, Santa Barbara",
+   "claims": [
+    "c49"
+   ]
+  }
+ ],
+ "stations": [
+  {
+   "id": "s1",
+   "title": "A child in Vienna",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "Walter Kohn was born on 9 March 1923 in Vienna.",
+      "claims": [
+       "c2"
+      ]
+     },
+     {
+      "text": "His Jewish parents were Salomon and Gittel Kohn.",
+      "claims": [
+       "c6"
+      ]
+     },
+     {
+      "text": "According to the National Academy of Sciences biographical memoir, it was an educated, middle-class Jewish family.",
+      "claims": [
+       "c4"
+      ]
+     },
+     {
+      "text": "According to The Canadian Encyclopedia, his father ran a publishing company that produced artistic postcards.",
+      "claims": [
+       "c7"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to The Canadian Encyclopedia, soon after the annexation of Austria by Nazi Germany in March 1938, Kohn was expelled from the Akademisches Gymnasium.",
+      "claims": [
+       "c8"
+      ]
+     },
+     {
+      "text": "According to Physics Today, he was admitted to a Jewish gymnasium, where two remarkable teachers awoke his interest in science.",
+      "claims": [
+       "c10"
+      ]
+     },
+     {
+      "text": "According to The Canadian Encyclopedia, on the day after Kristallnacht the family home was broken into, and Walter was arrested on his way home from school and later released.",
+      "claims": [
+       "c9"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to the University of California, Santa Barbara, the Kindertransport saved Walter and his sister Minna, together with some 10,000 other children, most of them Jewish.",
+      "claims": [
+       "c11"
+      ]
+     },
+     {
+      "text": "According to ChemistryViews, he lived in Britain with a foster family in Sussex.",
+      "claims": [
+       "c12"
+      ]
+     },
+     {
+      "text": "According to The Canadian Encyclopedia, his parents were unable to escape and were later murdered at Auschwitz.",
+      "claims": [
+       "c13"
+      ]
+     }
+    ]
+   ],
+   "media": [],
+   "disagreements": []
+  },
+  {
+   "id": "s2",
+   "title": "The internment camps in Canada",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "According to the National Academy of Sciences biographical memoir, in May 1940 Kohn was interned as an enemy alien, together with tens of thousands of foreign residents in England.",
+      "claims": [
+       "c14"
+      ]
+     },
+     {
+      "text": "According to The Canadian Encyclopedia, he was held for a year and a half in four internment camps in New Brunswick and Quebec.",
+      "claims": [
+       "c15"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to the Academy, a school that operated in the camp allowed him to continue studying physics and mathematics.",
+      "claims": [
+       "c16"
+      ]
+     },
+     {
+      "text": "According to The Canadian Encyclopedia, he bought a mathematics and physics textbook with the wages he earned from cutting trees.",
+      "claims": [
+       "c17"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to the Academy, Hertha and Bruno Mendel invited him and his friend Josef Eisinger to live with them in Toronto.",
+      "claims": [
+       "c19"
+      ]
+     },
+     {
+      "text": "According to The Canadian Encyclopedia, he was released from Camp N into the care of the Mendel family.",
+      "claims": [
+       "c20"
+      ]
+     },
+     {
+      "text": "According to the National Academy of Sciences memoir, Kohn's life changed decisively in the fall of 1941, and according to The Canadian Encyclopedia, he was released from Camp N into the care of the Mendel family in Toronto in January 1942.",
+      "claims": [
+       "c18",
+       "c20"
+      ]
+     }
+    ]
+   ],
+   "media": [],
+   "disagreements": [
+    "d1"
+   ]
+  },
+  {
+   "id": "s3",
+   "title": "From Toronto to Harvard and the solid state",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "According to the Academy, Leopold Infeld advised him to study in the Math-Physics program in Toronto.",
+      "claims": [
+       "c21"
+      ]
+     },
+     {
+      "text": "According to The Canadian Encyclopedia, the dean of the faculty gave him a special dispensation that removed chemistry from the program's requirements.",
+      "claims": [
+       "c22"
+      ]
+     },
+     {
+      "text": "By his own account, after several attempts he was accepted into the Canadian Infantry Corps in the last year of World War II.",
+      "claims": [
+       "c23"
+      ]
+     },
+     {
+      "text": "According to the University of Toronto, in 1945 he completed a bachelor's degree in mathematics and physics.",
+      "claims": [
+       "c24"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "In 1946 he moved to Harvard, where Julian Schwinger was his doctoral adviser.",
+      "claims": [
+       "c25"
+      ]
+     },
+     {
+      "text": "In just two years he completed a doctorate on the quantum mechanical description of collisions between light nuclei.",
+      "claims": [
+       "c26"
+      ]
+     },
+     {
+      "text": "His early work was in theoretical mechanics and quantum field theory, and he soon turned to solid-state theory.",
+      "claims": [
+       "c27"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to ChemistryViews, after a postdoctoral fellowship at the Niels Bohr Institute in Copenhagen in 1950, he moved to Carnegie Mellon.",
+      "claims": [
+       "c52"
+      ]
+     },
+     {
+      "text": "According to the Academy, in the fall of 1952 he returned to the United States, to Carnegie Tech, and there played a central role in building a strong research program in solid state physics.",
+      "claims": [
+       "c51"
+      ]
+     },
+     {
+      "text": "At Carnegie Tech he developed a theory of anomalies in the phonon spectra of metals, now known as Kohn anomalies.",
+      "claims": [
+       "c29"
+      ]
+     },
+     {
+      "text": "According to The Canadian Encyclopedia, he was a consultant at Bell Laboratories in New Jersey and returned there each summer for over a decade.",
+      "claims": [
+       "c28"
+      ]
+     },
+     {
+      "text": "In 1960 he moved to the new campus of the University of California, San Diego, and headed the physics department in its early period.",
+      "claims": [
+       "c53",
+       "c54"
+      ]
+     },
+     {
+      "text": "In 1961 he received the Oliver E. Buckley Prize of the American Physical Society.",
+      "claims": [
+       "c30"
+      ]
+     }
+    ]
+   ],
+   "media": [],
+   "disagreements": [
+    "d3"
+   ]
+  },
+  {
+   "id": "s4",
+   "title": "The idea: density instead of wave functions",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "According to the Nobel Foundation, quantum mechanics requires very complicated calculations for complex systems such as molecules.",
+      "claims": [
+       "c31"
+      ]
+     },
+     {
+      "text": "According to the Academy, a great deal of effort was spent extending perturbation methods to many-body problems, where the interactions are strong and perturbative approximations are problematic.",
+      "claims": [
+       "c32"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to Hohenberg, he met Kohn in 1963, when he was a postdoc in Paris, and Kohn invited him to join a new research project.",
+      "claims": [
+       "c33",
+       "c34"
+      ]
+     },
+     {
+      "text": "In their first paper, from 1964, the two presented an exact, variational reformulation of many-body quantum theory.",
+      "claims": [
+       "c35"
+      ]
+     },
+     {
+      "text": "In place of the wave functions it used a single electron density, dependent on position.",
+      "claims": [
+       "c35"
+      ]
+     },
+     {
+      "text": "In the words of the Nobel Foundation, one could look at the average density of electrons in space instead of following the motion of each electron.",
+      "claims": [
+       "c38"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "The result applies to arbitrarily large numbers of electrons, in any arrangement of atomic nuclei.",
+      "claims": [
+       "c36"
+      ]
+     },
+     {
+      "text": "It applies equally well to chemical molecules of any complexity.",
+      "claims": [
+       "c37"
+      ]
+     },
+     {
+      "text": "Kohn and Lu Sham recast the theory as an exact set of generalized Hartree-Fock equations, all expressed in terms of the electron density.",
+      "claims": [
+       "c39"
+      ]
+     },
+     {
+      "text": "The method gives useful approximate solutions with no more difficulty than the conventional Hartree-Fock method, but with significantly better accuracy.",
+      "claims": [
+       "c40"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m7",
+    "m10"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s5",
+   "title": "What came of it",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "Only with the advent of fast, powerful computers did density functional theory become the method of choice for research in materials physics and chemistry.",
+      "claims": [
+       "c43"
+      ]
+     },
+     {
+      "text": "Since the 1980s chemists have used it to predict the properties of complex atoms and molecules.",
+      "claims": [
+       "c42"
+      ]
+     },
+     {
+      "text": "According to the Royal Society, the approach greatly simplified the computations needed to understand the electron bonding between atoms within molecules.",
+      "claims": [
+       "c44"
+      ]
+     },
+     {
+      "text": "According to The Canadian Encyclopedia, it became useful in physics, chemistry, biochemistry, materials science and engineering.",
+      "claims": [
+       "c45"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "In 2005 Redner listed the Hohenberg-Kohn and Kohn-Sham papers as the most cited publications in the history of the journal Physical Review.",
+      "claims": [
+       "c41"
+      ]
+     },
+     {
+      "text": "According to Hohenberg, the joint paper by him and Kohn is the second most cited there.",
+      "claims": [
+       "c72"
+      ]
+     }
+    ]
+   ],
+   "media": [],
+   "disagreements": [
+    "d4"
+   ]
+  },
+  {
+   "id": "s6",
+   "title": "The Nobel Prize",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "In 1998 Kohn won the Nobel Prize in Chemistry, together with John Pople.",
+      "claims": [
+       "c46"
+      ]
+     },
+     {
+      "text": "He received half of the prize, for the development of density functional theory.",
+      "claims": [
+       "c1"
+      ]
+     },
+     {
+      "text": "According to ChemistryViews, the prize was awarded to both for their contributions to the understanding of the electronic properties of materials.",
+      "claims": [
+       "c73"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to the Academy, the prize was awarded about thirty years after the discovery, once its importance had become clear.",
+      "claims": [
+       "c48"
+      ]
+     },
+     {
+      "text": "According to Hohenberg, the paper they wrote in the spring of 1964 was one of two works cited by the Nobel Committee in awarding the prize.",
+      "claims": [
+       "c71"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to the University of Toronto, Kohn was one of five Nobel laureates who studied there.",
+      "claims": [
+       "c69"
+      ]
+     },
+     {
+      "text": "According to the University of California, Santa Barbara, he was the first of its six Nobel laureates since 1998.",
+      "claims": [
+       "c70"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m6",
+    "m8",
+    "m2"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s7",
+   "title": "Santa Barbara, Judaism and the sun",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "According to Physics Today, Kohn was recruited by the University of California, Santa Barbara, as founding director of the Institute for Theoretical Physics.",
+      "claims": [
+       "c49"
+      ]
+     },
+     {
+      "text": "According to the university, it was he who essentially launched the institute, and the institute quickly developed into one of the leading research centers in physics and has been emulated around the world.",
+      "claims": [
+       "c55",
+       "c57"
+      ]
+     },
+     {
+      "text": "According to the Academy, the institute soon became a destination of choice for scientists from around the world.",
+      "claims": [
+       "c56"
+      ]
+     },
+     {
+      "text": "According to Jim Langer, the university's rise to an internationally prominent research university was due in large part to the institute's reputation.",
+      "claims": [
+       "c58"
+      ]
+     },
+     {
+      "text": "Today the institute is housed in Kohn Hall, a building that bears his name.",
+      "claims": [
+       "c59"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "In the autobiography he wrote for the Nobel Foundation, Kohn wrote that he has a strong Jewish identity.",
+      "claims": [
+       "c63"
+      ]
+     },
+     {
+      "text": "According to the University of Toronto, he established a program in Judaic Studies at the University of California, San Diego.",
+      "claims": [
+       "c64"
+      ]
+     },
+     {
+      "text": "In 1978 he remarried, to Mara Vishniac, the daughter of the photographer Roman Vishniac and, like him, a Jewish refugee from Nazi persecution.",
+      "claims": [
+       "c67"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "He was active in the scientific community in defending the human rights of scientists worldwide.",
+      "claims": [
+       "c61"
+      ]
+     },
+     {
+      "text": "According to the University of Toronto, he campaigned against the nuclear arms race.",
+      "claims": [
+       "c64"
+      ]
+     },
+     {
+      "text": "In 2001 he was the inaugural speaker for the Templeton Lectures on Science, Religion, and the Human Experience.",
+      "claims": [
+       "c68"
+      ]
+     },
+     {
+      "text": "According to the Royal Society, in 2005 he co-produced an educational film on solar energy, narrated by John Cleese.",
+      "claims": [
+       "c62"
+      ]
+     },
+     {
+      "text": "In May 2009 he gave a lecture at Bar-Ilan University, on receiving an honorary doctorate from it.",
+      "claims": [
+       "c65"
+      ]
+     },
+     {
+      "text": "In the lecture he called for an end to dependence on oil, coal and nuclear energy and for a focus on solar and wind energy.",
+      "claims": [
+       "c66"
+      ]
+     },
+     {
+      "text": "Kohn died at his home in Santa Barbara on 19 April 2016.",
+      "claims": [
+       "c3"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m3",
+    "m9",
+    "m1",
+    "m4",
+    "m5",
+    "m12",
+    "m13",
+    "m15",
+    "m16"
+   ],
+   "disagreements": [
+    "d2"
+   ]
+  },
+  {
+   "id": "s8",
+   "title": "A struggle that did not succeed",
+   "kind": "hard",
+   "paragraphs": [
+    [
+     {
+      "text": "Kohn was a leader of a faculty effort to sever the link between the University of California and the nuclear weapons laboratories at Los Alamos and Livermore.",
+      "claims": [
+       "c60"
+      ]
+     },
+     {
+      "text": "According to Physics Today, this effort has so far been unsuccessful.",
+      "claims": [
+       "c60"
+      ]
+     }
+    ]
+   ],
+   "media": [],
+   "disagreements": []
+  }
+ ],
+ "disagreements": [
+  {
+   "id": "d1",
+   "question": "When did Kohn leave the internment camp for Toronto?",
+   "versions": [
+    {
+     "says": "National Academy of Sciences biographical memoir: his life changed decisively in the fall of 1941",
+     "claims": [
+      "c18"
+     ]
+    },
+    {
+     "says": "The Canadian Encyclopedia: he was released from Camp N into the care of the Mendel family in January 1942",
+     "claims": [
+      "c20"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d2",
+   "question": "When did Kohn move to Santa Barbara?",
+   "versions": [
+    {
+     "says": "Physics Today: in 1979, as founding director of the Institute for Theoretical Physics",
+     "claims": [
+      "c49"
+     ]
+    },
+    {
+     "says": "Hebrew Wikipedia: in 1984",
+     "claims": [
+      "c50"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d3",
+   "question": "When did Kohn arrive at Carnegie?",
+   "versions": [
+    {
+     "says": "ChemistryViews: after a postdoctoral fellowship in Copenhagen in 1950",
+     "claims": [
+      "c52"
+     ]
+    },
+    {
+     "says": "The National Academy of Sciences memoir: he returned to the United States, to Carnegie Tech, in the fall of 1952.",
+     "claims": [
+      "c51"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d4",
+   "question": "How often is the Hohenberg and Kohn paper cited?",
+   "versions": [
+    {
+     "says": "National Academy of Sciences biographical memoir: in 2005 Redner listed the Hohenberg-Kohn and Kohn-Sham papers as the most cited in the history of Physical Review",
+     "claims": [
+      "c41"
+     ]
+    },
+    {
+     "says": "Hohenberg, in Physics Today: the paper by him and Kohn is the second most cited",
+     "claims": [
+      "c72"
+     ]
+    }
+   ]
+  }
+ ],
+ "unknowns": [],
+ "claims": [
+  {
+   "id": "c6",
+   "text": "קוהן נולד בווינה ב-1923 להוריו היהודים, סלומון וגיטל קוהן.",
+   "source": "src1",
+   "quote": "קוהן נולד בווינה, אוסטריה ב-1923 להוריו היהודים, סלומון וגיטל קוהן.",
+   "status": "confirmed",
+   "locator": "שורה 16"
+  },
+  {
+   "id": "c47",
+   "text": "ויקיפדיה העברית: קוהן זכה בפרס נובל בכימיה לשנת 1998 על פיתוח תורת פונקציונל הצפיפות.",
+   "source": "src1",
+   "quote": "בפרס נובל בכימיה לשנת 1998 על פיתוח תורת פונקציונל הצפיפות",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c8",
+   "text": "לפי האנציקלופדיה הקנדית, קוהן גורש מהגימנסיה האקדמית זמן קצר אחרי סיפוח אוסטריה על ידי גרמניה הנאצית במרץ 1938.",
+   "source": "src2",
+   "quote": "was expelled soon after the Nazi German takeover of Austria in the Anschluss of March 1938",
+   "status": "confirmed",
+   "locator": "שורה 31"
+  },
+  {
+   "id": "c11",
+   "text": "לפי אוניברסיטת קליפורניה בסנטה ברברה, ה-Kindertransport הציל את וולטר ואת אחותו מינה יחד עם כ-10,000 ילדים נוספים, רובם יהודים.",
+   "source": "src3",
+   "quote": "The effort saved young Walter and Minna, along with some 10,000 other predominately Jewish children",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c13",
+   "text": "לפי האנציקלופדיה הקנדית, הוריו של קוהן, סלומון וגיטל, לא הצליחו לברוח ונרצחו מאוחר יותר באושוויץ.",
+   "source": "src2",
+   "quote": "His parents, Salomon and Gittel, were unable to escape and were later killed at Auschwitz.",
+   "status": "confirmed",
+   "locator": "שורה 32"
+  },
+  {
+   "id": "c35",
+   "text": "במאמרם הראשון מ-1964 הציגו הוהנברג וקוהן ניסוח מחדש מדויק ווריאציוני של תורת הקוונטים הרב-גופית, שבו פונקציות הגל הוחלפו בצפיפות אלקטרונים אחת התלויה במקום.",
+   "source": "src4",
+   "quote": "Hohenberg and Kohn presented an exact, variational reformulation of many-body quantum theory in which the usual set of multi-variable wave functions was replaced by a single position-dependent density of electrons.",
+   "status": "confirmed",
+   "locator": "שורה 16"
+  },
+  {
+   "id": "c42",
+   "text": "מאז שנות ה-80 משתמשים כימאים בשיטה כדי לחזות תכונות של אטומים ומולקולות מורכבים.",
+   "source": "src4",
+   "quote": "has been used by chemists to predict the properties of complex atoms and molecules",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c2",
+   "text": "וולטר קוהן נולד ב-9 במרץ 1923 בווינה.",
+   "source": "src5",
+   "quote": "Walter was born on 9 March 1923 in Vienna",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c45",
+   "text": "לפי האנציקלופדיה הקנדית, התורה הפכה לשימושית רחבות בפיזיקה, בכימיה, בביוכימיה, במדעי החומרים ובהנדסה.",
+   "source": "src2",
+   "quote": "It has since become widely used in the fields of physics and chemistry, biochemistry, material sciences, engineering and beyond.",
+   "status": "confirmed",
+   "locator": "שורה 39"
+  },
+  {
+   "id": "c46",
+   "text": "לפי האנציקלופדיה הקנדית, קוהן זכה יחד עם ג'ון פופל בפרס נובל בכימיה ב-1998.",
+   "source": "src2",
+   "quote": "For his work on density functional theory, Kohn was named a co-recipient, with John Pople, of the Nobel Prize in Chemistry in 1998.",
+   "status": "confirmed",
+   "locator": "שורה 39"
+  },
+  {
+   "id": "c49",
+   "text": "לפי פיזיקס טודיי, ב-1979 גויס קוהן לאוניברסיטת קליפורניה בסנטה ברברה כמנהלו המייסד של המכון לפיזיקה תאורטית.",
+   "source": "src5",
+   "quote": "In 1979 he was recruited by the University of California, Santa Barbara, to be the founding director of the Institute for Theoretical Physics",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c4",
+   "text": "לפי ההספד של האקדמיה הלאומית למדעים, קוהן נולד ב-1923 למשפחה יהודית משכילה ממעמד הביניים בווינה.",
+   "source": "src4",
+   "quote": "Walter Kohn was born in 1923 into a well educated, middle class Jewish family in Vienna.",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c7",
+   "text": "לפי האנציקלופדיה הקנדית, אביו של קוהן ניהל הוצאה לאור שהפיקה גלויות אמנותיות.",
+   "source": "src2",
+   "quote": "His father ran a publishing company that produced artistic postcards",
+   "status": "confirmed",
+   "locator": "שורה 31"
+  },
+  {
+   "id": "c10",
+   "text": "לפי ההספד בפיזיקס טודיי, קוהן התקבל לגימנסיה יהודית שבה שני מורים יוצאי דופן עוררו בו עניין במדע.",
+   "source": "src5",
+   "quote": "he was able to enroll in a Jewish gymnasium where two remarkable teachers awoke his interest in science",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c9",
+   "text": "לפי האנציקלופדיה הקנדית, ביום שאחרי ליל הבדולח נפרץ בית משפחת קוהן, וולטר נעצר בדרכו הביתה מבית הספר ושוחרר מאוחר יותר.",
+   "source": "src2",
+   "quote": "The day after Kristallnacht (9-10 November 1938), the Kohn family home was broken into and Walter himself was arrested on the way home from school, but later released.",
+   "status": "confirmed",
+   "locator": "שורה 32"
+  },
+  {
+   "id": "c12",
+   "text": "לפי ChemistryViews, קוהן ברח בזכות מבצע ה-Kindertransport וחי אצל משפחה מאמצת בסאסקס שבבריטניה.",
+   "source": "src6",
+   "quote": "He escaped thanks to the Kindertransport operation and lived with a surrogate family in Sussex, UK",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c14",
+   "text": "לפי ההספד של האקדמיה הלאומית למדעים, קוהן נכלא כזר אויב במאי 1940 יחד עם עשרות אלפי תושבים זרים באנגליה.",
+   "source": "src4",
+   "quote": "he was interned as an enemy alien in May 1940, along with tens of thousands of foreign residents in England",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c15",
+   "text": "לפי האנציקלופדיה הקנדית, קוהן הוחזק בארבעה מחנות כליאה בניו ברנזוויק ובקוויבק במשך שנה וחצי.",
+   "source": "src2",
+   "quote": "Kohn was held at four internment camps in New Brunswick and Quebec over the course of a year and a half.",
+   "status": "confirmed",
+   "locator": "שורה 34"
+  },
+  {
+   "id": "c16",
+   "text": "לפי ההספד של האקדמיה הלאומית למדעים, בית ספר שפעל במחנה אפשר לקוהן להמשיך ללמוד פיזיקה ומתמטיקה.",
+   "source": "src4",
+   "quote": "Especially important for Walter was a camp school where he was able to continue studying physics and mathematics.",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c17",
+   "text": "לפי האנציקלופדיה הקנדית, קוהן קנה ספר לימוד במתמטיקה ובפיזיקה בשכר שהרוויח מכריתת עצים.",
+   "source": "src2",
+   "quote": "Kohn also purchased a math and physics textbook with the wages he earned from his work cutting trees.",
+   "status": "confirmed",
+   "locator": "שורה 34"
+  },
+  {
+   "id": "c19",
+   "text": "לפי ההספד של האקדמיה הלאומית למדעים, הרטה וברונו מנדל הזמינו את קוהן ואת ידידו יוזף אייזינגר לגור איתם בטורונטו.",
+   "source": "src4",
+   "quote": "He and his life-long friend and fellow Viennese refugee Josef (Terry) Eisinger were invited by Hertha and Bruno Mendel to live with them in Toronto",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c20",
+   "text": "לפי האנציקלופדיה הקנדית, קוהן שוחרר ממחנה N לידי משפחת מנדל בטורונטו בינואר 1942.",
+   "source": "src2",
+   "quote": "In January 1942, Kohn was released from Camp N into the care of the Mendel family in Toronto",
+   "status": "confirmed",
+   "locator": "שורה 35"
+  },
+  {
+   "id": "c18",
+   "text": "לפי ההספד של האקדמיה הלאומית למדעים, חייו של קוהן השתנו באופן מכריע בסתיו 1941.",
+   "source": "src4",
+   "quote": "Life changed decisively for Walter in the fall of 1941.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c21",
+   "text": "לפי ההספד של האקדמיה הלאומית למדעים, ליאופולד אינפלד יעץ לקוהן ללמוד בתוכנית המתמטיקה-פיזיקה בטורונטו.",
+   "source": "src4",
+   "quote": "advised him to major in the rigorous Math-Physics program at the University of Toronto",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c22",
+   "text": "לפי האנציקלופדיה הקנדית, דיקן הפקולטה העניק לקוהן פטור מיוחד שהסיר את לימודי הכימיה מדרישות התוכנית.",
+   "source": "src2",
+   "quote": "In the end, the Dean of Arts and Sciences gave him a special dispensation to enter the program, removing chemistry from the course requirements.",
+   "status": "confirmed",
+   "locator": "שורה 35"
+  },
+  {
+   "id": "c23",
+   "text": "לפי דברי קוהן, לאחר כמה ניסיונות התקבל לחיל הרגלים הקנדי בשנה האחרונה של מלחמת העולם השנייה.",
+   "source": "src4",
+   "quote": "was finally accepted into the Canadian Infantry Corps during the last year of World War II",
+   "status": "confirmed",
+   "locator": "שורה 22"
+  },
+  {
+   "id": "c24",
+   "text": "לפי אוניברסיטת טורונטו, קוהן השלים תואר ראשון במתמטיקה ובפיזיקה ב-1945.",
+   "source": "src7",
+   "quote": "he was able to complete a bachelor of arts in math and physics in 1945 (University College)",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c25",
+   "text": "ב-1946 עבר קוהן להרווארד, שם ג'וליאן שווינגר הפך למנחה הדוקטורט שלו.",
+   "source": "src5",
+   "quote": "In 1946 he moved to Harvard University, where Julian Schwinger became his PhD adviser.",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c26",
+   "text": "תוך שנתיים בלבד סיים קוהן את עבודת הדוקטורט שלו על התיאור הקוונטי-מכני של התנגשויות של גרעינים קלים.",
+   "source": "src5",
+   "quote": "In just two years, he completed his PhD thesis on the quantum mechanical description of collisions of light nuclei",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c27",
+   "text": "עבודתו המוקדמת של קוהן הייתה במכניקה תאורטית ובתורת השדה הקוונטית, ובמהרה פנה לתורת מצב המוצק.",
+   "source": "src5",
+   "quote": "Although his earliest work was in theoretical mechanics and quantum field theory, Walter quickly turned toward solid-state theory.",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c52",
+   "text": "לפי ChemistryViews, לאחר פוסט-דוקטורט במכון נילס בוהר בקופנהגן ב-1950 עבר קוהן לאוניברסיטת קרנגי מלון.",
+   "source": "src6",
+   "quote": "After a postdoctoral fellowship at the Niels Bohr Institute, Copenhagen, Denmark, in 1950, Kohn went to Carnegie Mellon University",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c51",
+   "text": "לפי ההספד של האקדמיה הלאומית למדעים, קוהן חזר לקרנגי טק בסתיו 1952 ושם מילא תפקיד מרכזי בבניית תוכנית מחקר חזקה בפיזיקה של מצב מוצק.",
+   "source": "src4",
+   "quote": "Back in the U.S. at Carnegie Tech in the fall of 1952, Walter played a central role in building a strong research program in solid state physics.",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c29",
+   "text": "בעת שהותו בקרנגי טק פיתח קוהן תאוריה של חריגות בספקטרום הפונונים של מתכות, המכונה היום חריגות קוהן.",
+   "source": "src5",
+   "quote": "While at Carnegie Tech, he developed his theory of anomalies in the phonon spectra of metals, now known as the Kohn anomalies.",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c28",
+   "text": "לפי האנציקלופדיה הקנדית, קוהן שימש יועץ במעבדות בל בניו ג'רזי וחזר אליהן מדי קיץ במשך יותר מעשור.",
+   "source": "src2",
+   "quote": "he also took up research as a consultant at Bell Telephone Laboratories, in New Jersey, returning each summer for over a decade.",
+   "status": "confirmed",
+   "locator": "שורה 37"
+  },
+  {
+   "id": "c53",
+   "text": "ב-1960 עבר קוהן לקמפוס החדש שהוקם של אוניברסיטת קליפורניה בסן דייגו.",
+   "source": "src4",
+   "quote": "Walter remained at Carnegie Tech until 1960 when he moved to the newly created campus of the University of California at San Diego.",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c54",
+   "text": "קוהן עמד בראש המחלקה לפיזיקה בסן דייגו בתקופת התפתחותה המוקדמת.",
+   "source": "src5",
+   "quote": "He chaired the physics department at San Diego during its early development.",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c30",
+   "text": "קוהן קיבל ב-1961 את פרס אוליבר באקלי של האגודה האמריקאית לפיזיקה.",
+   "source": "src2",
+   "quote": "Oliver E. Buckley Condensed Matter Physics Prize, American Physical Society (1961)",
+   "status": "confirmed",
+   "locator": "שורה 41"
+  },
+  {
+   "id": "c31",
+   "text": "לפי הקרן של פרס נובל, מכניקת הקוונטים דורשת חישובים מסובכים מאוד במערכות מורכבות כמו מולקולות.",
+   "source": "src8",
+   "quote": "However, quantum mechanics requires very complicated calculations for complex systems such as molecules.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c32",
+   "text": "לפי ההספד של האקדמיה הלאומית למדעים, הושקע מאמץ רב בהרחבת שיטות הפרטורבציה לבעיות רב-גופיות, שבהן האינטראקציות חזקות והקירובים הפרטורבטיביים בעייתיים.",
+   "source": "src4",
+   "quote": "A great deal of effort was spent in trying to extend these methods to many-body problems in nuclear and solid-state physics where the interactions are strong and perturbative approximations are problematic.",
+   "status": "confirmed",
+   "locator": "שורה 16"
+  },
+  {
+   "id": "c33",
+   "text": "לפי הוהנברג, הוא פגש את קוהן ב-1963 כשהיה בפוסט-דוקטורט בפריז.",
+   "source": "src4",
+   "quote": "I first met Walter Kohn in 1963 when I was a fresh Ph.D. spending a post-doc year in Paris",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c34",
+   "text": "לפי הוהנברג, קוהן הזמין אותו להצטרף לפרויקט מחקר חדש.",
+   "source": "src4",
+   "quote": "he did me the honor of inviting me to join him in a new research project he was undertaking",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c38",
+   "text": "לפי הקרן של פרס נובל, אפשר להתבונן בצפיפות הממוצעת של האלקטרונים במרחב במקום לעקוב אחר תנועת כל אלקטרון.",
+   "source": "src8",
+   "quote": "Instead, one could look at the average density of electrons in the space.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c36",
+   "text": "המערכות שאליהן ניתן היה ליישם את התוצאה כללו מספר גדול כרצונך של אלקטרונים בנוכחות סידורים שרירותיים של גרעיני אטומים.",
+   "source": "src4",
+   "quote": "The systems to which it could be applied consisted of arbitrarily large numbers of electrons in the presence of arbitrary arrangements of atomic nuclei.",
+   "status": "confirmed",
+   "locator": "שורה 16"
+  },
+  {
+   "id": "c37",
+   "text": "משפט הוהנברג-קוהן חל באותה מידה גם על מולקולות כימיות מכל מורכבות.",
+   "source": "src4",
+   "quote": "this Hohenberg-Kohn theorem applied equally well to chemical molecules of arbitrary complexity.",
+   "status": "confirmed",
+   "locator": "שורה 16"
+  },
+  {
+   "id": "c39",
+   "text": "קוהן ולו שם ניסחו מחדש את תאוריית הוהנברג-קוהן כמערכת מדויקת של משוואות הרטרי-פוק מוכללות המבוטאות כולן בצפיפות האלקטרונים.",
+   "source": "src4",
+   "quote": "Walter and his new postdoctoral associate Lu Sham recast the Hohenberg-Kohn theory in terms of an exact set of generalized quantum many-body (Hartree-Fock) equations expressed once again entirely in terms of the electron density.",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c40",
+   "text": "השיטה מניבה פתרונות מקורבים שימושיים ללא קושי גדול מזה של שיטת הרטרי-פוק המקובלת, אך בדיוק טוב יותר באופן משמעותי.",
+   "source": "src4",
+   "quote": "with no more difficulty than the more conventional Hartree-Fock method, but with significantly better accuracy",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c43",
+   "text": "רק עם בוא המחשבים המהירים והחזקים הפכה תורת פונקציונל הצפיפות לשיטת הבחירה החזויה במחקר בפיזיקה ובכימיה של חומרים.",
+   "source": "src4",
+   "quote": "with the advent of fast powerful computers, that density functional theory became the predictive method of choice for research in materials physics and chemistry",
+   "status": "confirmed",
+   "locator": "שורה 20"
+  },
+  {
+   "id": "c44",
+   "text": "לפי החברה המלכותית, הגישה של קוהן פישטה מאוד את החישובים הדרושים להבנת קשרי האלקטרונים בין אטומים בתוך מולקולות.",
+   "source": "src9",
+   "quote": "His approach greatly simplified the computations needed to understand the electron bonding between atoms within molecules.",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c41",
+   "text": "מאמרי הוהנברג-קוהן וקוהן-שם נרשמו ב-2005 על ידי רדנר כפרסומים המצוטטים ביותר בהיסטוריה של Physical Review.",
+   "source": "src4",
+   "quote": "were listed by Redner [13] in 2005 as the most highly cited publications in the 100-plus year history of the Physical Review",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c72",
+   "text": "לפי הוהנברג, המאמר שכתב עם קוהן הוא השני בהיקף הציטוטים בהיסטוריה של Physical Review.",
+   "source": "src5",
+   "quote": "coauthor of the second most cited paper in the history of Physical Review",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c1",
+   "text": "וולטר קוהן קיבל מחצית מפרס נובל בכימיה על פיתוח תורת פונקציונל הצפיפות.",
+   "source": "src9",
+   "quote": "Half of prize for his development of the density-functional theory",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c73",
+   "text": "לפי ChemistryViews, פרס נובל הוענק לקוהן ולפופל על תרומתם להבנת התכונות האלקטרוניות של חומרים.",
+   "source": "src6",
+   "quote": "contributions to the understandings of the electronic properties of materials",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c48",
+   "text": "לפי ההספד של האקדמיה הלאומית למדעים, כשלושים שנה אחרי הגילוי, לאחר שחשיבותו התבהרה, הוענק לקוהן פרס נובל בכימיה.",
+   "source": "src4",
+   "quote": "Thirty years later, once the vast importance of this theory had become clear, he was awarded a Nobel Prize in Chemistry for this discovery.",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c71",
+   "text": "לפי הוהנברג, המאמר שפרסמו באביב 1964 היה אחת משתי עבודות שוועדת נובל ציינה בהענקת הפרס.",
+   "source": "src4",
+   "quote": "was one of two works cited by the Nobel Committee in awarding the 1998 Chemistry Prize to Walter",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c69",
+   "text": "לפי אוניברסיטת טורונטו, קוהן היה אחד מחמישה זוכי נובל שלמדו באוניברסיטה.",
+   "source": "src7",
+   "quote": "One of five Nobel laureates to have graduated from U of T",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c70",
+   "text": "לפי אוניברסיטת קליפורניה בסנטה ברברה, קוהן היה הראשון מבין שישה זוכי נובל של האוניברסיטה מאז 1998.",
+   "source": "src3",
+   "quote": "the first of six Nobel laureates at UC Santa Barbara since 1998",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c55",
+   "text": "לפי אוניברסיטת קליפורניה בסנטה ברברה, המכון לפיזיקה תאורטית הושק למעשה על ידי קוהן.",
+   "source": "src3",
+   "quote": "the Institute for Theoretical Physics (ITP), as it was then known, was essentially launched by Kohn",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c57",
+   "text": "לפי אוניברסיטת קליפורניה בסנטה ברברה, המכון התפתח במהירות לאחד ממרכזי המחקר המובילים בפיזיקה ומוּדל בעולם.",
+   "source": "src3",
+   "quote": "quickly developed into one of the leading research centers in physics, and has since been widely emulated internationally",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c56",
+   "text": "לפי ההספד של האקדמיה הלאומית למדעים, המכון הפך במהרה ליעד מועדף על מדענים מכל העולם.",
+   "source": "src4",
+   "quote": "the ITP quickly became a destination of choice for scientists throughout the world",
+   "status": "confirmed",
+   "locator": "שורה 22"
+  },
+  {
+   "id": "c58",
+   "text": "לפי ג'ים לנגר, עלייתה של אוניברסיטת סנטה ברברה לאוניברסיטת מחקר בולטת בעולם נבעה במידה רבה ממוניטין המכון.",
+   "source": "src3",
+   "quote": "The rise of UCSB as an internationally prominent research university was due in large part to the growing reputation of the ITP.",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c59",
+   "text": "המכון שוכן כיום בבניין בשם Kohn Hall, הנושא את שמו של קוהן.",
+   "source": "src3",
+   "quote": "Now situated in a building, Kohn Hall, that bears his name",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c63",
+   "text": "קוהן אמר בנאום הנובל שלו שיש לו זהות יהודית חזקה.",
+   "source": "src4",
+   "quote": "I want to mention that I have a strong Jewish identity",
+   "status": "confirmed",
+   "locator": "שורה 22"
+  },
+  {
+   "id": "c64",
+   "text": "לפי אוניברסיטת טורונטו, קוהן פעל נגד מרוץ החימוש הגרעיני, הפיק סרט תיעודי על אנרגיית שמש והקים תוכנית ללימודי יהדות באוניברסיטת קליפורניה בסן דייגו.",
+   "source": "src7",
+   "quote": "He campaigned against the nuclear arms race, produced a documentary on solar power and established a program in Judaic Studies at the University of California, San Diego.",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c67",
+   "text": "ב-1978 נישא קוהן בשנית למארה וישניאק, בתו של הצלם רומן וישניאק ופליטה יהודייה מרדיפות הנאצים כמוהו.",
+   "source": "src4",
+   "quote": "Walter was remarried in 1978, to Mara Vishniac, the daughter of the photographer Roman Vishniac and, like Walter, a Jewish refugee from Nazi oppression.",
+   "status": "confirmed",
+   "locator": "שורה 20"
+  },
+  {
+   "id": "c61",
+   "text": "קוהן פעל בקהילה המדעית להגנה על זכויות האדם של מדענים ברחבי העולם.",
+   "source": "src5",
+   "quote": "He was active in efforts in the scientific community to defend the human rights of scientists worldwide.",
+   "status": "confirmed",
+   "locator": "שורה 15"
+  },
+  {
+   "id": "c68",
+   "text": "ב-2001 היה קוהן הדובר הראשון בהרצאות טמפלטון על מדע, דת וחוויית האדם.",
+   "source": "src3",
+   "quote": "In 2001, he was the inaugural speaker for the Templeton Research Lectures on Science, Religion, and the Human Experience",
+   "status": "confirmed",
+   "locator": "שורה 17"
+  },
+  {
+   "id": "c62",
+   "text": "לפי החברה המלכותית, ב-2005 הפיק קוהן יחד עם אחרים סרט לימודי על אנרגיית השמש בהקראת ג'ון קליס.",
+   "source": "src9",
+   "quote": "a classroom documentary on solar power narrated by John Cleese",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c65",
+   "text": "במאי 2009 נשא קוהן הרצאה באוניברסיטת בר-אילן לרגל קבלת תואר דוקטור לשם כבוד.",
+   "source": "src1",
+   "quote": "בהרצאה שנשא במאי 2009 באוניברסיטת בר-אילן, לרגל קבלת תואר דוקטור לשם כבוד",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c66",
+   "text": "בהרצאתו בבר-אילן קרא קוהן להפסיק את התלות בנפט, בפחם ובאנרגיה הגרעינית ולהתמקד באנרגיית שמש ורוח.",
+   "source": "src1",
+   "quote": "קרא להפסיק את השעבוד לנפט שהולך להגמר, לפחם שמזהם ולאנרגיה הגרעינית",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c3",
+   "text": "קוהן מת בביתו בסנטה ברברה, קליפורניה, ב-19 באפריל 2016.",
+   "source": "src5",
+   "quote": "Walter Kohn, a giant of 20th-century theoretical physics, died at his home in Santa Barbara, California, on 19 April 2016.",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c60",
+   "text": "קוהן היה מנהיג של מאמץ סגל לנתק את הקשר בין אוניברסיטת קליפורניה למעבדות הנשק הגרעיני בלוס אלמוס ובליברמור, מאמץ שעד כה לא צלח.",
+   "source": "src5",
+   "quote": "He was a leader of the (so far unsuccessful) faculty effort to sever the link between the University of California and the US nuclear weapons laboratories at Los Alamos and Livermore.",
+   "status": "confirmed",
+   "locator": "שורה 15"
+  },
+  {
+   "id": "c50",
+   "text": "לפי ויקיפדיה העברית, קוהן עבר לאוניברסיטת קליפורניה בסנטה ברברה ב-1984.",
+   "source": "src1",
+   "quote": "באותה תקופה הוא פיתח תורת הקירוב המקומית של הצפיפות. ב-1984 עבר לאוניברסיטת קליפורניה בסנטה ברברה",
+   "status": "confirmed",
+   "locator": "שורה 16"
+  }
+ ],
+ "sources": [
+  {
+   "id": "src1",
+   "label": "Wikipedia/HaMichlol in Hebrew, Walter Kohn",
+   "url": "https://www.hamichlol.org.il/%D7%95%D7%95%D7%9C%D7%98%D7%A8_%D7%A7%D7%95%D7%94%D7%9F",
+   "kind": "reference"
+  },
+  {
+   "id": "src2",
+   "label": "The Canadian Encyclopedia, Walter Kohn",
+   "url": "https://thecanadianencyclopedia.ca/en/article/walter-kohn",
+   "kind": "reference"
+  },
+  {
+   "id": "src3",
+   "label": "UC Santa Barbara, In Memoriam: Walter Kohn, 2016",
+   "url": "https://news.ucsb.edu/2016/016736/memoriam-walter-kohn",
+   "kind": "organisation"
+  },
+  {
+   "id": "src4",
+   "label": "National Academy of Sciences, Biographical Memoir of Walter Kohn",
+   "url": "https://www.nasonline.org/wp-content/uploads/2024/06/kohn-walter.pdf",
+   "kind": "reference"
+  },
+  {
+   "id": "src5",
+   "label": "Physics Today (AIP), obituary",
+   "url": "https://physicstoday.aip.org/obituaries/walter-kohn",
+   "kind": "press"
+  },
+  {
+   "id": "src6",
+   "label": "ChemistryViews, Walter Kohn obituary, 2016",
+   "url": "https://www.chemistryviews.org/?p=38237",
+   "kind": "press"
+  },
+  {
+   "id": "src7",
+   "label": "University of Toronto, Remembering U of T's Walter Kohn",
+   "url": "https://www.utoronto.ca/news/remembering-u-t-s-walter-kohn",
+   "kind": "organisation"
+  },
+  {
+   "id": "src8",
+   "label": "Nobel Foundation, Walter Kohn facts",
+   "url": "https://www.nobelprize.org/prizes/chemistry/1998/kohn/facts/",
+   "kind": "official"
+  },
+  {
+   "id": "src9",
+   "label": "Royal Society, Walter Kohn ForMemRS",
+   "url": "https://royalsociety.org/people/walter-kohn-11767",
+   "kind": "official"
+  }
+ ],
+ "media": [
+  {
+   "id": "m1",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/WalterKohnGraz21042006%201.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:WalterKohnGraz21042006_1.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Jtk33",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "Kohn speaking at a lecture at the University of Graz, Austria, in a close-up portrait.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "2006-04-21",
+   "width": 1224,
+   "height": 1461
+  },
+  {
+   "id": "m2",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Walter%20Kohn.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Walter_Kohn.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Markus Pössel (User name: Mapos)",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "Walter Kohn, wearing a black beret and smiling, at the Lindau Nobel Laureate Meeting on 3 July 2012.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "2012-07-03",
+   "width": 2739,
+   "height": 3706
+  },
+  {
+   "id": "m3",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Walter%20Kohn%20in%20May%204%202008.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Walter_Kohn_in_May_4_2008.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "not stated",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "Kohn standing at a lectern with microphones and a bouquet of red flowers, speaking with a smile.",
+   "illustrates": [],
+   "licence_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "width": 2747,
+   "height": 1839
+  },
+  {
+   "id": "m4",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/WalterKohnGraz21042006.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:WalterKohnGraz21042006.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Jtk33",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "Kohn standing in a lecture hall at the University of Graz, Austria, with listeners seated facing him.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "2006-04-21",
+   "width": 1224,
+   "height": 1632
+  },
+  {
+   "id": "m5",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Walter%20Kohn%20Autograph.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Walter_Kohn_Autograph.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Walter Kohn, digitalization by Hindustanilanguage",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "Handwritten signature: \"Best wishes, W. Kohn\".",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "2011-08-08",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "id": "m6",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=hsXFn3ehLeQ",
+   "youtube_id": "hsXFn3ehLeQ",
+   "source_page": "https://www.youtube.com/watch?v=hsXFn3ehLeQ",
+   "source_name": "YouTube",
+   "credit": "YouTube",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "Interview with Walter Kohn, 1998 Nobel laureate in Chemistry.",
+   "illustrates": [
+    "c1",
+    "c47"
+   ],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m7",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=2zrZDFT1NAk",
+   "youtube_id": "2zrZDFT1NAk",
+   "source_page": "https://www.youtube.com/watch?v=2zrZDFT1NAk",
+   "source_name": "YouTube",
+   "credit": "University of California Television (UCTV)",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "UCTV interview at the University of California, San Diego: Ivan Schuller hosts Kohn, 1998 Nobel laureate in Chemistry, for a conversation about his prize-winning work.",
+   "illustrates": [
+    "c1",
+    "c53"
+   ],
+   "spoken": "en",
+   "audio_tracks": [
+    "en",
+    "de",
+    "es",
+    "fr",
+    "hi",
+    "id",
+    "it",
+    "ja",
+    "pl",
+    "pt"
+   ]
+  },
+  {
+   "id": "m8",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=x4jBsxzIZHg",
+   "youtube_id": "x4jBsxzIZHg",
+   "source_page": "https://www.youtube.com/watch?v=x4jBsxzIZHg",
+   "source_name": "YouTube",
+   "credit": "YouTube",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "Interview with Prof. Walter Kohn at the 54th Meeting of Nobel Laureates in Lindau, Germany, 2004.",
+   "illustrates": []
+  },
+  {
+   "id": "m9",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=c12VA8JxBlQ",
+   "youtube_id": "c12VA8JxBlQ",
+   "source_page": "https://www.youtube.com/watch?v=c12VA8JxBlQ",
+   "source_name": "YouTube",
+   "credit": "YouTube",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "Full interview with Walter Kohn, from a video blog that documented the 2013 Lindau Nobel Laureate Meeting.",
+   "illustrates": [],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m10",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=gwIxxJ7tEuU",
+   "youtube_id": "gwIxxJ7tEuU",
+   "source_page": "https://www.youtube.com/watch?v=gwIxxJ7tEuU",
+   "source_name": "YouTube",
+   "credit": "AAMUPhysics",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "Kohn's talk at the 15th annual Pucha Venkateswarlu Memorial Lecture in 2012, at AAMU.",
+   "illustrates": [],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m11",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/UCSB-NobelBanner-WalterKohn.png?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:UCSB-NobelBanner-WalterKohn.png",
+   "source_name": "Wikimedia Commons",
+   "credit": "No machine-readable author provided. Alanmak~commonswiki assumed (based on copyright claims).",
+   "licence": "CC BY 2.5",
+   "hosting": "hotlink",
+   "caption": "Banner on a lamppost on the University of California, Santa Barbara campus marking Walter Kohn's Nobel Prize in Chemistry, 1998",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/2.5",
+   "width": 800,
+   "height": 600,
+   "role": "deed"
+  },
+  {
+   "id": "m12",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/California%20NanoSystems%20Institute%20%28CNSI%29%20building%20with%20mural%20at%20the%20University%20of%20California%2C%20Santa%20Barbara%2C%20Goleta%2C%20California%20LCCN2013632013.tif?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:California_NanoSystems_Institute_%28CNSI%29_building_with_mural_at_the_University_of_California%2C_Santa_Barbara%2C_Goleta%2C_California_LCCN2013632013.tif",
+   "source_name": "Wikimedia Commons",
+   "credit": "Carol M. Highsmith",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "The California NanoSystems Institute building on the University of California, Santa Barbara campus, with a large mural on its facade",
+   "illustrates": [],
+   "date": "Taken on 2",
+   "width": 6144,
+   "height": 3150,
+   "role": "related"
+  },
+  {
+   "id": "m13",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Goleta%20Beach%20%282013%29%2003.JPG?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Goleta_Beach_%282013%29_03.JPG",
+   "source_name": "Wikimedia Commons",
+   "credit": "Nandaro",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "Goleta Beach with University of California, Santa Barbara buildings in the background, 2013",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "2013-10-20",
+   "width": 4512,
+   "height": 3000,
+   "role": "related"
+  },
+  {
+   "id": "m15",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/SBSouthCoast.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:SBSouthCoast.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Antandrus at English Wikipedia",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "Aerial view of the South Coast of Santa Barbara County, with the University of California, Santa Barbara, Goleta and mountains in the background",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "18 January",
+   "width": 1600,
+   "height": 1200,
+   "role": "related"
+  },
+  {
+   "id": "m16",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/UCSB%2002.JPG?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:UCSB_02.JPG",
+   "source_name": "Wikimedia Commons",
+   "credit": "Superchilum",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "A path and lawns on the University of California, Santa Barbara campus",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "2008-12-19",
+   "width": 3072,
+   "height": 2304,
+   "role": "related"
+  }
+ ],
+ "check": {
+  "passed": true,
+  "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
+  "checked_at": "2026-11-21T23:21:18Z",
+  "counts": {
+   "confirmed": 89,
+   "not_confirmed": 0,
+   "deleted_sentences": 3,
+   "first_round_confirmed": 87,
+   "first_round_contradicted": 2,
+   "first_round_unverifiable": 3
+  },
+  "note": "unverifiable sentences were deleted, contradicted ones fixed from the source and checked again"
+ },
+ "meta": {
+  "run": "walter-kohn-density-functional-theory",
+  "pipeline": "scripts/museum/museum_line.py",
+  "models": {
+   "research": "sonnet-5-5",
+   "extract": "sonnet-5-5",
+   "media": "sonnet-5-5",
+   "write": "opus-5-5 medium",
+   "check": "opus-5-5 medium",
+   "fix": "opus-5-5 medium"
+  },
+  "source_quality": {
+   "sources": 9,
+   "wikipedia": 0,
+   "strong": 4,
+   "ok": true,
+   "warnings": []
+  }
+ },
+ "lang": "en",
+ "translation": {
+  "from": "he",
+  "translator": "claude-opus-5-5",
+  "checker": "claude-opus-5-5 (separate call, blind to the translation prompt)",
+  "checked_at": "2026-11-22T00:27:41Z",
+  "passed": true,
+  "items": 127,
+  "pairs_checked": 5,
+  "reused": 122,
+  "first_round_flagged": 0,
+  "still_flagged": 0,
+  "flagged": [],
+  "quote_translations": {
+   "c6": "Kohn was born in Vienna, Austria, in 1923 to his Jewish parents, Salomon and Gittel Kohn.",
+   "c47": "the 1998 Nobel Prize in Chemistry for the development of density functional theory",
+   "c65": "In a lecture he gave in May 2009 at Bar-Ilan University, on the occasion of receiving an honorary doctorate",
+   "c66": "called for an end to the enslavement to oil that is running out, to coal that pollutes, and to nuclear energy",
+   "c50": "During that period he developed the local density approximation theory. In 1984 he moved to the University of California, Santa Barbara"
+  }
+ }
+}

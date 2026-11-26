@@ -8,7 +8,7 @@ export default function LangToggle() {
   return (
     <button
       onClick={() => setLang(lang === "he" ? "en" : "he")}
-      className="text-xs font-medium text-blue-200/60 hover:text-[#c9a84a] transition-colors border border-[rgba(201,168,74,0.3)] hover:border-[rgba(201,168,74,0.6)] rounded-full px-2.5 py-1"
+      className="text-xs font-medium text-[#63554a] hover:text-[#6b4426] transition-colors border border-[#cbbfa8] hover:border-[#6b4426] rounded-full px-2.5 py-1"
       aria-label={lang === "he" ? "החלף לאנגלית" : "Switch to Hebrew"}
     >
       {lang === "he" ? "EN" : "עב"}

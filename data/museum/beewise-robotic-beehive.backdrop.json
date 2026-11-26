@@ -1,0 +1,56 @@
+{
+ "schema": "maasei-backdrop/1",
+ "slug": "beewise-robotic-beehive",
+ "media": "m25",
+ "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Bees%20house%20%28Harvesting%20Honey%29.jpg?width=1920",
+ "img_small": "https://commons.wikimedia.org/wiki/Special:FilePath/Bees%20house%20%28Harvesting%20Honey%29.jpg?width=1080",
+ "why": "It is a wide, deep view of beekeepers working rows of hives beside a blooming yellow field, which sets the world of today's apiaries and pollinated farmland that the robotic hive is built to protect, though it is not a Beewise site.",
+ "chosen_by": "opus picker",
+ "alternates": [
+  "m8"
+ ],
+ "from": {
+  "average": "#b0b6a2",
+  "picked": "#afc6e6",
+  "coloured_share": 0.789,
+  "lightness": 0.664
+ },
+ "palette": {
+  "paper": "#e9eef4",
+  "surface": "#f6f8fa",
+  "band": "#d7e0ec",
+  "tint": "#ccd9ea",
+  "header": "#dfe5ef",
+  "rule": "#afbfd5",
+  "text": "#18202a",
+  "text2": "#333e4c",
+  "accent": "#294f84",
+  "meta": "#4f5a68",
+  "tone": "#20221b",
+  "shadow": "18, 24, 33"
+ },
+ "checks": {
+  "text_on_paper": 14.08,
+  "text_on_surface": 15.42,
+  "text_on_band": 12.33,
+  "text_on_tint": 11.48,
+  "text_on_header": 12.97,
+  "text2_on_paper": 9.31,
+  "text2_on_surface": 10.2,
+  "text2_on_band": 8.15,
+  "text2_on_tint": 7.59,
+  "text2_on_header": 8.58,
+  "accent_on_paper": 7.07,
+  "accent_on_surface": 7.75,
+  "accent_on_band": 6.19,
+  "accent_on_tint": 5.77,
+  "accent_on_header": 6.52,
+  "meta_on_paper": 6.01,
+  "meta_on_surface": 6.59,
+  "meta_on_band": 5.26,
+  "meta_on_tint": 4.9,
+  "meta_on_header": 5.54,
+  "paper_on_accent": 7.07
+ },
+ "passed": true
+}

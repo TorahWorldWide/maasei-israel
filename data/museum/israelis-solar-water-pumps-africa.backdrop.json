@@ -1,0 +1,56 @@
+{
+ "schema": "maasei-backdrop/1",
+ "slug": "israelis-solar-water-pumps-africa",
+ "media": "m1",
+ "img": "https://commons.wikimedia.org/wiki/Special:FilePath/%D7%A1%D7%99%D7%95%D7%9F%20%D7%99%D7%A2%D7%A8%D7%99%20%D7%91%D7%98%D7%A0%D7%96%D7%A0%D7%99%D7%94.jpg?width=1920",
+ "img_small": "https://commons.wikimedia.org/wiki/Special:FilePath/%D7%A1%D7%99%D7%95%D7%9F%20%D7%99%D7%A2%D7%A8%D7%99%20%D7%91%D7%98%D7%A0%D7%96%D7%A0%D7%99%D7%94.jpg?width=1080",
+ "why": "Workers in orange coveralls build a water tower inside scaffolding in Tanzania, so it shows the actual construction work of the project with depth and texture behind the conversation in front.",
+ "chosen_by": "opus picker",
+ "alternates": [
+  "m10"
+ ],
+ "from": {
+  "average": "#7c4f4f",
+  "picked": "#843027",
+  "coloured_share": 0.572,
+  "lightness": 0.397
+ },
+ "palette": {
+  "paper": "#f4eae9",
+  "surface": "#faf6f6",
+  "band": "#ecd9d7",
+  "tint": "#eacfcc",
+  "header": "#efe0df",
+  "rule": "#d5b3af",
+  "text": "#2a1a18",
+  "text2": "#4c3533",
+  "accent": "#863128",
+  "meta": "#68514f",
+  "tone": "#251818",
+  "shadow": "33, 19, 18"
+ },
+ "checks": {
+  "text_on_paper": 14.13,
+  "text_on_surface": 15.55,
+  "text_on_band": 12.29,
+  "text_on_tint": 11.35,
+  "text_on_header": 13.02,
+  "text2_on_paper": 9.54,
+  "text2_on_surface": 10.5,
+  "text2_on_band": 8.3,
+  "text2_on_tint": 7.67,
+  "text2_on_header": 8.8,
+  "accent_on_paper": 7.16,
+  "accent_on_surface": 7.88,
+  "accent_on_band": 6.23,
+  "accent_on_tint": 5.76,
+  "accent_on_header": 6.6,
+  "meta_on_paper": 6.18,
+  "meta_on_surface": 6.8,
+  "meta_on_band": 5.38,
+  "meta_on_tint": 4.97,
+  "meta_on_header": 5.7,
+  "paper_on_accent": 7.16
+ },
+ "passed": true
+}

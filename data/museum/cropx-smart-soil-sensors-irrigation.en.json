@@ -1,0 +1,1848 @@
+{
+ "schema": "maasei-museum/1",
+ "slug": "cropx-smart-soil-sensors-irrigation",
+ "deed": "קרופ-אקס חוסכת ארבעים אחוז ממי ההשקיה עם חיישני קרקע חכמים",
+ "canonical_type": "team-invention",
+ "year": "2013–2015 (המקורות חלוקים)",
+ "title": "Israel's CropX buried sensors in the ground, and the fields got less water and more yield",
+ "trailer": [
+  {
+   "text": "CropX is an Israeli provider of advanced adaptive irrigation technology.",
+   "claims": [
+    "c1"
+   ]
+  },
+  {
+   "text": "The company was founded by Isaac Bentwich, and its CEO, Tomer Tzach, was born in Israel.",
+   "claims": [
+    "c19",
+    "c25"
+   ]
+  },
+  {
+   "text": "Farmers themselves bury mushroom-like sensors in the ground, which collect moisture, salinity and temperature data and send it to the cloud.",
+   "claims": [
+    "c27",
+    "c28"
+   ]
+  },
+  {
+   "text": "According to the company, in a six-month pilot in Arizona the system saved 40% of the irrigation water.",
+   "claims": [
+    "c9",
+    "c10",
+    "c12"
+   ]
+  },
+  {
+   "text": "Streamlining irrigation made it possible to grow an additional crop, and the revenue from the parcel rose by 10%.",
+   "claims": [
+    "c14",
+    "c15"
+   ]
+  }
+ ],
+ "hero_media": [
+  "m8",
+  "m12",
+  "m17"
+ ],
+ "glance": [
+  {
+   "label": "Founder",
+   "value": "Isaac Bentwich",
+   "claims": [
+    "c19"
+   ]
+  },
+  {
+   "label": "CEO",
+   "value": "Tomer Tzach",
+   "claims": [
+    "c2"
+   ]
+  },
+  {
+   "label": "Since",
+   "value": "2013–2015, depending on the source",
+   "claims": [
+    "c58",
+    "c26",
+    "c19"
+   ]
+  },
+  {
+   "label": "Scale",
+   "value": "Systems in 40 countries, as of the article",
+   "claims": [
+    "c6"
+   ]
+  },
+  {
+   "label": "Water savings",
+   "value": "40% according to Globes",
+   "claims": [
+    "c3"
+   ]
+  },
+  {
+   "label": "Recognition",
+   "value": "The Israel Innovation Authority describes the solution",
+   "claims": [
+    "c61"
+   ]
+  }
+ ],
+ "stations": [
+  {
+   "id": "s1",
+   "title": "One soil, two worlds",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "According to the article, some areas of the land are left swamped and others are left dehydrated.",
+      "claims": [
+       "c36"
+      ]
+     },
+     {
+      "text": "Irrigation that does not distinguish between them yields smaller harvests, and can lead to chemical runoff that threatens aquatic life and the quality of drinking water.",
+      "claims": [
+       "c37"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to Tzach, over-irrigation wastes water and hurts the crop.",
+      "claims": [
+       "c30"
+      ]
+     },
+     {
+      "text": "Potatoes, for example, can rot from too much water.",
+      "claims": [
+       "c30"
+      ]
+     },
+     {
+      "text": "According to Tzach, when you look at the field from above, the figures come too late.",
+      "claims": [
+       "c17"
+      ]
+     },
+     {
+      "text": "It usually takes weeks before you see something on the plant's leaves.",
+      "claims": [
+       "c17"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to Bentwich, only four percent of irrigated farms use Israeli drip irrigation, even though it improves yields and reduces costs.",
+      "claims": [
+       "c40"
+      ]
+     },
+     {
+      "text": "According to the article, 85 percent of irrigated farms use pivot irrigation.",
+      "claims": [
+       "c41"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m7",
+    "m10"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s2",
+   "title": "A doctor in New Zealand, and a company in Israel",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "Isaac Bentwich is a doctor by training.",
+      "claims": [
+       "c44"
+      ]
+     },
+     {
+      "text": "He began to understand the problem when his family stayed in New Zealand for two and a half years, during a world tour.",
+      "claims": [
+       "c44"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "Bentwich founded CropX.",
+      "claims": [
+       "c19"
+      ]
+     },
+     {
+      "text": "He was described as CEO of an Israeli agricultural analytics company.",
+      "claims": [
+       "c35"
+      ]
+     },
+     {
+      "text": "According to Globes, he is no longer active in the company.",
+      "claims": [
+       "c19"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "Tomer Tzach was born in Israel and grew up in the US.",
+      "claims": [
+       "c25"
+      ]
+     },
+     {
+      "text": "He returned to Israel for military service, and was a transport pilot in the air force for seven years.",
+      "claims": [
+       "c25"
+      ]
+     },
+     {
+      "text": "Later he joined CropX as CEO.",
+      "claims": [
+       "c20"
+      ]
+     },
+     {
+      "text": "According to him, when he joined, the company did irrigation management only.",
+      "claims": [
+       "c65"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to CropX's own website, the company was founded in 2013 in New Zealand.",
+      "claims": [
+       "c79"
+      ]
+     }
+    ]
+   ],
+   "media": [],
+   "disagreements": [
+    "d2",
+    "d3"
+   ]
+  },
+  {
+   "id": "s3",
+   "title": "A mushroom-sized sensor",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "CropX's technology is based on sensors planted in the soil at specific points in the field.",
+      "claims": [
+       "c4"
+      ]
+     },
+     {
+      "text": "The sensors are mushroom-like, and farmers install them themselves.",
+      "claims": [
+       "c27"
+      ]
+     },
+     {
+      "text": "An app guides farmers on where to place them.",
+      "claims": [
+       "c38"
+      ]
+     },
+     {
+      "text": "Other companies sometimes require professional planting, which costs more.",
+      "claims": [
+       "c16"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "The sensors measure moisture, salinity and temperature in the soil, at various depths.",
+      "claims": [
+       "c7"
+      ]
+     },
+     {
+      "text": "According to the Government of South Australia, the sensor measures at depths of 20 and 46 centimetres.",
+      "claims": [
+       "c63"
+      ]
+     },
+     {
+      "text": "The data passes wirelessly to the cloud, where a system collects and analyzes it.",
+      "claims": [
+       "c5",
+       "c28"
+      ]
+     },
+     {
+      "text": "One sensor can monitor a section of field of 20 to 80 dunams.",
+      "claims": [
+       "c8"
+      ]
+     },
+     {
+      "text": "The sensors run on a battery, which can last up to four years.",
+      "claims": [
+       "c38"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "The company generates irrigation maps, and automatically applies the right amount of water to each part of the field.",
+      "claims": [
+       "c62"
+      ]
+     },
+     {
+      "text": "The products work with existing pivot systems, which would be costly for farmers to replace.",
+      "claims": [
+       "c60"
+      ]
+     },
+     {
+      "text": "A new version of the sensor is screwed into the ground, and installation was shortened from 20 minutes to four.",
+      "claims": [
+       "c52",
+       "c59"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m1",
+    "m4",
+    "m11",
+    "m13",
+    "m15"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s4",
+   "title": "The Arizona trial",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "CropX completed a pilot project in Arizona, in cooperation with the IAF investment company.",
+      "claims": [
+       "c9"
+      ]
+     },
+     {
+      "text": "The trial lasted six months, on a round 500-dunam plot with a mobile irrigation system.",
+      "claims": [
+       "c10"
+      ]
+     },
+     {
+      "text": "The company divided an alfalfa field into 20 equal portions.",
+      "claims": [
+       "c11"
+      ]
+     },
+     {
+      "text": "Each portion was grown under different irrigation and fertilizing conditions.",
+      "claims": [
+       "c11"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to the company, at the end of the trial it turned out that the system had saved 40% of the irrigation water.",
+      "claims": [
+       "c12"
+      ]
+     },
+     {
+      "text": "The water saved was estimated at 190 million liters, equivalent to 76 Olympic swimming pools.",
+      "claims": [
+       "c13"
+      ]
+     },
+     {
+      "text": "Streamlining irrigation made it possible to grow an additional crop during the pilot period, which yielded 10% more crops.",
+      "claims": [
+       "c14"
+      ]
+     },
+     {
+      "text": "Revenue from the parcel rose from $280,000 to $310,000.",
+      "claims": [
+       "c15"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to Tzach, when farmers are shown the data, they are surprised to discover that they did not irrigate and fertilize enough.",
+      "claims": [
+       "c2"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m16"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s5",
+   "title": "How much water was saved",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "According to Globes, the technology saves 40% of irrigation water and increases crops by 10%.",
+      "claims": [
+       "c3"
+      ]
+     },
+     {
+      "text": "According to ISRAEL21c, the system releases into the soil only the amounts that are needed.",
+      "claims": [
+       "c47"
+      ]
+     },
+     {
+      "text": "Other sources give other figures.",
+      "claims": [
+       "c39",
+       "c47",
+       "c53",
+       "c57",
+       "c74"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "In New Zealand, the dairy collective Dairy Holdings, which covers over 20,000 hectares, used CropX to reduce irrigation by 30%.",
+      "claims": [
+       "c75"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to the article, the savings to farmers are at least three times the cost of using CropX.",
+      "claims": [
+       "c42"
+      ]
+     },
+     {
+      "text": "The benefits are reaped within the first harvest.",
+      "claims": [
+       "c42"
+      ]
+     },
+     {
+      "text": "The low price ranges between $4 and $18 per acre.",
+      "claims": [
+       "c43"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m5",
+    "m9"
+   ],
+   "disagreements": [
+    "d4"
+   ]
+  },
+  {
+   "id": "s6",
+   "title": "From twenty farms to forty countries",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "According to TechCrunch, the technology was used at 20 row crop farms in four US states, encompassing some 5,000 acres.",
+      "claims": [
+       "c56"
+      ]
+     },
+     {
+      "text": "According to the company's report, corn yields increased by up to 10 bushels per acre, using 30% less water.",
+      "claims": [
+       "c57"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "Tzach said that in 2018 international sales began, for example in Australia.",
+      "claims": [
+       "c32"
+      ]
+     },
+     {
+      "text": "The technology also expanded to Latin America and New Zealand.",
+      "claims": [
+       "c50"
+      ]
+     },
+     {
+      "text": "As of the Globes article, the company had deployed 2,000 sensors, and its systems are deployed in 40 countries.",
+      "claims": [
+       "c6"
+      ]
+     },
+     {
+      "text": "According to Tzach, municipalities in the US also use the product in water treatment facilities.",
+      "claims": [
+       "c33"
+      ]
+     },
+     {
+      "text": "According to ISRAEL21c, CropX is in a partnership with NASA.",
+      "claims": [
+       "c48"
+      ]
+     },
+     {
+      "text": "According to the article, with the normalization of relations between Israel and the UAE, the UAE is interested in adapting CropX.",
+      "claims": [
+       "c49"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to Tzach, customers also asked for fertilizer management, crop protection, crop reporting and scouting, so the company decided to buy and integrate companies.",
+      "claims": [
+       "c66"
+      ]
+     },
+     {
+      "text": "Seven acquisitions in five years turned CropX from a precision irrigation startup into a broad platform.",
+      "claims": [
+       "c67"
+      ]
+     },
+     {
+      "text": "One of them was Tule Technologies, from which the evapotranspiration technology came.",
+      "claims": [
+       "c73"
+      ]
+     },
+     {
+      "text": "In Australasia, CropX is launching a first-of-its-kind sensor that monitors water use in the field in real time through evapotranspiration.",
+      "claims": [
+       "c76"
+      ]
+     },
+     {
+      "text": "The latest acquisition, of the Israeli company Acclym in September 2025, takes CropX into the field of sustainability reporting.",
+      "claims": [
+       "c69"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to AgFunderNews, most customers are agribusinesses, such as dealers, retailers and processors.",
+      "claims": [
+       "c78"
+      ]
+     },
+     {
+      "text": "Tzach is based in Israel, and according to him the company has offices around the world.",
+      "claims": [
+       "c77"
+      ]
+     },
+     {
+      "text": "According to him, many sensors and computing capabilities will make it possible to assemble the world's largest database of soil data.",
+      "claims": [
+       "c23"
+      ]
+     },
+     {
+      "text": "Future plans also include information for insurance companies that insure crops.",
+      "claims": [
+       "c24"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m2",
+    "m3"
+   ],
+   "disagreements": [
+    "d5"
+   ]
+  },
+  {
+   "id": "s7",
+   "title": "Who believed in them",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "According to Globes, CropX raised $1.3 million in its seed round.",
+      "claims": [
+       "c21"
+      ]
+     },
+     {
+      "text": "The investment round was extended from $9 million to $10 million to accommodate investor interest.",
+      "claims": [
+       "c54"
+      ]
+     },
+     {
+      "text": "According to TechCrunch, Bosch and Flex added one million dollars to the round.",
+      "claims": [
+       "c55"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "Investors include Innovation Endeavors, of former Google CEO Eric Schmidt, and the Finistere Ventures fund.",
+      "claims": [
+       "c22"
+      ]
+     },
+     {
+      "text": "GreenSoil and OurCrowd also participated in the round.",
+      "claims": [
+       "c46"
+      ]
+     },
+     {
+      "text": "The strategic investment by ICL (Israel Chemicals) was its first investment in precise agriculture, and according to Tzach it is significant.",
+      "claims": [
+       "c18"
+      ]
+     },
+     {
+      "text": "According to Tzach, CropX is extending its Series C mainly to fund additional acquisitions, rather than day-to-day operations.",
+      "claims": [
+       "c70"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "The Israel Innovation Authority describes CropX as a cloud-based software solution with wireless sensors, which boosts crop yields and saves water and energy.",
+      "claims": [
+       "c61"
+      ]
+     }
+    ]
+   ],
+   "media": [],
+   "disagreements": [
+    "d6"
+   ]
+  },
+  {
+   "id": "s8",
+   "title": "What was hard",
+   "kind": "hard",
+   "paragraphs": [
+    [
+     {
+      "text": "Tzach listed fundraising, market penetration and sales as challenges.",
+      "claims": [
+       "c34"
+      ]
+     },
+     {
+      "text": "He noted that fixing hardware issues can take time.",
+      "claims": [
+       "c34"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to Tzach, in its rush to acquire many companies CropX made mistakes, but has learned its lesson.",
+      "claims": [
+       "c71"
+      ]
+     },
+     {
+      "text": "According to him, most of the acquired companies were profitable, and out of seven only one was in distress.",
+      "claims": [
+       "c68"
+      ]
+     }
+    ]
+   ],
+   "media": [],
+   "disagreements": []
+  }
+ ],
+ "disagreements": [
+  {
+   "id": "d2",
+   "question": "When did Tomer Tzach join as CEO?",
+   "versions": [
+    {
+     "says": "Globes: in 2016",
+     "claims": [
+      "c20"
+     ]
+    },
+    {
+     "says": "Tzach himself in AgFunderNews: in 2017",
+     "claims": [
+      "c65"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d3",
+   "question": "Where is the company located?",
+   "versions": [
+    {
+     "says": "Globes: in Netanya, with 28 employees",
+     "claims": [
+      "c19"
+     ]
+    },
+    {
+     "says": "ISRAEL21c: in Tel Aviv",
+     "claims": [
+      "c51"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d4",
+   "question": "How much irrigation water does the technology save?",
+   "versions": [
+    {
+     "says": "Globes, and Tzach in the Times of Israel: 40%",
+     "claims": [
+      "c3",
+      "c29"
+     ]
+    },
+    {
+     "says": "Times of Israel Blogs: 25%",
+     "claims": [
+      "c39"
+     ]
+    },
+    {
+     "says": "ISRAEL21c: over 30%, and in another article one third",
+     "claims": [
+      "c47",
+      "c53"
+     ]
+    },
+    {
+     "says": "The company's report in TechCrunch: 30% less water in corn growing",
+     "claims": [
+      "c57"
+     ]
+    },
+    {
+     "says": "Israel Trade Australia: up to 50%",
+     "claims": [
+      "c74"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d5",
+   "question": "When was Tule Technologies acquired?",
+   "versions": [
+    {
+     "says": "AgFunderNews: in January 2023",
+     "claims": [
+      "c72"
+     ]
+    },
+    {
+     "says": "Israel Trade Australia: in 2022",
+     "claims": [
+      "c73"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d6",
+   "question": "What was the size of the Series A round?",
+   "versions": [
+    {
+     "says": "Globes: $10 million, in June 2015",
+     "claims": [
+      "c21"
+     ]
+    },
+    {
+     "says": "Times of Israel: $11 million",
+     "claims": [
+      "c31"
+     ]
+    },
+    {
+     "says": "Times of Israel Blogs: $9 million, closed in June",
+     "claims": [
+      "c46"
+     ]
+    },
+    {
+     "says": "TechCrunch: $10 million, after an addition by Bosch and Flex",
+     "claims": [
+      "c55"
+     ]
+    }
+   ]
+  }
+ ],
+ "unknowns": [
+  {
+   "text": "The sources do not say in what year the Arizona pilot was conducted",
+   "claims": [
+    "c9",
+    "c10"
+   ]
+  },
+  {
+   "text": "The sources do not state how many farmers use the system today; the latest figure is 2,000 sensors, as of the Globes article",
+   "claims": [
+    "c6"
+   ]
+  },
+  {
+   "text": "The sources do not detail what the partnership with NASA does",
+   "claims": [
+    "c48"
+   ]
+  }
+ ],
+ "claims": [
+  {
+   "id": "c1",
+   "text": "CropX מוגדרת כספקית ישראלית של טכנולוגיית השקיה אדפטיבית מתקדמת, שבשימוש בעשרים חוות אמריקאיות.",
+   "source": "src1",
+   "quote": "CropX, an Israeli provider of advanced adaptive irrigation technology currently in use on 20 American farms.",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c19",
+   "text": "לפי הכתבה, ל-CropX 28 עובדים בנתניה, והיא נוסדה ב-2015 על ידי יצחק בנטוויץ' שאינו פעיל עוד בחברה.",
+   "source": "src2",
+   "quote": "CropX, which has 28 employees in Netanya, was founded in 2015 by Isaac Bentwich, who is no longer active in the company.",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c25",
+   "text": "צח, מנכ\"ל CropX, נולד בישראל וגדל בארה\"ב, חזר לישראל לשירות צבאי והיה טייס תובלה בחיל האוויר שבע שנים.",
+   "source": "src3",
+   "quote": "Tzach, 46, returned to Israel for his military service and became a pilot in the air force, flying transport aircraft for seven years.",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c27",
+   "text": "החיישנים דמויי פטרייה ומותקנים באדמה על ידי החקלאים עצמם.",
+   "source": "src3",
+   "quote": "The hardware part of the system is mushroom-like sensors that are installed in the ground by the farmers themselves",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c28",
+   "text": "החיישנים אוספים אוטומטית נתוני קרקע כמו לחות, מליחות וטמפרטורה ושולחים אותם לענן.",
+   "source": "src3",
+   "quote": "the sensors automatically collect data on the soil — e.g., moisture, salinity and temperature — and send it to the cloud",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c9",
+   "text": "CropX השלימה פרויקט פיילוט באריזונה בשיתוף חברת ההשקעות IAF.",
+   "source": "src2",
+   "quote": "CropX recently completed a pilot project in Arizona in cooperation with the IAF investment company",
+   "status": "confirmed",
+   "locator": "שורה 17"
+  },
+  {
+   "id": "c10",
+   "text": "הניסוי נמשך שישה חודשים על חלקה עגולה של 500 דונם עם מערכת השקיה ניידת.",
+   "source": "src2",
+   "quote": "The trial took six months on a round 500-dunam (125-acre) plot equipped with a mobile irrigation system",
+   "status": "confirmed",
+   "locator": "שורה 17"
+  },
+  {
+   "id": "c12",
+   "text": "לדברי החברה, בסוף הניסוי התברר שהמערכת הישראלית חסכה 40% ממי ההשקיה.",
+   "source": "src2",
+   "quote": "The company says that at the end of the trial, it turned out that the Israeli system had saved 40% of the irrigation water",
+   "status": "confirmed",
+   "locator": "שורה 17"
+  },
+  {
+   "id": "c14",
+   "text": "ייעול ההשקיה אִפשר לגדל יבול נוסף בתקופת הפיילוט, שהניב 10% יותר יבולים.",
+   "source": "src2",
+   "quote": "Streamlining irrigation made it possible to grow an additional crop during the pilot period, which yielded 10% more crops",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c15",
+   "text": "ההכנסה מהחלקה עלתה ב-10%, מ-280,000 דולר ל-310,000 דולר.",
+   "source": "src2",
+   "quote": "a direct addition of 10% to the revenue from the parcel (from $280,000 to $310,000)",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c2",
+   "text": "לדברי מנכ\"ל CropX תומר צח, כשמראים לחקלאים את הנתונים הם מופתעים לגלות שלא השקו ולא דישנו מספיק.",
+   "source": "src2",
+   "quote": "When we show them the data, however, they are stunned to discover that they didn't irrigate and fertilize enough.",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c58",
+   "text": "לפי טכקראנץ', CropX נוסדה ב-2013.",
+   "source": "src4",
+   "quote": "Founded in 2013, CropX is rolling out a new-generation",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c26",
+   "text": "לפי טיימס אוף ישראל, CropX נוסדה ב-2014 ופיתחה מערכת חומרה ותוכנה המשתמשת בביג דאטה, למידת מכונה וענן.",
+   "source": "src3",
+   "quote": "CropX, founded in 2014, developed a hardware and software system that uses the power of big data, machine learning and cloud technology to boost agricultural output.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c6",
+   "text": "נכון לכתבה פרסה CropX 2,000 חיישנים, ומערכותיה פרוסות ב-40 מדינות.",
+   "source": "src2",
+   "quote": "CropX has deployed 2,000 sensors to date, and its systems are deployed in 40 countries",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c3",
+   "text": "לפי הכתבה, הטכנולוגיה חוסכת 40% ממי ההשקיה ומגדילה את היבולים ב-10%.",
+   "source": "src2",
+   "quote": "This saves 40% of irrigation water, while increasing crops by 10%.",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c61",
+   "text": "רשות החדשנות מתארת פתרון תוכנה מבוסס ענן עם חיישנים אלחוטיים שמגדיל יבולים וחוסך מים ואנרגיה.",
+   "source": "src5",
+   "quote": "Cloud based software solutions integrated with wireless sensors, which boosts crops yield and saves water and energy.",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c36",
+   "text": "לפי הכתבה, באדמה יש אזורים שנשארים שטופים ואחרים שנשארים מיובשים.",
+   "source": "src6",
+   "quote": "Some swathes of land are left swamped, while others are left dehydrated.",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c37",
+   "text": "לפי הכתבה, השקיה לא מבדילה מניבה יבולים קטנים יותר ועלולה לגרום לנגר כימי שמאיים על חיי מים ועל איכות מי השתייה.",
+   "source": "src6",
+   "quote": "This method of undifferentiated irrigation not only yields smaller harvests, but can lead to chemical runoffs that threaten aquatic life and the quality of drinking water.",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c30",
+   "text": "לדברי צח, השקיית יתר מבזבזת מים ופוגעת ביבול, ותפוחי אדמה למשל עלולים להירקב מעודף מים.",
+   "source": "src3",
+   "quote": "If you over-irrigate you waste water and hurt your crop — potatoes, for example, can rot if there is too much water.",
+   "status": "confirmed",
+   "locator": "שורה 27"
+  },
+  {
+   "id": "c17",
+   "text": "לפי צח, כשמסתכלים מלמעלה הנתונים מגיעים מאוחר מדי, ולרוב עוברים שבועות עד שרואים משהו על עלי הצמח.",
+   "source": "src2",
+   "quote": "When you look from above, the figures come too late. It usually takes weeks before you see something on the plant's leaves",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c40",
+   "text": "לדברי בנטוויץ', רק ארבעה אחוזים מהחוות המושקות משתמשים בהשקיית טיפות הישראלית, אף שהיא משפרת יבולים ומוזילה עלויות.",
+   "source": "src6",
+   "quote": "Only four percent of irrigated farms use the Israeli-invented drip irrigation system, even though it improves yields and reduces costs, says Bentwich.",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c41",
+   "text": "לפי הכתבה, 85 אחוז מהחוות המושקות משתמשים בהשקיית פיבוט.",
+   "source": "src6",
+   "quote": "Meanwhile, 85 percent of irrigated farms use pivot irrigation",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c44",
+   "text": "בנטוויץ', רופא בהכשרתו, החל להבין את הבעיה כשהמשפחה שהתה בניו זילנד שנתיים וחצי בטיול עולמי.",
+   "source": "src6",
+   "quote": "Bentwich, a doctor by training and entrepreneur by profession, began to understand this problem when he and his family were on a world tour and decided to stop in New Zealand for two and half years.",
+   "status": "confirmed",
+   "locator": "שורה 13"
+  },
+  {
+   "id": "c35",
+   "text": "יצחק בנטוויץ' תואר כמנכ\"ל CropX, חברת אנליטיקה חקלאית ישראלית.",
+   "source": "src6",
+   "quote": "says Isaac Bentwich, CEO of CropX, an Israeli agricultural analytics company that is applying their know-how to the problem",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c20",
+   "text": "צח הצטרף לחברה כמנכ\"ל ב-2016.",
+   "source": "src2",
+   "quote": "Tzach joined the company as CEO in 2016.",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c65",
+   "text": "לדברי צח, החברה שאליה הצטרף ב-2017 עסקה בניהול השקיה בלבד.",
+   "source": "src7",
+   "quote": "The company I joined back in 2017 did irrigation management, and only irrigation management",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c4",
+   "text": "הטכנולוגיה של CropX מבוססת על שתילת חיישנים באדמה בנקודות ספציפיות בשדות.",
+   "source": "src2",
+   "quote": "CropX's technology is based on planting sensors in the soil at specific points in the crop fields.",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c38",
+   "text": "החיישנים פועלים על סוללה ויכולים להחזיק עד ארבע שנים, והחקלאים מונחים באפליקציה היכן להציבם.",
+   "source": "src6",
+   "quote": "farmers know exactly where to place the battery-powered sensors that can last up to four years.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c16",
+   "text": "חיישני CropX ניטעים באדמה על ידי החקלאי עצמו, בעוד חברות אחרות דורשות לעיתים נטיעה מקצועית ביוקר רב יותר.",
+   "source": "src2",
+   "quote": "CropX's technology combines sensors planted in the soil by the farmer himself - other companies often require professional planting at greater cost.",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c7",
+   "text": "החיישנים, שחקלאים יכולים להטמין בקלות, מודדים לחות בקרקע, מליחות הקרקע וטמפרטורה בעומקים שונים.",
+   "source": "src2",
+   "quote": "The sensors, which farmers can implant easily, measure data on humidity in the soil, the soil's salinity, and the temperature at various depths.",
+   "status": "confirmed",
+   "locator": "שורה 15"
+  },
+  {
+   "id": "c63",
+   "text": "לפי ממשלת דרום אוסטרליה, חיישן CropX הוא חיישן קיבוליות ללחות, טמפרטורה ומוליכות חשמלית, שמודד בעומק 20 ו-46 סנטימטר.",
+   "source": "src8",
+   "quote": "CropX is a capacitance sensor for soil moisture, temperature and electrical conductivity. It takes measurements at 20cm and 46cm.",
+   "status": "confirmed",
+   "locator": "שורה 274"
+  },
+  {
+   "id": "c5",
+   "text": "לחיישנים יש חיבור אלחוטי למערכת שאוספת ומנתחת נתונים.",
+   "source": "src2",
+   "quote": "The sensors have a wireless connection to a system that collects and analyzes data.",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c8",
+   "text": "חיישן אחד יכול לנטר קטע שדה של 20 עד 80 דונם.",
+   "source": "src2",
+   "quote": "One sensor can monitor a section of field with 20-80 dunam (5-20 acres)",
+   "status": "confirmed",
+   "locator": "שורה 15"
+  },
+  {
+   "id": "c62",
+   "text": "החברה מפיקה מפות השקיה ומפעילה אוטומטית את כמות המים הנכונה בחלקים שונים של אותו שדה.",
+   "source": "src5",
+   "quote": "The company also generates irrigation maps and automatically applies the right amount of water to different parts of the same field.",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c60",
+   "text": "מוצרי CropX עובדים עם מערכות פיבוט קיימות, שהחלפתן יקרה לחקלאים.",
+   "source": "src4",
+   "quote": "that are already used on a majority of commercial farms today, and that would be costly for farmers to replace.",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c52",
+   "text": "CropX הציגה גרסה חדשה של החיישנים שמקצרת את זמן ההתקנה מ-20 דקות לארבע.",
+   "source": "src1",
+   "quote": "CropX also unveiled a new version of its soil sensors that drastically reduces installation time from 20 minutes to four minutes.",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c59",
+   "text": "החיישן החדש מוברג באדמה ומותקן כראוי בכארבע דקות.",
+   "source": "src4",
+   "quote": "one that can be screwed into the ground, and properly installed in about four minutes.",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c11",
+   "text": "CropX חילקה שדה אספסת ל-20 חלקים שווים, וכל חלק גודל בתנאי השקיה ודישון שונים.",
+   "source": "src2",
+   "quote": "CropX divided an alfalfa field into 20 equal portions, with each portion grown under different irrigation and fertilizing conditions.",
+   "status": "confirmed",
+   "locator": "שורה 17"
+  },
+  {
+   "id": "c13",
+   "text": "כמות המים שנחסכה הוערכה ב-190 מיליון ליטר, שווה ערך ל-76 בריכות אולימפיות.",
+   "source": "src2",
+   "quote": "the water saved was estimated at 190 million liters - 50 million gallons, equivalent to 76 Olympic swimming pools",
+   "status": "confirmed",
+   "locator": "שורה 17"
+  },
+  {
+   "id": "c47",
+   "text": "לפי ISRAEL21c, חיסכון המים לבדו הוא מעל 30%, כיוון שמשחררים לקרקע רק את הכמויות הנדרשות.",
+   "source": "src9",
+   "quote": "By sensing levels in the soil, only the exact amounts that are needed are released into the soil. Water savings alone is over 30%.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c39",
+   "text": "לפי הכתבה, בעזרת התוכנה חקלאים יכולים להפחית את צריכת המים ב-25 אחוז.",
+   "source": "src6",
+   "quote": "Using CropX software, farmers can reduce their water consumption by 25 percent",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c53",
+   "text": "לפי ISRAEL21c, חיישני הקרקע הזולים יכולים להגדיל יבולים תוך הפחתת צריכת המים בשליש.",
+   "source": "src1",
+   "quote": "Its low-cost soil sensors can increase crop yields while cutting water usage by one third.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c57",
+   "text": "לפי דיווח החברה, בעונה האחרונה עלו היבולים עד 10 בושלים לאקר תירס תוך שימוש ב-30% פחות מים.",
+   "source": "src4",
+   "quote": "yields increased up to 10 bushels per acre of corn, using 30% less water than in prior seasons, the company reports.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c74",
+   "text": "לפי ההודעה, משתמשי CropX יכולים להפחית מי השקיה עד 50% תוך הגנה על התפוקה ואף שיפורה.",
+   "source": "src10",
+   "quote": "Users of the CropX system can reduce irrigation water by up to 50% while still protecting, and even improving, the productivity of their fields.",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c75",
+   "text": "בניו זילנד, Dairy Holdings, קולקטיב חלב על פני יותר מ-20,000 הקטר, השתמשה ב-CropX כדי להפחית השקיה ב-30%.",
+   "source": "src10",
+   "quote": "In New Zealand, Dairy Holdings, a dairy collective that covers over 20,000 hectares, has used CropX as a key tool to reduce irrigation use by 30%",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c42",
+   "text": "לפי הכתבה, החיסכון לחקלאים הוא לפחות פי שלושה מעלות השימוש ב-CropX, וההטבות מתקבלות כבר בקציר הראשון.",
+   "source": "src6",
+   "quote": "Savings to farmers are at least three times the cost of using CropX, and the benefits are reaped within the first harvest.",
+   "status": "confirmed",
+   "locator": "שורה 15"
+  },
+  {
+   "id": "c43",
+   "text": "המחיר הנמוך נע בין 4 ל-18 דולר לאקר.",
+   "source": "src6",
+   "quote": "the low price point (between $4 and $18 per acre)",
+   "status": "confirmed",
+   "locator": "שורה 15"
+  },
+  {
+   "id": "c56",
+   "text": "לפי הכתבה, הטכנולוגיה בשימוש ב-20 חוות גידולי שורה בארבע מדינות בארה\"ב, בהיקף של כ-5,000 אקר.",
+   "source": "src4",
+   "quote": "CropX tech is already being used at 20 row crop farms in four states in the U.S., encompassing some 5,000 acres.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c32",
+   "text": "צח סיפר שהמכירות בארה\"ב החלו לפני שנה וחצי, ושבשנת 2018 החלו מכירות בינלאומיות, למשל באוסטרליה.",
+   "source": "src3",
+   "quote": "We started selling 1.5 years ago in the US. In 2018 we started international sales, like Australia, where water is expensive.",
+   "status": "confirmed",
+   "locator": "שורה 26"
+  },
+  {
+   "id": "c50",
+   "text": "טכנולוגיית CropX התרחבה בעולם, לרבות ארה\"ב, אמריקה הלטינית וניו זילנד.",
+   "source": "src9",
+   "quote": "technology has expanded globally, in countries including the United States, Latin America, and New Zealand",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c33",
+   "text": "לדברי צח, גם עיריות בארה\"ב משתמשות במוצר במתקני טיפול במים.",
+   "source": "src3",
+   "quote": "We even have municipalities in the US that use our produce for water treatment facilities.",
+   "status": "confirmed",
+   "locator": "שורה 32"
+  },
+  {
+   "id": "c48",
+   "text": "לפי הכתבה, CropX נמצאת בשותפות עם נאס\"א.",
+   "source": "src9",
+   "quote": "CropX is also in a partnership with NASA.",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c49",
+   "text": "לפי הכתבה, עם נרמול היחסים בין ישראל לאיחוד האמירויות, האיחוד מעוניין כעת להתאים את CropX.",
+   "source": "src9",
+   "quote": "As Israel and the UAE have progressed to normalized relations, the UAE is now interested in adapting CropX.",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c66",
+   "text": "לדברי צח, הלקוחות ביקשו ניהול דישון, הגנת גידולים, דיווח יבולים וסיור בשדות, ולכן החברה החליטה לקנות ולשלב חברות.",
+   "source": "src7",
+   "quote": "At that point our customers were asking for fertilizer management, crop protection, crop reporting, scouting and a bunch of other activities.",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c67",
+   "text": "שבע רכישות בחמש שנים הפכו את CropX מסטארטאפ השקיה מדויקת לפלטפורמה רחבה.",
+   "source": "src7",
+   "quote": "What followed was one of the most high-profile buying sprees in agriculture, with seven acquisitions in five years taking CropX from a precision irrigation startup",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c73",
+   "text": "לפי ישראל טרייד אוסטרליה, טכנולוגיית ההתאדות-דליחה מקורה ברכישת Tule Technologies ב-2022.",
+   "source": "src10",
+   "quote": "The evapotranspiration technology came from CropX’s 2022 acquisition of Tule Technologies",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c76",
+   "text": "CropX משיקה באוסטרלזיה חיישן ראשון מסוגו לניטור צריכת מים בזמן אמת בשדה באמצעות התאדות-דליחה.",
+   "source": "src10",
+   "quote": "launching throughout the Australasia region a first-of-its-kind sensor for monitoring the real-time plant water use in a field through evapotranspiration (ET)",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c69",
+   "text": "הרכישה האחרונה, של Acclym הישראלית בספטמבר 2025, מכניסה את CropX לתחום דיווח קיימות.",
+   "source": "src7",
+   "quote": "The latest acquisition—of Israel-based Acclym in Sept 2025—takes CropX into new territory",
+   "status": "confirmed",
+   "locator": "שורה 26"
+  },
+  {
+   "id": "c78",
+   "text": "לפי AgFunderNews, רוב לקוחות CropX הם גופים עסקיים בחקלאות כמו סוחרים, קמעונאים ומעבדים.",
+   "source": "src7",
+   "quote": "most customers are agribusinesses (dealers, ag retailers, processors/off takers, agronomic service providers)",
+   "status": "confirmed",
+   "locator": "שורה 29"
+  },
+  {
+   "id": "c77",
+   "text": "צח יושב בישראל, ולדבריו ל-CropX יש משרדים ברחבי העולם.",
+   "source": "src7",
+   "quote": "who is based in Israel but notes that CropX has offices around the world",
+   "status": "confirmed",
+   "locator": "שורה 47"
+  },
+  {
+   "id": "c23",
+   "text": "לדברי צח, חיישנים רבים ויכולות חישוב יאפשרו להרכיב את מאגר נתוני הקרקע הגדול בעולם.",
+   "source": "src2",
+   "quote": "make it possible to assemble the world's largest database of soil data",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c24",
+   "text": "תוכניות העתיד של החברה כוללות הרחבה למידע עבור חברות ביטוח שמבטחות יבולים.",
+   "source": "src2",
+   "quote": "Future plans include expansion to information for insurance companies that insure crops.",
+   "status": "confirmed",
+   "locator": "שורה 20"
+  },
+  {
+   "id": "c21",
+   "text": "לפי הכתבה, CropX גייסה 1.3 מיליון דולר בסבב הזרע ועוד 10 מיליון דולר בסבב A ביוני 2015.",
+   "source": "src2",
+   "quote": "CropX raised $1.3 million in its seed round and $10 million more in its Series A round in June 2015.",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c54",
+   "text": "סבב ההשקעה הורחב מ-9 ל-10 מיליון דולר כדי להיענות לעניין המשקיעים.",
+   "source": "src1",
+   "quote": "led the investment round, which was extended from $9 million to $10 million to accommodate investor interest.",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c55",
+   "text": "לפי טכקראנץ', בוש ופלקס הוסיפו מיליון דולר לסבב A, שהסתכם כעת ב-10 מיליון דולר.",
+   "source": "src4",
+   "quote": "added $1 million in venture funding to the Series A round for CropX, which now totals $10 million.",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c22",
+   "text": "בין המשקיעים ב-CropX נמנים Innovation Endeavors של אריק שמידט, לשעבר מנכ\"ל גוגל, וקרן Finistere Ventures.",
+   "source": "src2",
+   "quote": "Investors in CropX include former Google CEO Eric Schmidt's Innovation Endeavors; US venture capital fund Finistere Ventures",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c46",
+   "text": "לפי הכתבה, סבב A שנסגר ביוני הסתכם ב-9 מיליון דולר, ובו השתתפו גם GreenSoil ו-OurCrowd.",
+   "source": "src6",
+   "quote": "GreenSoil and OurCrowd also participated in the Series A fundraising round that closed in June at $9 million.",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c18",
+   "text": "השקעה אסטרטגית של איי.סי.אל (כימיקלים לישראל) במאי הייתה ההשקעה הראשונה שלה בחקלאות מדייקת, ולדברי צח היא משמעותית.",
+   "source": "src2",
+   "quote": "Israel Chemicals' first investment in precise agriculture. Tzach says that the investment is significant",
+   "status": "confirmed",
+   "locator": "שורה 13"
+  },
+  {
+   "id": "c70",
+   "text": "לדברי צח, CropX מרחיבה את סבב C בעיקר כדי לממן רכישות נוספות ולא פעילות שוטפת.",
+   "source": "src7",
+   "quote": "CropX is extending its Series C, mainly to fund additional acquisitions rather than day-to-day operations",
+   "status": "confirmed",
+   "locator": "שורה 34"
+  },
+  {
+   "id": "c34",
+   "text": "צח מנה כאתגרים גיוס כספים, חדירה לשוק ומכירות, וציין שתקלות חומרה עלולות לקחת זמן לתיקון.",
+   "source": "src3",
+   "quote": "Fundraising, market penetration and sales. Also our product is a mix of hardware and software, and hardware can be challenging because issues with hardware can take time to fix.",
+   "status": "confirmed",
+   "locator": "שורה 44"
+  },
+  {
+   "id": "c71",
+   "text": "לדברי צח, בחיפזון לרכוש חברות רבות CropX עשתה טעויות, אך למדה את הלקח.",
+   "source": "src7",
+   "quote": "CropX made mistakes during its rush to acquire so many companies in such a short space of time, says Tzach, but has learned its lesson.",
+   "status": "confirmed",
+   "locator": "שורה 45"
+  },
+  {
+   "id": "c68",
+   "text": "לדברי צח, רוב החברות שנרכשו היו רווחיות, ומתוך שבע רק אחת הייתה במצוקה.",
+   "source": "src7",
+   "quote": "Most of the companies we acquired were profitable. Out of our seven companies, only one was in distress.",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c51",
+   "text": "בנטוויץ' תואר כמנכ\"ל של חברה ישראלית שבסיסה בתל אביב, שתשתמש בשותפויות האסטרטגיות להאצת פיתוח המוצר.",
+   "source": "src1",
+   "quote": "CropX CEO Isaac Bentwich said the Tel Aviv-based company plans to use the strategic partnerships to accelerate product development",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c29",
+   "text": "לדברי צח, ניסויים בארה\"ב הראו שהמוצר חוסך 40% מהמים ומגדיל את היבול ב-10%.",
+   "source": "src3",
+   "quote": "We have shown that our product saves 40% of water and increases yield by 10%.",
+   "status": "confirmed",
+   "locator": "שורה 27"
+  },
+  {
+   "id": "c72",
+   "text": "לפי AgFunderNews, CropX רכשה את Tule Technologies בינואר 2023.",
+   "source": "src7",
+   "quote": "Tule Technologies (US) – Jan 2023 – Precision irrigation startup with above-canopy evapotranspiration measurement technology.",
+   "status": "confirmed",
+   "locator": "שורה 53"
+  },
+  {
+   "id": "c31",
+   "text": "לפי הראיון, החברה גייסה 11 מיליון דולר בסבב A וגייסת כעת סבב B.",
+   "source": "src3",
+   "quote": "The firm has raised $11 million in a Series A round and is now raising Series B.",
+   "status": "confirmed",
+   "locator": "שורה 24"
+  },
+  {
+   "id": "c79",
+   "text": "לפי אתר CropX עצמה, החברה נוסדה ב-2013 בניו זילנד.",
+   "source": "src11",
+   "quote": "CropX was founded in 2013 in New Zealand",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  }
+ ],
+ "sources": [
+  {
+   "id": "src1",
+   "label": "ISRAEL21c, $10 million raise",
+   "url": "https://archive.israel21c.org/israeli-ag-tech-innovator-reaps-10m-investment/",
+   "kind": "press"
+  },
+  {
+   "id": "src2",
+   "label": "Globes English, 'CropX sensors tell farmers how to irrigate and fertilize'",
+   "url": "https://en.globes.co.il/en/article-farmers-blind-to-what-happens-under-the-soil-1001264173",
+   "kind": "press"
+  },
+  {
+   "id": "src3",
+   "label": "Times of Israel, interview with the CEO of CropX",
+   "url": "https://www.timesofisrael.com/leading-a-startup-dictates-a-life-of-agony-and-pain-cropx-ceo-says/",
+   "kind": "press"
+  },
+  {
+   "id": "src4",
+   "label": "TechCrunch, 12.4.2016",
+   "url": "https://techcrunch.com/2016/04/12/bosch-flextronics-back-cropx-to-help-farmers-feed-the-world-efficiently",
+   "kind": "press"
+  },
+  {
+   "id": "src5",
+   "label": "Israel Innovation Authority, CropX Technologies Ltd",
+   "url": "https://innovationisrael.org.il/en/importWinner/515282002",
+   "kind": "official"
+  },
+  {
+   "id": "src6",
+   "label": "Times of Israel Blogs, Lauren Blanchard",
+   "url": "https://blogs.timesofisrael.com/saving-every-drop-agtech-company-could-prevent-future-droughts/",
+   "kind": "press"
+  },
+  {
+   "id": "src7",
+   "label": "AgFunderNews, interview on CropX's growth and acquisitions",
+   "url": "https://agfundernews.com/cropx-and-the-case-for-consolidation-in-agtech-we-are-an-ma-machine",
+   "kind": "press"
+  },
+  {
+   "id": "src8",
+   "label": "Government of South Australia (PIRSA), Soil analysis sensor – CropX",
+   "url": "https://pir.sa.gov.au/research/agtech/find_solutions/products/cropx",
+   "kind": "official"
+  },
+  {
+   "id": "src9",
+   "label": "ISRAEL21c, 'How an Israeli startup is transforming agriculture, one drop at a time'",
+   "url": "https://archive.israel21c.org/how-an-israeli-startup-is-transforming-the-world-of-agriculture-one-drop-of-water-at-a-time/",
+   "kind": "press"
+  },
+  {
+   "id": "src10",
+   "label": "Israel Trade Australia, 27.11.2024",
+   "url": "https://israeltrade.org.au/2024/11/27/cropx-launches-a-new-era-of-sustainable-irrigation-in-australia/",
+   "kind": "organisation"
+  },
+  {
+   "id": "src11",
+   "label": "CropX, About us",
+   "url": "https://cropx.com/about-us/",
+   "kind": "organisation"
+  }
+ ],
+ "media": [
+  {
+   "id": "m1",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=4_eHfxxgVMw",
+   "youtube_id": "4_eHfxxgVMw",
+   "source_page": "https://www.youtube.com/watch?v=4_eHfxxgVMw",
+   "source_name": "YouTube",
+   "credit": "Startup Nation Central",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "Tomer Tzach, CEO of CropX, shows in a Startup Nation Central interview how the sensor gives farmers real-time data on their fields.",
+   "illustrates": [],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m2",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=BCL_fb4mRQI",
+   "youtube_id": "BCL_fb4mRQI",
+   "source_page": "https://www.youtube.com/watch?v=BCL_fb4mRQI",
+   "source_name": "YouTube",
+   "credit": "ARISE",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "Caleb Myers interviews CropX representatives on agriculture's move into the era of big data.",
+   "illustrates": [],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m3",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=of9j1PYr9qs",
+   "youtube_id": "of9j1PYr9qs",
+   "source_page": "https://www.youtube.com/watch?v=of9j1PYr9qs",
+   "source_name": "YouTube",
+   "credit": "NOAHConference",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "Tomer Tzach, CEO of CropX, presents the company at the NOAH 2019 conference in Tel Aviv.",
+   "illustrates": [],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m4",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=dbklh4yxsNs",
+   "youtube_id": "dbklh4yxsNs",
+   "source_page": "https://www.youtube.com/watch?v=dbklh4yxsNs",
+   "source_name": "YouTube",
+   "credit": "UK Israel Business",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "Tomer Tzach lectures on \"the internet of soil\" at UK Israel Business's Innovate Israel conference.",
+   "illustrates": [],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m5",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=rwvmx5o77Cs",
+   "youtube_id": "rwvmx5o77Cs",
+   "source_page": "https://www.youtube.com/watch?v=rwvmx5o77Cs",
+   "source_name": "YouTube",
+   "credit": "CropX",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "A product video by the company itself, presenting the advantages of CropX: water savings, runoff prevention, more efficient fertilizing and increased yield.",
+   "illustrates": [],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m7",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/01641jfSanta%20Catalina%20Cruz%20Pambilog%20Farm%20Market%20San%20Luis%20Pampanga%20Roadsfvf%2002.JPG?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:01641jfSanta_Catalina_Cruz_Pambilog_Farm_Market_San_Luis_Pampanga_Roadsfvf_02.JPG",
+   "source_name": "Wikimedia Commons",
+   "credit": "Judgefloro",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "An irrigation canal beside a ploughed, flooded field in the Philippines",
+   "illustrates": [],
+   "date": "2016-03-02",
+   "width": 4608,
+   "height": 3456,
+   "role": "related"
+  },
+  {
+   "id": "m8",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Aerial%20photo%20of%20center%20pivot%20irrigations%20systems%20%289364%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Aerial_photo_of_center_pivot_irrigations_systems_%289364%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "John A. Kelley, USDA Natural Resources Conservation Service",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "Aerial view of round fields of center-pivot irrigation systems",
+   "illustrates": [],
+   "date": "18 May 200",
+   "width": 4566,
+   "height": 2216,
+   "role": "related"
+  },
+  {
+   "id": "m9",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Berri%20Orchard%20-%20Irrigation%20Sprinklers%28GN09240%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Berri_Orchard_-_Irrigation_Sprinklers%28GN09240%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "State Government Photographer",
+   "licence": "CC0",
+   "hosting": "hotlink",
+   "caption": "A sprinkler watering fruit trees in an old black-and-white photograph",
+   "illustrates": [],
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "date": "14 January",
+   "width": 3264,
+   "height": 2448,
+   "role": "related"
+  },
+  {
+   "id": "m10",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Borewell%20pump%20and%20irrigation%20pipes%20in%20a%20Raichur%2C%20India%20agricultural%20fields%20growing%20cotton.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Borewell_pump_and_irrigation_pipes_in_a_Raichur%2C_India_agricultural_fields_growing_cotton.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "User: Vraj Acharya, WELL Labs",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "A well pump and irrigation pipes in cotton fields in India",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2025-07-06",
+   "width": 6000,
+   "height": 4000,
+   "role": "related"
+  },
+  {
+   "id": "m11",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/272%20soilmoisture.JPG?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:272_soilmoisture.JPG",
+   "source_name": "Wikimedia Commons",
+   "credit": "Christianjhart1",
+   "licence": "CC0",
+   "hosting": "hotlink",
+   "caption": "A white soil moisture sensor with a cable, lying on grass",
+   "illustrates": [],
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "width": 3648,
+   "height": 2736,
+   "role": "related"
+  },
+  {
+   "id": "m12",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/M%C3%BChlenau%20-%20Messeinrichtung.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:M%C3%BChlenau_-_Messeinrichtung.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Karbohut",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "A measuring station with a soil moisture sensor in a grass field, near a water retention basin in Hamburg",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2022-07-12",
+   "width": 3888,
+   "height": 5184,
+   "role": "related"
+  },
+  {
+   "id": "m13",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Soil%20moisture%20sensor.JPG?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Soil_moisture_sensor.JPG",
+   "source_name": "Wikimedia Commons",
+   "credit": "Sealman",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "A handheld garden soil moisture meter, lying on grass",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2014-08-09",
+   "width": 2418,
+   "height": 3552,
+   "role": "related"
+  },
+  {
+   "id": "m15",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/%D5%80%D5%B8%D5%B2%D5%A1%D5%BB%D6%80%D5%A1%D5%B9%D5%A1%D6%83.JPG?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:%D5%80%D5%B8%D5%B2%D5%A1%D5%BB%D6%80%D5%A1%D5%B9%D5%A1%D6%83.JPG",
+   "source_name": "Wikimedia Commons",
+   "credit": "Chaojoker",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "An old instrument for measuring soil moisture",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "2012-03-21",
+   "width": 484,
+   "height": 2600,
+   "role": "related"
+  },
+  {
+   "id": "m16",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/-%20panoramio%20-%20Luciano%20Ohse%20%281%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:-_panoramio_-_Luciano_Ohse_%281%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Luciano Ohse",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "A mobile center-pivot irrigation system watering a green field on red soil",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "Taken on 1",
+   "width": 1600,
+   "height": 1200,
+   "role": "related"
+  },
+  {
+   "id": "m17",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Center%20Pivot%20LEPA%20Irrigation%20Bubbler.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Center_Pivot_LEPA_Irrigation_Bubbler.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Nelsonirrigation",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "A sprinkler of a center-pivot irrigation system spraying water on cotton plants in Texas",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2018-07-16",
+   "width": 2000,
+   "height": 1333,
+   "role": "related"
+  }
+ ],
+ "check": {
+  "passed": true,
+  "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
+  "checked_at": "2026-11-22T05:58:32Z",
+  "counts": {
+   "confirmed": 107,
+   "not_confirmed": 0,
+   "deleted_sentences": 1,
+   "first_round_confirmed": 106,
+   "first_round_contradicted": 1,
+   "first_round_unverifiable": 1
+  },
+  "note": "unverifiable sentences were deleted, contradicted ones fixed from the source and checked again"
+ },
+ "meta": {
+  "run": "cropx-smart-soil-sensors-irrigation.try2",
+  "pipeline": "scripts/museum/museum_line.py",
+  "models": {
+   "research": "sonnet-5-5",
+   "extract": "sonnet-5-5",
+   "media": "sonnet-5-5",
+   "write": "opus-5-5 medium",
+   "check": "opus-5-5 medium",
+   "fix": "opus-5-5 medium"
+  },
+  "source_quality": {
+   "sources": 10,
+   "wikipedia": 0,
+   "strong": 9,
+   "ok": true,
+   "warnings": []
+  },
+  "settled": [
+   {
+    "box": "d1",
+    "question": "באיזו שנה נוסדה CropX?",
+    "url": "https://cropx.com/about-us/",
+    "by": "settle 24.11"
+   }
+  ]
+ },
+ "lang": "en",
+ "translation": {
+  "from": "he",
+  "translator": "claude-opus-5-5",
+  "checker": "claude-opus-5-5 (separate call, blind to the translation prompt)",
+  "checked_at": "2026-11-23T22:25:39Z",
+  "passed": true,
+  "items": 144,
+  "pairs_checked": 1,
+  "reused": 143,
+  "first_round_flagged": 0,
+  "still_flagged": 0,
+  "flagged": [],
+  "quote_translations": {}
+ }
+}

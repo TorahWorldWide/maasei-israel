@@ -164,22 +164,7 @@ export default function Theater({ entries }: TheaterProps) {
     return () => window.removeEventListener("keydown", onKey);
   }, [go, modalOpen]);
 
-  // 26.11 reel (museum deeds): like a cinema trailer reel, a video that is still
-  // muted moves on after ~40s of play. Once someone unmutes it, it plays to its end.
-  useEffect(() => {
-    if (!current?.href || featured.length <= 1 || modalOpen) return;
-    const tid = setInterval(() => {
-      const pl = ytPlayerRef.current;
-      try {
-        if (!pl || typeof pl.isMuted !== "function" || typeof pl.getCurrentTime !== "function") return;
-        if (!pl.isMuted() || pl.getCurrentTime() < 48) return;
-      } catch {
-        return;
-      }
-      goRef.current(1);
-    }, 4000);
-    return () => clearInterval(tid);
-  }, [current?.href, current?.id, featured.length, modalOpen]);
+  // 26.11: the reel moves on only when a video really ends (or by the arrows).
 
   // A blocked (un-embeddable) video can't play — after a short beat, move on so
   // the stage never gets stuck. Only when there's somewhere else to go.

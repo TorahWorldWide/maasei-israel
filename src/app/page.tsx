@@ -6,7 +6,6 @@ import SiteHeader from "@/components/SiteHeader";
 import SiteFooter from "@/components/SiteFooter";
 import CatalogHeading from "@/components/CatalogHeading";
 import MuseumEntrance from "@/components/MuseumEntrance";
-import MuseumFeed from "@/components/MuseumFeed";
 import { getMuseumReel } from "@/lib/museumReel";
 
 export const dynamic = "force-dynamic";
@@ -36,11 +35,6 @@ export default async function Home({
         <Theater entries={reel.entries.length ? reel.entries : entries} />
       </div>
 
-      <MuseumFeed cards={reel.cards} />
-
-      {/* The historian's big-picture overview (renders once written) */}
-      {overview && <OverviewPanel overview={overview} />}
-
       {/* Catalog — stays navy, no white break */}
       <main id="catalog" className="flex-1 w-full scroll-mt-20 relative">
         <div className="max-w-6xl mx-auto w-full px-4 sm:px-6 py-14">
@@ -48,6 +42,9 @@ export default async function Home({
           <Feed entries={entries} initialEras={initialEras} />
         </div>
       </main>
+
+      {/* The historian's big-picture overview (renders once written) */}
+      {overview && <OverviewPanel overview={overview} />}
 
       <SiteFooter entryCount={entries.length} />
     </div>

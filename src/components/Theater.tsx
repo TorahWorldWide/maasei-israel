@@ -276,7 +276,7 @@ export default function Theater({ entries }: TheaterProps) {
             )}
           </aside>
 
-        <div className="relative mx-auto" style={{ maxWidth: "min(100vw, 1240px, calc((100vh - 12rem) * 16 / 9))" }}>
+        <div className="relative mx-auto w-[min(100vw,1240px,calc((100vh_-_12rem)*16/9))] xl:w-[min(100vw_-_40rem,1240px,calc((100vh_-_12rem)*16/9))]">
           {/* the screen + arrows (arrows centered on the screen itself) */}
           <div className="relative">
             {featured.length > 1 && (

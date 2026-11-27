@@ -2,6 +2,7 @@ import fs from "node:fs/promises";
 import path from "node:path";
 import type { Entry } from "@/lib/data";
 import { ytId } from "@/lib/youtube";
+import { isReadyMuseum } from "@/lib/ready";
 
 /**
  * 26.11: the written museum deeds (data/museum/<slug>.json) as the main page's
@@ -20,6 +21,7 @@ export type ReelCard = {
 
 type MuseumDoc = {
   schema?: string;
+  check?: { passed?: unknown; counts?: { confirmed?: unknown } };
   deed?: string;
   year?: string;
   title?: string;
@@ -46,6 +48,8 @@ export async function getMuseumReel(): Promise<{ entries: Entry[]; cards: ReelCa
     const [he, en] = await Promise.all([readJson<MuseumDoc & { sources?: unknown[] }>(`${slug}.json`), readJson<MuseumDoc>(`${slug}.en.json`)]);
     const id = ytId(video);
     if (!he || he.schema !== "maasei-museum/1" || !id) continue;
+    // 27.11: an unfinished page (src/lib/ready.ts) stays off the reel until it is done
+    if (!isReadyMuseum(he, !!en)) continue;
     sources += Array.isArray(he.sources) ? he.sources.length : 0;
     const tr = (he.trailer ?? []).map((s) => s.text);
     const trEn = (en?.trailer ?? []).map((s) => s.text);

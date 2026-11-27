@@ -7,6 +7,7 @@ import type { Metadata } from "next";
 import type { CSSProperties } from "react";
 import { SITE_TITLE_BILINGUAL } from "@/lib/i18n";
 import type { MuseumPageData } from "@/lib/museum";
+import { isReadyMuseum } from "@/lib/ready";
 import SiteHeader from "@/components/SiteHeader";
 import SiteFooter from "@/components/SiteFooter";
 import MuseumPage, { type MuseumLook, type MuseumBackdrop } from "@/components/museum/MuseumPage";
@@ -69,7 +70,7 @@ export default async function MuseumRoute({
   searchParams,
 }: {
   params: Promise<{ slug: string }>;
-  searchParams: Promise<{ look?: string | string[]; lang?: string | string[] }>;
+  searchParams: Promise<{ look?: string | string[]; lang?: string | string[]; draft?: string }>;
 }) {
   const { slug } = await params;
   const sp = await searchParams;
@@ -109,6 +110,8 @@ export default async function MuseumRoute({
   const page = await readMuseum(slug);
   if (!page) notFound();
   const pageEn = await readMuseum(slug, "en");
+  // 27.11: an unfinished page is not public; ?draft=1 (or a ?look= preview) still opens it
+  if (!isReadyMuseum(page as Parameters<typeof isReadyMuseum>[0], !!pageEn) && sp.draft !== "1" && !preview) notFound();
   return (
     <div className={`mx-page min-h-screen flex flex-col ${LOOK_FONTS}`} data-look={look ?? "0"} data-bg={bd ? "" : undefined} style={bdStyle}>
       <SiteHeader />

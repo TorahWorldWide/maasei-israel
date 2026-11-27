@@ -1,4 +1,5 @@
 import seedEntries from "@/data/entries.json";
+import { isReadyEntry } from "@/lib/ready";
 
 export type MediaType = "video_embed" | "video_upload" | "image";
 export type Category = "חסד" | "המצאה מדעית" | "תרומה לעולם" | "היסטורי";
@@ -291,7 +292,8 @@ export class DataUnavailableError extends Error {
 export const HIDDEN_ENTRY_IDS = new Set<string>(["55c7771e-3d56-4e79-a08b-70f102c2a5fe"]);
 
 export async function getApprovedEntries(): Promise<Entry[]> {
-  return (await getApprovedEntriesRaw()).filter((e) => !HIDDEN_ENTRY_IDS.has(e.id));
+  // 27.11: unfinished deeds (below the bar in src/lib/ready.ts) stay off the catalog
+  return (await getApprovedEntriesRaw()).filter((e) => !HIDDEN_ENTRY_IDS.has(e.id) && isReadyEntry(e));
 }
 
 async function getApprovedEntriesRaw(): Promise<Entry[]> {

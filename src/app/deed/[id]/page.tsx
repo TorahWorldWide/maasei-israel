@@ -1,6 +1,7 @@
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import { getEntryById } from "@/lib/data";
+import { isReadyEntry } from "@/lib/ready";
 import { SITE_TITLE_BILINGUAL } from "@/lib/i18n";
 import SiteHeader from "@/components/SiteHeader";
 import SiteFooter from "@/components/SiteFooter";
@@ -41,12 +42,16 @@ export async function generateMetadata({
 
 export default async function DeedPage({
   params,
+  searchParams,
 }: {
   params: Promise<{ id: string }>;
+  searchParams: Promise<{ draft?: string }>;
 }) {
   const { id } = await params;
   const entry = await getEntryById(id);
   if (!entry) notFound();
+  // 27.11: an unfinished deed is not on the public site; ?draft=1 still opens it
+  if (!isReadyEntry(entry) && (await searchParams).draft !== "1") notFound();
 
   const jsonLd = {
     "@context": "https://schema.org",

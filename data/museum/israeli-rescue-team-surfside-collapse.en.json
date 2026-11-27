@@ -33,10 +33,12 @@
    ]
   },
   {
-   "text": "According to the Algemeiner, the team located 81 missing people by the time it left the site on July 11, and the mayor of Miami-Dade County presented it with an honorary \"key to the county,\" according to AP.",
+   "text": "According to the IDF, as reported by the Algemeiner, the team located 81 missing people by the time it left the site on July 11, and the mayor of Miami-Dade County presented it with an honorary \"key to the county,\" according to AP.",
    "claims": [
     "c21",
-    "c27"
+    "c27",
+    "c-aud-20261127-1",
+    "c-aud-20261127-2"
    ]
   }
  ],
@@ -272,8 +274,7 @@
    ],
    "disagreements": [
     "d3",
-    "d4",
-    "d5"
+    "d4"
    ]
   },
   {
@@ -390,9 +391,10 @@
     ],
     [
      {
-      "text": "Vach said it was one of the most difficult and complicated situations he had seen, and he has commanded the unit for four years.",
+      "text": "Vach, who had by then commanded the unit for four years, said it was one of the most difficult and complicated situations he had seen.",
       "claims": [
-       "c37"
+       "c37",
+       "c-aud-20261127-3"
       ]
      },
      {
@@ -495,9 +497,11 @@
       ]
      },
      {
-      "text": "According to the Algemeiner, the “Helping Hand” team located 81 missing people by the time it left the site on July 11.",
+      "text": "According to the IDF, as reported by the Algemeiner, the \"Helping Hand\" team located 81 missing people by the time it left the site on July 11.",
       "claims": [
-       "c21"
+       "c21",
+       "c-aud-20261127-1",
+       "c-aud-20261127-2"
       ]
      },
      {
@@ -535,7 +539,9 @@
     "m9",
     "m22"
    ],
-   "disagreements": []
+   "disagreements": [
+    "d9001"
+   ]
   },
   {
    "id": "s8",
@@ -650,24 +656,6 @@
    ]
   },
   {
-   "id": "d5",
-   "question": "What was Golan Vach's role?",
-   "versions": [
-    {
-     "says": "According to the IDF, a colonel (res.) who heads the delegation",
-     "claims": [
-      "c8"
-     ]
-    },
-    {
-     "says": "According to Algemeiner, Lt. Col. (res.) Golan Vach, who headed the IDF National Rescue Unit, said that the team recovered most of the 98 victims buried in the rubble.",
-     "claims": [
-      "c20"
-     ]
-    }
-   ]
-  },
-  {
    "id": "d6",
    "question": "Which unit built the three-dimensional model?",
    "versions": [
@@ -705,6 +693,24 @@
      "says": "Vach told CBS Miami that in Haiti in 2010 he found a man alive, aged 64",
      "claims": [
       "c48"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9001",
+   "question": "What was the Israeli team's share in locating and extracting the victims?",
+   "versions": [
+    {
+     "says": "The IDF, as reported by the Algemeiner: the team recovered 81 missing people by the time it left on July 11",
+     "claims": [
+      "c-aud-20261127-1"
+     ]
+    },
+    {
+     "says": "Golan Vach to Israel National News: the Israeli team found most of the people who were located, but the extraction was done mainly by the American teams",
+     "claims": [
+      "c-aud-20261127-2"
      ]
     }
    ]
@@ -1209,14 +1215,6 @@
    "locator": "שורה 6"
   },
   {
-   "id": "c20",
-   "text": "לפי Algemeiner, וך, שעמד בראש יחידת החילוץ הלאומית של צה\"ל, אמר שהצוות איתר את רוב 98 הקורבנות שקבורים בהריסות.",
-   "source": "src6",
-   "quote": "said that the team recovered a majority of the 98 victims buried in the tons of rubble of the collapsed Champlain Towers South condominium in Surfside, Florida.",
-   "status": "confirmed",
-   "locator": "שורה 2"
-  },
-  {
    "id": "c16",
    "text": "JNS כתב שצוות ניתוח מיחידה 9990 באגף המודיעין של צה\"ל, המתמחה במודיעין חזותי, בנה מפה תלת-ממדית של הבניין שקרס.",
    "source": "src4",
@@ -1247,6 +1245,33 @@
    "quote": "On June 24, 2021, Champlain Towers South, a 12-floor condominium in Surfside, Florida, partially collapsed",
    "status": "confirmed",
    "locator": "שורה 6"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "צה\"ל, כפי שדיווח Algemeiner: הצוות הוציא 81 נעדרים עד שעזב ב-11 ביולי",
+   "source": "src6",
+   "quote": "recovered 81 missing people by the time they left the Surfside site on July 11",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "גולן וך ל-Israel National News: רוב הנעדרים אותרו בידי הצוות הישראלי, אבל החילוץ נעשה בעיקר בידי הצוותים האמריקאיים",
+   "source": "src9001",
+   "quote": "the extraction of the missing people was done mainly by the American teams",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "וך, שפיקד אז על היחידה זה ארבע שנים, אמר שזה אחד המצבים הקשים והמורכבים ביותר שראה.",
+   "source": "src9002",
+   "quote": "Vach, who has commanded his unit for four years, said on Tuesday.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
   }
  ],
  "sources": [
@@ -1327,6 +1352,20 @@
    "label": "NIST, Champlain Towers South Collapse",
    "url": "https://www.nist.gov/disaster-and-failure-studies/champlain-towers-south-collapse",
    "kind": "official"
+  },
+  {
+   "id": "src9001",
+   "label": "Israel National News, 30.7.2021",
+   "url": "https://www.israelnationalnews.com/news/310863",
+   "kind": "press",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9002",
+   "label": "Reuters via Inquirer.net, Israeli commander describes harrowing Florida condo rescue operation, 6.2021",
+   "url": "https://newsinfo.inquirer.net/1453381/israeli-commander-describes-harrowing-florida-condo-rescue-operation",
+   "kind": "press",
+   "date": "2026-11-27"
   }
  ],
  "media": [

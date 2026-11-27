@@ -1,7 +1,7 @@
 {
  "schema": "maasei-museum/1",
  "slug": "bronicki-ormat-kenya-geothermal-plant",
- "deed": "בני הזוג ברוניצקי מיבנה מפעילים בקניה תחנת חשמל גיאותרמית של 150 מגהוואט",
+ "deed": "אורמט של בני הזוג ברוניצקי מיבנה פיתחה בקניה תחנת חשמל גיאותרמית של 110 מגהוואט",
  "canonical_type": "team-invention",
  "year": "1998",
  "title": "אורמט של בני הזוג ברוניצקי מיבנה פיתחה בקניה תחנה גיאותרמית של 110 מגהוואט",
@@ -14,11 +14,12 @@
    ]
   },
   {
-   "text": "יהודה שרד את השואה כנער צעיר ועלה לישראל ב-1958, ודיטה נולדה בישראל.",
+   "text": "יהודה, שנולד ב-1934, שרד את השואה בילדותו ועלה לישראל ב-1958, ודיטה נולדה בישראל.",
    "claims": [
     "c2",
     "c3",
-    "c4"
+    "c4",
+    "c-aud-20261127-1"
    ]
   },
   {
@@ -106,9 +107,10 @@
       ]
      },
      {
-      "text": "הוא שרד את השואה כנער צעיר.",
+      "text": "הוא נולד ב-1934 ושרד את השואה בילדותו.",
       "claims": [
-       "c2"
+       "c2",
+       "c-aud-20261127-2"
       ]
      },
      {
@@ -210,7 +212,9 @@
     "m4",
     "m36"
    ],
-   "disagreements": []
+   "disagreements": [
+    "d9001"
+   ]
   },
   {
    "id": "s3",
@@ -606,9 +610,10 @@
     ],
     [
      {
-      "text": "כיום אורמט מעסיקה כ-1,400 עובדים, וציוד שלה מייצר אנרגיה נקייה ב-30 מדינות.",
+      "text": "בסוף 2025 העסיקה אורמט 1,648 עובדים, ולפי מכון ויצמן ציוד שלה מייצר אנרגיה נקייה ב-30 מדינות.",
       "claims": [
-       "c8"
+       "c8",
+       "c-aud-20261127-3"
       ]
      },
      {
@@ -742,12 +747,6 @@
      "claims": [
       "c36"
      ]
-    },
-    {
-     "says": "בציר הזמן של CPI, תוספת 16 המגהוואט הביאה את הקיבולת ל-100 מגהוואט",
-     "claims": [
-      "c37"
-     ]
     }
    ]
   },
@@ -775,15 +774,34 @@
    "question": "מה היה היקף ההלוואות מ-OPIC?",
    "versions": [
     {
-     "says": "לפי Power Engineering, התחנה מומנה מחלק ממסגרת חוב של 265 מיליון דולר מ-OPIC",
+     "says": "לפי Power Engineering, תחנה 2 מומנה מחלק ממסגרת חוב של 265 מיליון דולר מ-OPIC, ו-OPIC אמורה הייתה לממן את התחנה השלישית ב-45 מיליון דולר נוספים",
      "claims": [
-      "c43"
+      "c43",
+      "c-aud-20261127-6"
      ]
     },
     {
      "says": "לפי NS Energy, המתחם מומן במסגרת חוב של 310 מיליון דולר מ-OPIC",
      "claims": [
       "c44"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9001",
+   "question": "איזה חלק מתושבי קניה חי ללא חשמל בשנים 2010–2014?",
+   "versions": [
+    {
+     "says": "דוח CPI (2015, על סמך הבנק העולמי): כמעט 80% חיו ללא חשמל",
+     "claims": [
+      "c-aud-20261127-4"
+     ]
+    },
+    {
+     "says": "נתוני הבנק העולמי כיום: שיעור הנגישות לחשמל היה 19.2% ב-2010 ו-36%–40% בשנים 2011–2014, כלומר כ-60%–64% חיו ללא חשמל",
+     "claims": [
+      "c-aud-20261127-5"
      ]
     }
    ]
@@ -1295,14 +1313,6 @@
    "locator": "שורה 83"
   },
   {
-   "id": "c37",
-   "text": "בציר הזמן של CPI מוצג שהוספת 16 מגהוואט הביאה את הקיבולת הכוללת ל-100 מגהוואט.",
-   "source": "src10",
-   "quote": "Full plant +16 MW commissioned (total 100 MW)",
-   "status": "confirmed",
-   "locator": "שורה 4"
-  },
-  {
    "id": "c39",
    "text": "לפי Daily Nation, הקיבולת החדשה מביאה את סך התפוקה של מפעלי החברה ל-139 מגהוואט.",
    "source": "src4",
@@ -1317,6 +1327,60 @@
    "quote": "Ormat has also announced an additional 24 MW expansion of the Olkaria complex, expected to come on line in the second half of 2016",
    "status": "confirmed",
    "locator": "שורה 26"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "יהודה, שנולד ב-1934, שרד את השואה בילדותו ועלה לישראל ב-1958, ודיטה נולדה בישראל.",
+   "source": "src9001",
+   "quote": "בשנת 1934 בלבוב",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "הוא נולד ב-1934 ושרד את השואה בילדותו.",
+   "source": "src9001",
+   "quote": "בשנת 1934 בלבוב",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "בסוף 2025 העסיקה אורמט 1,648 עובדים, ולפי מכון ויצמן ציוד שלה מייצר אנרגיה נקייה ב-30 מדינות.",
+   "source": "src9002",
+   "quote": "As of December 31, 2025, we employed 1,648 professionals across our global operations",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-4",
+   "text": "דוח CPI (2015, על סמך הבנק העולמי): כמעט 80% חיו ללא חשמל",
+   "source": "src2",
+   "quote": "nearly 80% of Kenyans living without it",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261127-5",
+   "text": "נתוני הבנק העולמי כיום: שיעור הנגישות לחשמל היה 19.2% ב-2010 ו-36%–40% בשנים 2011–2014, כלומר כ-60%–64% חיו ללא חשמל",
+   "source": "src9003",
+   "quote": "Access to electricity (% of population)",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-6",
+   "text": "לפי Power Engineering, תחנה 2 מומנה מחלק ממסגרת חוב של 265 מיליון דולר מ-OPIC, ו-OPIC אמורה הייתה לממן את התחנה השלישית ב-45 מיליון דולר נוספים",
+   "source": "src9004",
+   "quote": "OPIC will also finance the construction of the third plant with another $45 million debt facility.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1379,6 +1443,34 @@
    "label": "Climate Policy Initiative, Olkaria III, 2015",
    "url": "https://climatepolicyinitiative.org/wp-content/uploads/2015/06/Olkaria-III_CPI_150302_FINAL-2.pdf",
    "kind": "press"
+  },
+  {
+   "id": "src9001",
+   "label": "Globes, profile of Yehuda Bronicki",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1000337763",
+   "kind": "press",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9002",
+   "label": "Ormat Technologies, Form 10-K for FY2025 (filed 26.2.2026), via BoardroomAlpha SEC mirror",
+   "url": "https://www.boardroomalpha.com/sec/ora-10-k-2026-02-26-0001296445-26-000006",
+   "kind": "official",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9003",
+   "label": "World Bank, World Development Indicators, EG.ELC.ACCS.ZS (Kenya)",
+   "url": "https://api.worldbank.org/v2/country/KEN/indicator/EG.ELC.ACCS.ZS?format=json&date=2010:2014",
+   "kind": "official",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9004",
+   "label": "Power Engineering, Geothermal power plant in Kenya begins operations, 3.5.2013",
+   "url": "https://www.power-eng.com/renewables/geothermal/geothermal-power-plant-in-kenya-begins-operations/",
+   "kind": "press",
+   "date": "2026-11-27"
   }
  ],
  "media": [

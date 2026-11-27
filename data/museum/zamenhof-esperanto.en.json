@@ -1,7 +1,7 @@
 {
  "schema": "maasei-museum/1",
  "slug": "zamenhof-esperanto",
- "deed": "אליעזר זמנהוף יצר את אספרנטו כדי שעמים שונים יבינו זה את זה",
+ "deed": "Eliezer Zamenhof created Esperanto so that different peoples would understand one another",
  "canonical_type": "idea-that-changed",
  "year": "1887",
  "title": "The Jewish ophthalmologist from Białystok who invented Esperanto, a common second language for all peoples",
@@ -184,9 +184,10 @@
       ]
      },
      {
-      "text": "He trained as a doctor in Moscow, and for years he dreamed of a way for different groups to communicate easily and peacefully.",
+      "text": "He studied medicine in Moscow and Warsaw, and for years he dreamed of a way for different groups to communicate easily and peacefully.",
       "claims": [
-       "c1"
+       "c1",
+       "c-aud-20261127-1"
       ]
      },
      {
@@ -216,9 +217,10 @@
       ]
      },
      {
-      "text": "According to another source, in 1879 he wrote the first grammar of Yiddish.",
+      "text": "According to another source, in 1879 he wrote one of the first grammars of Yiddish.",
       "claims": [
-       "c15"
+       "c15",
+       "c-aud-20261127-4"
       ]
      }
     ],
@@ -470,9 +472,11 @@
     ],
     [
      {
-      "text": "In June 1906 some two hundred Jews were killed in a pogrom in Białystok, his native city.",
+      "text": "According to the Jewish Review of Books, in June 1906 some two hundred Jews were killed in a pogrom in Białystok, his native city.",
       "claims": [
-       "c56"
+       "c56",
+       "c-aud-20261127-2",
+       "c-aud-20261127-3"
       ]
      },
      {
@@ -503,7 +507,9 @@
     "m44",
     "m47"
    ],
-   "disagreements": []
+   "disagreements": [
+    "d9001"
+   ]
   },
   {
    "id": "s6",
@@ -579,12 +585,6 @@
    "kind": "story",
    "paragraphs": [
     [
-     {
-      "text": "In 1910 four British Members of Parliament and one professor nominated Zamenhof for the Nobel Peace Prize, but the prize went to someone else.",
-      "claims": [
-       "c84"
-      ]
-     },
      {
       "text": "The Universal Esperanto Association has been nominated for the Nobel Peace Prize more than a hundred times.",
       "claims": [
@@ -857,6 +857,24 @@
      "says": "According to The Jewish Press, Esperanto's supporters failed to persuade the League of Nations to support it as an official international language",
      "claims": [
       "c79"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9001",
+   "question": "How many Jews were killed in the Białystok pogrom of June 1906?",
+   "versions": [
+    {
+     "says": "According to the Jewish Review of Books: about two hundred",
+     "claims": [
+      "c-aud-20261127-2"
+     ]
+    },
+    {
+     "says": "According to the Encyclopaedia Judaica (Jewish Virtual Library): 70 killed and 90 gravely injured",
+     "claims": [
+      "c-aud-20261127-3"
      ]
     }
    ]
@@ -1271,14 +1289,6 @@
    "quote": "During the Third Reich, the Gestapo received specific orders to search for the descendants of Zamenhof.",
    "status": "confirmed",
    "locator": "שורה 23"
-  },
-  {
-   "id": "c84",
-   "text": "זמנהוף מועמד לפרס נובל לשלום ב-1910 על ידי ארבעה חברי פרלמנט בריטים ופרופסור אחד, אך הפרס ניתן אחרת.",
-   "source": "src3",
-   "quote": "In 1910, Zamenhof was nominated for the Nobel Peace Prize, by four British Members of Parliament",
-   "status": "confirmed",
-   "locator": "שורה 36"
   },
   {
    "id": "c87",
@@ -1703,6 +1713,42 @@
    "quote": "En folio aparte se incluía el primer diccionario, que era unidireccional (esperanto-ruso) y constaba de 917 raíces léxicas.",
    "status": "confirmed",
    "locator": "שורה 66"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "הוא למד רפואה במוסקבה ובוורשה, ובמשך שנים חלם על דרך שבה קבוצות שונות יוכלו לתקשר בקלות ובשלום.",
+   "source": "src8",
+   "quote": "pursued general medical studies at Warsaw and Moscow",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "לפי ה-Jewish Review of Books: כמאתיים",
+   "source": "src4",
+   "quote": "some two hundred Jews were killed in a pogrom",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "לפי האנציקלופדיה יודאיקה (בספרייה היהודית הווירטואלית): 70 הרוגים ו-90 פצועים קשה",
+   "source": "src9001",
+   "quote": "resulting in 70 Jews being killed and 90 gravely injured",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-4",
+   "text": "לפי מקור אחר, ב-1879 כתב את אחד הדקדוקים הראשונים של היידיש.",
+   "source": "src9002",
+   "quote": "he wrote one of the first grammars of the",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1819,6 +1865,20 @@
    "label": "Universala Esperanto-Asocio (uea.facila.org): La Unua Libro",
    "url": "https://bibliotekoj.org/esperantajbitoj/pongamos-que-hablo-de-madrid.html",
    "kind": "organisation"
+  },
+  {
+   "id": "src9001",
+   "label": "Jewish Virtual Library (Encyclopaedia Judaica), Bialystok",
+   "url": "https://www.jewishvirtuallibrary.org/bialystok",
+   "kind": "reference",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9002",
+   "label": "Jewish Currents, July 26: Esperanto",
+   "url": "https://jewishcurrents.org/july-26-esperanto",
+   "kind": "press",
+   "date": "2026-11-27"
   }
  ],
  "media": [

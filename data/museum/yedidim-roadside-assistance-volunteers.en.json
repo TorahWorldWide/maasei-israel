@@ -1,1914 +1,1924 @@
 {
-  "schema": "maasei-museum/1",
-  "slug": "yedidim-roadside-assistance-volunteers",
-  "deed": "ידידים מפעילה כ-65 אלף מתנדבים לסיוע דחוף בדרכים 24 שעות ביממה",
-  "canonical_type": "ongoing-charity",
-  "year": "2006",
-  "title": "Yedidim: Israeli volunteers who help stranded drivers and people in distress for free",
-  "trailer": [
-    {
-      "text": "Yedidim is a nationwide volunteer organization in Israel, and its Israeli volunteers give a helping hand to those in need.",
+ "schema": "maasei-museum/1",
+ "slug": "yedidim-roadside-assistance-volunteers",
+ "deed": "Yedidim mobilizes about 65 thousand volunteers for urgent roadside assistance, 24 hours a day",
+ "canonical_type": "ongoing-charity",
+ "year": "2006",
+ "title": "Yedidim: Israeli volunteers who help stranded drivers and people in distress for free",
+ "trailer": [
+  {
+   "text": "Yedidim is a nationwide volunteer organization in Israel, and its Israeli volunteers give a helping hand to those in need.",
+   "claims": [
+    "c1",
+    "c2"
+   ]
+  },
+  {
+   "text": "The volunteers help drivers in need and in emergencies at no cost, and also rescue people from elevators and help the elderly with urgent home repairs.",
+   "claims": [
+    "c3",
+    "c28"
+   ]
+  },
+  {
+   "text": "According to ISRAEL21c, Israel Almasi came up with the idea for Yedidim when his car got stuck one rainy winter day and no one stopped to help him, and today he is the CEO of the nonprofit.",
+   "claims": [
+    "c13",
+    "c27"
+   ]
+  },
+  {
+   "text": "No one in the organization, up to the CEO, receives a salary.",
+   "claims": [
+    "c32"
+   ]
+  },
+  {
+   "text": "Yedidim won the President's Award.",
+   "claims": [
+    "c2"
+   ]
+  }
+ ],
+ "hero_media": [
+  "m9",
+  "m1",
+  "m3",
+  "m8",
+  "m7",
+  "m4",
+  "m10",
+  "m5",
+  "m19"
+ ],
+ "glance": [
+  {
+   "label": "Founder",
+   "value": "Rabbi Meir Weiner, according to ESRA Magazine",
+   "claims": [
+    "c26"
+   ]
+  },
+  {
+   "label": "Since",
+   "value": "2006",
+   "claims": [
+    "c25",
+    "c26"
+   ]
+  },
+  {
+   "label": "CEO",
+   "value": "Israel Almasi",
+   "claims": [
+    "c27"
+   ]
+  },
+  {
+   "label": "Volunteers",
+   "value": "According to Channel 7, 6,500; according to ISRAEL21c in 2024, 65 thousand.",
+   "claims": [
+    "c10",
+    "c6"
+   ]
+  },
+  {
+   "label": "Calls",
+   "value": "18,000 a week on average, according to the Jerusalem Post",
+   "claims": [
+    "c42"
+   ]
+  },
+  {
+   "label": "Recognition",
+   "value": "President's Award for Volunteerism",
+   "claims": [
+    "c68"
+   ]
+  }
+ ],
+ "stations": [
+  {
+   "id": "s1",
+   "title": "A car stuck on a rainy day",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "According to ISRAEL21c, Israel Almasi came up with the idea for Yedidim when his car got stuck one rainy winter day and no one stopped to help him.",
       "claims": [
-        "c1",
-        "c2"
+       "c13"
       ]
-    },
-    {
-      "text": "The volunteers help drivers in need and in emergencies at no cost, and also rescue people from elevators and help the elderly with urgent home repairs.",
+     },
+     {
+      "text": "He said he waited an hour and a half for someone to stop and help him.",
       "claims": [
-        "c3",
-        "c28"
+       "c14"
       ]
-    },
-    {
-      "text": "According to ISRAEL21c, Israel Almasi came up with the idea for Yedidim when his car got stuck one rainy winter day and no one stopped to help him, and today he is the CEO of the nonprofit.",
+     },
+     {
+      "text": "According to Arutz 7, the incident stayed with him, and he decided that what had happened to him would not happen to others.",
       "claims": [
-        "c13",
-        "c27"
+       "c17"
       ]
-    },
-    {
+     }
+    ],
+    [
+     {
+      "text": "According to the Jerusalem Post, Almasi set up a WhatsApp group so that people who got stuck could reach someone.",
+      "claims": [
+       "c19"
+      ]
+     },
+     {
+      "text": "According to ISRAEL21c, he discovered that many people are willing to help.",
+      "claims": [
+       "c18"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to ESRA Magazine, Rabbi Meir Weiner established the organization in 2006, inspired by a friends' organization in the US.",
+      "claims": [
+       "c26"
+      ]
+     },
+     {
+      "text": "According to the Jerusalem Post, Weiner and volunteers sought to assist drivers on Highway 443, at whom stones were thrown almost every day.",
+      "claims": [
+       "c22"
+      ]
+     },
+     {
+      "text": "According to Arutz 7, when calls came in from Route 443, they tried to hurry and help.",
+      "claims": [
+       "c24"
+      ]
+     },
+     {
+      "text": "According to the Jerusalem Post, Almasi heard about Yedidim and approached Winer, who told him he could take charge of the group.",
+      "claims": [
+       "c20"
+      ]
+     },
+     {
+      "text": "According to Arutz 7, Weiner's group faded when WhatsApp was born, and Almasi revived it.",
+      "claims": [
+       "c21"
+      ]
+     }
+    ]
+   ],
+   "media": [],
+   "disagreements": [
+    "d1",
+    "d2"
+   ]
+  },
+  {
+   "id": "s2",
+   "title": "What the volunteers do",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "Yedidim help drivers in need and in emergencies at no cost.",
+      "claims": [
+       "c3"
+      ]
+     },
+     {
+      "text": "According to Maariv, they assist with starting vehicles, filling fluids and opening locked vehicles without damage.",
+      "claims": [
+       "c29"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "The volunteers also rescue people from elevators, help the elderly and the needy with urgent home repairs, deliver emergency supplies and extract vehicles.",
+      "claims": [
+       "c28"
+      ]
+     },
+     {
+      "text": "According to Maariv, the nonprofit gives non-medical first aid on the roads and in homes, 24 hours a day.",
+      "claims": [
+       "c25"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to the Jerusalem Post, the volunteers operate 24 hours a day, six days a week.",
+      "claims": [
+       "c30"
+      ]
+     },
+     {
+      "text": "Yedidim does not operate on Shabbat and holidays, nor in Palestinian Authority territories.",
+      "claims": [
+       "c31"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m9",
+    "m10",
+    "m13"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s3",
+   "title": "From the call to the changed tire",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "Volunteer operators answer calls in Hebrew, English, Arabic and Russian.",
+      "claims": [
+       "c41"
+      ]
+     },
+     {
+      "text": "The call is forwarded to local teams of volunteers, connected through WhatsApp groups or a dedicated app.",
+      "claims": [
+       "c40"
+      ]
+     },
+     {
+      "text": "According to Maariv, the yellow chain added to its app a Yedidim rescue button, which opens a call at the call center.",
+      "claims": [
+       "c65"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to the Jerusalem Post, the dispatchers receive an average of 18,000 calls a week, and the volunteers respond to approximately 6,000 calls a week from people in distress.",
+      "claims": [
+       "c42",
+       "c43"
+      ]
+     },
+     {
+      "text": "According to ISRAEL21c, 2,000 to 3,000 callers ask for help every day, from all sectors.",
+      "claims": [
+       "c44"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "Almasi said the organization aims to reach every call within 13 minutes at most.",
+      "claims": [
+       "c45"
+      ]
+     },
+     {
+      "text": "According to the Jerusalem Post, Yedidim hopes to cut the average response time from 28:40 minutes to about 13 minutes.",
+      "claims": [
+       "c46"
+      ]
+     },
+     {
+      "text": "In a Ynetnews article, three motorcycles arrived within 15 minutes of the call, and changed a tire in less than five minutes.",
+      "claims": [
+       "c47"
+      ]
+     },
+     {
+      "text": "According to ISRAEL21c, a volunteer arrived within 20 minutes with a portable charger and revived Yoel's car.",
+      "claims": [
+       "c58"
+      ]
+     },
+     {
+      "text": "Almasi said the organization has 16 motorcycles that were donated, and that the goal is 5,000.",
+      "claims": [
+       "c48"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m14"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s4",
+   "title": "The volunteers: training, equipment, money out of pocket",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "According to ISRAEL21c, the volunteers are aged 16 to 89, and they undergo a training course on car maintenance.",
+      "claims": [
+       "c39"
+      ]
+     },
+     {
+      "text": "Every volunteer undergoes three hours of basic training, which includes changing tires.",
+      "claims": [
+       "c37"
+      ]
+     }
+    ],
+    [
+     {
       "text": "No one in the organization, up to the CEO, receives a salary.",
       "claims": [
-        "c32"
+       "c32"
       ]
-    },
-    {
+     },
+     {
+      "text": "Almasi himself works as a project manager at a credit-card company.",
+      "claims": [
+       "c36"
+      ]
+     },
+     {
+      "text": "The volunteers must buy their own equipment.",
+      "claims": [
+       "c33"
+      ]
+     },
+     {
+      "text": "According to Bishansky, the average volunteer spends NIS 800 to 1,000 of their own money on equipment.",
+      "claims": [
+       "c34"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "Yedidim negotiates with suppliers so that the volunteers can buy equipment at a discount.",
+      "claims": [
+       "c35"
+      ]
+     },
+     {
+      "text": "According to Maariv, yellow donated more than 1,000 rescue kits for volunteers to the nonprofit.",
+      "claims": [
+       "c66"
+      ]
+     },
+     {
+      "text": "The Bird company will allow volunteers to ride scooters for free, with a special coupon code in the app.",
+      "claims": [
+       "c67"
+      ]
+     },
+     {
+      "text": "According to Arutz 7, until recently the organization did not agree to accept donations.",
+      "claims": [
+       "c69"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to Arutz 7, the volunteers are divided into districts and regions.",
+      "claims": [
+       "c10"
+      ]
+     },
+     {
+      "text": "The number of volunteers has grown over the years, and different sources report different numbers: Channel 7 in 2018 reports 6,500, Ynetnews more than 56 thousand, and ISRAEL21c in 2024 reports 65 thousand.",
+      "claims": [
+       "c10",
+       "c4",
+       "c6",
+       "c-aud-20261127-1"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m10"
+   ],
+   "disagreements": [
+    "d3"
+   ]
+  },
+  {
+   "id": "s5",
+   "title": "Children in a locked car",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "Almasi said that on average five to eight children a day are rescued from locked cars.",
+      "claims": [
+       "c54"
+      ]
+     },
+     {
+      "text": "The sources give different numbers of children rescued, in different years.",
+      "claims": [
+       "c49",
+       "c50",
+       "c51",
+       "c52",
+       "c53"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m16"
+   ],
+   "disagreements": [
+    "d4"
+   ]
+  },
+  {
+   "id": "s6",
+   "title": "In the hard days",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "In May 2021, during the missile fire, Yedidim helped people operate windows and doors of safe rooms, about 6,000 of them.",
+      "claims": [
+       "c63"
+      ]
+     },
+     {
+      "text": "According to Almasi, in 2020 there were more than 400,000 Covid-related events, including the transport of tens of thousands of food baskets and medicines.",
+      "claims": [
+       "c64"
+      ]
+     },
+     {
+      "text": "Select volunteers trained with the army and the Home Front Command, to assist in a building collapse or a national emergency.",
+      "claims": [
+       "c38"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to ice, on the instruction of rabbis, the Yedidim call center was opened on Shabbat and the Simchat Torah holiday.",
+      "claims": [
+       "c59"
+      ]
+     },
+     {
+      "text": "According to ice, volunteers worked many hours, day and night, evacuating the dead, while preserving their dignity.",
+      "claims": [
+       "c60"
+      ]
+     },
+     {
+      "text": "Yedidim helped transport reservist soldiers to bases, and move equipment and food to the fighters and to the residents of the south.",
+      "claims": [
+       "c62"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to ISRAEL21c, after October 7 Almasi saw hundreds of cars parked near army bases.",
+      "claims": [
+       "c55"
+      ]
+     },
+     {
+      "text": "Almasi explained that two volunteers need to be sent, so that one drives the car and the other returns.",
+      "claims": [
+       "c57"
+      ]
+     },
+     {
+      "text": "The car-return project helped return thousands of cars to the families of reservist soldiers.",
+      "claims": [
+       "c56"
+      ]
+     },
+     {
+      "text": "A summary line on the ISRAEL21c website states that 60 thousand Yedidim volunteers answer calls related to the war and to practical aid throughout Israel.",
+      "claims": [
+       "c12"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m15"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s7",
+   "title": "An award, and people from all sectors",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
       "text": "Yedidim won the President's Award.",
       "claims": [
-        "c2"
+       "c2"
       ]
-    }
-  ],
-  "hero_media": [
-    "m9",
-    "m1",
-    "m3",
-    "m8",
-    "m7",
-    "m4",
-    "m10",
-    "m5",
-    "m19"
-  ],
-  "glance": [
-    {
-      "label": "Founder",
-      "value": "Rabbi Meir Weiner, according to ESRA Magazine",
+     },
+     {
+      "text": "According to ISRAEL21c, the organization received the President's Award for Volunteerism.",
       "claims": [
-        "c26"
+       "c68"
       ]
-    },
-    {
-      "label": "Since",
-      "value": "2006",
+     }
+    ],
+    [
+     {
+      "text": "According to the Jerusalem Post, a Muslim volunteer came to help a religious family from Bnei Brak.",
       "claims": [
-        "c25",
-        "c26"
+       "c75"
       ]
-    },
-    {
-      "label": "CEO",
-      "value": "Israel Almasi",
+     },
+     {
+      "text": "Almasi said that Arabs, Christians, Jews, religious and secular people unite in helping each other.",
       "claims": [
-        "c27"
+       "c76"
       ]
-    },
-    {
-      "label": "Volunteers",
-      "value": "According to Channel 7, 6,500; according to ISRAEL21c in 2024, 65 thousand.",
+     },
+     {
+      "text": "According to Channel 7, the volunteer base started in the Haredi sector, but today everyone is in it, even a few women.",
       "claims": [
-        "c10",
-        "c6"
+       "c77"
       ]
-    },
-    {
-      "label": "Calls",
-      "value": "18,000 a week on average, according to the Jerusalem Post",
+     }
+    ],
+    [
+     {
+      "text": "According to Almasi, at-risk youth and people with disabilities are integrated into the call center and the volunteer network.",
       "claims": [
-        "c42"
+       "c78"
       ]
-    },
-    {
-      "label": "Recognition",
-      "value": "President's Award for Volunteerism",
+     },
+     {
+      "text": "Startach developed for Yedidim a service for the hard of hearing and the deaf, who could not use the service.",
       "claims": [
-        "c68"
+       "c79"
       ]
-    }
-  ],
-  "stations": [
-    {
-      "id": "s1",
-      "title": "A car stuck on a rainy day",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "According to ISRAEL21c, Israel Almasi came up with the idea for Yedidim when his car got stuck one rainy winter day and no one stopped to help him.",
-            "claims": [
-              "c13"
-            ]
-          },
-          {
-            "text": "He said he waited an hour and a half for someone to stop and help him.",
-            "claims": [
-              "c14"
-            ]
-          },
-          {
-            "text": "According to Arutz 7, the incident stayed with him, and he decided that what had happened to him would not happen to others.",
-            "claims": [
-              "c17"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to the Jerusalem Post, Almasi set up a WhatsApp group so that people who got stuck could reach someone.",
-            "claims": [
-              "c19"
-            ]
-          },
-          {
-            "text": "According to ISRAEL21c, he discovered that many people are willing to help.",
-            "claims": [
-              "c18"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to ESRA Magazine, Rabbi Meir Weiner established the organization in 2006, inspired by a friends' organization in the US.",
-            "claims": [
-              "c26"
-            ]
-          },
-          {
-            "text": "According to the Jerusalem Post, Weiner and volunteers sought to assist drivers on Highway 443, at whom stones were thrown almost every day.",
-            "claims": [
-              "c22"
-            ]
-          },
-          {
-            "text": "According to Arutz 7, when calls came in from Route 443, they tried to hurry and help.",
-            "claims": [
-              "c24"
-            ]
-          },
-          {
-            "text": "According to the Jerusalem Post, Almasi heard about Yedidim and approached Winer, who told him he could take charge of the group.",
-            "claims": [
-              "c20"
-            ]
-          },
-          {
-            "text": "According to Arutz 7, Weiner's group faded when WhatsApp was born, and Almasi revived it.",
-            "claims": [
-              "c21"
-            ]
-          }
-        ]
-      ],
-      "media": [],
-      "disagreements": [
-        "d1",
-        "d2"
+     },
+     {
+      "text": "According to Arutz 7, the organization gives priority to women, and will always come to give them fuel, cables or help changing a tire.",
+      "claims": [
+       "c70"
       ]
-    },
-    {
-      "id": "s2",
-      "title": "What the volunteers do",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "Yedidim help drivers in need and in emergencies at no cost.",
-            "claims": [
-              "c3"
-            ]
-          },
-          {
-            "text": "According to Maariv, they assist with starting vehicles, filling fluids and opening locked vehicles without damage.",
-            "claims": [
-              "c29"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "The volunteers also rescue people from elevators, help the elderly and the needy with urgent home repairs, deliver emergency supplies and extract vehicles.",
-            "claims": [
-              "c28"
-            ]
-          },
-          {
-            "text": "According to Maariv, the nonprofit gives non-medical first aid on the roads and in homes, 24 hours a day.",
-            "claims": [
-              "c25"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to the Jerusalem Post, the volunteers operate 24 hours a day, six days a week.",
-            "claims": [
-              "c30"
-            ]
-          },
-          {
-            "text": "Yedidim does not operate on Shabbat and holidays, nor in Palestinian Authority territories.",
-            "claims": [
-              "c31"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m9",
-        "m10",
-        "m13"
-      ],
-      "disagreements": []
-    },
-    {
-      "id": "s3",
-      "title": "From the call to the changed tire",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "Volunteer operators answer calls in Hebrew, English, Arabic and Russian.",
-            "claims": [
-              "c41"
-            ]
-          },
-          {
-            "text": "The call is forwarded to local teams of volunteers, connected through WhatsApp groups or a dedicated app.",
-            "claims": [
-              "c40"
-            ]
-          },
-          {
-            "text": "According to Maariv, the yellow chain added to its app a Yedidim rescue button, which opens a call at the call center.",
-            "claims": [
-              "c65"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to the Jerusalem Post, the dispatchers receive an average of 18,000 calls a week, and the volunteers respond to approximately 6,000 calls a week from people in distress.",
-            "claims": [
-              "c42",
-              "c43"
-            ]
-          },
-          {
-            "text": "According to ISRAEL21c, 2,000 to 3,000 callers ask for help every day, from all sectors.",
-            "claims": [
-              "c44"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "Almasi said the organization aims to reach every call within 13 minutes at most.",
-            "claims": [
-              "c45"
-            ]
-          },
-          {
-            "text": "According to the Jerusalem Post, Yedidim hopes to cut the average response time from 28:40 minutes to about 13 minutes.",
-            "claims": [
-              "c46"
-            ]
-          },
-          {
-            "text": "In a Ynetnews article, three motorcycles arrived within 15 minutes of the call, and changed a tire in less than five minutes.",
-            "claims": [
-              "c47"
-            ]
-          },
-          {
-            "text": "According to ISRAEL21c, a volunteer arrived within 20 minutes with a portable charger and revived Yoel's car.",
-            "claims": [
-              "c58"
-            ]
-          },
-          {
-            "text": "Almasi said the organization has 16 motorcycles that were donated, and that the goal is 5,000.",
-            "claims": [
-              "c48"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m14"
-      ],
-      "disagreements": []
-    },
-    {
-      "id": "s4",
-      "title": "The volunteers: training, equipment, money out of pocket",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "According to ISRAEL21c, the volunteers are aged 16 to 89, and they undergo a training course on car maintenance.",
-            "claims": [
-              "c39"
-            ]
-          },
-          {
-            "text": "Every volunteer undergoes three hours of basic training, which includes changing tires.",
-            "claims": [
-              "c37"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "No one in the organization, up to the CEO, receives a salary.",
-            "claims": [
-              "c32"
-            ]
-          },
-          {
-            "text": "Almasi himself works as a project manager at a credit-card company.",
-            "claims": [
-              "c36"
-            ]
-          },
-          {
-            "text": "The volunteers must buy their own equipment.",
-            "claims": [
-              "c33"
-            ]
-          },
-          {
-            "text": "According to Bishansky, the average volunteer spends NIS 800 to 1,000 of their own money on equipment.",
-            "claims": [
-              "c34"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "Yedidim negotiates with suppliers so that the volunteers can buy equipment at a discount.",
-            "claims": [
-              "c35"
-            ]
-          },
-          {
-            "text": "According to Maariv, yellow donated more than 1,000 rescue kits for volunteers to the nonprofit.",
-            "claims": [
-              "c66"
-            ]
-          },
-          {
-            "text": "The Bird company will allow volunteers to ride scooters for free, with a special coupon code in the app.",
-            "claims": [
-              "c67"
-            ]
-          },
-          {
-            "text": "According to Arutz 7, until recently the organization did not agree to accept donations.",
-            "claims": [
-              "c69"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to Arutz 7, the volunteers are divided into districts and regions.",
-            "claims": [
-              "c10"
-            ]
-          },
-          {
-            "text": "Each source reports a different number of volunteers: Channel 7 reports 6,500, Ynetnews more than 56 thousand, and ISRAEL21c in 2024 reports 65 thousand.",
-            "claims": [
-              "c10",
-              "c4",
-              "c6"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m10"
-      ],
-      "disagreements": [
-        "d3"
+     },
+     {
+      "text": "Almasi said the goal is half a million volunteers, a volunteer in every building.",
+      "claims": [
+       "c80"
       ]
-    },
-    {
-      "id": "s5",
-      "title": "Children in a locked car",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "Almasi said that on average five to eight children a day are rescued from locked cars.",
-            "claims": [
-              "c54"
-            ]
-          },
-          {
-            "text": "The sources give different numbers of children rescued, in different years.",
-            "claims": [
-              "c49",
-              "c50",
-              "c51",
-              "c52",
-              "c53"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m16"
-      ],
-      "disagreements": [
-        "d4"
-      ]
-    },
-    {
-      "id": "s6",
-      "title": "In the hard days",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "In May 2021, during the missile fire, Yedidim helped people operate windows and doors of safe rooms, about 6,000 of them.",
-            "claims": [
-              "c63"
-            ]
-          },
-          {
-            "text": "According to Almasi, in 2020 there were more than 400,000 Covid-related events, including the transport of tens of thousands of food baskets and medicines.",
-            "claims": [
-              "c64"
-            ]
-          },
-          {
-            "text": "Select volunteers trained with the army and the Home Front Command, to assist in a building collapse or a national emergency.",
-            "claims": [
-              "c38"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to ice, on the instruction of rabbis, the Yedidim call center was opened on Shabbat and the Simchat Torah holiday.",
-            "claims": [
-              "c59"
-            ]
-          },
-          {
-            "text": "According to ice, volunteers worked many hours, day and night, evacuating the dead, while preserving their dignity.",
-            "claims": [
-              "c60"
-            ]
-          },
-          {
-            "text": "Yedidim helped transport reservist soldiers to bases, and move equipment and food to the fighters and to the residents of the south.",
-            "claims": [
-              "c62"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to ISRAEL21c, after October 7 Almasi saw hundreds of cars parked near army bases.",
-            "claims": [
-              "c55"
-            ]
-          },
-          {
-            "text": "Almasi explained that two volunteers need to be sent, so that one drives the car and the other returns.",
-            "claims": [
-              "c57"
-            ]
-          },
-          {
-            "text": "The car-return project helped return thousands of cars to the families of reservist soldiers.",
-            "claims": [
-              "c56"
-            ]
-          },
-          {
-            "text": "A summary line on the ISRAEL21c website states that 60 thousand Yedidim volunteers answer calls related to the war and to practical aid throughout Israel.",
-            "claims": [
-              "c12"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m15"
-      ],
-      "disagreements": []
-    },
-    {
-      "id": "s7",
-      "title": "An award, and people from all sectors",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "Yedidim won the President's Award.",
-            "claims": [
-              "c2"
-            ]
-          },
-          {
-            "text": "According to ISRAEL21c, the organization received the President's Award for Volunteerism.",
-            "claims": [
-              "c68"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to the Jerusalem Post, a Muslim volunteer came to help a religious family from Bnei Brak.",
-            "claims": [
-              "c75"
-            ]
-          },
-          {
-            "text": "Almasi said that Arabs, Christians, Jews, religious and secular people unite in helping each other.",
-            "claims": [
-              "c76"
-            ]
-          },
-          {
-            "text": "According to Channel 7, the volunteer base started in the Haredi sector, but today everyone is in it, even a few women.",
-            "claims": [
-              "c77"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to Almasi, at-risk youth and people with disabilities are integrated into the call center and the volunteer network.",
-            "claims": [
-              "c78"
-            ]
-          },
-          {
-            "text": "Startach developed for Yedidim a service for the hard of hearing and the deaf, who could not use the service.",
-            "claims": [
-              "c79"
-            ]
-          },
-          {
-            "text": "According to Arutz 7, the organization gives priority to women, and will always come to give them fuel, cables or help changing a tire.",
-            "claims": [
-              "c70"
-            ]
-          },
-          {
-            "text": "Almasi said the goal is half a million volunteers, a volunteer in every building.",
-            "claims": [
-              "c80"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m8",
-        "m3",
-        "m4",
-        "m1",
-        "m2",
-        "m5",
-        "m6",
-        "m7",
-        "m12",
-        "m20",
-        "m21",
-        "m22"
-      ],
-      "disagreements": []
-    },
-    {
-      "id": "s8",
-      "title": "When help is delayed",
-      "kind": "hard",
-      "paragraphs": [
-        [
-          {
-            "text": "According to a blog on the Times of Israel, after 45 minutes of waiting for Yedidim they called a friend for advice.",
-            "claims": [
-              "c74"
-            ]
-          },
-          {
-            "text": "According to the Jerusalem Post, the average response time stood at 28:40 minutes.",
-            "claims": [
-              "c46"
-            ]
-          },
-          {
-            "text": "According to Channel 7, a Yedidim volunteer who came to refuel a car stuck on a highway waited more than 20 minutes for the traffic police patrol car he had called to the scene, and no patrol car arrived.",
-            "claims": [
-              "c73"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to Arutz 7, the volunteers give with all their heart, but are not willing to be exploited.",
-            "claims": [
-              "c71"
-            ]
-          },
-          {
-            "text": "Soria said that volunteers detect exploitation, and use the opportunity to teach the callers again.",
-            "claims": [
-              "c72"
-            ]
-          }
-        ]
-      ],
-      "media": [],
-      "disagreements": []
-    }
-  ],
-  "disagreements": [
-    {
-      "id": "d1",
-      "question": "How long did Almasi wait for help?",
-      "versions": [
-        {
-          "says": "Almasi told United with Israel that he waited an hour and a half",
-          "claims": [
-            "c14"
-          ]
-        },
-        {
-          "says": "Almasi told the Jerusalem Post that he waited an hour and a half in the rain",
-          "claims": [
-            "c15"
-          ]
-        },
-        {
-          "says": "According to Arutz 7, he waited two hours, wet and freezing",
-          "claims": [
-            "c16"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d2",
-      "question": "How, and in what context, was the organization born?",
-      "versions": [
-        {
-          "says": "According to United with Israel and ISRAEL21c, an Israeli man who got stuck on the road, Israel Almasi, created Yedidim",
-          "claims": [
-            "c2",
-            "c13"
-          ]
-        },
-        {
-          "says": "According to the Jerusalem Post (2018), Winer founded Yedidim during the Second Intifada, to help those who got stuck in Judea and Samaria",
-          "claims": [
-            "c23"
-          ]
-        },
-        {
-          "says": "According to the Jerusalem Post, Weiner and volunteers sought to assist drivers on Highway 443, at whom stones were thrown almost every day",
-          "claims": [
-            "c22"
-          ]
-        },
-        {
-          "says": "According to ESRA Magazine, Rabbi Meir Weiner established the organization in 2006, inspired by a friends' organization in the US, and according to Maariv the nonprofit was established in 2006",
-          "claims": [
-            "c25",
-            "c26"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d3",
-      "question": "How many volunteers does Yedidim have?",
-      "versions": [
-        {
-          "says": "Jerusalem Post (2018): 8,500 volunteers",
-          "claims": [
-            "c8"
-          ]
-        },
-        {
-          "says": "Arutz 7: 6,500 volunteers",
-          "claims": [
-            "c10"
-          ]
-        },
-        {
-          "says": "ESRA Magazine: 18,073 volunteers, men and women",
-          "claims": [
-            "c9"
-          ]
-        },
-        {
-          "says": "Jerusalem Post (2020): 20 thousand volunteers",
-          "claims": [
-            "c5"
-          ]
-        },
-        {
-          "says": "Jerusalem Post: more than 36 thousand volunteers",
-          "claims": [
-            "c7"
-          ]
-        },
-        {
-          "says": "ISRAEL21c (2021): about 36 thousand volunteers",
-          "claims": [
-            "c11"
-          ]
-        },
-        {
-          "says": "Ynetnews: more than 56 thousand volunteers",
-          "claims": [
-            "c4"
-          ]
-        },
-        {
-          "says": "Summary in ISRAEL21c: 60 thousand Yedidim volunteers answer war-related calls.",
-          "claims": [
-            "c12"
-          ]
-        },
-        {
-          "says": "ISRAEL21c (2024): 65 thousand volunteers",
-          "claims": [
-            "c6"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d4",
-      "question": "How many children were rescued from locked cars?",
-      "versions": [
-        {
-          "says": "Jerusalem Post (2018): 697 children in 2017",
-          "claims": [
-            "c50"
-          ]
-        },
-        {
-          "says": "ESRA Magazine: 1,110 children in 2018",
-          "claims": [
-            "c51"
-          ]
-        },
-        {
-          "says": "Jerusalem Post: 1,500 children in 2019",
-          "claims": [
-            "c49"
-          ]
-        },
-        {
-          "says": "Almasi (2021): more than 5,000 children in the past three years",
-          "claims": [
-            "c53"
-          ]
-        },
-        {
-          "says": "Almasi to Ynetnews: more than 5,000 children in the past year",
-          "claims": [
-            "c52"
-          ]
-        }
-      ]
-    }
-  ],
-  "unknowns": [],
-  "claims": [
-    {
-      "id": "c1",
-      "text": "הכתבה מציגה את מתנדבי ידידים כמתנדבים ישראלים שנותנים יד למי שזקוק לעזרה.",
-      "source": "src1",
-      "quote": "Meet the Israeli volunteers giving those in need a helping hand",
-      "status": "confirmed",
-      "locator": "שורה 1"
-    },
-    {
-      "id": "c2",
-      "text": "אדם ישראלי שנתקע בדרך יצר את ארגון ההתנדבות הארצי ידידים, שזכה בפרס הנשיא.",
-      "source": "src2",
-      "quote": "Getting stuck on the road led an Israeli man to create a nationwide volunteering organization, Yedidim, which won the President’s Award this year.",
-      "status": "confirmed",
-      "locator": "שורה 9"
-    },
-    {
-      "id": "c3",
-      "text": "ארגון ידידים, גוף ההתנדבות הגדול בישראל, עוזר לנהגים במצוקה ובמקרי חירום ללא תשלום.",
-      "source": "src3",
-      "quote": "The Yedidim organization, the largest volunteer body in Israel, helps drivers in need and in cases of emergency at no cost",
-      "status": "confirmed",
-      "locator": "שורה 37"
-    },
-    {
-      "id": "c28",
-      "text": "המתנדבים מחלצים אנשים ממעליות, עוזרים לקשישים ולנזקקים בתיקוני בית דחופים, מספקים ציוד חירום ומחלצים רכבים.",
-      "source": "src1",
-      "quote": "Yedidim volunteers also rescue people stuck in elevators, help the elderly or impoverished with small, urgent home repairs, deliver emergency supplies and extract vehicles.",
-      "status": "confirmed",
-      "locator": "שורה 32"
-    },
-    {
-      "id": "c13",
-      "text": "ישראל אלמסי המציא את הרעיון לידידים כשהרכב שלו נתקע ביום חורף גשום ואף אחד לא עצר לעזור לו.",
-      "source": "src4",
-      "quote": "came up with the idea for Yedidim when his car got stuck one rainy, winter day and no-one stopped to help him",
-      "status": "confirmed",
-      "locator": "שורה 30"
-    },
-    {
-      "id": "c27",
-      "text": "כיום העמותה מנוהלת על ידי המנכ\"ל ישראל אלמסי והתרחבה למגוון שירותים לא רפואיים.",
-      "source": "src1",
-      "quote": "Today, the nonprofit is run by CEO Israel Almasi and has grown to provide a wide range of non-medical services",
-      "status": "confirmed",
-      "locator": "שורה 30"
-    },
-    {
-      "id": "c32",
-      "text": "אף אחד בארגון, עד למנכ\"ל, אינו מקבל שכר.",
-      "source": "src1",
-      "quote": "No one, from the most part-time volunteer to the CEO, gets a single shekel in compensation.",
-      "status": "confirmed",
-      "locator": "שורה 36"
-    },
-    {
-      "id": "c26",
-      "text": "לפי מגזין ESRA, הארגון הוקם ב-2006 בידי הרב מאיר וינר, בהשראת ארגון חברים בארה\"ב.",
-      "source": "src5",
-      "quote": "It was established in 2006 by Rabbi Meir Weiner, modeled after",
-      "status": "confirmed",
-      "locator": "שורה 10"
-    },
-    {
-      "id": "c25",
-      "text": "לפי מעריב, העמותה הוקמה ב-2006 ומעניקה עזרה ראשונה לא רפואית בדרכים ובבתים 24 שעות ביממה.",
-      "source": "src6",
-      "quote": "הוקמה בשנת 2006 והינה ארגון ייחודי המעניק עזרה ראשונה, שאינה רפואית, בדרכים ובבתים, 24 שעות ביממה",
-      "status": "confirmed",
-      "locator": "שורה 12"
-    },
-    {
-      "id": "c6",
-      "text": "לפי ISRAEL21c (2024), 65 אלף מתנדבים הפכו את ידידים לארגון ההתנדבות הגדול בארץ.",
-      "source": "src4",
-      "quote": "today, in fact, 65,000 of them, making Yedidim the biggest volunteer organization in the country",
-      "status": "confirmed",
-      "locator": "שורה 32"
-    },
-    {
-      "id": "c10",
-      "text": "לפי ערוץ 7, לארגון יש 6,500 מתנדבים המחולקים למחוזות ולמרחבים.",
-      "source": "src7",
-      "quote": "6,500 מתנדבים יש היום לארגון, והם מחולקים למחוזות ומרחבים.",
-      "status": "confirmed",
-      "locator": "שורה 64"
-    },
-    {
-      "id": "c42",
-      "text": "לפי ג'רוזלם פוסט, המוקדנים מקבלים בממוצע 18,000 קריאות בשבוע.",
-      "source": "src1",
-      "quote": "YEDIDIM DISPATCHERS field an average of 18,000 calls a week.",
-      "status": "confirmed",
-      "locator": "שורה 53"
-    },
-    {
-      "id": "c68",
-      "text": "לפי ISRAEL21c, ידידים קיבל השנה את פרס הנשיא להתנדבות.",
-      "source": "src2",
-      "quote": "this year Yedidim received the President’s Award for Volunteerism",
-      "status": "confirmed",
-      "locator": "שורה 18"
-    },
-    {
-      "id": "c14",
-      "text": "אלמסי סיפר שחיכה שעה וחצי שמישהו יעצור ויעזור לו.",
-      "source": "src2",
-      "quote": "I waited for an hour and a half for someone to stop and help",
-      "status": "confirmed",
-      "locator": "שורה 11"
-    },
-    {
-      "id": "c17",
-      "text": "לפי ערוץ 7, המקרה נחרת באלמסי והוא החליט שמה שקרה לו לא יקרה לאחרים.",
-      "source": "src7",
-      "quote": "המקרה הזה נחרת בו והוא החליט שאם זה קרה לו, זה לא יקרה לאחרים",
-      "status": "confirmed",
-      "locator": "שורה 43"
-    },
-    {
-      "id": "c19",
-      "text": "לפי ג'רוזלם פוסט, אלמסי הקים קבוצת וואטסאפ כדי שתקועים יוכלו לפנות למישהו.",
-      "source": "src8",
-      "quote": "and started adding people to the group so others who got stuck could reach someone for help",
-      "status": "confirmed",
-      "locator": "שורה 25"
-    },
-    {
-      "id": "c18",
-      "text": "לפי ISRAEL21c, אלמסי פתח קבוצת וואטסאפ ומצא שאנשים רבים מוכנים לעזור.",
-      "source": "src4",
-      "quote": "Soon after, he opened a WhatsApp group and realized that this was not true and many people would be willing to lend a hand in such a situation",
-      "status": "confirmed",
-      "locator": "שורה 32"
-    },
-    {
-      "id": "c22",
-      "text": "לפי ג'רוזלם פוסט, מאיר וינר ומתנדבים ביקשו לסייע לנהגים בכביש 443, שנזרקו עליהם אבנים כמעט מדי יום.",
-      "source": "src1",
-      "quote": "Motivated by a desire to offer assistance to Israelis stuck on dangerous roads, Weiner and a small group of volunteers began assisting drivers on Highway 443",
-      "status": "confirmed",
-      "locator": "שורה 29"
-    },
-    {
-      "id": "c24",
-      "text": "לפי ערוץ 7, כשהגיעו קריאות מכביש 443 הם השתדלו למהר ולעזור.",
-      "source": "src7",
-      "quote": "אם הייתה מתקבלת קריאה מכביש 443 הסמוך, הם היו משתדלים למהר ולעזור",
-      "status": "confirmed",
-      "locator": "שורה 7"
-    },
-    {
-      "id": "c20",
-      "text": "לפי ג'רוזלם פוסט, מאיר וינר שמע על אלמסי, ומסר לו את ניהול הקבוצה.",
-      "source": "src8",
-      "quote": "He was then told of Yedidim and approached Winer, who told Almasi he could take charge of the group.",
-      "status": "confirmed",
-      "locator": "שורה 26"
-    },
-    {
-      "id": "c21",
-      "text": "לפי ערוץ 7, כשנולד הוואטסאפ הקבוצה של וינר שקעה, ואלמסי החיה אותה מחדש.",
-      "source": "src7",
-      "quote": "כשנולד הווטסאפ, הקבוצה שקעה. אלמסי הקים את הארגון לתחייה.",
-      "status": "confirmed",
-      "locator": "שורה 7"
-    },
-    {
-      "id": "c29",
-      "text": "לפי מעריב, הארגון מסייע בהתנעת רכבים, במילוי נוזלים ובפתיחת רכבים נעולים ללא נזק.",
-      "source": "src6",
-      "quote": "התנעת רכבים, מילוי מים/ שמן/ דלק בכבישים מהירים ומסוכנים ואף פתיחת רכבים נעולים באמצעות ציוד מקצועי וללא כל נזק",
-      "status": "confirmed",
-      "locator": "שורה 13"
-    },
-    {
-      "id": "c30",
-      "text": "לפי ג'רוזלם פוסט, המתנדבים פועלים 24 שעות ביממה, שישה ימים בשבוע.",
-      "source": "src1",
-      "quote": "And they do it all 24 hours a day, six days a week.",
-      "status": "confirmed",
-      "locator": "שורה 33"
-    },
-    {
-      "id": "c31",
-      "text": "ידידים אינו פועל בשבת ובחגים או בשטחי הרשות הפלסטינית.",
-      "source": "src1",
-      "quote": "Yedidim does not operate on Shabbat or Jewish holidays, or in territories controlled by the PA",
-      "status": "confirmed",
-      "locator": "שורה 34"
-    },
-    {
-      "id": "c41",
-      "text": "מוקדנים מתנדבים עונים לקריאות בעברית, אנגלית, ערבית ורוסית.",
-      "source": "src1",
-      "quote": "At any given time, five to 20 volunteer operators take calls in Hebrew, English, Arabic and Russian.",
-      "status": "confirmed",
-      "locator": "שורה 47"
-    },
-    {
-      "id": "c40",
-      "text": "הקריאה מועברת לצוותי מתנדבים מקומיים המחוברים בקבוצות וואטסאפ או באפליקציה ייעודית.",
-      "source": "src1",
-      "quote": "The call is then forwarded on to local teams of volunteers who are connected through WhatsApp groups or a dedicated app.",
-      "status": "confirmed",
-      "locator": "שורה 51"
-    },
-    {
-      "id": "c65",
-      "text": "לפי מעריב, רשת yellow הטמיעה באפליקציה לחצן חילוץ של ידידים לפתיחת קריאה במוקד.",
-      "source": "src6",
-      "quote": "הוטמע באפליקציית yellow לחצן החילוץ של עמותת ידידים, המאפשר פתיחת קריאה במוקד",
-      "status": "confirmed",
-      "locator": "שורה 4"
-    },
-    {
-      "id": "c43",
-      "text": "לפי ג'רוזלם פוסט, המתנדבים מגיבים לכ-6,000 קריאות בשבוע של אנשים במצוקה.",
-      "source": "src1",
-      "quote": "Across Israel, volunteers are able to respond to approximately 6,000 calls a week from people in distress.",
-      "status": "confirmed",
-      "locator": "שורה 55"
-    },
-    {
-      "id": "c44",
-      "text": "לפי ISRAEL21c, 2,000 עד 3,000 פונים מבקשים עזרה מדי יום מכל המגזרים.",
-      "source": "src4",
-      "quote": "Volunteers and the 2,000 to 3,000 callers who ask for assistance daily come from all sectors of the population.",
-      "status": "confirmed",
-      "locator": "שורה 34"
-    },
-    {
-      "id": "c45",
-      "text": "אלמסי אמר שהארגון שואף להגיע לקריאה תוך 13 דקות לכל היותר.",
-      "source": "src3",
-      "quote": "the organization aims to arrive at a call in a maximum of 13 minutes",
-      "status": "confirmed",
-      "locator": "שורה 60"
-    },
-    {
-      "id": "c46",
-      "text": "לפי ג'רוזלם פוסט, ידידים מקווים לקצר את זמן התגובה הממוצע מ-28:40 לכ-13 דקות.",
-      "source": "src10",
-      "quote": "Yedidim hopes this will help cut its average event response time from 28:40 to about 13 minutes.",
-      "status": "confirmed",
-      "locator": "שורה 6"
-    },
-    {
-      "id": "c47",
-      "text": "תוך 15 דקות מהקריאה הגיעו שלושה אופנועים והחליפו צמיג תוך פחות מחמש דקות.",
-      "source": "src3",
-      "quote": "three motorcycles arrived at his location and in less than five minutes they had affixed his spare tire",
-      "status": "confirmed",
-      "locator": "שורה 51"
-    },
-    {
-      "id": "c58",
-      "text": "לפי ISRAEL21c, בתוך 20 דקות הגיע מתנדב עם מטען נייד והחייה את הרכב של יואל.",
-      "source": "src4",
-      "quote": "In 20 minutes, someone arrived with a portable battery charger and Yoel was able to drive to the nearest gas station",
-      "status": "confirmed",
-      "locator": "שורה 19"
-    },
-    {
-      "id": "c48",
-      "text": "אלמסי אמר שיש לארגון 16 אופנועים שנתרמו ושהיעד הוא 5,000.",
-      "source": "src3",
-      "quote": "We now have 16 motorcycles that were donated to us, and our goal is to have 5,000",
-      "status": "confirmed",
-      "locator": "שורה 78"
-    },
-    {
-      "id": "c39",
-      "text": "לפי ISRAEL21c, המתנדבים בגילאי 16 עד 89 ועוברים קורס הכשרה בתחזוקת רכב.",
-      "source": "src4",
-      "quote": "Volunteers range in age from 16 to 89 and all undergo a training course on car maintenance.",
-      "status": "confirmed",
-      "locator": "שורה 33"
-    },
-    {
-      "id": "c37",
-      "text": "כל מתנדב עובר הכשרה בסיסית של שלוש שעות הכוללת החלפת צמיגים.",
-      "source": "src1",
-      "quote": "Every volunteer must complete three hours of basic training, which includes technical instruction on changing tires",
-      "status": "confirmed",
-      "locator": "שורה 70"
-    },
-    {
-      "id": "c36",
-      "text": "בארגון אין עובדים בשכר, כולל אלמסי, שעובד כמנהל פרויקטים בחברת כרטיסי אשראי.",
-      "source": "src4",
-      "quote": "There are no paid employees in the nonprofit group, including Almasi, whose day job is as a project manager at a credit-card company.",
-      "status": "confirmed",
-      "locator": "שורה 33"
-    },
-    {
-      "id": "c33",
-      "text": "המתנדבים חייבים לרכוש בעצמם את הציוד שלהם.",
-      "source": "src1",
-      "quote": "In fact, volunteers must buy their own equipment.",
-      "status": "confirmed",
-      "locator": "שורה 37"
-    },
-    {
-      "id": "c34",
-      "text": "לפי בישנסקי, מתנדב ממוצע מוציא 800 עד 1,000 שקל מכספו על ציוד.",
-      "source": "src1",
-      "quote": "According to Bishansky, the average volunteer spends NIS 800 to 1,000 of their own money on equipment.",
-      "status": "confirmed",
-      "locator": "שורה 41"
-    },
-    {
-      "id": "c35",
-      "text": "ידידים מנהל משא ומתן עם ספקים כדי שהמתנדבים יקנו ציוד בהנחה.",
-      "source": "src1",
-      "quote": "Yedidim negotiates with suppliers who import equipment and sell to volunteers at a discount",
-      "status": "confirmed",
-      "locator": "שורה 39"
-    },
-    {
-      "id": "c66",
-      "text": "לפי מעריב, yellow תרמה לעמותה למעלה מ-1,000 ערכות חילוץ למתנדבים.",
-      "source": "src6",
-      "quote": "תרמה yellow לעמותה למעלה מ-1,000 ערכות חילוץ למתנדבים, שיסייעו בקריאות של אזרחים במצוקה",
-      "status": "confirmed",
-      "locator": "שורה 17"
-    },
-    {
-      "id": "c67",
-      "text": "חברת Bird תאפשר למתנדבים לנסוע בקורקינטים בחינם באמצעות קוד קופון מיוחד באפליקציה.",
-      "source": "src10",
-      "quote": "to reach distressed callers quickly by typing a special coupon code into the Bird app",
-      "status": "confirmed",
-      "locator": "שורה 6"
-    },
-    {
-      "id": "c69",
-      "text": "לפי ערוץ 7, עד לא מזמן הארגון לא הסכים לקבל תרומות.",
-      "source": "src7",
-      "quote": "אבל עד לא מזמן הם גם לא הסכימו לקבל תרומות",
-      "status": "confirmed",
-      "locator": "שורה 199"
-    },
-    {
-      "id": "c4",
-      "text": "לפי ynetnews, ידידים נחשב לגוף ההתנדבות הגדול בישראל, עם למעלה מ-56 אלף מתנדבים.",
-      "source": "src3",
-      "quote": "Yedidim is considered the largest volunteering body in Israel, with over 56,000 volunteers.",
-      "status": "confirmed",
-      "locator": "שורה 58"
-    },
-    {
-      "id": "c54",
-      "text": "אלמסי אמר שבממוצע מחלצים חמישה עד שמונה ילדים ביום מרכבים נעולים.",
-      "source": "src2",
-      "quote": "We extricate five to eight children from locked cars a day on average",
-      "status": "confirmed",
-      "locator": "שורה 17"
-    },
-    {
-      "id": "c49",
-      "text": "לפי ג'רוזלם פוסט, ב-2019 חילצו מתנדבי ידידים 1,500 ילדים מרכבים נעולים.",
-      "source": "src1",
-      "quote": "in 2019 alone, Yedidim volunteers rescued 1,500 children from inside locked cars",
-      "status": "confirmed",
-      "locator": "שורה 56"
-    },
-    {
-      "id": "c50",
-      "text": "לפי ג'רוזלם פוסט (2018), ב-2017 חולצו 697 ילדים מרכבים נעולים.",
-      "source": "src8",
-      "quote": "there are some 8,500 volunteers around the country who in 2017 rescued 697 children from locked cars.",
-      "status": "confirmed",
-      "locator": "שורה 27"
-    },
-    {
-      "id": "c51",
-      "text": "לפי מגזין ESRA, ב-2018 חולצו 1,110 ילדים מרכבים נעולים.",
-      "source": "src5",
-      "quote": "1,110 children were rescued from locked cars in 2018.",
-      "status": "confirmed",
-      "locator": "שורה 11"
-    },
-    {
-      "id": "c52",
-      "text": "לפי אלמסי (ynetnews), ידידים חילצו יותר מ-5,000 ילדים שננעלו ברכב בשנה האחרונה.",
-      "source": "src3",
-      "quote": "rescued over 5,000 children who were locked in a vehicle in the last year",
-      "status": "confirmed",
-      "locator": "שורה 59"
-    },
-    {
-      "id": "c53",
-      "text": "לפי אלמסי (2021), בשלוש השנים האחרונות חולצו יותר מ-5,000 ילדים.",
-      "source": "src2",
-      "quote": "In the past three years, we’ve rescued more than 5,000 kids",
-      "status": "confirmed",
-      "locator": "שורה 17"
-    },
-    {
-      "id": "c63",
-      "text": "בטילי הגז במאי 2021 ידידים עזרו לאנשים להפעיל חלונות ודלתות של מרחבים מוגנים, כ-6,000 מהם.",
-      "source": "src2",
-      "quote": "huge, heavy metal hardware that becomes difficult to move when not in use – and unstuck some 6,000 of them",
-      "status": "confirmed",
-      "locator": "שורה 22"
-    },
-    {
-      "id": "c64",
-      "text": "לפי אלמסי, ב-2020 היו יותר מ-400,000 אירועים הקשורים לקורונה, כולל הובלת עשרות אלפי סלי מזון ותרופות.",
-      "source": "src2",
-      "quote": "In 2020, we had more than 400,000 Covid-related events, such as the transport of tens of thousands of food baskets, medicines and games",
-      "status": "confirmed",
-      "locator": "שורה 21"
-    },
-    {
-      "id": "c38",
-      "text": "מתנדבים נבחרים התאמנו לאחרונה עם הצבא ופיקוד העורף לסייע בקריסת בניין או בחירום לאומי.",
-      "source": "src1",
-      "quote": "A select group of Yedidim volunteers recently trained with the army and Pikud HaOref",
-      "status": "confirmed",
-      "locator": "שורה 73"
-    },
-    {
-      "id": "c59",
-      "text": "לפי ice, בהוראת רבנים נפתח מוקד ידידים בשבת ובחג שמחת תורה.",
-      "source": "src9",
-      "quote": "ובהוראת רבנים, נפתח מוקד ידידים כבר במהלך השבת וחג שמחת תורה",
-      "status": "confirmed",
-      "locator": "שורה 14"
-    },
-    {
-      "id": "c60",
-      "text": "לפי ice, מתנדבים עסקו שעות רבות ביום ובלילה בפינוי הרוגים תוך שמירה על כבודם.",
-      "source": "src9",
-      "quote": "עסקו שעות רבות בפינוי, ביום ובלילה, תוך שמירה על כבוד ההרוגים והנרצחים",
-      "status": "confirmed",
-      "locator": "שורה 15"
-    },
-    {
-      "id": "c62",
-      "text": "ידידים סייעו להסיע חיילי מילואים לבסיסים ולשנע ציוד ואוכל ללוחמים ולתושבי הדרום.",
-      "source": "src9",
-      "quote": "הסעת חיילי מילואים לבסיסים ולאזורי כינוס, שינוע ציוד ואוכל ללוחמים ולתושבי הדרום",
-      "status": "confirmed",
-      "locator": "שורה 16"
-    },
-    {
-      "id": "c55",
-      "text": "לפי ISRAEL21c, אלמסי ראה מאות רכבים חונים ליד בסיסי צבא אחרי 7 באוקטובר.",
-      "source": "src4",
-      "quote": "after seeing hundreds of cars parked on the side of the road outside army bases post October 7",
-      "status": "confirmed",
-      "locator": "שורה 22"
-    },
-    {
-      "id": "c57",
-      "text": "אלמסי הסביר שיש לשלוח שני מתנדבים, כדי שאחד יוביל את הרכב והשני יחזור.",
-      "source": "src4",
-      "quote": "two volunteers have to be dispatched so that one can drive the car to its destination and be transported back",
-      "status": "confirmed",
-      "locator": "שורה 27"
-    },
-    {
-      "id": "c56",
-      "text": "פרויקט החזרת הרכבים סייע להחזיר אלפי רכבים למשפחות חיילי המילואים.",
-      "source": "src4",
-      "quote": "which has helped get thousands of cars returned to the families of reservist soldiers",
-      "status": "confirmed",
-      "locator": "שורה 25"
-    },
-    {
-      "id": "c12",
-      "text": "לפי ISRAEL21c, 60 אלף מתנדבי ידידים ענו לקריאות הקשורות למלחמה ולסיוע מעשי ברחבי ישראל.",
-      "source": "src11",
-      "quote": "60,000 Yedidim volunteers answer war-related calls for practical aid throughout Israel.",
-      "status": "confirmed",
-      "locator": "שורה 5"
-    },
-    {
-      "id": "c75",
-      "text": "לפי ג'רוזלם פוסט, מתנדב מוסלמי הגיע לעזור למשפחה דתית מבני ברק.",
-      "source": "src1",
-      "quote": "Recently, a Muslim volunteer came to assist a religious family from Bnei Brak.",
-      "status": "confirmed",
-      "locator": "שורה 95"
-    },
-    {
-      "id": "c76",
-      "text": "אלמסי אמר שערבים, נוצרים, יהודים, דתיים וחילונים מתאחדים בעזרה הדדית.",
-      "source": "src4",
-      "quote": "Arabs, Christians, Jews, religious or secular, we succeed in a time of the worst catastrophe to close the gaps and unite people in helping each other",
-      "status": "confirmed",
-      "locator": "שורה 35"
-    },
-    {
-      "id": "c77",
-      "text": "לפי ערוץ 7, בסיס המתנדבים החל מהמגזר החרדי אך כיום כולם משתתפים, גם נשים.",
-      "source": "src7",
-      "quote": "בסיס המתנדבים החל מהמגזר החרדי, אבל היום כולם נמצאים בו, אפילו כמה נשים",
-      "status": "confirmed",
-      "locator": "שורה 214"
-    },
-    {
-      "id": "c78",
-      "text": "לפי אלמסי, נוער בסיכון ובעלי מוגבלויות משולבים במוקד וברשת המתנדבים.",
-      "source": "src2",
-      "quote": "Almasi says that at-risk youth and people with physical disabilities are integrated",
-      "status": "confirmed",
-      "locator": "שורה 35"
-    },
-    {
-      "id": "c79",
-      "text": "סטארטאח פיתחו עבור ידידים שירות לכבדי שמיעה וחירשים שלא יכלו להשתמש בשירות.",
-      "source": "src7",
-      "quote": "שכבדי שמיעה וחירשים אינם יכולים להשתמש בשירות שהם מציעים",
-      "status": "confirmed",
-      "locator": "שורה 227"
-    },
-    {
-      "id": "c70",
-      "text": "לפי ערוץ 7, לנשים הארגון נותן עדיפות ותמיד יגיע לתת דלק, כבלים או עזרה בהחלפת גלגל.",
-      "source": "src7",
-      "quote": "תמיד יגיעו לתת להן דלק, כבלים או סיוע בהחלפת גלגל",
-      "status": "confirmed",
-      "locator": "שורה 73"
-    },
-    {
-      "id": "c80",
-      "text": "אלמסי אמר שהמטרה היא חצי מיליון מתנדבים, מתנדב בכל בניין.",
-      "source": "src2",
-      "quote": "My goal is to have half a million volunteers, a volunteer in each building",
-      "status": "confirmed",
-      "locator": "שורה 41"
-    },
-    {
-      "id": "c74",
-      "text": "לפי בלוג בטיימס אוף ישראל, אחרי 45 דקות של המתנה לידידים התקשרו לחבר לעצה.",
-      "source": "src12",
-      "quote": "But after 45 minutes, we called a friend in the neighborhood for advice.",
-      "status": "confirmed",
-      "locator": "שורה 13"
-    },
-    {
-      "id": "c73",
-      "text": "לפי ערוץ 7, מתנדב המתין 20 דקות ואף ניידת משטרה לא הגיעה.",
-      "source": "src7",
-      "quote": "20 דקות חלפו, אפילו קצת יותר, אבל אף ניידת לא הגיעה",
-      "status": "confirmed",
-      "locator": "שורה 13"
-    },
-    {
-      "id": "c71",
-      "text": "לפי ערוץ 7, המתנדבים נותנים מכל הלב אך לא מוכנים להיות מנוצלים.",
-      "source": "src7",
-      "quote": "החברים כאן נותנים מכל הלב, אבל לא מוכנים להיות מנוצלים",
-      "status": "confirmed",
-      "locator": "שורה 75"
-    },
-    {
-      "id": "c72",
-      "text": "סוריה אמר שמתנדבים מזהים ניצול ומנצלים את ההזדמנות ללמד שוב את הפונים.",
-      "source": "src3",
-      "quote": "But we know how to detect that and use the opportunity to teach them again",
-      "status": "confirmed",
-      "locator": "שורה 75"
-    },
-    {
-      "id": "c15",
-      "text": "אלמסי אמר לג'רוזלם פוסט שחיכה שעה וחצי בגשם לרכב אחר.",
-      "source": "src8",
-      "quote": "an hour and a half in the rain for another car to come",
-      "status": "confirmed",
-      "locator": "שורה 22"
-    },
-    {
-      "id": "c16",
-      "text": "לפי ערוץ 7, אלמסי חיכה שעתיים, רטוב וקפוא, עד שהגיע המושיע.",
-      "source": "src7",
-      "quote": "רק אחרי שעתיים, כשהוא רטוב, קופא מקור ומתוסכל, הגיע המושיע.",
-      "status": "confirmed",
-      "locator": "שורה 41"
-    },
-    {
-      "id": "c23",
-      "text": "לפי ג'רוזלם פוסט (2018), וינר הקים את ידידים בזמן האינתיפאדה השנייה כדי לעזור למי שנתקע ביהודה ושומרון.",
-      "source": "src8",
-      "quote": "Founded by Meir Winer during the Second Intifada in order to help people whose cars got stuck in the West Bank",
-      "status": "confirmed",
-      "locator": "שורה 20"
-    },
-    {
-      "id": "c8",
-      "text": "לפי ג'רוזלם פוסט (2018), ידידים הם קבוצה של 8,500 מתנדבים ברחבי הארץ.",
-      "source": "src8",
-      "quote": "He was part of Yedidim, a group of 8,500 volunteers around the country who are only a phone call away",
-      "status": "confirmed",
-      "locator": "שורה 19"
-    },
-    {
-      "id": "c9",
-      "text": "לפי מגזין ESRA, יש 18,073 מתנדבים ברחבי הארץ, גברים ונשים.",
-      "source": "src5",
-      "quote": "There are 18,073 volunteers across the country, both men and women",
-      "status": "confirmed",
-      "locator": "שורה 10"
-    },
-    {
-      "id": "c5",
-      "text": "לפי ג'רוזלם פוסט (2020), יש 20 אלף מתנדבי ידידים ברחבי הארץ.",
-      "source": "src1",
-      "quote": "Hermon to Eilat, there are 20,000 Yedidim (“Friends”) volunteers at the ready",
-      "status": "confirmed",
-      "locator": "שורה 27"
-    },
-    {
-      "id": "c7",
-      "text": "לפי ג'רוזלם פוסט, בידידים יש יותר מ-36 אלף מתנדבים.",
-      "source": "src10",
-      "quote": "and has more than 36,000 volunteers. It provides assistance 24/7 to help people stuck on roads and in buildings",
-      "status": "confirmed",
-      "locator": "שורה 4"
-    },
-    {
-      "id": "c11",
-      "text": "לפי ISRAEL21c (2021), ידידים גייס כ-36 אלף מתנדבים בכל הארץ, מוכנים לכל מקרה חירום לא רפואי.",
-      "source": "src2",
-      "quote": "Yedidim has recruited some 36,000 volunteers up and down the country, ready to aid in any non-medical emergency, big or small.",
-      "status": "confirmed",
-      "locator": "שורה 14"
-    }
-  ],
-  "sources": [
-    {
-      "id": "src1",
-      "label": "Jerusalem Post",
-      "url": "https://jpost.com/israel-news/meet-the-israeli-volunteers-giving-those-in-need-a-helping-hand-619009",
-      "kind": "press"
-    },
-    {
-      "id": "src2",
-      "label": "United with Israel",
-      "url": "https://unitedwithisrael.org/?p=398201",
-      "kind": "press"
-    },
-    {
-      "id": "src3",
-      "label": "Ynetnews, magazine article",
-      "url": "https://www.ynetnews.com/magazine/article/s1gw11xfnh",
-      "kind": "press"
-    },
-    {
-      "id": "src4",
-      "label": "ISRAEL21c",
-      "url": "https://archive.israel21c.org/yedidim-soldiers-mom-grateful-to-israeli-roadside-angels/",
-      "kind": "press"
-    },
-    {
-      "id": "src5",
-      "label": "ESRA Magazine",
-      "url": "https://www.magazine.esra.org.il/posts/entry/friends-of-the-road.html",
-      "kind": "press"
-    },
-    {
-      "id": "src6",
-      "label": "Maariv, 2020",
-      "url": "https://www.maariv.co.il/news/israel/article-807198",
-      "kind": "press"
-    },
-    {
-      "id": "src7",
-      "label": "Arutz 7",
-      "url": "https://www.inn.co.il/news/366404",
-      "kind": "press"
-    },
-    {
-      "id": "src8",
-      "label": "Jerusalem Post",
-      "url": "https://m.jpost.com/israel-news/report-from-gaza-the-volunteer-who-rescued-me-558557",
-      "kind": "press"
-    },
-    {
-      "id": "src9",
-      "label": "ice.co.il",
-      "url": "https://www.ice.co.il/auto/news/article/983587",
-      "kind": "press"
-    },
-    {
-      "id": "src10",
-      "label": "Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/bird-to-provide-free-scooter-rides-to-yedidim-volunteers-676775",
-      "kind": "press"
-    },
-    {
-      "id": "src11",
-      "label": "ISRAEL21c, Yedidim topic archive",
-      "url": "https://archive.israel21c.org/topic/yedidim/",
-      "kind": "press"
-    },
-    {
-      "id": "src12",
-      "label": "Times of Israel, blog, Alan Silverstein",
-      "url": "https://blogs.timesofisrael.com/am-echad-lev-echad-israeli-jewish-values-in-action/",
-      "kind": "press"
-    }
-  ],
-  "media": [
-    {
-      "id": "m1",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Isaac%20and%20Michal%20Herzog%20hosting%20the%20Yedidim%20-%20Roadside%20Assistance%2C%20April%202022%20%28GPOHA1%204073%29.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Isaac_and_Michal_Herzog_hosting_the_Yedidim_-_Roadside_Assistance%2C_April_2022_%28GPOHA1_4073%29.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Haim Zach",
-      "licence": "CC BY-SA 3.0",
-      "hosting": "hotlink",
-      "caption": "A man stands at a lectern and speaks in a hall with Israeli flags, and the audience sits facing him; according to the Commons description, President Herzog and his wife hosted Yedidim representatives to mark 30 years of the organization.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-      "date": "Taken on 6",
-      "width": 3000,
-      "height": 1965
-    },
-    {
-      "id": "m2",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Isaac%20and%20Michal%20Herzog%20hosting%20the%20Yedidim%20-%20Roadside%20Assistance%2C%20April%202022%20%28GPOHA1%204074%29.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Isaac_and_Michal_Herzog_hosting_the_Yedidim_-_Roadside_Assistance%2C_April_2022_%28GPOHA1_4074%29.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Haim Zach",
-      "licence": "CC BY-SA 3.0",
-      "hosting": "hotlink",
-      "caption": "An audience sits in a hall with stained-glass windows and listens to a speaker at the lectern; according to the Commons description, this is the hosting of Yedidim representatives at the President's Residence to mark 30 years of the organization.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-      "date": "Taken on 6",
-      "width": 3000,
-      "height": 2000
-    },
-    {
-      "id": "m3",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Isaac%20Herzog%20hosts%20the%20outstanding%20people%20of%20Yedidim%20-%20Roadside%20Assistance%20ceremony%2C%20February%202022%20%28GPOABG%203211%29.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Isaac_Herzog_hosts_the_outstanding_people_of_Yedidim_-_Roadside_Assistance_ceremony%2C_February_2022_%28GPOABG_3211%29.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Amos Ben Gershom",
-      "licence": "CC BY-SA 3.0",
-      "hosting": "hotlink",
-      "caption": "A group photo of people with masks and ID badges, among them a man in a blue suit in the center and a police officer at the edge, in front of a stone wall; according to Commons, this is a ceremony for outstanding Yedidim members at the President's Residence.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-      "date": "Taken on 2",
-      "width": 3000,
-      "height": 2000
-    },
-    {
-      "id": "m4",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Isaac%20Herzog%20hosts%20the%20outstanding%20people%20of%20Yedidim%20-%20Roadside%20Assistance%20ceremony%2C%20February%202022%20%28GPOABG%203013%29.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Isaac_Herzog_hosts_the_outstanding_people_of_Yedidim_-_Roadside_Assistance_ceremony%2C_February_2022_%28GPOABG_3013%29.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Amos Ben Gershom",
-      "licence": "CC BY-SA 3.0",
-      "hosting": "hotlink",
-      "caption": "A man with glasses and a blue suit speaks at a lectern, with Israeli flags beside him; according to Commons, this is President Herzog at a ceremony for outstanding Yedidim members.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-      "date": "Taken on 2",
-      "width": 3000,
-      "height": 2000
-    },
-    {
-      "id": "m5",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Isaac%20Herzog%20hosts%20the%20outstanding%20people%20of%20Yedidim%20-%20Roadside%20Assistance%20ceremony%2C%20February%202022%20%28GPOABG%203239%29.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Isaac_Herzog_hosts_the_outstanding_people_of_Yedidim_-_Roadside_Assistance_ceremony%2C_February_2022_%28GPOABG_3239%29.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Amos Ben Gershom",
-      "licence": "CC BY-SA 3.0",
-      "hosting": "hotlink",
-      "caption": "A group photo of people with masks and ID badges, with a man in a blue suit and a woman in black at the center, in front of a stone wall and flags; according to Commons, this is a ceremony for outstanding Yedidim members at the President's Residence.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-      "date": "Taken on 2",
-      "width": 2860,
-      "height": 1872
-    },
-    {
-      "id": "m6",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Isaac%20Herzog%20hosts%20the%20outstanding%20people%20of%20Yedidim%20-%20Roadside%20Assistance%20ceremony%2C%20February%202022%20%28GPOABG%203202%29.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Isaac_Herzog_hosts_the_outstanding_people_of_Yedidim_-_Roadside_Assistance_ceremony%2C_February_2022_%28GPOABG_3202%29.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Amos Ben Gershom",
-      "licence": "CC BY-SA 3.0",
-      "hosting": "hotlink",
-      "caption": "A group of people with masks and badges poses in rows in front of a stone wall; according to Commons, this is a ceremony for outstanding Yedidim members at the President's Residence.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-      "date": "Taken on 2",
-      "width": 2889,
-      "height": 1897
-    },
-    {
-      "id": "m7",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Isaac%20Herzog%20hosts%20the%20outstanding%20people%20of%20Yedidim%20-%20Roadside%20Assistance%20ceremony%2C%20February%202022%20%28GPOABG%203231%29.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Isaac_Herzog_hosts_the_outstanding_people_of_Yedidim_-_Roadside_Assistance_ceremony%2C_February_2022_%28GPOABG_3231%29.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Amos Ben Gershom",
-      "licence": "CC BY-SA 3.0",
-      "hosting": "hotlink",
-      "caption": "A large group with masks and ID badges on purple lanyards poses on steps in front of a stone wall; according to Commons, this is a ceremony for outstanding Yedidim members at the President's Residence.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-      "date": "Taken on 2",
-      "width": 3000,
-      "height": 2000
-    },
-    {
-      "id": "m8",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/%D7%96%D7%95%D7%9B%D7%99%20%D7%A4%D7%A8%D7%A1%20%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%99%D7%9D%20%D7%9C%D7%90%D7%97%D7%93%D7%95%D7%AA%202024%20%284%29.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:%D7%96%D7%95%D7%9B%D7%99_%D7%A4%D7%A8%D7%A1_%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%99%D7%9D_%D7%9C%D7%90%D7%97%D7%93%D7%95%D7%AA_2024_%284%29.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Maayan Toaf",
-      "licence": "CC BY-SA 3.0",
-      "hosting": "hotlink",
-      "caption": "Six people stand together in a hall, and one of them holds a certificate and a plaque; according to Commons, this is the 2024 Jerusalem Unity Prize ceremony at the President's Residence.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-      "date": "2024-06-09",
-      "width": 2048,
-      "height": 1365
-    },
-    {
-      "id": "m9",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/%D7%9E%D7%AA%D7%A0%D7%93%D7%91%20%D7%A9%D7%9C%20%D7%A2%D7%9E%D7%95%D7%AA%D7%AA%20%D7%99%D7%93%D7%99%D7%93%D7%99%D7%9D%20%D7%A1%D7%99%D7%95%D7%A2%20%D7%91%D7%93%D7%A8%D7%9B%D7%99%D7%9D%2C%20%D7%9E%D7%98%D7%A4%D7%9C%20%D7%91%D7%A8%D7%9B%D7%91%20%D7%9C%D7%90%D7%97%D7%A8%20%D7%A7%D7%A8%D7%99%D7%90%D7%94.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:%D7%9E%D7%AA%D7%A0%D7%93%D7%91_%D7%A9%D7%9C_%D7%A2%D7%9E%D7%95%D7%AA%D7%AA_%D7%99%D7%93%D7%99%D7%93%D7%99%D7%9D_%D7%A1%D7%99%D7%95%D7%A2_%D7%91%D7%93%D7%A8%D7%9B%D7%99%D7%9D%2C_%D7%9E%D7%98%D7%A4%D7%9C_%D7%91%D7%A8%D7%9B%D7%91_%D7%9C%D7%90%D7%97%D7%A8_%D7%A7%D7%A8%D7%99%D7%90%D7%94.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Hanay",
-      "licence": "CC BY-SA 4.0",
-      "hosting": "hotlink",
-      "caption": "A man bends over the open engine of a white car in the street and holds a battery beside it; according to Commons, this is a Yedidim volunteer working on a car after a call.",
-      "illustrates": [
-        "c29"
-      ],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "date": "2023-06-22",
-      "width": 4000,
-      "height": 3000
-    },
-    {
-      "id": "m10",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Stickers%20in%20Petah%20Tikva%2C%20May%202024%2012.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Stickers_in_Petah_Tikva%2C_May_2024_12.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Chenspec",
-      "licence": "CC BY-SA 4.0",
-      "hosting": "hotlink",
-      "caption": "A Yedidim 1230 sticker with the words \"Volunteer vehicle\" on a car's rear window.",
-      "illustrates": [
-        "c3"
-      ],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "date": "2024-05-04",
-      "width": 2248,
-      "height": 4000
-    },
-    {
-      "id": "m12",
-      "kind": "video",
-      "url": "https://www.youtube.com/watch?v=PSZ6JPTb2Hk",
-      "youtube_id": "PSZ6JPTb2Hk",
-      "source_page": "https://www.youtube.com/watch?v=PSZ6JPTb2Hk",
-      "source_name": "YouTube",
-      "credit": "Yedidim - Roadside Assistance 1230",
-      "licence": "YouTube, embedded only (standard YouTube licence)",
-      "licence_url": "https://www.youtube.com/static?template=terms",
-      "hosting": "embed",
-      "caption": "A report in the series \"The Good Land\" on Channel 12, in which Sivan Rahav-Meir accompanies Yedidim CEO Israel Almasi.",
-      "illustrates": [
-        "c1",
-        "c27"
-      ]
-    },
-    {
-      "id": "m13",
-      "kind": "video",
-      "url": "https://www.youtube.com/watch?v=AnZK8aZ1KI4",
-      "youtube_id": "AnZK8aZ1KI4",
-      "source_page": "https://www.youtube.com/watch?v=AnZK8aZ1KI4",
-      "source_name": "YouTube",
-      "credit": "DiBURiM - Business Branding and Website Building",
-      "licence": "YouTube, embedded only (standard YouTube licence)",
-      "licence_url": "https://www.youtube.com/static?template=terms",
-      "hosting": "embed",
-      "caption": "A report on Channel 12's weekend news edition about Yedidim volunteers and volunteering to help others.",
-      "illustrates": [
-        "c1",
-        "c3"
-      ]
-    },
-    {
-      "id": "m14",
-      "kind": "video",
-      "url": "https://www.youtube.com/watch?v=qxq7hlNe3Yc",
-      "youtube_id": "qxq7hlNe3Yc",
-      "source_page": "https://www.youtube.com/watch?v=qxq7hlNe3Yc",
-      "source_name": "YouTube",
-      "credit": "Yedidim - Roadside Assistance 1230",
-      "licence": "YouTube, embedded only (standard YouTube licence)",
-      "licence_url": "https://www.youtube.com/static?template=terms",
-      "hosting": "embed",
-      "caption": "An interview on Channel 14 with Yedidim CEO Israel Almasi about the organization's activity.",
-      "illustrates": [
-        "c27"
-      ],
-      "spoken": "he",
-      "audio_tracks": [
-        "he",
-        "en"
-      ]
-    },
-    {
-      "id": "m15",
-      "kind": "video",
-      "url": "https://www.youtube.com/watch?v=e_XiSiePDsE",
-      "youtube_id": "e_XiSiePDsE",
-      "source_page": "https://www.youtube.com/watch?v=e_XiSiePDsE",
-      "source_name": "YouTube",
-      "credit": "Yedidim - Roadside Assistance 1230",
-      "licence": "YouTube, embedded only (standard YouTube licence)",
-      "licence_url": "https://www.youtube.com/static?template=terms",
-      "hosting": "embed",
-      "caption": "An interview on Channel 12 with Yedidim CEO Israel Almasi about the organization's special preparations for a storm.",
-      "illustrates": [
-        "c27"
-      ],
-      "spoken": "he",
-      "audio_tracks": [
-        "he",
-        "en"
-      ]
-    },
-    {
-      "id": "m16",
-      "kind": "video",
-      "url": "https://www.youtube.com/watch?v=-3hN6RkhOi0",
-      "youtube_id": "-3hN6RkhOi0",
-      "source_page": "https://www.youtube.com/watch?v=-3hN6RkhOi0",
-      "source_name": "YouTube",
-      "credit": "Yedidim - Roadside Assistance 1230",
-      "licence": "YouTube, embedded only (standard YouTube licence)",
-      "licence_url": "https://www.youtube.com/static?template=terms",
-      "hosting": "embed",
-      "caption": "A film by the organization about itself: Yedidim volunteers in Holon rescued a toddler who was accidentally locked in a car.",
-      "illustrates": [
-        "c29"
-      ]
-    },
-    {
-      "id": "m19",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/%D7%99%D7%93%D7%99%D7%93%D7%99%D7%9D%20%D7%91%D7%93%D7%A8%D7%9A%20-%20%D7%92%27%D7%99%D7%A4.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:%D7%99%D7%93%D7%99%D7%93%D7%99%D7%9D_%D7%91%D7%93%D7%A8%D7%9A_-_%D7%92%27%D7%99%D7%A4.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Yoram Shoval",
-      "licence": "CC BY-SA 4.0",
-      "hosting": "hotlink",
-      "caption": "Yedidim 1230 and \"Yedidim for the Merkava Unit\" 4X4 stickers on the rear window of an off-road vehicle, 2023",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "date": "2023-08-11",
-      "width": 2256,
-      "height": 4000,
-      "role": "deed"
-    },
-    {
-      "id": "m20",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Isaac%20Herzog%20awarding%20the%20%C2%ABThe%20Presidential%20Volunteer%20Medal%C2%BB%20for%20the%20year%202022%2C%20June%202022%20%28GPOKBG%201%29.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Isaac_Herzog_awarding_the_%C2%ABThe_Presidential_Volunteer_Medal%C2%BB_for_the_year_2022%2C_June_2022_%28GPOKBG_1%29.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Kobi Gideon",
-      "licence": "CC BY-SA 3.0",
-      "hosting": "hotlink",
-      "caption": "President Herzog presents the President's Award for Volunteerism for 2022 to a woman on a stage, among other people",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-      "date": "Taken on 1",
-      "width": 1024,
-      "height": 682,
-      "role": "related"
-    },
-    {
-      "id": "m21",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Isaac%20Herzog%20in%20Beit%20HaNassi%2C%20June%202023%20%28GPOHZ0%206888%29.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Isaac_Herzog_in_Beit_HaNassi%2C_June_2023_%28GPOHZ0_6888%29.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Haim Zach",
-      "licence": "CC BY-SA 3.0",
-      "hosting": "hotlink",
-      "caption": "President Herzog presents the President's Award for Volunteerism at the President's Residence, 2023",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-      "date": "Taken on 1",
-      "width": 3000,
-      "height": 1782,
-      "role": "related"
-    },
-    {
-      "id": "m22",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/%D7%99%D7%95%D7%A1%D7%99%20%D7%A2%D7%A8%D7%91%D7%9C%D7%99%D7%9A%20%D7%9E%D7%A7%D7%91%D7%9C%20%D7%90%D7%AA%20%D7%90%D7%95%D7%AA%20%D7%94%D7%A0%D7%A9%D7%99%D7%90%20%D7%9C%D7%9E%D7%AA%D7%A0%D7%93%D7%91.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:%D7%99%D7%95%D7%A1%D7%99_%D7%A2%D7%A8%D7%91%D7%9C%D7%99%D7%9A_%D7%9E%D7%A7%D7%91%D7%9C_%D7%90%D7%AA_%D7%90%D7%95%D7%AA_%D7%94%D7%A0%D7%A9%D7%99%D7%90_%D7%9C%D7%9E%D7%AA%D7%A0%D7%93%D7%91.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Kobi Gideon",
-      "licence": "CC BY-SA 3.0",
-      "hosting": "hotlink",
-      "caption": "President Herzog holds the President's Award for Volunteerism beside the recipient, 2022",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-      "date": "Taken on 1",
-      "width": 306,
-      "height": 669,
-      "role": "related"
-    }
-  ],
-  "check": {
-    "passed": true,
-    "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
-    "checked_at": "2026-11-21T10:38:58Z",
-    "counts": {
-      "confirmed": 97,
-      "not_confirmed": 0,
-      "deleted_sentences": 4,
-      "first_round_confirmed": 96,
-      "first_round_contradicted": 3,
-      "first_round_unverifiable": 3
-    },
-    "note": "unverifiable sentences were deleted, contradicted ones fixed from the source and checked again"
-  },
-  "meta": {
-    "run": "yedidim-roadside-assistance-volunteers",
-    "pipeline": "scripts/museum/museum_line.py",
-    "models": {
-      "research": "sonnet-5-5",
-      "extract": "sonnet-5-5",
-      "media": "sonnet-5-5",
-      "write": "opus-5-5 medium",
-      "check": "opus-5-5 medium",
-      "fix": "opus-5-5 medium"
-    },
-    "source_quality": {
-      "sources": 12,
-      "wikipedia": 0,
-      "strong": 12,
-      "ok": true,
-      "warnings": []
-    },
-    "media_dedupe": [
-      {
-        "drop": "m11",
-        "keep": "m10",
-        "by": "reviewed 24.11"
-      },
-      {
-        "drop": "m17",
-        "keep": "m4",
-        "by": "reviewed 24.11"
-      },
-      {
-        "drop": "m18",
-        "keep": "m10",
-        "by": "reviewed 24.11"
-      }
+     }
     ]
+   ],
+   "media": [
+    "m8",
+    "m3",
+    "m4",
+    "m1",
+    "m2",
+    "m5",
+    "m6",
+    "m7",
+    "m12",
+    "m20",
+    "m21",
+    "m22"
+   ],
+   "disagreements": []
   },
-  "lang": "en",
-  "translation": {
-    "from": "he",
-    "translator": "claude-opus-5-5",
-    "checker": "claude-opus-5-5 (separate call, blind to the translation prompt)",
-    "checked_at": "2026-11-21T12:04:02Z",
-    "passed": true,
-    "items": 165,
-    "pairs_checked": 9,
-    "reused": 156,
-    "first_round_flagged": 6,
-    "still_flagged": 0,
-    "flagged": [],
-    "quote_translations": {
-      "c25": "Was established in 2006 and is a unique organization that provides first aid, which is not medical, on the roads and in homes, 24 hours a day",
-      "c10": "The organization has 6,500 volunteers today, and they are divided into districts and regions.",
-      "c17": "This incident was etched in him and he decided that if it happened to him, it would not happen to others",
-      "c24": "If a call came in from nearby Highway 443, they would make an effort to hurry and help",
-      "c21": "When WhatsApp was born, the group sank. Almasi brought the organization back to life.",
-      "c29": "Starting vehicles, filling water/ oil/ fuel on highways and dangerous roads and even opening locked vehicles using professional equipment and without any damage",
-      "c65": "The rescue button of the Yedidim nonprofit was embedded in the yellow app, allowing a call to be opened at the call center",
-      "c66": "yellow donated to the nonprofit more than 1,000 rescue kits for volunteers, which will assist in calls from citizens in distress",
-      "c69": "But until recently they also did not agree to accept donations",
-      "c59": "And on the instruction of rabbis, the Yedidim call center was opened already during Shabbat and the Simchat Torah holiday",
-      "c60": "They spent many hours on evacuation, day and night, while preserving the dignity of those killed and murdered",
-      "c62": "Transporting reservist soldiers to bases and to assembly areas, moving equipment and food to the fighters and to the residents of the south",
-      "c77": "The volunteer base began from the Haredi sector, but today everyone is in it, even some women",
-      "c79": "That the hard of hearing and the deaf cannot use the service they offer",
-      "c70": "They will always come to give them fuel, cables or help changing a wheel",
-      "c73": "20 minutes passed, even a little more, but no patrol car arrived",
-      "c71": "The members here give with all their heart, but are not willing to be exploited",
-      "c16": "Only after two hours, when he was wet, freezing from the cold and frustrated, did the savior arrive."
-    }
+  {
+   "id": "s8",
+   "title": "When help is delayed",
+   "kind": "hard",
+   "paragraphs": [
+    [
+     {
+      "text": "According to a blog on the Times of Israel, after 45 minutes of waiting for Yedidim they called a friend for advice.",
+      "claims": [
+       "c74"
+      ]
+     },
+     {
+      "text": "According to the Jerusalem Post, the average response time stood at 28:40 minutes.",
+      "claims": [
+       "c46"
+      ]
+     },
+     {
+      "text": "According to Channel 7, a Yedidim volunteer who came to refuel a car stuck on a highway waited more than 20 minutes for the traffic police patrol car he had called to the scene, and no patrol car arrived.",
+      "claims": [
+       "c73"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to Arutz 7, the volunteers give with all their heart, but are not willing to be exploited.",
+      "claims": [
+       "c71"
+      ]
+     },
+     {
+      "text": "Soria said that volunteers detect exploitation, and use the opportunity to teach the callers again.",
+      "claims": [
+       "c72"
+      ]
+     }
+    ]
+   ],
+   "media": [],
+   "disagreements": []
   }
+ ],
+ "disagreements": [
+  {
+   "id": "d1",
+   "question": "How long did Almasi wait for help?",
+   "versions": [
+    {
+     "says": "Almasi told United with Israel that he waited an hour and a half",
+     "claims": [
+      "c14"
+     ]
+    },
+    {
+     "says": "Almasi told the Jerusalem Post that he waited an hour and a half in the rain",
+     "claims": [
+      "c15"
+     ]
+    },
+    {
+     "says": "According to Arutz 7, he waited two hours, wet and freezing",
+     "claims": [
+      "c16"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d2",
+   "question": "How, and in what context, was the organization born?",
+   "versions": [
+    {
+     "says": "According to United with Israel and ISRAEL21c, an Israeli man who got stuck on the road, Israel Almasi, created Yedidim",
+     "claims": [
+      "c2",
+      "c13"
+     ]
+    },
+    {
+     "says": "According to the Jerusalem Post (2018), Winer founded Yedidim during the Second Intifada, to help those who got stuck in Judea and Samaria",
+     "claims": [
+      "c23"
+     ]
+    },
+    {
+     "says": "According to the Jerusalem Post, Weiner and volunteers sought to assist drivers on Highway 443, at whom stones were thrown almost every day",
+     "claims": [
+      "c22"
+     ]
+    },
+    {
+     "says": "According to ESRA Magazine, Rabbi Meir Weiner established the organization in 2006, inspired by a friends' organization in the US, and according to Maariv the nonprofit was established in 2006",
+     "claims": [
+      "c25",
+      "c26"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d3",
+   "question": "How many volunteers does Yedidim have?",
+   "versions": [
+    {
+     "says": "Jerusalem Post (2018): 8,500 volunteers",
+     "claims": [
+      "c8"
+     ]
+    },
+    {
+     "says": "Arutz 7: 6,500 volunteers",
+     "claims": [
+      "c10"
+     ]
+    },
+    {
+     "says": "ESRA Magazine: 18,073 volunteers, men and women",
+     "claims": [
+      "c9"
+     ]
+    },
+    {
+     "says": "Jerusalem Post (2020): 20 thousand volunteers",
+     "claims": [
+      "c5"
+     ]
+    },
+    {
+     "says": "Jerusalem Post: more than 36 thousand volunteers",
+     "claims": [
+      "c7"
+     ]
+    },
+    {
+     "says": "ISRAEL21c (2021): about 36 thousand volunteers",
+     "claims": [
+      "c11"
+     ]
+    },
+    {
+     "says": "Ynetnews: more than 56 thousand volunteers",
+     "claims": [
+      "c4"
+     ]
+    },
+    {
+     "says": "Summary in ISRAEL21c: 60 thousand Yedidim volunteers answer war-related calls.",
+     "claims": [
+      "c12"
+     ]
+    },
+    {
+     "says": "ISRAEL21c (2024): 65 thousand volunteers",
+     "claims": [
+      "c6"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d4",
+   "question": "How many children were rescued from locked cars?",
+   "versions": [
+    {
+     "says": "Jerusalem Post (2018): 697 children in 2017",
+     "claims": [
+      "c50"
+     ]
+    },
+    {
+     "says": "ESRA Magazine: 1,110 children in 2018",
+     "claims": [
+      "c51"
+     ]
+    },
+    {
+     "says": "Jerusalem Post: 1,500 children in 2019",
+     "claims": [
+      "c49"
+     ]
+    },
+    {
+     "says": "Almasi (2021): more than 5,000 children in the past three years",
+     "claims": [
+      "c53"
+     ]
+    },
+    {
+     "says": "Almasi to Ynetnews: more than 5,000 children in the past year",
+     "claims": [
+      "c52"
+     ]
+    }
+   ]
+  }
+ ],
+ "unknowns": [],
+ "claims": [
+  {
+   "id": "c1",
+   "text": "הכתבה מציגה את מתנדבי ידידים כמתנדבים ישראלים שנותנים יד למי שזקוק לעזרה.",
+   "source": "src1",
+   "quote": "Meet the Israeli volunteers giving those in need a helping hand",
+   "status": "confirmed",
+   "locator": "שורה 1"
+  },
+  {
+   "id": "c2",
+   "text": "אדם ישראלי שנתקע בדרך יצר את ארגון ההתנדבות הארצי ידידים, שזכה בפרס הנשיא.",
+   "source": "src2",
+   "quote": "Getting stuck on the road led an Israeli man to create a nationwide volunteering organization, Yedidim, which won the President’s Award this year.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c3",
+   "text": "ארגון ידידים, גוף ההתנדבות הגדול בישראל, עוזר לנהגים במצוקה ובמקרי חירום ללא תשלום.",
+   "source": "src3",
+   "quote": "The Yedidim organization, the largest volunteer body in Israel, helps drivers in need and in cases of emergency at no cost",
+   "status": "confirmed",
+   "locator": "שורה 37"
+  },
+  {
+   "id": "c28",
+   "text": "המתנדבים מחלצים אנשים ממעליות, עוזרים לקשישים ולנזקקים בתיקוני בית דחופים, מספקים ציוד חירום ומחלצים רכבים.",
+   "source": "src1",
+   "quote": "Yedidim volunteers also rescue people stuck in elevators, help the elderly or impoverished with small, urgent home repairs, deliver emergency supplies and extract vehicles.",
+   "status": "confirmed",
+   "locator": "שורה 32"
+  },
+  {
+   "id": "c13",
+   "text": "ישראל אלמסי המציא את הרעיון לידידים כשהרכב שלו נתקע ביום חורף גשום ואף אחד לא עצר לעזור לו.",
+   "source": "src4",
+   "quote": "came up with the idea for Yedidim when his car got stuck one rainy, winter day and no-one stopped to help him",
+   "status": "confirmed",
+   "locator": "שורה 30"
+  },
+  {
+   "id": "c27",
+   "text": "כיום העמותה מנוהלת על ידי המנכ\"ל ישראל אלמסי והתרחבה למגוון שירותים לא רפואיים.",
+   "source": "src1",
+   "quote": "Today, the nonprofit is run by CEO Israel Almasi and has grown to provide a wide range of non-medical services",
+   "status": "confirmed",
+   "locator": "שורה 30"
+  },
+  {
+   "id": "c32",
+   "text": "אף אחד בארגון, עד למנכ\"ל, אינו מקבל שכר.",
+   "source": "src1",
+   "quote": "No one, from the most part-time volunteer to the CEO, gets a single shekel in compensation.",
+   "status": "confirmed",
+   "locator": "שורה 36"
+  },
+  {
+   "id": "c26",
+   "text": "לפי מגזין ESRA, הארגון הוקם ב-2006 בידי הרב מאיר וינר, בהשראת ארגון חברים בארה\"ב.",
+   "source": "src5",
+   "quote": "It was established in 2006 by Rabbi Meir Weiner, modeled after",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c25",
+   "text": "לפי מעריב, העמותה הוקמה ב-2006 ומעניקה עזרה ראשונה לא רפואית בדרכים ובבתים 24 שעות ביממה.",
+   "source": "src6",
+   "quote": "הוקמה בשנת 2006 והינה ארגון ייחודי המעניק עזרה ראשונה, שאינה רפואית, בדרכים ובבתים, 24 שעות ביממה",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c6",
+   "text": "לפי ISRAEL21c (2024), 65 אלף מתנדבים הפכו את ידידים לארגון ההתנדבות הגדול בארץ.",
+   "source": "src4",
+   "quote": "today, in fact, 65,000 of them, making Yedidim the biggest volunteer organization in the country",
+   "status": "confirmed",
+   "locator": "שורה 32"
+  },
+  {
+   "id": "c10",
+   "text": "לפי ערוץ 7, לארגון יש 6,500 מתנדבים המחולקים למחוזות ולמרחבים.",
+   "source": "src7",
+   "quote": "6,500 מתנדבים יש היום לארגון, והם מחולקים למחוזות ומרחבים.",
+   "status": "confirmed",
+   "locator": "שורה 64"
+  },
+  {
+   "id": "c42",
+   "text": "לפי ג'רוזלם פוסט, המוקדנים מקבלים בממוצע 18,000 קריאות בשבוע.",
+   "source": "src1",
+   "quote": "YEDIDIM DISPATCHERS field an average of 18,000 calls a week.",
+   "status": "confirmed",
+   "locator": "שורה 53"
+  },
+  {
+   "id": "c68",
+   "text": "לפי ISRAEL21c, ידידים קיבל השנה את פרס הנשיא להתנדבות.",
+   "source": "src2",
+   "quote": "this year Yedidim received the President’s Award for Volunteerism",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c14",
+   "text": "אלמסי סיפר שחיכה שעה וחצי שמישהו יעצור ויעזור לו.",
+   "source": "src2",
+   "quote": "I waited for an hour and a half for someone to stop and help",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c17",
+   "text": "לפי ערוץ 7, המקרה נחרת באלמסי והוא החליט שמה שקרה לו לא יקרה לאחרים.",
+   "source": "src7",
+   "quote": "המקרה הזה נחרת בו והוא החליט שאם זה קרה לו, זה לא יקרה לאחרים",
+   "status": "confirmed",
+   "locator": "שורה 43"
+  },
+  {
+   "id": "c19",
+   "text": "לפי ג'רוזלם פוסט, אלמסי הקים קבוצת וואטסאפ כדי שתקועים יוכלו לפנות למישהו.",
+   "source": "src8",
+   "quote": "and started adding people to the group so others who got stuck could reach someone for help",
+   "status": "confirmed",
+   "locator": "שורה 25"
+  },
+  {
+   "id": "c18",
+   "text": "לפי ISRAEL21c, אלמסי פתח קבוצת וואטסאפ ומצא שאנשים רבים מוכנים לעזור.",
+   "source": "src4",
+   "quote": "Soon after, he opened a WhatsApp group and realized that this was not true and many people would be willing to lend a hand in such a situation",
+   "status": "confirmed",
+   "locator": "שורה 32"
+  },
+  {
+   "id": "c22",
+   "text": "לפי ג'רוזלם פוסט, מאיר וינר ומתנדבים ביקשו לסייע לנהגים בכביש 443, שנזרקו עליהם אבנים כמעט מדי יום.",
+   "source": "src1",
+   "quote": "Motivated by a desire to offer assistance to Israelis stuck on dangerous roads, Weiner and a small group of volunteers began assisting drivers on Highway 443",
+   "status": "confirmed",
+   "locator": "שורה 29"
+  },
+  {
+   "id": "c24",
+   "text": "לפי ערוץ 7, כשהגיעו קריאות מכביש 443 הם השתדלו למהר ולעזור.",
+   "source": "src7",
+   "quote": "אם הייתה מתקבלת קריאה מכביש 443 הסמוך, הם היו משתדלים למהר ולעזור",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c20",
+   "text": "לפי ג'רוזלם פוסט, מאיר וינר שמע על אלמסי, ומסר לו את ניהול הקבוצה.",
+   "source": "src8",
+   "quote": "He was then told of Yedidim and approached Winer, who told Almasi he could take charge of the group.",
+   "status": "confirmed",
+   "locator": "שורה 26"
+  },
+  {
+   "id": "c21",
+   "text": "לפי ערוץ 7, כשנולד הוואטסאפ הקבוצה של וינר שקעה, ואלמסי החיה אותה מחדש.",
+   "source": "src7",
+   "quote": "כשנולד הווטסאפ, הקבוצה שקעה. אלמסי הקים את הארגון לתחייה.",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c29",
+   "text": "לפי מעריב, הארגון מסייע בהתנעת רכבים, במילוי נוזלים ובפתיחת רכבים נעולים ללא נזק.",
+   "source": "src6",
+   "quote": "התנעת רכבים, מילוי מים/ שמן/ דלק בכבישים מהירים ומסוכנים ואף פתיחת רכבים נעולים באמצעות ציוד מקצועי וללא כל נזק",
+   "status": "confirmed",
+   "locator": "שורה 13"
+  },
+  {
+   "id": "c30",
+   "text": "לפי ג'רוזלם פוסט, המתנדבים פועלים 24 שעות ביממה, שישה ימים בשבוע.",
+   "source": "src1",
+   "quote": "And they do it all 24 hours a day, six days a week.",
+   "status": "confirmed",
+   "locator": "שורה 33"
+  },
+  {
+   "id": "c31",
+   "text": "ידידים אינו פועל בשבת ובחגים או בשטחי הרשות הפלסטינית.",
+   "source": "src1",
+   "quote": "Yedidim does not operate on Shabbat or Jewish holidays, or in territories controlled by the PA",
+   "status": "confirmed",
+   "locator": "שורה 34"
+  },
+  {
+   "id": "c41",
+   "text": "מוקדנים מתנדבים עונים לקריאות בעברית, אנגלית, ערבית ורוסית.",
+   "source": "src1",
+   "quote": "At any given time, five to 20 volunteer operators take calls in Hebrew, English, Arabic and Russian.",
+   "status": "confirmed",
+   "locator": "שורה 47"
+  },
+  {
+   "id": "c40",
+   "text": "הקריאה מועברת לצוותי מתנדבים מקומיים המחוברים בקבוצות וואטסאפ או באפליקציה ייעודית.",
+   "source": "src1",
+   "quote": "The call is then forwarded on to local teams of volunteers who are connected through WhatsApp groups or a dedicated app.",
+   "status": "confirmed",
+   "locator": "שורה 51"
+  },
+  {
+   "id": "c65",
+   "text": "לפי מעריב, רשת yellow הטמיעה באפליקציה לחצן חילוץ של ידידים לפתיחת קריאה במוקד.",
+   "source": "src6",
+   "quote": "הוטמע באפליקציית yellow לחצן החילוץ של עמותת ידידים, המאפשר פתיחת קריאה במוקד",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c43",
+   "text": "לפי ג'רוזלם פוסט, המתנדבים מגיבים לכ-6,000 קריאות בשבוע של אנשים במצוקה.",
+   "source": "src1",
+   "quote": "Across Israel, volunteers are able to respond to approximately 6,000 calls a week from people in distress.",
+   "status": "confirmed",
+   "locator": "שורה 55"
+  },
+  {
+   "id": "c44",
+   "text": "לפי ISRAEL21c, 2,000 עד 3,000 פונים מבקשים עזרה מדי יום מכל המגזרים.",
+   "source": "src4",
+   "quote": "Volunteers and the 2,000 to 3,000 callers who ask for assistance daily come from all sectors of the population.",
+   "status": "confirmed",
+   "locator": "שורה 34"
+  },
+  {
+   "id": "c45",
+   "text": "אלמסי אמר שהארגון שואף להגיע לקריאה תוך 13 דקות לכל היותר.",
+   "source": "src3",
+   "quote": "the organization aims to arrive at a call in a maximum of 13 minutes",
+   "status": "confirmed",
+   "locator": "שורה 60"
+  },
+  {
+   "id": "c46",
+   "text": "לפי ג'רוזלם פוסט, ידידים מקווים לקצר את זמן התגובה הממוצע מ-28:40 לכ-13 דקות.",
+   "source": "src10",
+   "quote": "Yedidim hopes this will help cut its average event response time from 28:40 to about 13 minutes.",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c47",
+   "text": "תוך 15 דקות מהקריאה הגיעו שלושה אופנועים והחליפו צמיג תוך פחות מחמש דקות.",
+   "source": "src3",
+   "quote": "three motorcycles arrived at his location and in less than five minutes they had affixed his spare tire",
+   "status": "confirmed",
+   "locator": "שורה 51"
+  },
+  {
+   "id": "c58",
+   "text": "לפי ISRAEL21c, בתוך 20 דקות הגיע מתנדב עם מטען נייד והחייה את הרכב של יואל.",
+   "source": "src4",
+   "quote": "In 20 minutes, someone arrived with a portable battery charger and Yoel was able to drive to the nearest gas station",
+   "status": "confirmed",
+   "locator": "שורה 19"
+  },
+  {
+   "id": "c48",
+   "text": "אלמסי אמר שיש לארגון 16 אופנועים שנתרמו ושהיעד הוא 5,000.",
+   "source": "src3",
+   "quote": "We now have 16 motorcycles that were donated to us, and our goal is to have 5,000",
+   "status": "confirmed",
+   "locator": "שורה 78"
+  },
+  {
+   "id": "c39",
+   "text": "לפי ISRAEL21c, המתנדבים בגילאי 16 עד 89 ועוברים קורס הכשרה בתחזוקת רכב.",
+   "source": "src4",
+   "quote": "Volunteers range in age from 16 to 89 and all undergo a training course on car maintenance.",
+   "status": "confirmed",
+   "locator": "שורה 33"
+  },
+  {
+   "id": "c37",
+   "text": "כל מתנדב עובר הכשרה בסיסית של שלוש שעות הכוללת החלפת צמיגים.",
+   "source": "src1",
+   "quote": "Every volunteer must complete three hours of basic training, which includes technical instruction on changing tires",
+   "status": "confirmed",
+   "locator": "שורה 70"
+  },
+  {
+   "id": "c36",
+   "text": "בארגון אין עובדים בשכר, כולל אלמסי, שעובד כמנהל פרויקטים בחברת כרטיסי אשראי.",
+   "source": "src4",
+   "quote": "There are no paid employees in the nonprofit group, including Almasi, whose day job is as a project manager at a credit-card company.",
+   "status": "confirmed",
+   "locator": "שורה 33"
+  },
+  {
+   "id": "c33",
+   "text": "המתנדבים חייבים לרכוש בעצמם את הציוד שלהם.",
+   "source": "src1",
+   "quote": "In fact, volunteers must buy their own equipment.",
+   "status": "confirmed",
+   "locator": "שורה 37"
+  },
+  {
+   "id": "c34",
+   "text": "לפי בישנסקי, מתנדב ממוצע מוציא 800 עד 1,000 שקל מכספו על ציוד.",
+   "source": "src1",
+   "quote": "According to Bishansky, the average volunteer spends NIS 800 to 1,000 of their own money on equipment.",
+   "status": "confirmed",
+   "locator": "שורה 41"
+  },
+  {
+   "id": "c35",
+   "text": "ידידים מנהל משא ומתן עם ספקים כדי שהמתנדבים יקנו ציוד בהנחה.",
+   "source": "src1",
+   "quote": "Yedidim negotiates with suppliers who import equipment and sell to volunteers at a discount",
+   "status": "confirmed",
+   "locator": "שורה 39"
+  },
+  {
+   "id": "c66",
+   "text": "לפי מעריב, yellow תרמה לעמותה למעלה מ-1,000 ערכות חילוץ למתנדבים.",
+   "source": "src6",
+   "quote": "תרמה yellow לעמותה למעלה מ-1,000 ערכות חילוץ למתנדבים, שיסייעו בקריאות של אזרחים במצוקה",
+   "status": "confirmed",
+   "locator": "שורה 17"
+  },
+  {
+   "id": "c67",
+   "text": "חברת Bird תאפשר למתנדבים לנסוע בקורקינטים בחינם באמצעות קוד קופון מיוחד באפליקציה.",
+   "source": "src10",
+   "quote": "to reach distressed callers quickly by typing a special coupon code into the Bird app",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c69",
+   "text": "לפי ערוץ 7, עד לא מזמן הארגון לא הסכים לקבל תרומות.",
+   "source": "src7",
+   "quote": "אבל עד לא מזמן הם גם לא הסכימו לקבל תרומות",
+   "status": "confirmed",
+   "locator": "שורה 199"
+  },
+  {
+   "id": "c4",
+   "text": "לפי ynetnews, ידידים נחשב לגוף ההתנדבות הגדול בישראל, עם למעלה מ-56 אלף מתנדבים.",
+   "source": "src3",
+   "quote": "Yedidim is considered the largest volunteering body in Israel, with over 56,000 volunteers.",
+   "status": "confirmed",
+   "locator": "שורה 58"
+  },
+  {
+   "id": "c54",
+   "text": "אלמסי אמר שבממוצע מחלצים חמישה עד שמונה ילדים ביום מרכבים נעולים.",
+   "source": "src2",
+   "quote": "We extricate five to eight children from locked cars a day on average",
+   "status": "confirmed",
+   "locator": "שורה 17"
+  },
+  {
+   "id": "c49",
+   "text": "לפי ג'רוזלם פוסט, ב-2019 חילצו מתנדבי ידידים 1,500 ילדים מרכבים נעולים.",
+   "source": "src1",
+   "quote": "in 2019 alone, Yedidim volunteers rescued 1,500 children from inside locked cars",
+   "status": "confirmed",
+   "locator": "שורה 56"
+  },
+  {
+   "id": "c50",
+   "text": "לפי ג'רוזלם פוסט (2018), ב-2017 חולצו 697 ילדים מרכבים נעולים.",
+   "source": "src8",
+   "quote": "there are some 8,500 volunteers around the country who in 2017 rescued 697 children from locked cars.",
+   "status": "confirmed",
+   "locator": "שורה 27"
+  },
+  {
+   "id": "c51",
+   "text": "לפי מגזין ESRA, ב-2018 חולצו 1,110 ילדים מרכבים נעולים.",
+   "source": "src5",
+   "quote": "1,110 children were rescued from locked cars in 2018.",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c52",
+   "text": "לפי אלמסי (ynetnews), ידידים חילצו יותר מ-5,000 ילדים שננעלו ברכב בשנה האחרונה.",
+   "source": "src3",
+   "quote": "rescued over 5,000 children who were locked in a vehicle in the last year",
+   "status": "confirmed",
+   "locator": "שורה 59"
+  },
+  {
+   "id": "c53",
+   "text": "לפי אלמסי (2021), בשלוש השנים האחרונות חולצו יותר מ-5,000 ילדים.",
+   "source": "src2",
+   "quote": "In the past three years, we’ve rescued more than 5,000 kids",
+   "status": "confirmed",
+   "locator": "שורה 17"
+  },
+  {
+   "id": "c63",
+   "text": "בטילי הגז במאי 2021 ידידים עזרו לאנשים להפעיל חלונות ודלתות של מרחבים מוגנים, כ-6,000 מהם.",
+   "source": "src2",
+   "quote": "huge, heavy metal hardware that becomes difficult to move when not in use – and unstuck some 6,000 of them",
+   "status": "confirmed",
+   "locator": "שורה 22"
+  },
+  {
+   "id": "c64",
+   "text": "לפי אלמסי, ב-2020 היו יותר מ-400,000 אירועים הקשורים לקורונה, כולל הובלת עשרות אלפי סלי מזון ותרופות.",
+   "source": "src2",
+   "quote": "In 2020, we had more than 400,000 Covid-related events, such as the transport of tens of thousands of food baskets, medicines and games",
+   "status": "confirmed",
+   "locator": "שורה 21"
+  },
+  {
+   "id": "c38",
+   "text": "מתנדבים נבחרים התאמנו לאחרונה עם הצבא ופיקוד העורף לסייע בקריסת בניין או בחירום לאומי.",
+   "source": "src1",
+   "quote": "A select group of Yedidim volunteers recently trained with the army and Pikud HaOref",
+   "status": "confirmed",
+   "locator": "שורה 73"
+  },
+  {
+   "id": "c59",
+   "text": "לפי ice, בהוראת רבנים נפתח מוקד ידידים בשבת ובחג שמחת תורה.",
+   "source": "src9",
+   "quote": "ובהוראת רבנים, נפתח מוקד ידידים כבר במהלך השבת וחג שמחת תורה",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c60",
+   "text": "לפי ice, מתנדבים עסקו שעות רבות ביום ובלילה בפינוי הרוגים תוך שמירה על כבודם.",
+   "source": "src9",
+   "quote": "עסקו שעות רבות בפינוי, ביום ובלילה, תוך שמירה על כבוד ההרוגים והנרצחים",
+   "status": "confirmed",
+   "locator": "שורה 15"
+  },
+  {
+   "id": "c62",
+   "text": "ידידים סייעו להסיע חיילי מילואים לבסיסים ולשנע ציוד ואוכל ללוחמים ולתושבי הדרום.",
+   "source": "src9",
+   "quote": "הסעת חיילי מילואים לבסיסים ולאזורי כינוס, שינוע ציוד ואוכל ללוחמים ולתושבי הדרום",
+   "status": "confirmed",
+   "locator": "שורה 16"
+  },
+  {
+   "id": "c55",
+   "text": "לפי ISRAEL21c, אלמסי ראה מאות רכבים חונים ליד בסיסי צבא אחרי 7 באוקטובר.",
+   "source": "src4",
+   "quote": "after seeing hundreds of cars parked on the side of the road outside army bases post October 7",
+   "status": "confirmed",
+   "locator": "שורה 22"
+  },
+  {
+   "id": "c57",
+   "text": "אלמסי הסביר שיש לשלוח שני מתנדבים, כדי שאחד יוביל את הרכב והשני יחזור.",
+   "source": "src4",
+   "quote": "two volunteers have to be dispatched so that one can drive the car to its destination and be transported back",
+   "status": "confirmed",
+   "locator": "שורה 27"
+  },
+  {
+   "id": "c56",
+   "text": "פרויקט החזרת הרכבים סייע להחזיר אלפי רכבים למשפחות חיילי המילואים.",
+   "source": "src4",
+   "quote": "which has helped get thousands of cars returned to the families of reservist soldiers",
+   "status": "confirmed",
+   "locator": "שורה 25"
+  },
+  {
+   "id": "c12",
+   "text": "לפי ISRAEL21c, 60 אלף מתנדבי ידידים ענו לקריאות הקשורות למלחמה ולסיוע מעשי ברחבי ישראל.",
+   "source": "src11",
+   "quote": "60,000 Yedidim volunteers answer war-related calls for practical aid throughout Israel.",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c75",
+   "text": "לפי ג'רוזלם פוסט, מתנדב מוסלמי הגיע לעזור למשפחה דתית מבני ברק.",
+   "source": "src1",
+   "quote": "Recently, a Muslim volunteer came to assist a religious family from Bnei Brak.",
+   "status": "confirmed",
+   "locator": "שורה 95"
+  },
+  {
+   "id": "c76",
+   "text": "אלמסי אמר שערבים, נוצרים, יהודים, דתיים וחילונים מתאחדים בעזרה הדדית.",
+   "source": "src4",
+   "quote": "Arabs, Christians, Jews, religious or secular, we succeed in a time of the worst catastrophe to close the gaps and unite people in helping each other",
+   "status": "confirmed",
+   "locator": "שורה 35"
+  },
+  {
+   "id": "c77",
+   "text": "לפי ערוץ 7, בסיס המתנדבים החל מהמגזר החרדי אך כיום כולם משתתפים, גם נשים.",
+   "source": "src7",
+   "quote": "בסיס המתנדבים החל מהמגזר החרדי, אבל היום כולם נמצאים בו, אפילו כמה נשים",
+   "status": "confirmed",
+   "locator": "שורה 214"
+  },
+  {
+   "id": "c78",
+   "text": "לפי אלמסי, נוער בסיכון ובעלי מוגבלויות משולבים במוקד וברשת המתנדבים.",
+   "source": "src2",
+   "quote": "Almasi says that at-risk youth and people with physical disabilities are integrated",
+   "status": "confirmed",
+   "locator": "שורה 35"
+  },
+  {
+   "id": "c79",
+   "text": "סטארטאח פיתחו עבור ידידים שירות לכבדי שמיעה וחירשים שלא יכלו להשתמש בשירות.",
+   "source": "src7",
+   "quote": "שכבדי שמיעה וחירשים אינם יכולים להשתמש בשירות שהם מציעים",
+   "status": "confirmed",
+   "locator": "שורה 227"
+  },
+  {
+   "id": "c70",
+   "text": "לפי ערוץ 7, לנשים הארגון נותן עדיפות ותמיד יגיע לתת דלק, כבלים או עזרה בהחלפת גלגל.",
+   "source": "src7",
+   "quote": "תמיד יגיעו לתת להן דלק, כבלים או סיוע בהחלפת גלגל",
+   "status": "confirmed",
+   "locator": "שורה 73"
+  },
+  {
+   "id": "c80",
+   "text": "אלמסי אמר שהמטרה היא חצי מיליון מתנדבים, מתנדב בכל בניין.",
+   "source": "src2",
+   "quote": "My goal is to have half a million volunteers, a volunteer in each building",
+   "status": "confirmed",
+   "locator": "שורה 41"
+  },
+  {
+   "id": "c74",
+   "text": "לפי בלוג בטיימס אוף ישראל, אחרי 45 דקות של המתנה לידידים התקשרו לחבר לעצה.",
+   "source": "src12",
+   "quote": "But after 45 minutes, we called a friend in the neighborhood for advice.",
+   "status": "confirmed",
+   "locator": "שורה 13"
+  },
+  {
+   "id": "c73",
+   "text": "לפי ערוץ 7, מתנדב המתין 20 דקות ואף ניידת משטרה לא הגיעה.",
+   "source": "src7",
+   "quote": "20 דקות חלפו, אפילו קצת יותר, אבל אף ניידת לא הגיעה",
+   "status": "confirmed",
+   "locator": "שורה 13"
+  },
+  {
+   "id": "c71",
+   "text": "לפי ערוץ 7, המתנדבים נותנים מכל הלב אך לא מוכנים להיות מנוצלים.",
+   "source": "src7",
+   "quote": "החברים כאן נותנים מכל הלב, אבל לא מוכנים להיות מנוצלים",
+   "status": "confirmed",
+   "locator": "שורה 75"
+  },
+  {
+   "id": "c72",
+   "text": "סוריה אמר שמתנדבים מזהים ניצול ומנצלים את ההזדמנות ללמד שוב את הפונים.",
+   "source": "src3",
+   "quote": "But we know how to detect that and use the opportunity to teach them again",
+   "status": "confirmed",
+   "locator": "שורה 75"
+  },
+  {
+   "id": "c15",
+   "text": "אלמסי אמר לג'רוזלם פוסט שחיכה שעה וחצי בגשם לרכב אחר.",
+   "source": "src8",
+   "quote": "an hour and a half in the rain for another car to come",
+   "status": "confirmed",
+   "locator": "שורה 22"
+  },
+  {
+   "id": "c16",
+   "text": "לפי ערוץ 7, אלמסי חיכה שעתיים, רטוב וקפוא, עד שהגיע המושיע.",
+   "source": "src7",
+   "quote": "רק אחרי שעתיים, כשהוא רטוב, קופא מקור ומתוסכל, הגיע המושיע.",
+   "status": "confirmed",
+   "locator": "שורה 41"
+  },
+  {
+   "id": "c23",
+   "text": "לפי ג'רוזלם פוסט (2018), וינר הקים את ידידים בזמן האינתיפאדה השנייה כדי לעזור למי שנתקע ביהודה ושומרון.",
+   "source": "src8",
+   "quote": "Founded by Meir Winer during the Second Intifada in order to help people whose cars got stuck in the West Bank",
+   "status": "confirmed",
+   "locator": "שורה 20"
+  },
+  {
+   "id": "c8",
+   "text": "לפי ג'רוזלם פוסט (2018), ידידים הם קבוצה של 8,500 מתנדבים ברחבי הארץ.",
+   "source": "src8",
+   "quote": "He was part of Yedidim, a group of 8,500 volunteers around the country who are only a phone call away",
+   "status": "confirmed",
+   "locator": "שורה 19"
+  },
+  {
+   "id": "c9",
+   "text": "לפי מגזין ESRA, יש 18,073 מתנדבים ברחבי הארץ, גברים ונשים.",
+   "source": "src5",
+   "quote": "There are 18,073 volunteers across the country, both men and women",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c5",
+   "text": "לפי ג'רוזלם פוסט (2020), יש 20 אלף מתנדבי ידידים ברחבי הארץ.",
+   "source": "src1",
+   "quote": "Hermon to Eilat, there are 20,000 Yedidim (“Friends”) volunteers at the ready",
+   "status": "confirmed",
+   "locator": "שורה 27"
+  },
+  {
+   "id": "c7",
+   "text": "לפי ג'רוזלם פוסט, בידידים יש יותר מ-36 אלף מתנדבים.",
+   "source": "src10",
+   "quote": "and has more than 36,000 volunteers. It provides assistance 24/7 to help people stuck on roads and in buildings",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c11",
+   "text": "לפי ISRAEL21c (2021), ידידים גייס כ-36 אלף מתנדבים בכל הארץ, מוכנים לכל מקרה חירום לא רפואי.",
+   "source": "src2",
+   "quote": "Yedidim has recruited some 36,000 volunteers up and down the country, ready to aid in any non-medical emergency, big or small.",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "מספר המתנדבים גדל עם השנים, ומקורות שונים מדווחים על מספרים שונים: ערוץ 7 ב-2018 על 6,500, ynetnews על למעלה מ-56 אלף ו-ISRAEL21c ב-2024 על 65 אלף.",
+   "source": "src7",
+   "quote": "6,500 מתנדבים יש היום לארגון",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  }
+ ],
+ "sources": [
+  {
+   "id": "src1",
+   "label": "Jerusalem Post",
+   "url": "https://jpost.com/israel-news/meet-the-israeli-volunteers-giving-those-in-need-a-helping-hand-619009",
+   "kind": "press"
+  },
+  {
+   "id": "src2",
+   "label": "United with Israel",
+   "url": "https://unitedwithisrael.org/?p=398201",
+   "kind": "press"
+  },
+  {
+   "id": "src3",
+   "label": "Ynetnews, magazine article",
+   "url": "https://www.ynetnews.com/magazine/article/s1gw11xfnh",
+   "kind": "press"
+  },
+  {
+   "id": "src4",
+   "label": "ISRAEL21c",
+   "url": "https://archive.israel21c.org/yedidim-soldiers-mom-grateful-to-israeli-roadside-angels/",
+   "kind": "press"
+  },
+  {
+   "id": "src5",
+   "label": "ESRA Magazine",
+   "url": "https://www.magazine.esra.org.il/posts/entry/friends-of-the-road.html",
+   "kind": "press"
+  },
+  {
+   "id": "src6",
+   "label": "Maariv, 2020",
+   "url": "https://www.maariv.co.il/news/israel/article-807198",
+   "kind": "press"
+  },
+  {
+   "id": "src7",
+   "label": "Arutz 7",
+   "url": "https://www.inn.co.il/news/366404",
+   "kind": "press"
+  },
+  {
+   "id": "src8",
+   "label": "Jerusalem Post",
+   "url": "https://m.jpost.com/israel-news/report-from-gaza-the-volunteer-who-rescued-me-558557",
+   "kind": "press"
+  },
+  {
+   "id": "src9",
+   "label": "ice.co.il",
+   "url": "https://www.ice.co.il/auto/news/article/983587",
+   "kind": "press"
+  },
+  {
+   "id": "src10",
+   "label": "Jerusalem Post",
+   "url": "https://www.jpost.com/israel-news/bird-to-provide-free-scooter-rides-to-yedidim-volunteers-676775",
+   "kind": "press"
+  },
+  {
+   "id": "src11",
+   "label": "ISRAEL21c, Yedidim topic archive",
+   "url": "https://archive.israel21c.org/topic/yedidim/",
+   "kind": "press"
+  },
+  {
+   "id": "src12",
+   "label": "Times of Israel, blog, Alan Silverstein",
+   "url": "https://blogs.timesofisrael.com/am-echad-lev-echad-israeli-jewish-values-in-action/",
+   "kind": "press"
+  }
+ ],
+ "media": [
+  {
+   "id": "m1",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Isaac%20and%20Michal%20Herzog%20hosting%20the%20Yedidim%20-%20Roadside%20Assistance%2C%20April%202022%20%28GPOHA1%204073%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Isaac_and_Michal_Herzog_hosting_the_Yedidim_-_Roadside_Assistance%2C_April_2022_%28GPOHA1_4073%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Haim Zach",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "A man stands at a lectern and speaks in a hall with Israeli flags, and the audience sits facing him; according to the Commons description, President Herzog and his wife hosted Yedidim representatives to mark 30 years of the organization.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "Taken on 6",
+   "width": 3000,
+   "height": 1965
+  },
+  {
+   "id": "m2",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Isaac%20and%20Michal%20Herzog%20hosting%20the%20Yedidim%20-%20Roadside%20Assistance%2C%20April%202022%20%28GPOHA1%204074%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Isaac_and_Michal_Herzog_hosting_the_Yedidim_-_Roadside_Assistance%2C_April_2022_%28GPOHA1_4074%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Haim Zach",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "An audience sits in a hall with stained-glass windows and listens to a speaker at the lectern; according to the Commons description, this is the hosting of Yedidim representatives at the President's Residence to mark 30 years of the organization.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "Taken on 6",
+   "width": 3000,
+   "height": 2000
+  },
+  {
+   "id": "m3",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Isaac%20Herzog%20hosts%20the%20outstanding%20people%20of%20Yedidim%20-%20Roadside%20Assistance%20ceremony%2C%20February%202022%20%28GPOABG%203211%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Isaac_Herzog_hosts_the_outstanding_people_of_Yedidim_-_Roadside_Assistance_ceremony%2C_February_2022_%28GPOABG_3211%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Amos Ben Gershom",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "A group photo of people with masks and ID badges, among them a man in a blue suit in the center and a police officer at the edge, in front of a stone wall; according to Commons, this is a ceremony for outstanding Yedidim members at the President's Residence.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "Taken on 2",
+   "width": 3000,
+   "height": 2000
+  },
+  {
+   "id": "m4",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Isaac%20Herzog%20hosts%20the%20outstanding%20people%20of%20Yedidim%20-%20Roadside%20Assistance%20ceremony%2C%20February%202022%20%28GPOABG%203013%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Isaac_Herzog_hosts_the_outstanding_people_of_Yedidim_-_Roadside_Assistance_ceremony%2C_February_2022_%28GPOABG_3013%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Amos Ben Gershom",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "A man with glasses and a blue suit speaks at a lectern, with Israeli flags beside him; according to Commons, this is President Herzog at a ceremony for outstanding Yedidim members.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "Taken on 2",
+   "width": 3000,
+   "height": 2000
+  },
+  {
+   "id": "m5",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Isaac%20Herzog%20hosts%20the%20outstanding%20people%20of%20Yedidim%20-%20Roadside%20Assistance%20ceremony%2C%20February%202022%20%28GPOABG%203239%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Isaac_Herzog_hosts_the_outstanding_people_of_Yedidim_-_Roadside_Assistance_ceremony%2C_February_2022_%28GPOABG_3239%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Amos Ben Gershom",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "A group photo of people with masks and ID badges, with a man in a blue suit and a woman in black at the center, in front of a stone wall and flags; according to Commons, this is a ceremony for outstanding Yedidim members at the President's Residence.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "Taken on 2",
+   "width": 2860,
+   "height": 1872
+  },
+  {
+   "id": "m6",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Isaac%20Herzog%20hosts%20the%20outstanding%20people%20of%20Yedidim%20-%20Roadside%20Assistance%20ceremony%2C%20February%202022%20%28GPOABG%203202%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Isaac_Herzog_hosts_the_outstanding_people_of_Yedidim_-_Roadside_Assistance_ceremony%2C_February_2022_%28GPOABG_3202%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Amos Ben Gershom",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "A group of people with masks and badges poses in rows in front of a stone wall; according to Commons, this is a ceremony for outstanding Yedidim members at the President's Residence.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "Taken on 2",
+   "width": 2889,
+   "height": 1897
+  },
+  {
+   "id": "m7",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Isaac%20Herzog%20hosts%20the%20outstanding%20people%20of%20Yedidim%20-%20Roadside%20Assistance%20ceremony%2C%20February%202022%20%28GPOABG%203231%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Isaac_Herzog_hosts_the_outstanding_people_of_Yedidim_-_Roadside_Assistance_ceremony%2C_February_2022_%28GPOABG_3231%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Amos Ben Gershom",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "A large group with masks and ID badges on purple lanyards poses on steps in front of a stone wall; according to Commons, this is a ceremony for outstanding Yedidim members at the President's Residence.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "Taken on 2",
+   "width": 3000,
+   "height": 2000
+  },
+  {
+   "id": "m8",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/%D7%96%D7%95%D7%9B%D7%99%20%D7%A4%D7%A8%D7%A1%20%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%99%D7%9D%20%D7%9C%D7%90%D7%97%D7%93%D7%95%D7%AA%202024%20%284%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:%D7%96%D7%95%D7%9B%D7%99_%D7%A4%D7%A8%D7%A1_%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%99%D7%9D_%D7%9C%D7%90%D7%97%D7%93%D7%95%D7%AA_2024_%284%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Maayan Toaf",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "Six people stand together in a hall, and one of them holds a certificate and a plaque; according to Commons, this is the 2024 Jerusalem Unity Prize ceremony at the President's Residence.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "2024-06-09",
+   "width": 2048,
+   "height": 1365
+  },
+  {
+   "id": "m9",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/%D7%9E%D7%AA%D7%A0%D7%93%D7%91%20%D7%A9%D7%9C%20%D7%A2%D7%9E%D7%95%D7%AA%D7%AA%20%D7%99%D7%93%D7%99%D7%93%D7%99%D7%9D%20%D7%A1%D7%99%D7%95%D7%A2%20%D7%91%D7%93%D7%A8%D7%9B%D7%99%D7%9D%2C%20%D7%9E%D7%98%D7%A4%D7%9C%20%D7%91%D7%A8%D7%9B%D7%91%20%D7%9C%D7%90%D7%97%D7%A8%20%D7%A7%D7%A8%D7%99%D7%90%D7%94.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:%D7%9E%D7%AA%D7%A0%D7%93%D7%91_%D7%A9%D7%9C_%D7%A2%D7%9E%D7%95%D7%AA%D7%AA_%D7%99%D7%93%D7%99%D7%93%D7%99%D7%9D_%D7%A1%D7%99%D7%95%D7%A2_%D7%91%D7%93%D7%A8%D7%9B%D7%99%D7%9D%2C_%D7%9E%D7%98%D7%A4%D7%9C_%D7%91%D7%A8%D7%9B%D7%91_%D7%9C%D7%90%D7%97%D7%A8_%D7%A7%D7%A8%D7%99%D7%90%D7%94.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Hanay",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "A man bends over the open engine of a white car in the street and holds a battery beside it; according to Commons, this is a Yedidim volunteer working on a car after a call.",
+   "illustrates": [
+    "c29"
+   ],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2023-06-22",
+   "width": 4000,
+   "height": 3000
+  },
+  {
+   "id": "m10",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Stickers%20in%20Petah%20Tikva%2C%20May%202024%2012.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Stickers_in_Petah_Tikva%2C_May_2024_12.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Chenspec",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "A Yedidim 1230 sticker with the words \"Volunteer vehicle\" on a car's rear window.",
+   "illustrates": [
+    "c3"
+   ],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2024-05-04",
+   "width": 2248,
+   "height": 4000
+  },
+  {
+   "id": "m12",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=PSZ6JPTb2Hk",
+   "youtube_id": "PSZ6JPTb2Hk",
+   "source_page": "https://www.youtube.com/watch?v=PSZ6JPTb2Hk",
+   "source_name": "YouTube",
+   "credit": "Yedidim - Roadside Assistance 1230",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "A report in the series \"The Good Land\" on Channel 12, in which Sivan Rahav-Meir accompanies Yedidim CEO Israel Almasi.",
+   "illustrates": [
+    "c1",
+    "c27"
+   ]
+  },
+  {
+   "id": "m13",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=AnZK8aZ1KI4",
+   "youtube_id": "AnZK8aZ1KI4",
+   "source_page": "https://www.youtube.com/watch?v=AnZK8aZ1KI4",
+   "source_name": "YouTube",
+   "credit": "DiBURiM - Business Branding and Website Building",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "A report on Channel 12's weekend news edition about Yedidim volunteers and volunteering to help others.",
+   "illustrates": [
+    "c1",
+    "c3"
+   ]
+  },
+  {
+   "id": "m14",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=qxq7hlNe3Yc",
+   "youtube_id": "qxq7hlNe3Yc",
+   "source_page": "https://www.youtube.com/watch?v=qxq7hlNe3Yc",
+   "source_name": "YouTube",
+   "credit": "Yedidim - Roadside Assistance 1230",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "An interview on Channel 14 with Yedidim CEO Israel Almasi about the organization's activity.",
+   "illustrates": [
+    "c27"
+   ],
+   "spoken": "he",
+   "audio_tracks": [
+    "he",
+    "en"
+   ]
+  },
+  {
+   "id": "m15",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=e_XiSiePDsE",
+   "youtube_id": "e_XiSiePDsE",
+   "source_page": "https://www.youtube.com/watch?v=e_XiSiePDsE",
+   "source_name": "YouTube",
+   "credit": "Yedidim - Roadside Assistance 1230",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "An interview on Channel 12 with Yedidim CEO Israel Almasi about the organization's special preparations for a storm.",
+   "illustrates": [
+    "c27"
+   ],
+   "spoken": "he",
+   "audio_tracks": [
+    "he",
+    "en"
+   ]
+  },
+  {
+   "id": "m16",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=-3hN6RkhOi0",
+   "youtube_id": "-3hN6RkhOi0",
+   "source_page": "https://www.youtube.com/watch?v=-3hN6RkhOi0",
+   "source_name": "YouTube",
+   "credit": "Yedidim - Roadside Assistance 1230",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "A film by the organization about itself: Yedidim volunteers in Holon rescued a toddler who was accidentally locked in a car.",
+   "illustrates": [
+    "c29"
+   ]
+  },
+  {
+   "id": "m19",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/%D7%99%D7%93%D7%99%D7%93%D7%99%D7%9D%20%D7%91%D7%93%D7%A8%D7%9A%20-%20%D7%92%27%D7%99%D7%A4.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:%D7%99%D7%93%D7%99%D7%93%D7%99%D7%9D_%D7%91%D7%93%D7%A8%D7%9A_-_%D7%92%27%D7%99%D7%A4.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Yoram Shoval",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "Yedidim 1230 and \"Yedidim for the Merkava Unit\" 4X4 stickers on the rear window of an off-road vehicle, 2023",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2023-08-11",
+   "width": 2256,
+   "height": 4000,
+   "role": "deed"
+  },
+  {
+   "id": "m20",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Isaac%20Herzog%20awarding%20the%20%C2%ABThe%20Presidential%20Volunteer%20Medal%C2%BB%20for%20the%20year%202022%2C%20June%202022%20%28GPOKBG%201%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Isaac_Herzog_awarding_the_%C2%ABThe_Presidential_Volunteer_Medal%C2%BB_for_the_year_2022%2C_June_2022_%28GPOKBG_1%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Kobi Gideon",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "President Herzog presents the President's Award for Volunteerism for 2022 to a woman on a stage, among other people",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "Taken on 1",
+   "width": 1024,
+   "height": 682,
+   "role": "related"
+  },
+  {
+   "id": "m21",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Isaac%20Herzog%20in%20Beit%20HaNassi%2C%20June%202023%20%28GPOHZ0%206888%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Isaac_Herzog_in_Beit_HaNassi%2C_June_2023_%28GPOHZ0_6888%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Haim Zach",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "President Herzog presents the President's Award for Volunteerism at the President's Residence, 2023",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "Taken on 1",
+   "width": 3000,
+   "height": 1782,
+   "role": "related"
+  },
+  {
+   "id": "m22",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/%D7%99%D7%95%D7%A1%D7%99%20%D7%A2%D7%A8%D7%91%D7%9C%D7%99%D7%9A%20%D7%9E%D7%A7%D7%91%D7%9C%20%D7%90%D7%AA%20%D7%90%D7%95%D7%AA%20%D7%94%D7%A0%D7%A9%D7%99%D7%90%20%D7%9C%D7%9E%D7%AA%D7%A0%D7%93%D7%91.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:%D7%99%D7%95%D7%A1%D7%99_%D7%A2%D7%A8%D7%91%D7%9C%D7%99%D7%9A_%D7%9E%D7%A7%D7%91%D7%9C_%D7%90%D7%AA_%D7%90%D7%95%D7%AA_%D7%94%D7%A0%D7%A9%D7%99%D7%90_%D7%9C%D7%9E%D7%AA%D7%A0%D7%93%D7%91.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Kobi Gideon",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "President Herzog holds the President's Award for Volunteerism beside the recipient, 2022",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "Taken on 1",
+   "width": 306,
+   "height": 669,
+   "role": "related"
+  }
+ ],
+ "check": {
+  "passed": true,
+  "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
+  "checked_at": "2026-11-21T10:38:58Z",
+  "counts": {
+   "confirmed": 97,
+   "not_confirmed": 0,
+   "deleted_sentences": 4,
+   "first_round_confirmed": 96,
+   "first_round_contradicted": 3,
+   "first_round_unverifiable": 3
+  },
+  "note": "unverifiable sentences were deleted, contradicted ones fixed from the source and checked again"
+ },
+ "meta": {
+  "run": "yedidim-roadside-assistance-volunteers",
+  "pipeline": "scripts/museum/museum_line.py",
+  "models": {
+   "research": "sonnet-5-5",
+   "extract": "sonnet-5-5",
+   "media": "sonnet-5-5",
+   "write": "opus-5-5 medium",
+   "check": "opus-5-5 medium",
+   "fix": "opus-5-5 medium"
+  },
+  "source_quality": {
+   "sources": 12,
+   "wikipedia": 0,
+   "strong": 12,
+   "ok": true,
+   "warnings": []
+  },
+  "media_dedupe": [
+   {
+    "drop": "m11",
+    "keep": "m10",
+    "by": "reviewed 24.11"
+   },
+   {
+    "drop": "m17",
+    "keep": "m4",
+    "by": "reviewed 24.11"
+   },
+   {
+    "drop": "m18",
+    "keep": "m10",
+    "by": "reviewed 24.11"
+   }
+  ]
+ },
+ "lang": "en",
+ "translation": {
+  "from": "he",
+  "translator": "claude-opus-5-5",
+  "checker": "claude-opus-5-5 (separate call, blind to the translation prompt)",
+  "checked_at": "2026-11-21T12:04:02Z",
+  "passed": true,
+  "items": 165,
+  "pairs_checked": 9,
+  "reused": 156,
+  "first_round_flagged": 6,
+  "still_flagged": 0,
+  "flagged": [],
+  "quote_translations": {
+   "c25": "Was established in 2006 and is a unique organization that provides first aid, which is not medical, on the roads and in homes, 24 hours a day",
+   "c10": "The organization has 6,500 volunteers today, and they are divided into districts and regions.",
+   "c17": "This incident was etched in him and he decided that if it happened to him, it would not happen to others",
+   "c24": "If a call came in from nearby Highway 443, they would make an effort to hurry and help",
+   "c21": "When WhatsApp was born, the group sank. Almasi brought the organization back to life.",
+   "c29": "Starting vehicles, filling water/ oil/ fuel on highways and dangerous roads and even opening locked vehicles using professional equipment and without any damage",
+   "c65": "The rescue button of the Yedidim nonprofit was embedded in the yellow app, allowing a call to be opened at the call center",
+   "c66": "yellow donated to the nonprofit more than 1,000 rescue kits for volunteers, which will assist in calls from citizens in distress",
+   "c69": "But until recently they also did not agree to accept donations",
+   "c59": "And on the instruction of rabbis, the Yedidim call center was opened already during Shabbat and the Simchat Torah holiday",
+   "c60": "They spent many hours on evacuation, day and night, while preserving the dignity of those killed and murdered",
+   "c62": "Transporting reservist soldiers to bases and to assembly areas, moving equipment and food to the fighters and to the residents of the south",
+   "c77": "The volunteer base began from the Haredi sector, but today everyone is in it, even some women",
+   "c79": "That the hard of hearing and the deaf cannot use the service they offer",
+   "c70": "They will always come to give them fuel, cables or help changing a wheel",
+   "c73": "20 minutes passed, even a little more, but no patrol car arrived",
+   "c71": "The members here give with all their heart, but are not willing to be exploited",
+   "c16": "Only after two hours, when he was wet, freezing from the cold and frustrated, did the savior arrive."
+  }
+ }
 }

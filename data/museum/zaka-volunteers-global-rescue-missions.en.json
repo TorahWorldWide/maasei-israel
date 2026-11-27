@@ -65,9 +65,10 @@
    "paragraphs": [
     [
      {
-      "text": "According to the article, Egged bus line 405 was traveling from Jerusalem to Tel Aviv and was seized by a Palestinian terrorist.",
+      "text": "Egged bus line 405 was traveling from Tel Aviv to Jerusalem and was seized by a Palestinian terrorist.",
       "claims": [
-       "c4"
+       "c4",
+       "c-aud-20261127-1"
       ]
      },
      {
@@ -99,9 +100,10 @@
     ],
     [
      {
-      "text": "The eJewishPhilanthropy article: July 6, 1989",
+      "text": "Date of the Bus 405 attack, according to the eJewishPhilanthropy article: July 6, 1989",
       "claims": [
-       "c4"
+       "c4",
+       "c-aud-20261127-4"
       ]
      }
     ]
@@ -136,9 +138,10 @@
     ],
     [
      {
-      "text": "The unit serves the non-Jewish communities in Israel.",
+      "text": "According to a 2010 report, ZAKA has a minorities unit of Bedouin, Muslim and Druze volunteers, set up to serve Israel's non-Jewish communities.",
       "claims": [
-       "c79"
+       "c79",
+       "c-aud-20261127-5"
       ]
      }
     ],
@@ -212,9 +215,10 @@
     ],
     [
      {
-      "text": "After the 2004 Indian Ocean tsunami, ZAKA combed Thailand searching for 30 Israelis, out of nearly 300,000 dead.",
+      "text": "After the 2004 Indian Ocean tsunami, ZAKA combed Thailand searching, according to the article, for 30 Israelis. According to the USGS, 227,898 people were killed or were missing and presumed dead in the tsunami.",
       "claims": [
-       "c49"
+       "c49",
+       "c-aud-20261127-2"
       ]
      }
     ],
@@ -232,9 +236,10 @@
       ]
      },
      {
-      "text": "According to the body of the article, after a magnitude 6.7 earthquake in Japan, described in it as an event from earlier that year, a ZAKA team searched for bodies and helped the injured alongside an Iranian team, while a photo caption in the same article attributes the work with the Iranian team to the 2011 earthquake in Japan.",
+      "text": "After the 2011 earthquake and tsunami in Japan, a ZAKA team worked in the city of Kamaishi alongside the official Iranian delegation.",
       "claims": [
-       "c51"
+       "c51",
+       "c-aud-20261127-3"
       ]
      },
      {
@@ -1046,6 +1051,51 @@
    "quote": "Founded as a small group of volunteers, ZAKA now has over 4,000 trained volunteers operating at all times across Israel",
    "status": "confirmed",
    "locator": "שורה 14"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "אוטובוס אגד בקו 405 נסע מתל אביב לירושלים ונחטף בידי מחבל פלסטיני.",
+   "source": "src9001",
+   "quote": "on its way to Jerusalem from Tel Aviv",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "אחרי הצונאמי באוקיינוס ההודי ב-2004 סרקה זק\"א את תאילנד וחיפשה, לפי הכתבה, 30 ישראלים. לפי USGS נהרגו בצונאמי או נעדרו ונחשבים למתים 227,898 בני אדם.",
+   "source": "src9002",
+   "quote": "227,898 people were killed or were missing and presumed dead",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "אחרי רעידת האדמה והצונאמי ביפן ב-2011 עבד צוות זק\"א בעיר קמאישי לצד המשלחת האיראנית הרשמית.",
+   "source": "src9003",
+   "quote": "the official Iranian delegation",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-4",
+   "text": "תאריך הפיגוע באוטובוס 405, לפי הכתבה ב-eJewishPhilanthropy: 6 ביולי 1989",
+   "source": "src3",
+   "quote": "It was July 6, 1989 when Egged bus line No. 405",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-5",
+   "text": "לפי דיווח מ-2010, לזק\"א יש יחידת מיעוטים של מתנדבים בדואים, מוסלמים ודרוזים, שהוקמה כדי לשרת את הקהילות הלא-יהודיות בישראל.",
+   "source": "src13",
+   "quote": "Started about five years ago to serve Israel’s non-Jewish communities",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
   }
  ],
  "sources": [
@@ -1144,6 +1194,27 @@
    "label": "The Jerusalem Post: ZAKA, over 4,000 trained volunteers",
    "url": "https://jpost.com/israel-news/article-882135",
    "kind": "press"
+  },
+  {
+   "id": "src9001",
+   "label": "JTA archive, 14 Killed, 27 Wounded After Arab Forces Israeli Bus into a Ravine, July 1989",
+   "url": "https://www.jta.org/archive/14-killed-27-wounded-after-arab-forces-israeli-bus-into-a-ravine",
+   "kind": "press",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9002",
+   "label": "USGS, Today in Earthquake History, December 26",
+   "url": "https://earthquake.usgs.gov/learn/today/index.php?day=26&month=12",
+   "kind": "official",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9003",
+   "label": "Ynetnews, Iranians, Israelis join forces in Japan, April 4, 2011",
+   "url": "https://www.ynetnews.com/articles/0,7340,L-4051865,00.html",
+   "kind": "press",
+   "date": "2026-11-27"
   }
  ],
  "media": [

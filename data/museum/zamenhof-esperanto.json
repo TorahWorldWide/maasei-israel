@@ -184,9 +184,10 @@
       ]
      },
      {
-      "text": "הוא הוכשר כרופא במוסקבה, ובמשך שנים חלם על דרך שבה קבוצות שונות יוכלו לתקשר בקלות ובשלום.",
+      "text": "הוא למד רפואה במוסקבה ובוורשה, ובמשך שנים חלם על דרך שבה קבוצות שונות יוכלו לתקשר בקלות ובשלום.",
       "claims": [
-       "c1"
+       "c1",
+       "c-aud-20261127-1"
       ]
      },
      {
@@ -216,9 +217,10 @@
       ]
      },
      {
-      "text": "לפי מקור אחר, ב-1879 כתב את הדקדוק הראשון של היידיש.",
+      "text": "לפי מקור אחר, ב-1879 כתב את אחד הדקדוקים הראשונים של היידיש.",
       "claims": [
-       "c15"
+       "c15",
+       "c-aud-20261127-4"
       ]
      }
     ],
@@ -470,9 +472,11 @@
     ],
     [
      {
-      "text": "ביוני 1906 נהרגו כמאתיים יהודים בפוגרום בביאליסטוק, עיר הולדתו.",
+      "text": "לפי ה-Jewish Review of Books, ביוני 1906 נהרגו כמאתיים יהודים בפוגרום בביאליסטוק, עיר הולדתו.",
       "claims": [
-       "c56"
+       "c56",
+       "c-aud-20261127-2",
+       "c-aud-20261127-3"
       ]
      },
      {
@@ -503,7 +507,9 @@
     "m44",
     "m47"
    ],
-   "disagreements": []
+   "disagreements": [
+    "d9001"
+   ]
   },
   {
    "id": "s6",
@@ -579,12 +585,6 @@
    "kind": "story",
    "paragraphs": [
     [
-     {
-      "text": "ב-1910 הגישו ארבעה חברי פרלמנט בריטים ופרופסור אחד את מועמדותו של זמנהוף לפרס נובל לשלום, אך הפרס ניתן לאחר.",
-      "claims": [
-       "c84"
-      ]
-     },
      {
       "text": "אגודת האספרנטו העולמית הועמדה לפרס נובל לשלום יותר ממאה פעמים.",
       "claims": [
@@ -857,6 +857,24 @@
      "says": "לפי ה-Jewish Press, תומכי האספרנטו לא הצליחו לשכנע את חבר הלאומים לתמוך בה כשפה בין-לאומית רשמית",
      "claims": [
       "c79"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9001",
+   "question": "כמה יהודים נהרגו בפוגרום בביאליסטוק ביוני 1906?",
+   "versions": [
+    {
+     "says": "לפי ה-Jewish Review of Books: כמאתיים",
+     "claims": [
+      "c-aud-20261127-2"
+     ]
+    },
+    {
+     "says": "לפי האנציקלופדיה יודאיקה (בספרייה היהודית הווירטואלית): 70 הרוגים ו-90 פצועים קשה",
+     "claims": [
+      "c-aud-20261127-3"
      ]
     }
    ]
@@ -1271,14 +1289,6 @@
    "quote": "During the Third Reich, the Gestapo received specific orders to search for the descendants of Zamenhof.",
    "status": "confirmed",
    "locator": "שורה 23"
-  },
-  {
-   "id": "c84",
-   "text": "זמנהוף מועמד לפרס נובל לשלום ב-1910 על ידי ארבעה חברי פרלמנט בריטים ופרופסור אחד, אך הפרס ניתן אחרת.",
-   "source": "src3",
-   "quote": "In 1910, Zamenhof was nominated for the Nobel Peace Prize, by four British Members of Parliament",
-   "status": "confirmed",
-   "locator": "שורה 36"
   },
   {
    "id": "c87",
@@ -1703,6 +1713,42 @@
    "quote": "En folio aparte se incluía el primer diccionario, que era unidireccional (esperanto-ruso) y constaba de 917 raíces léxicas.",
    "status": "confirmed",
    "locator": "שורה 66"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "הוא למד רפואה במוסקבה ובוורשה, ובמשך שנים חלם על דרך שבה קבוצות שונות יוכלו לתקשר בקלות ובשלום.",
+   "source": "src8",
+   "quote": "pursued general medical studies at Warsaw and Moscow",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "לפי ה-Jewish Review of Books: כמאתיים",
+   "source": "src4",
+   "quote": "some two hundred Jews were killed in a pogrom",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "לפי האנציקלופדיה יודאיקה (בספרייה היהודית הווירטואלית): 70 הרוגים ו-90 פצועים קשה",
+   "source": "src9001",
+   "quote": "resulting in 70 Jews being killed and 90 gravely injured",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-4",
+   "text": "לפי מקור אחר, ב-1879 כתב את אחד הדקדוקים הראשונים של היידיש.",
+   "source": "src9002",
+   "quote": "he wrote one of the first grammars of the",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1819,6 +1865,20 @@
    "label": "Universala Esperanto-Asocio (uea.facila.org): La Unua Libro",
    "url": "https://bibliotekoj.org/esperantajbitoj/pongamos-que-hablo-de-madrid.html",
    "kind": "organisation"
+  },
+  {
+   "id": "src9001",
+   "label": "Jewish Virtual Library (Encyclopaedia Judaica), Bialystok",
+   "url": "https://www.jewishvirtuallibrary.org/bialystok",
+   "kind": "reference",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9002",
+   "label": "Jewish Currents, July 26: Esperanto",
+   "url": "https://jewishcurrents.org/july-26-esperanto",
+   "kind": "press",
+   "date": "2026-11-27"
   }
  ],
  "media": [
@@ -2386,7 +2446,7 @@
    "credit": "Henri Caudevelle (1861–1936)",
    "licence": "Public domain",
    "hosting": "hotlink",
-   "caption": "משפחות זמנהוף ומישו בקונגרס האספרנטו הראשון, בולוניה 1905",
+   "caption": "משפחות זמנהוף ומישו בקונגרס האספרנטו הראשון, בולון-סור-מר 1905",
    "illustrates": [],
    "date": "1905",
    "width": 2048,

@@ -65,9 +65,10 @@
    "paragraphs": [
     [
      {
-      "text": "לפי הכתבה, אוטובוס אגד בקו 405 נסע מירושלים לתל אביב ונחטף בידי מחבל פלסטיני.",
+      "text": "אוטובוס אגד בקו 405 נסע מתל אביב לירושלים ונחטף בידי מחבל פלסטיני.",
       "claims": [
-       "c4"
+       "c4",
+       "c-aud-20261127-1"
       ]
      },
      {
@@ -99,9 +100,10 @@
     ],
     [
      {
-      "text": "הכתבה ב-eJewishPhilanthropy: 6 ביולי 1989",
+      "text": "תאריך הפיגוע באוטובוס 405, לפי הכתבה ב-eJewishPhilanthropy: 6 ביולי 1989",
       "claims": [
-       "c4"
+       "c4",
+       "c-aud-20261127-4"
       ]
      }
     ]
@@ -136,9 +138,10 @@
     ],
     [
      {
-      "text": "היחידה משרתת את הקהילות הלא-יהודיות בישראל.",
+      "text": "לפי דיווח מ-2010, לזק\"א יש יחידת מיעוטים של מתנדבים בדואים, מוסלמים ודרוזים, שהוקמה כדי לשרת את הקהילות הלא-יהודיות בישראל.",
       "claims": [
-       "c79"
+       "c79",
+       "c-aud-20261127-5"
       ]
      }
     ],
@@ -212,9 +215,10 @@
     ],
     [
      {
-      "text": "אחרי הצונאמי באוקיינוס ההודי ב-2004 סרקה זק\"א את תאילנד וחיפשה 30 ישראלים, מתוך כמעט 300,000 הרוגים.",
+      "text": "אחרי הצונאמי באוקיינוס ההודי ב-2004 סרקה זק\"א את תאילנד וחיפשה, לפי הכתבה, 30 ישראלים. לפי USGS נהרגו בצונאמי או נעדרו ונחשבים למתים 227,898 בני אדם.",
       "claims": [
-       "c49"
+       "c49",
+       "c-aud-20261127-2"
       ]
      }
     ],
@@ -232,9 +236,10 @@
       ]
      },
      {
-      "text": "לפי גוף הכתבה, אחרי רעידת אדמה בעוצמה 6.7 ביפן, שתוארה בה כאירוע של מוקדם יותר באותה שנה, חיפש צוות זק\"א גופות וסייע לפצועים לצד צוות איראני, ואילו כיתוב תמונה באותה כתבה מייחס את העבודה עם הצוות האיראני לרעידת האדמה ביפן ב-2011.",
+      "text": "אחרי רעידת האדמה והצונאמי ביפן ב-2011 עבד צוות זק\"א בעיר קמאישי לצד המשלחת האיראנית הרשמית.",
       "claims": [
-       "c51"
+       "c51",
+       "c-aud-20261127-3"
       ]
      },
      {
@@ -1046,6 +1051,51 @@
    "quote": "Founded as a small group of volunteers, ZAKA now has over 4,000 trained volunteers operating at all times across Israel",
    "status": "confirmed",
    "locator": "שורה 14"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "אוטובוס אגד בקו 405 נסע מתל אביב לירושלים ונחטף בידי מחבל פלסטיני.",
+   "source": "src9001",
+   "quote": "on its way to Jerusalem from Tel Aviv",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "אחרי הצונאמי באוקיינוס ההודי ב-2004 סרקה זק\"א את תאילנד וחיפשה, לפי הכתבה, 30 ישראלים. לפי USGS נהרגו בצונאמי או נעדרו ונחשבים למתים 227,898 בני אדם.",
+   "source": "src9002",
+   "quote": "227,898 people were killed or were missing and presumed dead",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "אחרי רעידת האדמה והצונאמי ביפן ב-2011 עבד צוות זק\"א בעיר קמאישי לצד המשלחת האיראנית הרשמית.",
+   "source": "src9003",
+   "quote": "the official Iranian delegation",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-4",
+   "text": "תאריך הפיגוע באוטובוס 405, לפי הכתבה ב-eJewishPhilanthropy: 6 ביולי 1989",
+   "source": "src3",
+   "quote": "It was July 6, 1989 when Egged bus line No. 405",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-5",
+   "text": "לפי דיווח מ-2010, לזק\"א יש יחידת מיעוטים של מתנדבים בדואים, מוסלמים ודרוזים, שהוקמה כדי לשרת את הקהילות הלא-יהודיות בישראל.",
+   "source": "src13",
+   "quote": "Started about five years ago to serve Israel’s non-Jewish communities",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
   }
  ],
  "sources": [
@@ -1144,6 +1194,27 @@
    "label": "The Jerusalem Post: ZAKA, over 4,000 trained volunteers",
    "url": "https://jpost.com/israel-news/article-882135",
    "kind": "press"
+  },
+  {
+   "id": "src9001",
+   "label": "JTA archive, 14 Killed, 27 Wounded After Arab Forces Israeli Bus into a Ravine, July 1989",
+   "url": "https://www.jta.org/archive/14-killed-27-wounded-after-arab-forces-israeli-bus-into-a-ravine",
+   "kind": "press",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9002",
+   "label": "USGS, Today in Earthquake History, December 26",
+   "url": "https://earthquake.usgs.gov/learn/today/index.php?day=26&month=12",
+   "kind": "official",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9003",
+   "label": "Ynetnews, Iranians, Israelis join forces in Japan, April 4, 2011",
+   "url": "https://www.ynetnews.com/articles/0,7340,L-4051865,00.html",
+   "kind": "press",
+   "date": "2026-11-27"
   }
  ],
  "media": [

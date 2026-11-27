@@ -339,7 +339,8 @@
     "m36"
    ],
    "disagreements": [
-    "d9001"
+    "d9001",
+    "d9002"
    ]
   },
   {
@@ -355,9 +356,10 @@
       ]
      },
      {
-      "text": "According to Guinness, an assault force of 200 troops stormed the building where the hostages were being held.",
+      "text": "According to Air & Space Forces Magazine, Yoni Netanyahu's assault force, which stormed the building where the hostages were being held, numbered 29 fighters.",
       "claims": [
-       "c30"
+       "c30",
+       "c-aud-20261128-1"
       ]
      },
      {
@@ -829,6 +831,24 @@
      "says": "Ynetnews: four Hercules planes",
      "claims": [
       "c-aud-20261128-6"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9002",
+   "question": "How many Israeli transport planes landed at Entebbe?",
+   "versions": [
+    {
+     "says": "Uganda's Foreign Minister at the Security Council: three transport planes",
+     "claims": [
+      "c-aud-20261128-2"
+     ]
+    },
+    {
+     "says": "Ynetnews: four Hercules planes",
+     "claims": [
+      "c-aud-20261128-3"
      ]
     }
    ]
@@ -1467,6 +1487,33 @@
    "locator": "audit 2026-11-28",
    "status": "confirmed",
    "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-1",
+   "text": "לפי Air & Space Forces Magazine, כוח הפריצה של יוני נתניהו, שפשט על הבניין שבו הוחזקו בני הערובה, מנה 29 לוחמים.",
+   "source": "src9004",
+   "quote": "Yoni and his assault force of 29 would be on the first C-130.",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-2",
+   "text": "שר החוץ של אוגנדה במועצת הביטחון: שלושה מטוסי תובלה",
+   "source": "src7",
+   "quote": "three Zionist Israeli transport planes landed by surprise",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261128-3",
+   "text": "Ynetnews: ארבעה מטוסי הרקולס",
+   "source": "src5",
+   "quote": "four Hercules planes took off from the Sharm El-Sheikh Airport",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1528,6 +1575,13 @@
    "id": "src9003",
    "label": "Walla News, military affairs article",
    "url": "https://www.walla.co.il/news/military/3669673",
+   "kind": "press",
+   "date": "2026-11-28"
+  },
+  {
+   "id": "src9004",
+   "label": "Air & Space Forces Magazine, Entebbe, December 2010",
+   "url": "https://www.airandspaceforces.com/article/1210entebbe/",
    "kind": "press",
    "date": "2026-11-28"
   }

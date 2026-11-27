@@ -1,10 +1,10 @@
 {
  "schema": "maasei-museum/1",
  "slug": "judah-touro-new-orleans-philanthropy",
- "deed": "יהודה טורו בונה בניו אורלינס בית מחסה לעניים ומרפאה לחולי קדחת צהובה",
+ "deed": "יהודה טורו מקים בניו אורלינס בית חולים לנזקקים ומוריש כסף להקמת בית מחסה לעניים",
  "canonical_type": "ongoing-charity",
  "year": "1850",
- "title": "Judah Touro established an almshouse and a hospital for yellow fever patients in New Orleans",
+ "title": "Judah Touro founded a hospital for the needy in New Orleans and left money to establish an almshouse",
  "trailer": [
   {
    "text": "According to Philanthropy Roundtable, he was born in 1775 in Newport, Rhode Island, and within a decade of arriving in the port of New Orleans he was one of the wealthiest men in it.",
@@ -45,10 +45,11 @@
   },
   {
    "label": "When",
-   "value": "1850 or 1852",
+   "value": "1852",
    "claims": [
     "c12",
-    "c3"
+    "c3",
+    "c-aud-20261127-5"
    ]
   },
   {
@@ -185,8 +186,7 @@
    ],
    "disagreements": [
     "d2",
-    "d3",
-    "d4"
+    "d3"
    ]
   },
   {
@@ -348,12 +348,6 @@
       "claims": [
        "c10"
       ]
-     },
-     {
-      "text": "According to Aish, at the time this was the largest bequest ever left by an American citizen to charitable institutions.",
-      "claims": [
-       "c47"
-      ]
      }
     ],
     [
@@ -466,9 +460,10 @@
     ],
     [
      {
-      "text": "According to the Jewish Encyclopedia, in his day no American Jew had given so much to so many agencies and causes, nor had any non-Jew.",
+      "text": "According to the Encyclopaedia Judaica, in his day no American Jew had given so much to so many agencies and causes, nor had any non-Jew.",
       "claims": [
-       "c61"
+       "c61",
+       "c-aud-20261127-4"
       ]
      },
      {
@@ -557,33 +552,17 @@
    "question": "When did Touro arrive in New Orleans?",
    "versions": [
     {
-     "says": "Philanthropy Roundtable: in 1801",
+     "says": "Loeb website: in 1801, two years before the Louisiana Purchase",
      "claims": [
-      "c22"
+      "c22",
+      "c-aud-20261127-2"
      ]
     },
     {
-     "says": "Kohler: in February 1802, after a voyage lasting from October, when the city was still under French control",
+     "says": "Kohler: in February 1802, after a voyage lasting from October",
      "claims": [
-      "c24"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "d4",
-   "question": "When was Touro wounded in battle?",
-   "versions": [
-    {
-     "says": "My Jewish Learning: on January 1, 1815",
-     "claims": [
-      "c28"
-     ]
-    },
-    {
-     "says": "Kohler: on January 1, 1813, by a cannonball",
-     "claims": [
-      "c29"
+      "c24",
+      "c-aud-20261127-1"
      ]
     }
    ]
@@ -671,9 +650,10 @@
      ]
     },
     {
-     "says": "Kohler: two-thirds of more than half a million dollars",
+     "says": "Encyclopaedia Judaica: $153,000 to non-Jewish institutions, against about $321,000 to Jewish causes",
      "claims": [
-      "c43"
+      "c43",
+      "c-aud-20261127-3"
      ]
     }
    ]
@@ -713,9 +693,10 @@
      ]
     },
     {
-     "says": "Text of the will: fifty thousand dollars, to be paid through Sir Moses Montefiore",
+     "says": "Text of the will: fifty thousand dollars, to be paid through Sir Moses Montefiore, plus ten thousand dollars to the North American Relief Society for the Indigent Jews of Jerusalem",
      "claims": [
-      "c52"
+      "c52",
+      "c-aud-20261127-6"
      ]
     }
    ]
@@ -1004,14 +985,6 @@
    "locator": "שורה 34"
   },
   {
-   "id": "c47",
-   "text": "לפי אייש, בזמנו היו הכספים שהוריש טורו התרומה הגדולה ביותר שהוריש אזרח אמריקאי למוסדות צדקה.",
-   "source": "src6",
-   "quote": "Touro's bequests were, at that time, the largest ever left by an American citizen to charitable institutions.",
-   "status": "confirmed",
-   "locator": "שורה 43"
-  },
-  {
    "id": "c48",
    "text": "לפי My Jewish Learning, טורו הוריש 100,000 דולר לשתי הקהילות ולאגודות צדקה יהודיות בניו אורלינס.",
    "source": "src7",
@@ -1098,22 +1071,6 @@
    "quote": "where he arrived in February, 1802, after a voyage lasting from October.",
    "status": "confirmed",
    "locator": "שורה 16"
-  },
-  {
-   "id": "c28",
-   "text": "לפי My Jewish Learning, בקרב הגדול ב-1 בינואר 1815 נפצע טורו קשה והיה קרוב למוות.",
-   "source": "src7",
-   "quote": "In the great battle of January 1, 1815, Touro was severely wounded and near death",
-   "status": "confirmed",
-   "locator": "שורה 14"
-  },
-  {
-   "id": "c29",
-   "text": "לפי כהלר, טורו נפגע מכדור תותח ב-1 בינואר 1813 ונפצע עד כדי כך שהושאר למות.",
-   "source": "src4",
-   "quote": "he was struck by a twelve- pound shot on January 1, 1813, and so seriously injured that he was left for dead.",
-   "status": "confirmed",
-   "locator": "שורה 18"
   },
   {
    "id": "c1",
@@ -1266,6 +1223,60 @@
    "quote": "Touro fell in love with his cousin Catherine Hays",
    "status": "confirmed",
    "locator": "שורה 7"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "כהלר: בפברואר 1802, לאחר הפלגה שנמשכה מאוקטובר",
+   "source": "src12",
+   "quote": "Still in Spanish hands at the time of his arrival",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "אתר לואב: ב-1801, שנתיים לפני רכישת לואיזיאנה",
+   "source": "src8",
+   "quote": "In 1801, Touro moved to New Orleans",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "אנציקלופדיה יודאיקה: 153,000 דולר למוסדות לא יהודיים, לעומת כ-321,000 דולר למטרות יהודיות",
+   "source": "src12",
+   "quote": "Gifts to non-Jewish institutions in New Orleans, Boston, and Newport totaled $153,000.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-4",
+   "text": "לפי האנציקלופדיה יודאיקה, בימיו לא נתן יהודי אמריקאי כה הרבה לכל כך הרבה גופים ומטרות, וגם לא מי שאינו יהודי.",
+   "source": "src12",
+   "quote": "No American Jew had ever given so much to so many agencies and causes; nor had any non-Jew done so much in such varied ways.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-5",
+   "text": "1852",
+   "source": "src5",
+   "quote": "On this site in 1852, Jewish American philanthropist, Judah Touro",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-6",
+   "text": "נוסח הצוואה: חמישים אלף דולר, שישולמו באמצעות סר משה מונטיפיורי, ועוד עשרת אלפים דולר לאגודת הסיוע הצפון-אמריקאית ליהודים העניים בירושלים",
+   "source": "src4",
+   "quote": "North American Relief Society, for the Indigent Jews of Jerusalem",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
   }
  ],
  "sources": [

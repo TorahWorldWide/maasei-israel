@@ -1,2098 +1,2132 @@
 {
-  "schema": "maasei-museum/1",
-  "slug": "karl-landsteiner-blood-groups-nobel",
-  "deed": "קרל לנדשטיינר גילה את סוגי הדם האנושיים וזכה בפרס נובל לרפואה",
-  "canonical_type": "scientific-discovery",
-  "year": "1900",
-  "title": "Karl Landsteiner discovered the blood groups, and blood transfusions became safe",
-  "trailer": [
-    {
-      "text": "According to Britannica, Karl Landsteiner was an Austrian American immunologist and pathologist, and won the Nobel Prize in 1930 for discovering the major blood groups and for developing the ABO system.",
+ "schema": "maasei-museum/1",
+ "slug": "karl-landsteiner-blood-groups-nobel",
+ "deed": "קרל לנדשטיינר גילה את סוגי הדם האנושיים וזכה בפרס נובל לרפואה",
+ "canonical_type": "scientific-discovery",
+ "year": "1900",
+ "title": "Karl Landsteiner discovered the blood groups, and blood transfusions became safe",
+ "trailer": [
+  {
+   "text": "According to Britannica, Karl Landsteiner was an Austrian American immunologist and pathologist, and won the Nobel Prize in 1930 for discovering the major blood groups and for developing the ABO system.",
+   "claims": [
+    "c52"
+   ]
+  },
+  {
+   "text": "He studied medicine at the University of Vienna,",
+   "claims": [
+    "c4"
+   ]
+  },
+  {
+   "text": "and according to Encyclopedia.com and the Embryo Project, he and his mother converted from Judaism to Catholicism.",
+   "claims": [
+    "c5",
+    "c6"
+   ]
+  },
+  {
+   "text": "At that time, when people tried to transfer blood from one person to another, the result was often a disaster.",
+   "claims": [
+    "c8"
+   ]
+  },
+  {
+   "text": "Landsteiner identified the A, B and O antigens on red blood cells, and explained how incompatible blood types lead to immune reactions.",
+   "claims": [
+    "c71"
+   ]
+  },
+  {
+   "text": "The discovery led to safe blood transfusions between people whose blood groups are compatible.",
+   "claims": [
+    "c29"
+   ]
+  }
+ ],
+ "hero_media": [
+  "m4",
+  "m9",
+  "m8",
+  "m6",
+  "m2",
+  "m5",
+  "m7",
+  "m3",
+  "m19",
+  "m20",
+  "m22"
+ ],
+ "glance": [
+  {
+   "label": "Who",
+   "value": "Karl Landsteiner, Austrian American immunologist and pathologist (according to Britannica)",
+   "claims": [
+    "c52"
+   ]
+  },
+  {
+   "label": "When and where",
+   "value": "First observations in 1900, at the University of Vienna (according to Rockefeller University)",
+   "claims": [
+    "c12"
+   ]
+  },
+  {
+   "label": "What",
+   "value": "The blood groups A, B, AB and O",
+   "claims": [
+    "c19",
+    "c28"
+   ]
+  },
+  {
+   "label": "Nobel",
+   "value": "Nobel Prize in Medicine 1930, \"for his discovery of human blood groups\"",
+   "claims": [
+    "c30",
+    "c52"
+   ]
+  },
+  {
+   "label": "Another award",
+   "value": "Lasker Award 1946, for the discovery of the Rh factor",
+   "claims": [
+    "c48",
+    "c53"
+   ]
+  }
+ ],
+ "stations": [
+  {
+   "id": "s1",
+   "title": "A child from Vienna",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "Karl Landsteiner was born on 14 June 1868.",
       "claims": [
-        "c52"
+       "c1",
+       "c2"
       ]
-    },
-    {
-      "text": "He studied medicine at the University of Vienna,",
+     },
+     {
+      "text": "The Nobel Prize website says he was born in Vienna, and the Embryo Project says he was born in Baden, near Vienna.",
       "claims": [
-        "c4"
+       "c1",
+       "c2"
       ]
-    },
-    {
-      "text": "and according to Encyclopedia.com and the Embryo Project, he and his mother converted from Judaism to Catholicism.",
+     }
+    ],
+    [
+     {
+      "text": "His father died when Karl was six years old.",
       "claims": [
-        "c5",
-        "c6"
+       "c3"
       ]
-    },
-    {
-      "text": "At that time, when people tried to transfer blood from one person to another, the result was often a disaster.",
+     }
+    ],
+    [
+     {
+      "text": "After school, Karl studied medicine at the University of Vienna, and graduated in 1891.",
       "claims": [
-        "c8"
+       "c4"
       ]
-    },
-    {
-      "text": "Landsteiner identified the A, B and O antigens on red blood cells, and explained how incompatible blood types lead to immune reactions.",
+     },
+     {
+      "text": "Weichselbaum encouraged him to work on pathological physiology, although others at the Institute were critical.",
       "claims": [
-        "c71"
+       "c36"
       ]
-    },
-    {
-      "text": "The discovery led to safe blood transfusions between people whose blood groups are compatible.",
-      "claims": [
-        "c29"
-      ]
-    }
-  ],
-  "hero_media": [
-    "m4",
-    "m9",
-    "m8",
-    "m6",
-    "m2",
+     }
+    ]
+   ],
+   "media": [
     "m5",
     "m7",
-    "m3",
-    "m19",
-    "m20",
-    "m22"
-  ],
-  "glance": [
-    {
-      "label": "Who",
-      "value": "Karl Landsteiner, Austrian American immunologist and pathologist (according to Britannica)",
-      "claims": [
-        "c52"
-      ]
-    },
-    {
-      "label": "When and where",
-      "value": "First observations in 1900, at the University of Vienna (according to Rockefeller University)",
-      "claims": [
-        "c12"
-      ]
-    },
-    {
-      "label": "What",
-      "value": "The blood groups A, B, AB and O",
-      "claims": [
-        "c19",
-        "c28"
-      ]
-    },
-    {
-      "label": "Nobel",
-      "value": "Nobel Prize in Medicine 1930, \"for his discovery of human blood groups\"",
-      "claims": [
-        "c30",
-        "c52"
-      ]
-    },
-    {
-      "label": "Another award",
-      "value": "Lasker Award 1946, for the discovery of the Rh factor",
-      "claims": [
-        "c48",
-        "c53"
-      ]
-    }
-  ],
-  "stations": [
-    {
-      "id": "s1",
-      "title": "A child from Vienna",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "Karl Landsteiner was born on 14 June 1868.",
-            "claims": [
-              "c1",
-              "c2"
-            ]
-          },
-          {
-            "text": "The Nobel Prize website says he was born in Vienna, and the Embryo Project says he was born in Baden, near Vienna.",
-            "claims": [
-              "c1",
-              "c2"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "His father died when Karl was six years old.",
-            "claims": [
-              "c3"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "After school, Karl studied medicine at the University of Vienna, and graduated in 1891.",
-            "claims": [
-              "c4"
-            ]
-          },
-          {
-            "text": "Weichselbaum encouraged him to work on pathological physiology, although others at the Institute were critical.",
-            "claims": [
-              "c36"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m5",
-        "m7",
-        "m23",
-        "m27",
-        "m30",
-        "m33"
-      ],
-      "disagreements": [
-        "d1",
-        "d2"
-      ]
-    },
-    {
-      "id": "s2",
-      "title": "Before: blood that brings disaster",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "When a person loses a lot of blood in an accident or through illness, it must be replaced.",
-            "claims": [
-              "c7"
-            ]
-          },
-          {
-            "text": "But when people tried to give a person another person's blood, the result was often a disaster.",
-            "claims": [
-              "c8"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to Rockefeller University, blood transfusion had been in use since at least the Middle Ages, and in the 17th century the dangerous practice was banned in large parts of Western Europe.",
-            "claims": [
-              "c9"
-            ]
-          },
-          {
-            "text": "In 1875 Landois reported that when a person is given the blood of animals, the foreign blood cells clump together and break up in the blood vessels.",
-            "claims": [
-              "c10"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m11"
-      ],
-      "disagreements": []
-    },
-    {
-      "id": "s3",
-      "title": "A footnote that became a discovery",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "According to Rockefeller University, in 1900 Landsteiner was working as a forensic anatomist at the University of Vienna, and then made his first observations about agglutination, the clumping together of blood cells.",
-            "claims": [
-              "c12"
-            ]
-          },
-          {
-            "text": "He tucked the observation into a footnote in a paper from 1900, and expanded on it a year later.",
-            "claims": [
-              "c13"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to Rockefeller University, he repeatedly mixed the serum of one person with the blood cells of another person.",
-            "claims": [
-              "c15"
-            ]
-          },
-          {
-            "text": "Sometimes large clumps of red blood cells formed, and sometimes small clumps.",
-            "claims": [
-              "c15"
-            ]
-          },
-          {
-            "text": "In 1901–1903 Landsteiner pointed out that such a reaction may also occur when a person is given the blood of another person, and not only the blood of an animal.",
-            "claims": [
-              "c11"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to Rockefeller University, the prevailing view at the time attributed blood incompatibility to disease, and he suggested that one person's blood is simply different from another's.",
-            "claims": [
-              "c16"
-            ]
-          },
-          {
-            "text": "According to Britannica, he identified three antigens, which he called A, B and C, and the C was later changed to O.",
-            "claims": [
-              "c17"
-            ]
-          },
-          {
-            "text": "According to Rockefeller University, this was the first fundamental discovery in the history of serology.",
-            "claims": [
-              "c77"
-            ]
-          },
-          {
-            "text": "Over ten years Landsteiner performed nearly four thousand post-mortem examinations, and published more than seventy-five articles on his observations.",
-            "claims": [
-              "c14"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m8",
-        "m4",
-        "m10",
-        "m31",
-        "m35",
-        "m41"
-      ],
-      "disagreements": []
-    },
-    {
-      "id": "s4",
-      "title": "Four groups: A, B, AB and O",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "According to the Nobel Prize website, Landsteiner explained that people have different types of red blood cells, that is, different blood groups.",
-            "claims": [
-              "c18"
-            ]
-          },
-          {
-            "text": "The fourth group, AB, was found shortly afterwards.",
-            "claims": [
-              "c20",
-              "c21",
-              "c22"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to the Nobel Prize biography, his ideas at first received little attention.",
-            "claims": [
-              "c19"
-            ]
-          },
-          {
-            "text": "In 1930 the Health Committee of the League of Nations in Geneva formally adopted Landsteiner's names, A, B, AB and O, in his honor.",
-            "claims": [
-              "c28"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m12",
-        "m36",
-        "m37",
-        "m39"
-      ],
-      "disagreements": [
-        "d3",
-        "d4"
-      ]
-    },
-    {
-      "id": "s5",
-      "title": "Blood saves lives",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "In 1907, in the series of developments that followed Landsteiner's discovery of the blood groups, Reuben Ottenberg of Mount Sinai Hospital in New York performed what the source calls the first successful blood transfusions.",
-            "claims": [
-              "c23"
-            ]
-          },
-          {
-            "text": "According to Rockefeller University, blood-typing tests were first used in 1910, and blood banks were established in the 1930s.",
-            "claims": [
-              "c74"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "World War One put the work to the test, because transfusions were performed on a large scale for the first time.",
-            "claims": [
-              "c24"
-            ]
-          },
-          {
-            "text": "According to the Embryo Project, Landsteiner himself gave blood transfusions to many wounded soldiers, and during the war transfusions saved tens of thousands of lives.",
-            "claims": [
-              "c75",
-              "c72"
-            ]
-          },
-          {
-            "text": "Surgeries inside the body, which had not been possible before because of blood loss, became possible and saved many lives.",
-            "claims": [
-              "c25"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to the Embryo Project, the ABO grouping later made the first successful organ transplants possible, because it reduced the chance of rejection of an incompatible transplant.",
-            "claims": [
-              "c73"
-            ]
-          },
-          {
-            "text": "According to Rockefeller University, even 100 years later the ABO system is the primary tool for checking blood compatibility.",
-            "claims": [
-              "c50"
-            ]
-          },
-          {
-            "text": "According to the same source, there are today more than 200 minor blood groups, but they are relatively rare.",
-            "claims": [
-              "c51"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "Blood was also used outside the hospital.",
-            "claims": [
-              "c26",
-              "c76"
-            ]
-          },
-          {
-            "text": "In 1902 Landsteiner and Max Richter of the Institute of Forensic Medicine described a method of using blood from a crime scene in an investigation.",
-            "claims": [
-              "c26"
-            ]
-          },
-          {
-            "text": "According to the Embryo Project, about fifty percent of people have type O blood and less than five percent have AB, so a blood type match was not enough to identify a suspect with certainty.",
-            "claims": [
-              "c27"
-            ]
-          },
-          {
-            "text": "He also suggested using the blood groups, which are inherited, to decide cases in which paternity is in doubt.",
-            "claims": [
-              "c76"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m13",
-        "m21",
-        "m24",
-        "m38"
-      ],
-      "disagreements": []
-    },
-    {
-      "id": "s6",
-      "title": "From Vienna via The Hague to New York, and the Nobel Prize",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "In 1911 Landsteiner was appointed Professor of Pathological Anatomy at the University of Vienna, but without the salary that should have come with it.",
-            "claims": [
-              "c37"
-            ]
-          },
-          {
-            "text": "That same year he received the title of Chevalier of the French Legion of Honor.",
-            "claims": [
-              "c54"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "In 1919 conditions in Vienna made laboratory work very difficult.",
-            "claims": [
-              "c38"
-            ]
-          },
-          {
-            "text": "He saw no future for Austria, and took a post as prosector at a small Catholic hospital in The Hague.",
-            "claims": [
-              "c38"
-            ]
-          },
-          {
-            "text": "Later he was offered a post at the Rockefeller Institute for Medical Research in New York, and he moved there with his family.",
-            "claims": [
-              "c39"
-            ]
-          },
-          {
-            "text": "In 1929 he became a citizen of the United States.",
-            "claims": [
-              "c33"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to the Jewish Telegraphic Agency in 1930, Dr. Karl Landsteiner, an eminent scientist, was awarded the Nobel Prize for medicine.",
-            "claims": [
-              "c69"
-            ]
-          },
-          {
-            "text": "The prize motivation was \"for his discovery of human blood groups\".",
-            "claims": [
-              "c30"
-            ]
-          },
-          {
-            "text": "According to the same agency, the prize amounted to about $48,000.",
-            "claims": [
-              "c31"
-            ]
-          },
-          {
-            "text": "At that time Landsteiner was at the Rockefeller Institute in New York.",
-            "claims": [
-              "c32"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "When he won the prize, he avoided publicity.",
-            "claims": [
-              "c35"
-            ]
-          },
-          {
-            "text": "According to Encyclopedia.com, his Nobel lecture on differences in blood between individuals and between species was at odds with the view of the medical community of his day, and is accepted today.",
-            "claims": [
-              "c34"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to Rockefeller University, Landsteiner accepted a post at the Rockefeller Institute in 1922.",
-            "claims": [
-              "c78"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m9",
-        "m6",
-        "m2",
-        "m14"
-      ],
-      "disagreements": []
-    },
-    {
-      "id": "s7",
-      "title": "Polio, and Rh too",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "According to the Embryo Project, in 1908, as head of the pathology department at the Wilhelminen Hospital in Vienna, Landsteiner showed that polio is a viral disease.",
-            "claims": [
-              "c55"
-            ]
-          },
-          {
-            "text": "He showed that the cause of polio could be transmitted to monkeys in material prepared from the spinal cords of children who had died of the disease.",
-            "claims": [
-              "c60"
-            ]
-          },
-          {
-            "text": "Landsteiner and his assistant Erwin Popper injected two rhesus monkeys with the spinal fluid of a child who had died of polio, after filtering it through a filter that traps bacteria.",
-            "claims": [
-              "c56"
-            ]
-          },
-          {
-            "text": "According to Britannica, he and the Romanian bacteriologist Constantin Levaditi laid the groundwork for the vaccine.",
-            "claims": [
-              "c59"
-            ]
-          },
-          {
-            "text": "The vaccine itself came only many years later, from Jonas Salk.",
-            "claims": [
-              "c57",
-              "c58"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to Britannica, in 1927 Landsteiner discovered the M, N and P factors with Philip Levine.",
-            "claims": [
-              "c44"
-            ]
-          },
-          {
-            "text": "Then came the Rh factor.",
-            "claims": [
-              "c43",
-              "c44"
-            ]
-          },
-          {
-            "text": "Serum obtained by injecting the blood of rhesus monkeys into rabbits reacted against the blood of about 85 percent of white people, regardless of the ABO groups.",
-            "claims": [
-              "c45"
-            ]
-          },
-          {
-            "text": "He called this factor Rh, after the rhesus monkey.",
-            "claims": [
-              "c46"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to Rockefeller University, this discovery effectively removed the last major risk of blood transfusion.",
-            "claims": [
-              "c47"
-            ]
-          },
-          {
-            "text": "The 1946 Lasker Award, given after Landsteiner's death in 1943, was shared between him and Philip Levine, John Mahoney of the United States Marine Hospital and Alexander Wiener of the New York Medical Examiner's Office.",
-            "claims": [
-              "c48"
-            ]
-          },
-          {
-            "text": "The award was given for the discovery of the Rh factor and its significance as a cause of death and disease in mothers, fetuses and infants.",
-            "claims": [
-              "c53"
-            ]
-          },
-          {
-            "text": "He summarized his work in the book \"The Specificity of Serological Reactions\" (1936), which helped establish the field of immunochemistry.",
-            "claims": [
-              "c61"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m15",
-        "m40"
-      ],
-      "disagreements": [
-        "d6",
-        "d7"
-      ]
-    },
-    {
-      "id": "s8",
-      "title": "The man behind the laboratory",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "According to the Nobel Prize biography, Landsteiner was by nature somewhat pessimistic, and preferred to live away from people.",
-            "claims": [
-              "c67"
-            ]
-          },
-          {
-            "text": "In New York he did not like the crowds, and did not want to be famous.",
-            "claims": [
-              "c33"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to Encyclopedia.com, he was dedicated to his work and did not marry until age 48, when he met his wife Helene at a military hospital.",
-            "claims": [
-              "c62"
-            ]
-          },
-          {
-            "text": "He married Helen Wlasto in 1916, and their son is Dr. E. Landsteiner.",
-            "claims": [
-              "c63"
-            ]
-          },
-          {
-            "text": "According to the Embryo Project, when his wife developed thyroid cancer, he turned to the study of malignant tumors to find a treatment.",
-            "claims": [
-              "c68"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "Toward the end of his life he became increasingly worried that the Nazis would take over the world.",
-            "claims": [
-              "c66"
-            ]
-          },
-          {
-            "text": "On 24 June 1943 he had a heart attack in the laboratory, and died two days later in the hospital of the Institute.",
-            "claims": [
-              "c64"
-            ]
-          },
-          {
-            "text": "According to Encyclopedia.com, his death was not mentioned in Germany or Austria until 1947, after the defeat of the Nazis.",
-            "claims": [
-              "c65"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m3",
-        "m28",
-        "m34"
-      ],
-      "disagreements": []
-    }
-  ],
-  "disagreements": [
-    {
-      "id": "d1",
-      "question": "Where was Landsteiner born?",
-      "versions": [
-        {
-          "says": "Nobel Prize website: in Vienna",
-          "claims": [
-            "c1"
-          ]
-        },
-        {
-          "says": "Embryo Project: in Baden, near Vienna",
-          "claims": [
-            "c2"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d2",
-      "question": "In what year did he convert from Judaism to Catholicism?",
-      "versions": [
-        {
-          "says": "Encyclopedia.com: in 1889",
-          "claims": [
-            "c5"
-          ]
-        },
-        {
-          "says": "Embryo Project: in 1890",
-          "claims": [
-            "c6"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d3",
-      "question": "Who found the AB blood group?",
-      "versions": [
-        {
-          "says": "Rockefeller University: two of his colleagues, Alfred von Decastello and Adriano Sturli, in 1902",
-          "claims": [
-            "c20"
-          ]
-        },
-        {
-          "says": "Embryo Project: one of his students, in 1902",
-          "claims": [
-            "c21"
-          ]
-        },
-        {
-          "says": "Britannica: the fourth type was identified the following year, without saying by whom",
-          "claims": [
-            "c22"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d4",
-      "question": "When did Landsteiner explain the blood groups?",
-      "versions": [
-        {
-          "says": "Nobel Prize website: in 1901",
-          "claims": [
-            "c18"
-          ]
-        },
-        {
-          "says": "Nobel Prize biography: in 1909 he classified blood into the groups A, B, AB and O",
-          "claims": [
-            "c19"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d6",
-      "question": "When did Jonas Salk develop the polio vaccine?",
-      "versions": [
-        {
-          "says": "Embryo Project: in 1952",
-          "claims": [
-            "c57"
-          ]
-        },
-        {
-          "says": "Encyclopedia.com: in 1955",
-          "claims": [
-            "c58"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d7",
-      "question": "In what year was the Rh factor identified?",
-      "versions": [
-        {
-          "says": "Rockefeller University: in 1937",
-          "claims": [
-            "c43"
-          ]
-        },
-        {
-          "says": "Britannica: in 1940, with Alexander Wiener",
-          "claims": [
-            "c44"
-          ]
-        }
-      ]
-    }
-  ],
-  "unknowns": [],
-  "claims": [
-    {
-      "id": "c52",
-      "text": "לפי בריטניקה, לנדשטיינר היה אימונולוג ופתולוג אוסטרי־אמריקאי שזכה בנובל ב-1930 על גילוי קבוצות הדם העיקריות ופיתוח מערכת ה-ABO.",
-      "source": "src1",
-      "quote": "was an Austrian American immunologist and pathologist who received the 1930 Nobel Prize for Physiology or Medicine for his discovery of the major blood groups",
-      "status": "confirmed",
-      "locator": "שורה 49"
-    },
-    {
-      "id": "c4",
-      "text": "לאחר הלימודים בבית הספר למד לנדשטיינר רפואה באוניברסיטת וינה והשלים את לימודיו ב-1891.",
-      "source": "src2",
-      "quote": "After leaving school, Landsteiner studied medicine at the University of Vienna, graduating in 1891.",
-      "status": "confirmed",
-      "locator": "שורה 1"
-    },
-    {
-      "id": "c5",
-      "text": "לפי אנציקלופדיה.קום, בשנת 1889 הוא ואמו המירו את דתם מיהדות לקתוליות.",
-      "source": "src3",
-      "quote": "He remained close to his mother, and in 1889 they both converted from Judaism to Catholicism.",
-      "status": "confirmed",
-      "locator": "שורה 9"
-    },
-    {
-      "id": "c6",
-      "text": "לפי פרויקט העובר, בשנת 1890 לנדשטיינר ואמו המירו את דתם מיהדות לקתוליות, זמן קצר לפני שסיים את לימודי הרפואה ב-1891.",
-      "source": "src4",
-      "quote": "In 1890, Landsteiner and his mother converted from Judaism to Catholicism, just before Landsteiner graduated with his medical degree in 1891 at the age of twenty-three.",
-      "status": "confirmed",
-      "locator": "שורה 4"
-    },
-    {
-      "id": "c8",
-      "text": "כשניסו לבצע עירויים מאדם לאדם, התוצאה הייתה לעיתים קרובות אסון.",
-      "source": "src5",
-      "quote": "When transfusions from one person to another were tried, however, the result was very often disastrous.",
-      "status": "confirmed",
-      "locator": "שורה 9"
-    },
-    {
-      "id": "c71",
-      "text": "לנדשטיינר זיהה את אנטיגני A, B ו-O על תאי הדם האדומים והסביר כיצד סוגי דם שאינם תואמים מובילים לתגובות חיסוניות.",
-      "source": "src1",
-      "quote": "Landsteiner identified the A, B, and O antigens on red blood cells and explained how incompatible blood types lead to immune reactions",
-      "status": "confirmed",
-      "locator": "שורה 45"
-    },
-    {
-      "id": "c29",
-      "text": "התגלית הובילה לעירויי דם בטוחים בין אנשים בעלי קבוצות דם מתאימות.",
-      "source": "src5",
-      "quote": "The discovery led to safe blood transfusions between people with compatible blood groups.",
-      "status": "confirmed",
-      "locator": "שורה 9"
-    },
-    {
-      "id": "c12",
-      "text": "לפי אוניברסיטת רוקפלר, ב-1900, בעת עבודתו כאנטומאי משפטי באוניברסיטת וינה, ערך לנדשטיינר את תצפיותיו הראשונות על אגלוטינציה.",
-      "source": "src6",
-      "quote": "In 1900, while working as a forensic anatomist at the University of Vienna, he made his first observations about agglutination",
-      "status": "confirmed",
-      "locator": "שורה 3"
-    },
-    {
-      "id": "c19",
-      "text": "לפי הביוגרפיה של פרס נובל, הצעותיו של לנדשטיינר זכו לתשומת לב מועטה עד 1909, אז סיווג את דמם של בני האדם לקבוצות A, B, AB ו-O.",
-      "source": "src2",
-      "quote": "His suggestions, however, received little attention until, in 1909, he classified the bloods of human beings into the now well-known A, B, AB, and O groups",
-      "status": "confirmed",
-      "locator": "שורה 7"
-    },
-    {
-      "id": "c28",
-      "text": "ב-1930 ועדת הבריאות של חבר הלאומים בז'נבה אימצה רשמית את שיטת השמות של לנדשטיינר (A, B, AB ו-O) לכבודו.",
-      "source": "src4",
-      "quote": "In 1930, The Health Committee of the League of Nations in Geneva, Switzerland, formally adopted the Landsteiner nomenclature (A, B, AB, and O) in his honor",
-      "status": "confirmed",
-      "locator": "שורה 8"
-    },
-    {
-      "id": "c30",
-      "text": "נימוק הפרס של נובל היה \"על גילוי קבוצות הדם האנושיות\".",
-      "source": "src5",
-      "quote": "Prize motivation: “for his discovery of human blood groups”",
-      "status": "confirmed",
-      "locator": "שורה 6"
-    },
-    {
-      "id": "c48",
-      "text": "לנדשטיינר חלק את פרס לסקר 1946 עם לוין, ג'ון מהוני ואלכסנדר ויינר.",
-      "source": "src7",
-      "quote": "Dr. Landsteiner shared the 1946 Lasker Award with Dr. Levine as well as John Mahoney of the United States Marine Hospital and Alexander Wiener of the New York Medical Examiner’s Office.",
-      "status": "confirmed",
-      "locator": "שורה 7"
-    },
-    {
-      "id": "c53",
-      "text": "לנדשטיינר קיבל את פרס לסקר 1946 עם ויינר ולוין על גילוי גורם ה-Rh ומשמעותו כגורם לתמותה ותחלואה אימהית, טרום־לידתית ויילודית.",
-      "source": "src8",
-      "quote": "for the discovery of the Rh factor and its significance as a cause of maternal, prenatal and neonatal morbidity and mortality.",
-      "status": "confirmed",
-      "locator": "שורה 12"
-    },
-    {
-      "id": "c13",
-      "text": "לנדשטיינר הצניע את תצפיתו על אגלוטינציה בהערת שוליים במאמר מ-1900, והרחיב אותה בשנה שלאחר מכן.",
-      "source": "src4",
-      "quote": "Landsteiner relegated his observation of agglutination to a footnote in a paper he wrote in 1900, but he expanded upon this observation the following year",
-      "status": "confirmed",
-      "locator": "שורה 7"
-    },
-    {
-      "id": "c1",
-      "text": "קרל לנדשטיינר נולד בווינה ב-14 ביוני 1868, לפי אתר פרס נובל.",
-      "source": "src2",
-      "quote": "Karl Landsteiner was born in Vienna on June 14, 1868.",
-      "status": "confirmed",
-      "locator": "שורה 1"
-    },
-    {
-      "id": "c2",
-      "text": "לפי האנציקלופדיה של פרויקט העובר, לנדשטיינר נולד ב-14 ביוני 1868 בבאדן ליד וינה, פרבר של המעמד הבינוני־הגבוה מחוץ לעיר וינה.",
-      "source": "src4",
-      "quote": "Karl Landsteiner was born on 14 June 1868 in Baden bei Wien, an upper middle class suburb just outside the city of Vienna",
-      "status": "confirmed",
-      "locator": "שורה 3"
-    },
-    {
-      "id": "c3",
-      "text": "אביו, ליאופולד לנדשטיינר, דוקטור למשפטים, היה עיתונאי ומו\"ל עיתון ידוע, ומת כשקרל היה בן שש.",
-      "source": "src2",
-      "quote": "His father, Leopold Landsteiner, a doctor of law, was a well-known journalist and newspaper publisher, who died when Karl was six years old.",
-      "status": "confirmed",
-      "locator": "שורה 1"
-    },
-    {
-      "id": "c36",
-      "text": "וייכסלבאום עודד את לנדשטיינר לעבוד על פיזיולוגיה פתולוגית, למרות ביקורת של אחרים במכון.",
-      "source": "src2",
-      "quote": "In this he was encouraged by Weichselbaum, in spite of the criticism of others in this Institute.",
-      "status": "confirmed",
-      "locator": "שורה 2"
-    },
-    {
-      "id": "c7",
-      "text": "כשאדם מאבד הרבה דם בתאונה או במחלה, צריך להחליף אותו.",
-      "source": "src5",
-      "quote": "When a person loses lots of blood through accident or illness, it must be replaced.",
-      "status": "confirmed",
-      "locator": "שורה 9"
-    },
-    {
-      "id": "c9",
-      "text": "לפי אוניברסיטת רוקפלר, במאה ה-17 נאסרה בחלקים נרחבים של מערב אירופה פרקטיקת העירוי המסוכנת, שהייתה בשימוש לפחות מאז ימי הביניים.",
-      "source": "src6",
-      "quote": "the still-dangerous practice of blood transfusions — used since at least the Middle Ages — was banned in large parts of Western Europe",
-      "status": "confirmed",
-      "locator": "שורה 2"
-    },
-    {
-      "id": "c10",
-      "text": "ב-1875 דיווח לנדואה שכאשר מועבר לאדם דם של בעלי חיים אחרים, תאי הדם הזרים מתגבשים בגושים ונהרסים בכלי הדם של האדם.",
-      "source": "src2",
-      "quote": "In 1875 Landois had reported that, when man is given transfusions of the blood of other animals, these foreign blood corpuscles are clumped and broken up in the blood vessels of man",
-      "status": "confirmed",
-      "locator": "שורה 6"
-    },
-    {
-      "id": "c15",
-      "text": "לפי אוניברסיטת רוקפלר, בניסויים חוזרים שבהם ערבב סרום של אדם אחד עם תאי דם של אחר, הדם יצר לעיתים גושים גדולים של תאי דם אדומים ולעיתים גושים קטנים.",
-      "source": "src6",
-      "quote": "In some cases, he reported, the mixed blood formed large clumps of red blood cells; in other cases there were small clumps.",
-      "status": "confirmed",
-      "locator": "שורה 4"
-    },
-    {
-      "id": "c11",
-      "text": "בשנים 1901–1903 הצביע לנדשטיינר על כך שתגובה דומה עלולה להתרחש כשמעבירים לאדם דם של אדם אחר, ולא רק דם של בעל חיים.",
-      "source": "src2",
-      "quote": "In 1901-1903 Landsteiner pointed out that a similar reaction may occur when the blood of one human individual is transfused, not with the blood of another animal, but with that of another human being",
-      "status": "confirmed",
-      "locator": "שורה 6"
-    },
-    {
-      "id": "c16",
-      "text": "לפי אוניברסיטת רוקפלר, לנדשטיינר פעל נגד הדעה הרווחת ששייכה אי־התאמה של דם לפתולוגיה, והציע שדמו של אדם אחד פשוט עשוי להיות שונה מדמו של אחר.",
-      "source": "src6",
-      "quote": "Dr. Landsteiner then went against the common grain of thought that equated blood incompatibility with pathology by suggesting that one person’s blood might simply be different than another’s.",
-      "status": "confirmed",
-      "locator": "שורה 4"
-    },
-    {
-      "id": "c17",
-      "text": "לפי בריטניקה, לנדשטיינר זיהה שלושה אנטיגנים כאלה, שכינה A, B ו-C (ששונה אחר כך ל-O).",
-      "source": "src1",
-      "quote": "Landsteiner identified three such antigens, which he labeled A, B, and C (later changed to O).",
-      "status": "confirmed",
-      "locator": "שורה 50"
-    },
-    {
-      "id": "c77",
-      "text": "לפי אוניברסיטת רוקפלר, התגלית הבסיסית הראשונה בתולדות הסרולוגיה הגיעה ב-1901, עם זיהוי קבוצות הדם בידי לנדשטיינר.",
-      "source": "src6",
-      "quote": "The first fundamental discovery in the history of serology didn’t come until 1901, when Karl Landsteiner’s identification of blood groups spurred a flurry of additional research",
-      "status": "confirmed",
-      "locator": "שורה 2"
-    },
-    {
-      "id": "c14",
-      "text": "במהלך עשר שנים ביצע לנדשטיינר כמעט ארבעת אלפים נתיחות לאחר המוות ופרסם למעלה משבעים וחמישה מאמרים על תצפיותיו.",
-      "source": "src4",
-      "quote": "Over the next ten years he performed nearly four thousand post-mortem examinations and published over seventy-five articles on his observations.",
-      "status": "confirmed",
-      "locator": "שורה 7"
-    },
-    {
-      "id": "c18",
-      "text": "לפי אתר פרס נובל, לנדשטיינר הסביר ב-1901 שלאנשים יש סוגים שונים של תאי דם אדומים, כלומר קיימות קבוצות דם שונות.",
-      "source": "src5",
-      "quote": "He explained in 1901 that people have different types of red blood cells, that is, there are different blood groups.",
-      "status": "confirmed",
-      "locator": "שורה 9"
-    },
-    {
-      "id": "c20",
-      "text": "לפי אוניברסיטת רוקפלר, ב-1902 שניים מעמיתיו של לנדשטיינר, אלפרד פון דקסטלו ואדריאנו שטורלי, גילו את קבוצת הדם הרביעית, AB.",
-      "source": "src6",
-      "quote": "In 1902, two of Dr. Landsteiner’s colleagues, Alfred von Decastello and Adriano Sturli, discovered the fourth blood group, AB",
-      "status": "confirmed",
-      "locator": "שורה 6"
-    },
-    {
-      "id": "c21",
-      "text": "לפי פרויקט העובר, ב-1902 אחד מתלמידיו של לנדשטיינר מצא קבוצת דם רביעית, AB.",
-      "source": "src4",
-      "quote": "In 1902, one of Landsteiner's students found a fourth blood type, AB, which triggered a reaction if introduced into either A or B blood.",
-      "status": "confirmed",
-      "locator": "שורה 8"
-    },
-    {
-      "id": "c22",
-      "text": "לפי בריטניקה, סוג דם רביעי, שנקרא מאוחר יותר AB, זוהה בשנה שלאחר מכן.",
-      "source": "src1",
-      "quote": "A fourth blood type, later named AB, was identified the following year.",
-      "status": "confirmed",
-      "locator": "שורה 50"
-    },
-    {
-      "id": "c23",
-      "text": "ב-1907 ביצע ראובן אוטנברג מבית החולים מאונט סיני בניו יורק את עירויי הדם המוצלחים הראשונים.",
-      "source": "src6",
-      "quote": "In 1907 Reuben Ottenberg of Mount Sinai Hospital in New York performed the first successful transfusions.",
-      "status": "confirmed",
-      "locator": "שורה 7"
-    },
-    {
-      "id": "c74",
-      "text": "לפי אוניברסיטת רוקפלר, העירוי המוצלח הראשון בוצע ב-1907, בדיקות סוג דם נעשו לראשונה ב-1910, ובנקי דם הוקמו בשנות ה-30.",
-      "source": "src7",
-      "quote": "with the first successful blood transfusion performed in 1907, the first blood-typing tests used in 1910 and the first blood banks established in the 1930s",
-      "status": "confirmed",
-      "locator": "שורה 3"
-    },
-    {
-      "id": "c24",
-      "text": "מלחמת העולם הראשונה העמידה את העבודה הזו במבחן, שכן עירויים בוצעו לראשונה בהיקף רחב.",
-      "source": "src6",
-      "quote": "World War One put all of this work to the test, as transfusions were first performed on a large scale.",
-      "status": "confirmed",
-      "locator": "שורה 7"
-    },
-    {
-      "id": "c75",
-      "text": "לפי פרויקט העובר, במלחמת העולם הראשונה ביצע לנדשטיינר עירויי דם בחיילים פצועים רבים.",
-      "source": "src4",
-      "quote": "During World War I, Landsteiner performed blood transfusions on many injured soldiers.",
-      "status": "confirmed",
-      "locator": "שורה 11"
-    },
-    {
-      "id": "c72",
-      "text": "לפי פרויקט העובר, במלחמת העולם הראשונה עירויי דם הצילו עשרות אלפי חיים.",
-      "source": "src4",
-      "quote": "During World War I, blood transfusions saved tens of thousands of lives.",
-      "status": "confirmed",
-      "locator": "שורה 9"
-    },
-    {
-      "id": "c25",
-      "text": "ניתוחים בגוף הפנימי, שהיו בלתי אפשריים קודם בשל איבוד הדם, הפכו אפשריים, והניתוחים הצילו חיים רבים.",
-      "source": "src6",
-      "quote": "Surgeries on internal organs, previously infeasible because of the blood loss involved, also became practicable, and the operations saved countless lives.",
-      "status": "confirmed",
-      "locator": "שורה 7"
-    },
-    {
-      "id": "c73",
-      "text": "לפי פרויקט העובר, חלוקת הדם לקבוצות ABO אפשרה מאוחר יותר השתלות איברים ראשונות מוצלחות, בהפחתת הסיכוי לדחיית השתלה לא תואמת.",
-      "source": "src4",
-      "quote": "Later, the ABO blood grouping made it possible to successfully complete the first organ transplants by reducing the chance that a body rejected incompatible transplants.",
-      "status": "confirmed",
-      "locator": "שורה 9"
-    },
-    {
-      "id": "c50",
-      "text": "לפי אוניברסיטת רוקפלר, מערכת ה-ABO היא עדיין, כעבור 100 שנה, הכלי העיקרי לקביעת התאמת דם.",
-      "source": "src6",
-      "quote": "The ABO system is still, 100 years later, the primary instrument for determining blood compatibility.",
-      "status": "confirmed",
-      "locator": "שורה 8"
-    },
-    {
-      "id": "c51",
-      "text": "לפי אוניברסיטת רוקפלר, קיימות כיום יותר מ-200 קבוצות דם משניות, אך הן נדירות יחסית.",
-      "source": "src6",
-      "quote": "Today we understand that while there are more than 200 minor blood groups, they occur relatively rarely.",
-      "status": "confirmed",
-      "locator": "שורה 8"
-    },
-    {
-      "id": "c26",
-      "text": "ב-1902 תיארו לנדשטיינר ומקס ריכטר ממכון לרפואה משפטית שיטה להשתמש בראיות דם מזירת פשע כדי לסייע בחקירה.",
-      "source": "src4",
-      "quote": "In 1902, Landsteiner and Max Richter, who worked at Vienna University Institute of Forensic Medicine in Vienna, described a method of using blood evidence gathered from the scene of a crime",
-      "status": "confirmed",
-      "locator": "שורה 9"
-    },
-    {
-      "id": "c76",
-      "text": "ב-1901–1903 הציע לנדשטיינר שאפשר להשתמש בקבוצות הדם, שמאפייניהן עוברים בתורשה, כדי להכריע במקרי אבהות מוטלת בספק.",
-      "source": "src2",
-      "quote": "Earlier, in 1901-1903, Landsteiner had suggested that, because the characteristics which determine the blood groups are inherited, the blood groups may be used to decide instances of doubtful paternity.",
-      "status": "confirmed",
-      "locator": "שורה 7"
-    },
-    {
-      "id": "c27",
-      "text": "לפי פרויקט העובר, כחמישים אחוזים מהאוכלוסייה הם בעלי דם מסוג O ופחות מחמישה אחוזים בעלי סוג AB, ולכן התאמה בין סוגי דם לא אפשרה זיהוי חיובי של חשוד.",
-      "source": "src4",
-      "quote": "However, roughly fifty percent of the population has O-type blood and less than five percent has AB-type blood.",
-      "status": "confirmed",
-      "locator": "שורה 9"
-    },
-    {
-      "id": "c37",
-      "text": "ב-1911 מונה לנדשטיינר לפרופסור לאנטומיה פתולוגית באוניברסיטת וינה, אך ללא המשכורת המקבילה.",
-      "source": "src2",
-      "quote": "In 1911 he became Professor of Pathological Anatomy in the University of Vienna, but without the corresponding salary.",
-      "status": "confirmed",
-      "locator": "שורה 2"
-    },
-    {
-      "id": "c54",
-      "text": "ב-1911 קיבל לנדשטיינר את אות אביר לגיון הכבוד הצרפתי.",
-      "source": "src8",
-      "quote": "Chevalier of the French Legion of Honor, 1911",
-      "status": "confirmed",
-      "locator": "שורה 26"
-    },
-    {
-      "id": "c38",
-      "text": "ב-1919 התנאים בווינה הקשו מאוד על עבודת מעבדה, ולנדשטיינר, שלא ראה עתיד לאוסטריה, קיבל משרת פרוזקטור בבית חולים קתולי קטן בהאג.",
-      "source": "src2",
-      "quote": "For in 1919 conditions in Vienna were such that laboratory work was very difficult and, seeing no future for Austria, Landsteiner obtained the appointment of Prosector to a small Roman Catholic Hospital at The Hague.",
-      "status": "confirmed",
-      "locator": "שורה 7"
-    },
-    {
-      "id": "c39",
-      "text": "עבודתו בהולנד הסתיימה כשהוצעה לו משרה במכון רוקפלר למחקר רפואי בניו יורק, והוא עבר לשם עם משפחתו.",
-      "source": "src2",
-      "quote": "His work in Holland came to an end when he was offered a post in the Rockefeller Institute for Medical Research in New York and he moved there together with his family.",
-      "status": "confirmed",
-      "locator": "שורה 7"
-    },
-    {
-      "id": "c33",
-      "text": "ב-1929 הפך לנדשטיינר לאזרח ארצות הברית, אך לא אהב את ההמונים בניו יורק ולא רצה להיות מפורסם.",
-      "source": "src3",
-      "quote": "In 1929 Landsteiner became a United States citizen, but did not like the crowds of New York and did not care to be a celebrity.",
-      "status": "confirmed",
-      "locator": "שורה 18"
-    },
-    {
-      "id": "c69",
-      "text": "לפי סוכנות הידיעות היהודית ב-1930, ד\"ר קרל לנדשטיינר, מדען נודע, זכה בפרס נובל לרפואה.",
-      "source": "src9",
-      "quote": "Dr. Karl Landsteiner, eminent scientist, was awarded the Nobel prize for medicine.",
-      "status": "confirmed",
-      "locator": "שורה 2"
-    },
-    {
-      "id": "c31",
-      "text": "לפי סוכנות הידיעות היהודית (JTA) ב-1930, הפרס הסתכם בכ-48,000 דולר והוענק לו על גילויים בסיווג סוגי דם אנושיים.",
-      "source": "src9",
-      "quote": "The prize amounts to about $48,000 and was granted to him for his discoveries in classifying different types of human blood.",
-      "status": "confirmed",
-      "locator": "שורה 2"
-    },
-    {
-      "id": "c32",
-      "text": "בעת הענקת הפרס היה לנדשטיינר שייך למכון רוקפלר למחקר רפואי בניו יורק.",
-      "source": "src5",
-      "quote": "Affiliation at the time of the award: Rockefeller Institute for Medical Research, New York, NY, USA",
-      "status": "confirmed",
-      "locator": "שורה 5"
-    },
-    {
-      "id": "c35",
-      "text": "כשזכה בנובל ב-1930 התחמק מפרסום.",
-      "source": "src3",
-      "quote": "When he won the Nobel Prize in 1930, he shunned publicity.",
-      "status": "confirmed",
-      "locator": "שורה 18"
-    },
-    {
-      "id": "c34",
-      "text": "לפי אנציקלופדיה.קום, הרצאת הנובל של לנדשטיינר, שתיארה הבדלים בדם בין יחידים ובין מינים, עמדה בסתירה לקהילה הרפואית של זמנו, אך מקובלת כיום.",
-      "source": "src3",
-      "quote": "His Nobel lecture, describing differences in blood between individuals, as well as species, was at odds with the medical community of the day, although it is well accepted now.",
-      "status": "confirmed",
-      "locator": "שורה 18"
-    },
-    {
-      "id": "c55",
-      "text": "לפי פרויקט העובר, ב-1908 הראה לנדשטיינר, כראש מחלקת הפתולוגיה בבית החולים וילהלמינן בווינה, שפוליו היא מחלה נגיפית.",
-      "source": "src4",
-      "quote": "In 1908, as the head of the pathology department at the Imperial Wilhelminen Hospital in Vienna, Landsteiner showed that polio is a viral disease.",
-      "status": "confirmed",
-      "locator": "שורה 10"
-    },
-    {
-      "id": "c60",
-      "text": "הוא הראה שגורם הפוליו ניתן להעברה לקופים באמצעות חומר שהוכן מטחינת חוט השדרה של ילדים שמתו ממחלה זו.",
-      "source": "src2",
-      "quote": "He also showed that the cause of poliomyelitis could be transmitted to monkeys by injecting into them material prepared by grinding up the spinal cords of children who had died from this disease",
-      "status": "confirmed",
-      "locator": "שורה 4"
-    },
-    {
-      "id": "c56",
-      "text": "לנדשטיינר ופופר הזריקו את הנוזל השדרתי המסונן לשני קופי רזוס.",
-      "source": "src4",
-      "quote": "Landsteiner and Popper injected the filtered spinal fluid into two Old World rhesus monkeys",
-      "status": "confirmed",
-      "locator": "שורה 10"
-    },
-    {
-      "id": "c59",
-      "text": "לפי בריטניקה, לנדשטיינר והבקטריולוג הרומני קונסטנטין לוואדיטי גילו שמיקרואורגניזם אחראי לפוליו והניחו את היסוד לחיסון.",
-      "source": "src1",
-      "quote": "He and the Romanian bacteriologist Constantin Levaditi discovered that a microorganism is responsible for poliomyelitis and laid the groundwork for the development of the polio vaccine.",
-      "status": "confirmed",
-      "locator": "שורה 51"
-    },
-    {
-      "id": "c57",
-      "text": "לפי פרויקט העובר, חלפו 47 שנה עד שג'ונס סולק פיתח ב-1952 את חיסון הפוליו וניהל אותו בהצלחה.",
-      "source": "src4",
-      "quote": "it took forty-seven years until Jonas Salk at the University of Pittsburgh School of Medicine in Pittsburgh, Pennsylvania, developed and successfully administered the polio vaccine in 1952",
-      "status": "confirmed",
-      "locator": "שורה 10"
-    },
-    {
-      "id": "c58",
-      "text": "לפי אנציקלופדיה.קום, ב-1912 חזו לנדשטיינר ושותפו שאפשר לפתח חיסון, אך הדבר לא קרה עד 1955, כשג'ונס סולק פיתח את חיסון הפוליו המוצלח הראשון.",
-      "source": "src3",
-      "quote": "In 1912 they predicted that a vaccine against this virus could be developed, however, this did not occur until 1955, when Jonas Salk developed the first successful polio vaccine.",
-      "status": "confirmed",
-      "locator": "שורה 15"
-    },
-    {
-      "id": "c44",
-      "text": "לפי בריטניקה, לנדשטיינר גילה גם את גורמי M, N ו-P ב-1927 עם פיליפ לוין, ואת מערכת הרזוס (Rh) ב-1940 עם אלכסנדר ויינר.",
-      "source": "src1",
-      "quote": "Landsteiner also discovered other blood factors: the M, N, and P factors, which he identified in 1927 with Philip Levine, and the Rhesus (Rh) system, in 1940 with Alexander Wiener.",
-      "status": "confirmed",
-      "locator": "שורה 20"
-    },
-    {
-      "id": "c43",
-      "text": "לפי אוניברסיטת רוקפלר, זיהוי גורם ה-Rh ב-1937 פתר את הבעיה והביא ללנדשטיינר חלק בפרס לסקר לשנת 1946.",
-      "source": "src7",
-      "quote": "Dr. Landsteiner’s identification of the Rh factor in 1937 resolved this problem and garnered him a share of the 1946 Albert Lasker Clinical Medical Research Award.",
-      "status": "confirmed",
-      "locator": "שורה 3"
-    },
-    {
-      "id": "c45",
-      "text": "נסיוב שהתקבל מהזרקת דם של קופי רזוס לארנבות הגיב נגד דמם של כ-85 אחוז מהאנשים הלבנים, באופן שאינו קשור לקבוצות ABO.",
-      "source": "src7",
-      "quote": "Antiserum obtained by injecting the blood of rhesus macaque monkeys into rabbits turned out to be reactive against the blood of about 85 percent of Caucasian humans",
-      "status": "confirmed",
-      "locator": "שורה 5"
-    },
-    {
-      "id": "c46",
-      "text": "הוא קרא לגורם זה Rh על שם קוף הרזוס.",
-      "source": "src7",
-      "quote": "He named it the Rh factor, after the rhesus macaque.",
-      "status": "confirmed",
-      "locator": "שורה 5"
-    },
-    {
-      "id": "c47",
-      "text": "לפי אוניברסיטת רוקפלר, ההשלכות הרפואיות של התגלית היו מיידיות, שכן היא הסירה למעשה את הסיכון העיקרי האחרון בעירוי דם.",
-      "source": "src7",
-      "quote": "The medical implications of Dr. Landsteiner’s discovery were immediate, as it effectively removed the last major risk of blood transfusion.",
-      "status": "confirmed",
-      "locator": "שורה 7"
-    },
-    {
-      "id": "c61",
-      "text": "לנדשטיינר סיכם את עבודתו בספר \"הספציפיות של תגובות סרולוגיות\" (1936), טקסט קלאסי שעזר להקים את תחום האימונוכימיה.",
-      "source": "src1",
-      "quote": "Landsteiner summarized his work in The Specificity of Serological Reactions (1936), a classic text that helped establish the field of immunochemistry.",
-      "status": "confirmed",
-      "locator": "שורה 51"
-    },
-    {
-      "id": "c67",
-      "text": "לפי הביוגרפיה של פרס נובל, מטבעו היה לנדשטיינר פסימי משהו והעדיף לחיות הרחק מאנשים.",
-      "source": "src2",
-      "quote": "By nature somewhat pessimistic, he preferred to live away from people.",
-      "status": "confirmed",
-      "locator": "שורה 9"
-    },
-    {
-      "id": "c62",
-      "text": "לפי אנציקלופדיה.קום, לנדשטיינר, שהיה מסור לעבודתו, לא נישא עד גיל 48, כשפגש את אשתו הלן בבית חולים צבאי.",
-      "source": "src3",
-      "quote": "Dedicated completely to his work, Landsteiner did not marry until age 48, when he met his wife, Helene, at a war hospital.",
-      "status": "confirmed",
-      "locator": "שורה 16"
-    },
-    {
-      "id": "c63",
-      "text": "לנדשטיינר נישא להלן וְלַסְטוֹ ב-1916, ובנם הוא ד\"ר א' לנדשטיינר.",
-      "source": "src2",
-      "quote": "Landsteiner married Helen Wlasto in 1916. Dr. E. Landsteiner is a son by this marriage.",
-      "status": "confirmed",
-      "locator": "שורה 10"
-    },
-    {
-      "id": "c68",
-      "text": "לפי פרויקט העובר, לקראת סוף חייו פנה לנדשטיינר לחקר גידולים ממאירים כדי למצוא טיפול, לאחר שאשתו חלתה בסרטן בלוטת התריס.",
-      "source": "src4",
-      "quote": "Towards the end of his life, Landsteiner turned his attention to the study of malignant tumors to find a treatment after his wife developed thyroid cancer.",
-      "status": "confirmed",
-      "locator": "שורה 16"
-    },
-    {
-      "id": "c66",
-      "text": "לקראת סוף חייו דאג לנדשטיינר יותר ויותר שהנאצים ישתלטו על העולם.",
-      "source": "src3",
-      "quote": "Toward the end of his life, Landsteiner became increasingly worried that the Nazis would take over the world.",
-      "status": "confirmed",
-      "locator": "שורה 20"
-    },
-    {
-      "id": "c64",
-      "text": "ב-24 ביוני 1943 לקה בהתקף לב במעבדתו ומת כעבור יומיים בבית החולים של המכון.",
-      "source": "src2",
-      "quote": "On June 24, 1943, he had a heart attack in his laboratory and died two days later in the hospital of the Institute in which he had done such distinguished work.",
-      "status": "confirmed",
-      "locator": "שורה 11"
-    },
-    {
-      "id": "c65",
-      "text": "לפי אנציקלופדיה.קום, נשאו הספדים ללנדשטיינר, אך מותו לא הוזכר בגרמניה ובאוסטריה עד 1947, לאחר תבוסת הנאצים.",
-      "source": "src3",
-      "quote": "Tributes were paid to Landsteiner, but there was no mention of his death in Germany or Austria, his home, until 1947, after the Nazis had been defeated.",
-      "status": "confirmed",
-      "locator": "שורה 20"
-    },
-    {
-      "id": "c78",
-      "text": "לפי אוניברסיטת רוקפלר, לנדשטיינר קיבל משרה במכון רוקפלר ב-1922.",
-      "source": "src6",
-      "quote": "until 1922, when he accepted a post at The Rockefeller Institute",
-      "status": "confirmed",
-      "locator": "שורה 10"
-    }
-  ],
-  "sources": [
-    {
-      "id": "src1",
-      "label": "Encyclopaedia Britannica, Karl Landsteiner",
-      "url": "https://britannica.com/biography/Karl-Landsteiner",
-      "kind": "reference"
-    },
-    {
-      "id": "src2",
-      "label": "NobelPrize.org, Karl Landsteiner – Biographical",
-      "url": "https://www.nobelprize.org/prizes/medicine/1930/landsteiner/biographical/?print=1",
-      "kind": "official"
-    },
-    {
-      "id": "src3",
-      "label": "Encyclopedia.com, Karl Landsteiner",
-      "url": "https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/karl-landsteiner",
-      "kind": "reference"
-    },
-    {
-      "id": "src4",
-      "label": "Embryo Project Encyclopedia, Arizona State University, Karl Landsteiner (1868–1943)",
-      "url": "https://embryo.asu.edu/pages/karl-landsteiner-1868-1943",
-      "kind": "reference"
-    },
-    {
-      "id": "src5",
-      "label": "NobelPrize.org, Karl Landsteiner – Facts",
-      "url": "https://www.nobelprize.org/prizes/medicine/1930/landsteiner/facts",
-      "kind": "official"
-    },
-    {
-      "id": "src6",
-      "label": "Rockefeller University, Landsteiner – Nobel Prize",
-      "url": "https://www.rockefeller.edu/our-scientists/karl-landsteiner/2554-nobel-prize/",
-      "kind": "organisation"
-    },
-    {
-      "id": "src7",
-      "label": "Rockefeller University, Landsteiner – Lasker Award",
-      "url": "https://www.rockefeller.edu/our-scientists/karl-landsteiner/2358-albert-lasker-award",
-      "kind": "organisation"
-    },
-    {
-      "id": "src8",
-      "label": "American Association of Immunologists, Karl O. Landsteiner",
-      "url": "https://www.aai.org/About/History/Past-Presidents-and-Officers/KarlOLandsteiner",
-      "kind": "organisation"
-    },
-    {
-      "id": "src9",
-      "label": "Jewish Telegraphic Agency, 'Landsteiner, Eminent Scientist, Awarded Nobel Prize', archive 1930",
-      "url": "https://www.jta.org/archive/landsteiner-eminent-scientist-awarded-nobel-prize",
-      "kind": "press"
-    }
-  ],
-  "media": [
-    {
-      "id": "m2",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Karl%20Landsteiner%20Gedenktafel%20Portrait%20KL%20Privatuniversit%C3%A4t%20Krems.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Karl_Landsteiner_Gedenktafel_Portrait_KL_Privatuniversit%C3%A4t_Krems.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Mfchris84",
-      "licence": "CC0",
-      "hosting": "hotlink",
-      "caption": "Round profile relief of Karl Landsteiner, next to a sign stating that he discovered the human blood group system, at the entrance to the private university named after him in Krems.",
-      "illustrates": [],
-      "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-      "date": "2020-07-08",
-      "width": 3456,
-      "height": 4608
-    },
-    {
-      "id": "m3",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Karl%20Landsteiner%20signature.png?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Karl_Landsteiner_signature.png",
-      "source_name": "Wikimedia Commons",
-      "credit": "Karl Landsteiner",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "Karl Landsteiner's signature.",
-      "illustrates": [],
-      "date": "Unknown, p",
-      "width": 1128,
-      "height": 318
-    },
-    {
-      "id": "m4",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Karl%20Landsteiner%20young.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Karl_Landsteiner_young.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Unknown authorUnknown author",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "Old photograph of a man in a white coat and bow tie, sitting in a laboratory next to glassware.",
-      "illustrates": [],
-      "date": "Unknown, c",
-      "width": 1515,
-      "height": 2048
-    },
-    {
-      "id": "m5",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Karl%20Landsteiner%20plaque%20-%20Eichhornstrasse%2028%2C%20W%C3%BCrzburg%2C%20Bavaria%2097070%2C%20Germany.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Karl_Landsteiner_plaque_-_Eichhornstrasse_28%2C_W%C3%BCrzburg%2C_Bavaria_97070%2C_Germany.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Spudgun67",
-      "licence": "CC BY-SA 4.0",
-      "hosting": "hotlink",
-      "caption": "Bronze plaque in Würzburg: Nobel laureate Karl Landsteiner, discoverer of the blood groups, lived in this house in 1892.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "date": "2018-02-10",
-      "width": 4000,
-      "height": 3000
-    },
-    {
-      "id": "m6",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wi-uni%205163%20Karl%20Landsteiner.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Wi-uni_5163_Karl_Landsteiner.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Stebunik",
-      "licence": "CC BY-SA 4.0",
-      "hosting": "hotlink",
-      "caption": "Memorial plaque at the University of Vienna with a profile relief of Landsteiner, \"discoverer of the blood groups\".",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "date": "2018-08-03",
-      "width": 3864,
-      "height": 5152
-    },
-    {
-      "id": "m7",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Karl%20Landsteiner%20relief%20and%20plaque%20-%20Eichhornstrasse%2028%2C%20W%C3%BCrzburg%2C%20Bavaria%2097070%2C%20Germany.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Karl_Landsteiner_relief_and_plaque_-_Eichhornstrasse_28%2C_W%C3%BCrzburg%2C_Bavaria_97070%2C_Germany.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Spudgun67",
-      "licence": "CC BY-SA 4.0",
-      "hosting": "hotlink",
-      "caption": "Bronze relief of Landsteiner and a commemorative plaque on a stone pillar on Eichhornstraße in Würzburg.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "date": "2018-02-10",
-      "width": 3000,
-      "height": 4000
-    },
-    {
-      "id": "m8",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Karl%20Landsteiner%2C%201868-1943%20Wellcome%20L0000615.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Karl_Landsteiner%2C_1868-1943_Wellcome_L0000615.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "not stated",
-      "licence": "CC BY 4.0",
-      "hosting": "hotlink",
-      "caption": "Printed page from an article by Karl Landsteiner of Vienna on the action of blood serum and lymph, including agglutination.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by/4.0",
-      "width": 1084,
-      "height": 1698
-    },
-    {
-      "id": "m9",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nobel%20ceremony%201930.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Nobel_ceremony_1930.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Unknown (TT Nyhetsbyrån)",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "Black-and-white photograph from the 1930 Nobel Prize ceremony: the laureates stand in evening dress holding their diplomas. According to the description, Landsteiner (medicine) is among them, alongside Raman, Fischer and Lewis.",
-      "illustrates": [
-        "c69"
-      ],
-      "date": "1930",
-      "width": 1024,
-      "height": 527
-    },
-    {
-      "id": "m10",
-      "kind": "video",
-      "url": "https://www.youtube.com/watch?v=dbO4bM9BYu0",
-      "youtube_id": "dbO4bM9BYu0",
-      "source_page": "https://www.youtube.com/watch?v=dbO4bM9BYu0",
-      "source_name": "YouTube",
-      "credit": "Al Jazeera English",
-      "licence": "YouTube, embedded only (standard YouTube licence)",
-      "licence_url": "https://www.youtube.com/static?template=terms",
-      "hosting": "embed",
-      "caption": "Al Jazeera English \"Pioneer\" episode on Landsteiner's discovery of the blood groups in Vienna in 1901 and his contribution to safe blood transfusions.",
-      "illustrates": [
-        "c18",
-        "c29"
-      ],
-      "spoken": "en",
-      "audio_tracks": [
-        "en",
-        "de",
-        "es",
-        "fr",
-        "hi",
-        "id",
-        "it",
-        "ja",
-        "pl",
-        "pt"
-      ]
-    },
-    {
-      "id": "m11",
-      "kind": "video",
-      "url": "https://www.youtube.com/watch?v=YLI9SHNvjww",
-      "youtube_id": "YLI9SHNvjww",
-      "source_page": "https://www.youtube.com/watch?v=YLI9SHNvjww",
-      "source_name": "YouTube",
-      "credit": "CGTN Documentary",
-      "licence": "YouTube, embedded only (standard YouTube licence)",
-      "licence_url": "https://www.youtube.com/static?template=terms",
-      "hosting": "embed",
-      "caption": "CGTN documentary on Landsteiner, \"The Decoder of Blood's Secrets\", and on the importance of transfusion in life-saving medical treatment.",
-      "illustrates": [
-        "c7",
-        "c29"
-      ],
-      "spoken": "en",
-      "audio_tracks": [
-        "en"
-      ]
-    },
-    {
-      "id": "m12",
-      "kind": "video",
-      "url": "https://www.youtube.com/watch?v=lun8ZuVIsdI",
-      "youtube_id": "lun8ZuVIsdI",
-      "source_page": "https://www.youtube.com/watch?v=lun8ZuVIsdI",
-      "source_name": "YouTube",
-      "credit": "Sciences Tube",
-      "licence": "YouTube, embedded only (standard YouTube licence)",
-      "licence_url": "https://www.youtube.com/static?template=terms",
-      "hosting": "embed",
-      "caption": "Episode of the series \"Eureka!\" devoted to Landsteiner and the blood groups.",
-      "illustrates": [],
-      "spoken": "fr",
-      "audio_tracks": [
-        "fr",
-        "en"
-      ]
-    },
-    {
-      "id": "m13",
-      "kind": "video",
-      "url": "https://www.youtube.com/watch?v=6X6edyP_EB8",
-      "youtube_id": "6X6edyP_EB8",
-      "source_page": "https://www.youtube.com/watch?v=6X6edyP_EB8",
-      "source_name": "YouTube",
-      "credit": "Human Progress",
-      "licence": "YouTube, embedded only (standard YouTube licence)",
-      "licence_url": "https://www.youtube.com/static?template=terms",
-      "hosting": "embed",
-      "caption": "Episode 4 of the series \"Heroes of Progress\" on Landsteiner and Lewisohn, pioneers of blood transfusion.",
-      "illustrates": [
-        "c29"
-      ],
-      "spoken": "en",
-      "audio_tracks": [
-        "en",
-        "ar",
-        "bn",
-        "de",
-        "es",
-        "fr",
-        "hi",
-        "id",
-        "it",
-        "he",
-        "ja",
-        "ko",
-        "ml",
-        "nl",
-        "pa",
-        "pl",
-        "pt",
-        "ru",
-        "ta",
-        "te",
-        "uk"
-      ]
-    },
-    {
-      "id": "m14",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/01%20Universit%C3%A4t%20Wien%20Aula%20NobelpreistraegerInnen%20derknopfdruecker%20com.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:01_Universit%C3%A4t_Wien_Aula_NobelpreistraegerInnen_derknopfdruecker_com.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Josef Krpelan / derknopfdruecker.com, Universität Wien",
-      "licence": "CC BY-SA 4.0",
-      "hosting": "hotlink",
-      "caption": "Monument in the hall of the University of Vienna: portraits of Nobel laureates connected with the university, Landsteiner among them.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "date": "2025-03-12",
-      "width": 3750,
-      "height": 2500,
-      "role": "related"
-    },
-    {
-      "id": "m15",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/1160%20Montleartstra%C3%9Fe%2037%20-%20Wilhelminenspital%20-%20Pav.%2031%20-%20Karl%20Landsteiner-Gedenktafel%20IMG%202827.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:1160_Montleartstra%C3%9Fe_37_-_Wilhelminenspital_-_Pav._31_-_Karl_Landsteiner-Gedenktafel_IMG_2827.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Ewald Judt",
-      "licence": "CC BY 4.0",
-      "hosting": "hotlink",
-      "caption": "Memorial plaque at the Wilhelminen Hospital in Vienna, stating that Landsteiner worked there from 1907 to 1919.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by/4.0",
-      "date": "2014-06-04",
-      "width": 1600,
-      "height": 1200,
-      "role": "deed"
-    },
-    {
-      "id": "m19",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Karl%20Landsteiner%201930.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Karl_Landsteiner_1930.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Béla Balassa",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "Karl Landsteiner at a lectern in Stockholm, 1930.",
-      "illustrates": [],
-      "date": "1930-12",
-      "width": 740,
-      "height": 1024,
-      "role": "deed"
-    },
-    {
-      "id": "m20",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Karl%20Landsteiner%201930b.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Karl_Landsteiner_1930b.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Béla Balassa",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "Karl Landsteiner at a table in Stockholm, next to a girl dressed as Lucia, the Swedish queen of light.",
-      "illustrates": [],
-      "date": "1930",
-      "width": 1019,
-      "height": 1024,
-      "role": "deed"
-    },
-    {
-      "id": "m21",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Landsteiner-penning%20van%20de%20Bloedtransfusiedienst%20van%20het%20Nederlandse%20Rode%20Kruis%2C%20objectnr%2072508%282%29.JPG?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Landsteiner-penning_van_de_Bloedtransfusiedienst_van_het_Nederlandse_Rode_Kruis%2C_objectnr_72508%282%29.JPG",
-      "source_name": "Wikimedia Commons",
-      "credit": "Koninklijke Begeer B.V. Ateliers voor edelsmeed- en penningkunst / Jacob Jan van Goor (Amersfoort 1874 - Zeist 1956)",
-      "licence": "CC BY-SA 3.0",
-      "hosting": "hotlink",
-      "caption": "Reverse of the Landsteiner Medal of the Dutch Red Cross Blood Transfusion Service: a pelican feeding its young with its own blood.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-      "date": "1939",
-      "width": 3508,
-      "height": 3508,
-      "role": "related"
-    },
-    {
-      "id": "m22",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Landsteiner-penning%2C%20objectnr%2058018%281%29.JPG?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Landsteiner-penning%2C_objectnr_58018%281%29.JPG",
-      "source_name": "Wikimedia Commons",
-      "credit": "N.V. Ateliers voor edelsmeed- en penningkunst v.h. \"Koninklijke Begeer\" / Jacob Jan van Goor (Amersfoort 1874 - Zeist 19",
-      "licence": "CC BY-SA 3.0",
-      "hosting": "hotlink",
-      "caption": "Landsteiner Medal with a profile relief of Karl Landsteiner.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-      "date": "between 19",
-      "width": 3508,
-      "height": 3508,
-      "role": "deed"
-    },
-    {
-      "id": "m23",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Plac%C4%83%20memorial%C4%83%20Karl%20Landsteiner%20%28Baden%29.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Plac%C4%83_memorial%C4%83_Karl_Landsteiner_%28Baden%29.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "FASROD",
-      "licence": "CC BY-SA 4.0",
-      "hosting": "hotlink",
-      "caption": "Memorial plaque in Baden with a profile relief of Landsteiner, who according to the inscription was born in this house on 14 June 1868.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "date": "2022-10-04",
-      "width": 1714,
-      "height": 2048,
-      "role": "deed"
-    },
-    {
-      "id": "m24",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rode%20Kruis%20uitreiking%20Landsteinerpenning%2C%20Bestanddeelnr%20913-6383.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Rode_Kruis_uitreiking_Landsteinerpenning%2C_Bestanddeelnr_913-6383.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Jack de Nijs for Anefo",
-      "licence": "CC0",
-      "hosting": "hotlink",
-      "caption": "Ceremony awarding the Red Cross Landsteiner Medal, 14 March 1962: a handshake and a medal in hand.",
-      "illustrates": [],
-      "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-      "date": "1962-03-14",
-      "width": 2563,
-      "height": 2604,
-      "role": "related"
-    },
-    {
-      "id": "m27",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wien%2004%20Dr.-Karl-Landsteiner-Park%20a.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Wien_04_Dr.-Karl-Landsteiner-Park_a.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Gugerell",
-      "licence": "CC0",
-      "hosting": "hotlink",
-      "caption": "A park named after Dr. Karl Landsteiner in the fourth district of Vienna.",
-      "illustrates": [],
-      "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-      "date": "2015-04-25",
-      "width": 3000,
-      "height": 1688,
-      "role": "related"
-    },
-    {
-      "id": "m28",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wien%2004%20Dr.-Karl-Landsteiner-Park%20b.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Wien_04_Dr.-Karl-Landsteiner-Park_b.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Gugerell",
-      "licence": "CC0",
-      "hosting": "hotlink",
-      "caption": "Path and bear sculpture on a stone base in the park named after Landsteiner in Vienna.",
-      "illustrates": [],
-      "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-      "date": "2015-04-25",
-      "width": 3000,
-      "height": 1688,
-      "role": "related"
-    },
-    {
-      "id": "m30",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wien%2004%20Dr.-Karl-Landsteiner-Park%20c.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Wien_04_Dr.-Karl-Landsteiner-Park_c.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Gugerell",
-      "licence": "CC0",
-      "hosting": "hotlink",
-      "caption": "The bear sculpture on a stone base, the bear fountain in the park named after Landsteiner in Vienna.",
-      "illustrates": [],
-      "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-      "date": "2015-04-25",
-      "width": 3000,
-      "height": 1688,
-      "role": "related"
-    },
-    {
-      "id": "m31",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alserstr.4%20AKH%20Path.Anatom.Institut%201153.JPG?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Alserstr.4_AKH_Path.Anatom.Institut_1153.JPG",
-      "source_name": "Wikimedia Commons",
-      "credit": "Bella47",
-      "licence": "CC BY-SA 3.0 at",
-      "hosting": "hotlink",
-      "caption": "Brass plaque at the Institute of Pathological Anatomy in Vienna: here in 1900 Landsteiner discovered the blood groups.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/3.0/at/deed.en",
-      "date": "2013-09-06",
-      "width": 3264,
-      "height": 2448,
-      "role": "deed"
-    },
-    {
-      "id": "m33",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wien09%20Wasagasse010%202017-03-04%20GuentherZ%200497%20GD%20Karl%20Landsteiner%20%2B%20Felix%20Braun%20%2B%20Richard%20Maux.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Wien09_Wasagasse010_2017-03-04_GuentherZ_0497_GD_Karl_Landsteiner_%2B_Felix_Braun_%2B_Richard_Maux.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "GuentherZ",
-      "licence": "CC BY 3.0",
-      "hosting": "hotlink",
-      "caption": "Plaque at the gymnasium at Wasagasse 10 in Vienna in memory of its graduates, among them Landsteiner, who graduated in 1885.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by/3.0",
-      "date": "2017-03-04",
-      "width": 6000,
-      "height": 4000,
-      "role": "deed"
-    },
-    {
-      "id": "m34",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dorsum%20Grabau%20AS15-M-1548.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Dorsum_Grabau_AS15-M-1548.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "James Stuby based on NASA image",
-      "licence": "CC0",
-      "hosting": "hotlink",
-      "caption": "Apollo 15 photograph of a wrinkle ridge on the Moon; the small crater at the top is named after Landsteiner.",
-      "illustrates": [],
-      "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-      "date": "created 20",
-      "width": 1560,
-      "height": 600,
-      "role": "related"
-    },
-    {
-      "id": "m35",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/1912%20Cross%20Matching%20Blood%20Types.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:1912_Cross_Matching_Blood_Types.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "OpenStax College",
-      "licence": "CC BY 3.0",
-      "hosting": "hotlink",
-      "caption": "Blood typing card: with the anti-A and anti-D antibodies, agglutination spots are visible, and with the anti-B antibody there is no clumping.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by/3.0",
-      "width": 1933,
-      "height": 786,
-      "role": "related"
-    },
-    {
-      "id": "m36",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/1913%20ABO%20Blood%20Groups.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:1913_ABO_Blood_Groups.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "OpenStax College",
-      "licence": "CC BY 3.0",
-      "hosting": "hotlink",
-      "caption": "Diagram of the blood groups A, B, AB and O: the red blood cells and the antibodies in the plasma of each group.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by/3.0",
-      "width": 1812,
-      "height": 1392,
-      "role": "related"
-    },
-    {
-      "id": "m37",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/ABO%20antigens.JPG?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:ABO_antigens.JPG",
-      "source_name": "Wikimedia Commons",
-      "credit": "Tmlew",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "Chemical diagram of the A, B and O antigens on the surface of blood cells.",
-      "illustrates": [],
-      "date": "2008-11-17",
-      "width": 1134,
-      "height": 452,
-      "role": "related"
-    },
-    {
-      "id": "m38",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Adres%20en%20bloedgroep%20op%20motorhelm%2C%20Bestanddeelnr%20926-4139%20%28cropped%29.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Adres_en_bloedgroep_op_motorhelm%2C_Bestanddeelnr_926-4139_%28cropped%29.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Anefo",
-      "licence": "CC0",
-      "hosting": "hotlink",
-      "caption": "Motorcycle helmet with the inscription \"blood group A positive\" next to a helmet with a name and address, Austria, 1973.",
-      "illustrates": [],
-      "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-      "date": "1973-05-16",
-      "width": 1718,
-      "height": 1260,
-      "role": "related"
-    },
-    {
-      "id": "m39",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/ANA%20begins%20process%20of%20blood%20typing%20soldiers%20120324-N-JC271-021.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:ANA_begins_process_of_blood_typing_soldiers_120324-N-JC271-021.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Petty Officer 1st Class matthew leistikow",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "Gloved hands spreading blood samples on a blood typing card, Afghanistan, 24 March.",
-      "illustrates": [],
-      "date": "Taken on 2",
-      "width": 1680,
-      "height": 1118,
-      "role": "related"
-    },
-    {
-      "id": "m40",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Blood%20Types.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Blood_Types.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Bondarev.gal",
-      "licence": "CC0",
-      "hosting": "hotlink",
-      "caption": "Blood group test plate for the AB0, Rhesus and Kell systems: agglutination is visible in several wells.",
-      "illustrates": [],
-      "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-      "date": "2023-08-02",
-      "width": 4032,
-      "height": 3024,
-      "role": "related"
-    },
-    {
-      "id": "m41",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/BlutAgglutination.JPG?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:BlutAgglutination.JPG",
-      "source_name": "Wikimedia Commons",
-      "credit": "Fadi",
-      "licence": "CC BY-SA 3.0 de",
-      "hosting": "hotlink",
-      "caption": "Drops of blood on a glass plate, some with agglutination clumps, marked O, A, B and K.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
-      "date": "2009-05-08",
-      "width": 1646,
-      "height": 1429,
-      "role": "related"
-    }
-  ],
-  "check": {
-    "passed": true,
-    "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
-    "checked_at": "2026-11-21T19:56:09Z",
-    "counts": {
-      "confirmed": 94,
-      "not_confirmed": 0,
-      "deleted_sentences": 4,
-      "first_round_confirmed": 93,
-      "first_round_contradicted": 1,
-      "first_round_unverifiable": 4
-    },
-    "note": "unverifiable sentences were deleted, contradicted ones fixed from the source and checked again"
+    "m23",
+    "m27",
+    "m30",
+    "m33"
+   ],
+   "disagreements": [
+    "d1",
+    "d2"
+   ]
   },
-  "meta": {
-    "run": "karl-landsteiner-blood-groups-nobel",
-    "pipeline": "scripts/museum/museum_line.py",
-    "models": {
-      "research": "sonnet-5-5",
-      "extract": "sonnet-5-5",
-      "media": "sonnet-5-5",
-      "write": "opus-5-5 medium",
-      "check": "opus-5-5 medium",
-      "fix": "opus-5-5 medium"
-    },
-    "source_quality": {
-      "sources": 9,
-      "wikipedia": 0,
-      "strong": 3,
-      "ok": true,
-      "warnings": []
-    },
-    "settled": [
-      {
-        "box": "d5",
-        "question": "באיזו שנה עבר למכון רוקפלר?",
-        "url": "https://www.rockefeller.edu/our-scientists/karl-landsteiner/2554-nobel-prize/",
-        "by": "settle 24.11"
-      }
+  {
+   "id": "s2",
+   "title": "Before: blood that brings disaster",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "When a person loses a lot of blood in an accident or through illness, it must be replaced.",
+      "claims": [
+       "c7"
+      ]
+     },
+     {
+      "text": "But when people tried to give a person another person's blood, the result was often a disaster.",
+      "claims": [
+       "c8"
+      ]
+     }
     ],
-    "media_dedupe": [
-      {
-        "drop": "m1",
-        "keep": "m6",
-        "by": "reviewed 24.11"
-      }
+    [
+     {
+      "text": "The first blood transfusion experiments were carried out in the 1660s, and soon afterwards the dangerous practice was banned in France and England.",
+      "claims": [
+       "c9",
+       "c-aud-20261127-2"
+      ]
+     },
+     {
+      "text": "In 1875 Landois reported that when a person is given the blood of animals, the foreign blood cells clump together and break up in the blood vessels.",
+      "claims": [
+       "c10"
+      ]
+     }
     ]
+   ],
+   "media": [
+    "m11"
+   ],
+   "disagreements": []
   },
-  "lang": "en",
-  "translation": {
-    "from": "he",
-    "translator": "claude-opus-5-5",
-    "checker": "claude-opus-5-5 (separate call, blind to the translation prompt)",
-    "checked_at": "2026-11-23T22:34:18Z",
-    "passed": true,
-    "items": 147,
-    "pairs_checked": 1,
-    "reused": 146,
-    "first_round_flagged": 0,
-    "still_flagged": 0,
-    "flagged": [],
-    "quote_translations": {}
+  {
+   "id": "s3",
+   "title": "A footnote that became a discovery",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "According to Rockefeller University, in 1900 Landsteiner was working as a forensic anatomist at the University of Vienna, and then made his first observations about agglutination, the clumping together of blood cells.",
+      "claims": [
+       "c12"
+      ]
+     },
+     {
+      "text": "He tucked the observation into a footnote in a paper from 1900, and expanded on it a year later.",
+      "claims": [
+       "c13"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to Rockefeller University, he repeatedly mixed the serum of one person with the blood cells of another person.",
+      "claims": [
+       "c15"
+      ]
+     },
+     {
+      "text": "Sometimes large clumps of red blood cells formed, and sometimes small clumps.",
+      "claims": [
+       "c15"
+      ]
+     },
+     {
+      "text": "In 1901–1903 Landsteiner pointed out that such a reaction may also occur when a person is given the blood of another person, and not only the blood of an animal.",
+      "claims": [
+       "c11"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to Rockefeller University, the prevailing view at the time attributed blood incompatibility to disease, and he suggested that one person's blood is simply different from another's.",
+      "claims": [
+       "c16"
+      ]
+     },
+     {
+      "text": "According to Britannica, he identified three antigens, which he called A, B and C, and the C was later changed to O.",
+      "claims": [
+       "c17"
+      ]
+     },
+     {
+      "text": "According to Rockefeller University, this was the first fundamental discovery in the history of serology.",
+      "claims": [
+       "c77"
+      ]
+     },
+     {
+      "text": "Over ten years Landsteiner performed nearly four thousand post-mortem examinations, and published more than seventy-five articles on his observations.",
+      "claims": [
+       "c14"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m8",
+    "m4",
+    "m10",
+    "m31",
+    "m35",
+    "m41"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s4",
+   "title": "Four groups: A, B, AB and O",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "According to the Nobel Prize website, Landsteiner explained that people have different types of red blood cells, that is, different blood groups.",
+      "claims": [
+       "c18"
+      ]
+     },
+     {
+      "text": "The fourth group, AB, was found shortly afterwards.",
+      "claims": [
+       "c20",
+       "c21",
+       "c22"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to the Nobel Prize biography, his ideas at first received little attention.",
+      "claims": [
+       "c19"
+      ]
+     },
+     {
+      "text": "In 1930 the Health Committee of the League of Nations in Geneva formally adopted Landsteiner's names, A, B, AB and O, in his honor.",
+      "claims": [
+       "c28"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m12",
+    "m36",
+    "m37",
+    "m39"
+   ],
+   "disagreements": [
+    "d3",
+    "d4"
+   ]
+  },
+  {
+   "id": "s5",
+   "title": "Blood saves lives",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "In 1907, in the series of developments that followed Landsteiner's discovery of the blood groups, Reuben Ottenberg of Mount Sinai Hospital in New York performed what the source calls the first successful blood transfusions.",
+      "claims": [
+       "c23"
+      ]
+     },
+     {
+      "text": "According to Rockefeller University, blood-typing tests were first used in 1910, and blood banks were established in the 1930s.",
+      "claims": [
+       "c74"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "World War One put the work to the test, because transfusions were performed on a large scale for the first time.",
+      "claims": [
+       "c24"
+      ]
+     },
+     {
+      "text": "According to the Embryo Project, Landsteiner himself gave blood transfusions to many wounded soldiers, and during the war transfusions saved tens of thousands of lives.",
+      "claims": [
+       "c75",
+       "c72"
+      ]
+     },
+     {
+      "text": "Surgeries inside the body, which had not been possible before because of blood loss, became possible and saved many lives.",
+      "claims": [
+       "c25"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to the Embryo Project, the ABO grouping later made the first successful organ transplants possible, because it reduced the chance of rejection of an incompatible transplant.",
+      "claims": [
+       "c73"
+      ]
+     },
+     {
+      "text": "According to Rockefeller University, even 100 years later the ABO system is the primary tool for checking blood compatibility.",
+      "claims": [
+       "c50"
+      ]
+     },
+     {
+      "text": "According to the same source, there are today more than 200 minor blood groups, but they are relatively rare.",
+      "claims": [
+       "c51"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "Blood was also used outside the hospital.",
+      "claims": [
+       "c26",
+       "c76"
+      ]
+     },
+     {
+      "text": "In 1902 Landsteiner and Max Richter of the Institute of Forensic Medicine described a method of using blood from a crime scene in an investigation.",
+      "claims": [
+       "c26"
+      ]
+     },
+     {
+      "text": "According to the Embryo Project, about fifty percent of people have type O blood and less than five percent have AB, so a blood type match was not enough to identify a suspect with certainty.",
+      "claims": [
+       "c27"
+      ]
+     },
+     {
+      "text": "He also suggested using the blood groups, which are inherited, to decide cases in which paternity is in doubt.",
+      "claims": [
+       "c76"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m13",
+    "m21",
+    "m24",
+    "m38"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s6",
+   "title": "From Vienna via The Hague to New York, and the Nobel Prize",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "In 1911 Landsteiner was appointed Professor of Pathological Anatomy at the University of Vienna, but without the salary that should have come with it.",
+      "claims": [
+       "c37"
+      ]
+     },
+     {
+      "text": "That same year he received the title of Chevalier of the French Legion of Honor.",
+      "claims": [
+       "c54"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "In 1919 conditions in Vienna made laboratory work very difficult.",
+      "claims": [
+       "c38"
+      ]
+     },
+     {
+      "text": "He saw no future for Austria, and took a post as prosector at a small Catholic hospital in The Hague.",
+      "claims": [
+       "c38"
+      ]
+     },
+     {
+      "text": "Later he was offered a post at the Rockefeller Institute for Medical Research in New York, and he moved there with his family.",
+      "claims": [
+       "c39"
+      ]
+     },
+     {
+      "text": "In 1929 he became a citizen of the United States.",
+      "claims": [
+       "c33"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to the Jewish Telegraphic Agency in 1930, Dr. Karl Landsteiner, an eminent scientist, was awarded the Nobel Prize for medicine.",
+      "claims": [
+       "c69"
+      ]
+     },
+     {
+      "text": "The prize motivation was \"for his discovery of human blood groups\".",
+      "claims": [
+       "c30"
+      ]
+     },
+     {
+      "text": "According to the same agency, the prize amounted to about $48,000.",
+      "claims": [
+       "c31"
+      ]
+     },
+     {
+      "text": "At that time Landsteiner was at the Rockefeller Institute in New York.",
+      "claims": [
+       "c32"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "When he won the prize, he avoided publicity.",
+      "claims": [
+       "c35"
+      ]
+     },
+     {
+      "text": "According to Encyclopedia.com, his Nobel lecture on differences in blood between individuals and between species was at odds with the view of the medical community of his day, and is accepted today.",
+      "claims": [
+       "c34"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to Rockefeller University, Landsteiner accepted a post at the Rockefeller Institute in 1922.",
+      "claims": [
+       "c78"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m9",
+    "m6",
+    "m2",
+    "m14"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s7",
+   "title": "Polio, and Rh too",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "According to the Embryo Project, in 1908, as head of the pathology department at the Wilhelminen Hospital in Vienna, Landsteiner showed that polio is a viral disease.",
+      "claims": [
+       "c55"
+      ]
+     },
+     {
+      "text": "He showed that the cause of polio could be transmitted to monkeys in material prepared from the spinal cords of children who had died of the disease.",
+      "claims": [
+       "c60"
+      ]
+     },
+     {
+      "text": "Landsteiner and his assistant Erwin Popper injected two rhesus monkeys with the spinal fluid of a child who had died of polio, after filtering it through a filter that traps bacteria.",
+      "claims": [
+       "c56"
+      ]
+     },
+     {
+      "text": "According to Britannica, he and the Romanian bacteriologist Constantin Levaditi laid the groundwork for the vaccine.",
+      "claims": [
+       "c59"
+      ]
+     },
+     {
+      "text": "The vaccine itself came only many years later, from Jonas Salk.",
+      "claims": [
+       "c57",
+       "c58"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to Britannica, in 1927 Landsteiner discovered the M, N and P factors with Philip Levine.",
+      "claims": [
+       "c44"
+      ]
+     },
+     {
+      "text": "Then came the Rh factor.",
+      "claims": [
+       "c43",
+       "c44"
+      ]
+     },
+     {
+      "text": "Serum obtained by injecting the blood of rhesus monkeys into rabbits reacted against the blood of about 85 percent of white people, regardless of the ABO groups.",
+      "claims": [
+       "c45"
+      ]
+     },
+     {
+      "text": "He called this factor Rh, after the rhesus monkey.",
+      "claims": [
+       "c46"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to Rockefeller University, this discovery effectively removed the last major risk of blood transfusion.",
+      "claims": [
+       "c47"
+      ]
+     },
+     {
+      "text": "The 1946 Lasker Award, given after Landsteiner's death in 1943, was shared between him, Philip Levine and Alexander Wiener of the New York Medical Examiner's Office.",
+      "claims": [
+       "c48",
+       "c-aud-20261127-1"
+      ]
+     },
+     {
+      "text": "The award was given for the discovery of the Rh factor and its significance as a cause of death and disease in mothers, fetuses and infants.",
+      "claims": [
+       "c53"
+      ]
+     },
+     {
+      "text": "He summarized his work in the book \"The Specificity of Serological Reactions\" (1936), which helped establish the field of immunochemistry.",
+      "claims": [
+       "c61"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m15",
+    "m40"
+   ],
+   "disagreements": [
+    "d6",
+    "d7"
+   ]
+  },
+  {
+   "id": "s8",
+   "title": "The man behind the laboratory",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "According to the Nobel Prize biography, Landsteiner was by nature somewhat pessimistic, and preferred to live away from people.",
+      "claims": [
+       "c67"
+      ]
+     },
+     {
+      "text": "In New York he did not like the crowds, and did not want to be famous.",
+      "claims": [
+       "c33"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to Encyclopedia.com, he was dedicated to his work and did not marry until age 48, when he met his wife Helene at a military hospital.",
+      "claims": [
+       "c62"
+      ]
+     },
+     {
+      "text": "He married Helen Wlasto in 1916, and their son is Dr. E. Landsteiner.",
+      "claims": [
+       "c63"
+      ]
+     },
+     {
+      "text": "According to the Embryo Project, when his wife developed thyroid cancer, he turned to the study of malignant tumors to find a treatment.",
+      "claims": [
+       "c68"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "Toward the end of his life he became increasingly worried that the Nazis would take over the world.",
+      "claims": [
+       "c66"
+      ]
+     },
+     {
+      "text": "On 24 June 1943 he had a heart attack in the laboratory, and died two days later in the hospital of the Institute.",
+      "claims": [
+       "c64"
+      ]
+     },
+     {
+      "text": "According to Encyclopedia.com, his death was not mentioned in Germany or Austria until 1947, after the defeat of the Nazis.",
+      "claims": [
+       "c65"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m3",
+    "m28",
+    "m34"
+   ],
+   "disagreements": []
   }
+ ],
+ "disagreements": [
+  {
+   "id": "d1",
+   "question": "Where was Landsteiner born?",
+   "versions": [
+    {
+     "says": "Nobel Prize website: in Vienna",
+     "claims": [
+      "c1"
+     ]
+    },
+    {
+     "says": "Embryo Project: in Baden, near Vienna",
+     "claims": [
+      "c2"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d2",
+   "question": "In what year did he convert from Judaism to Catholicism?",
+   "versions": [
+    {
+     "says": "Encyclopedia.com: in 1889",
+     "claims": [
+      "c5"
+     ]
+    },
+    {
+     "says": "Embryo Project: in 1890",
+     "claims": [
+      "c6"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d3",
+   "question": "Who found the AB blood group?",
+   "versions": [
+    {
+     "says": "Rockefeller University: two of his colleagues, Alfred von Decastello and Adriano Sturli, in 1902",
+     "claims": [
+      "c20"
+     ]
+    },
+    {
+     "says": "Embryo Project: one of his students, in 1902",
+     "claims": [
+      "c21"
+     ]
+    },
+    {
+     "says": "Britannica: the fourth type was identified the following year, without saying by whom",
+     "claims": [
+      "c22"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d4",
+   "question": "When did Landsteiner explain the blood groups?",
+   "versions": [
+    {
+     "says": "Nobel Prize website: in 1901",
+     "claims": [
+      "c18"
+     ]
+    },
+    {
+     "says": "Nobel Prize biography: in 1909 he classified blood into the groups A, B, AB and O",
+     "claims": [
+      "c19"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d6",
+   "question": "When did Jonas Salk develop the polio vaccine?",
+   "versions": [
+    {
+     "says": "Embryo Project: in 1952",
+     "claims": [
+      "c57"
+     ]
+    },
+    {
+     "says": "Encyclopedia.com: in 1955",
+     "claims": [
+      "c58"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d7",
+   "question": "In what year was the Rh factor identified?",
+   "versions": [
+    {
+     "says": "Rockefeller University: in 1937",
+     "claims": [
+      "c43"
+     ]
+    },
+    {
+     "says": "Britannica: in 1940, with Alexander Wiener",
+     "claims": [
+      "c44"
+     ]
+    }
+   ]
+  }
+ ],
+ "unknowns": [],
+ "claims": [
+  {
+   "id": "c52",
+   "text": "לפי בריטניקה, לנדשטיינר היה אימונולוג ופתולוג אוסטרי־אמריקאי שזכה בנובל ב-1930 על גילוי קבוצות הדם העיקריות ופיתוח מערכת ה-ABO.",
+   "source": "src1",
+   "quote": "was an Austrian American immunologist and pathologist who received the 1930 Nobel Prize for Physiology or Medicine for his discovery of the major blood groups",
+   "status": "confirmed",
+   "locator": "שורה 49"
+  },
+  {
+   "id": "c4",
+   "text": "לאחר הלימודים בבית הספר למד לנדשטיינר רפואה באוניברסיטת וינה והשלים את לימודיו ב-1891.",
+   "source": "src2",
+   "quote": "After leaving school, Landsteiner studied medicine at the University of Vienna, graduating in 1891.",
+   "status": "confirmed",
+   "locator": "שורה 1"
+  },
+  {
+   "id": "c5",
+   "text": "לפי אנציקלופדיה.קום, בשנת 1889 הוא ואמו המירו את דתם מיהדות לקתוליות.",
+   "source": "src3",
+   "quote": "He remained close to his mother, and in 1889 they both converted from Judaism to Catholicism.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c6",
+   "text": "לפי פרויקט העובר, בשנת 1890 לנדשטיינר ואמו המירו את דתם מיהדות לקתוליות, זמן קצר לפני שסיים את לימודי הרפואה ב-1891.",
+   "source": "src4",
+   "quote": "In 1890, Landsteiner and his mother converted from Judaism to Catholicism, just before Landsteiner graduated with his medical degree in 1891 at the age of twenty-three.",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c8",
+   "text": "כשניסו לבצע עירויים מאדם לאדם, התוצאה הייתה לעיתים קרובות אסון.",
+   "source": "src5",
+   "quote": "When transfusions from one person to another were tried, however, the result was very often disastrous.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c71",
+   "text": "לנדשטיינר זיהה את אנטיגני A, B ו-O על תאי הדם האדומים והסביר כיצד סוגי דם שאינם תואמים מובילים לתגובות חיסוניות.",
+   "source": "src1",
+   "quote": "Landsteiner identified the A, B, and O antigens on red blood cells and explained how incompatible blood types lead to immune reactions",
+   "status": "confirmed",
+   "locator": "שורה 45"
+  },
+  {
+   "id": "c29",
+   "text": "התגלית הובילה לעירויי דם בטוחים בין אנשים בעלי קבוצות דם מתאימות.",
+   "source": "src5",
+   "quote": "The discovery led to safe blood transfusions between people with compatible blood groups.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c12",
+   "text": "לפי אוניברסיטת רוקפלר, ב-1900, בעת עבודתו כאנטומאי משפטי באוניברסיטת וינה, ערך לנדשטיינר את תצפיותיו הראשונות על אגלוטינציה.",
+   "source": "src6",
+   "quote": "In 1900, while working as a forensic anatomist at the University of Vienna, he made his first observations about agglutination",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c19",
+   "text": "לפי הביוגרפיה של פרס נובל, הצעותיו של לנדשטיינר זכו לתשומת לב מועטה עד 1909, אז סיווג את דמם של בני האדם לקבוצות A, B, AB ו-O.",
+   "source": "src2",
+   "quote": "His suggestions, however, received little attention until, in 1909, he classified the bloods of human beings into the now well-known A, B, AB, and O groups",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c28",
+   "text": "ב-1930 ועדת הבריאות של חבר הלאומים בז'נבה אימצה רשמית את שיטת השמות של לנדשטיינר (A, B, AB ו-O) לכבודו.",
+   "source": "src4",
+   "quote": "In 1930, The Health Committee of the League of Nations in Geneva, Switzerland, formally adopted the Landsteiner nomenclature (A, B, AB, and O) in his honor",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c30",
+   "text": "נימוק הפרס של נובל היה \"על גילוי קבוצות הדם האנושיות\".",
+   "source": "src5",
+   "quote": "Prize motivation: “for his discovery of human blood groups”",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c48",
+   "text": "לנדשטיינר חלק את פרס לסקר 1946 עם לוין, ג'ון מהוני ואלכסנדר ויינר.",
+   "source": "src7",
+   "quote": "Dr. Landsteiner shared the 1946 Lasker Award with Dr. Levine as well as John Mahoney of the United States Marine Hospital and Alexander Wiener of the New York Medical Examiner’s Office.",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c53",
+   "text": "לנדשטיינר קיבל את פרס לסקר 1946 עם ויינר ולוין על גילוי גורם ה-Rh ומשמעותו כגורם לתמותה ותחלואה אימהית, טרום־לידתית ויילודית.",
+   "source": "src8",
+   "quote": "for the discovery of the Rh factor and its significance as a cause of maternal, prenatal and neonatal morbidity and mortality.",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c13",
+   "text": "לנדשטיינר הצניע את תצפיתו על אגלוטינציה בהערת שוליים במאמר מ-1900, והרחיב אותה בשנה שלאחר מכן.",
+   "source": "src4",
+   "quote": "Landsteiner relegated his observation of agglutination to a footnote in a paper he wrote in 1900, but he expanded upon this observation the following year",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c1",
+   "text": "קרל לנדשטיינר נולד בווינה ב-14 ביוני 1868, לפי אתר פרס נובל.",
+   "source": "src2",
+   "quote": "Karl Landsteiner was born in Vienna on June 14, 1868.",
+   "status": "confirmed",
+   "locator": "שורה 1"
+  },
+  {
+   "id": "c2",
+   "text": "לפי האנציקלופדיה של פרויקט העובר, לנדשטיינר נולד ב-14 ביוני 1868 בבאדן ליד וינה, פרבר של המעמד הבינוני־הגבוה מחוץ לעיר וינה.",
+   "source": "src4",
+   "quote": "Karl Landsteiner was born on 14 June 1868 in Baden bei Wien, an upper middle class suburb just outside the city of Vienna",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c3",
+   "text": "אביו, ליאופולד לנדשטיינר, דוקטור למשפטים, היה עיתונאי ומו\"ל עיתון ידוע, ומת כשקרל היה בן שש.",
+   "source": "src2",
+   "quote": "His father, Leopold Landsteiner, a doctor of law, was a well-known journalist and newspaper publisher, who died when Karl was six years old.",
+   "status": "confirmed",
+   "locator": "שורה 1"
+  },
+  {
+   "id": "c36",
+   "text": "וייכסלבאום עודד את לנדשטיינר לעבוד על פיזיולוגיה פתולוגית, למרות ביקורת של אחרים במכון.",
+   "source": "src2",
+   "quote": "In this he was encouraged by Weichselbaum, in spite of the criticism of others in this Institute.",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c7",
+   "text": "כשאדם מאבד הרבה דם בתאונה או במחלה, צריך להחליף אותו.",
+   "source": "src5",
+   "quote": "When a person loses lots of blood through accident or illness, it must be replaced.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c9",
+   "text": "לפי אוניברסיטת רוקפלר, במאה ה-17 נאסרה בחלקים נרחבים של מערב אירופה פרקטיקת העירוי המסוכנת, שהייתה בשימוש לפחות מאז ימי הביניים.",
+   "source": "src6",
+   "quote": "the still-dangerous practice of blood transfusions — used since at least the Middle Ages — was banned in large parts of Western Europe",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c10",
+   "text": "ב-1875 דיווח לנדואה שכאשר מועבר לאדם דם של בעלי חיים אחרים, תאי הדם הזרים מתגבשים בגושים ונהרסים בכלי הדם של האדם.",
+   "source": "src2",
+   "quote": "In 1875 Landois had reported that, when man is given transfusions of the blood of other animals, these foreign blood corpuscles are clumped and broken up in the blood vessels of man",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c15",
+   "text": "לפי אוניברסיטת רוקפלר, בניסויים חוזרים שבהם ערבב סרום של אדם אחד עם תאי דם של אחר, הדם יצר לעיתים גושים גדולים של תאי דם אדומים ולעיתים גושים קטנים.",
+   "source": "src6",
+   "quote": "In some cases, he reported, the mixed blood formed large clumps of red blood cells; in other cases there were small clumps.",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c11",
+   "text": "בשנים 1901–1903 הצביע לנדשטיינר על כך שתגובה דומה עלולה להתרחש כשמעבירים לאדם דם של אדם אחר, ולא רק דם של בעל חיים.",
+   "source": "src2",
+   "quote": "In 1901-1903 Landsteiner pointed out that a similar reaction may occur when the blood of one human individual is transfused, not with the blood of another animal, but with that of another human being",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c16",
+   "text": "לפי אוניברסיטת רוקפלר, לנדשטיינר פעל נגד הדעה הרווחת ששייכה אי־התאמה של דם לפתולוגיה, והציע שדמו של אדם אחד פשוט עשוי להיות שונה מדמו של אחר.",
+   "source": "src6",
+   "quote": "Dr. Landsteiner then went against the common grain of thought that equated blood incompatibility with pathology by suggesting that one person’s blood might simply be different than another’s.",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c17",
+   "text": "לפי בריטניקה, לנדשטיינר זיהה שלושה אנטיגנים כאלה, שכינה A, B ו-C (ששונה אחר כך ל-O).",
+   "source": "src1",
+   "quote": "Landsteiner identified three such antigens, which he labeled A, B, and C (later changed to O).",
+   "status": "confirmed",
+   "locator": "שורה 50"
+  },
+  {
+   "id": "c77",
+   "text": "לפי אוניברסיטת רוקפלר, התגלית הבסיסית הראשונה בתולדות הסרולוגיה הגיעה ב-1901, עם זיהוי קבוצות הדם בידי לנדשטיינר.",
+   "source": "src6",
+   "quote": "The first fundamental discovery in the history of serology didn’t come until 1901, when Karl Landsteiner’s identification of blood groups spurred a flurry of additional research",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c14",
+   "text": "במהלך עשר שנים ביצע לנדשטיינר כמעט ארבעת אלפים נתיחות לאחר המוות ופרסם למעלה משבעים וחמישה מאמרים על תצפיותיו.",
+   "source": "src4",
+   "quote": "Over the next ten years he performed nearly four thousand post-mortem examinations and published over seventy-five articles on his observations.",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c18",
+   "text": "לפי אתר פרס נובל, לנדשטיינר הסביר ב-1901 שלאנשים יש סוגים שונים של תאי דם אדומים, כלומר קיימות קבוצות דם שונות.",
+   "source": "src5",
+   "quote": "He explained in 1901 that people have different types of red blood cells, that is, there are different blood groups.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c20",
+   "text": "לפי אוניברסיטת רוקפלר, ב-1902 שניים מעמיתיו של לנדשטיינר, אלפרד פון דקסטלו ואדריאנו שטורלי, גילו את קבוצת הדם הרביעית, AB.",
+   "source": "src6",
+   "quote": "In 1902, two of Dr. Landsteiner’s colleagues, Alfred von Decastello and Adriano Sturli, discovered the fourth blood group, AB",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c21",
+   "text": "לפי פרויקט העובר, ב-1902 אחד מתלמידיו של לנדשטיינר מצא קבוצת דם רביעית, AB.",
+   "source": "src4",
+   "quote": "In 1902, one of Landsteiner's students found a fourth blood type, AB, which triggered a reaction if introduced into either A or B blood.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c22",
+   "text": "לפי בריטניקה, סוג דם רביעי, שנקרא מאוחר יותר AB, זוהה בשנה שלאחר מכן.",
+   "source": "src1",
+   "quote": "A fourth blood type, later named AB, was identified the following year.",
+   "status": "confirmed",
+   "locator": "שורה 50"
+  },
+  {
+   "id": "c23",
+   "text": "ב-1907 ביצע ראובן אוטנברג מבית החולים מאונט סיני בניו יורק את עירויי הדם המוצלחים הראשונים.",
+   "source": "src6",
+   "quote": "In 1907 Reuben Ottenberg of Mount Sinai Hospital in New York performed the first successful transfusions.",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c74",
+   "text": "לפי אוניברסיטת רוקפלר, העירוי המוצלח הראשון בוצע ב-1907, בדיקות סוג דם נעשו לראשונה ב-1910, ובנקי דם הוקמו בשנות ה-30.",
+   "source": "src7",
+   "quote": "with the first successful blood transfusion performed in 1907, the first blood-typing tests used in 1910 and the first blood banks established in the 1930s",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c24",
+   "text": "מלחמת העולם הראשונה העמידה את העבודה הזו במבחן, שכן עירויים בוצעו לראשונה בהיקף רחב.",
+   "source": "src6",
+   "quote": "World War One put all of this work to the test, as transfusions were first performed on a large scale.",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c75",
+   "text": "לפי פרויקט העובר, במלחמת העולם הראשונה ביצע לנדשטיינר עירויי דם בחיילים פצועים רבים.",
+   "source": "src4",
+   "quote": "During World War I, Landsteiner performed blood transfusions on many injured soldiers.",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c72",
+   "text": "לפי פרויקט העובר, במלחמת העולם הראשונה עירויי דם הצילו עשרות אלפי חיים.",
+   "source": "src4",
+   "quote": "During World War I, blood transfusions saved tens of thousands of lives.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c25",
+   "text": "ניתוחים בגוף הפנימי, שהיו בלתי אפשריים קודם בשל איבוד הדם, הפכו אפשריים, והניתוחים הצילו חיים רבים.",
+   "source": "src6",
+   "quote": "Surgeries on internal organs, previously infeasible because of the blood loss involved, also became practicable, and the operations saved countless lives.",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c73",
+   "text": "לפי פרויקט העובר, חלוקת הדם לקבוצות ABO אפשרה מאוחר יותר השתלות איברים ראשונות מוצלחות, בהפחתת הסיכוי לדחיית השתלה לא תואמת.",
+   "source": "src4",
+   "quote": "Later, the ABO blood grouping made it possible to successfully complete the first organ transplants by reducing the chance that a body rejected incompatible transplants.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c50",
+   "text": "לפי אוניברסיטת רוקפלר, מערכת ה-ABO היא עדיין, כעבור 100 שנה, הכלי העיקרי לקביעת התאמת דם.",
+   "source": "src6",
+   "quote": "The ABO system is still, 100 years later, the primary instrument for determining blood compatibility.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c51",
+   "text": "לפי אוניברסיטת רוקפלר, קיימות כיום יותר מ-200 קבוצות דם משניות, אך הן נדירות יחסית.",
+   "source": "src6",
+   "quote": "Today we understand that while there are more than 200 minor blood groups, they occur relatively rarely.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c26",
+   "text": "ב-1902 תיארו לנדשטיינר ומקס ריכטר ממכון לרפואה משפטית שיטה להשתמש בראיות דם מזירת פשע כדי לסייע בחקירה.",
+   "source": "src4",
+   "quote": "In 1902, Landsteiner and Max Richter, who worked at Vienna University Institute of Forensic Medicine in Vienna, described a method of using blood evidence gathered from the scene of a crime",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c76",
+   "text": "ב-1901–1903 הציע לנדשטיינר שאפשר להשתמש בקבוצות הדם, שמאפייניהן עוברים בתורשה, כדי להכריע במקרי אבהות מוטלת בספק.",
+   "source": "src2",
+   "quote": "Earlier, in 1901-1903, Landsteiner had suggested that, because the characteristics which determine the blood groups are inherited, the blood groups may be used to decide instances of doubtful paternity.",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c27",
+   "text": "לפי פרויקט העובר, כחמישים אחוזים מהאוכלוסייה הם בעלי דם מסוג O ופחות מחמישה אחוזים בעלי סוג AB, ולכן התאמה בין סוגי דם לא אפשרה זיהוי חיובי של חשוד.",
+   "source": "src4",
+   "quote": "However, roughly fifty percent of the population has O-type blood and less than five percent has AB-type blood.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c37",
+   "text": "ב-1911 מונה לנדשטיינר לפרופסור לאנטומיה פתולוגית באוניברסיטת וינה, אך ללא המשכורת המקבילה.",
+   "source": "src2",
+   "quote": "In 1911 he became Professor of Pathological Anatomy in the University of Vienna, but without the corresponding salary.",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c54",
+   "text": "ב-1911 קיבל לנדשטיינר את אות אביר לגיון הכבוד הצרפתי.",
+   "source": "src8",
+   "quote": "Chevalier of the French Legion of Honor, 1911",
+   "status": "confirmed",
+   "locator": "שורה 26"
+  },
+  {
+   "id": "c38",
+   "text": "ב-1919 התנאים בווינה הקשו מאוד על עבודת מעבדה, ולנדשטיינר, שלא ראה עתיד לאוסטריה, קיבל משרת פרוזקטור בבית חולים קתולי קטן בהאג.",
+   "source": "src2",
+   "quote": "For in 1919 conditions in Vienna were such that laboratory work was very difficult and, seeing no future for Austria, Landsteiner obtained the appointment of Prosector to a small Roman Catholic Hospital at The Hague.",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c39",
+   "text": "עבודתו בהולנד הסתיימה כשהוצעה לו משרה במכון רוקפלר למחקר רפואי בניו יורק, והוא עבר לשם עם משפחתו.",
+   "source": "src2",
+   "quote": "His work in Holland came to an end when he was offered a post in the Rockefeller Institute for Medical Research in New York and he moved there together with his family.",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c33",
+   "text": "ב-1929 הפך לנדשטיינר לאזרח ארצות הברית, אך לא אהב את ההמונים בניו יורק ולא רצה להיות מפורסם.",
+   "source": "src3",
+   "quote": "In 1929 Landsteiner became a United States citizen, but did not like the crowds of New York and did not care to be a celebrity.",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c69",
+   "text": "לפי סוכנות הידיעות היהודית ב-1930, ד\"ר קרל לנדשטיינר, מדען נודע, זכה בפרס נובל לרפואה.",
+   "source": "src9",
+   "quote": "Dr. Karl Landsteiner, eminent scientist, was awarded the Nobel prize for medicine.",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c31",
+   "text": "לפי סוכנות הידיעות היהודית (JTA) ב-1930, הפרס הסתכם בכ-48,000 דולר והוענק לו על גילויים בסיווג סוגי דם אנושיים.",
+   "source": "src9",
+   "quote": "The prize amounts to about $48,000 and was granted to him for his discoveries in classifying different types of human blood.",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c32",
+   "text": "בעת הענקת הפרס היה לנדשטיינר שייך למכון רוקפלר למחקר רפואי בניו יורק.",
+   "source": "src5",
+   "quote": "Affiliation at the time of the award: Rockefeller Institute for Medical Research, New York, NY, USA",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c35",
+   "text": "כשזכה בנובל ב-1930 התחמק מפרסום.",
+   "source": "src3",
+   "quote": "When he won the Nobel Prize in 1930, he shunned publicity.",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c34",
+   "text": "לפי אנציקלופדיה.קום, הרצאת הנובל של לנדשטיינר, שתיארה הבדלים בדם בין יחידים ובין מינים, עמדה בסתירה לקהילה הרפואית של זמנו, אך מקובלת כיום.",
+   "source": "src3",
+   "quote": "His Nobel lecture, describing differences in blood between individuals, as well as species, was at odds with the medical community of the day, although it is well accepted now.",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c55",
+   "text": "לפי פרויקט העובר, ב-1908 הראה לנדשטיינר, כראש מחלקת הפתולוגיה בבית החולים וילהלמינן בווינה, שפוליו היא מחלה נגיפית.",
+   "source": "src4",
+   "quote": "In 1908, as the head of the pathology department at the Imperial Wilhelminen Hospital in Vienna, Landsteiner showed that polio is a viral disease.",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c60",
+   "text": "הוא הראה שגורם הפוליו ניתן להעברה לקופים באמצעות חומר שהוכן מטחינת חוט השדרה של ילדים שמתו ממחלה זו.",
+   "source": "src2",
+   "quote": "He also showed that the cause of poliomyelitis could be transmitted to monkeys by injecting into them material prepared by grinding up the spinal cords of children who had died from this disease",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c56",
+   "text": "לנדשטיינר ופופר הזריקו את הנוזל השדרתי המסונן לשני קופי רזוס.",
+   "source": "src4",
+   "quote": "Landsteiner and Popper injected the filtered spinal fluid into two Old World rhesus monkeys",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c59",
+   "text": "לפי בריטניקה, לנדשטיינר והבקטריולוג הרומני קונסטנטין לוואדיטי גילו שמיקרואורגניזם אחראי לפוליו והניחו את היסוד לחיסון.",
+   "source": "src1",
+   "quote": "He and the Romanian bacteriologist Constantin Levaditi discovered that a microorganism is responsible for poliomyelitis and laid the groundwork for the development of the polio vaccine.",
+   "status": "confirmed",
+   "locator": "שורה 51"
+  },
+  {
+   "id": "c57",
+   "text": "לפי פרויקט העובר, חלפו 47 שנה עד שג'ונס סולק פיתח ב-1952 את חיסון הפוליו וניהל אותו בהצלחה.",
+   "source": "src4",
+   "quote": "it took forty-seven years until Jonas Salk at the University of Pittsburgh School of Medicine in Pittsburgh, Pennsylvania, developed and successfully administered the polio vaccine in 1952",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c58",
+   "text": "לפי אנציקלופדיה.קום, ב-1912 חזו לנדשטיינר ושותפו שאפשר לפתח חיסון, אך הדבר לא קרה עד 1955, כשג'ונס סולק פיתח את חיסון הפוליו המוצלח הראשון.",
+   "source": "src3",
+   "quote": "In 1912 they predicted that a vaccine against this virus could be developed, however, this did not occur until 1955, when Jonas Salk developed the first successful polio vaccine.",
+   "status": "confirmed",
+   "locator": "שורה 15"
+  },
+  {
+   "id": "c44",
+   "text": "לפי בריטניקה, לנדשטיינר גילה גם את גורמי M, N ו-P ב-1927 עם פיליפ לוין, ואת מערכת הרזוס (Rh) ב-1940 עם אלכסנדר ויינר.",
+   "source": "src1",
+   "quote": "Landsteiner also discovered other blood factors: the M, N, and P factors, which he identified in 1927 with Philip Levine, and the Rhesus (Rh) system, in 1940 with Alexander Wiener.",
+   "status": "confirmed",
+   "locator": "שורה 20"
+  },
+  {
+   "id": "c43",
+   "text": "לפי אוניברסיטת רוקפלר, זיהוי גורם ה-Rh ב-1937 פתר את הבעיה והביא ללנדשטיינר חלק בפרס לסקר לשנת 1946.",
+   "source": "src7",
+   "quote": "Dr. Landsteiner’s identification of the Rh factor in 1937 resolved this problem and garnered him a share of the 1946 Albert Lasker Clinical Medical Research Award.",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c45",
+   "text": "נסיוב שהתקבל מהזרקת דם של קופי רזוס לארנבות הגיב נגד דמם של כ-85 אחוז מהאנשים הלבנים, באופן שאינו קשור לקבוצות ABO.",
+   "source": "src7",
+   "quote": "Antiserum obtained by injecting the blood of rhesus macaque monkeys into rabbits turned out to be reactive against the blood of about 85 percent of Caucasian humans",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c46",
+   "text": "הוא קרא לגורם זה Rh על שם קוף הרזוס.",
+   "source": "src7",
+   "quote": "He named it the Rh factor, after the rhesus macaque.",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c47",
+   "text": "לפי אוניברסיטת רוקפלר, ההשלכות הרפואיות של התגלית היו מיידיות, שכן היא הסירה למעשה את הסיכון העיקרי האחרון בעירוי דם.",
+   "source": "src7",
+   "quote": "The medical implications of Dr. Landsteiner’s discovery were immediate, as it effectively removed the last major risk of blood transfusion.",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c61",
+   "text": "לנדשטיינר סיכם את עבודתו בספר \"הספציפיות של תגובות סרולוגיות\" (1936), טקסט קלאסי שעזר להקים את תחום האימונוכימיה.",
+   "source": "src1",
+   "quote": "Landsteiner summarized his work in The Specificity of Serological Reactions (1936), a classic text that helped establish the field of immunochemistry.",
+   "status": "confirmed",
+   "locator": "שורה 51"
+  },
+  {
+   "id": "c67",
+   "text": "לפי הביוגרפיה של פרס נובל, מטבעו היה לנדשטיינר פסימי משהו והעדיף לחיות הרחק מאנשים.",
+   "source": "src2",
+   "quote": "By nature somewhat pessimistic, he preferred to live away from people.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c62",
+   "text": "לפי אנציקלופדיה.קום, לנדשטיינר, שהיה מסור לעבודתו, לא נישא עד גיל 48, כשפגש את אשתו הלן בבית חולים צבאי.",
+   "source": "src3",
+   "quote": "Dedicated completely to his work, Landsteiner did not marry until age 48, when he met his wife, Helene, at a war hospital.",
+   "status": "confirmed",
+   "locator": "שורה 16"
+  },
+  {
+   "id": "c63",
+   "text": "לנדשטיינר נישא להלן וְלַסְטוֹ ב-1916, ובנם הוא ד\"ר א' לנדשטיינר.",
+   "source": "src2",
+   "quote": "Landsteiner married Helen Wlasto in 1916. Dr. E. Landsteiner is a son by this marriage.",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c68",
+   "text": "לפי פרויקט העובר, לקראת סוף חייו פנה לנדשטיינר לחקר גידולים ממאירים כדי למצוא טיפול, לאחר שאשתו חלתה בסרטן בלוטת התריס.",
+   "source": "src4",
+   "quote": "Towards the end of his life, Landsteiner turned his attention to the study of malignant tumors to find a treatment after his wife developed thyroid cancer.",
+   "status": "confirmed",
+   "locator": "שורה 16"
+  },
+  {
+   "id": "c66",
+   "text": "לקראת סוף חייו דאג לנדשטיינר יותר ויותר שהנאצים ישתלטו על העולם.",
+   "source": "src3",
+   "quote": "Toward the end of his life, Landsteiner became increasingly worried that the Nazis would take over the world.",
+   "status": "confirmed",
+   "locator": "שורה 20"
+  },
+  {
+   "id": "c64",
+   "text": "ב-24 ביוני 1943 לקה בהתקף לב במעבדתו ומת כעבור יומיים בבית החולים של המכון.",
+   "source": "src2",
+   "quote": "On June 24, 1943, he had a heart attack in his laboratory and died two days later in the hospital of the Institute in which he had done such distinguished work.",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c65",
+   "text": "לפי אנציקלופדיה.קום, נשאו הספדים ללנדשטיינר, אך מותו לא הוזכר בגרמניה ובאוסטריה עד 1947, לאחר תבוסת הנאצים.",
+   "source": "src3",
+   "quote": "Tributes were paid to Landsteiner, but there was no mention of his death in Germany or Austria, his home, until 1947, after the Nazis had been defeated.",
+   "status": "confirmed",
+   "locator": "שורה 20"
+  },
+  {
+   "id": "c78",
+   "text": "לפי אוניברסיטת רוקפלר, לנדשטיינר קיבל משרה במכון רוקפלר ב-1922.",
+   "source": "src6",
+   "quote": "until 1922, when he accepted a post at The Rockefeller Institute",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "פרס לסקר לשנת 1946, שניתן אחרי מותו של לנדשטיינר ב-1943, חולק בינו לבין פיליפ לוין ואלכסנדר ויינר ממשרד הבוחן הרפואי של ניו יורק.",
+   "source": "src9001",
+   "quote": "Rh factor as a cause of hemolytic anemia in newborns",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "ניסויי עירוי הדם הראשונים נעשו בשנות ה-60 של המאה ה-17, ומיד אחר כך נאסרה הפרקטיקה המסוכנת בצרפת ובאנגליה.",
+   "source": "src9002",
+   "quote": "the transfusion of blood from animals into humans was prohibited",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  }
+ ],
+ "sources": [
+  {
+   "id": "src1",
+   "label": "Encyclopaedia Britannica, Karl Landsteiner",
+   "url": "https://britannica.com/biography/Karl-Landsteiner",
+   "kind": "reference"
+  },
+  {
+   "id": "src2",
+   "label": "NobelPrize.org, Karl Landsteiner – Biographical",
+   "url": "https://www.nobelprize.org/prizes/medicine/1930/landsteiner/biographical/?print=1",
+   "kind": "official"
+  },
+  {
+   "id": "src3",
+   "label": "Encyclopedia.com, Karl Landsteiner",
+   "url": "https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/karl-landsteiner",
+   "kind": "reference"
+  },
+  {
+   "id": "src4",
+   "label": "Embryo Project Encyclopedia, Arizona State University, Karl Landsteiner (1868–1943)",
+   "url": "https://embryo.asu.edu/pages/karl-landsteiner-1868-1943",
+   "kind": "reference"
+  },
+  {
+   "id": "src5",
+   "label": "NobelPrize.org, Karl Landsteiner – Facts",
+   "url": "https://www.nobelprize.org/prizes/medicine/1930/landsteiner/facts",
+   "kind": "official"
+  },
+  {
+   "id": "src6",
+   "label": "Rockefeller University, Landsteiner – Nobel Prize",
+   "url": "https://www.rockefeller.edu/our-scientists/karl-landsteiner/2554-nobel-prize/",
+   "kind": "organisation"
+  },
+  {
+   "id": "src7",
+   "label": "Rockefeller University, Landsteiner – Lasker Award",
+   "url": "https://www.rockefeller.edu/our-scientists/karl-landsteiner/2358-albert-lasker-award",
+   "kind": "organisation"
+  },
+  {
+   "id": "src8",
+   "label": "American Association of Immunologists, Karl O. Landsteiner",
+   "url": "https://www.aai.org/About/History/Past-Presidents-and-Officers/KarlOLandsteiner",
+   "kind": "organisation"
+  },
+  {
+   "id": "src9",
+   "label": "Jewish Telegraphic Agency, 'Landsteiner, Eminent Scientist, Awarded Nobel Prize', archive 1930",
+   "url": "https://www.jta.org/archive/landsteiner-eminent-scientist-awarded-nobel-prize",
+   "kind": "press"
+  },
+  {
+   "id": "src9001",
+   "label": "Lasker Foundation, 1946 Lasker Award winners",
+   "url": "https://laskerfoundation.org/winners/1946-winners/",
+   "kind": "official",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9002",
+   "label": "Encyclopedia.com (Gale, Science and Its Times), The Beginnings of Blood Transfusion",
+   "url": "https://encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/beginnings-blood-transfusion",
+   "kind": "reference",
+   "date": "2026-11-27"
+  }
+ ],
+ "media": [
+  {
+   "id": "m2",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Karl%20Landsteiner%20Gedenktafel%20Portrait%20KL%20Privatuniversit%C3%A4t%20Krems.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Karl_Landsteiner_Gedenktafel_Portrait_KL_Privatuniversit%C3%A4t_Krems.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Mfchris84",
+   "licence": "CC0",
+   "hosting": "hotlink",
+   "caption": "Round profile relief of Karl Landsteiner, next to a sign stating that he discovered the human blood group system, at the entrance to the private university named after him in Krems.",
+   "illustrates": [],
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "date": "2020-07-08",
+   "width": 3456,
+   "height": 4608
+  },
+  {
+   "id": "m3",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Karl%20Landsteiner%20signature.png?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Karl_Landsteiner_signature.png",
+   "source_name": "Wikimedia Commons",
+   "credit": "Karl Landsteiner",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "Karl Landsteiner's signature.",
+   "illustrates": [],
+   "date": "Unknown, p",
+   "width": 1128,
+   "height": 318
+  },
+  {
+   "id": "m4",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Karl%20Landsteiner%20young.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Karl_Landsteiner_young.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Unknown authorUnknown author",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "Old photograph of a man in a white coat and bow tie, sitting in a laboratory next to glassware.",
+   "illustrates": [],
+   "date": "Unknown, c",
+   "width": 1515,
+   "height": 2048
+  },
+  {
+   "id": "m5",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Karl%20Landsteiner%20plaque%20-%20Eichhornstrasse%2028%2C%20W%C3%BCrzburg%2C%20Bavaria%2097070%2C%20Germany.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Karl_Landsteiner_plaque_-_Eichhornstrasse_28%2C_W%C3%BCrzburg%2C_Bavaria_97070%2C_Germany.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Spudgun67",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "Bronze plaque in Würzburg: Nobel laureate Karl Landsteiner, discoverer of the blood groups, lived in this house in 1892.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2018-02-10",
+   "width": 4000,
+   "height": 3000
+  },
+  {
+   "id": "m6",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wi-uni%205163%20Karl%20Landsteiner.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Wi-uni_5163_Karl_Landsteiner.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Stebunik",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "Memorial plaque at the University of Vienna with a profile relief of Landsteiner, \"discoverer of the blood groups\".",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2018-08-03",
+   "width": 3864,
+   "height": 5152
+  },
+  {
+   "id": "m7",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Karl%20Landsteiner%20relief%20and%20plaque%20-%20Eichhornstrasse%2028%2C%20W%C3%BCrzburg%2C%20Bavaria%2097070%2C%20Germany.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Karl_Landsteiner_relief_and_plaque_-_Eichhornstrasse_28%2C_W%C3%BCrzburg%2C_Bavaria_97070%2C_Germany.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Spudgun67",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "Bronze relief of Landsteiner and a commemorative plaque on a stone pillar on Eichhornstraße in Würzburg.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2018-02-10",
+   "width": 3000,
+   "height": 4000
+  },
+  {
+   "id": "m8",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Karl%20Landsteiner%2C%201868-1943%20Wellcome%20L0000615.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Karl_Landsteiner%2C_1868-1943_Wellcome_L0000615.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "not stated",
+   "licence": "CC BY 4.0",
+   "hosting": "hotlink",
+   "caption": "Printed page from an article by Karl Landsteiner of Vienna on the action of blood serum and lymph, including agglutination.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/4.0",
+   "width": 1084,
+   "height": 1698
+  },
+  {
+   "id": "m9",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nobel%20ceremony%201930.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Nobel_ceremony_1930.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Unknown (TT Nyhetsbyrån)",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "Black-and-white photograph from the 1930 Nobel Prize ceremony: the laureates stand in evening dress holding their diplomas. According to the description, Landsteiner (medicine) is among them, alongside Raman, Fischer and Lewis.",
+   "illustrates": [
+    "c69"
+   ],
+   "date": "1930",
+   "width": 1024,
+   "height": 527
+  },
+  {
+   "id": "m10",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=dbO4bM9BYu0",
+   "youtube_id": "dbO4bM9BYu0",
+   "source_page": "https://www.youtube.com/watch?v=dbO4bM9BYu0",
+   "source_name": "YouTube",
+   "credit": "Al Jazeera English",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "Al Jazeera English \"Pioneer\" episode on Landsteiner's discovery of the blood groups in Vienna in 1901 and his contribution to safe blood transfusions.",
+   "illustrates": [
+    "c18",
+    "c29"
+   ],
+   "spoken": "en",
+   "audio_tracks": [
+    "en",
+    "de",
+    "es",
+    "fr",
+    "hi",
+    "id",
+    "it",
+    "ja",
+    "pl",
+    "pt"
+   ]
+  },
+  {
+   "id": "m11",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=YLI9SHNvjww",
+   "youtube_id": "YLI9SHNvjww",
+   "source_page": "https://www.youtube.com/watch?v=YLI9SHNvjww",
+   "source_name": "YouTube",
+   "credit": "CGTN Documentary",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "CGTN documentary on Landsteiner, \"The Decoder of Blood's Secrets\", and on the importance of transfusion in life-saving medical treatment.",
+   "illustrates": [
+    "c7",
+    "c29"
+   ],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m12",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=lun8ZuVIsdI",
+   "youtube_id": "lun8ZuVIsdI",
+   "source_page": "https://www.youtube.com/watch?v=lun8ZuVIsdI",
+   "source_name": "YouTube",
+   "credit": "Sciences Tube",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "Episode of the series \"Eureka!\" devoted to Landsteiner and the blood groups.",
+   "illustrates": [],
+   "spoken": "fr",
+   "audio_tracks": [
+    "fr",
+    "en"
+   ]
+  },
+  {
+   "id": "m13",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=6X6edyP_EB8",
+   "youtube_id": "6X6edyP_EB8",
+   "source_page": "https://www.youtube.com/watch?v=6X6edyP_EB8",
+   "source_name": "YouTube",
+   "credit": "Human Progress",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "Episode 4 of the series \"Heroes of Progress\" on Landsteiner and Lewisohn, pioneers of blood transfusion.",
+   "illustrates": [
+    "c29"
+   ],
+   "spoken": "en",
+   "audio_tracks": [
+    "en",
+    "ar",
+    "bn",
+    "de",
+    "es",
+    "fr",
+    "hi",
+    "id",
+    "it",
+    "he",
+    "ja",
+    "ko",
+    "ml",
+    "nl",
+    "pa",
+    "pl",
+    "pt",
+    "ru",
+    "ta",
+    "te",
+    "uk"
+   ]
+  },
+  {
+   "id": "m14",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/01%20Universit%C3%A4t%20Wien%20Aula%20NobelpreistraegerInnen%20derknopfdruecker%20com.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:01_Universit%C3%A4t_Wien_Aula_NobelpreistraegerInnen_derknopfdruecker_com.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Josef Krpelan / derknopfdruecker.com, Universität Wien",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "Monument in the hall of the University of Vienna: portraits of Nobel laureates connected with the university, Landsteiner among them.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2025-03-12",
+   "width": 3750,
+   "height": 2500,
+   "role": "related"
+  },
+  {
+   "id": "m15",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/1160%20Montleartstra%C3%9Fe%2037%20-%20Wilhelminenspital%20-%20Pav.%2031%20-%20Karl%20Landsteiner-Gedenktafel%20IMG%202827.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:1160_Montleartstra%C3%9Fe_37_-_Wilhelminenspital_-_Pav._31_-_Karl_Landsteiner-Gedenktafel_IMG_2827.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Ewald Judt",
+   "licence": "CC BY 4.0",
+   "hosting": "hotlink",
+   "caption": "Memorial plaque at the Wilhelminen Hospital in Vienna, stating that Landsteiner worked there from 1907 to 1919.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/4.0",
+   "date": "2014-06-04",
+   "width": 1600,
+   "height": 1200,
+   "role": "deed"
+  },
+  {
+   "id": "m19",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Karl%20Landsteiner%201930.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Karl_Landsteiner_1930.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Béla Balassa",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "Karl Landsteiner at a lectern in Stockholm, 1930.",
+   "illustrates": [],
+   "date": "1930-12",
+   "width": 740,
+   "height": 1024,
+   "role": "deed"
+  },
+  {
+   "id": "m20",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Karl%20Landsteiner%201930b.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Karl_Landsteiner_1930b.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Béla Balassa",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "Karl Landsteiner at a table in Stockholm, next to a girl dressed as Lucia, the Swedish queen of light.",
+   "illustrates": [],
+   "date": "1930",
+   "width": 1019,
+   "height": 1024,
+   "role": "deed"
+  },
+  {
+   "id": "m21",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Landsteiner-penning%20van%20de%20Bloedtransfusiedienst%20van%20het%20Nederlandse%20Rode%20Kruis%2C%20objectnr%2072508%282%29.JPG?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Landsteiner-penning_van_de_Bloedtransfusiedienst_van_het_Nederlandse_Rode_Kruis%2C_objectnr_72508%282%29.JPG",
+   "source_name": "Wikimedia Commons",
+   "credit": "Koninklijke Begeer B.V. Ateliers voor edelsmeed- en penningkunst / Jacob Jan van Goor (Amersfoort 1874 - Zeist 1956)",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "Reverse of the Landsteiner Medal of the Dutch Red Cross Blood Transfusion Service: a pelican feeding its young with its own blood.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "1939",
+   "width": 3508,
+   "height": 3508,
+   "role": "related"
+  },
+  {
+   "id": "m22",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Landsteiner-penning%2C%20objectnr%2058018%281%29.JPG?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Landsteiner-penning%2C_objectnr_58018%281%29.JPG",
+   "source_name": "Wikimedia Commons",
+   "credit": "N.V. Ateliers voor edelsmeed- en penningkunst v.h. \"Koninklijke Begeer\" / Jacob Jan van Goor (Amersfoort 1874 - Zeist 19",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "Landsteiner Medal with a profile relief of Karl Landsteiner.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "between 19",
+   "width": 3508,
+   "height": 3508,
+   "role": "deed"
+  },
+  {
+   "id": "m23",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Plac%C4%83%20memorial%C4%83%20Karl%20Landsteiner%20%28Baden%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Plac%C4%83_memorial%C4%83_Karl_Landsteiner_%28Baden%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "FASROD",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "Memorial plaque in Baden with a profile relief of Landsteiner, who according to the inscription was born in this house on 14 June 1868.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2022-10-04",
+   "width": 1714,
+   "height": 2048,
+   "role": "deed"
+  },
+  {
+   "id": "m24",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rode%20Kruis%20uitreiking%20Landsteinerpenning%2C%20Bestanddeelnr%20913-6383.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Rode_Kruis_uitreiking_Landsteinerpenning%2C_Bestanddeelnr_913-6383.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Jack de Nijs for Anefo",
+   "licence": "CC0",
+   "hosting": "hotlink",
+   "caption": "Ceremony awarding the Red Cross Landsteiner Medal, 14 March 1962: a handshake and a medal in hand.",
+   "illustrates": [],
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "date": "1962-03-14",
+   "width": 2563,
+   "height": 2604,
+   "role": "related"
+  },
+  {
+   "id": "m27",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wien%2004%20Dr.-Karl-Landsteiner-Park%20a.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Wien_04_Dr.-Karl-Landsteiner-Park_a.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Gugerell",
+   "licence": "CC0",
+   "hosting": "hotlink",
+   "caption": "A park named after Dr. Karl Landsteiner in the fourth district of Vienna.",
+   "illustrates": [],
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "date": "2015-04-25",
+   "width": 3000,
+   "height": 1688,
+   "role": "related"
+  },
+  {
+   "id": "m28",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wien%2004%20Dr.-Karl-Landsteiner-Park%20b.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Wien_04_Dr.-Karl-Landsteiner-Park_b.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Gugerell",
+   "licence": "CC0",
+   "hosting": "hotlink",
+   "caption": "Path and bear sculpture on a stone base in the park named after Landsteiner in Vienna.",
+   "illustrates": [],
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "date": "2015-04-25",
+   "width": 3000,
+   "height": 1688,
+   "role": "related"
+  },
+  {
+   "id": "m30",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wien%2004%20Dr.-Karl-Landsteiner-Park%20c.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Wien_04_Dr.-Karl-Landsteiner-Park_c.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Gugerell",
+   "licence": "CC0",
+   "hosting": "hotlink",
+   "caption": "The bear sculpture on a stone base, the bear fountain in the park named after Landsteiner in Vienna.",
+   "illustrates": [],
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "date": "2015-04-25",
+   "width": 3000,
+   "height": 1688,
+   "role": "related"
+  },
+  {
+   "id": "m31",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alserstr.4%20AKH%20Path.Anatom.Institut%201153.JPG?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Alserstr.4_AKH_Path.Anatom.Institut_1153.JPG",
+   "source_name": "Wikimedia Commons",
+   "credit": "Bella47",
+   "licence": "CC BY-SA 3.0 at",
+   "hosting": "hotlink",
+   "caption": "Brass plaque at the Institute of Pathological Anatomy in Vienna: here in 1900 Landsteiner discovered the blood groups.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0/at/deed.en",
+   "date": "2013-09-06",
+   "width": 3264,
+   "height": 2448,
+   "role": "deed"
+  },
+  {
+   "id": "m33",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wien09%20Wasagasse010%202017-03-04%20GuentherZ%200497%20GD%20Karl%20Landsteiner%20%2B%20Felix%20Braun%20%2B%20Richard%20Maux.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Wien09_Wasagasse010_2017-03-04_GuentherZ_0497_GD_Karl_Landsteiner_%2B_Felix_Braun_%2B_Richard_Maux.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "GuentherZ",
+   "licence": "CC BY 3.0",
+   "hosting": "hotlink",
+   "caption": "Plaque at the gymnasium at Wasagasse 10 in Vienna in memory of its graduates, among them Landsteiner, who graduated in 1885.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/3.0",
+   "date": "2017-03-04",
+   "width": 6000,
+   "height": 4000,
+   "role": "deed"
+  },
+  {
+   "id": "m34",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dorsum%20Grabau%20AS15-M-1548.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Dorsum_Grabau_AS15-M-1548.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "James Stuby based on NASA image",
+   "licence": "CC0",
+   "hosting": "hotlink",
+   "caption": "Apollo 15 photograph of a wrinkle ridge on the Moon; the small crater at the top is named after Landsteiner.",
+   "illustrates": [],
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "date": "created 20",
+   "width": 1560,
+   "height": 600,
+   "role": "related"
+  },
+  {
+   "id": "m35",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/1912%20Cross%20Matching%20Blood%20Types.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:1912_Cross_Matching_Blood_Types.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "OpenStax College",
+   "licence": "CC BY 3.0",
+   "hosting": "hotlink",
+   "caption": "Blood typing card: with the anti-A and anti-D antibodies, agglutination spots are visible, and with the anti-B antibody there is no clumping.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/3.0",
+   "width": 1933,
+   "height": 786,
+   "role": "related"
+  },
+  {
+   "id": "m36",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/1913%20ABO%20Blood%20Groups.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:1913_ABO_Blood_Groups.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "OpenStax College",
+   "licence": "CC BY 3.0",
+   "hosting": "hotlink",
+   "caption": "Diagram of the blood groups A, B, AB and O: the red blood cells and the antibodies in the plasma of each group.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/3.0",
+   "width": 1812,
+   "height": 1392,
+   "role": "related"
+  },
+  {
+   "id": "m37",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/ABO%20antigens.JPG?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:ABO_antigens.JPG",
+   "source_name": "Wikimedia Commons",
+   "credit": "Tmlew",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "Chemical diagram of the A, B and O antigens on the surface of blood cells.",
+   "illustrates": [],
+   "date": "2008-11-17",
+   "width": 1134,
+   "height": 452,
+   "role": "related"
+  },
+  {
+   "id": "m38",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Adres%20en%20bloedgroep%20op%20motorhelm%2C%20Bestanddeelnr%20926-4139%20%28cropped%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Adres_en_bloedgroep_op_motorhelm%2C_Bestanddeelnr_926-4139_%28cropped%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Anefo",
+   "licence": "CC0",
+   "hosting": "hotlink",
+   "caption": "Motorcycle helmet with the inscription \"blood group A positive\" next to a helmet with a name and address, Austria, 1973.",
+   "illustrates": [],
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "date": "1973-05-16",
+   "width": 1718,
+   "height": 1260,
+   "role": "related"
+  },
+  {
+   "id": "m39",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/ANA%20begins%20process%20of%20blood%20typing%20soldiers%20120324-N-JC271-021.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:ANA_begins_process_of_blood_typing_soldiers_120324-N-JC271-021.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Petty Officer 1st Class matthew leistikow",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "Gloved hands spreading blood samples on a blood typing card, Afghanistan, 24 March.",
+   "illustrates": [],
+   "date": "Taken on 2",
+   "width": 1680,
+   "height": 1118,
+   "role": "related"
+  },
+  {
+   "id": "m40",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Blood%20Types.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Blood_Types.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Bondarev.gal",
+   "licence": "CC0",
+   "hosting": "hotlink",
+   "caption": "Blood group test plate for the AB0, Rhesus and Kell systems: agglutination is visible in several wells.",
+   "illustrates": [],
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "date": "2023-08-02",
+   "width": 4032,
+   "height": 3024,
+   "role": "related"
+  },
+  {
+   "id": "m41",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/BlutAgglutination.JPG?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:BlutAgglutination.JPG",
+   "source_name": "Wikimedia Commons",
+   "credit": "Fadi",
+   "licence": "CC BY-SA 3.0 de",
+   "hosting": "hotlink",
+   "caption": "Drops of blood on a glass plate, some with agglutination clumps, marked O, A, B and K.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+   "date": "2009-05-08",
+   "width": 1646,
+   "height": 1429,
+   "role": "related"
+  }
+ ],
+ "check": {
+  "passed": true,
+  "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
+  "checked_at": "2026-11-21T19:56:09Z",
+  "counts": {
+   "confirmed": 94,
+   "not_confirmed": 0,
+   "deleted_sentences": 4,
+   "first_round_confirmed": 93,
+   "first_round_contradicted": 1,
+   "first_round_unverifiable": 4
+  },
+  "note": "unverifiable sentences were deleted, contradicted ones fixed from the source and checked again"
+ },
+ "meta": {
+  "run": "karl-landsteiner-blood-groups-nobel",
+  "pipeline": "scripts/museum/museum_line.py",
+  "models": {
+   "research": "sonnet-5-5",
+   "extract": "sonnet-5-5",
+   "media": "sonnet-5-5",
+   "write": "opus-5-5 medium",
+   "check": "opus-5-5 medium",
+   "fix": "opus-5-5 medium"
+  },
+  "source_quality": {
+   "sources": 9,
+   "wikipedia": 0,
+   "strong": 3,
+   "ok": true,
+   "warnings": []
+  },
+  "settled": [
+   {
+    "box": "d5",
+    "question": "באיזו שנה עבר למכון רוקפלר?",
+    "url": "https://www.rockefeller.edu/our-scientists/karl-landsteiner/2554-nobel-prize/",
+    "by": "settle 24.11"
+   }
+  ],
+  "media_dedupe": [
+   {
+    "drop": "m1",
+    "keep": "m6",
+    "by": "reviewed 24.11"
+   }
+  ]
+ },
+ "lang": "en",
+ "translation": {
+  "from": "he",
+  "translator": "claude-opus-5-5",
+  "checker": "claude-opus-5-5 (separate call, blind to the translation prompt)",
+  "checked_at": "2026-11-23T22:34:18Z",
+  "passed": true,
+  "items": 147,
+  "pairs_checked": 1,
+  "reused": 146,
+  "first_round_flagged": 0,
+  "still_flagged": 0,
+  "flagged": [],
+  "quote_translations": {}
+ }
 }

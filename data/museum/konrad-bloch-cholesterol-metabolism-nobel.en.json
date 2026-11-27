@@ -1,7 +1,7 @@
 {
  "schema": "maasei-museum/1",
  "slug": "konrad-bloch-cholesterol-metabolism-nobel",
- "deed": "קונרד בלוך מפענח את מנגנון חילוף הכולסטרול וזוכה בפרס נובל לרפואה",
+ "deed": "Konrad Bloch deciphers the mechanism of cholesterol metabolism and wins the Nobel Prize in Medicine",
  "canonical_type": "scientific-discovery",
  "year": "1942",
  "title": "Konrad Bloch, a Jewish refugee from Germany, discovered how the body builds cholesterol and won the Nobel Prize in Medicine",
@@ -14,10 +14,11 @@
    ]
   },
   {
-   "text": "The Nazi authorities ordered him to end his chemistry studies in Munich, and he had to flee.",
+   "text": "In 1934, after he earned a Diplom-Ingenieur degree in chemistry in Munich, his studies were cut short for racial reasons, and he had to leave Germany.",
    "claims": [
     "c6",
-    "c2"
+    "c2",
+    "c-aud-20261127-3"
    ]
   },
   {
@@ -268,9 +269,10 @@
       ]
      },
      {
-      "text": "According to Encyclopedia.com, Schoenheimer and his associate David Rittenberg developed a method of using radioisotopes (radioactive forms of atoms) to track the path of particular molecules in cells and living organisms.",
+      "text": "According to the National Academy of Sciences memoir, the method required synthetically preparing versions of compounds containing deuterium atoms (a heavy form of hydrogen), and then measuring the deuterium in the products with early mass spectrometers.",
       "claims": [
-       "c21"
+       "c21",
+       "c-aud-20261127-1"
       ]
      }
     ],
@@ -620,11 +622,12 @@
       ]
      },
      {
-      "text": "In 1985 he became a Fellow of the Royal Society, and in 1988 he received the National Medal of Science of the United States.",
+      "text": "In 1985 he was elected a Foreign Member of the Royal Society, London, and in 1988 he received the United States National Medal of Science.",
       "claims": [
        "c89",
        "c90",
-       "c91"
+       "c91",
+       "c-aud-20261127-2"
       ]
      }
     ],
@@ -1295,6 +1298,33 @@
    "quote": "National Medal of Science",
    "status": "confirmed",
    "locator": "שורה 165"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "לפי ההספד של האקדמיה הלאומית, השיטה דרשה להכין באופן סינתטי גרסאות של חומרים שמכילות אטומי דאוטריום (צורה כבדה של מימן), ואחר כך למדוד את הדאוטריום בתוצרים בעזרת ספקטרומטרי מסה מוקדמים.",
+   "source": "src9",
+   "quote": "subsequent analysis for deuterium content by early, non-commercial mass spectrometers",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "ב-1985 נבחר לחבר זר בחברה המלכותית בלונדון, וב-1988 קיבל את מדליית המדע הלאומית של ארצות הברית.",
+   "source": "src15",
+   "quote": "Foreign Member, Royal Society, London",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "ב-1934, אחרי שקיבל במינכן תואר דיפלום-מהנדס בכימיה, נקטעו לימודיו מסיבות גזעיות, והוא נאלץ לעזוב את גרמניה.",
+   "source": "src4",
+   "quote": "his studies in Munich ended in 1934 after he had obtained the degree of Diplom-Ingenieur in Chemistry",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [

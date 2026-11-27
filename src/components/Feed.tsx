@@ -1,13 +1,13 @@
 "use client";
 
 import { useState, useMemo, useEffect, useRef } from "react";
+import { useRouter } from "next/navigation";
 import type { Entry } from "@/lib/data";
 import { entryCategories } from "@/lib/data";
 import { useLang } from "@/components/LangProvider";
 import { t, categoryLabel } from "@/lib/i18n";
 import { eraOf, erasPresent, eraDisplay } from "@/lib/era";
 import EntryCard from "./EntryCard";
-import Slideshow from "./Slideshow";
 
 const CATEGORIES = ["הכל", "חסד", "המצאה מדעית", "תרומה לעולם", "היסטורי"] as const;
 // short Latin names for the address bar
@@ -49,7 +49,8 @@ export default function Feed({ entries, initialEras = [], initialCat, initialQue
     return (fromUrl ?? initialEras).filter((k) => valid.has(k));
   });
   const [search, setSearch] = useState<string>(() => urlParams()?.get("q") ?? initialQuery);
-  const [slideshowIndex, setSlideshowIndex] = useState<number | null>(null);
+  // 27.11: a card (photo included) opens the full deed page, never the old in-between modal
+  const router = useRouter();
 
   const skipUrlWrite = useRef(true);
 
@@ -211,25 +212,17 @@ export default function Feed({ entries, initialEras = [], initialCat, initialQue
         </div>
       ) : (
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-          {filtered.map((entry, i) => (
+          {filtered.map((entry) => (
             <EntryCard
               key={entry.id}
               entry={entry}
-              onClick={() => setSlideshowIndex(i)}
+              onClick={() => router.push(entry.href ?? `/deed/${entry.id}`)}
               onEraClick={(key) => setEras([key])}
             />
           ))}
         </div>
       )}
 
-      {/* Slideshow overlay */}
-      {slideshowIndex !== null && (
-        <Slideshow
-          entries={filtered}
-          initialIndex={slideshowIndex}
-          onClose={() => setSlideshowIndex(null)}
-        />
-      )}
     </>
   );
 }

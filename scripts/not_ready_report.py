@@ -21,7 +21,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 BAR = json.loads((ROOT / "src" / "data" / "ready-bar.json").read_text(encoding="utf8"))
-HIDDEN = {"55c7771e-3d56-4e79-a08b-70f102c2a5fe", "b4a5042d-635a-4704-adcf-0ea35193db13", "75076aa3-5011-4f0c-9601-35038b85d238"}  # HIDDEN_ENTRY_IDS in src/lib/data.ts (removed on purpose)
+HIDDEN = {"55c7771e-3d56-4e79-a08b-70f102c2a5fe", "b4a5042d-635a-4704-adcf-0ea35193db13", "75076aa3-5011-4f0c-9601-35038b85d238", "8c54a9dc-ce5a-460b-bfc7-355051053a65"}  # HIDDEN_ENTRY_IDS in src/lib/data.ts (removed on purpose)
 SITE = "https://maasei-israel.vercel.app"
 # words that name a kind of deed, not a person or thing (a match on these alone is not the same deed)
 GENERIC = {"israeli", "israelis", "israel", "rescue", "earthquake", "hospital", "field", "water", "solar",

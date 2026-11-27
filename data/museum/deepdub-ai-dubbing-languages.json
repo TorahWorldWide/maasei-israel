@@ -139,15 +139,18 @@
       ]
      },
      {
-      "text": "לפי גרג פיטרס, סמנכ\"ל התפעול ומנהל המוצר הראשי של נטפליקס, נטפליקס עצמה דיבבה ב-2021 כ-5 מיליון דקות תוכן.",
+      "text": "לפי גרג פיטרס, שהיה אז סמנכ\"ל התפעול ומנהל המוצר הראשי של נטפליקס, נטפליקס עצמה דיבבה ב-2021 כ-5 מיליון דקות תוכן.",
       "claims": [
-       "c51"
+       "c51",
+       "c-aud-20261127-2"
       ]
      },
      {
-      "text": "לפי Statista, 59% מהמבוגרים בארה\"ב אמרו שהם מעדיפים סרט זר מדובב לאנגלית על פני סרט עם כתוביות.",
+      "text": "לפי VentureBeat, שמסתמך על Statista, 59% מהמבוגרים בארה\"ב אמרו שהם מעדיפים סרט זר מדובב לאנגלית על פני סרט עם כתוביות.",
       "claims": [
-       "c53"
+       "c53",
+       "c-aud-20261127-3",
+       "c-aud-20261127-4"
       ]
      },
      {
@@ -164,7 +167,9 @@
     "m28",
     "m29"
    ],
-   "disagreements": []
+   "disagreements": [
+    "d9001"
+   ]
   },
   {
    "id": "s2",
@@ -270,9 +275,10 @@
     ],
     [
      {
-      "text": "לפי VentureBeat, המערכת עדיין לא מדבבת בזמן אמת, אבל היא משתלבת בעבודת הפוסט-פרודקשן.",
+      "text": "לפי VentureBeat, ב-2022 המערכת עוד לא דיבבה בזמן אמת, אבל השתלבה בעבודת הפוסט-פרודקשן. באפריל 2025 השיקה החברה את Deepdub Live, לדיבוב בזמן אמת.",
       "claims": [
-       "c26"
+       "c26",
+       "c-aud-20261127-1"
       ]
      },
      {
@@ -371,17 +377,19 @@
       ]
      },
      {
-      "text": "לפי ג'רוזלם פוסט, דיפדאב תרמה לדיבוב של כמה סרטים שמוקרנים בבתי קולנוע ברחבי העולם.",
+      "text": "לפי ג'רוזלם פוסט, ב-2023 כבר תרמה דיפדאב לדיבוב של כמה סרטים שהוקרנו אז בבתי קולנוע ברחבי העולם.",
       "claims": [
-       "c70"
+       "c70",
+       "c-aud-20261127-7"
       ]
      }
     ],
     [
      {
-      "text": "החברה עובדת גם עם רשת 13, אחת משדרניות הטלוויזיה המובילות בישראל.",
+      "text": "החברה עבדה גם עם רשת 13, אחת משדרניות הטלוויזיה המובילות בישראל.",
       "claims": [
-       "c65"
+       "c65",
+       "c-aud-20261127-6"
       ]
      },
      {
@@ -397,9 +405,10 @@
       ]
      },
      {
-      "text": "מנכ\"ל רשת, אמיליאנו קלמזוק, אמר שהטכנולוגיה מרחיבה את קהל החדשות הפוטנציאלי של רשת בעולם.",
+      "text": "מי שהיה אז מנכ\"ל רשת, אמיליאנו קלמזוק, אמר שהטכנולוגיה מרחיבה את קהל החדשות הפוטנציאלי של רשת בעולם.",
       "claims": [
-       "c68"
+       "c68",
+       "c-aud-20261127-5"
       ]
      }
     ]
@@ -722,6 +731,24 @@
      "says": "לפי TechCrunch, ניר הקים עם אחרים את Metapacket, שער רשת שנתמך על ידי Y Combinator",
      "claims": [
       "c7"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9001",
+   "question": "האם רוב האמריקאים מעדיפים דיבוב או כתוביות בתוכן בשפה זרה?",
+   "versions": [
+    {
+     "says": "VentureBeat, בהסתמך על Statista: 59% מהמבוגרים בארה\"ב מעדיפים סרטים זרים מדובבים לאנגלית",
+     "claims": [
+      "c-aud-20261127-3"
+     ]
+    },
+    {
+     "says": "YouGov: ‏41% מהאמריקאים מעדיפים כתוביות בתוכן בשפה שאינם מדברים, ו-17% מעדיפים דיבוב",
+     "claims": [
+      "c-aud-20261127-4"
      ]
     }
    ]
@@ -1325,6 +1352,69 @@
    "quote": "Deepdub says it’s working with both small and large Hollywood studios on projects, but isn’t able to say which ones due to non-disclosure agreements.",
    "status": "confirmed",
    "locator": "שורה 14"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "לפי VentureBeat, ב-2022 המערכת עוד לא דיבבה בזמן אמת, אבל השתלבה בעבודת הפוסט-פרודקשן. באפריל 2025 השיקה החברה את Deepdub Live, לדיבוב בזמן אמת.",
+   "source": "src9001",
+   "quote": "a game-changing real-time multilingual dubbing solution",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "לפי גרג פיטרס, שהיה אז סמנכ\"ל התפעול ומנהל המוצר הראשי של נטפליקס, נטפליקס עצמה דיבבה ב-2021 כ-5 מיליון דקות תוכן.",
+   "source": "src2",
+   "quote": "Netflix COO and Chief Product Officer Greg Peters noted the streamer had dubbed some 5 million run-time minutes of content in 2021",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "VentureBeat, בהסתמך על Statista: 59% מהמבוגרים בארה\"ב מעדיפים סרטים זרים מדובבים לאנגלית",
+   "source": "src7",
+   "quote": "59% of U.S. adults said that they'd prefer to watch foreign language films dubbed into English",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-4",
+   "text": "YouGov: ‏41% מהאמריקאים מעדיפים כתוביות בתוכן בשפה שאינם מדברים, ו-17% מעדיפים דיבוב",
+   "source": "src9002",
+   "quote": "When it comes to TV in a language they don't speak, 41% of Americans prefer to read subtitles.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-5",
+   "text": "מי שהיה אז מנכ\"ל רשת, אמיליאנו קלמזוק, אמר שהטכנולוגיה מרחיבה את קהל החדשות הפוטנציאלי של רשת בעולם.",
+   "source": "src9003",
+   "quote": "אלרום מחליף בתפקיד את אמיליאנו קלמזוק",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-6",
+   "text": "החברה עבדה גם עם רשת 13, אחת משדרניות הטלוויזיה המובילות בישראל.",
+   "source": "src10",
+   "quote": "has announced it is working with Reshet 13, one of Israel's leading broadcasters",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-7",
+   "text": "לפי ג'רוזלם פוסט, ב-2023 כבר תרמה דיפדאב לדיבוב של כמה סרטים שהוקרנו אז בבתי קולנוע ברחבי העולם.",
+   "source": "src1",
+   "quote": "has already contributed to the dubbing of several movies currently being screened in theaters worldwide.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1399,6 +1489,27 @@
    "label": "Calcalist / CTech, 2022",
    "url": "https://www.calcalistech.com/ctech/articles/0,7340,L-3929183,00.html",
    "kind": "press"
+  },
+  {
+   "id": "src9001",
+   "label": "Deepdub via PR Newswire, Deepdub Launches Deepdub Live, 3 April 2025",
+   "url": "https://www.prnewswire.com/news-releases/deepdub-launches-deepdub-live-bringing-real-time-emotive-dubbing-to-global-live-events-302419874.html",
+   "kind": "organisation",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9002",
+   "label": "YouGov, American adults under 30 watching TV with subtitles, 11 Aug 2023",
+   "url": "https://yougov.com/en-us/articles/45987-american-adults-under-30-watching-tv-subtitles",
+   "kind": "organisation",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9003",
+   "label": "Bizportal, Idan Elrom appointed acting CEO of Reshet 13, 19 May 2026",
+   "url": "https://www.bizportal.co.il/advertismentandmarketing/news/article/20032339",
+   "kind": "press",
+   "date": "2026-11-27"
   }
  ],
  "media": [

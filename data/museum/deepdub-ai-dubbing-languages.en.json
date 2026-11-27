@@ -28,7 +28,7 @@
    ]
   },
   {
-   "text": "According to TechCrunch, dubbing a two-hour film usually takes 15 to 20 weeks, and Deepdub completes it in about four weeks.",
+   "text": "According to TechCrunch, traditional dubbing of a two-hour film may take 15 to 20 weeks, and Deepdub can complete it in about four weeks.",
    "claims": [
     "c18"
    ]
@@ -139,15 +139,18 @@
       ]
      },
      {
-      "text": "According to Greg Peters of Netflix, the company dubbed some 5 million minutes of content in 2021.",
+      "text": "According to Greg Peters, then Netflix's COO and Chief Product Officer, Netflix itself dubbed some 5 million minutes of content in 2021.",
       "claims": [
-       "c51"
+       "c51",
+       "c-aud-20261127-2"
       ]
      },
      {
-      "text": "According to Statista, 59% of U.S. adults said they prefer a foreign film dubbed into English over a film with subtitles.",
+      "text": "According to VentureBeat, citing Statista, 59% of U.S. adults said they prefer a foreign film dubbed into English over a film with subtitles.",
       "claims": [
-       "c53"
+       "c53",
+       "c-aud-20261127-3",
+       "c-aud-20261127-4"
       ]
      },
      {
@@ -164,7 +167,9 @@
     "m28",
     "m29"
    ],
-   "disagreements": []
+   "disagreements": [
+    "d9001"
+   ]
   },
   {
    "id": "s2",
@@ -270,9 +275,10 @@
     ],
     [
      {
-      "text": "According to VentureBeat, the system does not yet dub in real time, but it fits into post-production work.",
+      "text": "According to VentureBeat, in 2022 the system could not yet dub in real time, but it fit into post-production work. In April 2025 the company launched Deepdub Live, for real-time dubbing.",
       "claims": [
-       "c26"
+       "c26",
+       "c-aud-20261127-1"
       ]
      },
      {
@@ -304,7 +310,7 @@
    "paragraphs": [
     [
      {
-      "text": "In October 2021, according to Slator, Deepdub announced its role in the first feature film dubbed entirely by artificial intelligence: Every Time I Die.",
+      "text": "In October 2021, according to Slator, Deepdub announced its role in what it defined as \"the first full-length film dubbed entirely by artificial intelligence\", Every Time I Die.",
       "claims": [
        "c38"
       ]
@@ -324,7 +330,7 @@
       ]
      },
      {
-      "text": "At the time it was available in English, Spanish and Portuguese, and more languages were expected to be added later.",
+      "text": "At the time it was available in several languages, including English, Spanish and Portuguese, and was expected to expand to more languages.",
       "claims": [
        "c29"
       ]
@@ -371,17 +377,19 @@
       ]
      },
      {
-      "text": "According to the Jerusalem Post, Deepdub contributed to the dubbing of several films being screened in theaters worldwide.",
+      "text": "According to the Jerusalem Post, by 2023 Deepdub had contributed to the dubbing of several films then being screened in theaters worldwide.",
       "claims": [
-       "c70"
+       "c70",
+       "c-aud-20261127-7"
       ]
      }
     ],
     [
      {
-      "text": "The company also works with Reshet 13, one of Israel's leading television broadcasters.",
+      "text": "The company also worked with Reshet 13, one of Israel's leading television broadcasters.",
       "claims": [
-       "c65"
+       "c65",
+       "c-aud-20261127-6"
       ]
      },
      {
@@ -397,9 +405,10 @@
       ]
      },
      {
-      "text": "Reshet CEO Emiliano Calemzuk said the technology expands Reshet's potential worldwide news audience.",
+      "text": "Emiliano Calemzuk, Reshet's CEO at the time, said the technology expands Reshet's potential worldwide news audience.",
       "claims": [
-       "c68"
+       "c68",
+       "c-aud-20261127-5"
       ]
      }
     ]
@@ -526,7 +535,7 @@
     ],
     [
      {
-      "text": "He said he believes Deepdub is the next great leap in global content distribution.",
+      "text": "George Mathew, a managing partner at Insight Partners, which led the funding round, said he believes Deepdub represents the next great leap in global content distribution, engagement and consumption.",
       "claims": [
        "c47"
       ]
@@ -580,7 +589,7 @@
       ]
      },
      {
-      "text": "Studios are increasingly adding provisions to contracts that allow synthetic voices to be used in place of actors.",
+      "text": "Studios are increasingly adding provisions to contracts that allow synthetic voices to be used in place of actors \"when needed\", for example to fix dialogue lines in post-production.",
       "claims": [
        "c55"
       ]
@@ -722,6 +731,24 @@
      "says": "According to TechCrunch, Nir co-founded Metapacket, a Y Combinator-backed network gateway",
      "claims": [
       "c7"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9001",
+   "question": "Do most Americans prefer dubbing or subtitles for foreign-language content?",
+   "versions": [
+    {
+     "says": "VentureBeat, citing Statista: 59% of U.S. adults prefer foreign films dubbed into English",
+     "claims": [
+      "c-aud-20261127-3"
+     ]
+    },
+    {
+     "says": "YouGov: 41% of Americans prefer subtitles for TV in a language they don't speak, and 17% prefer dubbed audio",
+     "claims": [
+      "c-aud-20261127-4"
      ]
     }
    ]
@@ -1325,6 +1352,69 @@
    "quote": "Deepdub says it’s working with both small and large Hollywood studios on projects, but isn’t able to say which ones due to non-disclosure agreements.",
    "status": "confirmed",
    "locator": "שורה 14"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "לפי VentureBeat, ב-2022 המערכת עוד לא דיבבה בזמן אמת, אבל השתלבה בעבודת הפוסט-פרודקשן. באפריל 2025 השיקה החברה את Deepdub Live, לדיבוב בזמן אמת.",
+   "source": "src9001",
+   "quote": "a game-changing real-time multilingual dubbing solution",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "לפי גרג פיטרס, שהיה אז סמנכ\"ל התפעול ומנהל המוצר הראשי של נטפליקס, נטפליקס עצמה דיבבה ב-2021 כ-5 מיליון דקות תוכן.",
+   "source": "src2",
+   "quote": "Netflix COO and Chief Product Officer Greg Peters noted the streamer had dubbed some 5 million run-time minutes of content in 2021",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "VentureBeat, בהסתמך על Statista: 59% מהמבוגרים בארה\"ב מעדיפים סרטים זרים מדובבים לאנגלית",
+   "source": "src7",
+   "quote": "59% of U.S. adults said that they'd prefer to watch foreign language films dubbed into English",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-4",
+   "text": "YouGov: ‏41% מהאמריקאים מעדיפים כתוביות בתוכן בשפה שאינם מדברים, ו-17% מעדיפים דיבוב",
+   "source": "src9002",
+   "quote": "When it comes to TV in a language they don't speak, 41% of Americans prefer to read subtitles.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-5",
+   "text": "מי שהיה אז מנכ\"ל רשת, אמיליאנו קלמזוק, אמר שהטכנולוגיה מרחיבה את קהל החדשות הפוטנציאלי של רשת בעולם.",
+   "source": "src9003",
+   "quote": "אלרום מחליף בתפקיד את אמיליאנו קלמזוק",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-6",
+   "text": "החברה עבדה גם עם רשת 13, אחת משדרניות הטלוויזיה המובילות בישראל.",
+   "source": "src10",
+   "quote": "has announced it is working with Reshet 13, one of Israel's leading broadcasters",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-7",
+   "text": "לפי ג'רוזלם פוסט, ב-2023 כבר תרמה דיפדאב לדיבוב של כמה סרטים שהוקרנו אז בבתי קולנוע ברחבי העולם.",
+   "source": "src1",
+   "quote": "has already contributed to the dubbing of several movies currently being screened in theaters worldwide.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1399,6 +1489,27 @@
    "label": "Calcalist / CTech, 2022",
    "url": "https://www.calcalistech.com/ctech/articles/0,7340,L-3929183,00.html",
    "kind": "press"
+  },
+  {
+   "id": "src9001",
+   "label": "Deepdub via PR Newswire, Deepdub Launches Deepdub Live, 3 April 2025",
+   "url": "https://www.prnewswire.com/news-releases/deepdub-launches-deepdub-live-bringing-real-time-emotive-dubbing-to-global-live-events-302419874.html",
+   "kind": "organisation",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9002",
+   "label": "YouGov, American adults under 30 watching TV with subtitles, 11 Aug 2023",
+   "url": "https://yougov.com/en-us/articles/45987-american-adults-under-30-watching-tv-subtitles",
+   "kind": "organisation",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9003",
+   "label": "Bizportal, Idan Elrom appointed acting CEO of Reshet 13, 19 May 2026",
+   "url": "https://www.bizportal.co.il/advertismentandmarketing/news/article/20032339",
+   "kind": "press",
+   "date": "2026-11-27"
   }
  ],
  "media": [

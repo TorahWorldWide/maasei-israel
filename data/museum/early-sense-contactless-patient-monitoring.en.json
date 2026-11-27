@@ -1,7 +1,7 @@
 {
  "schema": "maasei-museum/1",
  "slug": "early-sense-contactless-patient-monitoring",
- "deed": "חברת ארלי-סנס מנטרת חולים בלי מגע ומונעת נפילות בבית החולים",
+ "deed": "EarlySense monitors patients without contact and prevents falls in hospitals",
  "canonical_type": "team-invention",
  "year": "2004",
  "title": "Israel's EarlySense developed an under-mattress sensor that monitors patients' heart rate and breathing without contact",
@@ -233,9 +233,10 @@
       ]
      },
      {
-      "text": "According to NICE, in a case series of 38 intensive care patients, heart rate accuracy was 92.1% and breathing rate accuracy was 80.1%, compared with manual counting.",
+      "text": "According to NICE, in a case series of 38 intensive care patients, heart rate accuracy was 92.1% compared with ECG, and breathing rate accuracy was 80.1% compared with manual counting.",
       "claims": [
-       "c69"
+       "c69",
+       "c-aud-20261127-1"
       ]
      }
     ],
@@ -502,9 +503,10 @@
       ]
      },
      {
-      "text": "Prof. Robert Wachter, whom the company quotes as supporting the study, is a member of the company's Medical Advisory Board.",
+      "text": "Prof. Robert Wachter, whom the company quoted in 2012 as supporting the study, was then a member of the company's Medical Advisory Board.",
       "claims": [
-       "c65"
+       "c65",
+       "c-aud-20261127-3"
       ]
      }
     ],
@@ -542,9 +544,10 @@
       ]
      },
      {
-      "text": "According to Calcalist, EarlySense sold its intellectual property rights for $30 million.",
+      "text": "According to Calcalist, earlier, in February 2021, EarlySense had sold Hillrom the rights to use its technology in hospitals for about $30 million.",
       "claims": [
-       "c57"
+       "c57",
+       "c-aud-20261127-2"
       ]
      }
     ]
@@ -1168,6 +1171,33 @@
    "quote": "EarlySense was founded in 2004.",
    "status": "confirmed",
    "locator": "שורה 43"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "לפי NICE, בסדרת מקרים של 38 מטופלי טיפול נמרץ, דיוק הדופק היה 92.1% בהשוואה לא.ק.ג., ודיוק קצב הנשימה היה 80.1% בהשוואה לספירה ידנית.",
+   "source": "src2",
+   "quote": "the heart rate accuracy was 92.1% compared with ECG and the respiratory rate accuracy was 80.1% compared with manual measurements",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "לפי כלכליסט, עוד קודם לכן, בפברואר 2021, מכרה ארלי-סנס להיל-רום את הזכויות לשימוש בטכנולוגיה שלה בבתי חולים, תמורת כ-30 מיליון דולר.",
+   "source": "src9001",
+   "quote": "In February 2021, the company sold the rights to use its technology to the American medical technology giant Hillrom",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "פרופ' רוברט וואכטר, שהחברה ציטטה ב-2012 כתומך במחקר, היה אז חבר במועצה הרפואית המייעצת של החברה.",
+   "source": "src9",
+   "quote": "a member of the EarlySense Medical Advisory Board",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1248,6 +1278,13 @@
    "label": "Calcalist (CTech): An early demise: The sad end of Israel's EarlySense",
    "url": "https://en.globes.co.il/en/article-hapoalim-leads-$25m-round-in-patient-monitoring-co-earlysense-1001129417",
    "kind": "press"
+  },
+  {
+   "id": "src9001",
+   "label": "Calcalist (CTech), An early demise: The sad end of Israel's EarlySense, 21.11.22",
+   "url": "https://www.calcalistech.com/ctechnews/article/bkyc70u8j",
+   "kind": "press",
+   "date": "2026-11-27"
   }
  ],
  "media": [

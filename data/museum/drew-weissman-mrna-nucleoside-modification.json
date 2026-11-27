@@ -4,7 +4,7 @@
  "deed": "דרו וייסמן ושינוי אבני הבניין של ה-mRNA",
  "canonical_type": "scientific-discovery",
  "year": "2005",
- "title": "דרו וייסמן וקטלין קריקו שינו את אבני הבניין של ה-mRNA, ועל זה נשענו חיסוני הקורונה",
+ "title": "דרו וייסמן וקטלין קריקו שינו את אבני הבניין של ה-mRNA, ועל זה נשענו חיסוני ה-mRNA נגד הקורונה",
  "trailer": [
   {
    "text": "דרו וייסמן, אימונולוג ומדען יהודי-אמריקאי, זכה בפרס נובל לפיזיולוגיה או לרפואה לשנת 2023 יחד עם הביוכימאית ההונגרייה קטלין קריקו.",
@@ -23,10 +23,11 @@
    ]
   },
   {
-   "text": "וייסמן וקריקו, עמיתים באוניברסיטת פנסילבניה, גילו ב-2005 ששינויים מסוימים באבני הבניין של ה-RNA מונעים תגובות דלקתיות לא רצויות ומגבירים ייצור חלבונים רצויים.",
+   "text": "וייסמן וקריקו, עמיתים באוניברסיטת פנסילבניה, גילו ב-2005 ששינויים מסוימים באבני הבניין של ה-RNA מונעים תגובות דלקתיות לא רצויות, ובמחקרים מ-2008 ומ-2010 הראו שהם גם מגבירים ייצור חלבונים רצויים.",
    "claims": [
     "c8",
-    "c18"
+    "c18",
+    "c-aud-20261127-1"
    ]
   },
   {
@@ -370,9 +371,10 @@
     ],
     [
      {
-      "text": "החל מתחילת שנות ה-2000 ערכו קריקו ווייסמן ניסויים בבעלי חיים בחיסוני mRNA נגד פתוגנים שונים, ובהם זיקה, שפעת ו-HIV.",
+      "text": "לפי הרקע המדעי של ועדת נובל, ב-2017 דיווחו נורברט פרדי ווייסמן על תוצאות פרה-קליניות מבטיחות של חיסוני mRNA עם בסיסים מותאמים נגד נגיף הזיקה.",
       "claims": [
-       "c37"
+       "c37",
+       "c-aud-20261127-3"
       ]
      },
      {
@@ -384,9 +386,10 @@
     ],
     [
      {
-      "text": "לפי בריטניקה, השניים העבירו את הטכנולוגיה ברישיון לחברות מודרנה וביונטק.",
+      "text": "הפטנטים היו של אוניברסיטת פנסילבניה, שהעניקה ב-2010 רישיון בלעדי לחברת mRNA RiboTherapeutics, וזו העבירה אותו לחברה הקשורה Cellscript, שחתמה ב-2017 על הסכמים עם מודרנה וביונטק.",
       "claims": [
-       "c54"
+       "c54",
+       "c-aud-20261127-2"
       ]
      }
     ],
@@ -507,9 +510,10 @@
       ]
      },
      {
-      "text": "לפי אוניברסיטת פנסילבניה, נציגי קרן נובל יצרו איתם קשר בבוקר אותו יום.",
+      "text": "לפי אוניברסיטת פנסילבניה, צוות נובל התקשר לקריקו לפנות בוקר אותו יום, אך לא הצליח להשיג את וייסמן כי היה בידיו מספר שגוי, וקריקו היא שבישרה לו.",
       "claims": [
-       "c2"
+       "c2",
+       "c-aud-20261127-5"
       ]
      }
     ],
@@ -527,9 +531,10 @@
       ]
      },
      {
-      "text": "לפי אתר Penn, קריקו היא אחת מ-61 נשים בלבד שזכו בנובל, והאישה ה-13 בלבד בפרס לפיזיולוגיה או לרפואה.",
+      "text": "לפי אתר Penn, בעת זכייתה ב-2023 הייתה קריקו אחת מ-61 נשים בלבד שזכו בנובל עד אז, והאישה ה-13 בלבד בפרס לפיזיולוגיה או לרפואה.",
       "claims": [
-       "c65"
+       "c65",
+       "c-aud-20261127-4"
       ]
      }
     ],
@@ -630,9 +635,10 @@
     ],
     [
      {
-      "text": "וייסמן מקבל דואר מעריצים מכל העולם מאנשים שמודים לו על עבודתו.",
+      "text": "לפי הוושינגטון פוסט ב-2021, וייסמן קיבל במשך חודשים דואר מעריצים מכל העולם מאנשים שהודו לו על עבודתו.",
       "claims": [
-       "c78"
+       "c78",
+       "c-aud-20261127-6"
       ]
      },
      {
@@ -1211,6 +1217,60 @@
    "quote": "For months, the postcards and letters have flowed in from across the world,",
    "status": "confirmed",
    "locator": "שורה 2"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "וייסמן וקריקו, עמיתים באוניברסיטת פנסילבניה, גילו ב-2005 ששינויים מסוימים באבני הבניין של ה-RNA מונעים תגובות דלקתיות לא רצויות, ובמחקרים מ-2008 ומ-2010 הראו שהם גם מגבירים ייצור חלבונים רצויים.",
+   "source": "src1",
+   "quote": "In further studies published in 2008 and 2010, Karikó and Weissman showed that the delivery of mRNA generated with base modifications markedly increased protein production",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "הפטנטים היו של אוניברסיטת פנסילבניה, שהעניקה ב-2010 רישיון בלעדי לחברת mRNA RiboTherapeutics, וזו העבירה אותו לחברה הקשורה Cellscript, שחתמה ב-2017 על הסכמים עם מודרנה וביונטק.",
+   "source": "src9001",
+   "quote": "In 2010, Penn followed a common practice of exclusively licensing the patent based on the original discovery",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "לפי הרקע המדעי של ועדת נובל, ב-2017 דיווחו נורברט פרדי ווייסמן על תוצאות פרה-קליניות מבטיחות של חיסוני mRNA עם בסיסים מותאמים נגד נגיף הזיקה.",
+   "source": "src5",
+   "quote": "In 2017, promising pre-clinical results of mRNA-based Zika virus vaccines that used modified bases were reported by Norbert Pardi and Weissman",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-4",
+   "text": "לפי אתר Penn, בעת זכייתה ב-2023 הייתה קריקו אחת מ-61 נשים בלבד שזכו בנובל עד אז, והאישה ה-13 בלבד בפרס לפיזיולוגיה או לרפואה.",
+   "source": "src9002",
+   "quote": "one of just 61 women",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261127-5",
+   "text": "לפי אוניברסיטת פנסילבניה, צוות נובל התקשר לקריקו לפנות בוקר אותו יום, אך לא הצליח להשיג את וייסמן כי היה בידיו מספר שגוי, וקריקו היא שבישרה לו.",
+   "source": "src9003",
+   "quote": "Karikó told Weissman the Nobel team couldn't reach him because they had the wrong number for him.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261127-6",
+   "text": "לפי הוושינגטון פוסט ב-2021, וייסמן קיבל במשך חודשים דואר מעריצים מכל העולם מאנשים שהודו לו על עבודתו.",
+   "source": "src15",
+   "quote": "For months, the postcards and letters have flowed in from across the world",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1297,6 +1357,27 @@
    "label": "The Washington Post (via Yahoo News): A scientific hunch. Then silence. Until the world needed a lifesaving vaccine",
    "url": "https://www.yahoo.com/news/scientific-hunch-then-silence-until-134722502.html",
    "kind": "press"
+  },
+  {
+   "id": "src9001",
+   "label": "The Philadelphia Inquirer, Research behind COVID-19 vaccines reaps close to $1 billion in royalties for Penn, 2022",
+   "url": "https://www.inquirer.com/business/penn-covid-vaccine-technology-mrna-royalties-revenue-20220605.html",
+   "kind": "press",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9002",
+   "label": "Penn Center for Innovation, Karikó and Weissman Nobel Prize news, 10 Oct 2023",
+   "url": "https://pci.upenn.edu/",
+   "kind": "organisation",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9003",
+   "label": "Penn Today, A wrong number, a cryptic message, and a big win: Nobel for Weissman and Karikó, Oct 2023",
+   "url": "https://penntoday.upenn.edu/news/wrong-number-cryptic-message-and-big-win-nobel-weissman-kariko",
+   "kind": "organisation",
+   "date": "2026-11-27"
   }
  ],
  "media": [

@@ -238,9 +238,10 @@
       ]
      },
      {
-      "text": "לפי JTA, בגלל התנגדות המשפחה לפשיזם הם נאלצו לחיות במחבוא בפירנצה תחת השם הבדוי לוביזאטו.",
+      "text": "לפי בריטניקה, בזמן הכיבוש הגרמני של איטליה (1943–45) נאלצה להסתתר בפירנצה בגלל מוצאה היהודי.",
       "claims": [
-       "c38"
+       "c38",
+       "c-aud-20261127-3"
       ]
      }
     ]
@@ -290,9 +291,10 @@
     ],
     [
      {
-      "text": "לפי אתר פרס נובל, ב-1952 הצליחה לבודד חומר שנלקח מגידולים בעכברים וגרם לצמיחה נמרצת של מערכת העצבים בעוברי תרנגולת.",
+      "text": "ב-1952 נסעה למכון לביופיזיקה בריו דה ז׳ניירו כדי ללמוד את שיטת תרביות הרקמה, לצורך חקר החומר המסתורי שהפריש הגידול.",
       "claims": [
-       "c3"
+       "c3",
+       "c-aud-20261127-1"
       ]
      },
      {
@@ -417,9 +419,10 @@
       ]
      },
      {
-      "text": "ב-1988 פורסמה האוטוביוגרפיה שלה.",
+      "text": "ב-1988 פורסם התרגום האנגלי של האוטוביוגרפיה שלה, In Praise of Imperfection.",
       "claims": [
-       "c47"
+       "c47",
+       "c-aud-20261127-4"
       ]
      },
      {
@@ -622,9 +625,10 @@
      ]
     },
     {
-     "says": "NobelPrize.org: ב-1952 בודד החומר מגידולים בעכברים",
+     "says": "PNAS, 1954: כהן, לוי-מונטלצ׳יני והמבורגר דיווחו על בידוד הגורם מגידולי סרקומה בעכברים",
      "claims": [
-      "c3"
+      "c3",
+      "c-aud-20261127-2"
      ]
     }
    ]
@@ -1138,6 +1142,42 @@
    "quote": "In 1968, Levi-Montalcini was elected to the U.S. National Academy of Sciences, only the tenth woman to be honored",
    "status": "confirmed",
    "locator": "שורה 31"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "ב-1952 נסעה למכון לביופיזיקה בריו דה ז׳ניירו כדי ללמוד את שיטת תרביות הרקמה, לצורך חקר החומר המסתורי שהפריש הגידול.",
+   "source": "src21",
+   "quote": "She traveled to the Institute of Biophysics in Rio de Janeiro to learn the technique in 1952",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "PNAS, 1954: כהן, לוי-מונטלצ׳יני והמבורגר דיווחו על בידוד הגורם מגידולי סרקומה בעכברים",
+   "source": "src15",
+   "quote": "A nerve growth-stimulating factor isolated from sarcoma as 37 and 180",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "לפי בריטניקה, בזמן הכיבוש הגרמני של איטליה (1943–45) נאלצה להסתתר בפירנצה בגלל מוצאה היהודי.",
+   "source": "src12",
+   "quote": "forced into hiding in Florence during the German occupation of Italy (1943–45) because of her Jewish ancestry",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261127-4",
+   "text": "ב-1988 פורסם התרגום האנגלי של האוטוביוגרפיה שלה, In Praise of Imperfection.",
+   "source": "src21",
+   "quote": "Translated by Luigi Attardi. NY: Basic Books, 1988",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1289,7 +1329,7 @@
    "credit": "audrey_sel",
    "licence": "CC BY-SA 2.0",
    "hosting": "hotlink",
-   "caption": "לוי-מונטלצ׳יני בגיל 98, עומדת ליד דוכן הרצאות עם מיקרופון, בכנס NGF בקיבוץ כפר בלום ב-2008.",
+   "caption": "לוי-מונטלצ׳יני בגיל 99, עומדת ליד דוכן הרצאות עם מיקרופון, בכנס NGF בקיבוץ כפר בלום ב-2008.",
    "illustrates": [],
    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
    "date": "2008-09-04",

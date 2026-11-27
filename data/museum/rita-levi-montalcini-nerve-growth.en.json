@@ -1,7 +1,7 @@
 {
  "schema": "maasei-museum/1",
  "slug": "rita-levi-montalcini-nerve-growth",
- "deed": "ריטה לוי-מונטלצ׳יני גילתה את גורם גדילת העצב וזכתה בנובל לרפואה 1986",
+ "deed": "Rita Levi-Montalcini discovered nerve growth factor and won the 1986 Nobel Prize in Medicine",
  "canonical_type": "scientific-discovery",
  "year": "1951",
  "title": "Rita Levi-Montalcini: A Bedroom Laboratory under the Race Laws, Nerve Growth Factor and the Nobel Prize",
@@ -238,9 +238,10 @@
       ]
      },
      {
-      "text": "According to JTA, because of the family's opposition to fascism, they were forced to live in hiding in Florence under the assumed name of Lovisato.",
+      "text": "According to Britannica, during the German occupation of Italy (1943–45) she was forced into hiding in Florence because of her Jewish ancestry.",
       "claims": [
-       "c38"
+       "c38",
+       "c-aud-20261127-3"
       ]
      }
     ]
@@ -290,9 +291,10 @@
     ],
     [
      {
-      "text": "According to the Nobel Prize website, in 1952 she succeeded in isolating a substance taken from tumors in mice that caused vigorous growth of the nervous system in chicken embryos.",
+      "text": "In 1952 she travelled to the Institute of Biophysics in Rio de Janeiro to learn the tissue-culture technique, in order to study the mysterious substance released by the tumour.",
       "claims": [
-       "c3"
+       "c3",
+       "c-aud-20261127-1"
       ]
      },
      {
@@ -417,9 +419,10 @@
       ]
      },
      {
-      "text": "In 1988 her autobiography was published.",
+      "text": "In 1988 the English translation of her autobiography, In Praise of Imperfection, was published.",
       "claims": [
-       "c47"
+       "c47",
+       "c-aud-20261127-4"
       ]
      },
      {
@@ -622,9 +625,10 @@
      ]
     },
     {
-     "says": "NobelPrize.org: in 1952 the substance was isolated from tumours in mice",
+     "says": "PNAS, 1954: Cohen, Levi-Montalcini and Hamburger reported isolating the factor from mouse sarcomas",
      "claims": [
-      "c3"
+      "c3",
+      "c-aud-20261127-2"
      ]
     }
    ]
@@ -1138,6 +1142,42 @@
    "quote": "In 1968, Levi-Montalcini was elected to the U.S. National Academy of Sciences, only the tenth woman to be honored",
    "status": "confirmed",
    "locator": "שורה 31"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "ב-1952 נסעה למכון לביופיזיקה בריו דה ז׳ניירו כדי ללמוד את שיטת תרביות הרקמה, לצורך חקר החומר המסתורי שהפריש הגידול.",
+   "source": "src21",
+   "quote": "She traveled to the Institute of Biophysics in Rio de Janeiro to learn the technique in 1952",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "PNAS, 1954: כהן, לוי-מונטלצ׳יני והמבורגר דיווחו על בידוד הגורם מגידולי סרקומה בעכברים",
+   "source": "src15",
+   "quote": "A nerve growth-stimulating factor isolated from sarcoma as 37 and 180",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "לפי בריטניקה, בזמן הכיבוש הגרמני של איטליה (1943–45) נאלצה להסתתר בפירנצה בגלל מוצאה היהודי.",
+   "source": "src12",
+   "quote": "forced into hiding in Florence during the German occupation of Italy (1943–45) because of her Jewish ancestry",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261127-4",
+   "text": "ב-1988 פורסם התרגום האנגלי של האוטוביוגרפיה שלה, In Praise of Imperfection.",
+   "source": "src21",
+   "quote": "Translated by Luigi Attardi. NY: Basic Books, 1988",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1289,7 +1329,7 @@
    "credit": "audrey_sel",
    "licence": "CC BY-SA 2.0",
    "hosting": "hotlink",
-   "caption": "Levi-Montalcini aged 98, standing at a lectern with a microphone, at an NGF conference at Kibbutz Kfar Blum in 2008.",
+   "caption": "Levi-Montalcini aged 99, standing at a lectern with a microphone, at an NGF conference at Kibbutz Kfar Blum in 2008.",
    "illustrates": [],
    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
    "date": "2008-09-04",

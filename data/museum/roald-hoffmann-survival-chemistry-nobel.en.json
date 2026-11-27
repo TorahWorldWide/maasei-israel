@@ -1,7 +1,7 @@
 {
  "schema": "maasei-museum/1",
  "slug": "roald-hoffmann-survival-chemistry-nobel",
- "deed": "רואלד הופמן — הישרדות במסתור ונובל לכימיה",
+ "deed": "Roald Hoffmann — Survival in Hiding and a Nobel Prize in Chemistry",
  "canonical_type": "historical-figure",
  "year": "1943",
  "title": "Roald Hoffmann: A Jewish Boy Hidden in a Schoolhouse in a Ukrainian Village, Who Won the Nobel Prize in Chemistry",
@@ -130,9 +130,10 @@
     ],
     [
      {
-      "text": "According to Yad Vashem, in July 1941, when Roald was four years old, the German army conquered Złoczów.",
+      "text": "On 1 July 1941, when Roald was almost four, the German army entered Złoczów.",
       "claims": [
-       "c10"
+       "c10",
+       "c-aud-20261127-4"
       ]
      },
      {
@@ -410,7 +411,8 @@
     "m3"
    ],
    "disagreements": [
-    "d2"
+    "d2",
+    "d9001"
    ]
   },
   {
@@ -623,9 +625,10 @@
       ]
      },
      {
-      "text": "Hoffmann said that he had not known about the murder of hundreds of Ukrainians by the NKVD in the prison of Złoczów Castle, days before the Nazi occupation.",
+      "text": "Hoffmann said that he had not previously known about the murder of hundreds of Ukrainians by the NKVD in the prison of Złoczów Castle, days before the Nazi occupation, and that he learned of it from the Ukrainian poet and historian Marco Carynnyk of Canada.",
       "claims": [
-       "c73"
+       "c73",
+       "c-aud-20261127-1"
       ]
      }
     ],
@@ -751,6 +754,24 @@
      "says": "Zaxid.net: he was one of the leaders of the Jewish underground in the camp and was shot by the Germans",
      "claims": [
       "c81"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9001",
+   "question": "When were Hoffmann and his mother freed by the Red Army?",
+   "versions": [
+    {
+     "says": "Hoffmann in his oral history: in June 1944",
+     "claims": [
+      "c-aud-20261127-2"
+     ]
+    },
+    {
+     "says": "Encyclopaedia Judaica: Soviet forces re-entered Złoczów on 13 July 1944",
+     "claims": [
+      "c-aud-20261127-3"
      ]
     }
    ]
@@ -1340,6 +1361,42 @@
    "quote": "2023 Great Immigrants",
    "status": "confirmed",
    "locator": "שורה 1"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "הופמן אמר שבעבר לא ידע על רצח מאות אוקראינים בידי ה-NKVD בכלא טירת זלוצ'וב, ימים לפני הכיבוש הנאצי, ושלמד על כך מהמשורר וההיסטוריון האוקראיני מרקו צרינניק מקנדה.",
+   "source": "src8",
+   "quote": "Я дізнався про це від українського поета та історика Марка Царинника з Канади.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "הופמן בתולדות בעל-פה: ביוני 1944",
+   "source": "src9001",
+   "quote": "In June '44, I was almost seven, when we came out.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "האנציקלופדיה יודאיקה: הכוחות הסובייטיים נכנסו שוב לזלוצ'וב ב-13 ביולי 1944",
+   "source": "src9002",
+   "quote": "Soviet forces reentered Zolochev on July 13, 1944.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-4",
+   "text": "ב-1 ביולי 1941, כשרואלד היה כמעט בן ארבע, נכנס הצבא הגרמני לזלוצ'וב.",
+   "source": "src9002",
+   "quote": "German forces reached Zolochev on July 1.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1408,6 +1465,20 @@
    "label": "Carnegie Corporation of New York: Great Immigrants Awards – Roald Hoffmann",
    "url": "https://www.carnegie.org/awards/honoree/roald-hoffmann/",
    "kind": "organisation"
+  },
+  {
+   "id": "src9001",
+   "label": "Science History Institute, Roald Hoffmann oral history",
+   "url": "https://digital.sciencehistory.org/works/c27a8s8",
+   "kind": "organisation",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9002",
+   "label": "Encyclopaedia Judaica via Jewish Virtual Library, Zolochev",
+   "url": "https://www.jewishvirtuallibrary.org/jsource/judaica/ejud_0002_0021_0_21611.html",
+   "kind": "reference",
+   "date": "2026-11-27"
   }
  ],
  "media": [

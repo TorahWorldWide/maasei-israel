@@ -1,7 +1,7 @@
 {
  "schema": "maasei-museum/1",
  "slug": "japan-field-hospital-2011",
- "deed": "ישראל הקימה ביפן את בית-החולים השדה הראשון של מדינה זרה אחרי הצונאמי",
+ "deed": "Israel set up in Japan the first field hospital of a foreign country after the tsunami",
  "canonical_type": "rescue-operation",
  "year": "2011",
  "title": "An IDF delegation set up a field clinic in the city of Minamisanriku in Japan after the tsunami and handed it over to the city",
@@ -34,9 +34,10 @@
    ]
   },
   {
-   "text": "On April 10, the delegation left Japan, having handed over a functioning field hospital to the local authorities.",
+   "text": "On April 10, its last day in the city, the delegation handed over a functioning field hospital to the local authorities, and on April 12 it returned to Israel.",
    "claims": [
-    "c42"
+    "c42",
+    "c-aud-20261127-1"
    ]
   }
  ],
@@ -125,9 +126,10 @@
     ],
     [
      {
-      "text": "According to JNS, on March 11, 2011, 12,000 people lived in the fishing village of Minamisanriku.",
+      "text": "On March 11, 2011, about 17,000 people lived in the coastal town of Minamisanriku.",
       "claims": [
-       "c4"
+       "c4",
+       "c-aud-20261127-5"
       ]
      },
      {
@@ -240,15 +242,10 @@
       ]
      },
      {
-      "text": "The Japanese parliament held a special session to give the members of the delegation a special permit to treat the residents.",
+      "text": "On March 14, 2011, Japan's Health Ministry notified the affected prefectures that holders of foreign medical licenses could perform the minimum necessary medical treatment.",
       "claims": [
-       "c15"
-      ]
-     },
-     {
-      "text": "According to the Jerusalem Post, of all the foreign teams, only the doctors of the Israeli delegation were allowed to treat patients without a Japanese medical license.",
-      "claims": [
-       "c35"
+       "c15",
+       "c-aud-20261127-3"
       ]
      }
     ]
@@ -290,12 +287,6 @@
       "text": "On March 28, the IDF Home Front Command and Medical Corps delegation arrived in Minamisanriku.",
       "claims": [
        "c24"
-      ]
-     },
-     {
-      "text": "The city lies 310 miles north of Tokyo.",
-      "claims": [
-       "c2"
       ]
      },
      {
@@ -450,7 +441,8 @@
      {
       "text": "According to Japan's Headquarters for Earthquake Research Promotion, on April 7, 2011 at 23:32 (Japan time), a magnitude 7.1 earthquake occurred.",
       "claims": [
-       "c67"
+       "c67",
+       "c-aud-20261127-9"
       ]
      }
     ]
@@ -482,9 +474,10 @@
       ]
      },
      {
-      "text": "According to a Walla report, the mayor of Kurihara studied at the University of Haifa 38 years ago, and has respected Israelis ever since.",
+      "text": "According to a 2011 Walla report, the mayor of Kurihara had studied at the University of Haifa 38 years earlier, and has respected Israelis ever since.",
       "claims": [
-       "c65"
+       "c65",
+       "c-aud-20261127-7"
       ]
      }
     ],
@@ -525,9 +518,10 @@
       ]
      },
      {
-      "text": "According to the article in Israel Hayom, on April 10, a month after the disaster, the delegation left Japan, after handing over a functioning field hospital to the local authorities.",
+      "text": "According to a delegation member's diary on Walla, on April 10 the delegation said goodbye to Minamisanriku, and the next day, exactly a month after the tsunami, it set out for Tokyo and from there to the airport.",
       "claims": [
-       "c42"
+       "c42",
+       "c-aud-20261127-2"
       ]
      }
     ],
@@ -654,9 +648,10 @@
    "question": "How many people were in the delegation?",
    "versions": [
     {
-     "says": "eJewishPhilanthropy: About 50 IDF physicians",
+     "says": "Japan's Foreign Ministry: 53 delegation members, including 14 doctors and 7 nurses",
      "claims": [
-      "c2"
+      "c2",
+      "c-aud-20261127-6"
      ]
     },
     {
@@ -671,12 +666,6 @@
    "id": "d3",
    "question": "How many residents did the city have, and how many were killed?",
    "versions": [
-    {
-     "says": "JNS: On March 11, 2011, 12,000 people lived in the city",
-     "claims": [
-      "c4"
-     ]
-    },
     {
      "says": "Mayor Sato, according to JNS: The community lost 831 people",
      "claims": [
@@ -726,9 +715,10 @@
      ]
     },
     {
-     "says": "Walla: The mayor of Kurihara studied at the University of Haifa 38 years ago",
+     "says": "Walla (2011): The mayor of Kurihara had studied at the University of Haifa 38 years earlier",
      "claims": [
-      "c65"
+      "c65",
+      "c-aud-20261127-8"
      ]
     }
    ]
@@ -744,21 +734,16 @@
      ]
     },
     {
-     "says": "JNS: The Japanese parliament held a special session and gave the members of the delegation a special permit",
+     "says": "Japan's Health Ministry: on March 14, 2011, holders of foreign medical licenses were allowed to perform minimum necessary medical treatment in the disaster areas",
      "claims": [
-      "c15"
+      "c15",
+      "c-aud-20261127-4"
      ]
     },
     {
      "says": "Walla: The Japanese issued a special permit allowing foreign doctors to treat Japanese people",
      "claims": [
       "c16"
-     ]
-    },
-    {
-     "says": "Jerusalem Post: Only the Israeli doctors were allowed to treat without a Japanese license",
-     "claims": [
-      "c35"
      ]
     }
    ]
@@ -965,14 +950,6 @@
    "quote": "The Japanese parliament also held a special session to issue the members of the Israeli delegation with a special permit that would allow them to treat the locals.",
    "status": "confirmed",
    "locator": "שורה 10"
-  },
-  {
-   "id": "c35",
-   "text": "לפי ה-Jerusalem Post, המשלחת הישראלית הייתה היחידה מבין צוותים זרים שרופאיה הורשו לטפל בלי רישיון רפואי יפני.",
-   "source": "src3",
-   "quote": "Among several medical teams sent by foreign countries, theirs was to be the only one whose doctors were allowed by the Japanese government to treat patients without Japanese medical license.",
-   "status": "confirmed",
-   "locator": "שורה 75"
   },
   {
    "id": "c22",
@@ -1285,6 +1262,87 @@
    "quote": "On April 7, 2011 at 23:32 (JST), there was a M7.1 earthquake",
    "status": "confirmed",
    "locator": "שורה 2"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "ב-10 באפריל, יומה האחרון בעיר, מסרה המשלחת לרשויות המקומיות בית חולים שדה פעיל, וב-12 באפריל חזרה לישראל.",
+   "source": "src9001",
+   "quote": "returned to Israel today",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "לפי יומן של חבר המשלחת בוואלה, ב-10 באפריל נפרדה המשלחת ממינאמיסנריקו, ולמחרת, חודש בדיוק אחרי הצונאמי, יצאה לטוקיו ומשם לנמל התעופה.",
+   "source": "src8",
+   "quote": "אנו משכימים ויוצאים לדרך הארוכה לטוקיו",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "ב-14 במרץ 2011 הודיע משרד הבריאות היפני למחוזות שנפגעו שבעלי רישיון רפואי זר רשאים לבצע את הטיפול הרפואי ההכרחי המינימלי.",
+   "source": "src9002",
+   "quote": "外国の医師資格を有する者が、必要最小限の医療行為を行うことを認める旨、被災都道府県に通知",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-4",
+   "text": "משרד הבריאות היפני: ב-14 במרץ 2011 הותר לבעלי רישיון רפואי זר לבצע באזורי האסון טיפול רפואי הכרחי מינימלי",
+   "source": "src9002",
+   "quote": "外国の医師資格を有する者が、必要最小限の医療行為を行うことを認める旨、被災都道府県に通知",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-5",
+   "text": "ב-11 במרץ 2011 חיו בעיר החוף מינאמיסנריקו כ-17,000 איש.",
+   "source": "src9003",
+   "quote": "with a population of about 17,000",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-6",
+   "text": "משרד החוץ היפני: 53 חברי משלחת, ובהם 14 רופאים ו-7 אחיות",
+   "source": "src9004",
+   "quote": "一行53名",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261127-7",
+   "text": "לפי כתבת וואלה מ-2011, ראש עיריית קוריהארה למד באוניברסיטת חיפה 38 שנים קודם לכן, ומאז הוא מכבד את הישראלים.",
+   "source": "src8",
+   "quote": "שלפני 38 שנים למד באוניברסיטת חיפה",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-8",
+   "text": "וואלה (2011): ראש עיריית קוריהארה למד באוניברסיטת חיפה 38 שנים קודם לכן",
+   "source": "src8",
+   "quote": "שלפני 38 שנים למד באוניברסיטת חיפה",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-9",
+   "text": "לפי המטה היפני לקידום מחקר רעידות אדמה, ב-7 באפריל 2011 בשעה 23:32 (שעון יפן) אירעה רעידת אדמה בעוצמה 7.1.",
+   "source": "src11",
+   "quote": "On April 7, 2011 at 23:32 (JST), there was a M7.1 earthquake",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1353,6 +1411,34 @@
    "label": "Headquarters for Earthquake Research Promotion (Japan), Earthquake Off-shore of Miyagi Prefecture on April 7",
    "url": "https://www.jishin.go.jp/main/chousa/11apr_miyagioki/p01h-e.htm",
    "kind": "official"
+  },
+  {
+   "id": "src9001",
+   "label": "eJewishPhilanthropy, IDF Aid Delegation to Japan Returns Home, April 12, 2011",
+   "url": "https://ejewishphilanthropy.com/idf-aid-delegation-to-japan-returns-home/",
+   "kind": "press",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9002",
+   "label": "Japan Ministry of Health, Labour and Welfare, notices issued March 14, 2011 (平成23年3月14日)",
+   "url": "https://www.mhlw.go.jp/stf/houdou/2r98520000015nly.html",
+   "kind": "official",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9003",
+   "label": "WBUR Here & Now, Japan Earthquake, March 14, 2011",
+   "url": "https://www.wbur.org/hereandnow/2011/03/14/japan-earthquake",
+   "kind": "press",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9004",
+   "label": "Japan Ministry of Foreign Affairs, Parliamentary Vice-Minister Kikuta's visit to Miyagi, April 4, 2011",
+   "url": "https://www.mofa.go.jp/mofaj/annai/honsho/seimu/kikuta/miyagi_110404/gaiyo.html",
+   "kind": "official",
+   "date": "2026-11-27"
   }
  ],
  "media": [

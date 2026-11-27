@@ -105,9 +105,10 @@
       ]
      },
      {
-      "text": "לפי דיווח המייחס זאת לאו\"ם, הציקלון נחשב לאסון הגרוע ביותר שפקד אי פעם את חצי הכדור הדרומי.",
+      "text": "לפי דוברת ארגון המטאורולוגיה העולמי של האו\"ם, אם הערכות מספר ההרוגים יתממשו, איידאי יהיה אחד האסונות הגרועים ביותר הקשורים במזג האוויר שפקדו את חצי הכדור הדרומי.",
       "claims": [
-       "c2"
+       "c2",
+       "c-aud-20261127-1"
       ]
      }
     ],
@@ -398,9 +399,10 @@
       ]
      },
      {
-      "text": "לדבריו, הצוות המשיך לפעול במחוזות סופלה ובוזי שבמרכז המדינה, שעדיין נזקקים לסיוע דחוף.",
+      "text": "לדבריו, הצוות המשיך לפעול במחוז סופלה שבמרכז המדינה, ובכלל זה בנפת בוזי, שעדיין נזקקים לסיוע דחוף.",
       "claims": [
-       "c37"
+       "c37",
+       "c-aud-20261127-2"
       ]
      }
     ],
@@ -981,6 +983,24 @@
    "quote": "Founded in 2001 by Shahar Zehavi, IsraAid brings together all of the professional Israeli and Jewish aid organizations",
    "status": "confirmed",
    "locator": "שורה 7"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "לפי דוברת ארגון המטאורולוגיה העולמי של האו\"ם, אם הערכות מספר ההרוגים יתממשו, איידאי יהיה אחד האסונות הגרועים ביותר הקשורים במזג האוויר שפקדו את חצי הכדור הדרומי.",
+   "source": "src9001",
+   "quote": "se estas estimativas forem concretizadas, então podemos dizer que este é um dos piores desastres climáticos",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "לדבריו, הצוות המשיך לפעול במחוז סופלה שבמרכז המדינה, ובכלל זה בנפת בוזי, שעדיין נזקקים לסיוע דחוף.",
+   "source": "src10",
+   "quote": "rescued by boat from a flooded area of Buzi district",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1055,6 +1075,13 @@
    "label": "ISRAEL21c: Saving lives in the wake of natural disasters",
    "url": "https://archive.israel21c.org/?p=5892",
    "kind": "press"
+  },
+  {
+   "id": "src9001",
+   "label": "Notícias ao Minuto (citing ONU News), Idai apontado como um dos piores desastres climáticos no hemisfério sul, March 2019",
+   "url": "https://www.noticiasaominuto.com/mundo/1219361/idai-apontado-como-um-dos-piores-desastres-climaticos-no-hemisferio-sul",
+   "kind": "press",
+   "date": "2026-11-27"
   }
  ],
  "media": [

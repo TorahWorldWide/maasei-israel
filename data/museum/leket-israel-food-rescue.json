@@ -321,9 +321,10 @@
       ]
      },
      {
-      "text": "באילת משתתפים בתוכנית 19 מלונות, ומדי יום מחולקות בעיר אלף ארוחות מוצלות.",
+      "text": "לפי כתבה משנת 2022, באילת השתתפו בתוכנית 19 מלונות, ומדי יום חולקו בעיר אלף ארוחות מוצלות.",
       "claims": [
-       "c57"
+       "c57",
+       "c-aud-20261127-2"
       ]
      }
     ]
@@ -413,9 +414,10 @@
    "paragraphs": [
     [
      {
-      "text": "ב-23 באוקטובר 2018, אחרי 10 שנים של לובינג נרחב, עבר חוק מתן מזון במליאת הכנסת.",
+      "text": "ב-22 באוקטובר 2018, אחרי 10 שנים של לובינג נרחב, עבר חוק עידוד תרומות מזון במליאת הכנסת.",
       "claims": [
-       "c24"
+       "c24",
+       "c-aud-20261127-3"
       ]
      },
      {
@@ -503,9 +505,10 @@
       ]
      },
      {
-      "text": "לפי כתבה משנת 2010, 20 מהעובדות בשכר בלקט היו נשים ערביות-ישראליות שהרוויחו לראשונה מעל שכר המינימום והיו להן הטבות בריאות מלאות.",
+      "text": "לפי כתבה משנת 2011, 20 מהעובדות בשכר בלקט היו נשים ערביות-ישראליות שהרוויחו לראשונה מעל שכר המינימום והיו להן הטבות בריאות מלאות.",
       "claims": [
-       "c45"
+       "c45",
+       "c-aud-20261127-1"
       ]
      },
      {
@@ -581,9 +584,10 @@
     ],
     [
      {
-      "text": "מנכ\"ל לקט, גידי כרוך, כינה את ממצאי הדו\"ח \"כישלון לאומי\", בלי הצדקה מוסרית, סביבתית, חברתית או כלכלית.",
+      "text": "מנכ\"ל לקט, גידי כרוך, כינה את ממצאי הדו\"ח השנתי העשירי של לקט ו-BDO, על נתוני 2024, \"כישלון לאומי\", בלי הצדקה מוסרית, סביבתית, חברתית או כלכלית.",
       "claims": [
-       "c50"
+       "c50",
+       "c-aud-20261127-4"
       ]
      },
      {
@@ -1150,6 +1154,42 @@
    "quote": "absolves food donors, non-profit organizations and staff and volunteers at the non-profit organizations",
    "status": "confirmed",
    "locator": "שורה 6"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "לפי כתבה משנת 2011, 20 מהעובדות בשכר בלקט היו נשים ערביות-ישראליות שהרוויחו לראשונה מעל שכר המינימום והיו להן הטבות בריאות מלאות.",
+   "source": "src3",
+   "quote": "April 26, 2011",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "לפי כתבה משנת 2022, באילת השתתפו בתוכנית 19 מלונות, ומדי יום חולקו בעיר אלף ארוחות מוצלות.",
+   "source": "src7",
+   "quote": "In Eilat alone, 19 hotels participate in the program, and a thousand rescued meals are distributed daily in the city.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "ב-22 באוקטובר 2018, אחרי 10 שנים של לובינג נרחב, עבר חוק עידוד תרומות מזון במליאת הכנסת.",
+   "source": "src9001",
+   "quote": "22 באוקטובר 2018",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261127-4",
+   "text": "מנכ\"ל לקט, גידי כרוך, כינה את ממצאי הדו\"ח השנתי העשירי של לקט ו-BDO, על נתוני 2024, \"כישלון לאומי\", בלי הצדקה מוסרית, סביבתית, חברתית או כלכלית.",
+   "source": "src5",
+   "quote": "10th Annual Food Waste and Rescue Report by Leket Israel and BDO",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1254,6 +1294,13 @@
    "label": "Yeshiva World News: Knesset Passes Food Donation Act",
    "url": "https://www.theyeshivaworld.com/?p=1609356",
    "kind": "press"
+  },
+  {
+   "id": "src9001",
+   "label": "Reshumot, Sefer HaChukim 2752, חוק עידוד תרומות מזון, התשע\"ט-2018, 29 October 2018",
+   "url": "https://fs.knesset.gov.il/20/law/20_lsr_518938.pdf",
+   "kind": "official",
+   "date": "2026-11-27"
   }
  ],
  "media": [

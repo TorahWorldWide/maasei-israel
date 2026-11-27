@@ -29,10 +29,11 @@
    ]
   },
   {
-   "text": "ה-FDA הרחיב את האישור לבני 12 ומעלה בינואר 2021, ובנובמבר 2024 גם לילדים מגיל שמונה.",
+   "text": "ה-FDA הרחיב את האישור לבני 12 ומעלה בינואר 2021, ובאוקטובר 2024 גם לילדים מגיל שמונה.",
    "claims": [
     "c39",
-    "c46"
+    "c46",
+    "c-aud-20261127-2"
    ]
   },
   {
@@ -168,9 +169,10 @@
    "paragraphs": [
     [
      {
-      "text": "פרופ' דוד ירניצקי מנהל את המחלקה הנוירולוגית ברמב\"ם ומנהל מעבדה בטכניון.",
+      "text": "בזמן המחקר ניהל פרופ' דוד ירניצקי את המחלקה הנוירולוגית ברמב\"ם ועמד בראש מעבדה בטכניון.",
       "claims": [
-       "c25"
+       "c25",
+       "c-aud-20261127-3"
       ]
      },
      {
@@ -368,9 +370,7 @@
     ]
    ],
    "media": [],
-   "disagreements": [
-    "d1"
-   ]
+   "disagreements": []
   },
   {
    "id": "s5",
@@ -483,9 +483,10 @@
    "paragraphs": [
     [
      {
-      "text": "בנובמבר 2024 הרחיב ה-FDA את האישור לילדים מגיל שמונה ומעלה.",
+      "text": "באוקטובר 2024 הרחיב ה-FDA את האישור לילדים מגיל שמונה ומעלה.",
       "claims": [
-       "c46"
+       "c46",
+       "c-aud-20261127-1"
       ]
      },
      {
@@ -615,24 +616,6 @@
   }
  ],
  "disagreements": [
-  {
-   "id": "d1",
-   "question": "מתי ניתן האישור הראשון של ה-FDA?",
-   "versions": [
-    {
-     "says": "לפי MobiHealthNews, האישור הראשון ניתן ב-2019, לטיפול בהתקף שכבר התחיל",
-     "claims": [
-      "c4"
-     ]
-    },
-    {
-     "says": "לפי NeurologyLive, האישור הראשוני ניתן באוקטובר 2020",
-     "claims": [
-      "c5"
-     ]
-    }
-   ]
-  },
   {
    "id": "d2",
    "question": "האם היו תופעות לוואי במחקר הנוער?",
@@ -1208,22 +1191,6 @@
    "locator": "שורה 307"
   },
   {
-   "id": "c4",
-   "text": "לפי MobiHealthNews, המכשיר קיבל לראשונה אישור De Novo מה-FDA בשנת 2019 לטיפול במיגרנה לאחר שהתחילה.",
-   "source": "src10",
-   "quote": "The device first received FDA De Novo clearance in 2019 to alleviate migraines once",
-   "status": "confirmed",
-   "locator": "שורה 5"
-  },
-  {
-   "id": "c5",
-   "text": "לפי NeurologyLive, Nerivio קיבל את האישור הראשוני שלו באוקטובר 2020.",
-   "source": "src5",
-   "quote": "Nerivio is the first FDA-cleared smartphone-controlled prescription wearable device for acute migraine treatment of episodic or chronic migraine in people 12 years and older and received its initial approval in October 2020.",
-   "status": "confirmed",
-   "locator": "שורה 21"
-  },
-  {
    "id": "c42",
    "text": "לפי NeurologyLive, במחקר הנוער נמצאה תופעת לוואי אחת הקשורה למכשיר (2%): תחושת כאב זמנית בזרוע.",
    "source": "src5",
@@ -1246,6 +1213,33 @@
    "quote": "Founded in 2016, Theranica announced it had received $45 million in Series C funding in August.",
    "status": "confirmed",
    "locator": "שורה 9"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "באוקטובר 2024 הרחיב ה-FDA את האישור לילדים מגיל שמונה ומעלה.",
+   "source": "src9001",
+   "quote": "10/08/2024",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "ה-FDA הרחיב את האישור לבני 12 ומעלה בינואר 2021, ובאוקטובר 2024 גם לילדים מגיל שמונה.",
+   "source": "src9001",
+   "quote": "10/08/2024",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "בזמן המחקר ניהל פרופ' דוד ירניצקי את המחלקה הנוירולוגית ברמב\"ם ועמד בראש מעבדה בטכניון.",
+   "source": "src9002",
+   "quote": "David Yarnitsky, MD, director, Department of Neurology, Rambam Health Care Campus, and head, Laboratory of Clinical Neurophysiology, Technion-Israel Institute of Technology",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1314,6 +1308,20 @@
    "label": "Contemporary Pediatrics, 2024",
    "url": "https://contemporarypediatrics.com/view/nerivio-ren-wearable-now-fda-cleared-to-treat-migraines-in-children-8-years-and-up",
    "kind": "press"
+  },
+  {
+   "id": "src9001",
+   "label": "U.S. FDA, 510(k) database, K241756 Nerivio; NerivioInfinity",
+   "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K241756",
+   "kind": "official",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9002",
+   "label": "NeurologyLive, Remote Electrical Neuromodulation Effective for Acute Migraine Treatment, 2019",
+   "url": "https://www.neurologylive.com/view/remote-electrical-neuromodulation-effective-acute-migraine-treatment",
+   "kind": "press",
+   "date": "2026-11-27"
   }
  ],
  "media": [

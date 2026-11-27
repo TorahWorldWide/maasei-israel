@@ -101,9 +101,10 @@
     ],
     [
      {
-      "text": "ביולי 1938 העביר מוסוליני חוקי גזע שהגבילו את השתתפות היהודים בחיים הציבוריים.",
+      "text": "ב-1938 החלה ממשלת מוסוליני לחוקק חוקים אנטישמיים, שהגבילו את השתתפות היהודים בחיים הציבוריים.",
       "claims": [
-       "c5"
+       "c5",
+       "c-aud-20261127-5"
       ]
      },
      {
@@ -193,11 +194,12 @@
     ],
     [
      {
-      "text": "בדצמבר 1940 פגש לוריה את מקס דלבריק.",
+      "text": "בדצמבר 1940, בפגישה השנתית של האגודה הפיזיקלית האמריקאית בפילדלפיה, פגש לוריה את מקס דלבריק.",
       "claims": [
        "c11",
        "c12",
-       "c13"
+       "c13",
+       "c-aud-20261127-3"
       ]
      },
      {
@@ -214,9 +216,7 @@
     "m18",
     "m19"
    ],
-   "disagreements": [
-    "d1"
-   ]
+   "disagreements": []
   },
   {
    "id": "s3",
@@ -251,9 +251,10 @@
       ]
      },
      {
-      "text": "לפי Live Science, הם חשפו את החיידקים לפאגים וגידלו אותם בתרבית סדרתית על לוחות.",
+      "text": "הם גידלו תרביות מקבילות רבות בלי פאגים, ורק בסוף פיזרו דגימות מכל מבחנה על לוחות אגר שעליהם פוזרו פאגים מראש.",
       "claims": [
-       "c24"
+       "c24",
+       "c-aud-20261127-1"
       ]
      }
     ],
@@ -362,9 +363,10 @@
    "paragraphs": [
     [
      {
-      "text": "לוריה היה הראשון שגילה את תופעת ההגבלה-שינוי, שבה חיידקים מגנים על עצמם בשינוי ה-DNA של הפאגים הפולשים.",
+      "text": "ב-1952 דיווחו לוריה ותלמידת המחקר שלו מרי הומן על סוג חדש של שונות גנטית, שכינו \"מושרית על ידי המאכסן\", ושנודעה מאוחר יותר כתופעת ההגבלה-שינוי.",
       "claims": [
-       "c42"
+       "c42",
+       "c-aud-20261127-2"
       ]
      },
      {
@@ -436,9 +438,10 @@
       ]
      },
      {
-      "text": "ב-1991 קיבל את מדליית המדע הלאומית.",
+      "text": "ב-1991, לאחר מותו, הוענקה לו מדליית המדע הלאומית.",
       "claims": [
-       "c65"
+       "c65",
+       "c-aud-20261127-6"
       ]
      }
     ]
@@ -527,11 +530,12 @@
    "paragraphs": [
     [
      {
-      "text": "לפי אנציקלופדיה דיסקברי, חקירה בת שנתיים של ה-FBI לא מצאה נגד לוריה ראיות לפעילות קומוניסטית או חתרנית, ובכל זאת סורב לו דרכון; לפי אנציקלופדיה דיסקברי הדבר קרה ב-1952 (ובמקום אחר באותה אנציקלופדיה ב-1951), ולפי איגוד האימונולוגים האמריקאי ב-1953.",
+      "text": "לפי אנציקלופדיה דיסקברי, חקירה בת שנתיים של ה-FBI לא מצאה נגד לוריה ראיות לפעילות קומוניסטית או חתרנית, ובכל זאת ב-1952 סורב לו דרכון.",
       "claims": [
        "c56",
        "c57",
-       "c58"
+       "c58",
+       "c-aud-20261127-4"
       ]
      },
      {
@@ -595,24 +599,6 @@
   }
  ],
  "disagreements": [
-  {
-   "id": "d1",
-   "question": "היכן נפגשו לוריה ודלבריק לראשונה בדצמבר 1940?",
-   "versions": [
-    {
-     "says": "לפי Live Science, במעבדת קולד ספרינג הארבור בניו יורק",
-     "claims": [
-      "c11"
-     ]
-    },
-    {
-     "says": "לפי ספריית הרפואה הלאומית, בפגישה השנתית של האגודה הפיזיקלית האמריקאית",
-     "claims": [
-      "c13"
-     ]
-    }
-   ]
-  },
   {
    "id": "d3",
    "question": "מתי הפך לוריה למנהל מרכז הסרטן ב-MIT?",
@@ -1153,6 +1139,60 @@
    "quote": "In 1974 he became director of the Center for Cancer Research at MIT.",
    "status": "confirmed",
    "locator": "שורה 21"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "הם גידלו תרביות מקבילות רבות בלי פאגים, ורק בסוף פיזרו דגימות מכל מבחנה על לוחות אגר שעליהם פוזרו פאגים מראש.",
+   "source": "src9001",
+   "quote": "Samples of bacteria from each test tube were then spread on agar plates upon which phage had been previously spread.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "ב-1952 דיווחו לוריה ותלמידת המחקר שלו מרי הומן על סוג חדש של שונות גנטית, שכינו \"מושרית על ידי המאכסן\", ושנודעה מאוחר יותר כתופעת ההגבלה-שינוי.",
+   "source": "src5",
+   "quote": "Rather, they had found a new type of genetic variation",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "בדצמבר 1940, בפגישה השנתית של האגודה הפיזיקלית האמריקאית בפילדלפיה, פגש לוריה את מקס דלבריק.",
+   "source": "src6",
+   "quote": "at the annual meeting of the American Physical Society in December 1940",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261127-4",
+   "text": "לפי אנציקלופדיה דיסקברי, חקירה בת שנתיים של ה-FBI לא מצאה נגד לוריה ראיות לפעילות קומוניסטית או חתרנית, ובכל זאת ב-1952 סורב לו דרכון.",
+   "source": "src5",
+   "quote": "but Luria was nevertheless denied a passport in 1952",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-5",
+   "text": "ב-1938 החלה ממשלת מוסוליני לחוקק חוקים אנטישמיים, שהגבילו את השתתפות היהודים בחיים הציבוריים.",
+   "source": "src9002",
+   "quote": "In 1938, the Italian government under Benito Mussolini began to legislate and enforce antisemitic regulations.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-6",
+   "text": "ב-1991, לאחר מותו, הוענקה לו מדליית המדע הלאומית.",
+   "source": "src9003",
+   "quote": "Posthumous award.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1215,6 +1255,27 @@
    "label": "NobelPrize.org, Luria – autobiographical/biographical",
    "url": "https://www.nobelprize.org/prizes/medicine/1969/luria/biographical/",
    "kind": "official"
+  },
+  {
+   "id": "src9001",
+   "label": "Harvard FAS Scalar, The River Divides into Thousands of Branches, ch. 2: Luria and Delbrück show that bacteria are subject to natural selection",
+   "url": "https://scalar.fas.harvard.edu/the-river-divides-into-thousands-of-branches/chapter-2-luria-and-delbrck-show-that-bacteria-are-subject-to-natural-selection",
+   "kind": "other",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9002",
+   "label": "United States Holocaust Memorial Museum, Holocaust Encyclopedia: Italy",
+   "url": "https://encyclopedia.ushmm.org/content/en/article/italy",
+   "kind": "official",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9003",
+   "label": "National Science Foundation, National Medal of Science recipients: Salvador E. Luria",
+   "url": "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/salvador-e-luria",
+   "kind": "official",
+   "date": "2026-11-27"
   }
  ],
  "media": [

@@ -7,13 +7,6 @@
  "title": "וולטר קוהן, ילד פליט מווינה, פיתח את תורת פונקציונל הצפיפות וזכה בנובל בכימיה",
  "trailer": [
   {
-   "text": "וולטר קוהן, שנולד בווינה ב-1923 להורים יהודים, זכה בפרס נובל בכימיה לשנת 1998 על פיתוח תורת פונקציונל הצפיפות.",
-   "claims": [
-    "c6",
-    "c47"
-   ]
-  },
-  {
    "text": "לפי האנציקלופדיה הקנדית, זמן קצר אחרי סיפוח אוסטריה לגרמניה הנאצית במרץ 1938 גורש מבית ספרו.",
    "claims": [
     "c8"
@@ -100,7 +93,7 @@
      {
       "text": "הוריו היהודים היו סלומון וגיטל קוהן.",
       "claims": [
-       "c6"
+       "c76"
       ]
      },
      {
@@ -593,19 +586,21 @@
      {
       "text": "במאי 2009 נשא הרצאה באוניברסיטת בר-אילן, כשקיבל ממנה תואר דוקטור לשם כבוד.",
       "claims": [
-       "c65"
-      ]
-     },
-     {
-      "text": "בהרצאה קרא להפסיק את התלות בנפט, בפחם ובאנרגיה הגרעינית ולהתמקד באנרגיית שמש ורוח.",
-      "claims": [
-       "c66"
+       "c77"
       ]
      },
      {
       "text": "קוהן מת בביתו בסנטה ברברה ב-19 באפריל 2016.",
       "claims": [
        "c3"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "פיזיקס טודיי: ב-1979, כמנהל המייסד של המכון לפיזיקה תאורטית",
+      "claims": [
+       "c49"
       ]
      }
     ]
@@ -621,9 +616,7 @@
     "m15",
     "m16"
    ],
-   "disagreements": [
-    "d2"
-   ]
+   "disagreements": []
   },
   {
    "id": "s8",
@@ -669,24 +662,6 @@
    ]
   },
   {
-   "id": "d2",
-   "question": "מתי עבר קוהן לסנטה ברברה?",
-   "versions": [
-    {
-     "says": "פיזיקס טודיי: ב-1979, כמנהל המייסד של המכון לפיזיקה תאורטית",
-     "claims": [
-      "c49"
-     ]
-    },
-    {
-     "says": "ויקיפדיה העברית: ב-1984",
-     "claims": [
-      "c50"
-     ]
-    }
-   ]
-  },
-  {
    "id": "d3",
    "question": "מתי הגיע קוהן לקרנגי?",
    "versions": [
@@ -725,22 +700,6 @@
  ],
  "unknowns": [],
  "claims": [
-  {
-   "id": "c6",
-   "text": "קוהן נולד בווינה ב-1923 להוריו היהודים, סלומון וגיטל קוהן.",
-   "source": "src1",
-   "quote": "קוהן נולד בווינה, אוסטריה ב-1923 להוריו היהודים, סלומון וגיטל קוהן.",
-   "status": "confirmed",
-   "locator": "שורה 16"
-  },
-  {
-   "id": "c47",
-   "text": "ויקיפדיה העברית: קוהן זכה בפרס נובל בכימיה לשנת 1998 על פיתוח תורת פונקציונל הצפיפות.",
-   "source": "src1",
-   "quote": "בפרס נובל בכימיה לשנת 1998 על פיתוח תורת פונקציונל הצפיפות",
-   "status": "confirmed",
-   "locator": "שורה 14"
-  },
   {
    "id": "c8",
    "text": "לפי האנציקלופדיה הקנדית, קוהן גורש מהגימנסיה האקדמית זמן קצר אחרי סיפוח אוסטריה על ידי גרמניה הנאצית במרץ 1938.",
@@ -1262,22 +1221,6 @@
    "locator": "שורה 3"
   },
   {
-   "id": "c65",
-   "text": "במאי 2009 נשא קוהן הרצאה באוניברסיטת בר-אילן לרגל קבלת תואר דוקטור לשם כבוד.",
-   "source": "src1",
-   "quote": "בהרצאה שנשא במאי 2009 באוניברסיטת בר-אילן, לרגל קבלת תואר דוקטור לשם כבוד",
-   "status": "confirmed",
-   "locator": "שורה 18"
-  },
-  {
-   "id": "c66",
-   "text": "בהרצאתו בבר-אילן קרא קוהן להפסיק את התלות בנפט, בפחם ובאנרגיה הגרעינית ולהתמקד באנרגיית שמש ורוח.",
-   "source": "src1",
-   "quote": "קרא להפסיק את השעבוד לנפט שהולך להגמר, לפחם שמזהם ולאנרגיה הגרעינית",
-   "status": "confirmed",
-   "locator": "שורה 18"
-  },
-  {
    "id": "c3",
    "text": "קוהן מת בביתו בסנטה ברברה, קליפורניה, ב-19 באפריל 2016.",
    "source": "src5",
@@ -1294,21 +1237,23 @@
    "locator": "שורה 15"
   },
   {
-   "id": "c50",
-   "text": "לפי ויקיפדיה העברית, קוהן עבר לאוניברסיטת קליפורניה בסנטה ברברה ב-1984.",
-   "source": "src1",
-   "quote": "באותה תקופה הוא פיתח תורת הקירוב המקומית של הצפיפות. ב-1984 עבר לאוניברסיטת קליפורניה בסנטה ברברה",
+   "id": "c76",
+   "text": "הוריו היהודים היו סלומון וגיטל קוהן.",
+   "source": "src10",
+   "quote": "He was born as Walter Samuel Gerst Kohn on March 9, 1923, in Vienna, Austria, to Salomon and Gittel Kohn.",
    "status": "confirmed",
-   "locator": "שורה 16"
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c77",
+   "text": "במאי 2009 נשא הרצאה באוניברסיטת בר-אילן, כשקיבל ממנה תואר דוקטור לשם כבוד.",
+   "source": "src11",
+   "quote": "receiving an honorary doctorate in Bar-Ilan in May 2009",
+   "status": "confirmed",
+   "locator": "שורה 5"
   }
  ],
  "sources": [
-  {
-   "id": "src1",
-   "label": "ויקיפדיה/המכלול בעברית, וולטר קוהן",
-   "url": "https://www.hamichlol.org.il/%D7%95%D7%95%D7%9C%D7%98%D7%A8_%D7%A7%D7%95%D7%94%D7%9F",
-   "kind": "reference"
-  },
   {
    "id": "src2",
    "label": "The Canadian Encyclopedia, Walter Kohn",
@@ -1356,6 +1301,18 @@
    "label": "Royal Society, Walter Kohn ForMemRS",
    "url": "https://royalsociety.org/people/walter-kohn-11767",
    "kind": "official"
+  },
+  {
+   "id": "src10",
+   "label": "Encyclopedia.com: Kohn, Walter",
+   "url": "https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/kohn-walter",
+   "kind": "reference"
+  },
+  {
+   "id": "src11",
+   "label": "הידען: Within 25 years we must abandon oil, gas and coal and rely mainly on sun and wind",
+   "url": "https://hayadan.com/walter-kuhn-urge-to-move-to-wind-and-solar-energy-1312099",
+   "kind": "press"
   }
  ],
  "media": [
@@ -1451,8 +1408,7 @@
    "hosting": "embed",
    "caption": "ראיון עם וולטר קוהן, חתן פרס נובל בכימיה לשנת 1998.",
    "illustrates": [
-    "c1",
-    "c47"
+    "c1"
    ],
    "spoken": "en",
    "audio_tracks": [
@@ -1628,7 +1584,7 @@
   "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
   "checked_at": "2026-11-21T23:21:18Z",
   "counts": {
-   "confirmed": 89,
+   "confirmed": 86,
    "not_confirmed": 0,
    "deleted_sentences": 3,
    "first_round_confirmed": 87,
@@ -1649,11 +1605,18 @@
    "fix": "opus-5-5 medium"
   },
   "source_quality": {
-   "sources": 9,
+   "sources": 10,
    "wikipedia": 0,
    "strong": 4,
    "ok": true,
    "warnings": []
+  },
+  "wiki_cleanup": {
+   "at": "2026-11-27T15:25:00Z",
+   "targets": 5,
+   "resourced": 2,
+   "kept_on_other_sources": 0,
+   "deleted": 3
   }
  }
 }

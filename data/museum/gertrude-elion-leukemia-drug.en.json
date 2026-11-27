@@ -1,1721 +1,1758 @@
 {
-  "schema": "maasei-museum/1",
-  "slug": "gertrude-elion-leukemia-drug",
-  "deed": "גרטרוד אליון מפתחת את התרופה הראשונה ללוקמיה ותרופות נגד דחיית שתל",
-  "canonical_type": "scientific-discovery",
-  "year": "1944",
-  "title": "Gertrude Elion developed the first drug for childhood leukemia and a drug that made organ transplants possible",
-  "trailer": [
-    {
-      "text": "Gertrude Elion was a chemist and drug developer who worked for 39 years at Burroughs Wellcome and headed the Department of Experimental Therapy there.",
+ "schema": "maasei-museum/1",
+ "slug": "gertrude-elion-leukemia-drug",
+ "deed": "Gertrude Elion develops some of the first successful leukemia drugs and drugs against transplant rejection",
+ "canonical_type": "scientific-discovery",
+ "year": "1944",
+ "title": "Gertrude Elion developed one of the first successful drugs for childhood leukemia and a drug that made organ transplants possible",
+ "trailer": [
+  {
+   "text": "Gertrude Elion was a chemist and drug developer who worked for 39 years at Burroughs Wellcome and headed the Department of Experimental Therapy there.",
+   "claims": [
+    "c8",
+    "c72",
+    "c34"
+   ]
+  },
+  {
+   "text": "Gertrude Elion, who was born in New York in 1918 to Jewish immigrant parents, won the Nobel Prize in Physiology or Medicine in 1988.",
+   "claims": [
+    "c55",
+    "c14"
+   ]
+  },
+  {
+   "text": "She wrote that her grandfather, whom she loved dearly, died of cancer when she was 15, and that this motivated her to do something that might lead to a cure for the disease.",
+   "claims": [
+    "c1"
+   ]
+  },
+  {
+   "text": "In 1944 Hitchings hired her to work in the laboratory at Burroughs Wellcome.",
+   "claims": [
+    "c44",
+    "c48"
+   ]
+  },
+  {
+   "text": "According to the National Academy of Sciences, she developed two of the first successful drugs for leukemia, as well as azathioprine, which prevents the rejection of kidney transplants.",
+   "claims": [
+    "c16",
+    "c-aud-20261127-1"
+   ]
+  },
+  {
+   "text": "According to PBS, in combination with other drugs, doctors eventually reached a cure rate of about 80 percent with her drug, 6-MP.",
+   "claims": [
+    "c50"
+   ]
+  }
+ ],
+ "hero_media": [
+  "m14",
+  "m9",
+  "m11",
+  "m10",
+  "m4",
+  "m21",
+  "m22"
+ ],
+ "glance": [
+  {
+   "label": "Born",
+   "value": "New York, 1918, to Jewish immigrant parents",
+   "claims": [
+    "c55"
+   ]
+  },
+  {
+   "label": "Workplace",
+   "value": "Burroughs Wellcome, 39 years",
+   "claims": [
+    "c34"
+   ]
+  },
+  {
+   "label": "First drug",
+   "value": "The FDA approved 6-MP in late 1953, only ten months after clinical trials began.",
+   "claims": [
+    "c30"
+   ]
+  },
+  {
+   "label": "Recognition",
+   "value": "Nobel Prize in Physiology or Medicine, 1988",
+   "claims": [
+    "c14"
+   ]
+  },
+  {
+   "label": "Inventor",
+   "value": "First woman in the National Inventors Hall of Fame, 1991",
+   "claims": [
+    "c22"
+   ]
+  }
+ ],
+ "stations": [
+  {
+   "id": "s1",
+   "title": "A girl from New York",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "According to Elion, her father emigrated from Lithuania to the United States at the age of 12, and her mother came at the age of 14.",
       "claims": [
-        "c8",
-        "c72",
-        "c34"
+       "c42",
+       "c-aud-20261127-3"
       ]
-    },
-    {
-      "text": "Gertrude Elion, who was born in New York in 1918 to Jewish immigrant parents, won the Nobel Prize in Physiology or Medicine in 1988.",
+     },
+     {
+      "text": "According to the Archive, her father came from a long line of rabbis.",
       "claims": [
-        "c55",
-        "c14"
+       "c18"
       ]
-    },
-    {
-      "text": "She wrote that her grandfather, whom she loved dearly, died of cancer when she was 15, and that this motivated her to do something that might lead to a cure for the disease.",
+     }
+    ],
+    [
+     {
+      "text": "When she was 15, her grandfather, whom she loved dearly, died of cancer.",
       "claims": [
-        "c1"
+       "c1"
       ]
-    },
-    {
-      "text": "In 1944 Hitchings hired her to work in the laboratory at Burroughs Wellcome.",
+     },
+     {
+      "text": "She wrote that this death motivated her to do something that might lead to a cure for the disease.",
       "claims": [
-        "c44",
-        "c48"
+       "c1"
       ]
-    },
-    {
-      "text": "According to the Jewish Women's Archive, she helped develop the first chemotherapy for childhood leukemia and the immunosuppressant drug that made organ transplants possible.",
+     }
+    ],
+    [
+     {
+      "text": "According to Elion, her father had invested heavily in the stock market and went bankrupt in the crash of 1929.",
       "claims": [
-        "c16"
+       "c2"
       ]
-    },
-    {
-      "text": "According to PBS, in combination with other drugs, doctors eventually reached a cure rate of about 80 percent with her drug, 6-MP.",
+     },
+     {
+      "text": "She wrote that had Hunter College not been a free college, she might never have received a higher education.",
       "claims": [
-        "c50"
+       "c3"
       ]
-    }
-  ],
-  "hero_media": [
+     }
+    ]
+   ],
+   "media": [
+    "m3",
+    "m17"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s2",
+   "title": "A chemist no one wanted to hire",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "Elion said that nobody took her seriously, and that people wondered why she wanted to be a chemist when no women were doing that.",
+      "claims": [
+       "c32"
+      ]
+     },
+     {
+      "text": "According to Blood Cancer UK, looking for a job in the male-dominated field of chemistry was tough.",
+      "claims": [
+       "c56"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to Encyclopedia.com, 15 graduate schools rejected her when she applied for a laboratory assistantship.",
+      "claims": [
+       "c59"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "She worked as a laboratory assistant for a chemist who could not pay her a salary, because she thought the experience would be worthwhile.",
+      "claims": [
+       "c6"
+      ]
+     },
+     {
+      "text": "After a year and a half in that job, she was earning $20 a week.",
+      "claims": [
+       "c7"
+      ]
+     },
+     {
+      "text": "She said that she was the only woman in her graduate chemistry class, and that no one minded.",
+      "claims": [
+       "c5"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "She then did analytical quality control work for a major food company, work she found repetitive.",
+      "claims": [
+       "c9"
+      ]
+     },
+     {
+      "text": "According to the National Academy of Sciences, she measured the acidity of pickles and the color of mayonnaise there.",
+      "claims": [
+       "c33"
+      ]
+     },
+     {
+      "text": "She wrote that it took seven years of various jobs before a shortage of men gave her the opportunity to prove herself.",
+      "claims": [
+       "c38"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to the National Women's History Museum in the United States, Elion received a Master of Science degree in 1941.",
+      "claims": [
+       "c73"
+      ]
+     }
+    ]
+   ],
+   "media": [],
+   "disagreements": []
+  },
+  {
+   "id": "s3",
+   "title": "Hitchings's laboratory",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "According to PBS, Elion heard about Burroughs Wellcome through her father, and in 1944 Hitchings hired her there for $50 a week.",
+      "claims": [
+       "c48"
+      ]
+     },
+     {
+      "text": "According to the National Women's History Museum, this was two years after Hitchings himself began working at Burroughs Wellcome, in 1942.",
+      "claims": [
+       "c44"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "She said that Hitchings allowed her to learn quickly and to take on more and more responsibility when she was ready.",
+      "claims": [
+       "c10"
+      ]
+     },
+     {
+      "text": "She described the early work as exploring new frontiers, at a time when very little was known about nucleic acid biosynthesis and the enzymes involved with it.",
+      "claims": [
+       "c12"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to the National Women's History Museum, in the 1950s Elion and Hitchings developed a systematic method for rational drug design, as opposed to trial-and-error approaches.",
+      "claims": [
+       "c43"
+      ]
+     },
+     {
+      "text": "According to Encyclopedia.com, in 1967 and for many years after, Elion was probably the only woman in a senior position at a major pharmaceutical company, and she reportedly felt that she experienced no discrimination at Burroughs Wellcome.",
+      "claims": [
+       "c71"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m4",
     "m14",
     "m9",
-    "m11",
-    "m10",
-    "m4",
-    "m21",
-    "m22"
-  ],
-  "glance": [
-    {
-      "label": "Born",
-      "value": "New York, 1918, to Jewish immigrant parents",
-      "claims": [
-        "c55"
-      ]
-    },
-    {
-      "label": "Workplace",
-      "value": "Burroughs Wellcome, 39 years",
-      "claims": [
-        "c34"
-      ]
-    },
-    {
-      "label": "First drug",
-      "value": "The FDA approved 6-MP in late 1953, only ten months after clinical trials began.",
-      "claims": [
-        "c30"
-      ]
-    },
-    {
-      "label": "Recognition",
-      "value": "Nobel Prize in Physiology or Medicine, 1988",
-      "claims": [
-        "c14"
-      ]
-    },
-    {
-      "label": "Inventor",
-      "value": "First woman in the National Inventors Hall of Fame, 1991",
-      "claims": [
-        "c22"
-      ]
-    }
-  ],
-  "stations": [
-    {
-      "id": "s1",
-      "title": "A girl from New York",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "According to the National Women's History Museum, her parents were Jewish immigrants who came to the U.S. as teenagers.",
-            "claims": [
-              "c42"
-            ]
-          },
-          {
-            "text": "According to the Archive, her father came from a long line of rabbis.",
-            "claims": [
-              "c18"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "When she was 15, her grandfather, whom she loved dearly, died of cancer.",
-            "claims": [
-              "c1"
-            ]
-          },
-          {
-            "text": "She wrote that this death motivated her to do something that might lead to a cure for the disease.",
-            "claims": [
-              "c1"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to Elion, her father had invested heavily in the stock market and went bankrupt in the crash of 1929.",
-            "claims": [
-              "c2"
-            ]
-          },
-          {
-            "text": "She wrote that had Hunter College not been a free college, she might never have received a higher education.",
-            "claims": [
-              "c3"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m3",
-        "m17"
-      ],
-      "disagreements": []
-    },
-    {
-      "id": "s2",
-      "title": "A chemist no one wanted to hire",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "Elion said that nobody took her seriously, and that people wondered why she wanted to be a chemist when no women were doing that.",
-            "claims": [
-              "c32"
-            ]
-          },
-          {
-            "text": "According to Blood Cancer UK, looking for a job in the male-dominated field of chemistry was tough.",
-            "claims": [
-              "c56"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to Encyclopedia.com, 15 graduate schools rejected her when she applied for a laboratory assistantship.",
-            "claims": [
-              "c59"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "She worked as a laboratory assistant for a chemist who could not pay her a salary, because she thought the experience would be worthwhile.",
-            "claims": [
-              "c6"
-            ]
-          },
-          {
-            "text": "After a year and a half in that job, she was earning $20 a week.",
-            "claims": [
-              "c7"
-            ]
-          },
-          {
-            "text": "She said that she was the only woman in her graduate chemistry class, and that no one minded.",
-            "claims": [
-              "c5"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "She then did analytical quality control work for a major food company, work she found repetitive.",
-            "claims": [
-              "c9"
-            ]
-          },
-          {
-            "text": "According to the National Academy of Sciences, she measured the acidity of pickles and the color of mayonnaise there.",
-            "claims": [
-              "c33"
-            ]
-          },
-          {
-            "text": "She wrote that it took seven years of various jobs before a shortage of men gave her the opportunity to prove herself.",
-            "claims": [
-              "c38"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to the National Women's History Museum in the United States, Elion received a Master of Science degree in 1941.",
-            "claims": [
-              "c73"
-            ]
-          }
-        ]
-      ],
-      "media": [],
-      "disagreements": []
-    },
-    {
-      "id": "s3",
-      "title": "Hitchings's laboratory",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "According to PBS, Elion heard about Burroughs Wellcome through her father, and in 1944 Hitchings hired her there for $50 a week.",
-            "claims": [
-              "c48"
-            ]
-          },
-          {
-            "text": "According to the National Women's History Museum, this was two years after Hitchings himself began working at Burroughs Wellcome, in 1942.",
-            "claims": [
-              "c44"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "She said that Hitchings allowed her to learn quickly and to take on more and more responsibility when she was ready.",
-            "claims": [
-              "c10"
-            ]
-          },
-          {
-            "text": "She described the early work as exploring new frontiers, at a time when very little was known about nucleic acid biosynthesis and the enzymes involved with it.",
-            "claims": [
-              "c12"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to the National Women's History Museum, in the 1950s Elion and Hitchings developed a systematic method for rational drug design, as opposed to trial-and-error approaches.",
-            "claims": [
-              "c43"
-            ]
-          },
-          {
-            "text": "According to Encyclopedia.com, in 1967 and for many years after, Elion was probably the only woman in a senior position at a major pharmaceutical company, and she reportedly felt that she experienced no discrimination at Burroughs Wellcome.",
-            "claims": [
-              "c71"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m4",
-        "m14",
-        "m9",
-        "m24",
-        "m25",
-        "m29",
-        "m30"
-      ],
-      "disagreements": [
-        "d2"
-      ]
-    },
-    {
-      "id": "s4",
-      "title": "6-MP: the first drug for leukemia",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "According to the Jewish Women's Archive, purine compounds and their derivatives were used to inhibit the growth of pathogenic cells by blocking the synthesis of certain nucleic acids.",
-            "claims": [
-              "c21"
-            ]
-          },
-          {
-            "text": "According to the National Academy of Sciences, by 1949 Elion had synthesized a purine that inhibited the growth of leukemia in mice.",
-            "claims": [
-              "c31"
-            ]
-          },
-          {
-            "text": "Burchenal used it to treat four patients, and two of them went into remission.",
-            "claims": [
-              "c31"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to Encyclopedia.com, in the initial trials the drug was toxic, and after refinements it performed effectively and safely.",
-            "claims": [
-              "c62"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to the National Academy of Sciences, to make 6MP Elion replaced an oxygen atom on the purine ring with a sulfur atom.",
-            "claims": [
-              "c29"
-            ]
-          },
-          {
-            "text": "6-mercaptopurine was the first purine antagonist to be useful in the treatment of acute lymphoblastic leukemia in children.",
-            "claims": [
-              "c28"
-            ]
-          },
-          {
-            "text": "The FDA approved it late in 1953, only ten months after clinical trials began.",
-            "claims": [
-              "c30"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to the National Women's History Museum, Elion spent six years researching the most effective combination of 6-MP with other drugs against childhood leukemia, and today this approach cures most patients.",
-            "claims": [
-              "c45"
-            ]
-          },
-          {
-            "text": "According to PBS, in combination with other drugs, doctors reached a cure rate of about 80 percent.",
-            "claims": [
-              "c50"
-            ]
-          },
-          {
-            "text": "According to Blood Cancer UK, mercaptopurine is used today to treat acute lymphoblastic leukemia and acute promyelocytic leukemia, and is responsible for the increase in survival rates in childhood blood cancer.",
-            "claims": [
-              "c57"
-            ]
-          },
-          {
-            "text": "According to Harvard SITN, the drug also temporarily affects normally dividing cells, such as cells of the immune system, hair follicles and the digestive system, and this explains side effects of chemotherapy.",
-            "claims": [
-              "c66"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m14",
-        "m10"
-      ],
-      "disagreements": []
-    },
-    {
-      "id": "s5",
-      "title": "From transplanted kidneys to herpes",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "According to the Jewish Women's Archive, Elion helped develop the immunosuppressant drug that made organ transplants possible.",
-            "claims": [
-              "c16"
-            ]
-          },
-          {
-            "text": "According to PBS, by 1961 kidney transplants on humans were attempted, and with the help of Imuran patients began to survive.",
-            "claims": [
-              "c51"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to the National Women's History Museum, in the 1960s Elion and Hitchings showed that drugs targeting bacterial and viral DNA could fight infectious diseases.",
-            "claims": [
-              "c47"
-            ]
-          },
-          {
-            "text": "From this came the drugs pyrimethamine and trimethoprim.",
-            "claims": [
-              "c47"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "Elion wrote that in 1967 she was appointed Head of the Department of Experimental Therapy, and that she remained in the position until she retired in 1983.",
-            "claims": [
-              "c13"
-            ]
-          },
-          {
-            "text": "According to PBS, her team developed acyclovir, which is effective against herpes, shingles and Epstein-Barr virus.",
-            "claims": [
-              "c52"
-            ]
-          },
-          {
-            "text": "According to the National Women's History Museum, another scientist first synthesized acyclovir, and Elion was the one who determined exactly how it works.",
-            "claims": [
-              "c46"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to PBS, within a year of her retirement her unit used her methods to develop AZT, the first drug licensed in the United States to treat HIV.",
-            "claims": [
-              "c53"
-            ]
-          },
-          {
-            "text": "According to Encyclopedia.com, most of the drugs she invented are included in the World Health Organization's list of essential drugs.",
-            "claims": [
-              "c65"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "Elion wrote that the satisfaction of seeing people get well from diseases such as leukemia, kidney failure and herpes encephalitis cannot be described in words.",
-            "claims": [
-              "c39"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m9",
-        "m10",
-        "m19"
-      ],
-      "disagreements": [
-        "d3"
-      ]
-    },
-    {
-      "id": "s6",
-      "title": "Stockholm, 1988",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "The Nobel Prize in Physiology or Medicine 1988 was awarded jointly to Black, Elion and Hitchings, for their discoveries of important principles for drug treatment.",
-            "claims": [
-              "c14"
-            ]
-          },
-          {
-            "text": "According to PBS, the Nobel Committee noted that the laureates introduced a more rational approach to drug development, as opposed to the chemical modification of natural products.",
-            "claims": [
-              "c54"
-            ]
-          },
-          {
-            "text": "According to Encyclopedia.com, the Nobel Committee rarely honors drug developers.",
-            "claims": [
-              "c72"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "On 8 December 1988, Elion delivered her Nobel Lecture at Karolinska Institutet in Stockholm.",
-            "claims": [
-              "c15"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to the Jewish Women's Archive, in 1991 Elion was the first woman inducted into the National Inventors Hall of Fame.",
-            "claims": [
-              "c22"
-            ]
-          },
-          {
-            "text": "She also received the Cain Award of the American Association for Cancer Research,",
-            "claims": [
-              "c25",
-              "c36"
-            ]
-          },
-          {
-            "text": "honorary degrees",
-            "claims": [
-              "c23",
-              "c27",
-              "c67"
-            ]
-          },
-          {
-            "text": "and many patents.",
-            "claims": [
-              "c27",
-              "c64"
-            ]
-          },
-          {
-            "text": "According to Encyclopedia.com, such a number of patents was rare for a woman.",
-            "claims": [
-              "c64"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m22",
-        "m18",
-        "m15",
-        "m11"
-      ],
-      "disagreements": [
-        "d4",
-        "d5",
-        "d6"
-      ]
-    },
-    {
-      "id": "s7",
-      "title": "The woman behind the laboratory",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "According to the Jewish Women's Archive, as head of the laboratory Elion made sure that her staff received credit for their work, and did not take it for herself.",
-            "claims": [
-              "c24"
-            ]
-          },
-          {
-            "text": "She said that what they were aiming at was getting people well, and that this satisfaction is much greater than any prize.",
-            "claims": [
-              "c35"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to the Jewish Women's Archive, Elion lost her fiancé and never married.",
-            "claims": [
-              "c19"
-            ]
-          },
-          {
-            "text": "According to Massive Science, she doubted that she would have been so successful if she had had children.",
-            "claims": [
-              "c69"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to the National Academy of Sciences, Elion collapsed on her daily walk and was taken to the University of North Carolina Hospital in Chapel Hill.",
-            "claims": [
-              "c40"
-            ]
-          },
-          {
-            "text": "She died there at the age of 81.",
-            "claims": [
-              "c40"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m9",
-        "m16",
-        "m23"
-      ],
-      "disagreements": [
-        "d7"
-      ]
-    }
-  ],
-  "disagreements": [
-    {
-      "id": "d2",
-      "question": "Why did Elion leave her doctorate?",
-      "versions": [
-        {
-          "says": "Elion wrote that she chose to stay with her job and give up the doctorate",
-          "claims": [
-            "c11"
-          ]
-        },
-        {
-          "says": "The Jewish Women's Archive writes that she was forced to leave the doctoral program when the college dean made her choose between her studies and her job",
-          "claims": [
-            "c20"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d3",
-      "question": "When was acyclovir developed?",
-      "versions": [
-        {
-          "says": "PBS: in the early 1970s",
-          "claims": [
-            "c52"
-          ]
-        },
-        {
-          "says": "Encyclopedia.com: in 1975, together with Hitchings, as the first effective treatment for herpes",
-          "claims": [
-            "c58"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d4",
-      "question": "In what year did Elion receive the Cain Award?",
-      "versions": [
-        {
-          "says": "Jewish Women's Archive: 1985",
-          "claims": [
-            "c25"
-          ]
-        },
-        {
-          "says": "National Academy of Sciences: 1984",
-          "claims": [
-            "c36"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d5",
-      "question": "How many honorary degrees did Elion receive?",
-      "versions": [
-        {
-          "says": "Jewish Women's Archive: twenty",
-          "claims": [
-            "c23"
-          ]
-        },
-        {
-          "says": "National Academy of Sciences: 23",
-          "claims": [
-            "c27"
-          ]
-        },
-        {
-          "says": "Harvard SITN: 26",
-          "claims": [
-            "c67"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d6",
-      "question": "How many patents did Elion hold?",
-      "versions": [
-        {
-          "says": "National Academy of Sciences: 45",
-          "claims": [
-            "c27"
-          ]
-        },
-        {
-          "says": "Encyclopedia.com: more than 40",
-          "claims": [
-            "c64"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d7",
-      "question": "When did Elion die?",
-      "versions": [
-        {
-          "says": "Jewish Women's Archive: on Sunday, February 21, 1999, in Chapel Hill, North Carolina",
-          "claims": [
-            "c26"
-          ]
-        },
-        {
-          "says": "Encyclopedia.com: on February 20, 1999, in Chapel Hill",
-          "claims": [
-            "c70"
-          ]
-        }
-      ]
-    }
-  ],
-  "unknowns": [
-    {
-      "text": "According to the National Academy of Sciences, by 1949 Elion had synthesized a purine that inhibited growth in mouse leukemia, and Joseph Burchenal of the Sloan Kettering Institute used it to treat four patients with chronic granulocytic leukemia, two of whom went into remission.",
-      "claims": [
-        "c31"
-      ]
-    },
-    {
-      "text": "According to the Jewish Women's Archive, Elion helped develop the immunosuppressant drug that made organ transplants possible, and the archive identifies the drug for kidney transplants as azathioprine. According to PBS, azathioprine is Imuran: by 1961 kidney transplants were attempted on humans, and with the help of Imuran patients began to survive, so the sources link the two.",
-      "claims": [
-        "c16",
-        "c51"
-      ]
-    }
-  ],
-  "claims": [
-    {
-      "id": "c55",
-      "text": "לפי Blood Cancer UK, אליון נולדה בניו יורק ב-1918 להורים יהודים מהגרים ממזרח אירופה.",
-      "source": "src1",
-      "quote": "Born in New York in 1918 to Jewish immigrants from Eastern Europe",
-      "status": "confirmed",
-      "locator": "שורה 6"
-    },
-    {
-      "id": "c14",
-      "text": "פרס נובל לפיזיולוגיה או רפואה 1988 הוענק במשותף לבלק, לאליון ולהיצ'ינגס על תגליותיהם בעקרונות חשובים לטיפול תרופתי.",
-      "source": "src2",
-      "quote": "The Nobel Prize in Physiology or Medicine 1988 was awarded jointly to Sir James W. Black, Gertrude B. Elion and George H. Hitchings",
-      "status": "confirmed",
-      "locator": "שורה 13"
-    },
-    {
-      "id": "c1",
-      "text": "אליון כתבה שסבה, שאהבה מאוד, מת מסרטן כשהייתה בת 15, ושהדבר הניע אותה לעשות משהו שעשוי להוביל לריפוי המחלה.",
-      "source": "src3",
-      "quote": "my grandfather, whom I loved dearly, died of cancer when I was 15. I was highly motivated to do something that might eventually lead to a cure for this terrible disease.",
-      "status": "confirmed",
-      "locator": "שורה 3"
-    },
-    {
-      "id": "c44",
-      "text": "לפי המוזיאון הלאומי להיסטוריית נשים, היצ'ינגס שכר את אליון כעוזרת מעבדה שנתיים אחרי שהחל לעבוד בברוז וולקאם ב-1942.",
-      "source": "src4",
-      "quote": "Two years later, he hired Elion as a lab assistant.",
-      "status": "confirmed",
-      "locator": "שורה 22"
-    },
-    {
-      "id": "c48",
-      "text": "לפי PBS, אליון שמעה על ברוז וולקאם דרך אביה, וב-1944 היצ'ינגס שכר אותה במקום ב-50 דולר לשבוע.",
-      "source": "src5",
-      "quote": "In 1944, on her father's suggestion, she went to Burroughs Wellcome for an interview. George Hitchings (b. 1905) hired her on the spot for $50 a week.",
-      "status": "confirmed",
-      "locator": "שורה 2"
-    },
-    {
-      "id": "c16",
-      "text": "לפי ארכיון הנשים היהודיות, אליון סייעה לפתח את הכימותרפיה הראשונה ללוקמיה בילדים ואת התרופה המדכאת חיסון שאפשרה השתלות איברים.",
-      "source": "src6",
-      "quote": "She helped develop the first chemotherapy for childhood leukemia, the immunosuppressant that made organ transplantation possible, the first effective anti-viral medication",
-      "status": "confirmed",
-      "locator": "שורה 6"
-    },
-    {
-      "id": "c50",
-      "text": "לפי PBS, בשילוב עם תרופות אחרות הגיעו הרופאים בסופו של דבר לשיעור ריפוי של כ-80 אחוז עם 6-MP.",
-      "source": "src5",
-      "quote": "Eventually doctors would learn to use 6-MP in combination with other drugs and reach a cure rate of about 80 percent.",
-      "status": "confirmed",
-      "locator": "שורה 5"
-    },
-    {
-      "id": "c34",
-      "text": "לפי האקדמיה הלאומית למדעים, אליון בילתה 39 שנים בברוז וולקאם והפכה ב-1967 לראש המחלקה לתרפיה ניסויית.",
-      "source": "src7",
-      "quote": "spent the next 39 years at Burroughs Wellcome, becoming head of the Department of Experimental Therapy in 1967",
-      "status": "confirmed",
-      "locator": "שורה 12"
-    },
-    {
-      "id": "c30",
-      "text": "לפי האקדמיה הלאומית למדעים, ה-FDA אישר את 6MP בסוף 1953, עשרה חודשים בלבד אחרי תחילת הניסויים הקליניים.",
-      "source": "src7",
-      "quote": "the U.S. Food and Drug Administration approved its use late in 1953—only 10 months after clinical trials began",
-      "status": "confirmed",
-      "locator": "שורה 9"
-    },
-    {
-      "id": "c22",
-      "text": "לפי ארכיון הנשים היהודיות, אליון הייתה האישה הראשונה שהוכנסה להיכל התהילה הלאומי של ממציאים ב-1991.",
-      "source": "src6",
-      "quote": "In 1991, she was the first woman inducted into the National Inventors Hall of Fame.",
-      "status": "confirmed",
-      "locator": "שורה 14"
-    },
-    {
-      "id": "c42",
-      "text": "לפי המוזיאון הלאומי להיסטוריית נשים, אליון הייתה בתם של מהגרים יהודים שהגיעו לארה\"ב כבני נוער.",
-      "source": "src4",
-      "quote": "She was the daughter of Jewish immigrants, her parents each having come to the U.S. as teenagers.",
-      "status": "confirmed",
-      "locator": "שורה 8"
-    },
-    {
-      "id": "c18",
-      "text": "לפי ארכיון הנשים היהודיות, אביה של אליון בא משושלת ארוכה של רבנים.",
-      "source": "src6",
-      "quote": "Her father came from a long line of rabbis.",
-      "status": "confirmed",
-      "locator": "שורה 9"
-    },
-    {
-      "id": "c2",
-      "text": "לפי אליון, אביה השקיע רבות בשוק ההון ופשט רגל בקריסת 1929.",
-      "source": "src3",
-      "quote": "had invested heavily in the stock market, and in the crash of 1929 had gone into bankruptcy",
-      "status": "confirmed",
-      "locator": "שורה 4"
-    },
-    {
-      "id": "c3",
-      "text": "אליון כתבה שאלמלא הנטר קולג' היה מכללה חינמית, ייתכן שלא הייתה מקבלת השכלה גבוהה.",
-      "source": "src3",
-      "quote": "Had it not been that Hunter College was a free college, and that my grades were good enough for me to enter it, I suspect I might never have received a higher education.",
-      "status": "confirmed",
-      "locator": "שורה 4"
-    },
-    {
-      "id": "c32",
-      "text": "אליון סיפרה שאיש לא לקח אותה ברצינות ושתהו מדוע רצתה להיות כימאית כשאף אישה לא עסקה בכך.",
-      "source": "src7",
-      "quote": "Nobody took me seriously. They wondered why in the world I wanted to be a chemist when no women were doing that.",
-      "status": "confirmed",
-      "locator": "שורה 11"
-    },
-    {
-      "id": "c56",
-      "text": "לפי Blood Cancer UK, חיפוש עבודה בתחום הכימיה שנשלט על ידי גברים היה קשה.",
-      "source": "src1",
-      "quote": "Looking for a job within the male-dominated chemistry field was tough.",
-      "status": "confirmed",
-      "locator": "שורה 12"
-    },
-    {
-      "id": "c59",
-      "text": "לפי אנציקלופדיה דוט קום, אליון נדחתה על ידי 15 בתי ספר לתארים מתקדמים כשביקשה עוזרות מחקר במעבדה.",
-      "source": "src8",
-      "quote": "Elion was rejected by a total of 15 graduate schools when she applied for a laboratory assistantship.",
-      "status": "confirmed",
-      "locator": "שורה 15"
-    },
-    {
-      "id": "c6",
-      "text": "אליון עבדה כעוזרת מעבדה אצל כימאי שלא יכול היה לשלם לה משכורת באותה עת, כי חשבה שהניסיון שווה זאת.",
-      "source": "src3",
-      "quote": "Although he was unable to pay me any salary at that time, I decided that the experience would be worthwhile.",
-      "status": "confirmed",
-      "locator": "שורה 6"
-    },
-    {
-      "id": "c7",
-      "text": "אליון כתבה שהגיעה לשכר של 20 דולר בשבוע אחרי שנה וחצי באותה עבודה.",
-      "source": "src3",
-      "quote": "I stayed there for a year and a half and was finally making the magnificent sum of $20 a week.",
-      "status": "confirmed",
-      "locator": "שורה 6"
-    },
-    {
-      "id": "c5",
-      "text": "אליון סיפרה שהייתה האישה היחידה בכיתת התואר השני שלה בכימיה ושאיש לא הפריע לכך.",
-      "source": "src3",
-      "quote": "I was the only female in my graduate chemistry class but no one seemed to mind, and I did not consider it at all strange.",
-      "status": "confirmed",
-      "locator": "שורה 6"
-    },
-    {
-      "id": "c9",
-      "text": "אליון עבדה בבקרת איכות אנליטית בחברת מזון גדולה, עבודה שמצאה חוזרת על עצמה.",
-      "source": "src3",
-      "quote": "I did analytical quality control work for a major food company.",
-      "status": "confirmed",
-      "locator": "שורה 8"
-    },
-    {
-      "id": "c33",
-      "text": "לפי האקדמיה הלאומית למדעים, בתפקיד אנליטי מוקדם עבודתה של אליון כללה מדידת חומציות של חמוצים וצבע של מיונז.",
-      "source": "src7",
-      "quote": "her job included the measurement of the acidity of pickles and the color of mayonnaise",
-      "status": "confirmed",
-      "locator": "שורה 12"
-    },
-    {
-      "id": "c38",
-      "text": "אליון כתבה בהערות להרצאה שנדרשו שבע שנים של עבודות שונות עד שמחסור בגברים אפשר לה להוכיח את עצמה.",
-      "source": "src7",
-      "quote": "It's true it took seven years of various jobs, including a year in graduate school and two years of high school teaching before the shortage of men in civilian jobs gave me the opportunity to prove myself.",
-      "status": "confirmed",
-      "locator": "שורה 32"
-    },
-    {
-      "id": "c10",
-      "text": "אליון סיפרה שהיצ'ינגס אפשר לה ללמוד במהירות ולקחת אחריות הולכת וגדלה כשהייתה מוכנה.",
-      "source": "src3",
-      "quote": "Dr. Hitchings permitted me to learn as rapidly as I could and to take on more and more responsibility when I was ready for it.",
-      "status": "confirmed",
-      "locator": "שורה 8"
-    },
-    {
-      "id": "c12",
-      "text": "אליון תיארה את העבודה המוקדמת כחקר גבולות חדשים, כשידוע היה מעט מאוד על ביוסינתזה של חומצות גרעין ועל האנזימים הקשורים בה.",
-      "source": "src3",
-      "quote": "We were exploring new frontiers, since very little was known about nucleic acid biosynthesis or the enzymes involved with it.",
-      "status": "confirmed",
-      "locator": "שורה 10"
-    },
-    {
-      "id": "c43",
-      "text": "לפי המוזיאון הלאומי להיסטוריית נשים, בשנות ה-50 אליון והיצ'ינגס פיתחו שיטה שיטתית לתכנון תרופות רציונלי, בניגוד לגישות הניסוי והטעייה.",
-      "source": "src4",
-      "quote": "Elion and George Hitchings developed a systematic method for rational drug design, as opposed to the much less efficient and relatively haphazard trial and error approaches",
-      "status": "confirmed",
-      "locator": "שורה 3"
-    },
-    {
-      "id": "c71",
-      "text": "לפי אנציקלופדיה דוט קום, אליון הייתה כנראה האישה היחידה בתפקיד בכיר בחברת תרופות גדולה, ולפי הדיווחים הרגישה שלא חוותה אפליה בברוז וולקאם.",
-      "source": "src9",
-      "quote": "Probably the only woman to hold a top-ranking position in a major pharmaceutical company, in 1967 and for many years after, she is said to have felt that she experienced no discrimination at Burroughs Wellcome.",
-      "status": "confirmed",
-      "locator": "שורה 9"
-    },
-    {
-      "id": "c21",
-      "text": "לפי ארכיון הנשים היהודיות, תרכובות פורין ונגזרותיהן שימשו לעכב צמיחה של תאים פתוגניים על ידי חסימת הסינתזה של חומצות גרעין מסוימות.",
-      "source": "src6",
-      "quote": "purine compounds and their derivatives were used to inhibit the growth of such cells by blocking the synthesis of certain nucleic acids",
-      "status": "confirmed",
-      "locator": "שורה 12"
-    },
-    {
-      "id": "c31",
-      "text": "לפי האקדמיה הלאומית למדעים, עד 1949 אליון סינתזה פורין שעיכב צמיחה בלוקמיה של עכברים, ובורצ'נל טיפל בו בארבעה חולים, ושניים מהם נכנסו להפוגה.",
-      "source": "src7",
-      "quote": "Joseph Burchenal at Sloan Kettering Institute in New York used to treat four patients with chronic granulocytic leukemia, two of whom went into remission",
-      "status": "confirmed",
-      "locator": "שורה 16"
-    },
-    {
-      "id": "c62",
-      "text": "לפי אנציקלופדיה דוט קום, בניסויים הראשונים התרופה הייתה רעילה, אך אחרי שיפורים פעלה ביעילות ובבטחה.",
-      "source": "src8",
-      "quote": "During initial trials, the drug did indeed prove to be toxic. After refinements, however, it performed effectively and safely.",
-      "status": "confirmed",
-      "locator": "שורה 23"
-    },
-    {
-      "id": "c29",
-      "text": "לפי האקדמיה הלאומית למדעים, לייצור 6MP אליון החליפה אטום חמצן בטבעת הפורין באטום גופרית.",
-      "source": "src7",
-      "quote": "To make the successful 6MP, Trudy replaced an oxygen atom on the purine ring with a sulfur atom.",
-      "status": "confirmed",
-      "locator": "שורה 9"
-    },
-    {
-      "id": "c28",
-      "text": "לפי האקדמיה הלאומית למדעים, 6-מרקפטופורין היה האנטגוניסט הראשון של פורינים שהועיל בטיפול בלוקמיה לימפובלסטית חריפה בילדים.",
-      "source": "src7",
-      "quote": "The 6-mercaptopurine (6MP) became the first purine antagonist to be useful in the treatment of acute lymphoblastic leukemia in children.",
-      "status": "confirmed",
-      "locator": "שורה 9"
-    },
-    {
-      "id": "c45",
-      "text": "לפי המוזיאון הלאומי להיסטוריית נשים, אליון בילתה שש שנים בבדיקת השילוב היעיל ביותר של 6-MP עם תרופות אחרות נגד לוקמיה בילדים, וכיום גישה זו מרפאה את רוב החולים.",
-      "source": "src4",
-      "quote": "she spent six years researching the most effective combination of 6-MP with other drugs to battle childhood leukemia, and today this approach is able to cure most patients",
-      "status": "confirmed",
-      "locator": "שורה 29"
-    },
-    {
-      "id": "c57",
-      "text": "לפי Blood Cancer UK, היום מרקפטופורין משמש לטיפול בלוקמיה לימפובלסטית חריפה ובלוקמיה פרומיאלוציטית חריפה, ואחראי לעלייה בשיעורי ההישרדות בסרטן דם בילדים.",
-      "source": "src1",
-      "quote": "is responsible for the greatly increased survival rates we see today in childhood blood cancer.",
-      "status": "confirmed",
-      "locator": "שורה 26"
-    },
-    {
-      "id": "c66",
-      "text": "לפי הרווארד SITN, 6-MP משפיע זמנית גם על תאים מתחלקים תקינים כמו תאי מערכת החיסון, זקיקי שיער ומערכת העיכול, מה שמסביר תופעות לוואי של כימותרפיה.",
-      "source": "src10",
-      "quote": "Unfortunately, normally proliferating cells, such as cells of the immune system, hair follicles, and digestive system, are also temporarily affected by this drug",
-      "status": "confirmed",
-      "locator": "שורה 6"
-    },
-    {
-      "id": "c51",
-      "text": "לפי PBS, עד 1961 ניסו השתלות כליה בבני אדם, ובעזרת אימוראן החולים החלו לשרוד.",
-      "source": "src5",
-      "quote": "By 1961, kidney transplants on humans were attempted, and soon, with the help of Imuran, patients were surviving.",
-      "status": "confirmed",
-      "locator": "שורה 6"
-    },
-    {
-      "id": "c47",
-      "text": "לפי המוזיאון הלאומי להיסטוריית נשים, בשנות ה-60 אליון והיצ'ינגס הראו שתרופות הפוגעות ב-DNA של חיידקים ווירוסים יכולות להילחם במחלות זיהומיות, ומכאן הגיעו פירימתמין וטרימתופרים.",
-      "source": "src4",
-      "quote": "In the 1960s, Elion and Hitchings established that drugs targeting bacterial and viral DNA could be used to fight infectious diseases.",
-      "status": "confirmed",
-      "locator": "שורה 31"
-    },
-    {
-      "id": "c13",
-      "text": "אליון כתבה שמונתה ב-1967 לראש המחלקה לתרפיה ניסויית ונשארה בתפקיד עד פרישתה ב-1983.",
-      "source": "src3",
-      "quote": "in 1967 I was appointed Head of the Department of Experimental Therapy, a position which I held until I retired in 1983",
-      "status": "confirmed",
-      "locator": "שורה 13"
-    },
-    {
-      "id": "c52",
-      "text": "לפי PBS, בתחילת שנות ה-70 צוותה של אליון פיתח את אקיקלוביר, יעיל נגד הרפס, שלבקת חוגרת ווירוס אפשטיין-בר.",
-      "source": "src5",
-      "quote": "in the early 1970s Elion's team developed acyclovir (trade name Zovirax), effective against herpes, shingles, and Epstein-Barr virus",
-      "status": "confirmed",
-      "locator": "שורה 7"
-    },
-    {
-      "id": "c46",
-      "text": "לפי המוזיאון הלאומי להיסטוריית נשים, אקיקלוביר סונתז תחילה על ידי מדען אחר, ואליון היא שקבעה כיצד בדיוק הוא פועל.",
-      "source": "src4",
-      "quote": "Though initially synthesized by another scientist, Elion was the one to determine exactly how it worked.",
-      "status": "confirmed",
-      "locator": "שורה 34"
-    },
-    {
-      "id": "c53",
-      "text": "לפי PBS, אליון פרשה ב-1983 ותוך שנה היחידה שלה השתמשה בשיטותיה לפיתוח AZT, התרופה הראשונה שאושרה בארה\"ב לטיפול ב-HIV.",
-      "source": "src5",
-      "quote": "Elion retired in 1983 and within a year her former unit used her methods to develop AZT, the first drug licensed in the United States to treat HIV.",
-      "status": "confirmed",
-      "locator": "שורה 7"
-    },
-    {
-      "id": "c65",
-      "text": "לפי אנציקלופדיה דוט קום, רוב התרופות שהמציאה אליון נכללות ברשימת התרופות החיוניות של ארגון הבריאות העולמי.",
-      "source": "src8",
-      "quote": "Most of the drugs she invented are included in the World Health Organization's list of essential drugs.",
-      "status": "confirmed",
-      "locator": "שורה 36"
-    },
-    {
-      "id": "c39",
-      "text": "אליון כתבה שהסיפוק מלראות אנשים מבריאים ממחלות כמו לוקמיה, אי ספיקת כליות ודלקת מוח הרפס אינו ניתן לתיאור במילים.",
-      "source": "src7",
-      "quote": "The thrill of seeing people get well who might otherwise have died of diseases like leukemia, kidney failure, and herpes virus encephalitis cannot be described in words.",
-      "status": "confirmed",
-      "locator": "שורה 33"
-    },
-    {
-      "id": "c54",
-      "text": "לפי PBS, ועדת נובל ציינה שהזוכים הציגו גישה רציונלית יותר לפיתוח תרופות, בניגוד לשינוי כימי של תוצרי טבע.",
-      "source": "src5",
-      "quote": "While drug development had earlier mainly been built on chemical modification of natural products, they introduced a more rational approach based on the understanding of basic biochemical and physiological processes.",
-      "status": "confirmed",
-      "locator": "שורה 7"
-    },
-    {
-      "id": "c72",
-      "text": "לפי אנציקלופדיה דוט קום, ועדת נובל מעטות מכבדת מפתחי תרופות, ובשנת 1988 הוענק הפרס לאליון ולהיצ'ינגס על סדרת תרופות חשובות.",
-      "source": "src9",
-      "quote": "The Nobel Prize Committee rarely honors the work of scientists who develop new drugs.",
-      "status": "confirmed",
-      "locator": "שורה 6"
-    },
-    {
-      "id": "c15",
-      "text": "אליון נשאה את הרצאת הנובל שלה ב-8 בדצמבר 1988 במכון קרולינסקה בשטוקהולם.",
-      "source": "src11",
-      "quote": "Gertrude B. Elion held her Nobel Lecture on 8 December 1988, at Karolinska Institutet, Stockholm.",
-      "status": "confirmed",
-      "locator": "שורה 14"
-    },
-    {
-      "id": "c25",
-      "text": "לפי ארכיון הנשים היהודיות, אליון קיבלה את פרס קיין של האגודה האמריקנית לחקר הסרטן ב-1985.",
-      "source": "src6",
-      "quote": "the American Association of Cancer Research Cain Award (1985)",
-      "status": "confirmed",
-      "locator": "שורה 14"
-    },
-    {
-      "id": "c36",
-      "text": "לפי האקדמיה הלאומית למדעים, אליון קיבלה את פרס קיין של האגודה האמריקנית לחקר הסרטן ב-1984.",
-      "source": "src7",
-      "quote": "the Cain Award from the American Association for Cancer Research in 1984",
-      "status": "confirmed",
-      "locator": "שורה 25"
-    },
-    {
-      "id": "c23",
-      "text": "לפי ארכיון הנשים היהודיות, אליון קיבלה לצד פרס נובל עשרים תארי כבוד.",
-      "source": "src6",
-      "quote": "In addition to the 1988 Nobel Prize and twenty honorary doctoral degrees, Elion received the Garvan Medal",
-      "status": "confirmed",
-      "locator": "שורה 14"
-    },
-    {
-      "id": "c27",
-      "text": "לפי האקדמיה הלאומית למדעים, אליון החזיקה ב-45 פטנטים וב-23 תארי כבוד.",
-      "source": "src7",
-      "quote": "as well as holder of 45 patents, 23 honorary degrees, and a long list of other honors",
-      "status": "confirmed",
-      "locator": "שורה 6"
-    },
-    {
-      "id": "c67",
-      "text": "לפי הרווארד SITN, אליון קיבלה 26 תארי כבוד.",
-      "source": "src10",
-      "quote": "Dr. Elion received 26 honorary doctorate degrees, the National Medal of Science, admission into the Royal Society, and the Nobel Prize in Medicine.",
-      "status": "confirmed",
-      "locator": "שורה 8"
-    },
-    {
-      "id": "c64",
-      "text": "לפי אנציקלופדיה דוט קום, אליון החזיקה ביותר מ-40 פטנטים, נדירות בקרב נשים.",
-      "source": "src8",
-      "quote": "Gertrude Elion held over 40 patents, a rarity for a woman.",
-      "status": "confirmed",
-      "locator": "שורה 36"
-    },
-    {
-      "id": "c24",
-      "text": "לפי ארכיון הנשים היהודיות, אליון דאגה שעובדיה יקבלו קרדיט על עבודתם במקום לקחת אותו לעצמה כראש המעבדה.",
-      "source": "src6",
-      "quote": "ensuring they received credit for their work instead of taking the credit she would normally be given as head of the lab where the work was done",
-      "status": "confirmed",
-      "locator": "שורה 6"
-    },
-    {
-      "id": "c35",
-      "text": "אליון אמרה שמה שכיוונו אליו היה להבריא אנשים, וסיפוק זה גדול בהרבה מכל פרס.",
-      "source": "src7",
-      "quote": "What we were aiming at was getting people well, and the satisfaction of that is much greater than any prize you can get.",
-      "status": "confirmed",
-      "locator": "שורה 22"
-    },
-    {
-      "id": "c19",
-      "text": "לפי ארכיון הנשים היהודיות, אליון איבדה אתארוסה ולא נישאה מעולם.",
-      "source": "src6",
-      "quote": "During this period, she also suffered the death of her fiancé and never married.",
-      "status": "confirmed",
-      "locator": "שורה 11"
-    },
-    {
-      "id": "c69",
-      "text": "לפי Massive Science, אליון הטילה ספק שהייתה מצליחה כל כך אילו היו לה ילדים.",
-      "source": "src12",
-      "quote": "Elion expressed doubt that she would have been so successful if she had children",
-      "status": "confirmed",
-      "locator": "שורה 23"
-    },
-    {
-      "id": "c40",
-      "text": "לפי האקדמיה הלאומית למדעים, אליון התמוטטה בהליכתה היומית, נלקחה לבית החולים באוניברסיטת צפון קרוליינה בצ'אפל היל ומתה בגיל 81.",
-      "source": "src7",
-      "quote": "Trudy collapsed and was taken to the University of North Carolina Hospital in Chapel Hill, where she died at midnight at age eighty-one.",
-      "status": "confirmed",
-      "locator": "שורה 34"
-    },
-    {
-      "id": "c8",
-      "text": "לפי אליון, היא קיבלה תואר שני במדעים בכימיה ב-1941.",
-      "source": "src3",
-      "quote": "obtained my Master of Science degree in chemistry in 1941",
-      "status": "confirmed",
-      "locator": "שורה 7"
-    },
-    {
-      "id": "c11",
-      "text": "אליון כתבה שבחרה להישאר בעבודתה ולוותר על הדוקטורט.",
-      "source": "src3",
-      "quote": "I made what was then a critical decision in my life, to stay with my job and give up the pursuit of a doctorate.",
-      "status": "confirmed",
-      "locator": "שורה 9"
-    },
-    {
-      "id": "c20",
-      "text": "לפי ארכיון הנשים היהודיות, אליון נאלצה לעזוב את התוכנית לדוקטורט כשדיקן המכללה הציב בפניה בחירה בין לימודיה לעבודתה.",
-      "source": "src6",
-      "quote": "She began the doctoral program at Brooklyn Polytechnic but was forced to leave after two years when the college dean made her choose between her education and her job.",
-      "status": "confirmed",
-      "locator": "שורה 11"
-    },
-    {
-      "id": "c58",
-      "text": "לפי אנציקלופדיה דוט קום, אליון קיבלה אישור FDA ל-6MP ב-1953, וב-1975 סינתזה עם היצ'ינגס את אקיקלוביר, הטיפול היעיל הראשון בהרפס.",
-      "source": "src8",
-      "quote": "In 1975, Elion and Hitchings synthesized the drug acyclovir, the first effective treatment for herpes.",
-      "status": "confirmed",
-      "locator": "שורה 29"
-    },
-    {
-      "id": "c26",
-      "text": "לפי ארכיון הנשים היהודיות, אליון מתה ביום ראשון, 21 בפברואר 1999, בצ'אפל היל שבצפון קרוליינה.",
-      "source": "src6",
-      "quote": "Gertrude Elion died on Sunday, February 21, 1999, in Chapel Hill, North Carolina, where she lived.",
-      "status": "confirmed",
-      "locator": "שורה 15"
-    },
-    {
-      "id": "c70",
-      "text": "לפי אנציקלופדיה דוט קום, אליון מתה ב-20 בפברואר 1999 בצ'אפל היל.",
-      "source": "src9",
-      "quote": "She died on February 20, 1999, in Chapel Hill, North Carolina.",
-      "status": "confirmed",
-      "locator": "שורה 13"
-    },
-    {
-      "id": "c73",
-      "text": "לפי המוזיאון הלאומי להיסטוריה של נשים בארצות הברית, אליון קיבלה תואר שני במדעים ב-1941.",
-      "source": "src4",
-      "quote": "finally earning her Master of Science in 1941",
-      "status": "confirmed",
-      "locator": "שורה 17"
-    }
-  ],
-  "sources": [
-    {
-      "id": "src1",
-      "label": "Blood Cancer UK, Gertrude Elion: how one woman's determination transformed cancer treatment",
-      "url": "https://bloodcancer.org.uk/news/gertrude-elion-how-one-womans-determination-transformed-cancer-treatment/",
-      "kind": "organisation"
-    },
-    {
-      "id": "src2",
-      "label": "NobelPrize.org, The Nobel Prize in Physiology or Medicine 1988",
-      "url": "https://www.nobelprize.org/prizes/medicine/1988/summary/",
-      "kind": "official"
-    },
-    {
-      "id": "src3",
-      "label": "NobelPrize.org, Gertrude B. Elion – Biographical, Elion's autobiography",
-      "url": "https://www.nobelprize.org/prizes/medicine/1988/elion/biographical/",
-      "kind": "official"
-    },
-    {
-      "id": "src4",
-      "label": "National Women's History Museum, Gertrude B. Elion",
-      "url": "https://www.womenshistory.org/node/2423",
-      "kind": "reference"
-    },
-    {
-      "id": "src5",
-      "label": "PBS, A Science Odyssey, Gertrude Elion",
-      "url": "https://www.pbs.org/wgbh/aso/databank/entries/dm50le.html",
-      "kind": "reference"
-    },
-    {
-      "id": "src6",
-      "label": "Jewish Women's Archive, Encyclopedia, Gertrude Belle Elion",
-      "url": "https://jwa.org/encyclopedia/article/elion-gertrude-belle",
-      "kind": "reference"
-    },
-    {
-      "id": "src7",
-      "label": "National Academy of Sciences, Biographical Memoir, Gertrude B. Elion",
-      "url": "https://nap.nationalacademies.org/read/9977/chapter/3",
-      "kind": "reference"
-    },
-    {
-      "id": "src8",
-      "label": "Encyclopedia.com, Elion, Gertrude B. (1918–1999)",
-      "url": "https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/elion-gertrude-b-1918-1999",
-      "kind": "reference"
-    },
-    {
-      "id": "src9",
-      "label": "Encyclopedia.com, Elion, Gertrude Belle (Notable Scientists / World of Chemistry)",
-      "url": "https://www.encyclopedia.com/science/news-wires-white-papers-and-books/elion-gertrude-belle",
-      "kind": "reference"
-    },
-    {
-      "id": "src10",
-      "label": "Harvard SITN, Gertrude Elion: Forging the path towards a cure for cancer",
-      "url": "https://sites.harvard.edu/sitn/?p=19853",
-      "kind": "press"
-    },
-    {
-      "id": "src11",
-      "label": "NobelPrize.org, Elion's Nobel Lecture, 1988",
-      "url": "https://www.nobelprize.org/prizes/medicine/1988/elion/lecture/",
-      "kind": "official"
-    },
-    {
-      "id": "src12",
-      "label": "Massive Science, Gertrude Elion, science hero of drug discovery",
-      "url": "https://massivesci.com/articles/gertrude-elion-science-hero-drug-discovery/",
-      "kind": "press"
-    }
-  ],
-  "media": [
-    {
-      "id": "m3",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nci-vol-8236-300%20Gertrude%20Elion.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Nci-vol-8236-300_Gertrude_Elion.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Unknown authorUnknown author",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "Black-and-white portrait of Gertrude Elion.",
-      "illustrates": [],
-      "date": "Unknown da",
-      "width": 1874,
-      "height": 2699
-    },
-    {
-      "id": "m4",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/George%20Hitchings%20and%20Gertrude%20Elion%201948.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:George_Hitchings_and_Gertrude_Elion_1948.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "GlaxoSmithKline plc",
-      "licence": "CC BY 4.0",
-      "hosting": "hotlink",
-      "caption": "A woman and a man in lab coats beside a workbench crowded with glassware and equipment; according to the file description, a photograph of the pair Hitchings and Elion.",
-      "illustrates": [
-        "c43"
-      ],
-      "licence_url": "https://creativecommons.org/licenses/by/4.0",
-      "date": "circa 1948",
-      "width": 5800,
-      "height": 4700
-    },
-    {
-      "id": "m9",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dr%20Gertrude%20Elion%20Wellcome%20L0034256.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Dr_Gertrude_Elion_Wellcome_L0034256.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "not stated",
-      "licence": "CC BY 4.0",
-      "hosting": "hotlink",
-      "caption": "Elion in the laboratory, in a white coat with the Wellcome logo, holding a molecular model.",
-      "illustrates": [
-        "c34"
-      ],
-      "licence_url": "https://creativecommons.org/licenses/by/4.0",
-      "width": 3320,
-      "height": 4008
-    },
-    {
-      "id": "m10",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dr%20Gertrude%20Elion%20Wellcome%20L0034255.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Dr_Gertrude_Elion_Wellcome_L0034255.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "not stated",
-      "licence": "CC BY 4.0",
-      "hosting": "hotlink",
-      "caption": "Elion smiling in the laboratory, wearing a white coat and a beige neck tie.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by/4.0",
-      "width": 3136,
-      "height": 3800
-    },
-    {
-      "id": "m11",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gertrude%20Elion.%20Oil%20painting%20by%20Sir%20Roy%20Calne%2C%201990.%20Wellcome%20L0024105.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Gertrude_Elion._Oil_painting_by_Sir_Roy_Calne%2C_1990._Wellcome_L0024105.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "not stated",
-      "licence": "CC BY 4.0",
-      "hosting": "hotlink",
-      "caption": "Oil portrait of Gertrude Elion on a yellow background, painted in 1990 by Sir Roy Calne.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by/4.0",
-      "width": 4164,
-      "height": 5006
-    },
-    {
-      "id": "m14",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hitchings%20and%20Elion%20Wellcome%20L0034259.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Hitchings_and_Elion_Wellcome_L0034259.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Will &amp; Deni McIntyre",
-      "licence": "CC BY 4.0",
-      "hosting": "hotlink",
-      "caption": "A man and a woman in lab coats holding molecular models in front of a board with formulas; according to the file description, Hitchings and Elion.",
-      "illustrates": [
-        "c43"
-      ],
-      "licence_url": "https://creativecommons.org/licenses/by/4.0",
-      "width": 2664,
-      "height": 3828
-    },
-    {
-      "id": "m15",
-      "kind": "video",
-      "url": "https://www.youtube.com/watch?v=whqx0aE_3QY",
-      "youtube_id": "whqx0aE_3QY",
-      "source_page": "https://www.youtube.com/watch?v=whqx0aE_3QY",
-      "source_name": "YouTube",
-      "credit": "Nobel Prize",
-      "licence": "YouTube, embedded only (standard YouTube licence)",
-      "licence_url": "https://www.youtube.com/static?template=terms",
-      "hosting": "embed",
-      "caption": "Nobel Prize video about Elion, who created drugs to relieve human suffering.",
-      "illustrates": [
-        "c14",
-        "c35"
-      ]
-    },
-    {
-      "id": "m16",
-      "kind": "video",
-      "url": "https://www.youtube.com/watch?v=kamweFBx0iU",
-      "youtube_id": "kamweFBx0iU",
-      "source_page": "https://www.youtube.com/watch?v=kamweFBx0iU",
-      "source_name": "YouTube",
-      "credit": "Academy of Achievement",
-      "licence": "YouTube, embedded only (standard YouTube licence)",
-      "licence_url": "https://www.youtube.com/static?template=terms",
-      "hosting": "embed",
-      "caption": "Full interview with Elion at the Academy of Achievement, class of 1989.",
-      "illustrates": []
-    },
-    {
-      "id": "m17",
-      "kind": "video",
-      "url": "https://www.youtube.com/watch?v=Cr2VD3E_Ixk",
-      "youtube_id": "Cr2VD3E_Ixk",
-      "source_page": "https://www.youtube.com/watch?v=Cr2VD3E_Ixk",
-      "source_name": "YouTube",
-      "credit": "CUNY TV",
-      "licence": "YouTube, embedded only (standard YouTube licence)",
-      "licence_url": "https://www.youtube.com/static?template=terms",
-      "hosting": "embed",
-      "caption": "Segment in the CUNY TV series CUNY Laureates about Elion, a Hunter College graduate.",
-      "illustrates": [
-        "c3"
-      ],
-      "spoken": "en",
-      "audio_tracks": [
-        "en"
-      ]
-    },
-    {
-      "id": "m18",
-      "kind": "video",
-      "url": "https://www.youtube.com/watch?v=qqza99M1b3s",
-      "youtube_id": "qqza99M1b3s",
-      "source_page": "https://www.youtube.com/watch?v=qqza99M1b3s",
-      "source_name": "YouTube",
-      "credit": "Burroughs Wellcome Fund",
-      "licence": "YouTube, embedded only (standard YouTube licence)",
-      "licence_url": "https://www.youtube.com/static?template=terms",
-      "hosting": "embed",
-      "caption": "Film by the Burroughs Wellcome Fund about Elion's legacy, including the trip to Stockholm for the Nobel ceremony.",
-      "illustrates": [],
-      "spoken": "en",
-      "audio_tracks": [
-        "en"
-      ]
-    },
-    {
-      "id": "m19",
-      "kind": "video",
-      "url": "https://www.youtube.com/watch?v=TuJBNtgrWkc",
-      "youtube_id": "TuJBNtgrWkc",
-      "source_page": "https://www.youtube.com/watch?v=TuJBNtgrWkc",
-      "source_name": "YouTube",
-      "credit": "iSTEM Care",
-      "licence": "YouTube, embedded only (standard YouTube licence)",
-      "licence_url": "https://www.youtube.com/static?template=terms",
-      "hosting": "embed",
-      "caption": "Clip in which Elion talks about AIDS and cancer research, with background on the development of acyclovir.",
-      "illustrates": [
-        "c52"
-      ],
-      "spoken": "en",
-      "audio_tracks": [
-        "en"
-      ]
-    },
-    {
-      "id": "m21",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hitchings%20and%20Elion%20Wellcome%20L0034253.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Hitchings_and_Elion_Wellcome_L0034253.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Will &amp; Deni McIntyre",
-      "licence": "CC BY 4.0",
-      "hosting": "hotlink",
-      "caption": "Hitchings and Elion, Nobel Prize laureates, in lab coats holding molecular models in front of a board with chemical formulas",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by/4.0",
-      "date": "1988date Q",
-      "width": 2532,
-      "height": 3864,
-      "role": "deed"
-    },
-    {
-      "id": "m22",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hitchings%20and%20Elion%20Wellcome%20L0034254.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Hitchings_and_Elion_Wellcome_L0034254.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "not stated",
-      "licence": "CC BY 4.0",
-      "hosting": "hotlink",
-      "caption": "Hitchings and Elion, Nobel Prize laureates, smiling in the laboratory and holding molecular models",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by/4.0",
-      "width": 3708,
-      "height": 2268,
-      "role": "deed"
-    },
-    {
-      "id": "m23",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pioneres%20Gertrude%20Belle%20Elion.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Pioneres_Gertrude_Belle_Elion.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Joandrés",
-      "licence": "CC BY-SA 4.0",
-      "hosting": "hotlink",
-      "caption": "Mural of Gertrude Belle Elion at Vall d'Hebron Hospital",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "date": "2023-08-06",
-      "width": 3040,
-      "height": 2970,
-      "role": "related"
-    },
-    {
-      "id": "m24",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/G.%20Hitchings.%20Wellcome%20L0000749.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:G._Hitchings._Wellcome_L0000749.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "not stated",
-      "licence": "CC BY 4.0",
-      "hosting": "hotlink",
-      "caption": "George Hitchings sitting with an open book in his hands",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by/4.0",
-      "width": 1236,
-      "height": 1522,
-      "role": "deed"
-    },
-    {
-      "id": "m25",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dr%20George%20H.%20Hitchings%20at%20Wellcome%20Beckenham%20Wellcome%20L0075222.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Dr_George_H._Hitchings_at_Wellcome_Beckenham_Wellcome_L0075222.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "not stated",
-      "licence": "CC BY 4.0",
-      "hosting": "hotlink",
-      "caption": "George Hitchings in a lab coat beside laboratory equipment at the Burroughs Wellcome laboratories in Beckenham, Kent",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by/4.0",
-      "width": 5641,
-      "height": 3713,
-      "role": "deed"
-    },
-    {
-      "id": "m29",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/%27Burroughs%20Wellcome%20Chemical%20and%20Galenical%20works%27%2C%20New%20York.%20Wellcome%20M0008629.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:%27Burroughs_Wellcome_Chemical_and_Galenical_works%27%2C_New_York._Wellcome_M0008629.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "not stated",
-      "licence": "CC BY 4.0",
-      "hosting": "hotlink",
-      "caption": "Photograph of an illustration: the Burroughs Wellcome chemical works in Tuckahoe, New York",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by/4.0",
-      "width": 4300,
-      "height": 2613,
-      "role": "related"
-    },
-    {
-      "id": "m30",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Chemical%20Laboratory%20room%20Wellcome%20L0041460.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Chemical_Laboratory_room_Wellcome_L0041460.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "not stated",
-      "licence": "CC BY 4.0",
-      "hosting": "hotlink",
-      "caption": "Illustration of a chemical laboratory room at the Burroughs Wellcome research laboratories in Tuckahoe, New York",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by/4.0",
-      "width": 3928,
-      "height": 2164,
-      "role": "related"
-    }
-  ],
-  "check": {
-    "passed": true,
-    "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
-    "checked_at": "2026-11-14T03:12:00Z",
-    "counts": {
-      "confirmed": 86,
-      "not_confirmed": 0,
-      "deleted_sentences": 5,
-      "first_round_confirmed": 88,
-      "first_round_contradicted": 2,
-      "first_round_unverifiable": 3
-    },
-    "note": "unverifiable sentences were deleted, contradicted ones fixed from the source and checked again"
+    "m24",
+    "m25",
+    "m29",
+    "m30"
+   ],
+   "disagreements": [
+    "d2"
+   ]
   },
-  "meta": {
-    "run": "gertrude-elion-leukemia-drug",
-    "pipeline": "scripts/museum/museum_line.py",
-    "models": {
-      "research": "sonnet-5-5",
-      "extract": "sonnet-5-5",
-      "media": "sonnet-5-5",
-      "write": "opus-5-5 medium",
-      "check": "opus-5-5 medium",
-      "fix": "opus-5-5 medium"
-    },
-    "source_quality": {
-      "sources": 12,
-      "wikipedia": 0,
-      "strong": 5,
-      "ok": true,
-      "warnings": []
-    },
-    "settled": [
-      {
-        "box": "d1",
-        "question": "באיזו שנה קיבלה אליון תואר שני?",
-        "url": "https://www.womenshistory.org/node/2423",
-        "by": "settle 24.11"
-      }
+  {
+   "id": "s4",
+   "title": "6-MP: the first drug for leukemia",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "According to the Jewish Women's Archive, purine compounds and their derivatives were used to inhibit the growth of pathogenic cells by blocking the synthesis of certain nucleic acids.",
+      "claims": [
+       "c21"
+      ]
+     },
+     {
+      "text": "According to the National Academy of Sciences, by 1949 Elion had synthesized a purine that inhibited the growth of leukemia in mice.",
+      "claims": [
+       "c31"
+      ]
+     },
+     {
+      "text": "Burchenal used it to treat four patients, and two of them went into remission.",
+      "claims": [
+       "c31"
+      ]
+     }
     ],
-    "media_dedupe": [
-      {
-        "drop": "m1",
-        "keep": "m7",
-        "by": "reviewed 24.11"
-      },
-      {
-        "drop": "m8",
-        "keep": "m7",
-        "by": "reviewed 24.11"
-      },
-      {
-        "drop": "m13",
-        "keep": "m9",
-        "by": "reviewed 24.11"
-      },
-      {
-        "drop": "m5",
-        "keep": "m22",
-        "by": "reviewed 24.11"
-      },
-      {
-        "drop": "m12",
-        "keep": "m4",
-        "by": "reviewed 24.11"
-      },
-      {
-        "drop": "m2",
-        "keep": "m10",
-        "by": "reviewed 24.11"
-      },
-      {
-        "drop": "m6",
-        "keep": "m14",
-        "by": "reviewed 24.11"
-      },
-      {
-        "drop": "m7",
-        "keep": "m9",
-        "by": "reviewed 24.11"
-      }
+    [
+     {
+      "text": "According to Encyclopedia.com, in the initial trials the drug was toxic, and after refinements it performed effectively and safely.",
+      "claims": [
+       "c62"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to the National Academy of Sciences, to make 6MP Elion replaced an oxygen atom on the purine ring with a sulfur atom.",
+      "claims": [
+       "c29"
+      ]
+     },
+     {
+      "text": "6-mercaptopurine was the first purine antagonist to be useful in the treatment of acute lymphoblastic leukemia in children.",
+      "claims": [
+       "c28"
+      ]
+     },
+     {
+      "text": "The FDA approved it late in 1953, only ten months after clinical trials began.",
+      "claims": [
+       "c30"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to the National Women's History Museum, Elion spent six years researching the most effective combination of 6-MP with other drugs against childhood leukemia, and today this approach cures most patients.",
+      "claims": [
+       "c45"
+      ]
+     },
+     {
+      "text": "According to PBS, in combination with other drugs, doctors reached a cure rate of about 80 percent.",
+      "claims": [
+       "c50"
+      ]
+     },
+     {
+      "text": "According to Blood Cancer UK, mercaptopurine is used today to treat acute lymphoblastic leukemia and acute promyelocytic leukemia, and is responsible for the increase in survival rates in childhood blood cancer.",
+      "claims": [
+       "c57"
+      ]
+     },
+     {
+      "text": "According to Harvard SITN, the drug also temporarily affects normally dividing cells, such as cells of the immune system, hair follicles and the digestive system, and this explains side effects of chemotherapy.",
+      "claims": [
+       "c66"
+      ]
+     }
     ]
+   ],
+   "media": [
+    "m14",
+    "m10"
+   ],
+   "disagreements": []
   },
-  "lang": "en",
-  "translation": {
-    "from": "he",
-    "translator": "claude-opus-5-5",
-    "checker": "claude-opus-5-5 (separate call, blind to the translation prompt)",
-    "checked_at": "2026-11-23T22:29:38Z",
-    "passed": true,
-    "items": 132,
-    "pairs_checked": 1,
-    "reused": 131,
-    "first_round_flagged": 0,
-    "still_flagged": 0,
-    "flagged": [],
-    "quote_translations": {}
+  {
+   "id": "s5",
+   "title": "From transplanted kidneys to herpes",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "According to the Jewish Women's Archive, Elion helped develop the immunosuppressant drug that made organ transplants possible.",
+      "claims": [
+       "c16"
+      ]
+     },
+     {
+      "text": "According to PBS, by 1961 kidney transplants on humans were attempted, and with the help of Imuran patients began to survive.",
+      "claims": [
+       "c51"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to the National Women's History Museum, Elion and Hitchings showed that drugs targeting bacterial and viral DNA could fight infectious diseases.",
+      "claims": [
+       "c47",
+       "c-aud-20261127-2"
+      ]
+     },
+     {
+      "text": "From this came the drugs pyrimethamine and trimethoprim.",
+      "claims": [
+       "c47"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "Elion wrote that in 1967 she was appointed Head of the Department of Experimental Therapy, and that she remained in the position until she retired in 1983.",
+      "claims": [
+       "c13"
+      ]
+     },
+     {
+      "text": "According to PBS, her team developed acyclovir, which is effective against herpes, shingles and Epstein-Barr virus.",
+      "claims": [
+       "c52"
+      ]
+     },
+     {
+      "text": "According to the National Women's History Museum, another scientist first synthesized acyclovir, and Elion was the one who determined exactly how it works.",
+      "claims": [
+       "c46"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to PBS, within a year of her retirement her unit used her methods to develop AZT, the first drug licensed in the United States to treat HIV.",
+      "claims": [
+       "c53"
+      ]
+     },
+     {
+      "text": "According to Encyclopedia.com, most of the drugs she invented are included in the World Health Organization's list of essential drugs.",
+      "claims": [
+       "c65"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "Elion wrote that the satisfaction of seeing people get well from diseases such as leukemia, kidney failure and herpes encephalitis cannot be described in words.",
+      "claims": [
+       "c39"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m9",
+    "m10",
+    "m19"
+   ],
+   "disagreements": [
+    "d3"
+   ]
+  },
+  {
+   "id": "s6",
+   "title": "Stockholm, 1988",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "The Nobel Prize in Physiology or Medicine 1988 was awarded jointly to Black, Elion and Hitchings, for their discoveries of important principles for drug treatment.",
+      "claims": [
+       "c14"
+      ]
+     },
+     {
+      "text": "According to PBS, the Nobel Committee noted that the laureates introduced a more rational approach to drug development, as opposed to the chemical modification of natural products.",
+      "claims": [
+       "c54"
+      ]
+     },
+     {
+      "text": "According to Encyclopedia.com, the Nobel Committee rarely honors drug developers.",
+      "claims": [
+       "c72"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "On 8 December 1988, Elion delivered her Nobel Lecture at Karolinska Institutet in Stockholm.",
+      "claims": [
+       "c15"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to the Jewish Women's Archive, in 1991 Elion was the first woman inducted into the National Inventors Hall of Fame.",
+      "claims": [
+       "c22"
+      ]
+     },
+     {
+      "text": "She also received the Cain Award of the American Association for Cancer Research,",
+      "claims": [
+       "c25",
+       "c36"
+      ]
+     },
+     {
+      "text": "honorary degrees",
+      "claims": [
+       "c23",
+       "c27",
+       "c67"
+      ]
+     },
+     {
+      "text": "and many patents.",
+      "claims": [
+       "c27",
+       "c64"
+      ]
+     },
+     {
+      "text": "According to Encyclopedia.com, such a number of patents was rare for a woman.",
+      "claims": [
+       "c64"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m22",
+    "m18",
+    "m15",
+    "m11"
+   ],
+   "disagreements": [
+    "d4",
+    "d5",
+    "d6"
+   ]
+  },
+  {
+   "id": "s7",
+   "title": "The woman behind the laboratory",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "According to the Jewish Women's Archive, as head of the laboratory Elion made sure that her staff received credit for their work, and did not take it for herself.",
+      "claims": [
+       "c24"
+      ]
+     },
+     {
+      "text": "She said that what they were aiming at was getting people well, and that this satisfaction is much greater than any prize.",
+      "claims": [
+       "c35"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to the Jewish Women's Archive, Elion lost her fiancé and never married.",
+      "claims": [
+       "c19"
+      ]
+     },
+     {
+      "text": "According to Massive Science, she doubted that she would have been so successful if she had had children.",
+      "claims": [
+       "c69"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to the National Academy of Sciences, Elion collapsed on her daily walk and was taken to the University of North Carolina Hospital in Chapel Hill.",
+      "claims": [
+       "c40"
+      ]
+     },
+     {
+      "text": "She died there at the age of 81.",
+      "claims": [
+       "c40"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m9",
+    "m16",
+    "m23"
+   ],
+   "disagreements": [
+    "d7"
+   ]
   }
+ ],
+ "disagreements": [
+  {
+   "id": "d2",
+   "question": "Why did Elion leave her doctorate?",
+   "versions": [
+    {
+     "says": "Elion wrote that she chose to stay with her job and give up the doctorate",
+     "claims": [
+      "c11"
+     ]
+    },
+    {
+     "says": "The Jewish Women's Archive writes that she was forced to leave the doctoral program when the college dean made her choose between her studies and her job",
+     "claims": [
+      "c20"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d3",
+   "question": "When was acyclovir developed?",
+   "versions": [
+    {
+     "says": "PBS: in the early 1970s",
+     "claims": [
+      "c52"
+     ]
+    },
+    {
+     "says": "Encyclopedia.com: in 1975, together with Hitchings, as the first effective treatment for herpes",
+     "claims": [
+      "c58"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d4",
+   "question": "In what year did Elion receive the Cain Award?",
+   "versions": [
+    {
+     "says": "Jewish Women's Archive: 1985",
+     "claims": [
+      "c25"
+     ]
+    },
+    {
+     "says": "National Academy of Sciences: 1984",
+     "claims": [
+      "c36"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d5",
+   "question": "How many honorary degrees did Elion receive?",
+   "versions": [
+    {
+     "says": "Jewish Women's Archive: twenty",
+     "claims": [
+      "c23"
+     ]
+    },
+    {
+     "says": "National Academy of Sciences: 23",
+     "claims": [
+      "c27"
+     ]
+    },
+    {
+     "says": "Harvard SITN: 26",
+     "claims": [
+      "c67"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d6",
+   "question": "How many patents did Elion hold?",
+   "versions": [
+    {
+     "says": "National Academy of Sciences: 45",
+     "claims": [
+      "c27"
+     ]
+    },
+    {
+     "says": "Encyclopedia.com: more than 40",
+     "claims": [
+      "c64"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d7",
+   "question": "When did Elion die?",
+   "versions": [
+    {
+     "says": "Jewish Women's Archive: on Sunday, February 21, 1999, in Chapel Hill, North Carolina",
+     "claims": [
+      "c26"
+     ]
+    },
+    {
+     "says": "Encyclopedia.com: on February 20, 1999, in Chapel Hill",
+     "claims": [
+      "c70"
+     ]
+    }
+   ]
+  }
+ ],
+ "unknowns": [
+  {
+   "text": "According to the National Academy of Sciences, by 1949 Elion had synthesized a purine that inhibited growth in mouse leukemia, and Joseph Burchenal of the Sloan Kettering Institute used it to treat four patients with chronic granulocytic leukemia, two of whom went into remission.",
+   "claims": [
+    "c31"
+   ]
+  },
+  {
+   "text": "According to the Jewish Women's Archive, Elion helped develop the immunosuppressant drug that made organ transplants possible, and the archive identifies the drug for kidney transplants as azathioprine. According to PBS, azathioprine is Imuran: by 1961 kidney transplants were attempted on humans, and with the help of Imuran patients began to survive, so the sources link the two.",
+   "claims": [
+    "c16",
+    "c51"
+   ]
+  }
+ ],
+ "claims": [
+  {
+   "id": "c55",
+   "text": "לפי Blood Cancer UK, אליון נולדה בניו יורק ב-1918 להורים יהודים מהגרים ממזרח אירופה.",
+   "source": "src1",
+   "quote": "Born in New York in 1918 to Jewish immigrants from Eastern Europe",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c14",
+   "text": "פרס נובל לפיזיולוגיה או רפואה 1988 הוענק במשותף לבלק, לאליון ולהיצ'ינגס על תגליותיהם בעקרונות חשובים לטיפול תרופתי.",
+   "source": "src2",
+   "quote": "The Nobel Prize in Physiology or Medicine 1988 was awarded jointly to Sir James W. Black, Gertrude B. Elion and George H. Hitchings",
+   "status": "confirmed",
+   "locator": "שורה 13"
+  },
+  {
+   "id": "c1",
+   "text": "אליון כתבה שסבה, שאהבה מאוד, מת מסרטן כשהייתה בת 15, ושהדבר הניע אותה לעשות משהו שעשוי להוביל לריפוי המחלה.",
+   "source": "src3",
+   "quote": "my grandfather, whom I loved dearly, died of cancer when I was 15. I was highly motivated to do something that might eventually lead to a cure for this terrible disease.",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c44",
+   "text": "לפי המוזיאון הלאומי להיסטוריית נשים, היצ'ינגס שכר את אליון כעוזרת מעבדה שנתיים אחרי שהחל לעבוד בברוז וולקאם ב-1942.",
+   "source": "src4",
+   "quote": "Two years later, he hired Elion as a lab assistant.",
+   "status": "confirmed",
+   "locator": "שורה 22"
+  },
+  {
+   "id": "c48",
+   "text": "לפי PBS, אליון שמעה על ברוז וולקאם דרך אביה, וב-1944 היצ'ינגס שכר אותה במקום ב-50 דולר לשבוע.",
+   "source": "src5",
+   "quote": "In 1944, on her father's suggestion, she went to Burroughs Wellcome for an interview. George Hitchings (b. 1905) hired her on the spot for $50 a week.",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c16",
+   "text": "לפי ארכיון הנשים היהודיות, אליון סייעה לפתח את הכימותרפיה הראשונה ללוקמיה בילדים ואת התרופה המדכאת חיסון שאפשרה השתלות איברים.",
+   "source": "src6",
+   "quote": "She helped develop the first chemotherapy for childhood leukemia, the immunosuppressant that made organ transplantation possible, the first effective anti-viral medication",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c50",
+   "text": "לפי PBS, בשילוב עם תרופות אחרות הגיעו הרופאים בסופו של דבר לשיעור ריפוי של כ-80 אחוז עם 6-MP.",
+   "source": "src5",
+   "quote": "Eventually doctors would learn to use 6-MP in combination with other drugs and reach a cure rate of about 80 percent.",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c34",
+   "text": "לפי האקדמיה הלאומית למדעים, אליון בילתה 39 שנים בברוז וולקאם והפכה ב-1967 לראש המחלקה לתרפיה ניסויית.",
+   "source": "src7",
+   "quote": "spent the next 39 years at Burroughs Wellcome, becoming head of the Department of Experimental Therapy in 1967",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c30",
+   "text": "לפי האקדמיה הלאומית למדעים, ה-FDA אישר את 6MP בסוף 1953, עשרה חודשים בלבד אחרי תחילת הניסויים הקליניים.",
+   "source": "src7",
+   "quote": "the U.S. Food and Drug Administration approved its use late in 1953—only 10 months after clinical trials began",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c22",
+   "text": "לפי ארכיון הנשים היהודיות, אליון הייתה האישה הראשונה שהוכנסה להיכל התהילה הלאומי של ממציאים ב-1991.",
+   "source": "src6",
+   "quote": "In 1991, she was the first woman inducted into the National Inventors Hall of Fame.",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c42",
+   "text": "לפי המוזיאון הלאומי להיסטוריית נשים, אליון הייתה בתם של מהגרים יהודים שהגיעו לארה\"ב כבני נוער.",
+   "source": "src4",
+   "quote": "She was the daughter of Jewish immigrants, her parents each having come to the U.S. as teenagers.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c18",
+   "text": "לפי ארכיון הנשים היהודיות, אביה של אליון בא משושלת ארוכה של רבנים.",
+   "source": "src6",
+   "quote": "Her father came from a long line of rabbis.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c2",
+   "text": "לפי אליון, אביה השקיע רבות בשוק ההון ופשט רגל בקריסת 1929.",
+   "source": "src3",
+   "quote": "had invested heavily in the stock market, and in the crash of 1929 had gone into bankruptcy",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c3",
+   "text": "אליון כתבה שאלמלא הנטר קולג' היה מכללה חינמית, ייתכן שלא הייתה מקבלת השכלה גבוהה.",
+   "source": "src3",
+   "quote": "Had it not been that Hunter College was a free college, and that my grades were good enough for me to enter it, I suspect I might never have received a higher education.",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c32",
+   "text": "אליון סיפרה שאיש לא לקח אותה ברצינות ושתהו מדוע רצתה להיות כימאית כשאף אישה לא עסקה בכך.",
+   "source": "src7",
+   "quote": "Nobody took me seriously. They wondered why in the world I wanted to be a chemist when no women were doing that.",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c56",
+   "text": "לפי Blood Cancer UK, חיפוש עבודה בתחום הכימיה שנשלט על ידי גברים היה קשה.",
+   "source": "src1",
+   "quote": "Looking for a job within the male-dominated chemistry field was tough.",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c59",
+   "text": "לפי אנציקלופדיה דוט קום, אליון נדחתה על ידי 15 בתי ספר לתארים מתקדמים כשביקשה עוזרות מחקר במעבדה.",
+   "source": "src8",
+   "quote": "Elion was rejected by a total of 15 graduate schools when she applied for a laboratory assistantship.",
+   "status": "confirmed",
+   "locator": "שורה 15"
+  },
+  {
+   "id": "c6",
+   "text": "אליון עבדה כעוזרת מעבדה אצל כימאי שלא יכול היה לשלם לה משכורת באותה עת, כי חשבה שהניסיון שווה זאת.",
+   "source": "src3",
+   "quote": "Although he was unable to pay me any salary at that time, I decided that the experience would be worthwhile.",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c7",
+   "text": "אליון כתבה שהגיעה לשכר של 20 דולר בשבוע אחרי שנה וחצי באותה עבודה.",
+   "source": "src3",
+   "quote": "I stayed there for a year and a half and was finally making the magnificent sum of $20 a week.",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c5",
+   "text": "אליון סיפרה שהייתה האישה היחידה בכיתת התואר השני שלה בכימיה ושאיש לא הפריע לכך.",
+   "source": "src3",
+   "quote": "I was the only female in my graduate chemistry class but no one seemed to mind, and I did not consider it at all strange.",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c9",
+   "text": "אליון עבדה בבקרת איכות אנליטית בחברת מזון גדולה, עבודה שמצאה חוזרת על עצמה.",
+   "source": "src3",
+   "quote": "I did analytical quality control work for a major food company.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c33",
+   "text": "לפי האקדמיה הלאומית למדעים, בתפקיד אנליטי מוקדם עבודתה של אליון כללה מדידת חומציות של חמוצים וצבע של מיונז.",
+   "source": "src7",
+   "quote": "her job included the measurement of the acidity of pickles and the color of mayonnaise",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c38",
+   "text": "אליון כתבה בהערות להרצאה שנדרשו שבע שנים של עבודות שונות עד שמחסור בגברים אפשר לה להוכיח את עצמה.",
+   "source": "src7",
+   "quote": "It's true it took seven years of various jobs, including a year in graduate school and two years of high school teaching before the shortage of men in civilian jobs gave me the opportunity to prove myself.",
+   "status": "confirmed",
+   "locator": "שורה 32"
+  },
+  {
+   "id": "c10",
+   "text": "אליון סיפרה שהיצ'ינגס אפשר לה ללמוד במהירות ולקחת אחריות הולכת וגדלה כשהייתה מוכנה.",
+   "source": "src3",
+   "quote": "Dr. Hitchings permitted me to learn as rapidly as I could and to take on more and more responsibility when I was ready for it.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c12",
+   "text": "אליון תיארה את העבודה המוקדמת כחקר גבולות חדשים, כשידוע היה מעט מאוד על ביוסינתזה של חומצות גרעין ועל האנזימים הקשורים בה.",
+   "source": "src3",
+   "quote": "We were exploring new frontiers, since very little was known about nucleic acid biosynthesis or the enzymes involved with it.",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c43",
+   "text": "לפי המוזיאון הלאומי להיסטוריית נשים, בשנות ה-50 אליון והיצ'ינגס פיתחו שיטה שיטתית לתכנון תרופות רציונלי, בניגוד לגישות הניסוי והטעייה.",
+   "source": "src4",
+   "quote": "Elion and George Hitchings developed a systematic method for rational drug design, as opposed to the much less efficient and relatively haphazard trial and error approaches",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c71",
+   "text": "לפי אנציקלופדיה דוט קום, אליון הייתה כנראה האישה היחידה בתפקיד בכיר בחברת תרופות גדולה, ולפי הדיווחים הרגישה שלא חוותה אפליה בברוז וולקאם.",
+   "source": "src9",
+   "quote": "Probably the only woman to hold a top-ranking position in a major pharmaceutical company, in 1967 and for many years after, she is said to have felt that she experienced no discrimination at Burroughs Wellcome.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c21",
+   "text": "לפי ארכיון הנשים היהודיות, תרכובות פורין ונגזרותיהן שימשו לעכב צמיחה של תאים פתוגניים על ידי חסימת הסינתזה של חומצות גרעין מסוימות.",
+   "source": "src6",
+   "quote": "purine compounds and their derivatives were used to inhibit the growth of such cells by blocking the synthesis of certain nucleic acids",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c31",
+   "text": "לפי האקדמיה הלאומית למדעים, עד 1949 אליון סינתזה פורין שעיכב צמיחה בלוקמיה של עכברים, ובורצ'נל טיפל בו בארבעה חולים, ושניים מהם נכנסו להפוגה.",
+   "source": "src7",
+   "quote": "Joseph Burchenal at Sloan Kettering Institute in New York used to treat four patients with chronic granulocytic leukemia, two of whom went into remission",
+   "status": "confirmed",
+   "locator": "שורה 16"
+  },
+  {
+   "id": "c62",
+   "text": "לפי אנציקלופדיה דוט קום, בניסויים הראשונים התרופה הייתה רעילה, אך אחרי שיפורים פעלה ביעילות ובבטחה.",
+   "source": "src8",
+   "quote": "During initial trials, the drug did indeed prove to be toxic. After refinements, however, it performed effectively and safely.",
+   "status": "confirmed",
+   "locator": "שורה 23"
+  },
+  {
+   "id": "c29",
+   "text": "לפי האקדמיה הלאומית למדעים, לייצור 6MP אליון החליפה אטום חמצן בטבעת הפורין באטום גופרית.",
+   "source": "src7",
+   "quote": "To make the successful 6MP, Trudy replaced an oxygen atom on the purine ring with a sulfur atom.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c28",
+   "text": "לפי האקדמיה הלאומית למדעים, 6-מרקפטופורין היה האנטגוניסט הראשון של פורינים שהועיל בטיפול בלוקמיה לימפובלסטית חריפה בילדים.",
+   "source": "src7",
+   "quote": "The 6-mercaptopurine (6MP) became the first purine antagonist to be useful in the treatment of acute lymphoblastic leukemia in children.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c45",
+   "text": "לפי המוזיאון הלאומי להיסטוריית נשים, אליון בילתה שש שנים בבדיקת השילוב היעיל ביותר של 6-MP עם תרופות אחרות נגד לוקמיה בילדים, וכיום גישה זו מרפאה את רוב החולים.",
+   "source": "src4",
+   "quote": "she spent six years researching the most effective combination of 6-MP with other drugs to battle childhood leukemia, and today this approach is able to cure most patients",
+   "status": "confirmed",
+   "locator": "שורה 29"
+  },
+  {
+   "id": "c57",
+   "text": "לפי Blood Cancer UK, היום מרקפטופורין משמש לטיפול בלוקמיה לימפובלסטית חריפה ובלוקמיה פרומיאלוציטית חריפה, ואחראי לעלייה בשיעורי ההישרדות בסרטן דם בילדים.",
+   "source": "src1",
+   "quote": "is responsible for the greatly increased survival rates we see today in childhood blood cancer.",
+   "status": "confirmed",
+   "locator": "שורה 26"
+  },
+  {
+   "id": "c66",
+   "text": "לפי הרווארד SITN, 6-MP משפיע זמנית גם על תאים מתחלקים תקינים כמו תאי מערכת החיסון, זקיקי שיער ומערכת העיכול, מה שמסביר תופעות לוואי של כימותרפיה.",
+   "source": "src10",
+   "quote": "Unfortunately, normally proliferating cells, such as cells of the immune system, hair follicles, and digestive system, are also temporarily affected by this drug",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c51",
+   "text": "לפי PBS, עד 1961 ניסו השתלות כליה בבני אדם, ובעזרת אימוראן החולים החלו לשרוד.",
+   "source": "src5",
+   "quote": "By 1961, kidney transplants on humans were attempted, and soon, with the help of Imuran, patients were surviving.",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c47",
+   "text": "לפי המוזיאון הלאומי להיסטוריית נשים, בשנות ה-60 אליון והיצ'ינגס הראו שתרופות הפוגעות ב-DNA של חיידקים ווירוסים יכולות להילחם במחלות זיהומיות, ומכאן הגיעו פירימתמין וטרימתופרים.",
+   "source": "src4",
+   "quote": "In the 1960s, Elion and Hitchings established that drugs targeting bacterial and viral DNA could be used to fight infectious diseases.",
+   "status": "confirmed",
+   "locator": "שורה 31"
+  },
+  {
+   "id": "c13",
+   "text": "אליון כתבה שמונתה ב-1967 לראש המחלקה לתרפיה ניסויית ונשארה בתפקיד עד פרישתה ב-1983.",
+   "source": "src3",
+   "quote": "in 1967 I was appointed Head of the Department of Experimental Therapy, a position which I held until I retired in 1983",
+   "status": "confirmed",
+   "locator": "שורה 13"
+  },
+  {
+   "id": "c52",
+   "text": "לפי PBS, בתחילת שנות ה-70 צוותה של אליון פיתח את אקיקלוביר, יעיל נגד הרפס, שלבקת חוגרת ווירוס אפשטיין-בר.",
+   "source": "src5",
+   "quote": "in the early 1970s Elion's team developed acyclovir (trade name Zovirax), effective against herpes, shingles, and Epstein-Barr virus",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c46",
+   "text": "לפי המוזיאון הלאומי להיסטוריית נשים, אקיקלוביר סונתז תחילה על ידי מדען אחר, ואליון היא שקבעה כיצד בדיוק הוא פועל.",
+   "source": "src4",
+   "quote": "Though initially synthesized by another scientist, Elion was the one to determine exactly how it worked.",
+   "status": "confirmed",
+   "locator": "שורה 34"
+  },
+  {
+   "id": "c53",
+   "text": "לפי PBS, אליון פרשה ב-1983 ותוך שנה היחידה שלה השתמשה בשיטותיה לפיתוח AZT, התרופה הראשונה שאושרה בארה\"ב לטיפול ב-HIV.",
+   "source": "src5",
+   "quote": "Elion retired in 1983 and within a year her former unit used her methods to develop AZT, the first drug licensed in the United States to treat HIV.",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c65",
+   "text": "לפי אנציקלופדיה דוט קום, רוב התרופות שהמציאה אליון נכללות ברשימת התרופות החיוניות של ארגון הבריאות העולמי.",
+   "source": "src8",
+   "quote": "Most of the drugs she invented are included in the World Health Organization's list of essential drugs.",
+   "status": "confirmed",
+   "locator": "שורה 36"
+  },
+  {
+   "id": "c39",
+   "text": "אליון כתבה שהסיפוק מלראות אנשים מבריאים ממחלות כמו לוקמיה, אי ספיקת כליות ודלקת מוח הרפס אינו ניתן לתיאור במילים.",
+   "source": "src7",
+   "quote": "The thrill of seeing people get well who might otherwise have died of diseases like leukemia, kidney failure, and herpes virus encephalitis cannot be described in words.",
+   "status": "confirmed",
+   "locator": "שורה 33"
+  },
+  {
+   "id": "c54",
+   "text": "לפי PBS, ועדת נובל ציינה שהזוכים הציגו גישה רציונלית יותר לפיתוח תרופות, בניגוד לשינוי כימי של תוצרי טבע.",
+   "source": "src5",
+   "quote": "While drug development had earlier mainly been built on chemical modification of natural products, they introduced a more rational approach based on the understanding of basic biochemical and physiological processes.",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c72",
+   "text": "לפי אנציקלופדיה דוט קום, ועדת נובל מעטות מכבדת מפתחי תרופות, ובשנת 1988 הוענק הפרס לאליון ולהיצ'ינגס על סדרת תרופות חשובות.",
+   "source": "src9",
+   "quote": "The Nobel Prize Committee rarely honors the work of scientists who develop new drugs.",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c15",
+   "text": "אליון נשאה את הרצאת הנובל שלה ב-8 בדצמבר 1988 במכון קרולינסקה בשטוקהולם.",
+   "source": "src11",
+   "quote": "Gertrude B. Elion held her Nobel Lecture on 8 December 1988, at Karolinska Institutet, Stockholm.",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c25",
+   "text": "לפי ארכיון הנשים היהודיות, אליון קיבלה את פרס קיין של האגודה האמריקנית לחקר הסרטן ב-1985.",
+   "source": "src6",
+   "quote": "the American Association of Cancer Research Cain Award (1985)",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c36",
+   "text": "לפי האקדמיה הלאומית למדעים, אליון קיבלה את פרס קיין של האגודה האמריקנית לחקר הסרטן ב-1984.",
+   "source": "src7",
+   "quote": "the Cain Award from the American Association for Cancer Research in 1984",
+   "status": "confirmed",
+   "locator": "שורה 25"
+  },
+  {
+   "id": "c23",
+   "text": "לפי ארכיון הנשים היהודיות, אליון קיבלה לצד פרס נובל עשרים תארי כבוד.",
+   "source": "src6",
+   "quote": "In addition to the 1988 Nobel Prize and twenty honorary doctoral degrees, Elion received the Garvan Medal",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c27",
+   "text": "לפי האקדמיה הלאומית למדעים, אליון החזיקה ב-45 פטנטים וב-23 תארי כבוד.",
+   "source": "src7",
+   "quote": "as well as holder of 45 patents, 23 honorary degrees, and a long list of other honors",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c67",
+   "text": "לפי הרווארד SITN, אליון קיבלה 26 תארי כבוד.",
+   "source": "src10",
+   "quote": "Dr. Elion received 26 honorary doctorate degrees, the National Medal of Science, admission into the Royal Society, and the Nobel Prize in Medicine.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c64",
+   "text": "לפי אנציקלופדיה דוט קום, אליון החזיקה ביותר מ-40 פטנטים, נדירות בקרב נשים.",
+   "source": "src8",
+   "quote": "Gertrude Elion held over 40 patents, a rarity for a woman.",
+   "status": "confirmed",
+   "locator": "שורה 36"
+  },
+  {
+   "id": "c24",
+   "text": "לפי ארכיון הנשים היהודיות, אליון דאגה שעובדיה יקבלו קרדיט על עבודתם במקום לקחת אותו לעצמה כראש המעבדה.",
+   "source": "src6",
+   "quote": "ensuring they received credit for their work instead of taking the credit she would normally be given as head of the lab where the work was done",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c35",
+   "text": "אליון אמרה שמה שכיוונו אליו היה להבריא אנשים, וסיפוק זה גדול בהרבה מכל פרס.",
+   "source": "src7",
+   "quote": "What we were aiming at was getting people well, and the satisfaction of that is much greater than any prize you can get.",
+   "status": "confirmed",
+   "locator": "שורה 22"
+  },
+  {
+   "id": "c19",
+   "text": "לפי ארכיון הנשים היהודיות, אליון איבדה אתארוסה ולא נישאה מעולם.",
+   "source": "src6",
+   "quote": "During this period, she also suffered the death of her fiancé and never married.",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c69",
+   "text": "לפי Massive Science, אליון הטילה ספק שהייתה מצליחה כל כך אילו היו לה ילדים.",
+   "source": "src12",
+   "quote": "Elion expressed doubt that she would have been so successful if she had children",
+   "status": "confirmed",
+   "locator": "שורה 23"
+  },
+  {
+   "id": "c40",
+   "text": "לפי האקדמיה הלאומית למדעים, אליון התמוטטה בהליכתה היומית, נלקחה לבית החולים באוניברסיטת צפון קרוליינה בצ'אפל היל ומתה בגיל 81.",
+   "source": "src7",
+   "quote": "Trudy collapsed and was taken to the University of North Carolina Hospital in Chapel Hill, where she died at midnight at age eighty-one.",
+   "status": "confirmed",
+   "locator": "שורה 34"
+  },
+  {
+   "id": "c8",
+   "text": "לפי אליון, היא קיבלה תואר שני במדעים בכימיה ב-1941.",
+   "source": "src3",
+   "quote": "obtained my Master of Science degree in chemistry in 1941",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c11",
+   "text": "אליון כתבה שבחרה להישאר בעבודתה ולוותר על הדוקטורט.",
+   "source": "src3",
+   "quote": "I made what was then a critical decision in my life, to stay with my job and give up the pursuit of a doctorate.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c20",
+   "text": "לפי ארכיון הנשים היהודיות, אליון נאלצה לעזוב את התוכנית לדוקטורט כשדיקן המכללה הציב בפניה בחירה בין לימודיה לעבודתה.",
+   "source": "src6",
+   "quote": "She began the doctoral program at Brooklyn Polytechnic but was forced to leave after two years when the college dean made her choose between her education and her job.",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c58",
+   "text": "לפי אנציקלופדיה דוט קום, אליון קיבלה אישור FDA ל-6MP ב-1953, וב-1975 סינתזה עם היצ'ינגס את אקיקלוביר, הטיפול היעיל הראשון בהרפס.",
+   "source": "src8",
+   "quote": "In 1975, Elion and Hitchings synthesized the drug acyclovir, the first effective treatment for herpes.",
+   "status": "confirmed",
+   "locator": "שורה 29"
+  },
+  {
+   "id": "c26",
+   "text": "לפי ארכיון הנשים היהודיות, אליון מתה ביום ראשון, 21 בפברואר 1999, בצ'אפל היל שבצפון קרוליינה.",
+   "source": "src6",
+   "quote": "Gertrude Elion died on Sunday, February 21, 1999, in Chapel Hill, North Carolina, where she lived.",
+   "status": "confirmed",
+   "locator": "שורה 15"
+  },
+  {
+   "id": "c70",
+   "text": "לפי אנציקלופדיה דוט קום, אליון מתה ב-20 בפברואר 1999 בצ'אפל היל.",
+   "source": "src9",
+   "quote": "She died on February 20, 1999, in Chapel Hill, North Carolina.",
+   "status": "confirmed",
+   "locator": "שורה 13"
+  },
+  {
+   "id": "c73",
+   "text": "לפי המוזיאון הלאומי להיסטוריה של נשים בארצות הברית, אליון קיבלה תואר שני במדעים ב-1941.",
+   "source": "src4",
+   "quote": "finally earning her Master of Science in 1941",
+   "status": "confirmed",
+   "locator": "שורה 17"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "לפי האקדמיה הלאומית למדעים, היא פיתחה שתיים מהתרופות המוצלחות הראשונות ללוקמיה, וגם את אזתיופרין, שמונע דחייה של השתלות כליה.",
+   "source": "src7",
+   "quote": "an agent to prevent the rejection of kidney transplants",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "לפי המוזיאון הלאומי להיסטוריית נשים, אליון והיצ'ינגס הראו שתרופות שפוגעות ב-DNA של חיידקים ווירוסים יכולות להילחם במחלות זיהומיות.",
+   "source": "src9001",
+   "quote": "Elion and Hitchings established that drugs targeting bacterial and viral DNA could be used to fight infectious diseases",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "לפי אליון, אביה היגר מליטא לארה\"ב בגיל 12, ואמה הגיעה בגיל 14.",
+   "source": "src3",
+   "quote": "My father emigrated from Lithuania to the United States at the age of 12.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  }
+ ],
+ "sources": [
+  {
+   "id": "src1",
+   "label": "Blood Cancer UK, Gertrude Elion: how one woman's determination transformed cancer treatment",
+   "url": "https://bloodcancer.org.uk/news/gertrude-elion-how-one-womans-determination-transformed-cancer-treatment/",
+   "kind": "organisation"
+  },
+  {
+   "id": "src2",
+   "label": "NobelPrize.org, The Nobel Prize in Physiology or Medicine 1988",
+   "url": "https://www.nobelprize.org/prizes/medicine/1988/summary/",
+   "kind": "official"
+  },
+  {
+   "id": "src3",
+   "label": "NobelPrize.org, Gertrude B. Elion – Biographical, Elion's autobiography",
+   "url": "https://www.nobelprize.org/prizes/medicine/1988/elion/biographical/",
+   "kind": "official"
+  },
+  {
+   "id": "src4",
+   "label": "National Women's History Museum, Gertrude B. Elion",
+   "url": "https://www.womenshistory.org/node/2423",
+   "kind": "reference"
+  },
+  {
+   "id": "src5",
+   "label": "PBS, A Science Odyssey, Gertrude Elion",
+   "url": "https://www.pbs.org/wgbh/aso/databank/entries/dm50le.html",
+   "kind": "reference"
+  },
+  {
+   "id": "src6",
+   "label": "Jewish Women's Archive, Encyclopedia, Gertrude Belle Elion",
+   "url": "https://jwa.org/encyclopedia/article/elion-gertrude-belle",
+   "kind": "reference"
+  },
+  {
+   "id": "src7",
+   "label": "National Academy of Sciences, Biographical Memoir, Gertrude B. Elion",
+   "url": "https://nap.nationalacademies.org/read/9977/chapter/3",
+   "kind": "reference"
+  },
+  {
+   "id": "src8",
+   "label": "Encyclopedia.com, Elion, Gertrude B. (1918–1999)",
+   "url": "https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/elion-gertrude-b-1918-1999",
+   "kind": "reference"
+  },
+  {
+   "id": "src9",
+   "label": "Encyclopedia.com, Elion, Gertrude Belle (Notable Scientists / World of Chemistry)",
+   "url": "https://www.encyclopedia.com/science/news-wires-white-papers-and-books/elion-gertrude-belle",
+   "kind": "reference"
+  },
+  {
+   "id": "src10",
+   "label": "Harvard SITN, Gertrude Elion: Forging the path towards a cure for cancer",
+   "url": "https://sites.harvard.edu/sitn/?p=19853",
+   "kind": "press"
+  },
+  {
+   "id": "src11",
+   "label": "NobelPrize.org, Elion's Nobel Lecture, 1988",
+   "url": "https://www.nobelprize.org/prizes/medicine/1988/elion/lecture/",
+   "kind": "official"
+  },
+  {
+   "id": "src12",
+   "label": "Massive Science, Gertrude Elion, science hero of drug discovery",
+   "url": "https://massivesci.com/articles/gertrude-elion-science-hero-drug-discovery/",
+   "kind": "press"
+  },
+  {
+   "id": "src9001",
+   "label": "National Women's History Museum, Gertrude B. Elion biography, 2025",
+   "url": "https://www.womenshistory.org/education-resources/biographies/Gertrude-Elion",
+   "kind": "organisation",
+   "date": "2026-11-27"
+  }
+ ],
+ "media": [
+  {
+   "id": "m3",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nci-vol-8236-300%20Gertrude%20Elion.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Nci-vol-8236-300_Gertrude_Elion.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Unknown authorUnknown author",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "Black-and-white portrait of Gertrude Elion.",
+   "illustrates": [],
+   "date": "Unknown da",
+   "width": 1874,
+   "height": 2699
+  },
+  {
+   "id": "m4",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/George%20Hitchings%20and%20Gertrude%20Elion%201948.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:George_Hitchings_and_Gertrude_Elion_1948.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "GlaxoSmithKline plc",
+   "licence": "CC BY 4.0",
+   "hosting": "hotlink",
+   "caption": "A woman and a man in lab coats beside a workbench crowded with glassware and equipment; according to the file description, a photograph of the pair Hitchings and Elion.",
+   "illustrates": [
+    "c43"
+   ],
+   "licence_url": "https://creativecommons.org/licenses/by/4.0",
+   "date": "circa 1948",
+   "width": 5800,
+   "height": 4700
+  },
+  {
+   "id": "m9",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dr%20Gertrude%20Elion%20Wellcome%20L0034256.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Dr_Gertrude_Elion_Wellcome_L0034256.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "not stated",
+   "licence": "CC BY 4.0",
+   "hosting": "hotlink",
+   "caption": "Elion in the laboratory, in a white coat with the Wellcome logo, holding a molecular model.",
+   "illustrates": [
+    "c34"
+   ],
+   "licence_url": "https://creativecommons.org/licenses/by/4.0",
+   "width": 3320,
+   "height": 4008
+  },
+  {
+   "id": "m10",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dr%20Gertrude%20Elion%20Wellcome%20L0034255.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Dr_Gertrude_Elion_Wellcome_L0034255.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "not stated",
+   "licence": "CC BY 4.0",
+   "hosting": "hotlink",
+   "caption": "Elion smiling in the laboratory, wearing a white coat and a beige neck tie.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/4.0",
+   "width": 3136,
+   "height": 3800
+  },
+  {
+   "id": "m11",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gertrude%20Elion.%20Oil%20painting%20by%20Sir%20Roy%20Calne%2C%201990.%20Wellcome%20L0024105.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Gertrude_Elion._Oil_painting_by_Sir_Roy_Calne%2C_1990._Wellcome_L0024105.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "not stated",
+   "licence": "CC BY 4.0",
+   "hosting": "hotlink",
+   "caption": "Oil portrait of Gertrude Elion on a yellow background, painted in 1990 by Sir Roy Calne.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/4.0",
+   "width": 4164,
+   "height": 5006
+  },
+  {
+   "id": "m14",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hitchings%20and%20Elion%20Wellcome%20L0034259.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Hitchings_and_Elion_Wellcome_L0034259.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Will &amp; Deni McIntyre",
+   "licence": "CC BY 4.0",
+   "hosting": "hotlink",
+   "caption": "A man and a woman in lab coats holding molecular models in front of a board with formulas; according to the file description, Hitchings and Elion.",
+   "illustrates": [
+    "c43"
+   ],
+   "licence_url": "https://creativecommons.org/licenses/by/4.0",
+   "width": 2664,
+   "height": 3828
+  },
+  {
+   "id": "m15",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=whqx0aE_3QY",
+   "youtube_id": "whqx0aE_3QY",
+   "source_page": "https://www.youtube.com/watch?v=whqx0aE_3QY",
+   "source_name": "YouTube",
+   "credit": "Nobel Prize",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "Nobel Prize video about Elion, who created drugs to relieve human suffering.",
+   "illustrates": [
+    "c14",
+    "c35"
+   ]
+  },
+  {
+   "id": "m16",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=kamweFBx0iU",
+   "youtube_id": "kamweFBx0iU",
+   "source_page": "https://www.youtube.com/watch?v=kamweFBx0iU",
+   "source_name": "YouTube",
+   "credit": "Academy of Achievement",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "Full interview with Elion at the Academy of Achievement, class of 1989.",
+   "illustrates": []
+  },
+  {
+   "id": "m17",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=Cr2VD3E_Ixk",
+   "youtube_id": "Cr2VD3E_Ixk",
+   "source_page": "https://www.youtube.com/watch?v=Cr2VD3E_Ixk",
+   "source_name": "YouTube",
+   "credit": "CUNY TV",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "Segment in the CUNY TV series CUNY Laureates about Elion, a Hunter College graduate.",
+   "illustrates": [
+    "c3"
+   ],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m18",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=qqza99M1b3s",
+   "youtube_id": "qqza99M1b3s",
+   "source_page": "https://www.youtube.com/watch?v=qqza99M1b3s",
+   "source_name": "YouTube",
+   "credit": "Burroughs Wellcome Fund",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "Film by the Burroughs Wellcome Fund about Elion's legacy, including the trip to Stockholm for the Nobel ceremony.",
+   "illustrates": [],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m19",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=TuJBNtgrWkc",
+   "youtube_id": "TuJBNtgrWkc",
+   "source_page": "https://www.youtube.com/watch?v=TuJBNtgrWkc",
+   "source_name": "YouTube",
+   "credit": "iSTEM Care",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "Clip in which Elion talks about AIDS and cancer research, with background on the development of acyclovir.",
+   "illustrates": [
+    "c52"
+   ],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m21",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hitchings%20and%20Elion%20Wellcome%20L0034253.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Hitchings_and_Elion_Wellcome_L0034253.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Will &amp; Deni McIntyre",
+   "licence": "CC BY 4.0",
+   "hosting": "hotlink",
+   "caption": "Hitchings and Elion, Nobel Prize laureates, in lab coats holding molecular models in front of a board with chemical formulas",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/4.0",
+   "date": "1988date Q",
+   "width": 2532,
+   "height": 3864,
+   "role": "deed"
+  },
+  {
+   "id": "m22",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hitchings%20and%20Elion%20Wellcome%20L0034254.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Hitchings_and_Elion_Wellcome_L0034254.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "not stated",
+   "licence": "CC BY 4.0",
+   "hosting": "hotlink",
+   "caption": "Hitchings and Elion, Nobel Prize laureates, smiling in the laboratory and holding molecular models",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/4.0",
+   "width": 3708,
+   "height": 2268,
+   "role": "deed"
+  },
+  {
+   "id": "m23",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pioneres%20Gertrude%20Belle%20Elion.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Pioneres_Gertrude_Belle_Elion.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Joandrés",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "Mural of Gertrude Belle Elion at Vall d'Hebron Hospital",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2023-08-06",
+   "width": 3040,
+   "height": 2970,
+   "role": "related"
+  },
+  {
+   "id": "m24",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/G.%20Hitchings.%20Wellcome%20L0000749.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:G._Hitchings._Wellcome_L0000749.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "not stated",
+   "licence": "CC BY 4.0",
+   "hosting": "hotlink",
+   "caption": "George Hitchings sitting with an open book in his hands",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/4.0",
+   "width": 1236,
+   "height": 1522,
+   "role": "deed"
+  },
+  {
+   "id": "m25",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dr%20George%20H.%20Hitchings%20at%20Wellcome%20Beckenham%20Wellcome%20L0075222.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Dr_George_H._Hitchings_at_Wellcome_Beckenham_Wellcome_L0075222.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "not stated",
+   "licence": "CC BY 4.0",
+   "hosting": "hotlink",
+   "caption": "George Hitchings in a lab coat beside laboratory equipment at the Burroughs Wellcome laboratories in Beckenham, Kent",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/4.0",
+   "width": 5641,
+   "height": 3713,
+   "role": "deed"
+  },
+  {
+   "id": "m29",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/%27Burroughs%20Wellcome%20Chemical%20and%20Galenical%20works%27%2C%20New%20York.%20Wellcome%20M0008629.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:%27Burroughs_Wellcome_Chemical_and_Galenical_works%27%2C_New_York._Wellcome_M0008629.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "not stated",
+   "licence": "CC BY 4.0",
+   "hosting": "hotlink",
+   "caption": "Photograph of an illustration: the Burroughs Wellcome chemical works in Tuckahoe, New York",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/4.0",
+   "width": 4300,
+   "height": 2613,
+   "role": "related"
+  },
+  {
+   "id": "m30",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Chemical%20Laboratory%20room%20Wellcome%20L0041460.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Chemical_Laboratory_room_Wellcome_L0041460.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "not stated",
+   "licence": "CC BY 4.0",
+   "hosting": "hotlink",
+   "caption": "Illustration of a chemical laboratory room at the Burroughs Wellcome research laboratories in Tuckahoe, New York",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/4.0",
+   "width": 3928,
+   "height": 2164,
+   "role": "related"
+  }
+ ],
+ "check": {
+  "passed": true,
+  "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
+  "checked_at": "2026-11-14T03:12:00Z",
+  "counts": {
+   "confirmed": 86,
+   "not_confirmed": 0,
+   "deleted_sentences": 5,
+   "first_round_confirmed": 88,
+   "first_round_contradicted": 2,
+   "first_round_unverifiable": 3
+  },
+  "note": "unverifiable sentences were deleted, contradicted ones fixed from the source and checked again"
+ },
+ "meta": {
+  "run": "gertrude-elion-leukemia-drug",
+  "pipeline": "scripts/museum/museum_line.py",
+  "models": {
+   "research": "sonnet-5-5",
+   "extract": "sonnet-5-5",
+   "media": "sonnet-5-5",
+   "write": "opus-5-5 medium",
+   "check": "opus-5-5 medium",
+   "fix": "opus-5-5 medium"
+  },
+  "source_quality": {
+   "sources": 12,
+   "wikipedia": 0,
+   "strong": 5,
+   "ok": true,
+   "warnings": []
+  },
+  "settled": [
+   {
+    "box": "d1",
+    "question": "באיזו שנה קיבלה אליון תואר שני?",
+    "url": "https://www.womenshistory.org/node/2423",
+    "by": "settle 24.11"
+   }
+  ],
+  "media_dedupe": [
+   {
+    "drop": "m1",
+    "keep": "m7",
+    "by": "reviewed 24.11"
+   },
+   {
+    "drop": "m8",
+    "keep": "m7",
+    "by": "reviewed 24.11"
+   },
+   {
+    "drop": "m13",
+    "keep": "m9",
+    "by": "reviewed 24.11"
+   },
+   {
+    "drop": "m5",
+    "keep": "m22",
+    "by": "reviewed 24.11"
+   },
+   {
+    "drop": "m12",
+    "keep": "m4",
+    "by": "reviewed 24.11"
+   },
+   {
+    "drop": "m2",
+    "keep": "m10",
+    "by": "reviewed 24.11"
+   },
+   {
+    "drop": "m6",
+    "keep": "m14",
+    "by": "reviewed 24.11"
+   },
+   {
+    "drop": "m7",
+    "keep": "m9",
+    "by": "reviewed 24.11"
+   }
+  ]
+ },
+ "lang": "en",
+ "translation": {
+  "from": "he",
+  "translator": "claude-opus-5-5",
+  "checker": "claude-opus-5-5 (separate call, blind to the translation prompt)",
+  "checked_at": "2026-11-23T22:29:38Z",
+  "passed": true,
+  "items": 132,
+  "pairs_checked": 1,
+  "reused": 131,
+  "first_round_flagged": 0,
+  "still_flagged": 0,
+  "flagged": [],
+  "quote_translations": {}
+ }
 }

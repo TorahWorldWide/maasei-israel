@@ -378,7 +378,8 @@
     "m41"
    ],
    "disagreements": [
-    "d3"
+    "d3",
+    "d9001"
    ]
   },
   {
@@ -714,6 +715,24 @@
      "says": "The Jewish encyclopedia: in 1955, from the Collège de France",
      "claims": [
       "c36"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9001",
+   "question": "In what year did Charpak marry Dominique Vidal?",
+   "versions": [
+    {
+     "says": "The French biographical sheet: in 1952",
+     "claims": [
+      "c-aud-20261127-1"
+     ]
+    },
+    {
+     "says": "Contemporary Authors (Encyclopedia.com): in 1953",
+     "claims": [
+      "c-aud-20261127-2"
      ]
     }
    ]
@@ -1343,6 +1362,24 @@
    "quote": "Three staff members had drafted the petition: the Polish theoretician Jacek Prentki;",
    "status": "confirmed",
    "locator": "שורה 65"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "הגיליון הביוגרפי הצרפתי: ב-1952",
+   "source": "src2",
+   "quote": "Il épouse en 1952 Dominique née Vidal",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "Contemporary Authors (Encyclopedia.com): ב-1953",
+   "source": "src12",
+   "quote": "married Dominique Vidal, 1953",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [

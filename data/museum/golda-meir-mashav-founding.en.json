@@ -1,7 +1,7 @@
 {
  "schema": "maasei-museum/1",
  "slug": "golda-meir-mashav-founding",
- "deed": "גולדה מאיר מקימה את מש״ב, סוכנות ישראלית שמכשירה מדינות מתפתחות",
+ "deed": "Golda Meir establishes MASHAV, an Israeli agency that trains developing countries",
  "canonical_type": "idea-that-changed",
  "year": "1958",
  "title": "Golda Meir returned from Africa and founded MASHAV, which has trained hundreds of thousands of people in developing countries",
@@ -13,10 +13,11 @@
    ]
   },
   {
-   "text": "According to Gil Haskel, head of MASHAV, Meir went into the communities herself during the trip, and came back with a deep conviction of the need to establish an international development agency.",
+   "text": "According to Gil Haskel, then head of MASHAV, Meir went into the communities herself during the trip, and came back with a deep conviction of the need to establish an international development agency.",
    "claims": [
     "c11",
-    "c12"
+    "c12",
+    "c-aud-20261127-2"
    ]
   },
   {
@@ -179,9 +180,7 @@
    "media": [
     "m4"
    ],
-   "disagreements": [
-    "d2"
-   ]
+   "disagreements": []
   },
   {
    "id": "s3",
@@ -222,9 +221,10 @@
       ]
      },
      {
-      "text": "According to Peter Pham, it was founded more than five years before USAID began operating.",
+      "text": "USAID was established in November 1961, about three years after MASHAV.",
       "claims": [
-       "c13"
+       "c13",
+       "c-aud-20261127-1"
       ]
      }
     ],
@@ -562,9 +562,10 @@
       ]
      },
      {
-      "text": "Fatou Bensouda, the Chief Prosecutor of the International Criminal Court, took part in a MASHAV conference, and in December she announced that there was a “reasonable basis” to open a war crimes investigation concerning Israeli military actions in the Gaza Strip and Hamas, as well as Israeli construction in the settlements in the West Bank.",
+      "text": "Fatou Bensouda, then the Chief Prosecutor of the International Criminal Court, took part in a MASHAV conference, and in December 2019 she announced that there was a “reasonable basis” to open a war crimes investigation concerning Israeli military actions in the Gaza Strip and Hamas, as well as Israeli construction in the settlements in the West Bank.",
       "claims": [
-       "c62b"
+       "c62b",
+       "c-aud-20261127-3"
       ]
      }
     ],
@@ -642,30 +643,6 @@
      "says": "JCPA article: 230,000 course participants from 140 countries",
      "claims": [
       "c17"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "d2",
-   "question": "In what year did Golda Meir go on her tour of Africa?",
-   "versions": [
-    {
-     "says": "Gil Haskel, at the Atlantic Council: 1957",
-     "claims": [
-      "c10"
-     ]
-    },
-    {
-     "says": "Haskel, in the Jerusalem Post: 1957",
-     "claims": [
-      "c41"
-     ]
-    },
-    {
-     "says": "JCPA article: early 1958",
-     "claims": [
-      "c25"
      ]
     }
    ]
@@ -1219,14 +1196,6 @@
    "locator": "שורה 5"
   },
   {
-   "id": "c10",
-   "text": "לפי גיל חסקל, ראש מש״ב, הסוכנות נולדה מנסיעתה של שרת החוץ הישראלית גולדה מאיר לאפריקה ב-1957.",
-   "source": "src2",
-   "quote": "the agency was born out of a trip by then-Israeli foreign minister Golda Meir to Africa in 1957",
-   "status": "confirmed",
-   "locator": "שורה 3"
-  },
-  {
    "id": "c64",
    "text": "לפי טיימס אוף ישראל, לאחר מלחמת יום הכיפורים 1973 כל מדינות אפריקה פרט לארבע ניתקו יחסים עם ישראל.",
    "source": "src6",
@@ -1241,6 +1210,33 @@
    "quote": "none of the Arab States would attend the conference if Israel were seated",
    "status": "confirmed",
    "locator": "שורה 5"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "USAID הוקמה בנובמבר 1961, כשלוש שנים אחרי מש״ב.",
+   "source": "src9001",
+   "quote": "Executive Order 10973, November 3, 1961, specified the terms for the establishment of the Agency for International Development.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "לפי גיל חסקל, שעמד אז בראש מש״ב, מאיר נכנסה בעצמה לקהילות בנסיעה, וחזרה עם הכרה עמוקה בצורך להקים סוכנות לפיתוח בינלאומי.",
+   "source": "src2",
+   "quote": "deputy director general of Israel’s Ministry of Foreign Affairs and head of MASHAV",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "פאטו בנסודה, שהייתה אז התובעת הראשית של בית הדין הפלילי הבינלאומי, השתתפה בכנס של מש״ב, ובדצמבר 2019 הודיעה כי יש \"בסיס סביר\" לפתוח בחקירת פשעי מלחמה בנוגע לפעולות הצבא הישראלי ברצועת עזה ולחמאס, וכן לבנייה הישראלית בהתנחלויות בגדה המערבית.",
+   "source": "src9002",
+   "quote": "On 20 December 2019, International Criminal Court (ICC) Prosecutor, Fatou Bensouda, announced",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1291,6 +1287,20 @@
    "label": "Jewish Telegraphic Agency: Israel Eliminated from Asian-African Parley Under Pressure (1954)",
    "url": "https://www.jta.org/archive/israel-eliminated-from-asian-african-parley-under-pressure",
    "kind": "press"
+  },
+  {
+   "id": "src9001",
+   "label": "US Department of State, Office of the Historian, FRUS 1961–63 vol. IX, doc. 117",
+   "url": "https://history.state.gov/historicaldocuments/frus1961-63v09/d117",
+   "kind": "official",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9002",
+   "label": "Coalition for the International Criminal Court, ICC progress towards the opening of an investigation into the situation in Palestine, 16 January 2020",
+   "url": "https://coalitionfortheicc.org/news/20200116/opening-investigation-situation-palestine",
+   "kind": "organisation",
+   "date": "2026-11-27"
   }
  ],
  "media": [

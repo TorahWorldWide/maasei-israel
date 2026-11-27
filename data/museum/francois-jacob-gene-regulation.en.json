@@ -36,10 +36,11 @@
    ]
   },
   {
-   "text": "Jacob and Monod called such an arrangement an operon, and in 1965 they won the Nobel Prize together with André Lwoff.",
+   "text": "Jacob and Monod called a group of genes regulated together in this way an operon, and in 1965 they won the Nobel Prize together with André Lwoff.",
    "claims": [
     "c40",
-    "c1"
+    "c1",
+    "c-aud-20261127-5"
    ]
   }
  ],
@@ -68,10 +69,11 @@
   },
   {
    "label": "The discovery",
-   "value": "The operon: genes that regulate genes",
+   "value": "The operon: a group of genes switched on and off together",
    "claims": [
     "c32",
-    "c40"
+    "c40",
+    "c-aud-20261127-6"
    ]
   },
   {
@@ -186,16 +188,20 @@
       ]
      },
      {
-      "text": "He remained in hospital for seven months, and was awarded the Croix de la Libération, the highest French military decoration of the war.",
+      "text": "According to Nobel sources, he remained in hospital for seven months, and was awarded the Croix de la Libération, the highest French military decoration of the war.",
       "claims": [
-       "c15"
+       "c15",
+       "c-aud-20261127-7",
+       "c-aud-20261127-8",
+       "c-aud-20261127-9"
       ]
      }
     ]
    ],
    "media": [],
    "disagreements": [
-    "d1"
+    "d1",
+    "d9002"
    ]
   },
   {
@@ -411,9 +417,10 @@
       ]
      },
      {
-      "text": "Jacob and Monod called such an arrangement of structural and regulatory genes an operon.",
+      "text": "Jacob and Monod called such a cluster of adjacent structural genes, whose regulation is controlled by a common operator, an operon.",
       "claims": [
-       "c40"
+       "c40",
+       "c-aud-20261127-4"
       ]
      },
      {
@@ -684,7 +691,9 @@
     "m1",
     "m2"
    ],
-   "disagreements": []
+   "disagreements": [
+    "d9001"
+   ]
   }
  ],
  "disagreements": [
@@ -756,6 +765,54 @@
      "says": "The Collège de France: six months before the Nobel Prize in December 1965",
      "claims": [
       "c80"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9001",
+   "question": "On what date did Jacob die?",
+   "versions": [
+    {
+     "says": "NobelPrize.org and Encyclopaedia Britannica: on 19 April 2013",
+     "claims": [
+      "c-aud-20261127-1"
+     ]
+    },
+    {
+     "says": "The Académie française: on 20 April 2013 in Paris",
+     "claims": [
+      "c-aud-20261127-2"
+     ]
+    },
+    {
+     "says": "The Ordre de la Libération: on 20 April 2013 in Paris",
+     "claims": [
+      "c-aud-20261127-3"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9002",
+   "question": "How long was Jacob in hospital after his wound in August 1944?",
+   "versions": [
+    {
+     "says": "Nobel sources: seven months",
+     "claims": [
+      "c-aud-20261127-7"
+     ]
+    },
+    {
+     "says": "The Collège de France: six months at the Val-de-Grâce hospital, and later he was hospitalized again",
+     "claims": [
+      "c-aud-20261127-8"
+     ]
+    },
+    {
+     "says": "The Ordre de la Libération: he left the Val-de-Grâce hospital on 30 January 1945, after six months of care",
+     "claims": [
+      "c-aud-20261127-9"
      ]
     }
    ]
@@ -1410,6 +1467,87 @@
    "quote": "with the second Lewis Thomas Prize on Wednesday, May 25.",
    "status": "confirmed",
    "locator": "שורה 3"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "אתר פרס נובל ואנציקלופדיה בריטניקה: ב-19 באפריל 2013",
+   "source": "src9001",
+   "quote": "François Jacob died on 19 April 2013.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "האקדמיה הצרפתית: ב-20 באפריל 2013 בפריז",
+   "source": "src9002",
+   "quote": "Mort le 20 avril 2013 à Paris.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "מסדר השחרור: ב-20 באפריל 2013 בפריז",
+   "source": "src9003",
+   "quote": "François Jacob est décédé le 20 avril 2013 à Paris",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-4",
+   "text": "ז'קוב ומונו קראו אופרון לקבוצה כזו של גנים מבניים סמוכים, שוויסותם נשלט על ידי אופרטור משותף.",
+   "source": "src7",
+   "quote": "a cluster of adjacent structural genes whose regulation is controlled by a common operator",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-5",
+   "text": "ז'קוב ומונו קראו אופרון לקבוצת גנים שהוויסות שלה נשלט כך יחד, וב-1965 זכו בפרס נובל יחד עם אנדרה לבוף.",
+   "source": "src7",
+   "quote": "a cluster of adjacent structural genes whose regulation is controlled by a common operator",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-6",
+   "text": "האופרון: קבוצת גנים שמופעלים ומכובים יחד",
+   "source": "src7",
+   "quote": "a cluster of adjacent structural genes whose regulation is controlled by a common operator",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-7",
+   "text": "מקורות הנובל: שבעה חודשים",
+   "source": "src9001",
+   "quote": "He remained in the hospital for seven months",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-8",
+   "text": "הכולז' דה פרנס: שישה חודשים בבית החולים ואל-דה-גראס, ומאוחר יותר אושפז שוב",
+   "source": "src3",
+   "quote": "François Jacob remained there for six months, and was later hospitalized again.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-9",
+   "text": "מסדר השחרור: יצא מבית החולים ואל-דה-גראס ב-30 בינואר 1945, אחרי שישה חודשי טיפול",
+   "source": "src9003",
+   "quote": "Sorti de l'hôpital du Val-de-Grâce le 30 janvier 1945 après six mois de soins",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1484,6 +1622,27 @@
    "label": "Rockefeller University, French Nobelist, Author, to Receive 1994 Lewis Thomas Prize",
    "url": "https://www.rockefeller.edu/news/4737-french-nobelist-author-to-receive-1994-lewis-thomas-prize-from-rockefeller-university/",
    "kind": "organisation"
+  },
+  {
+   "id": "src9001",
+   "label": "NobelPrize.org, François Jacob – Biographical",
+   "url": "https://www.nobelprize.org/prizes/medicine/1965/jacob/biographical/",
+   "kind": "official",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9002",
+   "label": "Académie française, François Jacob",
+   "url": "https://www.academie-francaise.fr/les-immortels/francois-jacob",
+   "kind": "official",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9003",
+   "label": "Ordre de la Libération, François Jacob",
+   "url": "https://www.ordredelaliberation.fr/fr/compagnons/francois-jacob",
+   "kind": "official",
+   "date": "2026-11-27"
   }
  ],
  "media": [
@@ -1664,7 +1823,7 @@
    "credit": "Envel Le Hir",
    "licence": "CC BY-SA 4.0",
    "hosting": "hotlink",
-   "caption": "Street sign in Rennes: \"Square Jacques Monod, physician, biologist, Nobel Prize (1910–1976)\".",
+   "caption": "Street sign in Bern: \"Square Jacques Monod, physician, biologist, Nobel Prize (1910–1976)\".",
    "illustrates": [],
    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
    "date": "2019-05-20",

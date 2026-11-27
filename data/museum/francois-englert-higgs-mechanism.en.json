@@ -1,7 +1,7 @@
 {
  "schema": "maasei-museum/1",
  "slug": "francois-englert-higgs-mechanism",
- "deed": "פרנסואה אנגלר, שהסתתר כילד יהודי בשואה, ניבא את מנגנון היגס וזכה בנובל לפיזיקה",
+ "deed": "François Englert, who hid as a Jewish child during the Holocaust, predicted the Higgs mechanism and won the Nobel Prize in Physics",
  "canonical_type": "scientific-discovery",
  "year": "1964",
  "title": "François Englert, a Jewish child hidden during the Holocaust, explained how particles acquire mass and won the Nobel Prize",
@@ -145,9 +145,10 @@
       ]
      },
      {
-      "text": "According to Englert, Father Vernon of Annevoie, another small village in the Ardennes where the family reunited after fleeing Lustin following a denunciation, presented the family to the inhabitants of Annevoie as Christians, and even baptised Englert so that he could attend the Catholic College.",
+      "text": "According to Englert, Father Warnon of Annevoie, another small village in the Ardennes where the family reunited after fleeing Lustin following a denunciation, presented the family to the inhabitants of Annevoie as Christians, and even baptised Englert so that he could attend the Catholic College.",
       "claims": [
-       "c7"
+       "c7",
+       "c-aud-20261127-1"
       ]
      },
      {
@@ -347,9 +348,7 @@
     "m36",
     "m37"
    ],
-   "disagreements": [
-    "d1"
-   ]
+   "disagreements": []
   },
   {
    "id": "s5",
@@ -600,9 +599,10 @@
     ],
     [
      {
-      "text": "According to Tel Aviv University, Engler has been affiliated with the Raymond and Beverly Sackler School of Physics and Astronomy since 1984.",
+      "text": "According to Tel Aviv University, Englert has been affiliated with the Raymond and Beverly Sackler School of Physics and Astronomy since 1984.",
       "claims": [
-       "c80"
+       "c80",
+       "c-aud-20261127-2"
       ]
      }
     ]
@@ -666,24 +666,6 @@
   }
  ],
  "disagreements": [
-  {
-   "id": "d1",
-   "question": "How long after Englert and Brout did Higgs submit his paper?",
-   "versions": [
-    {
-     "says": "According to Physics Today, Higgs submitted his first paper a month later, on 27 July",
-     "claims": [
-      "c28"
-     ]
-    },
-    {
-     "says": "According to Reuters in the Forward, Higgs followed them about two weeks later",
-     "claims": [
-      "c29"
-     ]
-    }
-   ]
-  },
   {
    "id": "d2",
    "question": "Where was Englert hidden as a child?",
@@ -1296,22 +1278,6 @@
    "locator": "שורה 15"
   },
   {
-   "id": "c28",
-   "text": "לפי Physics Today, היגס הגיש את מאמרו הראשון חודש מאוחר יותר, ב-27 ביולי.",
-   "source": "src6",
-   "quote": "Higgs submitted his first paper to Physical Review Letters a month later, on 27 July.",
-   "status": "confirmed",
-   "locator": "שורה 16"
-  },
-  {
-   "id": "c29",
-   "text": "לפי רויטרס ב-Forward, אנגלר וברוט פרסמו ראשונים והיגס הלך בעקבותיהם כשבועיים אחר כך.",
-   "source": "src5",
-   "quote": "Englert, 80, and his colleague Robert Brout – who died in 2011 – were first to publish; but the now 84-year-old Higgs followed just a couple of weeks later",
-   "status": "confirmed",
-   "locator": "שורה 24"
-  },
-  {
    "id": "c13",
    "text": "לפי הנובל, משפחתו הייתה ממוצא יהודי, ובמהלך הכיבוש הגרמני של בלגיה הסתיר אנגלר את שורשיו היהודיים ונסתר בבתי יתומים שונים.",
    "source": "src9",
@@ -1374,6 +1340,24 @@
    "quote": "By Royal Decree of 8 July 2013, King Albert II awarded him the personal and hereditary title of Baron.",
    "status": "confirmed",
    "locator": "שורה 6"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "לפי אנגלר, הכומר וארנון מאנביואה, כפר קטן אחר בארדנים שבו התאחדה המשפחה אחרי שברחה מלוסטן בעקבות הלשנה, הציג את המשפחה בפני תושבי אנביואה כנוצרים, ואף הטביל את אנגלר כדי שיוכל ללמוד בקולג' הקתולי.",
+   "source": "src9001",
+   "quote": "And to the memory of priest Warnon of Annevoie",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "לפי אוניברסיטת תל אביב, אנגלר היה משויך לבית הספר לפיזיקה ולאסטרונומיה על שם ריימונד ובברלי סאקלר החל מ-1984.",
+   "source": "src14",
+   "quote": "has been affiliated with the Raymond and Beverly Sackler School of Physics and Astronomy since 1984",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1472,6 +1456,13 @@
    "label": "Focus on Belgium: François Englert, theorist of elementary particles",
    "url": "https://focusonbelgium.be/en/Do%20you%20know%20these%20Belgians/francois-englert-theorist-elementary-particles",
    "kind": "official"
+  },
+  {
+   "id": "src9001",
+   "label": "NobelPrize.org, François Englert – Biographical, 2013",
+   "url": "https://www.nobelprize.org/prizes/physics/2013/englert/biographical/",
+   "kind": "official",
+   "date": "2026-11-27"
   }
  ],
  "media": [

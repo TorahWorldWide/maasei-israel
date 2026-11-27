@@ -153,7 +153,8 @@
    ],
    "disagreements": [
     "d1",
-    "d2"
+    "d2",
+    "d9001"
    ]
   },
   {
@@ -387,9 +388,11 @@
     ],
     [
      {
-      "text": "In September 1887, Lazarus returned to New York gravely ill.",
+      "text": "According to the Jewish Women's Archive, Lazarus returned to New York gravely ill in September 1887.",
       "claims": [
-       "c29"
+       "c29",
+       "c-aud-20261127-4",
+       "c-aud-20261127-5"
       ]
      },
      {
@@ -452,7 +455,8 @@
     "m23"
    ],
    "disagreements": [
-    "d3"
+    "d3",
+    "d9002"
    ]
   },
   {
@@ -609,9 +613,10 @@
      ]
     },
     {
-     "says": "According to the American Jewish Archives, her father recognized her talent and himself published her first book, \"Poems and Translations Written Between the Ages of Fourteen and Seventeen\".",
+     "says": "According to the Jewish Women's Archive, her father published her first book, \"Poems and Translations: Written Between the Ages of Fourteen and Sixteen\", in 1866, and an expanded edition was published commercially the following year.",
      "claims": [
-      "c37"
+      "c37",
+      "c-aud-20261127-1"
      ]
     }
    ]
@@ -666,6 +671,42 @@
      "says": "On her first trip to Europe, in 1883, she met Jewish leaders in England and France to raise money for her new aid organization for refugees from Eastern Europe, the Society for the Colonisation and Improvement of Eastern European Refugees.",
      "claims": [
       "c25"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9001",
+   "question": "Did Lazarus grow up secular and awaken to her Jewish identity only after the Russian pogroms?",
+   "versions": [
+    {
+     "says": "JTA: she grew up secular and was not especially attuned to Jewish communal issues, until everything changed in 1881–82.",
+     "claims": [
+      "c-aud-20261127-2"
+     ]
+    },
+    {
+     "says": "Jewish Women's Archive (updated by Esther Schor): she was raised to keep Yom Kippur and Passover, and the story of her late awakening to her Jewish identity after the pogroms is a myth.",
+     "claims": [
+      "c-aud-20261127-3"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9002",
+   "question": "When did the ailing Lazarus return to New York in 1887?",
+   "versions": [
+    {
+     "says": "Jewish Women's Archive: in September 1887.",
+     "claims": [
+      "c-aud-20261127-4"
+     ]
+    },
+    {
+     "says": "SNAC archival record (based on the AJHS Emma Lazarus Papers): on July 31, 1887, seriously ill with cancer.",
+     "claims": [
+      "c-aud-20261127-5"
      ]
     }
    ]
@@ -1152,6 +1193,51 @@
    "quote": "Acting Director of U.S. Citizenship and Immigration Services Ken Cuccinelli",
    "status": "confirmed",
    "locator": "שורה 8"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "לפי ארכיון הנשים היהודיות, אביה פרסם ב-1866 את ספרה הראשון, \"Poems and Translations: Written Between the Ages of Fourteen and Sixteen\", ומהדורה מורחבת שלו יצאה לאור באופן מסחרי בשנה שאחריה.",
+   "source": "src2",
+   "quote": "Poems and Translations: Written Between the Ages of Fourteen and Sixteen (1866)",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "JTA: היא גדלה באופן חילוני ולא הייתה קשובה במיוחד לסוגיות של הקהילה היהודית, עד שהכול השתנה ב-1881–1882.",
+   "source": "src1",
+   "quote": "Lazarus grew up secular and was not especially attuned to Jewish communal issues",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "ארכיון הנשים היהודיות (בעדכון אסתר שור): היא חונכה לשמור את יום הכיפורים ואת פסח, והסיפור על התעוררותה המאוחרת לזהותה היהודית אחרי הפרעות הוא מיתוס.",
+   "source": "src2",
+   "quote": "Neither myth was true; both had a tenacious grip on her legacy.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-4",
+   "text": "ארכיון הנשים היהודיות: בספטמבר 1887.",
+   "source": "src2",
+   "quote": "In September 1887, she returned to New York gravely ill",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-5",
+   "text": "רשומת הארכיון SNAC (לפי אוסף המסמכים של לזרוס באגודה ההיסטורית היהודית האמריקנית): ב-31 ביולי 1887, כשהייתה חולה קשה בסרטן.",
+   "source": "src9001",
+   "quote": "She returned to New York on July 31, 1887 seriously ill with cancer.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
   }
  ],
  "sources": [
@@ -1226,6 +1312,13 @@
    "label": "Common Dreams: 'Give Me Your Tired and Your Poor Who Can Stand on Their Own Two Feet': Top Trump Official",
    "url": "https://www.commondreams.org/news/2019/08/13/give-me-your-tired-and-your-poor-who-can-stand-their-own-two-feet-top-trump-official",
    "kind": "press"
+  },
+  {
+   "id": "src9001",
+   "label": "SNAC Cooperative, Lazarus, Emma, 1849-1887 (biographical record)",
+   "url": "https://snaccooperative.org/view/3220324",
+   "kind": "official",
+   "date": "2026-11-27"
   }
  ],
  "media": [

@@ -129,9 +129,10 @@
       ]
      },
      {
-      "text": "He passed away when Hannah was six years old.",
+      "text": "He died in May 1927, when Hannah was almost six.",
       "claims": [
-       "c2"
+       "c2",
+       "c-aud-20261127-2"
       ]
      }
     ],
@@ -308,9 +309,10 @@
       ]
      },
      {
-      "text": "In April, all the Jews of the provinces were imprisoned in camps.",
+      "text": "In April, the authorities began confining the Jews of the provinces in ghettos.",
       "claims": [
-       "c53"
+       "c53",
+       "c-aud-20261127-1"
       ]
      },
      {
@@ -460,9 +462,12 @@
       ]
      },
      {
-      "text": "On 7 November 1944 she was executed by firing squad, having been found guilty of treason against Hungary.",
+      "text": "On 7 November 1944 she was executed by firing squad. According to Yad Vashem, this was after she had been found guilty of treason against Hungary.",
       "claims": [
-       "c11"
+       "c11",
+       "c-aud-20261127-3",
+       "c-aud-20261127-4",
+       "c-aud-20261127-5"
       ]
      },
      {
@@ -481,7 +486,8 @@
    ],
    "media": [],
    "disagreements": [
-    "d6"
+    "d6",
+    "d9001"
    ]
   },
   {
@@ -541,7 +547,9 @@
     "m38",
     "m43"
    ],
-   "disagreements": []
+   "disagreements": [
+    "d9002"
+   ]
   },
   {
    "id": "s8",
@@ -790,6 +798,48 @@
      "says": "Encyclopedia.com: the judges announced that they would postpone the sentencing by eight days, and then fled the country",
      "claims": [
       "c56"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9001",
+   "question": "Was a formal verdict given in Hannah's case before she was executed?",
+   "versions": [
+    {
+     "says": "Yad Vashem: she was executed after being found guilty of treason against Hungary",
+     "claims": [
+      "c-aud-20261127-3"
+     ]
+    },
+    {
+     "says": "Srugim: she was executed before a verdict was given",
+     "claims": [
+      "c-aud-20261127-4"
+     ]
+    },
+    {
+     "says": "Ynetnews (from Ilan Kfir's book): the trial never formally ended, and the sentence was decided without her present",
+     "claims": [
+      "c-aud-20261127-5"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9002",
+   "question": "Whose initiative led the Hungarian military court to convene in 1993 and clear Hannah's name?",
+   "versions": [
+    {
+     "says": "Arutz 7: an official request by the Government of Israel",
+     "claims": [
+      "c-aud-20261127-6"
+     ]
+    },
+    {
+     "says": "Ynet, citing Tommy Lapid: he told the Hungarian justice minister that the wrong had never been put right, and the Hungarian government instructed the court to act",
+     "claims": [
+      "c-aud-20261127-7"
      ]
     }
    ]
@@ -1292,6 +1342,69 @@
    "quote": "ביולי 1993, בעקבות בקשה רשמית של ממשלת ישראל, התכנס בית-הדין העליון של צבא הונגריה וזיכה את חנה סנש מכל אשמה.",
    "status": "confirmed",
    "locator": "שורה 36"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "באפריל החלו השלטונות לרכז את יהודי הפרובינציות בגטאות.",
+   "source": "src9001",
+   "quote": "Beginning in April 1944, Hungarian authorities set up transit ghettos in towns and cities.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "הוא נפטר במאי 1927, כשחנה הייתה כמעט בת שש.",
+   "source": "src9002",
+   "quote": "In May 1927, six years after Hannah's birth, he died of heart failure in his sleep.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "יד ושם: היא הוצאה להורג לאחר שנמצאה אשמה בבגידה בהונגריה",
+   "source": "src9003",
+   "quote": "having been found guilty of treason against Hungary",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261127-4",
+   "text": "סרוגים: היא הוצאה להורג עוד לפני הכרעת הדין",
+   "source": "src9",
+   "quote": "ועוד לפני הכרעת הדין הוצאה להורג",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261127-5",
+   "text": "Ynetnews (מתוך ספרו של אילן כפיר): המשפט לא הגיע לסיום רשמי, וגזר הדין הוחלט שלא בנוכחותה",
+   "source": "src9004",
+   "quote": "The trial never reached an official end.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-6",
+   "text": "ערוץ 7: בעקבות בקשה רשמית של ממשלת ישראל",
+   "source": "src6",
+   "quote": "בעקבות בקשה רשמית של ממשלת ישראל, התכנס בית-הדין העליון של צבא הונגריה",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-7",
+   "text": "Ynet, לפי טומי לפיד: הוא טען בפני שר המשפטים ההונגרי שהעוול לא תוקן, וממשלת הונגריה הנחתה את בית המשפט לפעול",
+   "source": "src9005",
+   "quote": "ממשלת הונגריה הנחתה את בית המשפט העליון של הצבא ההונגרי לפעול בעניין",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1342,6 +1455,41 @@
    "label": "Srugim: 75 Years to Hannah Szenes, Could Kastner Have Saved",
    "url": "https://www.srugim.co.il/387144-75-שנה-לחנה-סנש-האם-קסטנר-היה-יכול-להציל",
    "kind": "press"
+  },
+  {
+   "id": "src9001",
+   "label": "USHMM Holocaust Encyclopedia, The Holocaust in Hungary",
+   "url": "https://encyclopedia.ushmm.org/content/en/article/the-holocaust-in-hungary",
+   "kind": "official",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9002",
+   "label": "Encyclopedia.com, Women in World History: Senesh, Hannah (1921–1944)",
+   "url": "https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/senesh-hannah-1921-1944",
+   "kind": "reference",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9003",
+   "label": "Yad Vashem, From Our Collections: Hannah Szenes",
+   "url": "https://www.yadvashem.org/from-our-collections/hannah-szenes.html",
+   "kind": "official",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9004",
+   "label": "Ynetnews, Hannah Szenes, a story of integrity and valor",
+   "url": "https://www.ynetnews.com/jewish-world/article/r1h9dtyfn",
+   "kind": "press",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9005",
+   "label": "Ynet, מסמכים: חנה סנש גססה שעות ארוכות לפני מותה",
+   "url": "https://www.ynet.co.il/articles/0,7340,L-2617174,00.html",
+   "kind": "press",
+   "date": "2026-11-27"
   }
  ],
  "media": [

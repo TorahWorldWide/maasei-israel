@@ -98,9 +98,10 @@
     ],
     [
      {
-      "text": "לפי יודאיקה, באותה שנה הקימה בניו יורק ועדה זמנית לסיוע למהגרים רוסים את האגודה העברית לסיוע למהגרים.",
+      "text": "לפי יודאיקה, באותה שנה הקימה בניו יורק ועדה זמנית לסיוע למהגרים רוסים את האגודה העברית לסיוע למהגרים (Hebrew Emigrant Aid Society).",
       "claims": [
-       "c16"
+       "c16",
+       "c-aud-20261127-1"
       ]
      },
      {
@@ -327,9 +328,10 @@
       ]
      },
      {
-      "text": "הם התיישבו ב-150 קהילות ב-38 מדינות.",
+      "text": "הם התיישבו ב-150 קהילות ב-38 מדינות בארצות הברית.",
       "claims": [
-       "c32"
+       "c32",
+       "c-aud-20261127-7"
       ]
      }
     ],
@@ -459,7 +461,8 @@
     "m6"
    ],
    "disagreements": [
-    "d6"
+    "d6",
+    "d9001"
    ]
   },
   {
@@ -522,9 +525,10 @@
       ]
      },
      {
-      "text": "לפי אותו מקור, קבוצות כמו Refugee Resettlement Watch תוקפות הגירה כבר שנים, וה-Southern Poverty Law Center מסווג אותה כקבוצת שנאה אנטי־מוסלמית.",
+      "text": "לפי אותו מקור, קבוצות כמו Refugee Resettlement Watch תוקפות הגירה כבר שנים, וה-Southern Poverty Law Center מסווג את Refugee Resettlement Watch כקבוצת שנאה אנטי־מוסלמית.",
       "claims": [
-       "c58"
+       "c58",
+       "c-aud-20261127-6"
       ]
      }
     ],
@@ -652,9 +656,12 @@
    "question": "מתי התחילה HIAS לעזור לפליטים מכל הדתות?",
    "versions": [
     {
-     "says": "HIAS: מאז שנות ה-90, עם פליטים לא יהודים מיוגוסלביה לשעבר, מזרח אפריקה, דרום־מזרח אסיה והמזרח התיכון",
+     "says": "HIAS: בהמשך לפעילותה בשנות ה-90 הרחיבה את ההושבה גם לפליטים לא יהודים מיוגוסלביה לשעבר, מזרח אפריקה, דרום־מזרח אסיה והמזרח התיכון",
      "claims": [
-      "c67"
+      "c67",
+      "c-aud-20261127-2",
+      "c-aud-20261127-3",
+      "c-aud-20261127-4"
      ]
     },
     {
@@ -664,13 +671,38 @@
      ]
     }
    ]
+  },
+  {
+   "id": "d9001",
+   "question": "מתי התחילה HIAS לעזור לפליטים מכל הדתות?",
+   "versions": [
+    {
+     "says": "HIAS: בהמשך לפעילותה בשנות ה-90 הרחיבה את ההושבה גם לפליטים לא יהודים",
+     "claims": [
+      "c-aud-20261127-2"
+     ]
+    },
+    {
+     "says": "מרכז ההיסטוריה היהודית: ב-1975 יישבה HIAS פליטים מווייטנאם, קמבודיה ולאוס, ולא הייתה זו הפעם הראשונה שסייעה בהושבת לא יהודים (כבר ב-1972 עזרה לפנות אסייתים מאוגנדה)",
+     "claims": [
+      "c-aud-20261127-3"
+     ]
+    },
+    {
+     "says": "Religion News Service: עד ראשית המאה ה-21, המשימה העיקרית הייתה לעזור ליהודים",
+     "claims": [
+      "c-aud-20261127-4"
+     ]
+    }
+   ]
   }
  ],
  "unknowns": [
   {
-   "text": "לפי HIAS, הפעילות בקניה נפתחה ב-2002, ובשנה שלאחר מכן יצר הארגון את שותפותו הראשונה מזה עשורים עם נציבות האו\"ם לפליטים, כדי לסייע למבקשי מקלט מאוקראינה.",
+   "text": "לפי HIAS, הפעילות בקניה נפתחה ב-2002, ובשנה שלאחר מכן יצר הארגון את שותפותו הראשונה מזה עשורים עם נציבות האו\"ם לפליטים, כדי לסייע למבקשי מקלט באוקראינה.",
    "claims": [
-    "c42"
+    "c42",
+    "c-aud-20261127-5"
    ]
   },
   {
@@ -1168,6 +1200,69 @@
    "quote": "were taken to protest \"lack of action\" to rescue Ethiopian Jews, Falashas",
    "status": "confirmed",
    "locator": "שורה 2"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "לפי יודאיקה, באותה שנה הקימה בניו יורק ועדה זמנית לסיוע למהגרים רוסים את האגודה העברית לסיוע למהגרים (Hebrew Emigrant Aid Society).",
+   "source": "src7",
+   "quote": "formed the Hebrew Emigrant Aid Society",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "HIAS: בהמשך לפעילותה בשנות ה-90 הרחיבה את ההושבה גם לפליטים לא יהודים",
+   "source": "src1",
+   "quote": "Continuing from its work in the 1990s, HIAS expanded its resettlement work to include assistance to non-Jewish refugees",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "מרכז ההיסטוריה היהודית: ב-1975 יישבה HIAS פליטים מווייטנאם, קמבודיה ולאוס, ולא הייתה זו הפעם הראשונה שסייעה בהושבת לא יהודים (כבר ב-1972 עזרה לפנות אסייתים מאוגנדה)",
+   "source": "src5",
+   "quote": "While not the first time HIAS had assisted in the resettlement of non-Jews",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-4",
+   "text": "Religion News Service: עד ראשית המאה ה-21, המשימה העיקרית הייתה לעזור ליהודים",
+   "source": "src8",
+   "quote": "Until the beginning of the 21st century, its main task had been to assist Jews in need.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261127-5",
+   "text": "לפי HIAS, הפעילות בקניה נפתחה ב-2002, ובשנה שלאחר מכן יצר הארגון את שותפותו הראשונה מזה עשורים עם נציבות האו\"ם לפליטים, כדי לסייע למבקשי מקלט באוקראינה.",
+   "source": "src9001",
+   "quote": "legal and consultation assistance to refugees and asylum seekers in Ukraine",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-6",
+   "text": "לפי אותו מקור, קבוצות כמו Refugee Resettlement Watch תוקפות הגירה כבר שנים, וה-Southern Poverty Law Center מסווג את Refugee Resettlement Watch כקבוצת שנאה אנטי־מוסלמית.",
+   "source": "src8",
+   "quote": "The Southern Poverty Law Center lists Refugee Resettlement Watch as an anti-Muslim hate group.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261127-7",
+   "text": "הם התיישבו ב-150 קהילות ב-38 מדינות בארצות הברית.",
+   "source": "src5",
+   "quote": "HIAS found new homes for 3,600 in 150 communities in 38 states.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1236,6 +1331,13 @@
    "label": "JTA: JDL stages protests at HIAS, Jewish Agency offices claiming lack of action to rescue Falashas (9 September 1981)",
    "url": "https://www.jta.org/archive/jdl-stages-protests-at-hias-jewish-agency-offices-claiming-lack-of-action-to-rescue-falashas",
    "kind": "press"
+  },
+  {
+   "id": "src9001",
+   "label": "HIAS, Moving Towards Refugee Inclusion in Ukraine",
+   "url": "https://hias.org/?p=19843",
+   "kind": "organisation",
+   "date": "2026-11-27"
   }
  ],
  "media": [

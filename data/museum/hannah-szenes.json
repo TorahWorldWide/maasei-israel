@@ -129,9 +129,10 @@
       ]
      },
      {
-      "text": "הוא נפטר כשחנה הייתה בת שש.",
+      "text": "הוא נפטר במאי 1927, כשחנה הייתה כמעט בת שש.",
       "claims": [
-       "c2"
+       "c2",
+       "c-aud-20261127-2"
       ]
      }
     ],
@@ -308,9 +309,10 @@
       ]
      },
      {
-      "text": "באפריל נכלאו כל יהודי הפרובינציות במחנות.",
+      "text": "באפריל החלו השלטונות לרכז את יהודי הפרובינציות בגטאות.",
       "claims": [
-       "c53"
+       "c53",
+       "c-aud-20261127-1"
       ]
      },
      {
@@ -460,9 +462,12 @@
       ]
      },
      {
-      "text": "ב-7 בנובמבר 1944 הוצאה להורג בירי, לאחר שנמצאה אשמה בבגידה בהונגריה.",
+      "text": "ב-7 בנובמבר 1944 הוצאה להורג בירי. לפי יד ושם, זה היה לאחר שנמצאה אשמה בבגידה בהונגריה.",
       "claims": [
-       "c11"
+       "c11",
+       "c-aud-20261127-3",
+       "c-aud-20261127-4",
+       "c-aud-20261127-5"
       ]
      },
      {
@@ -481,7 +486,8 @@
    ],
    "media": [],
    "disagreements": [
-    "d6"
+    "d6",
+    "d9001"
    ]
   },
   {
@@ -541,7 +547,9 @@
     "m38",
     "m43"
    ],
-   "disagreements": []
+   "disagreements": [
+    "d9002"
+   ]
   },
   {
    "id": "s8",
@@ -790,6 +798,48 @@
      "says": "אנציקלופדיה.קום: השופטים הודיעו שידחו את גזר הדין בשמונה ימים, ואז ברחו מהמדינה",
      "claims": [
       "c56"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9001",
+   "question": "האם ניתנה הכרעת דין רשמית בעניינה של חנה לפני שהוצאה להורג?",
+   "versions": [
+    {
+     "says": "יד ושם: היא הוצאה להורג לאחר שנמצאה אשמה בבגידה בהונגריה",
+     "claims": [
+      "c-aud-20261127-3"
+     ]
+    },
+    {
+     "says": "סרוגים: היא הוצאה להורג עוד לפני הכרעת הדין",
+     "claims": [
+      "c-aud-20261127-4"
+     ]
+    },
+    {
+     "says": "Ynetnews (מתוך ספרו של אילן כפיר): המשפט לא הגיע לסיום רשמי, וגזר הדין הוחלט שלא בנוכחותה",
+     "claims": [
+      "c-aud-20261127-5"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9002",
+   "question": "ביוזמת מי התכנס ב-1993 בית המשפט הצבאי ההונגרי לטהר את שמה של חנה?",
+   "versions": [
+    {
+     "says": "ערוץ 7: בעקבות בקשה רשמית של ממשלת ישראל",
+     "claims": [
+      "c-aud-20261127-6"
+     ]
+    },
+    {
+     "says": "Ynet, לפי טומי לפיד: הוא טען בפני שר המשפטים ההונגרי שהעוול לא תוקן, וממשלת הונגריה הנחתה את בית המשפט לפעול",
+     "claims": [
+      "c-aud-20261127-7"
      ]
     }
    ]
@@ -1292,6 +1342,69 @@
    "quote": "ביולי 1993, בעקבות בקשה רשמית של ממשלת ישראל, התכנס בית-הדין העליון של צבא הונגריה וזיכה את חנה סנש מכל אשמה.",
    "status": "confirmed",
    "locator": "שורה 36"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "באפריל החלו השלטונות לרכז את יהודי הפרובינציות בגטאות.",
+   "source": "src9001",
+   "quote": "Beginning in April 1944, Hungarian authorities set up transit ghettos in towns and cities.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "הוא נפטר במאי 1927, כשחנה הייתה כמעט בת שש.",
+   "source": "src9002",
+   "quote": "In May 1927, six years after Hannah's birth, he died of heart failure in his sleep.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "יד ושם: היא הוצאה להורג לאחר שנמצאה אשמה בבגידה בהונגריה",
+   "source": "src9003",
+   "quote": "having been found guilty of treason against Hungary",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261127-4",
+   "text": "סרוגים: היא הוצאה להורג עוד לפני הכרעת הדין",
+   "source": "src9",
+   "quote": "ועוד לפני הכרעת הדין הוצאה להורג",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261127-5",
+   "text": "Ynetnews (מתוך ספרו של אילן כפיר): המשפט לא הגיע לסיום רשמי, וגזר הדין הוחלט שלא בנוכחותה",
+   "source": "src9004",
+   "quote": "The trial never reached an official end.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-6",
+   "text": "ערוץ 7: בעקבות בקשה רשמית של ממשלת ישראל",
+   "source": "src6",
+   "quote": "בעקבות בקשה רשמית של ממשלת ישראל, התכנס בית-הדין העליון של צבא הונגריה",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-7",
+   "text": "Ynet, לפי טומי לפיד: הוא טען בפני שר המשפטים ההונגרי שהעוול לא תוקן, וממשלת הונגריה הנחתה את בית המשפט לפעול",
+   "source": "src9005",
+   "quote": "ממשלת הונגריה הנחתה את בית המשפט העליון של הצבא ההונגרי לפעול בעניין",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1342,6 +1455,41 @@
    "label": "סרוגים: 75 שנה לחנה סנש, האם קסטנר היה יכול להציל",
    "url": "https://www.srugim.co.il/387144-75-שנה-לחנה-סנש-האם-קסטנר-היה-יכול-להציל",
    "kind": "press"
+  },
+  {
+   "id": "src9001",
+   "label": "USHMM Holocaust Encyclopedia, The Holocaust in Hungary",
+   "url": "https://encyclopedia.ushmm.org/content/en/article/the-holocaust-in-hungary",
+   "kind": "official",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9002",
+   "label": "Encyclopedia.com, Women in World History: Senesh, Hannah (1921–1944)",
+   "url": "https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/senesh-hannah-1921-1944",
+   "kind": "reference",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9003",
+   "label": "Yad Vashem, From Our Collections: Hannah Szenes",
+   "url": "https://www.yadvashem.org/from-our-collections/hannah-szenes.html",
+   "kind": "official",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9004",
+   "label": "Ynetnews, Hannah Szenes, a story of integrity and valor",
+   "url": "https://www.ynetnews.com/jewish-world/article/r1h9dtyfn",
+   "kind": "press",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9005",
+   "label": "Ynet, מסמכים: חנה סנש גססה שעות ארוכות לפני מותה",
+   "url": "https://www.ynet.co.il/articles/0,7340,L-2617174,00.html",
+   "kind": "press",
+   "date": "2026-11-27"
   }
  ],
  "media": [

@@ -1,7 +1,7 @@
 {
  "schema": "maasei-museum/1",
  "slug": "insightec-focused-ultrasound-incisionless-surgery",
- "deed": "חברת אינסייטק הישראלית פיתחה טיפול באולטרסאונד ממוקד שהורס רקמה בלי חתך",
+ "deed": "Israeli company Insightec developed a focused ultrasound treatment that destroys tissue without an incision",
  "canonical_type": "team-invention",
  "year": "1999",
  "title": "Insightec of Tirat Carmel developed a focused ultrasound treatment for essential tremor, with no incision and no implant",
@@ -382,10 +382,11 @@
       ]
      },
      {
-      "text": "According to MedCity News, 18 Blue plans in the U.S., equivalent to around 50 million covered lives, cover the treatment, and Medicare covers it in 38 states.",
+      "text": "According to MedCity News, in 2019 18 Blue plans in the U.S., equivalent to around 50 million covered lives, covered the treatment, and Medicare covered it in 38 states; according to Insightec, in July 2020 Medicare coverage was completed across all 50 states.",
       "claims": [
        "c47",
-       "c48"
+       "c48",
+       "c-aud-20261127-1"
       ]
      }
     ],
@@ -497,13 +498,13 @@
       ]
      },
      {
-      "text": "According to his son, the treatment greatly reduced the tremor and stiffness, and improved his posture and how far he can walk.",
+      "text": "According to his sons, the treatment greatly reduced the tremor and stiffness, and improved his posture and how far he can walk.",
       "claims": [
        "c71"
       ]
      },
      {
-      "text": "According to his son, his physician, Dr. Lior Lev-Tov at Rambam, is interested in innovative treatments.",
+      "text": "According to his sons, his physician, Dr. Lior Lev-Tov at Rambam, is interested in innovative treatments.",
       "claims": [
        "c72"
       ]
@@ -519,9 +520,7 @@
     ]
    ],
    "media": [],
-   "disagreements": [
-    "d5"
-   ]
+   "disagreements": []
   },
   {
    "id": "s8",
@@ -651,25 +650,6 @@
      "says": "According to Practical Neurology, in 2021, for drug-refractory Parkinson's with mobility, rigidity or dyskinesia problems",
      "claims": [
       "c68"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "d5",
-   "question": "When was Maurice Ferré appointed CEO of Insightec?",
-   "versions": [
-    {
-     "says": "According to MedCity News, in 2014",
-     "claims": [
-      "c51"
-     ]
-    },
-    {
-     "says": "In 2016",
-     "claims": [
-      "c90",
-      "c91"
      ]
     }
    ]
@@ -1283,20 +1263,13 @@
    "locator": "שורה 5"
   },
   {
-   "id": "c90",
-   "text": "ב-2016",
-   "source": "src14",
-   "quote": "Dr. Maurice R. Ferré, a seasoned medical device executive will join the INSIGHTEC leadership team",
+   "id": "c-aud-20261127-1",
+   "text": "לפי MedCity News, ב-2019 כיסו את הטיפול 18 תוכניות Blue בארה\"ב, המקבילות לכ-50 מיליון מבוטחים, ומדיקר כיסה אותו ב-38 מדינות; לפי אינסייטק, ביולי 2020 הושלם כיסוי מדיקר בכל 50 המדינות.",
+   "source": "src9001",
+   "quote": "complete Medicare coverage across all 50 states",
+   "locator": "audit 2026-11-27",
    "status": "confirmed",
-   "locator": "שורה 12"
-  },
-  {
-   "id": "c91",
-   "text": "ב-2016",
-   "source": "src14",
-   "quote": "HAIFA, Israel, January 7, 2016",
-   "status": "confirmed",
-   "locator": "שורה 12"
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1373,10 +1346,11 @@
    "kind": "press"
   },
   {
-   "id": "src14",
-   "label": "BioSpace: INSIGHTEC Secures $22 Million and Appoints Maurice R. Ferré, MD, as CEO",
-   "url": "https://www.biospace.com/insightec-secures-22-million-and-appoints-board-chair-as-ceo",
-   "kind": "press"
+   "id": "src9001",
+   "label": "Insightec, Medicare coverage for essential tremor across all 50 states, July 13, 2020",
+   "url": "https://www.insightec.com/news/medicare-coverage-essential-tremor/",
+   "kind": "organisation",
+   "date": "2026-11-27"
   }
  ],
  "media": [

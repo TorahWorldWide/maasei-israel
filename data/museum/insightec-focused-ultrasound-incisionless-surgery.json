@@ -382,10 +382,11 @@
       ]
      },
      {
-      "text": "לפי MedCity News, 18 תוכניות Blue בארה\"ב, המקבילות לכ-50 מיליון מבוטחים, מכסות את הטיפול, ומדיקר מכסה אותו ב-38 מדינות.",
+      "text": "לפי MedCity News, ב-2019 כיסו את הטיפול 18 תוכניות Blue בארה\"ב, המקבילות לכ-50 מיליון מבוטחים, ומדיקר כיסה אותו ב-38 מדינות; לפי אינסייטק, ביולי 2020 הושלם כיסוי מדיקר בכל 50 המדינות.",
       "claims": [
        "c47",
-       "c48"
+       "c48",
+       "c-aud-20261127-1"
       ]
      }
     ],
@@ -519,9 +520,7 @@
     ]
    ],
    "media": [],
-   "disagreements": [
-    "d5"
-   ]
+   "disagreements": []
   },
   {
    "id": "s8",
@@ -651,25 +650,6 @@
      "says": "לפי Practical Neurology, ב-2021 לפרקינסון עמיד לתרופות עם בעיות ניידות, קשיחות או דיסקינזיה",
      "claims": [
       "c68"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "d5",
-   "question": "מתי מוריס פרה מונה למנכ\"ל אינסייטק?",
-   "versions": [
-    {
-     "says": "לפי MedCity News, ב-2014",
-     "claims": [
-      "c51"
-     ]
-    },
-    {
-     "says": "ב-2016",
-     "claims": [
-      "c90",
-      "c91"
      ]
     }
    ]
@@ -1283,20 +1263,13 @@
    "locator": "שורה 5"
   },
   {
-   "id": "c90",
-   "text": "ב-2016",
-   "source": "src14",
-   "quote": "Dr. Maurice R. Ferré, a seasoned medical device executive will join the INSIGHTEC leadership team",
+   "id": "c-aud-20261127-1",
+   "text": "לפי MedCity News, ב-2019 כיסו את הטיפול 18 תוכניות Blue בארה\"ב, המקבילות לכ-50 מיליון מבוטחים, ומדיקר כיסה אותו ב-38 מדינות; לפי אינסייטק, ביולי 2020 הושלם כיסוי מדיקר בכל 50 המדינות.",
+   "source": "src9001",
+   "quote": "complete Medicare coverage across all 50 states",
+   "locator": "audit 2026-11-27",
    "status": "confirmed",
-   "locator": "שורה 12"
-  },
-  {
-   "id": "c91",
-   "text": "ב-2016",
-   "source": "src14",
-   "quote": "HAIFA, Israel, January 7, 2016",
-   "status": "confirmed",
-   "locator": "שורה 12"
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1373,10 +1346,11 @@
    "kind": "press"
   },
   {
-   "id": "src14",
-   "label": "BioSpace: INSIGHTEC Secures $22 Million and Appoints Maurice R. Ferré, MD, as CEO",
-   "url": "https://www.biospace.com/insightec-secures-22-million-and-appoints-board-chair-as-ceo",
-   "kind": "press"
+   "id": "src9001",
+   "label": "Insightec, Medicare coverage for essential tremor across all 50 states, July 13, 2020",
+   "url": "https://www.insightec.com/news/medicare-coverage-essential-tremor/",
+   "kind": "organisation",
+   "date": "2026-11-27"
   }
  ],
  "media": [

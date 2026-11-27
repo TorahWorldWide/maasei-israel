@@ -1,7 +1,7 @@
 {
  "schema": "maasei-museum/1",
  "slug": "baron-de-hirsch-jewish-colonization-association",
- "deed": "הברון מוריס דה הירש מקים את חברת ההתיישבות היהודית ליהודי אירופה הנרדפים",
+ "deed": "Baron Maurice de Hirsch founds the Jewish Colonization Association for the persecuted Jews of Europe",
  "canonical_type": "ongoing-charity",
  "year": "1891",
  "title": "Baron Hirsch founds an association that settles persecuted Jews from Russia as farmers in Argentina",
@@ -25,9 +25,10 @@
    ]
   },
   {
-   "text": "The organization is still active in Israel, under the name Jewish Charitable Association.",
+   "text": "The organization is still active in Israel, as ICA in Israel.",
    "claims": [
-    "c6"
+    "c6",
+    "c-aud-20261127-1"
    ]
   }
  ],
@@ -188,9 +189,7 @@
     "m7",
     "m12"
    ],
-   "disagreements": [
-    "d2"
-   ]
+   "disagreements": []
   },
   {
    "id": "s3",
@@ -334,12 +333,6 @@
        "c9",
        "c10"
       ]
-     },
-     {
-      "text": "In August 1891, by his direction, some 3,000 square leagues of land were purchased in Argentina, for $1,300,000.",
-      "claims": [
-       "c37"
-      ]
      }
     ]
    ],
@@ -372,9 +365,10 @@
       ]
      },
      {
-      "text": "According to the Jewish Encyclopedia, Moisés Ville was founded by Russian immigrants in 1890, before the association was established, and the association reorganized it in 1891.",
+      "text": "Moisés Ville was founded by Russian immigrants in 1889, before the association was established; according to the Jewish Encyclopedia, the association reorganized it in 1891.",
       "claims": [
-       "c45"
+       "c45",
+       "c-aud-20261127-4"
       ]
      },
      {
@@ -408,9 +402,10 @@
     ],
     [
      {
-      "text": "According to the Jewish Encyclopedia, in 1890, by Russian immigrants",
+      "text": "In 1889, by Russian immigrants",
       "claims": [
-       "c45"
+       "c45",
+       "c-aud-20261127-5"
       ]
      }
     ]
@@ -463,20 +458,6 @@
        "c77"
       ]
      }
-    ],
-    [
-     {
-      "text": "According to the Christian Science Monitor, Herzl proposed that Hirsch finance immigration to Uganda, then a British colony in Africa, but Hirsch disagreed and believed that Argentina offered a more secure future. The article does not state when the proposal was made.",
-      "claims": [
-       "c68"
-      ]
-     },
-     {
-      "text": "Hirsch disagreed, believing that Argentina offered a more secure future.",
-      "claims": [
-       "c68"
-      ]
-     }
     ]
    ],
    "media": [
@@ -506,9 +487,10 @@
       ]
      },
      {
-      "text": "The organization is still active in Israel, under the name Jewish Charitable Association.",
+      "text": "The organization is still active in Israel, as ICA in Israel.",
       "claims": [
-       "c6"
+       "c6",
+       "c-aud-20261127-2"
       ]
      }
     ],
@@ -592,24 +574,6 @@
  ],
  "disagreements": [
   {
-   "id": "d2",
-   "question": "In what year did Lucien, Hirsch's son, die?",
-   "versions": [
-    {
-     "says": "According to Zablotsky, in 1887",
-     "claims": [
-      "c11"
-     ]
-    },
-    {
-     "says": "According to the testimony of David Feinberg, in 1889",
-     "claims": [
-      "c12"
-     ]
-    }
-   ]
-  },
-  {
    "id": "d3",
    "question": "How much money did Hirsch offer the Russian government?",
    "versions": [
@@ -681,10 +645,13 @@
      ]
     },
     {
-     "says": "A capital of £2,000,000, and a further £7,000,000 in 1892",
+     "says": "According to JTA, a capital of £2,000,000, and a further £7,000,000 in 1892",
      "claims": [
       "c95",
-      "c96"
+      "c96",
+      "c-aud-20261127-6",
+      "c-aud-20261127-7",
+      "c-aud-20261127-8"
      ]
     },
     {
@@ -700,21 +667,16 @@
    "question": "How much land did the Association purchase in Argentina?",
    "versions": [
     {
-     "says": "According to the Jewish Encyclopedia, over 17,000,000 acres in all",
-     "claims": [
-      "c38"
-     ]
-    },
-    {
      "says": "According to Zablotsky, 620,000 hectares",
      "claims": [
       "c39"
      ]
     },
     {
-     "says": "According to the Posen Library, over fifty thousand hectares by 1930",
+     "says": "According to the Encyclopaedia Judaica, about 500,000 hectares by 1930",
      "claims": [
-      "c40"
+      "c40",
+      "c-aud-20261127-3"
      ]
     },
     {
@@ -775,6 +737,30 @@
      "says": "Hirsch himself said in an 1891 interview: one thousand in the first year, two thousand in the second, three thousand in the third, up to ten thousand",
      "claims": [
       "c55"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9001",
+   "question": "Did Hirsch give the Association an additional sum in 1892, or did it receive it only as an inheritance after his death?",
+   "versions": [
+    {
+     "says": "JTA: in 1892 Hirsch gave the Association a further £7,000,000",
+     "claims": [
+      "c-aud-20261127-6"
+     ]
+    },
+    {
+     "says": "Zablotsky (after Avni): in 1892 Hirsch bequeathed most of his fortune to the Association, which it inherited only after his death in 1896",
+     "claims": [
+      "c-aud-20261127-7"
+     ]
+    },
+    {
+     "says": "Jewish Encyclopedia: through Hirsch's death the Association came into possession of a £6,000,000 fund",
+     "claims": [
+      "c-aud-20261127-8"
      ]
     }
    ]
@@ -1062,14 +1048,6 @@
    "locator": "שורה 29"
   },
   {
-   "id": "c37",
-   "text": "באוגוסט 1891, בהוראת הירש, נרכשו כ-3,000 ליגות רבועות של אדמה בארגנטינה תמורת 1,300,000 דולר.",
-   "source": "src5",
-   "quote": "In August, 1891, by the direction of Baron de Hirsch, some 3,000 square leagues of land were purchased in various parts of the Argentine Republic, for $1,300,000 (£260,000).",
-   "status": "confirmed",
-   "locator": "שורה 8"
-  },
-  {
    "id": "c45",
    "text": "לפי האנציקלופדיה היהודית, מוזסוויל נוסדה בידי מהגרים רוסים ב-1890, לפני החברה, ונוסדה מחדש בידיה ב-1891.",
    "source": "src5",
@@ -1132,14 +1110,6 @@
    "quote": "By the end of 1902 these banks had altogether 3,912 shareholders with 7,929 shares of 10 kronen each",
    "status": "confirmed",
    "locator": "שורה 90"
-  },
-  {
-   "id": "c68",
-   "text": "לפי ה-Christian Science Monitor, הרצל הציע שהירש ימן הגירה לאוגנדה, אך הירש לא הסכים וסבר שארגנטינה מציעה עתיד בטוח יותר.",
-   "source": "src2",
-   "quote": "Theodore Herzl, the founder of modern Zionism, proposed that Hirsch finance immigration to the then-British African colony of Uganda. But Hirsch disagreed",
-   "status": "confirmed",
-   "locator": "שורה 4"
   },
   {
    "id": "c62",
@@ -1206,14 +1176,6 @@
    "locator": "שורה 8"
   },
   {
-   "id": "c12",
-   "text": "לפי עדותו של דוד פיינברג, הירש איבד את בנו היחיד ב-1889.",
-   "source": "src8",
-   "quote": "En 1889, el difunto Barón de Hirsch perdió a su único hijo, un joven en quien el padre y la madre habían puesto grandes esperanzas.",
-   "status": "confirmed",
-   "locator": "שורה 22"
-  },
-  {
    "id": "c49",
    "text": "לפי האנציקלופדיה היהודית, עם מות הירש הגיע קרן החברה ל-6,000,000 לירות.",
    "source": "src4",
@@ -1228,14 +1190,6 @@
    "quote": "dotada de un capital inicial de U$S 10,000,000, constituido en su totalidad por el Barón de Hirsch, quien luego lo habría de incrementar en U$S 30,000,000",
    "status": "confirmed",
    "locator": "שורה 22"
-  },
-  {
-   "id": "c38",
-   "text": "לפי האנציקלופדיה היהודית, נרכשו בסך הכול למעלה מ-17,000,000 אקר.",
-   "source": "src5",
-   "quote": "In all, over 17,000,000 acres were acquired. At first the project of settling Russian refugees on a large scale in Argentina met with a protest from the government",
-   "status": "confirmed",
-   "locator": "שורה 8"
   },
   {
    "id": "c39",
@@ -1420,6 +1374,78 @@
    "quote": "with a capital of £2,000,000, divided into 20,000 non-dividend-drawing shares of £100 each",
    "status": "confirmed",
    "locator": "שורה 12"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "הארגון עדיין פעיל בישראל, בשם ICA in Israel (יק\"א בישראל).",
+   "source": "src9001",
+   "quote": "Israel became the main field of activity",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "הארגון עדיין פעיל בישראל, בשם ICA in Israel (יק\"א בישראל).",
+   "source": "src9001",
+   "quote": "Israel became the main field of activity",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "לפי האנציקלופדיה יודאיקה, כ-500,000 הקטר עד 1930",
+   "source": "src9001",
+   "quote": "approximately 500,000 hectares of land",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-4",
+   "text": "מוזסוויל נוסדה בידי מהגרים רוסים ב-1889, לפני הקמת החברה; לפי האנציקלופדיה היהודית, החברה ארגנה אותה מחדש ב-1891.",
+   "source": "src9002",
+   "quote": "se remonta a 1889",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-5",
+   "text": "ב-1889, בידי מהגרים רוסים",
+   "source": "src9002",
+   "quote": "se remonta a 1889",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-6",
+   "text": "JTA: ב-1892 נתן הירש לחברה עוד 7,000,000 לירות",
+   "source": "src15",
+   "quote": "in 1892 Baron de Hirsch presented to it a further sum of",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-7",
+   "text": "זבלוצקי (בעקבות אבני): ב-1892 הוריש הירש לחברה את רוב הונו, והיא קיבלה אותו רק אחרי מותו ב-1896",
+   "source": "src6",
+   "quote": "que la organización heredaría después de su muerte",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261127-8",
+   "text": "האנציקלופדיה היהודית: עם מות הירש קיבלה החברה קרן של 6,000,000 לירות",
+   "source": "src4",
+   "quote": "came into possession of a fund amounting to",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1506,6 +1532,20 @@
    "label": "Jewish Encyclopedia: Jewish Colonization Association",
    "url": "https://jewishencyclopedia.com/articles/8633-jewish-colonization-association",
    "kind": "reference"
+  },
+  {
+   "id": "src9001",
+   "label": "Jewish Virtual Library (Encyclopaedia Judaica), Jewish Colonization Association (ICA)",
+   "url": "https://www.jewishvirtuallibrary.org/jewish-colonization-association-ica",
+   "kind": "reference",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9002",
+   "label": "Argentina.gob.ar, Moisés Ville",
+   "url": "https://www.argentina.gob.ar/node/418075",
+   "kind": "official",
+   "date": "2026-11-27"
   }
  ],
  "media": [
@@ -1689,7 +1729,7 @@
    "licence": "YouTube, embedded only (standard YouTube licence)",
    "licence_url": "https://www.youtube.com/static?template=terms",
    "hosting": "embed",
-   "caption": "The life story of Baron Hirsch, the greatest donor in the history of Zionism, who founded the JCA fund and financed the schools of \"Kol Yisrael Haverim\".",
+   "caption": "The life story of Baron Hirsch, who founded the JCA fund and financed the schools of \"Kol Yisrael Haverim\".",
    "illustrates": [],
    "spoken": "he",
    "audio_tracks": [
@@ -1725,8 +1765,7 @@
    "hosting": "embed",
    "caption": "Video about Baron de Hirsch and the Jewish Colonization Association, his connection to Herzl, and the Jewish gauchos of Argentina.",
    "illustrates": [
-    "c5",
-    "c68"
+    "c5"
    ],
    "spoken": "en",
    "audio_tracks": [

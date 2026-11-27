@@ -367,9 +367,10 @@
       ]
      },
      {
-      "text": "Until then, EPA rules had established that ultraviolet light could not be used to meet the high virus threshold, which was set according to adenovirus.",
+      "text": "According to the company's 2013 announcement, until then no reliable validation had shown that ultraviolet light could meet the EPA's high virus threshold, which was set according to adenovirus.",
       "claims": [
-       "c2"
+       "c2",
+       "c-aud-20261127-1"
       ]
      },
      {
@@ -1042,6 +1043,15 @@
    "quote": "Atlantium Technologies raised a total of $26M.",
    "status": "confirmed",
    "locator": "שורה 54"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "לפי הודעת החברה מ-2013, עד אז לא נעשה אימות אמין שהראה שאור על-סגול יכול לעמוד ברף הנגיפים הגבוה של ה-EPA, שנקבע לפי נגיף האדנווירוס.",
+   "source": "src6",
+   "quote": "because no reliable validation had been performed",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [

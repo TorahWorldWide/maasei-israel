@@ -25,9 +25,10 @@
    ]
   },
   {
-   "text": "הארגון עדיין פעיל בישראל, תחת השם Jewish Charitable Association.",
+   "text": "הארגון עדיין פעיל בישראל, בשם ICA in Israel (יק\"א בישראל).",
    "claims": [
-    "c6"
+    "c6",
+    "c-aud-20261127-1"
    ]
   }
  ],
@@ -188,9 +189,7 @@
     "m7",
     "m12"
    ],
-   "disagreements": [
-    "d2"
-   ]
+   "disagreements": []
   },
   {
    "id": "s3",
@@ -334,12 +333,6 @@
        "c9",
        "c10"
       ]
-     },
-     {
-      "text": "באוגוסט 1891, בהוראתו, נרכשו בארגנטינה כ-3,000 ליגות רבועות של אדמה, תמורת 1,300,000 דולר.",
-      "claims": [
-       "c37"
-      ]
      }
     ]
    ],
@@ -372,9 +365,10 @@
       ]
      },
      {
-      "text": "לפי האנציקלופדיה היהודית, מוזסוויל נוסדה בידי מהגרים רוסים ב-1890, לפני הקמת החברה, והחברה ארגנה אותה מחדש ב-1891.",
+      "text": "מוזסוויל נוסדה בידי מהגרים רוסים ב-1889, לפני הקמת החברה; לפי האנציקלופדיה היהודית, החברה ארגנה אותה מחדש ב-1891.",
       "claims": [
-       "c45"
+       "c45",
+       "c-aud-20261127-4"
       ]
      },
      {
@@ -408,9 +402,10 @@
     ],
     [
      {
-      "text": "לפי האנציקלופדיה היהודית, ב-1890, בידי מהגרים רוסים",
+      "text": "ב-1889, בידי מהגרים רוסים",
       "claims": [
-       "c45"
+       "c45",
+       "c-aud-20261127-5"
       ]
      }
     ]
@@ -463,20 +458,6 @@
        "c77"
       ]
      }
-    ],
-    [
-     {
-      "text": "לפי ה-Christian Science Monitor, הרצל הציע שהירש יממן הגירה לאוגנדה, שהייתה אז מושבה בריטית באפריקה, אך הירש לא הסכים וסבר שארגנטינה מציעה עתיד בטוח יותר. הכתבה אינה מציינת מתי הועלתה ההצעה.",
-      "claims": [
-       "c68"
-      ]
-     },
-     {
-      "text": "הירש לא הסכים, וסבר שארגנטינה מציעה עתיד בטוח יותר.",
-      "claims": [
-       "c68"
-      ]
-     }
     ]
    ],
    "media": [
@@ -506,9 +487,10 @@
       ]
      },
      {
-      "text": "הארגון עדיין פעיל בישראל, תחת השם Jewish Charitable Association.",
+      "text": "הארגון עדיין פעיל בישראל, בשם ICA in Israel (יק\"א בישראל).",
       "claims": [
-       "c6"
+       "c6",
+       "c-aud-20261127-2"
       ]
      }
     ],
@@ -592,24 +574,6 @@
  ],
  "disagreements": [
   {
-   "id": "d2",
-   "question": "באיזו שנה מת לוסיין, בנו של הירש?",
-   "versions": [
-    {
-     "says": "לפי זבלוצקי, ב-1887",
-     "claims": [
-      "c11"
-     ]
-    },
-    {
-     "says": "לפי עדותו של דוד פיינברג, ב-1889",
-     "claims": [
-      "c12"
-     ]
-    }
-   ]
-  },
-  {
    "id": "d3",
    "question": "כמה כסף הציע הירש לממשלת רוסיה?",
    "versions": [
@@ -681,10 +645,13 @@
      ]
     },
     {
-     "says": "הון של 2,000,000 לירות, ועוד 7,000,000 לירות ב-1892",
+     "says": "לפי JTA, הון של 2,000,000 לירות, ועוד 7,000,000 לירות ב-1892",
      "claims": [
       "c95",
-      "c96"
+      "c96",
+      "c-aud-20261127-6",
+      "c-aud-20261127-7",
+      "c-aud-20261127-8"
      ]
     },
     {
@@ -700,21 +667,16 @@
    "question": "כמה אדמה רכשה החברה בארגנטינה?",
    "versions": [
     {
-     "says": "לפי האנציקלופדיה היהודית, למעלה מ-17,000,000 אקר בסך הכול",
-     "claims": [
-      "c38"
-     ]
-    },
-    {
      "says": "לפי זבלוצקי, 620,000 הקטר",
      "claims": [
       "c39"
      ]
     },
     {
-     "says": "לפי ספריית פוזן, למעלה מחמישים אלף הקטר עד 1930",
+     "says": "לפי האנציקלופדיה יודאיקה, כ-500,000 הקטר עד 1930",
      "claims": [
-      "c40"
+      "c40",
+      "c-aud-20261127-3"
      ]
     },
     {
@@ -775,6 +737,30 @@
      "says": "הירש עצמו אמר בראיון ב-1891: אלף בשנה הראשונה, אלפיים בשנייה, שלושת אלפים בשלישית, עד עשרת אלפים",
      "claims": [
       "c55"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9001",
+   "question": "האם הירש נתן לחברה סכום נוסף כבר ב-1892, או שהיא קיבלה אותו רק בירושה אחרי מותו?",
+   "versions": [
+    {
+     "says": "JTA: ב-1892 נתן הירש לחברה עוד 7,000,000 לירות",
+     "claims": [
+      "c-aud-20261127-6"
+     ]
+    },
+    {
+     "says": "זבלוצקי (בעקבות אבני): ב-1892 הוריש הירש לחברה את רוב הונו, והיא קיבלה אותו רק אחרי מותו ב-1896",
+     "claims": [
+      "c-aud-20261127-7"
+     ]
+    },
+    {
+     "says": "האנציקלופדיה היהודית: עם מות הירש קיבלה החברה קרן של 6,000,000 לירות",
+     "claims": [
+      "c-aud-20261127-8"
      ]
     }
    ]
@@ -1062,14 +1048,6 @@
    "locator": "שורה 29"
   },
   {
-   "id": "c37",
-   "text": "באוגוסט 1891, בהוראת הירש, נרכשו כ-3,000 ליגות רבועות של אדמה בארגנטינה תמורת 1,300,000 דולר.",
-   "source": "src5",
-   "quote": "In August, 1891, by the direction of Baron de Hirsch, some 3,000 square leagues of land were purchased in various parts of the Argentine Republic, for $1,300,000 (£260,000).",
-   "status": "confirmed",
-   "locator": "שורה 8"
-  },
-  {
    "id": "c45",
    "text": "לפי האנציקלופדיה היהודית, מוזסוויל נוסדה בידי מהגרים רוסים ב-1890, לפני החברה, ונוסדה מחדש בידיה ב-1891.",
    "source": "src5",
@@ -1132,14 +1110,6 @@
    "quote": "By the end of 1902 these banks had altogether 3,912 shareholders with 7,929 shares of 10 kronen each",
    "status": "confirmed",
    "locator": "שורה 90"
-  },
-  {
-   "id": "c68",
-   "text": "לפי ה-Christian Science Monitor, הרצל הציע שהירש ימן הגירה לאוגנדה, אך הירש לא הסכים וסבר שארגנטינה מציעה עתיד בטוח יותר.",
-   "source": "src2",
-   "quote": "Theodore Herzl, the founder of modern Zionism, proposed that Hirsch finance immigration to the then-British African colony of Uganda. But Hirsch disagreed",
-   "status": "confirmed",
-   "locator": "שורה 4"
   },
   {
    "id": "c62",
@@ -1206,14 +1176,6 @@
    "locator": "שורה 8"
   },
   {
-   "id": "c12",
-   "text": "לפי עדותו של דוד פיינברג, הירש איבד את בנו היחיד ב-1889.",
-   "source": "src8",
-   "quote": "En 1889, el difunto Barón de Hirsch perdió a su único hijo, un joven en quien el padre y la madre habían puesto grandes esperanzas.",
-   "status": "confirmed",
-   "locator": "שורה 22"
-  },
-  {
    "id": "c49",
    "text": "לפי האנציקלופדיה היהודית, עם מות הירש הגיע קרן החברה ל-6,000,000 לירות.",
    "source": "src4",
@@ -1228,14 +1190,6 @@
    "quote": "dotada de un capital inicial de U$S 10,000,000, constituido en su totalidad por el Barón de Hirsch, quien luego lo habría de incrementar en U$S 30,000,000",
    "status": "confirmed",
    "locator": "שורה 22"
-  },
-  {
-   "id": "c38",
-   "text": "לפי האנציקלופדיה היהודית, נרכשו בסך הכול למעלה מ-17,000,000 אקר.",
-   "source": "src5",
-   "quote": "In all, over 17,000,000 acres were acquired. At first the project of settling Russian refugees on a large scale in Argentina met with a protest from the government",
-   "status": "confirmed",
-   "locator": "שורה 8"
   },
   {
    "id": "c39",
@@ -1420,6 +1374,78 @@
    "quote": "with a capital of £2,000,000, divided into 20,000 non-dividend-drawing shares of £100 each",
    "status": "confirmed",
    "locator": "שורה 12"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "הארגון עדיין פעיל בישראל, בשם ICA in Israel (יק\"א בישראל).",
+   "source": "src9001",
+   "quote": "Israel became the main field of activity",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "הארגון עדיין פעיל בישראל, בשם ICA in Israel (יק\"א בישראל).",
+   "source": "src9001",
+   "quote": "Israel became the main field of activity",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "לפי האנציקלופדיה יודאיקה, כ-500,000 הקטר עד 1930",
+   "source": "src9001",
+   "quote": "approximately 500,000 hectares of land",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-4",
+   "text": "מוזסוויל נוסדה בידי מהגרים רוסים ב-1889, לפני הקמת החברה; לפי האנציקלופדיה היהודית, החברה ארגנה אותה מחדש ב-1891.",
+   "source": "src9002",
+   "quote": "se remonta a 1889",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-5",
+   "text": "ב-1889, בידי מהגרים רוסים",
+   "source": "src9002",
+   "quote": "se remonta a 1889",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-6",
+   "text": "JTA: ב-1892 נתן הירש לחברה עוד 7,000,000 לירות",
+   "source": "src15",
+   "quote": "in 1892 Baron de Hirsch presented to it a further sum of",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-7",
+   "text": "זבלוצקי (בעקבות אבני): ב-1892 הוריש הירש לחברה את רוב הונו, והיא קיבלה אותו רק אחרי מותו ב-1896",
+   "source": "src6",
+   "quote": "que la organización heredaría después de su muerte",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261127-8",
+   "text": "האנציקלופדיה היהודית: עם מות הירש קיבלה החברה קרן של 6,000,000 לירות",
+   "source": "src4",
+   "quote": "came into possession of a fund amounting to",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1506,6 +1532,20 @@
    "label": "Jewish Encyclopedia: Jewish Colonization Association",
    "url": "https://jewishencyclopedia.com/articles/8633-jewish-colonization-association",
    "kind": "reference"
+  },
+  {
+   "id": "src9001",
+   "label": "Jewish Virtual Library (Encyclopaedia Judaica), Jewish Colonization Association (ICA)",
+   "url": "https://www.jewishvirtuallibrary.org/jewish-colonization-association-ica",
+   "kind": "reference",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9002",
+   "label": "Argentina.gob.ar, Moisés Ville",
+   "url": "https://www.argentina.gob.ar/node/418075",
+   "kind": "official",
+   "date": "2026-11-27"
   }
  ],
  "media": [
@@ -1689,7 +1729,7 @@
    "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
    "licence_url": "https://www.youtube.com/static?template=terms",
    "hosting": "embed",
-   "caption": "סיפור חייו של הברון הירש, התורם הגדול בתולדות הציונות, שייסד את קרן יק\"א ומימן את בתי הספר של \"כל ישראל חברים\".",
+   "caption": "סיפור חייו של הברון הירש, שייסד את קרן יק\"א ומימן את בתי הספר של \"כל ישראל חברים\".",
    "illustrates": [],
    "spoken": "he",
    "audio_tracks": [
@@ -1725,8 +1765,7 @@
    "hosting": "embed",
    "caption": "סרטון על הברון דה הירש ועל חברת ההתיישבות היהודית, על קשרו להרצל ועל גאוצ'ו היהודים של ארגנטינה.",
    "illustrates": [
-    "c5",
-    "c68"
+    "c5"
    ],
    "spoken": "en",
    "audio_tracks": [

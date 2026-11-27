@@ -110,9 +110,10 @@
    "paragraphs": [
     [
      {
-      "text": "לפי JTA, הפרעות בדרום רוסיה ב-1880 הביאו פליטים רבים לקושטא ועוררו את התעניינותו של הברון בארץ ישראל.",
+      "text": "לפי JTA, הפרעות בדרום רוסיה, שפרצו ב-1881, הביאו פליטים רבים לקושטא ועוררו את התעניינותו של הברון בארץ ישראל.",
       "claims": [
-       "c3"
+       "c3",
+       "c-aud-20261127-1"
       ]
      },
      {
@@ -240,9 +241,10 @@
       ]
      },
      {
-      "text": "לפי הקרן, את המסע הראשון ערך ב-1887, בגיל 42.",
+      "text": "לפי רמת הנדיב, את המסע הראשון ערך באפריל 1887, בגיל 41.",
       "claims": [
-       "c50"
+       "c50",
+       "c-aud-20261127-3"
       ]
      }
     ],
@@ -336,9 +338,10 @@
       ]
      },
      {
-      "text": "לפי אותו אתר, הברון השקיע ביין הישראלי 11 מיליון פרנק, לעומת 4 מיליון בשאטו לפיט ומיליון בשאטו מוטון.",
+      "text": "לפי אדם מונטיפיורי מיקבי כרמל, המרתפים בראשון לציון עלו לברון 6 מיליון פרנק ובזיכרון יעקב 5 מיליון, ואילו רכישת שאטו לאפיט עלתה למשפחת רוטשילד 4 מיליון פרנק.",
       "claims": [
-       "c21"
+       "c21",
+       "c-aud-20261127-4"
       ]
      }
     ]
@@ -414,7 +417,8 @@
    ],
    "disagreements": [
     "d5",
-    "d7"
+    "d7",
+    "d9002"
    ]
   },
   {
@@ -438,15 +442,17 @@
       ]
      },
      {
-      "text": "כרמל הוא היקב הגדול בישראל, עם נתח שוק מקומי של כמעט 50%.",
+      "text": "כרמל הוא היקב הגדול בישראל; לפי נתוני סטורנקסט שפרסם כלכליסט, במאי 2026 החזיק בנתח שוק כמותי של כ-31.5%.",
       "claims": [
-       "c83"
+       "c83",
+       "c-aud-20261127-6"
       ]
      },
      {
-      "text": "לפי כתבה שיווקית ב-ynet, השיראז קאיומי 2006 של יקבי כרמל זכה ב-2010 בגביע העולמי בתחרות של מגזין Decanter בקטגוריית \"היין האדום הטוב ביותר בעולם מזני הרון\".",
+      "text": "לפי Decanter ו-Israel21c, השיראז קאיומי סינגל וינארד 2008 של יקבי כרמל זכה ב-2010 בגביע הבינלאומי בתחרות היין של מגזין Decanter, בקטגוריית יינות אדומים מזני הרון במחיר של מעל 10 ליש״ט.",
       "claims": [
-       "c47"
+       "c47",
+       "c-aud-20261127-10"
       ]
      }
     ],
@@ -467,7 +473,8 @@
     "m13"
    ],
    "disagreements": [
-    "d8"
+    "d8",
+    "d9001"
    ]
   },
   {
@@ -632,9 +639,10 @@
    "question": "מתי היו הפרעות שעוררו את הברון?",
    "versions": [
     {
-     "says": "JTA: הפרעות בדרום רוסיה ב-1880",
+     "says": "מוזיאון השואה האמריקאי: גל הפרעות ברוסיה פרץ ב-1881 ונמשך עד 1884",
      "claims": [
-      "c3"
+      "c3",
+      "c-aud-20261127-2"
      ]
     },
     {
@@ -758,9 +766,10 @@
      ]
     },
     {
-     "says": "מעריב: הברון עצמו העניק את היקב במתנה, באמצע המאה ה-20",
+     "says": "אדם מונטיפיורי (כרמל): ניהול היקבים הועבר לכורמים כבר ב-1906, והם ייסדו את הקואופרטיב",
      "claims": [
-      "c43"
+      "c43",
+      "c-aud-20261127-5"
      ]
     }
    ]
@@ -815,6 +824,54 @@
      "says": "ג'רוזלם פוסט: ליקב ציון של משפחת שור יש מורשת שראשיתה ב-1848, הרבה לפני כרמל והברון",
      "claims": [
       "c77"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9001",
+   "question": "מהו היקב הוותיק ביותר בישראל שעדיין פועל?",
+   "versions": [
+    {
+     "says": "ynet (כתבה שיווקית): היקב של כרמל בזיכרון יעקב הוא היקב המסחרי הפעיל הוותיק במדינה",
+     "claims": [
+      "c-aud-20261127-7"
+     ]
+    },
+    {
+     "says": "אדם מונטיפיורי: יקב אפרת, שייסד זאב זיידה טפרברג ב-1870, פועל עד היום בשם טפרברג",
+     "claims": [
+      "c-aud-20261127-8"
+     ]
+    },
+    {
+     "says": "ג'רוזלם פוסט: יקב ציון של משפחת שור מייצר יין ברציפות מאז 1848",
+     "claims": [
+      "c-aud-20261127-9"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9002",
+   "question": "מתי הוקמה חברת היצוא Carmel Wine Co.?",
+   "versions": [
+    {
+     "says": "Kosher Wine: ב-1896, כדי לייצא יינות",
+     "claims": [
+      "c-aud-20261127-11"
+     ]
+    },
+    {
+     "says": "אדם מונטיפיורי (כרמל): ב-1895, בידי א\"ז לוין-אפשטיין; משרד היצוא הראשון נפתח בוורשה ב-1896",
+     "claims": [
+      "c-aud-20261127-12"
+     ]
+    },
+    {
+     "says": "eTurboNews: החברה החלה לפעול ב-1895",
+     "claims": [
+      "c-aud-20261127-13"
      ]
     }
    ]
@@ -1389,6 +1446,123 @@
    "quote": "Currently, Carmel is the largest winery in Israel, controls almost 50 percent of the local market",
    "status": "confirmed",
    "locator": "שורה 17"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "לפי JTA, הפרעות בדרום רוסיה, שפרצו ב-1881, הביאו פליטים רבים לקושטא ועוררו את התעניינותו של הברון בארץ ישראל.",
+   "source": "src9001",
+   "quote": "provinces of the Russian Empire in 1881",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "מוזיאון השואה האמריקאי: גל הפרעות ברוסיה פרץ ב-1881 ונמשך עד 1884",
+   "source": "src9001",
+   "quote": "provinces of the Russian Empire in 1881",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "לפי רמת הנדיב, את המסע הראשון ערך באפריל 1887, בגיל 41.",
+   "source": "src9002",
+   "quote": "He arrived anonymously on 2 April 1887",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-4",
+   "text": "לפי אדם מונטיפיורי מיקבי כרמל, המרתפים בראשון לציון עלו לברון 6 מיליון פרנק ובזיכרון יעקב 5 מיליון, ואילו רכישת שאטו לאפיט עלתה למשפחת רוטשילד 4 מיליון פרנק.",
+   "source": "src14",
+   "quote": "the purchase of Chateau Lafite only cost the Rothschild family 4 million francs",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-5",
+   "text": "אדם מונטיפיורי (כרמל): ניהול היקבים הועבר לכורמים כבר ב-1906, והם ייסדו את הקואופרטיב",
+   "source": "src14",
+   "quote": "In 1906 the management of the wineries at Rishon le Zion and Zichron",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-6",
+   "text": "כרמל הוא היקב הגדול בישראל; לפי נתוני סטורנקסט שפרסם כלכליסט, במאי 2026 החזיק בנתח שוק כמותי של כ-31.5%.",
+   "source": "src9003",
+   "quote": "יקבי כרמל מחזיקים בנתח שוק כמותי של כ-31.5%",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261127-7",
+   "text": "ynet (כתבה שיווקית): היקב של כרמל בזיכרון יעקב הוא היקב המסחרי הפעיל הוותיק במדינה",
+   "source": "src2",
+   "quote": "היקב המסחרי הפעיל הוותיק במדינה",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-8",
+   "text": "אדם מונטיפיורי: יקב אפרת, שייסד זאב זיידה טפרברג ב-1870, פועל עד היום בשם טפרברג",
+   "source": "src14",
+   "quote": "In 1870 Zeev Zeida Teperberg founded Efrat Winery. This winery continues today",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-9",
+   "text": "ג'רוזלם פוסט: יקב ציון של משפחת שור מייצר יין ברציפות מאז 1848",
+   "source": "src13",
+   "quote": "Zion Winery was the one that continuously made wine since 1848",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261127-10",
+   "text": "לפי Decanter ו-Israel21c, השיראז קאיומי סינגל וינארד 2008 של יקבי כרמל זכה ב-2010 בגביע הבינלאומי בתחרות היין של מגזין Decanter, בקטגוריית יינות אדומים מזני הרון במחיר של מעל 10 ליש״ט.",
+   "source": "src9004",
+   "quote": "its Kayoumi Single Vineyard Shiraz 2008 won the Red Rhone Varietals over £10 Trophy",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-11",
+   "text": "Kosher Wine: ב-1896, כדי לייצא יינות",
+   "source": "src11",
+   "quote": "In 1896, the Carmel wines company",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261127-12",
+   "text": "אדם מונטיפיורי (כרמל): ב-1895, בידי א\"ז לוין-אפשטיין; משרד היצוא הראשון נפתח בוורשה ב-1896",
+   "source": "src14",
+   "quote": "In 1895 the Carmel Wine Co. was formed by E.Z. Lewin-Epstein",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-13",
+   "text": "eTurboNews: החברה החלה לפעול ב-1895",
+   "source": "src15",
+   "quote": "Carmel Wine Company was started in 1895",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1475,6 +1649,34 @@
    "label": "eTurboNews: Carmel Winery article",
    "url": "https://eturbonews.com/?p=3094607",
    "kind": "press"
+  },
+  {
+   "id": "src9001",
+   "label": "United States Holocaust Memorial Museum, Holocaust Encyclopedia: Pogroms",
+   "url": "https://encyclopedia.ushmm.org/content/en/article/pogroms",
+   "kind": "organisation",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9002",
+   "label": "Ramat Hanadiv, The Baron in Eretz Israel: five visits during his lifetime",
+   "url": "https://www.ramat-hanadiv.org.il/en/rothschilds-legacy/the-rothschild-legacy/who-is-the-baron/the-baron-in-eretz-israel-five-visits-during-his-lifetime/",
+   "kind": "organisation",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9003",
+   "label": "Calcalist, 24 August 2026",
+   "url": "https://www.calcalist.co.il/article/s1lljvkwfl",
+   "kind": "press",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9004",
+   "label": "Israel21c, Galilee wine scoops top prize for 2010",
+   "url": "https://archive.israel21c.org/?p=29580",
+   "kind": "press",
+   "date": "2026-11-27"
   }
  ],
  "media": [

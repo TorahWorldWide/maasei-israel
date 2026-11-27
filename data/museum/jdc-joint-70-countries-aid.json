@@ -29,10 +29,11 @@
    ]
   },
   {
-   "text": "ב-2007 קיבל הג'וינט את פרס ישראל.",
+   "text": "ב-2007 קיבל ג'וינט ישראל, זרוע הארגון בישראל, את פרס ישראל.",
    "claims": [
     "c81",
-    "c82"
+    "c82",
+    "c-aud-20261127-6"
    ]
   }
  ],
@@ -83,10 +84,11 @@
   },
   {
    "label": "הכרה",
-   "value": "פרס ישראל, 2007",
+   "value": "פרס ישראל לג'וינט ישראל, 2007",
    "claims": [
     "c85",
-    "c86"
+    "c86",
+    "c-aud-20261127-7"
    ]
   }
  ],
@@ -225,9 +227,10 @@
       ]
      },
      {
-      "text": "הג'וינט תורם מיליוני דולרים לסיוע באסונות ולסיוע פיתוח לקהילות לא-יהודיות.",
+      "text": "לפי JTA, ב-2007 תכנן הג'וינט לתת יותר מ-8 מיליון דולר למטרות לא-יהודיות, רובם לסיוע אחרי הצונאמי של 2004 ולכפר נוער ברואנדה.",
       "claims": [
-       "c90"
+       "c90",
+       "c-aud-20261127-5"
       ]
      }
     ],
@@ -275,15 +278,17 @@
       ]
      },
      {
-      "text": "לפי דבריו, ב-103 שניות קרסו 500,000 מבנים.",
+      "text": "לפי שר הסביבה והעיור של טורקיה, יותר מ-232,000 מבנים ניזוקו קשות ונדרשו להריסה מיידית.",
       "claims": [
-       "c18"
+       "c18",
+       "c-aud-20261127-2"
       ]
      },
      {
-      "text": "לפי דבריו, הרעש כיסה 1,000 קילומטרים רבועים, ויותר מ-13 מיליון בני אדם נפגעו.",
+      "text": "לפי דבריו, יותר מ-13 מיליון בני אדם נפגעו. לפי דיילי סבאח, אזור הרעידות השתרע על כ-120,000 קילומטרים רבועים.",
       "claims": [
-       "c19"
+       "c19",
+       "c-aud-20261127-1"
       ]
      }
     ],
@@ -404,9 +409,10 @@
       ]
      },
      {
-      "text": "לפי JNS, קהילת אנטקיה מונה כ-20 איש, ושורשיה בני 2,500 שנה.",
+      "text": "לפי JNS, קהילת אנטקיה, שמנתה כ-20 איש ושורשיה בני 2,500 שנה, פונתה אחרי הרעידה לאיסטנבול ולמרסין.",
       "claims": [
-       "c39"
+       "c39",
+       "c-aud-20261127-3"
       ]
      },
      {
@@ -635,9 +641,10 @@
       ]
      },
      {
-      "text": "פעילות הסיוע שלו מתואמת עם משרד החוץ האמריקאי, עם USAID, עם מאמצי סיוע ישראליים ועם האו\"ם.",
+      "text": "לפי ההודעה מפברואר 2023, פעילות הסיוע של הג'וינט תואמה אז עם משרד החוץ האמריקאי, עם USAID, עם מאמצי סיוע ישראליים ועם האו\"ם.",
       "claims": [
-       "c45"
+       "c45",
+       "c-aud-20261127-4"
       ]
      },
      {
@@ -655,9 +662,10 @@
       ]
      },
      {
-      "text": "ב-2007 קיבל הג'וינט את פרס ישראל על מפעל חיים ותרומה מיוחדת לחברה ולמדינת ישראל.",
+      "text": "ב-2007 קיבל ג'וינט ישראל את פרס ישראל על מפעל חיים ותרומה מיוחדת לחברה ולמדינת ישראל.",
       "claims": [
-       "c91"
+       "c91",
+       "c-aud-20261127-8"
       ]
      },
      {
@@ -1463,6 +1471,78 @@
    "quote": "in need in this country and around the globe in the 71 countries where we work.",
    "status": "confirmed",
    "locator": "שורה 24"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "לפי דבריו, יותר מ-13 מיליון בני אדם נפגעו. לפי דיילי סבאח, אזור הרעידות השתרע על כ-120,000 קילומטרים רבועים.",
+   "source": "src9001",
+   "quote": "covering an area of 120,000 square kilometers",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "לפי שר הסביבה והעיור של טורקיה, יותר מ-232,000 מבנים ניזוקו קשות ונדרשו להריסה מיידית.",
+   "source": "src9002",
+   "quote": "232,632 buildings, including 651,416 independent sections, were severely damaged",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "לפי JNS, קהילת אנטקיה, שמנתה כ-20 איש ושורשיה בני 2,500 שנה, פונתה אחרי הרעידה לאיסטנבול ולמרסין.",
+   "source": "src10",
+   "quote": "The other community members were brought to İstanbul and Mersin",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-4",
+   "text": "לפי ההודעה מפברואר 2023, פעילות הסיוע של הג'וינט תואמה אז עם משרד החוץ האמריקאי, עם USAID, עם מאמצי סיוע ישראליים ועם האו\"ם.",
+   "source": "src4",
+   "quote": "JDC relief activities are coordinated with the U.S. Department of State, USAID, Israeli relief efforts, and the United Nations",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261127-5",
+   "text": "לפי JTA, ב-2007 תכנן הג'וינט לתת יותר מ-8 מיליון דולר למטרות לא-יהודיות, רובם לסיוע אחרי הצונאמי של 2004 ולכפר נוער ברואנדה.",
+   "source": "src17",
+   "quote": "will give more than $8 million this year to non-Jewish causes",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-6",
+   "text": "ב-2007 קיבל ג'וינט ישראל, זרוע הארגון בישראל, את פרס ישראל.",
+   "source": "src15",
+   "quote": "The American Jewish Joint Distribution Committee-Israel was one of four to receive an Israel Prize",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-7",
+   "text": "פרס ישראל לג'וינט ישראל, 2007",
+   "source": "src15",
+   "quote": "The American Jewish Joint Distribution Committee-Israel was one of four to receive an Israel Prize",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-8",
+   "text": "ב-2007 קיבל ג'וינט ישראל את פרס ישראל על מפעל חיים ותרומה מיוחדת לחברה ולמדינת ישראל.",
+   "source": "src15",
+   "quote": "The American Jewish Joint Distribution Committee-Israel was one of four to receive an Israel Prize for life achievement, special contribution to society and state",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1567,6 +1647,20 @@
    "label": "JDC Ambassadors Circle blog: Briefing from Steve Schwager, JDC executive (20 January 2009)",
    "url": "https://jdcambassadorscircle.blogspot.com/2009/01/briefing-from-steve-schwager-executive.html",
    "kind": "organisation"
+  },
+  {
+   "id": "src9001",
+   "label": "Daily Sabah, Türkiye observes 1st anniversary of deadly Kahramanmaraş quakes, 5 Feb 2024",
+   "url": "https://dailysabah.com/turkiye/turkiye-observes-1st-anniversary-of-deadly-kahramanmaras-quakes/news",
+   "kind": "press",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9002",
+   "label": "Daily Sabah, 'Over 232,000 buildings damaged in Türkiye's quake-hit zone', 8 Mar 2023",
+   "url": "https://www.dailysabah.com/turkiye/over-232000-buildings-damaged-in-turkiyes-quake-hit-zone/news",
+   "kind": "press",
+   "date": "2026-11-27"
   }
  ],
  "media": [

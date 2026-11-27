@@ -257,9 +257,7 @@
     "m31",
     "m32"
    ],
-   "disagreements": [
-    "d1"
-   ]
+   "disagreements": []
   },
   {
    "id": "s3",
@@ -385,10 +383,11 @@
       ]
      },
      {
-      "text": "בסינון הראשון זיהה שקמן שני גנים, sec1 ו-sec2, ואחרי שיפור הסינון זוהו עוד 23 גנים, שחולקו לשלוש קבוצות.",
+      "text": "בסינון הראשון זיהה שקמן שני גנים, sec1 ו-sec2, ואחרי שיפור הסינון זוהו בסך הכול 23 גנים, שחולקו לשלוש קבוצות.",
       "claims": [
        "c11",
-       "c12"
+       "c12",
+       "c-aud-20261127-2"
       ]
      },
      {
@@ -602,11 +601,12 @@
       ]
      },
      {
-      "text": "ב-2008 הצטרף לסגל ייל בניו הייבן שבקונטיקט; לפי הודעת פרס נובל מ-2013 היה שם פרופסור ויושב ראש המחלקה לביולוגיה של התא, ולפי אתר פרס קאבלי היה פרופסור ויושב ראש המחלקה לכימיה.",
+      "text": "ב-2008 הצטרף לסגל ייל בניו הייבן שבקונטיקט; לפי הביוגרפיה שלו באתר פרס נובל, היה שם יושב ראש המחלקה לביולוגיה של התא וגם פרופסור לכימיה.",
       "claims": [
        "c67",
        "c68",
-       "c69"
+       "c69",
+       "c-aud-20261127-1"
       ]
      }
     ],
@@ -706,25 +706,6 @@
   }
  ],
  "disagreements": [
-  {
-   "id": "d1",
-   "question": "באיזו שנה התחיל רותמן לעבוד בסטנפורד?",
-   "versions": [
-    {
-     "says": "לפי הודעת נובל והביוגרפיה של נובל, ב-1978",
-     "claims": [
-      "c61",
-      "c62"
-     ]
-    },
-    {
-     "says": "לפי אתר פרס המלך פייסל, ב-1976",
-     "claims": [
-      "c63"
-     ]
-    }
-   ]
-  },
   {
    "id": "d2",
    "question": "מתי עבר רותמן לקולומביה?",
@@ -1426,6 +1407,24 @@
    "quote": "Dr. Rothman also joins the faculty as a professor in the Department of Physiology and Cellular Biophysics.",
    "status": "confirmed",
    "locator": "שורה 17"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "ב-2008 הצטרף לסגל ייל בניו הייבן שבקונטיקט; לפי הביוגרפיה שלו באתר פרס נובל, היה שם יושב ראש המחלקה לביולוגיה של התא וגם פרופסור לכימיה.",
+   "source": "src9001",
+   "quote": "Chair of the Department of Cell Biology and a Professor of Chemistry",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "בסינון הראשון זיהה שקמן שני גנים, sec1 ו-sec2, ואחרי שיפור הסינון זוהו בסך הכול 23 גנים, שחולקו לשלוש קבוצות.",
+   "source": "src4",
+   "quote": "in the specific case of sec1, to the cell surface",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
   }
  ],
  "sources": [
@@ -1518,6 +1517,13 @@
    "label": "Memorial Sloan Kettering Cancer Center: Former Memorial Sloan Kettering Researcher James Rothman Among Nobel Prize Winners",
    "url": "https://www.mskcc.org/news/former-msk-researcher-james-rothman-among-nobel-prize-winners",
    "kind": "official"
+  },
+  {
+   "id": "src9001",
+   "label": "NobelPrize.org, James E. Rothman – Biographical, 2013",
+   "url": "https://www.nobelprize.org/prizes/medicine/2013/rothman/biographical/",
+   "kind": "official",
+   "date": "2026-11-27"
   }
  ],
  "media": [

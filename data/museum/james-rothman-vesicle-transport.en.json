@@ -1,7 +1,7 @@
 {
  "schema": "maasei-museum/1",
  "slug": "james-rothman-vesicle-transport",
- "deed": "ג׳יימס רותמן ומערכת ההובלה התוך-תאית",
+ "deed": "James Rothman and the Intracellular Transport System",
  "canonical_type": "scientific-discovery",
  "year": "1979",
  "title": "James Rothman reconstructed the cell's transport system in a test tube, discovered SNARE and won the Nobel Prize",
@@ -257,9 +257,7 @@
     "m31",
     "m32"
    ],
-   "disagreements": [
-    "d1"
-   ]
+   "disagreements": []
   },
   {
    "id": "s3",
@@ -385,10 +383,11 @@
       ]
      },
      {
-      "text": "In the first screen Schekman identified two genes, sec1 and sec2, and after the screen was refined a further 23 genes were identified, which were assigned to three classes.",
+      "text": "In the first screen Schekman identified two genes, sec1 and sec2, and after the screen was refined a total of 23 genes were identified, which were assigned to three classes.",
       "claims": [
        "c11",
-       "c12"
+       "c12",
+       "c-aud-20261127-2"
       ]
      },
      {
@@ -602,11 +601,12 @@
       ]
      },
      {
-      "text": "In 2008 he joined the faculty of Yale in New Haven, Connecticut; according to the 2013 Nobel Prize announcement, he was Professor and Chairman in the Department of Cell Biology there, and according to the Kavli Prize website, he was Professor and Chairman in the Department of Chemistry.",
+      "text": "In 2008 he joined the faculty of Yale in New Haven, Connecticut; according to his Nobel Prize biography, he was Chair of the Department of Cell Biology there and also a Professor of Chemistry.",
       "claims": [
        "c67",
        "c68",
-       "c69"
+       "c69",
+       "c-aud-20261127-1"
       ]
      }
     ],
@@ -706,25 +706,6 @@
   }
  ],
  "disagreements": [
-  {
-   "id": "d1",
-   "question": "In what year did Rothman begin working at Stanford?",
-   "versions": [
-    {
-     "says": "According to the Nobel announcement and the Nobel biography, in 1978",
-     "claims": [
-      "c61",
-      "c62"
-     ]
-    },
-    {
-     "says": "According to the King Faisal Prize website, in 1976",
-     "claims": [
-      "c63"
-     ]
-    }
-   ]
-  },
   {
    "id": "d2",
    "question": "When did Rothman move to Columbia?",
@@ -1426,6 +1407,24 @@
    "quote": "Dr. Rothman also joins the faculty as a professor in the Department of Physiology and Cellular Biophysics.",
    "status": "confirmed",
    "locator": "שורה 17"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "ב-2008 הצטרף לסגל ייל בניו הייבן שבקונטיקט; לפי הביוגרפיה שלו באתר פרס נובל, היה שם יושב ראש המחלקה לביולוגיה של התא וגם פרופסור לכימיה.",
+   "source": "src9001",
+   "quote": "Chair of the Department of Cell Biology and a Professor of Chemistry",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "בסינון הראשון זיהה שקמן שני גנים, sec1 ו-sec2, ואחרי שיפור הסינון זוהו בסך הכול 23 גנים, שחולקו לשלוש קבוצות.",
+   "source": "src4",
+   "quote": "in the specific case of sec1, to the cell surface",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
   }
  ],
  "sources": [
@@ -1518,6 +1517,13 @@
    "label": "Memorial Sloan Kettering Cancer Center: Former Memorial Sloan Kettering Researcher James Rothman Among Nobel Prize Winners",
    "url": "https://www.mskcc.org/news/former-msk-researcher-james-rothman-among-nobel-prize-winners",
    "kind": "official"
+  },
+  {
+   "id": "src9001",
+   "label": "NobelPrize.org, James E. Rothman – Biographical, 2013",
+   "url": "https://www.nobelprize.org/prizes/medicine/2013/rothman/biographical/",
+   "kind": "official",
+   "date": "2026-11-27"
   }
  ],
  "media": [

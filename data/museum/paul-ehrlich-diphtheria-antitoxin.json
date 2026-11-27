@@ -1,2096 +1,2103 @@
 {
-  "schema": "maasei-museum/1",
-  "slug": "paul-ehrlich-diphtheria-antitoxin",
-  "deed": "פאול ארליך ונסיוב הנוגדנים נגד דיפתריה",
-  "canonical_type": "scientific-discovery",
-  "year": "1894",
-  "title": "פאול ארליך, בן למשפחה יהודית, מצא דרך למדוד ולתקנן את הנסיוב נגד דיפתריה",
-  "trailer": [
-    {
-      "text": "פאול ארליך היה רופא וחוקר, שעבודתו הובילה לסלברסן, תרופה לעגבת שסימנה את תחילת עידן הכימותרפיה.",
-      "claims": [
-        "c11",
-        "c59"
-      ]
-    },
-    {
-      "text": "פאול ארליך, בן למשפחה יהודית, נולד ב-1854 בשטרלן שבשלזיה, קיבל דוקטורט ברפואה, וב-1908 חלק עם מצ'ניקוב את פרס נובל.",
-      "claims": [
-        "c1",
-        "c3",
-        "c11",
-        "c31"
-      ]
-    },
-    {
-      "text": "אמיל בהרינג עבד בברלין על נסיוב נגד דיפתריה, אבל התוצאות שלו לא היו עקביות.",
-      "claims": [
-        "c17"
-      ]
-    },
-    {
-      "text": "ארליך פיתח דרך למדוד את יעילות הנסיובים, וכך אפשר היה לתקנן את הנסיוב נגד דיפתריה ביחידות הקשורות לתקן קבוע.",
-      "claims": [
-        "c20",
-        "c25"
-      ]
-    },
-    {
-      "text": "ב-1894 דיווח ארליך עם קוסל ווסרמן על 220 ילדים חולי דיפתריה שטופלו באנטי-רעלן, ובאוגוסט אותה שנה החלה חברת הואכסט לשווק את הנסיוב.",
-      "claims": [
-        "c22",
-        "c26"
-      ]
-    },
-    {
-      "text": "לפי בריטניקה, העולם כולו אימץ עד מהרה את שיטת המדידה שלו.",
-      "claims": [
-        "c25"
-      ]
-    }
-  ],
-  "hero_media": [
-    "m15",
-    "m2",
-    "m3",
-    "m4",
-    "m6",
-    "m5",
-    "m7",
-    "m12",
-    "m13",
-    "m14",
-    "m20",
-    "m21",
-    "m22",
-    "m29",
-    "m31",
-    "m33"
-  ],
-  "glance": [
-    {
-      "label": "נולד",
-      "value": "1854, שטרלן שבשלזיה",
-      "claims": [
-        "c1"
-      ]
-    },
-    {
-      "label": "מוצא",
-      "value": "משפחה יהודית",
-      "claims": [
-        "c3"
-      ]
-    },
-    {
-      "label": "המעשה",
-      "value": "מדידה ותקנון של הנסיוב נגד דיפתריה",
-      "claims": [
-        "c20",
-        "c25"
-      ]
-    },
-    {
-      "label": "תפקיד",
-      "value": "מנהל המכון לבקרת נסיובים טיפוליים, מסוף 1896",
-      "claims": [
-        "c24"
-      ]
-    },
-    {
-      "label": "הכרה",
-      "value": "פרס נובל, 1908, יחד עם מצ'ניקוב",
-      "claims": [
-        "c31"
-      ]
-    }
-  ],
-  "stations": [
-    {
-      "id": "s1",
-      "title": "ילד משטרלן",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "פאול ארליך נולד ב-14 במרץ 1854 בשטרלן שבשלזיה, גרמניה.",
-            "claims": [
-              "c1"
-            ]
-          },
-          {
-            "text": "שטרלן הייתה עיירה של כ-5,000 תושבים, והיום היא נמצאת בפולין.",
-            "claims": [
-              "c2"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "הוא נולד למשפחה יהודית בולטת בעסקים ובתעשייה.",
-            "claims": [
-              "c3"
-            ]
-          },
-          {
-            "text": "בן דודו היה הבקטריולוג קארל וייגרט, וּוייגרט היה המנטור שלו.",
-            "claims": [
-              "c4"
-            ]
-          },
-          {
-            "text": "ארליך לא המיר את דתו, אבל היה אדיש למנהגים ולמסורות היהודיים.",
-            "claims": [
-              "c7"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m15",
-        "m18",
-        "m28",
-        "m50"
-      ],
-      "disagreements": [
-        "d1",
-        "d2"
-      ]
-    },
-    {
-      "id": "s2",
-      "title": "צבעים, חיידקים ומעבדה",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "ארליך קיבל דוקטורט ברפואה על עבודה בנושא צביעת רקמות של בעלי חיים.",
-            "claims": [
-              "c11"
-            ]
-          },
-          {
-            "text": "ב-1882 פרסם את שיטתו לצביעת חיידק השחפת שקוך גילה.",
-            "claims": [
-              "c13"
-            ]
-          },
-          {
-            "text": "ב-1888 נדבק ארליך בחיידק השחפת במעבדה, והקריירה המדעית שלו נקטעה.",
-            "claims": [
-              "c14"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "ב-1890 מינה אותו רוברט קוך, מנהל המכון החדש למחלות זיהומיות, לאחד מעוזריו.",
-            "claims": [
-              "c23"
-            ]
-          },
-          {
-            "text": "ב-1892 הוכיח ארליך שנוגדנים עוברים בחלב אם מהאם ליילוד.",
-            "claims": [
-              "c37"
-            ]
-          },
-          {
-            "text": "בניסוי אחר הראה שארנבות שקיבלו רעל במינון שעלה לאט ובמדידה שרדו מנה קטלנית פי 5,000.",
-            "claims": [
-              "c79"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m4",
-        "m19"
-      ],
-      "disagreements": [
-        "d3"
-      ]
-    },
-    {
-      "id": "s3",
-      "title": "הבעיה: נסיוב שאיכותו משתנה",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "אמיל בהרינג עבד עד 1893 במכון למחלות זיהומיות בברלין על נסיוב נגד דיפתריה וטטנוס, אבל התוצאות לא היו עקביות.",
-            "claims": [
-              "c17"
-            ]
-          },
-          {
-            "text": "נסיובים נגד מחלות היו סוג חדש לגמרי של תרופה, והאיכות שלהם השתנתה מאוד.",
-            "claims": [
-              "c16"
-            ]
-          },
-          {
-            "text": "בייצור נסיובי הנוגדנים היו בעיות רציניות של בקרת איכות.",
-            "claims": [
-              "c15"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "כמות האנטי-רעלן הייתה שונה מאוד מנסיוב לנסיוב.",
-            "claims": [
-              "c19"
-            ]
-          },
-          {
-            "text": "לכן היה צריך תקן שיאפשר למדוד אותה במדויק.",
-            "claims": [
-              "c19"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m11",
-        "m41",
-        "m43",
-        "m45",
-        "m48"
-      ],
-      "disagreements": []
-    },
-    {
-      "id": "s4",
-      "title": "המעשה: למדוד, לתקנן, לבדוק",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "לפי בריטניקה, רק טכניקה של ארליך, שהשתמשה בדם של סוסים חיים, איפשרה להכין נסיוב שפועל בצורה מיטבית נגד הרעלן.",
-            "claims": [
-              "c18"
-            ]
-          },
-          {
-            "text": "ארליך בנה תקן לנסיוב נגד דיפתריה של פון בהרינג, ואפשר היה למדוד את הנסיוב ביחידות הקשורות לתקן קבוע.",
-            "claims": [
-              "c20"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "בבדיקת הנסיוב קבע ארליך יעד ברור: חיית הניסוי צריכה למות אחרי ארבעה ימים.",
-            "claims": [
-              "c21"
-            ]
-          },
-          {
-            "text": "אם היא מתה מוקדם יותר, הנסיוב נפסל כחלש מדי.",
-            "claims": [
-              "c21"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "בתחילת 1894 הצליחו הניסויים הקליניים בנסיוב, ובאוגוסט החלה הואכסט לשווק אותו.",
-            "claims": [
-              "c26"
-            ]
-          },
-          {
-            "text": "באותה שנה דיווח ארליך, עם קוסל ווסרמן, על 220 ילדים חולי דיפתריה שטופלו באנטי-רעלן, והדגיש שחשוב לתת מנה מוקדמת ונדיבה.",
-            "claims": [
-              "c22"
-            ]
-          },
-          {
-            "text": "בסוף 1896 הוקם בשטגליץ שבברלין מכון לבקרת נסיובים טיפוליים, וארליך מונה למנהלו.",
-            "claims": [
-              "c24"
-            ]
-          },
-          {
-            "text": "לפי בריטניקה, העולם כולו אימץ עד מהרה את שיטת המדידה שלו לתקנון הנסיוב נגד דיפתריה.",
-            "claims": [
-              "c25"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m3",
-        "m24",
-        "m26",
-        "m59"
-      ],
-      "disagreements": []
-    },
-    {
-      "id": "s5",
-      "title": "פרס נובל, שבע שנים אחרי",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "פרס נובל הראשון ברפואה ניתן ב-1901 על מחקר הדיפתריה, ורק פון בהרינג קיבל אותו.",
-            "claims": [
-              "c29"
-            ]
-          },
-          {
-            "text": "רק שבע שנים מאוחר יותר הכירה האקדמיה השוודית בתרומה של ארליך, שהתאים את הטיפול בנסיוב לשימוש רפואי בפועל.",
-            "claims": [
-              "c30"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "ב-1908 חלק ארליך את פרס נובל עם מצ'ניקוב, על עבודתם בתחום החסינות.",
-            "claims": [
-              "c31",
-              "c32"
-            ]
-          },
-          {
-            "text": "לפי בריטניקה, תורת שרשראות הצד של ארליך תיארה איך נוצרים נוגדנים ואיך הם מגיבים עם חומרים אחרים.",
-            "claims": [
-              "c35"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "עוד לפני כן, ב-1903, קיבל ארליך את מדליית הזהב הגדולה הפרוסית למדע, שלפניו ניתנה רק לרודולף וירכוב.",
-            "claims": [
-              "c69"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m2",
-        "m8",
-        "m10",
-        "m15",
-        "m27",
-        "m49",
-        "m56"
-      ],
-      "disagreements": [
-        "d6"
-      ]
-    },
-    {
-      "id": "s6",
-      "title": "מהנסיוב אל \"כדור הקסם\"",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "ארליך ידע שלטיפול בנסיוב יש גבולות: מחלות זיהומיות רבות, בעיקר אלה שגורמות פרוטוזואה, לא הגיבו לו.",
-            "claims": [
-              "c38"
-            ]
-          },
-          {
-            "text": "ב-1899 נפתח המכון המלכותי הפרוסי לתרפיה ניסיונית, וארליך ניהל אותו עד מותו.",
-            "claims": [
-              "c39"
-            ]
-          },
-          {
-            "text": "ב-1906 הוקם בית גיאורג שפייר, מכון מחקר לכימותרפיה, מתרומה של פראנציסקה שפייר לזכר בעלה.",
-            "claims": [
-              "c40"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "ב-1907 סינתזו ארליך ובֶּרטהיים ובדקו כמה מאות תרכובות שנגזרו מאטוקסיל.",
-            "claims": [
-              "c43"
-            ]
-          },
-          {
-            "text": "תרכובת מספר 606 נדחתה באותה שנה כבלתי יעילה.",
-            "claims": [
-              "c44"
-            ]
-          },
-          {
-            "text": "האטה בדק את התרופה שנדחתה ומצא שהיא יעילה מאוד.",
-            "claims": [
-              "c48"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "ב-19 באפריל 1910 דיווחו ארליך והאטה בוויסבאדן על גילוי הארספנמין.",
-            "claims": [
-              "c49"
-            ]
-          },
-          {
-            "text": "נראה היה שנמצא \"כדור הקסם\", ביטוי שארליך אהב.",
-            "claims": [
-              "c77"
-            ]
-          },
-          {
-            "text": "סלברסן היה הטיפול היעיל הראשון בעגבת, וסימן את תחילת עידן הכימותרפיה.",
-            "claims": [
-              "c59"
-            ]
-          },
-          {
-            "text": "הוא נשאר התרופה היעילה ביותר לעגבת עד שהפניצילין הגיע בשנות ה-40.",
-            "claims": [
-              "c57"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m6",
-        "m7",
-        "m42"
-      ],
-      "disagreements": [
-        "d4",
-        "d5"
-      ]
-    },
-    {
-      "id": "s7",
-      "title": "הוקרה ופרידה",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "חיים ויצמן, נשיאה הראשון של ישראל, שכנע את ארליך לכהן בוועדת האוניברסיטה.",
-            "claims": [
-              "c10"
-            ]
-          },
-          {
-            "text": "ארליך הוריש כסף למכון נורדאו, שקדם לאוניברסיטה העברית.",
-            "claims": [
-              "c10"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "ארליך מת באוגוסט 1915.",
-            "claims": [
-              "c75",
-              "c76"
-            ]
-          },
-          {
-            "text": "בהספד כתב הטיימס הלונדוני שארליך פתח דלתות חדשות אל הלא נודע, ושהעולם כולו חייב לו.",
-            "claims": [
-              "c72"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m5",
-        "m34",
-        "m36",
-        "m51"
-      ],
-      "disagreements": [
-        "d7"
-      ]
-    },
-    {
-      "id": "s8",
-      "title": "קרדיט, רווחים ושנאה",
-      "kind": "hard",
-      "paragraphs": [
-        [
-          {
-            "text": "לפי אנציקלופדיה.קום, בהרינג התגבר על קשיי הייצור של האנטי-רעלן בעזרת ארליך, והשיג לעצמו חוזה משתלם.",
-            "claims": [
-              "c27"
-            ]
-          },
-          {
-            "text": "בסוף נאלץ ארליך להסכים לשמונה אחוזים בלבד מהרווחים.",
-            "claims": [
-              "c28"
-            ]
-          },
-          {
-            "text": "לפי ביוגרפיה שמצטט הפורוורד, הפרס של ארליך התעכב כי ארהניוס, מדען שוודי בוועדה, נרגז מה\"אווירה היהודית הבולטת\" במכון.",
-            "claims": [
-              "c34"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "ב-1901 פתח מקס פון גרובר ויכוח של שנתיים נגד תורת שרשראות הצד, והוויכוח הפך עד מהרה למעליב.",
-            "claims": [
-              "c36"
-            ]
-          },
-          {
-            "text": "אחרי סלברסן האשימו אותו קנאים ופרשנים סנסציוניים בשרלטנות, ברדיפת רווחים ובניסויים חסרי רחמים.",
-            "claims": [
-              "c62"
-            ]
-          },
-          {
-            "text": "ההאשמות בהתעשרות מופרזת נשמעו בנימות אנטישמיות ברורות.",
-            "claims": [
-              "c65"
-            ]
-          },
-          {
-            "text": "במרץ 1914 תמך הרייכסטאג בסלברסן.",
-            "claims": [
-              "c63"
-            ]
-          },
-          {
-            "text": "המכפיש הגרוע ביותר מבין מתנגדיו נידון למאסר.",
-            "claims": [
-              "c64"
-            ]
-          },
-          {
-            "text": "פאול אוהלנהוט, מקורב של ארליך, טען שהוא גילה את התרופה ראשון.",
-            "claims": [
-              "c68"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "בפרנקפורט הוסר שם רחוב פאול ארליך משום שארליך היה יהודי.",
-            "claims": [
-              "c8",
-              "c9"
-            ]
-          },
-          {
-            "text": "בתקופת הרייך השלישי הוזנחו הישגיו, ופון בהרינג הוצג כמדען הארי האידיאלי.",
-            "claims": [
-              "c73"
-            ]
-          },
-          {
-            "text": "הממשל הנאצי התנגד לסרט על ארליך מ-1940.",
-            "claims": [
-              "c74"
-            ]
-          },
-          {
-            "text": "זמן קצר אחרי המלחמה הוחזר השם פאול-ארליך-שטראסה, וערים גרמניות רבות קראו רחובות על שמו.",
-            "claims": [
-              "c78"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m9",
-        "m47",
-        "m53",
-        "m55",
-        "m57"
-      ],
-      "disagreements": []
-    }
-  ],
-  "disagreements": [
-    {
-      "id": "d1",
-      "question": "באיזה חלק של שלזיה נולד ארליך?",
-      "versions": [
-        {
-          "says": "לפי מכון נובל, פאול ארליך נולד ב-14 במרץ 1854 בשטרלן שבשלזיה, גרמניה.",
-          "claims": [
-            "c1"
-          ]
-        },
-        {
-          "says": "לפי JewishGen, שטרלן נמצאת בשלזיה התחתית",
-          "claims": [
-            "c2"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d2",
-      "question": "איזה ילד במשפחה היה ארליך?",
-      "versions": [
-        {
-          "says": "לפי אנציקלופדיה.קום, הבן היחיד והילד הרביעי",
-          "claims": [
-            "c5"
-          ]
-        },
-        {
-          "says": "לפי JewishGen, הילד השני של איסמר ורוזה ארליך",
-          "claims": [
-            "c6"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d3",
-      "question": "באיזו שנה קיבל ארליך את הדוקטורט?",
-      "versions": [
-        {
-          "says": "לפי מכון נובל, ב-1878",
-          "claims": [
-            "c11"
-          ]
-        },
-        {
-          "says": "לפי JewishGen, לאחר שקיבל את הדוקטורט עבד ארליך בשריטה בברלין כעוזר מנהל רפואי תחת תאודור פרריכס.",
-          "claims": [
-            "c12"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d4",
-      "question": "מי חילק 65,000 מנות חינם של סלברסן?",
-      "versions": [
-        {
-          "says": "לפי המאמר בפרמקולוגיה, מכונו של ארליך, לניסויים קליניים",
-          "claims": [
-            "c50"
-          ]
-        },
-        {
-          "says": "לפי בריטניקה, היצרן פארבוורקה-הואכסט, לרופאים ברחבי העולם",
-          "claims": [
-            "c51"
-          ]
-        },
-        {
-          "says": "לפי אנציקלופדיה.קום, בית גיאורג שפייר, עד סוף השנה",
-          "claims": [
-            "c52"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d5",
-      "question": "מתי נכנס הניאוסלברסן לשימוש?",
-      "versions": [
-        {
-          "says": "לפי JewishGen, ב-1911",
-          "claims": [
-            "c60"
-          ]
-        },
-        {
-          "says": "לפי אנציקלופדיה.קום, ב-1912",
-          "claims": [
-            "c61"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d6",
-      "question": "כמה תארי דוקטור לכבוד קיבל ארליך?",
-      "versions": [
-        {
-          "says": "לפי המאמר בפרמקולוגיה, עשרה",
-          "claims": [
-            "c70"
-          ]
-        },
-        {
-          "says": "לפי אנציקלופדיה.קום, חמישה, ולצדם שנים עשר אותות הוקרה",
-          "claims": [
-            "c71"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d7",
-      "question": "ממה מת ארליך, ומתי החל המצב האחרון?",
-      "versions": [
-        {
-          "says": "לפי מכון נובל, שבץ שני ב-20 באוגוסט 1915",
-          "claims": [
-            "c75"
-          ]
-        },
-        {
-          "says": "לפי JewishGen, התקף לב ב-17 באוגוסט 1915, ומוות ב-20 באוגוסט",
-          "claims": [
-            "c76"
-          ]
-        }
-      ]
-    }
-  ],
-  "unknowns": [
-    {
-      "text": "המקורות מספרים על 220 ילדים שטופלו באנטי-רעלן, אבל לא כמה מהם החלימו",
-      "claims": [
-        "c22"
-      ]
-    }
-  ],
-  "claims": [
-    {
-      "id": "c1",
-      "text": "פאול ארליך נולד ב-14 במרץ 1854 בשטרלן שבשלזיה, גרמניה (המקור מציין שלזיה עילית).",
-      "source": "src1",
-      "quote": "Paul Ehrlich was born on March 14, 1854 at Strehlen, in Upper Silesia*, Germany.",
-      "status": "confirmed",
-      "locator": "שורה 1"
-    },
-    {
-      "id": "c3",
-      "text": "ארליך נולד למשפחה יהודית בולטת בעסקים ובתעשייה.",
-      "source": "src2",
-      "quote": "Ehrlich was born into a Jewish family prominent in business and industry.",
-      "status": "confirmed",
-      "locator": "שורה 64"
-    },
-    {
-      "id": "c11",
-      "text": "ב-1878 קיבל ארליך דוקטורט ברפואה על עבודה בנושא התאוריה והפרקטיקה של צביעת רקמות בעלי חיים.",
-      "source": "src1",
-      "quote": "In 1878 he obtained his doctorate of medicine by means of a dissertation on the theory and practice of staining animal tissues.",
-      "status": "confirmed",
-      "locator": "שורה 2"
-    },
-    {
-      "id": "c31",
-      "text": "ב-1908 חלק ארליך עם מצ'ניקוב את פרס נובל.",
-      "source": "src1",
-      "quote": "In 1908 he shared with Metchnikoff the highest scientific distinction, the Nobel Prize.",
-      "status": "confirmed",
-      "locator": "שורה 15"
-    },
-    {
-      "id": "c17",
-      "text": "אמיל בהרינג עבד במכון למחלות זיהומיות בברלין עד 1893 על נסיוב נגד דיפתריה וטטנוס, אך התוצאות לא היו עקביות.",
-      "source": "src3",
-      "quote": "Emil Behring had worked at the Berlin Institute of Infectious Diseases until 1893 on developing an antiserum for treating diphtheria and tetanus but with inconsistent results.",
-      "status": "confirmed",
-      "locator": "שורה 50"
-    },
-    {
-      "id": "c20",
-      "text": "ארליך עשה זאת עם הנסיוב נגד דיפתריה של פון בהרינג, ואפשר לתקנן אותו ביחידות הקשורות לתקן קבוע.",
-      "source": "src1",
-      "quote": "This he accomplished with von Behring‘s antidiphtheritic serum and thus made it possible to standardize this serum in units related to a fixed and invariable standard.",
-      "status": "confirmed",
-      "locator": "שורה 7"
-    },
-    {
-      "id": "c25",
-      "text": "לפי בריטניקה, ארליך פיתח דרך למדוד את יעילות הנסיובים, ועד מהרה אימץ אותה העולם כולו לתקנון הנסיוב נגד דיפתריה.",
-      "source": "src2",
-      "quote": "Ehrlich developed a way of measuring the effectiveness of serums that was soon adopted all over the world for the standardization of diphtheria serum.",
-      "status": "confirmed",
-      "locator": "שורה 70"
-    },
-    {
-      "id": "c22",
-      "text": "ב-1894 דיווח ארליך, עם קוסל ווסרמן, על 220 ילדים חולי דיפתריה שטופלו באנטי-רעלן, והדגיש את חשיבות מינון מוקדם ונדיב.",
-      "source": "src4",
-      "quote": "In 1894 he reported, with H. Kossel and A. von Wassermann, on 220 unselected diphtheritic children treated with antitoxin, stressing the importance of early, liberal dosages.",
-      "status": "confirmed",
-      "locator": "שורה 19"
-    },
-    {
-      "id": "c26",
-      "text": "בניסויים קליניים בנסיוב נגד דיפתריה בתחילת 1894 הושגה הצלחה, ובאוגוסט החלה חברת הואכסט לשווק אותו.",
-      "source": "src3",
-      "quote": "Clinical tests with diphtheria serum early in 1894 were successful and in August the chemical company Hoechst started to market",
-      "status": "confirmed",
-      "locator": "שורה 50"
-    },
-    {
-      "id": "c24",
-      "text": "בסוף 1896 הוקם בשטגליץ שבברלין מכון לבקרת נסיובים טיפוליים, וארליך מונה למנהלו.",
-      "source": "src1",
-      "quote": "At the end of 1896 an Institute for the control of therapeutic sera was established at Steglitz in Berlin and Ehrlich was appointed its Director.",
-      "status": "confirmed",
-      "locator": "שורה 7"
-    },
-    {
-      "id": "c2",
-      "text": "שטרלן, עיירה בת כ-5,000 תושבים במחוז שלזיה התחתית, נמצאת היום בפולין.",
-      "source": "src3",
-      "quote": "in Strehelen, a town of some 5,000 inhabitants in the province of Lower Silesia, now in Poland",
-      "status": "confirmed",
-      "locator": "שורה 21"
-    },
-    {
-      "id": "c4",
-      "text": "ארליך היה ממוצא הורים יהודים, ובן דודו היה הבקטריולוג קארל וייגרט, ששימש לו מנטור.",
-      "source": "src5",
-      "quote": "Of Jewish parentage, he was a cousin of the renowned bacteriologist Carl Weigert (1845–1904), who played an important role as his mentor.",
-      "status": "confirmed",
-      "locator": "שורה 16"
-    },
-    {
-      "id": "c7",
-      "text": "ארליך לא המיר את דתו, אך היה אדיש למנהגים ולמסורות יהודיים.",
-      "source": "src3",
-      "quote": "Paul Ehrlich did not convert away from Judaism, but was rather indifferent to Jewish customs and traditions.",
-      "status": "confirmed",
-      "locator": "שורה 21"
-    },
-    {
-      "id": "c13",
-      "text": "ב-1882 פרסם ארליך את שיטתו לצביעת חיידק השחפת שקוך גילה.",
-      "source": "src1",
-      "quote": "In 1882 Ehrlich published his method of staining the tubercle bacillus that Koch had discovered",
-      "status": "confirmed",
-      "locator": "שורה 4"
-    },
-    {
-      "id": "c14",
-      "text": "ב-1888 הידבק ארליך בחיידק השחפת בעבודתו במעבדה, ולכן הופרעה הקריירה המדעית שלו.",
-      "source": "src5",
-      "quote": "his scientific career was disrupted in 1888 when Ehrlich was infected by the Koch bacillus, contracted in the course of his laboratory work",
-      "status": "confirmed",
-      "locator": "שורה 35"
-    },
-    {
-      "id": "c23",
-      "text": "ב-1890 מינה רוברט קוך, מנהל המכון החדש למחלות זיהומיות, את ארליך לאחד מעוזריו.",
-      "source": "src1",
-      "quote": "In 1890 Robert Koch, Director of the newly established Institute for Infectious Diseases, appointed Ehrlich as one of his assistants",
-      "status": "confirmed",
-      "locator": "שורה 6"
-    },
-    {
-      "id": "c37",
-      "text": "ארליך הוכיח ב-1892 שנוגדנים עוברים בחלב אם מאם ליילוד.",
-      "source": "src2",
-      "quote": "He also demonstrated, in 1892, that antibodies are passed in breast milk from mother to newborn.",
-      "status": "confirmed",
-      "locator": "שורה 70"
-    },
-    {
-      "id": "c79",
-      "text": "ארליך הראה בניסוי שארנבות שקיבלו רעל בעלייה איטית ומדודה שרדו מינון קטלני פי 5,000.",
-      "source": "src2",
-      "quote": "Ehrlich was able to show experimentally that rabbits subjected to a slow and measured increase of toxic matter were able to survive 5,000 times the fatal dose.",
-      "status": "confirmed",
-      "locator": "שורה 70"
-    },
-    {
-      "id": "c16",
-      "text": "נסיובים נגד מחלות היו סוג חדש לגמרי של תרופה שאיכותו השתנתה מאוד, ולכן הוקמה מערכת ממשלתית שתבטיח את בטיחותם ויעילותם.",
-      "source": "src3",
-      "quote": "Since antiserums were an entirely new type of medicine whose quality was highly variable, a government system was established to guarantee their safety and effectiveness.",
-      "status": "confirmed",
-      "locator": "שורה 52"
-    },
-    {
-      "id": "c15",
-      "text": "בייצור נסיובי הנוגדנים היו בעיות משמעותיות של בקרת איכות.",
-      "source": "src5",
-      "quote": "However, there were considerable problems with quality control during the production of these sera.",
-      "status": "confirmed",
-      "locator": "שורה 37"
-    },
-    {
-      "id": "c19",
-      "text": "בשל השונות הרבה בתכולת האנטי-רעלן בנסיובים, היה צורך בתקן שיאפשר למדוד אותה במדויק.",
-      "source": "src1",
-      "quote": "the content of antitoxin in antitoxic sera varied so much for various reasons that it was necessary to establish a standard by which their antitoxin content could be exactly measured",
-      "status": "confirmed",
-      "locator": "שורה 7"
-    },
-    {
-      "id": "c18",
-      "text": "לפי בריטניקה, רק בעזרת טכניקת ארליך של שימוש בדם סוסים חיים התאפשר להכין נסיוב בעל יעילות אנטי-רעלנית אופטימלית.",
-      "source": "src2",
-      "quote": "it was only by adopting Ehrlich’s technique of using the blood of live horses that the preparation of a serum of optimum antitoxic effectiveness became possible",
-      "status": "confirmed",
-      "locator": "שורה 70"
-    },
-    {
-      "id": "c21",
-      "text": "בבדיקת הנסיוב קבע ארליך יעד חד-משמעי: מות חיית הניסוי אחרי ארבעה ימים; אם מתה מוקדם יותר, הנסיוב נפסל כחלש מדי.",
-      "source": "src3",
-      "quote": "The mixture was to be such that the test animal would die after four days. If it died earlier, the serum was too weak and was rejected.",
-      "status": "confirmed",
-      "locator": "שורה 53"
-    },
-    {
-      "id": "c29",
-      "text": "רק פון בהרינג קיבל את פרס נובל הראשון ברפואה, ב-1901, על תרומתו למחקר הדיפתריה.",
-      "source": "src3",
-      "quote": "Only von Behring received the first Nobel Prize in Medicine, in 1901, for contributions to research on diphtheria.[6]",
-      "status": "confirmed",
-      "locator": "שורה 50"
-    },
-    {
-      "id": "c30",
-      "text": "רק שבע שנים מאוחר יותר הכירה האקדמיה השוודית בתרומת ארליך להתאמת הטיפול הנסיובי ליישום רפואי בפועל.",
-      "source": "src5",
-      "quote": "it was not until 7 years later when the Swedish academy recognized Ehrlich's contribution in adapting this therapy to actual medical application",
-      "status": "confirmed",
-      "locator": "שורה 38"
-    },
-    {
-      "id": "c32",
-      "text": "נימוק הפרס היה הכרה בעבודתם על חסינות.",
-      "source": "src6",
-      "quote": "Prize motivation: “in recognition of their work on immunity”",
-      "status": "confirmed",
-      "locator": "שורה 6"
-    },
-    {
-      "id": "c35",
-      "text": "לפי בריטניקה, תורת שרשראות הצד של ארליך תיארה כיצד נוצרים נוגדנים וכיצד הם מגיבים עם חומרים אחרים.",
-      "source": "src2",
-      "quote": "His side-chain theory described how antibodies are formed and react with other substances.",
-      "status": "confirmed",
-      "locator": "שורה 37"
-    },
-    {
-      "id": "c69",
-      "text": "ארליך קיבל את מדליית הזהב הגדולה הפרוסית למדע ב-1903, שניתנה לפניו רק לרודולף וירכוב.",
-      "source": "src5",
-      "quote": "Ehrlich's work was recognized with ten honorary doctorates and the Prussian Great Gold Medal for Science(1903), awarded previously only to Rudolf Virchow.",
-      "status": "confirmed",
-      "locator": "שורה 61"
-    },
-    {
-      "id": "c38",
-      "text": "ארליך הבין את מגבלות הטיפול הנסיובי: הרבה הפרעות זיהומיות, בעיקר אלה שנגרמו מפרוטוזואה, לא הגיבו אליו.",
-      "source": "src2",
-      "quote": "Many infectious disorders, in particular those caused by protozoa rather than bacteria, failed to respond to serum treatment.",
-      "status": "confirmed",
-      "locator": "שורה 73"
-    },
-    {
-      "id": "c39",
-      "text": "המכון המלכותי הפרוסי לתרפיה ניסיונית נפתח ב-1899, וארליך ניהל אותו עד מותו.",
-      "source": "src4",
-      "quote": "Opened in 1899, the Royal Prussian Institute for Experimental Therapy was directed by Ehrlich until his death sixteen years later.",
-      "status": "confirmed",
-      "locator": "שורה 23"
-    },
-    {
-      "id": "c40",
-      "text": "ב-1906 הוקם בית גיאורג שפייר, מכון מחקר לכימותרפיה, בנדבת פראנציסקה שפייר לזכר בעלה.",
-      "source": "src4",
-      "quote": "In 1906 the adjacent Research Institute for Chemotherapy (designated the Georg-Speyer-Haus) was erected and endowed by Franziska Speyer in memory of her late husband.",
-      "status": "confirmed",
-      "locator": "שורה 24"
-    },
-    {
-      "id": "c43",
-      "text": "ב-1907 סינתזו ארליך ובֶּרטהיים ובדקו כמה מאות תרכובות נגזרות של אטוקסיל.",
-      "source": "src4",
-      "quote": "he and Bertheim synthesized and tested several hundred derivative compounds",
-      "status": "confirmed",
-      "locator": "שורה 31"
-    },
-    {
-      "id": "c44",
-      "text": "תרכובת 606 מסדרת הארסניקלים נדחתה ב-1907 כבלתי יעילה.",
-      "source": "src1",
-      "quote": "Among the arsenical drugs already tested for other purposes was one, the 606th of the series tested, which had been set aside in 1907 as being ineffective.",
-      "status": "confirmed",
-      "locator": "שורה 10"
-    },
-    {
-      "id": "c48",
-      "text": "האטה בדק את התרופה שנדחתה ומצא שהיא יעילה מאוד.",
-      "source": "src1",
-      "quote": "Hata did so and found that it was very effective.",
-      "status": "confirmed",
-      "locator": "שורה 10"
-    },
-    {
-      "id": "c49",
-      "text": "ב-19 באפריל 1910, בקונגרס לרפואה פנימית בוויסבאדן, דיווחו ארליך והאטה על גילוי הארספנמין ועל תוצאותיהם המעודדות.",
-      "source": "src5",
-      "quote": "On 19 April 1910, at the Congress for Internal Medicine at Wiesbaden, Ehrlich and Hata reported the discovery of arsphenamine",
-      "status": "confirmed",
-      "locator": "שורה 53"
-    },
-    {
-      "id": "c77",
-      "text": "נראה היה שנמצא \"כדור הקסם\", ביטוי אהוב על ארליך.",
-      "source": "src2",
-      "quote": "It seemed as if a “magic bullet,” to use a favourite expression of Ehrlich’s, had been found.",
-      "status": "confirmed",
-      "locator": "שורה 76"
-    },
-    {
-      "id": "c59",
-      "text": "עבודתו של ארליך הובילה לסלברסן, הטיפול היעיל הראשון בעגבת, שסימן את תחילת עידן הכימותרפיה.",
-      "source": "src2",
-      "quote": "Ehrlich's work led to Salvarsan, the first effective syphilis treatment, marking the beginning of the chemotherapeutic era and revolutionizing infectious disease control before antibiotics.",
-      "status": "confirmed",
-      "locator": "שורה 56"
-    },
-    {
-      "id": "c57",
-      "text": "סלברסן היה התרופה היעילה ביותר לעגבת עד שהפניצילין הפך לזמין בשנות ה-40.",
-      "source": "src3",
-      "quote": "It was the most effective drug for treating syphilis until penicillin became available in the 1940s",
-      "status": "confirmed",
-      "locator": "שורה 73"
-    },
-    {
-      "id": "c10",
-      "text": "חיים ויצמן, נשיאה הראשון של ישראל, שכנע את ארליך לכהן בוועדת האוניברסיטה, וארליך הוריש כסף למכון נורדאו, מבשר האוניברסיטה העברית.",
-      "source": "src7",
-      "quote": "Weizmann, a noted chemist as well as Israel’s first President, convinced Ehrlich to serve on the University Committee, and when Ehrlich died in 1915, he bequeathed money to The Nordau Institute, a forerunner of The Hebrew University.",
-      "status": "confirmed",
-      "locator": "שורה 7"
-    },
-    {
-      "id": "c75",
-      "text": "לפי מכון נובל, שבץ שני שסיים את חייו פקד את ארליך ב-20 באוגוסט 1915.",
-      "source": "src1",
-      "quote": "he had, on August 20 of that year, a second stroke which ended his life",
-      "status": "confirmed",
-      "locator": "שורה 18"
-    },
-    {
-      "id": "c76",
-      "text": "לפי JewishGen, ארליך לקה ב-17 באוגוסט 1915 בהתקף לב ומת ב-20 באוגוסט.",
-      "source": "src3",
-      "quote": "On 17 August 1915 Ehrlich suffered a heart attack and died on 20 August.",
-      "status": "confirmed",
-      "locator": "שורה 29"
-    },
-    {
-      "id": "c72",
-      "text": "בהספד שלו ציין הטיימס הלונדוני את הישגו של ארליך בפתיחת דלתות חדשות אל הלא נודע ואמר כי העולם כולו חייב לו.",
-      "source": "src2",
-      "quote": "In its obituary the London Times acknowledged Ehrlich’s achievement in opening new doors into the unknown, saying, “The whole world is in his debt.”",
-      "status": "confirmed",
-      "locator": "שורה 78"
-    },
-    {
-      "id": "c27",
-      "text": "לפי אנציקלופדיה.קום, בהרינג התגבר על קשיי ייצור האנטי-רעלן בכך שניצל את עזרת ארליך, והשיג לעצמו חוזה משתלם.",
-      "source": "src4",
-      "quote": "Meanwhile, Behring had overcome serious difficulties in diphtheria antitoxin production by exploiting Ehrlich’s assistance, procuring for himself a remunerative contract for supervising commercial manufacture of antitoxin.",
-      "status": "confirmed",
-      "locator": "שורה 19"
-    },
-    {
-      "id": "c28",
-      "text": "ארליך נאלץ בסופו של דבר להסכים לחלק של שמונה אחוזים בלבד מהרווחים.",
-      "source": "src3",
-      "quote": "Their contract was changed several times and finally Ehrlich was eventually pressured into accepting a profit share of only eight percent.",
-      "status": "confirmed",
-      "locator": "שורה 50"
-    },
-    {
-      "id": "c34",
-      "text": "לפי ביוגרפיה שמצטט הפורוורד, פרס נובל של ארליך התעכב משום שארהניוס, מדען שוודי בוועדה, נרגז מה\"אווירה היהודית הבולטת\" במכון.",
-      "source": "src7",
-      "quote": "Ehrlich’s Nobel Prize was delayed because Svante Arrhenius, a powerful Swedish scientist on the Nobel committee, was irked by the “markedly Jewish atmosphere” of Ehrlich’s Institute.",
-      "status": "confirmed",
-      "locator": "שורה 5"
-    },
-    {
-      "id": "c36",
-      "text": "ב-1901 פתח מקס פון גרובר פולמוס בן שנתיים נגד תורת שרשראות הצד, שהפך עד מהרה למעליב.",
-      "source": "src4",
-      "quote": "In 1901 Max von Gruber launched a twoyear polemic, which became inexcusably insulting, against the side-chain theory.",
-      "status": "confirmed",
-      "locator": "שורה 28"
-    },
-    {
-      "id": "c62",
-      "text": "קנאים ופרשנים סנסציוניים האשימו את ארליך בשרלטנות, ברדיפת רווחים ובניסויים חסרי רחמים.",
-      "source": "src4",
-      "quote": "Fanatic sensationalists accused him of charlatanism, profiteering, and ruthless experimentalism.",
-      "status": "confirmed",
-      "locator": "שורה 37"
-    },
-    {
-      "id": "c65",
-      "text": "ארליך הואשם, בנימות אנטישמיות ברורות, בהתעשרות מופרזת.",
-      "source": "src3",
-      "quote": "Ehrlich was also accused, with clearly anti-Semitic undertones, of excessively enriching himself.",
-      "status": "confirmed",
-      "locator": "שורה 74"
-    },
-    {
-      "id": "c63",
-      "text": "במרץ 1914 תמך הרייכסטאג בסלברסן וקבע שהוא העשרה ערכית מאוד של התרופות נגד עגבת.",
-      "source": "src4",
-      "quote": "until in March 1914 the Reichstag, forced to debate the merits of Salvarsan, endorsed it as “a very valuable enrichment of the remedies against syphilis.”",
-      "status": "confirmed",
-      "locator": "שורה 37"
-    },
-    {
-      "id": "c64",
-      "text": "המכפיש הגרוע ביותר מבין מתנגדיו של ארליך נידון למאסר.",
-      "source": "src2",
-      "quote": "The most libelous among them was given a jail sentence.",
-      "status": "confirmed",
-      "locator": "שורה 77"
-    },
-    {
-      "id": "c68",
-      "text": "פאול אוהלנהוט, מקורבו של ארליך, טען לבכורה בגילוי התרופה.",
-      "source": "src3",
-      "quote": "In addition, Ehrlich's associate, Paul Uhlenhuth claimed priority in discovering the drug.",
-      "status": "confirmed",
-      "locator": "שורה 74"
-    },
-    {
-      "id": "c8",
-      "text": "בפרנקפורט הוסר שמו של רחוב פאול ארליך כשהחלו רדיפות היהודים, משום שארליך היה יהודי.",
-      "source": "src1",
-      "quote": "later, when the Jewish persecution began, this name was removed because Ehrlich was a Jew.",
-      "status": "confirmed",
-      "locator": "שורה 13"
-    },
-    {
-      "id": "c9",
-      "text": "עד 1940 שינו הנאצים את שם הרחוב בפרנקפורט שבו שכן מכונו של ארליך, משום שהיה יהודי.",
-      "source": "src7",
-      "quote": "By 1940, the Frankfurt street in which Ehrlich’s Institute had been located, previously Paul Ehrlichstrasse, had been renamed by the Nazis because Ehrlich was Jewish.",
-      "status": "confirmed",
-      "locator": "שורה 4"
-    },
-    {
-      "id": "c73",
-      "text": "בתקופת הרייך השלישי הוזנחו הישגי ארליך, ואילו פון בהרינג הוצג כמדען הארי האידיאלי.",
-      "source": "src3",
-      "quote": "During the Third Reich, Ehrlich's achievements were ignored while Emil Adolf von Behring was stylized as the ideal Aryan scientist",
-      "status": "confirmed",
-      "locator": "שורה 79"
-    },
-    {
-      "id": "c74",
-      "text": "הממשל הנאצי התנגד להוקרה למדען יהודי בסרט על ארליך מ-1940, ונעשו ניסיונות להסתיר את הסרט בגרמניה.",
-      "source": "src3",
-      "quote": "Since the Nazi government was opposed to this tribute to a Jewish scientist, attempts were made to keep the film a secret in Germany.",
-      "status": "confirmed",
-      "locator": "שורה 85"
-    },
-    {
-      "id": "c78",
-      "text": "זמן קצר לאחר המלחמה הוחזר השם פאול-ארליך-שטראסה, וערים גרמניות רבות קראו רחובות על שמו.",
-      "source": "src3",
-      "quote": "Shortly after the end of the war the name Paul-Ehrlich-Strasse was reinstated and today numerous German cities have streets named after Paul Ehrlich.",
-      "status": "confirmed",
-      "locator": "שורה 79"
-    },
-    {
-      "id": "c5",
-      "text": "לפי אנציקלופדיה.קום, ארליך היה הבן היחיד והילד הרביעי של אב יהודי שהיה מזקק, בעל פונדק ואוסף הגרלות.",
-      "source": "src4",
-      "quote": "He was the only son and fourth child of Ismar Ehrlich, a respected but somewhat eccentric Jewish distiller, innkeeper, and lottery collector",
-      "status": "confirmed",
-      "locator": "שורה 9"
-    },
-    {
-      "id": "c6",
-      "text": "לפי ויקיפדיה (באתר JewishGen), ארליך היה הילד השני של איסמר ורוזה ארליך.",
-      "source": "src3",
-      "quote": "Paul Ehrlich was the second child of Ismar and Rosa Ehrlich.",
-      "status": "confirmed",
-      "locator": "שורה 21"
-    },
-    {
-      "id": "c12",
-      "text": "לפי JewishGen, ארליך קיבל את הדוקטורט ב-1882 ואחר כך עבד בשריטה בברלין.",
-      "source": "src3",
-      "quote": "After obtaining his doctorate in 1882, he worked at the Charité in Berlin as an assistant medical director under Theodor Frerichs",
-      "status": "confirmed",
-      "locator": "שורה 22"
-    },
-    {
-      "id": "c50",
-      "text": "לפי המאמר בפרמקולוגיה, מכונו של ארליך סיפק 65,000 דגימות חינם לניסויים קליניים נוספים.",
-      "source": "src5",
-      "quote": "Their announcement at this congress led to a large number of requests, which Ehrlich's institute fulfilled by dispensing 65,000 free samples so that further clinical trials could be done.",
-      "status": "confirmed",
-      "locator": "שורה 53"
-    },
-    {
-      "id": "c51",
-      "text": "לפי בריטניקה, היצרן פארבוורקה-הואכסט הפיץ 65,000 יחידות חינם לרופאים ברחבי העולם.",
-      "source": "src2",
-      "quote": "the manufacturer with whom Ehrlich had collaborated closely, Farbwerke-Hoechst, released a total of 65,000 units gratis to physicians all over the globe",
-      "status": "confirmed",
-      "locator": "שורה 77"
-    },
-    {
-      "id": "c52",
-      "text": "לפי אנציקלופדיה.קום, בית גיאורג שפייר סיפק עד סוף השנה כ-65,000 מנות חינם.",
-      "source": "src4",
-      "quote": "By the year’s end, when the full resources of the Georg-Speyer-Haus had provided about 65,000 doses gratis",
-      "status": "confirmed",
-      "locator": "שורה 35"
-    },
-    {
-      "id": "c60",
-      "text": "לפי JewishGen, סלברסן הוחלף בניאוסלברסן ב-1911.",
-      "source": "src3",
-      "quote": "Salvarsan required improvement as to side effects and solubility and was replaced in 1911 with Neosalvarsan.",
-      "status": "confirmed",
-      "locator": "שורה 73"
-    },
-    {
-      "id": "c61",
-      "text": "לפי אנציקלופדיה.קום, ניאוסלברסן הוכנס לשימוש קליני ב-1912.",
-      "source": "src4",
-      "quote": "It was introduced for clinical use in 1912 as Neosalvarsan.",
-      "status": "confirmed",
-      "locator": "שורה 36"
-    },
-    {
-      "id": "c70",
-      "text": "לפי המאמר בפרמקולוגיה, עבודתו של ארליך זכתה להכרה בעשרה תארי דוקטור לכבוד.",
-      "source": "src5",
-      "quote": "Ehrlich's work was recognized with ten honorary doctorates and the Prussian Great Gold Medal for Science(1903), awarded previously only to Rudolf Virchow.",
-      "status": "confirmed",
-      "locator": "שורה 61"
-    },
-    {
-      "id": "c71",
-      "text": "לפי אנציקלופדיה.קום, הוענקו לארליך שנים עשר אותות הוקרה וחמישה תארי דוקטור לכבוד.",
-      "source": "src4",
-      "quote": "Twelve orders (ten from foreign governments) and five honorary doctorates were conferred on him.",
-      "status": "confirmed",
-      "locator": "שורה 39"
-    }
-  ],
-  "sources": [
-    {
-      "id": "src1",
-      "label": "NobelPrize.org, Paul Ehrlich – Biographical",
-      "url": "https://www.nobelprize.org/prizes/medicine/1908/ehrlich/biographical/",
-      "kind": "official"
-    },
-    {
-      "id": "src2",
-      "label": "Encyclopaedia Britannica, Paul Ehrlich",
-      "url": "https://www.britannica.com/biography/Paul-Ehrlich",
-      "kind": "reference"
-    },
-    {
-      "id": "src3",
-      "label": "JewishGen KehilaLinks, Paul Ehrlich",
-      "url": "https://kehilalinks.jewishgen.org/wroclaw/Paul_Ehrlich.html",
-      "kind": "press"
-    },
-    {
-      "id": "src4",
-      "label": "Encyclopedia.com, Paul Ehrlich",
-      "url": "https://www.encyclopedia.com/people/medicine/medicine-biographies/paul-ehrlich",
-      "kind": "reference"
-    },
-    {
-      "id": "src5",
-      "label": "PubMed Central, מאמר על ארליך",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2790789",
-      "kind": "official"
-    },
-    {
-      "id": "src6",
-      "label": "NobelPrize.org, Paul Ehrlich – Facts",
-      "url": "https://www.nobelprize.org/prizes/medicine/1908/ehrlich/facts/",
-      "kind": "official"
-    },
-    {
-      "id": "src7",
-      "label": "The Forward, Paul Ehrlich, a 'Markedly Jewish' Humanitarian",
-      "url": "https://forward.com/schmooze/148647/paul-ehrlich-a-markedly-jewish-humanitarian/",
-      "kind": "press"
-    }
-  ],
-  "media": [
-    {
-      "id": "m2",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Ehrlich%20by%20Franz%20Wilhelm%20Voigt%202014.031.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Paul_Ehrlich_by_Franz_Wilhelm_Voigt_2014.031.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Franz Wilhelm Voigt",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "דיוקן שמן של פאול ארליך, מאת פרנץ וילהלם פויגט, ובו גבר מזוקן בחליפה ומאחוריו מדפים עם צנצנות.",
-      "illustrates": [
-        "c31"
-      ],
-      "date": "1920date Q",
-      "width": 5470,
-      "height": 6497
-    },
-    {
-      "id": "m3",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Ehrlich%201915.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Paul_Ehrlich_1915.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Harris &amp; Ewing",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "פורטרט בשחור-לבן של פאול ארליך בפרופיל חלקי, עם משקפיים עגולים וזקן לבן.",
-      "illustrates": [],
-      "date": "1915",
-      "width": 3123,
-      "height": 4167
-    },
-    {
-      "id": "m4",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Ehrlich%202.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Paul_Ehrlich_2.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Unknown authorUnknown author",
-      "licence": "CC BY 4.0",
-      "hosting": "hotlink",
-      "caption": "פאול ארליך יושב עם סיגר בידו וספר על ברכיו.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by/4.0",
-      "date": "Unknown da",
-      "width": 2528,
-      "height": 3276
-    },
-    {
-      "id": "m5",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/PaulEhrlich%202.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:PaulEhrlich_2.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Der wilde bernd",
-      "licence": "CC BY-SA 4.0",
-      "hosting": "hotlink",
-      "caption": "לוח זיכרון בצורת עמוד שחור עם כדורים מוזהבים, ועליו טקסט ותמונה של פאול ארליך, בפרנקפורט.",
-      "illustrates": [
-        "c31"
-      ],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "date": "2021-08-21",
-      "width": 3472,
-      "height": 4624
-    },
-    {
-      "id": "m6",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/PaulEhrlich%203.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:PaulEhrlich_3.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Der wilde bernd",
-      "licence": "CC BY-SA 4.0",
-      "hosting": "hotlink",
-      "caption": "עמוד הנצחה לפאול ארליך ולכדור הקסם שלו, עם דיוקן גדול שלו, טקסט ותרשים כימי.",
-      "illustrates": [
-        "c77"
-      ],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "date": "2021-08-21",
-      "width": 3472,
-      "height": 4624
-    },
-    {
-      "id": "m7",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/PaulEhrlich%201.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:PaulEhrlich_1.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Der wilde bernd",
-      "licence": "CC BY-SA 4.0",
-      "hosting": "hotlink",
-      "caption": "עמוד הנצחה שחור על הדשא, ועליו הכיתוב \"Paul Ehrlich und seine Zauberkugel\" (פאול ארליך וכדור הקסם שלו).",
-      "illustrates": [
-        "c77"
-      ],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "date": "2021-08-21",
-      "width": 3472,
-      "height": 4624
-    },
-    {
-      "id": "m8",
-      "kind": "video",
-      "url": "https://www.youtube.com/watch?v=e6iic8OD540",
-      "youtube_id": "e6iic8OD540",
-      "source_page": "https://www.youtube.com/watch?v=e6iic8OD540",
-      "source_name": "YouTube",
-      "credit": "The World’s First",
-      "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
-      "licence_url": "https://www.youtube.com/static?template=terms",
-      "hosting": "embed",
-      "caption": "סרט על פרס נובל הראשון ברפואה, שהוענק לאמיל פון בהרינג על הנסיוב נגד דיפתריה, ועל המאמר שהיו לו שני מחברים.",
-      "illustrates": [
-        "c29"
-      ],
-      "spoken": "en",
-      "audio_tracks": [
-        "en",
-        "es",
-        "hi",
-        "id",
-        "ja",
-        "ko",
-        "pt"
-      ]
-    },
-    {
-      "id": "m9",
-      "kind": "video",
-      "url": "https://www.youtube.com/watch?v=lgCw61jdsaw",
-      "youtube_id": "lgCw61jdsaw",
-      "source_page": "https://www.youtube.com/watch?v=lgCw61jdsaw",
-      "source_name": "YouTube",
-      "credit": "LAUREATE LEGENDS",
-      "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
-      "licence_url": "https://www.youtube.com/static?template=terms",
-      "hosting": "embed",
-      "caption": "סרט תיעודי על חייו של אמיל פון בהרינג ועל השאלה אם נטל לעצמו את הקרדיט על הנסיוב נגד דיפתריה.",
-      "illustrates": [
-        "c27",
-        "c29"
-      ],
-      "spoken": "en",
-      "audio_tracks": [
-        "en",
-        "de",
-        "es",
-        "fr",
-        "hi",
-        "id",
-        "it",
-        "ja",
-        "ml",
-        "nl",
-        "pl",
-        "pt",
-        "uk"
-      ]
-    },
-    {
-      "id": "m10",
-      "kind": "video",
-      "url": "https://www.youtube.com/watch?v=mCMv3X2HwwY",
-      "youtube_id": "mCMv3X2HwwY",
-      "source_page": "https://www.youtube.com/watch?v=mCMv3X2HwwY",
-      "source_name": "YouTube",
-      "credit": "AWARDS WORLDWIDE",
-      "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
-      "licence_url": "https://www.youtube.com/static?template=terms",
-      "hosting": "embed",
-      "caption": "סרט על אמיל פון בהרינג, חתן פרס נובל ברפואה ב-1901, ועל תרומתו לטיפול בדיפתריה.",
-      "illustrates": [
-        "c29"
-      ],
-      "spoken": "en",
-      "audio_tracks": [
-        "en"
-      ]
-    },
-    {
-      "id": "m11",
-      "kind": "video",
-      "url": "https://www.youtube.com/watch?v=PnYe-EjF-yc",
-      "youtube_id": "PnYe-EjF-yc",
-      "source_page": "https://www.youtube.com/watch?v=PnYe-EjF-yc",
-      "source_name": "YouTube",
-      "credit": "Chronicles of Fame",
-      "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
-      "licence_url": "https://www.youtube.com/static?template=terms",
-      "hosting": "embed",
-      "caption": "פרק בסדרה על אמיל פון בהרינג, \"המושיע מדיפתריה\".",
-      "illustrates": [
-        "c17"
-      ],
-      "spoken": "en",
-      "audio_tracks": [
-        "en"
-      ]
-    },
-    {
-      "id": "m12",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Ehrlich%20%281854-1915%29%20on%20the%20occasion%20of%20his%2060th%20birthday%20Wellcome%20M0013279.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Paul_Ehrlich_%281854-1915%29_on_the_occasion_of_his_60th_birthday_Wellcome_M0013279.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "לא צוין",
-      "licence": "CC BY 4.0",
-      "hosting": "hotlink",
-      "caption": "פאול ארליך מחזיק משקפיים, בצילום לרגל יום הולדתו ה-60",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by/4.0",
-      "width": 2850,
-      "height": 3699,
-      "role": "deed"
-    },
-    {
-      "id": "m13",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Ehrlich.%20Photograph.%20Wellcome%20V0026326.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Paul_Ehrlich._Photograph._Wellcome_V0026326.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "לא צוין",
-      "licence": "CC BY 4.0",
-      "hosting": "hotlink",
-      "caption": "פורטרט בגוני ספיה של פאול ארליך הקשיש, עם משקפיים עגולים וזקן לבן",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by/4.0",
-      "width": 2279,
-      "height": 3097,
-      "role": "deed"
-    },
-    {
-      "id": "m14",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Paul%20Ehrlich%20%281854-1915%29%20Wellcome%20M0011450.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Portrait_of_Paul_Ehrlich_%281854-1915%29_Wellcome_M0011450.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "לא צוין",
-      "licence": "CC BY 4.0",
-      "hosting": "hotlink",
-      "caption": "פאול ארליך עם משקפיים עגולים וסיגר ביד",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by/4.0",
-      "width": 2642,
-      "height": 4201,
-      "role": "deed"
-    },
-    {
-      "id": "m15",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Ehrlich%20%281854-1915%29%20Wellcome%20M0013322.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Paul_Ehrlich_%281854-1915%29_Wellcome_M0013322.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "לא צוין",
-      "licence": "CC BY 4.0",
-      "hosting": "hotlink",
-      "caption": "פורטרט של פאול ארליך מאוסף וולקם",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by/4.0",
-      "width": 2453,
-      "height": 3867,
-      "role": "deed"
-    },
-    {
-      "id": "m18",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Ehrlich.%20Photograph.%20Wellcome%20V0026327.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Paul_Ehrlich._Photograph._Wellcome_V0026327.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "לא צוין",
-      "licence": "CC BY 4.0",
-      "hosting": "hotlink",
-      "caption": "צילום פורטרט של פאול ארליך",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by/4.0",
-      "width": 2385,
-      "height": 2946,
-      "role": "deed"
-    },
-    {
-      "id": "m19",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Ehrlich%20%281854-1915%29%20at%20work%20in%20his%20laboratory%20Wellcome%20M0013265.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Paul_Ehrlich_%281854-1915%29_at_work_in_his_laboratory_Wellcome_M0013265.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "לא צוין",
-      "licence": "CC BY 4.0",
-      "hosting": "hotlink",
-      "caption": "פאול ארליך בעבודה במעבדה שלו",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by/4.0",
-      "width": 2950,
-      "height": 3643,
-      "role": "deed"
-    },
-    {
-      "id": "m20",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Ehrlich%20%281854-1915%29%20at%20work%20in%20his%20laboratory%20Wellcome%20M0013266.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Paul_Ehrlich_%281854-1915%29_at_work_in_his_laboratory_Wellcome_M0013266.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "לא צוין",
-      "licence": "CC BY 4.0",
-      "hosting": "hotlink",
-      "caption": "פאול ארליך בעבודה במעבדה שלו, רגע נוסף",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by/4.0",
-      "width": 2850,
-      "height": 3826,
-      "role": "deed"
-    },
-    {
-      "id": "m21",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Ehrlich%20in%20seinem%20Laboratorium.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Paul_Ehrlich_in_seinem_Laboratorium.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Waldemar Franz Hermann Titzenthaler",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "פאול ארליך במעבדה של המכון שלו בפרנקפורט שעל המיין",
-      "illustrates": [],
-      "date": "1910",
-      "width": 1328,
-      "height": 1829,
-      "role": "deed"
-    },
-    {
-      "id": "m22",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Ehrlich%2C%20c.%201910.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Paul_Ehrlich%2C_c._1910.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Unknown author, photo from SSPL/Getty Images",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "פאול ארליך עם כלי מעבדה, בסביבות 1910",
-      "illustrates": [],
-      "date": "circa 1910",
-      "width": 838,
-      "height": 1024,
-      "role": "deed"
-    },
-    {
-      "id": "m24",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20P.%20Ehrlich%20at%20work%20in%20his%20laboratory.%20Wellcome%20M0013263.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Portrait_of_P._Ehrlich_at_work_in_his_laboratory._Wellcome_M0013263.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "לא צוין",
-      "licence": "CC BY 4.0",
-      "hosting": "hotlink",
-      "caption": "פאול ארליך בעבודה במעבדה",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by/4.0",
-      "width": 3700,
-      "height": 2905,
-      "role": "deed"
-    },
-    {
-      "id": "m26",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Ehrlich%20at%20work%20in%20his%20laboratory%20Wellcome%20M0013272.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Paul_Ehrlich_at_work_in_his_laboratory_Wellcome_M0013272.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "לא צוין",
-      "licence": "CC BY 4.0",
-      "hosting": "hotlink",
-      "caption": "פאול ארליך בעבודה במעבדה, בוחן בעל חיים",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by/4.0",
-      "width": 2650,
-      "height": 4233,
-      "role": "deed"
-    },
-    {
-      "id": "m27",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Paul%20Ehrlich%20%281854-1915%29%2C%20Medical%20Scientist%20%282575161071%29.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Portrait_of_Paul_Ehrlich_%281854-1915%29%2C_Medical_Scientist_%282575161071%29.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Smithsonian Institution from United States",
-      "licence": "No restrictions",
-      "hosting": "hotlink",
-      "caption": "פורטרט של פאול ארליך, צילום מלפני 1915",
-      "illustrates": [],
-      "licence_url": "https://www.flickr.com/commons/usage/",
-      "date": "2008-05-20",
-      "width": 1330,
-      "height": 2025,
-      "role": "deed"
-    },
-    {
-      "id": "m28",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Prof.%20Paul%20Ehrlich%20LCCN00650787.tif?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Prof._Paul_Ehrlich_LCCN00650787.tif",
-      "source_name": "Wikimedia Commons",
-      "credit": "George Grantham Bain Collection",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "פורטרט של פאול ארליך מאוסף ביין בספריית הקונגרס",
-      "illustrates": [],
-      "date": "1909",
-      "width": 3319,
-      "height": 4096,
-      "role": "deed"
-    },
-    {
-      "id": "m29",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Ehrlich%20Arbeitszimmer.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Paul_Ehrlich_Arbeitszimmer.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Waldemar Franz Hermann Titzenthaler",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "פאול ארליך בחדר העבודה שלו בפרנקפורט שעל המיין",
-      "illustrates": [],
-      "date": "1910",
-      "width": 1870,
-      "height": 1372,
-      "role": "deed"
-    },
-    {
-      "id": "m31",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Ehrlich%20%281854-1915%29%20Wellcome%20M0013850.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Paul_Ehrlich_%281854-1915%29_Wellcome_M0013850.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "לא צוין",
-      "licence": "CC BY 4.0",
-      "hosting": "hotlink",
-      "caption": "פורטרט של פאול ארליך",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by/4.0",
-      "width": 2623,
-      "height": 4346,
-      "role": "deed"
-    },
-    {
-      "id": "m33",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Prof%20Ehrlich%2C%20SFA005001616.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Prof_Ehrlich%2C_SFA005001616.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Unknown authorUnknown author",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "פרופ' פאול ארליך, צילום מ-1912",
-      "illustrates": [],
-      "date": "1912",
-      "width": 3135,
-      "height": 2252,
-      "role": "deed"
-    },
-    {
-      "id": "m34",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bad%20Homburg%2C%20Paul-Ehrlich-Klinik%2C%20Gedenkstein.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Bad_Homburg%2C_Paul-Ehrlich-Klinik%2C_Gedenkstein.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Karsten Ratzke",
-      "licence": "CC0",
-      "hosting": "hotlink",
-      "caption": "אבן זיכרון ליד מרפאת פאול ארליך בבאד הומבורג",
-      "illustrates": [],
-      "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-      "date": "2017-06-10",
-      "width": 3264,
-      "height": 4928,
-      "role": "related"
-    },
-    {
-      "id": "m36",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Instituto%20Butantan%202016%20090%20-%20Paul%20Ehrlich.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Instituto_Butantan_2016_090_-_Paul_Ehrlich.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Photograph by Mike Peel (www.mikepeel.net).",
-      "licence": "CC BY-SA 4.0",
-      "hosting": "hotlink",
-      "caption": "פסל חזה של פאול ארליך במכון בוטנטן בסאו פאולו, ברזיל",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "date": "2016-12-04",
-      "width": 3024,
-      "height": 4032,
-      "role": "related"
-    },
-    {
-      "id": "m41",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Ehrlich%20%281854-1915%29%20and%20Dr%20Sachs%20Wellcome%20M0013270.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Paul_Ehrlich_%281854-1915%29_and_Dr_Sachs_Wellcome_M0013270.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "לא צוין",
-      "licence": "CC BY 4.0",
-      "hosting": "hotlink",
-      "caption": "פאול ארליך ודוקטור זקס, כנראה במכון הנסיובים בפרנקפורט",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by/4.0",
-      "width": 2750,
-      "height": 4055,
-      "role": "deed"
-    },
-    {
-      "id": "m42",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Ehrlich%20%281854-1915%29%20and%20his%20co-workers%20Wellcome%20M0011476.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Paul_Ehrlich_%281854-1915%29_and_his_co-workers_Wellcome_M0011476.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "לא צוין",
-      "licence": "CC BY 4.0",
-      "hosting": "hotlink",
-      "caption": "פאול ארליך ועמיתיו לעבודה, צילום קבוצתי בגינה עם שמות הנוכחים",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by/4.0",
-      "width": 3444,
-      "height": 3115,
-      "role": "deed"
-    },
-    {
-      "id": "m43",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Ehrlich%20and%20his%20co-workers%20and%20assistants%20Wellcome%20M0013271.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Paul_Ehrlich_and_his_co-workers_and_assistants_Wellcome_M0013271.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "לא צוין",
-      "licence": "CC BY 4.0",
-      "hosting": "hotlink",
-      "caption": "פאול ארליך ועוזריו, כנראה במכון הנסיובים בפרנקפורט",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by/4.0",
-      "width": 3816,
-      "height": 2754,
-      "role": "deed"
-    },
-    {
-      "id": "m45",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Ehrlich%27s%20assistants%20and%20laboratory%20animals%20Wellcome%20M0013269.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Paul_Ehrlich%27s_assistants_and_laboratory_animals_Wellcome_M0013269.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "לא צוין",
-      "licence": "CC BY 4.0",
-      "hosting": "hotlink",
-      "caption": "עוזריו של ארליך עם חיות מעבדה, ביניהן עיזים, כנראה במכון הנסיובים בפרנקפורט",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by/4.0",
-      "width": 4000,
-      "height": 2813,
-      "role": "deed"
-    },
-    {
-      "id": "m47",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/DBP%201954%20197%20Paul%20Ehrlich%20und%20Emil%20Behring.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:DBP_1954_197_Paul_Ehrlich_und_Emil_Behring.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "scanned by NobbiP",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "בול גרמני של 1954 לציון 100 שנה להולדת פאול ארליך ואמיל פון בהרינג",
-      "illustrates": [],
-      "date": "September ",
-      "width": 830,
-      "height": 720,
-      "role": "deed"
-    },
-    {
-      "id": "m48",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Diagrams%20illustrating%20the%20side-chain%20theory%20of%20Paul%20Ehrlich%20Wellcome%20M0013303.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Diagrams_illustrating_the_side-chain_theory_of_Paul_Ehrlich_Wellcome_M0013303.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "לא צוין",
-      "licence": "CC BY 4.0",
-      "hosting": "hotlink",
-      "caption": "איור של תיאוריית שרשראות הצד של ארליך, שלבים 1 עד 4",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by/4.0",
-      "width": 3071,
-      "height": 3561,
-      "role": "deed"
-    },
-    {
-      "id": "m49",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Diagrams%20illustrating%20the%20side-chain%20theory%20of%20Paul%20Ehrlich%20Wellcome%20M0013304.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Diagrams_illustrating_the_side-chain_theory_of_Paul_Ehrlich_Wellcome_M0013304.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "לא צוין",
-      "licence": "CC BY 4.0",
-      "hosting": "hotlink",
-      "caption": "איור של תיאוריית שרשראות הצד של ארליך, שלבים 5 עד 8",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by/4.0",
-      "width": 2995,
-      "height": 3633,
-      "role": "deed"
-    },
-    {
-      "id": "m50",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Die%20elteren%20von%20Paul%20Ehrlich%20%281915%29.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Die_elteren_von_Paul_Ehrlich_%281915%29.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Unknown authorUnknown author",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "הוריו של פאול ארליך, שני דיוקנאות עגולים",
-      "illustrates": [],
-      "date": "1915",
-      "width": 1018,
-      "height": 526,
-      "role": "deed"
-    },
-    {
-      "id": "m51",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/DNB%20Leipzig%20B%C3%BCste%20Paul%20Ehrlich.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:DNB_Leipzig_B%C3%BCste_Paul_Ehrlich.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Frupa",
-      "licence": "CC BY-SA 4.0",
-      "hosting": "hotlink",
-      "caption": "פסל חזה מאבן של פאול ארליך בחדר הקריאה של הספרייה הלאומית הגרמנית בלייפציג",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "date": "2025-06-29",
-      "width": 3024,
-      "height": 4032,
-      "role": "related"
-    },
-    {
-      "id": "m53",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Ehrlich%20Institut%20building%20Langen%20-%202022-05-16.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Paul_Ehrlich_Institut_building_Langen_-_2022-05-16.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Wvdp",
-      "licence": "CC0",
-      "hosting": "hotlink",
-      "caption": "הבניין הראשי של מכון פאול ארליך בלנגן, הסן",
-      "illustrates": [],
-      "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-      "date": "2022-05-16",
-      "width": 4080,
-      "height": 3072,
-      "role": "related"
-    },
-    {
-      "id": "m55",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/%27Serum%20straight%20from%20the%20horse%27.%2C%20inoculation%20caricature%20Wellcome%20L0009827.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:%27Serum_straight_from_the_horse%27.%2C_inoculation_caricature_Wellcome_L0009827.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "לא צוין",
-      "licence": "CC BY 4.0",
-      "hosting": "hotlink",
-      "caption": "קריקטורה גרמנית: בהרינג מוציא נסיוב ישירות מסוס בברז",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by/4.0",
-      "width": 1688,
-      "height": 1214,
-      "role": "related"
-    },
-    {
-      "id": "m56",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Emil%20v.%20Behring%20Nobel%201901.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Emil_v._Behring_Nobel_1901.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Creator:Agi Lindegren[1]",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "תעודת פרס נובל ברפואה של אמיל פון בהרינג, 1901",
-      "illustrates": [],
-      "date": "1901-11",
-      "width": 1256,
-      "height": 883,
-      "role": "related"
-    },
-    {
-      "id": "m57",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Behring%20Neapel%201895%20gro%C3%9F.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Behring_Neapel_1895_gro%C3%9F.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Luigi Lamarra, Fotograf in Neapel",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "אמיל בהרינג בפורטרט משנת 1895 בנאפולי, עם הקדשה בכתב יד",
-      "illustrates": [],
-      "date": "1895",
-      "width": 2865,
-      "height": 4193,
-      "role": "related"
-    },
-    {
-      "id": "m59",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bottle%20of%20Behring%27s%20diphtheria%20remedy%2C%20Germany%2C%201914-1918%20Wellcome%20L0058480.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Bottle_of_Behring%27s_diphtheria_remedy%2C_Germany%2C_1914-1918_Wellcome_L0058480.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "לא צוין",
-      "licence": "CC BY 4.0",
-      "hosting": "hotlink",
-      "caption": "צנצנת של נסיוב נגד דיפתריה של בהרינג, גרמניה, 1914 עד 1918",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by/4.0",
-      "width": 2832,
-      "height": 4256,
-      "role": "related"
-    }
-  ],
-  "check": {
-    "passed": true,
-    "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
-    "checked_at": "2026-11-21T22:17:29Z",
-    "counts": {
-      "confirmed": 84,
-      "not_confirmed": 0,
-      "deleted_sentences": 2,
-      "first_round_confirmed": 82,
-      "first_round_contradicted": 1,
-      "first_round_unverifiable": 2
-    },
-    "note": "unverifiable sentences were deleted, contradicted ones fixed from the source and checked again"
+ "schema": "maasei-museum/1",
+ "slug": "paul-ehrlich-diphtheria-antitoxin",
+ "deed": "פאול ארליך ונסיוב הנוגדנים נגד דיפתריה",
+ "canonical_type": "scientific-discovery",
+ "year": "1894",
+ "title": "פאול ארליך, בן למשפחה יהודית, מצא דרך למדוד ולתקנן את הנסיוב נגד דיפתריה",
+ "trailer": [
+  {
+   "text": "פאול ארליך היה רופא וחוקר, שעבודתו הובילה לסלברסן, תרופה לעגבת שסימנה את תחילת עידן הכימותרפיה.",
+   "claims": [
+    "c11",
+    "c59"
+   ]
   },
-  "meta": {
-    "run": "paul-ehrlich-diphtheria-antitoxin",
-    "pipeline": "scripts/museum/museum_line.py",
-    "models": {
-      "research": "sonnet-5-5",
-      "extract": "sonnet-5-5",
-      "media": "sonnet-5-5",
-      "write": "opus-5-5 medium",
-      "check": "opus-5-5 medium",
-      "fix": "opus-5-5 medium"
-    },
-    "source_quality": {
-      "sources": 7,
-      "wikipedia": 0,
-      "strong": 5,
-      "ok": true,
-      "warnings": []
-    },
-    "media_dedupe": [
-      {
-        "drop": "m16",
-        "keep": "m3",
-        "by": "reviewed 24.11"
-      },
-      {
-        "drop": "m1",
-        "keep": "m15",
-        "by": "reviewed 24.11"
-      }
-    ]
+  {
+   "text": "פאול ארליך, בן למשפחה יהודית, נולד ב-1854 בשטרלן שבשלזיה, קיבל דוקטורט ברפואה, וב-1908 חלק עם מצ'ניקוב את פרס נובל.",
+   "claims": [
+    "c1",
+    "c3",
+    "c11",
+    "c31"
+   ]
+  },
+  {
+   "text": "אמיל בהרינג עבד בברלין על נסיוב נגד דיפתריה, אבל התוצאות שלו לא היו עקביות.",
+   "claims": [
+    "c17"
+   ]
+  },
+  {
+   "text": "ארליך פיתח דרך למדוד את יעילות הנסיובים, וכך אפשר היה לתקנן את הנסיוב נגד דיפתריה ביחידות הקשורות לתקן קבוע.",
+   "claims": [
+    "c20",
+    "c25"
+   ]
+  },
+  {
+   "text": "ב-1894 דיווח ארליך עם קוסל ווסרמן על 220 ילדים חולי דיפתריה שטופלו באנטי-רעלן, ובאוגוסט אותה שנה החלה חברת הואכסט לשווק את הנסיוב.",
+   "claims": [
+    "c22",
+    "c26"
+   ]
+  },
+  {
+   "text": "לפי בריטניקה, העולם כולו אימץ עד מהרה את שיטת המדידה שלו.",
+   "claims": [
+    "c25"
+   ]
   }
+ ],
+ "hero_media": [
+  "m15",
+  "m2",
+  "m3",
+  "m4",
+  "m6",
+  "m5",
+  "m7",
+  "m12",
+  "m13",
+  "m14",
+  "m20",
+  "m21",
+  "m22",
+  "m29",
+  "m31",
+  "m33"
+ ],
+ "glance": [
+  {
+   "label": "נולד",
+   "value": "1854, שטרלן שבשלזיה",
+   "claims": [
+    "c1"
+   ]
+  },
+  {
+   "label": "מוצא",
+   "value": "משפחה יהודית",
+   "claims": [
+    "c3"
+   ]
+  },
+  {
+   "label": "המעשה",
+   "value": "מדידה ותקנון של הנסיוב נגד דיפתריה",
+   "claims": [
+    "c20",
+    "c25"
+   ]
+  },
+  {
+   "label": "תפקיד",
+   "value": "מנהל המכון לבקרת נסיובים טיפוליים, מסוף 1896",
+   "claims": [
+    "c24"
+   ]
+  },
+  {
+   "label": "הכרה",
+   "value": "פרס נובל, 1908, יחד עם מצ'ניקוב",
+   "claims": [
+    "c31"
+   ]
+  }
+ ],
+ "stations": [
+  {
+   "id": "s1",
+   "title": "ילד משטרלן",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "פאול ארליך נולד ב-14 במרץ 1854 בשטרלן שבשלזיה, גרמניה.",
+      "claims": [
+       "c1"
+      ]
+     },
+     {
+      "text": "שטרלן הייתה עיירה של כ-5,000 תושבים, והיום היא נמצאת בפולין.",
+      "claims": [
+       "c2"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "הוא נולד למשפחה יהודית בולטת בעסקים ובתעשייה.",
+      "claims": [
+       "c3"
+      ]
+     },
+     {
+      "text": "בן דודו היה הבקטריולוג קארל וייגרט, וּוייגרט היה המנטור שלו.",
+      "claims": [
+       "c4"
+      ]
+     },
+     {
+      "text": "ארליך לא המיר את דתו, אבל היה אדיש למנהגים ולמסורות היהודיים.",
+      "claims": [
+       "c7"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m15",
+    "m18",
+    "m28",
+    "m50"
+   ],
+   "disagreements": [
+    "d1",
+    "d2"
+   ]
+  },
+  {
+   "id": "s2",
+   "title": "צבעים, חיידקים ומעבדה",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "ארליך קיבל דוקטורט ברפואה על עבודה בנושא צביעת רקמות של בעלי חיים.",
+      "claims": [
+       "c11"
+      ]
+     },
+     {
+      "text": "ב-1882 פרסם את שיטתו לצביעת חיידק השחפת שקוך גילה.",
+      "claims": [
+       "c13"
+      ]
+     },
+     {
+      "text": "ב-1888 נדבק ארליך בחיידק השחפת במעבדה, והקריירה המדעית שלו נקטעה.",
+      "claims": [
+       "c14"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "ב-1890 מינה אותו רוברט קוך, מנהל המכון החדש למחלות זיהומיות, לאחד מעוזריו.",
+      "claims": [
+       "c23"
+      ]
+     },
+     {
+      "text": "ב-1892 הוכיח ארליך שנוגדנים עוברים בחלב אם מהאם ליילוד.",
+      "claims": [
+       "c37"
+      ]
+     },
+     {
+      "text": "בניסוי אחר הראה שארנבות שקיבלו רעל במינון שעלה לאט ובמדידה שרדו מנה קטלנית פי 5,000.",
+      "claims": [
+       "c79"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m4",
+    "m19"
+   ],
+   "disagreements": [
+    "d3"
+   ]
+  },
+  {
+   "id": "s3",
+   "title": "הבעיה: נסיוב שאיכותו משתנה",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "אמיל בהרינג עבד עד 1893 במכון למחלות זיהומיות בברלין על נסיוב נגד דיפתריה וטטנוס, אבל התוצאות לא היו עקביות.",
+      "claims": [
+       "c17"
+      ]
+     },
+     {
+      "text": "נסיובים נגד מחלות היו סוג חדש לגמרי של תרופה, והאיכות שלהם השתנתה מאוד.",
+      "claims": [
+       "c16"
+      ]
+     },
+     {
+      "text": "בייצור נסיובי הנוגדנים היו בעיות רציניות של בקרת איכות.",
+      "claims": [
+       "c15"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "כמות האנטי-רעלן הייתה שונה מאוד מנסיוב לנסיוב.",
+      "claims": [
+       "c19"
+      ]
+     },
+     {
+      "text": "לכן היה צריך תקן שיאפשר למדוד אותה במדויק.",
+      "claims": [
+       "c19"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m11",
+    "m41",
+    "m43",
+    "m45",
+    "m48"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s4",
+   "title": "המעשה: למדוד, לתקנן, לבדוק",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "לפי בריטניקה, רק טכניקה של ארליך, שהשתמשה בדם של סוסים חיים, איפשרה להכין נסיוב שפועל בצורה מיטבית נגד הרעלן.",
+      "claims": [
+       "c18"
+      ]
+     },
+     {
+      "text": "ארליך בנה תקן לנסיוב נגד דיפתריה של פון בהרינג, ואפשר היה למדוד את הנסיוב ביחידות הקשורות לתקן קבוע.",
+      "claims": [
+       "c20"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "בבדיקת הנסיוב קבע ארליך יעד ברור: חיית הניסוי צריכה למות אחרי ארבעה ימים.",
+      "claims": [
+       "c21"
+      ]
+     },
+     {
+      "text": "אם היא מתה מוקדם יותר, הנסיוב נפסל כחלש מדי.",
+      "claims": [
+       "c21"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "בתחילת 1894 הצליחו הניסויים הקליניים בנסיוב, ובאוגוסט החלה הואכסט לשווק אותו.",
+      "claims": [
+       "c26"
+      ]
+     },
+     {
+      "text": "באותה שנה דיווח ארליך, עם קוסל ווסרמן, על 220 ילדים חולי דיפתריה שטופלו באנטי-רעלן, והדגיש שחשוב לתת מנה מוקדמת ונדיבה.",
+      "claims": [
+       "c22"
+      ]
+     },
+     {
+      "text": "בסוף 1896 הוקם בשטגליץ שבברלין מכון לבקרת נסיובים טיפוליים, וארליך מונה למנהלו.",
+      "claims": [
+       "c24"
+      ]
+     },
+     {
+      "text": "לפי בריטניקה, העולם כולו אימץ עד מהרה את שיטת המדידה שלו לתקנון הנסיוב נגד דיפתריה.",
+      "claims": [
+       "c25"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m3",
+    "m24",
+    "m26",
+    "m59"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s5",
+   "title": "פרס נובל, שבע שנים אחרי",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "פרס נובל הראשון ברפואה ניתן ב-1901 על מחקר הדיפתריה, ורק פון בהרינג קיבל אותו.",
+      "claims": [
+       "c29"
+      ]
+     },
+     {
+      "text": "רק שבע שנים מאוחר יותר הכירה האקדמיה השוודית בתרומה של ארליך, שהתאים את הטיפול בנסיוב לשימוש רפואי בפועל.",
+      "claims": [
+       "c30"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "ב-1908 חלק ארליך את פרס נובל עם מצ'ניקוב, על עבודתם בתחום החסינות.",
+      "claims": [
+       "c31",
+       "c32"
+      ]
+     },
+     {
+      "text": "לפי בריטניקה, תורת שרשראות הצד של ארליך תיארה איך נוצרים נוגדנים ואיך הם מגיבים עם חומרים אחרים.",
+      "claims": [
+       "c35"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "עוד לפני כן, ב-1903, קיבל ארליך את מדליית הזהב הגדולה הפרוסית למדע, שלפניו ניתנה רק לרודולף וירכוב.",
+      "claims": [
+       "c69"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m2",
+    "m8",
+    "m10",
+    "m15",
+    "m27",
+    "m49",
+    "m56"
+   ],
+   "disagreements": [
+    "d6"
+   ]
+  },
+  {
+   "id": "s6",
+   "title": "מהנסיוב אל \"כדור הקסם\"",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "ארליך ידע שלטיפול בנסיוב יש גבולות: מחלות זיהומיות רבות, בעיקר אלה שגורמות פרוטוזואה, לא הגיבו לו.",
+      "claims": [
+       "c38"
+      ]
+     },
+     {
+      "text": "ב-1899 נפתח המכון המלכותי הפרוסי לתרפיה ניסיונית, וארליך ניהל אותו עד מותו.",
+      "claims": [
+       "c39"
+      ]
+     },
+     {
+      "text": "ב-1906 הוקם בית גיאורג שפייר, מכון מחקר לכימותרפיה, מתרומה של פראנציסקה שפייר לזכר בעלה.",
+      "claims": [
+       "c40"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "ב-1907 סינתזו ארליך ובֶּרטהיים ובדקו כמה מאות תרכובות שנגזרו מאטוקסיל.",
+      "claims": [
+       "c43"
+      ]
+     },
+     {
+      "text": "תרכובת מספר 606 נדחתה באותה שנה כבלתי יעילה.",
+      "claims": [
+       "c44"
+      ]
+     },
+     {
+      "text": "האטה בדק את התרופה שנדחתה ומצא שהיא יעילה מאוד.",
+      "claims": [
+       "c48"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "ב-19 באפריל 1910 דיווחו ארליך והאטה בוויסבאדן על גילוי הארספנמין.",
+      "claims": [
+       "c49"
+      ]
+     },
+     {
+      "text": "נראה היה שנמצא \"כדור הקסם\", ביטוי שארליך אהב.",
+      "claims": [
+       "c77"
+      ]
+     },
+     {
+      "text": "סלברסן היה הטיפול היעיל הראשון בעגבת, וסימן את תחילת עידן הכימותרפיה.",
+      "claims": [
+       "c59"
+      ]
+     },
+     {
+      "text": "הוא נשאר התרופה היעילה ביותר לעגבת עד שהפניצילין הגיע בשנות ה-40.",
+      "claims": [
+       "c57"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m6",
+    "m7",
+    "m42"
+   ],
+   "disagreements": [
+    "d4",
+    "d5"
+   ]
+  },
+  {
+   "id": "s7",
+   "title": "הוקרה ופרידה",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "חיים ויצמן, נשיאה הראשון של ישראל, שכנע את ארליך לכהן בוועדת האוניברסיטה.",
+      "claims": [
+       "c10"
+      ]
+     },
+     {
+      "text": "ארליך הוריש כסף למכון נורדאו, שקדם לאוניברסיטה העברית.",
+      "claims": [
+       "c10"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "ארליך מת באוגוסט 1915.",
+      "claims": [
+       "c75",
+       "c76"
+      ]
+     },
+     {
+      "text": "בהספד כתב הטיימס הלונדוני שארליך פתח דלתות חדשות אל הלא נודע, ושהעולם כולו חייב לו.",
+      "claims": [
+       "c72"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m5",
+    "m34",
+    "m36",
+    "m51"
+   ],
+   "disagreements": [
+    "d7"
+   ]
+  },
+  {
+   "id": "s8",
+   "title": "קרדיט, רווחים ושנאה",
+   "kind": "hard",
+   "paragraphs": [
+    [
+     {
+      "text": "לפי אנציקלופדיה.קום, בהרינג התגבר על קשיי הייצור של האנטי-רעלן בעזרת ארליך, והשיג לעצמו חוזה משתלם.",
+      "claims": [
+       "c27"
+      ]
+     },
+     {
+      "text": "בסוף נאלץ ארליך להסכים לשמונה אחוזים בלבד מהרווחים.",
+      "claims": [
+       "c28"
+      ]
+     },
+     {
+      "text": "לפי ביוגרפיה שמצטט הפורוורד, הפרס של ארליך התעכב כי ארהניוס, מדען שוודי בוועדה, נרגז מה\"אווירה היהודית הבולטת\" במכון.",
+      "claims": [
+       "c34"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "ב-1901 פתח מקס פון גרובר ויכוח של שנתיים נגד תורת שרשראות הצד, והוויכוח הפך עד מהרה למעליב.",
+      "claims": [
+       "c36"
+      ]
+     },
+     {
+      "text": "אחרי סלברסן האשימו אותו קנאים ופרשנים סנסציוניים בשרלטנות, ברדיפת רווחים ובניסויים חסרי רחמים.",
+      "claims": [
+       "c62"
+      ]
+     },
+     {
+      "text": "ההאשמות בהתעשרות מופרזת נשמעו בנימות אנטישמיות ברורות.",
+      "claims": [
+       "c65"
+      ]
+     },
+     {
+      "text": "במרץ 1914 תמך הרייכסטאג בסלברסן.",
+      "claims": [
+       "c63"
+      ]
+     },
+     {
+      "text": "המכפיש הגרוע ביותר מבין מתנגדיו נידון למאסר.",
+      "claims": [
+       "c64"
+      ]
+     },
+     {
+      "text": "פאול אוהלנהוט, מקורב של ארליך, טען שהוא גילה את התרופה ראשון.",
+      "claims": [
+       "c68"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "בפרנקפורט הוסר שם רחוב פאול ארליך משום שארליך היה יהודי.",
+      "claims": [
+       "c8",
+       "c9"
+      ]
+     },
+     {
+      "text": "בתקופת הרייך השלישי הוזנחו הישגיו, ופון בהרינג הוצג כמדען הארי האידיאלי.",
+      "claims": [
+       "c73"
+      ]
+     },
+     {
+      "text": "הממשל הנאצי התנגד לסרט על ארליך מ-1940.",
+      "claims": [
+       "c74"
+      ]
+     },
+     {
+      "text": "זמן קצר אחרי המלחמה הוחזר השם פאול-ארליך-שטראסה, וערים גרמניות רבות קראו רחובות על שמו.",
+      "claims": [
+       "c78"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m9",
+    "m47",
+    "m53",
+    "m55",
+    "m57"
+   ],
+   "disagreements": []
+  }
+ ],
+ "disagreements": [
+  {
+   "id": "d1",
+   "question": "באיזה חלק של שלזיה נולד ארליך?",
+   "versions": [
+    {
+     "says": "לפי מכון נובל, פאול ארליך נולד ב-14 במרץ 1854 בשטרלן שבשלזיה, גרמניה.",
+     "claims": [
+      "c1"
+     ]
+    },
+    {
+     "says": "לפי JewishGen, שטרלן נמצאת בשלזיה התחתית",
+     "claims": [
+      "c2"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d2",
+   "question": "איזה ילד במשפחה היה ארליך?",
+   "versions": [
+    {
+     "says": "לפי אנציקלופדיה.קום, הבן היחיד והילד הרביעי",
+     "claims": [
+      "c5"
+     ]
+    },
+    {
+     "says": "לפי JewishGen, הילד השני של איסמר ורוזה ארליך",
+     "claims": [
+      "c6"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d3",
+   "question": "באיזו שנה קיבל ארליך את הדוקטורט?",
+   "versions": [
+    {
+     "says": "לפי מכון נובל, ב-1878",
+     "claims": [
+      "c11"
+     ]
+    },
+    {
+     "says": "לפי JewishGen, לאחר שקיבל את הדוקטורט עבד ארליך בשריטה בברלין כעוזר מנהל רפואי תחת תאודור פרריכס.",
+     "claims": [
+      "c12"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d4",
+   "question": "מי חילק 65,000 מנות חינם של סלברסן?",
+   "versions": [
+    {
+     "says": "לפי המאמר בפרמקולוגיה, מכונו של ארליך, לניסויים קליניים",
+     "claims": [
+      "c50"
+     ]
+    },
+    {
+     "says": "לפי בריטניקה, היצרן פארבוורקה-הואכסט, לרופאים ברחבי העולם",
+     "claims": [
+      "c51"
+     ]
+    },
+    {
+     "says": "לפי אנציקלופדיה.קום, בית גיאורג שפייר, עד סוף השנה",
+     "claims": [
+      "c52"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d5",
+   "question": "מתי נכנס הניאוסלברסן לשימוש?",
+   "versions": [
+    {
+     "says": "לפי JewishGen, ב-1911",
+     "claims": [
+      "c60"
+     ]
+    },
+    {
+     "says": "לפי אנציקלופדיה.קום, ב-1912",
+     "claims": [
+      "c61"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d6",
+   "question": "כמה תארי דוקטור לכבוד קיבל ארליך?",
+   "versions": [
+    {
+     "says": "לפי המאמר בפרמקולוגיה, עשרה",
+     "claims": [
+      "c70"
+     ]
+    },
+    {
+     "says": "לפי אנציקלופדיה.קום, חמישה, ולצדם שנים עשר אותות הוקרה",
+     "claims": [
+      "c71"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d7",
+   "question": "ממה מת ארליך, ומתי החל המצב האחרון?",
+   "versions": [
+    {
+     "says": "לפי מכון נובל, שבץ שני ב-20 באוגוסט 1915",
+     "claims": [
+      "c75"
+     ]
+    },
+    {
+     "says": "לפי JewishGen, התקף לב ב-17 באוגוסט 1915, ומוות ב-20 באוגוסט",
+     "claims": [
+      "c76"
+     ]
+    }
+   ]
+  }
+ ],
+ "unknowns": [
+  {
+   "text": "המקורות מספרים על 220 ילדים שטופלו באנטי-רעלן, אבל לא כמה מהם החלימו",
+   "claims": [
+    "c22"
+   ]
+  }
+ ],
+ "claims": [
+  {
+   "id": "c1",
+   "text": "פאול ארליך נולד ב-14 במרץ 1854 בשטרלן שבשלזיה, גרמניה (המקור מציין שלזיה עילית).",
+   "source": "src1",
+   "quote": "Paul Ehrlich was born on March 14, 1854 at Strehlen, in Upper Silesia*, Germany.",
+   "status": "confirmed",
+   "locator": "שורה 1"
+  },
+  {
+   "id": "c3",
+   "text": "ארליך נולד למשפחה יהודית בולטת בעסקים ובתעשייה.",
+   "source": "src2",
+   "quote": "Ehrlich was born into a Jewish family prominent in business and industry.",
+   "status": "confirmed",
+   "locator": "שורה 64"
+  },
+  {
+   "id": "c11",
+   "text": "ב-1878 קיבל ארליך דוקטורט ברפואה על עבודה בנושא התאוריה והפרקטיקה של צביעת רקמות בעלי חיים.",
+   "source": "src1",
+   "quote": "In 1878 he obtained his doctorate of medicine by means of a dissertation on the theory and practice of staining animal tissues.",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c31",
+   "text": "ב-1908 חלק ארליך עם מצ'ניקוב את פרס נובל.",
+   "source": "src1",
+   "quote": "In 1908 he shared with Metchnikoff the highest scientific distinction, the Nobel Prize.",
+   "status": "confirmed",
+   "locator": "שורה 15"
+  },
+  {
+   "id": "c17",
+   "text": "אמיל בהרינג עבד במכון למחלות זיהומיות בברלין עד 1893 על נסיוב נגד דיפתריה וטטנוס, אך התוצאות לא היו עקביות.",
+   "source": "src3",
+   "quote": "Emil Behring had worked at the Berlin Institute of Infectious Diseases until 1893 on developing an antiserum for treating diphtheria and tetanus but with inconsistent results.",
+   "status": "confirmed",
+   "locator": "שורה 50"
+  },
+  {
+   "id": "c20",
+   "text": "ארליך עשה זאת עם הנסיוב נגד דיפתריה של פון בהרינג, ואפשר לתקנן אותו ביחידות הקשורות לתקן קבוע.",
+   "source": "src1",
+   "quote": "This he accomplished with von Behring‘s antidiphtheritic serum and thus made it possible to standardize this serum in units related to a fixed and invariable standard.",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c25",
+   "text": "לפי בריטניקה, ארליך פיתח דרך למדוד את יעילות הנסיובים, ועד מהרה אימץ אותה העולם כולו לתקנון הנסיוב נגד דיפתריה.",
+   "source": "src2",
+   "quote": "Ehrlich developed a way of measuring the effectiveness of serums that was soon adopted all over the world for the standardization of diphtheria serum.",
+   "status": "confirmed",
+   "locator": "שורה 70"
+  },
+  {
+   "id": "c22",
+   "text": "ב-1894 דיווח ארליך, עם קוסל ווסרמן, על 220 ילדים חולי דיפתריה שטופלו באנטי-רעלן, והדגיש את חשיבות מינון מוקדם ונדיב.",
+   "source": "src4",
+   "quote": "In 1894 he reported, with H. Kossel and A. von Wassermann, on 220 unselected diphtheritic children treated with antitoxin, stressing the importance of early, liberal dosages.",
+   "status": "confirmed",
+   "locator": "שורה 19"
+  },
+  {
+   "id": "c26",
+   "text": "בניסויים קליניים בנסיוב נגד דיפתריה בתחילת 1894 הושגה הצלחה, ובאוגוסט החלה חברת הואכסט לשווק אותו.",
+   "source": "src3",
+   "quote": "Clinical tests with diphtheria serum early in 1894 were successful and in August the chemical company Hoechst started to market",
+   "status": "confirmed",
+   "locator": "שורה 50"
+  },
+  {
+   "id": "c24",
+   "text": "בסוף 1896 הוקם בשטגליץ שבברלין מכון לבקרת נסיובים טיפוליים, וארליך מונה למנהלו.",
+   "source": "src1",
+   "quote": "At the end of 1896 an Institute for the control of therapeutic sera was established at Steglitz in Berlin and Ehrlich was appointed its Director.",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c2",
+   "text": "שטרלן, עיירה בת כ-5,000 תושבים במחוז שלזיה התחתית, נמצאת היום בפולין.",
+   "source": "src3",
+   "quote": "in Strehelen, a town of some 5,000 inhabitants in the province of Lower Silesia, now in Poland",
+   "status": "confirmed",
+   "locator": "שורה 21"
+  },
+  {
+   "id": "c4",
+   "text": "ארליך היה ממוצא הורים יהודים, ובן דודו היה הבקטריולוג קארל וייגרט, ששימש לו מנטור.",
+   "source": "src5",
+   "quote": "Of Jewish parentage, he was a cousin of the renowned bacteriologist Carl Weigert (1845–1904), who played an important role as his mentor.",
+   "status": "confirmed",
+   "locator": "שורה 16"
+  },
+  {
+   "id": "c7",
+   "text": "ארליך לא המיר את דתו, אך היה אדיש למנהגים ולמסורות יהודיים.",
+   "source": "src3",
+   "quote": "Paul Ehrlich did not convert away from Judaism, but was rather indifferent to Jewish customs and traditions.",
+   "status": "confirmed",
+   "locator": "שורה 21"
+  },
+  {
+   "id": "c13",
+   "text": "ב-1882 פרסם ארליך את שיטתו לצביעת חיידק השחפת שקוך גילה.",
+   "source": "src1",
+   "quote": "In 1882 Ehrlich published his method of staining the tubercle bacillus that Koch had discovered",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c14",
+   "text": "ב-1888 הידבק ארליך בחיידק השחפת בעבודתו במעבדה, ולכן הופרעה הקריירה המדעית שלו.",
+   "source": "src5",
+   "quote": "his scientific career was disrupted in 1888 when Ehrlich was infected by the Koch bacillus, contracted in the course of his laboratory work",
+   "status": "confirmed",
+   "locator": "שורה 35"
+  },
+  {
+   "id": "c23",
+   "text": "ב-1890 מינה רוברט קוך, מנהל המכון החדש למחלות זיהומיות, את ארליך לאחד מעוזריו.",
+   "source": "src1",
+   "quote": "In 1890 Robert Koch, Director of the newly established Institute for Infectious Diseases, appointed Ehrlich as one of his assistants",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c37",
+   "text": "ארליך הוכיח ב-1892 שנוגדנים עוברים בחלב אם מאם ליילוד.",
+   "source": "src2",
+   "quote": "He also demonstrated, in 1892, that antibodies are passed in breast milk from mother to newborn.",
+   "status": "confirmed",
+   "locator": "שורה 70"
+  },
+  {
+   "id": "c79",
+   "text": "ארליך הראה בניסוי שארנבות שקיבלו רעל בעלייה איטית ומדודה שרדו מינון קטלני פי 5,000.",
+   "source": "src2",
+   "quote": "Ehrlich was able to show experimentally that rabbits subjected to a slow and measured increase of toxic matter were able to survive 5,000 times the fatal dose.",
+   "status": "confirmed",
+   "locator": "שורה 70"
+  },
+  {
+   "id": "c16",
+   "text": "נסיובים נגד מחלות היו סוג חדש לגמרי של תרופה שאיכותו השתנתה מאוד, ולכן הוקמה מערכת ממשלתית שתבטיח את בטיחותם ויעילותם.",
+   "source": "src3",
+   "quote": "Since antiserums were an entirely new type of medicine whose quality was highly variable, a government system was established to guarantee their safety and effectiveness.",
+   "status": "confirmed",
+   "locator": "שורה 52"
+  },
+  {
+   "id": "c15",
+   "text": "בייצור נסיובי הנוגדנים היו בעיות משמעותיות של בקרת איכות.",
+   "source": "src5",
+   "quote": "However, there were considerable problems with quality control during the production of these sera.",
+   "status": "confirmed",
+   "locator": "שורה 37"
+  },
+  {
+   "id": "c19",
+   "text": "בשל השונות הרבה בתכולת האנטי-רעלן בנסיובים, היה צורך בתקן שיאפשר למדוד אותה במדויק.",
+   "source": "src1",
+   "quote": "the content of antitoxin in antitoxic sera varied so much for various reasons that it was necessary to establish a standard by which their antitoxin content could be exactly measured",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c18",
+   "text": "לפי בריטניקה, רק בעזרת טכניקת ארליך של שימוש בדם סוסים חיים התאפשר להכין נסיוב בעל יעילות אנטי-רעלנית אופטימלית.",
+   "source": "src2",
+   "quote": "it was only by adopting Ehrlich’s technique of using the blood of live horses that the preparation of a serum of optimum antitoxic effectiveness became possible",
+   "status": "confirmed",
+   "locator": "שורה 70"
+  },
+  {
+   "id": "c21",
+   "text": "בבדיקת הנסיוב קבע ארליך יעד חד-משמעי: מות חיית הניסוי אחרי ארבעה ימים; אם מתה מוקדם יותר, הנסיוב נפסל כחלש מדי.",
+   "source": "src3",
+   "quote": "The mixture was to be such that the test animal would die after four days. If it died earlier, the serum was too weak and was rejected.",
+   "status": "confirmed",
+   "locator": "שורה 53"
+  },
+  {
+   "id": "c29",
+   "text": "רק פון בהרינג קיבל את פרס נובל הראשון ברפואה, ב-1901, על תרומתו למחקר הדיפתריה.",
+   "source": "src3",
+   "quote": "Only von Behring received the first Nobel Prize in Medicine, in 1901, for contributions to research on diphtheria.[6]",
+   "status": "confirmed",
+   "locator": "שורה 50"
+  },
+  {
+   "id": "c30",
+   "text": "רק שבע שנים מאוחר יותר הכירה האקדמיה השוודית בתרומת ארליך להתאמת הטיפול הנסיובי ליישום רפואי בפועל.",
+   "source": "src5",
+   "quote": "it was not until 7 years later when the Swedish academy recognized Ehrlich's contribution in adapting this therapy to actual medical application",
+   "status": "confirmed",
+   "locator": "שורה 38"
+  },
+  {
+   "id": "c32",
+   "text": "נימוק הפרס היה הכרה בעבודתם על חסינות.",
+   "source": "src6",
+   "quote": "Prize motivation: “in recognition of their work on immunity”",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c35",
+   "text": "לפי בריטניקה, תורת שרשראות הצד של ארליך תיארה כיצד נוצרים נוגדנים וכיצד הם מגיבים עם חומרים אחרים.",
+   "source": "src2",
+   "quote": "His side-chain theory described how antibodies are formed and react with other substances.",
+   "status": "confirmed",
+   "locator": "שורה 37"
+  },
+  {
+   "id": "c69",
+   "text": "ארליך קיבל את מדליית הזהב הגדולה הפרוסית למדע ב-1903, שניתנה לפניו רק לרודולף וירכוב.",
+   "source": "src5",
+   "quote": "Ehrlich's work was recognized with ten honorary doctorates and the Prussian Great Gold Medal for Science(1903), awarded previously only to Rudolf Virchow.",
+   "status": "confirmed",
+   "locator": "שורה 61"
+  },
+  {
+   "id": "c38",
+   "text": "ארליך הבין את מגבלות הטיפול הנסיובי: הרבה הפרעות זיהומיות, בעיקר אלה שנגרמו מפרוטוזואה, לא הגיבו אליו.",
+   "source": "src2",
+   "quote": "Many infectious disorders, in particular those caused by protozoa rather than bacteria, failed to respond to serum treatment.",
+   "status": "confirmed",
+   "locator": "שורה 73"
+  },
+  {
+   "id": "c39",
+   "text": "המכון המלכותי הפרוסי לתרפיה ניסיונית נפתח ב-1899, וארליך ניהל אותו עד מותו.",
+   "source": "src4",
+   "quote": "Opened in 1899, the Royal Prussian Institute for Experimental Therapy was directed by Ehrlich until his death sixteen years later.",
+   "status": "confirmed",
+   "locator": "שורה 23"
+  },
+  {
+   "id": "c40",
+   "text": "ב-1906 הוקם בית גיאורג שפייר, מכון מחקר לכימותרפיה, בנדבת פראנציסקה שפייר לזכר בעלה.",
+   "source": "src4",
+   "quote": "In 1906 the adjacent Research Institute for Chemotherapy (designated the Georg-Speyer-Haus) was erected and endowed by Franziska Speyer in memory of her late husband.",
+   "status": "confirmed",
+   "locator": "שורה 24"
+  },
+  {
+   "id": "c43",
+   "text": "ב-1907 סינתזו ארליך ובֶּרטהיים ובדקו כמה מאות תרכובות נגזרות של אטוקסיל.",
+   "source": "src4",
+   "quote": "he and Bertheim synthesized and tested several hundred derivative compounds",
+   "status": "confirmed",
+   "locator": "שורה 31"
+  },
+  {
+   "id": "c44",
+   "text": "תרכובת 606 מסדרת הארסניקלים נדחתה ב-1907 כבלתי יעילה.",
+   "source": "src1",
+   "quote": "Among the arsenical drugs already tested for other purposes was one, the 606th of the series tested, which had been set aside in 1907 as being ineffective.",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c48",
+   "text": "האטה בדק את התרופה שנדחתה ומצא שהיא יעילה מאוד.",
+   "source": "src1",
+   "quote": "Hata did so and found that it was very effective.",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c49",
+   "text": "ב-19 באפריל 1910, בקונגרס לרפואה פנימית בוויסבאדן, דיווחו ארליך והאטה על גילוי הארספנמין ועל תוצאותיהם המעודדות.",
+   "source": "src5",
+   "quote": "On 19 April 1910, at the Congress for Internal Medicine at Wiesbaden, Ehrlich and Hata reported the discovery of arsphenamine",
+   "status": "confirmed",
+   "locator": "שורה 53"
+  },
+  {
+   "id": "c77",
+   "text": "נראה היה שנמצא \"כדור הקסם\", ביטוי אהוב על ארליך.",
+   "source": "src2",
+   "quote": "It seemed as if a “magic bullet,” to use a favourite expression of Ehrlich’s, had been found.",
+   "status": "confirmed",
+   "locator": "שורה 76"
+  },
+  {
+   "id": "c59",
+   "text": "עבודתו של ארליך הובילה לסלברסן, הטיפול היעיל הראשון בעגבת, שסימן את תחילת עידן הכימותרפיה.",
+   "source": "src2",
+   "quote": "Ehrlich's work led to Salvarsan, the first effective syphilis treatment, marking the beginning of the chemotherapeutic era and revolutionizing infectious disease control before antibiotics.",
+   "status": "confirmed",
+   "locator": "שורה 56"
+  },
+  {
+   "id": "c57",
+   "text": "סלברסן היה התרופה היעילה ביותר לעגבת עד שהפניצילין הפך לזמין בשנות ה-40.",
+   "source": "src3",
+   "quote": "It was the most effective drug for treating syphilis until penicillin became available in the 1940s",
+   "status": "confirmed",
+   "locator": "שורה 73"
+  },
+  {
+   "id": "c10",
+   "text": "חיים ויצמן, נשיאה הראשון של ישראל, שכנע את ארליך לכהן בוועדת האוניברסיטה, וארליך הוריש כסף למכון נורדאו, מבשר האוניברסיטה העברית.",
+   "source": "src7",
+   "quote": "Weizmann, a noted chemist as well as Israel’s first President, convinced Ehrlich to serve on the University Committee, and when Ehrlich died in 1915, he bequeathed money to The Nordau Institute, a forerunner of The Hebrew University.",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c75",
+   "text": "לפי מכון נובל, שבץ שני שסיים את חייו פקד את ארליך ב-20 באוגוסט 1915.",
+   "source": "src1",
+   "quote": "he had, on August 20 of that year, a second stroke which ended his life",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c76",
+   "text": "לפי JewishGen, ארליך לקה ב-17 באוגוסט 1915 בהתקף לב ומת ב-20 באוגוסט.",
+   "source": "src3",
+   "quote": "On 17 August 1915 Ehrlich suffered a heart attack and died on 20 August.",
+   "status": "confirmed",
+   "locator": "שורה 29"
+  },
+  {
+   "id": "c72",
+   "text": "בהספד שלו ציין הטיימס הלונדוני את הישגו של ארליך בפתיחת דלתות חדשות אל הלא נודע ואמר כי העולם כולו חייב לו.",
+   "source": "src2",
+   "quote": "In its obituary the London Times acknowledged Ehrlich’s achievement in opening new doors into the unknown, saying, “The whole world is in his debt.”",
+   "status": "confirmed",
+   "locator": "שורה 78"
+  },
+  {
+   "id": "c27",
+   "text": "לפי אנציקלופדיה.קום, בהרינג התגבר על קשיי ייצור האנטי-רעלן בכך שניצל את עזרת ארליך, והשיג לעצמו חוזה משתלם.",
+   "source": "src4",
+   "quote": "Meanwhile, Behring had overcome serious difficulties in diphtheria antitoxin production by exploiting Ehrlich’s assistance, procuring for himself a remunerative contract for supervising commercial manufacture of antitoxin.",
+   "status": "confirmed",
+   "locator": "שורה 19"
+  },
+  {
+   "id": "c28",
+   "text": "ארליך נאלץ בסופו של דבר להסכים לחלק של שמונה אחוזים בלבד מהרווחים.",
+   "source": "src3",
+   "quote": "Their contract was changed several times and finally Ehrlich was eventually pressured into accepting a profit share of only eight percent.",
+   "status": "confirmed",
+   "locator": "שורה 50"
+  },
+  {
+   "id": "c34",
+   "text": "לפי ביוגרפיה שמצטט הפורוורד, פרס נובל של ארליך התעכב משום שארהניוס, מדען שוודי בוועדה, נרגז מה\"אווירה היהודית הבולטת\" במכון.",
+   "source": "src7",
+   "quote": "Ehrlich’s Nobel Prize was delayed because Svante Arrhenius, a powerful Swedish scientist on the Nobel committee, was irked by the “markedly Jewish atmosphere” of Ehrlich’s Institute.",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c36",
+   "text": "ב-1901 פתח מקס פון גרובר פולמוס בן שנתיים נגד תורת שרשראות הצד, שהפך עד מהרה למעליב.",
+   "source": "src4",
+   "quote": "In 1901 Max von Gruber launched a twoyear polemic, which became inexcusably insulting, against the side-chain theory.",
+   "status": "confirmed",
+   "locator": "שורה 28"
+  },
+  {
+   "id": "c62",
+   "text": "קנאים ופרשנים סנסציוניים האשימו את ארליך בשרלטנות, ברדיפת רווחים ובניסויים חסרי רחמים.",
+   "source": "src4",
+   "quote": "Fanatic sensationalists accused him of charlatanism, profiteering, and ruthless experimentalism.",
+   "status": "confirmed",
+   "locator": "שורה 37"
+  },
+  {
+   "id": "c65",
+   "text": "ארליך הואשם, בנימות אנטישמיות ברורות, בהתעשרות מופרזת.",
+   "source": "src3",
+   "quote": "Ehrlich was also accused, with clearly anti-Semitic undertones, of excessively enriching himself.",
+   "status": "confirmed",
+   "locator": "שורה 74"
+  },
+  {
+   "id": "c63",
+   "text": "במרץ 1914 תמך הרייכסטאג בסלברסן וקבע שהוא העשרה ערכית מאוד של התרופות נגד עגבת.",
+   "source": "src4",
+   "quote": "until in March 1914 the Reichstag, forced to debate the merits of Salvarsan, endorsed it as “a very valuable enrichment of the remedies against syphilis.”",
+   "status": "confirmed",
+   "locator": "שורה 37"
+  },
+  {
+   "id": "c64",
+   "text": "המכפיש הגרוע ביותר מבין מתנגדיו של ארליך נידון למאסר.",
+   "source": "src2",
+   "quote": "The most libelous among them was given a jail sentence.",
+   "status": "confirmed",
+   "locator": "שורה 77"
+  },
+  {
+   "id": "c68",
+   "text": "פאול אוהלנהוט, מקורבו של ארליך, טען לבכורה בגילוי התרופה.",
+   "source": "src3",
+   "quote": "In addition, Ehrlich's associate, Paul Uhlenhuth claimed priority in discovering the drug.",
+   "status": "confirmed",
+   "locator": "שורה 74"
+  },
+  {
+   "id": "c8",
+   "text": "בפרנקפורט הוסר שמו של רחוב פאול ארליך כשהחלו רדיפות היהודים, משום שארליך היה יהודי.",
+   "source": "src1",
+   "quote": "later, when the Jewish persecution began, this name was removed because Ehrlich was a Jew.",
+   "status": "confirmed",
+   "locator": "שורה 13"
+  },
+  {
+   "id": "c9",
+   "text": "עד 1940 שינו הנאצים את שם הרחוב בפרנקפורט שבו שכן מכונו של ארליך, משום שהיה יהודי.",
+   "source": "src7",
+   "quote": "By 1940, the Frankfurt street in which Ehrlich’s Institute had been located, previously Paul Ehrlichstrasse, had been renamed by the Nazis because Ehrlich was Jewish.",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c73",
+   "text": "בתקופת הרייך השלישי הוזנחו הישגי ארליך, ואילו פון בהרינג הוצג כמדען הארי האידיאלי.",
+   "source": "src3",
+   "quote": "During the Third Reich, Ehrlich's achievements were ignored while Emil Adolf von Behring was stylized as the ideal Aryan scientist",
+   "status": "confirmed",
+   "locator": "שורה 79"
+  },
+  {
+   "id": "c74",
+   "text": "הממשל הנאצי התנגד להוקרה למדען יהודי בסרט על ארליך מ-1940, ונעשו ניסיונות להסתיר את הסרט בגרמניה.",
+   "source": "src3",
+   "quote": "Since the Nazi government was opposed to this tribute to a Jewish scientist, attempts were made to keep the film a secret in Germany.",
+   "status": "confirmed",
+   "locator": "שורה 85"
+  },
+  {
+   "id": "c78",
+   "text": "זמן קצר לאחר המלחמה הוחזר השם פאול-ארליך-שטראסה, וערים גרמניות רבות קראו רחובות על שמו.",
+   "source": "src3",
+   "quote": "Shortly after the end of the war the name Paul-Ehrlich-Strasse was reinstated and today numerous German cities have streets named after Paul Ehrlich.",
+   "status": "confirmed",
+   "locator": "שורה 79"
+  },
+  {
+   "id": "c5",
+   "text": "לפי אנציקלופדיה.קום, ארליך היה הבן היחיד והילד הרביעי של אב יהודי שהיה מזקק, בעל פונדק ואוסף הגרלות.",
+   "source": "src4",
+   "quote": "He was the only son and fourth child of Ismar Ehrlich, a respected but somewhat eccentric Jewish distiller, innkeeper, and lottery collector",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c6",
+   "text": "ארליך היה הילד השני של איסמר ורוזה ארליך.",
+   "source": "src3",
+   "quote": "Paul Ehrlich was the second child of Ismar and Rosa Ehrlich.",
+   "status": "confirmed",
+   "locator": "שורה 21"
+  },
+  {
+   "id": "c12",
+   "text": "לפי JewishGen, ארליך קיבל את הדוקטורט ב-1882 ואחר כך עבד בשריטה בברלין.",
+   "source": "src3",
+   "quote": "After obtaining his doctorate in 1882, he worked at the Charité in Berlin as an assistant medical director under Theodor Frerichs",
+   "status": "confirmed",
+   "locator": "שורה 22"
+  },
+  {
+   "id": "c50",
+   "text": "לפי המאמר בפרמקולוגיה, מכונו של ארליך סיפק 65,000 דגימות חינם לניסויים קליניים נוספים.",
+   "source": "src5",
+   "quote": "Their announcement at this congress led to a large number of requests, which Ehrlich's institute fulfilled by dispensing 65,000 free samples so that further clinical trials could be done.",
+   "status": "confirmed",
+   "locator": "שורה 53"
+  },
+  {
+   "id": "c51",
+   "text": "לפי בריטניקה, היצרן פארבוורקה-הואכסט הפיץ 65,000 יחידות חינם לרופאים ברחבי העולם.",
+   "source": "src2",
+   "quote": "the manufacturer with whom Ehrlich had collaborated closely, Farbwerke-Hoechst, released a total of 65,000 units gratis to physicians all over the globe",
+   "status": "confirmed",
+   "locator": "שורה 77"
+  },
+  {
+   "id": "c52",
+   "text": "לפי אנציקלופדיה.קום, בית גיאורג שפייר סיפק עד סוף השנה כ-65,000 מנות חינם.",
+   "source": "src4",
+   "quote": "By the year’s end, when the full resources of the Georg-Speyer-Haus had provided about 65,000 doses gratis",
+   "status": "confirmed",
+   "locator": "שורה 35"
+  },
+  {
+   "id": "c60",
+   "text": "לפי JewishGen, סלברסן הוחלף בניאוסלברסן ב-1911.",
+   "source": "src3",
+   "quote": "Salvarsan required improvement as to side effects and solubility and was replaced in 1911 with Neosalvarsan.",
+   "status": "confirmed",
+   "locator": "שורה 73"
+  },
+  {
+   "id": "c61",
+   "text": "לפי אנציקלופדיה.קום, ניאוסלברסן הוכנס לשימוש קליני ב-1912.",
+   "source": "src4",
+   "quote": "It was introduced for clinical use in 1912 as Neosalvarsan.",
+   "status": "confirmed",
+   "locator": "שורה 36"
+  },
+  {
+   "id": "c70",
+   "text": "לפי המאמר בפרמקולוגיה, עבודתו של ארליך זכתה להכרה בעשרה תארי דוקטור לכבוד.",
+   "source": "src5",
+   "quote": "Ehrlich's work was recognized with ten honorary doctorates and the Prussian Great Gold Medal for Science(1903), awarded previously only to Rudolf Virchow.",
+   "status": "confirmed",
+   "locator": "שורה 61"
+  },
+  {
+   "id": "c71",
+   "text": "לפי אנציקלופדיה.קום, הוענקו לארליך שנים עשר אותות הוקרה וחמישה תארי דוקטור לכבוד.",
+   "source": "src4",
+   "quote": "Twelve orders (ten from foreign governments) and five honorary doctorates were conferred on him.",
+   "status": "confirmed",
+   "locator": "שורה 39"
+  }
+ ],
+ "sources": [
+  {
+   "id": "src1",
+   "label": "NobelPrize.org, Paul Ehrlich – Biographical",
+   "url": "https://www.nobelprize.org/prizes/medicine/1908/ehrlich/biographical/",
+   "kind": "official"
+  },
+  {
+   "id": "src2",
+   "label": "Encyclopaedia Britannica, Paul Ehrlich",
+   "url": "https://www.britannica.com/biography/Paul-Ehrlich",
+   "kind": "reference"
+  },
+  {
+   "id": "src3",
+   "label": "JewishGen KehilaLinks, Paul Ehrlich",
+   "url": "https://kehilalinks.jewishgen.org/wroclaw/Paul_Ehrlich.html",
+   "kind": "press"
+  },
+  {
+   "id": "src4",
+   "label": "Encyclopedia.com, Paul Ehrlich",
+   "url": "https://www.encyclopedia.com/people/medicine/medicine-biographies/paul-ehrlich",
+   "kind": "reference"
+  },
+  {
+   "id": "src5",
+   "label": "PubMed Central, מאמר על ארליך",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2790789",
+   "kind": "official"
+  },
+  {
+   "id": "src6",
+   "label": "NobelPrize.org, Paul Ehrlich – Facts",
+   "url": "https://www.nobelprize.org/prizes/medicine/1908/ehrlich/facts/",
+   "kind": "official"
+  },
+  {
+   "id": "src7",
+   "label": "The Forward, Paul Ehrlich, a 'Markedly Jewish' Humanitarian",
+   "url": "https://forward.com/schmooze/148647/paul-ehrlich-a-markedly-jewish-humanitarian/",
+   "kind": "press"
+  }
+ ],
+ "media": [
+  {
+   "id": "m2",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Ehrlich%20by%20Franz%20Wilhelm%20Voigt%202014.031.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Paul_Ehrlich_by_Franz_Wilhelm_Voigt_2014.031.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Franz Wilhelm Voigt",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "דיוקן שמן של פאול ארליך, מאת פרנץ וילהלם פויגט, ובו גבר מזוקן בחליפה ומאחוריו מדפים עם צנצנות.",
+   "illustrates": [
+    "c31"
+   ],
+   "date": "1920date Q",
+   "width": 5470,
+   "height": 6497
+  },
+  {
+   "id": "m3",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Ehrlich%201915.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Paul_Ehrlich_1915.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Harris &amp; Ewing",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "פורטרט בשחור-לבן של פאול ארליך בפרופיל חלקי, עם משקפיים עגולים וזקן לבן.",
+   "illustrates": [],
+   "date": "1915",
+   "width": 3123,
+   "height": 4167
+  },
+  {
+   "id": "m4",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Ehrlich%202.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Paul_Ehrlich_2.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Unknown authorUnknown author",
+   "licence": "CC BY 4.0",
+   "hosting": "hotlink",
+   "caption": "פאול ארליך יושב עם סיגר בידו וספר על ברכיו.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/4.0",
+   "date": "Unknown da",
+   "width": 2528,
+   "height": 3276
+  },
+  {
+   "id": "m5",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/PaulEhrlich%202.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:PaulEhrlich_2.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Der wilde bernd",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "לוח זיכרון בצורת עמוד שחור עם כדורים מוזהבים, ועליו טקסט ותמונה של פאול ארליך, בפרנקפורט.",
+   "illustrates": [
+    "c31"
+   ],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2021-08-21",
+   "width": 3472,
+   "height": 4624
+  },
+  {
+   "id": "m6",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/PaulEhrlich%203.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:PaulEhrlich_3.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Der wilde bernd",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "עמוד הנצחה לפאול ארליך ולכדור הקסם שלו, עם דיוקן גדול שלו, טקסט ותרשים כימי.",
+   "illustrates": [
+    "c77"
+   ],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2021-08-21",
+   "width": 3472,
+   "height": 4624
+  },
+  {
+   "id": "m7",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/PaulEhrlich%201.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:PaulEhrlich_1.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Der wilde bernd",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "עמוד הנצחה שחור על הדשא, ועליו הכיתוב \"Paul Ehrlich und seine Zauberkugel\" (פאול ארליך וכדור הקסם שלו).",
+   "illustrates": [
+    "c77"
+   ],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2021-08-21",
+   "width": 3472,
+   "height": 4624
+  },
+  {
+   "id": "m8",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=e6iic8OD540",
+   "youtube_id": "e6iic8OD540",
+   "source_page": "https://www.youtube.com/watch?v=e6iic8OD540",
+   "source_name": "YouTube",
+   "credit": "The World’s First",
+   "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "סרט על פרס נובל הראשון ברפואה, שהוענק לאמיל פון בהרינג על הנסיוב נגד דיפתריה, ועל המאמר שהיו לו שני מחברים.",
+   "illustrates": [
+    "c29"
+   ],
+   "spoken": "en",
+   "audio_tracks": [
+    "en",
+    "es",
+    "hi",
+    "id",
+    "ja",
+    "ko",
+    "pt"
+   ]
+  },
+  {
+   "id": "m9",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=lgCw61jdsaw",
+   "youtube_id": "lgCw61jdsaw",
+   "source_page": "https://www.youtube.com/watch?v=lgCw61jdsaw",
+   "source_name": "YouTube",
+   "credit": "LAUREATE LEGENDS",
+   "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "סרט תיעודי על חייו של אמיל פון בהרינג ועל השאלה אם נטל לעצמו את הקרדיט על הנסיוב נגד דיפתריה.",
+   "illustrates": [
+    "c27",
+    "c29"
+   ],
+   "spoken": "en",
+   "audio_tracks": [
+    "en",
+    "de",
+    "es",
+    "fr",
+    "hi",
+    "id",
+    "it",
+    "ja",
+    "ml",
+    "nl",
+    "pl",
+    "pt",
+    "uk"
+   ]
+  },
+  {
+   "id": "m10",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=mCMv3X2HwwY",
+   "youtube_id": "mCMv3X2HwwY",
+   "source_page": "https://www.youtube.com/watch?v=mCMv3X2HwwY",
+   "source_name": "YouTube",
+   "credit": "AWARDS WORLDWIDE",
+   "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "סרט על אמיל פון בהרינג, חתן פרס נובל ברפואה ב-1901, ועל תרומתו לטיפול בדיפתריה.",
+   "illustrates": [
+    "c29"
+   ],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m11",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=PnYe-EjF-yc",
+   "youtube_id": "PnYe-EjF-yc",
+   "source_page": "https://www.youtube.com/watch?v=PnYe-EjF-yc",
+   "source_name": "YouTube",
+   "credit": "Chronicles of Fame",
+   "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "פרק בסדרה על אמיל פון בהרינג, \"המושיע מדיפתריה\".",
+   "illustrates": [
+    "c17"
+   ],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m12",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Ehrlich%20%281854-1915%29%20on%20the%20occasion%20of%20his%2060th%20birthday%20Wellcome%20M0013279.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Paul_Ehrlich_%281854-1915%29_on_the_occasion_of_his_60th_birthday_Wellcome_M0013279.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "לא צוין",
+   "licence": "CC BY 4.0",
+   "hosting": "hotlink",
+   "caption": "פאול ארליך מחזיק משקפיים, בצילום לרגל יום הולדתו ה-60",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/4.0",
+   "width": 2850,
+   "height": 3699,
+   "role": "deed"
+  },
+  {
+   "id": "m13",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Ehrlich.%20Photograph.%20Wellcome%20V0026326.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Paul_Ehrlich._Photograph._Wellcome_V0026326.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "לא צוין",
+   "licence": "CC BY 4.0",
+   "hosting": "hotlink",
+   "caption": "פורטרט בגוני ספיה של פאול ארליך הקשיש, עם משקפיים עגולים וזקן לבן",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/4.0",
+   "width": 2279,
+   "height": 3097,
+   "role": "deed"
+  },
+  {
+   "id": "m14",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Paul%20Ehrlich%20%281854-1915%29%20Wellcome%20M0011450.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Portrait_of_Paul_Ehrlich_%281854-1915%29_Wellcome_M0011450.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "לא צוין",
+   "licence": "CC BY 4.0",
+   "hosting": "hotlink",
+   "caption": "פאול ארליך עם משקפיים עגולים וסיגר ביד",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/4.0",
+   "width": 2642,
+   "height": 4201,
+   "role": "deed"
+  },
+  {
+   "id": "m15",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Ehrlich%20%281854-1915%29%20Wellcome%20M0013322.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Paul_Ehrlich_%281854-1915%29_Wellcome_M0013322.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "לא צוין",
+   "licence": "CC BY 4.0",
+   "hosting": "hotlink",
+   "caption": "פורטרט של פאול ארליך מאוסף וולקם",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/4.0",
+   "width": 2453,
+   "height": 3867,
+   "role": "deed"
+  },
+  {
+   "id": "m18",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Ehrlich.%20Photograph.%20Wellcome%20V0026327.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Paul_Ehrlich._Photograph._Wellcome_V0026327.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "לא צוין",
+   "licence": "CC BY 4.0",
+   "hosting": "hotlink",
+   "caption": "צילום פורטרט של פאול ארליך",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/4.0",
+   "width": 2385,
+   "height": 2946,
+   "role": "deed"
+  },
+  {
+   "id": "m19",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Ehrlich%20%281854-1915%29%20at%20work%20in%20his%20laboratory%20Wellcome%20M0013265.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Paul_Ehrlich_%281854-1915%29_at_work_in_his_laboratory_Wellcome_M0013265.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "לא צוין",
+   "licence": "CC BY 4.0",
+   "hosting": "hotlink",
+   "caption": "פאול ארליך בעבודה במעבדה שלו",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/4.0",
+   "width": 2950,
+   "height": 3643,
+   "role": "deed"
+  },
+  {
+   "id": "m20",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Ehrlich%20%281854-1915%29%20at%20work%20in%20his%20laboratory%20Wellcome%20M0013266.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Paul_Ehrlich_%281854-1915%29_at_work_in_his_laboratory_Wellcome_M0013266.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "לא צוין",
+   "licence": "CC BY 4.0",
+   "hosting": "hotlink",
+   "caption": "פאול ארליך בעבודה במעבדה שלו, רגע נוסף",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/4.0",
+   "width": 2850,
+   "height": 3826,
+   "role": "deed"
+  },
+  {
+   "id": "m21",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Ehrlich%20in%20seinem%20Laboratorium.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Paul_Ehrlich_in_seinem_Laboratorium.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Waldemar Franz Hermann Titzenthaler",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "פאול ארליך במעבדה של המכון שלו בפרנקפורט שעל המיין",
+   "illustrates": [],
+   "date": "1910",
+   "width": 1328,
+   "height": 1829,
+   "role": "deed"
+  },
+  {
+   "id": "m22",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Ehrlich%2C%20c.%201910.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Paul_Ehrlich%2C_c._1910.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Unknown author, photo from SSPL/Getty Images",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "פאול ארליך עם כלי מעבדה, בסביבות 1910",
+   "illustrates": [],
+   "date": "circa 1910",
+   "width": 838,
+   "height": 1024,
+   "role": "deed"
+  },
+  {
+   "id": "m24",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20P.%20Ehrlich%20at%20work%20in%20his%20laboratory.%20Wellcome%20M0013263.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Portrait_of_P._Ehrlich_at_work_in_his_laboratory._Wellcome_M0013263.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "לא צוין",
+   "licence": "CC BY 4.0",
+   "hosting": "hotlink",
+   "caption": "פאול ארליך בעבודה במעבדה",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/4.0",
+   "width": 3700,
+   "height": 2905,
+   "role": "deed"
+  },
+  {
+   "id": "m26",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Ehrlich%20at%20work%20in%20his%20laboratory%20Wellcome%20M0013272.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Paul_Ehrlich_at_work_in_his_laboratory_Wellcome_M0013272.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "לא צוין",
+   "licence": "CC BY 4.0",
+   "hosting": "hotlink",
+   "caption": "פאול ארליך בעבודה במעבדה, בוחן בעל חיים",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/4.0",
+   "width": 2650,
+   "height": 4233,
+   "role": "deed"
+  },
+  {
+   "id": "m27",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Paul%20Ehrlich%20%281854-1915%29%2C%20Medical%20Scientist%20%282575161071%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Portrait_of_Paul_Ehrlich_%281854-1915%29%2C_Medical_Scientist_%282575161071%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Smithsonian Institution from United States",
+   "licence": "No restrictions",
+   "hosting": "hotlink",
+   "caption": "פורטרט של פאול ארליך, צילום מלפני 1915",
+   "illustrates": [],
+   "licence_url": "https://www.flickr.com/commons/usage/",
+   "date": "2008-05-20",
+   "width": 1330,
+   "height": 2025,
+   "role": "deed"
+  },
+  {
+   "id": "m28",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Prof.%20Paul%20Ehrlich%20LCCN00650787.tif?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Prof._Paul_Ehrlich_LCCN00650787.tif",
+   "source_name": "Wikimedia Commons",
+   "credit": "George Grantham Bain Collection",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "פורטרט של פאול ארליך מאוסף ביין בספריית הקונגרס",
+   "illustrates": [],
+   "date": "1909",
+   "width": 3319,
+   "height": 4096,
+   "role": "deed"
+  },
+  {
+   "id": "m29",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Ehrlich%20Arbeitszimmer.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Paul_Ehrlich_Arbeitszimmer.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Waldemar Franz Hermann Titzenthaler",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "פאול ארליך בחדר העבודה שלו בפרנקפורט שעל המיין",
+   "illustrates": [],
+   "date": "1910",
+   "width": 1870,
+   "height": 1372,
+   "role": "deed"
+  },
+  {
+   "id": "m31",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Ehrlich%20%281854-1915%29%20Wellcome%20M0013850.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Paul_Ehrlich_%281854-1915%29_Wellcome_M0013850.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "לא צוין",
+   "licence": "CC BY 4.0",
+   "hosting": "hotlink",
+   "caption": "פורטרט של פאול ארליך",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/4.0",
+   "width": 2623,
+   "height": 4346,
+   "role": "deed"
+  },
+  {
+   "id": "m33",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Prof%20Ehrlich%2C%20SFA005001616.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Prof_Ehrlich%2C_SFA005001616.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Unknown authorUnknown author",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "פרופ' פאול ארליך, צילום מ-1912",
+   "illustrates": [],
+   "date": "1912",
+   "width": 3135,
+   "height": 2252,
+   "role": "deed"
+  },
+  {
+   "id": "m34",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bad%20Homburg%2C%20Paul-Ehrlich-Klinik%2C%20Gedenkstein.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Bad_Homburg%2C_Paul-Ehrlich-Klinik%2C_Gedenkstein.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Karsten Ratzke",
+   "licence": "CC0",
+   "hosting": "hotlink",
+   "caption": "אבן זיכרון ליד מרפאת פאול ארליך בבאד הומבורג",
+   "illustrates": [],
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "date": "2017-06-10",
+   "width": 3264,
+   "height": 4928,
+   "role": "related"
+  },
+  {
+   "id": "m36",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Instituto%20Butantan%202016%20090%20-%20Paul%20Ehrlich.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Instituto_Butantan_2016_090_-_Paul_Ehrlich.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Photograph by Mike Peel (www.mikepeel.net).",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "פסל חזה של פאול ארליך במכון בוטנטן בסאו פאולו, ברזיל",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2016-12-04",
+   "width": 3024,
+   "height": 4032,
+   "role": "related"
+  },
+  {
+   "id": "m41",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Ehrlich%20%281854-1915%29%20and%20Dr%20Sachs%20Wellcome%20M0013270.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Paul_Ehrlich_%281854-1915%29_and_Dr_Sachs_Wellcome_M0013270.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "לא צוין",
+   "licence": "CC BY 4.0",
+   "hosting": "hotlink",
+   "caption": "פאול ארליך ודוקטור זקס, כנראה במכון הנסיובים בפרנקפורט",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/4.0",
+   "width": 2750,
+   "height": 4055,
+   "role": "deed"
+  },
+  {
+   "id": "m42",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Ehrlich%20%281854-1915%29%20and%20his%20co-workers%20Wellcome%20M0011476.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Paul_Ehrlich_%281854-1915%29_and_his_co-workers_Wellcome_M0011476.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "לא צוין",
+   "licence": "CC BY 4.0",
+   "hosting": "hotlink",
+   "caption": "פאול ארליך ועמיתיו לעבודה, צילום קבוצתי בגינה עם שמות הנוכחים",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/4.0",
+   "width": 3444,
+   "height": 3115,
+   "role": "deed"
+  },
+  {
+   "id": "m43",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Ehrlich%20and%20his%20co-workers%20and%20assistants%20Wellcome%20M0013271.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Paul_Ehrlich_and_his_co-workers_and_assistants_Wellcome_M0013271.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "לא צוין",
+   "licence": "CC BY 4.0",
+   "hosting": "hotlink",
+   "caption": "פאול ארליך ועוזריו, כנראה במכון הנסיובים בפרנקפורט",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/4.0",
+   "width": 3816,
+   "height": 2754,
+   "role": "deed"
+  },
+  {
+   "id": "m45",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Ehrlich%27s%20assistants%20and%20laboratory%20animals%20Wellcome%20M0013269.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Paul_Ehrlich%27s_assistants_and_laboratory_animals_Wellcome_M0013269.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "לא צוין",
+   "licence": "CC BY 4.0",
+   "hosting": "hotlink",
+   "caption": "עוזריו של ארליך עם חיות מעבדה, ביניהן עיזים, כנראה במכון הנסיובים בפרנקפורט",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/4.0",
+   "width": 4000,
+   "height": 2813,
+   "role": "deed"
+  },
+  {
+   "id": "m47",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/DBP%201954%20197%20Paul%20Ehrlich%20und%20Emil%20Behring.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:DBP_1954_197_Paul_Ehrlich_und_Emil_Behring.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "scanned by NobbiP",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "בול גרמני של 1954 לציון 100 שנה להולדת פאול ארליך ואמיל פון בהרינג",
+   "illustrates": [],
+   "date": "September ",
+   "width": 830,
+   "height": 720,
+   "role": "deed"
+  },
+  {
+   "id": "m48",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Diagrams%20illustrating%20the%20side-chain%20theory%20of%20Paul%20Ehrlich%20Wellcome%20M0013303.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Diagrams_illustrating_the_side-chain_theory_of_Paul_Ehrlich_Wellcome_M0013303.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "לא צוין",
+   "licence": "CC BY 4.0",
+   "hosting": "hotlink",
+   "caption": "איור של תיאוריית שרשראות הצד של ארליך, שלבים 1 עד 4",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/4.0",
+   "width": 3071,
+   "height": 3561,
+   "role": "deed"
+  },
+  {
+   "id": "m49",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Diagrams%20illustrating%20the%20side-chain%20theory%20of%20Paul%20Ehrlich%20Wellcome%20M0013304.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Diagrams_illustrating_the_side-chain_theory_of_Paul_Ehrlich_Wellcome_M0013304.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "לא צוין",
+   "licence": "CC BY 4.0",
+   "hosting": "hotlink",
+   "caption": "איור של תיאוריית שרשראות הצד של ארליך, שלבים 5 עד 8",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/4.0",
+   "width": 2995,
+   "height": 3633,
+   "role": "deed"
+  },
+  {
+   "id": "m50",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Die%20elteren%20von%20Paul%20Ehrlich%20%281915%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Die_elteren_von_Paul_Ehrlich_%281915%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Unknown authorUnknown author",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "הוריו של פאול ארליך, שני דיוקנאות עגולים",
+   "illustrates": [],
+   "date": "1915",
+   "width": 1018,
+   "height": 526,
+   "role": "deed"
+  },
+  {
+   "id": "m51",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/DNB%20Leipzig%20B%C3%BCste%20Paul%20Ehrlich.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:DNB_Leipzig_B%C3%BCste_Paul_Ehrlich.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Frupa",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "פסל חזה מאבן של פאול ארליך בחדר הקריאה של הספרייה הלאומית הגרמנית בלייפציג",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2025-06-29",
+   "width": 3024,
+   "height": 4032,
+   "role": "related"
+  },
+  {
+   "id": "m53",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Ehrlich%20Institut%20building%20Langen%20-%202022-05-16.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Paul_Ehrlich_Institut_building_Langen_-_2022-05-16.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Wvdp",
+   "licence": "CC0",
+   "hosting": "hotlink",
+   "caption": "הבניין הראשי של מכון פאול ארליך בלנגן, הסן",
+   "illustrates": [],
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "date": "2022-05-16",
+   "width": 4080,
+   "height": 3072,
+   "role": "related"
+  },
+  {
+   "id": "m55",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/%27Serum%20straight%20from%20the%20horse%27.%2C%20inoculation%20caricature%20Wellcome%20L0009827.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:%27Serum_straight_from_the_horse%27.%2C_inoculation_caricature_Wellcome_L0009827.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "לא צוין",
+   "licence": "CC BY 4.0",
+   "hosting": "hotlink",
+   "caption": "קריקטורה גרמנית: בהרינג מוציא נסיוב ישירות מסוס בברז",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/4.0",
+   "width": 1688,
+   "height": 1214,
+   "role": "related"
+  },
+  {
+   "id": "m56",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Emil%20v.%20Behring%20Nobel%201901.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Emil_v._Behring_Nobel_1901.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Creator:Agi Lindegren[1]",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "תעודת פרס נובל ברפואה של אמיל פון בהרינג, 1901",
+   "illustrates": [],
+   "date": "1901-11",
+   "width": 1256,
+   "height": 883,
+   "role": "related"
+  },
+  {
+   "id": "m57",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Behring%20Neapel%201895%20gro%C3%9F.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Behring_Neapel_1895_gro%C3%9F.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Luigi Lamarra, Fotograf in Neapel",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "אמיל בהרינג בפורטרט משנת 1895 בנאפולי, עם הקדשה בכתב יד",
+   "illustrates": [],
+   "date": "1895",
+   "width": 2865,
+   "height": 4193,
+   "role": "related"
+  },
+  {
+   "id": "m59",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bottle%20of%20Behring%27s%20diphtheria%20remedy%2C%20Germany%2C%201914-1918%20Wellcome%20L0058480.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Bottle_of_Behring%27s_diphtheria_remedy%2C_Germany%2C_1914-1918_Wellcome_L0058480.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "לא צוין",
+   "licence": "CC BY 4.0",
+   "hosting": "hotlink",
+   "caption": "צנצנת של נסיוב נגד דיפתריה של בהרינג, גרמניה, 1914 עד 1918",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/4.0",
+   "width": 2832,
+   "height": 4256,
+   "role": "related"
+  }
+ ],
+ "check": {
+  "passed": true,
+  "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
+  "checked_at": "2026-11-21T22:17:29Z",
+  "counts": {
+   "confirmed": 84,
+   "not_confirmed": 0,
+   "deleted_sentences": 2,
+   "first_round_confirmed": 82,
+   "first_round_contradicted": 1,
+   "first_round_unverifiable": 2
+  },
+  "note": "unverifiable sentences were deleted, contradicted ones fixed from the source and checked again"
+ },
+ "meta": {
+  "run": "paul-ehrlich-diphtheria-antitoxin",
+  "pipeline": "scripts/museum/museum_line.py",
+  "models": {
+   "research": "sonnet-5-5",
+   "extract": "sonnet-5-5",
+   "media": "sonnet-5-5",
+   "write": "opus-5-5 medium",
+   "check": "opus-5-5 medium",
+   "fix": "opus-5-5 medium"
+  },
+  "source_quality": {
+   "sources": 7,
+   "wikipedia": 0,
+   "strong": 5,
+   "ok": true,
+   "warnings": []
+  },
+  "media_dedupe": [
+   {
+    "drop": "m16",
+    "keep": "m3",
+    "by": "reviewed 24.11"
+   },
+   {
+    "drop": "m1",
+    "keep": "m15",
+    "by": "reviewed 24.11"
+   }
+  ],
+  "wiki_cleanup": {
+   "at": "2026-11-27T15:10:12Z",
+   "targets": 0,
+   "resourced": 0,
+   "kept_on_other_sources": 0,
+   "deleted": 0
+  }
+ }
 }

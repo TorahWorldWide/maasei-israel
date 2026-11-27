@@ -321,7 +321,7 @@
      {
       "text": "In 1909 he opened a tuberculosis preventorium for children in Lakewood, New Jersey; the facility was later moved to Farmingdale.",
       "claims": [
-       "c69"
+       "c77"
       ]
      },
      {
@@ -371,9 +371,9 @@
       ]
      },
      {
-      "text": "According to Wikipedia, he also made possible the founding of a Pasteur Institute.",
+      "text": "He also made possible the establishment of the Pasteur Institute.",
       "claims": [
-       "c54"
+       "c78"
       ]
      },
      {
@@ -393,13 +393,8 @@
      {
       "text": "The city's founders hoped he would contribute to its development, but Straus no longer had anything left to give.",
       "claims": [
-       "c49"
-      ]
-     },
-     {
-      "text": "According to Wikipedia, in 1912 Straus broke his leg on a visit to Palestine, and so could not join his brother Isidor on the Titanic.",
-      "claims": [
-       "c65"
+       "c79",
+       "c80"
       ]
      }
     ]
@@ -449,8 +444,15 @@
      {
       "text": "In 1894 Straus was offered the nomination for mayor, but he did not run.",
       "claims": [
-       "c73",
-       "c74"
+       "c73"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to the Berman Jewish Policy Archive, he was offered the Democratic nomination and declined",
+      "claims": [
+       "c73"
       ]
      }
     ]
@@ -460,9 +462,7 @@
     "m12",
     "m17"
    ],
-   "disagreements": [
-    "d12"
-   ]
+   "disagreements": []
   },
   {
    "id": "s7",
@@ -505,8 +505,8 @@
      {
       "text": "He died in Manhattan on January 11, 1931, a few weeks before his 83rd birthday.",
       "claims": [
-       "c5",
-       "c64"
+       "c64",
+       "c81"
       ]
      },
      {
@@ -791,9 +791,9 @@
      ]
     },
     {
-     "says": "According to Wikipedia, $250,000 for the center in Jerusalem",
+     "says": "$250,000 for the center in Jerusalem",
      "claims": [
-      "c54"
+      "c82"
      ]
     }
    ]
@@ -821,33 +821,15 @@
    "question": "Why was Straus not on the Titanic?",
    "versions": [
     {
-     "says": "According to Wikipedia, he broke his leg on a visit to Palestine in 1912",
+     "says": "He broke his leg during a visit to Palestine in 1912",
      "claims": [
-      "c65"
+      "c83"
      ]
     },
     {
      "says": "According to The Jewish Press, he delayed his return because he felt he had much more work to do on behalf of the Jews of the Land of Israel",
      "claims": [
       "c66"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "d12",
-   "question": "Why did Straus not run for mayor in 1894?",
-   "versions": [
-    {
-     "says": "According to the Berman Jewish Policy Archive, he was offered the Democratic nomination and declined",
-     "claims": [
-      "c73"
-     ]
-    },
-    {
-     "says": "According to Wikipedia, Tammany Hall selected him, and he withdrew when his friends in society threatened to shun him",
-     "claims": [
-      "c74"
      ]
     }
    ]
@@ -1151,14 +1133,6 @@
    "locator": "שורה 20"
   },
   {
-   "id": "c69",
-   "text": "ב-1909 פתח שטראוס פרוונטוריום לילדים נגד שחפת בלייקווד, ניו ג'רזי, שהועבר אחר כך לפארמינגדייל.",
-   "source": "src11",
-   "quote": "he opened the Tuberculosis Preventorium for Children at Lakewood Township, New Jersey (later it was moved to Farmingdale, New Jersey) in 1909",
-   "status": "confirmed",
-   "locator": "שורה 45"
-  },
-  {
    "id": "c47",
    "text": "ב-1911 מינה הנשיא טאפט את שטראוס לנציג היחיד של ארצות הברית לקונגרס הבינלאומי להגנת תינוקות בברלין.",
    "source": "src3",
@@ -1199,36 +1173,12 @@
    "locator": "שורה 34"
   },
   {
-   "id": "c54",
-   "text": "לפי ויקיפדיה, שטראוס העמיד 250,000 דולר להקמת מרכז הבריאות בירושלים ואפשר הקמת מכון פסטר.",
-   "source": "src11",
-   "quote": "He provided $250,000 for the establishment of the Jerusalem Health Center and made possible the founding of a Pasteur Institute.",
-   "status": "confirmed",
-   "locator": "שורה 53"
-  },
-  {
    "id": "c58",
    "text": "לפי דיווחים מאוחרים, שטראוס והדסה הניחו יסודות למערכת הבריאות של מדינת ישראל המודרנית.",
    "source": "src2",
    "quote": "Later accounts would credit him and his organizational partner, Hadassah, with laying foundations for the state health system of modern Israel.",
    "status": "confirmed",
    "locator": "שורה 16"
-  },
-  {
-   "id": "c49",
-   "text": "מייסדי נתניה קיוו שיתרום לפיתוח העיר, אך לשטראוס כבר לא היה מה לתת.",
-   "source": "src11",
-   "quote": "The city's founders had hoped that he would contribute towards the development of the city, but Straus didn't have anything to give",
-   "status": "confirmed",
-   "locator": "שורה 56"
-  },
-  {
-   "id": "c65",
-   "text": "לפי ויקיפדיה, שטראוס שבר רגל בביקור בפלשתינה ב-1912 ולא יכול היה להצטרף לאחיו איזידור על הטיטניק.",
-   "source": "src11",
-   "quote": "Straus broke his leg on a 1912 visit to Palestine and was unable to join his brother, Isidor, on the RMS Titanic.",
-   "status": "confirmed",
-   "locator": "שורה 55"
   },
   {
    "id": "c71",
@@ -1271,14 +1221,6 @@
    "locator": "שורה 8"
   },
   {
-   "id": "c74",
-   "text": "לפי ויקיפדיה, ב-1894 נבחר על ידי טמני הול להתמודד לראשות העיר, אך פרש כשחבריו מהחברה איימו להתנכר לו.",
-   "source": "src11",
-   "quote": "In 1894 he was selected by Tammany Hall to run for Mayor on the Democratic ticket, but withdrew from the race when his friends in society threatened to shun him if he did.",
-   "status": "confirmed",
-   "locator": "שורה 44"
-  },
-  {
    "id": "c44",
    "text": "העורך ארתור בריסביין אמר שכששואלים מי עשה הכי הרבה להגנת הילד, צריך להצביע על יהודי.",
    "source": "src10",
@@ -1317,14 +1259,6 @@
    "quote": "Straus contributed the great bulk of his fortune to philanthropic causes during his lifetime",
    "status": "confirmed",
    "locator": "שורה 17"
-  },
-  {
-   "id": "c5",
-   "text": "נתן שטראוס מת ב-11 בינואר 1931 במנהטן, ניו יורק.",
-   "source": "src11",
-   "quote": "Nathan Straus died on January 11, 1931, in Manhattan, New York City.",
-   "status": "confirmed",
-   "locator": "שורה 57"
   },
   {
    "id": "c64",
@@ -1501,6 +1435,62 @@
    "quote": "Nathan again delayed because he felt he had so much more work to do on behalf of Jews in Eretz Yisrael",
    "status": "confirmed",
    "locator": "שורה 34"
+  },
+  {
+   "id": "c77",
+   "text": "ב-1909 פתח פרוונטוריום לילדים נגד שחפת בלייקווד, ניו ג'רזי, ואחר כך הועבר המקום לפארמינגדייל.",
+   "source": "src13",
+   "quote": "a refuge was provided for the children near Farmingdale, N. J., and they were cared for in the farm house until permanent",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c78",
+   "text": "הוא גם אפשר את הקמת מכון פסטר.",
+   "source": "src14",
+   "quote": "He also established a Pasteur Institute in Eretz Yisrael.",
+   "status": "confirmed",
+   "locator": "שורה 38"
+  },
+  {
+   "id": "c79",
+   "text": "מייסדי העיר קיוו שיתרום לפיתוחה, אבל לשטראוס כבר לא נשאר מה לתת.",
+   "source": "src15",
+   "quote": "Alas, they came too late, as Straus had no more money to contribute.",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c80",
+   "text": "מייסדי העיר קיוו שיתרום לפיתוחה, אבל לשטראוס כבר לא נשאר מה לתת.",
+   "source": "src15",
+   "quote": "the hope was that by naming the city after him, Straus would bequeath additional funds to this new settlement.",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c81",
+   "text": "הוא מת במנהטן ב-11 בינואר 1931, כמה שבועות לפני יום הולדתו ה-83.",
+   "source": "src14",
+   "quote": "Straus died on January 11, 1931, in Manhattan.",
+   "status": "confirmed",
+   "locator": "שורה 57"
+  },
+  {
+   "id": "c82",
+   "text": "250,000 דולר למרכז בירושלים",
+   "source": "src16",
+   "quote": "Nathan Straus has given $250,000 for the creation of a Health Center in Jerusalem",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c83",
+   "text": "הוא שבר רגל בביקור בפלשתינה ב-1912",
+   "source": "src17",
+   "quote": "He broke his leg during a 1912 visit to Palestine and was therefore unable to join his brother Isidor",
+   "status": "confirmed",
+   "locator": "שורה 5"
   }
  ],
  "sources": [
@@ -1565,15 +1555,39 @@
    "kind": "press"
   },
   {
-   "id": "src11",
-   "label": "Wikipedia, Nathan Straus",
-   "url": "https://en.wikipedia.org/wiki/Nathan_Straus",
-   "kind": "reference"
-  },
-  {
    "id": "src12",
    "label": "My Jewish Learning / The Nosher",
    "url": "https://www.myjewishlearning.com/the-nosher/you-can-thank-this-jewish-american-philanthropist-for-pasteurized-milk/",
+   "kind": "press"
+  },
+  {
+   "id": "src13",
+   "label": "Nathan Straus, Disease in Milk, the Remedy Pasteurization (1917), full text on Internet Archive",
+   "url": "https://archive.org/stream/diseaseinmilkrem00strarich/diseaseinmilkrem00strarich_djvu.txt",
+   "kind": "book"
+  },
+  {
+   "id": "src14",
+   "label": "The Jewish Press: Nathan Straus: Shtadlan Extraordinaire, Zionist, And The 'American Pasteur'",
+   "url": "https://jewishpress.com/nathan-straus-shtadlan-extraordinaire-zionist-and-the-american-pasteur/",
+   "kind": "press"
+  },
+  {
+   "id": "src15",
+   "label": "The Jewish Link: Seaside Living",
+   "url": "https://jewishlink.news/seaside-living/",
+   "kind": "press"
+  },
+  {
+   "id": "src16",
+   "label": "Jewish Telegraphic Agency: Nathan Straus Increases Jerusalem Center Fund by $250,000 Contribution (29 December 1926)",
+   "url": "https://www.jta.org/archive/nathan-straus-increases-jerusalem-center-fund-by-250000-contribution",
+   "kind": "press"
+  },
+  {
+   "id": "src17",
+   "label": "San Diego Jewish World: Today's Jewish Birthday: Nathan Straus",
+   "url": "https://www.sdjewishworld.com/2024/01/31/todays-jewish-birthday-nathan-straus/",
    "kind": "press"
   }
  ],
@@ -1912,7 +1926,7 @@
   "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
   "checked_at": "2026-11-21T08:54:06Z",
   "counts": {
-   "confirmed": 106,
+   "confirmed": 104,
    "not_confirmed": 0,
    "deleted_sentences": 2,
    "first_round_confirmed": 104,
@@ -1933,11 +1947,18 @@
    "fix": "opus-5-5 medium"
   },
   "source_quality": {
-   "sources": 12,
-   "wikipedia": 1,
+   "sources": 16,
+   "wikipedia": 0,
    "strong": 11,
    "ok": true,
    "warnings": []
+  },
+  "wiki_cleanup": {
+   "at": "2026-11-27T15:10:59Z",
+   "targets": 9,
+   "resourced": 6,
+   "kept_on_other_sources": 1,
+   "deleted": 2
   }
  },
  "lang": "en",
@@ -1945,11 +1966,11 @@
   "from": "he",
   "translator": "claude-opus-5-5",
   "checker": "claude-opus-5-5 (separate call, blind to the translation prompt)",
-  "checked_at": "2026-11-21T09:47:54Z",
+  "checked_at": "2026-11-27T15:11:09Z",
   "passed": true,
-  "items": 151,
-  "pairs_checked": 7,
-  "reused": 144,
+  "items": 148,
+  "pairs_checked": 3,
+  "reused": 145,
   "first_round_flagged": 0,
   "still_flagged": 0,
   "flagged": [],

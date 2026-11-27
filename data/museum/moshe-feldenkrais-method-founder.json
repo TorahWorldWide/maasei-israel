@@ -588,12 +588,6 @@
       "claims": [
        "c65"
       ]
-     },
-     {
-      "text": "לפי ויקיפדיה, אין ראיות חותכות ליתרונות רפואיים של השיטה, אך חוקרים אינם סבורים שהיא כרוכה בסיכונים רציניים.",
-      "claims": [
-       "c77"
-      ]
      }
     ],
     [
@@ -606,19 +600,15 @@
      {
       "text": "ב-2017 קבעה ממשלת אוסטרליה שהשיטה לא תהיה זכאית לסבסוד ביטוחי.",
       "claims": [
-       "c79"
-      ]
-     },
-     {
-      "text": "דוח גרמני מ-2022 מצא שהראיות לשיפור בכאבי גב תחתון כרוני אינן עקביות, ולא מצא ראיות ליתרון ארוך טווח.",
-      "claims": [
-       "c80"
+       "c89",
+       "c90"
       ]
      },
      {
       "text": "דיוויד גורסקי כתב שהשיטה דומה לריפוי באמונה ו\"גובלת בשרלטנות\".",
       "claims": [
-       "c81"
+       "c92",
+       "c93"
       ]
      }
     ],
@@ -635,12 +625,18 @@
        "c52"
       ]
      }
+    ],
+    [
+     {
+      "text": "האנציקלופדיה: השיטה הייתה אחת מ-17 שיטות שנבחנו",
+      "claims": [
+       "c76"
+      ]
+     }
     ]
    ],
    "media": [],
-   "disagreements": [
-    "d8"
-   ]
+   "disagreements": []
   }
  ],
  "disagreements": [
@@ -794,24 +790,6 @@
      "says": "ynet: כ-1,000 מורים ברחבי העולם",
      "claims": [
       "c50"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "d8",
-   "question": "כמה שיטות בסקירה האוסטרלית נמצאו ללא ראיות ברורות?",
-   "versions": [
-    {
-     "says": "האנציקלופדיה: השיטה הייתה אחת מ-17 שיטות שנבחנו",
-     "claims": [
-      "c76"
-     ]
-    },
-    {
-     "says": "ויקיפדיה: השיטה הייתה אחת מ-16 שיטות ללא ראיות ברורות ליעילות",
-     "claims": [
-      "c78"
      ]
     }
    ]
@@ -1330,44 +1308,12 @@
    "locator": "שורה 65"
   },
   {
-   "id": "c77",
-   "text": "לפי ויקיפדיה, אין ראיות חותכות ליתרונות רפואיים של השיטה, אך חוקרים אינם סבורים שהיא מסכנת.",
-   "source": "src9",
-   "quote": "There is no conclusive evidence for any medical benefits of the therapy. However, researchers do not believe FM poses serious risks.",
-   "status": "confirmed",
-   "locator": "שורה 202"
-  },
-  {
    "id": "c76",
    "text": "סקירה של ממשלת אוסטרליה מ-2015 מצאה שאין ראיות ברורות ליעילות השיטה, אחת מ-17 שיטות שנבחנו.",
    "source": "src3",
    "quote": "the Feldenkrais Method was one of 17 therapies evaluated for which no clear evidence of effectiveness was found.",
    "status": "confirmed",
    "locator": "שורה 50"
-  },
-  {
-   "id": "c79",
-   "text": "ב-2017 קבעה ממשלת אוסטרליה שהשיטה לא תהיה זכאית לסבסוד ביטוחי.",
-   "source": "src9",
-   "quote": "Accordingly in 2017 the Australian government identified the Feldenkrais Method as a practice that would not qualify for insurance subsidy",
-   "status": "confirmed",
-   "locator": "שורה 229"
-  },
-  {
-   "id": "c80",
-   "text": "דוח גרמני מ-2022 מצא שהראיות לשיפור בכאבי גב תחתון כרוני אינן עקביות ולא נמצאו ראיות ליתרון ארוך טווח.",
-   "source": "src9",
-   "quote": "Evidence for helping chronic low back pain was inconsistent. The report found no evidence for long-term benefit of FM, or benefit for other conditions.",
-   "status": "confirmed",
-   "locator": "שורה 232"
-  },
-  {
-   "id": "c81",
-   "text": "דיוויד גורסקי כתב שהשיטה דומה לריפוי באמונה ושהיא \"גובלת בשרלטנות\".",
-   "source": "src9",
-   "quote": "David Gorski has written that the Method bears similarities to faith healing",
-   "status": "confirmed",
-   "locator": "שורה 234"
   },
   {
    "id": "c51",
@@ -1466,20 +1412,44 @@
    "locator": "שורה 18"
   },
   {
-   "id": "c78",
-   "text": "לפי ויקיפדיה, הסקירה האוסטרלית מצאה שהשיטה הייתה אחת מ-16 שיטות ללא ראיות ברורות ליעילות.",
-   "source": "src9",
-   "quote": "the Feldenkrais Method was one of 16 therapies for which no clear evidence of effectiveness was found.",
-   "status": "confirmed",
-   "locator": "שורה 229"
-  },
-  {
    "id": "c68",
    "text": "האנציקלופדיה מתארת את פלדנקרייז כמהנדס ופיזיקאי אוקראיני-ישראלי, ממייסדי שיטת פלדנקרייז.",
    "source": "src3",
    "quote": "was a Ukraine -Israeli engineer and physicist, known as the founder of the Feldenkrais Method",
    "status": "confirmed",
    "locator": "שורה 38"
+  },
+  {
+   "id": "c89",
+   "text": "ב-2017 קבעה ממשלת אוסטרליה שהשיטה לא תהיה זכאית לסבסוד ביטוחי.",
+   "source": "src10",
+   "quote": "the Australian government has now removed coverage for all 17 therapies studied in the initial review",
+   "status": "confirmed",
+   "locator": "שורה 25"
+  },
+  {
+   "id": "c90",
+   "text": "ב-2017 קבעה ממשלת אוסטרליה שהשיטה לא תהיה זכאית לסבסוד ביטוחי.",
+   "source": "src11",
+   "quote": "Alexander technique, aromatherapy, Bowen therapy, Buteyko, Feldenkrais,",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c92",
+   "text": "דיוויד גורסקי כתב שהשיטה דומה לריפוי באמונה ו\"גובלת בשרלטנות\".",
+   "source": "src12",
+   "quote": "as being much more akin to faith healing than science.",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c93",
+   "text": "דיוויד גורסקי כתב שהשיטה דומה לריפוי באמונה ו\"גובלת בשרלטנות\".",
+   "source": "src12",
+   "quote": "I'm left to come to the opinion that the Feldenkrais method borders on quackery.",
+   "status": "confirmed",
+   "locator": "שורה 18"
   }
  ],
  "sources": [
@@ -1532,10 +1502,22 @@
    "kind": "organisation"
   },
   {
-   "id": "src9",
-   "label": "Wikipedia, Feldenkrais method",
-   "url": "https://en.wikipedia.org/wiki/Feldenkrais_method",
-   "kind": "reference"
+   "id": "src10",
+   "label": "Science-Based Medicine: Australia ends insurance subsidies for naturopathy, homeopathy and more (פורסם 19.10.2017)",
+   "url": "https://sciencebasedmedicine.org/australia-ends-insurance-subsidies-for-naturopathy-homeopathy-and-more/",
+   "kind": "press"
+  },
+  {
+   "id": "src11",
+   "label": "Science-Based Medicine: Australia ends insurance subsidies for naturopathy, homeopathy and more (פורסם 19.10.2017)",
+   "url": "https://www.westernsydney.edu.au/nicm/news/private_health_insurance_reforms_announced",
+   "kind": "press"
+  },
+  {
+   "id": "src12",
+   "label": "Respectful Insolence (David Gorski): M.D. Anderson enters the blogosphere--and goes woo",
+   "url": "https://www.respectfulinsolence.com/2009/08/05/md-anderson-enters-the-blogosphere-and-g/",
+   "kind": "other"
   }
  ],
  "media": [
@@ -2079,7 +2061,7 @@
   "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
   "checked_at": "2026-11-21T04:08:38Z",
   "counts": {
-   "confirmed": 96,
+   "confirmed": 93,
    "not_confirmed": 0,
    "deleted_sentences": 2,
    "first_round_confirmed": 93,
@@ -2100,11 +2082,18 @@
    "fix": "opus-5-5 medium"
   },
   "source_quality": {
-   "sources": 9,
-   "wikipedia": 1,
+   "sources": 11,
+   "wikipedia": 0,
    "strong": 3,
    "ok": true,
    "warnings": []
+  },
+  "wiki_cleanup": {
+   "at": "2026-11-27T15:08:57Z",
+   "targets": 5,
+   "resourced": 2,
+   "kept_on_other_sources": 0,
+   "deleted": 3
   }
  }
 }

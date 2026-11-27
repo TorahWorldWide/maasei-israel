@@ -31,12 +31,6 @@
    "claims": [
     "c2"
    ]
-  },
-  {
-   "text": "לפי ויקיפדיה, בישראל של היום פועל ארגון ללא כוונת רווח בשם פעמונים לפי העיקרון הראשון של הרמב״ם.",
-   "claims": [
-    "c53"
-   ]
   }
  ],
  "hero_media": [
@@ -83,14 +77,8 @@
    "label": "המעלה העליונה",
    "value": "לעזור לעני להיות עצמאי",
    "claims": [
-    "c49"
-   ]
-  },
-  {
-   "label": "היום",
-   "value": "פעמונים, ארגון בישראל",
-   "claims": [
-    "c53"
+    "c57",
+    "c58"
    ]
   }
  ],
@@ -444,12 +432,6 @@
    "paragraphs": [
     [
      {
-      "text": "לפי ויקיפדיה, הרמב״ם ויוסף קארו הקדישו חלקים בספרי ההלכה שלהם לצדקה.",
-      "claims": [
-       "c51"
-      ]
-     },
-     {
       "text": "דף הרמב״ם בספריא מפנה להשוואה אל השולחן ערוך, יורה דעה רמ״ט.",
       "claims": [
        "c12"
@@ -464,15 +446,10 @@
     ],
     [
      {
-      "text": "ויקיפדיה מסכמת: לפי הרמב״ם, הרמה הגבוהה היא מתנה, הלוואה או שותפות שיביאו את המקבל לעצמאות.",
+      "text": "לפי הרמב״ם, הרמה הגבוהה היא מתנה, הלוואה או שותפות שיביאו את המקבל לעצמאות.",
       "claims": [
-       "c49"
-      ]
-     },
-     {
-      "text": "ולפי ויקיפדיה, בישראל פועל ארגון ללא כוונת רווח בשם פעמונים לפי העיקרון הראשון הזה.",
-      "claims": [
-       "c53"
+       "c60",
+       "c61"
       ]
      }
     ]
@@ -545,12 +522,6 @@
      "claims": [
       "c25"
      ]
-    },
-    {
-     "says": "ויקיפדיה מביאה הסבר אחד, שלפיו הנותן בעצב נותן מתוך עצב על מראה אנשים נזקקים, ולא מתוך חובה דתית",
-     "claims": [
-      "c52"
-     ]
     }
    ]
   },
@@ -616,14 +587,6 @@
    "locator": "שורה 13"
   },
   {
-   "id": "c53",
-   "text": "ויקיפדיה מציינת שפעמונים הוא ארגון ללא כוונת רווח בישראל הפועל לפי העיקרון הראשון של הרמב״ם.",
-   "source": "src3",
-   "quote": "Paamonim is a nonprofit organization in Israel that operates according to Maimonides' first principle.",
-   "status": "confirmed",
-   "locator": "שורה 253"
-  },
-  {
    "id": "c30",
    "text": "במאמר של פיליפ ליברמן נכתב שסביב 1177 אחיו של הרמב״ם דוד נספה בים סוף, בעת שהרמב״ם היה בתהליך עלייה בהנהגת הקהילה היהודית המצרית בקהיר.",
    "source": "src4",
@@ -646,14 +609,6 @@
    "quote": "הרמב\"ם מפרט את שמונה מעלות הצדקה, כשהוא מדרג אותן מהמעלה הגבוהה ביותר ועד הנמוכה ביותר",
    "status": "confirmed",
    "locator": "שורה 10"
-  },
-  {
-   "id": "c49",
-   "text": "לפי ויקיפדיה, הרמב״ם הגה מדרג של שמונה רמות צדקה שבו הרמה הגבוהה ביותר היא מתנה, הלוואה או שותפות שיביאו את המקבל לעצמאות.",
-   "source": "src3",
-   "quote": "In the Middle Ages, Maimonides conceived of an eight-level hierarchy of tzedakah, where the highest form is to give a gift, loan, or partnership that will result in the recipient becoming self-sufficient",
-   "status": "confirmed",
-   "locator": "שורה 216"
   },
   {
    "id": "c38",
@@ -912,14 +867,6 @@
    "locator": "שורה 26"
   },
   {
-   "id": "c51",
-   "text": "ויקיפדיה מספרת שהרמב״ם והרב יוסף קארו הקדישו חלקים בספרי ההלכה שלהם לצדקה.",
-   "source": "src3",
-   "quote": "The Medieval Jewish philosopher Maimonides as well as the 16th century Jewish legal scholar Joseph Caro dedicated sections of their books on Jewish law",
-   "status": "confirmed",
-   "locator": "שורה 213"
-  },
-  {
    "id": "c12",
    "text": "הדף מצטט את הרמב״ם, משנה תורה, הלכות מתנות עניים י:ז, ומפנה להשוואה אל שולחן ערוך, יורה דעה רמ״ט.",
    "source": "src2",
@@ -976,12 +923,36 @@
    "locator": "שורה 15"
   },
   {
-   "id": "c52",
-   "text": "ויקיפדיה מציינת שהסבר אחד למעלה האחרונה הוא שהנותן בעצב נותן מתוך עצב על ראיית אנשים נזקקים, ולא מתוך חובה דתית.",
-   "source": "src3",
-   "quote": "It is thought that Maimonides was referring to giving because of the sad feelings one might have in seeing people in need",
+   "id": "c57",
+   "text": "המעלה העליונה: לעזור לעני להיות עצמאי",
+   "source": "src8",
+   "quote": "מַעֲלָה גְּדוֹלָה שֶׁאֵין לְמַעְלָה מִמֶּנָּה זֶה הַמַּחֲזִיק בְּיַד יִשְׂרָאֵל שֶׁמָּךְ וְנוֹתֵן לוֹ מַתָּנָה אוֹ הַלְוָאָה",
    "status": "confirmed",
-   "locator": "שורה 241"
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c58",
+   "text": "המעלה העליונה: לעזור לעני להיות עצמאי",
+   "source": "src9",
+   "quote": "כדי לחזק את ידו עד שלא יצטרך לבריות לשאול",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c60",
+   "text": "לפי הרמב״ם, הרמה הגבוהה היא מתנה, הלוואה או שותפות שיביאו את המקבל לעצמאות.",
+   "source": "src9",
+   "quote": "המחזיק ביד ישראל שֶׁמָּךְ ונותן לו מתנה או הלוואה, או עושה עמו שותפות, או ממציא לו מלאכה",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c61",
+   "text": "לפי הרמב״ם, הרמה הגבוהה היא מתנה, הלוואה או שותפות שיביאו את המקבל לעצמאות.",
+   "source": "src9",
+   "quote": "כדי לחזק את ידו עד שלא יצטרך לבריות לשאול",
+   "status": "confirmed",
+   "locator": "שורה 10"
   }
  ],
  "sources": [
@@ -996,12 +967,6 @@
    "label": "Sefaria, Rambam Mishneh Torah, Laws of Gifts to the Poor 10:7",
    "url": "https://www.sefaria.org.il/sheets/115340",
    "kind": "press"
-  },
-  {
-   "id": "src3",
-   "label": "Wikipedia, Tzedakah",
-   "url": "https://en.wikipedia.org/wiki/Tzedakah",
-   "kind": "reference"
   },
   {
    "id": "src4",
@@ -1025,6 +990,18 @@
    "id": "src7",
    "label": "MyJewishLearning, Maimonides' Eight Levels: A Contemporary Reading",
    "url": "https://www.myjewishlearning.com/article/maimonides-eight-levels-a-comtemporary-reading/",
+   "kind": "press"
+  },
+  {
+   "id": "src8",
+   "label": "Sefaria: משנה תורה, הלכות מתנות עניים י׳:ז׳ (דף מקורות: שמונה מעלות בצדקה של הרמב״ם)",
+   "url": "https://chiburim.sefaria.org.il/sheets/117331?set-language-cookie=",
+   "kind": "reference"
+  },
+  {
+   "id": "src9",
+   "label": "כיפה: פרשת אמור – שבת פעמונים",
+   "url": "https://www.kipa.co.il/יהדות/פרשת-השבוע/פרשת-אמור/%d7%a4%d7%90%d7%94-2010/?amp=1",
    "kind": "press"
   }
  ],
@@ -1826,7 +1803,7 @@
   "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
   "checked_at": "2026-11-21T09:25:00Z",
   "counts": {
-   "confirmed": 64,
+   "confirmed": 59,
    "not_confirmed": 0,
    "deleted_sentences": 2,
    "first_round_confirmed": 65,
@@ -1847,11 +1824,18 @@
    "fix": "opus-5-5 medium"
   },
   "source_quality": {
-   "sources": 7,
-   "wikipedia": 1,
+   "sources": 8,
+   "wikipedia": 0,
    "strong": 5,
    "ok": true,
    "warnings": []
+  },
+  "wiki_cleanup": {
+   "at": "2026-11-27T15:03:31Z",
+   "targets": 7,
+   "resourced": 2,
+   "kept_on_other_sources": 0,
+   "deleted": 5
   }
  }
 }

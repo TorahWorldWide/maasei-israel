@@ -110,7 +110,7 @@
       "text": "His parents were Jewish.",
       "claims": [
        "c2",
-       "c3"
+       "c81"
       ]
      }
     ],
@@ -362,9 +362,9 @@
       ]
      },
      {
-      "text": "According to Wikipedia, he traced all the carbon atoms in cholesterol back to acetate.",
+      "text": "He traced all the carbon atoms in cholesterol back to acetate.",
       "claims": [
-       "c35"
+       "c82"
       ]
      }
     ],
@@ -390,15 +390,10 @@
     ],
     [
      {
-      "text": "According to Wikipedia, the work showed that the body first makes squalene from acetate over many steps, and then converts it to cholesterol.",
+      "text": "The work showed that the body first makes squalene from acetate in many steps, and then turns it into cholesterol.",
       "claims": [
-       "c34"
-      ]
-     },
-     {
-      "text": "According to Wikipedia, some of the research was done using radioactive acetate in bread mold, because fungi also produce squalene.",
-      "claims": [
-       "c36"
+       "c83",
+       "c84"
       ]
      },
      {
@@ -428,16 +423,17 @@
     ],
     [
      {
-      "text": "According to Wikipedia, Bloch discovered that bile and a female sex hormone are made from cholesterol, and so it emerged that all steroids are made from it.",
+      "text": "Bloch discovered that bile and a female sex hormone are formed from cholesterol, and so it became clear that all steroids are formed from it.",
       "claims": [
-       "c38",
-       "c39"
+       "c39",
+       "c86",
+       "c87"
       ]
      },
      {
-      "text": "According to Wikipedia, he was also one of several researchers who showed that acetyl Coenzyme A is turned into mevalonic acid.",
+      "text": "He was also one of several researchers who showed that acetyl coenzyme A is converted to mevalonic acid.",
       "claims": [
-       "c37"
+       "c88"
       ]
      },
      {
@@ -624,10 +620,11 @@
       ]
      },
      {
-      "text": "According to Wikipedia, in 1985 he became a Fellow of the Royal Society, and in 1988 he received the U.S. National Medal of Science.",
+      "text": "In 1985 he became a Fellow of the Royal Society, and in 1988 he received the National Medal of Science of the United States.",
       "claims": [
-       "c67",
-       "c66"
+       "c89",
+       "c90",
+       "c91"
       ]
      }
     ],
@@ -794,14 +791,6 @@
    "quote": "By growing rat-liver cells in the test tube, Dr. Bloch learned that they make cholesterol from the much simpler acetate ion",
    "status": "confirmed",
    "locator": "שורה 22"
-  },
-  {
-   "id": "c3",
-   "text": "לפי ויקיפדיה, בלוך נולד בנייסה במשפחה יהודית.",
-   "source": "src8",
-   "quote": "Bloch was born in Neisse (now Nysa, Poland), in the German Empire's Prussian Province of Silesia into a Jewish family.",
-   "status": "confirmed",
-   "locator": "שורה 19"
   },
   {
    "id": "c77",
@@ -972,14 +961,6 @@
    "locator": "שורה 8"
   },
   {
-   "id": "c35",
-   "text": "לפי ויקיפדיה, בלוך עקב אחר כל אטומי הפחמן בכולסטרול עד לאצטט.",
-   "source": "src8",
-   "quote": "He traced all the carbon atoms in cholesterol back to acetate.",
-   "status": "confirmed",
-   "locator": "שורה 21"
-  },
-  {
    "id": "c26",
    "text": "לפי טיים, בלוך למד שרוב הכולסטרול בגוף בעלי חיים ובני אדם אינו מגיע מכולסטרול במזון.",
    "source": "src7",
@@ -992,22 +973,6 @@
    "text": "לפי טיים, ה\"מפעלים\" של הכולסטרול נמצאים בעיקר בכבד, אך תאים רבים אחרים בגוף יכולים לייצר מעט כולסטרול.",
    "source": "src7",
    "quote": "These factories are mainly in the liver, but many of the body's other cells can make some cholesterol.",
-   "status": "confirmed",
-   "locator": "שורה 21"
-  },
-  {
-   "id": "c34",
-   "text": "לפי ויקיפדיה, עבודתם הראתה שהגוף מייצר תחילה סקוואלן מאצטט בצעדים רבים ואז הופך אותו לכולסטרול.",
-   "source": "src8",
-   "quote": "Their work showed that the body first makes squalene from acetate over many steps and then converts the squalene to cholesterol.",
-   "status": "confirmed",
-   "locator": "שורה 21"
-  },
-  {
-   "id": "c36",
-   "text": "לפי ויקיפדיה, חלק ממחקרו נערך באצטט רדיואקטיבי בעובש לחם, משום שגם פטריות מייצרות סקוואלן.",
-   "source": "src8",
-   "quote": "Some of his research was conducted using radioactive acetate in bread mold: this was possible because fungi also produce squalene.",
    "status": "confirmed",
    "locator": "שורה 21"
   },
@@ -1044,28 +1009,12 @@
    "locator": "שורה 22"
   },
   {
-   "id": "c38",
-   "text": "לפי ויקיפדיה, בלוך גילה שמרה והורמון מין נשי נוצרים מכולסטרול, וכך התגלה שכל הסטרואידים נוצרים ממנו.",
-   "source": "src8",
-   "quote": "Bloch also discovered that bile and a female sex hormone were made from cholesterol, which led to the discovery that all steroids were made from cholesterol.",
-   "status": "confirmed",
-   "locator": "שורה 21"
-  },
-  {
    "id": "c39",
    "text": "לפי אנציקלופדיה.קום, בלוך גילה שכל החומרים הקשורים לסטרואידים בגוף האדם נגזרים מכולסטרול.",
    "source": "src10",
    "quote": "Bloch discovered that all steroid-related substances (hormones, or substances released by organs for the organic process) in the human body are derived from cholesterol.",
    "status": "confirmed",
    "locator": "שורה 15"
-  },
-  {
-   "id": "c37",
-   "text": "לפי ויקיפדיה, בלוך היה אחד מכמה חוקרים שהראו שאצטיל קואנזים A הופך לחומצה מבלונית.",
-   "source": "src8",
-   "quote": "He was one of several researchers who showed that acetyl Coenzyme A is turned into mevalonic acid.",
-   "status": "confirmed",
-   "locator": "שורה 21"
   },
   {
    "id": "c64",
@@ -1196,22 +1145,6 @@
    "locator": "שורה 7"
   },
   {
-   "id": "c67",
-   "text": "ב-1985 נעשה בלוך עמית החברה המלכותית.",
-   "source": "src8",
-   "quote": "In 1985, Bloch became a Fellow of the Royal Society.",
-   "status": "confirmed",
-   "locator": "שורה 22"
-  },
-  {
-   "id": "c66",
-   "text": "ב-1988 הוענק לבלוך מדליית המדע הלאומית של ארצות הברית.",
-   "source": "src8",
-   "quote": "In 1988, he was awarded the National Medal of Science.",
-   "status": "confirmed",
-   "locator": "שורה 22"
-  },
-  {
    "id": "c62",
    "text": "בלוך היה צנוע להפליא לעומת כישוריו והישגיו כמדען.",
    "source": "src9",
@@ -1282,6 +1215,86 @@
    "quote": "becoming an associate professor in 1948 and a full professor in 1950",
    "status": "confirmed",
    "locator": "שורה 14"
+  },
+  {
+   "id": "c81",
+   "text": "ההורים היו יהודים.",
+   "source": "src12",
+   "quote": "Konrad was born in 1912 in Neisse, Germany, (now Nysa, Poland), into a highly cultured, prosperous Jewish family.",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c82",
+   "text": "הוא עקב אחרי כל אטומי הפחמן בכולסטרול עד לאצטט.",
+   "source": "src13",
+   "quote": "the two-carbon molecule of acetate is the origin of all carbon atoms in cholesterol",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c83",
+   "text": "העבודה הראתה שהגוף מייצר קודם סקוואלן מאצטט בצעדים רבים, ואז הופך אותו לכולסטרול.",
+   "source": "src13",
+   "quote": "squalene is one of the steps in the biosynthetic conversion of acetate into cholesterol",
+   "status": "confirmed",
+   "locator": "שורה 15"
+  },
+  {
+   "id": "c84",
+   "text": "העבודה הראתה שהגוף מייצר קודם סקוואלן מאצטט בצעדים רבים, ואז הופך אותו לכולסטרול.",
+   "source": "src14",
+   "quote": "This lanosterol is then transformed in a complicated series of reactions into cholesterol",
+   "status": "confirmed",
+   "locator": "שורה 23"
+  },
+  {
+   "id": "c86",
+   "text": "בלוך גילה שמרה והורמון מין נשי נוצרים מכולסטרול, וכך התברר שכל הסטרואידים נוצרים ממנו.",
+   "source": "src14",
+   "quote": "showing that cholesterol is the precursor of bile acids and of one of the female sex hormones",
+   "status": "confirmed",
+   "locator": "שורה 24"
+  },
+  {
+   "id": "c87",
+   "text": "בלוך גילה שמרה והורמון מין נשי נוצרים מכולסטרול, וכך התברר שכל הסטרואידים נוצרים ממנו.",
+   "source": "src14",
+   "quote": "We know now that all substances of steroid nature in our body are formed from cholesterol.",
+   "status": "confirmed",
+   "locator": "שורה 24"
+  },
+  {
+   "id": "c88",
+   "text": "הוא גם היה אחד מכמה חוקרים שהראו שאצטיל קואנזים A הופך לחומצה מבלונית.",
+   "source": "src13",
+   "quote": "Other researchers, including Bloch, found that acetyl coenzyme A is converted to mevalonic acid.",
+   "status": "confirmed",
+   "locator": "שורה 16"
+  },
+  {
+   "id": "c89",
+   "text": "ב-1985 נעשה עמית החברה המלכותית, וב-1988 קיבל את מדליית המדע הלאומית של ארצות הברית.",
+   "source": "src15",
+   "quote": "Foreign Member, Royal Society, London",
+   "status": "confirmed",
+   "locator": "שורה 161"
+  },
+  {
+   "id": "c90",
+   "text": "ב-1985 נעשה עמית החברה המלכותית, וב-1988 קיבל את מדליית המדע הלאומית של ארצות הברית.",
+   "source": "src16",
+   "quote": "Presented by President Reagan at a White House Ceremony on July 15, 1988.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c91",
+   "text": "ב-1985 נעשה עמית החברה המלכותית, וב-1988 קיבל את מדליית המדע הלאומית של ארצות הברית.",
+   "source": "src15",
+   "quote": "National Medal of Science",
+   "status": "confirmed",
+   "locator": "שורה 165"
   }
  ],
  "sources": [
@@ -1328,12 +1341,6 @@
    "kind": "press"
   },
   {
-   "id": "src8",
-   "label": "Wikipedia, Konrad Emil Bloch",
-   "url": "https://en.wikipedia.org/wiki/Konrad_Bloch",
-   "kind": "reference"
-  },
-  {
    "id": "src9",
    "label": "National Academy of Sciences, Biographical Memoir, Christopher T. Walsh",
    "url": "https://www.nasonline.org/wp-content/uploads/2024/06/bloch-konrad.pdf",
@@ -1350,6 +1357,36 @@
    "label": "Encyclopedia of World Biography, Konrad Bloch (Encyclopedia.com)",
    "url": "https://encyclopedia.com/people/medicine/medicine-biographies/konrad-emil-bloch",
    "kind": "reference"
+  },
+  {
+   "id": "src12",
+   "label": "Harvard Gazette: Konrad Emil Bloch, 88",
+   "url": "https://news.harvard.edu/gazette/story/2018/05/konrad-emil-bloch-88/",
+   "kind": "press"
+  },
+  {
+   "id": "src13",
+   "label": "Encyclopedia.com: Konrad Emil Bloch",
+   "url": "https://www.encyclopedia.com/people/medicine/medicine-biographies/konrad-emil-bloch",
+   "kind": "reference"
+  },
+  {
+   "id": "src14",
+   "label": "Encyclopedia.com: Konrad Emil Bloch",
+   "url": "https://sandwalk.blogspot.com/2007/11/nobel-laureates-konrad-bloch-and-feodor.html",
+   "kind": "reference"
+  },
+  {
+   "id": "src15",
+   "label": "Science History Institute: Oral history interview with Konrad E. Bloch (list of honors; 1985 appears on a separate line above the heading)",
+   "url": "https://digital.sciencehistory.org/works/m326m273w",
+   "kind": "organisation"
+  },
+  {
+   "id": "src16",
+   "label": "Science History Institute: Oral history interview with Konrad E. Bloch (list of honors; 1985 appears on a separate line above the heading)",
+   "url": "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/konrad-e-bloch",
+   "kind": "organisation"
   }
  ],
  "media": [
@@ -1521,7 +1558,7 @@
   "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
   "checked_at": "2026-11-21T20:40:25Z",
   "counts": {
-   "confirmed": 92,
+   "confirmed": 87,
    "not_confirmed": 0,
    "deleted_sentences": 3,
    "first_round_confirmed": 90,
@@ -1542,8 +1579,8 @@
    "fix": "opus-5-5 medium"
   },
   "source_quality": {
-   "sources": 10,
-   "wikipedia": 1,
+   "sources": 15,
+   "wikipedia": 0,
    "strong": 6,
    "ok": true,
    "warnings": []
@@ -1561,18 +1598,25 @@
     "url": "https://encyclopedia.com/people/medicine/medicine-biographies/konrad-emil-bloch",
     "by": "settle 24.11"
    }
-  ]
+  ],
+  "wiki_cleanup": {
+   "at": "2026-11-27T15:00:54Z",
+   "targets": 7,
+   "resourced": 6,
+   "kept_on_other_sources": 0,
+   "deleted": 1
+  }
  },
  "lang": "en",
  "translation": {
   "from": "he",
   "translator": "claude-opus-5-5",
   "checker": "claude-opus-5-5 (separate call, blind to the translation prompt)",
-  "checked_at": "2026-11-23T22:34:56Z",
+  "checked_at": "2026-11-27T15:01:11Z",
   "passed": true,
-  "items": 115,
-  "pairs_checked": 2,
-  "reused": 113,
+  "items": 116,
+  "pairs_checked": 5,
+  "reused": 109,
   "first_round_flagged": 0,
   "still_flagged": 0,
   "flagged": [],

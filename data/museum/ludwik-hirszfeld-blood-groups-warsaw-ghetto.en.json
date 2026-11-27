@@ -116,10 +116,10 @@
       ]
      },
      {
-      "text": "According to Wikipedia and Encyclopedia.com, he studied medicine in Germany.",
+      "text": "He studied medicine in Germany.",
       "claims": [
-       "c3",
-       "c4"
+       "c4",
+       "c76"
       ]
      }
     ],
@@ -247,12 +247,6 @@
       "text": "Hirszfeld and his wife Hanna tested more than 8,000 people from at least 16 groups, and found that the frequency of each blood group differed from one people to another.",
       "claims": [
        "c15"
-      ]
-     },
-     {
-      "text": "According to Wikipedia, their report was published in The Lancet in 1919, and was the first paper to show this difference between populations.",
-      "claims": [
-       "c16"
       ]
      }
     ]
@@ -398,16 +392,16 @@
       ]
      },
      {
-      "text": "According to Wikipedia, the local priest Marceli Godlewski also helped him.",
+      "text": "The local priest Marceli Godlewski also helped him.",
       "claims": [
-       "c60"
+       "c77"
       ]
      },
      {
-      "text": "According to Wikipedia and the Forward, Hirszfeld held secret medical courses in the ghetto.",
+      "text": "In the ghetto, Hirszfeld held secret medical courses.",
       "claims": [
-       "c61",
-       "c73"
+       "c73",
+       "c78"
       ]
      },
      {
@@ -543,13 +537,13 @@
      {
       "text": "He wrote almost 400 works in German, French, English and Polish.",
       "claims": [
-       "c55"
+       "c79"
       ]
      },
      {
       "text": "He received honorary doctorates from the University of Prague in 1950 and the University of Zurich in 1951.",
       "claims": [
-       "c54"
+       "c80"
       ]
      },
      {
@@ -820,14 +814,6 @@
    "locator": "שורה 5"
   },
   {
-   "id": "c3",
-   "text": "לפי ויקיפדיה, הירשפלד נולד למשפחה יהודית בלודז' ולמד רפואה בגרמניה.",
-   "source": "src6",
-   "quote": "He was born into a Jewish family in Łódź and studied medicine in Germany.",
-   "status": "confirmed",
-   "locator": "שורה 17"
-  },
-  {
    "id": "c4",
    "text": "לפי Encyclopedia.com, הירשפלד נולד בלודז' שבפולין ולמד רפואה בגרמניה.",
    "source": "src7",
@@ -914,14 +900,6 @@
    "quote": "Together with Hanna they tested over 8000 individuals from at least 16 different ethnic groups, and found that the frequency of blood groups differed depending on the ethnic background",
    "status": "confirmed",
    "locator": "שורה 28"
-  },
-  {
-   "id": "c16",
-   "text": "לפי ויקיפדיה, הדו\"ח שלהם התקבל ב-The Lancet ופורסם ב-1919, והיה המאמר הראשון שהראה ששכיחות סוגי הדם שונה בין אוכלוסיות.",
-   "source": "src6",
-   "quote": "Their report was accepted by The Lancet and published in 1919, and it was the first paper showing that blood group frequencies differ between populations.",
-   "status": "confirmed",
-   "locator": "שורה 20"
   },
   {
    "id": "c22",
@@ -1036,22 +1014,6 @@
    "locator": "שורה 43"
   },
   {
-   "id": "c60",
-   "text": "לפי ויקיפדיה, בגטו עזר לו הכומר המקומי מרצלי גודלבסקי.",
-   "source": "src6",
-   "quote": "He was helped there by the parish priest Marceli Godlewski.",
-   "status": "confirmed",
-   "locator": "שורה 23"
-  },
-  {
-   "id": "c61",
-   "text": "לפי ויקיפדיה, בגטו ארגן הירשפלד אמצעים נגד מגפות וקמפייני חיסון נגד טיפוס, וקיים קורסי רפואה חשאיים.",
-   "source": "src6",
-   "quote": "There he organized anti-epidemic measures and vaccination campaigns against typhus and typhoid, as well as conducting secret medical courses.",
-   "status": "confirmed",
-   "locator": "שורה 23"
-  },
-  {
    "id": "c73",
    "text": "לפי ה-Forward, בגטו ורשה ארגן הירשפלד באומץ אמצעים נגד מגפות וקמפייני חיסון נגד טיפוס, והעביר שיעורי רפואה חשאיים.",
    "source": "src1",
@@ -1156,22 +1118,6 @@
    "locator": "שורה 54"
   },
   {
-   "id": "c55",
-   "text": "הירשפלד כתב כמעט 400 עבודות בגרמנית, צרפתית, אנגלית ופולנית.",
-   "source": "src6",
-   "quote": "He wrote almost 400 works in German, French, English, and Polish",
-   "status": "confirmed",
-   "locator": "שורה 25"
-  },
-  {
-   "id": "c54",
-   "text": "הירשפלד קיבל תארי דוקטור לשם כבוד מאוניברסיטאות פראג (1950) וציריך (1951).",
-   "source": "src6",
-   "quote": "Hirszfeld received many honors, including honorary doctorates from the universities of Prague (1950) and Zurich (1951).",
-   "status": "confirmed",
-   "locator": "שורה 25"
-  },
-  {
    "id": "c53",
    "text": "הירשפלד מת ב-7 במרץ 1954 ונקבר בבית הקברות סנט לורנס בוורוצלב.",
    "source": "src2",
@@ -1266,6 +1212,46 @@
    "quote": "The Ludwik Hirszfeld Institute of Immunology and Experimental Therapy in Wrocław (IITD PAN) was founded in 1952.",
    "status": "confirmed",
    "locator": "שורה 2"
+  },
+  {
+   "id": "c76",
+   "text": "הוא למד רפואה בגרמניה.",
+   "source": "src7",
+   "quote": "Ludwig Hirszfeld was born in Lodz, Poland, and studied medicine in Germany.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c77",
+   "text": "גם הכומר המקומי מרצלי גודלבסקי עזר לו.",
+   "source": "src15",
+   "quote": "credited Godlewski with helping him to survive the Holocaust.",
+   "status": "confirmed",
+   "locator": "שורה 21"
+  },
+  {
+   "id": "c78",
+   "text": "הירשפלד קיים בגטו קורסי רפואה חשאיים.",
+   "source": "src16",
+   "quote": "was the one who set up secret medical courses in the ghetto, where he gave lectures on bacteriology.",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c79",
+   "text": "הוא כתב כמעט 400 עבודות בגרמנית, צרפתית, אנגלית ופולנית.",
+   "source": "src7",
+   "quote": "during his career, he wrote and published nearly 400 scholarly works in Polish, German, French, and English.",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c80",
+   "text": "הוא קיבל תואר דוקטור לשם כבוד מאוניברסיטת פראג ב-1950 ומאוניברסיטת ציריך ב-1951.",
+   "source": "src7",
+   "quote": "honorary doctorates from the Universities of Prague (1950) and Zurich (1951)",
+   "status": "confirmed",
+   "locator": "שורה 10"
   }
  ],
  "sources": [
@@ -1297,12 +1283,6 @@
    "id": "src5",
    "label": "Mayo Clinic Proceedings, profile of Hirszfeld",
    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2861981",
-   "kind": "reference"
-  },
-  {
-   "id": "src6",
-   "label": "Wikipedia",
-   "url": "https://en.wikipedia.org/wiki/Ludwik_Hirszfeld",
    "kind": "reference"
   },
   {
@@ -1352,6 +1332,18 @@
    "label": "Polish Academy of Sciences, Hirszfeld Institute of Immunology and Experimental Therapy",
    "url": "https://pan.pl/en/facility/hirszfeld-institute-of-immunology-and-experimental-therapy/",
    "kind": "official"
+  },
+  {
+   "id": "src15",
+   "label": "Catholic World Report: How a Catholic pastor saved hundreds of his Jewish neighbors in the Warsaw Ghetto",
+   "url": "https://www.catholicworldreport.com/2021/01/27/how-a-catholic-pastor-saved-hundreds-of-his-jewish-neighbors-in-the-warsaw-ghetto/",
+   "kind": "press"
+  },
+  {
+   "id": "src16",
+   "label": "getto.pl: Hirszfeld Ludwik",
+   "url": "https://getto.pl/en/People/H/Hirszfeld-Ludwik-Unknown",
+   "kind": "organisation"
   }
  ],
  "media": [
@@ -1867,7 +1859,7 @@
   "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
   "checked_at": "2026-11-21T12:02:11Z",
   "counts": {
-   "confirmed": 88,
+   "confirmed": 82,
    "not_confirmed": 0,
    "deleted_sentences": 2,
    "first_round_confirmed": 86,
@@ -1888,8 +1880,8 @@
    "fix": "opus-5-5 medium"
   },
   "source_quality": {
-   "sources": 12,
-   "wikipedia": 1,
+   "sources": 15,
+   "wikipedia": 0,
    "strong": 4,
    "ok": true,
    "warnings": []
@@ -1907,18 +1899,25 @@
     "url": "https://pan.pl/en/facility/hirszfeld-institute-of-immunology-and-experimental-therapy/",
     "by": "settle 24.11"
    }
-  ]
+  ],
+  "wiki_cleanup": {
+   "at": "2026-11-27T15:02:43Z",
+   "targets": 6,
+   "resourced": 5,
+   "kept_on_other_sources": 0,
+   "deleted": 1
+  }
  },
  "lang": "en",
  "translation": {
   "from": "he",
   "translator": "claude-opus-5-5",
   "checker": "claude-opus-5-5 (separate call, blind to the translation prompt)",
-  "checked_at": "2026-11-23T22:34:57Z",
+  "checked_at": "2026-11-27T15:02:57Z",
   "passed": true,
-  "items": 138,
-  "pairs_checked": 2,
-  "reused": 136,
+  "items": 137,
+  "pairs_checked": 3,
+  "reused": 134,
   "first_round_flagged": 0,
   "still_flagged": 0,
   "flagged": [],

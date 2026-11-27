@@ -388,9 +388,10 @@
       ]
      },
      {
-      "text": "לפי ויקיפדיה, ב-1937 הותר לסניף הבריטי של אורט לפתוח בית ספר בברלין, אחרי שהובטח שהבוגרים יעזבו את גרמניה.",
+      "text": "ב-1937 הותר לסניף הבריטי של אורט לפתוח בית ספר בברלין, אחרי שהובטח שהבוגרים יעזבו את גרמניה.",
       "claims": [
-       "c92"
+       "c93",
+       "c94"
       ]
      },
      {
@@ -522,6 +523,14 @@
        "c75"
       ]
      }
+    ],
+    [
+     {
+      "text": "לפי האנציקלופדיה היהודית, עד 2005 למדו בהם יותר מ-25,000 תלמידים בשנה",
+      "claims": [
+       "c61"
+      ]
+     }
     ]
    ],
    "media": [
@@ -529,7 +538,6 @@
    ],
    "disagreements": [
     "d6",
-    "d7",
     "d8"
    ]
   },
@@ -555,12 +563,6 @@
       "text": "לפי אותה אנציקלופדיה, נכון ל-2005 היוו בוגרי אורט 25 אחוזים מכוח העבודה בהייטק הישראלי.",
       "claims": [
        "c63"
-      ]
-     },
-     {
-      "text": "לפי ויקיפדיה, ב-2006 נפרדה אורט ישראל מאורט העולמית.",
-      "claims": [
-       "c52"
       ]
      }
     ],
@@ -643,9 +645,9 @@
       ]
      },
      {
-      "text": "לפי ויקיפדיה, אורט העולמית רשומה בשווייץ, אבל היא פועלת ממשרדים בלונדון.",
+      "text": "אורט העולמית רשומה בשווייץ, אבל היא פועלת ממשרדים בלונדון.",
       "claims": [
-       "c71"
+       "c97"
       ]
      }
     ],
@@ -772,9 +774,9 @@
      ]
     },
     {
-     "says": "לפי ויקיפדיה, כמעט 85,000 איש",
+     "says": "כמעט 85,000 איש",
      "claims": [
-      "c48"
+      "c98"
      ]
     },
     {
@@ -805,24 +807,6 @@
      "says": "לפי אתר אורט, ב-1990, אחרי 52 שנות היעדרות, בהסכם עם האקדמיה למדעים ומשרד החינוך",
      "claims": [
       "c60"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "d7",
-   "question": "כמה תלמידים לומדים באורט בברית המועצות לשעבר ובמדינות הבלטיות?",
-   "versions": [
-    {
-     "says": "לפי האנציקלופדיה היהודית, עד 2005 למדו בהם יותר מ-25,000 תלמידים בשנה",
-     "claims": [
-      "c61"
-     ]
-    },
-    {
-     "says": "לפי ויקיפדיה, 27,000 תלמידים",
-     "claims": [
-      "c62"
      ]
     }
    ]
@@ -870,16 +854,7 @@
    ]
   }
  ],
- "unknowns": [
-  {
-   "text": "הדף לא יודע אם תלמידי אורט ישראל, שנפרדה מאורט העולמית ב-2006, נכללים במספרי התלמידים העדכניים של הרשת",
-   "claims": [
-    "c52",
-    "c65",
-    "c66"
-   ]
-  }
- ],
+ "unknowns": [],
  "claims": [
   {
    "id": "c69",
@@ -1218,14 +1193,6 @@
    "locator": "שורה 45"
   },
   {
-   "id": "c92",
-   "text": "לפי ויקיפדיה, ב-1937 הותר לסניף הבריטי של אורט לפתוח בית ספר בברלין לאחר שהובטח שהבוגרים יעזבו את המדינה.",
-   "source": "src9",
-   "quote": "ORT sought to open a school in Berlin but encountered difficulties due to the ban on selling property to Jews.",
-   "status": "confirmed",
-   "locator": "שורה 35"
-  },
-  {
    "id": "c40",
    "text": "ערב המלחמה ב-1939 הועברו לאנגליה למעלה ממאה תלמידים ושמונה מדריכים של בית הספר להנדסה של אורט בברלין.",
    "source": "src10",
@@ -1306,14 +1273,6 @@
    "locator": "שורה 22"
   },
   {
-   "id": "c48",
-   "text": "לפי S16, כמעט 85,000 איש רכשו מקצועות וכלים לשיקום חייהם במחנות העקורים.",
-   "source": "src9",
-   "quote": "nearly 85,000 people acquired professions and the tools they would need to rebuild their lives",
-   "status": "confirmed",
-   "locator": "שורה 40"
-  },
-  {
    "id": "c49",
    "text": "לפי S15, אורט הכשירה למעלה מ-80,000 יהודים במחנות עקורים.",
    "source": "src11",
@@ -1378,14 +1337,6 @@
    "locator": "שורה 44"
   },
   {
-   "id": "c62",
-   "text": "לפי ויקיפדיה, אורט משרתת 27,000 תלמידים ב-58 בתי ספר ומוסדות חינוך בברית המועצות לשעבר ובמדינות הבלטיות.",
-   "source": "src9",
-   "quote": "where it now serves 27,000 students in 58 schools and educational institutions every year",
-   "status": "confirmed",
-   "locator": "שורה 43"
-  },
-  {
    "id": "c75",
    "text": "לפי אורט, מאות מורי אורט אוקראינה המשיכו להעניק שירותי חינוך ליותר מ-3,800 תלמידים בזמן המלחמה.",
    "source": "src2",
@@ -1408,14 +1359,6 @@
    "quote": "ort graduates comprise 25 percent of Israel's high-tech workforce.",
    "status": "confirmed",
    "locator": "שורה 46"
-  },
-  {
-   "id": "c52",
-   "text": "לפי ויקיפדיה, ב-2006 פרשה אורט ישראל מאורט העולמית.",
-   "source": "src9",
-   "quote": "However, in 2006 ORT Israel withdrew from World ORT.",
-   "status": "confirmed",
-   "locator": "שורה 26"
   },
   {
    "id": "c72",
@@ -1474,14 +1417,6 @@
    "locator": "שורה 3"
   },
   {
-   "id": "c71",
-   "text": "לפי ויקיפדיה, אורט העולמית רשומה כחוק בשווייץ אך פועלת ממשרדים בלונדון.",
-   "source": "src9",
-   "quote": "World ORT is legally constituted in Switzerland, but operates from offices in London, England.",
-   "status": "confirmed",
-   "locator": "שורה 27"
-  },
-  {
    "id": "c82",
    "text": "אלברט איינשטיין כתב שעבודת אורט היא מפעל חיוני להמשך קיום העם היהודי.",
    "source": "src7",
@@ -1528,6 +1463,38 @@
    "quote": "It has a student body of some 270,000 each year worldwide",
    "status": "confirmed",
    "locator": "שורה 49"
+  },
+  {
+   "id": "c93",
+   "text": "ב-1937 הותר לסניף הבריטי של אורט לפתוח בית ספר בברלין, אחרי שהובטח שהבוגרים יעזבו את גרמניה.",
+   "source": "src16",
+   "quote": "That was in April 1937, only after ORT had promised that all the school's graduates would leave Germany",
+   "status": "confirmed",
+   "locator": "שורה 51"
+  },
+  {
+   "id": "c94",
+   "text": "ב-1937 הותר לסניף הבריטי של אורט לפתוח בית ספר בברלין, אחרי שהובטח שהבוגרים יעזבו את גרמניה.",
+   "source": "src16",
+   "quote": "The fact that it was a British-owned school gave ORT Berlin a certain degree of immunity.",
+   "status": "confirmed",
+   "locator": "שורה 52"
+  },
+  {
+   "id": "c97",
+   "text": "אורט העולמית רשומה בשווייץ, אבל היא פועלת ממשרדים בלונדון.",
+   "source": "src17",
+   "quote": "In 1979 ORT moved its administrative office to London, but the headquarters formally remain in Geneva.",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c98",
+   "text": "כמעט 85,000 איש",
+   "source": "src18",
+   "quote": "serving approximately 85,000 people in 78 DP camps in Germany.",
+   "status": "confirmed",
+   "locator": "שורה 88"
   }
  ],
  "sources": [
@@ -1580,12 +1547,6 @@
    "kind": "organisation"
   },
   {
-   "id": "src9",
-   "label": "Wikipedia, World ORT",
-   "url": "https://en.wikipedia.org/wiki/World_ORT",
-   "kind": "reference"
-  },
-  {
    "id": "src10",
    "label": "ORT, DP camps site: ORT's work during WWII",
    "url": "https://dpcamps.ort.org/history/orts-work-during-the-second-world-war/",
@@ -1619,6 +1580,24 @@
    "id": "src15",
    "label": "ORT.org, Where we are",
    "url": "https://ort.org/where-we-are/",
+   "kind": "organisation"
+  },
+  {
+   "id": "src16",
+   "label": "World ORT: The last Jewish school in Berlin",
+   "url": "https://ort.org/news/the-last-jewish-school-in-berlin/",
+   "kind": "organisation"
+  },
+  {
+   "id": "src17",
+   "label": "World ORT Archive: WO Archive document collection",
+   "url": "https://ortarchive.ort.org/media-resources/research-guides/wo-archive-document-collection",
+   "kind": "organisation"
+  },
+  {
+   "id": "src18",
+   "label": "Azrieli Foundation: The Holocaust Survivor Memoirs Program, Displaced Persons Camps",
+   "url": "https://memoirs.azrielifoundation.org/exhibits/education-disrupted/displaced-persons-camps/",
    "kind": "organisation"
   }
  ],
@@ -2396,7 +2375,7 @@
   "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
   "checked_at": "2026-11-21T06:55:36Z",
   "counts": {
-   "confirmed": 102,
+   "confirmed": 99,
    "not_confirmed": 0,
    "deleted_sentences": 3,
    "first_round_confirmed": 102,
@@ -2417,13 +2396,20 @@
    "fix": "opus-5-5 medium"
   },
   "source_quality": {
-   "sources": 15,
-   "wikipedia": 1,
+   "sources": 17,
+   "wikipedia": 0,
    "strong": 2,
    "ok": false,
    "warnings": [
     "only 2 official/court/press/book sources"
    ]
+  },
+  "wiki_cleanup": {
+   "at": "2026-11-27T15:09:52Z",
+   "targets": 6,
+   "resourced": 3,
+   "kept_on_other_sources": 0,
+   "deleted": 3
   }
  }
 }

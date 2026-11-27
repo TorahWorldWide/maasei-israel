@@ -1,1544 +1,1415 @@
 {
-  "schema": "maasei-museum/1",
-  "slug": "marshall-nirenberg-genetic-code",
-  "deed": "מרשל נירנברג פיענח את הקוד הגנטי",
-  "canonical_type": "scientific-discovery",
-  "year": "1959",
-  "title": "Marshall Nirenberg read the first word of the genetic code, UUU, and from there all the codons were deciphered",
-  "trailer": [
-    {
-      "text": "Marshall Nirenberg, a Jewish native of New York, is the scientist who shared the Nobel Prize in Physiology or Medicine with Robert Holley and Har Gobind Khorana.",
-      "claims": [
-        "c3",
-        "c37",
-        "c39"
-      ]
-    },
-    {
-      "text": "Nirenberg said that in the 1950s nobody knew how proteins were synthesized.",
-      "claims": [
-        "c11"
-      ]
-    },
-    {
-      "text": "According to Scientific American, one night in May 1961 his partner Matthaei added a quantity of poly-U to a cell-free system, and the cell extract reacted by producing the amino acid phenylalanine.",
-      "claims": [
-        "c17",
-        "c19"
-      ]
-    },
-    {
-      "text": "In this way, according to Scientific American, UUU became the first word in the chemical dictionary of life.",
-      "claims": [
-        "c19"
-      ]
-    },
-    {
-      "text": "By 1966, with the aid of key contributions from Holley and Khorana, Nirenberg had identified the composition and sequence of all the triplet codons.",
-      "claims": [
-        "c31"
-      ]
-    }
-  ],
-  "hero_media": [
-    "m5",
-    "m8",
-    "m1",
-    "m10",
-    "m6",
-    "m3",
-    "m7",
-    "m17"
-  ],
-  "glance": [
-    {
-      "label": "Who",
-      "value": "Marshall Warren Nirenberg, born in New York, 1927",
-      "claims": [
-        "c1"
-      ]
-    },
-    {
-      "label": "Beginning",
-      "value": "1959, studied the relationship between DNA, RNA and protein",
-      "claims": [
-        "c9"
-      ]
-    },
-    {
-      "label": "The first word",
-      "value": "UUU, phenylalanine, May 1961",
-      "claims": [
-        "c17",
-        "c19"
-      ]
-    },
-    {
-      "label": "To the end",
-      "value": "All the triplet codons by 1966",
-      "claims": [
-        "c31"
-      ]
-    },
-    {
-      "label": "Recognition",
-      "value": "Nobel Prize, with Holley and Khorana",
-      "claims": [
-        "c37",
-        "c39"
-      ]
-    }
-  ],
-  "stations": [
-    {
-      "id": "s1",
-      "title": "A boy from New York",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "Marshall Warren Nirenberg was born in New York City on April 10, 1927.",
-            "claims": [
-              "c1"
-            ]
-          },
-          {
-            "text": "According to Wikipedia, he was born to a Jewish family, the son of Minerva and Harry Edward Nirenberg, a shirtmaker.",
-            "claims": [
-              "c2"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to the U.S. National Library of Medicine, he developed rheumatic fever, and the family moved to Orlando, Florida, because of the subtropical climate.",
-            "claims": [
-              "c5"
-            ]
-          },
-          {
-            "text": "The sources disagree on the year of the move.",
-            "claims": [
-              "c4",
-              "c5"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "He received a bachelor's degree in 1948 and a master's degree in 1952 in zoology from the University of Florida at Gainesville.",
-            "claims": [
-              "c6"
-            ]
-          },
-          {
-            "text": "In 1957 he received a doctorate in biological chemistry from the University of Michigan, Ann Arbor.",
-            "claims": [
-              "c7"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m13"
-      ],
-      "disagreements": [
-        "d1"
-      ]
-    },
-    {
-      "id": "s2",
-      "title": "The question nobody had solved",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "From 1957 to 1959 Nirenberg did postdoctoral training at the National Institutes of Health (NIH) with DeWitt Stetten and William Jakoby.",
-            "claims": [
-              "c8"
-            ]
-          },
-          {
-            "text": "In 1959 he began to study the steps that relate DNA, RNA and protein.",
-            "claims": [
-              "c9"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "In the 1950s it was established that genetic information passes from DNA to RNA and to protein.",
-            "claims": [
-              "c12"
-            ]
-          },
-          {
-            "text": "It was also established that a sequence of three nucleotides in DNA corresponds to a certain amino acid in a protein.",
-            "claims": [
-              "c12"
-            ]
-          },
-          {
-            "text": "According to Scientific American, each such three-letter sequence is called a codon.",
-            "claims": [
-              "c13"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "But Nirenberg said that nobody yet knew how proteins were synthesized.",
-            "claims": [
-              "c11"
-            ]
-          },
-          {
-            "text": "According to Scientific American, in 1955 Francis Crick tried to solve the problem mainly by thinking rather than by experiments, and did not succeed.",
-            "claims": [
-              "c14"
-            ]
-          },
-          {
-            "text": "Nirenberg said that at first he asked whether DNA is read directly to protein.",
-            "claims": [
-              "c15"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m1",
-        "m7",
-        "m23"
-      ],
-      "disagreements": []
-    },
-    {
-      "id": "s3",
-      "title": "RNA, not DNA",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "At the end of 1960 Nirenberg and Matthaei discovered something simple.",
-            "claims": [
-              "c16"
-            ]
-          },
-          {
-            "text": "Adding RNA to a cell-free system caused it to synthesize proteins, and adding DNA did not.",
-            "claims": [
-              "c16"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to the Nobel website, the two demonstrated that messenger RNA is required for protein synthesis.",
-            "claims": [
-              "c10"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m5",
-        "m8"
-      ],
-      "disagreements": []
-    },
-    {
-      "id": "s4",
-      "title": "One night in May 1961",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "Nirenberg and Matthaei produced a long RNA chain consisting of a single nucleotide only.",
-            "claims": [
-              "c18"
-            ]
-          },
-          {
-            "text": "According to Scientific American, one night in May 1961 Matthaei added a quantity of poly-U, that is, such a chain, to a cell-free system.",
-            "claims": [
-              "c17",
-              "c18"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to Wikipedia, the researchers added DNase so that no proteins would be produced other than those from the synthetic RNA.",
-            "claims": [
-              "c20"
-            ]
-          },
-          {
-            "text": "According to Wikipedia, only in the extract containing radioactively labeled phenylalanine was the resulting protein also radioactive.",
-            "claims": [
-              "c21"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to Scientific American, the cell sap reacted by producing the amino acid phenylalanine, and UUU became the first word in the chemical dictionary of life.",
-            "claims": [
-              "c19"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m6",
-        "m11",
-        "m12",
-        "m5"
-      ],
-      "disagreements": []
-    },
-    {
-      "id": "s5",
-      "title": "The lecture in Moscow",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "According to Scientific American, Nirenberg announced the result in August 1961 at a biochemical congress in Moscow.",
-            "claims": [
-              "c22"
-            ]
-          },
-          {
-            "text": "According to Wikipedia, the day after his talk before a small group, and at Crick's invitation, Nirenberg spoke again before the entire congress, which numbered more than a thousand people, and electrified the scientific community.",
-            "claims": [
-              "c24"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to Wikipedia, Matthew Meselson hugged Nirenberg at the end of his first talk in Moscow, which was given before a small group of scientists, and told Francis Crick about the result.",
-            "claims": [
-              "c23"
-            ]
-          },
-          {
-            "text": "According to the National Library of Medicine, by early 1962 the significance of the experiments was recognized throughout the world, after the media highlighted them as a breakthrough.",
-            "claims": [
-              "c34"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m2"
-      ],
-      "disagreements": []
-    },
-    {
-      "id": "s6",
-      "title": "Word by word, to the whole dictionary",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "According to Wikipedia, within a few years his team found that AAA codes for lysine and CCC for proline.",
-            "claims": [
-              "c25"
-            ]
-          },
-          {
-            "text": "According to Wikipedia, Philip Leder, a postdoctoral researcher in the lab, developed a method for determining the code on pieces of tRNA.",
-            "claims": [
-              "c26"
-            ]
-          },
-          {
-            "text": "The method sped up the assignment of codons to amino acids, and in this way 50 codons were identified.",
-            "claims": [
-              "c27"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to Scientific American, Severo Ochoa of New York University set up his own lab and competed with Nirenberg.",
-            "claims": [
-              "c28"
-            ]
-          },
-          {
-            "text": "Nirenberg said that Ochoa stopped working on the code after he himself described a simple method for determining the nucleotide sequence.",
-            "claims": [
-              "c29"
-            ]
-          },
-          {
-            "text": "According to Wikipedia, many NIH scientists put aside their own work to help him, faced with the possibility that he would be the first at the NIH to win a Nobel Prize.",
-            "claims": [
-              "c30"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to the National Library of Medicine, he continued the work with a team of postdoctoral fellows and research technicians.",
-            "claims": [
-              "c32"
-            ]
-          },
-          {
-            "text": "He declined offers of professorships and of a research position at the Pasteur Institute, and chose to stay at the NIH.",
-            "claims": [
-              "c33"
-            ]
-          },
-          {
-            "text": "According to Scientific American, by 1966, with the aid of key contributions from Holley and Khorana, Nirenberg had identified the composition and sequence of all the triplet codons.",
-            "claims": [
-              "c31"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m10",
-        "m15",
-        "m16",
-        "m19",
-        "m26",
-        "m28"
-      ],
-      "disagreements": [
-        "d3"
-      ]
-    },
-    {
-      "id": "s7",
-      "title": "Nobel and medals",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "Nirenberg shared the Nobel Prize in Physiology or Medicine with Robert Holley of Cornell and with Har Gobind Khorana of the University of Wisconsin.",
-            "claims": [
-              "c37",
-              "c39"
-            ]
-          },
-          {
-            "text": "According to JTA, the whole prize amounted to $70,000, and Nirenberg's share was $23,333.",
-            "claims": [
-              "c40",
-              "c41"
-            ]
-          },
-          {
-            "text": "According to JTA, the prize was awarded for his work on the fine structure of the genetic code.",
-            "claims": [
-              "c41"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to JTA, Nirenberg had visited the Weizmann Institute of Science in Rehovot, Israel, several years earlier.",
-            "claims": [
-              "c42"
-            ]
-          },
-          {
-            "text": "In 1968 he shared with Khorana the Louisa Gross Horwitz Prize of Columbia University and the Lasker Award.",
-            "claims": [
-              "c43"
-            ]
-          },
-          {
-            "text": "He also received the National Medal of Science, and the sources disagree on the year.",
-            "claims": [
-              "c44",
-              "c45",
-              "c46",
-              "c47"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to the National Library of Medicine, the Washington Post described him as \"painfully modest\", and the work brought him international fame.",
-            "claims": [
-              "c48"
-            ]
-          },
-          {
-            "text": "According to Scientific American, the cracking of the genetic code was one of the important achievements in molecular biology, after the discovery of the double-helix structure in 1953.",
-            "claims": [
-              "c49"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to the National Science Foundation (NSF), President Johnson presented the medal to Nirenberg at a ceremony in the East Room of the White House on February 8, 1965.",
-            "claims": [
-              "c57"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m3",
-        "m14"
-      ],
-      "disagreements": [
-        "d4"
-      ]
-    },
-    {
-      "id": "s8",
-      "title": "The forgotten code cracker, and the years after",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "In 2006 Nirenberg came across a new biography of a prominent molecular biologist, whose title attributed the discovery of the genetic code to Francis Crick.",
-            "claims": [
-              "c50"
-            ]
-          },
-          {
-            "text": "According to Scientific American, people may attribute the discovery to Crick because of his theoretical efforts, and because in 1966 he drew up a chart of the complete code.",
-            "claims": [
-              "c51"
-            ]
-          },
-          {
-            "text": "According to Scientific American, the genetic code, unlike the double helix, was a maze of forbidding chemical names, codons and complex molecular functions.",
-            "claims": [
-              "c52"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to a post on Scientific American's former blog network, which reflects the author's opinion and not necessarily the magazine's position, Nirenberg did not publicly complain about the lack of fame for his genetic work, and turned to other fields of research.",
-            "claims": [
-              "c53"
-            ]
-          },
-          {
-            "text": "According to the National Library of Medicine, he devoted about thirty years of his career to the investigation of neurobiology.",
-            "claims": [
-              "c54"
-            ]
-          },
-          {
-            "text": "According to Scientific American in 2007, he had published 71 papers in neurobiology over the preceding 20 years.",
-            "claims": [
-              "c55"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "Nirenberg died of cancer on January 15, 2010, at his home in New York.",
-            "claims": [
-              "c56"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m9",
-        "m20"
-      ],
-      "disagreements": []
-    }
-  ],
-  "disagreements": [
-    {
-      "id": "d1",
-      "question": "In what year did the family move to Florida?",
-      "versions": [
-        {
-          "says": "According to the Nobel Prize website, the family moved to Orlando in 1939",
-          "claims": [
-            "c4"
-          ]
-        },
-        {
-          "says": "According to the National Library of Medicine, Nirenberg developed rheumatic fever in 1941, and then the family moved to Orlando",
-          "claims": [
-            "c5"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d3",
-      "question": "When was Nirenberg appointed head of biochemical genetics at the NIH?",
-      "versions": [
-        {
-          "says": "According to the Nobel website, in 1962 he was appointed head of the Section of Biochemical Genetics",
-          "claims": [
-            "c35"
-          ]
-        },
-        {
-          "says": "According to Britannica, a year after the National Medal of Science he was elevated to director of biochemical genetics, and held the position for the rest of his career",
-          "claims": [
-            "c36"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d4",
-      "question": "In what year did Nirenberg win the Nobel Prize?",
-      "versions": [
-        {
-          "says": "According to the National Library of Medicine, in 1968",
-          "claims": [
-            "c37"
-          ]
-        },
-        {
-          "says": "According to JTA, he was named one of the three winners of the 1969 prize",
-          "claims": [
-            "c38"
-          ]
-        }
-      ]
-    }
-  ],
-  "unknowns": [],
-  "claims": [
-    {
-      "id": "c3",
-      "text": "לפי סוכנות הידיעות היהודית (JTA), נירנברג היה יליד ניו יורק ויהודי.",
-      "source": "src1",
-      "quote": "a native New Yorker and a Jew, was named today as one of three winners",
-      "status": "confirmed",
-      "locator": "שורה 2"
-    },
-    {
-      "id": "c37",
-      "text": "לפי הספרייה הלאומית לרפואה, ב-1968 קיבל נירנברג את פרס נובל בפיזיולוגיה או רפואה.",
-      "source": "src2",
-      "quote": "in 1968, Nirenberg received the Nobel Prize in Physiology or Medicine for",
-      "status": "confirmed",
-      "locator": "שורה 9"
-    },
-    {
-      "id": "c39",
-      "text": "את הפרס חלק נירנברג עם רוברט הולי מקורנל והר גובינד חוראנה מאוניברסיטת ויסקונסין.",
-      "source": "src2",
-      "quote": "He shared the award with Robert W. Holley of Cornell University and Har Gobind Khorana of the University of Wisconsin at Madison.",
-      "status": "confirmed",
-      "locator": "שורה 9"
-    },
-    {
-      "id": "c11",
-      "text": "נירנברג סיפר שבשנות ה-50 לא ידע איש כיצד חלבונים מסונתזים.",
-      "source": "src3",
-      "quote": "But nobody knew how proteins were synthesized. Nobody knew how it was done.",
-      "status": "confirmed",
-      "locator": "שורה 13"
-    },
-    {
-      "id": "c17",
-      "text": "לפי סיינטיפיק אמריקן, ביום אחד בלילה במאי 1961 הוסיף מתאי כמות של פולי-U למערכת נטולת תאים.",
-      "source": "src3",
-      "quote": "And so it happened that late one night in May 1961, Matthaei added a quantity of poly-U into a cell-free system.",
-      "status": "confirmed",
-      "locator": "שורה 20"
-    },
-    {
-      "id": "c19",
-      "text": "לפי סיינטיפיק אמריקן, התאים יצרו את חומצת האמינו פנילאלנין, ו-UUU הפך למילה הראשונה במילון הכימי של החיים.",
-      "source": "src3",
-      "quote": "the cell sap reacted by churning out the amino acid phenylalanine. One codon had been deciphered, and the triplet UUU became the first word in the chemical dictionary of life.",
-      "status": "confirmed",
-      "locator": "שורה 21"
-    },
-    {
-      "id": "c31",
-      "text": "לפי סיינטיפיק אמריקן, עד 1966, בסיוע תרומות מפתח של הולי וחוראנה, זיהה נירנברג את ההרכב והרצף של כל הקודונים הטריפלטיים.",
-      "source": "src3",
-      "quote": "By 1966, with the aid of key contributions from Holley and Khorana, Nirenberg had identified both the compositions and base sequences of all the genetic code",
-      "status": "confirmed",
-      "locator": "שורה 24"
-    },
-    {
-      "id": "c1",
-      "text": "מרשל וורן נירנברג נולד בעיר ניו יורק ב-10 באפריל 1927, בנם של הארי ומינרווה נירנברג.",
-      "source": "src4",
-      "quote": "Marshall Warren Nirenberg was born in New York City on April 10th, 1927, the son of Harry and Minerva Nirenberg.",
-      "status": "confirmed",
-      "locator": "שורה 1"
-    },
-    {
-      "id": "c9",
-      "text": "ב-1959 החל נירנברג לחקור את השלבים המקשרים בין DNA, RNA וחלבון.",
-      "source": "src4",
-      "quote": "In 1959 he began to study the steps that relate DNA, RNA and protein.",
-      "status": "confirmed",
-      "locator": "שורה 4"
-    },
-    {
-      "id": "c2",
-      "text": "לפי ויקיפדיה, נירנברג נולד בניו יורק למשפחה יהודית, בנם של מינרווה והארי אדוארד נירנברג, חייט חולצות.",
-      "source": "src5",
-      "quote": "Nirenberg was born in New York City to a Jewish family, the son of Minerva (Bykowsky) and Harry Edward Nirenberg, a shirtmaker.",
-      "status": "confirmed",
-      "locator": "שורה 35"
-    },
-    {
-      "id": "c5",
-      "text": "לפי הספרייה הלאומית לרפואה של ארה\"ב, נירנברג חלה ב-1941 בקדחת שגרונית, והמשפחה עברה לאורלנדו כדי ליהנות מהאקלים הסובטרופי.",
-      "source": "src2",
-      "quote": "In 1941, Marshall developed rheumatic fever, and the Nirenberg family moved to Orlando, Florida, to take advantage of the subtropical climate.",
-      "status": "confirmed",
-      "locator": "שורה 3"
-    },
-    {
-      "id": "c4",
-      "text": "לפי אתר פרס נובל, המשפחה עברה לאורלנדו שבפלורידה ב-1939.",
-      "source": "src4",
-      "quote": "The family moved to Orlando, Florida in 1939.",
-      "status": "confirmed",
-      "locator": "שורה 1"
-    },
-    {
-      "id": "c6",
-      "text": "נירנברג קיבל תואר ראשון ב-1948 ותואר שני ב-1952 בזואולוגיה באוניברסיטת פלורידה בגיינסוויל.",
-      "source": "src4",
-      "quote": "In 1948 he received a B. Sc. degree, and in 1952, a M. Sc. degree in Zoology from the University of Florida at Gainesville.",
-      "status": "confirmed",
-      "locator": "שורה 1"
-    },
-    {
-      "id": "c7",
-      "text": "ב-1957 קיבל נירנברג תואר דוקטור בכימיה ביולוגית באוניברסיטת מישיגן באן ארבור.",
-      "source": "src4",
-      "quote": "He continued studies in this field at the University of Michigan, Ann Arbor, and in 1957 received the Ph. D. degree from the Department of Biological Chemistry.",
-      "status": "confirmed",
-      "locator": "שורה 2"
-    },
-    {
-      "id": "c8",
-      "text": "בין 1957 ל-1959 עשה נירנברג הכשרה פוסט-דוקטורית במכוני הבריאות הלאומיים (NIH) אצל דוויט סטטן וויליאם ג'קובי.",
-      "source": "src4",
-      "quote": "From 1957 to 1959 he obtained postdoctoral training with DeWitt Stetten Jr., and with William Jakoby at the National Institutes of Health",
-      "status": "confirmed",
-      "locator": "שורה 3"
-    },
-    {
-      "id": "c12",
-      "text": "בשנות ה-50 נקבע שמידע גנטי עובר מ-DNA ל-RNA ולחלבון, ושרצף של שלושה נוקלאוטידים ב-DNA מתאים לחומצת אמינו מסוימת בחלבון.",
-      "source": "src6",
-      "quote": "One sequence of three nucleotides in DNA corresponds to a certain amino acid within a protein. How could this genetic code be cracked?",
-      "status": "confirmed",
-      "locator": "שורה 9"
-    },
-    {
-      "id": "c13",
-      "text": "לפי סיינטיפיק אמריקן, כל רצף של שלוש אותיות נוקלאוטידים (קודון) מייצג חומצת אמינו מסוימת.",
-      "source": "src3",
-      "quote": "Each three-letter sequence of nucleotides (or codon) stands for a specific amino acid.",
-      "status": "confirmed",
-      "locator": "שורה 15"
-    },
-    {
-      "id": "c14",
-      "text": "לפי סיינטיפיק אמריקן, ב-1955 ניסה פרנסיס קריק לפתור את הבעיה בעיקר בחשיבה ולא בניסויים, ולא הצליח.",
-      "source": "src3",
-      "quote": "In 1955 Crick himself tried to solve the problem, not by experimenting but essentially by thinking, just as a cryptanalyst might try to crack a coded message.",
-      "status": "confirmed",
-      "locator": "שורה 16"
-    },
-    {
-      "id": "c15",
-      "text": "נירנברג סיפר ששאל תחילה אם DNA נקרא ישירות לחלבון.",
-      "source": "src3",
-      "quote": "My question was, Is DNA read directly to protein?",
-      "status": "confirmed",
-      "locator": "שורה 17"
-    },
-    {
-      "id": "c16",
-      "text": "בסוף 1960 גילו נירנברג ומתאי שהוספת RNA למערכת נטולת תאים גרמה לה לסנתז חלבונים, ואילו הוספת DNA לא.",
-      "source": "src3",
-      "quote": "found that putting RNA into the cell-free system caused it to synthesize proteins but that adding DNA did not.",
-      "status": "confirmed",
-      "locator": "שורה 18"
-    },
-    {
-      "id": "c10",
-      "text": "לפי אתר נובל, נירנברג ומתאי הוכיחו ש-RNA שליח נחוץ לסינתזת חלבון.",
-      "source": "src4",
-      "quote": "These investigations led to the demonstration with H. Matthaei that messenger RNA is required for protein synthesis",
-      "status": "confirmed",
-      "locator": "שורה 4"
-    },
-    {
-      "id": "c18",
-      "text": "נירנברג ומתאי יצרו שרשרת RNA ארוכה שהורכבה מנוקלאוטיד יחיד.",
-      "source": "src6",
-      "quote": "Marshall Nirenberg and Heinrich Matthaei produced a long RNA chain consisting of a single nucleotide.",
-      "status": "confirmed",
-      "locator": "שורה 9"
-    },
-    {
-      "id": "c20",
-      "text": "לפי ויקיפדיה, החוקרים הוסיפו DNase כדי שלא ייווצרו חלבונים נוספים מלבד אלה שמה-RNA הסינתטי.",
-      "source": "src5",
-      "quote": "They added DNase, which breaks apart the DNA, so that no additional proteins would be produced other than that from their synthetic RNA.",
-      "status": "confirmed",
-      "locator": "שורה 39"
-    },
-    {
-      "id": "c21",
-      "text": "לפי ויקיפדיה, רק במיצוי שהכיל פנילאלנין מסומן רדיואקטיבית היה גם החלבון שנוצר רדיואקטיבי.",
-      "source": "src5",
-      "quote": "Only in the extract containing the radioactively labeled phenylalanine, was the resulting protein also radioactive.",
-      "status": "confirmed",
-      "locator": "שורה 39"
-    },
-    {
-      "id": "c22",
-      "text": "לפי סיינטיפיק אמריקן, נירנברג הכריז על התוצאה באוגוסט 1961 בקונגרס ביוכימי במוסקבה.",
-      "source": "src3",
-      "quote": "He announced the result in August 1961 at a biochemical congress in Moscow.",
-      "status": "confirmed",
-      "locator": "שורה 23"
-    },
-    {
-      "id": "c24",
-      "text": "לפי ויקיפדיה, נירנברג הרצה בפני קונגרס של יותר מאלף איש וסחף את הקהילה המדעית.",
-      "source": "src5",
-      "quote": "Speaking before the assembled congress of more than a thousand people, Nirenberg electrified the scientific community.",
-      "status": "confirmed",
-      "locator": "שורה 40"
-    },
-    {
-      "id": "c23",
-      "text": "לפי ויקיפדיה, מתיו מזלסון חיבק את נירנברג בתום ההרצאה במוסקבה וסיפר לפרנסיס קריק על התוצאה.",
-      "source": "src5",
-      "quote": "Matthew Meselson, who was in the audience, spontaneously hugged Nirenberg at the end of the talk and then told Francis Crick about Nirenberg's result.",
-      "status": "confirmed",
-      "locator": "שורה 40"
-    },
-    {
-      "id": "c34",
-      "text": "לפי הספרייה הלאומית לרפואה, עד תחילת 1962 הוכרה חשיבות הניסויים ברחבי העולם לאחר שהתקשורת הדגישה אותם כפריצת דרך.",
-      "source": "src2",
-      "quote": "By early 1962, the significance of these early experiments was recognized throughout the world",
-      "status": "confirmed",
-      "locator": "שורה 6"
-    },
-    {
-      "id": "c25",
-      "text": "לפי ויקיפדיה, תוך שנים ספורות מצא צוותו ש-AAA מקודד לליזין ו-CCC לפרולין.",
-      "source": "src5",
-      "quote": "found that three-base repeats of adenosine (AAA) produced the amino acid lysine, and cytosine repeats (CCC) produced proline",
-      "status": "confirmed",
-      "locator": "שורה 40"
-    },
-    {
-      "id": "c26",
-      "text": "לפי ויקיפדיה, פיליפ לדר, פוסט-דוקטורנט במעבדת נירנברג, פיתח שיטה לקביעת הקוד הגנטי על חתיכות של tRNA.",
-      "source": "src5",
-      "quote": "Philip Leder, a postdoctoral researcher in Nirenberg's lab, developed a method for determining the genetic code on pieces of tRNA",
-      "status": "confirmed",
-      "locator": "שורה 40"
-    },
-    {
-      "id": "c27",
-      "text": "לפי ויקיפדיה, השיטה האיצה את שיוך הקודונים לחומצות אמינו, וכך זוהו 50 קודונים.",
-      "source": "src5",
-      "quote": "This greatly sped up the assignment of three-base codons to amino acids so that 50 codons were identified in this way.",
-      "status": "confirmed",
-      "locator": "שורה 40"
-    },
-    {
-      "id": "c28",
-      "text": "לפי סיינטיפיק אמריקן, סוורו אוצ'ואה מאוניברסיטת ניו יורק הקים מעבדה משלו והתחרה בנירנברג בפענוח הקוד.",
-      "source": "src3",
-      "quote": "Soon afterward Nirenberg had competition: Nobelist Severo Ochoa of the New York University School of Medicine set up his own lab and started deciphering the code, too.",
-      "status": "confirmed",
-      "locator": "שורה 23"
-    },
-    {
-      "id": "c29",
-      "text": "נירנברג סיפר שאוצ'ואה חדל לעבוד על הקוד הגנטי לאחר שהוא תיאר שיטה פשוטה לקביעת רצף הנוקלאוטידים.",
-      "source": "src3",
-      "quote": "Ochoa then stopped working on the genetic code.",
-      "status": "confirmed",
-      "locator": "שורה 23"
-    },
-    {
-      "id": "c30",
-      "text": "לפי ויקיפדיה, מדענים רבים ב-NIH הניחו את עבודתם כדי לסייע לנירנברג בפענוח הקודונים, מתוך אפשרות שיזכה ראשון ב-NIH בפרס נובל.",
-      "source": "src5",
-      "quote": "Faced with the possibility of helping the first NIH scientist win a Nobel prize, many NIH scientists put aside their own work to help Nirenberg in deciphering the mRNA codons for amino acids.",
-      "status": "confirmed",
-      "locator": "שורה 41"
-    },
-    {
-      "id": "c32",
-      "text": "לפי הספרייה הלאומית לרפואה, נירנברג המשיך בעבודתו על הקוד הגנטי עם צוות של פוסט-דוקטורנטים וטכנאי מחקר.",
-      "source": "src2",
-      "quote": "Nirenberg continued his work on the genetic code with a team of postdoctoral fellows and research technicians.",
-      "status": "confirmed",
-      "locator": "שורה 9"
-    },
-    {
-      "id": "c33",
-      "text": "לפי הספרייה הלאומית לרפואה, נירנברג דחה הצעות לפרופסורות ולמשרת מחקר במכון פסטר, ובחר להישאר ב-NIH.",
-      "source": "src2",
-      "quote": "Nirenberg, however, declined all offers and chose to stay at the National Institutes of Health.",
-      "status": "confirmed",
-      "locator": "שורה 8"
-    },
-    {
-      "id": "c40",
-      "text": "לפי JTA, נירנברג יקבל חלק של 23,333 דולר מהפרס.",
-      "source": "src1",
-      "quote": "Dr. Nirenberg will receive a $23,333 share of the prize along with Prof. Robert Holley of Cornell University",
-      "status": "confirmed",
-      "locator": "שורה 3"
-    },
-    {
-      "id": "c41",
-      "text": "לפי JTA, הפרס כולו היה בסך 70,000 דולר, והוענק על עבודתו על המבנה העדין של הקוד הגנטי.",
-      "source": "src1",
-      "quote": "Dr. Nirenberg will share the $70,000 prize with two other scientists for his work on the fine structure of the genetic code",
-      "status": "confirmed",
-      "locator": "שורה 2"
-    },
-    {
-      "id": "c42",
-      "text": "לפי JTA, נירנברג ביקר במכון ויצמן למדע ברחובות שבישראל כמה שנים לפני כן.",
-      "source": "src1",
-      "quote": "Dr. Nirenberg visited the Weizmann Institute of Science in Rehovot, Israel, several years ago",
-      "status": "confirmed",
-      "locator": "שורה 3"
-    },
-    {
-      "id": "c43",
-      "text": "ב-1968 חלק נירנברג עם חוראנה את פרס לואיזה גרוס הורוויץ מאוניברסיטת קולומביה ואת פרס לסקר.",
-      "source": "src4",
-      "quote": "The Louisa Gross Horwitz Prize, Columbia University, and the Lasker Award were shared with H. G. Khorana in 1968.",
-      "status": "confirmed",
-      "locator": "שורה 6"
-    },
-    {
-      "id": "c44",
-      "text": "לפי אתר נובל, נירנברג קיבל את מדליית המדע הלאומית ב-1965.",
-      "source": "src4",
-      "quote": "Paul Lewis Award in Enzyme Chemistry, American Chemical Society, 1964; The National Medal of Science, 1965",
-      "status": "confirmed",
-      "locator": "שורה 6"
-    },
-    {
-      "id": "c45",
-      "text": "לפי הספרייה הלאומית לרפואה, הנשיא ג'ונסון העניק לנירנברג את מדליית המדע הלאומית ב-1966.",
-      "source": "src2",
-      "quote": "President Lyndon B. Johnson awarded Nirenberg the National Medal of Science in 1966 and the National Medal of Honor in 1968.",
-      "status": "confirmed",
-      "locator": "שורה 11"
-    },
-    {
-      "id": "c46",
-      "text": "לפי בריטניקה, מחקרו של נירנברג הניב לו את מדליית המדע הלאומית ב-1964.",
-      "source": "src7",
-      "quote": "His research earned him the National Medal of Science in 1964, and the following year he was elevated to director of biochemical genetics at the NIH",
-      "status": "confirmed",
-      "locator": "שורה 19"
-    },
-    {
-      "id": "c47",
-      "text": "לפי ויקיפדיה, נירנברג קיבל את מדליית המדע הלאומית ב-1964 מהנשיא ג'ונסון.",
-      "source": "src5",
-      "quote": "Nirenberg was awarded the National Medal of Science in 1964 and the National Medal of Honor in 1968 by President Lyndon B. Johnson.",
-      "status": "confirmed",
-      "locator": "שורה 37"
-    },
-    {
-      "id": "c48",
-      "text": "לפי הספרייה הלאומית לרפואה, הוושינגטון פוסט תיאר את נירנברג כ\"צנוע עד כאב\", והעבודה הקנתה לו תהילה בינלאומית.",
-      "source": "src2",
-      "quote": "whom the Washington Post described as \"painfully modest\"--to international fame",
-      "status": "confirmed",
-      "locator": "שורה 7"
-    },
-    {
-      "id": "c49",
-      "text": "לפי סיינטיפיק אמריקן, פענוח הקוד הגנטי היה אחד ההישגים החשובים בביולוגיה מולקולרית, אחרי גילוי מבנה הסליל הכפול ב-1953.",
-      "source": "src3",
-      "quote": "The breaking of the genetic code was one of the most important advances in molecular biology, secondary only to the discovery of the double-helical structure of DNA in 1953 by Crick and James D. Watson.",
-      "status": "confirmed",
-      "locator": "שורה 11"
-    },
-    {
-      "id": "c50",
-      "text": "ב-2006 נתקל נירנברג בביוגרפיה חדשה של ביולוג מולקולרי בולט, שכותרתה ייחסה את גילוי הקוד הגנטי לפרנסיס קריק.",
-      "source": "src3",
-      "quote": "In the summer of 2006 Marshall W. Nirenberg chanced on a just published biography of a prominent molecular biologist.",
-      "status": "confirmed",
-      "locator": "שורה 6"
-    },
-    {
-      "id": "c51",
-      "text": "לפי סיינטיפיק אמריקן, אנשים עשויים לייחס את הגילוי לקריק בגלל מאמציו התיאורטיים ובגלל שב-1966 שרטט טבלה של הקוד השלם.",
-      "source": "src3",
-      "quote": "because in 1966, based on the experiments of others, he drew up one of the first charts of the complete code.",
-      "status": "confirmed",
-      "locator": "שורה 16"
-    },
-    {
-      "id": "c52",
-      "text": "לפי סיינטיפיק אמריקן, הקוד הגנטי היה מבוך של שמות כימיים מאיימים, קודונים ותפקודים מולקולריים מורכבים, בניגוד לסליל הכפול.",
-      "source": "src3",
-      "quote": "The genetic code, in contrast, was a mazeworks of forbidding chemical names, codons and complex molecular functions",
-      "status": "confirmed",
-      "locator": "שורה 25"
-    },
-    {
-      "id": "c53",
-      "text": "לפי סיינטיפיק אמריקן, נירנברג לא התלונן בפומבי על היעדר התהילה על עבודתו הגנטית, ופנה לתחומי מחקר אחרים.",
-      "source": "src8",
-      "quote": "did not publicly complain about the lack of fame for his genetic work, as he found himself drawn to other avenues of research",
-      "status": "confirmed",
-      "locator": "שורה 13"
-    },
-    {
-      "id": "c54",
-      "text": "לפי הספרייה הלאומית לרפואה, נירנברג הקדיש כשלושים שנה מקריירתו לחקר היבטים בנוירוביולוגיה.",
-      "source": "src2",
-      "quote": "Nirenberg would devote the next thirty years of his scientific career to the investigation of various aspects of neurobiology.",
-      "status": "confirmed",
-      "locator": "שורה 10"
-    },
-    {
-      "id": "c55",
-      "text": "לפי סיינטיפיק אמריקן ב-2007, נירנברג פרסם 71 מאמרים בנוירוביולוגיה ב-20 השנים האחרונות.",
-      "source": "src3",
-      "quote": "Nirenberg has racked up 71 publications in neurobiology over the past 20 years.",
-      "status": "confirmed",
-      "locator": "שורה 28"
-    },
-    {
-      "id": "c56",
-      "text": "נירנברג מת ב-15 בינואר 2010 מסרטן בביתו בניו יורק.",
-      "source": "src2",
-      "quote": "Dr. Nirenberg died January 15, 2010 of cancer at his home in New York.",
-      "status": "confirmed",
-      "locator": "שורה 13"
-    },
-    {
-      "id": "c35",
-      "text": "לפי אתר נובל, ב-1962 מונה נירנברג לראש המדור לגנטיקה ביוכימית ב-NIH.",
-      "source": "src4",
-      "quote": "In 1962 he became head of the Section of Biochemical Genetics at the National Institutes of Health.",
-      "status": "confirmed",
-      "locator": "שורה 5"
-    },
-    {
-      "id": "c36",
-      "text": "לפי בריטניקה, שנה אחרי מדליית המדע הלאומית הועלה נירנברג למנהל הגנטיקה הביוכימית ב-NIH, תפקיד שמילא עד סוף הקריירה.",
-      "source": "src7",
-      "quote": "the following year he was elevated to director of biochemical genetics at the NIH, a position he held for the remainder of his career",
-      "status": "confirmed",
-      "locator": "שורה 19"
-    },
-    {
-      "id": "c38",
-      "text": "לפי JTA, נירנברג נבחר לאחד משלושה זוכים בפרס נובל לפיזיולוגיה ורפואה של 1969.",
-      "source": "src1",
-      "quote": "one of three winners of the 1969 Nobel Prize for physiology and medicine",
-      "status": "confirmed",
-      "locator": "שורה 2"
-    },
-    {
-      "id": "c57",
-      "text": "לפי הקרן הלאומית למדע (NSF), הנשיא ג'ונסון העניק לנירנברג את המדליה בטקס בחדר המזרחי של הבית הלבן ב-8 בפברואר 1965.",
-      "source": "src9",
-      "quote": "Presented by President Johnson at a White House Ceremony in the East Room on February 8, 1965.",
-      "status": "confirmed",
-      "locator": "שורה 8"
-    }
-  ],
-  "sources": [
-    {
-      "id": "src1",
-      "label": "Jewish Telegraphic Agency, Nobel Prize announcement (archive)",
-      "url": "https://jta.org/archive/dr-marshall-w-nirenberg-named-co-winner-of-nobel-prize-for-medicine-and-physiology",
-      "kind": "press"
-    },
-    {
-      "id": "src2",
-      "label": "National Library of Medicine, Profiles in Science, Biographical Overview",
-      "url": "https://profiles.nlm.nih.gov/spotlight/jj/feature/biographical",
-      "kind": "official"
-    },
-    {
-      "id": "src3",
-      "label": "Scientific American, The Forgotten Code Cracker",
-      "url": "https://www.scientificamerican.com/article/the-forgotten-code-cracke/",
-      "kind": "press"
-    },
-    {
-      "id": "src4",
-      "label": "NobelPrize.org, Marshall W. Nirenberg – Biographical",
-      "url": "https://www.nobelprize.org/prizes/medicine/1968/nirenberg/biographical/",
-      "kind": "official"
-    },
-    {
-      "id": "src5",
-      "label": "Wikipedia, Marshall Warren Nirenberg",
-      "url": "https://en.wikipedia.org/wiki/Marshall_Warren_Nirenberg",
-      "kind": "reference"
-    },
-    {
-      "id": "src6",
-      "label": "NobelPrize.org, Marshall W. Nirenberg – Facts",
-      "url": "https://www.nobelprize.org/prizes/medicine/1968/nirenberg/facts/",
-      "kind": "official"
-    },
-    {
-      "id": "src7",
-      "label": "Encyclopaedia Britannica, Marshall Warren Nirenberg",
-      "url": "https://www.britannica.com/biography/Marshall-Warren-Nirenberg",
-      "kind": "reference"
-    },
-    {
-      "id": "src8",
-      "label": "Scientific American, Marshall Nirenberg, Forgotten Father of the Genetic Code, Dies, 2010",
-      "url": "https://www.scientificamerican.com/blog/observations/marshall-nirenberg-forgotten-father-of-the-genetic-code-dies/",
-      "kind": "press"
-    },
-    {
-      "id": "src9",
-      "label": "National Science Foundation, National Medal of Science – Marshall W. Nirenberg",
-      "url": "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/marshall-w-nirenberg",
-      "kind": "official"
-    }
-  ],
-  "media": [
-    {
-      "id": "m1",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Marshall%20Nirenberg%20performing%20experiment.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Marshall_Nirenberg_performing_experiment.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "MacVicar, N. - National Institutes of Health",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "A young man in a white coat pipettes liquid into a tube in a laboratory, with a large glass bottle beside him.",
-      "illustrates": [
-        "c9"
-      ],
-      "date": "circa 1962",
-      "width": 4728,
-      "height": 5892
-    },
-    {
-      "id": "m2",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dr.%20Marshall%20Nirenberg%20%281927-2010%29%20%2830046613701%29.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Dr._Marshall_Nirenberg_%281927-2010%29_%2830046613701%29.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "NIH History Office from Bethesda",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "An older man with glasses and a tie speaks at a microphone on a podium; on his jacket lapel is a Nirenberg name tag.",
-      "illustrates": [],
-      "date": "2007-01-01",
-      "width": 1597,
-      "height": 2400
-    },
-    {
-      "id": "m3",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Marshall%20Nirenberg%20%282002%2C%20by%20National%20Institutes%20of%20Health%2C%20U.S.%29.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Marshall_Nirenberg_%282002%2C_by_National_Institutes_of_Health%2C_U.S.%29.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "National Library of Medicine",
-      "licence": "No restrictions",
-      "hosting": "hotlink",
-      "caption": "Color portrait of an older man with white hair, glasses and a dark jacket.",
-      "illustrates": [],
-      "licence_url": "https://www.flickr.com/commons/usage/",
-      "date": "2002-11-12",
-      "width": 3225,
-      "height": 4425
-    },
-    {
-      "id": "m5",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/J.%20Heinreich%20Matthaei%20and%20Marshall%20Nirenberg%20%2829819142523%29.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:J._Heinreich_Matthaei_and_Marshall_Nirenberg_%2829819142523%29.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "NIH History Office from Bethesda",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "Nirenberg and Heinrich Matthaei in lab coats; Nirenberg holds metal models.",
-      "illustrates": [
-        "c16"
-      ],
-      "date": "circa 1962",
-      "width": 4558,
-      "height": 5644
-    },
-    {
-      "id": "m6",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Marshall%20Nirenberg%20personalize%20license%20plate%20%2825896514658%29.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Marshall_Nirenberg_personalize_license_plate_%2825896514658%29.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "NIH History Office from Bethesda",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "Nirenberg beside a Maryland license plate reading UUU PHE, the first word in the genetic code.",
-      "illustrates": [
-        "c19"
-      ],
-      "date": "1987-01-01",
-      "width": 2366,
-      "height": 3019
-    },
-    {
-      "id": "m7",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/MNirenberg.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:MNirenberg.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "The original uploader was Sayeth at English Wikipedia.. Creator of the image is Hecht, Gerald V. (National Institutes of",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "A man in a white coat sits in a study crowded with books, beside a chalkboard and a cart with molecular models.",
-      "illustrates": [],
-      "width": 3584,
-      "height": 4696
-    },
-    {
-      "id": "m8",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nierenberg%20matthaei.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Nierenberg_matthaei.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "N. MacVicar, National Institutes of Health",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "Nirenberg and Matthaei, two men in lab coats, sit beside metal models. According to the description, Matthaei was Nirenberg's first postdoctoral fellow.",
-      "illustrates": [
-        "c16"
-      ],
-      "date": "1961",
-      "width": 4352,
-      "height": 5664
-    },
-    {
-      "id": "m9",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Marshall%20Nirenberg%20and%20Earl%20Stadtman%20%2831545078051%29.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Marshall_Nirenberg_and_Earl_Stadtman_%2831545078051%29.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "NIH History Office from Bethesda",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "Nirenberg in a purple shirt talks with people at an event opening an exhibition about Stadtman.",
-      "illustrates": [],
-      "date": "2004-01-22",
-      "width": 3008,
-      "height": 1960
-    },
-    {
-      "id": "m10",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Marshall%20Nirenberg%20at%20the%20National%20Institutes%20of%20Health%20%2814356088711%29.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Marshall_Nirenberg_at_the_National_Institutes_of_Health_%2814356088711%29.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "NIH History Office from Bethesda",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "Nirenberg in a white coat holds molecular models beside his desk.",
-      "illustrates": [],
-      "date": "1966-01-01",
-      "width": 4530,
-      "height": 5190
-    },
-    {
-      "id": "m11",
-      "kind": "video",
-      "url": "https://www.youtube.com/watch?v=8NIcBtTKLy0",
-      "youtube_id": "8NIcBtTKLy0",
-      "source_page": "https://www.youtube.com/watch?v=8NIcBtTKLy0",
-      "source_name": "YouTube",
-      "credit": "YouTube",
-      "licence": "YouTube, embedded only (standard YouTube licence)",
-      "licence_url": "https://www.youtube.com/static?template=terms",
-      "hosting": "embed",
-      "caption": "Video titled \"Dr. Marshall Nirenberg: Deciphering the Genetic Code\".",
-      "illustrates": [
-        "c19"
-      ],
-      "spoken": "en",
-      "audio_tracks": [
-        "en"
-      ]
-    },
-    {
-      "id": "m12",
-      "kind": "video",
-      "url": "https://www.youtube.com/watch?v=59-ZBYid0kQ",
-      "youtube_id": "59-ZBYid0kQ",
-      "source_page": "https://www.youtube.com/watch?v=59-ZBYid0kQ",
-      "source_name": "YouTube",
-      "credit": "YouTube",
-      "licence": "YouTube, embedded only (standard YouTube licence)",
-      "licence_url": "https://www.youtube.com/static?template=terms",
-      "hosting": "embed",
-      "caption": "Video titled \"Marshall Nirenberg: Cracking the Genetic Code\".",
-      "illustrates": [],
-      "spoken": "en",
-      "audio_tracks": [
-        "en"
-      ]
-    },
-    {
-      "id": "m13",
-      "kind": "video",
-      "url": "https://www.youtube.com/watch?v=JI6CP66vvr4",
-      "youtube_id": "JI6CP66vvr4",
-      "source_page": "https://www.youtube.com/watch?v=JI6CP66vvr4",
-      "source_name": "YouTube",
-      "credit": "YouTube",
-      "licence": "YouTube, embedded only (standard YouTube licence)",
-      "licence_url": "https://www.youtube.com/static?template=terms",
-      "hosting": "embed",
-      "caption": "Video from the \"Profiles in Science\" series on the life and work of Marshall Nirenberg (1927–2010).",
-      "illustrates": [],
-      "spoken": "en",
-      "audio_tracks": [
-        "en"
-      ]
-    },
-    {
-      "id": "m14",
-      "kind": "video",
-      "url": "https://www.youtube.com/watch?v=UTSdltPwL-E",
-      "youtube_id": "UTSdltPwL-E",
-      "source_page": "https://www.youtube.com/watch?v=UTSdltPwL-E",
-      "source_name": "YouTube",
-      "credit": "National Library of Medicine",
-      "licence": "YouTube, embedded only (standard YouTube licence)",
-      "licence_url": "https://www.youtube.com/static?template=terms",
-      "hosting": "embed",
-      "caption": "Tribute event for Nirenberg held by the U.S. National Library of Medicine on March 17, 2015.",
-      "illustrates": []
-    },
-    {
-      "id": "m15",
-      "kind": "video",
-      "url": "https://www.youtube.com/watch?v=fODwXbtysqQ",
-      "youtube_id": "fODwXbtysqQ",
-      "source_page": "https://www.youtube.com/watch?v=fODwXbtysqQ",
-      "source_name": "YouTube",
-      "credit": "YouTube",
-      "licence": "YouTube, embedded only (standard YouTube licence)",
-      "licence_url": "https://www.youtube.com/static?template=terms",
-      "hosting": "embed",
-      "caption": "Video titled \"A Conversation with Dr. Marshall Nirenberg\".",
-      "illustrates": [],
-      "spoken": "en",
-      "audio_tracks": [
-        "en"
-      ]
-    },
-    {
-      "id": "m16",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/06%20chart%20lg.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:06_chart_lg.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Marshall Nirenberg",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "A page from Nirenberg's laboratory notebook: a codon table with numbers and pen markings",
-      "illustrates": [],
-      "width": 650,
-      "height": 1627,
-      "role": "deed"
-    },
-    {
-      "id": "m17",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Marshall%20Nirenberg.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Marshall_Nirenberg.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Hecht, Gerald V. (National Institutes of Health).",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "Marshall Nirenberg in a white coat beside bookshelves, National Institutes of Health photograph, c. 1962",
-      "illustrates": [],
-      "date": "circa 1962",
-      "width": 799,
-      "height": 1052,
-      "role": "deed"
-    },
-    {
-      "id": "m19",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Genetic%20Code.png?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Genetic_Code.png",
-      "source_name": "Wikimedia Commons",
-      "credit": "Sarah Greenwood",
-      "licence": "CC BY-SA 4.0",
-      "hosting": "hotlink",
-      "caption": "The genetic code table: the 64 codons and the amino acids they code for, including UUU for phenylalanine",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "date": "2018-08-15",
-      "width": 4164,
-      "height": 3999,
-      "role": "related"
-    },
-    {
-      "id": "m20",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Crick%20papers%2C%20the%20Triplet%20code%2C%201961%20Wellcome%20L0033397.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:The_Crick_papers%2C_the_Triplet_code%2C_1961_Wellcome_L0033397.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "not stated",
-      "licence": "CC BY 4.0",
-      "hosting": "hotlink",
-      "caption": "A sheet of graph paper with working notes from the Crick archive on the triplet code, 1961",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by/4.0",
-      "width": 3653,
-      "height": 1732,
-      "role": "related"
-    },
-    {
-      "id": "m23",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Clinical%20Center%20telephone%20switchboard%20operators%20%2814172771998%29.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Clinical_Center_telephone_switchboard_operators_%2814172771998%29.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "NIH History Office from Bethesda",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "Telephone switchboard operators with headsets beside a switchboard at the NIH Clinical Center",
-      "illustrates": [],
-      "date": "2011-08-10",
-      "width": 3549,
-      "height": 5249,
-      "role": "related"
-    },
-    {
-      "id": "m26",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/3D%20Genetic%20Code.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:3D_Genetic_Code.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Charles Juvon",
-      "licence": "CC BY-SA 4.0",
-      "hosting": "hotlink",
-      "caption": "A three-dimensional diagram of the genetic code, with three axes for the base positions in the codon",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "date": "2020-08-27",
-      "width": 1291,
-      "height": 1345,
-      "role": "related"
-    },
-    {
-      "id": "m28",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cubic.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Cubic.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Dohduhdah",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "The genetic code cube: amino acid structures placed according to the bases U, C, A, G",
-      "illustrates": [],
-      "width": 2048,
-      "height": 2048,
-      "role": "related"
-    }
-  ],
-  "check": {
-    "passed": true,
-    "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
-    "checked_at": "2026-11-21T21:25:06Z",
-    "counts": {
-      "confirmed": 71,
-      "not_confirmed": 0,
-      "deleted_sentences": 2,
-      "first_round_confirmed": 70,
-      "first_round_contradicted": 1,
-      "first_round_unverifiable": 2
-    },
-    "note": "unverifiable sentences were deleted, contradicted ones fixed from the source and checked again"
+ "schema": "maasei-museum/1",
+ "slug": "marshall-nirenberg-genetic-code",
+ "deed": "מרשל נירנברג פיענח את הקוד הגנטי",
+ "canonical_type": "scientific-discovery",
+ "year": "1959",
+ "title": "Marshall Nirenberg read the first word of the genetic code, UUU, and from there all the codons were deciphered",
+ "trailer": [
+  {
+   "text": "Marshall Nirenberg, a Jewish native of New York, is the scientist who shared the Nobel Prize in Physiology or Medicine with Robert Holley and Har Gobind Khorana.",
+   "claims": [
+    "c3",
+    "c37",
+    "c39"
+   ]
   },
-  "meta": {
-    "run": "marshall-nirenberg-genetic-code",
-    "pipeline": "scripts/museum/museum_line.py",
-    "models": {
-      "research": "sonnet-5-5",
-      "extract": "sonnet-5-5",
-      "media": "sonnet-5-5",
-      "write": "opus-5-5 medium",
-      "check": "opus-5-5 medium",
-      "fix": "opus-5-5 medium"
-    },
-    "source_quality": {
-      "sources": 8,
-      "wikipedia": 1,
-      "strong": 6,
-      "ok": true,
-      "warnings": []
-    },
-    "settled": [
-      {
-        "box": "d2",
-        "question": "באיזו שנה קיבל נירנברג את מדליית המדע הלאומית?",
-        "url": "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/marshall-w-nirenberg",
-        "by": "settle 24.11"
-      }
-    ],
-    "media_dedupe": [
-      {
-        "drop": "m18",
-        "keep": "m5",
-        "by": "reviewed 24.11"
-      },
-      {
-        "drop": "m4",
-        "keep": "m6",
-        "by": "reviewed 24.11"
-      }
-    ]
+  {
+   "text": "Nirenberg said that in the 1950s nobody knew how proteins were synthesized.",
+   "claims": [
+    "c11"
+   ]
   },
-  "lang": "en",
-  "translation": {
-    "from": "he",
-    "translator": "claude-opus-5-5",
-    "checker": "claude-opus-5-5 (separate call, blind to the translation prompt)",
-    "checked_at": "2026-11-23T22:35:25Z",
-    "passed": true,
-    "items": 108,
-    "pairs_checked": 1,
-    "reused": 107,
-    "first_round_flagged": 0,
-    "still_flagged": 0,
-    "flagged": [],
-    "quote_translations": {}
+  {
+   "text": "According to Scientific American, one night in May 1961 his partner Matthaei added a quantity of poly-U to a cell-free system, and the cell extract reacted by producing the amino acid phenylalanine.",
+   "claims": [
+    "c17",
+    "c19"
+   ]
+  },
+  {
+   "text": "In this way, according to Scientific American, UUU became the first word in the chemical dictionary of life.",
+   "claims": [
+    "c19"
+   ]
+  },
+  {
+   "text": "By 1966, with the aid of key contributions from Holley and Khorana, Nirenberg had identified the composition and sequence of all the triplet codons.",
+   "claims": [
+    "c31"
+   ]
   }
+ ],
+ "hero_media": [
+  "m5",
+  "m8",
+  "m1",
+  "m10",
+  "m6",
+  "m3",
+  "m7",
+  "m17"
+ ],
+ "glance": [
+  {
+   "label": "Who",
+   "value": "Marshall Warren Nirenberg, born in New York, 1927",
+   "claims": [
+    "c1"
+   ]
+  },
+  {
+   "label": "Beginning",
+   "value": "1959, studied the relationship between DNA, RNA and protein",
+   "claims": [
+    "c9"
+   ]
+  },
+  {
+   "label": "The first word",
+   "value": "UUU, phenylalanine, May 1961",
+   "claims": [
+    "c17",
+    "c19"
+   ]
+  },
+  {
+   "label": "To the end",
+   "value": "All the triplet codons by 1966",
+   "claims": [
+    "c31"
+   ]
+  },
+  {
+   "label": "Recognition",
+   "value": "Nobel Prize, with Holley and Khorana",
+   "claims": [
+    "c37",
+    "c39"
+   ]
+  }
+ ],
+ "stations": [
+  {
+   "id": "s1",
+   "title": "A boy from New York",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "Marshall Warren Nirenberg was born in New York City on April 10, 1927.",
+      "claims": [
+       "c1"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to the U.S. National Library of Medicine, he developed rheumatic fever, and the family moved to Orlando, Florida, because of the subtropical climate.",
+      "claims": [
+       "c5"
+      ]
+     },
+     {
+      "text": "The sources disagree on the year of the move.",
+      "claims": [
+       "c4",
+       "c5"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "He received a bachelor's degree in 1948 and a master's degree in 1952 in zoology from the University of Florida at Gainesville.",
+      "claims": [
+       "c6"
+      ]
+     },
+     {
+      "text": "In 1957 he received a doctorate in biological chemistry from the University of Michigan, Ann Arbor.",
+      "claims": [
+       "c7"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m13"
+   ],
+   "disagreements": [
+    "d1"
+   ]
+  },
+  {
+   "id": "s2",
+   "title": "The question nobody had solved",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "From 1957 to 1959 Nirenberg did postdoctoral training at the National Institutes of Health (NIH) with DeWitt Stetten and William Jakoby.",
+      "claims": [
+       "c8"
+      ]
+     },
+     {
+      "text": "In 1959 he began to study the steps that relate DNA, RNA and protein.",
+      "claims": [
+       "c9"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "In the 1950s it was established that genetic information passes from DNA to RNA and to protein.",
+      "claims": [
+       "c12"
+      ]
+     },
+     {
+      "text": "It was also established that a sequence of three nucleotides in DNA corresponds to a certain amino acid in a protein.",
+      "claims": [
+       "c12"
+      ]
+     },
+     {
+      "text": "According to Scientific American, each such three-letter sequence is called a codon.",
+      "claims": [
+       "c13"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "But Nirenberg said that nobody yet knew how proteins were synthesized.",
+      "claims": [
+       "c11"
+      ]
+     },
+     {
+      "text": "According to Scientific American, in 1955 Francis Crick tried to solve the problem mainly by thinking rather than by experiments, and did not succeed.",
+      "claims": [
+       "c14"
+      ]
+     },
+     {
+      "text": "Nirenberg said that at first he asked whether DNA is read directly to protein.",
+      "claims": [
+       "c15"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m1",
+    "m7",
+    "m23"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s3",
+   "title": "RNA, not DNA",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "At the end of 1960 Nirenberg and Matthaei discovered something simple.",
+      "claims": [
+       "c16"
+      ]
+     },
+     {
+      "text": "Adding RNA to a cell-free system caused it to synthesize proteins, and adding DNA did not.",
+      "claims": [
+       "c16"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to the Nobel website, the two demonstrated that messenger RNA is required for protein synthesis.",
+      "claims": [
+       "c10"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m5",
+    "m8"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s4",
+   "title": "One night in May 1961",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "Nirenberg and Matthaei produced a long RNA chain consisting of a single nucleotide only.",
+      "claims": [
+       "c18"
+      ]
+     },
+     {
+      "text": "According to Scientific American, one night in May 1961 Matthaei added a quantity of poly-U, that is, such a chain, to a cell-free system.",
+      "claims": [
+       "c17",
+       "c18"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to Scientific American, the cell sap reacted by producing the amino acid phenylalanine, and UUU became the first word in the chemical dictionary of life.",
+      "claims": [
+       "c19"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m6",
+    "m11",
+    "m12",
+    "m5"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s5",
+   "title": "The lecture in Moscow",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "According to Scientific American, Nirenberg announced the result in August 1961 at a biochemical congress in Moscow.",
+      "claims": [
+       "c22"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to the National Library of Medicine, by early 1962 the significance of the experiments was recognized throughout the world, after the media highlighted them as a breakthrough.",
+      "claims": [
+       "c34"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m2"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s6",
+   "title": "Word by word, to the whole dictionary",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "According to Scientific American, Severo Ochoa of New York University set up his own lab and competed with Nirenberg.",
+      "claims": [
+       "c28"
+      ]
+     },
+     {
+      "text": "Nirenberg said that Ochoa stopped working on the code after he himself described a simple method for determining the nucleotide sequence.",
+      "claims": [
+       "c29"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to the National Library of Medicine, he continued the work with a team of postdoctoral fellows and research technicians.",
+      "claims": [
+       "c32"
+      ]
+     },
+     {
+      "text": "He declined offers of professorships and of a research position at the Pasteur Institute, and chose to stay at the NIH.",
+      "claims": [
+       "c33"
+      ]
+     },
+     {
+      "text": "According to Scientific American, by 1966, with the aid of key contributions from Holley and Khorana, Nirenberg had identified the composition and sequence of all the triplet codons.",
+      "claims": [
+       "c31"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m10",
+    "m15",
+    "m16",
+    "m19",
+    "m26",
+    "m28"
+   ],
+   "disagreements": [
+    "d3"
+   ]
+  },
+  {
+   "id": "s7",
+   "title": "Nobel and medals",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "Nirenberg shared the Nobel Prize in Physiology or Medicine with Robert Holley of Cornell and with Har Gobind Khorana of the University of Wisconsin.",
+      "claims": [
+       "c37",
+       "c39"
+      ]
+     },
+     {
+      "text": "According to JTA, the whole prize amounted to $70,000, and Nirenberg's share was $23,333.",
+      "claims": [
+       "c40",
+       "c41"
+      ]
+     },
+     {
+      "text": "According to JTA, the prize was awarded for his work on the fine structure of the genetic code.",
+      "claims": [
+       "c41"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to JTA, Nirenberg had visited the Weizmann Institute of Science in Rehovot, Israel, several years earlier.",
+      "claims": [
+       "c42"
+      ]
+     },
+     {
+      "text": "In 1968 he shared with Khorana the Louisa Gross Horwitz Prize of Columbia University and the Lasker Award.",
+      "claims": [
+       "c43"
+      ]
+     },
+     {
+      "text": "He also received the National Medal of Science, and the sources disagree on the year.",
+      "claims": [
+       "c44",
+       "c45",
+       "c46",
+       "c62"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to the National Library of Medicine, the Washington Post described him as \"painfully modest\", and the work brought him international fame.",
+      "claims": [
+       "c48"
+      ]
+     },
+     {
+      "text": "According to Scientific American, the cracking of the genetic code was one of the important achievements in molecular biology, after the discovery of the double-helix structure in 1953.",
+      "claims": [
+       "c49"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to the National Science Foundation (NSF), President Johnson presented the medal to Nirenberg at a ceremony in the East Room of the White House on February 8, 1965.",
+      "claims": [
+       "c57"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m3",
+    "m14"
+   ],
+   "disagreements": [
+    "d4"
+   ]
+  },
+  {
+   "id": "s8",
+   "title": "The forgotten code cracker, and the years after",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "In 2006 Nirenberg came across a new biography of a prominent molecular biologist, whose title attributed the discovery of the genetic code to Francis Crick.",
+      "claims": [
+       "c50"
+      ]
+     },
+     {
+      "text": "According to Scientific American, people may attribute the discovery to Crick because of his theoretical efforts, and because in 1966 he drew up a chart of the complete code.",
+      "claims": [
+       "c51"
+      ]
+     },
+     {
+      "text": "According to Scientific American, the genetic code, unlike the double helix, was a maze of forbidding chemical names, codons and complex molecular functions.",
+      "claims": [
+       "c52"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to a post on Scientific American's former blog network, which reflects the author's opinion and not necessarily the magazine's position, Nirenberg did not publicly complain about the lack of fame for his genetic work, and turned to other fields of research.",
+      "claims": [
+       "c53"
+      ]
+     },
+     {
+      "text": "According to the National Library of Medicine, he devoted about thirty years of his career to the investigation of neurobiology.",
+      "claims": [
+       "c54"
+      ]
+     },
+     {
+      "text": "According to Scientific American in 2007, he had published 71 papers in neurobiology over the preceding 20 years.",
+      "claims": [
+       "c55"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "Nirenberg died of cancer on January 15, 2010, at his home in New York.",
+      "claims": [
+       "c56"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m9",
+    "m20"
+   ],
+   "disagreements": []
+  }
+ ],
+ "disagreements": [
+  {
+   "id": "d1",
+   "question": "In what year did the family move to Florida?",
+   "versions": [
+    {
+     "says": "According to the Nobel Prize website, the family moved to Orlando in 1939",
+     "claims": [
+      "c4"
+     ]
+    },
+    {
+     "says": "According to the National Library of Medicine, Nirenberg developed rheumatic fever in 1941, and then the family moved to Orlando",
+     "claims": [
+      "c5"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d3",
+   "question": "When was Nirenberg appointed head of biochemical genetics at the NIH?",
+   "versions": [
+    {
+     "says": "According to the Nobel website, in 1962 he was appointed head of the Section of Biochemical Genetics",
+     "claims": [
+      "c35"
+     ]
+    },
+    {
+     "says": "According to Britannica, a year after the National Medal of Science he was elevated to director of biochemical genetics, and held the position for the rest of his career",
+     "claims": [
+      "c36"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d4",
+   "question": "In what year did Nirenberg win the Nobel Prize?",
+   "versions": [
+    {
+     "says": "According to the National Library of Medicine, in 1968",
+     "claims": [
+      "c37"
+     ]
+    },
+    {
+     "says": "According to JTA, he was named one of the three winners of the 1969 prize",
+     "claims": [
+      "c38"
+     ]
+    }
+   ]
+  }
+ ],
+ "unknowns": [],
+ "claims": [
+  {
+   "id": "c3",
+   "text": "לפי סוכנות הידיעות היהודית (JTA), נירנברג היה יליד ניו יורק ויהודי.",
+   "source": "src1",
+   "quote": "a native New Yorker and a Jew, was named today as one of three winners",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c37",
+   "text": "לפי הספרייה הלאומית לרפואה, ב-1968 קיבל נירנברג את פרס נובל בפיזיולוגיה או רפואה.",
+   "source": "src2",
+   "quote": "in 1968, Nirenberg received the Nobel Prize in Physiology or Medicine for",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c39",
+   "text": "את הפרס חלק נירנברג עם רוברט הולי מקורנל והר גובינד חוראנה מאוניברסיטת ויסקונסין.",
+   "source": "src2",
+   "quote": "He shared the award with Robert W. Holley of Cornell University and Har Gobind Khorana of the University of Wisconsin at Madison.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c11",
+   "text": "נירנברג סיפר שבשנות ה-50 לא ידע איש כיצד חלבונים מסונתזים.",
+   "source": "src3",
+   "quote": "But nobody knew how proteins were synthesized. Nobody knew how it was done.",
+   "status": "confirmed",
+   "locator": "שורה 13"
+  },
+  {
+   "id": "c17",
+   "text": "לפי סיינטיפיק אמריקן, ביום אחד בלילה במאי 1961 הוסיף מתאי כמות של פולי-U למערכת נטולת תאים.",
+   "source": "src3",
+   "quote": "And so it happened that late one night in May 1961, Matthaei added a quantity of poly-U into a cell-free system.",
+   "status": "confirmed",
+   "locator": "שורה 20"
+  },
+  {
+   "id": "c19",
+   "text": "לפי סיינטיפיק אמריקן, התאים יצרו את חומצת האמינו פנילאלנין, ו-UUU הפך למילה הראשונה במילון הכימי של החיים.",
+   "source": "src3",
+   "quote": "the cell sap reacted by churning out the amino acid phenylalanine. One codon had been deciphered, and the triplet UUU became the first word in the chemical dictionary of life.",
+   "status": "confirmed",
+   "locator": "שורה 21"
+  },
+  {
+   "id": "c31",
+   "text": "לפי סיינטיפיק אמריקן, עד 1966, בסיוע תרומות מפתח של הולי וחוראנה, זיהה נירנברג את ההרכב והרצף של כל הקודונים הטריפלטיים.",
+   "source": "src3",
+   "quote": "By 1966, with the aid of key contributions from Holley and Khorana, Nirenberg had identified both the compositions and base sequences of all the genetic code",
+   "status": "confirmed",
+   "locator": "שורה 24"
+  },
+  {
+   "id": "c1",
+   "text": "מרשל וורן נירנברג נולד בעיר ניו יורק ב-10 באפריל 1927, בנם של הארי ומינרווה נירנברג.",
+   "source": "src4",
+   "quote": "Marshall Warren Nirenberg was born in New York City on April 10th, 1927, the son of Harry and Minerva Nirenberg.",
+   "status": "confirmed",
+   "locator": "שורה 1"
+  },
+  {
+   "id": "c9",
+   "text": "ב-1959 החל נירנברג לחקור את השלבים המקשרים בין DNA, RNA וחלבון.",
+   "source": "src4",
+   "quote": "In 1959 he began to study the steps that relate DNA, RNA and protein.",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c5",
+   "text": "לפי הספרייה הלאומית לרפואה של ארה\"ב, נירנברג חלה ב-1941 בקדחת שגרונית, והמשפחה עברה לאורלנדו כדי ליהנות מהאקלים הסובטרופי.",
+   "source": "src2",
+   "quote": "In 1941, Marshall developed rheumatic fever, and the Nirenberg family moved to Orlando, Florida, to take advantage of the subtropical climate.",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c4",
+   "text": "לפי אתר פרס נובל, המשפחה עברה לאורלנדו שבפלורידה ב-1939.",
+   "source": "src4",
+   "quote": "The family moved to Orlando, Florida in 1939.",
+   "status": "confirmed",
+   "locator": "שורה 1"
+  },
+  {
+   "id": "c6",
+   "text": "נירנברג קיבל תואר ראשון ב-1948 ותואר שני ב-1952 בזואולוגיה באוניברסיטת פלורידה בגיינסוויל.",
+   "source": "src4",
+   "quote": "In 1948 he received a B. Sc. degree, and in 1952, a M. Sc. degree in Zoology from the University of Florida at Gainesville.",
+   "status": "confirmed",
+   "locator": "שורה 1"
+  },
+  {
+   "id": "c7",
+   "text": "ב-1957 קיבל נירנברג תואר דוקטור בכימיה ביולוגית באוניברסיטת מישיגן באן ארבור.",
+   "source": "src4",
+   "quote": "He continued studies in this field at the University of Michigan, Ann Arbor, and in 1957 received the Ph. D. degree from the Department of Biological Chemistry.",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c8",
+   "text": "בין 1957 ל-1959 עשה נירנברג הכשרה פוסט-דוקטורית במכוני הבריאות הלאומיים (NIH) אצל דוויט סטטן וויליאם ג'קובי.",
+   "source": "src4",
+   "quote": "From 1957 to 1959 he obtained postdoctoral training with DeWitt Stetten Jr., and with William Jakoby at the National Institutes of Health",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c12",
+   "text": "בשנות ה-50 נקבע שמידע גנטי עובר מ-DNA ל-RNA ולחלבון, ושרצף של שלושה נוקלאוטידים ב-DNA מתאים לחומצת אמינו מסוימת בחלבון.",
+   "source": "src6",
+   "quote": "One sequence of three nucleotides in DNA corresponds to a certain amino acid within a protein. How could this genetic code be cracked?",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c13",
+   "text": "לפי סיינטיפיק אמריקן, כל רצף של שלוש אותיות נוקלאוטידים (קודון) מייצג חומצת אמינו מסוימת.",
+   "source": "src3",
+   "quote": "Each three-letter sequence of nucleotides (or codon) stands for a specific amino acid.",
+   "status": "confirmed",
+   "locator": "שורה 15"
+  },
+  {
+   "id": "c14",
+   "text": "לפי סיינטיפיק אמריקן, ב-1955 ניסה פרנסיס קריק לפתור את הבעיה בעיקר בחשיבה ולא בניסויים, ולא הצליח.",
+   "source": "src3",
+   "quote": "In 1955 Crick himself tried to solve the problem, not by experimenting but essentially by thinking, just as a cryptanalyst might try to crack a coded message.",
+   "status": "confirmed",
+   "locator": "שורה 16"
+  },
+  {
+   "id": "c15",
+   "text": "נירנברג סיפר ששאל תחילה אם DNA נקרא ישירות לחלבון.",
+   "source": "src3",
+   "quote": "My question was, Is DNA read directly to protein?",
+   "status": "confirmed",
+   "locator": "שורה 17"
+  },
+  {
+   "id": "c16",
+   "text": "בסוף 1960 גילו נירנברג ומתאי שהוספת RNA למערכת נטולת תאים גרמה לה לסנתז חלבונים, ואילו הוספת DNA לא.",
+   "source": "src3",
+   "quote": "found that putting RNA into the cell-free system caused it to synthesize proteins but that adding DNA did not.",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c10",
+   "text": "לפי אתר נובל, נירנברג ומתאי הוכיחו ש-RNA שליח נחוץ לסינתזת חלבון.",
+   "source": "src4",
+   "quote": "These investigations led to the demonstration with H. Matthaei that messenger RNA is required for protein synthesis",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c18",
+   "text": "נירנברג ומתאי יצרו שרשרת RNA ארוכה שהורכבה מנוקלאוטיד יחיד.",
+   "source": "src6",
+   "quote": "Marshall Nirenberg and Heinrich Matthaei produced a long RNA chain consisting of a single nucleotide.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c22",
+   "text": "לפי סיינטיפיק אמריקן, נירנברג הכריז על התוצאה באוגוסט 1961 בקונגרס ביוכימי במוסקבה.",
+   "source": "src3",
+   "quote": "He announced the result in August 1961 at a biochemical congress in Moscow.",
+   "status": "confirmed",
+   "locator": "שורה 23"
+  },
+  {
+   "id": "c34",
+   "text": "לפי הספרייה הלאומית לרפואה, עד תחילת 1962 הוכרה חשיבות הניסויים ברחבי העולם לאחר שהתקשורת הדגישה אותם כפריצת דרך.",
+   "source": "src2",
+   "quote": "By early 1962, the significance of these early experiments was recognized throughout the world",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c28",
+   "text": "לפי סיינטיפיק אמריקן, סוורו אוצ'ואה מאוניברסיטת ניו יורק הקים מעבדה משלו והתחרה בנירנברג בפענוח הקוד.",
+   "source": "src3",
+   "quote": "Soon afterward Nirenberg had competition: Nobelist Severo Ochoa of the New York University School of Medicine set up his own lab and started deciphering the code, too.",
+   "status": "confirmed",
+   "locator": "שורה 23"
+  },
+  {
+   "id": "c29",
+   "text": "נירנברג סיפר שאוצ'ואה חדל לעבוד על הקוד הגנטי לאחר שהוא תיאר שיטה פשוטה לקביעת רצף הנוקלאוטידים.",
+   "source": "src3",
+   "quote": "Ochoa then stopped working on the genetic code.",
+   "status": "confirmed",
+   "locator": "שורה 23"
+  },
+  {
+   "id": "c32",
+   "text": "לפי הספרייה הלאומית לרפואה, נירנברג המשיך בעבודתו על הקוד הגנטי עם צוות של פוסט-דוקטורנטים וטכנאי מחקר.",
+   "source": "src2",
+   "quote": "Nirenberg continued his work on the genetic code with a team of postdoctoral fellows and research technicians.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c33",
+   "text": "לפי הספרייה הלאומית לרפואה, נירנברג דחה הצעות לפרופסורות ולמשרת מחקר במכון פסטר, ובחר להישאר ב-NIH.",
+   "source": "src2",
+   "quote": "Nirenberg, however, declined all offers and chose to stay at the National Institutes of Health.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c40",
+   "text": "לפי JTA, נירנברג יקבל חלק של 23,333 דולר מהפרס.",
+   "source": "src1",
+   "quote": "Dr. Nirenberg will receive a $23,333 share of the prize along with Prof. Robert Holley of Cornell University",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c41",
+   "text": "לפי JTA, הפרס כולו היה בסך 70,000 דולר, והוענק על עבודתו על המבנה העדין של הקוד הגנטי.",
+   "source": "src1",
+   "quote": "Dr. Nirenberg will share the $70,000 prize with two other scientists for his work on the fine structure of the genetic code",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c42",
+   "text": "לפי JTA, נירנברג ביקר במכון ויצמן למדע ברחובות שבישראל כמה שנים לפני כן.",
+   "source": "src1",
+   "quote": "Dr. Nirenberg visited the Weizmann Institute of Science in Rehovot, Israel, several years ago",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c43",
+   "text": "ב-1968 חלק נירנברג עם חוראנה את פרס לואיזה גרוס הורוויץ מאוניברסיטת קולומביה ואת פרס לסקר.",
+   "source": "src4",
+   "quote": "The Louisa Gross Horwitz Prize, Columbia University, and the Lasker Award were shared with H. G. Khorana in 1968.",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c44",
+   "text": "לפי אתר נובל, נירנברג קיבל את מדליית המדע הלאומית ב-1965.",
+   "source": "src4",
+   "quote": "Paul Lewis Award in Enzyme Chemistry, American Chemical Society, 1964; The National Medal of Science, 1965",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c45",
+   "text": "לפי הספרייה הלאומית לרפואה, הנשיא ג'ונסון העניק לנירנברג את מדליית המדע הלאומית ב-1966.",
+   "source": "src2",
+   "quote": "President Lyndon B. Johnson awarded Nirenberg the National Medal of Science in 1966 and the National Medal of Honor in 1968.",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c46",
+   "text": "לפי בריטניקה, מחקרו של נירנברג הניב לו את מדליית המדע הלאומית ב-1964.",
+   "source": "src7",
+   "quote": "His research earned him the National Medal of Science in 1964, and the following year he was elevated to director of biochemical genetics at the NIH",
+   "status": "confirmed",
+   "locator": "שורה 19"
+  },
+  {
+   "id": "c48",
+   "text": "לפי הספרייה הלאומית לרפואה, הוושינגטון פוסט תיאר את נירנברג כ\"צנוע עד כאב\", והעבודה הקנתה לו תהילה בינלאומית.",
+   "source": "src2",
+   "quote": "whom the Washington Post described as \"painfully modest\"--to international fame",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c49",
+   "text": "לפי סיינטיפיק אמריקן, פענוח הקוד הגנטי היה אחד ההישגים החשובים בביולוגיה מולקולרית, אחרי גילוי מבנה הסליל הכפול ב-1953.",
+   "source": "src3",
+   "quote": "The breaking of the genetic code was one of the most important advances in molecular biology, secondary only to the discovery of the double-helical structure of DNA in 1953 by Crick and James D. Watson.",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c50",
+   "text": "ב-2006 נתקל נירנברג בביוגרפיה חדשה של ביולוג מולקולרי בולט, שכותרתה ייחסה את גילוי הקוד הגנטי לפרנסיס קריק.",
+   "source": "src3",
+   "quote": "In the summer of 2006 Marshall W. Nirenberg chanced on a just published biography of a prominent molecular biologist.",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c51",
+   "text": "לפי סיינטיפיק אמריקן, אנשים עשויים לייחס את הגילוי לקריק בגלל מאמציו התיאורטיים ובגלל שב-1966 שרטט טבלה של הקוד השלם.",
+   "source": "src3",
+   "quote": "because in 1966, based on the experiments of others, he drew up one of the first charts of the complete code.",
+   "status": "confirmed",
+   "locator": "שורה 16"
+  },
+  {
+   "id": "c52",
+   "text": "לפי סיינטיפיק אמריקן, הקוד הגנטי היה מבוך של שמות כימיים מאיימים, קודונים ותפקודים מולקולריים מורכבים, בניגוד לסליל הכפול.",
+   "source": "src3",
+   "quote": "The genetic code, in contrast, was a mazeworks of forbidding chemical names, codons and complex molecular functions",
+   "status": "confirmed",
+   "locator": "שורה 25"
+  },
+  {
+   "id": "c53",
+   "text": "לפי סיינטיפיק אמריקן, נירנברג לא התלונן בפומבי על היעדר התהילה על עבודתו הגנטית, ופנה לתחומי מחקר אחרים.",
+   "source": "src8",
+   "quote": "did not publicly complain about the lack of fame for his genetic work, as he found himself drawn to other avenues of research",
+   "status": "confirmed",
+   "locator": "שורה 13"
+  },
+  {
+   "id": "c54",
+   "text": "לפי הספרייה הלאומית לרפואה, נירנברג הקדיש כשלושים שנה מקריירתו לחקר היבטים בנוירוביולוגיה.",
+   "source": "src2",
+   "quote": "Nirenberg would devote the next thirty years of his scientific career to the investigation of various aspects of neurobiology.",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c55",
+   "text": "לפי סיינטיפיק אמריקן ב-2007, נירנברג פרסם 71 מאמרים בנוירוביולוגיה ב-20 השנים האחרונות.",
+   "source": "src3",
+   "quote": "Nirenberg has racked up 71 publications in neurobiology over the past 20 years.",
+   "status": "confirmed",
+   "locator": "שורה 28"
+  },
+  {
+   "id": "c56",
+   "text": "נירנברג מת ב-15 בינואר 2010 מסרטן בביתו בניו יורק.",
+   "source": "src2",
+   "quote": "Dr. Nirenberg died January 15, 2010 of cancer at his home in New York.",
+   "status": "confirmed",
+   "locator": "שורה 13"
+  },
+  {
+   "id": "c35",
+   "text": "לפי אתר נובל, ב-1962 מונה נירנברג לראש המדור לגנטיקה ביוכימית ב-NIH.",
+   "source": "src4",
+   "quote": "In 1962 he became head of the Section of Biochemical Genetics at the National Institutes of Health.",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c36",
+   "text": "לפי בריטניקה, שנה אחרי מדליית המדע הלאומית הועלה נירנברג למנהל הגנטיקה הביוכימית ב-NIH, תפקיד שמילא עד סוף הקריירה.",
+   "source": "src7",
+   "quote": "the following year he was elevated to director of biochemical genetics at the NIH, a position he held for the remainder of his career",
+   "status": "confirmed",
+   "locator": "שורה 19"
+  },
+  {
+   "id": "c38",
+   "text": "לפי JTA, נירנברג נבחר לאחד משלושה זוכים בפרס נובל לפיזיולוגיה ורפואה של 1969.",
+   "source": "src1",
+   "quote": "one of three winners of the 1969 Nobel Prize for physiology and medicine",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c57",
+   "text": "לפי הקרן הלאומית למדע (NSF), הנשיא ג'ונסון העניק לנירנברג את המדליה בטקס בחדר המזרחי של הבית הלבן ב-8 בפברואר 1965.",
+   "source": "src9",
+   "quote": "Presented by President Johnson at a White House Ceremony in the East Room on February 8, 1965.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c62",
+   "text": "הוא קיבל גם את מדליית המדע הלאומית, והמקורות חלוקים בשנה.",
+   "source": "src9",
+   "quote": "Presented by President Johnson at a White House Ceremony in the East Room on February 8, 1965.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  }
+ ],
+ "sources": [
+  {
+   "id": "src1",
+   "label": "Jewish Telegraphic Agency, Nobel Prize announcement (archive)",
+   "url": "https://jta.org/archive/dr-marshall-w-nirenberg-named-co-winner-of-nobel-prize-for-medicine-and-physiology",
+   "kind": "press"
+  },
+  {
+   "id": "src2",
+   "label": "National Library of Medicine, Profiles in Science, Biographical Overview",
+   "url": "https://profiles.nlm.nih.gov/spotlight/jj/feature/biographical",
+   "kind": "official"
+  },
+  {
+   "id": "src3",
+   "label": "Scientific American, The Forgotten Code Cracker",
+   "url": "https://www.scientificamerican.com/article/the-forgotten-code-cracke/",
+   "kind": "press"
+  },
+  {
+   "id": "src4",
+   "label": "NobelPrize.org, Marshall W. Nirenberg – Biographical",
+   "url": "https://www.nobelprize.org/prizes/medicine/1968/nirenberg/biographical/",
+   "kind": "official"
+  },
+  {
+   "id": "src6",
+   "label": "NobelPrize.org, Marshall W. Nirenberg – Facts",
+   "url": "https://www.nobelprize.org/prizes/medicine/1968/nirenberg/facts/",
+   "kind": "official"
+  },
+  {
+   "id": "src7",
+   "label": "Encyclopaedia Britannica, Marshall Warren Nirenberg",
+   "url": "https://www.britannica.com/biography/Marshall-Warren-Nirenberg",
+   "kind": "reference"
+  },
+  {
+   "id": "src8",
+   "label": "Scientific American, Marshall Nirenberg, Forgotten Father of the Genetic Code, Dies, 2010",
+   "url": "https://www.scientificamerican.com/blog/observations/marshall-nirenberg-forgotten-father-of-the-genetic-code-dies/",
+   "kind": "press"
+  },
+  {
+   "id": "src9",
+   "label": "National Science Foundation, National Medal of Science – Marshall W. Nirenberg",
+   "url": "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/marshall-w-nirenberg",
+   "kind": "official"
+  }
+ ],
+ "media": [
+  {
+   "id": "m1",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Marshall%20Nirenberg%20performing%20experiment.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Marshall_Nirenberg_performing_experiment.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "MacVicar, N. - National Institutes of Health",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "A young man in a white coat pipettes liquid into a tube in a laboratory, with a large glass bottle beside him.",
+   "illustrates": [
+    "c9"
+   ],
+   "date": "circa 1962",
+   "width": 4728,
+   "height": 5892
+  },
+  {
+   "id": "m2",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dr.%20Marshall%20Nirenberg%20%281927-2010%29%20%2830046613701%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Dr._Marshall_Nirenberg_%281927-2010%29_%2830046613701%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "NIH History Office from Bethesda",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "An older man with glasses and a tie speaks at a microphone on a podium; on his jacket lapel is a Nirenberg name tag.",
+   "illustrates": [],
+   "date": "2007-01-01",
+   "width": 1597,
+   "height": 2400
+  },
+  {
+   "id": "m3",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Marshall%20Nirenberg%20%282002%2C%20by%20National%20Institutes%20of%20Health%2C%20U.S.%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Marshall_Nirenberg_%282002%2C_by_National_Institutes_of_Health%2C_U.S.%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "National Library of Medicine",
+   "licence": "No restrictions",
+   "hosting": "hotlink",
+   "caption": "Color portrait of an older man with white hair, glasses and a dark jacket.",
+   "illustrates": [],
+   "licence_url": "https://www.flickr.com/commons/usage/",
+   "date": "2002-11-12",
+   "width": 3225,
+   "height": 4425
+  },
+  {
+   "id": "m5",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/J.%20Heinreich%20Matthaei%20and%20Marshall%20Nirenberg%20%2829819142523%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:J._Heinreich_Matthaei_and_Marshall_Nirenberg_%2829819142523%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "NIH History Office from Bethesda",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "Nirenberg and Heinrich Matthaei in lab coats; Nirenberg holds metal models.",
+   "illustrates": [
+    "c16"
+   ],
+   "date": "circa 1962",
+   "width": 4558,
+   "height": 5644
+  },
+  {
+   "id": "m6",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Marshall%20Nirenberg%20personalize%20license%20plate%20%2825896514658%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Marshall_Nirenberg_personalize_license_plate_%2825896514658%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "NIH History Office from Bethesda",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "Nirenberg beside a Maryland license plate reading UUU PHE, the first word in the genetic code.",
+   "illustrates": [
+    "c19"
+   ],
+   "date": "1987-01-01",
+   "width": 2366,
+   "height": 3019
+  },
+  {
+   "id": "m7",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/MNirenberg.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:MNirenberg.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "The original uploader was Sayeth at English Wikipedia.. Creator of the image is Hecht, Gerald V. (National Institutes of",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "A man in a white coat sits in a study crowded with books, beside a chalkboard and a cart with molecular models.",
+   "illustrates": [],
+   "width": 3584,
+   "height": 4696
+  },
+  {
+   "id": "m8",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nierenberg%20matthaei.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Nierenberg_matthaei.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "N. MacVicar, National Institutes of Health",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "Nirenberg and Matthaei, two men in lab coats, sit beside metal models. According to the description, Matthaei was Nirenberg's first postdoctoral fellow.",
+   "illustrates": [
+    "c16"
+   ],
+   "date": "1961",
+   "width": 4352,
+   "height": 5664
+  },
+  {
+   "id": "m9",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Marshall%20Nirenberg%20and%20Earl%20Stadtman%20%2831545078051%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Marshall_Nirenberg_and_Earl_Stadtman_%2831545078051%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "NIH History Office from Bethesda",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "Nirenberg in a purple shirt talks with people at an event opening an exhibition about Stadtman.",
+   "illustrates": [],
+   "date": "2004-01-22",
+   "width": 3008,
+   "height": 1960
+  },
+  {
+   "id": "m10",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Marshall%20Nirenberg%20at%20the%20National%20Institutes%20of%20Health%20%2814356088711%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Marshall_Nirenberg_at_the_National_Institutes_of_Health_%2814356088711%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "NIH History Office from Bethesda",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "Nirenberg in a white coat holds molecular models beside his desk.",
+   "illustrates": [],
+   "date": "1966-01-01",
+   "width": 4530,
+   "height": 5190
+  },
+  {
+   "id": "m11",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=8NIcBtTKLy0",
+   "youtube_id": "8NIcBtTKLy0",
+   "source_page": "https://www.youtube.com/watch?v=8NIcBtTKLy0",
+   "source_name": "YouTube",
+   "credit": "YouTube",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "Video titled \"Dr. Marshall Nirenberg: Deciphering the Genetic Code\".",
+   "illustrates": [
+    "c19"
+   ],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m12",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=59-ZBYid0kQ",
+   "youtube_id": "59-ZBYid0kQ",
+   "source_page": "https://www.youtube.com/watch?v=59-ZBYid0kQ",
+   "source_name": "YouTube",
+   "credit": "YouTube",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "Video titled \"Marshall Nirenberg: Cracking the Genetic Code\".",
+   "illustrates": [],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m13",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=JI6CP66vvr4",
+   "youtube_id": "JI6CP66vvr4",
+   "source_page": "https://www.youtube.com/watch?v=JI6CP66vvr4",
+   "source_name": "YouTube",
+   "credit": "YouTube",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "Video from the \"Profiles in Science\" series on the life and work of Marshall Nirenberg (1927–2010).",
+   "illustrates": [],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m14",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=UTSdltPwL-E",
+   "youtube_id": "UTSdltPwL-E",
+   "source_page": "https://www.youtube.com/watch?v=UTSdltPwL-E",
+   "source_name": "YouTube",
+   "credit": "National Library of Medicine",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "Tribute event for Nirenberg held by the U.S. National Library of Medicine on March 17, 2015.",
+   "illustrates": []
+  },
+  {
+   "id": "m15",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=fODwXbtysqQ",
+   "youtube_id": "fODwXbtysqQ",
+   "source_page": "https://www.youtube.com/watch?v=fODwXbtysqQ",
+   "source_name": "YouTube",
+   "credit": "YouTube",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "Video titled \"A Conversation with Dr. Marshall Nirenberg\".",
+   "illustrates": [],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m16",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/06%20chart%20lg.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:06_chart_lg.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Marshall Nirenberg",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "A page from Nirenberg's laboratory notebook: a codon table with numbers and pen markings",
+   "illustrates": [],
+   "width": 650,
+   "height": 1627,
+   "role": "deed"
+  },
+  {
+   "id": "m17",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Marshall%20Nirenberg.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Marshall_Nirenberg.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Hecht, Gerald V. (National Institutes of Health).",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "Marshall Nirenberg in a white coat beside bookshelves, National Institutes of Health photograph, c. 1962",
+   "illustrates": [],
+   "date": "circa 1962",
+   "width": 799,
+   "height": 1052,
+   "role": "deed"
+  },
+  {
+   "id": "m19",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Genetic%20Code.png?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Genetic_Code.png",
+   "source_name": "Wikimedia Commons",
+   "credit": "Sarah Greenwood",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "The genetic code table: the 64 codons and the amino acids they code for, including UUU for phenylalanine",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2018-08-15",
+   "width": 4164,
+   "height": 3999,
+   "role": "related"
+  },
+  {
+   "id": "m20",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Crick%20papers%2C%20the%20Triplet%20code%2C%201961%20Wellcome%20L0033397.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:The_Crick_papers%2C_the_Triplet_code%2C_1961_Wellcome_L0033397.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "not stated",
+   "licence": "CC BY 4.0",
+   "hosting": "hotlink",
+   "caption": "A sheet of graph paper with working notes from the Crick archive on the triplet code, 1961",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/4.0",
+   "width": 3653,
+   "height": 1732,
+   "role": "related"
+  },
+  {
+   "id": "m23",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Clinical%20Center%20telephone%20switchboard%20operators%20%2814172771998%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Clinical_Center_telephone_switchboard_operators_%2814172771998%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "NIH History Office from Bethesda",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "Telephone switchboard operators with headsets beside a switchboard at the NIH Clinical Center",
+   "illustrates": [],
+   "date": "2011-08-10",
+   "width": 3549,
+   "height": 5249,
+   "role": "related"
+  },
+  {
+   "id": "m26",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/3D%20Genetic%20Code.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:3D_Genetic_Code.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Charles Juvon",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "A three-dimensional diagram of the genetic code, with three axes for the base positions in the codon",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2020-08-27",
+   "width": 1291,
+   "height": 1345,
+   "role": "related"
+  },
+  {
+   "id": "m28",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cubic.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Cubic.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Dohduhdah",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "The genetic code cube: amino acid structures placed according to the bases U, C, A, G",
+   "illustrates": [],
+   "width": 2048,
+   "height": 2048,
+   "role": "related"
+  }
+ ],
+ "check": {
+  "passed": true,
+  "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
+  "checked_at": "2026-11-21T21:25:06Z",
+  "counts": {
+   "confirmed": 59,
+   "not_confirmed": 0,
+   "deleted_sentences": 2,
+   "first_round_confirmed": 70,
+   "first_round_contradicted": 1,
+   "first_round_unverifiable": 2
+  },
+  "note": "unverifiable sentences were deleted, contradicted ones fixed from the source and checked again"
+ },
+ "meta": {
+  "run": "marshall-nirenberg-genetic-code",
+  "pipeline": "scripts/museum/museum_line.py",
+  "models": {
+   "research": "sonnet-5-5",
+   "extract": "sonnet-5-5",
+   "media": "sonnet-5-5",
+   "write": "opus-5-5 medium",
+   "check": "opus-5-5 medium",
+   "fix": "opus-5-5 medium"
+  },
+  "source_quality": {
+   "sources": 8,
+   "wikipedia": 0,
+   "strong": 6,
+   "ok": true,
+   "warnings": []
+  },
+  "settled": [
+   {
+    "box": "d2",
+    "question": "באיזו שנה קיבל נירנברג את מדליית המדע הלאומית?",
+    "url": "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/marshall-w-nirenberg",
+    "by": "settle 24.11"
+   }
+  ],
+  "media_dedupe": [
+   {
+    "drop": "m18",
+    "keep": "m5",
+    "by": "reviewed 24.11"
+   },
+   {
+    "drop": "m4",
+    "keep": "m6",
+    "by": "reviewed 24.11"
+   }
+  ],
+  "wiki_cleanup": {
+   "at": "2026-11-27T15:07:09Z",
+   "targets": 10,
+   "resourced": 1,
+   "kept_on_other_sources": 0,
+   "deleted": 9
+  }
+ },
+ "lang": "en",
+ "translation": {
+  "from": "he",
+  "translator": "claude-opus-5-5",
+  "checker": "claude-opus-5-5 (separate call, blind to the translation prompt)",
+  "checked_at": "2026-11-27T15:07:09Z",
+  "passed": true,
+  "items": 97,
+  "pairs_checked": 0,
+  "reused": 97,
+  "first_round_flagged": 0,
+  "still_flagged": 0,
+  "flagged": [],
+  "quote_translations": {}
+ }
 }

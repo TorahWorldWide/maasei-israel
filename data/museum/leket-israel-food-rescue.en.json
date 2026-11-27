@@ -87,7 +87,7 @@
    "label": "Recognition",
    "value": "Israel’s representative in the Global Foodbanking Network, since 2011",
    "claims": [
-    "c42"
+    "c65"
    ]
   }
  ],
@@ -103,25 +103,13 @@
       "claims": [
        "c1"
       ]
-     },
-     {
-      "text": "According to the history section of the Wikipedia article on Leket Israel, a section that cites no sources, the first National Insurance Institute report was released in 2003, and according to it, 25% of the Israeli population was living in poverty.",
-      "claims": [
-       "c9"
-      ]
      }
     ],
     [
      {
-      "text": "According to the history section of the Wikipedia article on Leket Israel, most of the nearby non-profit organizations that Gitler approached spent a large part of their budget on buying food, while at the same time caterers were throwing out huge amounts of food at the end of events.",
-      "claims": [
-       "c10"
-      ]
-     },
-     {
       "text": "Catering companies were throwing out huge amounts of food at the end of events.",
       "claims": [
-       "c10"
+       "c66"
       ]
      },
      {
@@ -333,12 +321,6 @@
       ]
      },
      {
-      "text": "According to the Wikipedia article on Leket Israel, the organization's volunteers prepare and deliver more than 4,500 mid-morning meals to students at 70 schools around Israel.",
-      "claims": [
-       "c59"
-      ]
-     },
-     {
       "text": "In Eilat, 19 hotels participate in the program, and a thousand rescued meals are distributed in the city every day.",
       "claims": [
        "c57"
@@ -362,12 +344,6 @@
       "text": "According to Leket, it rescues agricultural produce from over 700 farmers throughout the country.",
       "claims": [
        "c19"
-      ]
-     },
-     {
-      "text": "Former Prime Minister Ariel Sharon allowed Leket volunteers to pick oranges from his orchard in Ramot Hashavim.",
-      "claims": [
-       "c61"
       ]
      }
     ],
@@ -445,7 +421,8 @@
      {
       "text": "The law absolves food donors, non-profit organizations, and their staff and volunteers from criminal and civil liability, provided that they meet the food safety requirements set by the Ministry of Health.",
       "claims": [
-       "c25"
+       "c68",
+       "c69"
       ]
      },
      {
@@ -550,12 +527,6 @@
      }
     ],
     [
-     {
-      "text": "In 2011 Leket joined the Global Foodbanking Network, as the official Israeli representative.",
-      "claims": [
-       "c42"
-      ]
-     },
      {
       "text": "In 2014 Gitler won the Nefesh B'Nefesh Bonei Zion Prize, in the Community and Non-Profit category.",
       "claims": [
@@ -677,12 +648,6 @@
      ]
     },
     {
-     "says": "According to Wikipedia: only 6.4% of the estimated 2019 budget",
-     "claims": [
-      "c48"
-     ]
-    },
-    {
      "says": "Gitler, when urging increased funding: around 5-10% of the annual budget",
      "claims": [
       "c46"
@@ -777,30 +742,6 @@
    "quote": "Today, we rescue agricultural produce from over 700 farmers throughout the country.",
    "status": "confirmed",
    "locator": "שורה 29"
-  },
-  {
-   "id": "c42",
-   "text": "לקט הוכנסה ב-2011 כנציגה הישראלית הרשמית של הרשת העולמית לבנקי מזון.",
-   "source": "src6",
-   "quote": "Official Israeli representative of the Global Foodbanking Network (Inducted 2011)",
-   "status": "confirmed",
-   "locator": "שורה 54"
-  },
-  {
-   "id": "c9",
-   "text": "בשנת 2003 פורסם דו\"ח המוסד לביטוח לאומי הראשון, שלפיו 25% מאוכלוסיית ישראל חיה בעוני.",
-   "source": "src6",
-   "quote": "In 2003, the first National Insurance Institute Report was released revealing that 25% of the Israeli population was living in poverty",
-   "status": "confirmed",
-   "locator": "שורה 42"
-  },
-  {
-   "id": "c10",
-   "text": "בזמן שעמותות הוציאו חלק גדול מתקציבן על מזון, קייטרינג זרקו כמויות עצומות של אוכל בסוף אירועים.",
-   "source": "src6",
-   "quote": "Meanwhile, caterers were throwing out an exorbitant amount of food at the end of events.",
-   "status": "confirmed",
-   "locator": "שורה 42"
   },
   {
    "id": "c13",
@@ -939,28 +880,12 @@
    "locator": "שורה 35"
   },
   {
-   "id": "c59",
-   "text": "מתנדבי לקט מכינים ומספקים יותר מ-4,500 ארוחות בוקר מאוחרות לתלמידים ב-70 בתי ספר.",
-   "source": "src6",
-   "quote": "Leket Israel volunteers prepare and deliver more than 4,500 mid-morning meals to students at 70 schools around Israel.",
-   "status": "confirmed",
-   "locator": "שורה 39"
-  },
-  {
    "id": "c57",
    "text": "באילת משתתפים בתוכנית 19 מלונות, ומדי יום מחולקות בעיר אלף ארוחות מוצלות.",
    "source": "src7",
    "quote": "In Eilat alone, 19 hotels participate in the program, and a thousand rescued meals are distributed daily in the city.",
    "status": "confirmed",
    "locator": "שורה 18"
-  },
-  {
-   "id": "c61",
-   "text": "ראש הממשלה לשעבר אריאל שרון אִפשר למתנדבי לקט לקטוף תפוזים מפרדסו ברמות השבים.",
-   "source": "src6",
-   "quote": "Former Israeli Prime Minister Ariel Sharon allowed Leket Israel volunteers to pick oranges from his 15-dunam orchard",
-   "status": "confirmed",
-   "locator": "שורה 37"
   },
   {
    "id": "c39",
@@ -1009,14 +934,6 @@
    "quote": "On October 23 rd, 2018, after 10 years of extensive lobbying, the Food Donation Act was passed in the Knesset plenary.",
    "status": "confirmed",
    "locator": "שורה 51"
-  },
-  {
-   "id": "c25",
-   "text": "החוק פוטר תורמי מזון, עמותות ועובדיהן ומתנדביהן מאחריות פלילית ואזרחית.",
-   "source": "src6",
-   "quote": "absolves food donors, non-profit organizations and staff and volunteers at the non-profit organizations from criminal and civil liability",
-   "status": "confirmed",
-   "locator": "שורה 48"
   },
   {
    "id": "c26",
@@ -1203,12 +1120,36 @@
    "locator": "שורה 75"
   },
   {
-   "id": "c48",
-   "text": "לפי ויקיפדיה, רק 6.4% מתקציב 2019 המשוער של לקט צפויים להגיע ממקורות ממשלתיים.",
-   "source": "src6",
-   "quote": "Of its 2019 estimated organization budget only 6.4% is expected to be funded by government sources",
+   "id": "c65",
+   "text": "הכרה: נציגת ישראל ברשת העולמית לבנקי מזון, מ-2011",
+   "source": "src16",
+   "quote": "GFN Certified Member since 2011",
    "status": "confirmed",
-   "locator": "שורה 57"
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c66",
+   "text": "חברות קייטרינג זרקו כמויות עצומות של אוכל בסוף אירועים.",
+   "source": "src17",
+   "quote": "We would go to weddings and celebrations of friends and see how much food was being thrown away",
+   "status": "confirmed",
+   "locator": "שורה 17"
+  },
+  {
+   "id": "c68",
+   "text": "החוק פוטר תורמי מזון, עמותות, עובדיהן ומתנדביהן מאחריות פלילית ואזרחית, בתנאי שהם עומדים בדרישות בטיחות המזון שקבע משרד הבריאות.",
+   "source": "src18",
+   "quote": "from criminal and civil liability, provided they adhere to the food safety requirements set forth by the Ministry of Health",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c69",
+   "text": "החוק פוטר תורמי מזון, עמותות, עובדיהן ומתנדביהן מאחריות פלילית ואזרחית, בתנאי שהם עומדים בדרישות בטיחות המזון שקבע משרד הבריאות.",
+   "source": "src18",
+   "quote": "absolves food donors, non-profit organizations and staff and volunteers at the non-profit organizations",
+   "status": "confirmed",
+   "locator": "שורה 6"
   }
  ],
  "sources": [
@@ -1241,12 +1182,6 @@
    "label": "Ynetnews, One-third of Israel's food is wasted as 1.5 million go hungry",
    "url": "https://www.ynetnews.com/article/hkua2hfzzx",
    "kind": "press"
-  },
-  {
-   "id": "src6",
-   "label": "Wikipedia, Leket Israel",
-   "url": "https://en.wikipedia.org/wiki/Leket_Israel",
-   "kind": "reference"
   },
   {
    "id": "src7",
@@ -1300,6 +1235,24 @@
    "id": "src15",
    "label": "Ynet, article about Leket Israel",
    "url": "https://www.ynet.co.il/article/s1jkizvuo",
+   "kind": "press"
+  },
+  {
+   "id": "src16",
+   "label": "The Global FoodBanking Network: Israel (Leket Israel)",
+   "url": "https://www.foodbanking.org/global-reach/israel/",
+   "kind": "organisation"
+  },
+  {
+   "id": "src17",
+   "label": "Aish: Rescuing Israel's Wasted Food",
+   "url": "https://aish.com/rescuing-israels-wasted-food/",
+   "kind": "press"
+  },
+  {
+   "id": "src18",
+   "label": "Yeshiva World News: Knesset Passes Food Donation Act",
+   "url": "https://www.theyeshivaworld.com/?p=1609356",
    "kind": "press"
   }
  ],
@@ -1763,7 +1716,7 @@
   "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
   "checked_at": "2026-11-22T00:29:10Z",
   "counts": {
-   "confirmed": 83,
+   "confirmed": 77,
    "not_confirmed": 0,
    "deleted_sentences": 2,
    "first_round_confirmed": 82,
@@ -1784,11 +1737,18 @@
    "fix": "opus-5-5 medium"
   },
   "source_quality": {
-   "sources": 15,
-   "wikipedia": 1,
+   "sources": 17,
+   "wikipedia": 0,
    "strong": 10,
    "ok": true,
    "warnings": []
+  },
+  "wiki_cleanup": {
+   "at": "2026-11-27T15:02:09Z",
+   "targets": 9,
+   "resourced": 3,
+   "kept_on_other_sources": 0,
+   "deleted": 6
   }
  },
  "lang": "en",
@@ -1796,11 +1756,11 @@
   "from": "he",
   "translator": "claude-opus-5-5",
   "checker": "claude-opus-5-5 (separate call, blind to the translation prompt)",
-  "checked_at": "2026-11-22T02:03:08Z",
+  "checked_at": "2026-11-27T15:02:10Z",
   "passed": true,
-  "items": 129,
-  "pairs_checked": 8,
-  "reused": 121,
+  "items": 123,
+  "pairs_checked": 0,
+  "reused": 123,
   "first_round_flagged": 0,
   "still_flagged": 0,
   "flagged": [],

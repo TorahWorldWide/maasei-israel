@@ -1,1755 +1,1781 @@
 {
-  "schema": "maasei-museum/1",
-  "slug": "otto-loewi-frog-heart-experiment",
-  "deed": "אוטו לוי וניסוי לב-הצפרדע",
-  "canonical_type": "scientific-discovery",
-  "year": "1921",
-  "title": "אוטו לוי העביר תמיסה מלב צפרדע אחד לשני והראה שעצבים משחררים חומרים כימיים",
-  "trailer": [
-    {
-      "text": "אוטו לוי, זוכה פרס נובל ברפואה או בפיזיולוגיה לשנת 1936, נולד בפרנקפורט שבגרמניה למשפחה יהודית של סוחרי יין.",
-      "claims": [
-        "c1",
-        "c3",
-        "c41"
-      ]
-    },
-    {
-      "text": "בתחילת המאה ה-20 ידעו שאותות העצבים עוברים באימפולסים חשמליים, אבל לא היה ברור אם הם עוברים גם בחומרים כימיים.",
-      "claims": [
-        "c5",
-        "c6"
-      ]
-    },
-    {
-      "text": "לפי דבריו, הרעיון לניסוי עלה בחלום, והוא קם, הלך למעבדה וביצע ניסוי פשוט בלב צפרדע.",
-      "claims": [
-        "c14",
-        "c19"
-      ]
-    },
-    {
-      "text": "הוא העביר תמיסה מלב שעצבו גורה אל לב שני, והלב השני האט כאילו גורה העצב שלו.",
-      "claims": [
-        "c21",
-        "c22"
-      ]
-    },
-    {
-      "text": "לפי לוי, כך הוכח שהעצבים משחררים חומרים כימיים, וב-1936 חלק את פרס נובל עם הנרי דייל.",
-      "claims": [
-        "c24",
-        "c41"
-      ]
-    }
-  ],
-  "hero_media": [
-    "m7",
-    "m5",
-    "m6",
-    "m9",
-    "m8",
-    "m4",
-    "m13",
-    "m12",
-    "m20",
-    "m22"
-  ],
-  "glance": [
-    {
-      "label": "נולד",
-      "value": "פרנקפורט, 1873",
-      "claims": [
-        "c1"
-      ]
-    },
-    {
-      "label": "עבד",
-      "value": "פרופסור לפרמקולוגיה בגראץ",
-      "claims": [
-        "c62",
-        "c63"
-      ]
-    },
-    {
-      "label": "הניסוי",
-      "value": "שני לבבות צפרדע, 1921",
-      "claims": [
-        "c20",
-        "c25"
-      ]
-    },
-    {
-      "label": "החומר",
-      "value": "Vagusstoff, אצטילכולין",
-      "claims": [
-        "c27"
-      ]
-    },
-    {
-      "label": "הכרה",
-      "value": "פרס נובל 1936, עם הנרי דייל",
-      "claims": [
-        "c42"
-      ]
-    }
-  ],
-  "stations": [
-    {
-      "id": "s1",
-      "title": "לפני הניסוי: שאלה פתוחה",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "אוטו לוי נולד ב-3 ביוני 1873 בפרנקפורט, בן לסוחר היין היהודי יעקב לוי ולאנה וילשטטר.",
-            "claims": [
-              "c1",
-              "c2"
-            ]
-          },
-          {
-            "text": "לפי המאמר, הוא קיבל חינוך קלאסי בלטינית וביוונית.",
-            "claims": [
-              "c3"
-            ]
-          },
-          {
-            "text": "לפי DGIM, המשפחה שהקים לוי עם אשתו גווידה וארבעת ילדיהם הכירה בזהותה היהודית אך לא הייתה דתית ונחשבה מתבוללת.",
-            "claims": [
-              "c4"
-            ]
-          },
-          {
-            "text": "לפי לוי, הוא ראה תמותה גבוהה בחולי שחפת ודלקת ריאות שנותרו ללא טיפול, ואחרי זה החליט לעבור למחקר בסיסי.",
-            "claims": [
-              "c13"
-            ]
-          },
-          {
-            "text": "הוא נעשה פרופסור לפרמקולוגיה בגראץ.",
-            "claims": [
-              "c62",
-              "c63"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "בתחילת המאה ה-20 ידעו שאותות מערכת העצבים מועברים באימפולסים חשמליים.",
-            "claims": [
-              "c5"
-            ]
-          },
-          {
-            "text": "לא היה ברור אם הם מועברים גם בחומרים כימיים.",
-            "claims": [
-              "c6"
-            ]
-          },
-          {
-            "text": "לפי לוי עצמו, עד 1921 לא היה ידוע איך גירוי של עצב משפיע על האיבר המגיב.",
-            "claims": [
-              "c7"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "את ההשערה על העברה כימית מייחסים בדרך כלל לאליוט, שפרסם אותה ב-1904.",
-            "claims": [
-              "c9"
-            ]
-          },
-          {
-            "text": "לוי עצמו כתב שאליוט הציע אז שגירוי עצבים סימפתטיים עשוי להתרחש בשחרור אדרנלין.",
-            "claims": [
-              "c10"
-            ]
-          },
-          {
-            "text": "ב-1929 נזכר פלטשר שלוי הציע את ההשערה באופן עצמאי כבר ב-1903, בשיחה פרטית איתו.",
-            "claims": [
-              "c11"
-            ]
-          },
-          {
-            "text": "דוח מוקדם של דיקסון, בכתב עת לא מוכר, רמז על חומר מעכב שמשתחרר בגירוי עצב הוואגוס, אך לא זכה לתשומת לב.",
-            "claims": [
-              "c12"
-            ]
-          },
-          {
-            "text": "לפי אנציקלופדיה, עד 1920 טרם נמצאה ראיה ניסויית מכרעת, וההשערה נפלה בדעת הקהל המדעי.",
-            "claims": [
-              "c8"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "לפי האוניברסיטה הרפואית של גראץ, לוי מונה ב-1909 לקתדרה לפרמקולוגיה באוניברסיטת גראץ, ולימד שם עד 1938.",
-            "claims": [
-              "c73"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m6"
-      ],
-      "disagreements": []
-    },
-    {
-      "id": "s2",
-      "title": "חלום בלילה, פתק זעיר",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "לפי דבריו, הרעיון לניסוי עלה בחלום, בחג הפסחא.",
-            "claims": [
-              "c14"
-            ]
-          },
-          {
-            "text": "לוי סיפר שבלילה שלפני יום ראשון של הפסחא התעורר, הדליק אור ורשם כמה הערות על פתק זעיר.",
-            "claims": [
-              "c15"
-            ]
-          },
-          {
-            "text": "בבוקר לא הצליח לפענח את כתב ידו.",
-            "claims": [
-              "c18"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "לפי דייל, לוי סיפר לו בעצם את אותו סיפור כבר ב-1921.",
-            "claims": [
-              "c46"
-            ]
-          },
-          {
-            "text": "לפי דייל, לוי חזר עליו כמעט בלי שינוי במשך ארבעה עשורים.",
-            "claims": [
-              "c46"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m15",
-        "m14"
-      ],
-      "disagreements": [
-        "d1"
-      ]
-    },
-    {
-      "id": "s3",
-      "title": "שני לבבות, תמיסה אחת",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "לוי סיפר שבלילה שלאחר מכן, בשלוש לפנות בוקר, חזר אליו הרעיון, ואז קם מיד, הלך למעבדה וביצע ניסוי פשוט בלב צפרדע לפי התכנון שעלה בלילה.",
-            "claims": [
-              "c19"
-            ]
-          },
-          {
-            "text": "לפי תיאורו, בודדו לבבות של שתי צפרדעים: הראשון עם עצביו, והשני בלעדיהם.",
-            "claims": [
-              "c20",
-              "c26"
-            ]
-          },
-          {
-            "text": "לפי תיאורו, עצב הוואגוס של הלב הראשון גורה כמה דקות, ותמיסת רינגר מהלב הועברה אל הלב השני.",
-            "claims": [
-              "c21"
-            ]
-          },
-          {
-            "text": "הלב השני האט ופעימותיו נחלשו, כאילו גורה עצב הוואגוס שלו.",
-            "claims": [
-              "c22"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "כשגורה עצב המאיץ והתמיסה הועברה, הלב השני האיץ ופעימותיו התחזקו.",
-            "claims": [
-              "c23"
-            ]
-          },
-          {
-            "text": "לפי לוי, התוצאות הוכיחו שהעצבים אינם משפיעים על הלב ישירות אלא משחררים חומרים כימיים.",
-            "claims": [
-              "c24"
-            ]
-          },
-          {
-            "text": "לפי אתר פרס נובל, הניסוי שבו גירה לב צפרדע באימפולסים חשמליים והעביר תמיסה ללב אחר נעשה ב-1921.",
-            "claims": [
-              "c25"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m5",
-        "m18",
-        "m17"
-      ],
-      "disagreements": []
-    },
-    {
-      "id": "s4",
-      "title": "החומר מקבל שם",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "את החומר כינו Vagusstoff.",
-            "claims": [
-              "c27"
-            ]
-          },
-          {
-            "text": "מאוחר יותר אושר שהוא אצטילכולין, המוליך העצבי העיקרי במערכת הפאראסימפתטית.",
-            "claims": [
-              "c27"
-            ]
-          },
-          {
-            "text": "המאמר הראשון פתח סדרה של ארבעה עשר מאמרים על העברה הומורלית, שפורסמו בחמש עשרה השנים הבאות.",
-            "claims": [
-              "c29"
-            ]
-          },
-          {
-            "text": "רק במאמרים העשירי והאחד-עשר, ב-1926, זיהו לוי ונברטיל את ה-Vagusstoff כאצטילכולין.",
-            "claims": [
-              "c31"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "לוי הראה שאפשר לעכב את פעולת האסטראז בריכוזים זעירים של אזרין.",
-            "claims": [
-              "c38"
-            ]
-          },
-          {
-            "text": "לפי לוי, אחרי שדייל ודודלי הפיקו את החומר ישירות מהאיברים, אין עוד ספק שה-Vagusstoff הוא אצטילכולין.",
-            "claims": [
-              "c39"
-            ]
-          },
-          {
-            "text": "רק ב-1936 זיהה לוי את החומר שמשתחרר בגירוי עצב המאיץ כאדרנלין.",
-            "claims": [
-              "c40"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "לפי ויקיפדיה, Vagusstoff היה האישור הראשון להעברה סינפטית כימית והמוליך העצבי הראשון שהתגלה.",
-            "claims": [
-              "c28"
-            ]
-          },
-          {
-            "text": "הגילוי הוביל למהפכה מושגית בנוירופיזיולוגיה.",
-            "claims": [
-              "c43"
-            ]
-          },
-          {
-            "text": "לפי לוי בהרצאת הנובל, נמצאה סוף סוף תשובה ברורה לשאלה העתיקה איך עובר הגירוי מעצב לאיבר.",
-            "claims": [
-              "c44"
-            ]
-          },
-          {
-            "text": "לפי לוי, ההוכחה שהעצב משחרר חומר מעכב מבהירה מאין בא העיכוב ההיקפי.",
-            "claims": [
-              "c45"
-            ]
-          },
-          {
-            "text": "הוא קרא לרופאים בעתיד להתייחס ליחסים אלה כדי להסביר תסמינים שנחשבו עד אז רפלקסיביים בלבד.",
-            "claims": [
-              "c71"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m16"
-      ],
-      "disagreements": []
-    },
-    {
-      "id": "s5",
-      "title": "שטוקהולם ופרס נובל",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "ב-1926 הוזמן לוי להדגים את הניסוי בקונגרס הבינלאומי ה-12 לפיזיולוגיה בשטוקהולם.",
-            "claims": [
-              "c33"
-            ]
-          },
-          {
-            "text": "ב-1936 קיבל את פרס נובל ברפואה או בפיזיולוגיה, במשותף עם סר הנרי דייל.",
-            "claims": [
-              "c41",
-              "c42"
-            ]
-          },
-          {
-            "text": "בהרצאת הנובל הודה לעמיתיו נברטיל, ויטנובסקי ואנגלהרט.",
-            "claims": [
-              "c49"
-            ]
-          },
-          {
-            "text": "בנאום הקבלה הודו דייל ולוי לאליוט ולדיקסון על תרומתם.",
-            "claims": [
-              "c72"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "ב-1944 קיבל את פרס קמרון של אוניברסיטת אדינבורו.",
-            "claims": [
-              "c65"
-            ]
-          },
-          {
-            "text": "ב-1954 מונה לחבר זר בחברה המלכותית.",
-            "claims": [
-              "c64"
-            ]
-          },
-          {
-            "text": "מרכז המחקר לביולוגיה של כלי דם, אימונולוגיה ודלקת באוניברסיטה הרפואית של גראץ נושא את שמו.",
-            "claims": [
-              "c66"
-            ]
-          },
-          {
-            "text": "האגודה הגרמנית למדעי המוח (Neurowissenschaftliche Gesellschaft) מעניקה מאז 2018 מדליית אוטו לוי אחת לארבע שנים.",
-            "claims": [
-              "c67"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m7",
-        "m9",
-        "m13",
-        "m4",
-        "m21",
-        "m27"
-      ],
-      "disagreements": []
-    },
-    {
-      "id": "s6",
-      "title": "מעצר, גלות וחבר לחיים",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "כשהגרמנים פלשו לאוסטריה ב-1938, לוי נאלץ לעזוב את מולדתו.",
-            "claims": [
-              "c51"
-            ]
-          },
-          {
-            "text": "במרץ 1938 נאסרו לוי ושניים מארבעת ילדיו, כמו יהודים גברים אחרים בגראץ.",
-            "claims": [
-              "c50"
-            ]
-          },
-          {
-            "text": "לפי המאמר, הגסטאפו עצר אותו ואת שני בניו באיום נשק, והוא שוחרר בזכות מחאה בינלאומית של מדענים.",
-            "claims": [
-              "c54"
-            ]
-          },
-          {
-            "text": "הגסטאפו אילץ אותו להעביר את כספי פרס נובל מבנק בשטוקהולם לבנק בשליטה נאצית.",
-            "claims": [
-              "c52"
-            ]
-          },
-          {
-            "text": "הוא שוחרר כעבור חודשיים, ובספטמבר הורשה לעזוב ללונדון.",
-            "claims": [
-              "c53"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "ב-28 בספטמבר 1938 ברח לאנגליה ושהה כמה שבועות אצל הנרי דייל.",
-            "claims": [
-              "c55"
-            ]
-          },
-          {
-            "text": "ב-1902, במעבדתו של סטרלינג בלונדון, פגש לוי לראשונה את הנרי דייל, שהיה לחברו לכל החיים ושחלק איתו מאוחר יותר את פרס נובל.",
-            "claims": [
-              "c70"
-            ]
-          },
-          {
-            "text": "ב-1940 הגיע לניו יורק.",
-            "claims": [
-              "c56",
-              "c57"
-            ]
-          },
-          {
-            "text": "אשתו גווידה הצטרפה אליו בתחילת 1941, אחרי שלא הורשתה לעזוב את אוסטריה קודם לכן.",
-            "claims": [
-              "c58"
-            ]
-          },
-          {
-            "text": "ב-1 באפריל 1946 קיבל אזרחות אמריקנית.",
-            "claims": [
-              "c59"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "לוי מת ביום חג המולד 1961.",
-            "claims": [
-              "c60",
-              "c61"
-            ]
-          },
-          {
-            "text": "לפי DGVS, מותו היה בניו יורק.",
-            "claims": [
-              "c60"
-            ]
-          },
-          {
-            "text": "בהספד ב-1962 אמר פרדיננד הוף שמערכת בלתי אנושית אילצה את החוקר הגדול לצאת לגלות.",
-            "claims": [
-              "c68"
-            ]
-          },
-          {
-            "text": "לפי רצונו, נקבר באוגוסט 1962 בוודס הול שבמסצ'וסטס.",
-            "claims": [
-              "c69"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m8",
-        "m12",
-        "m11"
-      ],
-      "disagreements": [
-        "d3",
-        "d4"
-      ]
-    },
-    {
-      "id": "s7",
-      "title": "ספקות, ביקורת ומזל",
-      "kind": "hard",
-      "paragraphs": [
-        [
-          {
-            "text": "המאמר הראשון העלה גם אפשרות אחרת: שהחומרים הם תוצר של שינוי בפעילות הלב ולא של גירוי העצב עצמו.",
-            "claims": [
-              "c30"
-            ]
-          },
-          {
-            "text": "אומרים שלוי נכשל לא פעם בניסיונותיו לשחזר את הניסוי.",
-            "claims": [
-              "c32"
-            ]
-          },
-          {
-            "text": "חלק מהמאמרים בסדרה כוונו נגד ביקורתו של ליאון אשר.",
-            "claims": [
-              "c34"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "לפי ויקיפדיה, בוואגוס של הצפרדע שבה השתמש לוי יש סיבים מעכבים וסיבים מעוררים, ובחורף הסיבים המעכבים הם הרוב, ולכן לוי היה בר מזל שביצע את הניסויים בפברואר או במרץ.",
-            "claims": [
-              "c35"
-            ]
-          },
-          {
-            "text": "בנסיבות מעט שונות היה האצטילכולין מתפרק לפני שהגיע ללב השני.",
-            "claims": [
-              "c36"
-            ]
-          },
-          {
-            "text": "לפי ואן דר קלוט, בלב הצפרדעים ההונגריות שבהן השתמש לוי יש מעט כולינסטראז.",
-            "claims": [
-              "c37"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "לוי פקפק בהעברה כימית בעצבים מוטוריים רצוניים ובמערכת העצבים המרכזית, משום שהם פועלים מהר הרבה יותר.",
-            "claims": [
-              "c47"
-            ]
-          },
-          {
-            "text": "דייל ועמיתיו היו אחראים בעיקר להוכחה שיש העברה כימית גם מחוץ למערכת העצבים האוטונומית הפוסט-גנגליונית.",
-            "claims": [
-              "c48"
-            ]
-          }
-        ]
-      ],
-      "media": [],
-      "disagreements": []
-    }
-  ],
-  "disagreements": [
-    {
-      "id": "d1",
-      "question": "באיזו שנה היה החלום שקדם לניסוי?",
-      "versions": [
-        {
-          "says": "לפי DGIM, לוי אמר שהרעיון עלה בחלום בפסחא 1921",
-          "claims": [
-            "c14"
-          ]
-        },
-        {
-          "says": "בציטוט במאמר ב-PubMed Central מופיעה שנת 1920",
-          "claims": [
-            "c16"
-          ]
-        },
-        {
-          "says": "לפי גרסה נוספת באנציקלופדיה, החלום היה בפסחא 1920",
-          "claims": [
-            "c17"
-          ]
-        },
-        {
-          "says": "לפי אתר פרס נובל, הניסוי עצמו נעשה ב-1921",
-          "claims": [
-            "c25"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d3",
-      "question": "מתי הגיע לוי לניו יורק?",
-      "versions": [
-        {
-          "says": "לפי DGIM, ב-1 ביוני 1940",
-          "claims": [
-            "c56"
-          ]
-        },
-        {
-          "says": "לפי DGVS, ב-1 ביולי 1940, אחרי הפלגה מליברפול",
-          "claims": [
-            "c57"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d4",
-      "question": "בן כמה היה לוי במותו?",
-      "versions": [
-        {
-          "says": "לפי DGVS, בן 85",
-          "claims": [
-            "c60"
-          ]
-        },
-        {
-          "says": "לפי המאמר ב-PubMed Central, בן 89",
-          "claims": [
-            "c61"
-          ]
-        }
-      ]
-    }
-  ],
-  "unknowns": [],
-  "claims": [
-    {
-      "id": "c1",
-      "text": "אוטו לוי נולד ב-3 ביוני 1873 בפרנקפורט שבגרמניה, בן לסוחר יעקב לוי ולאנה וילשטטר.",
-      "source": "src1",
-      "quote": "Otto Loewi was born on June 3, 1873, in Frankfurt-am-Main, Germany, the son of Jacob Loewi, a merchant, and Anna Willstätter.",
-      "status": "confirmed",
-      "locator": "שורה 1"
-    },
-    {
-      "id": "c3",
-      "text": "לפי המאמר, לוי נולד בפרנקפורט למשפחה יהודית של סוחרי יין אמידים וקיבל חינוך קלאסי בלטינית וביוונית.",
-      "source": "src2",
-      "quote": "Born in Frankfurt, Germany, into a Jewish family of wealthy wine merchants, he received a classical education in Latin and Greek",
-      "status": "confirmed",
-      "locator": "שורה 8"
-    },
-    {
-      "id": "c41",
-      "text": "ב-1936 חלק לוי עם הנרי דייל את פרס נובל ברפואה או בפיזיולוגיה.",
-      "source": "src3",
-      "quote": "In 1936 Loewi shared with Henry Dale the Nobel Prize in physiology or medicine for work relating to the chemical transmission of nervous impulses.",
-      "status": "confirmed",
-      "locator": "שורה 8"
-    },
-    {
-      "id": "c5",
-      "text": "בתחילת המאה ה-20 היה ידוע שאותות מערכת העצבים מועברים בעזרת אימפולסים חשמליים.",
-      "source": "src4",
-      "quote": "At the beginning of the 20th century, it was known that the nervous system’s signals are conveyed with the help of electrical impulses.",
-      "status": "confirmed",
-      "locator": "שורה 9"
-    },
-    {
-      "id": "c6",
-      "text": "לא היה ברור אם האותות מועברים גם בחומרים כימיים.",
-      "source": "src4",
-      "quote": "However, it was unclear whether the signals were also conveyed by chemical substances.",
-      "status": "confirmed",
-      "locator": "שורה 9"
-    },
-    {
-      "id": "c14",
-      "text": "לפי דבריו, הרעיון לניסוי עלה בחלום בפסחא 1921.",
-      "source": "src5",
-      "quote": "According to his own statements, the idea for the experiment had come to Loewi in a dream on Easter 1921",
-      "status": "confirmed",
-      "locator": "שורה 13"
-    },
-    {
-      "id": "c19",
-      "text": "לוי סיפר שקם מיד, הלך למעבדה וביצע ניסוי פשוט בלב צפרדע לפי התכנון הליליי.",
-      "source": "src3",
-      "quote": "I got up immediately, went to the laboratory, and performed a simple experiment on a frog heart according to the nocturnal design.",
-      "status": "confirmed",
-      "locator": "שורה 20"
-    },
-    {
-      "id": "c21",
-      "text": "לפי תיאורו, עצב הוואגוס של הלב הראשון גורה דקות אחדות, ותמיסת רינגר מהלב הועברה ללב השני.",
-      "source": "src3",
-      "quote": "The vagus nerve of the first heart was stimulated for a few minutes. Then the Ringer solution that had been in the first heart during the stimulation of the vagus was transferred to the second heart.",
-      "status": "confirmed",
-      "locator": "שורה 21"
-    },
-    {
-      "id": "c22",
-      "text": "הלב השני האט ופעימותיו נחלשו, כאילו עצב הוואגוס שלו גורה.",
-      "source": "src3",
-      "quote": "[This second heart] slowed and its beats diminished just as if its vagus had been stimulated.",
-      "status": "confirmed",
-      "locator": "שורה 21"
-    },
-    {
-      "id": "c24",
-      "text": "לפי לוי, התוצאות הוכיחו שהעצבים אינם משפיעים ישירות על הלב אלא משחררים חומרים כימיים.",
-      "source": "src3",
-      "quote": "These results unequivocally proved that the nerves do not influence the heart directly but liberate from their terminals specific chemical substances",
-      "status": "confirmed",
-      "locator": "שורה 21"
-    },
-    {
-      "id": "c62",
-      "text": "לפי המאמר, ב-1908 הפך לוי לפרופסור לפרמקולוגיה באוניברסיטת גראץ.",
-      "source": "src2",
-      "quote": "In 1908, Loewi became a professor of pharmacology at the University of Graz in Austria, gaining a reputation as a lively lecturer.",
-      "status": "confirmed",
-      "locator": "שורה 9"
-    },
-    {
-      "id": "c63",
-      "text": "לפי האוטוביוגרפיה, ב-1909 מונה לקתדרה לפרמקולוגיה בגראץ.",
-      "source": "src1",
-      "quote": "in 1909 he was appointed to the Chair of Pharmacology in Graz.",
-      "status": "confirmed",
-      "locator": "שורה 3"
-    },
-    {
-      "id": "c20",
-      "text": "לפי תיאורו, בודדו לבבות של שתי צפרדעים, הראשון עם עצביו והשני בלעדיהם.",
-      "source": "src3",
-      "quote": "The hearts of two frogs were isolated, the first with its nerves, the second without.",
-      "status": "confirmed",
-      "locator": "שורה 21"
-    },
-    {
-      "id": "c25",
-      "text": "לפי אתר פרס נובל, ב-1921 גירה לוי לב צפרדע באימפולסים חשמליים והעביר תמיסה ללב אחר.",
-      "source": "src4",
-      "quote": "In 1921 Otto Loewi stimulated the heart of a frog with electrical impulses and had it pump a small amount of nutrient solution.",
-      "status": "confirmed",
-      "locator": "שורה 9"
-    },
-    {
-      "id": "c27",
-      "text": "החומר שכונה Vagusstoff אושר מאוחר יותר כאצטילכולין ונמצא כמוליך העצבי העיקרי במערכת הפאראסימפתטית.",
-      "source": "src6",
-      "quote": "Vagustoff was later confirmed to be acetylcholine and was found to be the principal neurotransmitter in the parasympathetic nervous system.",
-      "status": "confirmed",
-      "locator": "שורה 12"
-    },
-    {
-      "id": "c42",
-      "text": "לוי קיבל את פרס נובל ב-1936 במשותף עם סר הנרי דייל.",
-      "source": "src1",
-      "quote": "It was for these researches that he received the Nobel Prize in 1936, jointly with Sir Henry Dale.",
-      "status": "confirmed",
-      "locator": "שורה 9"
-    },
-    {
-      "id": "c2",
-      "text": "לוי היה בנו של סוחר היין היהודי יעקב לוי ושל אשתו אנה.",
-      "source": "src5",
-      "quote": "Otto Loewi was the son of the Jewish wine merchant Jakob Loewi and his wife Anna, née Willstädter.",
-      "status": "confirmed",
-      "locator": "שורה 1"
-    },
-    {
-      "id": "c4",
-      "text": "לפי DGIM, המשפחה הכירה בזהותה היהודית אך לא הייתה דתית ונחשבה מתבוללת.",
-      "source": "src5",
-      "quote": "The family acknowledged their Jewish identity, but were not religious and were considered assimilated.",
-      "status": "confirmed",
-      "locator": "שורה 7"
-    },
-    {
-      "id": "c13",
-      "text": "לפי לוי, לאחר שראה תמותה גבוהה בחולי שחפת ודלקת ריאות שנותרו ללא טיפול, החליט לעבור למחקר בסיסי.",
-      "source": "src1",
-      "quote": "after seeing the high mortality in countless cases of far-advanced tuberculosis and pneumonia, left without any treatment because of lack of therapy",
-      "status": "confirmed",
-      "locator": "שורה 3"
-    },
-    {
-      "id": "c7",
-      "text": "לפי לוי עצמו, עד 1921 לא היה ידוע כיצד גירוי עצב משפיע על תפקוד האיבר המגיב.",
-      "source": "src7",
-      "quote": "Up until the year 1921 it was not known how the stimulation of a nerve influenced the effector organ’s function",
-      "status": "confirmed",
-      "locator": "שורה 4"
-    },
-    {
-      "id": "c9",
-      "text": "את ההשערה על העברה כימית מיוחסת בדרך כלל לאליוט, שפרסם את ההצעה ב-1904.",
-      "source": "src3",
-      "quote": "Credit for the hypothesis is usually given to Elliott, who published the suggestion in 1904.",
-      "status": "confirmed",
-      "locator": "שורה 17"
-    },
-    {
-      "id": "c10",
-      "text": "לוי עצמו כתב שאליוט הציע ב-1904 שגירוי עצבים סימפתטיים עשוי להתרחש בשחרור אדרנלין.",
-      "source": "src7",
-      "quote": "earlier (in 1904 to be exact) Elliott3, in the last paragraph of a short note, suggested the possibility that the stimulation of sympathetic nerves might be brought about by the release of adrenaline",
-      "status": "confirmed",
-      "locator": "שורה 4"
-    },
-    {
-      "id": "c11",
-      "text": "ב-1929 פלטשר נזכר שלוי הציע באופן עצמאי את ההשערה הכימית כבר ב-1903 בשיחה פרטית איתו.",
-      "source": "src3",
-      "quote": "recalled that Loewi had independently proposed the chemical transmission hypothesis in 1903, in a private conversation with Fletcher",
-      "status": "confirmed",
-      "locator": "שורה 17"
-    },
-    {
-      "id": "c12",
-      "text": "דוח מוקדם של דיקסון, שפורסם בכתב עת לא מוכר, רמז על שחרור חומר מעכב בגירוי עצב הוואגוס, אך לא זכה לתשומת לב.",
-      "source": "src2",
-      "quote": "An earlier report by Walter Ernest Dixon, another English pharmacologist, had hinted at the possibility of the release of an inhibitory substance upon stimulation of the vagus nerve.",
-      "status": "confirmed",
-      "locator": "שורה 11"
-    },
-    {
-      "id": "c8",
-      "text": "לפי אנציקלופדיה, עד 1920 טרם נמצאה ראיה ניסויית מכרעת להעברה כימית, והשערה זו נפלה בדעת הקהל המדעי.",
-      "source": "src3",
-      "quote": "by 1920 no decisive experimental evidence for chemical transmission had yet been found, and the hypothesis had fallen into rather general discredit.",
-      "status": "confirmed",
-      "locator": "שורה 18"
-    },
-    {
-      "id": "c15",
-      "text": "לוי סיפר שבליל שלפני יום ראשון של הפסחא התעורר, הדליק אור ורשם כמה הערות על פתק זעיר.",
-      "source": "src3",
-      "quote": "The night before Easter Sunday of [1921] I awoke, turned on the light, and jotted down a few notes on a tiny slip of thin paper.",
-      "status": "confirmed",
-      "locator": "שורה 20"
-    },
-    {
-      "id": "c18",
-      "text": "בבוקר לא הצליח לוי לפענח את כתב ידו.",
-      "source": "src6",
-      "quote": "He wrote it down in the middle of the night but the next morning could not decipher his writing.",
-      "status": "confirmed",
-      "locator": "שורה 14"
-    },
-    {
-      "id": "c46",
-      "text": "לפי דייל, לוי סיפר לו בעצם את אותו סיפור ב-1921 וחזר עליו כמעט ללא שינוי במשך ארבעה עשורים.",
-      "source": "src3",
-      "quote": "Dale has testified that Loewi told him essentially the same story in 1921 and repeated it virtually unchanged several times during the next four decades.",
-      "status": "confirmed",
-      "locator": "שורה 22"
-    },
-    {
-      "id": "c26",
-      "text": "לפי המאמר, באחד הלבבות עצב הוואגוס היה שלם ובשני הוסר העצבוב.",
-      "source": "src2",
-      "quote": "one preparation had the vagus nerve intact, while the other was denervated. Next, he stimulated the vagus nerve supplying the first heart, causing it to beat more slowly",
-      "status": "confirmed",
-      "locator": "שורה 6"
-    },
-    {
-      "id": "c23",
-      "text": "כשגורה עצב המאיץ והתמיסה הועברה, הלב השני האיץ ופעימותיו התחזקו.",
-      "source": "src3",
-      "quote": "Similarly, when the accelerator nerve was stimulated and the Ringer from this period transferred, the second heart speeded up and its beats increased.",
-      "status": "confirmed",
-      "locator": "שורה 21"
-    },
-    {
-      "id": "c29",
-      "text": "המאמר הראשון היה הראשון בסדרה של ארבעה עשר מאמרים על העברה הומורלית שפורסמו במהלך חמש עשרה השנים הבאות.",
-      "source": "src3",
-      "quote": "the first in a series of fourteen papers on humoral transmission which Loewi and his several collaborators published in the same journal during the next fifteen years.",
-      "status": "confirmed",
-      "locator": "שורה 23"
-    },
-    {
-      "id": "c31",
-      "text": "רק במאמרים העשירי והאחד-עשר ב-1926 זיהו לוי ונברטיל את ה-Vagusstoff כאצטילכולין.",
-      "source": "src3",
-      "quote": "But not until the tenth and eleventh papers (both published in 1926) did Loewi and his collaborator E. Navratil positively identify the Vagusstoff with acetylcholine.",
-      "status": "confirmed",
-      "locator": "שורה 23"
-    },
-    {
-      "id": "c38",
-      "text": "לוי הראה שניתן לעכב את פעולת האסטראז בריכוזים מזעריים של אזרין.",
-      "source": "src7",
-      "quote": "I was able to show furthermore that the action of this esterase could be specifically inhibited through minimum concentrations of eserine7.",
-      "status": "confirmed",
-      "locator": "שורה 7"
-    },
-    {
-      "id": "c39",
-      "text": "לפי לוי, לאחר שדייל ודודלי הפיקו את החומר ישירות מהאיברים, אין עוד ספק שה-Vagusstoff הוא אצטילכולין.",
-      "source": "src7",
-      "quote": "As Dale and Dudley9 were able to produce it directly from the organs, there can be no more doubt that the vagus substance is Ac.Ch.",
-      "status": "confirmed",
-      "locator": "שורה 8"
-    },
-    {
-      "id": "c40",
-      "text": "רק ב-1936 זיהה לוי באופן חיובי את החומר שמשתחרר בגירוי עצב המאיץ כאדרנלין.",
-      "source": "src3",
-      "quote": "it was not until 1936 that Loewi positively identified the Acceleransstoff or Sympathicusstoff with adrenaline (epinephrine)",
-      "status": "confirmed",
-      "locator": "שורה 25"
-    },
-    {
-      "id": "c28",
-      "text": "לפי ויקיפדיה, Vagusstoff היה אישור ראשון להעברה סינפטית כימית ומוליך עצבי ראשון שהתגלה.",
-      "source": "src6",
-      "quote": "Discovered in 1921 by physiologist Otto Loewi, vagusstoff was the first confirmation of chemical synaptic transmission and the first neurotransmitter ever discovered.",
-      "status": "confirmed",
-      "locator": "שורה 3"
-    },
-    {
-      "id": "c43",
-      "text": "הגילוי הוביל למהפכה מושגית בנוירופיזיולוגיה.",
-      "source": "src3",
-      "quote": "This discovery in fact inaugurated a conceptual revolution in neurophysiology.",
-      "status": "confirmed",
-      "locator": "שורה 27"
-    },
-    {
-      "id": "c44",
-      "text": "לפי לוי בהרצאת הנובל, נמצאה סוף סוף תשובה ברורה לשאלה העתיקה על מהות העברת הגירוי מעצב לאיבר.",
-      "source": "src7",
-      "quote": "at last a clear answer has been found to the age-old question as to the nature of the stimulus-transfer from nerve to effector organ.",
-      "status": "confirmed",
-      "locator": "שורה 21"
-    },
-    {
-      "id": "c45",
-      "text": "לפי לוי, ההוכחה שהעצב משחרר חומר מעכב מבהירה את מקור העיכוב ההיקפי.",
-      "source": "src7",
-      "quote": "With the proof that this inhibition comes about because the nerve releases a function-inhibiting substance, the reason for it becomes clear.",
-      "status": "confirmed",
-      "locator": "שורה 22"
-    },
-    {
-      "id": "c71",
-      "text": "לוי קרא לרופאים בעתיד להתייחס ליחסים אלה כדי להסביר תסמינים שנחשבו עד כה רפלקסיביים בלבד.",
-      "source": "src7",
-      "quote": "It would be very desirable if in future clinicians would give consideration to these relationships",
-      "status": "confirmed",
-      "locator": "שורה 38"
-    },
-    {
-      "id": "c33",
-      "text": "לוי הוזמן להדגים את הניסוי בקונגרס הבינלאומי ה-12 לפיזיולוגיה בשטוקהולם ב-1926.",
-      "source": "src3",
-      "quote": "Loewi was invited to demonstrate his experiment before the Twelfth International Congress of Physiology at Stockholm in 1926.",
-      "status": "confirmed",
-      "locator": "שורה 24"
-    },
-    {
-      "id": "c49",
-      "text": "בהרצאת הנובל הודה לוי לעמיתיו נברטיל, ויטנובסקי ואנגלהרט.",
-      "source": "src7",
-      "quote": "First of all, I must mention my distinguished collaborators E. Navratil, W. Witanowski, and E. Engelhart, and thank them.",
-      "status": "confirmed",
-      "locator": "שורה 6"
-    },
-    {
-      "id": "c72",
-      "text": "בנאום הקבלה הודו דייל ולוי לאליוט ולדיקסון על תרומתם.",
-      "source": "src2",
-      "quote": "In their acceptance speech, they appropriately acknowledged the contributions of Elliott and Dixon.",
-      "status": "confirmed",
-      "locator": "שורה 12"
-    },
-    {
-      "id": "c65",
-      "text": "לוי קיבל את פרס קמרון של אוניברסיטת אדינבורו ב-1944.",
-      "source": "src1",
-      "quote": "and of the Cameron Prize of the University of Edinburgh (1944)",
-      "status": "confirmed",
-      "locator": "שורה 12"
-    },
-    {
-      "id": "c64",
-      "text": "ב-1954 מונה לוי לחבר זר בחברה המלכותית.",
-      "source": "src1",
-      "quote": "In 1954 he was appointed Foreign Member of the Royal Society.",
-      "status": "confirmed",
-      "locator": "שורה 12"
-    },
-    {
-      "id": "c66",
-      "text": "מרכז המחקר לביולוגיה של כלי דם, אימונולוגיה ודלקת באוניברסיטה הרפואית של גראץ נושא את שמו.",
-      "source": "src8",
-      "quote": "In Erinnerung an Otto Loewi trägt das Forschungszentrum für Gefäßbiologie, Immunologie und Entzündung an der Medizinischen Universität Graz seinen Namen.",
-      "status": "confirmed",
-      "locator": "שורה 37"
-    },
-    {
-      "id": "c67",
-      "text": "האגודה למדעי המוח מעניקה מדליית אוטו לוי אחת לארבע שנים מאז 2018.",
-      "source": "src5",
-      "quote": "The Neurowissenschaftliche Gesellschaft has been awarding the Otto Loewi Medal every four years to outstanding scientists in the field of neuroscience since 2018.",
-      "status": "confirmed",
-      "locator": "שורה 27"
-    },
-    {
-      "id": "c51",
-      "text": "כשהגרמנים פלשו לאוסטריה ב-1938, לוי נאלץ לעזוב את מולדתו.",
-      "source": "src1",
-      "quote": "When the Germans invaded Austria in 1938, Loewi was forced to leave his homeland.",
-      "status": "confirmed",
-      "locator": "שורה 10"
-    },
-    {
-      "id": "c50",
-      "text": "כמו יהודים גברים אחרים בגראץ, לוי ושניים מארבעת ילדיו נאסרו במרץ 1938.",
-      "source": "src3",
-      "quote": "Like other male Jewish citizens of Graz, Loewi and two of his four children were imprisoned in March of that year.",
-      "status": "confirmed",
-      "locator": "שורה 10"
-    },
-    {
-      "id": "c54",
-      "text": "לפי המאמר, לוי ושני בניו נעצרו על ידי הגסטאפו באיום נשק, ושחרורו נבע ממחאה בינלאומית של מדענים.",
-      "source": "src2",
-      "quote": "In 1938, the Germans invaded Austria, and Loewi and his two sons were arrested by the Gestapo at gunpoint.",
-      "status": "confirmed",
-      "locator": "שורה 15"
-    },
-    {
-      "id": "c52",
-      "text": "הגסטאפו אילץ אותו להעביר את כספי פרס נובל מבנק בשטוקהולם לבנק בשליטה נאצית.",
-      "source": "src3",
-      "quote": "only after the Gestapo had forced him to transfer his Nobel Prize money from a bank in Stockholm to a bank under Nazi control.",
-      "status": "confirmed",
-      "locator": "שורה 10"
-    },
-    {
-      "id": "c53",
-      "text": "הוא שוחרר כעבור חודשיים ובספטמבר הורשה לעזוב ללונדון.",
-      "source": "src3",
-      "quote": "He was released two months later and in September was allowed to leave for London",
-      "status": "confirmed",
-      "locator": "שורה 10"
-    },
-    {
-      "id": "c55",
-      "text": "לוי ברח לאנגליה ב-28 בספטמבר 1938 ושהה כמה שבועות אצל הנרי דייל.",
-      "source": "src5",
-      "quote": "Loewi fled to England on September 28, 1938, and stayed with Henry Dale for a few weeks",
-      "status": "confirmed",
-      "locator": "שורה 17"
-    },
-    {
-      "id": "c70",
-      "text": "בלונדון פגש לוי את הנרי דייל, שהיה לחברו לכל החיים ושחלק איתו מאוחר יותר את פרס נובל.",
-      "source": "src1",
-      "quote": "it was in this laboratory that he first met his lifelong friend Henry Dale, who was later to share the Nobel Prize with him.",
-      "status": "confirmed",
-      "locator": "שורה 6"
-    },
-    {
-      "id": "c56",
-      "text": "לפי DGIM, לוי הגיע לניו יורק ב-1 ביוני 1940.",
-      "source": "src5",
-      "quote": "He accepted and arrived in New York on June 1, 1940, two days before his 67th birthday.",
-      "status": "confirmed",
-      "locator": "שורה 18"
-    },
-    {
-      "id": "c57",
-      "text": "לפי DGVS, לוי הגיע לניו יורק ב-1 ביולי 1940 לאחר הפלגה מליברפול.",
-      "source": "src8",
-      "quote": "Am 22.05.1940 gelangte Otto Loewi mit dem Royal Mail Ship Samaria von Liverpool aus in die USA und erreichte New York am 01.07.1940.",
-      "status": "confirmed",
-      "locator": "שורה 35"
-    },
-    {
-      "id": "c58",
-      "text": "אשתו גווידה הצטרפה אליו בתחילת 1941, לאחר שלא הורשתה לעזוב את אוסטריה קודם לכן.",
-      "source": "src5",
-      "quote": "He was joined by his wife Guida in early 1941, who had not been allowed to leave Austria until that time.",
-      "status": "confirmed",
-      "locator": "שורה 18"
-    },
-    {
-      "id": "c59",
-      "text": "לוי קיבל אזרחות אמריקנית ב-1 באפריל 1946.",
-      "source": "src5",
-      "quote": "Loewi was granted American citizenship on April 1, 1946.",
-      "status": "confirmed",
-      "locator": "שורה 20"
-    },
-    {
-      "id": "c60",
-      "text": "לפי DGVS, לוי מת בגיל 85 ב-25 בדצמבר 1961 בניו יורק.",
-      "source": "src8",
-      "quote": "Otto Loewi starb 85-jährig am 25.12.1961 in New York.",
-      "status": "confirmed",
-      "locator": "שורה 36"
-    },
-    {
-      "id": "c61",
-      "text": "לפי המאמר, לוי מת ביום חג המולד 1961 בגיל 89.",
-      "source": "src2",
-      "quote": "Mentally alert to the end, Loewi fell silent after a lively discussion with a friend, and died on Christmas Day in 1961 at 89 years old.",
-      "status": "confirmed",
-      "locator": "שורה 16"
-    },
-    {
-      "id": "c68",
-      "text": "בהספד ב-1962 אמר פרדיננד הוף שמערכת בלתי אנושית אילצה את החוקר הגדול לצאת לגלות.",
-      "source": "src5",
-      "quote": "An inhuman system had also forced this great scholar to emigrate.",
-      "status": "confirmed",
-      "locator": "שורה 25"
-    },
-    {
-      "id": "c69",
-      "text": "לוי נקבר בוודס הול במסצ'וסטס באוגוסט 1962 לפי רצונו.",
-      "source": "src5",
-      "quote": "After his death in New York in 1961, Loewi was buried in Woods Hole in August 1962, in accordance to his wishes.",
-      "status": "confirmed",
-      "locator": "שורה 20"
-    },
-    {
-      "id": "c30",
-      "text": "המאמר הראשון העלה גם אפשרות חלופית שהחומרים הם תוצר של שינוי בפעילות הלב ולא של גירוי עצב ישיר.",
-      "source": "src3",
-      "quote": "it also raised the alternative possibility that vagomimetic and accelerator-mimetic substances might be products of altered cardiac activity",
-      "status": "confirmed",
-      "locator": "שורה 23"
-    },
-    {
-      "id": "c32",
-      "text": "אומרים שלוי נכשל לא פעם בניסיונותיו לשחזר את הניסוי.",
-      "source": "src3",
-      "quote": "it is said that he often failed in his own attempts to do so",
-      "status": "confirmed",
-      "locator": "שורה 24"
-    },
-    {
-      "id": "c34",
-      "text": "חלק מהמאמרים בסדרה כוונו נגד ביקורתו של ליאון אשר.",
-      "source": "src3",
-      "quote": "particularly Leon Asher, against whose criticisms some of the papers in the series were specifically directed.",
-      "status": "confirmed",
-      "locator": "שורה 24"
-    },
-    {
-      "id": "c35",
-      "text": "לפי ויקיפדיה, בחורף סיבי הוואגוס המעכבים נוכחים, ולוי היה בר מזל שביצע את הניסויים בפברואר או במרץ.",
-      "source": "src6",
-      "quote": "In the winter, inhibitory fibers predominate, so Loewi was also fortunate to have performed his experiments in February or March.",
-      "status": "confirmed",
-      "locator": "שורה 16"
-    },
-    {
-      "id": "c36",
-      "text": "בנסיבות מעט שונות האצטילכולין היה מפורק לפני שהגיע ללב השני.",
-      "source": "src2",
-      "quote": "Under slightly different circumstances, acetylcholine would have been rapidly metabolised by cholinesterase before it could reach the second heart.",
-      "status": "confirmed",
-      "locator": "שורה 13"
-    },
-    {
-      "id": "c37",
-      "text": "לפי ואן דר קלוט, לב הצפרדעים ההונגריות שבהן השתמש לוי מכיל מעט כולינסטראז.",
-      "source": "src3",
-      "quote": "According to William Van der Kloot, the heart of the Hungarian frogs that Loewi used contains only a small amount of the cholinesterase",
-      "status": "confirmed",
-      "locator": "שורה 26"
-    },
-    {
-      "id": "c47",
-      "text": "לוי פקפק בהעברה כימית בעצבים מוטוריים רצוניים ובמערכת העצבים המרכזית, משום שהם פועלים מהר הרבה יותר.",
-      "source": "src3",
-      "quote": "Chiefly because nervous impulses produce their effects so much more rapidly in voluntary and central nervous processes than in autonomic, Loewi doubted that chemical transmission could be involved in the former.",
-      "status": "confirmed",
-      "locator": "שורה 25"
-    },
-    {
-      "id": "c48",
-      "text": "דייל ועמיתיו היו אחראים בעיקר להוכחת קיום העברה כימית מחוץ למערכת העצבים האוטונומית הפוסט-גנגליונית.",
-      "source": "src3",
-      "quote": "it was Dale and his associates who were mainly responsible for establishing the existence of chemical transmission outside the postganglionic autonomic nervous system",
-      "status": "confirmed",
-      "locator": "שורה 25"
-    },
-    {
-      "id": "c16",
-      "text": "בציטוט במאמר אחר מופיעה שנת 1920 לליל החלום.",
-      "source": "src2",
-      "quote": "The night before Easter Sunday of [1920] I awoke, turned on the light and jotted down a few notes on a tiny slip of thin paper.",
-      "status": "confirmed",
-      "locator": "שורה 5"
-    },
-    {
-      "id": "c17",
-      "text": "לפי גרסה נוספת, ליל החלום היה בפסחא 1920.",
-      "source": "src3",
-      "quote": "During the night before Easter Sunday, 1920, Loewi awoke with the idea for an experiment clearly in his mind.",
-      "status": "confirmed",
-      "locator": "שורה 91"
-    },
-    {
-      "id": "c73",
-      "text": "לפי האוניברסיטה הרפואית של גראץ, לוי מונה ב-1909 לקתדרה לפרמקולוגיה באוניברסיטת גראץ, ולימד שם עד 1938.",
-      "source": "src9",
-      "quote": "In 1909 he was appointed to the Chair of Pharmacology at the University of Graz, where he taught until 1938.",
-      "status": "confirmed",
-      "locator": "שורה 266"
-    }
-  ],
-  "sources": [
-    {
-      "id": "src1",
-      "label": "NobelPrize.org, Otto Loewi – Biographical (autobiography)",
-      "url": "https://www.nobelprize.org/prizes/medicine/1936/loewi/biographical/",
-      "kind": "official"
-    },
-    {
-      "id": "src2",
-      "label": "PubMed Central (NIH), article on Loewi and chemical neurotransmission",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4291908",
-      "kind": "official"
-    },
-    {
-      "id": "src3",
-      "label": "Encyclopedia.com, Loewi, Otto",
-      "url": "https://www.encyclopedia.com/people/medicine/medicine-biographies/otto-loewi",
-      "kind": "reference"
-    },
-    {
-      "id": "src4",
-      "label": "NobelPrize.org, Otto Loewi – Facts",
-      "url": "https://www.nobelprize.org/prizes/medicine/1936/loewi/facts/",
-      "kind": "official"
-    },
-    {
-      "id": "src5",
-      "label": "DGIM history, Loewi, Otto",
-      "url": "https://www.dgim-history.de/en/biography/Loewi;Otto;1584",
-      "kind": "organisation"
-    },
-    {
-      "id": "src6",
-      "label": "Wikipedia, Vagusstoff",
-      "url": "https://en.wikipedia.org/wiki/Vagusstoff",
-      "kind": "reference"
-    },
-    {
-      "id": "src7",
-      "label": "NobelPrize.org, Nobel Lecture by Otto Loewi, 12.12.1936",
-      "url": "https://nobelprize.org/prizes/medicine/1936/loewi/lecture",
-      "kind": "official"
-    },
-    {
-      "id": "src8",
-      "label": "DGVS gegen das Vergessen, Prof. Dr. med. Otto Loewi",
-      "url": "https://www.dgvs-gegen-das-vergessen.de/en/biografie/otto-loewi/",
-      "kind": "organisation"
-    },
-    {
-      "id": "src9",
-      "label": "Medical University of Graz, Otto Loewi",
-      "url": "https://www.medunigraz.at/en/forschungszentren-institute/otto-loewi-forschungszentrum/otto-loewi",
-      "kind": "official"
-    }
-  ],
-  "media": [
-    {
-      "id": "m4",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Otto%20Loewi%20in%20Boston%2C%201929%20Wellcome%20L0002480.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Portrait_of_Otto_Loewi_in_Boston%2C_1929_Wellcome_L0002480.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "לא צוין",
-      "licence": "CC BY 4.0",
-      "hosting": "hotlink",
-      "caption": "דיוקן של גבר מבוגר בחליפה ועניבת פפיון, לפי תיאור Commons: אוטו לוי בקונגרס הבינלאומי לפיזיולוגיה בבוסטון, 1929.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by/4.0",
-      "width": 1178,
-      "height": 1610
-    },
-    {
-      "id": "m5",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Otto%20Loewi%20in%20the%20Institute%20of%20Pharmacology%20in%20Graz%2C%20Austria%2C%20with%20equipment.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Otto_Loewi_in_the_Institute_of_Pharmacology_in_Graz%2C_Austria%2C_with_equipment.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Institute of Pharmacology, Graz",
-      "licence": "CC BY-SA 3.0 de",
-      "hosting": "hotlink",
-      "caption": "גבר בחליפה ועניבת פפיון יושב ליד שולחן מעבדה עם קימוגרף וציוד זכוכית, לפי תיאור Commons: אוטו לוי במכון לפרמקולוגיה בגראץ.",
-      "illustrates": [
-        "c62",
-        "c63"
-      ],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
-      "date": "1930sdate ",
-      "width": 3898,
-      "height": 2960
-    },
-    {
-      "id": "m6",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Otto%20Loewi%20as%20a%20young%20man%2C%20seated.%20Wellcome%20M0020235.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Otto_Loewi_as_a_young_man%2C_seated._Wellcome_M0020235.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "לא צוין",
-      "licence": "CC BY 4.0",
-      "hosting": "hotlink",
-      "caption": "דיוקן חתום של אוטו לוי כגבר צעיר, ישוב, עם משקף עין ושפם.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by/4.0",
-      "width": 2717,
-      "height": 3926
-    },
-    {
-      "id": "m7",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Henry%20Dale%20and%20Professor%20Otto%20Loewi%20Wellcome%20M0012996.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Sir_Henry_Dale_and_Professor_Otto_Loewi_Wellcome_M0012996.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "לא צוין",
-      "licence": "CC BY 4.0",
-      "hosting": "hotlink",
-      "caption": "שני גברים במעילים וכובעים לוחצים ידיים ברחוב, לפי תיאור Commons: סר הנרי דייל והפרופסור אוטו לוי ליד מלון גרנד בשטוקהולם, 1936.",
-      "illustrates": [
-        "c41",
-        "c42",
-        "c70"
-      ],
-      "licence_url": "https://creativecommons.org/licenses/by/4.0",
-      "date": "1936date Q",
-      "width": 2833,
-      "height": 3903
-    },
-    {
-      "id": "m8",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Stolperstein%20f%C3%BCr%20Otto%20Loewi%202019%20%28Graz%29.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Stolperstein_f%C3%BCr_Otto_Loewi_2019_%28Graz%29.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "TheRunnerUp",
-      "licence": "CC BY-SA 4.0",
-      "hosting": "hotlink",
-      "caption": "אבן נגף מפליז עם הכיתוב \"Hier wohnte Dr. Otto Loewi\", שהונחה בגראץ ב-20 בספטמבר 2019.",
-      "illustrates": [
-        "c50",
-        "c51"
-      ],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "date": "2020-09-20",
-      "width": 1576,
-      "height": 1558
-    },
-    {
-      "id": "m9",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Loewi%20Nobel%2020040420.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Loewi_Nobel_20040420.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Kaihsu at English Wikipedia, diploma by sv:Jerk Werkmäster[1]",
-      "licence": "CC BY-SA 3.0",
-      "hosting": "hotlink",
-      "caption": "תעודות פרס נובל של 1936 של הנרי דייל ושל אוטו לוי, מוצגות בתצוגה ברויאל סוסייטי בלונדון.",
-      "illustrates": [
-        "c41",
-        "c42"
-      ],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-      "date": "20 April 2",
-      "width": 680,
-      "height": 365
-    },
-    {
-      "id": "m11",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/O.%20Loewi%20and%20Hammilton%20Wellcome%20L0026804.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:O._Loewi_and_Hammilton_Wellcome_L0026804.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "לא צוין",
-      "licence": "CC BY 4.0",
-      "hosting": "hotlink",
-      "caption": "אדם מבוגר חובש כומתה יושב בכיסא בחוץ ומשוחח עם גבר צעיר, לפי תיאור Commons: אוטו לוי ו-Hammilton.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by/4.0",
-      "width": 1630,
-      "height": 1146
-    },
-    {
-      "id": "m12",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Stolpersteine%20Johann-Fux-Gasse%2035%20%28Graz%29%20Otto%20Loewi.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Stolpersteine_Johann-Fux-Gasse_35_%28Graz%29_Otto_Loewi.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "TheRunnerUp",
-      "licence": "CC BY-SA 4.0",
-      "hosting": "hotlink",
-      "caption": "לוח זיכרון משיש על קיר בית ברחוב Johann-Fux-Gasse 35 בגראץ, המנציח את אוטו לוי.",
-      "illustrates": [
-        "c62",
-        "c63",
-        "c51"
-      ],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "date": "2020-09-20",
-      "width": 5456,
-      "height": 3632
-    },
-    {
-      "id": "m13",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Henry%20Dale%3B%20Nobel%20prize%20awarded%20in%201936%20Wellcome%20L0002373.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Henry_Dale%3B_Nobel_prize_awarded_in_1936_Wellcome_L0002373.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "sv:Jerk Werkmäster[1]",
-      "licence": "CC BY 4.0",
-      "hosting": "hotlink",
-      "caption": "תעודת פרס נובל לשנת 1936 בכתב יד מעוטר, עם שמו של אוטו לוי ובחלקה העליון איור של קיימברידג'.",
-      "illustrates": [
-        "c41",
-        "c42"
-      ],
-      "licence_url": "https://creativecommons.org/licenses/by/4.0",
-      "date": "1936date Q",
-      "width": 1166,
-      "height": 1588
-    },
-    {
-      "id": "m14",
-      "kind": "video",
-      "url": "https://www.youtube.com/watch?v=esYqG7L4B0Y",
-      "youtube_id": "esYqG7L4B0Y",
-      "source_page": "https://www.youtube.com/watch?v=esYqG7L4B0Y",
-      "source_name": "YouTube",
-      "credit": "WowScience by TechSensia",
-      "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
-      "licence_url": "https://www.youtube.com/static?template=terms",
-      "hosting": "embed",
-      "caption": "סרטון הסברה על כך שאוטו לוי חלם את הניסוי פעמיים והוכיח שעצבים מתקשרים בחומרים כימיים.",
-      "illustrates": [
-        "c14",
-        "c15",
-        "c24"
-      ],
-      "spoken": "en",
-      "audio_tracks": [
-        "en"
-      ]
-    },
-    {
-      "id": "m15",
-      "kind": "video",
-      "url": "https://www.youtube.com/watch?v=um9HLDgn-QE",
-      "youtube_id": "um9HLDgn-QE",
-      "source_page": "https://www.youtube.com/watch?v=um9HLDgn-QE",
-      "source_name": "YouTube",
-      "credit": "Discovery Tales",
-      "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
-      "licence_url": "https://www.youtube.com/static?template=terms",
-      "hosting": "embed",
-      "caption": "סיפור החלום של לוי בלילה אחד ב-1921 ופתק הרשימות, שהובילו לניסוי הנובל שלו.",
-      "illustrates": [
-        "c14",
-        "c15",
-        "c18",
-        "c19"
-      ],
-      "spoken": "en",
-      "audio_tracks": [
-        "en"
-      ]
-    },
-    {
-      "id": "m16",
-      "kind": "video",
-      "url": "https://www.youtube.com/watch?v=9CgqUD--vr0",
-      "youtube_id": "9CgqUD--vr0",
-      "source_page": "https://www.youtube.com/watch?v=9CgqUD--vr0",
-      "source_name": "YouTube",
-      "credit": "Pharma Viveka",
-      "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
-      "licence_url": "https://www.youtube.com/static?template=terms",
-      "hosting": "embed",
-      "caption": "הסבר על גילוי האצטילכולין ועל הניסוי שהוכיח העברה עצבית כימית.",
-      "illustrates": [
-        "c27",
-        "c28"
-      ],
-      "spoken": "hi",
-      "audio_tracks": [
-        "hi",
-        "en"
-      ]
-    },
-    {
-      "id": "m17",
-      "kind": "video",
-      "url": "https://www.youtube.com/watch?v=hhnLpC8K5Sw",
-      "youtube_id": "hhnLpC8K5Sw",
-      "source_page": "https://www.youtube.com/watch?v=hhnLpC8K5Sw",
-      "source_name": "YouTube",
-      "credit": "Bill Griesar",
-      "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
-      "licence_url": "https://www.youtube.com/static?template=terms",
-      "hosting": "embed",
-      "caption": "הסבר קצר של מורה למדעים על אוטו לוי ועל הסינפסה הכימית.",
-      "illustrates": [
-        "c24"
-      ],
-      "spoken": "en",
-      "audio_tracks": [
-        "en"
-      ]
-    },
-    {
-      "id": "m18",
-      "kind": "video",
-      "url": "https://www.youtube.com/watch?v=ocEeIbA3WHo",
-      "youtube_id": "ocEeIbA3WHo",
-      "source_page": "https://www.youtube.com/watch?v=ocEeIbA3WHo",
-      "source_name": "YouTube",
-      "credit": "Physioista ",
-      "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
-      "licence_url": "https://www.youtube.com/static?template=terms",
-      "hosting": "embed",
-      "caption": "סרטון קצר על הניסוי פורץ הדרך של לוי ועל גילוי המוליך העצבי.",
-      "illustrates": [
-        "c20",
-        "c21",
-        "c22"
-      ],
-      "spoken": "en",
-      "audio_tracks": [
-        "en"
-      ]
-    },
-    {
-      "id": "m20",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/King%20of%20Sweden%20presents%20Nobel%20prize%20Wellcome%20L0002313.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:King_of_Sweden_presents_Nobel_prize_Wellcome_L0002313.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "לא צוין",
-      "licence": "CC BY 4.0",
-      "hosting": "hotlink",
-      "caption": "טקס פרסי נובל בשטוקהולם: חתני הפרס, ובהם אוטו לוי והנרי דייל, עומדים עם תעודות בידיהם",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by/4.0",
-      "date": "1936date Q",
-      "width": 1606,
-      "height": 1162,
-      "role": "deed"
-    },
-    {
-      "id": "m21",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nobel%20prize%20awarded%20to%20Henry%20Dale%20in%201936%20Wellcome%20L0002374.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Nobel_prize_awarded_to_Henry_Dale_in_1936_Wellcome_L0002374.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "sv:Jerk Werkmäster[1]",
-      "licence": "CC BY 4.0",
-      "hosting": "hotlink",
-      "caption": "תעודת פרס נובל של הנרי דייל, 1936, בכתב יד מעוטר עם חתימות חברי הוועדה",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by/4.0",
-      "date": "1936date Q",
-      "width": 1150,
-      "height": 1576,
-      "role": "deed"
-    },
-    {
-      "id": "m22",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Stolperstein%20f%C3%BCr%20Dr.%20Otto%20Loewi%20%28Graz%29.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Stolperstein_f%C3%BCr_Dr._Otto_Loewi_%28Graz%29.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Christian Michelides",
-      "licence": "CC BY-SA 4.0",
-      "hosting": "hotlink",
-      "caption": "אבן נגף לד\"ר אוטו לוי בגראץ: \"הנה גר\", עצור ב-1938, בריחה לאנגליה ולארצות הברית",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "date": "2019-12-12",
-      "width": 2549,
-      "height": 2531,
-      "role": "deed"
-    },
-    {
-      "id": "m27",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Sir%20Henry%20Dale%20and%20King%20Gustav%20Wellcome%20L0002316.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Portrait_of_Sir_Henry_Dale_and_King_Gustav_Wellcome_L0002316.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "לא צוין",
-      "licence": "CC BY 4.0",
-      "hosting": "hotlink",
-      "caption": "הנרי דייל לוחץ את ידו של מלך שוודיה גוסטב, בצילום מתוך אוסף דייל",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by/4.0",
-      "date": "1936date Q",
-      "width": 3666,
-      "height": 5115,
-      "role": "deed"
-    }
-  ],
-  "check": {
-    "passed": true,
-    "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
-    "checked_at": "2026-11-21T22:59:16Z",
-    "counts": {
-      "confirmed": 88,
-      "not_confirmed": 0,
-      "deleted_sentences": 3,
-      "first_round_confirmed": 87,
-      "first_round_contradicted": 1,
-      "first_round_unverifiable": 3
-    },
-    "note": "unverifiable sentences were deleted, contradicted ones fixed from the source and checked again"
+ "schema": "maasei-museum/1",
+ "slug": "otto-loewi-frog-heart-experiment",
+ "deed": "אוטו לוי וניסוי לב-הצפרדע",
+ "canonical_type": "scientific-discovery",
+ "year": "1921",
+ "title": "אוטו לוי העביר תמיסה מלב צפרדע אחד לשני והראה שעצבים משחררים חומרים כימיים",
+ "trailer": [
+  {
+   "text": "אוטו לוי, זוכה פרס נובל ברפואה או בפיזיולוגיה לשנת 1936, נולד בפרנקפורט שבגרמניה למשפחה יהודית של סוחרי יין.",
+   "claims": [
+    "c1",
+    "c3",
+    "c41"
+   ]
   },
-  "meta": {
-    "run": "otto-loewi-frog-heart-experiment",
-    "pipeline": "scripts/museum/museum_line.py",
-    "models": {
-      "research": "sonnet-5-5",
-      "extract": "sonnet-5-5",
-      "media": "sonnet-5-5",
-      "write": "opus-5-5 medium",
-      "check": "opus-5-5 medium",
-      "fix": "opus-5-5 medium"
-    },
-    "source_quality": {
-      "sources": 8,
-      "wikipedia": 1,
-      "strong": 4,
-      "ok": true,
-      "warnings": []
-    },
-    "settled": [
-      {
-        "box": "d2",
-        "question": "באיזו שנה מונה לוי לפרופסור בגראץ?",
-        "url": "https://www.medunigraz.at/en/forschungszentren-institute/otto-loewi-forschungszentrum/otto-loewi",
-        "by": "settle 24.11"
-      }
-    ],
-    "media_dedupe": [
-      {
-        "drop": "m10",
-        "keep": "m7",
-        "by": "reviewed 24.11"
-      },
-      {
-        "drop": "m1",
-        "keep": "m11",
-        "by": "reviewed 24.11"
-      },
-      {
-        "drop": "m3",
-        "keep": "m7",
-        "by": "reviewed 24.11"
-      },
-      {
-        "drop": "m2",
-        "keep": "m6",
-        "by": "reviewed 24.11"
-      }
-    ]
+  {
+   "text": "בתחילת המאה ה-20 ידעו שאותות העצבים עוברים באימפולסים חשמליים, אבל לא היה ברור אם הם עוברים גם בחומרים כימיים.",
+   "claims": [
+    "c5",
+    "c6"
+   ]
+  },
+  {
+   "text": "לפי דבריו, הרעיון לניסוי עלה בחלום, והוא קם, הלך למעבדה וביצע ניסוי פשוט בלב צפרדע.",
+   "claims": [
+    "c14",
+    "c19"
+   ]
+  },
+  {
+   "text": "הוא העביר תמיסה מלב שעצבו גורה אל לב שני, והלב השני האט כאילו גורה העצב שלו.",
+   "claims": [
+    "c21",
+    "c22"
+   ]
+  },
+  {
+   "text": "לפי לוי, כך הוכח שהעצבים משחררים חומרים כימיים, וב-1936 חלק את פרס נובל עם הנרי דייל.",
+   "claims": [
+    "c24",
+    "c41"
+   ]
   }
+ ],
+ "hero_media": [
+  "m7",
+  "m5",
+  "m6",
+  "m9",
+  "m8",
+  "m4",
+  "m13",
+  "m12",
+  "m20",
+  "m22"
+ ],
+ "glance": [
+  {
+   "label": "נולד",
+   "value": "פרנקפורט, 1873",
+   "claims": [
+    "c1"
+   ]
+  },
+  {
+   "label": "עבד",
+   "value": "פרופסור לפרמקולוגיה בגראץ",
+   "claims": [
+    "c62",
+    "c63"
+   ]
+  },
+  {
+   "label": "הניסוי",
+   "value": "שני לבבות צפרדע, 1921",
+   "claims": [
+    "c20",
+    "c25"
+   ]
+  },
+  {
+   "label": "החומר",
+   "value": "Vagusstoff, אצטילכולין",
+   "claims": [
+    "c74"
+   ]
+  },
+  {
+   "label": "הכרה",
+   "value": "פרס נובל 1936, עם הנרי דייל",
+   "claims": [
+    "c42"
+   ]
+  }
+ ],
+ "stations": [
+  {
+   "id": "s1",
+   "title": "לפני הניסוי: שאלה פתוחה",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "אוטו לוי נולד ב-3 ביוני 1873 בפרנקפורט, בן לסוחר היין היהודי יעקב לוי ולאנה וילשטטר.",
+      "claims": [
+       "c1",
+       "c2"
+      ]
+     },
+     {
+      "text": "לפי המאמר, הוא קיבל חינוך קלאסי בלטינית וביוונית.",
+      "claims": [
+       "c3"
+      ]
+     },
+     {
+      "text": "לפי DGIM, המשפחה שהקים לוי עם אשתו גווידה וארבעת ילדיהם הכירה בזהותה היהודית אך לא הייתה דתית ונחשבה מתבוללת.",
+      "claims": [
+       "c4"
+      ]
+     },
+     {
+      "text": "לפי לוי, הוא ראה תמותה גבוהה בחולי שחפת ודלקת ריאות שנותרו ללא טיפול, ואחרי זה החליט לעבור למחקר בסיסי.",
+      "claims": [
+       "c13"
+      ]
+     },
+     {
+      "text": "הוא נעשה פרופסור לפרמקולוגיה בגראץ.",
+      "claims": [
+       "c62",
+       "c63"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "בתחילת המאה ה-20 ידעו שאותות מערכת העצבים מועברים באימפולסים חשמליים.",
+      "claims": [
+       "c5"
+      ]
+     },
+     {
+      "text": "לא היה ברור אם הם מועברים גם בחומרים כימיים.",
+      "claims": [
+       "c6"
+      ]
+     },
+     {
+      "text": "לפי לוי עצמו, עד 1921 לא היה ידוע איך גירוי של עצב משפיע על האיבר המגיב.",
+      "claims": [
+       "c7"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "את ההשערה על העברה כימית מייחסים בדרך כלל לאליוט, שפרסם אותה ב-1904.",
+      "claims": [
+       "c9"
+      ]
+     },
+     {
+      "text": "לוי עצמו כתב שאליוט הציע אז שגירוי עצבים סימפתטיים עשוי להתרחש בשחרור אדרנלין.",
+      "claims": [
+       "c10"
+      ]
+     },
+     {
+      "text": "ב-1929 נזכר פלטשר שלוי הציע את ההשערה באופן עצמאי כבר ב-1903, בשיחה פרטית איתו.",
+      "claims": [
+       "c11"
+      ]
+     },
+     {
+      "text": "דוח מוקדם של דיקסון, בכתב עת לא מוכר, רמז על חומר מעכב שמשתחרר בגירוי עצב הוואגוס, אך לא זכה לתשומת לב.",
+      "claims": [
+       "c12"
+      ]
+     },
+     {
+      "text": "לפי אנציקלופדיה, עד 1920 טרם נמצאה ראיה ניסויית מכרעת, וההשערה נפלה בדעת הקהל המדעי.",
+      "claims": [
+       "c8"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "לפי האוניברסיטה הרפואית של גראץ, לוי מונה ב-1909 לקתדרה לפרמקולוגיה באוניברסיטת גראץ, ולימד שם עד 1938.",
+      "claims": [
+       "c73"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m6"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s2",
+   "title": "חלום בלילה, פתק זעיר",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "לפי דבריו, הרעיון לניסוי עלה בחלום, בחג הפסחא.",
+      "claims": [
+       "c14"
+      ]
+     },
+     {
+      "text": "לוי סיפר שבלילה שלפני יום ראשון של הפסחא התעורר, הדליק אור ורשם כמה הערות על פתק זעיר.",
+      "claims": [
+       "c15"
+      ]
+     },
+     {
+      "text": "בבוקר לא הצליח לפענח את כתב ידו.",
+      "claims": [
+       "c75"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "לפי דייל, לוי סיפר לו בעצם את אותו סיפור כבר ב-1921.",
+      "claims": [
+       "c46"
+      ]
+     },
+     {
+      "text": "לפי דייל, לוי חזר עליו כמעט בלי שינוי במשך ארבעה עשורים.",
+      "claims": [
+       "c46"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m15",
+    "m14"
+   ],
+   "disagreements": [
+    "d1"
+   ]
+  },
+  {
+   "id": "s3",
+   "title": "שני לבבות, תמיסה אחת",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "לוי סיפר שבלילה שלאחר מכן, בשלוש לפנות בוקר, חזר אליו הרעיון, ואז קם מיד, הלך למעבדה וביצע ניסוי פשוט בלב צפרדע לפי התכנון שעלה בלילה.",
+      "claims": [
+       "c19"
+      ]
+     },
+     {
+      "text": "לפי תיאורו, בודדו לבבות של שתי צפרדעים: הראשון עם עצביו, והשני בלעדיהם.",
+      "claims": [
+       "c20",
+       "c26"
+      ]
+     },
+     {
+      "text": "לפי תיאורו, עצב הוואגוס של הלב הראשון גורה כמה דקות, ותמיסת רינגר מהלב הועברה אל הלב השני.",
+      "claims": [
+       "c21"
+      ]
+     },
+     {
+      "text": "הלב השני האט ופעימותיו נחלשו, כאילו גורה עצב הוואגוס שלו.",
+      "claims": [
+       "c22"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "כשגורה עצב המאיץ והתמיסה הועברה, הלב השני האיץ ופעימותיו התחזקו.",
+      "claims": [
+       "c23"
+      ]
+     },
+     {
+      "text": "לפי לוי, התוצאות הוכיחו שהעצבים אינם משפיעים על הלב ישירות אלא משחררים חומרים כימיים.",
+      "claims": [
+       "c24"
+      ]
+     },
+     {
+      "text": "לפי אתר פרס נובל, הניסוי שבו גירה לב צפרדע באימפולסים חשמליים והעביר תמיסה ללב אחר נעשה ב-1921.",
+      "claims": [
+       "c25"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m5",
+    "m18",
+    "m17"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s4",
+   "title": "החומר מקבל שם",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "את החומר כינו Vagusstoff.",
+      "claims": [
+       "c76"
+      ]
+     },
+     {
+      "text": "המאמר הראשון פתח סדרה של ארבעה עשר מאמרים על העברה הומורלית, שפורסמו בחמש עשרה השנים הבאות.",
+      "claims": [
+       "c29"
+      ]
+     },
+     {
+      "text": "רק במאמרים העשירי והאחד-עשר, ב-1926, זיהו לוי ונברטיל את ה-Vagusstoff כאצטילכולין.",
+      "claims": [
+       "c31"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "לוי הראה שאפשר לעכב את פעולת האסטראז בריכוזים זעירים של אזרין.",
+      "claims": [
+       "c38"
+      ]
+     },
+     {
+      "text": "לפי לוי, אחרי שדייל ודודלי הפיקו את החומר ישירות מהאיברים, אין עוד ספק שה-Vagusstoff הוא אצטילכולין.",
+      "claims": [
+       "c39"
+      ]
+     },
+     {
+      "text": "רק ב-1936 זיהה לוי את החומר שמשתחרר בגירוי עצב המאיץ כאדרנלין.",
+      "claims": [
+       "c40"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "Vagusstoff היה האישור הראשון להעברה סינפטית כימית והמוליך העצבי הראשון שהתגלה.",
+      "claims": [
+       "c79"
+      ]
+     },
+     {
+      "text": "הגילוי הוביל למהפכה מושגית בנוירופיזיולוגיה.",
+      "claims": [
+       "c43"
+      ]
+     },
+     {
+      "text": "לפי לוי בהרצאת הנובל, נמצאה סוף סוף תשובה ברורה לשאלה העתיקה איך עובר הגירוי מעצב לאיבר.",
+      "claims": [
+       "c44"
+      ]
+     },
+     {
+      "text": "לפי לוי, ההוכחה שהעצב משחרר חומר מעכב מבהירה מאין בא העיכוב ההיקפי.",
+      "claims": [
+       "c45"
+      ]
+     },
+     {
+      "text": "הוא קרא לרופאים בעתיד להתייחס ליחסים אלה כדי להסביר תסמינים שנחשבו עד אז רפלקסיביים בלבד.",
+      "claims": [
+       "c71"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m16"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s5",
+   "title": "שטוקהולם ופרס נובל",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "ב-1926 הוזמן לוי להדגים את הניסוי בקונגרס הבינלאומי ה-12 לפיזיולוגיה בשטוקהולם.",
+      "claims": [
+       "c33"
+      ]
+     },
+     {
+      "text": "ב-1936 קיבל את פרס נובל ברפואה או בפיזיולוגיה, במשותף עם סר הנרי דייל.",
+      "claims": [
+       "c41",
+       "c42"
+      ]
+     },
+     {
+      "text": "בהרצאת הנובל הודה לעמיתיו נברטיל, ויטנובסקי ואנגלהרט.",
+      "claims": [
+       "c49"
+      ]
+     },
+     {
+      "text": "בנאום הקבלה הודו דייל ולוי לאליוט ולדיקסון על תרומתם.",
+      "claims": [
+       "c72"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "ב-1944 קיבל את פרס קמרון של אוניברסיטת אדינבורו.",
+      "claims": [
+       "c65"
+      ]
+     },
+     {
+      "text": "ב-1954 מונה לחבר זר בחברה המלכותית.",
+      "claims": [
+       "c64"
+      ]
+     },
+     {
+      "text": "מרכז המחקר לביולוגיה של כלי דם, אימונולוגיה ודלקת באוניברסיטה הרפואית של גראץ נושא את שמו.",
+      "claims": [
+       "c66"
+      ]
+     },
+     {
+      "text": "האגודה הגרמנית למדעי המוח (Neurowissenschaftliche Gesellschaft) מעניקה מאז 2018 מדליית אוטו לוי אחת לארבע שנים.",
+      "claims": [
+       "c67"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m7",
+    "m9",
+    "m13",
+    "m4",
+    "m21",
+    "m27"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s6",
+   "title": "מעצר, גלות וחבר לחיים",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "כשהגרמנים פלשו לאוסטריה ב-1938, לוי נאלץ לעזוב את מולדתו.",
+      "claims": [
+       "c51"
+      ]
+     },
+     {
+      "text": "במרץ 1938 נאסרו לוי ושניים מארבעת ילדיו, כמו יהודים גברים אחרים בגראץ.",
+      "claims": [
+       "c50"
+      ]
+     },
+     {
+      "text": "לפי המאמר, הגסטאפו עצר אותו ואת שני בניו באיום נשק, והוא שוחרר בזכות מחאה בינלאומית של מדענים.",
+      "claims": [
+       "c54"
+      ]
+     },
+     {
+      "text": "הגסטאפו אילץ אותו להעביר את כספי פרס נובל מבנק בשטוקהולם לבנק בשליטה נאצית.",
+      "claims": [
+       "c52"
+      ]
+     },
+     {
+      "text": "הוא שוחרר כעבור חודשיים, ובספטמבר הורשה לעזוב ללונדון.",
+      "claims": [
+       "c53"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "ב-28 בספטמבר 1938 ברח לאנגליה ושהה כמה שבועות אצל הנרי דייל.",
+      "claims": [
+       "c55"
+      ]
+     },
+     {
+      "text": "ב-1902, במעבדתו של סטרלינג בלונדון, פגש לוי לראשונה את הנרי דייל, שהיה לחברו לכל החיים ושחלק איתו מאוחר יותר את פרס נובל.",
+      "claims": [
+       "c70"
+      ]
+     },
+     {
+      "text": "ב-1940 הגיע לניו יורק.",
+      "claims": [
+       "c56",
+       "c57"
+      ]
+     },
+     {
+      "text": "אשתו גווידה הצטרפה אליו בתחילת 1941, אחרי שלא הורשתה לעזוב את אוסטריה קודם לכן.",
+      "claims": [
+       "c58"
+      ]
+     },
+     {
+      "text": "ב-1 באפריל 1946 קיבל אזרחות אמריקנית.",
+      "claims": [
+       "c59"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "לוי מת ביום חג המולד 1961.",
+      "claims": [
+       "c60",
+       "c61"
+      ]
+     },
+     {
+      "text": "לפי DGVS, מותו היה בניו יורק.",
+      "claims": [
+       "c60"
+      ]
+     },
+     {
+      "text": "בהספד ב-1962 אמר פרדיננד הוף שמערכת בלתי אנושית אילצה את החוקר הגדול לצאת לגלות.",
+      "claims": [
+       "c68"
+      ]
+     },
+     {
+      "text": "לפי רצונו, נקבר באוגוסט 1962 בוודס הול שבמסצ'וסטס.",
+      "claims": [
+       "c69"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m8",
+    "m12",
+    "m11"
+   ],
+   "disagreements": [
+    "d3",
+    "d4"
+   ]
+  },
+  {
+   "id": "s7",
+   "title": "ספקות, ביקורת ומזל",
+   "kind": "hard",
+   "paragraphs": [
+    [
+     {
+      "text": "המאמר הראשון העלה גם אפשרות אחרת: שהחומרים הם תוצר של שינוי בפעילות הלב ולא של גירוי העצב עצמו.",
+      "claims": [
+       "c30"
+      ]
+     },
+     {
+      "text": "אומרים שלוי נכשל לא פעם בניסיונותיו לשחזר את הניסוי.",
+      "claims": [
+       "c32"
+      ]
+     },
+     {
+      "text": "חלק מהמאמרים בסדרה כוונו נגד ביקורתו של ליאון אשר.",
+      "claims": [
+       "c34"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "בוואגוס של הצפרדע שבה השתמש לוי יש סיבים מעכבים וסיבים מעוררים, ובחורף הסיבים המעכבים הם הרוב, ולכן לוי היה בר מזל שביצע את הניסויים בפברואר או במרץ.",
+      "claims": [
+       "c80",
+       "c81"
+      ]
+     },
+     {
+      "text": "בנסיבות מעט שונות היה האצטילכולין מתפרק לפני שהגיע ללב השני.",
+      "claims": [
+       "c36"
+      ]
+     },
+     {
+      "text": "לפי ואן דר קלוט, בלב הצפרדעים ההונגריות שבהן השתמש לוי יש מעט כולינסטראז.",
+      "claims": [
+       "c37"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "לוי פקפק בהעברה כימית בעצבים מוטוריים רצוניים ובמערכת העצבים המרכזית, משום שהם פועלים מהר הרבה יותר.",
+      "claims": [
+       "c47"
+      ]
+     },
+     {
+      "text": "דייל ועמיתיו היו אחראים בעיקר להוכחה שיש העברה כימית גם מחוץ למערכת העצבים האוטונומית הפוסט-גנגליונית.",
+      "claims": [
+       "c48"
+      ]
+     }
+    ]
+   ],
+   "media": [],
+   "disagreements": []
+  }
+ ],
+ "disagreements": [
+  {
+   "id": "d1",
+   "question": "באיזו שנה היה החלום שקדם לניסוי?",
+   "versions": [
+    {
+     "says": "לפי DGIM, לוי אמר שהרעיון עלה בחלום בפסחא 1921",
+     "claims": [
+      "c14"
+     ]
+    },
+    {
+     "says": "בציטוט במאמר ב-PubMed Central מופיעה שנת 1920",
+     "claims": [
+      "c16"
+     ]
+    },
+    {
+     "says": "לפי גרסה נוספת באנציקלופדיה, החלום היה בפסחא 1920",
+     "claims": [
+      "c17"
+     ]
+    },
+    {
+     "says": "לפי אתר פרס נובל, הניסוי עצמו נעשה ב-1921",
+     "claims": [
+      "c25"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d3",
+   "question": "מתי הגיע לוי לניו יורק?",
+   "versions": [
+    {
+     "says": "לפי DGIM, ב-1 ביוני 1940",
+     "claims": [
+      "c56"
+     ]
+    },
+    {
+     "says": "לפי DGVS, ב-1 ביולי 1940, אחרי הפלגה מליברפול",
+     "claims": [
+      "c57"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d4",
+   "question": "בן כמה היה לוי במותו?",
+   "versions": [
+    {
+     "says": "לפי DGVS, בן 85",
+     "claims": [
+      "c60"
+     ]
+    },
+    {
+     "says": "לפי המאמר ב-PubMed Central, בן 89",
+     "claims": [
+      "c61"
+     ]
+    }
+   ]
+  }
+ ],
+ "unknowns": [],
+ "claims": [
+  {
+   "id": "c1",
+   "text": "אוטו לוי נולד ב-3 ביוני 1873 בפרנקפורט שבגרמניה, בן לסוחר יעקב לוי ולאנה וילשטטר.",
+   "source": "src1",
+   "quote": "Otto Loewi was born on June 3, 1873, in Frankfurt-am-Main, Germany, the son of Jacob Loewi, a merchant, and Anna Willstätter.",
+   "status": "confirmed",
+   "locator": "שורה 1"
+  },
+  {
+   "id": "c3",
+   "text": "לפי המאמר, לוי נולד בפרנקפורט למשפחה יהודית של סוחרי יין אמידים וקיבל חינוך קלאסי בלטינית וביוונית.",
+   "source": "src2",
+   "quote": "Born in Frankfurt, Germany, into a Jewish family of wealthy wine merchants, he received a classical education in Latin and Greek",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c41",
+   "text": "ב-1936 חלק לוי עם הנרי דייל את פרס נובל ברפואה או בפיזיולוגיה.",
+   "source": "src3",
+   "quote": "In 1936 Loewi shared with Henry Dale the Nobel Prize in physiology or medicine for work relating to the chemical transmission of nervous impulses.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c5",
+   "text": "בתחילת המאה ה-20 היה ידוע שאותות מערכת העצבים מועברים בעזרת אימפולסים חשמליים.",
+   "source": "src4",
+   "quote": "At the beginning of the 20th century, it was known that the nervous system’s signals are conveyed with the help of electrical impulses.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c6",
+   "text": "לא היה ברור אם האותות מועברים גם בחומרים כימיים.",
+   "source": "src4",
+   "quote": "However, it was unclear whether the signals were also conveyed by chemical substances.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c14",
+   "text": "לפי דבריו, הרעיון לניסוי עלה בחלום בפסחא 1921.",
+   "source": "src5",
+   "quote": "According to his own statements, the idea for the experiment had come to Loewi in a dream on Easter 1921",
+   "status": "confirmed",
+   "locator": "שורה 13"
+  },
+  {
+   "id": "c19",
+   "text": "לוי סיפר שקם מיד, הלך למעבדה וביצע ניסוי פשוט בלב צפרדע לפי התכנון הליליי.",
+   "source": "src3",
+   "quote": "I got up immediately, went to the laboratory, and performed a simple experiment on a frog heart according to the nocturnal design.",
+   "status": "confirmed",
+   "locator": "שורה 20"
+  },
+  {
+   "id": "c21",
+   "text": "לפי תיאורו, עצב הוואגוס של הלב הראשון גורה דקות אחדות, ותמיסת רינגר מהלב הועברה ללב השני.",
+   "source": "src3",
+   "quote": "The vagus nerve of the first heart was stimulated for a few minutes. Then the Ringer solution that had been in the first heart during the stimulation of the vagus was transferred to the second heart.",
+   "status": "confirmed",
+   "locator": "שורה 21"
+  },
+  {
+   "id": "c22",
+   "text": "הלב השני האט ופעימותיו נחלשו, כאילו עצב הוואגוס שלו גורה.",
+   "source": "src3",
+   "quote": "[This second heart] slowed and its beats diminished just as if its vagus had been stimulated.",
+   "status": "confirmed",
+   "locator": "שורה 21"
+  },
+  {
+   "id": "c24",
+   "text": "לפי לוי, התוצאות הוכיחו שהעצבים אינם משפיעים ישירות על הלב אלא משחררים חומרים כימיים.",
+   "source": "src3",
+   "quote": "These results unequivocally proved that the nerves do not influence the heart directly but liberate from their terminals specific chemical substances",
+   "status": "confirmed",
+   "locator": "שורה 21"
+  },
+  {
+   "id": "c62",
+   "text": "לפי המאמר, ב-1908 הפך לוי לפרופסור לפרמקולוגיה באוניברסיטת גראץ.",
+   "source": "src2",
+   "quote": "In 1908, Loewi became a professor of pharmacology at the University of Graz in Austria, gaining a reputation as a lively lecturer.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c63",
+   "text": "לפי האוטוביוגרפיה, ב-1909 מונה לקתדרה לפרמקולוגיה בגראץ.",
+   "source": "src1",
+   "quote": "in 1909 he was appointed to the Chair of Pharmacology in Graz.",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c20",
+   "text": "לפי תיאורו, בודדו לבבות של שתי צפרדעים, הראשון עם עצביו והשני בלעדיהם.",
+   "source": "src3",
+   "quote": "The hearts of two frogs were isolated, the first with its nerves, the second without.",
+   "status": "confirmed",
+   "locator": "שורה 21"
+  },
+  {
+   "id": "c25",
+   "text": "לפי אתר פרס נובל, ב-1921 גירה לוי לב צפרדע באימפולסים חשמליים והעביר תמיסה ללב אחר.",
+   "source": "src4",
+   "quote": "In 1921 Otto Loewi stimulated the heart of a frog with electrical impulses and had it pump a small amount of nutrient solution.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c42",
+   "text": "לוי קיבל את פרס נובל ב-1936 במשותף עם סר הנרי דייל.",
+   "source": "src1",
+   "quote": "It was for these researches that he received the Nobel Prize in 1936, jointly with Sir Henry Dale.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c2",
+   "text": "לוי היה בנו של סוחר היין היהודי יעקב לוי ושל אשתו אנה.",
+   "source": "src5",
+   "quote": "Otto Loewi was the son of the Jewish wine merchant Jakob Loewi and his wife Anna, née Willstädter.",
+   "status": "confirmed",
+   "locator": "שורה 1"
+  },
+  {
+   "id": "c4",
+   "text": "לפי DGIM, המשפחה הכירה בזהותה היהודית אך לא הייתה דתית ונחשבה מתבוללת.",
+   "source": "src5",
+   "quote": "The family acknowledged their Jewish identity, but were not religious and were considered assimilated.",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c13",
+   "text": "לפי לוי, לאחר שראה תמותה גבוהה בחולי שחפת ודלקת ריאות שנותרו ללא טיפול, החליט לעבור למחקר בסיסי.",
+   "source": "src1",
+   "quote": "after seeing the high mortality in countless cases of far-advanced tuberculosis and pneumonia, left without any treatment because of lack of therapy",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c7",
+   "text": "לפי לוי עצמו, עד 1921 לא היה ידוע כיצד גירוי עצב משפיע על תפקוד האיבר המגיב.",
+   "source": "src7",
+   "quote": "Up until the year 1921 it was not known how the stimulation of a nerve influenced the effector organ’s function",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c9",
+   "text": "את ההשערה על העברה כימית מיוחסת בדרך כלל לאליוט, שפרסם את ההצעה ב-1904.",
+   "source": "src3",
+   "quote": "Credit for the hypothesis is usually given to Elliott, who published the suggestion in 1904.",
+   "status": "confirmed",
+   "locator": "שורה 17"
+  },
+  {
+   "id": "c10",
+   "text": "לוי עצמו כתב שאליוט הציע ב-1904 שגירוי עצבים סימפתטיים עשוי להתרחש בשחרור אדרנלין.",
+   "source": "src7",
+   "quote": "earlier (in 1904 to be exact) Elliott3, in the last paragraph of a short note, suggested the possibility that the stimulation of sympathetic nerves might be brought about by the release of adrenaline",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c11",
+   "text": "ב-1929 פלטשר נזכר שלוי הציע באופן עצמאי את ההשערה הכימית כבר ב-1903 בשיחה פרטית איתו.",
+   "source": "src3",
+   "quote": "recalled that Loewi had independently proposed the chemical transmission hypothesis in 1903, in a private conversation with Fletcher",
+   "status": "confirmed",
+   "locator": "שורה 17"
+  },
+  {
+   "id": "c12",
+   "text": "דוח מוקדם של דיקסון, שפורסם בכתב עת לא מוכר, רמז על שחרור חומר מעכב בגירוי עצב הוואגוס, אך לא זכה לתשומת לב.",
+   "source": "src2",
+   "quote": "An earlier report by Walter Ernest Dixon, another English pharmacologist, had hinted at the possibility of the release of an inhibitory substance upon stimulation of the vagus nerve.",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c8",
+   "text": "לפי אנציקלופדיה, עד 1920 טרם נמצאה ראיה ניסויית מכרעת להעברה כימית, והשערה זו נפלה בדעת הקהל המדעי.",
+   "source": "src3",
+   "quote": "by 1920 no decisive experimental evidence for chemical transmission had yet been found, and the hypothesis had fallen into rather general discredit.",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c15",
+   "text": "לוי סיפר שבליל שלפני יום ראשון של הפסחא התעורר, הדליק אור ורשם כמה הערות על פתק זעיר.",
+   "source": "src3",
+   "quote": "The night before Easter Sunday of [1921] I awoke, turned on the light, and jotted down a few notes on a tiny slip of thin paper.",
+   "status": "confirmed",
+   "locator": "שורה 20"
+  },
+  {
+   "id": "c46",
+   "text": "לפי דייל, לוי סיפר לו בעצם את אותו סיפור ב-1921 וחזר עליו כמעט ללא שינוי במשך ארבעה עשורים.",
+   "source": "src3",
+   "quote": "Dale has testified that Loewi told him essentially the same story in 1921 and repeated it virtually unchanged several times during the next four decades.",
+   "status": "confirmed",
+   "locator": "שורה 22"
+  },
+  {
+   "id": "c26",
+   "text": "לפי המאמר, באחד הלבבות עצב הוואגוס היה שלם ובשני הוסר העצבוב.",
+   "source": "src2",
+   "quote": "one preparation had the vagus nerve intact, while the other was denervated. Next, he stimulated the vagus nerve supplying the first heart, causing it to beat more slowly",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c23",
+   "text": "כשגורה עצב המאיץ והתמיסה הועברה, הלב השני האיץ ופעימותיו התחזקו.",
+   "source": "src3",
+   "quote": "Similarly, when the accelerator nerve was stimulated and the Ringer from this period transferred, the second heart speeded up and its beats increased.",
+   "status": "confirmed",
+   "locator": "שורה 21"
+  },
+  {
+   "id": "c29",
+   "text": "המאמר הראשון היה הראשון בסדרה של ארבעה עשר מאמרים על העברה הומורלית שפורסמו במהלך חמש עשרה השנים הבאות.",
+   "source": "src3",
+   "quote": "the first in a series of fourteen papers on humoral transmission which Loewi and his several collaborators published in the same journal during the next fifteen years.",
+   "status": "confirmed",
+   "locator": "שורה 23"
+  },
+  {
+   "id": "c31",
+   "text": "רק במאמרים העשירי והאחד-עשר ב-1926 זיהו לוי ונברטיל את ה-Vagusstoff כאצטילכולין.",
+   "source": "src3",
+   "quote": "But not until the tenth and eleventh papers (both published in 1926) did Loewi and his collaborator E. Navratil positively identify the Vagusstoff with acetylcholine.",
+   "status": "confirmed",
+   "locator": "שורה 23"
+  },
+  {
+   "id": "c38",
+   "text": "לוי הראה שניתן לעכב את פעולת האסטראז בריכוזים מזעריים של אזרין.",
+   "source": "src7",
+   "quote": "I was able to show furthermore that the action of this esterase could be specifically inhibited through minimum concentrations of eserine7.",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c39",
+   "text": "לפי לוי, לאחר שדייל ודודלי הפיקו את החומר ישירות מהאיברים, אין עוד ספק שה-Vagusstoff הוא אצטילכולין.",
+   "source": "src7",
+   "quote": "As Dale and Dudley9 were able to produce it directly from the organs, there can be no more doubt that the vagus substance is Ac.Ch.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c40",
+   "text": "רק ב-1936 זיהה לוי באופן חיובי את החומר שמשתחרר בגירוי עצב המאיץ כאדרנלין.",
+   "source": "src3",
+   "quote": "it was not until 1936 that Loewi positively identified the Acceleransstoff or Sympathicusstoff with adrenaline (epinephrine)",
+   "status": "confirmed",
+   "locator": "שורה 25"
+  },
+  {
+   "id": "c43",
+   "text": "הגילוי הוביל למהפכה מושגית בנוירופיזיולוגיה.",
+   "source": "src3",
+   "quote": "This discovery in fact inaugurated a conceptual revolution in neurophysiology.",
+   "status": "confirmed",
+   "locator": "שורה 27"
+  },
+  {
+   "id": "c44",
+   "text": "לפי לוי בהרצאת הנובל, נמצאה סוף סוף תשובה ברורה לשאלה העתיקה על מהות העברת הגירוי מעצב לאיבר.",
+   "source": "src7",
+   "quote": "at last a clear answer has been found to the age-old question as to the nature of the stimulus-transfer from nerve to effector organ.",
+   "status": "confirmed",
+   "locator": "שורה 21"
+  },
+  {
+   "id": "c45",
+   "text": "לפי לוי, ההוכחה שהעצב משחרר חומר מעכב מבהירה את מקור העיכוב ההיקפי.",
+   "source": "src7",
+   "quote": "With the proof that this inhibition comes about because the nerve releases a function-inhibiting substance, the reason for it becomes clear.",
+   "status": "confirmed",
+   "locator": "שורה 22"
+  },
+  {
+   "id": "c71",
+   "text": "לוי קרא לרופאים בעתיד להתייחס ליחסים אלה כדי להסביר תסמינים שנחשבו עד כה רפלקסיביים בלבד.",
+   "source": "src7",
+   "quote": "It would be very desirable if in future clinicians would give consideration to these relationships",
+   "status": "confirmed",
+   "locator": "שורה 38"
+  },
+  {
+   "id": "c33",
+   "text": "לוי הוזמן להדגים את הניסוי בקונגרס הבינלאומי ה-12 לפיזיולוגיה בשטוקהולם ב-1926.",
+   "source": "src3",
+   "quote": "Loewi was invited to demonstrate his experiment before the Twelfth International Congress of Physiology at Stockholm in 1926.",
+   "status": "confirmed",
+   "locator": "שורה 24"
+  },
+  {
+   "id": "c49",
+   "text": "בהרצאת הנובל הודה לוי לעמיתיו נברטיל, ויטנובסקי ואנגלהרט.",
+   "source": "src7",
+   "quote": "First of all, I must mention my distinguished collaborators E. Navratil, W. Witanowski, and E. Engelhart, and thank them.",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c72",
+   "text": "בנאום הקבלה הודו דייל ולוי לאליוט ולדיקסון על תרומתם.",
+   "source": "src2",
+   "quote": "In their acceptance speech, they appropriately acknowledged the contributions of Elliott and Dixon.",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c65",
+   "text": "לוי קיבל את פרס קמרון של אוניברסיטת אדינבורו ב-1944.",
+   "source": "src1",
+   "quote": "and of the Cameron Prize of the University of Edinburgh (1944)",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c64",
+   "text": "ב-1954 מונה לוי לחבר זר בחברה המלכותית.",
+   "source": "src1",
+   "quote": "In 1954 he was appointed Foreign Member of the Royal Society.",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c66",
+   "text": "מרכז המחקר לביולוגיה של כלי דם, אימונולוגיה ודלקת באוניברסיטה הרפואית של גראץ נושא את שמו.",
+   "source": "src8",
+   "quote": "In Erinnerung an Otto Loewi trägt das Forschungszentrum für Gefäßbiologie, Immunologie und Entzündung an der Medizinischen Universität Graz seinen Namen.",
+   "status": "confirmed",
+   "locator": "שורה 37"
+  },
+  {
+   "id": "c67",
+   "text": "האגודה למדעי המוח מעניקה מדליית אוטו לוי אחת לארבע שנים מאז 2018.",
+   "source": "src5",
+   "quote": "The Neurowissenschaftliche Gesellschaft has been awarding the Otto Loewi Medal every four years to outstanding scientists in the field of neuroscience since 2018.",
+   "status": "confirmed",
+   "locator": "שורה 27"
+  },
+  {
+   "id": "c51",
+   "text": "כשהגרמנים פלשו לאוסטריה ב-1938, לוי נאלץ לעזוב את מולדתו.",
+   "source": "src1",
+   "quote": "When the Germans invaded Austria in 1938, Loewi was forced to leave his homeland.",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c50",
+   "text": "כמו יהודים גברים אחרים בגראץ, לוי ושניים מארבעת ילדיו נאסרו במרץ 1938.",
+   "source": "src3",
+   "quote": "Like other male Jewish citizens of Graz, Loewi and two of his four children were imprisoned in March of that year.",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c54",
+   "text": "לפי המאמר, לוי ושני בניו נעצרו על ידי הגסטאפו באיום נשק, ושחרורו נבע ממחאה בינלאומית של מדענים.",
+   "source": "src2",
+   "quote": "In 1938, the Germans invaded Austria, and Loewi and his two sons were arrested by the Gestapo at gunpoint.",
+   "status": "confirmed",
+   "locator": "שורה 15"
+  },
+  {
+   "id": "c52",
+   "text": "הגסטאפו אילץ אותו להעביר את כספי פרס נובל מבנק בשטוקהולם לבנק בשליטה נאצית.",
+   "source": "src3",
+   "quote": "only after the Gestapo had forced him to transfer his Nobel Prize money from a bank in Stockholm to a bank under Nazi control.",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c53",
+   "text": "הוא שוחרר כעבור חודשיים ובספטמבר הורשה לעזוב ללונדון.",
+   "source": "src3",
+   "quote": "He was released two months later and in September was allowed to leave for London",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c55",
+   "text": "לוי ברח לאנגליה ב-28 בספטמבר 1938 ושהה כמה שבועות אצל הנרי דייל.",
+   "source": "src5",
+   "quote": "Loewi fled to England on September 28, 1938, and stayed with Henry Dale for a few weeks",
+   "status": "confirmed",
+   "locator": "שורה 17"
+  },
+  {
+   "id": "c70",
+   "text": "בלונדון פגש לוי את הנרי דייל, שהיה לחברו לכל החיים ושחלק איתו מאוחר יותר את פרס נובל.",
+   "source": "src1",
+   "quote": "it was in this laboratory that he first met his lifelong friend Henry Dale, who was later to share the Nobel Prize with him.",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c56",
+   "text": "לפי DGIM, לוי הגיע לניו יורק ב-1 ביוני 1940.",
+   "source": "src5",
+   "quote": "He accepted and arrived in New York on June 1, 1940, two days before his 67th birthday.",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c57",
+   "text": "לפי DGVS, לוי הגיע לניו יורק ב-1 ביולי 1940 לאחר הפלגה מליברפול.",
+   "source": "src8",
+   "quote": "Am 22.05.1940 gelangte Otto Loewi mit dem Royal Mail Ship Samaria von Liverpool aus in die USA und erreichte New York am 01.07.1940.",
+   "status": "confirmed",
+   "locator": "שורה 35"
+  },
+  {
+   "id": "c58",
+   "text": "אשתו גווידה הצטרפה אליו בתחילת 1941, לאחר שלא הורשתה לעזוב את אוסטריה קודם לכן.",
+   "source": "src5",
+   "quote": "He was joined by his wife Guida in early 1941, who had not been allowed to leave Austria until that time.",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c59",
+   "text": "לוי קיבל אזרחות אמריקנית ב-1 באפריל 1946.",
+   "source": "src5",
+   "quote": "Loewi was granted American citizenship on April 1, 1946.",
+   "status": "confirmed",
+   "locator": "שורה 20"
+  },
+  {
+   "id": "c60",
+   "text": "לפי DGVS, לוי מת בגיל 85 ב-25 בדצמבר 1961 בניו יורק.",
+   "source": "src8",
+   "quote": "Otto Loewi starb 85-jährig am 25.12.1961 in New York.",
+   "status": "confirmed",
+   "locator": "שורה 36"
+  },
+  {
+   "id": "c61",
+   "text": "לפי המאמר, לוי מת ביום חג המולד 1961 בגיל 89.",
+   "source": "src2",
+   "quote": "Mentally alert to the end, Loewi fell silent after a lively discussion with a friend, and died on Christmas Day in 1961 at 89 years old.",
+   "status": "confirmed",
+   "locator": "שורה 16"
+  },
+  {
+   "id": "c68",
+   "text": "בהספד ב-1962 אמר פרדיננד הוף שמערכת בלתי אנושית אילצה את החוקר הגדול לצאת לגלות.",
+   "source": "src5",
+   "quote": "An inhuman system had also forced this great scholar to emigrate.",
+   "status": "confirmed",
+   "locator": "שורה 25"
+  },
+  {
+   "id": "c69",
+   "text": "לוי נקבר בוודס הול במסצ'וסטס באוגוסט 1962 לפי רצונו.",
+   "source": "src5",
+   "quote": "After his death in New York in 1961, Loewi was buried in Woods Hole in August 1962, in accordance to his wishes.",
+   "status": "confirmed",
+   "locator": "שורה 20"
+  },
+  {
+   "id": "c30",
+   "text": "המאמר הראשון העלה גם אפשרות חלופית שהחומרים הם תוצר של שינוי בפעילות הלב ולא של גירוי עצב ישיר.",
+   "source": "src3",
+   "quote": "it also raised the alternative possibility that vagomimetic and accelerator-mimetic substances might be products of altered cardiac activity",
+   "status": "confirmed",
+   "locator": "שורה 23"
+  },
+  {
+   "id": "c32",
+   "text": "אומרים שלוי נכשל לא פעם בניסיונותיו לשחזר את הניסוי.",
+   "source": "src3",
+   "quote": "it is said that he often failed in his own attempts to do so",
+   "status": "confirmed",
+   "locator": "שורה 24"
+  },
+  {
+   "id": "c34",
+   "text": "חלק מהמאמרים בסדרה כוונו נגד ביקורתו של ליאון אשר.",
+   "source": "src3",
+   "quote": "particularly Leon Asher, against whose criticisms some of the papers in the series were specifically directed.",
+   "status": "confirmed",
+   "locator": "שורה 24"
+  },
+  {
+   "id": "c36",
+   "text": "בנסיבות מעט שונות האצטילכולין היה מפורק לפני שהגיע ללב השני.",
+   "source": "src2",
+   "quote": "Under slightly different circumstances, acetylcholine would have been rapidly metabolised by cholinesterase before it could reach the second heart.",
+   "status": "confirmed",
+   "locator": "שורה 13"
+  },
+  {
+   "id": "c37",
+   "text": "לפי ואן דר קלוט, לב הצפרדעים ההונגריות שבהן השתמש לוי מכיל מעט כולינסטראז.",
+   "source": "src3",
+   "quote": "According to William Van der Kloot, the heart of the Hungarian frogs that Loewi used contains only a small amount of the cholinesterase",
+   "status": "confirmed",
+   "locator": "שורה 26"
+  },
+  {
+   "id": "c47",
+   "text": "לוי פקפק בהעברה כימית בעצבים מוטוריים רצוניים ובמערכת העצבים המרכזית, משום שהם פועלים מהר הרבה יותר.",
+   "source": "src3",
+   "quote": "Chiefly because nervous impulses produce their effects so much more rapidly in voluntary and central nervous processes than in autonomic, Loewi doubted that chemical transmission could be involved in the former.",
+   "status": "confirmed",
+   "locator": "שורה 25"
+  },
+  {
+   "id": "c48",
+   "text": "דייל ועמיתיו היו אחראים בעיקר להוכחת קיום העברה כימית מחוץ למערכת העצבים האוטונומית הפוסט-גנגליונית.",
+   "source": "src3",
+   "quote": "it was Dale and his associates who were mainly responsible for establishing the existence of chemical transmission outside the postganglionic autonomic nervous system",
+   "status": "confirmed",
+   "locator": "שורה 25"
+  },
+  {
+   "id": "c16",
+   "text": "בציטוט במאמר אחר מופיעה שנת 1920 לליל החלום.",
+   "source": "src2",
+   "quote": "The night before Easter Sunday of [1920] I awoke, turned on the light and jotted down a few notes on a tiny slip of thin paper.",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c17",
+   "text": "לפי גרסה נוספת, ליל החלום היה בפסחא 1920.",
+   "source": "src3",
+   "quote": "During the night before Easter Sunday, 1920, Loewi awoke with the idea for an experiment clearly in his mind.",
+   "status": "confirmed",
+   "locator": "שורה 91"
+  },
+  {
+   "id": "c73",
+   "text": "לפי האוניברסיטה הרפואית של גראץ, לוי מונה ב-1909 לקתדרה לפרמקולוגיה באוניברסיטת גראץ, ולימד שם עד 1938.",
+   "source": "src9",
+   "quote": "In 1909 he was appointed to the Chair of Pharmacology at the University of Graz, where he taught until 1938.",
+   "status": "confirmed",
+   "locator": "שורה 266"
+  },
+  {
+   "id": "c74",
+   "text": "החומר: Vagusstoff, אצטילכולין",
+   "source": "src10",
+   "quote": "He identified a substance, which he called Vagusstoff (later recognized as acetylcholine)",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c75",
+   "text": "בבוקר לא הצליח לפענח את כתב ידו.",
+   "source": "src10",
+   "quote": "but I was unable to decipher the scrawl.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c76",
+   "text": "את החומר כינו Vagusstoff.",
+   "source": "src11",
+   "quote": "Loewi called this substance Vagusstoff since it was released from the vagus nerve.",
+   "status": "confirmed",
+   "locator": "שורה 31"
+  },
+  {
+   "id": "c79",
+   "text": "Vagusstoff היה האישור הראשון להעברה סינפטית כימית והמוליך העצבי הראשון שהתגלה.",
+   "source": "src11",
+   "quote": "Later, chemical analysis revealed the substance as acetylcholine, the first neurotransmitter to be identified.",
+   "status": "confirmed",
+   "locator": "שורה 31"
+  },
+  {
+   "id": "c80",
+   "text": "בוואגוס של הצפרדע שבה השתמש לוי יש סיבים מעכבים וסיבים מעוררים, ובחורף הסיבים המעכבים הם הרוב, ולכן לוי היה בר מזל שביצע את הניסויים בפברואר או במרץ.",
+   "source": "src12",
+   "quote": "In the winter the inhibitory fibers predominate",
+   "status": "confirmed",
+   "locator": "שורה 100"
+  },
+  {
+   "id": "c81",
+   "text": "בוואגוס של הצפרדע שבה השתמש לוי יש סיבים מעכבים וסיבים מעוררים, ובחורף הסיבים המעכבים הם הרוב, ולכן לוי היה בר מזל שביצע את הניסויים בפברואר או במרץ.",
+   "source": "src12",
+   "quote": "It is important that Loewi did the experiments in February and March",
+   "status": "confirmed",
+   "locator": "שורה 100"
+  }
+ ],
+ "sources": [
+  {
+   "id": "src1",
+   "label": "NobelPrize.org, Otto Loewi – Biographical (autobiography)",
+   "url": "https://www.nobelprize.org/prizes/medicine/1936/loewi/biographical/",
+   "kind": "official"
+  },
+  {
+   "id": "src2",
+   "label": "PubMed Central (NIH), article on Loewi and chemical neurotransmission",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4291908",
+   "kind": "official"
+  },
+  {
+   "id": "src3",
+   "label": "Encyclopedia.com, Loewi, Otto",
+   "url": "https://www.encyclopedia.com/people/medicine/medicine-biographies/otto-loewi",
+   "kind": "reference"
+  },
+  {
+   "id": "src4",
+   "label": "NobelPrize.org, Otto Loewi – Facts",
+   "url": "https://www.nobelprize.org/prizes/medicine/1936/loewi/facts/",
+   "kind": "official"
+  },
+  {
+   "id": "src5",
+   "label": "DGIM history, Loewi, Otto",
+   "url": "https://www.dgim-history.de/en/biography/Loewi;Otto;1584",
+   "kind": "organisation"
+  },
+  {
+   "id": "src7",
+   "label": "NobelPrize.org, Nobel Lecture by Otto Loewi, 12.12.1936",
+   "url": "https://nobelprize.org/prizes/medicine/1936/loewi/lecture",
+   "kind": "official"
+  },
+  {
+   "id": "src8",
+   "label": "DGVS gegen das Vergessen, Prof. Dr. med. Otto Loewi",
+   "url": "https://www.dgvs-gegen-das-vergessen.de/en/biografie/otto-loewi/",
+   "kind": "organisation"
+  },
+  {
+   "id": "src9",
+   "label": "Medical University of Graz, Otto Loewi",
+   "url": "https://www.medunigraz.at/en/forschungszentren-institute/otto-loewi-forschungszentrum/otto-loewi",
+   "kind": "official"
+  },
+  {
+   "id": "src10",
+   "label": "The Royal Society: Escape to New York",
+   "url": "https://royalsociety.org/blog/2025/03/escape-to-new-york/",
+   "kind": "organisation"
+  },
+  {
+   "id": "src11",
+   "label": "EBSCO Research Starters: Synaptic transmission",
+   "url": "https://www.ebsco.com/research-starters/anatomy-and-physiology/synaptic-transmission/",
+   "kind": "reference"
+  },
+  {
+   "id": "src12",
+   "label": "Europe PMC (PMC10600054): Minding the gap: discovering the phenomenon of chemical transmission in the nervous system (quoting Loewi 1935)",
+   "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10600054/fullTextXML",
+   "kind": "other"
+  }
+ ],
+ "media": [
+  {
+   "id": "m4",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Otto%20Loewi%20in%20Boston%2C%201929%20Wellcome%20L0002480.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Portrait_of_Otto_Loewi_in_Boston%2C_1929_Wellcome_L0002480.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "לא צוין",
+   "licence": "CC BY 4.0",
+   "hosting": "hotlink",
+   "caption": "דיוקן של גבר מבוגר בחליפה ועניבת פפיון, לפי תיאור Commons: אוטו לוי בקונגרס הבינלאומי לפיזיולוגיה בבוסטון, 1929.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/4.0",
+   "width": 1178,
+   "height": 1610
+  },
+  {
+   "id": "m5",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Otto%20Loewi%20in%20the%20Institute%20of%20Pharmacology%20in%20Graz%2C%20Austria%2C%20with%20equipment.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Otto_Loewi_in_the_Institute_of_Pharmacology_in_Graz%2C_Austria%2C_with_equipment.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Institute of Pharmacology, Graz",
+   "licence": "CC BY-SA 3.0 de",
+   "hosting": "hotlink",
+   "caption": "גבר בחליפה ועניבת פפיון יושב ליד שולחן מעבדה עם קימוגרף וציוד זכוכית, לפי תיאור Commons: אוטו לוי במכון לפרמקולוגיה בגראץ.",
+   "illustrates": [
+    "c62",
+    "c63"
+   ],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+   "date": "1930sdate ",
+   "width": 3898,
+   "height": 2960
+  },
+  {
+   "id": "m6",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Otto%20Loewi%20as%20a%20young%20man%2C%20seated.%20Wellcome%20M0020235.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Otto_Loewi_as_a_young_man%2C_seated._Wellcome_M0020235.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "לא צוין",
+   "licence": "CC BY 4.0",
+   "hosting": "hotlink",
+   "caption": "דיוקן חתום של אוטו לוי כגבר צעיר, ישוב, עם משקף עין ושפם.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/4.0",
+   "width": 2717,
+   "height": 3926
+  },
+  {
+   "id": "m7",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Henry%20Dale%20and%20Professor%20Otto%20Loewi%20Wellcome%20M0012996.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Sir_Henry_Dale_and_Professor_Otto_Loewi_Wellcome_M0012996.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "לא צוין",
+   "licence": "CC BY 4.0",
+   "hosting": "hotlink",
+   "caption": "שני גברים במעילים וכובעים לוחצים ידיים ברחוב, לפי תיאור Commons: סר הנרי דייל והפרופסור אוטו לוי ליד מלון גרנד בשטוקהולם, 1936.",
+   "illustrates": [
+    "c41",
+    "c42",
+    "c70"
+   ],
+   "licence_url": "https://creativecommons.org/licenses/by/4.0",
+   "date": "1936date Q",
+   "width": 2833,
+   "height": 3903
+  },
+  {
+   "id": "m8",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Stolperstein%20f%C3%BCr%20Otto%20Loewi%202019%20%28Graz%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Stolperstein_f%C3%BCr_Otto_Loewi_2019_%28Graz%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "TheRunnerUp",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "אבן נגף מפליז עם הכיתוב \"Hier wohnte Dr. Otto Loewi\", שהונחה בגראץ ב-20 בספטמבר 2019.",
+   "illustrates": [
+    "c50",
+    "c51"
+   ],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2020-09-20",
+   "width": 1576,
+   "height": 1558
+  },
+  {
+   "id": "m9",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Loewi%20Nobel%2020040420.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Loewi_Nobel_20040420.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Kaihsu at English Wikipedia, diploma by sv:Jerk Werkmäster[1]",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "תעודות פרס נובל של 1936 של הנרי דייל ושל אוטו לוי, מוצגות בתצוגה ברויאל סוסייטי בלונדון.",
+   "illustrates": [
+    "c41",
+    "c42"
+   ],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "20 April 2",
+   "width": 680,
+   "height": 365
+  },
+  {
+   "id": "m11",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/O.%20Loewi%20and%20Hammilton%20Wellcome%20L0026804.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:O._Loewi_and_Hammilton_Wellcome_L0026804.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "לא צוין",
+   "licence": "CC BY 4.0",
+   "hosting": "hotlink",
+   "caption": "אדם מבוגר חובש כומתה יושב בכיסא בחוץ ומשוחח עם גבר צעיר, לפי תיאור Commons: אוטו לוי ו-Hammilton.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/4.0",
+   "width": 1630,
+   "height": 1146
+  },
+  {
+   "id": "m12",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Stolpersteine%20Johann-Fux-Gasse%2035%20%28Graz%29%20Otto%20Loewi.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Stolpersteine_Johann-Fux-Gasse_35_%28Graz%29_Otto_Loewi.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "TheRunnerUp",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "לוח זיכרון משיש על קיר בית ברחוב Johann-Fux-Gasse 35 בגראץ, המנציח את אוטו לוי.",
+   "illustrates": [
+    "c62",
+    "c63",
+    "c51"
+   ],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2020-09-20",
+   "width": 5456,
+   "height": 3632
+  },
+  {
+   "id": "m13",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Henry%20Dale%3B%20Nobel%20prize%20awarded%20in%201936%20Wellcome%20L0002373.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Henry_Dale%3B_Nobel_prize_awarded_in_1936_Wellcome_L0002373.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "sv:Jerk Werkmäster[1]",
+   "licence": "CC BY 4.0",
+   "hosting": "hotlink",
+   "caption": "תעודת פרס נובל לשנת 1936 בכתב יד מעוטר, עם שמו של אוטו לוי ובחלקה העליון איור של קיימברידג'.",
+   "illustrates": [
+    "c41",
+    "c42"
+   ],
+   "licence_url": "https://creativecommons.org/licenses/by/4.0",
+   "date": "1936date Q",
+   "width": 1166,
+   "height": 1588
+  },
+  {
+   "id": "m14",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=esYqG7L4B0Y",
+   "youtube_id": "esYqG7L4B0Y",
+   "source_page": "https://www.youtube.com/watch?v=esYqG7L4B0Y",
+   "source_name": "YouTube",
+   "credit": "WowScience by TechSensia",
+   "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "סרטון הסברה על כך שאוטו לוי חלם את הניסוי פעמיים והוכיח שעצבים מתקשרים בחומרים כימיים.",
+   "illustrates": [
+    "c14",
+    "c15",
+    "c24"
+   ],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m15",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=um9HLDgn-QE",
+   "youtube_id": "um9HLDgn-QE",
+   "source_page": "https://www.youtube.com/watch?v=um9HLDgn-QE",
+   "source_name": "YouTube",
+   "credit": "Discovery Tales",
+   "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "סיפור החלום של לוי בלילה אחד ב-1921 ופתק הרשימות, שהובילו לניסוי הנובל שלו.",
+   "illustrates": [
+    "c14",
+    "c15",
+    "c19"
+   ],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m16",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=9CgqUD--vr0",
+   "youtube_id": "9CgqUD--vr0",
+   "source_page": "https://www.youtube.com/watch?v=9CgqUD--vr0",
+   "source_name": "YouTube",
+   "credit": "Pharma Viveka",
+   "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "הסבר על גילוי האצטילכולין ועל הניסוי שהוכיח העברה עצבית כימית.",
+   "illustrates": [],
+   "spoken": "hi",
+   "audio_tracks": [
+    "hi",
+    "en"
+   ]
+  },
+  {
+   "id": "m17",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=hhnLpC8K5Sw",
+   "youtube_id": "hhnLpC8K5Sw",
+   "source_page": "https://www.youtube.com/watch?v=hhnLpC8K5Sw",
+   "source_name": "YouTube",
+   "credit": "Bill Griesar",
+   "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "הסבר קצר של מורה למדעים על אוטו לוי ועל הסינפסה הכימית.",
+   "illustrates": [
+    "c24"
+   ],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m18",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=ocEeIbA3WHo",
+   "youtube_id": "ocEeIbA3WHo",
+   "source_page": "https://www.youtube.com/watch?v=ocEeIbA3WHo",
+   "source_name": "YouTube",
+   "credit": "Physioista ",
+   "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "סרטון קצר על הניסוי פורץ הדרך של לוי ועל גילוי המוליך העצבי.",
+   "illustrates": [
+    "c20",
+    "c21",
+    "c22"
+   ],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m20",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/King%20of%20Sweden%20presents%20Nobel%20prize%20Wellcome%20L0002313.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:King_of_Sweden_presents_Nobel_prize_Wellcome_L0002313.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "לא צוין",
+   "licence": "CC BY 4.0",
+   "hosting": "hotlink",
+   "caption": "טקס פרסי נובל בשטוקהולם: חתני הפרס, ובהם אוטו לוי והנרי דייל, עומדים עם תעודות בידיהם",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/4.0",
+   "date": "1936date Q",
+   "width": 1606,
+   "height": 1162,
+   "role": "deed"
+  },
+  {
+   "id": "m21",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nobel%20prize%20awarded%20to%20Henry%20Dale%20in%201936%20Wellcome%20L0002374.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Nobel_prize_awarded_to_Henry_Dale_in_1936_Wellcome_L0002374.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "sv:Jerk Werkmäster[1]",
+   "licence": "CC BY 4.0",
+   "hosting": "hotlink",
+   "caption": "תעודת פרס נובל של הנרי דייל, 1936, בכתב יד מעוטר עם חתימות חברי הוועדה",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/4.0",
+   "date": "1936date Q",
+   "width": 1150,
+   "height": 1576,
+   "role": "deed"
+  },
+  {
+   "id": "m22",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Stolperstein%20f%C3%BCr%20Dr.%20Otto%20Loewi%20%28Graz%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Stolperstein_f%C3%BCr_Dr._Otto_Loewi_%28Graz%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Christian Michelides",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "אבן נגף לד\"ר אוטו לוי בגראץ: \"הנה גר\", עצור ב-1938, בריחה לאנגליה ולארצות הברית",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2019-12-12",
+   "width": 2549,
+   "height": 2531,
+   "role": "deed"
+  },
+  {
+   "id": "m27",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Sir%20Henry%20Dale%20and%20King%20Gustav%20Wellcome%20L0002316.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Portrait_of_Sir_Henry_Dale_and_King_Gustav_Wellcome_L0002316.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "לא צוין",
+   "licence": "CC BY 4.0",
+   "hosting": "hotlink",
+   "caption": "הנרי דייל לוחץ את ידו של מלך שוודיה גוסטב, בצילום מתוך אוסף דייל",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/4.0",
+   "date": "1936date Q",
+   "width": 3666,
+   "height": 5115,
+   "role": "deed"
+  }
+ ],
+ "check": {
+  "passed": true,
+  "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
+  "checked_at": "2026-11-21T22:59:16Z",
+  "counts": {
+   "confirmed": 86,
+   "not_confirmed": 0,
+   "deleted_sentences": 3,
+   "first_round_confirmed": 87,
+   "first_round_contradicted": 1,
+   "first_round_unverifiable": 3
+  },
+  "note": "unverifiable sentences were deleted, contradicted ones fixed from the source and checked again"
+ },
+ "meta": {
+  "run": "otto-loewi-frog-heart-experiment",
+  "pipeline": "scripts/museum/museum_line.py",
+  "models": {
+   "research": "sonnet-5-5",
+   "extract": "sonnet-5-5",
+   "media": "sonnet-5-5",
+   "write": "opus-5-5 medium",
+   "check": "opus-5-5 medium",
+   "fix": "opus-5-5 medium"
+  },
+  "source_quality": {
+   "sources": 11,
+   "wikipedia": 0,
+   "strong": 4,
+   "ok": true,
+   "warnings": []
+  },
+  "settled": [
+   {
+    "box": "d2",
+    "question": "באיזו שנה מונה לוי לפרופסור בגראץ?",
+    "url": "https://www.medunigraz.at/en/forschungszentren-institute/otto-loewi-forschungszentrum/otto-loewi",
+    "by": "settle 24.11"
+   }
+  ],
+  "media_dedupe": [
+   {
+    "drop": "m10",
+    "keep": "m7",
+    "by": "reviewed 24.11"
+   },
+   {
+    "drop": "m1",
+    "keep": "m11",
+    "by": "reviewed 24.11"
+   },
+   {
+    "drop": "m3",
+    "keep": "m7",
+    "by": "reviewed 24.11"
+   },
+   {
+    "drop": "m2",
+    "keep": "m6",
+    "by": "reviewed 24.11"
+   }
+  ],
+  "wiki_cleanup": {
+   "at": "2026-11-27T15:12:17Z",
+   "targets": 6,
+   "resourced": 5,
+   "kept_on_other_sources": 0,
+   "deleted": 1
+  }
+ }
 }

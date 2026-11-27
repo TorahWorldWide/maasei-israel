@@ -7,13 +7,6 @@
  "title": "Michael Heidelberger developed a pneumonia vaccine that was successfully tested on Air Force recruits in 1944",
  "trailer": [
   {
-   "text": "Michael Heidelberger, who according to the U.S. National Library of Medicine was one of the fathers of modern immunology and the founder of immunochemistry, was born in 1888 in New York to a Jewish couple.",
-   "claims": [
-    "c46",
-    "c2"
-   ]
-  },
-  {
    "text": "Before sulfonamides and penicillin, pneumonia filled city hospitals every winter.",
    "claims": [
     "c3"
@@ -92,13 +85,7 @@
      {
       "text": "Heidelberger was born in 1888 in New York.",
       "claims": [
-       "c2"
-      ]
-     },
-     {
-      "text": "His parents, David and Fannie Heidelberger, were a Jewish couple.",
-      "claims": [
-       "c2"
+       "c72"
       ]
      }
     ],
@@ -108,14 +95,6 @@
       "claims": [
        "c62"
       ]
-     },
-     {
-      "text": "Sources differ on when this happened.",
-      "claims": [
-       "c1",
-       "c62",
-       "c63"
-      ]
      }
     ],
     [
@@ -123,13 +102,6 @@
       "text": "According to the National Library of Medicine, he had a younger brother born 21 months after him.",
       "claims": [
        "c66"
-      ]
-     },
-     {
-      "text": "Sources differ on the brother's name.",
-      "claims": [
-       "c66",
-       "c67"
       ]
      }
     ]
@@ -693,12 +665,6 @@
      "claims": [
       "c62"
      ]
-    },
-    {
-     "says": "According to Wikipedia, the grandfather emigrated in the early 40s of the 19th century",
-     "claims": [
-      "c63"
-     ]
     }
    ]
   },
@@ -713,9 +679,9 @@
      ]
     },
     {
-     "says": "According to Wikipedia, Charles",
+     "says": "Charles",
      "claims": [
-      "c67"
+      "c73"
      ]
     }
    ]
@@ -827,22 +793,6 @@
  "unknowns": [],
  "claims": [
   {
-   "id": "c46",
-   "text": "לפי הספריה הלאומית לרפואה, היידלברגר היה אחד מאבות האימונולוגיה המודרנית ומייסד האימונוכימיה.",
-   "source": "src1",
-   "quote": "Michael Heidelberger was one of the fathers of modern immunology and the founder of immunochemistry",
-   "status": "confirmed",
-   "locator": "שורה 2"
-  },
-  {
-   "id": "c2",
-   "text": "היידלברגר נולד ב-1888 בניו יורק לזוג יהודי, דוד ופאני היידלברגר.",
-   "source": "src2",
-   "quote": "Heidelberger was born in 1888 in New York City to a Jewish couple, David and Fannie Campe Heidelberger",
-   "status": "confirmed",
-   "locator": "שורה 32"
-  },
-  {
    "id": "c3",
    "text": "לפני הופעת הסולפונמידים ואחר כך הפניצילין, התפרצויות שנתיות של דלקת ריאות, המחלה העיקרית שנגרמת מהפנאומוקוק, גרמו לעומס בבתי החולים בערים מדי חורף.",
    "source": "src3",
@@ -931,28 +881,12 @@
    "locator": "שורה 8"
   },
   {
-   "id": "c63",
-   "text": "לפי ויקיפדיה, סבו של היידלברגר היגר לארצות הברית בראשית שנות ה-40 של המאה ה-19.",
-   "source": "src2",
-   "quote": "was a German Jew who had emigrated to the United States in the early 1840s.",
-   "status": "confirmed",
-   "locator": "שורה 32"
-  },
-  {
    "id": "c66",
    "text": "לפי הספריה הלאומית לרפואה, אחיו הצעיר של היידלברגר נקרא דיוויד ונולד 21 חודשים אחריו.",
    "source": "src1",
    "quote": "a younger brother, David, was born 21 months after Michael.",
    "status": "confirmed",
    "locator": "שורה 4"
-  },
-  {
-   "id": "c67",
-   "text": "לפי ויקיפדיה, אחיו הצעיר של היידלברגר נקרא צ'ארלס ונולד 21 חודשים אחריו.",
-   "source": "src2",
-   "quote": "a younger brother, Charles,[5][2] was born 21 months after Michael.",
-   "status": "confirmed",
-   "locator": "שורה 32"
   },
   {
    "id": "c4",
@@ -1361,6 +1295,22 @@
    "quote": "his only child, Charles Heidelberger",
    "status": "confirmed",
    "locator": "שורה 40"
+  },
+  {
+   "id": "c72",
+   "text": "היידלברגר נולד ב-1888 בניו יורק.",
+   "source": "src3",
+   "quote": "Michael Heidelberger was born in New York City in 1888.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c73",
+   "text": "צ'ארלס",
+   "source": "src11",
+   "quote": "Michael and his younger brother, Charles J. Heidelberger.",
+   "status": "confirmed",
+   "locator": "שורה 9"
   }
  ],
  "sources": [
@@ -1369,12 +1319,6 @@
    "label": "U.S. National Library of Medicine, Profiles in Science: Michael Heidelberger, Biographical Overview",
    "url": "https://profiles.nlm.nih.gov/spotlight/dh/feature/biographical-overview",
    "kind": "official"
-  },
-  {
-   "id": "src2",
-   "label": "Wikipedia, Michael Heidelberger",
-   "url": "https://en.wikipedia.org/wiki/Michael_Heidelberger",
-   "kind": "reference"
   },
   {
    "id": "src3",
@@ -1423,6 +1367,12 @@
    "label": "American Association of Immunologists, Past Presidents: Michael Heidelberger",
    "url": "https://www.aai.org/About/History/Past-Presidents-and-Officers/MichaelHeidelberger",
    "kind": "organisation"
+  },
+  {
+   "id": "src11",
+   "label": "National Library of Medicine: Michael Heidelberger Papers (Profiles in Science), photograph record of Michael and his younger brother Charles J. Heidelberger",
+   "url": "https://findingaids.nlm.nih.gov/repositories/ammp/digital_objects/101584940x108",
+   "kind": "official"
   }
  ],
  "media": [
@@ -1481,7 +1431,7 @@
   "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
   "checked_at": "2026-11-21T03:25:32Z",
   "counts": {
-   "confirmed": 102,
+   "confirmed": 96,
    "not_confirmed": 0,
    "deleted_sentences": 3,
    "first_round_confirmed": 100,
@@ -1503,7 +1453,7 @@
   },
   "source_quality": {
    "sources": 10,
-   "wikipedia": 1,
+   "wikipedia": 0,
    "strong": 7,
    "ok": true,
    "warnings": []
@@ -1515,19 +1465,26 @@
     "url": "https://www.nationalacademies.org/read/10269/chapter/8",
     "by": "settle 24.11"
    }
-  ]
+  ],
+  "wiki_cleanup": {
+   "at": "2026-11-27T15:08:00Z",
+   "targets": 7,
+   "resourced": 2,
+   "kept_on_other_sources": 0,
+   "deleted": 5
+  }
  },
  "lang": "en",
  "translation": {
   "from": "he",
   "translator": "claude-opus-5-5",
   "checker": "claude-opus-5-5 (separate call, blind to the translation prompt)",
-  "checked_at": "2026-11-23T22:35:47Z",
+  "checked_at": "2026-11-27T15:08:06Z",
   "passed": true,
-  "items": 124,
+  "items": 119,
   "pairs_checked": 1,
-  "reused": 123,
-  "first_round_flagged": 1,
+  "reused": 118,
+  "first_round_flagged": 0,
   "still_flagged": 0,
   "flagged": [],
   "quote_translations": {}

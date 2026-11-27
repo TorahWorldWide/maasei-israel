@@ -99,9 +99,10 @@
       ]
      },
      {
-      "text": "לפי רוקפלר, עד שנות ה-40 הדעה המקובלת הייתה שלחיידקים אין מנגנונים גנטיים הדומים לאלה של אורגניזמים גבוהים.",
+      "text": "לפי רוקפלר, לאורך שנות ה-40 הדעה המקובלת הייתה שלחיידקים אין מנגנונים גנטיים הדומים לאלה של אורגניזמים גבוהים.",
       "claims": [
-       "c15"
+       "c15",
+       "c-aud-20261127-7"
       ]
      }
     ],
@@ -203,9 +204,10 @@
       ]
      },
      {
-      "text": "לפי ה-Times, אחרי שנתיים של לימודי רפואה, בקיץ 1944, עבר לדרברג לייל, ושם עזר לחלוץ את תחום הגנטיקה החיידקית.",
+      "text": "לפי אתר פרס נובל, אחרי לימודי רפואה בקולומביה בשנים 1944–1946 עבר לדרברג לייל, לעבוד עם אדוארד טייטום.",
       "claims": [
-       "c38"
+       "c38",
+       "c-aud-20261127-1"
       ]
      },
      {
@@ -263,9 +265,10 @@
     ],
     [
      {
-      "text": "לפי מרכז הלמידה של ה-DNA במעבדת קולד ספרינג הארבור, לדרברג קיבל את הדוקטורט מייל ב-1948 ולאחר מכן קיבל משרה באוניברסיטת ויסקונסין.",
+      "text": "לפי האוטוביוגרפיה שלו באתר פרס נובל, ב-1947 מונה לדרברג לעוזר פרופסור לגנטיקה באוניברסיטת ויסקונסין, ותואר הדוקטור מייל הוענק לו ב-1948.",
       "claims": [
-       "c75"
+       "c75",
+       "c-aud-20261127-3"
       ]
      }
     ]
@@ -276,7 +279,8 @@
     "m15"
    ],
    "disagreements": [
-    "d2"
+    "d2",
+    "d9001"
    ]
   },
   {
@@ -318,10 +322,11 @@
       ]
      },
      {
-      "text": "לתהליך קוראים התמרה, וזו הייתה ההדגמה הראשונה לכך שאפשר להחדיר גנים חדשים לאורגניזם.",
+      "text": "הם קראו לתהליך התמרה.",
       "claims": [
        "c4",
-       "c26"
+       "c26",
+       "c-aud-20261127-2"
       ]
      },
      {
@@ -598,9 +603,10 @@
      ]
     },
     {
-     "says": "רוקפלר: השאלה נפתרה ב-1947, בידי סטודנט לתואר מתקדם בן 22",
+     "says": "רוקפלר: השאלה כיצד חיידקים משיגים ארסיות ועמידות נפתרה ב-1947, בידי סטודנט לתואר מתקדם בן 22",
      "claims": [
-      "c13"
+      "c13",
+      "c-aud-20261127-8"
      ]
     },
     {
@@ -667,6 +673,30 @@
      "says": "רוקפלר: אחד מילדיהם, לצד אנה לדרברג",
      "claims": [
       "c74"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9001",
+   "question": "באיזו שנה קיבל לדרברג את הדוקטורט מייל?",
+   "versions": [
+    {
+     "says": "האוטוביוגרפיה שלו באתר פרס נובל: ב-1948",
+     "claims": [
+      "c-aud-20261127-4"
+     ]
+    },
+    {
+     "says": "ספריית הרפואה הלאומית: ב-1947",
+     "claims": [
+      "c-aud-20261127-5"
+     ]
+    },
+    {
+     "says": "אוניברסיטת רוקפלר: ב-1947",
+     "claims": [
+      "c-aud-20261127-6"
      ]
     }
    ]
@@ -1193,6 +1223,78 @@
    "quote": "the team concluded the outbreak was caused by a release of an aerosol of anthrax pathogen at the military facility.",
    "status": "confirmed",
    "locator": "שורה 13"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "לפי אתר פרס נובל, אחרי לימודי רפואה בקולומביה בשנים 1944–1946 עבר לדרברג לייל, לעבוד עם אדוארד טייטום.",
+   "source": "src9001",
+   "quote": "from 1944 to 1946 at the College of Physicians and Surgeons of Columbia University Medical School",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "הם קראו לתהליך התמרה.",
+   "source": "src6",
+   "quote": "The process, which they named transduction",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "לפי האוטוביוגרפיה שלו באתר פרס נובל, ב-1947 מונה לדרברג לעוזר פרופסור לגנטיקה באוניברסיטת ויסקונסין, ותואר הדוקטור מייל הוענק לו ב-1948.",
+   "source": "src9001",
+   "quote": "In 1947, he was appointed Assistant Professor of Genetics at the University of Wisconsin",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-4",
+   "text": "האוטוביוגרפיה שלו באתר פרס נובל: ב-1948",
+   "source": "src9001",
+   "quote": "He was awarded his Ph.D. degree in 1948.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-5",
+   "text": "ספריית הרפואה הלאומית: ב-1947",
+   "source": "src5",
+   "quote": "He received his PhD degree from Yale in 1947.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261127-6",
+   "text": "אוניברסיטת רוקפלר: ב-1947",
+   "source": "src6",
+   "quote": "received his Ph.D. from Yale University in 1947",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-7",
+   "text": "לפי רוקפלר, לאורך שנות ה-40 הדעה המקובלת הייתה שלחיידקים אין מנגנונים גנטיים הדומים לאלה של אורגניזמים גבוהים.",
+   "source": "src6",
+   "quote": "Through the 1940s, scientific wisdom had it that bacteria do not have genetic mechanisms similar to those of higher organisms.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-8",
+   "text": "רוקפלר: השאלה כיצד חיידקים משיגים ארסיות ועמידות נפתרה ב-1947, בידי סטודנט לתואר מתקדם בן 22",
+   "source": "src6",
+   "quote": "was resolved by a 22-year-old graduate student in 1947",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1285,6 +1387,13 @@
    "label": "PBS Frontline: The 1979 Anthrax Leak (Plague War)",
    "url": "https://www.pbs.org/wgbh/pages/frontline/shows/plague/sverdlovsk/",
    "kind": "press"
+  },
+  {
+   "id": "src9001",
+   "label": "NobelPrize.org, Joshua Lederberg – Biographical",
+   "url": "https://www.nobelprize.org/prizes/medicine/1958/lederberg/biographical/",
+   "kind": "official",
+   "date": "2026-11-27"
   }
  ],
  "media": [
@@ -1449,7 +1558,7 @@
    "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
    "licence_url": "https://www.youtube.com/static?template=terms",
    "hosting": "embed",
-   "caption": "הסבר על ניסוי לדרברג וטייטום ועל גילוי ההזדווגות החיידקית, שלדרברג עשה בגיל 33.",
+   "caption": "הסבר על ניסוי לדרברג וטייטום ועל גילוי ההזדווגות החיידקית, שעליו זכה לדרברג בפרס נובל בגיל 33.",
    "illustrates": [
     "c2",
     "c11"
@@ -1484,7 +1593,7 @@
    "credit": "unknown,",
    "licence": "Attribution",
    "hosting": "hotlink",
-   "caption": "אסתר וג׳ושוע לדרברג יושבים זה לצד זו, צילום שחור-לבן משנת 1968 בקירוב",
+   "caption": "אסתר וג׳ושוע לדרברג יושבים זה לצד זו, צילום שחור-לבן",
    "illustrates": [],
    "date": "1968",
    "width": 800,

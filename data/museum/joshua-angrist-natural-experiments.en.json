@@ -1,7 +1,7 @@
 {
  "schema": "maasei-museum/1",
  "slug": "joshua-angrist-natural-experiments",
- "deed": "יהושע אנגריסט מפתח שיטת ניסויים טבעיים לזיהוי קשרים סיבתיים בכלכלה",
+ "deed": "Joshua Angrist develops a natural-experiments method for identifying causal relationships in economics",
  "canonical_type": "idea-that-changed",
  "year": "1990",
  "title": "Joshua Angrist turned lotteries and birth dates into natural experiments, and won the Nobel Prize in Economics",
@@ -365,9 +365,7 @@
     ]
    ],
    "media": [],
-   "disagreements": [
-    "d2"
-   ]
+   "disagreements": []
   },
   {
    "id": "s6",
@@ -569,7 +567,7 @@
    ],
    "disagreements": [
     "d3",
-    "d4"
+    "d9001"
    ]
   },
   {
@@ -630,24 +628,6 @@
    ]
   },
   {
-   "id": "d2",
-   "question": "Until what year was Angrist a senior lecturer at the Hebrew University?",
-   "versions": [
-    {
-     "says": "ISRAEL21c: from 1991 to 1996",
-     "claims": [
-      "c57"
-     ]
-    },
-    {
-     "says": "His CV: 1991–95",
-     "claims": [
-      "c58"
-     ]
-    }
-   ]
-  },
-  {
    "id": "d3",
    "question": "What amount was shared by Angrist and Imbens?",
    "versions": [
@@ -667,19 +647,19 @@
    ]
   },
   {
-   "id": "d4",
-   "question": "When was the minimum wage increase in New Jersey studied?",
+   "id": "d9001",
+   "question": "When was Angrist elected to the US National Academy of Sciences?",
    "versions": [
     {
-     "says": "Nobel Committee: the hourly minimum wage in New Jersey was increased on 1 April 1992, from 4.25 to 5.05 dollars",
+     "says": "Angrist's CV: in April 2023",
      "claims": [
-      "c25"
+      "c-aud-20261127-1"
      ]
     },
     {
-     "says": "The Tech: Card studied employment in fast food establishments in New Jersey and Pennsylvania in 1993, after the increase",
+     "says": "National Academy of Sciences: the election was announced on May 2, 2023",
      "claims": [
-      "c26"
+      "c-aud-20261127-2"
      ]
     }
    ]
@@ -1192,22 +1172,6 @@
    "locator": "שורה 7"
   },
   {
-   "id": "c25",
-   "text": "לפי ועדת הנובל, ב-1 באפריל 1992 הועלה שכר המינימום השעתי בניו ג'רזי מ-4.25 ל-5.05 דולר.",
-   "source": "src5",
-   "quote": "1 April 1992: The hourly minimum wage in New Jersey was increased from 4.25 dollars to 5.05 dollars.",
-   "status": "confirmed",
-   "locator": "שורה 8"
-  },
-  {
-   "id": "c26",
-   "text": "לפי The Tech, קארד חקר תעסוקה במסעדות מזון מהיר בניו ג'רזי ובפנסילבניה ב-1993, לאחר העלאת שכר המינימום בניו ג'רזי.",
-   "source": "src2",
-   "quote": "Card studied employment in fast food establishments in New Jersey and Pennsylvania in 1993, on the heels of a minimum wage hike in New Jersey",
-   "status": "confirmed",
-   "locator": "שורה 11"
-  },
-  {
    "id": "c68",
    "text": "הוא נולד למשפחה יהודית באוהיו, ולפי ISRAEL21c הוא בעל אזרחות אמריקאית וישראלית.",
    "source": "src4",
@@ -1286,6 +1250,24 @@
    "quote": "The winners share 10 million Swedish crowns ($1.14 million).",
    "status": "confirmed",
    "locator": "שורה 2"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "קורות החיים של אנגריסט: באפריל 2023",
+   "source": "src7",
+   "quote": "Elected Member, National Academy of Sciences, April 2023",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "האקדמיה הלאומית למדעים: הבחירה הוכרזה ב-2 במאי 2023",
+   "source": "src9001",
+   "quote": "announced today the election of 120 members",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
   }
  ],
  "sources": [
@@ -1348,6 +1330,13 @@
    "label": "Fortune: Nobel Prize in economics 2021 (Card, Angrist, Imbens)",
    "url": "https://fortune.com/2021/10/11/nobel-prize-economics-david-card-joshua-angrist-guido-imbens/",
    "kind": "press"
+  },
+  {
+   "id": "src9001",
+   "label": "National Academy of Sciences, 2023 NAS Election, May 2, 2023",
+   "url": "https://www.nasonline.org/news/2023-nas-election/",
+   "kind": "official",
+   "date": "2026-11-27"
   }
  ],
  "media": [

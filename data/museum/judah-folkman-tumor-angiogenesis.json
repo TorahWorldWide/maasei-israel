@@ -410,10 +410,11 @@
       ]
      },
      {
-      "text": "פולקמן שכנע רופא של חולה במיאלומה נפוצה לנסות אותו, ובניסוי שנערך הגיבו לטיפול כשליש מהנבדקים.",
+      "text": "פולקמן שכנע רופא של חולה במיאלומה נפוצה לנסות אותו, ובניסוי שנערך בשלושה חולים הגיבו שניים מהם לטיפול בצורה דרמטית.",
       "claims": [
        "c101",
-       "c102"
+       "c102",
+       "c-aud-20261127-4"
       ]
      }
     ],
@@ -569,9 +570,11 @@
    "paragraphs": [
     [
      {
-      "text": "ב-1998 הפך פולקמן לסנסציה תקשורתית, כשג'יימס ווטסון הצהיר בעמוד הראשון של ניו יורק טיימס שפולקמן ירפא את הסרטן בתוך שנתיים.",
+      "text": "ב-1998 הפך פולקמן לסנסציה תקשורתית, כשכתבה בעמוד הראשון של ניו יורק טיימס ציטטה את ג'יימס ווטסון שאמר שפולקמן ירפא את הסרטן בתוך שנתיים; ווטסון טען אחר כך שדבריו היו שונים.",
       "claims": [
-       "c38"
+       "c38",
+       "c-aud-20261127-2",
+       "c-aud-20261127-3"
       ]
      },
      {
@@ -629,15 +632,18 @@
       ]
      },
      {
-      "text": "לפי Cancer World, טיפול ב-VEGF עלול לגרום לדימום, לקרישי דם בעורקים, ללחץ דם גבוה ולריפוי פצעים מעוכב.",
+      "text": "לפי Cancer World, טיפול בתרופות נוגדות אנגיוגנזה שמכוונות ל-VEGF עלול לגרום לדימום, לקרישי דם בעורקים, ללחץ דם גבוה ולריפוי פצעים מעוכב.",
       "claims": [
-       "c66"
+       "c66",
+       "c-aud-20261127-1"
       ]
      }
     ]
    ],
    "media": [],
-   "disagreements": []
+   "disagreements": [
+    "d9001"
+   ]
   }
  ],
  "disagreements": [
@@ -655,6 +661,24 @@
      "says": "WBUR, על בסיס ביוגרפיה של בית החולים: ב-27 מדינות נוספות",
      "claims": [
       "c50"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9001",
+   "question": "האם ג'יימס ווטסון אמר לניו יורק טיימס שפולקמן ירפא את הסרטן בתוך שנתיים?",
+   "versions": [
+    {
+     "says": "ניו יורק טיימס ו-Scientific American: כן. הטיימס ציטט את ווטסון ועמד מאחורי הכתבה",
+     "claims": [
+      "c-aud-20261127-2"
+     ]
+    },
+    {
+     "says": "ג'יימס ווטסון, במכתב לטיימס: לא. הוא אמר רק שאנדוסטטין ואנגיוסטטין ייכנסו לניסויים קליניים עד סוף השנה",
+     "claims": [
+      "c-aud-20261127-3"
      ]
     }
    ]
@@ -1253,6 +1277,42 @@
    "quote": "died suddenly Monday (Jan. 14) after suffering a heart attack at the Denver International Airport in Denver.",
    "status": "confirmed",
    "locator": "שורה 1"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "לפי Cancer World, טיפול בתרופות נוגדות אנגיוגנזה שמכוונות ל-VEGF עלול לגרום לדימום, לקרישי דם בעורקים, ללחץ דם גבוה ולריפוי פצעים מעוכב.",
+   "source": "src6",
+   "quote": "Treatment with VEGF- targeting angiogenesis inhibitors may result in bleeding, arterial clots, high blood pressure, delayed wound healing",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "ניו יורק טיימס ו-Scientific American: כן. הטיימס ציטט את ווטסון ועמד מאחורי הכתבה",
+   "source": "src3",
+   "quote": "declared on the front page of The New York Times that he was \"going to cure cancer in two years.\"",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "ג'יימס ווטסון, במכתב לטיימס: לא. הוא אמר רק שאנדוסטטין ואנגיוסטטין ייכנסו לניסויים קליניים עד סוף השנה",
+   "source": "src9001",
+   "quote": "is quite different",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-4",
+   "text": "פולקמן שכנע רופא של חולה במיאלומה נפוצה לנסות אותו, ובניסוי שנערך בשלושה חולים הגיבו שניים מהם לטיפול בצורה דרמטית.",
+   "source": "src14",
+   "quote": "That request led to a three-patient clinical trial, in which two of the three patients had a dramatic response to the drug.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1351,6 +1411,13 @@
    "label": "Gairdner Foundation: M. Judah Folkman, 1991 Winner, Canada Gairdner International Award",
    "url": "https://gairdner.org/winner/m-judah-folkman",
    "kind": "organisation"
+  },
+  {
+   "id": "src9001",
+   "label": "National Association of Science Writers, ScienceWriters, Spring-Summer 1998, on the Kolata story",
+   "url": "https://www.nasw.org/sites/default/files/sciencewriters/html/sprsu98tex/kolata.htm",
+   "kind": "organisation",
+   "date": "2026-11-27"
   }
  ],
  "media": [

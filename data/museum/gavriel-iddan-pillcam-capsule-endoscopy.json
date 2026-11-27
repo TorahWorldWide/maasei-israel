@@ -1,7 +1,7 @@
 {
  "schema": "maasei-museum/1",
  "slug": "gavriel-iddan-pillcam-capsule-endoscopy",
- "deed": "גבריאל אידן, מהנדס ברפאל, המציא גלולה עם מצלמה — יותר מארבעה מיליון מטופלים",
+ "deed": "גבריאל אידן, מהנדס ברפאל, המציא גלולה עם מצלמה — לפי מדטרוניק, יותר מארבעה מיליון מטופלים",
  "canonical_type": "single-inventor",
  "year": "1993",
  "title": "גבריאל אידן, מהנדס ישראלי מרפאל, המציא מצלמה בגודל גלולה שמצלמת את המעי הדק",
@@ -168,12 +168,6 @@
       "text": "סקפה הסביר לאידן שטכנולוגיית הסיבים האופטיים משאירה את המעי הדק מחוץ להישג ידן של הבדיקות.",
       "claims": [
        "c31"
-      ]
-     },
-     {
-      "text": "לפי ynet, אחרי מפגש ב-1998 עם שכנו, הגסטרואנטרולוג פרופ' איתן סקפה, החל אידן לפתח גלולה עם מצלמת וידאו שתאפשר לרופאים לאבחן מחלות ודימומים.",
-      "claims": [
-       "c83"
       ]
      }
     ],
@@ -581,9 +575,10 @@
       ]
      },
      {
-      "text": "לפי כתבה ב-ynet שפורסמה בשיתוף מדטרוניק, החברה נרכשה לאחר כמה שנים בידי מדטרוניק, שהשאירה את הפיתוח והייצור בישראל.",
+      "text": "קוביידיין השלימה את הרכישה בפברואר 2014, והחברה עברה לידי מדטרוניק כשזו רכשה את קוביידיין ב-2015. לפי כתבה ב-ynet שפורסמה בשיתוף מדטרוניק, מדטרוניק השאירה את הפיתוח והייצור בישראל.",
       "claims": [
-       "c63"
+       "c63",
+       "c-aud-20261127-1"
       ]
      },
      {
@@ -607,7 +602,9 @@
     "m12",
     "m15"
    ],
-   "disagreements": []
+   "disagreements": [
+    "d9001"
+   ]
   },
   {
    "id": "s8",
@@ -675,12 +672,6 @@
      "claims": [
       "c29",
       "c30"
-     ]
-    },
-    {
-     "says": "לפי ynet, בשנת 1998 פגש ד\"ר גבי עידן את שכנו, הגסטרואנטרולוג פרופ' איתן סקפה, ששיתף אותו בקושי לבצע אנדוסקופיה במעי הדק.",
-     "claims": [
-      "c59"
      ]
     },
     {
@@ -860,6 +851,30 @@
      ]
     }
    ]
+  },
+  {
+   "id": "d9001",
+   "question": "בכמה מטופלים או בדיקות שימשה הפילקאם?",
+   "versions": [
+    {
+     "says": "מדטרוניק (2021): יותר מארבעה מיליון מטופלים בעולם",
+     "claims": [
+      "c-aud-20261127-2"
+     ]
+    },
+    {
+     "says": "דף המוצר של מדטרוניק: יותר מ-3.5 מיליון בדיקות בעולם",
+     "claims": [
+      "c-aud-20261127-3"
+     ]
+    },
+    {
+     "says": "המכון האירופי לפטנטים (2011): כמעט 1.5 מיליון שימושים",
+     "claims": [
+      "c-aud-20261127-4"
+     ]
+    }
+   ]
   }
  ],
  "unknowns": [],
@@ -991,14 +1006,6 @@
    "quote": "At times doctors were forced to use exploratory surgery for small bowel diagnostics, an approach both risky and substantially uncomfortable for patients.",
    "status": "confirmed",
    "locator": "שורה 9"
-  },
-  {
-   "id": "c83",
-   "text": "לפי ynet, אחרי המפגש החל עידן לפתח גלולה עם מצלמת וידאו שתאפשר לרופאים לאבחן מחלות ודימומים.",
-   "source": "src6",
-   "quote": "החל לפתח אחרי המפגש גלולה המצוידת במצלמת וידיאו, שתאפשר לרופאים לאבחן מחלות ודימומים",
-   "status": "confirmed",
-   "locator": "שורה 78"
   },
   {
    "id": "c17",
@@ -1377,14 +1384,6 @@
    "locator": "שורה 12"
   },
   {
-   "id": "c59",
-   "text": "ד\"ר גבי עידן פגש את שכנו, הגסטרואנטרולוג פרופ' איתן סקפה, ששיתף אותו בקושי לבצע אנדוסקופיה במעי הדק.",
-   "source": "src6",
-   "quote": "את שכנו הגסטרואנטרולוג פרופ' איתן סקפה, שסיפר לו על הקושי לבצע אנדוסקופיה במעי הדק",
-   "status": "confirmed",
-   "locator": "שורה 77"
-  },
-  {
    "id": "c67",
    "text": "לפי המאמר, שכנו של אידן פיתח מחלה בקיבה ואידן הבין שאין טכנולוגיה לבדיקת המעי הדק.",
    "source": "src5",
@@ -1527,6 +1526,42 @@
    "quote": "laxative bowel preparation is crucial",
    "status": "confirmed",
    "locator": "שורה 141"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "קוביידיין השלימה את הרכישה בפברואר 2014, והחברה עברה לידי מדטרוניק כשזו רכשה את קוביידיין ב-2015. לפי כתבה ב-ynet שפורסמה בשיתוף מדטרוניק, מדטרוניק השאירה את הפיתוח והייצור בישראל.",
+   "source": "src9001",
+   "quote": "Covidien plc (NYSE: COV) today announced that it has closed its acquisition of Given Imaging Ltd.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "מדטרוניק (2021): יותר מארבעה מיליון מטופלים בעולם",
+   "source": "src9002",
+   "quote": "has impacted more than 4 million patients worldwide",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "דף המוצר של מדטרוניק: יותר מ-3.5 מיליון בדיקות בעולם",
+   "source": "src9003",
+   "quote": "More than 3,5 million procedures performed globally using PillCam",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261127-4",
+   "text": "המכון האירופי לפטנטים (2011): כמעט 1.5 מיליון שימושים",
+   "source": "src3",
+   "quote": "used close to 1.5 million times by more than 5,000 medical facilities",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1601,6 +1636,27 @@
    "label": "PubMed Central: colon capsule endoscopy article (PMC5438790)",
    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5438790",
    "kind": "reference"
+  },
+  {
+   "id": "src9001",
+   "label": "Medtronic newsroom, Covidien Completes Acquisition of Given Imaging, 27 Feb 2014",
+   "url": "https://news.medtronic.com/2014-02-27-Covidien-Completes-Acquisition-of-Given-Imaging",
+   "kind": "organisation",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9002",
+   "label": "Medtronic newsroom, PillCam SB3 HOME 510(k) clearance, 15 Nov 2021",
+   "url": "https://news.medtronic.com/2021-11-15-Medtronic-announces-510-k-clearance-for-PillCam-TM-Small-Bowel-3-HOME-endoscopy-procedure",
+   "kind": "organisation",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9003",
+   "label": "Medtronic, Capsule endoscopy product page (South Africa)",
+   "url": "https://www.medtronic.com/covidien/en-za/products/capsule-endoscopy.html",
+   "kind": "organisation",
+   "date": "2026-11-27"
   }
  ],
  "media": [

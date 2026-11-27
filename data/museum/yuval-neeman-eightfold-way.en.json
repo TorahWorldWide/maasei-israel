@@ -34,10 +34,11 @@
    ]
   },
   {
-   "text": "Murray Gell-Mann independently published the same discovery shortly after him. In 1964 the omega-minus particle was discovered with the predicted properties, and the discovery confirmed the scheme.",
+   "text": "Murray Gell-Mann reached the same discovery at the same time, independently. In 1964 the omega-minus particle was discovered with the predicted properties, and the discovery confirmed the scheme.",
    "claims": [
     "c23",
-    "c24"
+    "c24",
+    "c-aud-20261127-1"
    ]
   }
  ],
@@ -281,9 +282,10 @@
     ],
     [
      {
-      "text": "Shortly after Ne'eman's publication, Murray Gell-Mann independently published the same discovery.",
+      "text": "At the same time as Ne'eman, and independently, Murray Gell-Mann reached the same discovery.",
       "claims": [
-       "c23"
+       "c23",
+       "c-aud-20261127-2"
       ]
      },
      {
@@ -1298,6 +1300,24 @@
    "quote": "the 1992 Israel Prize for Arabic literature",
    "status": "confirmed",
    "locator": "שורה 3"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "מארי גל-מן הגיע לאותו גילוי במקביל ובאופן עצמאי. ב-1964 התגלה חלקיק אומגה-מינוס עם התכונות החזויות, והגילוי אישר את הסכמה.",
+   "source": "src8",
+   "quote": "The remarkable coincidence of him simultaneously suggesting the same SU(3) classification scheme helped Yuval initially.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "במקביל לנאמן ובאופן עצמאי, הגיע מארי גל-מן לאותו גילוי.",
+   "source": "src8",
+   "quote": "The remarkable coincidence of him simultaneously suggesting the same SU(3) classification scheme helped Yuval initially.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [

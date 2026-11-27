@@ -1,7 +1,7 @@
 {
  "schema": "maasei-museum/1",
  "slug": "amnon-shashua-wearable-camera-blind",
- "deed": "אמנון ששוע ועמיתיו פיתחו מצלמה לבישה שמקריאה טקסט לעיוורים ומזהה פנים",
+ "deed": "אמנון שעשוע ועמיתיו פיתחו מצלמה לבישה שמקריאה טקסט לעיוורים ומזהה פנים",
  "canonical_type": "team-invention",
  "year": "2010",
  "title": "אמנון שעשוע וזיו אבירם פיתחו מצלמה למשקפיים שמקריאה טקסט לעיוורים ומזהה פנים",
@@ -30,9 +30,10 @@
    ]
   },
   {
-   "text": "לפי הג'ואיש כרוניקל, נמכרו כמה אלפי מכשירים ב-12 מדינות.",
+   "text": "לפי הג'ואיש כרוניקל, עד 2017 נמכרו כמה אלפי מכשירים ב-12 מדינות.",
    "claims": [
-    "c62"
+    "c62",
+    "c-aud-20261127-3"
    ]
   },
   {
@@ -113,10 +114,11 @@
       ]
      },
      {
-      "text": "אינטל רכשה את מובילאיי, והדיווחים על הסכום שונים.",
+      "text": "אינטל רכשה את מובילאיי בעסקה של 15.3 מיליארד דולר.",
       "claims": [
        "c7",
-       "c8"
+       "c8",
+       "c-aud-20261127-8"
       ]
      }
     ],
@@ -212,10 +214,13 @@
       ]
      },
      {
-      "text": "ה-MyEye המקורי הושק ב-2015, ובאותה שנה התרחבה החברה ללקוחות רבים יותר בארה\"ב.",
+      "text": "לפי האייריש טיימס, ה-MyEye המקורי הושק ב-2015, ולפי ג'רוזלם ריפורט באותה שנה התרחבה החברה ללקוחות רבים יותר בארה\"ב.",
       "claims": [
        "c50",
-       "c35"
+       "c35",
+       "c-aud-20261127-4",
+       "c-aud-20261127-5",
+       "c-aud-20261127-6"
       ]
      }
     ]
@@ -226,7 +231,8 @@
     "m17"
    ],
    "disagreements": [
-    "d2"
+    "d2",
+    "d9001"
    ]
   },
   {
@@ -335,9 +341,7 @@
     "m2",
     "m7"
    ],
-   "disagreements": [
-    "d5"
-   ]
+   "disagreements": []
   },
   {
    "id": "s4",
@@ -455,16 +459,18 @@
    "paragraphs": [
     [
      {
-      "text": "אורקם היא סטארט-אפ מירושלים, ויש לה משרדים בניו יורק, בטורונטו ובלונדון.",
+      "text": "אורקם היא חברה מירושלים, וביולי 2024 הודיעה שתפסיק לפתח את מוצר הדגל שלה לסיוע בראייה.",
       "claims": [
        "c27",
-       "c89"
+       "c89",
+       "c-aud-20261127-2"
       ]
      },
      {
-      "text": "עובדים בה יותר מ-150 איש.",
+      "text": "ב-2024, אחרי שלושה סבבי פיטורים, נותרו בה כמה עשרות עובדים בלבד.",
       "claims": [
-       "c90"
+       "c90",
+       "c-aud-20261127-1"
       ]
      },
      {
@@ -525,14 +531,6 @@
       "text": "בראיון לג'רוזלם פוסט באפריל, בתקופה שבה מובילאיי עמדה להימכר לאינטל, אמר וקסלר שהחברה שואפת להנפקה בתוך כשנתיים מאותו מועד.",
       "claims": [
        "c36"
-      ]
-     }
-    ],
-    [
-     {
-      "text": "ג'רוזלם ריפורט: בפברואר",
-      "claims": [
-       "c37"
       ]
      }
     ]
@@ -669,9 +667,10 @@
      ]
     },
     {
-     "says": "15 מיליון דולר עד 2014",
+     "says": "ISRAEL21c, לפי דיווח של GigaOm: 15 מיליון דולר, במרץ 2014",
      "claims": [
-      "c91"
+      "c91",
+      "c-aud-20261127-7"
      ]
     }
    ]
@@ -695,19 +694,25 @@
    ]
   },
   {
-   "id": "d5",
-   "question": "כמה עצמים המכשיר יודע לזהות?",
+   "id": "d9001",
+   "question": "מתי הושק ה-MyEye המקורי?",
    "versions": [
     {
-     "says": "וקסלר, בג'ואיש כרוניקל: עד 150 עצמים, ועד 100 פנים",
+     "says": "אייריש טיימס: ב-2015",
      "claims": [
-      "c59"
+      "c-aud-20261127-4"
      ]
     },
     {
-     "says": "שעשוע, בכלכליסט: ספרייה של 15 עצמים, שצפויה לגדול",
+     "says": "ISRAEL21c: במרץ 2014 המכשיר כבר נמכר בשוק",
      "claims": [
-      "c14"
+      "c-aud-20261127-5"
+     ]
+    },
+    {
+     "says": "ג'רוזלם ריפורט: הפצה בכמויות מוגבלות מאוקטובר 2013, והתרחבות בארה\"ב ב-2015",
+     "claims": [
+      "c-aud-20261127-6"
      ]
     }
    ]
@@ -1338,6 +1343,78 @@
    "quote": "Intel Capital has invested $15 million into OrCam",
    "status": "confirmed",
    "locator": "שורה 4"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "ב-2024, אחרי שלושה סבבי פיטורים, נותרו בה כמה עשרות עובדים בלבד.",
+   "source": "src9001",
+   "quote": "the company is set to only have several dozen employees remaining",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "אורקם היא חברה מירושלים, וביולי 2024 הודיעה שתפסיק לפתח את מוצר הדגל שלה לסיוע בראייה.",
+   "source": "src9002",
+   "quote": "is to halt development of its flagship product for visual aid",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "לפי הג'ואיש כרוניקל, עד 2017 נמכרו כמה אלפי מכשירים ב-12 מדינות.",
+   "source": "src5",
+   "quote": "Mobileye was sold for $15 billion earlier this year",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-4",
+   "text": "אייריש טיימס: ב-2015",
+   "source": "src3",
+   "quote": "The original OrCam MyEye device launched in 2015",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-5",
+   "text": "ISRAEL21c: במרץ 2014 המכשיר כבר נמכר בשוק",
+   "source": "src11",
+   "quote": "is already on the market",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-6",
+   "text": "ג'רוזלם ריפורט: הפצה בכמויות מוגבלות מאוקטובר 2013, והתרחבות בארה\"ב ב-2015",
+   "source": "src4",
+   "quote": "began distributing its devices in limited quantities in October 2013",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261127-7",
+   "text": "ISRAEL21c, לפי דיווח של GigaOm: 15 מיליון דולר, במרץ 2014",
+   "source": "src11",
+   "quote": "Intel Capital has invested $15 million into OrCam",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-8",
+   "text": "אינטל רכשה את מובילאיי בעסקה של 15.3 מיליארד דולר.",
+   "source": "src3",
+   "quote": "It was bought by Intel last year in a $15.3 billion deal",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1412,6 +1489,20 @@
    "label": "EurekAlert! (JAMA Network press release, May 5, 2016): portable artificial vision device may be an effective aid for patients with low vision",
    "url": "https://www.eurekalert.org/news-releases/586635",
    "kind": "press"
+  },
+  {
+   "id": "src9001",
+   "label": "Calcalist/CTech, OrCam closing vision activity, 28.07.2024",
+   "url": "https://www.calcalistech.com/ctechnews/article/hy0rv6qya",
+   "kind": "press",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9002",
+   "label": "Globes, OrCam to halt developing visual aid devices, 28.07.2024",
+   "url": "https://en.globes.co.il/en/article-orcam-to-halt-developing-visual-aid-devices-1001485309",
+   "kind": "press",
+   "date": "2026-11-27"
   }
  ],
  "media": [

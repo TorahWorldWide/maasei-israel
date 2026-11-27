@@ -1,7 +1,7 @@
 {
  "schema": "maasei-museum/1",
  "slug": "aleh-negev-doron-almog",
- "deed": "דורון אלמוג הקים כפר שיקומי בנגב על שם בנו ערן",
+ "deed": "Doron Almog founded a rehabilitation village in the Negev named after his son Eran",
  "canonical_type": "ongoing-charity",
  "year": "2000",
  "title": "Doron Almog founded a rehabilitation village in the Negev named after his son Eran, which today also has a rehabilitation hospital",
@@ -185,9 +185,10 @@
       ]
      },
      {
-      "text": "A report on ynet stated that Aleh Negev was established nearly 40 years ago by a group of concerned parents searching for a better life for their children, and became a comprehensive network that provides housing, treatment and rehabilitation for people with disabilities.",
+      "text": "The ALEH network, within which the Negev village was established, was founded in 1982 by parents who needed a solution for their severely disabled children.",
       "claims": [
-       "c23"
+       "c23",
+       "c-aud-20261127-1"
       ]
      }
     ],
@@ -333,9 +334,10 @@
       ]
      },
      {
-      "text": "In 2011 the prisoners' volunteer program won the prison service award for the management and reintegration of offenders, from the International Corrections and Prisons Association.",
+      "text": "In 2011 the prisoners' volunteer program won the Israel Prison Service an Offender Management and Reintegration Award from the International Corrections and Prisons Association.",
       "claims": [
-       "c65"
+       "c65",
+       "c-aud-20261127-2"
       ]
      },
      {
@@ -407,9 +409,12 @@
     ],
     [
      {
-      "text": "The Harvey and Gloria Kaylie Rehabilitation Medical Center opened in June 2022.",
+      "text": "According to the Times of Israel, the Harvey and Gloria Kaylie Rehabilitation Medical Center was inaugurated on 12 April 2022 with Prime Minister Bennett attending; according to the organization's website, it opened in June 2022.",
       "claims": [
-       "c12"
+       "c12",
+       "c-aud-20261127-3",
+       "c-aud-20261127-4",
+       "c-aud-20261127-5"
       ]
      },
      {
@@ -459,7 +464,8 @@
    ],
    "disagreements": [
     "d4",
-    "d5"
+    "d5",
+    "d9001"
    ]
   },
   {
@@ -593,12 +599,6 @@
      "says": "Jerusalem Post: construction was completed in January 2006, and Eran was the first resident",
      "claims": [
       "c55"
-     ]
-    },
-    {
-     "says": "ynet: Aleh Negev was established nearly 40 years ago by a group of parents",
-     "claims": [
-      "c23"
      ]
     }
    ]
@@ -749,6 +749,30 @@
      "says": "ADI page on Eran: high-level autism and severe developmental disabilities",
      "claims": [
       "c16"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9001",
+   "question": "When did the rehabilitation hospital open?",
+   "versions": [
+    {
+     "says": "Times of Israel (12 April 2022): the hospital opened that day, with Prime Minister Bennett attending",
+     "claims": [
+      "c-aud-20261127-3"
+     ]
+    },
+    {
+     "says": "Algemeiner: grand opening on 12 April 2022, with patients to be admitted later that month",
+     "claims": [
+      "c-aud-20261127-4"
+     ]
+    },
+    {
+     "says": "Organization's website: the hospital opened its doors in June 2022",
+     "claims": [
+      "c-aud-20261127-5"
      ]
     }
    ]
@@ -1322,6 +1346,51 @@
    "quote": "Organization is seriously considering renaming its newly built Negev village after the deceased son of Maj.-Gen. (res.) Doron Almog.",
    "status": "confirmed",
    "locator": "שורה 2"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "רשת עלה, שהכפר בנגב קם במסגרתה, הוקמה ב-1982 על ידי הורים שחיפשו פתרון לילדיהם עם מוגבלות קשה.",
+   "source": "src9001",
+   "quote": "ALEH was founded in 1982 by parents who needed a solution for their severely disabled children.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "ב-2011 זיכתה תוכנית ההתנדבות של האסירים את שירות בתי הסוהר בפרס על ניהול ושילוב מחדש של עבריינים, מטעם האיגוד הבינלאומי לשירותי כליאה ובתי סוהר (International Corrections and Prisons Association).",
+   "source": "src9002",
+   "quote": "an Offender Management and Reintegration Award in 2011 from the International Corrections and Prisons Association",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "טיימס אוף ישראל (12.4.2022): בית החולים נפתח באותו יום, בנוכחות ראש הממשלה בנט",
+   "source": "src9003",
+   "quote": "A new rehabilitation hospital opened on Tuesday",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261127-4",
+   "text": "אלגמיינר: החנוכה החגיגית ב-12 באפריל 2022, וקבלת מטופלים בהמשך החודש",
+   "source": "src9004",
+   "quote": "the rehabilitation hospital is set to begin admitting patients later this month",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-5",
+   "text": "אתר הארגון: בית החולים פתח את שעריו ביוני 2022",
+   "source": "src5",
+   "quote": "opened its doors in June 2022",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1390,6 +1459,34 @@
    "label": "Jerusalem Post, Aleh disabled care facility seeks to honor Eran Almog",
    "url": "https://www.jpost.com/health-and-sci-tech/health/aleh-disabled-care-facility-seeks-to-honor-eran-almog",
    "kind": "press"
+  },
+  {
+   "id": "src9001",
+   "label": "The Jewish Press, The Home for Special Children",
+   "url": "https://jewishpress.com/the-home-for-special-children/",
+   "kind": "press",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9002",
+   "label": "ISRAEL21c, ALEH Negev feature (archive)",
+   "url": "https://archive.israel21c.org/?p=68625",
+   "kind": "press",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9003",
+   "label": "The Times of Israel, 12 April 2022",
+   "url": "https://www.timesofisrael.com/in-negev-desert-where-healthcare-lags-new-rehabilitation-hospital-opens-its-doors/",
+   "kind": "press",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9004",
+   "label": "Algemeiner, First-ever rehabilitation hospital in Israel's Negev, 14 April 2022",
+   "url": "https://www.algemeiner.com/2022/04/14/first-ever-rehabilitation-hospital-in-israels-negev-is-poised-to-put-region-on-the-map/",
+   "kind": "press",
+   "date": "2026-11-27"
   }
  ],
  "media": [

@@ -19,9 +19,9 @@
    ]
   },
   {
-   "text": "The Israeli team left on Monday morning, less than 30 hours after learning of the quake.",
+   "text": "The Israeli team left on Monday morning, two days after the quake of Saturday, April 25.",
    "claims": [
-    "c29"
+    "c-audit-3"
    ]
   },
   {
@@ -53,9 +53,9 @@
   },
   {
    "label": "When",
-   "value": "According to the Jerusalem Post, between April 26 and May 13 the 122-member Israeli medical team treated 1,600 patients.",
+   "value": "According to the Jerusalem Post, the field hospital operated for 10 days and was shipped back to Israel on Sunday, 10 May 2015.",
    "claims": [
-    "c25"
+    "c-audit-1"
    ]
   },
   {
@@ -157,9 +157,11 @@
       ]
      },
      {
-      "text": "According to Hadassah Magazine, on Monday morning, 30 hours after the disaster, a 747 airplane took off from Tel Aviv.",
+      "text": "According to Hadassah Magazine, on Monday morning, two days after the disaster, a 747 airplane took off from Tel Aviv.",
       "claims": [
-       "c42"
+       "c42",
+       "c-audit-2",
+       "c-audit-3"
       ]
      },
      {
@@ -580,7 +582,7 @@
      ]
     },
     {
-     "says": "Jerusalem Post: 1,600 patients between April 26 and May 13",
+     "says": "Jerusalem Post: 1,600 patients",
      "claims": [
       "c25"
      ]
@@ -837,7 +839,7 @@
   },
   {
    "id": "c29",
-   "text": "הצוות יצא ביום שני בבוקר, פחות מ-30 שעות אחרי שנודע על הרעידה.",
+   "text": "הצוות יצא ביום שני בבוקר.",
    "source": "src3",
    "quote": "The team left on Monday morning, less than 30 hours after learning of the quake.",
    "status": "confirmed",
@@ -917,7 +919,7 @@
   },
   {
    "id": "c42",
-   "text": "לפי Hadassah Magazine, ביום שני בבוקר, 30 שעות אחרי האסון, המריא מטוס 747 מתל אביב עם 260 רופאים, מנתחים, אחיות ואנשי צוות רפואי נוספים.",
+   "text": "לפי Hadassah Magazine, ביום שני בבוקר המריא מטוס 747 מתל אביב עם 260 רופאים, מנתחים, אחיות ואנשי צוות רפואי נוספים.",
    "source": "src1",
    "quote": "On Monday morning, 30 hours after the catastrophe, a 747 airplane left Tel Aviv carrying 260 physicians, surgeons, nurses, X-ray technicians, paramedics, psychologists and physiotherapists.",
    "status": "confirmed",
@@ -1386,6 +1388,30 @@
    "quote": "Israel’s aid convoy was, according to CNN, larger than all other aid efforts to Nepal combined.",
    "status": "confirmed",
    "locator": "שורה 6"
+  },
+  {
+   "id": "c-audit-1",
+   "text": "לפי ג'רוזלם פוסט, בית החולים השדה של צה\"ל בנפאל נשלח חזרה לישראל ביום ראשון, אחרי שפעל 10 ימים.",
+   "source": "src4",
+   "quote": "The IDF field hospital in Nepal was shipped off for Israel on Sunday ... It was in operation for 10 days.",
+   "status": "confirmed",
+   "locator": "audit 27.11"
+  },
+  {
+   "id": "c-audit-2",
+   "text": "לפי Times of Israel, מטוס הסיוע של צה\"ל המריא מנמל התעופה בן גוריון לנפאל ביום שני בבוקר.",
+   "source": "src9001",
+   "quote": "lifted off from Ben Gurion Airport Monday morning for earthquake-battered Nepal",
+   "status": "confirmed",
+   "locator": "audit 27.11"
+  },
+  {
+   "id": "c-audit-3",
+   "text": "לפי ג'רוזלם פוסט, הרעידה אירעה בשבת, 25 באפריל, והצוות יצא ביום שני בבוקר.",
+   "source": "src3",
+   "quote": "on Shabbat, April 25, soon after the earthquake occurred ... The team left on Monday morning",
+   "status": "confirmed",
+   "locator": "audit 27.11"
   }
  ],
  "sources": [
@@ -1441,6 +1467,12 @@
    "id": "src9",
    "label": "Prehospital and Disaster Medicine, Cambridge",
    "url": "https://resolve.cambridge.org/core/journals/prehospital-and-disaster-medicine/article/emergency-with-resiliency-equals-efficiency-challenges-of-an-emt3-in-nepal/515F7239F500E2CC5001BAA41FC51B35",
+   "kind": "press"
+  },
+  {
+   "id": "src9001",
+   "label": "Times of Israel, 27.4.2015",
+   "url": "https://www.timesofisrael.com/idf-aid-plane-lifts-off-for-kathmandu-rescue-op/",
    "kind": "press"
   }
  ],

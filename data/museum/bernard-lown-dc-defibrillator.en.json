@@ -1,7 +1,7 @@
 {
  "schema": "maasei-museum/1",
  "slug": "bernard-lown-dc-defibrillator",
- "deed": "ברנרד לאון ממציא את הדפיברילטור בזרם ישר שמחזיר לב שנעצר לפעום",
+ "deed": "ברנרד לאון מביא למערב את הדפיברילטור והקרדיוורטר בזרם ישר, נייד ובטוח, שמחזיר לב לקצב תקין",
  "canonical_type": "team-invention",
  "year": "1959",
  "title": "Bernard Lown and engineer Barouh Berkovits developed a direct-current shock that returns the heart to a normal rhythm",
@@ -37,9 +37,9 @@
    ]
   },
   {
-   "text": "According to the New York Times, it was the first effective defibrillator, and by 1964 thousands of hospitals were equipped with it.",
+   "text": "According to a historical review in Circulation: Arrhythmia and Electrophysiology, Lown was the first in the West to combine defibrillation and cardioversion with portability and safety, and according to the New York Times thousands of hospitals were equipped with the device by 1964.",
    "claims": [
-    "c1",
+    "c-audit-1",
     "c25"
    ]
   }
@@ -433,10 +433,13 @@
       ]
      },
      {
-      "text": "In 1982, 100 million Soviet viewers heard for the first time an unedited discussion of the consequences of nuclear war.",
+      "text": "In 1982 Soviet viewers heard, for the first time, an unedited discussion of the consequences of nuclear war; the sources disagree on how many: Time estimated about 50 million at the time, while the Harvard Crimson and IPPNW put it at about 100 million.",
       "claims": [
        "c91",
-       "c92"
+       "c92",
+       "c-aud-20261127-1",
+       "c-aud-20261127-2",
+       "c-aud-20261127-3"
       ]
      },
      {
@@ -475,7 +478,8 @@
    ],
    "disagreements": [
     "d6",
-    "d7"
+    "d7",
+    "d9001"
    ]
   },
   {
@@ -712,6 +716,30 @@
      "says": "According to the New York Times, the satellite was launched in 1991, with no founding year given",
      "claims": [
       "c63"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9001",
+   "question": "How many Soviet viewers saw the 1982 broadcast?",
+   "versions": [
+    {
+     "says": "Time, July 1982: an estimated 50 million viewers",
+     "claims": [
+      "c-aud-20261127-1"
+     ]
+    },
+    {
+     "says": "Harvard Crimson, October 1982: an estimated 100 million viewers",
+     "claims": [
+      "c-aud-20261127-2"
+     ]
+    },
+    {
+     "says": "IPPNW, the organisation itself: 100 million Soviet viewers",
+     "claims": [
+      "c-aud-20261127-3"
      ]
     }
    ]
@@ -1276,6 +1304,41 @@
    "quote": "He received 21 honorary doctorates from universities in the U.S. and around the world",
    "status": "confirmed",
    "locator": "שורה 3"
+  },
+  {
+   "id": "c-audit-1",
+   "text": "לפי סקירה היסטורית ב-Circulation: Arrhythmia and Electrophysiology, לאון היה הראשון במערב ששילב דפיברילציה וקרדיוורסיה עם ניידות ובטיחות.",
+   "source": "src11",
+   "quote": "He was the first in the West to combine defibrillation and cardioversion with portability and safety.",
+   "status": "confirmed",
+   "locator": "audit 27.11"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "טיים, יולי 1982: כ-50 מיליון צופים (הערכה)",
+   "source": "src9001",
+   "quote": "an unprecedented hourlong program watched by an estimated 50 million people",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "הרווארד קרימזון, אוקטובר 1982: כ-100 מיליון צופים (הערכה)",
+   "source": "src9002",
+   "quote": "already aired in June to an estimated 100 million viewers in the USSR",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "IPPNW, הארגון עצמו: 100 מיליון צופים סובייטים",
+   "source": "src13",
+   "quote": "Seen by 100 million Soviet viewers, the program is later broadcast in the US.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1362,6 +1425,20 @@
    "label": "University of Maine Honors College: Bernard Lown Initiatives",
    "url": "https://honors.umaine.edu/?p=21485",
    "kind": "other"
+  },
+  {
+   "id": "src9001",
+   "label": "Time, 'Soviet Union: Eye Opener', 12.7.1982",
+   "url": "https://time.com/archive/6859427/soviet-union-eye-opener/",
+   "kind": "press",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9002",
+   "label": "Harvard Crimson, 13.10.1982",
+   "url": "https://www.thecrimson.com/article/1982/10/13/professors-discuss-nuke-war-effects-in/",
+   "kind": "press",
+   "date": "2026-11-27"
   }
  ],
  "media": [

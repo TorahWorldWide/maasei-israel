@@ -56,9 +56,9 @@
   },
   {
    "label": "איפה",
-   "value": "לפי פרופיל של CIO מתחילת שנות ה-2000, רמת גן ורדווד סיטי, קליפורניה.",
+   "value": "תל אביב",
    "claims": [
-    "c61"
+    "c-audit-1"
    ]
   },
   {
@@ -317,9 +317,9 @@
       ]
      },
      {
-      "text": "לפי CIO, צ'ק פוינט שוכנת ברמת גן שבישראל וברדווד סיטי שבקליפורניה.",
+      "text": "לפי הדוח השנתי של צ'ק פוינט לרשות ניירות הערך האמריקאית, החברה מחזיקה במטה משלה בתל אביב.",
       "claims": [
-       "c61"
+       "c-audit-1"
       ]
      },
      {
@@ -628,7 +628,7 @@
   },
   {
    "id": "c61",
-   "text": "לפי CIO, צ'ק פוינט שוכנת ברמת גן שבישראל וברדווד סיטי בקליפורניה, ושוד רואה בה חברה גלובלית.",
+   "text": "לפי CIO, בתחילת שנות ה-2000 שכנה צ'ק פוינט ברמת גן שבישראל וברדווד סיטי בקליפורניה, ושוד ראה בה חברה גלובלית.",
    "source": "src4",
    "quote": "Shwed sees Check Point, headquartered in Ramat Gan, Israel, and Redwood City, Calif., as a global company.",
    "status": "confirmed",
@@ -1073,6 +1073,14 @@
    "quote": "Check Point co-founder and CEO Gil Shwed owns 19.1% of the company, worth $3.4 billion.",
    "status": "confirmed",
    "locator": "שורה 40"
+  },
+  {
+   "id": "c-audit-1",
+   "text": "לפי הדוח השנתי של צ'ק פוינט לרשות ניירות הערך האמריקאית, נכון ל-31 בדצמבר 2022 החברה מחזיקה במטה משלה בתל אביב.",
+   "source": "src9001",
+   "quote": "As of December 31, 2022, we own our headquarters located in Tel Aviv, Israel",
+   "status": "confirmed",
+   "locator": "audit 27.11"
   }
  ],
  "sources": [
@@ -1141,6 +1149,12 @@
    "label": "Globes: Check Point to give Shwed options worth $144m",
    "url": "https://en.globes.co.il/en/article-gil-shweds-check-point-stake-down-in-2018-1001271914",
    "kind": "press"
+  },
+  {
+   "id": "src9001",
+   "label": "Check Point Software, Form 20-F FY2022 (SEC EDGAR)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1015922/000119312523122355/d473301d20f.htm",
+   "kind": "official"
   }
  ],
  "media": [

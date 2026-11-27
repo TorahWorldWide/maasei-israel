@@ -191,8 +191,10 @@
         ],
         [
           {
-            "text": "According to ynet, he won the prize of the European Mathematical Union in 2004, the 2009 Erdős Prize of the Israel Mathematical Union, and the Fermat Prize for Mathematics of the Toulouse Mathematics Institute ‹c63›.",
+            "text": "According to the International Mathematical Union, he won the prize of the European Mathematical Society in 2004, and according to ynet he also won the 2009 Erdős Prize of the Israel Mathematical Union and the Fermat Prize for Mathematics of the Toulouse Mathematics Institute.",
             "claims": [
+              "c-audit-1",
+              "c63",
               "c64"
             ]
           },
@@ -830,7 +832,7 @@
     },
     {
       "id": "c63",
-      "text": "לפי ynet, לינדנשטראוס זכה בפרס סאלם בשנת 2004, בפרס האיחוד האירופי למתמטיקה ב-2004 ובפרס ארדש של האגודה המתמטית הישראלית לשנת 2009.",
+      "text": "לפי ynet, לינדנשטראוס זכה בפרס סאלם בשנת 2004, בפרס החברה המתמטית האירופית ב-2004 ובפרס ארדש של האגודה המתמטית הישראלית לשנת 2009.",
       "source": "src7",
       "quote": "the Salem Prize for young mathematicians in 2004, the European Mathematical Union prize in 2004, the Erdos Prize of the Israel Mathematical Union for 2009",
       "status": "confirmed",
@@ -1203,6 +1205,14 @@
       "quote": "despite the fact that Israeli schoolchildren have ranked poorly in recent years in international tests in mathematics, Israel is still among the elite in outstanding mathematical research",
       "status": "confirmed",
       "locator": "שורה 8"
+    },
+    {
+      "id": "c-audit-1",
+      "text": "לפי האיגוד המתמטי הבינלאומי, לינדנשטראוס זכה בפרס החברה המתמטית האירופית ב-2004.",
+      "source": "src5",
+      "quote": "European Mathematical Society Prize 2004",
+      "status": "confirmed",
+      "locator": "audit 27.11"
     }
   ],
   "sources": [

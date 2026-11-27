@@ -583,15 +583,17 @@
     ],
     [
      {
-      "text": "According to AFP, Watergen's CEO and president, Mirilashvili, was held in prison in Russia after a kidnapping conviction, in a trial that the European Court of Justice later found was flawed.",
+      "text": "According to AFP, Watergen's CEO and president, Mirilashvili, was held in prison in Russia after a kidnapping conviction, in a trial that the European Court of Human Rights later found was flawed.",
       "claims": [
-       "c22"
+       "c22",
+       "c-aud-20261127-1"
       ]
      },
      {
-      "text": "According to AFP, the European Court of Justice later found that the trial was flawed.",
+      "text": "In 2008 the European Court of Human Rights ruled that the trial had violated his right to a fair hearing.",
       "claims": [
-       "c22"
+       "c22",
+       "c-aud-20261127-2"
       ]
      }
     ]
@@ -739,9 +741,10 @@
  ],
  "unknowns": [
   {
-   "text": "According to AFP, Watergen's CEO and president, Mirilashvili, spent time in a Russian prison following a kidnapping conviction, in a trial that the European Court of Justice later found was flawed.",
+   "text": "According to AFP, Watergen's CEO and president, Mirilashvili, spent time in a Russian prison following a kidnapping conviction, in a trial that the European Court of Human Rights later found was flawed.",
    "claims": [
-    "c22"
+    "c22",
+    "c-aud-20261127-3"
    ]
   }
  ],
@@ -1345,6 +1348,33 @@
    "quote": "which was acquired by Israeli-Georgian businessman Michael Mirilashvili in 2016",
    "status": "confirmed",
    "locator": "שורה 7"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "לפי AFP, מנכ\"ל ונשיא ווטרגן, מירילשוילי, ישב בכלא ברוסיה אחרי הרשעה בחטיפה, במשפט שבית הדין האירופי לזכויות אדם מצא אחר כך שהיה פגום.",
+   "source": "src9001",
+   "quote": "It follows that there has been a violation of Article 6 § 1 in the present case.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "ב-2008 קבע בית הדין האירופי לזכויות אדם שבמשפט הופרה זכותו להליך הוגן.",
+   "source": "src9001",
+   "quote": "Holds that there has been a violation of Article 6 § 1 of the Convention",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "לפי AFP, מנכ\"ל ונשיא ווטרגן, מירילשוילי, ריצה זמן בכלא רוסי בעקבות הרשעה בחטיפה, במשפט שבית הדין האירופי לזכויות אדם מצא אחר כך שהיה פגום.",
+   "source": "src9001",
+   "quote": "It follows that there has been a violation of Article 6 § 1 in the present case.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1425,6 +1455,13 @@
    "label": "Hadassah Magazine: Israeli Scene (Watergen)",
    "url": "https://www.hadassahmagazine.org/?p=25154",
    "kind": "press"
+  },
+  {
+   "id": "src9001",
+   "label": "European Court of Human Rights, Mirilashvili v. Russia, no. 6293/04, judgment, 11 Dec 2008",
+   "url": "https://app.lexploria.com/document/566703-d",
+   "kind": "court",
+   "date": "2026-11-27"
   }
  ],
  "media": [

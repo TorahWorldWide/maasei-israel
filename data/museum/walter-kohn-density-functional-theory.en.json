@@ -266,9 +266,10 @@
     ],
     [
      {
-      "text": "According to ChemistryViews, after a postdoctoral fellowship at the Niels Bohr Institute in Copenhagen in 1950, he moved to Carnegie Mellon.",
+      "text": "According to the National Academy of Sciences memoir, Carnegie Tech offered him a post starting in the fall of 1950, but he delayed the move to Pittsburgh and in January 1951 took his family to the Niels Bohr Institute in Copenhagen, staying until the summer of 1952.",
       "claims": [
-       "c52"
+       "c52",
+       "c-aud-20261127-1"
       ]
      },
      {
@@ -305,9 +306,7 @@
     ]
    ],
    "media": [],
-   "disagreements": [
-    "d3"
-   ]
+   "disagreements": []
   },
   {
    "id": "s4",
@@ -657,24 +656,6 @@
      "says": "The Canadian Encyclopedia: he was released from Camp N into the care of the Mendel family in January 1942",
      "claims": [
       "c20"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "d3",
-   "question": "When did Kohn arrive at Carnegie?",
-   "versions": [
-    {
-     "says": "ChemistryViews: after a postdoctoral fellowship in Copenhagen in 1950",
-     "claims": [
-      "c52"
-     ]
-    },
-    {
-     "says": "The National Academy of Sciences memoir: he returned to the United States, to Carnegie Tech, in the fall of 1952.",
-     "claims": [
-      "c51"
      ]
     }
    ]
@@ -1251,6 +1232,15 @@
    "quote": "receiving an honorary doctorate in Bar-Ilan in May 2009",
    "status": "confirmed",
    "locator": "שורה 5"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "לפי ההספד של האקדמיה הלאומית למדעים, קרנגי טק הציע לו משרה מסתיו 1950, אבל הוא דחה את המעבר לפיטסבורג ובינואר 1951 נסע עם משפחתו למכון נילס בוהר בקופנהגן, ונשאר שם עד קיץ 1952.",
+   "source": "src4",
+   "quote": "Institute for Theoretical Physics in Copenhagen in January 1951",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
   }
  ],
  "sources": [

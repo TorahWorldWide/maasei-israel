@@ -140,9 +140,10 @@
       ]
      },
      {
-      "text": "לפי הערכת ה-FAO, בעלי החיים בעולם אחראים ל-14.5% מכלל פליטות גזי החממה שנגרמות בידי אדם.",
+      "text": "לפי הערכה מעודכנת של ה-FAO מ-2023, ב-2015 בעלי החיים בעולם היו אחראים לכ-12% מכלל פליטות גזי החממה שנגרמות בידי אדם.",
       "claims": [
-       "c72"
+       "c72",
+       "c-aud-20261127-1"
       ]
      }
     ]
@@ -435,7 +436,8 @@
    ],
    "media": [],
    "disagreements": [
-    "d1"
+    "d1",
+    "d9002"
    ]
   },
   {
@@ -519,7 +521,8 @@
     "m31"
    ],
    "disagreements": [
-    "d5"
+    "d5",
+    "d9001"
    ]
   },
   {
@@ -723,6 +726,42 @@
      "says": "לפי שותף ב-Hanaco Ventures, 8 עובדים בתחילת 2020",
      "claims": [
       "c76"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9001",
+   "question": "בכמה מסעדות בישראל הוגשו מוצרי החברה בינואר 2022?",
+   "versions": [
+    {
+     "says": "לפי 3DPrint.com: ב-86 מסעדות, מלונות וברים בישראל",
+     "claims": [
+      "c-aud-20261127-2"
+     ]
+    },
+    {
+     "says": "לפי גלובס: ב-200 מסעדות בישראל",
+     "claims": [
+      "c-aud-20261127-3"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9002",
+   "question": "כמה כסף גייסה החברה בסך הכול אחרי סבב סדרה A בפברואר 2021?",
+   "versions": [
+    {
+     "says": "לפי גלובס: 38 מיליון דולר",
+     "claims": [
+      "c-aud-20261127-4"
+     ]
+    },
+    {
+     "says": "לפי כלכליסט (CTech): 35 מיליון דולר",
+     "claims": [
+      "c-aud-20261127-5"
      ]
     }
    ]
@@ -1331,6 +1370,51 @@
    "quote": "Redefine Meat aims to be in “thousands” of restaurants across Europe by the end of next year",
    "status": "confirmed",
    "locator": "שורה 5"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "לפי הערכה מעודכנת של ה-FAO מ-2023, ב-2015 בעלי החיים בעולם היו אחראים לכ-12% מכלל פליטות גזי החממה שנגרמות בידי אדם.",
+   "source": "src9001",
+   "quote": "equal to around 12 percent of all anthropogenic GHG emissions",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "לפי 3DPrint.com: ב-86 מסעדות, מלונות וברים בישראל",
+   "source": "src11",
+   "quote": "Today, New-Meat products thrive in 86 Israeli restaurants, hotels, and bars",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "לפי גלובס: ב-200 מסעדות בישראל",
+   "source": "src9002",
+   "quote": "The company's products are currently available in 200 restaurants in Israel",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-4",
+   "text": "לפי גלובס: 38 מיליון דולר",
+   "source": "src5",
+   "quote": "brings to $38 million the amount raised by Redefine Meat",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-5",
+   "text": "לפי כלכליסט (CTech): 35 מיליון דולר",
+   "source": "src1",
+   "quote": "has raised a total of $35 million",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1417,6 +1501,20 @@
    "label": "Calcalist CTech, Eshchar Ben-Shitrit profile",
    "url": "https://www.calcalistech.com/ctechnews/article/hjphkaqm9",
    "kind": "press"
+  },
+  {
+   "id": "src9001",
+   "label": "FAO Newsroom, New FAO report maps pathways towards lower livestock emissions, 8 December 2023",
+   "url": "https://www.fao.org/newsroom/detail/new-fao-report-maps-pathways-towards-lower-livestock-emissions/",
+   "kind": "official",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9002",
+   "label": "Globes, 3D printed plant-based steak co Redefine Meat raises $135m, 23 January 2022",
+   "url": "https://en.globes.co.il/en/article-3d-printed-plant-based-steak-co-redefine-meat-raises-135m-1001399617",
+   "kind": "press",
+   "date": "2026-11-27"
   }
  ],
  "media": [

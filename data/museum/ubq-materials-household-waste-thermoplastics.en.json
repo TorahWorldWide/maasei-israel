@@ -26,9 +26,10 @@
    ]
   },
   {
-   "text": "According to Calcalist, Daimler makes from this material a battery housing for Mercedes' new electric cars.",
+   "text": "According to Mercedes-Benz, in 2022 the company announced that, as a pilot series, its EQS and EQE electric cars would be fitted with cable ducts made from this material.",
    "claims": [
-    "c21"
+    "c21",
+    "c-aud-20261127-2"
    ]
   },
   {
@@ -98,9 +99,10 @@
    "paragraphs": [
     [
      {
-      "text": "According to Globes, in Israel more than 90% of the garbage goes to landfill and not to recycling.",
+      "text": "According to the OECD, in Israel about 80% of municipal waste goes to landfill, and only about 20% is recovered.",
       "claims": [
-       "c1"
+       "c1",
+       "c-aud-20261127-1"
       ]
      },
      {
@@ -216,14 +218,6 @@
        "c31"
       ]
      }
-    ],
-    [
-     {
-      "text": "Jerusalem Post: in 2019",
-      "claims": [
-       "c66"
-      ]
-     }
     ]
    ],
    "media": [
@@ -315,9 +309,10 @@
       ]
      },
      {
-      "text": "According to Calcalist, Germany's Daimler makes from the material the battery housing in Mercedes' new electric cars.",
+      "text": "According to Mercedes-Benz, in 2022 the company announced that, as a pilot series, its EQS and EQE electric cars would be fitted with cable ducts made from UBQ's material.",
       "claims": [
-       "c21"
+       "c21",
+       "c-aud-20261127-3"
       ]
      }
     ],
@@ -492,7 +487,9 @@
     ]
    ],
    "media": [],
-   "disagreements": []
+   "disagreements": [
+    "d9001"
+   ]
   },
   {
    "id": "s7",
@@ -758,6 +755,30 @@
      "says": "Prof. Ofira Ayalon says she came away from the visit to the plant with many doubts about the technology",
      "claims": [
       "c28"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9001",
+   "question": "How much carbon dioxide does each ton of UBQ material save?",
+   "versions": [
+    {
+     "says": "Algemeiner (2022): each ton reduces 12 tons of carbon dioxide over 20 years",
+     "claims": [
+      "c-aud-20261127-4"
+     ]
+    },
+    {
+     "says": "UBQ (based on the ERM study): up to 7.6 kg CO2eq avoided per kg of material, over 20 years",
+     "claims": [
+      "c-aud-20261127-5"
+     ]
+    },
+    {
+     "says": "Carbon Herald (2026): the emissions avoidance factor set for the carbon credits is 2.155 tons of CO2 per ton of UBQ",
+     "claims": [
+      "c-aud-20261127-6"
      ]
     }
    ]
@@ -1261,14 +1282,6 @@
    "locator": "שורה 92"
   },
   {
-   "id": "c66",
-   "text": "לפי ג'רוזלם פוסט, החברה הוקמה ב-2019.",
-   "source": "src10",
-   "quote": "The company was established in 2019, but it is already making an environmental difference.",
-   "status": "confirmed",
-   "locator": "שורה 26"
-  },
-  {
    "id": "c48",
    "text": "לפי Jewish Independent, החברה הושקה ב-2018 אחרי שש שנות מחקר.",
    "source": "src7",
@@ -1403,6 +1416,60 @@
    "quote": "2024 saw the much-heralded opening of our industrial-scale facility in Bergen op Zoom",
    "status": "confirmed",
    "locator": "שורה 22"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "לפי ה-OECD, בישראל כ-80% מהפסולת העירונית מגיעים להטמנה, ורק כ-20% מושבים.",
+   "source": "src9001",
+   "quote": "the shares of both landfilling (80%) and recovery (20%) have remained stable",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "לפי מרצדס-בנץ, ב-2022 הודיעה החברה שבסדרת פיילוט יותקנו במכוניות החשמליות EQS ו-EQE תעלות כבלים מהחומר הזה.",
+   "source": "src9002",
+   "quote": "cable ducts made from UBQ",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "לפי מרצדס-בנץ, ב-2022 הודיעה החברה שבסדרת פיילוט יותקנו במכוניות החשמליות EQS ו-EQE תעלות כבלים מהחומר של UBQ.",
+   "source": "src9002",
+   "quote": "cable ducts made from UBQ",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-4",
+   "text": "Algemeiner (2022): כל טון מפחית 12 טונות פחמן דו-חמצני לאורך 20 שנה",
+   "source": "src6",
+   "quote": "Each ton of UBQ plastic reduces 12 tons of carbon dioxide emissions over a 20-year period",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-5",
+   "text": "UBQ (לפי מחקר ERM): עד 7.6 ק\"ג CO2eq שנחסכים לכל ק\"ג חומר, לאורך 20 שנה",
+   "source": "src20",
+   "quote": "as much as 7.6kg of CO2 equivalent emissions per kg of UBQ used in a 20-year horizon",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-6",
+   "text": "Carbon Herald (2026): מקדם ההימנעות מפליטות שנקבע לקרדיטים הפחמניים הוא 2.155 טונות CO2 לכל טון UBQ",
+   "source": "src9003",
+   "quote": "emissions avoidance factor of 2.155 metric tons of carbon dioxide (CO2)",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1519,6 +1586,27 @@
    "label": "UBQ Materials: UBQ’s 2024 Milestones: How We’re Reshaping Sustainability and What’s Next for 2025",
    "url": "https://www.ubqmaterials.com/how-ubq-is-reshaping-sustainability-and-whats-next-for-2025/",
    "kind": "official"
+  },
+  {
+   "id": "src9001",
+   "label": "The Jerusalem Post, Israel not on track to meet its climate ambitions, OECD warns, 31 May 2023",
+   "url": "https://www.jpost.com/environment-and-climate-change/article-744686",
+   "kind": "press",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9002",
+   "label": "Mercedes-Benz press release via Automotive World, Luxury of the future: Mercedes-Benz conserves resources and uses sustainable materials, 16 March 2022",
+   "url": "https://www.automotiveworld.com/news-releases/luxury-of-the-future-mercedes-benz-conserves-resources-and-uses-sustainable-materials/",
+   "kind": "official",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9003",
+   "label": "Carbon Herald, UBQ Materials launches carbon credits tied to waste-based plastics, 28 April 2026",
+   "url": "https://carbonherald.com/ubq-materials-launches-carbon-credits-tied-to-waste-based-plastics/",
+   "kind": "press",
+   "date": "2026-11-27"
   }
  ],
  "media": [
@@ -1615,7 +1703,7 @@
    "licence": "YouTube, embedded only (standard YouTube licence)",
    "licence_url": "https://www.youtube.com/static?template=terms",
    "hosting": "embed",
-   "caption": "A company film about a virtual opening of its production plant in Bergen op Zoom, the Netherlands, on April 23, 2026.",
+   "caption": "A company film: “This Company Just Replaced Oil-Based Plastic With Household Waste”.",
    "illustrates": [],
    "spoken": "en",
    "audio_tracks": [

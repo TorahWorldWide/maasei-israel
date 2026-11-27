@@ -117,9 +117,10 @@
       ]
      },
      {
-      "text": "According to an article on Mako, Weissberg conceived the idea at home following this upsetting event, 15 years before the article.",
+      "text": "According to an article on Mako, Weissberg conceived the idea not at the office but following an upsetting family event: his grandmother's stroke, which happened 15 years before the article.",
       "claims": [
-       "c18"
+       "c18",
+       "c-aud-20261127-1"
       ]
      }
     ],
@@ -218,9 +219,10 @@
    "paragraphs": [
     [
      {
-      "text": "Since 1999 Weissberg had worked as a software developer at high-tech companies such as Check Point, Radvision and HP, and he saw potential in machine learning, which was then in its early days.",
+      "text": "Since 1999 Weissberg had worked as a software developer at high-tech companies such as Check Point, Radvision and HP, and he saw the potential of the early machine-learning technology of the time to mimic what the caregiver had done naturally.",
       "claims": [
-       "c23"
+       "c23",
+       "c-aud-20261127-2"
       ]
      },
      {
@@ -1257,6 +1259,24 @@
    "quote": "The partnership with Alexa followed a successful pilot with Inglis House, a long-term care wheelchair community for people with physical disabilities based in Philadelphia.",
    "status": "confirmed",
    "locator": "שורה 12"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "לפי כתבה במאקו, וייסברג לא הגה את הרעיון במשרד אלא בעקבות אירוע משפחתי מטלטל: השבץ של סבתו, שאירע 15 שנים לפני הכתבה.",
+   "source": "src9",
+   "quote": "בעקבות אירוע מטלטל שחווה לפני 15 שנים",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "וייסברג עבד מאז 1999 כמפתח תוכנה בחברות הייטק כמו צ'ק פוינט, רדוויז'ן ו-HP, וזיהה פוטנציאל בטכנולוגיית למידת המכונה המוקדמת של אותם ימים, שתוכל לחקות את מה שהמטפלת עשתה באופן טבעי.",
+   "source": "src8",
+   "quote": "Weissberg spotted the potential of early machine-learning technology to mimic what the caregiver had done naturally.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [

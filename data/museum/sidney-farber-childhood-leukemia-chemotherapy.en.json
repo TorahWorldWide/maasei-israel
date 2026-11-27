@@ -1,7 +1,7 @@
 {
  "schema": "maasei-museum/1",
  "slug": "sidney-farber-childhood-leukemia-chemotherapy",
- "deed": "סידני פרבר מפתח את הכימותרפיה נגד לוקמיה בילדים ומקים את קרן ג'ימי",
+ "deed": "Sidney Farber develops chemotherapy against childhood leukemia and founds the Jimmy Fund",
  "canonical_type": "scientific-discovery",
  "year": "1947",
  "title": "Sidney Farber gave children with leukemia their first remissions and founded the Jimmy Fund",
@@ -188,9 +188,10 @@
       ]
      },
      {
-      "text": "According to one source, contrary to predictions based on the preclinical research, folic acid accelerated the leukemic process to an unprecedented degree and caused sudden death in all patients.",
+      "text": "According to the American Society of Hematology, Farber tried folic acid in some children, but it failed and seemingly made them worse.",
       "claims": [
-       "c16"
+       "c16",
+       "c-aud-20261127-1"
       ]
      }
     ],
@@ -645,9 +646,7 @@
     "m8",
     "m21"
    ],
-   "disagreements": [
-    "d7"
-   ]
+   "disagreements": []
   }
  ],
  "disagreements": [
@@ -707,7 +706,7 @@
   },
   {
    "id": "d4",
-   "question": "How much money was raised in the radio broadcast?",
+   "question": "How much money was raised following the radio broadcast?",
    "versions": [
     {
      "says": "According to Dana-Farber, nearly a quarter of a million dollars",
@@ -716,9 +715,10 @@
      ]
     },
     {
-     "says": "According to an article in PMC, $231,000 in 8 minutes of broadcast",
+     "says": "According to Mass Moments, $231,485 by the end of the first summer",
      "claims": [
-      "c39"
+      "c39",
+      "c-aud-20261127-2"
      ]
     }
    ]
@@ -737,25 +737,6 @@
      "says": "According to LITFL, in 1948",
      "claims": [
       "c50"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "d7",
-   "question": "At what age did Farber die?",
-   "versions": [
-    {
-     "says": "At age 69",
-     "claims": [
-      "c92",
-      "c93"
-     ]
-    },
-    {
-     "says": "According to Whonamedit, at 70",
-     "claims": [
-      "c65"
      ]
     }
    ]
@@ -1316,14 +1297,6 @@
    "locator": "שורה 7"
   },
   {
-   "id": "c65",
-   "text": "לפי Whonamedit, פרבר מת מהתקף לב ב-1973 בגיל 70.",
-   "source": "src9",
-   "quote": "Sidney Farber died from a heart attack in 1973, at the age of 70 years.",
-   "status": "confirmed",
-   "locator": "שורה 16"
-  },
-  {
    "id": "c80",
    "text": "סידני פרבר היה פתולוג וחוקר סרטן ילדים, ועל שמו נקרא כיום מכון הסרטן דנה-פרבר.",
    "source": "src12",
@@ -1420,20 +1393,22 @@
    "locator": "שורה 36"
   },
   {
-   "id": "c92",
-   "text": "בגיל 69",
-   "source": "src8",
-   "quote": "He died while working in his office on March 30, 1973.",
+   "id": "c-aud-20261127-1",
+   "text": "לפי האגודה האמריקאית להמטולוגיה, פרבר ניסה חומצה פולית אצל כמה ילדים, אך היא נכשלה ונראה שאף החמירה את מצבם.",
+   "source": "src9001",
+   "quote": "He tried it in some children, and it failed and seemingly made them worse.",
+   "locator": "audit 2026-11-27",
    "status": "confirmed",
-   "locator": "שורה 36"
+   "checker_note": "audit: quote found on the fetched page"
   },
   {
-   "id": "c93",
-   "text": "בגיל 69",
-   "source": "src8",
-   "quote": "Farber was 69 years old.",
+   "id": "c-aud-20261127-2",
+   "text": "לפי Mass Moments, 231,485 דולר עד סוף הקיץ הראשון",
+   "source": "src9002",
+   "quote": "By the end of the first summer, the Jimmy Fund had raised $231,485.51.",
+   "locator": "audit 2026-11-27",
    "status": "confirmed",
-   "locator": "שורה 36"
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
   }
  ],
  "sources": [
@@ -1532,6 +1507,20 @@
    "label": "American Society for Investigative Pathology: Gold-Headed Cane Award recipients",
    "url": "https://www.asip.org/?p=3052",
    "kind": "organisation"
+  },
+  {
+   "id": "src9001",
+   "label": "American Society of Hematology, 'Curing Pediatric ALL' (50 Years in Hematology)",
+   "url": "https://www.hematology.org/about/history/50-years/curing-pediatric-all",
+   "kind": "organisation",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9002",
+   "label": "Mass Humanities, Mass Moments, 'June 8, 1951'",
+   "url": "https://www.massmoments.org/moment-details.html?mid=169",
+   "kind": "organisation",
+   "date": "2026-11-27"
   }
  ],
  "media": [

@@ -1,7 +1,7 @@
 {
  "schema": "maasei-museum/1",
  "slug": "israaid-sri-lanka-tsunami-2004",
- "deed": "איסראייד שלח לסרי לנקה צוות בן 14 שהקים מרפאה ומטבחים לניצולי הצונאמי",
+ "deed": "IsraAID sent a team of 14 to Sri Lanka that set up a clinic and kitchens for tsunami survivors",
  "canonical_type": "rescue-operation",
  "year": "2004",
  "title": "IsraAID sent an Israeli team to Sri Lanka that set up kitchens and a clinic for tsunami survivors",
@@ -135,7 +135,8 @@
    ],
    "disagreements": [
     "d3",
-    "d4"
+    "d4",
+    "d9001"
    ]
   },
   {
@@ -159,15 +160,17 @@
       ]
      },
      {
-      "text": "He lives in a moshav in Emek Hefer, a village his Holocaust survivor grandparents helped build.",
+      "text": "According to ISRAEL21c in 2020, he lived in a moshav in Emek Hefer, a village his Holocaust survivor grandparents helped build.",
       "claims": [
-       "c74"
+       "c74",
+       "c-aud-20261127-2"
       ]
      },
      {
-      "text": "Zahavi does not receive a salary, and all the funding comes from private donors in Israel and abroad.",
+      "text": "At the time, Zahavi did not receive a salary, and all the funding came from private donors in Israel and abroad.",
       "claims": [
-       "c53"
+       "c53",
+       "c-aud-20261127-3"
       ]
      }
     ],
@@ -264,9 +267,10 @@
       ]
      },
      {
-      "text": "According to ISRAEL21c, Israel also provided aid to several countries with which it has no diplomatic relations, such as Sri Lanka and Indonesia.",
+      "text": "According to ISRAEL21c, Israel also provided aid to several countries with which it has no diplomatic relations, such as Indonesia. The article also listed Sri Lanka among them, but Sri Lanka had already resumed diplomatic relations with Israel in 2000.",
       "claims": [
-       "c13"
+       "c13",
+       "c-aud-20261127-1"
       ]
      }
     ]
@@ -450,9 +454,10 @@
       ]
      },
      {
-      "text": "Roaming dogs attacked homeless children, and many of them were bitten.",
+      "text": "According to J., at the camp where the Magen David Adom team worked, roaming dogs attacked homeless children, and many of them were bitten.",
       "claims": [
-       "c36"
+       "c36",
+       "c-aud-20261127-6"
       ]
      }
     ],
@@ -730,6 +735,24 @@
      "says": "ISRAEL21c, another article: a large plane with 18 tons",
      "claims": [
       "c24"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9001",
+   "question": "How many were killed in the tsunami in total?",
+   "versions": [
+    {
+     "says": "ISRAEL21c: over 250,000 dead",
+     "claims": [
+      "c-aud-20261127-4"
+     ]
+    },
+    {
+     "says": "Geoscience Australia (government agency): over 227,000 killed",
+     "claims": [
+      "c-aud-20261127-5"
      ]
     }
    ]
@@ -1277,6 +1300,60 @@
    "quote": "IsraAID was founded in 2001 by Shachar Zahavi, Mully Dor, and Meira Aboulafia",
    "status": "confirmed",
    "locator": "שורה 21"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "לפי ISRAEL21c, ישראל סיפקה סיוע גם לכמה מדינות שאין לה עמן יחסים דיפלומטיים, כמו אינדונזיה. הכתבה מנתה ביניהן גם את סרי לנקה, אבל סרי לנקה חידשה את יחסיה הדיפלומטיים עם ישראל כבר ב-2000.",
+   "source": "src9001",
+   "quote": "Israel and Sri Lanka resumed diplomatic ties.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "לפי ISRAEL21c ב-2020, הוא התגורר במושב בעמק חפר, כפר שסביו ניצולי השואה סייעו לבנות.",
+   "source": "src9002",
+   "quote": "a village his Holocaust survivor grandparents helped build",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "באותה עת זהבי לא קיבל משכורת, וכל המימון הגיע מתורמים פרטיים בישראל ובחו\"ל.",
+   "source": "src5",
+   "quote": "Zahavi does not receive a salary",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261127-4",
+   "text": "ISRAEL21c: מעל 250,000 הרוגים",
+   "source": "src9003",
+   "quote": "over 250,000 dead",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-5",
+   "text": "Geoscience Australia (גוף ממשלתי): יותר מ-227,000 הרוגים",
+   "source": "src9004",
+   "quote": "killed over 227",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-6",
+   "text": "לפי J., במחנה שבו פעל צוות מגן דוד אדום תקפו כלבים משוטטים ילדים חסרי בית, ורבים מהם ננשכו.",
+   "source": "src9005",
+   "quote": "Dogs roaming free have attacked the homeless children, and many have been bitten.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
   }
  ],
  "sources": [
@@ -1339,6 +1416,41 @@
    "label": "ISRAEL21c: Explore the progress of 6 Humanitarian Aid Organizations in Israel",
    "url": "https://archive.israel21c.org/?p=112674",
    "kind": "press"
+  },
+  {
+   "id": "src9001",
+   "label": "JTA, Israel and Sri Lanka resumed diplomatic ties, May 5, 2000",
+   "url": "https://www.jta.org/archive/israel-and-sri-lanka-resumed-diplomatic-ties-the",
+   "kind": "press",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9002",
+   "label": "ISRAEL21c, The man with a passion for helping strangers in distress, September 22, 2020",
+   "url": "https://archive.israel21c.org/the-man-with-a-passion-for-helping-strangers-in-distress/",
+   "kind": "press",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9003",
+   "label": "ISRAEL21c, Israel's post-tsunami work in Sri Lanka bears fruit, 2008",
+   "url": "https://archive.israel21c.org/israels-post-tsunami-work-in-sri-lanka-bears-fruit/",
+   "kind": "press",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9004",
+   "label": "Geoscience Australia, 10 years after the Indian Ocean Tsunami: What have we learned?, 2014",
+   "url": "https://ga.gov.au/news/ten-years-on-2004-indian-ocean-tsunami/10-years-after-the-indian-ocean-tsunami-what-have-we-learned",
+   "kind": "official",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9005",
+   "label": "J. The Jewish News of Northern California, Israeli aid teams set up camps in Sri Lanka, January 21, 2005",
+   "url": "https://jweekly.com/2005/01/21/israeli-aid-teams-set-up-camps-in-sri-lanka/",
+   "kind": "press",
+   "date": "2026-11-27"
   }
  ],
  "media": [

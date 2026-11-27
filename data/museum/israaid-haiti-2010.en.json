@@ -1,7 +1,7 @@
 {
  "schema": "maasei-museum/1",
  "slug": "israaid-haiti-2010",
- "deed": "IsraAID — הארגון הישראלי שהגיע ראשון להאיטי אחרי רעידת האדמה",
+ "deed": "IsraAID — the Israeli organization that was first to arrive in Haiti after the earthquake",
  "canonical_type": "rescue-operation",
  "year": "2010",
  "title": "IsraAID in Haiti: Israeli volunteers treated earthquake casualties and stayed for years to rebuild",
@@ -136,9 +136,10 @@
    "paragraphs": [
     [
      {
-      "text": "Shachar Zahavi then headed IsraAID, an organization that coordinates 17 Israeli and Jewish aid organizations.",
+      "text": "Shachar Zahavi then headed IsraAID, which was at the time a coordinating body for 17 Israeli and Jewish aid organizations.",
       "claims": [
-       "c6"
+       "c6",
+       "c-aud-20261127-2"
       ]
      },
      {
@@ -216,12 +217,6 @@
       "text": "They immediately began treating the wounded at the site where a collapsed hospital had stood.",
       "claims": [
        "c9"
-      ]
-     },
-     {
-      "text": "According to an opinion piece written in 2021 by IsraAID CEO Yotam Polizer and Brian Siegal of AJC, a team from the organization was in Haiti just two days after the 2010 disaster.",
-      "claims": [
-       "c16"
       ]
      }
     ],
@@ -352,9 +347,10 @@
     ],
     [
      {
-      "text": "On Saturday, Israeli doctors at the hospital delivered a baby boy, and his mother said she would name him Israel.",
+      "text": "Overnight Saturday into Sunday, January 17, Israeli doctors at the hospital delivered a baby boy, and his mother said she would name him Israel.",
       "claims": [
-       "c18"
+       "c18",
+       "c-aud-20261127-1"
       ]
      },
      {
@@ -648,15 +644,7 @@
    ]
   }
  ],
- "unknowns": [
-  {
-   "text": "It is not clear exactly when the IsraAID team landed: according to JTA on Saturday, and according to the organization's CEO two days after the disaster",
-   "claims": [
-    "c9",
-    "c16"
-   ]
-  }
- ],
+ "unknowns": [],
  "claims": [
   {
    "id": "c1",
@@ -793,14 +781,6 @@
    "quote": "an American group, Operation Blessing, had shipped a container full of medical and relief supplies from Miami to Port-au-Prince for the relief team to use",
    "status": "confirmed",
    "locator": "שורה 11"
-  },
-  {
-   "id": "c16",
-   "text": "לפי מנכ\"ל IsraAID ואחרים, צוות של הארגון היה בהאיטי יומיים בלבד אחרי אסון 2010.",
-   "source": "src4",
-   "quote": "A team was in Haiti just two days after the 2010 disaster and was similarly quick to arrive this time.",
-   "status": "confirmed",
-   "locator": "שורה 8"
   },
   {
    "id": "c21",
@@ -1121,6 +1101,24 @@
    "quote": "Working closely with other agencies, such as Operation Blessing, JP-HRO and ProDev, the center will function in tents donated by the IDF which were used for their field hospital.",
    "status": "confirmed",
    "locator": "שורה 24"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "בלילה שבין שבת לראשון, 17 בינואר, יילדו רופאים ישראלים בבית החולים תינוק, ואמו אמרה שתקרא לו ישראל.",
+   "source": "src9001",
+   "quote": "Overnight Saturday, Israeli doctors delivered a baby boy",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "שחר זהבי עמד אז בראש IsraAID, שהייתה אז גוף מתאם של 17 ארגוני סיוע ישראליים ויהודיים.",
+   "source": "src3",
+   "quote": "chairman of IsraAid, a coordinating organization for 17 Israeli and Jewish humanitarian groups",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1177,6 +1175,13 @@
    "label": "ISRAEL21c: \"The resilience of the people is stronger than we expected\"",
    "url": "https://archive.israel21c.org/?p=5891",
    "kind": "press"
+  },
+  {
+   "id": "src9001",
+   "label": "Israel21c, 'Israel' is born in IDF field hospital, January 18, 2010",
+   "url": "https://archive.israel21c.org/israel-is-born-in-idf-field-hospital/",
+   "kind": "press",
+   "date": "2026-11-27"
   }
  ],
  "media": [

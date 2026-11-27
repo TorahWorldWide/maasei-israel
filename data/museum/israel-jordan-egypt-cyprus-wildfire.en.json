@@ -28,9 +28,10 @@
    ]
   },
   {
-   "text": "Two Israeli C-130 aircraft were to make water drops at night.",
+   "text": "Two Israeli C-130 aircraft were to make firefighting air drops at night.",
    "claims": [
-    "c19"
+    "c19",
+    "c-aud-20261127-1"
    ]
   },
   {
@@ -68,9 +69,10 @@
   },
   {
    "label": "From Israel",
-   "value": "Two C-130 aircraft for night water drops",
+   "value": "Two C-130 aircraft for night firefighting drops",
    "claims": [
-    "c19"
+    "c19",
+    "c-aud-20261127-2"
    ]
   },
   {
@@ -329,9 +331,10 @@
     ],
     [
      {
-      "text": "These were two C-130 aircraft, which were to make water drops at night.",
+      "text": "These were two C-130 aircraft, which were to make firefighting air drops at night.",
       "claims": [
-       "c19"
+       "c19",
+       "c-aud-20261127-3"
       ]
      },
      {
@@ -1110,6 +1113,33 @@
    "quote": "The report categorises the incident as an accident and rules out other possible causes,",
    "status": "confirmed",
    "locator": "שורה 7"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "שני מטוסי C-130 ישראליים אמורים היו לבצע הטלות כיבוי בשעות הלילה.",
+   "source": "src9001",
+   "quote": "The two arriving Israeli C-130 aircraft would make nighttime air drops.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "שני מטוסי C-130 להטלות כיבוי בלילה",
+   "source": "src9001",
+   "quote": "The two arriving Israeli C-130 aircraft would make nighttime air drops.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "אלה היו שני מטוסי C-130, שאמורים היו לבצע הטלות כיבוי בשעות הלילה.",
+   "source": "src9001",
+   "quote": "The two arriving Israeli C-130 aircraft would make nighttime air drops.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1190,6 +1220,13 @@
    "label": "Euronews: Wildfire on Cyprus caused by 'carelessly discarded cigarette', ATF report finds",
    "url": "https://en.sigmalive.com/cigarette-blamed-for-deadly-july-wildfire-in-limassol/",
    "kind": "press"
+  },
+  {
+   "id": "src9001",
+   "label": "Cyprus Mail, Inferno devastates villages in Limassol, 24 July 2025",
+   "url": "https://cyprus-mail.com/2025/07/24/inferno-devastates-villages-in-limassol",
+   "kind": "press",
+   "date": "2026-11-27"
   }
  ],
  "media": [

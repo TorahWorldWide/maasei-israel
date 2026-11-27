@@ -327,7 +327,8 @@
     "d4",
     "d5",
     "d7",
-    "d9001"
+    "d9001",
+    "d9002"
    ]
   },
   {
@@ -863,6 +864,24 @@
   },
   {
    "id": "d9001",
+   "question": "מה היה שמו של האציל שביקש לשאת את ריינה?",
+   "versions": [
+    {
+     "says": "הספרייה הלאומית: הדוכס פרננדו דה ארגון, וריינה הייתה אז בת 15",
+     "claims": [
+      "c-aud-20261128-1"
+     ]
+    },
+    {
+     "says": "My Jewish Learning: האציל הקתולי דון פרנסיסקו ד'ארגון, ב-1536",
+     "claims": [
+      "c-aud-20261128-2"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9002",
    "question": "מה היה שמו של האציל שביקש לשאת את ריינה?",
    "versions": [
     {
@@ -1551,6 +1570,24 @@
    "text": "לפי Ynet, אירית אחדות משערת שגרציה אולי הורעלה.",
    "source": "src9",
    "quote": "Ahdoot proposes she may have been poisoned",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-1",
+   "text": "הספרייה הלאומית: הדוכס פרננדו דה ארגון, וריינה הייתה אז בת 15",
+   "source": "src2",
+   "quote": "marry off the 15-year-old Reyna to Duke Fernando de Aragón",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261128-2",
+   "text": "My Jewish Learning: האציל הקתולי דון פרנסיסקו ד'ארגון, ב-1536",
+   "source": "src4",
+   "quote": "a Catholic nobleman, Don Francisco d’Aragon, sought Reyna’s hand in marriage",
    "locator": "audit 2026-11-28",
    "status": "confirmed",
    "checker_note": "audit: quote found on the fetched page"

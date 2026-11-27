@@ -221,7 +221,6 @@
     "m6"
    ],
    "disagreements": [
-    "d1",
     "d4",
     "d2",
     "d3"
@@ -331,9 +330,11 @@
       ]
      },
      {
-      "text": "לפי סניידר, אף שבאופן רשמי היה טכנאי בלבד, פרסם את המאמרים על האנזימים כמחבר יחיד.",
+      "text": "לפי סניידר, אף שלכאורה היה טכנאי בלבד, פרסם את המאמרים על האנזימים כמחבר יחיד.",
       "claims": [
-       "c31"
+       "c31",
+       "c-aud-20261127-3",
+       "c-aud-20261127-4"
       ]
      },
      {
@@ -362,7 +363,8 @@
     "m6"
    ],
    "disagreements": [
-    "d5"
+    "d5",
+    "d9001"
    ]
   },
   {
@@ -422,9 +424,10 @@
       ]
      },
      {
-      "text": "לפי אתר נובל, ב-1957 הראה אקסלרוד כיצד עודף נוראפינפרין משתחרר בתגובה לדחפים עצביים וחוזר למקום אגירתו.",
+      "text": "ב-1961 פרסמו אקסלרוד והרטינג שנוראפינפרין שנקלט בעצבים הסימפתטיים משתחרר מהם כשמגרים את העצבים האלה.",
       "claims": [
-       "c52"
+       "c52",
+       "c-aud-20261127-1"
       ]
      }
     ],
@@ -598,9 +601,10 @@
       ]
      },
      {
-      "text": "ב-1993 הזריקו לו צורה סינתטית של נוראדרנלין כדי להעלות את לחץ הדם שלו לפני ניתוח מעקפים, תגלית שהוא עצמו תרם לה.",
+      "text": "ב-1993 הזריקו לו צורה סינתטית של נוראדרנלין כדי להעלות את לחץ הדם שלו לפני ניתוח מעקפים.",
       "claims": [
-       "c65"
+       "c65",
+       "c-aud-20261127-5"
       ]
      },
      {
@@ -618,9 +622,10 @@
     ],
     [
      {
-      "text": "לפי מילון הביוגרפיה המדעית, לפי הדיווחים מת בשנתו בביתו ברוקוויל, מרילנד.",
+      "text": "לפי מילון הביוגרפיה המדעית, מת מהתקף לב בביתו ברוקוויל, מרילנד.",
       "claims": [
-       "c67"
+       "c67",
+       "c-aud-20261127-2"
       ]
      }
     ]
@@ -656,24 +661,6 @@
   }
  ],
  "disagreements": [
-  {
-   "id": "d1",
-   "question": "באיזו שנה עבר לקולג' העירוני של ניו יורק?",
-   "versions": [
-    {
-     "says": "לפי הזיכרונות הביוגרפיים של האקדמיה הלאומית למדעים: ב-1930",
-     "claims": [
-      "c8"
-     ]
-    },
-    {
-     "says": "לפי נוסח אחר של סניידר: ב-1936",
-     "claims": [
-      "c9"
-     ]
-    }
-   ]
-  },
   {
    "id": "d2",
    "question": "באיזו שנה קיבל תואר שני?",
@@ -742,6 +729,24 @@
      "says": "לפי הספרייה הלאומית לרפואה: המנחה היה ג'ורג' מנדל, שאיפשר לו להגיש עבודה מה-NIH כבסיס לדיסרטציה",
      "claims": [
       "c35"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9001",
+   "question": "מה היה מעמדו של אקסלרוד ב-NIH כשגילה את האנזימים המיקרוזומליים?",
+   "versions": [
+    {
+     "says": "סניידר, בזיכרונות הביוגרפיים של האקדמיה הלאומית למדעים: לכאורה היה רק טכנאי",
+     "claims": [
+      "c-aud-20261127-3"
+     ]
+    },
+    {
+     "says": "הביוגרפיה באתר פרס נובל: בשנים 1950–1953 היה כימאי במכון הלאומי ללב, וב-1953 נעשה כימאי בכיר",
+     "claims": [
+      "c-aud-20261127-4"
      ]
     }
    ]
@@ -1273,14 +1278,6 @@
    "locator": "שורה 23"
   },
   {
-   "id": "c9",
-   "text": "בנוסח של סניידר בגרסה אחרת, המעבר לקולג' העירוני התרחש ב-1936.",
-   "source": "src10",
-   "quote": "Julie began college at New York University but ran out of money and transferred in 1936 to the City College of New York, which was tuition-free.",
-   "status": "confirmed",
-   "locator": "שורה 6"
-  },
-  {
    "id": "c17",
    "text": "לפי הביוגרפיה של פרס נובל, התואר השני התקבל ב-1941 והדוקטורט ב-1955.",
    "source": "src4",
@@ -1343,6 +1340,51 @@
    "quote": "died on December 29, 2004, at his home in Rockville, Md.",
    "status": "confirmed",
    "locator": "שורה 5"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "ב-1961 פרסמו אקסלרוד והרטינג שנוראפינפרין שנקלט בעצבים הסימפתטיים משתחרר מהם כשמגרים את העצבים האלה.",
+   "source": "src6",
+   "quote": "was released when these nerves were stimulated (Hertting and Axelrod, 1961)",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "לפי מילון הביוגרפיה המדעית, מת מהתקף לב בביתו ברוקוויל, מרילנד.",
+   "source": "src2",
+   "quote": "until he died of a heart attack in his home in Rockville, Maryland, in 2004",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "סניידר, בזיכרונות הביוגרפיים של האקדמיה הלאומית למדעים: לכאורה היה רק טכנאי",
+   "source": "src3",
+   "quote": "Though nominally only a technician",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261127-4",
+   "text": "הביוגרפיה באתר פרס נובל: בשנים 1950–1953 היה כימאי במכון הלאומי ללב, וב-1953 נעשה כימאי בכיר",
+   "source": "src4",
+   "quote": "1950-1953, Chemist, National Heart Institute, NIH, where he became Senior Chemist in 1953",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-5",
+   "text": "ב-1993 הזריקו לו צורה סינתטית של נוראדרנלין כדי להעלות את לחץ הדם שלו לפני ניתוח מעקפים.",
+   "source": "src2",
+   "quote": "the physicians injected a synthetic form of noradrenaline to stimulate the contractions of his heart",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1393,12 +1435,6 @@
    "label": "U.S. National Library of Medicine, Profiles in Science, Julius Axelrod – Biographical Overview",
    "url": "https://profiles.nlm.nih.gov/spotlight/hh/feature/biographical-overview",
    "kind": "official"
-  },
-  {
-   "id": "src10",
-   "label": "Solomon Snyder, Remembrance of Julius Axelrod, Catecholamine Society",
-   "url": "https://thecatecholaminesociety.org/PDF/Remembrances-By-Solomon-Snyder.pdf",
-   "kind": "press"
   },
   {
    "id": "src11",

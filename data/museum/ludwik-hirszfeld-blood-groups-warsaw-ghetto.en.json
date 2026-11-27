@@ -222,9 +222,12 @@
       ]
      },
      {
-      "text": "There Hirszfeld also isolated two new strains that cause paratyphoid fever, and one of them was later named Salmonella hirszfeldii.",
+      "text": "According to the Vox Sanguinis review, amid these conditions Hirszfeld also isolated two new strains that cause paratyphoid fever, and one of them was later named Salmonella hirszfeldii.",
       "claims": [
-       "c19"
+       "c19",
+       "c-aud-20261127-2",
+       "c-aud-20261127-3",
+       "c-aud-20261127-4"
       ]
      }
     ],
@@ -256,7 +259,10 @@
     "m4",
     "m6"
    ],
-   "disagreements": []
+   "disagreements": [
+    "d9001",
+    "d9002"
+   ]
   },
   {
    "id": "s4",
@@ -431,9 +437,10 @@
    "paragraphs": [
     [
      {
-      "text": "Before September 1942, over 300,000 Jews were deported from the Warsaw Ghetto to Treblinka.",
+      "text": "Between July and September 1942, about 265,000 Jews were deported from the Warsaw Ghetto to Treblinka.",
       "claims": [
-       "c37"
+       "c37",
+       "c-aud-20261127-1"
       ]
      },
      {
@@ -695,6 +702,48 @@
      "says": "According to Mayo Clinic Proceedings, in 1943, a day before they were to be sent to an extermination camp",
      "claims": [
       "c40"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9001",
+   "question": "Where did Hirszfeld isolate the paratyphoid bacteria?",
+   "versions": [
+    {
+     "says": "According to the Vox Sanguinis review: in Serbia, during the typhus epidemic",
+     "claims": [
+      "c-aud-20261127-2"
+     ]
+    },
+    {
+     "says": "According to Culture.pl: at the hospital for contagious diseases in Thessaloniki",
+     "claims": [
+      "c-aud-20261127-3"
+     ]
+    },
+    {
+     "says": "According to the University of Kansas: after they moved to the Hospital for Contagious Diseases in Thessaloniki",
+     "claims": [
+      "c-aud-20261127-4"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9002",
+   "question": "How many people died in the 1914–1915 typhus epidemic in Serbia?",
+   "versions": [
+    {
+     "says": "According to the Vox Sanguinis review: about 300,000 civilians and 100,000 soldiers",
+     "claims": [
+      "c-aud-20261127-5"
+     ]
+    },
+    {
+     "says": "According to Vladimir Krivošejev (Vojnoistorijski glasnik, 2023): about 100,000 civilians and 13,000 to 35,000 soldiers",
+     "claims": [
+      "c-aud-20261127-6"
      ]
     }
    ]
@@ -1252,6 +1301,60 @@
    "quote": "honorary doctorates from the Universities of Prague (1950) and Zurich (1951)",
    "status": "confirmed",
    "locator": "שורה 10"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "בין יולי לספטמבר 1942 גורשו מגטו ורשה לטרבלינקה כ-265,000 יהודים.",
+   "source": "src9001",
+   "quote": "about 265,000 Jews from the Warsaw ghetto",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "לפי הסקירה ב-Vox Sanguinis: בסרביה, בזמן מגפת הטיפוס",
+   "source": "src9002",
+   "quote": "amid these dire circumstances, Ludwik Hirszfeld made important findings",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "לפי Culture.pl: בבית החולים למחלות מדבקות בסלוניקי",
+   "source": "src3",
+   "quote": "W szpitalu zakaźnym w Salonikach odkrywa pałeczki rzekomo durowe",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-4",
+   "text": "לפי אוניברסיטת קנזס: אחרי שעברו לבית החולים למחלות מדבקות בסלוניקי",
+   "source": "src4",
+   "quote": "Eventually they relocated to the Hospital for Contagious Diseases in Thessaloniki, Greece.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-5",
+   "text": "לפי הסקירה ב-Vox Sanguinis: כ-300,000 אזרחים ו-100,000 חיילים",
+   "source": "src9002",
+   "quote": "some 300,000 Serbian civilians and 100,000 soldiers died",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-6",
+   "text": "לפי ולדימיר קריבושייב (Vojnoistorijski glasnik, 2023): כ-100,000 אזרחים ו-13,000 עד 35,000 חיילים",
+   "source": "src9003",
+   "quote": "around 100,000 civilian inhabitants of Serbia",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1344,6 +1447,27 @@
    "label": "getto.pl: Hirszfeld Ludwik",
    "url": "https://getto.pl/en/People/H/Hirszfeld-Ludwik-Unknown",
    "kind": "organisation"
+  },
+  {
+   "id": "src9001",
+   "label": "USHMM Holocaust Encyclopedia, Deportations to and from the Warsaw Ghetto",
+   "url": "https://encyclopedia.ushmm.org/content/en/article/deportations-to-and-from-the-warsaw-ghetto",
+   "kind": "official",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9002",
+   "label": "Vox Sanguinis review (PMC9297968)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9297968/",
+   "kind": "reference",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9003",
+   "label": "Krivošejev, The Epidemics of Typhus and Spanish Flu and Their Consequences on the Population of Serbia, Vojnoistorijski glasnik, 2023",
+   "url": "https://ceeol.com/search/article-detail?id=1224390",
+   "kind": "reference",
+   "date": "2026-11-27"
   }
  ],
  "media": [

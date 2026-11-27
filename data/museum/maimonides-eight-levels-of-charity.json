@@ -137,7 +137,9 @@
     "m42",
     "m44"
    ],
-   "disagreements": []
+   "disagreements": [
+    "d9001"
+   ]
   },
   {
    "id": "s2",
@@ -539,6 +541,30 @@
      "says": "המאמר ב-MyJewishLearning טוען שהקריאה הזאת חוזרת על פרשנות שאולי אינה נכונה",
      "claims": [
       "c26"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9001",
+   "question": "מתי נספה דוד אחי הרמב״ם, והאם זה היה לפני כתיבת משנה תורה או בזמן כתיבתו?",
+   "versions": [
+    {
+     "says": "פיליפ ליברמן (Sapir): דוד נספה בסביבות 1177, והלכות מתנות עניים פורסמו כמה שנים אחרי כן",
+     "claims": [
+      "c-aud-20261127-1"
+     ]
+    },
+    {
+     "says": "ספריית פוזן: דוד מת בסביבות 1177, והוא פרנס את אחיו בתקופה שבה כתב את משנה תורה, כלומר מותו חל בזמן הכתיבה",
+     "claims": [
+      "c-aud-20261127-2"
+     ]
+    },
+    {
+     "says": "האנציקלופדיה יודאיקה (בספרייה היהודית הווירטואלית): דוד טבע בשנה שאחרי 1168, ומשנה תורה חובר ב-1180",
+     "claims": [
+      "c-aud-20261127-3"
      ]
     }
    ]
@@ -953,6 +979,33 @@
    "quote": "כדי לחזק את ידו עד שלא יצטרך לבריות לשאול",
    "status": "confirmed",
    "locator": "שורה 10"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "פיליפ ליברמן (Sapir): דוד נספה בסביבות 1177, והלכות מתנות עניים פורסמו כמה שנים אחרי כן",
+   "source": "src4",
+   "quote": "published several years after the calamity",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "ספריית פוזן: דוד מת בסביבות 1177, והוא פרנס את אחיו בתקופה שבה כתב את משנה תורה, כלומר מותו חל בזמן הכתיבה",
+   "source": "src9001",
+   "quote": "David supported his scholarly brother during the period when he was writing the Mishneh Torah.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "האנציקלופדיה יודאיקה (בספרייה היהודית הווירטואלית): דוד טבע בשנה שאחרי 1168, ומשנה תורה חובר ב-1180",
+   "source": "src9002",
+   "quote": "His brother David drowned in the Indian Ocean while on a business trip.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
   }
  ],
  "sources": [
@@ -1003,6 +1056,20 @@
    "label": "כיפה: פרשת אמור – שבת פעמונים",
    "url": "https://www.kipa.co.il/יהדות/פרשת-השבוע/פרשת-אמור/%d7%a4%d7%90%d7%94-2010/?amp=1",
    "kind": "press"
+  },
+  {
+   "id": "src9001",
+   "label": "The Posen Library of Jewish Culture and Civilization, David ben Maymūn",
+   "url": "https://www.posenlibrary.com/node/12460",
+   "kind": "reference",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9002",
+   "label": "Jewish Virtual Library (Encyclopaedia Judaica), Moses Maimonides",
+   "url": "https://www.jewishvirtuallibrary.org/maimonides-moses",
+   "kind": "reference",
+   "date": "2026-11-27"
   }
  ],
  "media": [

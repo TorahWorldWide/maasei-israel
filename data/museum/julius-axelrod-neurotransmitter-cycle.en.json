@@ -221,7 +221,6 @@
     "m6"
    ],
    "disagreements": [
-    "d1",
     "d4",
     "d2",
     "d3"
@@ -331,9 +330,11 @@
       ]
      },
      {
-      "text": "Although officially only a technician, he published the papers on the enzymes as sole author.",
+      "text": "According to Snyder, although officially only a technician, he published the papers on the enzymes as sole author.",
       "claims": [
-       "c31"
+       "c31",
+       "c-aud-20261127-3",
+       "c-aud-20261127-4"
       ]
      },
      {
@@ -362,7 +363,8 @@
     "m6"
    ],
    "disagreements": [
-    "d5"
+    "d5",
+    "d9001"
    ]
   },
   {
@@ -396,7 +398,7 @@
       ]
      },
      {
-      "text": "Measuring VMA in the urine became the standard method for diagnosing pheochromocytoma, adrenal tumors that cause hypertension.",
+      "text": "Measuring VMA in the urine, the common end product identified by Armstrong and McMillan, became the standard method for diagnosing pheochromocytoma, adrenal tumors that secrete epinephrine and cause hypertension.",
       "claims": [
        "c41"
       ]
@@ -410,21 +412,22 @@
       ]
      },
      {
-      "text": "But inhibiting the enzymes did not end the effect of the injection.",
+      "text": "In a decisive experiment with the visiting scientist Georg Hertting, the sympathetic nerves of a cat were lesioned, and on the lesioned side the accumulation of norepinephrine disappeared.",
       "claims": [
        "c44"
       ]
      },
      {
-      "text": "In a decisive experiment with the visiting scientist Georg Hertting, the sympathetic nerves of a cat were lesioned, and on the lesioned side the accumulation of norepinephrine disappeared.",
+      "text": "On the basis of the data, Axelrod postulated that uptake into the sympathetic nerves is what inactivates norepinephrine.",
       "claims": [
        "c45"
       ]
      },
      {
-      "text": "According to the Nobel website, in 1957 Axelrod showed how excess norepinephrine is released in response to nerve impulses and returns to its place of storage.",
+      "text": "In 1961 Axelrod and Hertting reported that norepinephrine taken up by sympathetic nerves is released from them when these nerves are stimulated.",
       "claims": [
-       "c52"
+       "c52",
+       "c-aud-20261127-1"
       ]
      }
     ],
@@ -493,7 +496,7 @@
       ]
      },
      {
-      "text": "In a speech at the Nobel banquet, Axelrod said that their work, although fundamental, explains illnesses such as mental depression.",
+      "text": "In a speech at the Nobel banquet, Axelrod said that their work, although fundamental, provides insight that helps explain illnesses such as mental depression.",
       "claims": [
        "c56"
       ]
@@ -598,9 +601,10 @@
       ]
      },
      {
-      "text": "In 1993 he was injected with a synthetic form of noradrenaline to raise his blood pressure before bypass surgery, a discovery to which he himself had contributed.",
+      "text": "In 1993 he was injected with a synthetic form of noradrenaline to raise his blood pressure before bypass surgery.",
       "claims": [
-       "c65"
+       "c65",
+       "c-aud-20261127-5"
       ]
      },
      {
@@ -610,7 +614,7 @@
       ]
      },
      {
-      "text": "According to Snyder, he collapsed and died of a heart attack.",
+      "text": "According to Snyder, he most likely got out of bed and collapsed from a heart attack.",
       "claims": [
        "c68"
       ]
@@ -618,9 +622,10 @@
     ],
     [
      {
-      "text": "According to the Dictionary of Scientific Biography: at his home in Rockville, Maryland",
+      "text": "According to the Dictionary of Scientific Biography, he reportedly died in his sleep at his home in Rockville, Maryland.",
       "claims": [
-       "c67"
+       "c67",
+       "c-aud-20261127-2"
       ]
      }
     ]
@@ -656,24 +661,6 @@
   }
  ],
  "disagreements": [
-  {
-   "id": "d1",
-   "question": "In what year did he transfer to the City College of New York?",
-   "versions": [
-    {
-     "says": "According to the National Academy of Sciences Biographical Memoirs: in 1930",
-     "claims": [
-      "c8"
-     ]
-    },
-    {
-     "says": "According to another version by Snyder: in 1936",
-     "claims": [
-      "c9"
-     ]
-    }
-   ]
-  },
   {
    "id": "d2",
    "question": "In what year did he receive a master's degree?",
@@ -742,6 +729,24 @@
      "says": "According to the National Library of Medicine: the advisor was George Mandel, who allowed him to submit work from the NIH as the basis for the dissertation",
      "claims": [
       "c35"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9001",
+   "question": "What was Axelrod's position at the NIH when he discovered the microsomal enzymes?",
+   "versions": [
+    {
+     "says": "Snyder, in the National Academy of Sciences Biographical Memoirs: nominally he was only a technician",
+     "claims": [
+      "c-aud-20261127-3"
+     ]
+    },
+    {
+     "says": "The biography on the Nobel Prize website: from 1950 to 1953 he was a Chemist at the National Heart Institute, becoming Senior Chemist in 1953",
+     "claims": [
+      "c-aud-20261127-4"
      ]
     }
    ]
@@ -1273,14 +1278,6 @@
    "locator": "שורה 23"
   },
   {
-   "id": "c9",
-   "text": "בנוסח של סניידר בגרסה אחרת, המעבר לקולג' העירוני התרחש ב-1936.",
-   "source": "src10",
-   "quote": "Julie began college at New York University but ran out of money and transferred in 1936 to the City College of New York, which was tuition-free.",
-   "status": "confirmed",
-   "locator": "שורה 6"
-  },
-  {
    "id": "c17",
    "text": "לפי הביוגרפיה של פרס נובל, התואר השני התקבל ב-1941 והדוקטורט ב-1955.",
    "source": "src4",
@@ -1343,6 +1340,51 @@
    "quote": "died on December 29, 2004, at his home in Rockville, Md.",
    "status": "confirmed",
    "locator": "שורה 5"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "ב-1961 פרסמו אקסלרוד והרטינג שנוראפינפרין שנקלט בעצבים הסימפתטיים משתחרר מהם כשמגרים את העצבים האלה.",
+   "source": "src6",
+   "quote": "was released when these nerves were stimulated (Hertting and Axelrod, 1961)",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "לפי מילון הביוגרפיה המדעית, מת מהתקף לב בביתו ברוקוויל, מרילנד.",
+   "source": "src2",
+   "quote": "until he died of a heart attack in his home in Rockville, Maryland, in 2004",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "סניידר, בזיכרונות הביוגרפיים של האקדמיה הלאומית למדעים: לכאורה היה רק טכנאי",
+   "source": "src3",
+   "quote": "Though nominally only a technician",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261127-4",
+   "text": "הביוגרפיה באתר פרס נובל: בשנים 1950–1953 היה כימאי במכון הלאומי ללב, וב-1953 נעשה כימאי בכיר",
+   "source": "src4",
+   "quote": "1950-1953, Chemist, National Heart Institute, NIH, where he became Senior Chemist in 1953",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-5",
+   "text": "ב-1993 הזריקו לו צורה סינתטית של נוראדרנלין כדי להעלות את לחץ הדם שלו לפני ניתוח מעקפים.",
+   "source": "src2",
+   "quote": "the physicians injected a synthetic form of noradrenaline to stimulate the contractions of his heart",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1393,12 +1435,6 @@
    "label": "U.S. National Library of Medicine, Profiles in Science, Julius Axelrod – Biographical Overview",
    "url": "https://profiles.nlm.nih.gov/spotlight/hh/feature/biographical-overview",
    "kind": "official"
-  },
-  {
-   "id": "src10",
-   "label": "Solomon Snyder, Remembrance of Julius Axelrod, Catecholamine Society",
-   "url": "https://thecatecholaminesociety.org/PDF/Remembrances-By-Solomon-Snyder.pdf",
-   "kind": "press"
   },
   {
    "id": "src11",

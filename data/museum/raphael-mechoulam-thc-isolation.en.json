@@ -1,7 +1,7 @@
 {
  "schema": "maasei-museum/1",
  "slug": "raphael-mechoulam-thc-isolation",
- "deed": "רפאל משולם מבודד לראשונה את ה-THC",
+ "deed": "Raphael Mechoulam Isolates THC for the First Time",
  "canonical_type": "scientific-discovery",
  "year": "1964",
  "title": "Isolating THC for the First Time",
@@ -289,9 +289,7 @@
     "m7",
     "m16"
    ],
-   "disagreements": [
-    "d1"
-   ]
+   "disagreements": []
   },
   {
    "id": "s5",
@@ -477,9 +475,10 @@
       ]
      },
      {
-      "text": "His 90th birthday was marked at a four-day symposium in Jerusalem.",
+      "text": "His 90th birthday was marked in 2021 at the closing event of the 31st International Cannabinoid Research Symposium, which was held online.",
       "claims": [
-       "c59"
+       "c59",
+       "c-aud-20261127-1"
       ]
      }
     ],
@@ -567,24 +566,6 @@
   }
  ],
  "disagreements": [
-  {
-   "id": "d1",
-   "question": "At which institution was THC isolated?",
-   "versions": [
-    {
-     "says": "According to NPR, Mechoulam and his team were at the Weizmann Institute when they began to focus on the drug in 1962",
-     "claims": [
-      "c21"
-     ]
-    },
-    {
-     "says": "According to JTA, Mechoulam and his team at the Hebrew University's School of Pharmacy isolated THC and CBD",
-     "claims": [
-      "c29"
-     ]
-    }
-   ]
-  },
   {
    "id": "d2",
    "question": "In which year did Mechoulam receive the Harvey Prize?",
@@ -1096,14 +1077,6 @@
    "locator": "שורה 25"
   },
   {
-   "id": "c29",
-   "text": "לפי JTA, משולם וצוותו בבית הספר לרוקחות באוניברסיטה העברית בידדו את ה-THC ואת ה-CBD.",
-   "source": "src2",
-   "quote": "Mechoulam and his research team isolated THC, the psychoactive component of cannabis, as well as cannabidiol, or CBD",
-   "status": "confirmed",
-   "locator": "שורה 7"
-  },
-  {
    "id": "c52",
    "text": "לפי החברה הבינלאומית למחקר קנבינואידים, משולם קיבל את פרס הארווי ב-2019.",
    "source": "src1",
@@ -1142,6 +1115,15 @@
    "quote": "Adams isolated it as a crystalline solid and also determined its molecular formula.",
    "status": "confirmed",
    "locator": "שורה 12"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "יום הולדתו ה-90 צוין ב-2021 באירוע הסיום של הסימפוזיון הבינלאומי ה-31 לחקר קנבינואידים, שנערך באופן מקוון.",
+   "source": "src9001",
+   "quote": "led the organizers to hold it virtually this year, also for the first time",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1204,6 +1186,13 @@
    "label": "PMC review (PMC7891190) on the history of cannabidiol structure",
    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7891190",
    "kind": "reference"
+  },
+  {
+   "id": "src9001",
+   "label": "The Jerusalem Post, Father of cannabis celebrates 90th birthday at int'l cannabis conference, 2021-06-24",
+   "url": "https://www.jpost.com/israel-news/father-of-cannabis-celebrates-90th-birthday-at-intl-cannabis-conference-671941",
+   "kind": "press",
+   "date": "2026-11-27"
   }
  ],
  "media": [
@@ -1246,7 +1235,7 @@
    "credit": "Mark Neyman",
    "licence": "CC BY-SA 3.0",
    "hosting": "hotlink",
-   "caption": "President Reuven Rivlin in a group photo with former presidents of the Israel Academy of Sciences and Humanities, among them Raphael Mechoulam, according to the Commons description.",
+   "caption": "President Reuven Rivlin in a group photo with members of the Israel Academy of Sciences and Humanities, among them Raphael Mechoulam, in 2015.",
    "illustrates": [
     "c55"
    ],

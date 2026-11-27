@@ -1,7 +1,7 @@
 {
  "schema": "maasei-museum/1",
  "slug": "robert-furchgott-nitric-oxide-signal",
- "deed": "רוברט פורצגוט גילה שתחמוצת החנקן היא אות כימי חולף בתאי גוף היונקים",
+ "deed": "Robert Furchgott discovered that nitric oxide is a transient chemical signal in mammalian body cells",
  "canonical_type": "scientific-discovery",
  "year": "1980",
  "title": "Robert Furchgott discovered that blood vessel cells release a substance that widens them: nitric oxide",
@@ -19,9 +19,10 @@
    ]
   },
   {
-   "text": "In 1980 he showed that when the inner cell layer of blood vessels, the endothelium, is removed, their ability to contract or expand disappears.",
+   "text": "In 1980 he showed that when the inner cell layer of blood vessels, the endothelium, is removed, acetylcholine no longer makes them relax and widen.",
    "claims": [
-    "c14"
+    "c14",
+    "c-aud-20261127-2"
    ]
   },
   {
@@ -224,9 +225,10 @@
     ],
     [
      {
-      "text": "In Brooklyn he focused on an anomalous response of preparations from rabbit aorta.",
+      "text": "In Brooklyn, from 1978, he focused on an anomalous response of preparations from rabbit aorta.",
       "claims": [
-       "c38"
+       "c38",
+       "c-aud-20261127-3"
       ]
      },
      {
@@ -273,9 +275,10 @@
    "paragraphs": [
     [
      {
-      "text": "In 1980 Furchgott showed that when the endothelium is removed, the blood vessel's ability to contract or expand disappears.",
+      "text": "In 1980 Furchgott showed that when the endothelium is removed, acetylcholine no longer makes the blood vessel relax and widen.",
       "claims": [
-       "c14"
+       "c14",
+       "c-aud-20261127-1"
       ]
      },
      {
@@ -486,9 +489,10 @@
     ],
     [
      {
-      "text": "The Swedish Nobel committee praised them for providing the first proof that a gas can perform important biochemical functions in the body.",
+      "text": "The Swedish Nobel Assembly praised them for providing the first proof that a gas can perform important biochemical functions in the body.",
       "claims": [
-       "c26"
+       "c26",
+       "c-aud-20261127-4"
       ]
      },
      {
@@ -598,9 +602,10 @@
    "question": "Until when did Furchgott serve in the department of pharmacology at SUNY in Brooklyn?",
    "versions": [
     {
-     "says": "According to Britannica, he held the position from 1956 until 1989, when he retired as professor emeritus",
+     "says": "According to his autobiography, in 1982 he resigned the chairmanship but continued in the department as a professor, and in 1989 he retired as professor emeritus",
      "claims": [
-      "c36"
+      "c36",
+      "c-aud-20261127-5"
      ]
     },
     {
@@ -1055,6 +1060,51 @@
    "quote": "Winner of the 1998 Nobel Prize in Physiology or Medicine, jointly with Louis J. Ignarro and Ferid Murad",
    "status": "confirmed",
    "locator": "שורה 2"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "ב-1980 הראה פורצגוט שכאשר מסירים את האנדותל, אצטילכולין כבר לא גורם לכלי הדם להתרחב.",
+   "source": "src9001",
+   "quote": "relaxation of arteries by acetylcholine is strictly endothelium-dependent",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "ב-1980 הראה שכאשר מסירים את שכבת התאים הפנימית של כלי הדם, האנדותל, אצטילכולין כבר לא גורם להם להתרחב.",
+   "source": "src9001",
+   "quote": "relaxation of arteries by acetylcholine is strictly endothelium-dependent",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "בברוקלין, החל מ-1978, התמקד בתגובה חריגה של מקטעים מאבי העורקים של ארנב.",
+   "source": "src9001",
+   "quote": "in the very first experiment designed for this new study in May 1978, an accidental finding as a result of a technician’s error completely changed the course of research in my laboratory",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-4",
+   "text": "אספת נובל השוודית שיבחה אותם על שהוכיחו לראשונה שגז יכול למלא תפקידים ביוכימיים חשובים בגוף.",
+   "source": "src2",
+   "quote": "the Swedish Nobel assembly praised them for providing the first proof that a gas can perform important biochemical functions in the body",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261127-5",
+   "text": "לפי האוטוביוגרפיה שלו, ב-1982 עזב את ראשות המחלקה אך המשיך בה כפרופסור, וב-1989 פרש כפרופסור אמריטוס",
+   "source": "src9001",
+   "quote": "In 1982, I resigned from the chairmanship of the Department of Pharmacology at the SUNY Downstate Medical Center, but continued as a professor. In 1989, I retired from my professorship (receiving emeritus status)",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1117,6 +1167,13 @@
    "label": "SUNY Downstate Health Sciences University, Dr. Furchgott",
    "url": "https://www.downstate.edu/education-training/college-of-medicine/about/dr-furchgott.html",
    "kind": "official"
+  },
+  {
+   "id": "src9001",
+   "label": "NobelPrize.org, Robert F. Furchgott – Biographical, 1998",
+   "url": "https://www.nobelprize.org/prizes/medicine/1998/furchgott/biographical/",
+   "kind": "official",
+   "date": "2026-11-27"
   }
  ],
  "media": [

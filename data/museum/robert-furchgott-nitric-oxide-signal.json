@@ -19,9 +19,10 @@
    ]
   },
   {
-   "text": "ב-1980 הראה שכאשר מסירים את שכבת התאים הפנימית של כלי הדם, האנדותל, נעלמת יכולתם להתכווץ או להתרחב.",
+   "text": "ב-1980 הראה שכאשר מסירים את שכבת התאים הפנימית של כלי הדם, האנדותל, אצטילכולין כבר לא גורם להם להתרחב.",
    "claims": [
-    "c14"
+    "c14",
+    "c-aud-20261127-2"
    ]
   },
   {
@@ -224,9 +225,10 @@
     ],
     [
      {
-      "text": "בברוקלין התמקד בתגובה חריגה של מקטעים מאבי העורקים של ארנב.",
+      "text": "בברוקלין, החל מ-1978, התמקד בתגובה חריגה של מקטעים מאבי העורקים של ארנב.",
       "claims": [
-       "c38"
+       "c38",
+       "c-aud-20261127-3"
       ]
      },
      {
@@ -273,9 +275,10 @@
    "paragraphs": [
     [
      {
-      "text": "ב-1980 הראה פורצגוט שכאשר מסירים את האנדותל, נעלמת יכולתו של כלי הדם להתכווץ או להתרחב.",
+      "text": "ב-1980 הראה פורצגוט שכאשר מסירים את האנדותל, אצטילכולין כבר לא גורם לכלי הדם להתרחב.",
       "claims": [
-       "c14"
+       "c14",
+       "c-aud-20261127-1"
       ]
      },
      {
@@ -486,9 +489,10 @@
     ],
     [
      {
-      "text": "ועדת נובל השוודית שיבחה אותם על שהוכיחו לראשונה שגז יכול למלא תפקידים ביוכימיים חשובים בגוף.",
+      "text": "אספת נובל השוודית שיבחה אותם על שהוכיחו לראשונה שגז יכול למלא תפקידים ביוכימיים חשובים בגוף.",
       "claims": [
-       "c26"
+       "c26",
+       "c-aud-20261127-4"
       ]
      },
      {
@@ -598,9 +602,10 @@
    "question": "עד מתי כיהן פורצגוט במחלקה לפרמקולוגיה ב-SUNY בברוקלין?",
    "versions": [
     {
-     "says": "לפי בריטניקה, הוא כיהן בתפקיד מ-1956 עד 1989, אז פרש כפרופסור אמריטוס",
+     "says": "לפי האוטוביוגרפיה שלו, ב-1982 עזב את ראשות המחלקה אך המשיך בה כפרופסור, וב-1989 פרש כפרופסור אמריטוס",
      "claims": [
-      "c36"
+      "c36",
+      "c-aud-20261127-5"
      ]
     },
     {
@@ -1055,6 +1060,51 @@
    "quote": "Winner of the 1998 Nobel Prize in Physiology or Medicine, jointly with Louis J. Ignarro and Ferid Murad",
    "status": "confirmed",
    "locator": "שורה 2"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "ב-1980 הראה פורצגוט שכאשר מסירים את האנדותל, אצטילכולין כבר לא גורם לכלי הדם להתרחב.",
+   "source": "src9001",
+   "quote": "relaxation of arteries by acetylcholine is strictly endothelium-dependent",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "ב-1980 הראה שכאשר מסירים את שכבת התאים הפנימית של כלי הדם, האנדותל, אצטילכולין כבר לא גורם להם להתרחב.",
+   "source": "src9001",
+   "quote": "relaxation of arteries by acetylcholine is strictly endothelium-dependent",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "בברוקלין, החל מ-1978, התמקד בתגובה חריגה של מקטעים מאבי העורקים של ארנב.",
+   "source": "src9001",
+   "quote": "in the very first experiment designed for this new study in May 1978, an accidental finding as a result of a technician’s error completely changed the course of research in my laboratory",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-4",
+   "text": "אספת נובל השוודית שיבחה אותם על שהוכיחו לראשונה שגז יכול למלא תפקידים ביוכימיים חשובים בגוף.",
+   "source": "src2",
+   "quote": "the Swedish Nobel assembly praised them for providing the first proof that a gas can perform important biochemical functions in the body",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261127-5",
+   "text": "לפי האוטוביוגרפיה שלו, ב-1982 עזב את ראשות המחלקה אך המשיך בה כפרופסור, וב-1989 פרש כפרופסור אמריטוס",
+   "source": "src9001",
+   "quote": "In 1982, I resigned from the chairmanship of the Department of Pharmacology at the SUNY Downstate Medical Center, but continued as a professor. In 1989, I retired from my professorship (receiving emeritus status)",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1117,6 +1167,13 @@
    "label": "SUNY Downstate Health Sciences University, Dr. Furchgott",
    "url": "https://www.downstate.edu/education-training/college-of-medicine/about/dr-furchgott.html",
    "kind": "official"
+  },
+  {
+   "id": "src9001",
+   "label": "NobelPrize.org, Robert F. Furchgott – Biographical, 1998",
+   "url": "https://www.nobelprize.org/prizes/medicine/1998/furchgott/biographical/",
+   "kind": "official",
+   "date": "2026-11-27"
   }
  ],
  "media": [

@@ -1,7 +1,7 @@
 {
  "schema": "maasei-museum/1",
  "slug": "remilk-precision-fermentation-dairy-protein",
- "deed": "רמילק מייצרת חלבון חלב אמיתי בתסיסה בלי אף פרה אחת",
+ "deed": "Remilk makes real milk protein by fermentation, without a single cow",
  "canonical_type": "team-invention",
  "year": "2019",
  "title": "Israel's Remilk makes real milk protein with yeast, without cows, and brought it to cafés and shelves",
@@ -240,9 +240,10 @@
     ],
     [
      {
-      "text": "In the fermentation tanks the yeast receives sugar and nutrients, and it produces the protein.",
+      "text": "The yeast grows in the fermentation tanks, and according to Health Canada methanol and glycerol are added to make it produce and secrete the protein.",
       "claims": [
-       "c7"
+       "c7",
+       "c-aud-20261127-4"
       ]
      },
      {
@@ -280,9 +281,10 @@
    "paragraphs": [
     [
      {
-      "text": "It was followed by a $120 million round.",
+      "text": "In January 2022 Remilk completed a $120 million Series B round.",
       "claims": [
-       "c77"
+       "c77",
+       "c-aud-20261127-3"
       ]
      }
     ],
@@ -303,14 +305,6 @@
       "text": "Today, according to Ynet, the protein is made by a third-party producer in Spain.",
       "claims": [
        "c65"
-      ]
-     }
-    ],
-    [
-     {
-      "text": "According to Green Queen, in January",
-      "claims": [
-       "c77"
       ]
      }
     ]
@@ -368,17 +362,19 @@
       ]
      },
      {
-      "text": "According to Green Queen, California-based Perfect Day was the first company to earn GRAS status for precision fermentation β-lactoglobulin, about two years before Remilk became the second company to receive a no-questions letter from the FDA.",
+      "text": "According to the FDA letter, it had already replied on March 25, 2020 that it had no questions about an earlier GRAS notice for fermentation-made β-lactoglobulin, from California-based Perfect Day, almost three years before its letter to Remilk.",
       "claims": [
-       "c46"
+       "c46",
+       "c-aud-20261127-1"
       ]
      }
     ],
     [
      {
-      "text": "According to a Globes report from June 2022, Remilk received self-affirmed GRAS status, and it is the first Israeli company in the dairy alternatives sector to obtain FDA approval.",
+      "text": "In June 2022 Remilk announced that it had obtained self-affirmed GRAS status, meaning the company's own determination rather than an FDA approval.",
       "claims": [
-       "c20"
+       "c20",
+       "c-aud-20261127-2"
       ]
      },
      {
@@ -1318,6 +1314,42 @@
    "quote": "its process uses one percent of the land, four percent of the greenhouse gas emissions, and five percent of the water",
    "status": "confirmed",
    "locator": "שורה 6"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "לפי מכתב ה-FDA, הוא כבר השיב ב-25 במרץ 2020 שאין לו שאלות על הודעת GRAS קודמת לבטא-לקטוגלובולין מתסיסה, של פרפקט דיי הקליפורנית, כמעט שלוש שנים לפני המכתב לרמילק.",
+   "source": "src9",
+   "quote": "responded in a letter dated March 25, 2020",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "ביוני 2022 הודיעה רמילק שקיבלה מעמד GRAS עצמי (self-affirmed), כלומר קביעה של החברה עצמה ולא אישור של ה-FDA.",
+   "source": "src9001",
+   "quote": "has obtained self-affirmed GRAS",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "בינואר 2022 השלימה רמילק סבב סדרה B של 120 מיליון דולר.",
+   "source": "src9002",
+   "quote": "has completed a $120 million Series B financing round",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-4",
+   "text": "במיכלי התסיסה השמרים גדלים, ולפי Health Canada מוסיפים להם מתנול וגליצרול כדי שייצרו את החלבון ויפרישו אותו.",
+   "source": "src16",
+   "quote": "Methanol and glycerol are added to induce",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
   }
  ],
  "sources": [
@@ -1422,6 +1454,20 @@
    "label": "Remilk via Canada Newswire: Remilk makes history as first animal-free milk protein greenlit for use in Canada (Feb. 5, 2024)",
    "url": "https://www.newswire.ca/news-releases/remilk-makes-history-as-first-animal-free-milk-protein-greenlit-for-use-in-canada-892703460.html",
    "kind": "press"
+  },
+  {
+   "id": "src9001",
+   "label": "Remilk via PR Newswire, Remilk Secures Self-Affirmed GRAS for Non-Animal, Real Dairy Protein, June 7, 2022",
+   "url": "https://www.prnewswire.com/news-releases/remilk-secures-self-affirmed-gras-for-non-animal-real-dairy-protein-301563065.html",
+   "kind": "organisation",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9002",
+   "label": "Globes, Israeli cultivated dairy co Remilk raises $120m, January 6, 2022",
+   "url": "https://en.globes.co.il/en/article-israeli-cultivated-dairy-co-remilk-raises-120m-1001397611",
+   "kind": "press",
+   "date": "2026-11-27"
   }
  ],
  "media": [

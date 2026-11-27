@@ -1,7 +1,7 @@
 {
  "schema": "maasei-museum/1",
  "slug": "israeli-doctors-philippines-typhoons",
- "deed": "שישה רופאים ומתנדבים ישראלים סייעו לנפגעי שני טייפונים בפיליפינים",
+ "deed": "Six Israeli doctors and volunteers helped victims of two typhoons in the Philippines",
  "canonical_type": "rescue-operation",
  "year": "2009",
  "title": "Volunteer Israeli medical team treated thousands of typhoon victims in the Philippines",
@@ -282,9 +282,10 @@
    "paragraphs": [
     [
      {
-      "text": "According to ISRAEL21c, another typhoon, Pepeng, hit the north and center of the country on Saturday.",
+      "text": "According to ISRAEL21c, on Saturday Typhoon Pepeng, the Philippine name for Typhoon Parma, hit the north and center of the country.",
       "claims": [
-       "c12"
+       "c12",
+       "c-aud-20261127-1"
       ]
      },
      {
@@ -316,9 +317,10 @@
     ],
     [
      {
-      "text": "In the end Typhoon Ramil weakened to a tropical storm and turned away from the Philippines, a country home to 92 million people.",
+      "text": "In the end Typhoon Ramil weakened to a tropical storm and turned away from the Philippines, a country then home to 92 million people.",
       "claims": [
-       "c27"
+       "c27",
+       "c-aud-20261127-3"
       ]
      },
      {
@@ -339,9 +341,10 @@
    "paragraphs": [
     [
      {
-      "text": "IsraAID is an umbrella organization that gathers Israeli professionals from 17 different relief and activist organizations.",
+      "text": "In 2009 IsraAID was an umbrella organization that gathered Israeli professionals from 17 different relief and activist organizations.",
       "claims": [
-       "c31"
+       "c31",
+       "c-aud-20261127-2"
       ]
      },
      {
@@ -377,9 +380,10 @@
       ]
      },
      {
-      "text": "Zahavi relies on donations from outside Israel to fund supplies and plane tickets.",
+      "text": "According to ISRAEL21c, Zahavi then relied on donations from outside Israel to fund supplies and plane tickets.",
       "claims": [
-       "c18"
+       "c18",
+       "c-aud-20261127-4"
       ]
      },
      {
@@ -984,6 +988,42 @@
    "quote": "Last weekend, six volunteer doctors, nurses and paramedics with the Israeli organization, IsraAID,",
    "status": "confirmed",
    "locator": "שורה 5"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "לפי ISRAEL21c, בשבת פגע בצפון המדינה ובמרכזה טייפון פפנג, השם הפיליפיני של טייפון פרמה.",
+   "source": "src9001",
+   "quote": "(international name: Parma)",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "ב-2009 הייתה IsraAID ארגון גג שאיגד אנשי מקצוע ישראלים מ-17 ארגוני סיוע ופעילים שונים.",
+   "source": "src4",
+   "quote": "The umbrella organization gathers Israeli professionals from 17 different relief and activist organizations.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "בסוף נחלש טייפון ראמיל לסופה טרופית וסטה מהפיליפינים, מדינה שחיו בה אז 92 מיליון בני אדם.",
+   "source": "src4",
+   "quote": "which is home to 92 million people",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-4",
+   "text": "לפי ISRAEL21c, זהבי הסתמך אז על תרומות מחוץ לישראל כדי לממן ציוד וכרטיסי טיסה.",
+   "source": "src3",
+   "quote": "relies on donations from outside Israel to help buy supplies and plane tickets",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1034,6 +1074,13 @@
    "label": "CBN News: Israeli Doctors Aid Philippines",
    "url": "https://cbn.com/article/not-selected/israeli-doctors-aid-philippines",
    "kind": "press"
+  },
+  {
+   "id": "src9001",
+   "label": "Philippine Star, Typhoon Pepeng hits Philippine coast, 3 Oct 2009",
+   "url": "https://www.philstar.com/headlines/2009/10/03/510504/typhoon-pepeng-hits-philippine-coast",
+   "kind": "press",
+   "date": "2026-11-27"
   }
  ],
  "media": [

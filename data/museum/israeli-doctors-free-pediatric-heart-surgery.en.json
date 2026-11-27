@@ -319,7 +319,8 @@
     "m37"
    ],
    "disagreements": [
-    "d3"
+    "d3",
+    "d9001"
    ]
   },
   {
@@ -580,10 +581,11 @@
     ],
     [
      {
-      "text": "On June 27, 2018, the organization received the United Nations Population Award from UN Secretary-General Guterres, and was the first Israeli organization to win it.",
+      "text": "On June 26, 2018, the organization received the United Nations Population Award at a ceremony at UN Headquarters in New York, from UNFPA Executive Director Dr. Natalia Kanem, and was the first Israeli organization to win it.",
       "claims": [
        "c5",
-       "c55"
+       "c55",
+       "c-aud-20261127-1"
       ]
      },
      {
@@ -851,6 +853,30 @@
      "says": "JNS: He traveled with his son, and took a side trip to the mountain",
      "claims": [
       "c61"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9001",
+   "question": "Where were the children housed in the early days?",
+   "versions": [
+    {
+     "says": "JNS: In an apartment in Netanya, with nurses",
+     "claims": [
+      "c-aud-20261127-2"
+     ]
+    },
+    {
+     "says": "Calcalist, citing CEO Simon Fisher: In Cohen's parents' apartment at the Seasons Hotel in Netanya",
+     "claims": [
+      "c-aud-20261127-3"
+     ]
+    },
+    {
+     "says": "Jerusalem Post: In Cohen's own apartment",
+     "claims": [
+      "c-aud-20261127-4"
      ]
     }
    ]
@@ -1488,6 +1514,42 @@
    "quote": "The new facility is expected to cost $35 million. Of this, $17.5 million has been raised so far.",
    "status": "confirmed",
    "locator": "שורה 15"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "ב-26 ביוני 2018 קיבל הארגון את פרס האו\"ם לאוכלוסייה בטקס במטה האו\"ם בניו יורק, מידי מנהלת קרן האו\"ם לאוכלוסין (UNFPA), ד\"ר נטליה קנם, והיה הארגון הישראלי הראשון שזכה בו.",
+   "source": "src9001",
+   "quote": "at a ceremony held today at UN Headquarters in New York",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "JNS: בדירה בנתניה, עם אחיות",
+   "source": "src1",
+   "quote": "stay in an apartment in Netanya with nurses caring for them",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "כלכליסט, לפי המנכ\"ל סיימון פישר: בדירת הוריו של כהן במלון העונות בנתניה",
+   "source": "src7",
+   "quote": "apartment at the Seasons Hotel in Netanya",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261127-4",
+   "text": "ג'רוזלם פוסט: בדירתו של כהן עצמו",
+   "source": "src5",
+   "quote": "housed for several months in Cohen's own apartment",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
   }
  ],
  "sources": [
@@ -1568,6 +1630,13 @@
    "label": "JTA, obituary for Dr. Amram Cohen, 2001",
    "url": "https://www.jta.org/archive/dr-amram-cohen-an-israeli-heart-surgeon-who",
    "kind": "press"
+  },
+  {
+   "id": "src9001",
+   "label": "UNFPA, Sir Prince Ramsey, Guttmacher Institute and Save a Child's Heart recognized with UN Population Award, 26 June 2018",
+   "url": "https://www.unfpa.org/news/sir-prince-ramsey-guttmacher-institute-and-save-childs-heart-recognized-un-population-award",
+   "kind": "official",
+   "date": "2026-11-27"
   }
  ],
  "media": [

@@ -14,11 +14,12 @@
    ]
   },
   {
-   "text": "רעידת אדמה בעוצמה של 8 בסולם ריכטר פגעה בפרו ב-15 באוגוסט, והעיר פיסקו נפגעה בה הכי קשה.",
+   "text": "רעידת אדמה במגניטודה של 8 פגעה בפרו ב-15 באוגוסט, והעיר פיסקו נפגעה בה הכי קשה.",
    "claims": [
     "c31",
     "c36",
-    "c28"
+    "c28",
+    "c-aud-20261127-3"
    ]
   },
   {
@@ -110,9 +111,10 @@
       ]
      },
      {
-      "text": "היא הגיעה בשיאה לעוצמה של 8 בסולם ריכטר.",
+      "text": "היא הגיעה בשיאה למגניטודה של 8.",
       "claims": [
-       "c31"
+       "c31",
+       "c-aud-20261127-2"
       ]
      },
      {
@@ -144,9 +146,10 @@
     ],
     [
      {
-      "text": "בפיסקו חיו כ-130 אלף תושבים, והפגיעה בה הייתה הקשה ביותר.",
+      "text": "לפי מפקד 2007 חיו בפיסקו כ-55 אלף תושבים, והפגיעה בה הייתה הקשה ביותר.",
       "claims": [
-       "c28"
+       "c28",
+       "c-aud-20261127-1"
       ]
      },
      {
@@ -433,9 +436,10 @@
    "paragraphs": [
     [
      {
-      "text": "ד\"ר איליה גלר הוא מנתח אורתופד שמתנדב ביחידות חילוץ באזור הגליל.",
+      "text": "ד\"ר איליה גלר היה אז מנתח אורתופד שהתנדב ביחידות חילוץ באזור הגליל.",
       "claims": [
-       "c9"
+       "c9",
+       "c-aud-20261127-5"
       ]
      },
      {
@@ -487,9 +491,10 @@
    "paragraphs": [
     [
      {
-      "text": "כמעט כל 3,000 היהודים בפרו חיים בלימה.",
+      "text": "ב-2007 חיו כמעט כל 3,000 היהודים בפרו בלימה.",
       "claims": [
-       "c47"
+       "c47",
+       "c-aud-20261127-4"
       ]
      },
      {
@@ -1048,6 +1053,51 @@
    "quote": "The most affected cities are Chincha, Pisco, and Ica, located around 200 km south of the capital, Lima.",
    "status": "confirmed",
    "locator": "שורה 5"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "לפי מפקד 2007 חיו בפיסקו כ-55 אלף תושבים, והפגיעה בה הייתה הקשה ביותר.",
+   "source": "src9001",
+   "quote": "54,997",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "היא הגיעה בשיאה למגניטודה של 8.",
+   "source": "src3",
+   "quote": "a magnitude 8.0 earthquake shook the southern coast of this Andean country",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "רעידת אדמה במגניטודה של 8 פגעה בפרו ב-15 באוגוסט, והעיר פיסקו נפגעה בה הכי קשה.",
+   "source": "src3",
+   "quote": "a magnitude 8.0 earthquake shook the southern coast of this Andean country",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-4",
+   "text": "ב-2007 חיו כמעט כל 3,000 היהודים בפרו בלימה.",
+   "source": "src3",
+   "quote": "Nearly all of Peru’s 3,000 Jews live in Lima.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-5",
+   "text": "ד\"ר איליה גלר היה אז מנתח אורתופד שהתנדב ביחידות חילוץ באזור הגליל.",
+   "source": "src1",
+   "quote": "an orthopedic surgeon who volunteers with rescue units in the Galilee area",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1080,6 +1130,13 @@
    "label": "Doctors Without Borders (MSF), 2007",
    "url": "https://www.doctorswithoutborders.org/latest/earthquake-peru-msf-sends-emergency-relief-supplies",
    "kind": "organisation"
+  },
+  {
+   "id": "src9001",
+   "label": "City Population (INEI 2007 census data), Pisco district, Ica, Peru",
+   "url": "https://www.citypopulation.de/en/peru/ica/admin/pisco/110501__pisco/",
+   "kind": "reference",
+   "date": "2026-11-27"
   }
  ],
  "media": [

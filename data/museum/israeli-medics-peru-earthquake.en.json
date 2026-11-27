@@ -1,7 +1,7 @@
 {
  "schema": "maasei-museum/1",
  "slug": "israeli-medics-peru-earthquake",
- "deed": "שישה רופאים ואחים ישראלים סייעו לנפגעי רעידת אדמה בפרו",
+ "deed": "Six Israeli doctors and nurses helped victims of the earthquake in Peru",
  "canonical_type": "rescue-operation",
  "year": "2007",
  "title": "Israeli Medical Mission to Victims of the Earthquake in Peru",
@@ -14,11 +14,12 @@
    ]
   },
   {
-   "text": "An earthquake of magnitude 8 on the Richter scale struck Peru on August 15, and the city of Pisco was hit hardest.",
+   "text": "An earthquake of magnitude 8 struck Peru on August 15, and the city of Pisco was hit hardest.",
    "claims": [
     "c31",
     "c36",
-    "c28"
+    "c28",
+    "c-aud-20261127-3"
    ]
   },
   {
@@ -110,9 +111,10 @@
       ]
      },
      {
-      "text": "At its peak it reached a magnitude of 8 on the Richter scale.",
+      "text": "At its peak it reached a magnitude of 8.",
       "claims": [
-       "c31"
+       "c31",
+       "c-aud-20261127-2"
       ]
      },
      {
@@ -144,9 +146,10 @@
     ],
     [
      {
-      "text": "Pisco had about 130 thousand residents, and it was the hardest hit.",
+      "text": "According to the 2007 census, Pisco had about 55 thousand residents, and it was the hardest hit.",
       "claims": [
-       "c28"
+       "c28",
+       "c-aud-20261127-1"
       ]
      },
      {
@@ -433,9 +436,10 @@
    "paragraphs": [
     [
      {
-      "text": "Dr. Ilya Geller is an orthopedic surgeon who volunteers with rescue units in the Galilee area.",
+      "text": "Dr. Ilya Geller was then an orthopedic surgeon who volunteered with rescue units in the Galilee area.",
       "claims": [
-       "c9"
+       "c9",
+       "c-aud-20261127-5"
       ]
      },
      {
@@ -487,9 +491,10 @@
    "paragraphs": [
     [
      {
-      "text": "Nearly all of Peru's 3,000 Jews live in Lima.",
+      "text": "In 2007, nearly all of Peru's 3,000 Jews lived in Lima.",
       "claims": [
-       "c47"
+       "c47",
+       "c-aud-20261127-4"
       ]
      },
      {
@@ -1048,6 +1053,51 @@
    "quote": "The most affected cities are Chincha, Pisco, and Ica, located around 200 km south of the capital, Lima.",
    "status": "confirmed",
    "locator": "שורה 5"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "לפי מפקד 2007 חיו בפיסקו כ-55 אלף תושבים, והפגיעה בה הייתה הקשה ביותר.",
+   "source": "src9001",
+   "quote": "54,997",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "היא הגיעה בשיאה למגניטודה של 8.",
+   "source": "src3",
+   "quote": "a magnitude 8.0 earthquake shook the southern coast of this Andean country",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "רעידת אדמה במגניטודה של 8 פגעה בפרו ב-15 באוגוסט, והעיר פיסקו נפגעה בה הכי קשה.",
+   "source": "src3",
+   "quote": "a magnitude 8.0 earthquake shook the southern coast of this Andean country",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-4",
+   "text": "ב-2007 חיו כמעט כל 3,000 היהודים בפרו בלימה.",
+   "source": "src3",
+   "quote": "Nearly all of Peru’s 3,000 Jews live in Lima.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-5",
+   "text": "ד\"ר איליה גלר היה אז מנתח אורתופד שהתנדב ביחידות חילוץ באזור הגליל.",
+   "source": "src1",
+   "quote": "an orthopedic surgeon who volunteers with rescue units in the Galilee area",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1080,6 +1130,13 @@
    "label": "Doctors Without Borders (MSF), 2007",
    "url": "https://www.doctorswithoutborders.org/latest/earthquake-peru-msf-sends-emergency-relief-supplies",
    "kind": "organisation"
+  },
+  {
+   "id": "src9001",
+   "label": "City Population (INEI 2007 census data), Pisco district, Ica, Peru",
+   "url": "https://www.citypopulation.de/en/peru/ica/admin/pisco/110501__pisco/",
+   "kind": "reference",
+   "date": "2026-11-27"
   }
  ],
  "media": [

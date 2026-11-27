@@ -7,10 +7,12 @@
  "title": "שלושה ישראלים ומתנדבים מיפו את הארץ ובנו את ווייז, שגוגל קנתה ביותר ממיליארד דולר",
  "trailer": [
   {
-   "text": "ווייז, אפליקציית הניווט שנולדה כפתרון לעומסי התנועה בתל אביב, הוקמה על ידי שלושה ישראלים: אהוד שבתאי, עמיר שנער ואורי לוין.",
+   "text": "ווייז, אפליקציית הניווט שנולדה כפתרון לעומסי התנועה בתל אביב, הוקמה לפי TechCrunch על ידי שלושה ישראלים: אהוד שבתאי, עמיר שנער ואורי לוין.",
    "claims": [
     "c38",
-    "c41"
+    "c41",
+    "c-aud-20261127-2",
+    "c-aud-20261127-3"
    ]
   },
   {
@@ -55,9 +57,11 @@
  "glance": [
   {
    "label": "מייסדים",
-   "value": "אהוד שבתאי, עמיר שנער, אורי לוין",
+   "value": "אהוד שבתאי, עמיר שנער, אורי לוין (לפי גלובס גם אריק גילון)",
    "claims": [
-    "c41"
+    "c41",
+    "c-aud-20261127-2",
+    "c-aud-20261127-3"
    ]
   },
   {
@@ -607,9 +611,10 @@
       ]
      },
      {
-      "text": "נועם ברדין עזב את החברה ב-2020 בנסיבות שנויות במחלוקת, לאחר חיכוך על תרבות העבודה בגוגל.",
+      "text": "נועם ברדין הודיע בנובמבר 2020 על פרישתו ועזב את החברה בתחילת 2021, לאחר חיכוך על תרבות העבודה בגוגל.",
       "claims": [
-       "c60"
+       "c60",
+       "c-aud-20261127-1"
       ]
      },
      {
@@ -789,6 +794,24 @@
      "says": "לפי גלובס, ב-2023 כ-150 מיליון איש בעולם מדי יום",
      "claims": [
       "c64"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9001",
+   "question": "כמה מייסדים היו לווייז?",
+   "versions": [
+    {
+     "says": "TechCrunch: שלושה, אהוד שבתאי, עמיר שנער ואורי לוין",
+     "claims": [
+      "c-aud-20261127-2"
+     ]
+    },
+    {
+     "says": "גלובס: גם אריק גילון היה ממייסדי ווייז; הוא הכיר בין השותפים והחזיק 0.3% מהמניות",
+     "claims": [
+      "c-aud-20261127-3"
      ]
     }
    ]
@@ -1371,6 +1394,33 @@
    "quote": "which news provider Reuters said had been sold for $1.3bn, although terms were undisclosed.",
    "status": "confirmed",
    "locator": "שורה 1"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "נועם ברדין הודיע בנובמבר 2020 על פרישתו ועזב את החברה בתחילת 2021, לאחר חיכוך על תרבות העבודה בגוגל.",
+   "source": "src9001",
+   "quote": "Bardin said he will stay on through January 2021 to help find the right person and aid with the transition.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "TechCrunch: שלושה, אהוד שבתאי, עמיר שנער ואורי לוין",
+   "source": "src9001",
+   "quote": "That credit goes to Ehud Shabtai, Amir Shinar and Uri Levine who started Waze in Israel in 2008.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "גלובס: גם אריק גילון היה ממייסדי ווייז; הוא הכיר בין השותפים והחזיק 0.3% מהמניות",
+   "source": "src2",
+   "quote": "His involvement in Waze's founding team included introducing the other partners, which led to the founding of the company.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1457,6 +1507,13 @@
    "label": "Globes: Google to buy Waze for $1.3b",
    "url": "https://globalventuring.com/blog/2013/06/13/qualcomm-ventures-nets-10x-on-waze/?format=md",
    "kind": "press"
+  },
+  {
+   "id": "src9001",
+   "label": "TechCrunch, Waze CEO Noam Bardin to leave company in early 2021, 10 Nov 2020",
+   "url": "https://techcrunch.com/2020/11/10/waze-ceo-noam-bardin-to-leave-company-in-early-2021/",
+   "kind": "press",
+   "date": "2026-11-27"
   }
  ],
  "media": [

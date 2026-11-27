@@ -124,9 +124,10 @@
     ],
     [
      {
-      "text": "Some 300,000 of them are in the US and another 350,000 in Europe.",
+      "text": "According to a 1996 Weizmann Institute press release, about one million people worldwide then had MS, some 300,000 of them in the US and another 350,000 in Europe.",
       "claims": [
-       "c13"
+       "c13",
+       "c-aud-20261127-1"
       ]
      }
     ],
@@ -353,7 +354,9 @@
    "media": [
     "m9"
    ],
-   "disagreements": []
+   "disagreements": [
+    "d9001"
+   ]
   },
   {
    "id": "s6",
@@ -538,9 +541,10 @@
       ]
      },
      {
-      "text": "According to Globes in 2013, the Copaxone patent was due to expire within two years.",
+      "text": "According to Globes, Copaxone's US patents expired on 24 May 2014.",
       "claims": [
-       "c47"
+       "c47",
+       "c-aud-20261127-2"
       ]
      }
     ]
@@ -549,7 +553,26 @@
    "disagreements": []
   }
  ],
- "disagreements": [],
+ "disagreements": [
+  {
+   "id": "d9001",
+   "question": "Does Copaxone reduce long-term disability?",
+   "versions": [
+    {
+     "says": "The Telegraph (Sela obituary, 2022): the drug made relapses less frequent and reduced disability in the long run.",
+     "claims": [
+      "c-aud-20261127-3"
+     ]
+    },
+    {
+     "says": "Cochrane review (2010): partly effective against relapses, but with no significant effect on sustained disability progression.",
+     "claims": [
+      "c-aud-20261127-4"
+     ]
+    }
+   ]
+  }
+ ],
  "unknowns": [
   {
    "text": "In a decisive double-blind trial carried out between 1991 and 1994, the drug was tried on several hundred patients in eleven US hospitals.",
@@ -966,6 +989,42 @@
    "quote": "Along with Prof. Ruth Arnon and Dr. Dvora Teitelbaum, that ultimately also led to the development of Copaxone.",
    "status": "confirmed",
    "locator": "שורה 72"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "לפי הודעת מכון ויצמן מ-1996, כמיליון בני אדם בעולם חלו אז בטרשת נפוצה, כ-300,000 מהם בארה\"ב ועוד 350,000 באירופה.",
+   "source": "src2",
+   "quote": "some 300,000 patients in the US and an additional 350,000 in Europe",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "לפי גלובס, הפטנטים על קופקסון בארה\"ב פגו ב-24 במאי 2014.",
+   "source": "src9001",
+   "quote": "passed on May 24 with no dramatic incidents",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "הטלגרף (הספד לסלע, 2022): התרופה הפחיתה את תדירות ההתקפים והקטינה נכות לאורך זמן.",
+   "source": "src1",
+   "quote": "it made relapses less frequent, reducing disability in the long run",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-4",
+   "text": "סקירת קוקרן (2010): התרופה יעילה חלקית בהפחתת התקפים, אבל בלי השפעה מובהקת על החמרה מתמשכת של הנכות.",
+   "source": "src9002",
+   "quote": "without any significant effect on clinical progression of disease measured as sustained disability",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1016,6 +1075,20 @@
    "label": "Jewish Press, obituary of Michael Sela, 30.5.2022",
    "url": "https://jewishpress.com/news/obituaries/inventor-of-drugs-for-ms-cancer-passes-away/2022/05/30",
    "kind": "press"
+  },
+  {
+   "id": "src9001",
+   "label": "Globes, Copaxone US patent expires, 25.5.2014",
+   "url": "https://en.globes.co.il/en/article-copaxone-us-patent-expires-1000941322",
+   "kind": "press",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9002",
+   "label": "Cochrane, La Mantia et al., Glatiramer acetate for multiple sclerosis (CD004678), 2010",
+   "url": "https://www.cochrane.org/CD004678",
+   "kind": "reference",
+   "date": "2026-11-27"
   }
  ],
  "media": [

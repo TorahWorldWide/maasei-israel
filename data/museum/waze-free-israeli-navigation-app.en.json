@@ -7,10 +7,12 @@
  "title": "Three Israelis and volunteers mapped the country and built Waze, which Google bought for more than a billion dollars",
  "trailer": [
   {
-   "text": "Waze, the navigation app that was born as a solution to traffic congestion in Tel Aviv, was founded by three Israelis: Ehud Shabtai, Amir Shinar and Uri Levine.",
+   "text": "Waze, the navigation app that was born as a solution to traffic congestion in Tel Aviv, was founded, according to TechCrunch, by three Israelis: Ehud Shabtai, Amir Shinar and Uri Levine.",
    "claims": [
     "c38",
-    "c41"
+    "c41",
+    "c-aud-20261127-2",
+    "c-aud-20261127-3"
    ]
   },
   {
@@ -55,9 +57,11 @@
  "glance": [
   {
    "label": "Founders",
-   "value": "Ehud Shabtai, Amir Shinar, Uri Levine",
+   "value": "Ehud Shabtai, Amir Shinar, Uri Levine (according to Globes, also Arik Gillon)",
    "claims": [
-    "c41"
+    "c41",
+    "c-aud-20261127-2",
+    "c-aud-20261127-3"
    ]
   },
   {
@@ -607,9 +611,10 @@
       ]
      },
      {
-      "text": "Noam Bardin left the company in 2020 in controversial circumstances, after friction over the work culture at Google.",
+      "text": "Noam Bardin announced his departure in November 2020 and left the company in early 2021, after friction over the work culture at Google.",
       "claims": [
-       "c60"
+       "c60",
+       "c-aud-20261127-1"
       ]
      },
      {
@@ -789,6 +794,24 @@
      "says": "According to Globes, in 2023 about 150 million people worldwide every day",
      "claims": [
       "c64"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9001",
+   "question": "How many founders did Waze have?",
+   "versions": [
+    {
+     "says": "TechCrunch: three, Ehud Shabtai, Amir Shinar and Uri Levine",
+     "claims": [
+      "c-aud-20261127-2"
+     ]
+    },
+    {
+     "says": "Globes: Arik Gillon was also a Waze co-founder; he introduced the partners and held a 0.3% stake",
+     "claims": [
+      "c-aud-20261127-3"
      ]
     }
    ]
@@ -1371,6 +1394,33 @@
    "quote": "which news provider Reuters said had been sold for $1.3bn, although terms were undisclosed.",
    "status": "confirmed",
    "locator": "שורה 1"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "נועם ברדין הודיע בנובמבר 2020 על פרישתו ועזב את החברה בתחילת 2021, לאחר חיכוך על תרבות העבודה בגוגל.",
+   "source": "src9001",
+   "quote": "Bardin said he will stay on through January 2021 to help find the right person and aid with the transition.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "TechCrunch: שלושה, אהוד שבתאי, עמיר שנער ואורי לוין",
+   "source": "src9001",
+   "quote": "That credit goes to Ehud Shabtai, Amir Shinar and Uri Levine who started Waze in Israel in 2008.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "גלובס: גם אריק גילון היה ממייסדי ווייז; הוא הכיר בין השותפים והחזיק 0.3% מהמניות",
+   "source": "src2",
+   "quote": "His involvement in Waze's founding team included introducing the other partners, which led to the founding of the company.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1457,6 +1507,13 @@
    "label": "Globes: Google to buy Waze for $1.3b",
    "url": "https://globalventuring.com/blog/2013/06/13/qualcomm-ventures-nets-10x-on-waze/?format=md",
    "kind": "press"
+  },
+  {
+   "id": "src9001",
+   "label": "TechCrunch, Waze CEO Noam Bardin to leave company in early 2021, 10 Nov 2020",
+   "url": "https://techcrunch.com/2020/11/10/waze-ceo-noam-bardin-to-leave-company-in-early-2021/",
+   "kind": "press",
+   "date": "2026-11-27"
   }
  ],
  "media": [

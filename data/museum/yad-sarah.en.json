@@ -348,9 +348,10 @@
       ]
      },
      {
-      "text": "According to The Jerusalem Post in 2021, citing The New York Times, Yad Sarah lost $1.5 million that it had invested with Bernie Madoff.",
+      "text": "According to JTA in December 2008, American Friends of Yad Sarah had $1.5 million invested in 2006 with J. Ezra Merkin's Ascot Partners, a fund that lost all its assets in the Bernie Madoff scandal; Yad Sarah was still checking into the matter at the time.",
       "claims": [
-       "c816"
+       "c816",
+       "c-aud-20261127-1"
       ]
      }
     ]
@@ -1188,6 +1189,15 @@
    "quote": "בהם מוצעים אלפי פריטי ציוד רפואי שיקומי לטיפול ביתי חיוני. כך חוסכת יד שרה לקופת המדינה כ-3 מיליארד דולר על ימי אשפוז.",
    "status": "confirmed",
    "locator": "שורה 17"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "לפי JTA בדצמבר 2008, ארגון הידידים האמריקני של יד שרה החזיק ב-2006 השקעה של 1.5 מיליון דולר בקרן Ascot Partners של עזרא מרקין, שאיבדה את כל נכסיה בפרשת ברני מיידוף; יד שרה עדיין בדקה אז את העניין.",
+   "source": "src9001",
+   "quote": "had $1.5 million invested with J. Ezra Merkin's Ascot Partners",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1328,6 +1338,13 @@
    "label": "Teva, Meet Yad Sarah, 1.1.2019",
    "url": "https://www.teva.co.il/caregivers/association/association-articles/yad-sara",
    "kind": "press"
+  },
+  {
+   "id": "src9001",
+   "label": "JTA, Jacob Berkman, \"Yad Sarah lost $1.5 million in Madoff scandal\", 16.12.2008",
+   "url": "https://www.jta.org/?p=456768",
+   "kind": "press",
+   "date": "2026-11-27"
   }
  ],
  "media": [

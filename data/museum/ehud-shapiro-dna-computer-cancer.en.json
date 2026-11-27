@@ -265,16 +265,18 @@
       ]
      },
      {
-      "text": "The computer answers five yes/no questions in order to establish whether the typical markers of prostate cancer are present.",
+      "text": "The computer checks four genes whose activity is abnormal in prostate cancer, in order to establish whether the typical markers of the disease are present.",
       "claims": [
-       "c34"
+       "c34",
+       "c-aud-20261127-1"
       ]
      },
      {
-      "text": "It needs five positive answers, and only when all five locks have been opened is the drug released.",
+      "text": "Only if all four genes are abnormally active is the drug released.",
       "claims": [
        "c35",
-       "c37"
+       "c37",
+       "c-aud-20261127-2"
       ]
      },
      {
@@ -440,10 +442,11 @@
       ]
      },
      {
-      "text": "In a follow-up study, Benenson and his team created a molecular computer that cures a certain type of cancer in mice.",
+      "text": "In 2021 Benenson and his colleagues at ETH Zurich reported on a different biological computer: a programmable genetic circuit delivered into cells inside an engineered virus. In an experiment on mice with liver cancer, the tumours disappeared in the mice that received the full computer.",
       "claims": [
        "c74",
-       "c75"
+       "c75",
+       "c-aud-20261127-3"
       ]
      }
     ]
@@ -1070,6 +1073,33 @@
    "quote": "the mice who received the full computer both saw their tumors disappear and were spared from the toxicity.",
    "status": "confirmed",
    "locator": "שורה 19"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "המחשב בודק ארבעה גנים שפעילותם חריגה בסרטן הערמונית, כדי לקבוע אם סמני המחלה הטיפוסיים קיימים.",
+   "source": "src9001",
+   "quote": "For each cancer, the team targeted four genes that become either overactive or underactive in people with the disease.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "רק אם כל ארבעת הגנים פעילים באופן חריג, התרופה משתחררת.",
+   "source": "src9002",
+   "quote": "analyzes whether all four genes are abnormally active",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "ב-2021 דיווחו בננסון ועמיתיו ב-ETH ציריך על מחשב ביולוגי אחר: מעגל גנטי שאפשר לתכנת, שמוחדר לתאים בתוך נגיף מהונדס. בניסוי בעכברים עם סרטן כבד נעלמו הגידולים אצל העכברים שקיבלו את המחשב המלא.",
+   "source": "src12",
+   "quote": "the mice who received the full computer both saw their tumors disappear",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1138,6 +1168,20 @@
    "label": "STAT: Biological computer targets cancer, spares healthy cells",
    "url": "https://www.statnews.com/2021/12/22/biological-computer-target-cancer-spare-healthy-cells/",
    "kind": "press"
+  },
+  {
+   "id": "src9001",
+   "label": "Science News, Injectable medibots: programmable DNA could diagnose and treat cancer, 2004",
+   "url": "https://www.sciencenews.org/article/injectable-medibots-programmable-dna-could-diagnose-and-treat-cancer",
+   "kind": "press",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9002",
+   "label": "Scientific American, The 2004 Scientific American 50: Research Leaders, 11.11.2004",
+   "url": "https://www.scientificamerican.com/article/the-2004-scientific-american-50-award-research-leaders-2004-11-11/",
+   "kind": "press",
+   "date": "2026-11-27"
   }
  ],
  "media": [

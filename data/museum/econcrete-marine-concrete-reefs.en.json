@@ -34,9 +34,10 @@
    ]
   },
   {
-   "text": "According to the European Patent Office, their concrete has to date been used in more than forty projects in ten countries.",
+   "text": "According to the European Patent Office, by 2022 their concrete had been used in more than forty projects in ten countries.",
    "claims": [
-    "c7"
+    "c7",
+    "c-aud-20261127-1"
    ]
   }
  ],
@@ -303,9 +304,10 @@
       ]
      },
      {
-      "text": "In 2016 ECOncrete received a grant from the Israel-U.S. BIRD Foundation to work with the Besser concrete company of Michigan.",
+      "text": "In December 2015 the Israel-U.S. BIRD Foundation approved a grant for ECOncrete to work with the Besser concrete company of Michigan.",
       "claims": [
-       "c46"
+       "c46",
+       "c-aud-20261127-2"
       ]
      }
     ],
@@ -1368,6 +1370,24 @@
    "quote": "Yesterday afternoon, Shimrit was involved in a car accident and did not survive.",
    "status": "confirmed",
    "locator": "שורה 26"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "לפי הארגון האירופי לפטנטים, עד 2022 שימש הבטון שלהם ביותר מארבעים פרויקטים בעשר מדינות.",
+   "source": "src1",
+   "quote": "to date, it has been used in over forty projects in ten countries",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "בדצמבר 2015 אישרה קרן BIRD הישראלית-אמריקאית מענק ל-ECOncrete, כדי לעבוד עם חברת הבטון בסר ממישיגן.",
+   "source": "src9001",
+   "quote": "Approved Dec. 2015",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1436,6 +1456,13 @@
    "label": "Frontiers in Climate, mini review, 2025",
    "url": "https://www.frontiersin.org/articles/10.3389/fclim.2025.1529019",
    "kind": "press"
+  },
+  {
+   "id": "src9001",
+   "label": "BIRD Foundation, project page: Bio-enhanced Drycast Concrete Products that Mitigate Climate Impact (Besser / ECOncrete Tech Ltd.)",
+   "url": "https://www.birdf.com/?p=7151",
+   "kind": "official",
+   "date": "2026-11-27"
   }
  ],
  "media": [

@@ -34,9 +34,10 @@
    ]
   },
   {
-   "text": "According to Joffe, the product is installed today at about 130 organizations that treat tens of thousands of patients.",
+   "text": "According to Joffe, in January 2025 the product was installed at about 130 organizations that treat tens of thousands of patients.",
    "claims": [
-    "c53"
+    "c53",
+    "c-aud-20261127-1"
    ]
   }
  ],
@@ -194,9 +195,10 @@
       ]
      },
      {
-      "text": "Sharvit served as Chief Clinical Officer and headed a team of seven clinical psychologists.",
+      "text": "Sharvit served as the company's Chief Clinical Officer and headed a team of seven in-house clinical psychologists.",
       "claims": [
-       "c61"
+       "c61",
+       "c-aud-20261127-4"
       ]
      }
     ]
@@ -380,9 +382,10 @@
    "paragraphs": [
     [
      {
-      "text": "Eleos has deployed its solution with over a dozen leading provider organizations, among them Solvista Health, Achieve, Yeshiva University and ReachLink.",
+      "text": "By the end of 2021, Eleos had deployed its solution with over a dozen leading provider organizations, among them Solvista Health, Achieve, Yeshiva University and ReachLink.",
       "claims": [
-       "c60"
+       "c60",
+       "c-aud-20261127-7"
       ]
      },
      {
@@ -414,9 +417,10 @@
     ],
     [
      {
-      "text": "According to Joffe, the product is installed by about 130 customers, organizations that treat tens of thousands of patients.",
+      "text": "According to Joffe, in January 2025 the product was installed by about 130 customers, organizations that treat tens of thousands of patients.",
       "claims": [
-       "c53"
+       "c53",
+       "c-aud-20261127-2"
       ]
      },
      {
@@ -438,7 +442,9 @@
    "media": [
     "m4"
    ],
-   "disagreements": []
+   "disagreements": [
+    "d9001"
+   ]
   },
   {
    "id": "s6",
@@ -609,14 +615,33 @@
      ]
     }
    ]
+  },
+  {
+   "id": "d9001",
+   "question": "Does Eleos work only with community providers?",
+   "versions": [
+    {
+     "says": "Axios (2023): the company works exclusively with community health providers and FQHCs",
+     "claims": [
+      "c-aud-20261127-5"
+     ]
+    },
+    {
+     "says": "Rabinovich in Calcalist (2021): health systems and community clinics are the two main segments",
+     "claims": [
+      "c-aud-20261127-6"
+     ]
+    }
+   ]
   }
  ],
  "unknowns": [
   {
-   "text": "Dror Zaide, a co-founder of Eleos Health, serves as the company's Chief Operating Officer (COO).",
+   "text": "Dror Zaide, a co-founder of Eleos Health, was initially the company's Chief Operating Officer (COO), and in January 2025 its Chief Revenue Officer (CRO).",
    "claims": [
     "c9",
-    "c13"
+    "c13",
+    "c-aud-20261127-3"
    ]
   },
   {
@@ -1160,6 +1185,69 @@
    "quote": "expanding to serve 23 states",
    "status": "confirmed",
    "locator": "שורה 10"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "לפי יפה, בינואר 2025 היה המוצר מותקן אצל כ-130 ארגונים שמטפלים בעשרות אלפי מטופלים.",
+   "source": "src4",
+   "quote": "Joffe says the company's product is installed by about 130 customers",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "לפי יפה, בינואר 2025 היה המוצר מותקן אצל כ-130 לקוחות, ארגונים שמטפלים בעשרות אלפי מטופלים.",
+   "source": "src4",
+   "quote": "Joffe says the company's product is installed by about 130 customers",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "דרור זייד, ממייסדי Eleos Health, כיהן בתחילת הדרך כסמנכ\"ל התפעול (COO), ובינואר 2025 כמנהל ההכנסות הראשי (CRO) של החברה.",
+   "source": "src4",
+   "quote": "founded in 2020 by CEO Alon Joffe, CTO Alon Rabinovich and CRO Dror Zaide",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-4",
+   "text": "שרביט כיהנה כמנהלת הקלינית הראשית של החברה (Chief Clinical Officer) וניהלה צוות של שבעה פסיכולוגים קליניים בחברה.",
+   "source": "src2",
+   "quote": "Chief Clinical Officer heading a team of seven, in-house, clinical psychologists",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-5",
+   "text": "Axios (2023): החברה עובדת רק עם ספקי בריאות קהילתיים ומרכזי בריאות פדרליים",
+   "source": "src6",
+   "quote": "Eleos works exclusively with community health providers and Federally Qualified Health Centers",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261127-6",
+   "text": "רבינוביץ' ב-Calcalist (2021): מערכות בריאות ומרפאות קהילתיות הן שני הפלחים העיקריים",
+   "source": "src2",
+   "quote": "Health systems and community behavioral health clinics are the two main segments",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-7",
+   "text": "עד סוף 2021 הטמיעה Eleos את הפתרון שלה אצל יותר מתריסר ארגוני ספקים מובילים, ובהם Solvista Health, Achieve, אוניברסיטת ישיבה ו-ReachLink.",
+   "source": "src2",
+   "quote": "To date, Eleos has already deployed its solution with over a dozen leading provider organizations",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [

@@ -34,9 +34,10 @@
    ]
   },
   {
-   "text": "לפי הארגון האירופי לפטנטים, הבטון שלהם שימש עד היום ביותר מארבעים פרויקטים בעשר מדינות.",
+   "text": "לפי הארגון האירופי לפטנטים, עד 2022 שימש הבטון שלהם ביותר מארבעים פרויקטים בעשר מדינות.",
    "claims": [
-    "c7"
+    "c7",
+    "c-aud-20261127-1"
    ]
   }
  ],
@@ -303,9 +304,10 @@
       ]
      },
      {
-      "text": "ב-2016 קיבלה ECOncrete מענק מקרן BIRD הישראלית-אמריקאית, כדי לעבוד עם חברת הבטון בסר ממישיגן.",
+      "text": "בדצמבר 2015 אישרה קרן BIRD הישראלית-אמריקאית מענק ל-ECOncrete, כדי לעבוד עם חברת הבטון בסר ממישיגן.",
       "claims": [
-       "c46"
+       "c46",
+       "c-aud-20261127-2"
       ]
      }
     ],
@@ -1368,6 +1370,24 @@
    "quote": "Yesterday afternoon, Shimrit was involved in a car accident and did not survive.",
    "status": "confirmed",
    "locator": "שורה 26"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "לפי הארגון האירופי לפטנטים, עד 2022 שימש הבטון שלהם ביותר מארבעים פרויקטים בעשר מדינות.",
+   "source": "src1",
+   "quote": "to date, it has been used in over forty projects in ten countries",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "בדצמבר 2015 אישרה קרן BIRD הישראלית-אמריקאית מענק ל-ECOncrete, כדי לעבוד עם חברת הבטון בסר ממישיגן.",
+   "source": "src9001",
+   "quote": "Approved Dec. 2015",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1436,6 +1456,13 @@
    "label": "Frontiers in Climate, mini review, 2025",
    "url": "https://www.frontiersin.org/articles/10.3389/fclim.2025.1529019",
    "kind": "press"
+  },
+  {
+   "id": "src9001",
+   "label": "BIRD Foundation, project page: Bio-enhanced Drycast Concrete Products that Mitigate Climate Impact (Besser / ECOncrete Tech Ltd.)",
+   "url": "https://www.birdf.com/?p=7151",
+   "kind": "official",
+   "date": "2026-11-27"
   }
  ],
  "media": [

@@ -1,0 +1,56 @@
+{
+ "schema": "maasei-backdrop/1",
+ "slug": "united-hatzalah-90-second-response",
+ "media": "m6",
+ "img": "https://commons.wikimedia.org/wiki/Special:FilePath/United%20Hatzalah%20of%20Israel%20Helicopter%20Rescue.jpg?width=1920",
+ "img_small": "https://commons.wikimedia.org/wiki/Special:FilePath/United%20Hatzalah%20of%20Israel%20Helicopter%20Rescue.jpg?width=1080",
+ "why": "A wide, sharp scene of medics and rescue crews in orange vests working around a military helicopter during an air evacuation puts the visitor straight into an emergency rescue.",
+ "chosen_by": "opus picker",
+ "alternates": [
+  "m8"
+ ],
+ "from": {
+  "average": "#93928c",
+  "picked": "#b63126",
+  "coloured_share": 0.169,
+  "lightness": 0.568
+ },
+ "palette": {
+  "paper": "#f4eae9",
+  "surface": "#faf6f6",
+  "band": "#ecd9d7",
+  "tint": "#eacecc",
+  "header": "#efe0df",
+  "rule": "#d5b2af",
+  "text": "#2a1918",
+  "text2": "#4c3533",
+  "accent": "#8c2921",
+  "meta": "#68514f",
+  "tone": "#22211b",
+  "shadow": "33, 19, 18"
+ },
+ "checks": {
+  "text_on_paper": 14.23,
+  "text_on_surface": 15.65,
+  "text_on_band": 12.37,
+  "text_on_tint": 11.35,
+  "text_on_header": 13.11,
+  "text2_on_paper": 9.54,
+  "text2_on_surface": 10.5,
+  "text2_on_band": 8.3,
+  "text2_on_tint": 7.62,
+  "text2_on_header": 8.8,
+  "accent_on_paper": 7.25,
+  "accent_on_surface": 7.98,
+  "accent_on_band": 6.3,
+  "accent_on_tint": 5.79,
+  "accent_on_header": 6.68,
+  "meta_on_paper": 6.18,
+  "meta_on_surface": 6.8,
+  "meta_on_band": 5.38,
+  "meta_on_tint": 4.93,
+  "meta_on_header": 5.7,
+  "paper_on_accent": 7.25
+ },
+ "passed": true
+}

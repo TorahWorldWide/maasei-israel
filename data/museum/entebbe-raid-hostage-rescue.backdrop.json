@@ -1,0 +1,56 @@
+{
+ "schema": "maasei-backdrop/1",
+ "slug": "entebbe-raid-hostage-rescue",
+ "media": "m18",
+ "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Entebbe%20Airport%20DF-ST-02-03033.jpg?width=1920",
+ "img_small": "https://commons.wikimedia.org/wiki/Special:FilePath/Entebbe%20Airport%20DF-ST-02-03033.jpg?width=1080",
+ "why": "A wide, deep view of the old Entebbe terminal and control tower with Hercules aircraft on the apron and the Ugandan hills behind, which puts the visitor right at the place of the raid.",
+ "chosen_by": "opus picker",
+ "alternates": [
+  "m24"
+ ],
+ "from": {
+  "average": "#7f8c98",
+  "picked": "#7195b2",
+  "coloured_share": 0.502,
+  "lightness": 0.547
+ },
+ "palette": {
+  "paper": "#e9eff4",
+  "surface": "#f6f8fa",
+  "band": "#d7e3ec",
+  "tint": "#ccddea",
+  "header": "#dfe8ef",
+  "rule": "#afc4d5",
+  "text": "#18222a",
+  "text2": "#33414c",
+  "accent": "#365a78",
+  "meta": "#4f5d68",
+  "tone": "#1b1f22",
+  "shadow": "18, 26, 33"
+ },
+ "checks": {
+  "text_on_paper": 13.93,
+  "text_on_surface": 15.16,
+  "text_on_band": 12.37,
+  "text_on_tint": 11.6,
+  "text_on_header": 13.01,
+  "text2_on_paper": 9.05,
+  "text2_on_surface": 9.86,
+  "text2_on_band": 8.04,
+  "text2_on_tint": 7.54,
+  "text2_on_header": 8.46,
+  "accent_on_paper": 6.27,
+  "accent_on_surface": 6.82,
+  "accent_on_band": 5.57,
+  "accent_on_tint": 5.22,
+  "accent_on_header": 5.86,
+  "meta_on_paper": 5.85,
+  "meta_on_surface": 6.37,
+  "meta_on_band": 5.19,
+  "meta_on_tint": 4.87,
+  "meta_on_header": 5.46,
+  "paper_on_accent": 6.27
+ },
+ "passed": true
+}

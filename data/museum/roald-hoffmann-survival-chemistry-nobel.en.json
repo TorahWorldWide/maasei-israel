@@ -1,2012 +1,1977 @@
 {
-  "schema": "maasei-museum/1",
-  "slug": "roald-hoffmann-survival-chemistry-nobel",
-  "deed": "רואלד הופמן — הישרדות במסתור ונובל לכימיה",
-  "canonical_type": "historical-figure",
-  "year": "1943",
-  "title": "Roald Hoffmann: A Jewish Boy Hidden in a Schoolhouse in a Ukrainian Village, Who Won the Nobel Prize in Chemistry",
-  "trailer": [
-    {
-      "text": "Roald Hoffmann, born in 1937 to a Jewish family in Złoczów, Poland, won the 1981 Nobel Prize in Chemistry.",
-      "claims": [
-        "c1",
-        "c2",
-        "c43",
-        "c62"
-      ]
-    },
-    {
-      "text": "According to Yad Vashem, in his childhood he and his mother Clara were hidden by the teacher Mykola Dyuk and his wife Maria in the school building in the village of Uniow.",
-      "claims": [
-        "c13",
-        "c14",
-        "c19",
-        "c22"
-      ]
-    },
-    {
-      "text": "According to Yad Vashem, no one in the village knew about them, and Maria cared for them and prepared their food.",
-      "claims": [
-        "c18",
-        "c21"
-      ]
-    },
-    {
-      "text": "After the war Hoffmann came to the United States at the age of 11, and there he grew up to become a chemist.",
-      "claims": [
-        "c65",
-        "c41"
-      ]
-    },
-    {
-      "text": "In 2007 Roald and his sister Elinor turned to Yad Vashem, and that same year Mykola and Maria Dyuk were awarded the title of Righteous Among the Nations.",
-      "claims": [
-        "c26",
-        "c24"
-      ]
-    }
-  ],
-  "hero_media": [
-    "m1",
-    "m11",
-    "m3",
-    "m2",
-    "m8",
-    "m13",
-    "m6",
-    "m19",
-    "m35"
-  ],
-  "glance": [
-    {
-      "label": "Born",
-      "value": "1937, Złoczów (now Ukraine)",
-      "claims": [
-        "c1"
-      ]
-    },
-    {
-      "label": "The hiding place",
-      "value": "The school in the village of Uniow, 1943–1944",
-      "claims": [
-        "c13",
-        "c17"
-      ]
-    },
-    {
-      "label": "The rescuers",
-      "value": "Mykola and Maria Dyuk",
-      "claims": [
-        "c19"
-      ]
-    },
-    {
-      "label": "Recognition of the rescuers",
-      "value": "Righteous Among the Nations, 2007",
-      "claims": [
-        "c24"
-      ]
-    },
-    {
-      "label": "Prize",
-      "value": "Nobel Prize in Chemistry, 1981",
-      "claims": [
-        "c43"
-      ]
-    },
-    {
-      "label": "Scientific home",
-      "value": "Cornell, since 1965",
-      "claims": [
-        "c42"
-      ]
-    }
-  ],
-  "stations": [
-    {
-      "id": "s1",
-      "title": "Złoczów, 1941",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "Roald Hoffmann was born on 18 July 1937 in Złoczów, Poland, a town that is now in Ukraine.",
-            "claims": [
-              "c1"
-            ]
-          },
-          {
-            "text": "He was born into a Jewish family.",
-            "claims": [
-              "c2"
-            ]
-          },
-          {
-            "text": "According to the Nobel Prize website, his father Hillel Safran was a civil engineer, and his mother Clara was a teacher.",
-            "claims": [
-              "c3"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to Yad Vashem, in July 1941, when Roald was four years old, the German army conquered Złoczów.",
-            "claims": [
-              "c10"
-            ]
-          },
-          {
-            "text": "According to Yad Vashem, soon afterwards his grandfather and other relatives were murdered by the Einsatzgruppen.",
-            "claims": [
-              "c11"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to Yad Vashem, at the beginning of 1942 the Safran family and other relatives were taken to a forced labor camp.",
-            "claims": [
-              "c12"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m14",
-        "m21",
-        "m25",
-        "m28",
-        "m30"
-      ],
-      "disagreements": [
-        "d3"
-      ]
-    },
-    {
-      "id": "s2",
-      "title": "The Father Who Got Them Out of the Camp",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "According to a summary of an interview with him, his father bribed the guards so that Roald, his mother and other relatives could leave the camp.",
-            "claims": [
-              "c31"
-            ]
-          },
-          {
-            "text": "According to Hoffmann, this happened in early 1943.",
-            "claims": [
-              "c6"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "The father stayed in the camp. According to Hoffmann, he organized a breakout attempt there.",
-            "claims": [
-              "c8"
-            ]
-          },
-          {
-            "text": "According to Hoffmann, an uncle who was with the partisans in the forest smuggled weapons into the camp to prepare for the breakout.",
-            "claims": [
-              "c33"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to Yad Vashem, the breakout attempt was betrayed and led to the murder of its organizer.",
-            "claims": [
-              "c32"
-            ]
-          },
-          {
-            "text": "According to Hoffmann, his father was killed by the Nazis and their helpers in June 1943.",
-            "claims": [
-              "c8"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m4",
-        "m24"
-      ],
-      "disagreements": [
-        "d4",
-        "d5"
-      ]
-    },
-    {
-      "id": "s3",
-      "title": "The Schoolhouse Attic",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "According to Yad Vashem, Mykola Dyuk was a teacher and the principal of the school in the village of Uniow, and he lived in the schoolhouse.",
-            "claims": [
-              "c13"
-            ]
-          },
-          {
-            "text": "According to Yad Vashem, he hid the Jewish family in the school building.",
-            "claims": [
-              "c14"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to Yad Vashem, Dyuk first hid them in the attic.",
-            "claims": [
-              "c15"
-            ]
-          },
-          {
-            "text": "There was a window there, through which Roald watched the children play.",
-            "claims": [
-              "c15"
-            ]
-          },
-          {
-            "text": "According to Hoffmann, among the children playing there were three Jewish children.",
-            "claims": [
-              "c30"
-            ]
-          },
-          {
-            "text": "Hoffmann says that he still feels the pain of seeing children free to move while he could not go out.",
-            "claims": [
-              "c29"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to Yad Vashem, the roof was cracked and exposed to the weather, and so they were moved to a windowless storage room.",
-            "claims": [
-              "c16"
-            ]
-          },
-          {
-            "text": "According to Hoffmann, in the storage room they dug a bunker under the floor.",
-            "claims": [
-              "c35"
-            ]
-          },
-          {
-            "text": "According to his testimony, his mother invented games to entertain him in hiding.",
-            "claims": [
-              "c27"
-            ]
-          },
-          {
-            "text": "Hoffmann says that the games he remembered best were geography games: he had to describe how he would get from Złoczów to San Francisco.",
-            "claims": [
-              "c28"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m6"
-      ],
-      "disagreements": [
-        "d1"
-      ]
-    },
-    {
-      "id": "s4",
-      "title": "Mykola and Maria Dyuk",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "According to Yad Vashem, the Dyuks had three little children, and by hiding the Jews, Mykola and Maria exposed their entire family to great danger.",
-            "claims": [
-              "c19"
-            ]
-          },
-          {
-            "text": "According to Yad Vashem, no one in the village knew about the existence of those in hiding.",
-            "claims": [
-              "c18"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to Yad Vashem, Clara related after the war that Maria Dyuk was at first opposed to hiding them.",
-            "claims": [
-              "c20"
-            ]
-          },
-          {
-            "text": "According to Yad Vashem, Mykola convinced her to agree, and she cared for the Jews and prepared their food.",
-            "claims": [
-              "c21"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "Hoffmann said, according to Carnegie, that they survived by chance, and also thanks to the help of one good man.",
-            "claims": [
-              "c64"
-            ]
-          },
-          {
-            "text": "Hoffmann said that good people decided to save Jews, and Mykola Dyuk was one of them.",
-            "claims": [
-              "c72"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m15"
-      ],
-      "disagreements": []
-    },
-    {
-      "id": "s5",
-      "title": "From the Camps to the United States",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "According to Hoffmann, he and his mother were freed by the Red Army in June 1944.",
-            "claims": [
-              "c9"
-            ]
-          },
-          {
-            "text": "According to Hoffmann, in 1946 they left Poland for Czechoslovakia, and from there they moved to a displaced persons' camp in Bindermichl, Austria.",
-            "claims": [
-              "c39"
-            ]
-          },
-          {
-            "text": "According to Carnegie, he spent several years in displaced persons' camps before coming to the United States at the age of 11.",
-            "claims": [
-              "c65"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to Hoffmann, the family came to the United States on Washington's Birthday in 1949.",
-            "claims": [
-              "c38"
-            ]
-          },
-          {
-            "text": "Hoffmann said in a lecture that they came with forged papers and documents.",
-            "claims": [
-              "c66"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to the Nobel Prize website, Hoffmann attended Stuyvesant High School and Columbia College, and received his doctorate from Harvard in 1962.",
-            "claims": [
-              "c41"
-            ]
-          },
-          {
-            "text": "According to Hoffmann, he met Eva Börjesson at a summer school in Sweden, and the two were married the following year.",
-            "claims": [
-              "c61"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m16",
-        "m3"
-      ],
-      "disagreements": [
-        "d2"
-      ]
-    },
-    {
-      "id": "s6",
-      "title": "Chemistry and the Nobel Prize",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "According to Scientific American, Hoffmann was a Westinghouse competition finalist in 1955.",
-            "claims": [
-              "c62"
-            ]
-          },
-          {
-            "text": "According to Hoffmann, in 1965 he came to Cornell University and has remained there ever since.",
-            "claims": [
-              "c42"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to Britannica, the research began when Hoffmann and Woodward sought to explain the unexpected course of a reaction intended for the synthesis of vitamin B12.",
-            "claims": [
-              "c46"
-            ]
-          },
-          {
-            "text": "According to Britannica, they discovered that many reactions involving the formation or breaking of rings of atoms depend on symmetry.",
-            "claims": [
-              "c45"
-            ]
-          },
-          {
-            "text": "According to the Science History Institute, the Woodward–Hoffmann rules make it possible to predict which products will form when two compounds are activated by heat.",
-            "claims": [
-              "c47"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "The 1981 Nobel Prize in Chemistry was awarded \"for their theories, developed independently, concerning the course of chemical reactions\".",
-            "claims": [
-              "c43"
-            ]
-          },
-          {
-            "text": "According to the Nobel Prize website, Hoffmann and Fukui each showed independently how the symmetry of electron orbitals explains the course of reactions.",
-            "claims": [
-              "c44"
-            ]
-          },
-          {
-            "text": "According to the Science History Institute, Woodward died before the prize was awarded, and so he was not named as one of the recipients.",
-            "claims": [
-              "c48"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m17",
-        "m1",
-        "m2",
-        "m11",
-        "m13",
-        "m26",
-        "m27",
-        "m33",
-        "m36"
-      ],
-      "disagreements": []
-    },
-    {
-      "id": "s7",
-      "title": "Teacher, Writer, Witness",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "According to the Science History Institute, Hoffmann received the National Medal of Science and awards from the American Chemical Society.",
-            "claims": [
-              "c50"
-            ]
-          },
-          {
-            "text": "According to the Institute, he has published more than 450 scientific articles and holds more than 25 honorary degrees.",
-            "claims": [
-              "c52",
-              "c51"
-            ]
-          },
-          {
-            "text": "According to Wikipedia, the Hoffmann Institute of Advanced Materials in Shenzhen was founded in his honor in February 2018.",
-            "claims": [
-              "c54"
-            ]
-          },
-          {
-            "text": "According to Wikipedia, in 2023 Carnegie Corporation recognized him as one of the honorees of the \"Great Immigrants\" Awards.",
-            "claims": [
-              "c53"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to the Science History Institute, his publications include two collections of poetry, and the play \"Oxygen\", which he wrote with Carl Djerassi, premiered in the United States in 2001.",
-            "claims": [
-              "c57",
-              "c55"
-            ]
-          },
-          {
-            "text": "According to Hoffmann, he was the presenter of The World of Chemistry, a 26-episode television course in introductory chemistry with half-hour episodes, produced in 1986–1988, which began airing on PBS in 1990.",
-            "claims": [
-              "c56"
-            ]
-          },
-          {
-            "text": "Hoffmann writes of himself that he is a teacher, and proud of it.",
-            "claims": [
-              "c58"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to Ithaca College, in 2006 Hoffmann visited Ukraine and met the descendants of Mykola and Maria Dyuk.",
-            "claims": [
-              "c36"
-            ]
-          },
-          {
-            "text": "According to Yad Vashem, in 2007 Roald and his sister Elinor turned to Yad Vashem and asked that the rescuers be recognized.",
-            "claims": [
-              "c26"
-            ]
-          },
-          {
-            "text": "According to Yad Vashem, on 23 September 2007 Mykola and Maria Dyuk were awarded the title of Righteous Among the Nations.",
-            "claims": [
-              "c24"
-            ]
-          },
-          {
-            "text": "According to Yad Vashem, the Israeli ambassador in Kiev, Zina Kleitman, presented the medal and certificate to their son at an official ceremony.",
-            "claims": [
-              "c25"
-            ]
-          },
-          {
-            "text": "According to Wikipedia, in 2009 a monument to Holocaust victims was erected in Zolochiv on his initiative.",
-            "claims": [
-              "c37"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "Hoffmann explained that he lectures because the good that people did, possibly even at the cost of their lives, must be told.",
-            "claims": [
-              "c67"
-            ]
-          },
-          {
-            "text": "He said that he wants to teach young people the value of saving lives and being good to others even when there is risk.",
-            "claims": [
-              "c68"
-            ]
-          },
-          {
-            "text": "He said that he is glad to speak to a diverse audience about something recognizably Jewish, and not to be afraid of it.",
-            "claims": [
-              "c69"
-            ]
-          },
-          {
-            "text": "Hoffmann said in an interview that Israel was the Zionist dream of his parents, and that its establishment fulfilled a two-thousand-year-old dream.",
-            "claims": [
-              "c70"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m18",
-        "m8",
-        "m9",
-        "m3",
-        "m20",
-        "m37"
-      ],
-      "disagreements": []
-    },
-    {
-      "id": "s8",
-      "title": "A Difficult Memory",
-      "kind": "hard",
-      "paragraphs": [
-        [
-          {
-            "text": "Hoffmann said in an interview that in his opinion the degree of Ukrainian collaboration with the Nazis during the war was high.",
-            "claims": [
-              "c71"
-            ]
-          },
-          {
-            "text": "He said that a balanced picture of Ukrainian actions during the war must be acknowledged, including extensive collaboration with the Nazis.",
-            "claims": [
-              "c75"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "In the same interview, a question put to him stated that 3,000 local Jews were killed in the pogrom of 3–5 July 1941, and that no one wants to talk about it.",
-            "claims": [
-              "c74"
-            ]
-          },
-          {
-            "text": "Hoffmann said that he had not known about the murder of hundreds of Ukrainians by the NKVD in the prison of Złoczów Castle, days before the Nazi occupation.",
-            "claims": [
-              "c73"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "Hoffmann said that the deeds of Metropolitan Andrey Sheptytsky merit the title of Righteous Among the Nations from Yad Vashem.",
-            "claims": [
-              "c76"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m7",
-        "m10",
-        "m12"
-      ],
-      "disagreements": []
-    }
-  ],
-  "disagreements": [
-    {
-      "id": "d1",
-      "question": "How long were they in hiding?",
-      "versions": [
-        {
-          "says": "Nobel Prize website: 15 months in hiding",
-          "claims": [
-            "c5"
-          ]
-        },
-        {
-          "says": "Yad Vashem: 15 months, from January 1943 to June 1944",
-          "claims": [
-            "c17"
-          ]
-        },
-        {
-          "says": "Science History Institute: 18 months in an attic and a storeroom",
-          "claims": [
-            "c77"
-          ]
-        },
-        {
-          "says": "Wikipedia: eighteen months, from January 1943 to June 1944",
-          "claims": [
-            "c78"
-          ]
-        },
-        {
-          "says": "Ithaca College: nearly two years in an attic and under floorboards",
-          "claims": [
-            "c79"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d2",
-      "question": "What was the name of Clara's second husband?",
-      "versions": [
-        {
-          "says": "Yad Vashem: Holocaust survivor Naftali Margulies, who changed his name to Hoffmann",
-          "claims": [
-            "c22"
-          ]
-        },
-        {
-          "says": "Hoffmann in his autobiography: Paul Hoffmann",
-          "claims": [
-            "c23"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d3",
-      "question": "What was the name of Hoffmann's mother?",
-      "versions": [
-        {
-          "says": "Nobel Prize website: Clara Hillel",
-          "claims": [
-            "c3"
-          ]
-        },
-        {
-          "says": "Hoffmann in his autobiography: Clara, née Rosen",
-          "claims": [
-            "c4"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d4",
-      "question": "When did Hoffmann and his mother escape from the camp?",
-      "versions": [
-        {
-          "says": "Hoffmann in his autobiography: in early 1943",
-          "claims": [
-            "c6"
-          ]
-        },
-        {
-          "says": "Ithaca College: after a year in the camp",
-          "claims": [
-            "c80"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d5",
-      "question": "How was Hoffmann's father killed?",
-      "versions": [
-        {
-          "says": "Hoffmann in his autobiography: by the Nazis and their helpers, in June 1943",
-          "claims": [
-            "c8"
-          ]
-        },
-        {
-          "says": "Hoffmann at Ithaca College: betrayed by a fellow Jew, arrested, tortured and killed in June 1943",
-          "claims": [
-            "c34"
-          ]
-        },
-        {
-          "says": "Zaxid.net: he was one of the leaders of the Jewish underground in the camp and was shot by the Germans",
-          "claims": [
-            "c81"
-          ]
-        }
-      ]
-    }
-  ],
-  "unknowns": [
-    {
-      "text": "According to Hoffmann, among the children playing near the school there were three Jewish children.",
-      "claims": [
-        "c30"
-      ]
-    }
-  ],
-  "claims": [
-    {
-      "id": "c1",
-      "text": "רואלד הופמן נולד ב-18 ביולי 1937 בזלוצ'וב שבפולין (כיום באוקראינה).",
-      "source": "src1",
-      "quote": "Born: 18 July 1937, Zloczov, Poland (now Ukraine)",
-      "status": "confirmed",
-      "locator": "שורה 3"
-    },
-    {
-      "id": "c2",
-      "text": "הופמן נולד למשפחה יהודית בזלוצ'וב, פולין (כיום אוקראינה).",
-      "source": "src1",
-      "quote": "Roald Hoffmann was born into a Jewish family in Złoczów, Poland (now Ukraine).",
-      "status": "confirmed",
-      "locator": "שורה 8"
-    },
-    {
-      "id": "c43",
-      "text": "פרס נובל לכימיה 1981 ניתן 'על התיאוריות שלהם, שפותחו באופן עצמאי, בנוגע למהלך התגובות הכימיות'.",
-      "source": "src1",
-      "quote": "for their theories, developed independently, concerning the course of chemical reactions",
-      "status": "confirmed",
-      "locator": "שורה 5"
-    },
-    {
-      "id": "c62",
-      "text": "לפי סיינטיפיק אמריקן, הופמן היה פיינליסט בתחרות וסטינגהאוס ב-1955 וזכה בנובל 26 שנה אחר כך.",
-      "source": "src2",
-      "quote": "A 1955 Westinghouse finalist wins a Nobel Prize in chemistry 26 years later, then turns his attention to poetry",
-      "status": "confirmed",
-      "locator": "שורה 4"
-    },
-    {
-      "id": "c13",
-      "text": "לפי יד ושם, מיקולה דיוק היה מורה ומנהל בית הספר בכפר אוניוב וגר בבית הספר.",
-      "source": "src3",
-      "quote": "Dyuk was a teacher and the Principal of the school in Uniow (now Univ), and lived in the schoolhouse",
-      "status": "confirmed",
-      "locator": "שורה 6"
-    },
-    {
-      "id": "c14",
-      "text": "לפי יד ושם, מורה הכפר הסתיר את המשפחה היהודית בבניין בית הספר.",
-      "source": "src3",
-      "quote": "It was in this building that the village teacher hid the Jewish family.",
-      "status": "confirmed",
-      "locator": "שורה 6"
-    },
-    {
-      "id": "c19",
-      "text": "לפי יד ושם, למשפחת דיוק היו שלושה ילדים קטנים, ובהסתרת היהודים חשפו מיקולה ומריה את כל משפחתם לסכנה גדולה.",
-      "source": "src3",
-      "quote": "They had three little children, and by hiding Jews in their schoolhouse, Mykola and Maria Dyuk exposed the entire family to great danger.",
-      "status": "confirmed",
-      "locator": "שורה 11"
-    },
-    {
-      "id": "c22",
-      "text": "לפי יד ושם, אחרי המלחמה נישאה קלרה לניצול שואה אחר, נפתלי מרגוליס, ששינה את שמו להופמן.",
-      "source": "src3",
-      "quote": "Clara Safran remarried another Holocaust survivor, Naftali Margulies, who later changed his name to Hoffmann",
-      "status": "confirmed",
-      "locator": "שורה 12"
-    },
-    {
-      "id": "c18",
-      "text": "לפי יד ושם, איש בכפר לא ידע על קיומם.",
-      "source": "src3",
-      "quote": "No one in the village knew about their existence.",
-      "status": "confirmed",
-      "locator": "שורה 11"
-    },
-    {
-      "id": "c21",
-      "text": "לפי יד ושם, מיקולה שכנע אותה להסכים, והיא טיפלה ביהודים והכינה להם אוכל.",
-      "source": "src3",
-      "quote": "But Mykola convinced her to go along, and she cared for the Jews and prepared their food.",
-      "status": "confirmed",
-      "locator": "שורה 11"
-    },
-    {
-      "id": "c65",
-      "text": "לפי קרנגי, אחרי המלחמה שהה הופמן כמה שנים במחנות עקורים לפני שהגיע לארצות הברית בגיל 11.",
-      "source": "src4",
-      "quote": "After the war, Hoffmann spent several years in displaced persons’ camps before coming to the United States at the age of 11.",
-      "status": "confirmed",
-      "locator": "שורה 7"
-    },
-    {
-      "id": "c41",
-      "text": "לפי אתר פרס נובל, הופמן למד בתיכון סטויבסנט ובקולג' קולומביה וקיבל דוקטורט מהרווארד ב-1962.",
-      "source": "src1",
-      "quote": "Roald Hoffmann went to Stuyvesant High School, Columbia College and received his doctorate at Harvard University in 1962.",
-      "status": "confirmed",
-      "locator": "שורה 8"
-    },
-    {
-      "id": "c26",
-      "text": "לפי יד ושם, רק רואלד ואחותו אלינור פנו ב-2007 ליד ושם וביקשו להכיר במצילים כחסידי אומות העולם.",
-      "source": "src3",
-      "quote": "It was only her son, Roald, and his sister Elinor, who in 2007 turned to Yad Vashem and asked to recognize the rescuers",
-      "status": "confirmed",
-      "locator": "שורה 14"
-    },
-    {
-      "id": "c24",
-      "text": "לפי יד ושם, ב-23 בספטמבר 2007 הוענק למיקולה ומריה דיוק התואר חסידי אומות העולם.",
-      "source": "src3",
-      "quote": "On 23 September 2007, the commission for the Designation of the Righteous conferred upon Mykola and Maria Dyuk the title of Righteous Among the Nations.",
-      "status": "confirmed",
-      "locator": "שורה 15"
-    },
-    {
-      "id": "c17",
-      "text": "לפי יד ושם, הם שהו במסתור 15 חודשים, מינואר 1943 עד יוני 1944.",
-      "source": "src3",
-      "quote": "They remained in hiding for 15 months – from January 1943 until June 1944.",
-      "status": "confirmed",
-      "locator": "שורה 11"
-    },
-    {
-      "id": "c42",
-      "text": "לדברי הופמן, ב-1965 הגיע לקורנל ונשאר שם מאז.",
-      "source": "src5",
-      "quote": "In 1965 I came to Cornell where I have been ever since.",
-      "status": "confirmed",
-      "locator": "שורה 11"
-    },
-    {
-      "id": "c6",
-      "text": "לדברי הופמן, אביו הבריח אותו ואת אמו מהמחנה בתחילת 1943.",
-      "source": "src5",
-      "quote": "My father smuggled my mother and me out of the camp in early 1943",
-      "status": "confirmed",
-      "locator": "שורה 2"
-    },
-    {
-      "id": "c3",
-      "text": "לפי אתר פרס נובל, אביו הילל סאפראן היה מהנדס אזרחי ואמו קלרה הילל הייתה מורה.",
-      "source": "src1",
-      "quote": "His father Hillel Safran was a civil engineer and his mother Clara Hillel a teacher.",
-      "status": "confirmed",
-      "locator": "שורה 8"
-    },
-    {
-      "id": "c10",
-      "text": "לפי יד ושם, ביולי 1941, כשרואלד היה בן ארבע, כבש הצבא הגרמני את זלוצ'וב.",
-      "source": "src3",
-      "quote": "In July 1941, when Roald was four years old, the German army conquered Zlochow.",
-      "status": "confirmed",
-      "locator": "שורה 5"
-    },
-    {
-      "id": "c11",
-      "text": "לפי יד ושם, זמן קצר אחר כך נרצחו סבו של רואלד וקרובים נוספים בידי האיינזצגרופן.",
-      "source": "src3",
-      "quote": "Soon afterwards, Roald’s grandfather and some other relatives were murdered by the Einsatzgruppen",
-      "status": "confirmed",
-      "locator": "שורה 5"
-    },
-    {
-      "id": "c12",
-      "text": "לפי יד ושם, בתחילת 1942 נלקחו משפחת סאפראן וקרובים נוספים למחנה עבודה כפויה.",
-      "source": "src3",
-      "quote": "At the beginning of 1942 the Safran family and other relatives were taken to a forced labor camp.",
-      "status": "confirmed",
-      "locator": "שורה 5"
-    },
-    {
-      "id": "c31",
-      "text": "לפי תקציר הראיון, אביו שיחד את השומרים כדי שרואלד, אמו וקרובים נוספים יצאו, אך הוא עצמו הוצא להורג זמן קצר אחר כך.",
-      "source": "src6",
-      "quote": "His father bribed the guards to allow Roald, his mother, and several other family members to leave, but was himself executed soon after for leading a plot",
-      "status": "confirmed",
-      "locator": "שורה 16"
-    },
-    {
-      "id": "c8",
-      "text": "לדברי הופמן, אביו ארגן ניסיון בריחה מהמחנה שהתגלה, והוא נהרג בידי הנאצים ועוזריהם ביוני 1943.",
-      "source": "src5",
-      "quote": "He organized a breakout attempt which was discovered. Hillel Safran was killed by the Nazis and their helpers in June 1943.",
-      "status": "confirmed",
-      "locator": "שורה 2"
-    },
-    {
-      "id": "c33",
-      "text": "לדברי הופמן, דוד שהיה בפרטיזנים ביער הבריח נשק למחנה לקראת הבריחה.",
-      "source": "src7",
-      "quote": "One uncle who was in the forest in a partisan group smuggled weapons into the camp to prepare for the breakout.",
-      "status": "confirmed",
-      "locator": "שורה 8"
-    },
-    {
-      "id": "c32",
-      "text": "לפי יד ושם, ניסיון הבריחה מהמחנה נחשף בבגידה והוביל לרצח מארגנו.",
-      "source": "src3",
-      "quote": "an attempt that was betrayed and led to the murder of its organizer.",
-      "status": "confirmed",
-      "locator": "שורה 7"
-    },
-    {
-      "id": "c15",
-      "text": "לפי יד ושם, דיוק החביא את המשפחה תחילה בעליית הגג, שבה היה חלון שדרכו רואלד צפה בילדים משחקים.",
-      "source": "src3",
-      "quote": "At first Dyuk hid the family in the attic. It had a window, from which Roald would watch the children play.",
-      "status": "confirmed",
-      "locator": "שורה 9"
-    },
-    {
-      "id": "c30",
-      "text": "לדברי הופמן, בין הילדים ששיחקו שם היו שלושה ילדים יהודים.",
-      "source": "src6",
-      "quote": "Among the children playing are three Jewish children.",
-      "status": "confirmed",
-      "locator": "שורה 38"
-    },
-    {
-      "id": "c29",
-      "text": "הופמן מספר שהוא עדיין חש את הכאב של ראיית ילדים חופשיים לנוע בעוד הוא לא יכול לצאת.",
-      "source": "src3",
-      "quote": "the pain of seeing these children being free to move and I couldn't move out",
-      "status": "confirmed",
-      "locator": "שורה 17"
-    },
-    {
-      "id": "c16",
-      "text": "לפי יד ושם, גג עליית הגג היה סדוק וחשוף למזג האוויר, ולכן הועברה המשפחה לחדר אחסון בלי חלונות.",
-      "source": "src3",
-      "quote": "The attic roof had cracks and the place was exposed to the weather. The hiding family was therefore moved to a windowless storage room.",
-      "status": "confirmed",
-      "locator": "שורה 10"
-    },
-    {
-      "id": "c35",
-      "text": "לדברי הופמן, בחדר האחסון חפרו מקלט מתחת לרצפה.",
-      "source": "src6",
-      "quote": "In that storeroom we dug out a bunker underneath",
-      "status": "confirmed",
-      "locator": "שורה 38"
-    },
-    {
-      "id": "c27",
-      "text": "לפי עדותו של הופמן, אמו המציאה משחקים כדי לשעשע אותו במשך 15 חודשים במסתור.",
-      "source": "src3",
-      "quote": "she kept inventing games to play with me for 15 months",
-      "status": "confirmed",
-      "locator": "שורה 18"
-    },
-    {
-      "id": "c28",
-      "text": "הופמן מספר שהמשחקים שזכר הכי טוב היו משחקי גיאוגרפיה, שבהם נדרש לתאר איך יגיע מזלוצ'וב לסן פרנסיסקו.",
-      "source": "src3",
-      "quote": "my mother would specify some spot around the world like San Francisco, and I would have to say how I would get from Zloczów to San Francisco",
-      "status": "confirmed",
-      "locator": "שורה 19"
-    },
-    {
-      "id": "c20",
-      "text": "לפי יד ושם, קלרה סיפרה אחרי המלחמה שמריה דיוק התנגדה בתחילה להסתיר את המשפחה היהודית.",
-      "source": "src3",
-      "quote": "related how Maria Dyuk was at first opposed to sheltering the Jewish family.",
-      "status": "confirmed",
-      "locator": "שורה 11"
-    },
-    {
-      "id": "c64",
-      "text": "הופמן אמר, לפי קרנגי, ששרדו בזכות עזרתו של אדם טוב אחד.",
-      "source": "src4",
-      "quote": "And because we were helped by one good man.",
-      "status": "confirmed",
-      "locator": "שורה 6"
-    },
-    {
-      "id": "c72",
-      "text": "הופמן אמר שבכל זאת אנשים טובים החליטו להציל יהודים, ומיקולה דיוק היה אחד מהם.",
-      "source": "src8",
-      "quote": "І все ж тоді деякі хороші люди вирішували рятувати євреїв. І Микола Дюк був такою людиною.",
-      "status": "confirmed",
-      "locator": "שורה 22"
-    },
-    {
-      "id": "c9",
-      "text": "לדברי הופמן, הוא ואמו שוחררו בידי הצבא האדום ביוני 1944.",
-      "source": "src5",
-      "quote": "We were freed by the Red Army in June 1944.",
-      "status": "confirmed",
-      "locator": "שורה 2"
-    },
-    {
-      "id": "c39",
-      "text": "לדברי הופמן, ב-1946 עזבו את פולין לצ'כוסלובקיה ומשם עברו למחנה עקורים בבינדרמיכל שבאוסטריה.",
-      "source": "src5",
-      "quote": "In 1946 we left Poland for Czechoslovakia. From there we moved to a displaced persons’ camp, Bindermichl, near Linz, in Austria.",
-      "status": "confirmed",
-      "locator": "שורה 3"
-    },
-    {
-      "id": "c38",
-      "text": "לדברי הופמן, המשפחה הגיעה לארצות הברית ביום הולדתו של וושינגטון ב-1949.",
-      "source": "src5",
-      "quote": "On Washington’s Birthday 1949 we came to the United States.",
-      "status": "confirmed",
-      "locator": "שורה 3"
-    },
-    {
-      "id": "c66",
-      "text": "הופמן אמר בהרצאה באיתקה קולג' שהמשפחה הגיעה לארצות הברית עם ניירות ומסמכים מזויפים.",
-      "source": "src7",
-      "quote": "we came here on forged papers and documents",
-      "status": "confirmed",
-      "locator": "שורה 6"
-    },
-    {
-      "id": "c23",
-      "text": "לדברי הופמן, אמו נישאה בשנית ופול הופמן היה לו אב טוב ועדין.",
-      "source": "src5",
-      "quote": "My mother remarried, and Paul Hoffmann was a kind and gentle father to me until his death",
-      "status": "confirmed",
-      "locator": "שורה 2"
-    },
-    {
-      "id": "c61",
-      "text": "לדברי הופמן, הוא פגש את אווה בורייסון בבית ספר קיץ בשוודיה והשניים נישאו בשנה שלאחר מכן.",
-      "source": "src5",
-      "quote": "I met Eva Börjesson who had a summer job as a receptionist at the school, and we were married the following year.",
-      "status": "confirmed",
-      "locator": "שורה 6"
-    },
-    {
-      "id": "c46",
-      "text": "לפי בריטניקה, המחקר החל כשהופמן ווודוורד ביקשו להסביר מהלך בלתי צפוי של תגובה שנועדה לסינתזה של ויטמין B12.",
-      "source": "src9",
-      "quote": "when he and Woodward sought an explanation of the unexpected course taken by a reaction that Woodward and his colleagues had hoped to use in the synthesis",
-      "status": "confirmed",
-      "locator": "שורה 9"
-    },
-    {
-      "id": "c45",
-      "text": "לפי אנציקלופדיה בריטניקה, הופמן וודוורד גילו שתגובות רבות של יצירה או שבירה של טבעות אטומים תלויות בסימטריה מזוהה.",
-      "source": "src9",
-      "quote": "Hoffmann and Woodward discovered that many reactions involving the formation or breaking of rings of atoms take courses that depend on an identifiable symmetry",
-      "status": "confirmed",
-      "locator": "שורה 9"
-    },
-    {
-      "id": "c47",
-      "text": "לפי מכון ההיסטוריה של המדע, כללי וודוורד-הופמן מאפשרים לחזות אילו תוצרים ייווצרו כששתי תרכובות מופעלות בחום.",
-      "source": "src10",
-      "quote": "These rules permit chemists to predict, for example, the products that form when two compounds are activated by heat",
-      "status": "confirmed",
-      "locator": "שורה 11"
-    },
-    {
-      "id": "c44",
-      "text": "לפי אתר פרס נובל, הופמן ופוקוי הראו, כל אחד בנפרד, כיצד התכונות הסימטריות של אורביטלים אלקטרוניים מסבירות את מהלך התגובות הכימיות.",
-      "source": "src1",
-      "quote": "Independently of one another, Hoffmann and Fukui both demonstrated how the symmetrical properties of electron orbitals explain the course of chemical reactions.",
-      "status": "confirmed",
-      "locator": "שורה 10"
-    },
-    {
-      "id": "c48",
-      "text": "לפי מכון ההיסטוריה של המדע, מותו של וודוורד לפני הענקת הפרס מנע את בחירתו לאחד הזוכים.",
-      "source": "src10",
-      "quote": "Woodward’s death before the prize was awarded prevented him from being named as one of the recipients.",
-      "status": "confirmed",
-      "locator": "שורה 12"
-    },
-    {
-      "id": "c50",
-      "text": "לפי מכון ההיסטוריה של המדע, הופמן קיבל את המדליה הלאומית למדע ופרסים של האגודה האמריקאית לכימיה.",
-      "source": "src10",
-      "quote": "He has also received the National Medal of Science and several awards from the American Chemical Society",
-      "status": "confirmed",
-      "locator": "שורה 17"
-    },
-    {
-      "id": "c52",
-      "text": "לפי מכון ההיסטוריה של המדע, הופמן פרסם יותר מ-450 מאמרים מדעיים.",
-      "source": "src10",
-      "quote": "He has published more than 450 scientific articles.",
-      "status": "confirmed",
-      "locator": "שורה 18"
-    },
-    {
-      "id": "c51",
-      "text": "לפי מכון ההיסטוריה של המדע, להופמן יותר מ-25 תארי כבוד.",
-      "source": "src10",
-      "quote": "Award in Inorganic Chemistry. He holds more than 25 honorary degrees.",
-      "status": "confirmed",
-      "locator": "שורה 17"
-    },
-    {
-      "id": "c54",
-      "text": "לפי ויקיפדיה, מכון הופמן לחומרים מתקדמים בשנג'ן נקרא על שמו והוקם לכבודו בפברואר 2018.",
-      "source": "src11",
-      "quote": "The Hoffmann Institute of Advanced Materials in Shenzhen, named after him, was founded in his honor in February 2018",
-      "status": "confirmed",
-      "locator": "שורה 122"
-    },
-    {
-      "id": "c53",
-      "text": "לפי ויקיפדיה, ב-2023 הוכר הופמן בידי קרנגי קורפוריישן כאחד מזוכי פרס 'מהגרים גדולים'.",
-      "source": "src11",
-      "quote": "In 2023, Roald Hoffmann was named by Carnegie Corporation of New York as an honoree of the Great Immigrants Awards.",
-      "status": "confirmed",
-      "locator": "שורה 123"
-    },
-    {
-      "id": "c57",
-      "text": "לפי מכון ההיסטוריה של המדע, פרסומיו של הופמן כוללים שני קבצי שירה מוכרים.",
-      "source": "src10",
-      "quote": "Hoffmann’s publications include two well-known collections of poetry, The Metamict State and Gaps and Verges.",
-      "status": "confirmed",
-      "locator": "שורה 14"
-    },
-    {
-      "id": "c55",
-      "text": "לפי מכון ההיסטוריה של המדע, ההצגה 'חמצן' שכתבו הופמן וקרל ג'רסי הוצגה לראשונה בארצות הברית ב-2001.",
-      "source": "src10",
-      "quote": "Oxygen, a play written by Hoffmann and Carl Djerassi, premiered in the United States at the San Diego Repertory Theatre in 2001",
-      "status": "confirmed",
-      "locator": "שורה 15"
-    },
-    {
-      "id": "c56",
-      "text": "לדברי הופמן, הוא המגיש של סדרת טלוויזיה בת 26 פרקים בשם 'עולם הכימיה'.",
-      "source": "src5",
-      "quote": "is a series of 26 half-hour episodes developed at the University of Maryland",
-      "status": "confirmed",
-      "locator": "שורה 19"
-    },
-    {
-      "id": "c58",
-      "text": "הופמן כותב על עצמו שהוא מורה וגאה בכך.",
-      "source": "src5",
-      "quote": "I am a teacher, and I am proud of it.",
-      "status": "confirmed",
-      "locator": "שורה 15"
-    },
-    {
-      "id": "c36",
-      "text": "לפי אוניברסיטת איתקה קולג', ב-2006 ביקר הופמן באוקראינה ופגש את צאצאי מיקולה ומריה דיוק.",
-      "source": "src7",
-      "quote": "And the photos of his 2006 visit to Ukraine to meet with the descendants of Mykola and Maria Dyuk",
-      "status": "confirmed",
-      "locator": "שורה 6"
-    },
-    {
-      "id": "c25",
-      "text": "לפי יד ושם, שגרירת ישראל בקייב, זינה קלייטמן, העניקה את המדליה והתעודה לבנם של בני הזוג דיוק בטקס רשמי.",
-      "source": "src3",
-      "quote": "Israeli ambassador in Kiev, Zina Kleitman, presented the medal and certificate to the Dyuks’ son at an official ceremony.",
-      "status": "confirmed",
-      "locator": "שורה 15"
-    },
-    {
-      "id": "c37",
-      "text": "לפי ויקיפדיה, ב-2009 הוקם בזלוצ'וב אנדרטה לקורבנות השואה ביוזמת הופמן.",
-      "source": "src11",
-      "quote": "In 2009, a monument to Holocaust victims was built in Zolochiv on Hoffmann's initiative.",
-      "status": "confirmed",
-      "locator": "שורה 61"
-    },
-    {
-      "id": "c67",
-      "text": "הופמן הסביר שהוא מרצה כי יש לספר על הטוב שאנשים עשו, אפילו במחיר חייהם.",
-      "source": "src7",
-      "quote": "We must tell the stories of the good that people did, possibly at the cost of their lives.",
-      "status": "confirmed",
-      "locator": "שורה 13"
-    },
-    {
-      "id": "c68",
-      "text": "הופמן אמר שהוא רוצה ללמד צעירים את ערך הצלת החיים והטוב לזולת גם כשיש סיכון.",
-      "source": "src7",
-      "quote": "I would like to teach young people the value of saving lives and being good to others even when there is risk.",
-      "status": "confirmed",
-      "locator": "שורה 13"
-    },
-    {
-      "id": "c69",
-      "text": "הופמן אמר שהוא שמח לדבר לקהל מגוון על דבר יהודי באופן מובהק ולא לחשוש מכך.",
-      "source": "src7",
-      "quote": "So I’m glad to speak to a diverse audience yet about something recognizably Jewish and not to be afraid of it.",
-      "status": "confirmed",
-      "locator": "שורה 13"
-    },
-    {
-      "id": "c70",
-      "text": "הופמן אמר בראיון שישראל הייתה חלומם הציוני של הוריו, ושהקמתה הגשימה חלום בן אלפיים שנה.",
-      "source": "src8",
-      "quote": "Ізраїль був сіоністською мрією моїх батьків. І створення Держави Ізраїль було втіленням такої 2000-річної мрії.",
-      "status": "confirmed",
-      "locator": "שורה 54"
-    },
-    {
-      "id": "c71",
-      "text": "הופמן אמר בראיון שלדעתו מידת שיתוף הפעולה האוקראיני עם הנאצים במלחמה הייתה גבוהה.",
-      "source": "src8",
-      "quote": "Ступінь української колаборації з нацистами під час війни була, по-моєму, високою.",
-      "status": "confirmed",
-      "locator": "שורה 22"
-    },
-    {
-      "id": "c75",
-      "text": "הופמן אמר שיש להכיר בתמונה מאוזנת של מעשי האוקראינים במלחמה, כולל שיתוף פעולה נרחב עם הנאצים.",
-      "source": "src8",
-      "quote": "Має бути визнана зважена картина українських дій у Другій Світовій війні",
-      "status": "confirmed",
-      "locator": "שורה 34"
-    },
-    {
-      "id": "c74",
-      "text": "בשאלה שהופנתה להופמן נאמר שבפוגרום ב-3–5 ביולי 1941 נהרגו 3,000 יהודים מקומיים ושאיש אינו רוצה לדבר עליו.",
-      "source": "src8",
-      "quote": "ніхто не хоче говорити про погром 3-5 липня 1941 року, в якому було вбито 3000 місцевих євреїв.",
-      "status": "confirmed",
-      "locator": "שורה 26"
-    },
-    {
-      "id": "c73",
-      "text": "הופמן אמר שלא ידע על רצח מאות אוקראינים בידי ה-NKVD בכלא טירת זלוצ'וב ימים לפני הכיבוש הנאצי.",
-      "source": "src8",
-      "quote": "Я не знав про вбивство сотень українців від рук НКВС у в'язниці Золочівського замку",
-      "status": "confirmed",
-      "locator": "שורה 21"
-    },
-    {
-      "id": "c76",
-      "text": "הופמן אמר שמעשיו של המטרופוליט אנדריי שפטיצקי ראויים לתואר חסיד אומות העולם מטעם יד ושם.",
-      "source": "src8",
-      "quote": "Дії митрополита Андрея Шептицького заслуговують присвоєння йому звання «Праведника народів світу» від імені «Яд Вашем».",
-      "status": "confirmed",
-      "locator": "שורה 31"
-    },
-    {
-      "id": "c5",
-      "text": "לפי אתר פרס נובל, רואלד ואמו שרדו גטו, מחנה עבודה ו-15 חודשי הסתתרות, ואילו אביו נהרג בידי הנאצים.",
-      "source": "src1",
-      "quote": "Roald and his mother survived the ghetto, a labor camp and 15 months in hiding but his father was killed by the Nazis.",
-      "status": "confirmed",
-      "locator": "שורה 8"
-    },
-    {
-      "id": "c77",
-      "text": "לפי מכון ההיסטוריה של המדע, הופמן שרד את השואה בהסתתרות של 18 חודשים בעליית גג ובחדר אחסון של בית ספר.",
-      "source": "src10",
-      "quote": "As a small child he survived the Holocaust by hiding for 18 months with family members in the attic and storeroom of a local schoolhouse.",
-      "status": "confirmed",
-      "locator": "שורה 6"
-    },
-    {
-      "id": "c78",
-      "text": "לפי ויקיפדיה, הם שהו בבית הספר שמונה עשר חודשים, מינואר 1943 עד יוני 1944.",
-      "source": "src11",
-      "quote": "where they remained for eighteen months, from January 1943 to June 1944",
-      "status": "confirmed",
-      "locator": "שורה 58"
-    },
-    {
-      "id": "c79",
-      "text": "לפי אתר אוניברסיטת איתקה קולג', הופמן הסתתר בעליית גג ומתחת לקרשי רצפה כמעט שנתיים.",
-      "source": "src7",
-      "quote": "The photos of the schoolhouse where he hid from the Nazis in an attic and under floorboards for nearly two years.",
-      "status": "confirmed",
-      "locator": "שורה 6"
-    },
-    {
-      "id": "c4",
-      "text": "באוטוביוגרפיה שלו הופמן כותב שנולד לקלרה (לבית רוזן) ולהילל סאפראן.",
-      "source": "src5",
-      "quote": "On July 18, 1937 I was born to Clara (née Rosen) and Hillel Safran in Zloczow, Poland.",
-      "status": "confirmed",
-      "locator": "שורה 1"
-    },
-    {
-      "id": "c80",
-      "text": "לפי אתר אוניברסיטת איתקה קולג', הופמן ואמו הצליחו לברוח אחרי שנה ונקלטו אצל משפחת דיוק.",
-      "source": "src7",
-      "quote": "He and his mother were able to escape after a year and were taken in by the Dyuks",
-      "status": "confirmed",
-      "locator": "שורה 8"
-    },
-    {
-      "id": "c34",
-      "text": "לדברי הופמן, אביו נבגד בידי יהודי אחר ובמהלך יוני 1943 נעצר, עונה ונהרג.",
-      "source": "src7",
-      "quote": "My father was betrayed by a fellow Jew, and in June 1943 he was arrested, tortured, and with another leader of the attempt was killed.",
-      "status": "confirmed",
-      "locator": "שורה 8"
-    },
-    {
-      "id": "c81",
-      "text": "לפי ראיון באתר Zaxid.net, אביו של הופמן, הילל סאפראן, מראשי קבוצת המחתרת היהודית במחנה, נורה בידי הגרמנים.",
-      "source": "src8",
-      "quote": "Батько Роальда – Гілель Сафран, один із керівників єврейської підпільної групи у таборі примусової праці, був застрелений гітлерівцями.",
-      "status": "confirmed",
-      "locator": "שורה 9"
-    }
-  ],
-  "sources": [
-    {
-      "id": "src1",
-      "label": "NobelPrize.org, Hoffmann facts page",
-      "url": "https://www.nobelprize.org/prizes/chemistry/1981/hoffmann/facts/",
-      "kind": "official"
-    },
-    {
-      "id": "src2",
-      "label": "Scientific American, The Watcher: Roald Hoffmann",
-      "url": "https://www.scientificamerican.com/article/the-watcher-roald-hoffmann/",
-      "kind": "press"
-    },
-    {
-      "id": "src3",
-      "label": "Yad Vashem, the story of the Dyuk family (Righteous Among the Nations)",
-      "url": "https://yadvashem.org/righteous/stories/dyuk",
-      "kind": "organisation"
-    },
-    {
-      "id": "src4",
-      "label": "Carnegie Corporation, Roald Hoffmann",
-      "url": "https://carnegie.org/?p=36320",
-      "kind": "organisation"
-    },
-    {
-      "id": "src5",
-      "label": "NobelPrize.org, Hoffmann autobiography",
-      "url": "https://www.nobelprize.org/prizes/chemistry/1981/hoffmann/auto-biography/",
-      "kind": "official"
-    },
-    {
-      "id": "src6",
-      "label": "Science History Institute, transcript of an interview with Hoffmann (PDF)",
-      "url": "https://digital.sciencehistory.org/downloads/orig/pdf/yew5xt3",
-      "kind": "press"
-    },
-    {
-      "id": "src7",
-      "label": "Ithaca College News, Holocaust Survivor Brings History to Life",
-      "url": "https://www.ithaca.edu/news/holocaust-survivor-brings-history-life",
-      "kind": "press"
-    },
-    {
-      "id": "src8",
-      "label": "Zaxid.net, interview with the Nobel laureate about the rescue in Ukraine",
-      "url": "https://zaxid.net/amerikanskiy_nobelivskiy_laureat_pro_poryatunok_pid_chas_golokostu_v_ukrayini_n1404371",
-      "kind": "press"
-    },
-    {
-      "id": "src9",
-      "label": "Encyclopaedia Britannica, entry on Roald Hoffmann",
-      "url": "https://www.britannica.com/EBchecked/topic/268734",
-      "kind": "reference"
-    },
-    {
-      "id": "src10",
-      "label": "Science History Institute, scientific biography",
-      "url": "https://www.sciencehistory.org/education/scientific-biographies/roald-hoffmann/",
-      "kind": "organisation"
-    },
-    {
-      "id": "src11",
-      "label": "English Wikipedia, Roald Hoffmann",
-      "url": "https://en.wikipedia.org/wiki/Roald_Hoffmann",
-      "kind": "reference"
-    }
-  ],
-  "media": [
-    {
-      "id": "m1",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Roald%20Hoffmann.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Roald_Hoffmann.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": ". The original uploader was Xtreambar at English Wikipedia.",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "Roald Hoffmann smiling and holding a ball-and-stick molecular model, in front of bookshelves.",
-      "illustrates": [],
-      "date": "2009-10-06",
-      "width": 1750,
-      "height": 2649
-    },
-    {
-      "id": "m2",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Roald%20Hoffmann%20HD2006%20AIC%20Gold%20Medal.JPG?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Roald_Hoffmann_HD2006_AIC_Gold_Medal.JPG",
-      "source_name": "Wikimedia Commons",
-      "credit": "Douglas A. Lockard",
-      "licence": "CC BY-SA 3.0",
-      "hosting": "hotlink",
-      "caption": "Roald Hoffmann standing in a library wearing the 2006 Gold Medal of the American Institute of Chemists around his neck, photographed at the Chemical Heritage Foundation.",
-      "illustrates": [
-        "c50"
-      ],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-      "date": "2006",
-      "width": 2158,
-      "height": 3250
-    },
-    {
-      "id": "m3",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Roald%20Hoffmann%2005.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Roald_Hoffmann_05.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Kuebi = Armin Kübelbeck",
-      "licence": "CC BY-SA 3.0",
-      "hosting": "hotlink",
-      "caption": "Close-up portrait of Roald Hoffmann smiling, in Darmstadt before a lecture at the Technical University on 27 January 2015.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-      "date": "2015-01-27",
-      "width": 3000,
-      "height": 3000
-    },
-    {
-      "id": "m4",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Roald%20Hoffmann%2002.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Roald_Hoffmann_02.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Kuebi = Armin Kübelbeck",
-      "licence": "CC BY-SA 3.0",
-      "hosting": "hotlink",
-      "caption": "Close-up portrait of Roald Hoffmann smiling, wearing glasses, in Darmstadt before a lecture at the Technical University on 27 January 2015.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-      "date": "2015-01-27",
-      "width": 3000,
-      "height": 3000
-    },
-    {
-      "id": "m6",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Roald%20Hoffmann%2004.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Roald_Hoffmann_04.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Kuebi = Armin Kübelbeck",
-      "licence": "CC BY-SA 3.0",
-      "hosting": "hotlink",
-      "caption": "Close-up portrait of Roald Hoffmann in glasses and a tweed jacket, in Darmstadt before a lecture on 27 January 2015.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-      "date": "2015-01-27",
-      "width": 3000,
-      "height": 3000
-    },
-    {
-      "id": "m7",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Roald%20Hoffmann%2006.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Roald_Hoffmann_06.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Kuebi = Armin Kübelbeck",
-      "licence": "CC BY-SA 3.0",
-      "hosting": "hotlink",
-      "caption": "Roald Hoffmann looking to the side, in Darmstadt before a lecture at the Technical University on 27 January 2015.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-      "date": "2015-01-27",
-      "width": 3000,
-      "height": 3000
-    },
-    {
-      "id": "m8",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Roald%20Hoffmanne%2001.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Roald_Hoffmanne_01.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Kuebi = Armin Kübelbeck",
-      "licence": "CC BY-SA 3.0",
-      "hosting": "hotlink",
-      "caption": "Roald Hoffmann speaking at a lectern holding a slide remote, with a name tag on his jacket lapel.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-      "date": "2015-01-27",
-      "width": 2800,
-      "height": 2800
-    },
-    {
-      "id": "m9",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Roald%20Hoffman-2019-011.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Roald_Hoffman-2019-011.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Staff photographer",
-      "licence": "CC BY-SA 3.0",
-      "hosting": "hotlink",
-      "caption": "Roald Hoffmann speaking at a lectern, photographed at the Chemical Heritage Foundation.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-      "date": "14 Novembe",
-      "width": 4646,
-      "height": 3097
-    },
-    {
-      "id": "m10",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Roald%20Hoffman-2019-016.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Roald_Hoffman-2019-016.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Staff photographer",
-      "licence": "CC BY-SA 3.0",
-      "hosting": "hotlink",
-      "caption": "Roald Hoffmann in old age sitting in a dark room by a table with molecular models and a wooden box on it.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-      "date": "14 Novembe",
-      "width": 5881,
-      "height": 3921
-    },
-    {
-      "id": "m11",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Roald%20Hoffman%20in%202025%2006.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Roald_Hoffman_in_2025_06.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Cmichel67",
-      "licence": "CC BY-SA 4.0",
-      "hosting": "hotlink",
-      "caption": "Roald Hoffmann in old age holding a molecular model and smiling at the camera, in a photograph from 2025.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "date": "2025-11-03",
-      "width": 7161,
-      "height": 5115
-    },
-    {
-      "id": "m12",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Roald%20Hoffman%20in%202025%2001.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Roald_Hoffman_in_2025_01.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Cmichel67",
-      "licence": "CC BY-SA 4.0",
-      "hosting": "hotlink",
-      "caption": "Roald Hoffmann in old age sitting in a dark room, with a molecular model and a wooden box by the table, in a photograph from 2025.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "date": "2025-11-03",
-      "width": 4926,
-      "height": 7509
-    },
-    {
-      "id": "m13",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Roald%20Hoffman%20in%202025%2007.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Roald_Hoffman_in_2025_07.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Cmichel67",
-      "licence": "CC BY-SA 4.0",
-      "hosting": "hotlink",
-      "caption": "Roald Hoffmann holding a molecular model and smiling, in a black-and-white photograph from 2025.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "date": "2025-11-03",
-      "width": 8192,
-      "height": 5464
-    },
-    {
-      "id": "m14",
-      "kind": "video",
-      "url": "https://www.youtube.com/watch?v=5_1q2alQihQ",
-      "youtube_id": "5_1q2alQihQ",
-      "source_page": "https://www.youtube.com/watch?v=5_1q2alQihQ",
-      "source_name": "YouTube",
-      "credit": "USC Shoah Foundation",
-      "licence": "YouTube, embedded only (standard YouTube licence)",
-      "licence_url": "https://www.youtube.com/static?template=terms",
-      "hosting": "embed",
-      "caption": "Interview with Roald Hoffmann, Holocaust survivor and Nobel Prize-winning chemist, in the archive of the USC Shoah Foundation Institute, about his childhood in Złoczów and his survival.",
-      "illustrates": [
-        "c1",
-        "c5"
-      ]
-    },
-    {
-      "id": "m15",
-      "kind": "video",
-      "url": "https://www.youtube.com/watch?v=7D1ZviPYjBM",
-      "youtube_id": "7D1ZviPYjBM",
-      "source_page": "https://www.youtube.com/watch?v=7D1ZviPYjBM",
-      "source_name": "YouTube",
-      "credit": "ChemU",
-      "licence": "YouTube, embedded only (standard YouTube licence)",
-      "licence_url": "https://www.youtube.com/static?template=terms",
-      "hosting": "embed",
-      "caption": "Interview with Hoffmann (Part One) on the Nobel Prize, on the rescue during the war and on the beauty of chemistry.",
-      "illustrates": [
-        "c5",
-        "c43"
-      ]
-    },
-    {
-      "id": "m16",
-      "kind": "video",
-      "url": "https://www.youtube.com/watch?v=UN931kAomcI",
-      "youtube_id": "UN931kAomcI",
-      "source_page": "https://www.youtube.com/watch?v=UN931kAomcI",
-      "source_name": "YouTube",
-      "credit": "CMB Chemistry",
-      "licence": "YouTube, embedded only (standard YouTube licence)",
-      "licence_url": "https://www.youtube.com/static?template=terms",
-      "hosting": "embed",
-      "caption": "Interview with Hoffmann about the path from survival in the World War to winning a Nobel Prize in science.",
-      "illustrates": [
-        "c5",
-        "c43"
-      ],
-      "spoken": "en",
-      "audio_tracks": [
-        "en"
-      ]
-    },
-    {
-      "id": "m17",
-      "kind": "video",
-      "url": "https://www.youtube.com/watch?v=EaN6oafrumg",
-      "youtube_id": "EaN6oafrumg",
-      "source_page": "https://www.youtube.com/watch?v=EaN6oafrumg",
-      "source_name": "YouTube",
-      "credit": "Nobel Prize",
-      "licence": "YouTube, embedded only (standard YouTube licence)",
-      "licence_url": "https://www.youtube.com/static?template=terms",
-      "hosting": "embed",
-      "caption": "Official Nobel Prize website interview with Hoffmann, 1981 Nobel Prize in Chemistry laureate, from January 2005.",
-      "illustrates": [
-        "c43"
-      ],
-      "spoken": "en",
-      "audio_tracks": [
-        "en"
-      ]
-    },
-    {
-      "id": "m18",
-      "kind": "video",
-      "url": "https://www.youtube.com/watch?v=Uy1Gnl6rBw8",
-      "youtube_id": "Uy1Gnl6rBw8",
-      "source_page": "https://www.youtube.com/watch?v=Uy1Gnl6rBw8",
-      "source_name": "YouTube",
-      "credit": "Technion – Israel Institute of Technology",
-      "licence": "YouTube, embedded only (standard YouTube licence)",
-      "licence_url": "https://www.youtube.com/static?template=terms",
-      "hosting": "embed",
-      "caption": "Hoffmann's lecture at the Technion in January 2013, recorded by the Technion.",
-      "illustrates": [],
-      "spoken": "en",
-      "audio_tracks": [
-        "en"
-      ]
-    },
-    {
-      "id": "m19",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Roald%20Hoffman%20in%202025%2008.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Roald_Hoffman_in_2025_08.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Cmichel67",
-      "licence": "CC BY-SA 4.0",
-      "hosting": "hotlink",
-      "caption": "Roald Hoffmann in old age standing in front of a blackboard with drawings of orbitals, in a photograph from 2025.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "date": "2025-11-03",
-      "width": 6269,
-      "height": 4478,
-      "role": "deed"
-    },
-    {
-      "id": "m20",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Roald%20Hoffmann%202017%20stamp%20of%20Ukraine.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Roald_Hoffmann_2017_stamp_of_Ukraine.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Ukraine Post",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "A 2017 Ukrainian stamp from a series on Nobel laureates, bearing a portrait of Roald Hoffmann.",
-      "illustrates": [],
-      "date": "2017-07-18",
-      "width": 778,
-      "height": 716,
-      "role": "deed"
-    },
-    {
-      "id": "m21",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Map%20of%20Lviv%20Oblast%20highlighting%20Zolochivskyi%20Raion.png?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Map_of_Lviv_Oblast_highlighting_Zolochivskyi_Raion.png",
-      "source_name": "Wikimedia Commons",
-      "credit": "Olegzima",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "Map of Lviv Oblast in Ukraine, with Złoczów district in red.",
-      "illustrates": [],
-      "date": "2007-01",
-      "width": 1987,
-      "height": 2072,
-      "role": "related"
-    },
-    {
-      "id": "m24",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nazi%20Holocaust%20by%20bullets%20-%20Jewish%20mass%20grave%20near%20Zolochiv%2C%20west%20Ukraine.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Nazi_Holocaust_by_bullets_-_Jewish_mass_grave_near_Zolochiv%2C_west_Ukraine.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Unknown Gestapo photographer",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "Remains of Jewish victims murdered by the Nazis near Złoczów, according to the archive's description.",
-      "illustrates": [],
-      "date": "before 31 ",
-      "width": 1108,
-      "height": 691,
-      "role": "related"
-    },
-    {
-      "id": "m25",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Model%20zamku%20i%20miasta%20Z%C5%82ocz%C3%B3w%20epoki%20Jana%20Sobieskiego%20wykonany%20przez%20I.%20Kaczora.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Model_zamku_i_miasta_Z%C5%82ocz%C3%B3w_epoki_Jana_Sobieskiego_wykonany_przez_I._Kaczora.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Яким Крохмальний)",
-      "licence": "CC BY-SA 3.0",
-      "hosting": "hotlink",
-      "caption": "Model of Złoczów Castle and the town in the time of Jan Sobieski, 17th century.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-      "date": "2009-03",
-      "width": 410,
-      "height": 627,
-      "role": "related"
-    },
-    {
-      "id": "m26",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/1915-09-01%20General%20view%20of%20campus%2C%20Cornell%20University%20Ithaca%20NY%20A.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:1915-09-01_General_view_of_campus%2C_Cornell_University_Ithaca_NY_A.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Unknown authorUnknown author",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "Color postcard of the Cornell University campus in Ithaca, circa 1915.",
-      "illustrates": [],
-      "date": "1915",
-      "width": 3185,
-      "height": 2097,
-      "role": "related"
-    },
-    {
-      "id": "m27",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cornell%20University%20-%20Veterinary%20and%20Agricultural%20Colleges.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Cornell_University_-_Veterinary_and_Agricultural_Colleges.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Cornell Co-operative Society, Ithaca",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "Old postcard of the veterinary and agriculture colleges at Cornell University in Ithaca.",
-      "illustrates": [],
-      "date": "circa 1918",
-      "width": 1476,
-      "height": 932,
-      "role": "related"
-    },
-    {
-      "id": "m28",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hon4arivka.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Hon4arivka.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Андрій Угрин",
-      "licence": "CC BY-SA 4.0",
-      "hosting": "hotlink",
-      "caption": "View of a village in Zolochiv Raion, Lviv Oblast, Ukraine, with fields and hills in the background.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "date": "2017-11-11",
-      "width": 3264,
-      "height": 1840,
-      "role": "related"
-    },
-    {
-      "id": "m30",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Zolochivs%27kyi%20district%2C%20Lviv%20Oblast%2C%20Ukraine%20-%20panoramio%20%281%29.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Zolochivs%27kyi_district%2C_Lviv_Oblast%2C_Ukraine_-_panoramio_%281%29.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "grohmartin",
-      "licence": "CC BY 3.0",
-      "hosting": "hotlink",
-      "caption": "Rural landscape of fields and hills under heavy clouds, in Zolochiv Raion, Lviv Oblast.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by/3.0",
-      "date": "Taken on 1",
-      "width": 3835,
-      "height": 2545,
-      "role": "related"
-    },
-    {
-      "id": "m33",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ag%20Quad%20at%20Cornell%20University.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Ag_Quad_at_Cornell_University.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Tomwsulcer",
-      "licence": "CC0",
-      "hosting": "hotlink",
-      "caption": "Avenues of Cornell University's agricultural campus in Ithaca, photographed in April 2012.",
-      "illustrates": [],
-      "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-      "date": "2011-04-10",
-      "width": 864,
-      "height": 648,
-      "role": "related"
-    },
-    {
-      "id": "m35",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cornell%20University%20-%20Aerial%20view%2C%20ca.%201958.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Cornell_University_-_Aerial_view%2C_ca._1958.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "William Jubb Co., Syracuse (publisher)",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "Aerial view of the Cornell campus in Ithaca, with sports fields and a stadium, on a postcard from about 1958.",
-      "illustrates": [],
-      "date": "circa 1958",
-      "width": 3891,
-      "height": 2486,
-      "role": "related"
-    },
-    {
-      "id": "m36",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/East%20Ag%20Campus%20College%20Ag.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:East_Ag_Campus_College_Ag.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Unknown, 1905.",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "Buildings of Cornell University's College of Agriculture in Ithaca, on a postcard from the early 20th century.",
-      "illustrates": [],
-      "date": "1905",
-      "width": 3256,
-      "height": 2068,
-      "role": "related"
-    },
-    {
-      "id": "m37",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cornell%20University%201987%20Commencement.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Cornell_University_1987_Commencement.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Kenneth C. Zirkel",
-      "licence": "CC BY-SA 4.0",
-      "hosting": "hotlink",
-      "caption": "Cornell University graduates in gowns walk across the campus ahead of the commencement ceremony, 1987.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "date": "1987-05-31",
-      "width": 3400,
-      "height": 2325,
-      "role": "related"
-    }
-  ],
-  "check": {
-    "passed": true,
-    "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
-    "checked_at": "2026-11-21T23:04:38Z",
-    "counts": {
-      "confirmed": 91,
-      "not_confirmed": 0,
-      "deleted_sentences": 5,
-      "first_round_confirmed": 90,
-      "first_round_contradicted": 2,
-      "first_round_unverifiable": 5
-    },
-    "note": "unverifiable sentences were deleted, contradicted ones fixed from the source and checked again"
+ "schema": "maasei-museum/1",
+ "slug": "roald-hoffmann-survival-chemistry-nobel",
+ "deed": "רואלד הופמן — הישרדות במסתור ונובל לכימיה",
+ "canonical_type": "historical-figure",
+ "year": "1943",
+ "title": "Roald Hoffmann: A Jewish Boy Hidden in a Schoolhouse in a Ukrainian Village, Who Won the Nobel Prize in Chemistry",
+ "trailer": [
+  {
+   "text": "Roald Hoffmann, born in 1937 to a Jewish family in Złoczów, Poland, won the 1981 Nobel Prize in Chemistry.",
+   "claims": [
+    "c1",
+    "c2",
+    "c43",
+    "c62"
+   ]
   },
-  "meta": {
-    "run": "roald-hoffmann-survival-chemistry-nobel",
-    "pipeline": "scripts/museum/museum_line.py",
-    "models": {
-      "research": "sonnet-5-5",
-      "extract": "sonnet-5-5",
-      "media": "sonnet-5-5",
-      "write": "opus-5-5 medium",
-      "check": "opus-5-5 medium",
-      "fix": "opus-5-5 medium"
-    },
-    "source_quality": {
-      "sources": 11,
-      "wikipedia": 1,
-      "strong": 6,
-      "ok": true,
-      "warnings": []
-    },
-    "media_dedupe": [
-      {
-        "drop": "m5",
-        "keep": "m3",
-        "by": "reviewed 24.11"
-      }
-    ]
+  {
+   "text": "According to Yad Vashem, in his childhood he and his mother Clara were hidden by the teacher Mykola Dyuk and his wife Maria in the school building in the village of Uniow.",
+   "claims": [
+    "c13",
+    "c14",
+    "c19",
+    "c22"
+   ]
   },
-  "lang": "en",
-  "translation": {
-    "from": "he",
-    "translator": "claude-opus-5-5",
-    "checker": "claude-opus-5-5 (separate call, blind to the translation prompt)",
-    "checked_at": "2026-11-22T02:00:49Z",
-    "passed": true,
-    "items": 150,
-    "pairs_checked": 3,
-    "reused": 147,
-    "first_round_flagged": 1,
-    "still_flagged": 0,
-    "flagged": [],
-    "quote_translations": {}
+  {
+   "text": "According to Yad Vashem, no one in the village knew about them, and Maria cared for them and prepared their food.",
+   "claims": [
+    "c18",
+    "c21"
+   ]
+  },
+  {
+   "text": "After the war Hoffmann came to the United States at the age of 11, and there he grew up to become a chemist.",
+   "claims": [
+    "c65",
+    "c41"
+   ]
+  },
+  {
+   "text": "In 2007 Roald and his sister Elinor turned to Yad Vashem, and that same year Mykola and Maria Dyuk were awarded the title of Righteous Among the Nations.",
+   "claims": [
+    "c26",
+    "c24"
+   ]
   }
+ ],
+ "hero_media": [
+  "m1",
+  "m11",
+  "m3",
+  "m2",
+  "m8",
+  "m13",
+  "m6",
+  "m19",
+  "m35"
+ ],
+ "glance": [
+  {
+   "label": "Born",
+   "value": "1937, Złoczów (now Ukraine)",
+   "claims": [
+    "c1"
+   ]
+  },
+  {
+   "label": "The hiding place",
+   "value": "The school in the village of Uniow, 1943–1944",
+   "claims": [
+    "c13",
+    "c17"
+   ]
+  },
+  {
+   "label": "The rescuers",
+   "value": "Mykola and Maria Dyuk",
+   "claims": [
+    "c19"
+   ]
+  },
+  {
+   "label": "Recognition of the rescuers",
+   "value": "Righteous Among the Nations, 2007",
+   "claims": [
+    "c24"
+   ]
+  },
+  {
+   "label": "Prize",
+   "value": "Nobel Prize in Chemistry, 1981",
+   "claims": [
+    "c43"
+   ]
+  },
+  {
+   "label": "Scientific home",
+   "value": "Cornell, since 1965",
+   "claims": [
+    "c42"
+   ]
+  }
+ ],
+ "stations": [
+  {
+   "id": "s1",
+   "title": "Złoczów, 1941",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "Roald Hoffmann was born on 18 July 1937 in Złoczów, Poland, a town that is now in Ukraine.",
+      "claims": [
+       "c1"
+      ]
+     },
+     {
+      "text": "He was born into a Jewish family.",
+      "claims": [
+       "c2"
+      ]
+     },
+     {
+      "text": "According to the Nobel Prize website, his father Hillel Safran was a civil engineer, and his mother Clara was a teacher.",
+      "claims": [
+       "c3"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to Yad Vashem, in July 1941, when Roald was four years old, the German army conquered Złoczów.",
+      "claims": [
+       "c10"
+      ]
+     },
+     {
+      "text": "According to Yad Vashem, soon afterwards his grandfather and other relatives were murdered by the Einsatzgruppen.",
+      "claims": [
+       "c11"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to Yad Vashem, at the beginning of 1942 the Safran family and other relatives were taken to a forced labor camp.",
+      "claims": [
+       "c12"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m14",
+    "m21",
+    "m25",
+    "m28",
+    "m30"
+   ],
+   "disagreements": [
+    "d3"
+   ]
+  },
+  {
+   "id": "s2",
+   "title": "The Father Who Got Them Out of the Camp",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "According to a summary of an interview with him, his father bribed the guards so that Roald, his mother and other relatives could leave the camp.",
+      "claims": [
+       "c31"
+      ]
+     },
+     {
+      "text": "According to Hoffmann, this happened in early 1943.",
+      "claims": [
+       "c6"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "The father stayed in the camp. According to Hoffmann, he organized a breakout attempt there.",
+      "claims": [
+       "c8"
+      ]
+     },
+     {
+      "text": "According to Hoffmann, an uncle who was with the partisans in the forest smuggled weapons into the camp to prepare for the breakout.",
+      "claims": [
+       "c33"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to Yad Vashem, the breakout attempt was betrayed and led to the murder of its organizer.",
+      "claims": [
+       "c32"
+      ]
+     },
+     {
+      "text": "According to Hoffmann, his father was killed by the Nazis and their helpers in June 1943.",
+      "claims": [
+       "c8"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m4",
+    "m24"
+   ],
+   "disagreements": [
+    "d4",
+    "d5"
+   ]
+  },
+  {
+   "id": "s3",
+   "title": "The Schoolhouse Attic",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "According to Yad Vashem, Mykola Dyuk was a teacher and the principal of the school in the village of Uniow, and he lived in the schoolhouse.",
+      "claims": [
+       "c13"
+      ]
+     },
+     {
+      "text": "According to Yad Vashem, he hid the Jewish family in the school building.",
+      "claims": [
+       "c14"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to Yad Vashem, Dyuk first hid them in the attic.",
+      "claims": [
+       "c15"
+      ]
+     },
+     {
+      "text": "There was a window there, through which Roald watched the children play.",
+      "claims": [
+       "c15"
+      ]
+     },
+     {
+      "text": "According to Hoffmann, among the children playing there were three Jewish children.",
+      "claims": [
+       "c30"
+      ]
+     },
+     {
+      "text": "Hoffmann says that he still feels the pain of seeing children free to move while he could not go out.",
+      "claims": [
+       "c29"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to Yad Vashem, the roof was cracked and exposed to the weather, and so they were moved to a windowless storage room.",
+      "claims": [
+       "c16"
+      ]
+     },
+     {
+      "text": "According to Hoffmann, in the storage room they dug a bunker under the floor.",
+      "claims": [
+       "c35"
+      ]
+     },
+     {
+      "text": "According to his testimony, his mother invented games to entertain him in hiding.",
+      "claims": [
+       "c27"
+      ]
+     },
+     {
+      "text": "Hoffmann says that the games he remembered best were geography games: he had to describe how he would get from Złoczów to San Francisco.",
+      "claims": [
+       "c28"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m6"
+   ],
+   "disagreements": [
+    "d1"
+   ]
+  },
+  {
+   "id": "s4",
+   "title": "Mykola and Maria Dyuk",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "According to Yad Vashem, the Dyuks had three little children, and by hiding the Jews, Mykola and Maria exposed their entire family to great danger.",
+      "claims": [
+       "c19"
+      ]
+     },
+     {
+      "text": "According to Yad Vashem, no one in the village knew about the existence of those in hiding.",
+      "claims": [
+       "c18"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to Yad Vashem, Clara related after the war that Maria Dyuk was at first opposed to hiding them.",
+      "claims": [
+       "c20"
+      ]
+     },
+     {
+      "text": "According to Yad Vashem, Mykola convinced her to agree, and she cared for the Jews and prepared their food.",
+      "claims": [
+       "c21"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "Hoffmann said, according to Carnegie, that they survived by chance, and also thanks to the help of one good man.",
+      "claims": [
+       "c64"
+      ]
+     },
+     {
+      "text": "Hoffmann said that good people decided to save Jews, and Mykola Dyuk was one of them.",
+      "claims": [
+       "c72"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m15"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s5",
+   "title": "From the Camps to the United States",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "According to Hoffmann, he and his mother were freed by the Red Army in June 1944.",
+      "claims": [
+       "c9"
+      ]
+     },
+     {
+      "text": "According to Hoffmann, in 1946 they left Poland for Czechoslovakia, and from there they moved to a displaced persons' camp in Bindermichl, Austria.",
+      "claims": [
+       "c39"
+      ]
+     },
+     {
+      "text": "According to Carnegie, he spent several years in displaced persons' camps before coming to the United States at the age of 11.",
+      "claims": [
+       "c65"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to Hoffmann, the family came to the United States on Washington's Birthday in 1949.",
+      "claims": [
+       "c38"
+      ]
+     },
+     {
+      "text": "Hoffmann said in a lecture that they came with forged papers and documents.",
+      "claims": [
+       "c66"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to the Nobel Prize website, Hoffmann attended Stuyvesant High School and Columbia College, and received his doctorate from Harvard in 1962.",
+      "claims": [
+       "c41"
+      ]
+     },
+     {
+      "text": "According to Hoffmann, he met Eva Börjesson at a summer school in Sweden, and the two were married the following year.",
+      "claims": [
+       "c61"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m16",
+    "m3"
+   ],
+   "disagreements": [
+    "d2"
+   ]
+  },
+  {
+   "id": "s6",
+   "title": "Chemistry and the Nobel Prize",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "According to Scientific American, Hoffmann was a Westinghouse competition finalist in 1955.",
+      "claims": [
+       "c62"
+      ]
+     },
+     {
+      "text": "According to Hoffmann, in 1965 he came to Cornell University and has remained there ever since.",
+      "claims": [
+       "c42"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to Britannica, the research began when Hoffmann and Woodward sought to explain the unexpected course of a reaction intended for the synthesis of vitamin B12.",
+      "claims": [
+       "c46"
+      ]
+     },
+     {
+      "text": "According to Britannica, they discovered that many reactions involving the formation or breaking of rings of atoms depend on symmetry.",
+      "claims": [
+       "c45"
+      ]
+     },
+     {
+      "text": "According to the Science History Institute, the Woodward–Hoffmann rules make it possible to predict which products will form when two compounds are activated by heat.",
+      "claims": [
+       "c47"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "The 1981 Nobel Prize in Chemistry was awarded \"for their theories, developed independently, concerning the course of chemical reactions\".",
+      "claims": [
+       "c43"
+      ]
+     },
+     {
+      "text": "According to the Nobel Prize website, Hoffmann and Fukui each showed independently how the symmetry of electron orbitals explains the course of reactions.",
+      "claims": [
+       "c44"
+      ]
+     },
+     {
+      "text": "According to the Science History Institute, Woodward died before the prize was awarded, and so he was not named as one of the recipients.",
+      "claims": [
+       "c48"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m17",
+    "m1",
+    "m2",
+    "m11",
+    "m13",
+    "m26",
+    "m27",
+    "m33",
+    "m36"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s7",
+   "title": "Teacher, Writer, Witness",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "According to the Science History Institute, Hoffmann received the National Medal of Science and awards from the American Chemical Society.",
+      "claims": [
+       "c50"
+      ]
+     },
+     {
+      "text": "According to the Institute, he has published more than 450 scientific articles and holds more than 25 honorary degrees.",
+      "claims": [
+       "c52",
+       "c51"
+      ]
+     },
+     {
+      "text": "In 2023, Carnegie Corporation recognized him as one of the recipients of the \"Great Immigrants\" award.",
+      "claims": [
+       "c83"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to the Science History Institute, his publications include two collections of poetry, and the play \"Oxygen\", which he wrote with Carl Djerassi, premiered in the United States in 2001.",
+      "claims": [
+       "c57",
+       "c55"
+      ]
+     },
+     {
+      "text": "According to Hoffmann, he was the presenter of The World of Chemistry, a 26-episode television course in introductory chemistry with half-hour episodes, produced in 1986–1988, which began airing on PBS in 1990.",
+      "claims": [
+       "c56"
+      ]
+     },
+     {
+      "text": "Hoffmann writes of himself that he is a teacher, and proud of it.",
+      "claims": [
+       "c58"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to Ithaca College, in 2006 Hoffmann visited Ukraine and met the descendants of Mykola and Maria Dyuk.",
+      "claims": [
+       "c36"
+      ]
+     },
+     {
+      "text": "According to Yad Vashem, in 2007 Roald and his sister Elinor turned to Yad Vashem and asked that the rescuers be recognized.",
+      "claims": [
+       "c26"
+      ]
+     },
+     {
+      "text": "According to Yad Vashem, on 23 September 2007 Mykola and Maria Dyuk were awarded the title of Righteous Among the Nations.",
+      "claims": [
+       "c24"
+      ]
+     },
+     {
+      "text": "According to Yad Vashem, the Israeli ambassador in Kiev, Zina Kleitman, presented the medal and certificate to their son at an official ceremony.",
+      "claims": [
+       "c25"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "Hoffmann explained that he lectures because the good that people did, possibly even at the cost of their lives, must be told.",
+      "claims": [
+       "c67"
+      ]
+     },
+     {
+      "text": "He said that he wants to teach young people the value of saving lives and being good to others even when there is risk.",
+      "claims": [
+       "c68"
+      ]
+     },
+     {
+      "text": "He said that he is glad to speak to a diverse audience about something recognizably Jewish, and not to be afraid of it.",
+      "claims": [
+       "c69"
+      ]
+     },
+     {
+      "text": "Hoffmann said in an interview that Israel was the Zionist dream of his parents, and that its establishment fulfilled a two-thousand-year-old dream.",
+      "claims": [
+       "c70"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m18",
+    "m8",
+    "m9",
+    "m3",
+    "m20",
+    "m37"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s8",
+   "title": "A Difficult Memory",
+   "kind": "hard",
+   "paragraphs": [
+    [
+     {
+      "text": "Hoffmann said in an interview that in his opinion the degree of Ukrainian collaboration with the Nazis during the war was high.",
+      "claims": [
+       "c71"
+      ]
+     },
+     {
+      "text": "He said that a balanced picture of Ukrainian actions during the war must be acknowledged, including extensive collaboration with the Nazis.",
+      "claims": [
+       "c75"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "In the same interview, a question put to him stated that 3,000 local Jews were killed in the pogrom of 3–5 July 1941, and that no one wants to talk about it.",
+      "claims": [
+       "c74"
+      ]
+     },
+     {
+      "text": "Hoffmann said that he had not known about the murder of hundreds of Ukrainians by the NKVD in the prison of Złoczów Castle, days before the Nazi occupation.",
+      "claims": [
+       "c73"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "Hoffmann said that the deeds of Metropolitan Andrey Sheptytsky merit the title of Righteous Among the Nations from Yad Vashem.",
+      "claims": [
+       "c76"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m7",
+    "m10",
+    "m12"
+   ],
+   "disagreements": []
+  }
+ ],
+ "disagreements": [
+  {
+   "id": "d1",
+   "question": "How long were they in hiding?",
+   "versions": [
+    {
+     "says": "Nobel Prize website: 15 months in hiding",
+     "claims": [
+      "c5"
+     ]
+    },
+    {
+     "says": "Yad Vashem: 15 months, from January 1943 to June 1944",
+     "claims": [
+      "c17"
+     ]
+    },
+    {
+     "says": "Science History Institute: 18 months in an attic and a storeroom",
+     "claims": [
+      "c77"
+     ]
+    },
+    {
+     "says": "Ithaca College: nearly two years in an attic and under floorboards",
+     "claims": [
+      "c79"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d2",
+   "question": "What was the name of Clara's second husband?",
+   "versions": [
+    {
+     "says": "Yad Vashem: Holocaust survivor Naftali Margulies, who changed his name to Hoffmann",
+     "claims": [
+      "c22"
+     ]
+    },
+    {
+     "says": "Hoffmann in his autobiography: Paul Hoffmann",
+     "claims": [
+      "c23"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d3",
+   "question": "What was the name of Hoffmann's mother?",
+   "versions": [
+    {
+     "says": "Nobel Prize website: Clara Hillel",
+     "claims": [
+      "c3"
+     ]
+    },
+    {
+     "says": "Hoffmann in his autobiography: Clara, née Rosen",
+     "claims": [
+      "c4"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d4",
+   "question": "When did Hoffmann and his mother escape from the camp?",
+   "versions": [
+    {
+     "says": "Hoffmann in his autobiography: in early 1943",
+     "claims": [
+      "c6"
+     ]
+    },
+    {
+     "says": "Ithaca College: after a year in the camp",
+     "claims": [
+      "c80"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d5",
+   "question": "How was Hoffmann's father killed?",
+   "versions": [
+    {
+     "says": "Hoffmann in his autobiography: by the Nazis and their helpers, in June 1943",
+     "claims": [
+      "c8"
+     ]
+    },
+    {
+     "says": "Hoffmann at Ithaca College: betrayed by a fellow Jew, arrested, tortured and killed in June 1943",
+     "claims": [
+      "c34"
+     ]
+    },
+    {
+     "says": "Zaxid.net: he was one of the leaders of the Jewish underground in the camp and was shot by the Germans",
+     "claims": [
+      "c81"
+     ]
+    }
+   ]
+  }
+ ],
+ "unknowns": [
+  {
+   "text": "According to Hoffmann, among the children playing near the school there were three Jewish children.",
+   "claims": [
+    "c30"
+   ]
+  }
+ ],
+ "claims": [
+  {
+   "id": "c1",
+   "text": "רואלד הופמן נולד ב-18 ביולי 1937 בזלוצ'וב שבפולין (כיום באוקראינה).",
+   "source": "src1",
+   "quote": "Born: 18 July 1937, Zloczov, Poland (now Ukraine)",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c2",
+   "text": "הופמן נולד למשפחה יהודית בזלוצ'וב, פולין (כיום אוקראינה).",
+   "source": "src1",
+   "quote": "Roald Hoffmann was born into a Jewish family in Złoczów, Poland (now Ukraine).",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c43",
+   "text": "פרס נובל לכימיה 1981 ניתן 'על התיאוריות שלהם, שפותחו באופן עצמאי, בנוגע למהלך התגובות הכימיות'.",
+   "source": "src1",
+   "quote": "for their theories, developed independently, concerning the course of chemical reactions",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c62",
+   "text": "לפי סיינטיפיק אמריקן, הופמן היה פיינליסט בתחרות וסטינגהאוס ב-1955 וזכה בנובל 26 שנה אחר כך.",
+   "source": "src2",
+   "quote": "A 1955 Westinghouse finalist wins a Nobel Prize in chemistry 26 years later, then turns his attention to poetry",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c13",
+   "text": "לפי יד ושם, מיקולה דיוק היה מורה ומנהל בית הספר בכפר אוניוב וגר בבית הספר.",
+   "source": "src3",
+   "quote": "Dyuk was a teacher and the Principal of the school in Uniow (now Univ), and lived in the schoolhouse",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c14",
+   "text": "לפי יד ושם, מורה הכפר הסתיר את המשפחה היהודית בבניין בית הספר.",
+   "source": "src3",
+   "quote": "It was in this building that the village teacher hid the Jewish family.",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c19",
+   "text": "לפי יד ושם, למשפחת דיוק היו שלושה ילדים קטנים, ובהסתרת היהודים חשפו מיקולה ומריה את כל משפחתם לסכנה גדולה.",
+   "source": "src3",
+   "quote": "They had three little children, and by hiding Jews in their schoolhouse, Mykola and Maria Dyuk exposed the entire family to great danger.",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c22",
+   "text": "לפי יד ושם, אחרי המלחמה נישאה קלרה לניצול שואה אחר, נפתלי מרגוליס, ששינה את שמו להופמן.",
+   "source": "src3",
+   "quote": "Clara Safran remarried another Holocaust survivor, Naftali Margulies, who later changed his name to Hoffmann",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c18",
+   "text": "לפי יד ושם, איש בכפר לא ידע על קיומם.",
+   "source": "src3",
+   "quote": "No one in the village knew about their existence.",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c21",
+   "text": "לפי יד ושם, מיקולה שכנע אותה להסכים, והיא טיפלה ביהודים והכינה להם אוכל.",
+   "source": "src3",
+   "quote": "But Mykola convinced her to go along, and she cared for the Jews and prepared their food.",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c65",
+   "text": "לפי קרנגי, אחרי המלחמה שהה הופמן כמה שנים במחנות עקורים לפני שהגיע לארצות הברית בגיל 11.",
+   "source": "src4",
+   "quote": "After the war, Hoffmann spent several years in displaced persons’ camps before coming to the United States at the age of 11.",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c41",
+   "text": "לפי אתר פרס נובל, הופמן למד בתיכון סטויבסנט ובקולג' קולומביה וקיבל דוקטורט מהרווארד ב-1962.",
+   "source": "src1",
+   "quote": "Roald Hoffmann went to Stuyvesant High School, Columbia College and received his doctorate at Harvard University in 1962.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c26",
+   "text": "לפי יד ושם, רק רואלד ואחותו אלינור פנו ב-2007 ליד ושם וביקשו להכיר במצילים כחסידי אומות העולם.",
+   "source": "src3",
+   "quote": "It was only her son, Roald, and his sister Elinor, who in 2007 turned to Yad Vashem and asked to recognize the rescuers",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c24",
+   "text": "לפי יד ושם, ב-23 בספטמבר 2007 הוענק למיקולה ומריה דיוק התואר חסידי אומות העולם.",
+   "source": "src3",
+   "quote": "On 23 September 2007, the commission for the Designation of the Righteous conferred upon Mykola and Maria Dyuk the title of Righteous Among the Nations.",
+   "status": "confirmed",
+   "locator": "שורה 15"
+  },
+  {
+   "id": "c17",
+   "text": "לפי יד ושם, הם שהו במסתור 15 חודשים, מינואר 1943 עד יוני 1944.",
+   "source": "src3",
+   "quote": "They remained in hiding for 15 months – from January 1943 until June 1944.",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c42",
+   "text": "לדברי הופמן, ב-1965 הגיע לקורנל ונשאר שם מאז.",
+   "source": "src5",
+   "quote": "In 1965 I came to Cornell where I have been ever since.",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c6",
+   "text": "לדברי הופמן, אביו הבריח אותו ואת אמו מהמחנה בתחילת 1943.",
+   "source": "src5",
+   "quote": "My father smuggled my mother and me out of the camp in early 1943",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c3",
+   "text": "לפי אתר פרס נובל, אביו הילל סאפראן היה מהנדס אזרחי ואמו קלרה הילל הייתה מורה.",
+   "source": "src1",
+   "quote": "His father Hillel Safran was a civil engineer and his mother Clara Hillel a teacher.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c10",
+   "text": "לפי יד ושם, ביולי 1941, כשרואלד היה בן ארבע, כבש הצבא הגרמני את זלוצ'וב.",
+   "source": "src3",
+   "quote": "In July 1941, when Roald was four years old, the German army conquered Zlochow.",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c11",
+   "text": "לפי יד ושם, זמן קצר אחר כך נרצחו סבו של רואלד וקרובים נוספים בידי האיינזצגרופן.",
+   "source": "src3",
+   "quote": "Soon afterwards, Roald’s grandfather and some other relatives were murdered by the Einsatzgruppen",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c12",
+   "text": "לפי יד ושם, בתחילת 1942 נלקחו משפחת סאפראן וקרובים נוספים למחנה עבודה כפויה.",
+   "source": "src3",
+   "quote": "At the beginning of 1942 the Safran family and other relatives were taken to a forced labor camp.",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c31",
+   "text": "לפי תקציר הראיון, אביו שיחד את השומרים כדי שרואלד, אמו וקרובים נוספים יצאו, אך הוא עצמו הוצא להורג זמן קצר אחר כך.",
+   "source": "src6",
+   "quote": "His father bribed the guards to allow Roald, his mother, and several other family members to leave, but was himself executed soon after for leading a plot",
+   "status": "confirmed",
+   "locator": "שורה 16"
+  },
+  {
+   "id": "c8",
+   "text": "לדברי הופמן, אביו ארגן ניסיון בריחה מהמחנה שהתגלה, והוא נהרג בידי הנאצים ועוזריהם ביוני 1943.",
+   "source": "src5",
+   "quote": "He organized a breakout attempt which was discovered. Hillel Safran was killed by the Nazis and their helpers in June 1943.",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c33",
+   "text": "לדברי הופמן, דוד שהיה בפרטיזנים ביער הבריח נשק למחנה לקראת הבריחה.",
+   "source": "src7",
+   "quote": "One uncle who was in the forest in a partisan group smuggled weapons into the camp to prepare for the breakout.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c32",
+   "text": "לפי יד ושם, ניסיון הבריחה מהמחנה נחשף בבגידה והוביל לרצח מארגנו.",
+   "source": "src3",
+   "quote": "an attempt that was betrayed and led to the murder of its organizer.",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c15",
+   "text": "לפי יד ושם, דיוק החביא את המשפחה תחילה בעליית הגג, שבה היה חלון שדרכו רואלד צפה בילדים משחקים.",
+   "source": "src3",
+   "quote": "At first Dyuk hid the family in the attic. It had a window, from which Roald would watch the children play.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c30",
+   "text": "לדברי הופמן, בין הילדים ששיחקו שם היו שלושה ילדים יהודים.",
+   "source": "src6",
+   "quote": "Among the children playing are three Jewish children.",
+   "status": "confirmed",
+   "locator": "שורה 38"
+  },
+  {
+   "id": "c29",
+   "text": "הופמן מספר שהוא עדיין חש את הכאב של ראיית ילדים חופשיים לנוע בעוד הוא לא יכול לצאת.",
+   "source": "src3",
+   "quote": "the pain of seeing these children being free to move and I couldn't move out",
+   "status": "confirmed",
+   "locator": "שורה 17"
+  },
+  {
+   "id": "c16",
+   "text": "לפי יד ושם, גג עליית הגג היה סדוק וחשוף למזג האוויר, ולכן הועברה המשפחה לחדר אחסון בלי חלונות.",
+   "source": "src3",
+   "quote": "The attic roof had cracks and the place was exposed to the weather. The hiding family was therefore moved to a windowless storage room.",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c35",
+   "text": "לדברי הופמן, בחדר האחסון חפרו מקלט מתחת לרצפה.",
+   "source": "src6",
+   "quote": "In that storeroom we dug out a bunker underneath",
+   "status": "confirmed",
+   "locator": "שורה 38"
+  },
+  {
+   "id": "c27",
+   "text": "לפי עדותו של הופמן, אמו המציאה משחקים כדי לשעשע אותו במשך 15 חודשים במסתור.",
+   "source": "src3",
+   "quote": "she kept inventing games to play with me for 15 months",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c28",
+   "text": "הופמן מספר שהמשחקים שזכר הכי טוב היו משחקי גיאוגרפיה, שבהם נדרש לתאר איך יגיע מזלוצ'וב לסן פרנסיסקו.",
+   "source": "src3",
+   "quote": "my mother would specify some spot around the world like San Francisco, and I would have to say how I would get from Zloczów to San Francisco",
+   "status": "confirmed",
+   "locator": "שורה 19"
+  },
+  {
+   "id": "c20",
+   "text": "לפי יד ושם, קלרה סיפרה אחרי המלחמה שמריה דיוק התנגדה בתחילה להסתיר את המשפחה היהודית.",
+   "source": "src3",
+   "quote": "related how Maria Dyuk was at first opposed to sheltering the Jewish family.",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c64",
+   "text": "הופמן אמר, לפי קרנגי, ששרדו בזכות עזרתו של אדם טוב אחד.",
+   "source": "src4",
+   "quote": "And because we were helped by one good man.",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c72",
+   "text": "הופמן אמר שבכל זאת אנשים טובים החליטו להציל יהודים, ומיקולה דיוק היה אחד מהם.",
+   "source": "src8",
+   "quote": "І все ж тоді деякі хороші люди вирішували рятувати євреїв. І Микола Дюк був такою людиною.",
+   "status": "confirmed",
+   "locator": "שורה 22"
+  },
+  {
+   "id": "c9",
+   "text": "לדברי הופמן, הוא ואמו שוחררו בידי הצבא האדום ביוני 1944.",
+   "source": "src5",
+   "quote": "We were freed by the Red Army in June 1944.",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c39",
+   "text": "לדברי הופמן, ב-1946 עזבו את פולין לצ'כוסלובקיה ומשם עברו למחנה עקורים בבינדרמיכל שבאוסטריה.",
+   "source": "src5",
+   "quote": "In 1946 we left Poland for Czechoslovakia. From there we moved to a displaced persons’ camp, Bindermichl, near Linz, in Austria.",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c38",
+   "text": "לדברי הופמן, המשפחה הגיעה לארצות הברית ביום הולדתו של וושינגטון ב-1949.",
+   "source": "src5",
+   "quote": "On Washington’s Birthday 1949 we came to the United States.",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c66",
+   "text": "הופמן אמר בהרצאה באיתקה קולג' שהמשפחה הגיעה לארצות הברית עם ניירות ומסמכים מזויפים.",
+   "source": "src7",
+   "quote": "we came here on forged papers and documents",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c23",
+   "text": "לדברי הופמן, אמו נישאה בשנית ופול הופמן היה לו אב טוב ועדין.",
+   "source": "src5",
+   "quote": "My mother remarried, and Paul Hoffmann was a kind and gentle father to me until his death",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c61",
+   "text": "לדברי הופמן, הוא פגש את אווה בורייסון בבית ספר קיץ בשוודיה והשניים נישאו בשנה שלאחר מכן.",
+   "source": "src5",
+   "quote": "I met Eva Börjesson who had a summer job as a receptionist at the school, and we were married the following year.",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c46",
+   "text": "לפי בריטניקה, המחקר החל כשהופמן ווודוורד ביקשו להסביר מהלך בלתי צפוי של תגובה שנועדה לסינתזה של ויטמין B12.",
+   "source": "src9",
+   "quote": "when he and Woodward sought an explanation of the unexpected course taken by a reaction that Woodward and his colleagues had hoped to use in the synthesis",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c45",
+   "text": "לפי אנציקלופדיה בריטניקה, הופמן וודוורד גילו שתגובות רבות של יצירה או שבירה של טבעות אטומים תלויות בסימטריה מזוהה.",
+   "source": "src9",
+   "quote": "Hoffmann and Woodward discovered that many reactions involving the formation or breaking of rings of atoms take courses that depend on an identifiable symmetry",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c47",
+   "text": "לפי מכון ההיסטוריה של המדע, כללי וודוורד-הופמן מאפשרים לחזות אילו תוצרים ייווצרו כששתי תרכובות מופעלות בחום.",
+   "source": "src10",
+   "quote": "These rules permit chemists to predict, for example, the products that form when two compounds are activated by heat",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c44",
+   "text": "לפי אתר פרס נובל, הופמן ופוקוי הראו, כל אחד בנפרד, כיצד התכונות הסימטריות של אורביטלים אלקטרוניים מסבירות את מהלך התגובות הכימיות.",
+   "source": "src1",
+   "quote": "Independently of one another, Hoffmann and Fukui both demonstrated how the symmetrical properties of electron orbitals explain the course of chemical reactions.",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c48",
+   "text": "לפי מכון ההיסטוריה של המדע, מותו של וודוורד לפני הענקת הפרס מנע את בחירתו לאחד הזוכים.",
+   "source": "src10",
+   "quote": "Woodward’s death before the prize was awarded prevented him from being named as one of the recipients.",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c50",
+   "text": "לפי מכון ההיסטוריה של המדע, הופמן קיבל את המדליה הלאומית למדע ופרסים של האגודה האמריקאית לכימיה.",
+   "source": "src10",
+   "quote": "He has also received the National Medal of Science and several awards from the American Chemical Society",
+   "status": "confirmed",
+   "locator": "שורה 17"
+  },
+  {
+   "id": "c52",
+   "text": "לפי מכון ההיסטוריה של המדע, הופמן פרסם יותר מ-450 מאמרים מדעיים.",
+   "source": "src10",
+   "quote": "He has published more than 450 scientific articles.",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c51",
+   "text": "לפי מכון ההיסטוריה של המדע, להופמן יותר מ-25 תארי כבוד.",
+   "source": "src10",
+   "quote": "Award in Inorganic Chemistry. He holds more than 25 honorary degrees.",
+   "status": "confirmed",
+   "locator": "שורה 17"
+  },
+  {
+   "id": "c57",
+   "text": "לפי מכון ההיסטוריה של המדע, פרסומיו של הופמן כוללים שני קבצי שירה מוכרים.",
+   "source": "src10",
+   "quote": "Hoffmann’s publications include two well-known collections of poetry, The Metamict State and Gaps and Verges.",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c55",
+   "text": "לפי מכון ההיסטוריה של המדע, ההצגה 'חמצן' שכתבו הופמן וקרל ג'רסי הוצגה לראשונה בארצות הברית ב-2001.",
+   "source": "src10",
+   "quote": "Oxygen, a play written by Hoffmann and Carl Djerassi, premiered in the United States at the San Diego Repertory Theatre in 2001",
+   "status": "confirmed",
+   "locator": "שורה 15"
+  },
+  {
+   "id": "c56",
+   "text": "לדברי הופמן, הוא המגיש של סדרת טלוויזיה בת 26 פרקים בשם 'עולם הכימיה'.",
+   "source": "src5",
+   "quote": "is a series of 26 half-hour episodes developed at the University of Maryland",
+   "status": "confirmed",
+   "locator": "שורה 19"
+  },
+  {
+   "id": "c58",
+   "text": "הופמן כותב על עצמו שהוא מורה וגאה בכך.",
+   "source": "src5",
+   "quote": "I am a teacher, and I am proud of it.",
+   "status": "confirmed",
+   "locator": "שורה 15"
+  },
+  {
+   "id": "c36",
+   "text": "לפי אוניברסיטת איתקה קולג', ב-2006 ביקר הופמן באוקראינה ופגש את צאצאי מיקולה ומריה דיוק.",
+   "source": "src7",
+   "quote": "And the photos of his 2006 visit to Ukraine to meet with the descendants of Mykola and Maria Dyuk",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c25",
+   "text": "לפי יד ושם, שגרירת ישראל בקייב, זינה קלייטמן, העניקה את המדליה והתעודה לבנם של בני הזוג דיוק בטקס רשמי.",
+   "source": "src3",
+   "quote": "Israeli ambassador in Kiev, Zina Kleitman, presented the medal and certificate to the Dyuks’ son at an official ceremony.",
+   "status": "confirmed",
+   "locator": "שורה 15"
+  },
+  {
+   "id": "c67",
+   "text": "הופמן הסביר שהוא מרצה כי יש לספר על הטוב שאנשים עשו, אפילו במחיר חייהם.",
+   "source": "src7",
+   "quote": "We must tell the stories of the good that people did, possibly at the cost of their lives.",
+   "status": "confirmed",
+   "locator": "שורה 13"
+  },
+  {
+   "id": "c68",
+   "text": "הופמן אמר שהוא רוצה ללמד צעירים את ערך הצלת החיים והטוב לזולת גם כשיש סיכון.",
+   "source": "src7",
+   "quote": "I would like to teach young people the value of saving lives and being good to others even when there is risk.",
+   "status": "confirmed",
+   "locator": "שורה 13"
+  },
+  {
+   "id": "c69",
+   "text": "הופמן אמר שהוא שמח לדבר לקהל מגוון על דבר יהודי באופן מובהק ולא לחשוש מכך.",
+   "source": "src7",
+   "quote": "So I’m glad to speak to a diverse audience yet about something recognizably Jewish and not to be afraid of it.",
+   "status": "confirmed",
+   "locator": "שורה 13"
+  },
+  {
+   "id": "c70",
+   "text": "הופמן אמר בראיון שישראל הייתה חלומם הציוני של הוריו, ושהקמתה הגשימה חלום בן אלפיים שנה.",
+   "source": "src8",
+   "quote": "Ізраїль був сіоністською мрією моїх батьків. І створення Держави Ізраїль було втіленням такої 2000-річної мрії.",
+   "status": "confirmed",
+   "locator": "שורה 54"
+  },
+  {
+   "id": "c71",
+   "text": "הופמן אמר בראיון שלדעתו מידת שיתוף הפעולה האוקראיני עם הנאצים במלחמה הייתה גבוהה.",
+   "source": "src8",
+   "quote": "Ступінь української колаборації з нацистами під час війни була, по-моєму, високою.",
+   "status": "confirmed",
+   "locator": "שורה 22"
+  },
+  {
+   "id": "c75",
+   "text": "הופמן אמר שיש להכיר בתמונה מאוזנת של מעשי האוקראינים במלחמה, כולל שיתוף פעולה נרחב עם הנאצים.",
+   "source": "src8",
+   "quote": "Має бути визнана зважена картина українських дій у Другій Світовій війні",
+   "status": "confirmed",
+   "locator": "שורה 34"
+  },
+  {
+   "id": "c74",
+   "text": "בשאלה שהופנתה להופמן נאמר שבפוגרום ב-3–5 ביולי 1941 נהרגו 3,000 יהודים מקומיים ושאיש אינו רוצה לדבר עליו.",
+   "source": "src8",
+   "quote": "ніхто не хоче говорити про погром 3-5 липня 1941 року, в якому було вбито 3000 місцевих євреїв.",
+   "status": "confirmed",
+   "locator": "שורה 26"
+  },
+  {
+   "id": "c73",
+   "text": "הופמן אמר שלא ידע על רצח מאות אוקראינים בידי ה-NKVD בכלא טירת זלוצ'וב ימים לפני הכיבוש הנאצי.",
+   "source": "src8",
+   "quote": "Я не знав про вбивство сотень українців від рук НКВС у в'язниці Золочівського замку",
+   "status": "confirmed",
+   "locator": "שורה 21"
+  },
+  {
+   "id": "c76",
+   "text": "הופמן אמר שמעשיו של המטרופוליט אנדריי שפטיצקי ראויים לתואר חסיד אומות העולם מטעם יד ושם.",
+   "source": "src8",
+   "quote": "Дії митрополита Андрея Шептицького заслуговують присвоєння йому звання «Праведника народів світу» від імені «Яд Вашем».",
+   "status": "confirmed",
+   "locator": "שורה 31"
+  },
+  {
+   "id": "c5",
+   "text": "לפי אתר פרס נובל, רואלד ואמו שרדו גטו, מחנה עבודה ו-15 חודשי הסתתרות, ואילו אביו נהרג בידי הנאצים.",
+   "source": "src1",
+   "quote": "Roald and his mother survived the ghetto, a labor camp and 15 months in hiding but his father was killed by the Nazis.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c77",
+   "text": "לפי מכון ההיסטוריה של המדע, הופמן שרד את השואה בהסתתרות של 18 חודשים בעליית גג ובחדר אחסון של בית ספר.",
+   "source": "src10",
+   "quote": "As a small child he survived the Holocaust by hiding for 18 months with family members in the attic and storeroom of a local schoolhouse.",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c79",
+   "text": "לפי אתר אוניברסיטת איתקה קולג', הופמן הסתתר בעליית גג ומתחת לקרשי רצפה כמעט שנתיים.",
+   "source": "src7",
+   "quote": "The photos of the schoolhouse where he hid from the Nazis in an attic and under floorboards for nearly two years.",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c4",
+   "text": "באוטוביוגרפיה שלו הופמן כותב שנולד לקלרה (לבית רוזן) ולהילל סאפראן.",
+   "source": "src5",
+   "quote": "On July 18, 1937 I was born to Clara (née Rosen) and Hillel Safran in Zloczow, Poland.",
+   "status": "confirmed",
+   "locator": "שורה 1"
+  },
+  {
+   "id": "c80",
+   "text": "לפי אתר אוניברסיטת איתקה קולג', הופמן ואמו הצליחו לברוח אחרי שנה ונקלטו אצל משפחת דיוק.",
+   "source": "src7",
+   "quote": "He and his mother were able to escape after a year and were taken in by the Dyuks",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c34",
+   "text": "לדברי הופמן, אביו נבגד בידי יהודי אחר ובמהלך יוני 1943 נעצר, עונה ונהרג.",
+   "source": "src7",
+   "quote": "My father was betrayed by a fellow Jew, and in June 1943 he was arrested, tortured, and with another leader of the attempt was killed.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c81",
+   "text": "לפי ראיון באתר Zaxid.net, אביו של הופמן, הילל סאפראן, מראשי קבוצת המחתרת היהודית במחנה, נורה בידי הגרמנים.",
+   "source": "src8",
+   "quote": "Батько Роальда – Гілель Сафран, один із керівників єврейської підпільної групи у таборі примусової праці, був застрелений гітлерівцями.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c83",
+   "text": "ב-2023 הכירה בו קרנגי קורפוריישן כאחד מזוכי פרס \"מהגרים גדולים\".",
+   "source": "src12",
+   "quote": "2023 Great Immigrants",
+   "status": "confirmed",
+   "locator": "שורה 1"
+  }
+ ],
+ "sources": [
+  {
+   "id": "src1",
+   "label": "NobelPrize.org, Hoffmann facts page",
+   "url": "https://www.nobelprize.org/prizes/chemistry/1981/hoffmann/facts/",
+   "kind": "official"
+  },
+  {
+   "id": "src2",
+   "label": "Scientific American, The Watcher: Roald Hoffmann",
+   "url": "https://www.scientificamerican.com/article/the-watcher-roald-hoffmann/",
+   "kind": "press"
+  },
+  {
+   "id": "src3",
+   "label": "Yad Vashem, the story of the Dyuk family (Righteous Among the Nations)",
+   "url": "https://yadvashem.org/righteous/stories/dyuk",
+   "kind": "organisation"
+  },
+  {
+   "id": "src4",
+   "label": "Carnegie Corporation, Roald Hoffmann",
+   "url": "https://carnegie.org/?p=36320",
+   "kind": "organisation"
+  },
+  {
+   "id": "src5",
+   "label": "NobelPrize.org, Hoffmann autobiography",
+   "url": "https://www.nobelprize.org/prizes/chemistry/1981/hoffmann/auto-biography/",
+   "kind": "official"
+  },
+  {
+   "id": "src6",
+   "label": "Science History Institute, transcript of an interview with Hoffmann (PDF)",
+   "url": "https://digital.sciencehistory.org/downloads/orig/pdf/yew5xt3",
+   "kind": "press"
+  },
+  {
+   "id": "src7",
+   "label": "Ithaca College News, Holocaust Survivor Brings History to Life",
+   "url": "https://www.ithaca.edu/news/holocaust-survivor-brings-history-life",
+   "kind": "press"
+  },
+  {
+   "id": "src8",
+   "label": "Zaxid.net, interview with the Nobel laureate about the rescue in Ukraine",
+   "url": "https://zaxid.net/amerikanskiy_nobelivskiy_laureat_pro_poryatunok_pid_chas_golokostu_v_ukrayini_n1404371",
+   "kind": "press"
+  },
+  {
+   "id": "src9",
+   "label": "Encyclopaedia Britannica, entry on Roald Hoffmann",
+   "url": "https://www.britannica.com/EBchecked/topic/268734",
+   "kind": "reference"
+  },
+  {
+   "id": "src10",
+   "label": "Science History Institute, scientific biography",
+   "url": "https://www.sciencehistory.org/education/scientific-biographies/roald-hoffmann/",
+   "kind": "organisation"
+  },
+  {
+   "id": "src12",
+   "label": "Carnegie Corporation of New York: Great Immigrants Awards – Roald Hoffmann",
+   "url": "https://www.carnegie.org/awards/honoree/roald-hoffmann/",
+   "kind": "organisation"
+  }
+ ],
+ "media": [
+  {
+   "id": "m1",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Roald%20Hoffmann.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Roald_Hoffmann.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": ". The original uploader was Xtreambar at English Wikipedia.",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "Roald Hoffmann smiling and holding a ball-and-stick molecular model, in front of bookshelves.",
+   "illustrates": [],
+   "date": "2009-10-06",
+   "width": 1750,
+   "height": 2649
+  },
+  {
+   "id": "m2",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Roald%20Hoffmann%20HD2006%20AIC%20Gold%20Medal.JPG?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Roald_Hoffmann_HD2006_AIC_Gold_Medal.JPG",
+   "source_name": "Wikimedia Commons",
+   "credit": "Douglas A. Lockard",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "Roald Hoffmann standing in a library wearing the 2006 Gold Medal of the American Institute of Chemists around his neck, photographed at the Chemical Heritage Foundation.",
+   "illustrates": [
+    "c50"
+   ],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "2006",
+   "width": 2158,
+   "height": 3250
+  },
+  {
+   "id": "m3",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Roald%20Hoffmann%2005.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Roald_Hoffmann_05.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Kuebi = Armin Kübelbeck",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "Close-up portrait of Roald Hoffmann smiling, in Darmstadt before a lecture at the Technical University on 27 January 2015.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "2015-01-27",
+   "width": 3000,
+   "height": 3000
+  },
+  {
+   "id": "m4",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Roald%20Hoffmann%2002.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Roald_Hoffmann_02.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Kuebi = Armin Kübelbeck",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "Close-up portrait of Roald Hoffmann smiling, wearing glasses, in Darmstadt before a lecture at the Technical University on 27 January 2015.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "2015-01-27",
+   "width": 3000,
+   "height": 3000
+  },
+  {
+   "id": "m6",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Roald%20Hoffmann%2004.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Roald_Hoffmann_04.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Kuebi = Armin Kübelbeck",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "Close-up portrait of Roald Hoffmann in glasses and a tweed jacket, in Darmstadt before a lecture on 27 January 2015.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "2015-01-27",
+   "width": 3000,
+   "height": 3000
+  },
+  {
+   "id": "m7",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Roald%20Hoffmann%2006.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Roald_Hoffmann_06.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Kuebi = Armin Kübelbeck",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "Roald Hoffmann looking to the side, in Darmstadt before a lecture at the Technical University on 27 January 2015.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "2015-01-27",
+   "width": 3000,
+   "height": 3000
+  },
+  {
+   "id": "m8",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Roald%20Hoffmanne%2001.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Roald_Hoffmanne_01.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Kuebi = Armin Kübelbeck",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "Roald Hoffmann speaking at a lectern holding a slide remote, with a name tag on his jacket lapel.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "2015-01-27",
+   "width": 2800,
+   "height": 2800
+  },
+  {
+   "id": "m9",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Roald%20Hoffman-2019-011.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Roald_Hoffman-2019-011.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Staff photographer",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "Roald Hoffmann speaking at a lectern, photographed at the Chemical Heritage Foundation.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "14 Novembe",
+   "width": 4646,
+   "height": 3097
+  },
+  {
+   "id": "m10",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Roald%20Hoffman-2019-016.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Roald_Hoffman-2019-016.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Staff photographer",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "Roald Hoffmann in old age sitting in a dark room by a table with molecular models and a wooden box on it.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "14 Novembe",
+   "width": 5881,
+   "height": 3921
+  },
+  {
+   "id": "m11",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Roald%20Hoffman%20in%202025%2006.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Roald_Hoffman_in_2025_06.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Cmichel67",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "Roald Hoffmann in old age holding a molecular model and smiling at the camera, in a photograph from 2025.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2025-11-03",
+   "width": 7161,
+   "height": 5115
+  },
+  {
+   "id": "m12",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Roald%20Hoffman%20in%202025%2001.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Roald_Hoffman_in_2025_01.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Cmichel67",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "Roald Hoffmann in old age sitting in a dark room, with a molecular model and a wooden box by the table, in a photograph from 2025.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2025-11-03",
+   "width": 4926,
+   "height": 7509
+  },
+  {
+   "id": "m13",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Roald%20Hoffman%20in%202025%2007.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Roald_Hoffman_in_2025_07.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Cmichel67",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "Roald Hoffmann holding a molecular model and smiling, in a black-and-white photograph from 2025.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2025-11-03",
+   "width": 8192,
+   "height": 5464
+  },
+  {
+   "id": "m14",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=5_1q2alQihQ",
+   "youtube_id": "5_1q2alQihQ",
+   "source_page": "https://www.youtube.com/watch?v=5_1q2alQihQ",
+   "source_name": "YouTube",
+   "credit": "USC Shoah Foundation",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "Interview with Roald Hoffmann, Holocaust survivor and Nobel Prize-winning chemist, in the archive of the USC Shoah Foundation Institute, about his childhood in Złoczów and his survival.",
+   "illustrates": [
+    "c1",
+    "c5"
+   ]
+  },
+  {
+   "id": "m15",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=7D1ZviPYjBM",
+   "youtube_id": "7D1ZviPYjBM",
+   "source_page": "https://www.youtube.com/watch?v=7D1ZviPYjBM",
+   "source_name": "YouTube",
+   "credit": "ChemU",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "Interview with Hoffmann (Part One) on the Nobel Prize, on the rescue during the war and on the beauty of chemistry.",
+   "illustrates": [
+    "c5",
+    "c43"
+   ]
+  },
+  {
+   "id": "m16",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=UN931kAomcI",
+   "youtube_id": "UN931kAomcI",
+   "source_page": "https://www.youtube.com/watch?v=UN931kAomcI",
+   "source_name": "YouTube",
+   "credit": "CMB Chemistry",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "Interview with Hoffmann about the path from survival in the World War to winning a Nobel Prize in science.",
+   "illustrates": [
+    "c5",
+    "c43"
+   ],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m17",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=EaN6oafrumg",
+   "youtube_id": "EaN6oafrumg",
+   "source_page": "https://www.youtube.com/watch?v=EaN6oafrumg",
+   "source_name": "YouTube",
+   "credit": "Nobel Prize",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "Official Nobel Prize website interview with Hoffmann, 1981 Nobel Prize in Chemistry laureate, from January 2005.",
+   "illustrates": [
+    "c43"
+   ],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m18",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=Uy1Gnl6rBw8",
+   "youtube_id": "Uy1Gnl6rBw8",
+   "source_page": "https://www.youtube.com/watch?v=Uy1Gnl6rBw8",
+   "source_name": "YouTube",
+   "credit": "Technion – Israel Institute of Technology",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "Hoffmann's lecture at the Technion in January 2013, recorded by the Technion.",
+   "illustrates": [],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m19",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Roald%20Hoffman%20in%202025%2008.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Roald_Hoffman_in_2025_08.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Cmichel67",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "Roald Hoffmann in old age standing in front of a blackboard with drawings of orbitals, in a photograph from 2025.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2025-11-03",
+   "width": 6269,
+   "height": 4478,
+   "role": "deed"
+  },
+  {
+   "id": "m20",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Roald%20Hoffmann%202017%20stamp%20of%20Ukraine.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Roald_Hoffmann_2017_stamp_of_Ukraine.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Ukraine Post",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "A 2017 Ukrainian stamp from a series on Nobel laureates, bearing a portrait of Roald Hoffmann.",
+   "illustrates": [],
+   "date": "2017-07-18",
+   "width": 778,
+   "height": 716,
+   "role": "deed"
+  },
+  {
+   "id": "m21",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Map%20of%20Lviv%20Oblast%20highlighting%20Zolochivskyi%20Raion.png?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Map_of_Lviv_Oblast_highlighting_Zolochivskyi_Raion.png",
+   "source_name": "Wikimedia Commons",
+   "credit": "Olegzima",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "Map of Lviv Oblast in Ukraine, with Złoczów district in red.",
+   "illustrates": [],
+   "date": "2007-01",
+   "width": 1987,
+   "height": 2072,
+   "role": "related"
+  },
+  {
+   "id": "m24",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nazi%20Holocaust%20by%20bullets%20-%20Jewish%20mass%20grave%20near%20Zolochiv%2C%20west%20Ukraine.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Nazi_Holocaust_by_bullets_-_Jewish_mass_grave_near_Zolochiv%2C_west_Ukraine.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Unknown Gestapo photographer",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "Remains of Jewish victims murdered by the Nazis near Złoczów, according to the archive's description.",
+   "illustrates": [],
+   "date": "before 31 ",
+   "width": 1108,
+   "height": 691,
+   "role": "related"
+  },
+  {
+   "id": "m25",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Model%20zamku%20i%20miasta%20Z%C5%82ocz%C3%B3w%20epoki%20Jana%20Sobieskiego%20wykonany%20przez%20I.%20Kaczora.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Model_zamku_i_miasta_Z%C5%82ocz%C3%B3w_epoki_Jana_Sobieskiego_wykonany_przez_I._Kaczora.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Яким Крохмальний)",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "Model of Złoczów Castle and the town in the time of Jan Sobieski, 17th century.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "2009-03",
+   "width": 410,
+   "height": 627,
+   "role": "related"
+  },
+  {
+   "id": "m26",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/1915-09-01%20General%20view%20of%20campus%2C%20Cornell%20University%20Ithaca%20NY%20A.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:1915-09-01_General_view_of_campus%2C_Cornell_University_Ithaca_NY_A.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Unknown authorUnknown author",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "Color postcard of the Cornell University campus in Ithaca, circa 1915.",
+   "illustrates": [],
+   "date": "1915",
+   "width": 3185,
+   "height": 2097,
+   "role": "related"
+  },
+  {
+   "id": "m27",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cornell%20University%20-%20Veterinary%20and%20Agricultural%20Colleges.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Cornell_University_-_Veterinary_and_Agricultural_Colleges.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Cornell Co-operative Society, Ithaca",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "Old postcard of the veterinary and agriculture colleges at Cornell University in Ithaca.",
+   "illustrates": [],
+   "date": "circa 1918",
+   "width": 1476,
+   "height": 932,
+   "role": "related"
+  },
+  {
+   "id": "m28",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hon4arivka.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Hon4arivka.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Андрій Угрин",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "View of a village in Zolochiv Raion, Lviv Oblast, Ukraine, with fields and hills in the background.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2017-11-11",
+   "width": 3264,
+   "height": 1840,
+   "role": "related"
+  },
+  {
+   "id": "m30",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Zolochivs%27kyi%20district%2C%20Lviv%20Oblast%2C%20Ukraine%20-%20panoramio%20%281%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Zolochivs%27kyi_district%2C_Lviv_Oblast%2C_Ukraine_-_panoramio_%281%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "grohmartin",
+   "licence": "CC BY 3.0",
+   "hosting": "hotlink",
+   "caption": "Rural landscape of fields and hills under heavy clouds, in Zolochiv Raion, Lviv Oblast.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/3.0",
+   "date": "Taken on 1",
+   "width": 3835,
+   "height": 2545,
+   "role": "related"
+  },
+  {
+   "id": "m33",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ag%20Quad%20at%20Cornell%20University.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Ag_Quad_at_Cornell_University.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Tomwsulcer",
+   "licence": "CC0",
+   "hosting": "hotlink",
+   "caption": "Avenues of Cornell University's agricultural campus in Ithaca, photographed in April 2012.",
+   "illustrates": [],
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "date": "2011-04-10",
+   "width": 864,
+   "height": 648,
+   "role": "related"
+  },
+  {
+   "id": "m35",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cornell%20University%20-%20Aerial%20view%2C%20ca.%201958.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Cornell_University_-_Aerial_view%2C_ca._1958.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "William Jubb Co., Syracuse (publisher)",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "Aerial view of the Cornell campus in Ithaca, with sports fields and a stadium, on a postcard from about 1958.",
+   "illustrates": [],
+   "date": "circa 1958",
+   "width": 3891,
+   "height": 2486,
+   "role": "related"
+  },
+  {
+   "id": "m36",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/East%20Ag%20Campus%20College%20Ag.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:East_Ag_Campus_College_Ag.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Unknown, 1905.",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "Buildings of Cornell University's College of Agriculture in Ithaca, on a postcard from the early 20th century.",
+   "illustrates": [],
+   "date": "1905",
+   "width": 3256,
+   "height": 2068,
+   "role": "related"
+  },
+  {
+   "id": "m37",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cornell%20University%201987%20Commencement.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Cornell_University_1987_Commencement.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Kenneth C. Zirkel",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "Cornell University graduates in gowns walk across the campus ahead of the commencement ceremony, 1987.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "1987-05-31",
+   "width": 3400,
+   "height": 2325,
+   "role": "related"
+  }
+ ],
+ "check": {
+  "passed": true,
+  "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
+  "checked_at": "2026-11-21T23:04:38Z",
+  "counts": {
+   "confirmed": 88,
+   "not_confirmed": 0,
+   "deleted_sentences": 5,
+   "first_round_confirmed": 90,
+   "first_round_contradicted": 2,
+   "first_round_unverifiable": 5
+  },
+  "note": "unverifiable sentences were deleted, contradicted ones fixed from the source and checked again"
+ },
+ "meta": {
+  "run": "roald-hoffmann-survival-chemistry-nobel",
+  "pipeline": "scripts/museum/museum_line.py",
+  "models": {
+   "research": "sonnet-5-5",
+   "extract": "sonnet-5-5",
+   "media": "sonnet-5-5",
+   "write": "opus-5-5 medium",
+   "check": "opus-5-5 medium",
+   "fix": "opus-5-5 medium"
+  },
+  "source_quality": {
+   "sources": 11,
+   "wikipedia": 0,
+   "strong": 6,
+   "ok": true,
+   "warnings": []
+  },
+  "media_dedupe": [
+   {
+    "drop": "m5",
+    "keep": "m3",
+    "by": "reviewed 24.11"
+   }
+  ],
+  "wiki_cleanup": {
+   "at": "2026-11-27T15:18:11Z",
+   "targets": 4,
+   "resourced": 1,
+   "kept_on_other_sources": 0,
+   "deleted": 3
+  }
+ },
+ "lang": "en",
+ "translation": {
+  "from": "he",
+  "translator": "claude-opus-5-5",
+  "checker": "claude-opus-5-5 (separate call, blind to the translation prompt)",
+  "checked_at": "2026-11-27T15:18:22Z",
+  "passed": true,
+  "items": 145,
+  "pairs_checked": 1,
+  "reused": 144,
+  "first_round_flagged": 0,
+  "still_flagged": 0,
+  "flagged": [],
+  "quote_translations": {}
+ }
 }

@@ -1,1679 +1,1647 @@
 {
-  "schema": "maasei-museum/1",
-  "slug": "rita-levi-montalcini-nerve-growth",
-  "deed": "ריטה לוי-מונטלצ׳יני גילתה את גורם גדילת העצב וזכתה בנובל לרפואה 1986",
-  "canonical_type": "scientific-discovery",
-  "year": "1951",
-  "title": "Rita Levi-Montalcini: A Bedroom Laboratory under the Race Laws, Nerve Growth Factor and the Nobel Prize",
-  "trailer": [
-    {
-      "text": "Rita Levi-Montalcini, who was born in Turin, Italy, to a Jewish family, shared the 1986 Nobel Prize in Physiology or Medicine with Stanley Cohen.",
+ "schema": "maasei-museum/1",
+ "slug": "rita-levi-montalcini-nerve-growth",
+ "deed": "ריטה לוי-מונטלצ׳יני גילתה את גורם גדילת העצב וזכתה בנובל לרפואה 1986",
+ "canonical_type": "scientific-discovery",
+ "year": "1951",
+ "title": "Rita Levi-Montalcini: A Bedroom Laboratory under the Race Laws, Nerve Growth Factor and the Nobel Prize",
+ "trailer": [
+  {
+   "text": "Rita Levi-Montalcini, who was born in Turin, Italy, to a Jewish family, shared the 1986 Nobel Prize in Physiology or Medicine with Stanley Cohen.",
+   "claims": [
+    "c1",
+    "c2"
+   ]
+  },
+  {
+   "text": "When Mussolini’s 1938 Race Laws forbade any non-Aryan from having a professional or academic career, she built a laboratory in her bedroom.",
+   "claims": [
+    "c10",
+    "c11"
+   ]
+  },
+  {
+   "text": "After the war, in the United States, she and Viktor Hamburger identified a substance in the tumour that they named nerve growth factor (NGF).",
+   "claims": [
+    "c14"
+   ]
+  },
+  {
+   "text": "Her colleague, the biochemist Stanley Cohen, was able to isolate it from the tumour.",
+   "claims": [
+    "c15"
+   ]
+  },
+  {
+   "text": "NGF was the first of many cell-growth factors that scientists found in animals.",
+   "claims": [
+    "c16"
+   ]
+  }
+ ],
+ "hero_media": [
+  "m1",
+  "m6",
+  "m2",
+  "m5",
+  "m12"
+ ],
+ "glance": [
+  {
+   "label": "Born",
+   "value": "Turin, Italy, to a Jewish family",
+   "claims": [
+    "c2"
+   ]
+  },
+  {
+   "label": "The discovery",
+   "value": "Nerve growth factor (NGF)",
+   "claims": [
+    "c14"
+   ]
+  },
+  {
+   "label": "Partners",
+   "value": "Viktor Hamburger, Stanley Cohen",
+   "claims": [
+    "c14",
+    "c15"
+   ]
+  },
+  {
+   "label": "Recognition",
+   "value": "Nobel Prize in Physiology or Medicine 1986",
+   "claims": [
+    "c1"
+   ]
+  },
+  {
+   "label": "In Italy",
+   "value": "Senator for life from 2001",
+   "claims": [
+    "c18"
+   ]
+  },
+  {
+   "label": "Her life",
+   "value": "Died aged 103",
+   "claims": [
+    "c5"
+   ]
+  }
+ ],
+ "stations": [
+  {
+   "id": "s1",
+   "title": "A girl in Turin",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "Rita Levi-Montalcini was born in Turin, Italy, to a wealthy Jewish family.",
       "claims": [
-        "c1",
-        "c2"
+       "c2"
       ]
-    },
-    {
-      "text": "When Mussolini’s 1938 Race Laws forbade any non-Aryan from having a professional or academic career, she built a laboratory in her bedroom.",
+     },
+     {
+      "text": "According to JTA, she came from a family of Italian Jewish intellectuals.",
       "claims": [
-        "c10",
-        "c11"
+       "c35"
       ]
-    },
-    {
-      "text": "After the war, in the United States, she and Viktor Hamburger identified a substance in the tumour that they named nerve growth factor (NGF).",
+     }
+    ],
+    [
+     {
+      "text": "She was raised by an authoritarian father.",
       "claims": [
-        "c14"
+       "c8"
       ]
-    },
-    {
-      "text": "Her colleague, the biochemist Stanley Cohen, was able to isolate it from the tumour.",
+     },
+     {
+      "text": "He strongly disapproved of women’s education beyond finishing school.",
       "claims": [
-        "c15"
+       "c8"
       ]
-    },
-    {
+     }
+    ],
+    [
+     {
+      "text": "She did not give up.",
+      "claims": [
+       "c9"
+      ]
+     },
+     {
+      "text": "In eight months she completed years’ worth of Greek, Latin and mathematics.",
+      "claims": [
+       "c9"
+      ]
+     },
+     {
+      "text": "She then entered medical school at the University of Turin.",
+      "claims": [
+       "c9"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to an academic article published in PubMed Central, Rita Levi-Montalcini's father, Adamo Levi, was a talented engineer, and her mother, Adele Montalcini, was a gifted painter.",
+      "claims": [
+       "c63"
+      ]
+     }
+    ]
+   ],
+   "media": [],
+   "disagreements": [
+    "d1"
+   ]
+  },
+  {
+   "id": "s2",
+   "title": "The Race Laws, and a bedroom laboratory",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "She began her scientific career in danger, as a Jew in Fascist Italy.",
+      "claims": [
+       "c7"
+      ]
+     },
+     {
+      "text": "Mussolini’s 1938 Race Laws forbade any non-Aryan from having a professional or academic career.",
+      "claims": [
+       "c10"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "So she built a laboratory in her bedroom.",
+      "claims": [
+       "c11"
+      ]
+     },
+     {
+      "text": "She made knives from sewing needles, and used an ophthalmologist’s scissors and a watchmaker’s forceps.",
+      "claims": [
+       "c11"
+      ]
+     },
+     {
+      "text": "According to JTA, she begged farmers for eggs “for needy children” and extracted embryos from them for her work.",
+      "claims": [
+       "c39"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "As Jews, she and Giuseppe Levi could not publish in Italian journals.",
+      "claims": [
+       "c12"
+      ]
+     },
+     {
+      "text": "Their results were published in foreign journals in the early forties.",
+      "claims": [
+       "c12"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m6",
+    "m11"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s3",
+   "title": "Fleeing south",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "When the Germans invaded and started rounding up Jews, she and her family travelled south under false names.",
+      "claims": [
+       "c13"
+      ]
+     },
+     {
+      "text": "According to JTA, the family opposed fascism.",
+      "claims": [
+       "c38"
+      ]
+     },
+     {
+      "text": "According to JTA, because of the family's opposition to fascism, they were forced to live in hiding in Florence under the assumed name of Lovisato.",
+      "claims": [
+       "c38"
+      ]
+     }
+    ]
+   ],
+   "media": [],
+   "disagreements": []
+  },
+  {
+   "id": "s4",
+   "title": "St. Louis: nerve growth factor",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "Viktor Hamburger invited her to Washington University in St. Louis.",
+      "claims": [
+       "c28",
+       "c29"
+      ]
+     },
+     {
+      "text": "According to the Becker Center, she joined him as a research associate.",
+      "claims": [
+       "c30"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "She and Hamburger found that many nerve cells die during normal development.",
+      "claims": [
+       "c49"
+      ]
+     },
+     {
+      "text": "According to JWA, it was at Washington University that she first hypothesized the existence of a nerve growth factor.",
+      "claims": [
+       "c23"
+      ]
+     },
+     {
+      "text": "She transplanted tumours onto the membrane around an embryo, and demonstrated that they could still encourage neural growth.",
+      "claims": [
+       "c50"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to the Nobel Prize website, in 1952 she succeeded in isolating a substance taken from tumors in mice that caused vigorous growth of the nervous system in chicken embryos.",
+      "claims": [
+       "c3"
+      ]
+     },
+     {
+      "text": "She and Hamburger named the substance they identified in the tumour \"nerve growth factor\" (NGF).",
+      "claims": [
+       "c14"
+      ]
+     },
+     {
+      "text": "Cohen was able to isolate the NGF from the tumour.",
+      "claims": [
+       "c15"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to an academic article published in PubMed Central, in 1947 Rita joined the laboratory of Viktor Hamburger in St. Louis, Missouri.",
+      "claims": [
+       "c64"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m21"
+   ],
+   "disagreements": [
+    "d4",
+    "d5"
+   ]
+  },
+  {
+   "id": "s5",
+   "title": "What it changed",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
       "text": "NGF was the first of many cell-growth factors that scientists found in animals.",
       "claims": [
-        "c16"
+       "c16"
       ]
-    }
-  ],
-  "hero_media": [
-    "m1",
-    "m6",
-    "m2",
-    "m5",
-    "m12"
-  ],
-  "glance": [
-    {
-      "label": "Born",
-      "value": "Turin, Italy, to a Jewish family",
+     },
+     {
+      "text": "According to Pietro Calissano, the discovery of the first growth factors was a breakthrough in the field of extracellular messengers.",
       "claims": [
-        "c2"
+       "c51"
       ]
-    },
-    {
-      "label": "The discovery",
-      "value": "Nerve growth factor (NGF)",
-      "claims": [
-        "c14"
-      ]
-    },
-    {
-      "label": "Partners",
-      "value": "Viktor Hamburger, Stanley Cohen",
-      "claims": [
-        "c14",
-        "c15"
-      ]
-    },
-    {
-      "label": "Recognition",
-      "value": "Nobel Prize in Physiology or Medicine 1986",
-      "claims": [
-        "c1"
-      ]
-    },
-    {
-      "label": "In Italy",
-      "value": "Senator for life from 2001",
-      "claims": [
-        "c18"
-      ]
-    },
-    {
-      "label": "Her life",
-      "value": "Died aged 103",
-      "claims": [
-        "c5"
-      ]
-    }
-  ],
-  "stations": [
-    {
-      "id": "s1",
-      "title": "A girl in Turin",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "Rita Levi-Montalcini was born in Turin, Italy, to a wealthy Jewish family.",
-            "claims": [
-              "c2"
-            ]
-          },
-          {
-            "text": "According to JTA, she came from a family of Italian Jewish intellectuals.",
-            "claims": [
-              "c35"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "She was raised by an authoritarian father.",
-            "claims": [
-              "c8"
-            ]
-          },
-          {
-            "text": "He strongly disapproved of women’s education beyond finishing school.",
-            "claims": [
-              "c8"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "She did not give up.",
-            "claims": [
-              "c9"
-            ]
-          },
-          {
-            "text": "In eight months she completed years’ worth of Greek, Latin and mathematics.",
-            "claims": [
-              "c9"
-            ]
-          },
-          {
-            "text": "She then entered medical school at the University of Turin.",
-            "claims": [
-              "c9"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to an academic article published in PubMed Central, Rita Levi-Montalcini's father, Adamo Levi, was a talented engineer, and her mother, Adele Montalcini, was a gifted painter.",
-            "claims": [
-              "c63"
-            ]
-          }
-        ]
-      ],
-      "media": [],
-      "disagreements": [
-        "d1"
-      ]
-    },
-    {
-      "id": "s2",
-      "title": "The Race Laws, and a bedroom laboratory",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "She began her scientific career in danger, as a Jew in Fascist Italy.",
-            "claims": [
-              "c7"
-            ]
-          },
-          {
-            "text": "Mussolini’s 1938 Race Laws forbade any non-Aryan from having a professional or academic career.",
-            "claims": [
-              "c10"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "So she built a laboratory in her bedroom.",
-            "claims": [
-              "c11"
-            ]
-          },
-          {
-            "text": "She made knives from sewing needles, and used an ophthalmologist’s scissors and a watchmaker’s forceps.",
-            "claims": [
-              "c11"
-            ]
-          },
-          {
-            "text": "According to JTA, she begged farmers for eggs “for needy children” and extracted embryos from them for her work.",
-            "claims": [
-              "c39"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "As Jews, she and Giuseppe Levi could not publish in Italian journals.",
-            "claims": [
-              "c12"
-            ]
-          },
-          {
-            "text": "Their results were published in foreign journals in the early forties.",
-            "claims": [
-              "c12"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m6",
-        "m11"
-      ],
-      "disagreements": []
-    },
-    {
-      "id": "s3",
-      "title": "Fleeing south",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "When the Germans invaded and started rounding up Jews, she and her family travelled south under false names.",
-            "claims": [
-              "c13"
-            ]
-          },
-          {
-            "text": "According to JTA, the family opposed fascism.",
-            "claims": [
-              "c38"
-            ]
-          },
-          {
-            "text": "According to JTA, because of the family's opposition to fascism, they were forced to live in hiding in Florence under the assumed name of Lovisato.",
-            "claims": [
-              "c38"
-            ]
-          }
-        ]
-      ],
-      "media": [],
-      "disagreements": []
-    },
-    {
-      "id": "s4",
-      "title": "St. Louis: nerve growth factor",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "Viktor Hamburger invited her to Washington University in St. Louis.",
-            "claims": [
-              "c28",
-              "c29"
-            ]
-          },
-          {
-            "text": "According to the Becker Center, she joined him as a research associate.",
-            "claims": [
-              "c30"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "She and Hamburger found that many nerve cells die during normal development.",
-            "claims": [
-              "c49"
-            ]
-          },
-          {
-            "text": "According to JWA, it was at Washington University that she first hypothesized the existence of a nerve growth factor.",
-            "claims": [
-              "c23"
-            ]
-          },
-          {
-            "text": "She transplanted tumours onto the membrane around an embryo, and demonstrated that they could still encourage neural growth.",
-            "claims": [
-              "c50"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to the Nobel Prize website, in 1952 she succeeded in isolating a substance taken from tumors in mice that caused vigorous growth of the nervous system in chicken embryos.",
-            "claims": [
-              "c3"
-            ]
-          },
-          {
-            "text": "She and Hamburger named the substance they identified in the tumour \"nerve growth factor\" (NGF).",
-            "claims": [
-              "c14"
-            ]
-          },
-          {
-            "text": "Cohen was able to isolate the NGF from the tumour.",
-            "claims": [
-              "c15"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to an academic article published in PubMed Central, in 1947 Rita joined the laboratory of Viktor Hamburger in St. Louis, Missouri.",
-            "claims": [
-              "c64"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m21"
-      ],
-      "disagreements": [
-        "d4",
-        "d5"
-      ]
-    },
-    {
-      "id": "s5",
-      "title": "What it changed",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "NGF was the first of many cell-growth factors that scientists found in animals.",
-            "claims": [
-              "c16"
-            ]
-          },
-          {
-            "text": "According to Pietro Calissano, the discovery of the first growth factors was a breakthrough in the field of extracellular messengers.",
-            "claims": [
-              "c51"
-            ]
-          },
-          {
-            "text": "According to Wikipedia, NGF is identified as the main protein responsible for the growth of neurons.",
-            "claims": [
-              "c52"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "The discovery deepened the understanding of deformities, senile dementia, delayed wound healing and tumour diseases.",
-            "claims": [
-              "c4"
-            ]
-          },
-          {
-            "text": "According to JTA, her work with Cohen laid the foundations for research into cancer, Parkinson’s and ALS.",
-            "claims": [
-              "c53"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m14"
-      ],
-      "disagreements": []
-    },
-    {
-      "id": "s6",
-      "title": "The Nobel Prize and honours",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "The 1986 Nobel Prize in Physiology or Medicine was awarded jointly to Stanley Cohen and Rita Levi-Montalcini.",
-            "claims": [
-              "c1"
-            ]
-          },
-          {
-            "text": "According to JWA, she won it on 13 October 1986.",
-            "claims": [
-              "c22"
-            ]
-          },
-          {
-            "text": "Her Nobel Lecture was delivered on 8 December 1986 at Karolinska Institutet in Stockholm.",
-            "claims": [
-              "c6"
-            ]
-          },
-          {
-            "text": "In the same year, she and Cohen were also awarded the Lasker Award for medical research.",
-            "claims": [
-              "c25"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "She said that had she not been discriminated against and persecuted, she would not have received the Nobel Prize.",
-            "claims": [
-              "c21"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "In 1987 she was awarded the US National Medal of Science.",
-            "claims": [
-              "c47"
-            ]
-          },
-          {
-            "text": "The citation speaks of a breakthrough in neurobiology, in the discovery of nerve growth factor and its effect on the sympathetic nervous system.",
-            "claims": [
-              "c48"
-            ]
-          },
-          {
-            "text": "In 1988 her autobiography was published.",
-            "claims": [
-              "c47"
-            ]
-          },
-          {
-            "text": "She was the first woman elected to the Pontifical Academy of Sciences in Rome.",
-            "claims": [
-              "c26"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m1",
-        "m8",
-        "m7",
-        "m9",
-        "m16",
-        "m20"
-      ],
-      "disagreements": [
-        "d6",
-        "d7"
-      ]
-    },
-    {
-      "id": "s7",
-      "title": "Rome, the Senate and the hundredth years",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "She founded the Institute of Cell Biology in Rome and served as its first director.",
-            "claims": [
-              "c17"
-            ]
-          },
-          {
-            "text": "In 2002 she founded the European Brain Research Institute.",
-            "claims": [
-              "c17"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "In 1992 she founded an education foundation.",
-            "claims": [
-              "c54"
-            ]
-          },
-          {
-            "text": "According to an article in Blue Stocking Society, the foundation has supported more than 12,000 women and children.",
-            "claims": [
-              "c54"
-            ]
-          },
-          {
-            "text": "In 1999 the Food and Agriculture Organization of the United Nations named her one of the first four FAO Ambassadors in the fight against hunger.",
-            "claims": [
-              "c55"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "In 2001 the President of Italy, Ciampi, appointed her senator for life.",
-            "claims": [
-              "c61"
-            ]
-          },
-          {
-            "text": "This is one of Italy’s highest honours.",
-            "claims": [
-              "c18"
-            ]
-          },
-          {
-            "text": "In 2006, at the age of 97, she held the deciding vote in the Italian parliament in a budget dispute.",
-            "claims": [
-              "c19"
-            ]
-          },
-          {
-            "text": "She threatened to withdraw her support unless the government reversed its decision to cut science funding.",
-            "claims": [
-              "c20"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "On 22 April 2009 she became the first Nobel laureate to reach the age of 100.",
-            "claims": [
-              "c56"
-            ]
-          },
-          {
-            "text": "She died aged 103, the longest-living Nobel laureate.",
-            "claims": [
-              "c5"
-            ]
-          },
-          {
-            "text": "According to Wikipedia, the Mayor of Rome said on her death that it was a great loss “for all of humanity.”",
-            "claims": [
-              "c62"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m5",
-        "m2",
-        "m10",
-        "m13",
-        "m18"
-      ],
-      "disagreements": [
-        "d8"
-      ]
-    },
-    {
-      "id": "s8",
-      "title": "Criticism and controversies",
-      "kind": "hard",
-      "paragraphs": [
-        [
-          {
-            "text": "According to Wikipedia, the affair of the drug Cronassial from the pharmaceutical company Fidia drew criticism of her.",
-            "claims": [
-              "c57"
-            ]
-          },
-          {
-            "text": "According to Wikipedia, an investigation revealed that Fidia paid the Italian Ministry of Health so that the drug Cronassial would be approved quickly.",
-            "claims": [
-              "c58"
-            ]
-          },
-          {
-            "text": "Levi-Montalcini's relationship with the company was revealed, and she was criticized publicly.",
-            "claims": [
-              "c58"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "In 2010 her role at the European Brain Research Institute drew criticism from some parts of the scientific community.",
-            "claims": [
-              "c59"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m15"
-      ],
-      "disagreements": []
-    }
-  ],
-  "disagreements": [
-    {
-      "id": "d1",
-      "question": "What Jewish family did she come from?",
-      "versions": [
-        {
-          "says": "NobelPrize.org: a wealthy Jewish family in Turin",
-          "claims": [
-            "c2"
-          ]
-        },
-        {
-          "says": "JTA: a family of Italian Jewish intellectuals in Turin",
-          "claims": [
-            "c35"
-          ]
-        },
-        {
-          "says": "Wikipedia: Italian Jewish parents with roots dating back to the Roman Empire",
-          "claims": [
-            "c36"
-          ]
-        },
-        {
-          "says": "Blue Stocking Society: a Sephardic Jewish family in Turin",
-          "claims": [
-            "c37"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d4",
-      "question": "How many years did she stay in St. Louis?",
-      "versions": [
-        {
-          "says": "NobelPrize.org and Wikipedia: 30 years",
-          "claims": [
-            "c29",
-            "c32"
-          ]
-        },
-        {
-          "says": "The Jewish Encyclopedia: 26 years",
-          "claims": [
-            "c31"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d5",
-      "question": "In what year was nerve growth factor discovered?",
-      "versions": [
-        {
-          "says": "JWA: in 1951 she first hypothesized its existence",
-          "claims": [
-            "c23"
-          ]
-        },
-        {
-          "says": "JTA: the discovery was completed in the U.S. in 1951",
-          "claims": [
-            "c33"
-          ]
-        },
-        {
-          "says": "NobelPrize.org: in 1952 the substance was isolated from tumours in mice",
-          "claims": [
-            "c3"
-          ]
-        },
-        {
-          "says": "Wikipedia: in 1952 she isolated nerve growth factor",
-          "claims": [
-            "c34"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d6",
-      "question": "Which woman in number was she at the US National Academy of Sciences?",
-      "versions": [
-        {
-          "says": "JTA: the sixth woman",
-          "claims": [
-            "c42"
-          ]
-        },
-        {
-          "says": "Wikipedia: the tenth woman, in 1968",
-          "claims": [
-            "c43"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d7",
-      "question": "When did she join the Pontifical Academy of Sciences?",
-      "versions": [
-        {
-          "says": "According to JTA, Levi-Montalcini was the first woman admitted to the Pontifical Academy of Sciences, and in 1968 she was the sixth woman admitted to the American Academy of Science.",
-          "claims": [
-            "c42"
-          ]
-        },
-        {
-          "says": "The Becker Center: in 1975, the first woman to be installed in it",
-          "claims": [
-            "c44"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d8",
-      "question": "When were the institute or the laboratory of cell biology in Rome founded?",
-      "versions": [
-        {
-          "says": "Britannica: in 1962 she established the Institute of Cell Biology in Rome",
-          "claims": [
-            "c45"
-          ]
-        },
-        {
-          "says": "The Becker Center: in 1969 she established the Laboratory of Cell Biology of the National Research Council, and directed it until 1979",
-          "claims": [
-            "c46"
-          ]
-        }
-      ]
-    }
-  ],
-  "unknowns": [
-    {
-      "text": "Levi-Montalcini died on 30 December 2012 in Rome, Italy, aged 103, and became the longest-living Nobel Prize laureate.",
-      "claims": [
-        "c5"
-      ]
-    },
-    {
-      "text": "Giuseppe Levi, her supervisor at medical school, was Jewish like her, and so they could not publish in Italian journals; their joint results were published in foreign journals in the early forties.",
-      "claims": [
-        "c12"
-      ]
-    }
-  ],
-  "claims": [
-    {
-      "id": "c1",
-      "text": "פרס נובל לפיזיולוגיה או רפואה לשנת 1986 הוענק במשותף לסטנלי כהן ולריטה לוי-מונטלצ׳יני.",
-      "source": "src1",
-      "quote": "The Nobel Prize in Physiology or Medicine 1986 was awarded jointly to Stanley Cohen and Rita Levi-Montalcini",
-      "status": "confirmed",
-      "locator": "שורה 9"
-    },
-    {
-      "id": "c2",
-      "text": "לוי-מונטלצ׳יני נולדה בטורינו שבאיטליה למשפחה יהודית אמידה.",
-      "source": "src2",
-      "quote": "Rita Levi-Montalcini was born in Turin, Italy, to a wealthy Jewish family.",
-      "status": "confirmed",
-      "locator": "שורה 9"
-    },
-    {
-      "id": "c10",
-      "text": "חוקי הגזע של מוסוליני מ-1938 אסרו על מי שאינו ארי לעסוק בקריירה מקצועית או אקדמית.",
-      "source": "src3",
-      "quote": "when Mussolini’s newly published 1938 Race Laws forbade any non-Aryan from having a professional or academic career.",
-      "status": "confirmed",
-      "locator": "שורה 21"
-    },
-    {
-      "id": "c11",
-      "text": "היא בנתה מעבדה בחדר השינה, ויצרה סכינים מחטי תפירה והשתמשה במספריים של רופא עיניים ובפינצטה של שען.",
-      "source": "src3",
-      "quote": "She built a laboratory in her bedroom, fashioning scalpels from sewing needles, using an ophthalmologist’s tiny scissors and a watchmaker’s forceps.",
-      "status": "confirmed",
-      "locator": "שורה 29"
-    },
-    {
-      "id": "c14",
-      "text": "לוי-מונטלצ׳יני והמבורגר זיהו חומר בגידול שאותו כינו גורם גדילת העצב (NGF).",
-      "source": "src3",
-      "quote": "Levi-Montalcini and Hamburger figured out the cause: a substance in the tumour that they named nerve growth factor (NGF).",
-      "status": "confirmed",
-      "locator": "שורה 44"
-    },
-    {
-      "id": "c15",
-      "text": "הביוכימאי סטנלי כהן, עמיתה באוניברסיטת וושינגטון, הצליח לבודד את ה-NGF מהגידול.",
-      "source": "src3",
-      "quote": "From that point, biochemist Stanley Cohen, her colleague at Washington University, was able to isolate the NGF, a protein subunit, from the tumour.",
-      "status": "confirmed",
-      "locator": "שורה 44"
-    },
-    {
-      "id": "c16",
-      "text": "ה-NGF היה הראשון מבין גורמי גדילת תאים רבים שמדענים מצאו בבעלי חיים.",
-      "source": "src3",
-      "quote": "NGF was the first of many cell-growth factors scientists would find in animals.",
-      "status": "confirmed",
-      "locator": "שורה 46"
-    },
-    {
-      "id": "c18",
-      "text": "ב-2001 קיבלה את אחד מאותות הכבוד הגבוהים באיטליה כשהפכה לסנאטורית לכל החיים.",
-      "source": "src3",
-      "quote": "She received one of Italy’s highest honours in 2001 when she became a senator for life",
-      "status": "confirmed",
-      "locator": "שורה 51"
-    },
-    {
-      "id": "c5",
-      "text": "לוי-מונטלצ׳יני מתה בגיל 103 והפכה לזוכת הנובל שחיה הכי הרבה שנים.",
-      "source": "src2",
-      "quote": "Levi-Montalcini died aged 103 years, thereby becoming the longest-living Nobel Laureate.",
-      "status": "confirmed",
-      "locator": "שורה 9"
-    },
-    {
-      "id": "c23",
-      "text": "לפי JWA, באוניברסיטת וושינגטון ב-1951 העלתה לראשונה את ההשערה לקיומו של גורם גדילת העצב.",
-      "source": "src4",
-      "quote": "It was at Washington University, in 1951, that Levi-Montalcini first hypothesized the existence of the nerve growth factor.",
-      "status": "confirmed",
-      "locator": "שורה 3"
-    },
-    {
-      "id": "c35",
-      "text": "לפי JTA, היא באה ממשפחה של אינטלקטואלים יהודים איטלקים בטורינו.",
-      "source": "src5",
-      "quote": "comes from a family of Italian Jewish intellectuals in Turin.",
-      "status": "confirmed",
-      "locator": "שורה 2"
-    },
-    {
-      "id": "c8",
-      "text": "היא גדלה אצל אב סמכותני שהתנגד בתוקף להשכלת נשים מעבר לבית ספר לעידון.",
-      "source": "src3",
-      "quote": "Rita Levi-Montalcini was raised by an authoritarian father who strongly disapproved of women’s education beyond finishing school",
-      "status": "confirmed",
-      "locator": "שורה 9"
-    },
-    {
-      "id": "c9",
-      "text": "היא דחסה לשמונה חודשים שנים של לימודי יוונית, לטינית ומתמטיקה ואז נכנסה לבית הספר לרפואה באוניברסיטת טורינו.",
-      "source": "src3",
-      "quote": "she crammed years’ worth of Greek, Latin and mathematics into eight months, and then entered medical school at the University of Turin.",
-      "status": "confirmed",
-      "locator": "שורה 19"
-    },
-    {
-      "id": "c7",
-      "text": "לוי-מונטלצ׳יני החלה את הקריירה המדעית שלה בסכנה, כיהודייה באיטליה הפשיסטית.",
-      "source": "src3",
-      "quote": "Rita Levi-Montalcini began her scientific career in danger, as a Jew in Fascist Italy.",
-      "status": "confirmed",
-      "locator": "שורה 2"
-    },
-    {
-      "id": "c39",
-      "text": "לפי JTA, היא התחננה בפני חקלאים לביצים \"לילדים נזקקים\" והפיקה מהן עוברים לעבודתה.",
-      "source": "src5",
-      "quote": "She begged for eggs “for needy children” from farmers and extracted the embryos for her work.",
-      "status": "confirmed",
-      "locator": "שורה 7"
-    },
-    {
-      "id": "c12",
-      "text": "כיהודים, היא וג׳וזפה לוי לא יכלו לפרסם בכתבי עת איטלקיים, ותוצאותיהם פורסמו בכתבי עת זרים בראשית שנות הארבעים.",
-      "source": "src3",
-      "quote": "As Jews, they couldn’t publish in Italian journals, but their results were published in foreign journals in the early 1940s.",
-      "status": "confirmed",
-      "locator": "שורה 33"
-    },
-    {
-      "id": "c13",
-      "text": "כשהגרמנים פלשו והחלו לאסוף יהודים, היא ומשפחתה נסעו דרומה בשמות בדויים.",
-      "source": "src3",
-      "quote": "When the Germans invaded and started rounding up Jews, she and her family travelled south under false names.",
-      "status": "confirmed",
-      "locator": "שורה 35"
-    },
-    {
-      "id": "c38",
-      "text": "לפי JTA, הוריה היו אנשי משפחה אנטי-פשיסטית, ולכן חיו במחבוא בפירנצה בשם בדוי לוביזאטו.",
-      "source": "src5",
-      "quote": "they were forced to live clandestinely in Florence under the assumed name of Lovisato",
-      "status": "confirmed",
-      "locator": "שורה 6"
-    },
-    {
-      "id": "c28",
-      "text": "לפי האנציקלופדיה, ב-1947 הזמין אותה ויקטור המבורגר להצטרף אליו באוניברסיטת וושינגטון.",
-      "source": "src6",
-      "quote": "In 1947 Victor Hamburger, then director of the zoology department at Washington University in St. Louis, invited Levi-Montalcini to join him.",
-      "status": "confirmed",
-      "locator": "שורה 12"
-    },
-    {
-      "id": "c29",
-      "text": "לפי נובל, המבורגר הזמין אותה לסנט לואיס ב-1946, והיא נשארה שם 30 שנה.",
-      "source": "src3",
-      "quote": "Her future was secured in 1946, when Viktor Hamburger himself, curious about their conflicting results, invited her to the Washington University in St. Louis, Missouri.",
-      "status": "confirmed",
-      "locator": "שורה 37"
-    },
-    {
-      "id": "c30",
-      "text": "לפי מרכז בקר, בספטמבר 1947 קיבלה את הזמנת המבורגר לשתף פעולה כחוקרת עמיתה.",
-      "source": "src7",
-      "quote": "In September 1947 Rita Levi-Montalcini accepted Hamburger’s invitation to collaborate with him as a research associate.",
-      "status": "confirmed",
-      "locator": "שורה 11"
-    },
-    {
-      "id": "c49",
-      "text": "היא והמבורגר גילו שתאי עצב רבים מתים בהתפתחות רגילה.",
-      "source": "src8",
-      "quote": "Together, they found that many nerve cells die during normal development, and that limb amputations heighten this loss.",
-      "status": "confirmed",
-      "locator": "שורה 23"
-    },
-    {
-      "id": "c50",
-      "text": "היא השתילה גידולים על הקרום סביב עובר והוכיחה שהם עדיין מעודדים צמיחת עצבים.",
-      "source": "src8",
-      "quote": "Levi-Montalcini transplanted tumors onto the membrane around an embryo, where they were only connected to the developing animal by a common blood supply, and demonstrated that the tumors could still encourage neural growth.",
-      "status": "confirmed",
-      "locator": "שורה 25"
-    },
-    {
-      "id": "c3",
-      "text": "ב-1952 הצליחה לבודד חומר שנלקח מגידולים בעכברים וגרם לצמיחה נמרצת של מערכת העצבים בעוברי תרנגולת.",
-      "source": "src2",
-      "quote": "In 1952 she succeeded in isolating a substance harvested from tumors in mice that caused vigorous nervous system growth in chicken embryos.",
-      "status": "confirmed",
-      "locator": "שורה 11"
-    },
-    {
-      "id": "c51",
-      "text": "לפי פייטרו קליסאנו, גילוי גורמי הגדילה הראשונים היה פריצת דרך בתחום המסרים החוץ-תאיים.",
-      "source": "src8",
-      "quote": "The discovery of these first growth factors was a “breakthrough in the field of extracellular messengers,”",
-      "status": "confirmed",
-      "locator": "שורה 30"
-    },
-    {
-      "id": "c52",
-      "text": "אחד ההסברים לגילוי: לפי ויקיפדיה, ה-NGF מזוהה כחלבון עיקרי באחריות לצמיחת נוירונים.",
-      "source": "src9",
-      "quote": "This crucial finding in biology identified NGF as the main protein responsible for the growth of neurons within the nervous system",
-      "status": "confirmed",
-      "locator": "שורה 51"
-    },
-    {
-      "id": "c4",
-      "text": "גילוי גורמי הגדילה העמיק את ההבנה של בעיות רפואיות כמו מומים, שיטיון סנילי, ריפוי איטי של פצעים ומחלות גידול.",
-      "source": "src2",
-      "quote": "The discovery of what are now known as growth factors has provided a deeper understanding of medical problems like deformities, senile dementia, delayed wound healing, and tumor diseases.",
-      "status": "confirmed",
-      "locator": "שורה 11"
-    },
-    {
-      "id": "c53",
-      "text": "לפי JTA, העבודה של לוי-מונטלצ׳יני וכהן הניחה יסודות למחקר בסרטן, פרקינסון ו-ALS.",
-      "source": "src10",
-      "quote": "laid the foundations for research into cancer, Parkinson’s, and ALS.",
-      "status": "confirmed",
-      "locator": "שורה 3"
-    },
-    {
-      "id": "c22",
-      "text": "לפי JWA, היא זכתה בנובל ב-13 באוקטובר 1986.",
-      "source": "src4",
-      "quote": "Rita Levi-Montalcini’s pioneering work on nerve growth earned her the Nobel Prize in Physiology or Medicine on October 13, 1986.",
-      "status": "confirmed",
-      "locator": "שורה 2"
-    },
-    {
-      "id": "c6",
-      "text": "הרצאת הנובל שלה נישאה ב-8 בדצמבר 1986 במכון קרולינסקה בשטוקהולם.",
-      "source": "src11",
-      "quote": "Rita Levi-Montalcini held her Nobel Lecture on 8 December 1986, at Karolinska Institutet, Stockholm.",
-      "status": "confirmed",
-      "locator": "שורה 17"
-    },
-    {
-      "id": "c25",
-      "text": "ב-1986 הוענק לה ולכהן פרס לסקר למחקר רפואי.",
-      "source": "src4",
-      "quote": "In 1986, she and Cohen were awarded the Albert Lasker Medical Research Award.",
-      "status": "confirmed",
-      "locator": "שורה 4"
-    },
-    {
-      "id": "c21",
-      "text": "לוי-מונטלצ׳יני אמרה שאילולא הופלתה לרעה או נרדפה, לא הייתה מקבלת את פרס נובל.",
-      "source": "src3",
-      "quote": "If I had not been discriminated against or had not suffered persecution, I would never have received the Nobel Prize.",
-      "status": "confirmed",
-      "locator": "שורה 54"
-    },
-    {
-      "id": "c47",
-      "text": "ב-1987 הוענק לה מדל המדע הלאומי של ארה״ב, וב-1988 פורסמה האוטוביוגרפיה שלה.",
-      "source": "src12",
-      "quote": "In 1987 she was awarded the National Medal of Science, and an autobiographical work, In Praise of Imperfection, was published in 1988.",
-      "status": "confirmed",
-      "locator": "שורה 21"
-    },
-    {
-      "id": "c48",
-      "text": "ציטוט מדל המדע הלאומי: פריצת דרך בנוירוביולוגיה בגילוי גורם גדילת העצב והשפעתו על המערכת העצבית הסימפתטית.",
-      "source": "src13",
-      "quote": "For a major breakthrough in neurobiology by her discovery of the Nerve Growth Factor and its effect on the growth of the sympathetic nervous system",
-      "status": "confirmed",
-      "locator": "שורה 1"
-    },
-    {
-      "id": "c26",
-      "text": "היא הייתה האישה הראשונה שנבחרה לאקדמיה האפיפיורית למדעים ברומא.",
-      "source": "src4",
-      "quote": "She also became the first woman ever named to membership in the Pontifical Academy of Sciences in Rome.",
-      "status": "confirmed",
-      "locator": "שורה 4"
-    },
-    {
-      "id": "c17",
-      "text": "היא ייסדה את המכון לביולוגיה של התא ברומא וכיהנה כמנהלת הראשונה שלו, וייסדה ב-2002 את המכון האירופי לחקר המוח.",
-      "source": "src3",
-      "quote": "she founded and was the first director of the Institute of Cell Biology in Rome. She founded the European Brain Research Institute in 2002.",
-      "status": "confirmed",
-      "locator": "שורה 49"
-    },
-    {
-      "id": "c54",
-      "text": "היא ייסדה ב-1992 קרן חינוך, ולפי המאמר הקרן תמכה ביותר מ-12,000 נשים וילדים.",
-      "source": "src14",
-      "quote": "to this day her charity has supported more than 12,000 women and children.",
-      "status": "confirmed",
-      "locator": "שורה 9"
-    },
-    {
-      "id": "c55",
-      "text": "ב-1999 מינה אותה ארגון המזון והחקלאות של האו״ם לאחד מארבעת שגרירי ה-FAO הראשונים במאבק ברעב.",
-      "source": "src7",
-      "quote": "In 1999, the Food and Agriculture Organization of the United Nations named Rita Levi-Montalcini one of its first four FAO Ambassadors",
-      "status": "confirmed",
-      "locator": "שורה 14"
-    },
-    {
-      "id": "c61",
-      "text": "בשנת 2001 מונתה לסנאטורית לכל החיים על ידי נשיא איטליה צ׳אמפי.",
-      "source": "src9",
-      "quote": "On 1 August 2001, she was appointed as senator for life by the President of Italy, Carlo Azeglio Ciampi.",
-      "status": "confirmed",
-      "locator": "שורה 63"
-    },
-    {
-      "id": "c19",
-      "text": "ב-2006, בגיל 97, הייתה לה ההצבעה המכרעת בפרלמנט האיטלקי במחלוקת תקציב.",
-      "source": "src3",
-      "quote": "In 2006, at the age of 97, she held the deciding vote in the Italian parliament in a budget dispute.",
-      "status": "confirmed",
-      "locator": "שורה 53"
-    },
-    {
-      "id": "c20",
-      "text": "היא איימה למשוך את תמיכתה אלא אם הממשלה תבטל את ההחלטה לקצץ במימון המדע.",
-      "source": "src3",
-      "quote": "She threatened to withdraw her support unless the government reversed its decision to cut science funding.",
-      "status": "confirmed",
-      "locator": "שורה 53"
-    },
-    {
-      "id": "c56",
-      "text": "ב-22 באפריל 2009 הפכה לזוכת הנובל הראשונה שהגיעה לגיל 100.",
-      "source": "src9",
-      "quote": "On 22 April 2009, she became the first Nobel laureate to reach the age of 100",
-      "status": "confirmed",
-      "locator": "שורה 42"
-    },
-    {
-      "id": "c62",
-      "text": "לפי ויקיפדיה, ראש עיריית רומא אמר במותה שזהו אובדן גדול \"לכל האנושות\".",
-      "source": "src9",
-      "quote": "the Mayor of Rome, Gianni Alemanno, stated it was a great loss “for all of humanity.”",
-      "status": "confirmed",
-      "locator": "שורה 70"
-    },
-    {
-      "id": "c57",
-      "text": "היא התנגדה לשיתוף הפעולה עם חברת התרופות פידיה, ולפי ויקיפדיה עוררה ביקורת בעקבות סוגיית התרופה קרונסיאל.",
-      "source": "src9",
-      "quote": "Controversies were raised concerning the cooperation of Levi-Montalcini with the Italian pharmaceutical firm Fidia.",
-      "status": "confirmed",
-      "locator": "שורה 58"
-    },
-    {
-      "id": "c58",
-      "text": "לפי ויקיפדיה, מחקר חשף כי פידיה שילמה למשרד הבריאות האיטלקי לאישור מהיר של התרופה, והקשר של לוי-מונטלצ׳יני עם החברה התגלה והיא זכתה לביקורת ציבורית.",
-      "source": "src9",
-      "quote": "Levi-Montalcini's relationship with the company was revealed during the investigation, and she was criticized publicly.",
-      "status": "confirmed",
-      "locator": "שורה 58"
-    },
-    {
-      "id": "c59",
-      "text": "תפקידה במכון האירופי לחקר המוח עורר ב-2010 ביקורת מצד חלקים בקהילה המדעית.",
-      "source": "src9",
-      "quote": "Her role in this institute was at the centre of some criticism from some parts of the scientific community in 2010.",
-      "status": "confirmed",
-      "locator": "שורה 57"
-    },
-    {
-      "id": "c36",
-      "text": "לפי ויקיפדיה, נולדה להורים יהודים איטלקים ששורשיהם מגיעים לימי האימפריה הרומית.",
-      "source": "src9",
-      "quote": "to Italian Jewish parents with roots dating back to the Roman Empire.",
-      "status": "confirmed",
-      "locator": "שורה 44"
-    },
-    {
-      "id": "c37",
-      "text": "לפי מקורות אחרים, נולדה למשפחה יהודית ספרדית בטורינו.",
-      "source": "src14",
-      "quote": "Levi-Montalcini was born in 1909 to a Sephardic Jewish family in Turin, Italy.",
-      "status": "confirmed",
-      "locator": "שורה 4"
-    },
-    {
-      "id": "c32",
-      "text": "לפי ויקיפדיה, המבורגר הציע לה משרת חוקרת עמיתה שבה החזיקה 30 שנה.",
-      "source": "src9",
-      "quote": "Hamburger offered her a research associate position, which she held for 30 years.",
-      "status": "confirmed",
-      "locator": "שורה 51"
-    },
-    {
-      "id": "c31",
-      "text": "לפי האנציקלופדיה היהודית, היא נשארה באוניברסיטה עשרים ושש שנים.",
-      "source": "src6",
-      "quote": "offered her a post as lecturer at the university, where she remained for twenty-six years, continuing",
-      "status": "confirmed",
-      "locator": "שורה 12"
-    },
-    {
-      "id": "c33",
-      "text": "לפי JTA, עבודת הנובל נבעה מעבודה שהושלמה בארה״ב ב-1951, גילוי ה-NGF.",
-      "source": "src5",
-      "quote": "Her Nobel Prize stemmed from work completed in the U.S. in 1951: discovery of NGF, a protein growth factor that stimulates nerve cell development.",
-      "status": "confirmed",
-      "locator": "שורה 10"
-    },
-    {
-      "id": "c34",
-      "text": "לפי ויקיפדיה, ב-1952 ביצעה את עבודתה החשובה ביותר: בידוד גורם גדילת העצב.",
-      "source": "src9",
-      "quote": "It was there that, in 1952, she did her most important work: isolating nerve growth factor (NGF)",
-      "status": "confirmed",
-      "locator": "שורה 51"
-    },
-    {
-      "id": "c42",
-      "text": "לפי JTA, היא הייתה האישה הראשונה באקדמיה האפיפיורית ב-1968 האישה השישית באקדמיה האמריקאית למדעים.",
-      "source": "src5",
-      "quote": "in 1968, the sixth woman to gain admittance to the American Academy of Science.",
-      "status": "confirmed",
-      "locator": "שורה 9"
-    },
-    {
-      "id": "c43",
-      "text": "לפי ויקיפדיה, ב-1968 נבחרה כאישה העשירית לאקדמיה הלאומית למדעים של ארה״ב.",
-      "source": "src9",
-      "quote": "Tenth woman elected to the United States National Academy of Sciences",
-      "status": "confirmed",
-      "locator": "שורה 80"
-    },
-    {
-      "id": "c44",
-      "text": "לפי מרכז בקר, ב-1975 הייתה האישה הראשונה שהותקנה באקדמיה המדעית האפיפיורית.",
-      "source": "src7",
-      "quote": "In 1975 Levi-Montalcini became the first woman to be installed in the Pontifical Scientific Academy.",
-      "status": "confirmed",
-      "locator": "שורה 14"
-    },
-    {
-      "id": "c45",
-      "text": "לפי בריטניקה, ב-1962 הקימה את המכון לביולוגיה של התא ברומא.",
-      "source": "src12",
-      "quote": "Levi-Montalcini established the Institute of Cell Biology in Rome in 1962",
-      "status": "confirmed",
-      "locator": "שורה 21"
-    },
-    {
-      "id": "c46",
-      "text": "לפי מרכז בקר, ב-1969 הקימה את מעבדת הביולוגיה של התא של המועצה הלאומית למחקר ברומא וניהלה אותה עד 1979.",
-      "source": "src7",
-      "quote": "In 1969 she established the Laboratory of Cell Biology of the Italian National Research Council in Rome, serving as its director until 1979",
-      "status": "confirmed",
-      "locator": "שורה 11"
-    },
-    {
-      "id": "c63",
-      "text": "לפי מאמר אקדמי שפורסם ב-PubMed Central, אביה של ריטה לוי-מונטלצ׳יני, אדמו לוי, היה מהנדס מוכשר, ואמה, אדלה מונטלצ׳יני, הייתה ציירת מחוננת.",
-      "source": "src15",
-      "quote": "Her father, Adamo Levi, was a talented engineer, and her mother, Adele Montalcini, a gifted painter.",
-      "status": "confirmed",
-      "locator": "שורה 9"
-    },
-    {
-      "id": "c64",
-      "text": "לפי מאמר אקדמי שפורסם ב-PubMed Central, ב-1947 הצטרפה ריטה למעבדתו של ויקטור המבורגר בסנט לואיס שבמיזורי.",
-      "source": "src15",
-      "quote": "In 1947, Rita joined the laboratory of Viktor Hamburger in St. Louis, MO.",
-      "status": "confirmed",
-      "locator": "שורה 12"
-    }
-  ],
-  "sources": [
-    {
-      "id": "src1",
-      "label": "NobelPrize.org, Nobel Prize in Physiology or Medicine 1986",
-      "url": "https://www.nobelprize.org/prizes/medicine/1986/summary/",
-      "kind": "official"
-    },
-    {
-      "id": "src2",
-      "label": "NobelPrize.org, Rita Levi-Montalcini facts",
-      "url": "https://www.nobelprize.org/prizes/medicine/1986/levi-montalcini/facts/",
-      "kind": "official"
-    },
-    {
-      "id": "src3",
-      "label": "NobelPrize.org, Women who changed science: Rita Levi-Montalcini",
-      "url": "https://nobelprize.org/stories/women-who-changed-science/rita-levi-montalcini",
-      "kind": "official"
-    },
-    {
-      "id": "src4",
-      "label": "Jewish Women's Archive, This Week in Jewish Women's History, 13.10.1986",
-      "url": "https://jwa.org/thisweek/oct/13/1986/rita-levi-montalcini",
-      "kind": "organisation"
-    },
-    {
-      "id": "src5",
-      "label": "JTA, Nobel laureate's life shaped by the fate of the Jewish people",
-      "url": "https://www.jta.org/archive/special-to-the-jta-nobel-laureates-life-shaped-by-the-fate-of-the-jewish-people",
-      "kind": "press"
-    },
-    {
-      "id": "src6",
-      "label": "Shalvi/Hyman Encyclopedia of Jewish Women, Rita Levi-Montalcini",
-      "url": "https://jwa.org/encyclopedia/article/levi-montalcini-rita",
-      "kind": "reference"
-    },
-    {
-      "id": "src7",
-      "label": "Washington University School of Medicine, Becker Library, Rita Levi-Montalcini",
-      "url": "https://beckerexhibits.wustl.edu/mowihsp/bios/levi_montalcini.htm",
-      "kind": "organisation"
-    },
-    {
-      "id": "src8",
-      "label": "The Scientist, Action at a Distance, Circa Early 1950s",
-      "url": "https://www.the-scientist.com/foundations/action-at-a-distance-circa-early-1950s-68203",
-      "kind": "press"
-    },
-    {
-      "id": "src9",
-      "label": "Wikipedia, Rita Levi-Montalcini",
-      "url": "https://en.wikipedia.org/wiki/Rita_Levi-Montalcini",
-      "kind": "reference"
-    },
-    {
-      "id": "src10",
-      "label": "JTA, The Nobel-winning scientist who wouldn't let the Nazis keep her down, 2015",
-      "url": "https://jta.org/jewniverse/2015/the-nobel-winning-scientist-who-wouldnt-let-the-nazis-keep-her-down",
-      "kind": "press"
-    },
-    {
-      "id": "src11",
-      "label": "NobelPrize.org, Nobel Lecture, Rita Levi-Montalcini, 1986",
-      "url": "https://www.nobelprize.org/prizes/medicine/1986/levi-montalcini/lecture/",
-      "kind": "official"
-    },
-    {
-      "id": "src12",
-      "label": "Encyclopaedia Britannica, Rita Levi-Montalcini",
-      "url": "https://www.britannica.com/biography/Rita-Levi-Montalcini",
-      "kind": "reference"
-    },
-    {
-      "id": "src13",
-      "label": "National Medal of Science, Rita Levi-Montalcini",
-      "url": "https://nationalmedals.org/?p=1498",
-      "kind": "official"
-    },
-    {
-      "id": "src14",
-      "label": "Blue Stocking Society, Nobel Laureate Rita Levi-Montalcini: the discovery of Nerve Growth Factor, 22.9.2018",
-      "url": "https://blue-stocking.org.uk/2018/09/22/nobel-laureate-rita-levi-montalcini-the-discovery-of-nerve-growth-factor/",
-      "kind": "press"
-    },
-    {
-      "id": "src15",
-      "label": "PubMed Central (NIH), article on Rita Levi-Montalcini",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3589620",
-      "kind": "reference"
-    }
-  ],
-  "media": [
-    {
-      "id": "m1",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rita%20Levi-Montalcini%20%281986%29.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Rita_Levi-Montalcini_%281986%29.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Kurt Hagblom, Firma Hagblom-Foto, restored by Adam Cuerden",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "Rita Levi-Montalcini in a black-and-white photograph, gesturing with her hand and smiling, on a visit to Lund, Sweden, in 1986.",
-      "illustrates": [
-        "c1"
-      ],
-      "date": "1986-12-12",
-      "width": 2517,
-      "height": 3796
-    },
-    {
-      "id": "m2",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/NGF%20%2708%20Rita%20Levi-Montalcini.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:NGF_%2708_Rita_Levi-Montalcini.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "audrey_sel",
-      "licence": "CC BY-SA 2.0",
-      "hosting": "hotlink",
-      "caption": "Levi-Montalcini aged 98, standing at a lectern with a microphone, at an NGF conference at Kibbutz Kfar Blum in 2008.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
-      "date": "2008-09-04",
-      "width": 3072,
-      "height": 2048
-    },
-    {
-      "id": "m5",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Napolitano%20Montalcini%20Scalfaro%20Ciampi%20Rubbia%20Ciachanoviev.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Napolitano_Montalcini_Scalfaro_Ciampi_Rubbia_Ciachanoviev.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Photo: Presidenza della Repubblica ItalianaEdit, crop, blur, color, modify: Lucas",
-      "licence": "Attribution",
-      "hosting": "hotlink",
-      "caption": "The elderly Levi-Montalcini, in a black dress, among men in suits in an ornate room; according to the description, those present include Scalfaro, Napolitano, Ciampi, Rubbia and Ciechanover.",
-      "illustrates": [],
-      "date": "2009-04-20",
-      "width": 1280,
-      "height": 912
-    },
-    {
-      "id": "m6",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Espulsione%20di%20Rita%20Levi%20Montalcini%2C%20assistente%20volontaria.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Espulsione_di_Rita_Levi_Montalcini%2C_assistente_volontaria.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Azzo Azzi, University of Turin",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "An official letter from the University of Turin dated 18 October 1938 on the suspension of Dr. Rita Levi from her post as a volunteer assistant at the clinic for nervous and mental diseases, following the Race Laws.",
-      "illustrates": [
-        "c7",
-        "c10"
-      ],
-      "date": "1938-10-18",
-      "width": 4988,
-      "height": 7443
-    },
-    {
-      "id": "m7",
-      "kind": "video",
-      "url": "https://www.youtube.com/watch?v=5yIuagIN2tQ",
-      "youtube_id": "5yIuagIN2tQ",
-      "source_page": "https://www.youtube.com/watch?v=5yIuagIN2tQ",
-      "source_name": "YouTube",
-      "credit": "Nobel Prize",
-      "licence": "YouTube, embedded only (standard YouTube licence)",
-      "licence_url": "https://www.youtube.com/static?template=terms",
-      "hosting": "embed",
-      "caption": "A one-minute biography by the Nobel Prize website of Levi-Montalcini, who shared the 1986 Nobel Prize in Physiology or Medicine with Stanley Cohen.",
-      "illustrates": [
-        "c1"
-      ]
-    },
-    {
-      "id": "m8",
-      "kind": "video",
-      "url": "https://www.youtube.com/watch?v=C3Nx4xj_R24",
-      "youtube_id": "C3Nx4xj_R24",
-      "source_page": "https://www.youtube.com/watch?v=C3Nx4xj_R24",
-      "source_name": "YouTube",
-      "credit": "Nobel Prize",
-      "licence": "YouTube, embedded only (standard YouTube licence)",
-      "licence_url": "https://www.youtube.com/static?template=terms",
-      "hosting": "embed",
-      "caption": "Levi-Montalcini’s Nobel Lecture, \"The Nerve Growth Factor: Thirty-Five Years Later\", delivered on 8 December 1986.",
-      "illustrates": [
-        "c6",
-        "c14"
-      ],
-      "spoken": "en",
-      "audio_tracks": [
-        "en"
-      ]
-    },
-    {
-      "id": "m9",
-      "kind": "video",
-      "url": "https://www.youtube.com/watch?v=3dMQv0xcxQc",
-      "youtube_id": "3dMQv0xcxQc",
-      "source_page": "https://www.youtube.com/watch?v=3dMQv0xcxQc",
-      "source_name": "YouTube",
-      "credit": "Nobel Prize",
-      "licence": "YouTube, embedded only (standard YouTube licence)",
-      "licence_url": "https://www.youtube.com/static?template=terms",
-      "hosting": "embed",
-      "caption": "An excerpt from an interview with Levi-Montalcini, 1986 Nobel laureate in medicine, from the Nobel Prize website.",
-      "illustrates": [
-        "c1"
-      ],
-      "spoken": "en",
-      "audio_tracks": [
-        "en"
-      ]
-    },
-    {
-      "id": "m10",
-      "kind": "video",
-      "url": "https://www.youtube.com/watch?v=SXjt5GI5qEQ",
-      "youtube_id": "SXjt5GI5qEQ",
-      "source_page": "https://www.youtube.com/watch?v=SXjt5GI5qEQ",
-      "source_name": "YouTube",
-      "credit": "euronews",
-      "licence": "YouTube, embedded only (standard YouTube licence)",
-      "licence_url": "https://www.youtube.com/static?template=terms",
-      "hosting": "embed",
-      "caption": "A euronews report on the death of Levi-Montalcini at the age of 103, who faced the persecution of Jews under Italian Fascism in order to pursue research.",
-      "illustrates": [
-        "c5",
-        "c7"
-      ],
-      "spoken": "en",
-      "audio_tracks": [
-        "en"
-      ]
-    },
-    {
-      "id": "m11",
-      "kind": "video",
-      "url": "https://www.youtube.com/watch?v=LiK4jQaw3wE",
-      "youtube_id": "LiK4jQaw3wE",
-      "source_page": "https://www.youtube.com/watch?v=LiK4jQaw3wE",
-      "source_name": "YouTube",
-      "credit": "World Jewish Congress",
-      "licence": "YouTube, embedded only (standard YouTube licence)",
-      "licence_url": "https://www.youtube.com/static?template=terms",
-      "hosting": "embed",
-      "caption": "A video by the World Jewish Congress on Levi-Montalcini, who was expelled from the university because of the 1938 laws and won the Nobel Prize in 1986.",
-      "illustrates": [
-        "c7",
-        "c10",
-        "c1"
-      ]
-    },
-    {
-      "id": "m12",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fototessera%20di%20Rita%20Levi%20Montalcini%20all%27atto%20dell%27immatricolazione%20all%27Universit%C3%A0.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Fototessera_di_Rita_Levi_Montalcini_all%27atto_dell%27immatricolazione_all%27Universit%C3%A0.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Unknown authorUnknown author",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "An old photographic portrait of Rita Levi, with her signature, attached to an application for enrolment in medical studies at the University of Turin on 31 October 1930.",
-      "illustrates": [],
-      "date": "1930",
-      "width": 848,
-      "height": 1364,
-      "role": "deed"
-    },
-    {
-      "id": "m13",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Levi-Montalcini%27s%20grave.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Levi-Montalcini%27s_grave.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Mastrocom",
-      "licence": "CC BY-SA 4.0",
-      "hosting": "hotlink",
-      "caption": "The gravestone of the sisters Paola and Rita Levi-Montalcini in the Monumental Cemetery of Turin, with stones placed according to Jewish tradition.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "date": "2022-09-18",
-      "width": 3456,
-      "height": 4608,
-      "role": "deed"
-    },
-    {
-      "id": "m14",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pioneres%20Rita%20Levi-Montalcini.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Pioneres_Rita_Levi-Montalcini.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Joandrés",
-      "licence": "CC BY-SA 4.0",
-      "hosting": "hotlink",
-      "caption": "A mural of Levi-Montalcini in the \"Pioneres\" series at Vall d’Hebron Hospital in Barcelona.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "date": "2023-08-06",
-      "width": 2938,
-      "height": 2956,
-      "role": "related"
-    },
-    {
-      "id": "m15",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ritratto%20Rita%20Levi%20Montalcini.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Ritratto_Rita_Levi_Montalcini.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Hitrandil",
-      "licence": "CC BY-SA 4.0",
-      "hosting": "hotlink",
-      "caption": "A painted portrait of Levi-Montalcini in an outdoor exhibition on women who changed the world.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "date": "2025-07-27",
-      "width": 2268,
-      "height": 2296,
-      "role": "related"
-    },
-    {
-      "id": "m16",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dr.%20Stanley%20Cohen%20in%202007.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Dr._Stanley_Cohen_in_2007.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "NICHD/National Institutes of Health",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "Stanley Cohen, who shared the 1986 Nobel Prize with Levi-Montalcini, in a photograph from 2007.",
-      "illustrates": [],
-      "date": "2007",
-      "width": 589,
-      "height": 610,
-      "role": "deed"
-    },
-    {
-      "id": "m18",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ritalevimontalcini.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Ritalevimontalcini.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Jollyroger",
-      "licence": "CC BY-SA 2.5",
-      "hosting": "hotlink",
-      "caption": "An elderly Levi-Montalcini, in black and white clothes and a pearl necklace, in a photograph taken in San Gemini, Italy.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/2.5",
-      "date": "2007-08-04",
-      "width": 624,
-      "height": 1284,
-      "role": "deed"
-    },
-    {
-      "id": "m20",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Stanley%20Cohen%20Nobel.webp?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Stanley_Cohen_Nobel.webp",
-      "source_name": "Wikimedia Commons",
-      "credit": "Unknown authorUnknown author",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "Stanley Cohen, who shared the 1986 Nobel Prize in Physiology or Medicine with Levi-Montalcini, in a black-and-white portrait.",
-      "illustrates": [],
-      "date": "circa 1986",
-      "width": 496,
-      "height": 744,
-      "role": "deed"
-    },
-    {
-      "id": "m21",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Clocktower%20on%20s40.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Clocktower_on_s40.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "me",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "The campus clock on the campus of Washington University in St. Louis.",
-      "illustrates": [],
-      "date": "don't reme",
-      "width": 666,
-      "height": 845,
-      "role": "related"
-    }
-  ],
-  "check": {
-    "passed": true,
-    "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
-    "checked_at": "2026-11-14T04:16:36Z",
-    "counts": {
-      "confirmed": 91,
-      "not_confirmed": 0,
-      "deleted_sentences": 4,
-      "first_round_confirmed": 88,
-      "first_round_contradicted": 3,
-      "first_round_unverifiable": 4
-    },
-    "note": "unverifiable sentences were deleted, contradicted ones fixed from the source and checked again"
-  },
-  "meta": {
-    "run": "rita-levi-montalcini-nerve-growth",
-    "pipeline": "scripts/museum/museum_line.py",
-    "models": {
-      "research": "sonnet-5-5",
-      "extract": "sonnet-5-5",
-      "media": "sonnet-5-5",
-      "write": "opus-5-5 medium",
-      "check": "opus-5-5 medium",
-      "fix": "opus-5-5 medium"
-    },
-    "source_quality": {
-      "sources": 14,
-      "wikipedia": 1,
-      "strong": 9,
-      "ok": true,
-      "warnings": []
-    },
-    "settled": [
-      {
-        "box": "d2",
-        "question": "מי היה אביה?",
-        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3589620",
-        "by": "settle 24.11"
-      },
-      {
-        "box": "d3",
-        "question": "באיזו שנה הגיעה לאוניברסיטת וושינגטון?",
-        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3589620",
-        "by": "settle 24.11"
-      }
+     }
     ],
-    "media_dedupe": [
-      {
-        "drop": "m4",
-        "keep": "m1",
-        "by": "reviewed 24.11"
-      },
-      {
-        "drop": "m3",
-        "keep": "m1",
-        "by": "reviewed 24.11"
-      },
-      {
-        "drop": "m17",
-        "keep": "m1",
-        "by": "reviewed 24.11"
-      }
+    [
+     {
+      "text": "The discovery deepened the understanding of deformities, senile dementia, delayed wound healing and tumour diseases.",
+      "claims": [
+       "c4"
+      ]
+     },
+     {
+      "text": "According to JTA, her work with Cohen laid the foundations for research into cancer, Parkinson’s and ALS.",
+      "claims": [
+       "c53"
+      ]
+     }
     ]
+   ],
+   "media": [
+    "m14"
+   ],
+   "disagreements": []
   },
-  "lang": "en",
-  "translation": {
-    "from": "he",
-    "translator": "claude-opus-5-5",
-    "checker": "claude-opus-5-5 (separate call, blind to the translation prompt)",
-    "checked_at": "2026-11-23T22:38:19Z",
-    "passed": true,
-    "items": 127,
-    "pairs_checked": 2,
-    "reused": 125,
-    "first_round_flagged": 0,
-    "still_flagged": 0,
-    "flagged": [],
-    "quote_translations": {}
+  {
+   "id": "s6",
+   "title": "The Nobel Prize and honours",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "The 1986 Nobel Prize in Physiology or Medicine was awarded jointly to Stanley Cohen and Rita Levi-Montalcini.",
+      "claims": [
+       "c1"
+      ]
+     },
+     {
+      "text": "According to JWA, she won it on 13 October 1986.",
+      "claims": [
+       "c22"
+      ]
+     },
+     {
+      "text": "Her Nobel Lecture was delivered on 8 December 1986 at Karolinska Institutet in Stockholm.",
+      "claims": [
+       "c6"
+      ]
+     },
+     {
+      "text": "In the same year, she and Cohen were also awarded the Lasker Award for medical research.",
+      "claims": [
+       "c25"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "She said that had she not been discriminated against and persecuted, she would not have received the Nobel Prize.",
+      "claims": [
+       "c21"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "In 1987 she was awarded the US National Medal of Science.",
+      "claims": [
+       "c47"
+      ]
+     },
+     {
+      "text": "The citation speaks of a breakthrough in neurobiology, in the discovery of nerve growth factor and its effect on the sympathetic nervous system.",
+      "claims": [
+       "c48"
+      ]
+     },
+     {
+      "text": "In 1988 her autobiography was published.",
+      "claims": [
+       "c47"
+      ]
+     },
+     {
+      "text": "She was the first woman elected to the Pontifical Academy of Sciences in Rome.",
+      "claims": [
+       "c26"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m1",
+    "m8",
+    "m7",
+    "m9",
+    "m16",
+    "m20"
+   ],
+   "disagreements": [
+    "d6",
+    "d7"
+   ]
+  },
+  {
+   "id": "s7",
+   "title": "Rome, the Senate and the hundredth years",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "She founded the Institute of Cell Biology in Rome and served as its first director.",
+      "claims": [
+       "c17"
+      ]
+     },
+     {
+      "text": "In 2002 she founded the European Brain Research Institute.",
+      "claims": [
+       "c17"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "In 1992 she founded an education foundation.",
+      "claims": [
+       "c54"
+      ]
+     },
+     {
+      "text": "According to an article in Blue Stocking Society, the foundation has supported more than 12,000 women and children.",
+      "claims": [
+       "c54"
+      ]
+     },
+     {
+      "text": "In 1999 the Food and Agriculture Organization of the United Nations named her one of the first four FAO Ambassadors in the fight against hunger.",
+      "claims": [
+       "c55"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "In 2001 the President of Italy, Ciampi, appointed her senator for life.",
+      "claims": [
+       "c66",
+       "c67"
+      ]
+     },
+     {
+      "text": "This is one of Italy’s highest honours.",
+      "claims": [
+       "c18"
+      ]
+     },
+     {
+      "text": "In 2006, at the age of 97, she held the deciding vote in the Italian parliament in a budget dispute.",
+      "claims": [
+       "c19"
+      ]
+     },
+     {
+      "text": "She threatened to withdraw her support unless the government reversed its decision to cut science funding.",
+      "claims": [
+       "c20"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "She died aged 103, the longest-living Nobel laureate.",
+      "claims": [
+       "c5"
+      ]
+     },
+     {
+      "text": "The mayor of Rome said upon her death that it was a great loss \"for all of humanity.\"",
+      "claims": [
+       "c70"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m5",
+    "m2",
+    "m10",
+    "m13",
+    "m18"
+   ],
+   "disagreements": [
+    "d8"
+   ]
+  },
+  {
+   "id": "s8",
+   "title": "Criticism and controversies",
+   "kind": "hard",
+   "paragraphs": [
+    [
+     {
+      "text": "The matter of the drug Cronassial, made by the pharmaceutical company Fidia, drew criticism of her.",
+      "claims": [
+       "c71"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m15"
+   ],
+   "disagreements": []
   }
+ ],
+ "disagreements": [
+  {
+   "id": "d1",
+   "question": "What Jewish family did she come from?",
+   "versions": [
+    {
+     "says": "NobelPrize.org: a wealthy Jewish family in Turin",
+     "claims": [
+      "c2"
+     ]
+    },
+    {
+     "says": "JTA: a family of Italian Jewish intellectuals in Turin",
+     "claims": [
+      "c35"
+     ]
+    },
+    {
+     "says": "Italian Jewish parents whose roots go back to the days of the Roman Empire",
+     "claims": [
+      "c74"
+     ]
+    },
+    {
+     "says": "Blue Stocking Society: a Sephardic Jewish family in Turin",
+     "claims": [
+      "c37"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d4",
+   "question": "How many years did she stay in St. Louis?",
+   "versions": [
+    {
+     "says": "30 years",
+     "claims": [
+      "c29",
+      "c75"
+     ]
+    },
+    {
+     "says": "The Jewish Encyclopedia: 26 years",
+     "claims": [
+      "c31"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d5",
+   "question": "In what year was nerve growth factor discovered?",
+   "versions": [
+    {
+     "says": "JWA: in 1951 she first hypothesized its existence",
+     "claims": [
+      "c23"
+     ]
+    },
+    {
+     "says": "JTA: the discovery was completed in the U.S. in 1951",
+     "claims": [
+      "c33"
+     ]
+    },
+    {
+     "says": "NobelPrize.org: in 1952 the substance was isolated from tumours in mice",
+     "claims": [
+      "c3"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d6",
+   "question": "Which woman in number was she at the US National Academy of Sciences?",
+   "versions": [
+    {
+     "says": "JTA: the sixth woman",
+     "claims": [
+      "c42"
+     ]
+    },
+    {
+     "says": "The tenth woman, in 1968",
+     "claims": [
+      "c76"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d7",
+   "question": "When did she join the Pontifical Academy of Sciences?",
+   "versions": [
+    {
+     "says": "According to JTA, Levi-Montalcini was the first woman admitted to the Pontifical Academy of Sciences, and in 1968 she was the sixth woman admitted to the American Academy of Science.",
+     "claims": [
+      "c42"
+     ]
+    },
+    {
+     "says": "The Becker Center: in 1975, the first woman to be installed in it",
+     "claims": [
+      "c44"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d8",
+   "question": "When were the institute or the laboratory of cell biology in Rome founded?",
+   "versions": [
+    {
+     "says": "Britannica: in 1962 she established the Institute of Cell Biology in Rome",
+     "claims": [
+      "c45"
+     ]
+    },
+    {
+     "says": "The Becker Center: in 1969 she established the Laboratory of Cell Biology of the National Research Council, and directed it until 1979",
+     "claims": [
+      "c46"
+     ]
+    }
+   ]
+  }
+ ],
+ "unknowns": [
+  {
+   "text": "Levi-Montalcini died on 30 December 2012 in Rome, Italy, aged 103, and became the longest-living Nobel Prize laureate.",
+   "claims": [
+    "c5"
+   ]
+  },
+  {
+   "text": "Giuseppe Levi, her supervisor at medical school, was Jewish like her, and so they could not publish in Italian journals; their joint results were published in foreign journals in the early forties.",
+   "claims": [
+    "c12"
+   ]
+  }
+ ],
+ "claims": [
+  {
+   "id": "c1",
+   "text": "פרס נובל לפיזיולוגיה או רפואה לשנת 1986 הוענק במשותף לסטנלי כהן ולריטה לוי-מונטלצ׳יני.",
+   "source": "src1",
+   "quote": "The Nobel Prize in Physiology or Medicine 1986 was awarded jointly to Stanley Cohen and Rita Levi-Montalcini",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c2",
+   "text": "לוי-מונטלצ׳יני נולדה בטורינו שבאיטליה למשפחה יהודית אמידה.",
+   "source": "src2",
+   "quote": "Rita Levi-Montalcini was born in Turin, Italy, to a wealthy Jewish family.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c10",
+   "text": "חוקי הגזע של מוסוליני מ-1938 אסרו על מי שאינו ארי לעסוק בקריירה מקצועית או אקדמית.",
+   "source": "src3",
+   "quote": "when Mussolini’s newly published 1938 Race Laws forbade any non-Aryan from having a professional or academic career.",
+   "status": "confirmed",
+   "locator": "שורה 21"
+  },
+  {
+   "id": "c11",
+   "text": "היא בנתה מעבדה בחדר השינה, ויצרה סכינים מחטי תפירה והשתמשה במספריים של רופא עיניים ובפינצטה של שען.",
+   "source": "src3",
+   "quote": "She built a laboratory in her bedroom, fashioning scalpels from sewing needles, using an ophthalmologist’s tiny scissors and a watchmaker’s forceps.",
+   "status": "confirmed",
+   "locator": "שורה 29"
+  },
+  {
+   "id": "c14",
+   "text": "לוי-מונטלצ׳יני והמבורגר זיהו חומר בגידול שאותו כינו גורם גדילת העצב (NGF).",
+   "source": "src3",
+   "quote": "Levi-Montalcini and Hamburger figured out the cause: a substance in the tumour that they named nerve growth factor (NGF).",
+   "status": "confirmed",
+   "locator": "שורה 44"
+  },
+  {
+   "id": "c15",
+   "text": "הביוכימאי סטנלי כהן, עמיתה באוניברסיטת וושינגטון, הצליח לבודד את ה-NGF מהגידול.",
+   "source": "src3",
+   "quote": "From that point, biochemist Stanley Cohen, her colleague at Washington University, was able to isolate the NGF, a protein subunit, from the tumour.",
+   "status": "confirmed",
+   "locator": "שורה 44"
+  },
+  {
+   "id": "c16",
+   "text": "ה-NGF היה הראשון מבין גורמי גדילת תאים רבים שמדענים מצאו בבעלי חיים.",
+   "source": "src3",
+   "quote": "NGF was the first of many cell-growth factors scientists would find in animals.",
+   "status": "confirmed",
+   "locator": "שורה 46"
+  },
+  {
+   "id": "c18",
+   "text": "ב-2001 קיבלה את אחד מאותות הכבוד הגבוהים באיטליה כשהפכה לסנאטורית לכל החיים.",
+   "source": "src3",
+   "quote": "She received one of Italy’s highest honours in 2001 when she became a senator for life",
+   "status": "confirmed",
+   "locator": "שורה 51"
+  },
+  {
+   "id": "c5",
+   "text": "לוי-מונטלצ׳יני מתה בגיל 103 והפכה לזוכת הנובל שחיה הכי הרבה שנים.",
+   "source": "src2",
+   "quote": "Levi-Montalcini died aged 103 years, thereby becoming the longest-living Nobel Laureate.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c23",
+   "text": "לפי JWA, באוניברסיטת וושינגטון ב-1951 העלתה לראשונה את ההשערה לקיומו של גורם גדילת העצב.",
+   "source": "src4",
+   "quote": "It was at Washington University, in 1951, that Levi-Montalcini first hypothesized the existence of the nerve growth factor.",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c35",
+   "text": "לפי JTA, היא באה ממשפחה של אינטלקטואלים יהודים איטלקים בטורינו.",
+   "source": "src5",
+   "quote": "comes from a family of Italian Jewish intellectuals in Turin.",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c8",
+   "text": "היא גדלה אצל אב סמכותני שהתנגד בתוקף להשכלת נשים מעבר לבית ספר לעידון.",
+   "source": "src3",
+   "quote": "Rita Levi-Montalcini was raised by an authoritarian father who strongly disapproved of women’s education beyond finishing school",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c9",
+   "text": "היא דחסה לשמונה חודשים שנים של לימודי יוונית, לטינית ומתמטיקה ואז נכנסה לבית הספר לרפואה באוניברסיטת טורינו.",
+   "source": "src3",
+   "quote": "she crammed years’ worth of Greek, Latin and mathematics into eight months, and then entered medical school at the University of Turin.",
+   "status": "confirmed",
+   "locator": "שורה 19"
+  },
+  {
+   "id": "c7",
+   "text": "לוי-מונטלצ׳יני החלה את הקריירה המדעית שלה בסכנה, כיהודייה באיטליה הפשיסטית.",
+   "source": "src3",
+   "quote": "Rita Levi-Montalcini began her scientific career in danger, as a Jew in Fascist Italy.",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c39",
+   "text": "לפי JTA, היא התחננה בפני חקלאים לביצים \"לילדים נזקקים\" והפיקה מהן עוברים לעבודתה.",
+   "source": "src5",
+   "quote": "She begged for eggs “for needy children” from farmers and extracted the embryos for her work.",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c12",
+   "text": "כיהודים, היא וג׳וזפה לוי לא יכלו לפרסם בכתבי עת איטלקיים, ותוצאותיהם פורסמו בכתבי עת זרים בראשית שנות הארבעים.",
+   "source": "src3",
+   "quote": "As Jews, they couldn’t publish in Italian journals, but their results were published in foreign journals in the early 1940s.",
+   "status": "confirmed",
+   "locator": "שורה 33"
+  },
+  {
+   "id": "c13",
+   "text": "כשהגרמנים פלשו והחלו לאסוף יהודים, היא ומשפחתה נסעו דרומה בשמות בדויים.",
+   "source": "src3",
+   "quote": "When the Germans invaded and started rounding up Jews, she and her family travelled south under false names.",
+   "status": "confirmed",
+   "locator": "שורה 35"
+  },
+  {
+   "id": "c38",
+   "text": "לפי JTA, הוריה היו אנשי משפחה אנטי-פשיסטית, ולכן חיו במחבוא בפירנצה בשם בדוי לוביזאטו.",
+   "source": "src5",
+   "quote": "they were forced to live clandestinely in Florence under the assumed name of Lovisato",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c28",
+   "text": "לפי האנציקלופדיה, ב-1947 הזמין אותה ויקטור המבורגר להצטרף אליו באוניברסיטת וושינגטון.",
+   "source": "src6",
+   "quote": "In 1947 Victor Hamburger, then director of the zoology department at Washington University in St. Louis, invited Levi-Montalcini to join him.",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c29",
+   "text": "לפי נובל, המבורגר הזמין אותה לסנט לואיס ב-1946, והיא נשארה שם 30 שנה.",
+   "source": "src3",
+   "quote": "Her future was secured in 1946, when Viktor Hamburger himself, curious about their conflicting results, invited her to the Washington University in St. Louis, Missouri.",
+   "status": "confirmed",
+   "locator": "שורה 37"
+  },
+  {
+   "id": "c30",
+   "text": "לפי מרכז בקר, בספטמבר 1947 קיבלה את הזמנת המבורגר לשתף פעולה כחוקרת עמיתה.",
+   "source": "src7",
+   "quote": "In September 1947 Rita Levi-Montalcini accepted Hamburger’s invitation to collaborate with him as a research associate.",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c49",
+   "text": "היא והמבורגר גילו שתאי עצב רבים מתים בהתפתחות רגילה.",
+   "source": "src8",
+   "quote": "Together, they found that many nerve cells die during normal development, and that limb amputations heighten this loss.",
+   "status": "confirmed",
+   "locator": "שורה 23"
+  },
+  {
+   "id": "c50",
+   "text": "היא השתילה גידולים על הקרום סביב עובר והוכיחה שהם עדיין מעודדים צמיחת עצבים.",
+   "source": "src8",
+   "quote": "Levi-Montalcini transplanted tumors onto the membrane around an embryo, where they were only connected to the developing animal by a common blood supply, and demonstrated that the tumors could still encourage neural growth.",
+   "status": "confirmed",
+   "locator": "שורה 25"
+  },
+  {
+   "id": "c3",
+   "text": "ב-1952 הצליחה לבודד חומר שנלקח מגידולים בעכברים וגרם לצמיחה נמרצת של מערכת העצבים בעוברי תרנגולת.",
+   "source": "src2",
+   "quote": "In 1952 she succeeded in isolating a substance harvested from tumors in mice that caused vigorous nervous system growth in chicken embryos.",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c51",
+   "text": "לפי פייטרו קליסאנו, גילוי גורמי הגדילה הראשונים היה פריצת דרך בתחום המסרים החוץ-תאיים.",
+   "source": "src8",
+   "quote": "The discovery of these first growth factors was a “breakthrough in the field of extracellular messengers,”",
+   "status": "confirmed",
+   "locator": "שורה 30"
+  },
+  {
+   "id": "c4",
+   "text": "גילוי גורמי הגדילה העמיק את ההבנה של בעיות רפואיות כמו מומים, שיטיון סנילי, ריפוי איטי של פצעים ומחלות גידול.",
+   "source": "src2",
+   "quote": "The discovery of what are now known as growth factors has provided a deeper understanding of medical problems like deformities, senile dementia, delayed wound healing, and tumor diseases.",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c53",
+   "text": "לפי JTA, העבודה של לוי-מונטלצ׳יני וכהן הניחה יסודות למחקר בסרטן, פרקינסון ו-ALS.",
+   "source": "src10",
+   "quote": "laid the foundations for research into cancer, Parkinson’s, and ALS.",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c22",
+   "text": "לפי JWA, היא זכתה בנובל ב-13 באוקטובר 1986.",
+   "source": "src4",
+   "quote": "Rita Levi-Montalcini’s pioneering work on nerve growth earned her the Nobel Prize in Physiology or Medicine on October 13, 1986.",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c6",
+   "text": "הרצאת הנובל שלה נישאה ב-8 בדצמבר 1986 במכון קרולינסקה בשטוקהולם.",
+   "source": "src11",
+   "quote": "Rita Levi-Montalcini held her Nobel Lecture on 8 December 1986, at Karolinska Institutet, Stockholm.",
+   "status": "confirmed",
+   "locator": "שורה 17"
+  },
+  {
+   "id": "c25",
+   "text": "ב-1986 הוענק לה ולכהן פרס לסקר למחקר רפואי.",
+   "source": "src4",
+   "quote": "In 1986, she and Cohen were awarded the Albert Lasker Medical Research Award.",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c21",
+   "text": "לוי-מונטלצ׳יני אמרה שאילולא הופלתה לרעה או נרדפה, לא הייתה מקבלת את פרס נובל.",
+   "source": "src3",
+   "quote": "If I had not been discriminated against or had not suffered persecution, I would never have received the Nobel Prize.",
+   "status": "confirmed",
+   "locator": "שורה 54"
+  },
+  {
+   "id": "c47",
+   "text": "ב-1987 הוענק לה מדל המדע הלאומי של ארה״ב, וב-1988 פורסמה האוטוביוגרפיה שלה.",
+   "source": "src12",
+   "quote": "In 1987 she was awarded the National Medal of Science, and an autobiographical work, In Praise of Imperfection, was published in 1988.",
+   "status": "confirmed",
+   "locator": "שורה 21"
+  },
+  {
+   "id": "c48",
+   "text": "ציטוט מדל המדע הלאומי: פריצת דרך בנוירוביולוגיה בגילוי גורם גדילת העצב והשפעתו על המערכת העצבית הסימפתטית.",
+   "source": "src13",
+   "quote": "For a major breakthrough in neurobiology by her discovery of the Nerve Growth Factor and its effect on the growth of the sympathetic nervous system",
+   "status": "confirmed",
+   "locator": "שורה 1"
+  },
+  {
+   "id": "c26",
+   "text": "היא הייתה האישה הראשונה שנבחרה לאקדמיה האפיפיורית למדעים ברומא.",
+   "source": "src4",
+   "quote": "She also became the first woman ever named to membership in the Pontifical Academy of Sciences in Rome.",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c17",
+   "text": "היא ייסדה את המכון לביולוגיה של התא ברומא וכיהנה כמנהלת הראשונה שלו, וייסדה ב-2002 את המכון האירופי לחקר המוח.",
+   "source": "src3",
+   "quote": "she founded and was the first director of the Institute of Cell Biology in Rome. She founded the European Brain Research Institute in 2002.",
+   "status": "confirmed",
+   "locator": "שורה 49"
+  },
+  {
+   "id": "c54",
+   "text": "היא ייסדה ב-1992 קרן חינוך, ולפי המאמר הקרן תמכה ביותר מ-12,000 נשים וילדים.",
+   "source": "src14",
+   "quote": "to this day her charity has supported more than 12,000 women and children.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c55",
+   "text": "ב-1999 מינה אותה ארגון המזון והחקלאות של האו״ם לאחד מארבעת שגרירי ה-FAO הראשונים במאבק ברעב.",
+   "source": "src7",
+   "quote": "In 1999, the Food and Agriculture Organization of the United Nations named Rita Levi-Montalcini one of its first four FAO Ambassadors",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c19",
+   "text": "ב-2006, בגיל 97, הייתה לה ההצבעה המכרעת בפרלמנט האיטלקי במחלוקת תקציב.",
+   "source": "src3",
+   "quote": "In 2006, at the age of 97, she held the deciding vote in the Italian parliament in a budget dispute.",
+   "status": "confirmed",
+   "locator": "שורה 53"
+  },
+  {
+   "id": "c20",
+   "text": "היא איימה למשוך את תמיכתה אלא אם הממשלה תבטל את ההחלטה לקצץ במימון המדע.",
+   "source": "src3",
+   "quote": "She threatened to withdraw her support unless the government reversed its decision to cut science funding.",
+   "status": "confirmed",
+   "locator": "שורה 53"
+  },
+  {
+   "id": "c37",
+   "text": "לפי מקורות אחרים, נולדה למשפחה יהודית ספרדית בטורינו.",
+   "source": "src14",
+   "quote": "Levi-Montalcini was born in 1909 to a Sephardic Jewish family in Turin, Italy.",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c31",
+   "text": "לפי האנציקלופדיה היהודית, היא נשארה באוניברסיטה עשרים ושש שנים.",
+   "source": "src6",
+   "quote": "offered her a post as lecturer at the university, where she remained for twenty-six years, continuing",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c33",
+   "text": "לפי JTA, עבודת הנובל נבעה מעבודה שהושלמה בארה״ב ב-1951, גילוי ה-NGF.",
+   "source": "src5",
+   "quote": "Her Nobel Prize stemmed from work completed in the U.S. in 1951: discovery of NGF, a protein growth factor that stimulates nerve cell development.",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c42",
+   "text": "לפי JTA, היא הייתה האישה הראשונה באקדמיה האפיפיורית ב-1968 האישה השישית באקדמיה האמריקאית למדעים.",
+   "source": "src5",
+   "quote": "in 1968, the sixth woman to gain admittance to the American Academy of Science.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c44",
+   "text": "לפי מרכז בקר, ב-1975 הייתה האישה הראשונה שהותקנה באקדמיה המדעית האפיפיורית.",
+   "source": "src7",
+   "quote": "In 1975 Levi-Montalcini became the first woman to be installed in the Pontifical Scientific Academy.",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c45",
+   "text": "לפי בריטניקה, ב-1962 הקימה את המכון לביולוגיה של התא ברומא.",
+   "source": "src12",
+   "quote": "Levi-Montalcini established the Institute of Cell Biology in Rome in 1962",
+   "status": "confirmed",
+   "locator": "שורה 21"
+  },
+  {
+   "id": "c46",
+   "text": "לפי מרכז בקר, ב-1969 הקימה את מעבדת הביולוגיה של התא של המועצה הלאומית למחקר ברומא וניהלה אותה עד 1979.",
+   "source": "src7",
+   "quote": "In 1969 she established the Laboratory of Cell Biology of the Italian National Research Council in Rome, serving as its director until 1979",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c63",
+   "text": "לפי מאמר אקדמי שפורסם ב-PubMed Central, אביה של ריטה לוי-מונטלצ׳יני, אדמו לוי, היה מהנדס מוכשר, ואמה, אדלה מונטלצ׳יני, הייתה ציירת מחוננת.",
+   "source": "src15",
+   "quote": "Her father, Adamo Levi, was a talented engineer, and her mother, Adele Montalcini, a gifted painter.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c64",
+   "text": "לפי מאמר אקדמי שפורסם ב-PubMed Central, ב-1947 הצטרפה ריטה למעבדתו של ויקטור המבורגר בסנט לואיס שבמיזורי.",
+   "source": "src15",
+   "quote": "In 1947, Rita joined the laboratory of Viktor Hamburger in St. Louis, MO.",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c66",
+   "text": "ב-2001 מינה אותה נשיא איטליה צ׳אמפי לסנאטורית לכל החיים.",
+   "source": "src16",
+   "quote": "Dal primo agosto 2001 era senatrice a vita, nominata da Carlo Azeglio Ciampi",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c67",
+   "text": "ב-2001 מינה אותה נשיא איטליה צ׳אמפי לסנאטורית לכל החיים.",
+   "source": "src17",
+   "quote": "La scienziata è stata nominata senatore a vita dal presidente della Repubblica Carlo Azeglio Ciampi il 1 agosto del 2001.",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c70",
+   "text": "ראש עיריית רומא אמר במותה שזהו אובדן גדול \"לכל האנושות\".",
+   "source": "src18",
+   "quote": "Rome Mayor Gianni Alemanno, announcing her death in a statement, called it a great loss \"for all of humanity.\"",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c71",
+   "text": "סוגיית התרופה קרונסיאל של חברת התרופות פידיה עוררה ביקורת עליה.",
+   "source": "src19",
+   "quote": "Rita Levi Montalcini non prese mai direttamente le distanze né da Della Valle né dal Cronassial",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c74",
+   "text": "הורים יהודים איטלקים ששורשיהם מגיעים לימי האימפריה הרומית",
+   "source": "src20",
+   "quote": "Her parents both traced their roots as Italian Jews to the Roman Empire.",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c75",
+   "text": "30 שנה",
+   "source": "src21",
+   "quote": "What began as a short stay turned into a sojourn of 30 years.",
+   "status": "confirmed",
+   "locator": "שורה 23"
+  },
+  {
+   "id": "c76",
+   "text": "האישה העשירית, ב-1968",
+   "source": "src21",
+   "quote": "In 1968, Levi-Montalcini was elected to the U.S. National Academy of Sciences, only the tenth woman to be honored",
+   "status": "confirmed",
+   "locator": "שורה 31"
+  }
+ ],
+ "sources": [
+  {
+   "id": "src1",
+   "label": "NobelPrize.org, Nobel Prize in Physiology or Medicine 1986",
+   "url": "https://www.nobelprize.org/prizes/medicine/1986/summary/",
+   "kind": "official"
+  },
+  {
+   "id": "src2",
+   "label": "NobelPrize.org, Rita Levi-Montalcini facts",
+   "url": "https://www.nobelprize.org/prizes/medicine/1986/levi-montalcini/facts/",
+   "kind": "official"
+  },
+  {
+   "id": "src3",
+   "label": "NobelPrize.org, Women who changed science: Rita Levi-Montalcini",
+   "url": "https://nobelprize.org/stories/women-who-changed-science/rita-levi-montalcini",
+   "kind": "official"
+  },
+  {
+   "id": "src4",
+   "label": "Jewish Women's Archive, This Week in Jewish Women's History, 13.10.1986",
+   "url": "https://jwa.org/thisweek/oct/13/1986/rita-levi-montalcini",
+   "kind": "organisation"
+  },
+  {
+   "id": "src5",
+   "label": "JTA, Nobel laureate's life shaped by the fate of the Jewish people",
+   "url": "https://www.jta.org/archive/special-to-the-jta-nobel-laureates-life-shaped-by-the-fate-of-the-jewish-people",
+   "kind": "press"
+  },
+  {
+   "id": "src6",
+   "label": "Shalvi/Hyman Encyclopedia of Jewish Women, Rita Levi-Montalcini",
+   "url": "https://jwa.org/encyclopedia/article/levi-montalcini-rita",
+   "kind": "reference"
+  },
+  {
+   "id": "src7",
+   "label": "Washington University School of Medicine, Becker Library, Rita Levi-Montalcini",
+   "url": "https://beckerexhibits.wustl.edu/mowihsp/bios/levi_montalcini.htm",
+   "kind": "organisation"
+  },
+  {
+   "id": "src8",
+   "label": "The Scientist, Action at a Distance, Circa Early 1950s",
+   "url": "https://www.the-scientist.com/foundations/action-at-a-distance-circa-early-1950s-68203",
+   "kind": "press"
+  },
+  {
+   "id": "src10",
+   "label": "JTA, The Nobel-winning scientist who wouldn't let the Nazis keep her down, 2015",
+   "url": "https://jta.org/jewniverse/2015/the-nobel-winning-scientist-who-wouldnt-let-the-nazis-keep-her-down",
+   "kind": "press"
+  },
+  {
+   "id": "src11",
+   "label": "NobelPrize.org, Nobel Lecture, Rita Levi-Montalcini, 1986",
+   "url": "https://www.nobelprize.org/prizes/medicine/1986/levi-montalcini/lecture/",
+   "kind": "official"
+  },
+  {
+   "id": "src12",
+   "label": "Encyclopaedia Britannica, Rita Levi-Montalcini",
+   "url": "https://www.britannica.com/biography/Rita-Levi-Montalcini",
+   "kind": "reference"
+  },
+  {
+   "id": "src13",
+   "label": "National Medal of Science, Rita Levi-Montalcini",
+   "url": "https://nationalmedals.org/?p=1498",
+   "kind": "official"
+  },
+  {
+   "id": "src14",
+   "label": "Blue Stocking Society, Nobel Laureate Rita Levi-Montalcini: the discovery of Nerve Growth Factor, 22.9.2018",
+   "url": "https://blue-stocking.org.uk/2018/09/22/nobel-laureate-rita-levi-montalcini-the-discovery-of-nerve-growth-factor/",
+   "kind": "press"
+  },
+  {
+   "id": "src15",
+   "label": "PubMed Central (NIH), article on Rita Levi-Montalcini",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3589620",
+   "kind": "reference"
+  },
+  {
+   "id": "src16",
+   "label": "Il Post: È morta Rita Levi-Montalcini",
+   "url": "https://www.ilpost.it/2012/12/30/e-morta-rita-levi-montalcini/",
+   "kind": "press"
+  },
+  {
+   "id": "src17",
+   "label": "Il Post: È morta Rita Levi-Montalcini",
+   "url": "https://www.media.inaf.it/2012/12/30/e-morta-rita-levi-montalcini/",
+   "kind": "press"
+  },
+  {
+   "id": "src18",
+   "label": "NBC News/AP: Nobel-winning biologist Rita Levi-Montalcini dies at 103",
+   "url": "https://www.nbcnews.com/id/50324234",
+   "kind": "press"
+  },
+  {
+   "id": "src19",
+   "label": "Giornalettismo: Rita Levi Montalcini e la bufala del Nobel comprato",
+   "url": "https://www.giornalettismo.com/rita-levi-montalcini-e-la-bufala-del-nobel-comprato/",
+   "kind": "press"
+  },
+  {
+   "id": "src20",
+   "label": "Miriam's Cup: 2013: Rita Levi-Montalcini",
+   "url": "https://www.miriamscup.com/2013-levi-montalcini-rita/",
+   "kind": "other"
+  },
+  {
+   "id": "src21",
+   "label": "Encyclopedia.com (Women in World History): Levi-Montalcini, Rita (b. 1909)",
+   "url": "https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/levi-montalcini-rita-b-1909",
+   "kind": "reference"
+  }
+ ],
+ "media": [
+  {
+   "id": "m1",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rita%20Levi-Montalcini%20%281986%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Rita_Levi-Montalcini_%281986%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Kurt Hagblom, Firma Hagblom-Foto, restored by Adam Cuerden",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "Rita Levi-Montalcini in a black-and-white photograph, gesturing with her hand and smiling, on a visit to Lund, Sweden, in 1986.",
+   "illustrates": [
+    "c1"
+   ],
+   "date": "1986-12-12",
+   "width": 2517,
+   "height": 3796
+  },
+  {
+   "id": "m2",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/NGF%20%2708%20Rita%20Levi-Montalcini.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:NGF_%2708_Rita_Levi-Montalcini.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "audrey_sel",
+   "licence": "CC BY-SA 2.0",
+   "hosting": "hotlink",
+   "caption": "Levi-Montalcini aged 98, standing at a lectern with a microphone, at an NGF conference at Kibbutz Kfar Blum in 2008.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "date": "2008-09-04",
+   "width": 3072,
+   "height": 2048
+  },
+  {
+   "id": "m5",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Napolitano%20Montalcini%20Scalfaro%20Ciampi%20Rubbia%20Ciachanoviev.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Napolitano_Montalcini_Scalfaro_Ciampi_Rubbia_Ciachanoviev.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Photo: Presidenza della Repubblica ItalianaEdit, crop, blur, color, modify: Lucas",
+   "licence": "Attribution",
+   "hosting": "hotlink",
+   "caption": "The elderly Levi-Montalcini, in a black dress, among men in suits in an ornate room; according to the description, those present include Scalfaro, Napolitano, Ciampi, Rubbia and Ciechanover.",
+   "illustrates": [],
+   "date": "2009-04-20",
+   "width": 1280,
+   "height": 912
+  },
+  {
+   "id": "m6",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Espulsione%20di%20Rita%20Levi%20Montalcini%2C%20assistente%20volontaria.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Espulsione_di_Rita_Levi_Montalcini%2C_assistente_volontaria.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Azzo Azzi, University of Turin",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "An official letter from the University of Turin dated 18 October 1938 on the suspension of Dr. Rita Levi from her post as a volunteer assistant at the clinic for nervous and mental diseases, following the Race Laws.",
+   "illustrates": [
+    "c7",
+    "c10"
+   ],
+   "date": "1938-10-18",
+   "width": 4988,
+   "height": 7443
+  },
+  {
+   "id": "m7",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=5yIuagIN2tQ",
+   "youtube_id": "5yIuagIN2tQ",
+   "source_page": "https://www.youtube.com/watch?v=5yIuagIN2tQ",
+   "source_name": "YouTube",
+   "credit": "Nobel Prize",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "A one-minute biography by the Nobel Prize website of Levi-Montalcini, who shared the 1986 Nobel Prize in Physiology or Medicine with Stanley Cohen.",
+   "illustrates": [
+    "c1"
+   ]
+  },
+  {
+   "id": "m8",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=C3Nx4xj_R24",
+   "youtube_id": "C3Nx4xj_R24",
+   "source_page": "https://www.youtube.com/watch?v=C3Nx4xj_R24",
+   "source_name": "YouTube",
+   "credit": "Nobel Prize",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "Levi-Montalcini’s Nobel Lecture, \"The Nerve Growth Factor: Thirty-Five Years Later\", delivered on 8 December 1986.",
+   "illustrates": [
+    "c6",
+    "c14"
+   ],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m9",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=3dMQv0xcxQc",
+   "youtube_id": "3dMQv0xcxQc",
+   "source_page": "https://www.youtube.com/watch?v=3dMQv0xcxQc",
+   "source_name": "YouTube",
+   "credit": "Nobel Prize",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "An excerpt from an interview with Levi-Montalcini, 1986 Nobel laureate in medicine, from the Nobel Prize website.",
+   "illustrates": [
+    "c1"
+   ],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m10",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=SXjt5GI5qEQ",
+   "youtube_id": "SXjt5GI5qEQ",
+   "source_page": "https://www.youtube.com/watch?v=SXjt5GI5qEQ",
+   "source_name": "YouTube",
+   "credit": "euronews",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "A euronews report on the death of Levi-Montalcini at the age of 103, who faced the persecution of Jews under Italian Fascism in order to pursue research.",
+   "illustrates": [
+    "c5",
+    "c7"
+   ],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m11",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=LiK4jQaw3wE",
+   "youtube_id": "LiK4jQaw3wE",
+   "source_page": "https://www.youtube.com/watch?v=LiK4jQaw3wE",
+   "source_name": "YouTube",
+   "credit": "World Jewish Congress",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "A video by the World Jewish Congress on Levi-Montalcini, who was expelled from the university because of the 1938 laws and won the Nobel Prize in 1986.",
+   "illustrates": [
+    "c7",
+    "c10",
+    "c1"
+   ]
+  },
+  {
+   "id": "m12",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fototessera%20di%20Rita%20Levi%20Montalcini%20all%27atto%20dell%27immatricolazione%20all%27Universit%C3%A0.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Fototessera_di_Rita_Levi_Montalcini_all%27atto_dell%27immatricolazione_all%27Universit%C3%A0.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Unknown authorUnknown author",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "An old photographic portrait of Rita Levi, with her signature, attached to an application for enrolment in medical studies at the University of Turin on 31 October 1930.",
+   "illustrates": [],
+   "date": "1930",
+   "width": 848,
+   "height": 1364,
+   "role": "deed"
+  },
+  {
+   "id": "m13",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Levi-Montalcini%27s%20grave.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Levi-Montalcini%27s_grave.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Mastrocom",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "The gravestone of the sisters Paola and Rita Levi-Montalcini in the Monumental Cemetery of Turin, with stones placed according to Jewish tradition.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2022-09-18",
+   "width": 3456,
+   "height": 4608,
+   "role": "deed"
+  },
+  {
+   "id": "m14",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pioneres%20Rita%20Levi-Montalcini.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Pioneres_Rita_Levi-Montalcini.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Joandrés",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "A mural of Levi-Montalcini in the \"Pioneres\" series at Vall d’Hebron Hospital in Barcelona.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2023-08-06",
+   "width": 2938,
+   "height": 2956,
+   "role": "related"
+  },
+  {
+   "id": "m15",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ritratto%20Rita%20Levi%20Montalcini.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Ritratto_Rita_Levi_Montalcini.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Hitrandil",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "A painted portrait of Levi-Montalcini in an outdoor exhibition on women who changed the world.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2025-07-27",
+   "width": 2268,
+   "height": 2296,
+   "role": "related"
+  },
+  {
+   "id": "m16",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dr.%20Stanley%20Cohen%20in%202007.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Dr._Stanley_Cohen_in_2007.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "NICHD/National Institutes of Health",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "Stanley Cohen, who shared the 1986 Nobel Prize with Levi-Montalcini, in a photograph from 2007.",
+   "illustrates": [],
+   "date": "2007",
+   "width": 589,
+   "height": 610,
+   "role": "deed"
+  },
+  {
+   "id": "m18",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ritalevimontalcini.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Ritalevimontalcini.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Jollyroger",
+   "licence": "CC BY-SA 2.5",
+   "hosting": "hotlink",
+   "caption": "An elderly Levi-Montalcini, in black and white clothes and a pearl necklace, in a photograph taken in San Gemini, Italy.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/2.5",
+   "date": "2007-08-04",
+   "width": 624,
+   "height": 1284,
+   "role": "deed"
+  },
+  {
+   "id": "m20",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Stanley%20Cohen%20Nobel.webp?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Stanley_Cohen_Nobel.webp",
+   "source_name": "Wikimedia Commons",
+   "credit": "Unknown authorUnknown author",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "Stanley Cohen, who shared the 1986 Nobel Prize in Physiology or Medicine with Levi-Montalcini, in a black-and-white portrait.",
+   "illustrates": [],
+   "date": "circa 1986",
+   "width": 496,
+   "height": 744,
+   "role": "deed"
+  },
+  {
+   "id": "m21",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Clocktower%20on%20s40.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Clocktower_on_s40.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "me",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "The campus clock on the campus of Washington University in St. Louis.",
+   "illustrates": [],
+   "date": "don't reme",
+   "width": 666,
+   "height": 845,
+   "role": "related"
+  }
+ ],
+ "check": {
+  "passed": true,
+  "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
+  "checked_at": "2026-11-14T04:16:36Z",
+  "counts": {
+   "confirmed": 81,
+   "not_confirmed": 0,
+   "deleted_sentences": 4,
+   "first_round_confirmed": 88,
+   "first_round_contradicted": 3,
+   "first_round_unverifiable": 4
+  },
+  "note": "unverifiable sentences were deleted, contradicted ones fixed from the source and checked again"
+ },
+ "meta": {
+  "run": "rita-levi-montalcini-nerve-growth",
+  "pipeline": "scripts/museum/museum_line.py",
+  "models": {
+   "research": "sonnet-5-5",
+   "extract": "sonnet-5-5",
+   "media": "sonnet-5-5",
+   "write": "opus-5-5 medium",
+   "check": "opus-5-5 medium",
+   "fix": "opus-5-5 medium"
+  },
+  "source_quality": {
+   "sources": 20,
+   "wikipedia": 0,
+   "strong": 9,
+   "ok": true,
+   "warnings": []
+  },
+  "settled": [
+   {
+    "box": "d2",
+    "question": "מי היה אביה?",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3589620",
+    "by": "settle 24.11"
+   },
+   {
+    "box": "d3",
+    "question": "באיזו שנה הגיעה לאוניברסיטת וושינגטון?",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3589620",
+    "by": "settle 24.11"
+   }
+  ],
+  "media_dedupe": [
+   {
+    "drop": "m4",
+    "keep": "m1",
+    "by": "reviewed 24.11"
+   },
+   {
+    "drop": "m3",
+    "keep": "m1",
+    "by": "reviewed 24.11"
+   },
+   {
+    "drop": "m17",
+    "keep": "m1",
+    "by": "reviewed 24.11"
+   }
+  ],
+  "wiki_cleanup": {
+   "at": "2026-11-27T15:19:15Z",
+   "targets": 12,
+   "resourced": 6,
+   "kept_on_other_sources": 0,
+   "deleted": 6
+  }
+ },
+ "lang": "en",
+ "translation": {
+  "from": "he",
+  "translator": "claude-opus-5-5",
+  "checker": "claude-opus-5-5 (separate call, blind to the translation prompt)",
+  "checked_at": "2026-11-27T15:19:28Z",
+  "passed": true,
+  "items": 118,
+  "pairs_checked": 5,
+  "reused": 113,
+  "first_round_flagged": 0,
+  "still_flagged": 0,
+  "flagged": [],
+  "quote_translations": {}
+ }
 }

@@ -7,11 +7,12 @@
  "title": "פול ברן תכנן ב-RAND רשת שתשרוד מתקפה גרעינית, ורעיונו אִפשר את ARPANET",
  "trailer": [
   {
-   "text": "פול ברן, מהנדס חשמל שנולד למשפחה יהודית בגרודנו, היה לפי ויקיפדיה אחד מממציאי מיתוג המנות, הבסיס לתקשורת הנתונים ברשתות מחשבים בעולם.",
+   "text": "פול ברן, מהנדס חשמל שנולד למשפחה יהודית בגרודנו, היה אחד מממציאי מיתוג המנות, הבסיס לתקשורת הנתונים ברשתות מחשבים בעולם.",
    "claims": [
     "c2",
     "c6",
-    "c42"
+    "c86",
+    "c87"
    ]
   },
   {
@@ -68,7 +69,7 @@
    "value": "רשת מבוזרת דיגיטלית ומיתוג מנות",
    "claims": [
     "c31",
-    "c42"
+    "c88"
    ]
   },
   {
@@ -98,12 +99,6 @@
       "text": "פול ברן נולד ב-29 באפריל 1926 בגרודנו שבפולין, כיום בבלארוס.",
       "claims": [
        "c1"
-      ]
-     },
-     {
-      "text": "הוא היה הצעיר מבין שלושה ילדים במשפחה יהודית ליטאית.",
-      "claims": [
-       "c3"
       ]
      },
      {
@@ -151,12 +146,6 @@
       "claims": [
        "c75"
       ]
-     },
-     {
-      "text": "לפי ויקיפדיה, הוא נאלץ לנטוש את לימודי הדוקטורט בגלל עומס נסיעות ועבודה.",
-      "claims": [
-       "c76"
-      ]
      }
     ]
    ],
@@ -191,12 +180,6 @@
       "text": "הסיבה הייתה התכנון המרוכז של הרשת.",
       "claims": [
        "c13"
-      ]
-     },
-     {
-      "text": "לפי ויקיפדיה, רוב התקשורת הצבאית האמריקנית השתמשה אז בקשרי תדר גבוה, ומתקפה גרעינית יכלה להשבית אותם לשעות רבות.",
-      "claims": [
-       "c14"
       ]
      }
     ],
@@ -272,12 +255,6 @@
     ],
     [
      {
-      "text": "סימולציה של ברן הראתה שרשתות עם דרגת קישוריות 3 ומעלה עמידות יותר, גם כשאובדים עד 50% מהצמתים.",
-      "claims": [
-       "c17"
-      ]
-     },
-     {
       "text": "לפי ברן, מסה קריטית של הרשת נוצרה בערך ברוחב של 15–20 צמתים, ביתירות של פי שלושה בקירוב ממספר הקישורים המינימלי.",
       "claims": [
        "c16"
@@ -340,12 +317,6 @@
       "text": "לפי EBSCO, הוא פנה תחילה ל-AT&T, אבל מקבלי ההחלטות שם התעקשו שהרעיון אינו מעשי, למרות פניות חוזרות.",
       "claims": [
        "c28"
-      ]
-     },
-     {
-      "text": "לפי ויקיפדיה, מהנדסי AT&T לגלגו על רעיונו למעגלים פיזיים לא ייעודיים לתקשורת קולית.",
-      "claims": [
-       "c27"
       ]
      },
      {
@@ -452,9 +423,10 @@
       ]
      },
      {
-      "text": "לפי ויקיפדיה, ברן שמח להודות שדייויס הגיע לאותו רעיון באופן עצמאי.",
+      "text": "ברן שמח להודות שדייויס הגיע לאותו רעיון באופן עצמאי.",
       "claims": [
-       "c46"
+       "c90",
+       "c91"
       ]
      }
     ]
@@ -501,12 +473,6 @@
       "claims": [
        "c52"
       ]
-     },
-     {
-      "text": "לפי ויקיפדיה, טכנולוגיית המודם של Telebit הייתה בין המוצרים המסחריים הראשונים שהשתמשו ב-OFDM, שהופצה מאוחר יותר במודמי DSL ו-Wi-Fi.",
-      "claims": [
-       "c81"
-      ]
      }
     ],
     [
@@ -514,19 +480,16 @@
       "text": "ברן הקים את Metricom, שהובילה למערכת Ricochet.",
       "claims": [
        "c53",
-       "c54"
+       "c92",
+       "c93"
       ]
-     },
+     }
+    ],
+    [
      {
-      "text": "לפי ויקיפדיה, Metricom הייתה חברת האינטרנט האלחוטי הראשונה.",
+      "text": "לפי ההספד של האקדמיה הלאומית להנדסה, ב-1986, והקמתה הייתה משותפת",
       "claims": [
-       "c54"
-      ]
-     },
-     {
-      "text": "לפי ויקיפדיה, ברן מיוחס גם כממציא גלאי הנשק הראשון בפתחי כניסה.",
-      "claims": [
-       "c58"
+       "c53"
       ]
      }
     ]
@@ -536,7 +499,6 @@
     "m5"
    ],
    "disagreements": [
-    "d4",
     "d5"
    ]
   },
@@ -656,22 +618,24 @@
    "paragraphs": [
     [
      {
-      "text": "לפי ויקיפדיה, דווקא עבודתו של דייויס, ולא של ברן, משכה תחילה את תשומת לבם של מפתחי ARPANET.",
+      "text": "דווקא עבודתו של דייויס, ולא של ברן, משכה תחילה את תשומת לבם של מפתחי ARPANET.",
       "claims": [
-       "c41"
+       "c95",
+       "c96"
       ]
      },
      {
-      "text": "גם מספר הממציאים שנוי במחלוקת: לפי ויקיפדיה הם היו שניים, ולפי ARRL שלושה.",
+      "text": "גם מספר הממציאים שנוי במחלוקת: הם היו שניים, ולפי ARRL שלושה.",
       "claims": [
-       "c42",
-       "c43"
+       "c43",
+       "c97",
+       "c98"
       ]
      },
      {
-      "text": "לפי ויקיפדיה, ההצגה של עבודתו המוקדמת של לאונרד קליינרוק כמקור הרעיון של מיתוג מנות שנויה במחלוקת בין חלוצי אינטרנט אחרים.",
+      "text": "ההצגה של עבודתו המוקדמת של לאונרד קליינרוק כמקור הרעיון של מיתוג מנות שנויה במחלוקת בין חלוצי אינטרנט אחרים.",
       "claims": [
-       "c44"
+       "c99"
       ]
      }
     ],
@@ -758,24 +722,6 @@
    ]
   },
   {
-   "id": "d4",
-   "question": "באיזו שנה הוקמה Metricom?",
-   "versions": [
-    {
-     "says": "לפי ההספד של האקדמיה הלאומית להנדסה, ב-1986, והקמתה הייתה משותפת",
-     "claims": [
-      "c53"
-     ]
-    },
-    {
-     "says": "לפי ויקיפדיה, ב-1985",
-     "claims": [
-      "c54"
-     ]
-    }
-   ]
-  },
-  {
    "id": "d5",
    "question": "כמה חברות הקים ברן?",
    "versions": [
@@ -804,9 +750,9 @@
    "question": "האם ברן היה אחד משניים או אחד משלושה ממציאי מיתוג המנות?",
    "versions": [
     {
-     "says": "לפי ויקיפדיה, אחד משני ממציאים עצמאיים",
+     "says": "אחד משני ממציאים עצמאיים",
      "claims": [
-      "c42"
+      "c100"
      ]
     },
     {
@@ -835,14 +781,6 @@
    "quote": "Paul graduated from the Institute of Technology (now Drexel University) in 1949 with a degree in electrical engineering.",
    "status": "confirmed",
    "locator": "שורה 8"
-  },
-  {
-   "id": "c42",
-   "text": "לפי ויקיפדיה, ברן היה אחד משני ממציאים עצמאיים של מיתוג מנות, ששימש היום בסיס דומיננטי לתקשורת נתונים ברשתות מחשבים בעולם.",
-   "source": "src3",
-   "quote": "He was one of the two independent inventors of packet switching, which is today the dominant basis for data communications in computer networks worldwide",
-   "status": "confirmed",
-   "locator": "שורה 20"
   },
   {
    "id": "c10",
@@ -933,14 +871,6 @@
    "locator": "שורה 19"
   },
   {
-   "id": "c3",
-   "text": "ברן היה הצעיר מבין שלושה ילדים במשפחה יהודית ליטאית.",
-   "source": "src3",
-   "quote": "He was the youngest of three children in his Lithuanian Jewish family",
-   "status": "confirmed",
-   "locator": "שורה 32"
-  },
-  {
    "id": "c4",
    "text": "משפחתו עברה לארצות הברית ב-11 במאי 1928 והתיישבה בבוסטון.",
    "source": "src2",
@@ -989,28 +919,12 @@
    "locator": "שורה 20"
   },
   {
-   "id": "c76",
-   "text": "לפי ויקיפדיה, ברן נאלץ לנטוש את לימודי הדוקטורט בגלל עומס נסיעות ועבודה.",
-   "source": "src3",
-   "quote": "While Baran initially stayed on at UCLA to pursue his doctorate, a heavy travel and work schedule forced him to abandon his doctoral work.",
-   "status": "confirmed",
-   "locator": "שורה 32"
-  },
-  {
    "id": "c13",
    "text": "הפגיעות של רשת הטלפון של AT&T נבעה מהתכנון המרוכז שלה.",
    "source": "src5",
    "quote": "AT&T’s telephone network vulnerability came from its highly centralized design.",
    "status": "confirmed",
    "locator": "שורה 8"
-  },
-  {
-   "id": "c14",
-   "text": "לפי ויקיפדיה, רוב התקשורת הצבאית האמריקנית השתמשה אז בקשרי תדר גבוה, שמתקפה גרעינית יכלה להשביתם לשעות רבות.",
-   "source": "src3",
-   "quote": "Then, most American military communications used high-frequency connections, which could be put out of action for many hours by a nuclear attack.",
-   "status": "confirmed",
-   "locator": "שורה 35"
   },
   {
    "id": "c15",
@@ -1061,14 +975,6 @@
    "locator": "שורה 18"
   },
   {
-   "id": "c17",
-   "text": "סימולציה של ברן הראתה שרשתות עם דרגת קישוריות 3 ומעלה עמידות יותר גם באובדן של עד 50% מהצמתים.",
-   "source": "src3",
-   "quote": "The result of the simulation revealed that networks in which n ≥ 3 had a significant increase in resilience against even as much as 50% node loss.",
-   "status": "confirmed",
-   "locator": "שורה 36"
-  },
-  {
    "id": "c16",
    "text": "לפי ברן, מסה קריטית של הרשת נוצרה בערך ברוחב של 15–20 צמתים וברמת יתירות של פי שלושה בקירוב ממספר הקישורים המינימלי.",
    "source": "src5",
@@ -1115,14 +1021,6 @@
    "quote": "I conducted probably 40 or more briefings around the country on my research throughout government and to major research organizations.",
    "status": "confirmed",
    "locator": "שורה 20"
-  },
-  {
-   "id": "c27",
-   "text": "לפי ויקיפדיה, מהנדסי AT&T לגלגו על רעיונו של ברן למעגלים פיזיים לא ייעודיים לתקשורת קולית.",
-   "source": "src3",
-   "quote": "In subsequent interviews, Baran mentioned how the AT&T engineers scoffed at his idea of non-dedicated physical circuits for voice communications",
-   "status": "confirmed",
-   "locator": "שורה 40"
   },
   {
    "id": "c26",
@@ -1221,14 +1119,6 @@
    "locator": "שורה 11"
   },
   {
-   "id": "c46",
-   "text": "לפי ויקיפדיה, ברן שמח להודות שדייויס הגיע לאותו רעיון באופן עצמאי.",
-   "source": "src3",
-   "quote": "Baran was happy to acknowledge that Davies had come up with the same idea as him independently.",
-   "status": "confirmed",
-   "locator": "שורה 41"
-  },
-  {
    "id": "c69",
    "text": "ב-1966 הציג ברן בפני איגוד השיווק האמריקאי מאמר על עתיד השיווק.",
    "source": "src1",
@@ -1269,36 +1159,12 @@
    "locator": "שורה 16"
   },
   {
-   "id": "c81",
-   "text": "טכנולוגיית המודם של Telebit הייתה בין המוצרים המסחריים הראשונים שהשתמשו ב-OFDM, שהופץ מאוחר יותר במודמי DSL ו-Wi-Fi.",
-   "source": "src3",
-   "quote": "It was one of the first commercial products to use orthogonal frequency-division multiplexing, which was later widely deployed in DSL modems and Wi-Fi wireless modems.",
-   "status": "confirmed",
-   "locator": "שורה 49"
-  },
-  {
    "id": "c53",
    "text": "לפי ההספד של ה-NAE, ברן הקים במשותף את Metricom ב-1986, שהובילה למערכת Ricochet.",
    "source": "src2",
    "quote": "In 1986, Baran cofounded Metricom, Inc. (electric/utility industry remote metering and distribution automation), which led to the Ricochet wireless data communications system.",
    "status": "confirmed",
    "locator": "שורה 15"
-  },
-  {
-   "id": "c54",
-   "text": "לפי ויקיפדיה, ברן הקים את Metricom ב-1985, חברת האינטרנט האלחוטי הראשונה, שהפעילה את Ricochet.",
-   "source": "src3",
-   "quote": "In 1985, Baran founded Metricom, the first wireless Internet company, which deployed Ricochet",
-   "status": "confirmed",
-   "locator": "שורה 50"
-  },
-  {
-   "id": "c58",
-   "text": "לפי ויקיפדיה, ברן מיוחס כממציא גלאי הנשק הראשון בפתחי כניסה.",
-   "source": "src3",
-   "quote": "he is also credited with inventing the first doorway gun detector.",
-   "status": "confirmed",
-   "locator": "שורה 52"
   },
   {
    "id": "c59",
@@ -1397,28 +1263,12 @@
    "locator": "שורה 56"
   },
   {
-   "id": "c41",
-   "text": "לפי ויקיפדיה, דווקא עבודתו של דייויס, ולא של ברן, משכה תחילה את תשומת לבם של מפתחי ARPANET.",
-   "source": "src3",
-   "quote": "It was in fact Davies's work on packet switching, not Baran's, that initially caught the attention of the developers of ARPANET",
-   "status": "confirmed",
-   "locator": "שורה 41"
-  },
-  {
    "id": "c43",
    "text": "לפי ARRL, ברן היה אחד משלושה ממציאי הרשתות מבוססות המנות, יחד עם דונלד דייויס ולאונרד קליינרוק.",
    "source": "src4",
    "quote": "Baran was one of the three inventors of packet-switched networks, along with Donald Davies and Leonard Kleinrock.",
    "status": "confirmed",
    "locator": "שורה 2"
-  },
-  {
-   "id": "c44",
-   "text": "לפי ויקיפדיה, ייצוג עבודתו המוקדמת של קליינרוק כמקור הרעיון של מיתוג מנות שנוי במחלוקת בין חלוצי אינטרנט אחרים.",
-   "source": "src3",
-   "quote": "However, the representation of Kleinrock's early work as originating the concept of packet switching is disputed by other internet pioneers",
-   "status": "confirmed",
-   "locator": "שורה 43"
   },
   {
    "id": "c74",
@@ -1499,6 +1349,110 @@
    "quote": "passed away on March 26, 2011",
    "status": "confirmed",
    "locator": "שורה 6"
+  },
+  {
+   "id": "c86",
+   "text": "פול ברן, מהנדס חשמל שנולד למשפחה יהודית בגרודנו, היה אחד מממציאי מיתוג המנות, הבסיס לתקשורת הנתונים ברשתות מחשבים בעולם.",
+   "source": "src16",
+   "quote": "Paul Baran invented the field of packet switching networks while conducting research at the historic RAND organization",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c87",
+   "text": "פול ברן, מהנדס חשמל שנולד למשפחה יהודית בגרודנו, היה אחד מממציאי מיתוג המנות, הבסיס לתקשורת הנתונים ברשתות מחשבים בעולם.",
+   "source": "src7",
+   "quote": "Paul Baran was born in Grodno, Poland, in 1926.",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c88",
+   "text": "מה: רשת מבוזרת דיגיטלית ומיתוג מנות",
+   "source": "src7",
+   "quote": "Baran's packet switching ideas served as a foundation upon which others later built the ARPANET.",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c90",
+   "text": "ברן שמח להודות שדייויס הגיע לאותו רעיון באופן עצמאי.",
+   "source": "src17",
+   "quote": "He was an honest guy, and I'm sure it was done independently.",
+   "status": "confirmed",
+   "locator": "שורה 13"
+  },
+  {
+   "id": "c91",
+   "text": "ברן שמח להודות שדייויס הגיע לאותו רעיון באופן עצמאי.",
+   "source": "src18",
+   "quote": "Davies came along later and independently came up with much of the same stuff.",
+   "status": "confirmed",
+   "locator": "שורה 239"
+  },
+  {
+   "id": "c92",
+   "text": "ברן הקים את Metricom, שהובילה למערכת Ricochet.",
+   "source": "src2",
+   "quote": "In 1986, Baran cofounded Metricom, Inc.",
+   "status": "confirmed",
+   "locator": "שורה 15"
+  },
+  {
+   "id": "c93",
+   "text": "ברן הקים את Metricom, שהובילה למערכת Ricochet.",
+   "source": "src2",
+   "quote": "which led to the Ricochet wireless data communications system",
+   "status": "confirmed",
+   "locator": "שורה 15"
+  },
+  {
+   "id": "c95",
+   "text": "דווקא עבודתו של דייויס, ולא של ברן, משכה תחילה את תשומת לבם של מפתחי ARPANET.",
+   "source": "src19",
+   "quote": "Scantlebury took Roberts aside after hearing his talk, and told him all about something called packet-switching.",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c96",
+   "text": "דווקא עבודתו של דייויס, ולא של ברן, משכה תחילה את תשומת לבם של מפתחי ARPANET.",
+   "source": "src19",
+   "quote": "Roberts and Taylor seem never to have taken notice of them.",
+   "status": "confirmed",
+   "locator": "שורה 22"
+  },
+  {
+   "id": "c97",
+   "text": "גם מספר הממציאים שנוי במחלוקת: הם היו שניים, ולפי ARRL שלושה.",
+   "source": "src4",
+   "quote": "Baran was one of the three inventors of packet-switched networks, along with Donald Davies and Leonard Kleinrock.",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c98",
+   "text": "גם מספר הממציאים שנוי במחלוקת: הם היו שניים, ולפי ARRL שלושה.",
+   "source": "src20",
+   "quote": "The packet switching concept was first invented by Paul Baran in the early 1960’s, and then independently a few years later by Donald Davies.",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c99",
+   "text": "ההצגה של עבודתו המוקדמת של לאונרד קליינרוק כמקור הרעיון של מיתוג מנות שנויה במחלוקת בין חלוצי אינטרנט אחרים.",
+   "source": "src21",
+   "quote": "Therefore, we must conclude that Kleinrock's claim to precedence for this concept is not supported by the evidence.",
+   "status": "confirmed",
+   "locator": "שורה 210"
+  },
+  {
+   "id": "c100",
+   "text": "אחד משני ממציאים עצמאיים",
+   "source": "src20",
+   "quote": "The packet switching concept was first invented by Paul Baran in the early 1960’s, and then independently a few years later by Donald Davies.",
+   "status": "confirmed",
+   "locator": "שורה 7"
   }
  ],
  "sources": [
@@ -1512,12 +1466,6 @@
    "id": "src2",
    "label": "National Academy of Engineering, Memorial Tributes vol. 16, 2012",
    "url": "https://www.nationalacademies.org/read/13338/chapter/4",
-   "kind": "reference"
-  },
-  {
-   "id": "src3",
-   "label": "Wikipedia, Paul Baran",
-   "url": "https://en.wikipedia.org/wiki/Paul_Baran",
    "kind": "reference"
   },
   {
@@ -1591,6 +1539,42 @@
    "label": "USPTO, National Medal of Technology and Innovation, 2007 Laureates",
    "url": "https://www.uspto.gov/learning-and-resources/ip-programs-and-awards/national-medal-technology-and-innovation/recipients/2007",
    "kind": "official"
+  },
+  {
+   "id": "src16",
+   "label": "Living Internet: Paul Baran Invents Packet Switching",
+   "url": "https://livinginternet.com:443/i/ii_rand.htm",
+   "kind": "reference"
+  },
+  {
+   "id": "src17",
+   "label": "WIRED: Founding Father (Paul Baran interview, Tufts archive copy)",
+   "url": "https://www.cs.tufts.edu/comp/117/ReadingArchive/Founding%20Father%20_%20WIRED.htm",
+   "kind": "press"
+  },
+  {
+   "id": "src18",
+   "label": "WIRED: Founding Father (Paul Baran interview, Tufts archive copy)",
+   "url": "https://ethw.org/Oral-History:Paul_Baran",
+   "kind": "press"
+  },
+  {
+   "id": "src19",
+   "label": "Technics (technicshistory.com): ARPANET, Part 2: The Packet",
+   "url": "https://technicshistory.com/2019/06/02/arpanet-part-2-the-packet/",
+   "kind": "other"
+  },
+  {
+   "id": "src20",
+   "label": "ARRL: Internet Pioneer Paul Baran, W3KAS, SK",
+   "url": "https://www.livinginternet.com/i/iw_packet_inv.htm",
+   "kind": "organisation"
+  },
+  {
+   "id": "src21",
+   "label": "Alex McKenzie: Comments on Dr. Leonard Kleinrock's claim to be \"the Father of Modern Data Networking\"",
+   "url": "http://alexmckenzie.weebly.com/comments-on-kleinrocks-claims.html",
+   "kind": "other"
   }
  ],
  "media": [
@@ -1622,9 +1606,7 @@
    "licence_url": "https://www.youtube.com/static?template=terms",
    "hosting": "embed",
    "caption": "ערב שיחה עם פול ברן בהנחיית הנרי לאווד במוזיאון ההיסטוריה של המחשוב, לאחר שקיבל את אות הפֶלו של המוזיאון על עבודתו ביסוד מיתוג המנות.",
-   "illustrates": [
-    "c42"
-   ],
+   "illustrates": [],
    "spoken": "en",
    "audio_tracks": [
     "en"
@@ -1825,7 +1807,7 @@
   "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
   "checked_at": "2026-11-21T07:22:44Z",
   "counts": {
-   "confirmed": 103,
+   "confirmed": 92,
    "not_confirmed": 0,
    "deleted_sentences": 3,
    "first_round_confirmed": 102,
@@ -1846,8 +1828,8 @@
    "fix": "opus-5-5 medium"
   },
   "source_quality": {
-   "sources": 14,
-   "wikipedia": 1,
+   "sources": 20,
+   "wikipedia": 0,
    "strong": 7,
    "ok": true,
    "warnings": []
@@ -1865,6 +1847,13 @@
     "url": "https://computerhistory.org/profile/paul-baran/",
     "by": "settle 24.11"
    }
-  ]
+  ],
+  "wiki_cleanup": {
+   "at": "2026-11-27T15:17:41Z",
+   "targets": 17,
+   "resourced": 8,
+   "kept_on_other_sources": 0,
+   "deleted": 9
+  }
  }
 }

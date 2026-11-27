@@ -14,13 +14,6 @@
    ]
   },
   {
-   "text": "He formed a team with two of his close friends: Ziv Aviram, an Israeli businessman, and Norio Ichihashi.",
-   "claims": [
-    "c2",
-    "c73"
-   ]
-  },
-  {
    "text": "While the industry assumed that radar or two cameras would be needed, Shashua showed that a wealth of information could be extracted from the image of a single camera.",
    "claims": [
     "c13"
@@ -828,22 +821,6 @@
    "locator": "שורה 2"
   },
   {
-   "id": "c2",
-   "text": "שעשוע הקים צוות עם שניים מחבריו הקרובים, זיו אבירם ונוריו איצ'יהאשי.",
-   "source": "src1",
-   "quote": "Shashua formed a team with two of his close friends, Ziv Aviram and Norio Ichihashi.",
-   "status": "confirmed",
-   "locator": "שורה 9"
-  },
-  {
-   "id": "c73",
-   "text": "זיו אבירם הוא איש עסקים ישראלי ומייסד שותף של מובילאיי.",
-   "source": "src3",
-   "quote": "is an Israeli businessman, investor, manager of several global companies, and Philanthropist, Founder and President of Aviram Foundation, co-founder, co-chairman of OrCam Technologies, and co-founder of Mobileye.",
-   "status": "confirmed",
-   "locator": "שורה 9"
-  },
-  {
    "id": "c13",
    "text": "בזמן שהתעשייה הניחה שיידרשו מכ\"ם או שתי מצלמות, שעשוע הראה שאפשר להפיק מידע רב מתמונה של מצלמה אחת.",
    "source": "src4",
@@ -1426,12 +1403,6 @@
    "kind": "official"
   },
   {
-   "id": "src3",
-   "label": "Wikipedia, Ziv Aviram",
-   "url": "https://en.wikipedia.org/wiki/Ziv_Aviram",
-   "kind": "reference"
-  },
-  {
    "id": "src4",
    "label": "Ynetnews, Breakthroughs",
    "url": "https://www.ynetnews.com/tech-and-digital/article/4ti3o726p",
@@ -2012,7 +1983,7 @@
   "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
   "checked_at": "2026-11-21T17:31:08Z",
   "counts": {
-   "confirmed": 95,
+   "confirmed": 94,
    "not_confirmed": 0,
    "deleted_sentences": 5,
    "first_round_confirmed": 95,
@@ -2033,11 +2004,18 @@
    "fix": "opus-5-5 medium"
   },
   "source_quality": {
-   "sources": 15,
-   "wikipedia": 1,
+   "sources": 14,
+   "wikipedia": 0,
    "strong": 11,
    "ok": true,
    "warnings": []
+  },
+  "wiki_cleanup": {
+   "at": "2026-11-27T15:21:22Z",
+   "targets": 1,
+   "resourced": 0,
+   "kept_on_other_sources": 0,
+   "deleted": 1
   }
  },
  "lang": "en",
@@ -2045,11 +2023,11 @@
   "from": "he",
   "translator": "claude-opus-5-5",
   "checker": "claude-opus-5-5 (separate call, blind to the translation prompt)",
-  "checked_at": "2026-11-21T18:52:48Z",
+  "checked_at": "2026-11-27T15:21:23Z",
   "passed": true,
-  "items": 154,
-  "pairs_checked": 8,
-  "reused": 146,
+  "items": 152,
+  "pairs_checked": 0,
+  "reused": 152,
   "first_round_flagged": 0,
   "still_flagged": 0,
   "flagged": [],

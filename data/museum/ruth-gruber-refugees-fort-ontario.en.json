@@ -126,12 +126,6 @@
       "claims": [
        "c6"
       ]
-     },
-     {
-      "text": "According to Wikipedia, a 1943 poll showed that 78% of Americans opposed letting in refugees.",
-      "claims": [
-       "c7"
-      ]
      }
     ],
     [
@@ -249,12 +243,6 @@
     ],
     [
      {
-      "text": "According to Wikipedia, Gruber and Special Representative Leonard Ackermann traveled to Italy to select the refugees.",
-      "claims": [
-       "c26"
-      ]
-     },
-     {
       "text": "Gruber said that priority was given to those who had escaped from Nazi concentration camps and labor camps.",
       "claims": [
        "c25"
@@ -349,12 +337,19 @@
        "c74"
       ]
      }
+    ],
+    [
+     {
+      "text": "According to Consider the Source, two weeks",
+      "claims": [
+       "c33"
+      ]
+     }
     ]
    ],
    "media": [],
    "disagreements": [
-    "d5",
-    "d6"
+    "d5"
    ]
   },
   {
@@ -373,12 +368,6 @@
       "text": "According to the Consider the Source website, when they arrived at Fort Ontario they were faced with a six-foot barbed wire fence.",
       "claims": [
        "c39"
-      ]
-     },
-     {
-      "text": "According to Wikipedia, many of the refugees felt that instead of safety and freedom, they had been brought to another concentration camp.",
-      "claims": [
-       "c40"
       ]
      }
     ],
@@ -447,13 +436,6 @@
    "paragraphs": [
     [
      {
-      "text": "Eleanor Roosevelt visited the camp, and there are two versions of the year of the visit.",
-      "claims": [
-       "c49",
-       "c50"
-      ]
-     },
-     {
       "text": "According to Aish, in April 1945 Gruber wrote a report about the camp and argued that its residents should be accepted.",
       "claims": [
        "c53"
@@ -479,13 +461,20 @@
        "c51"
       ]
      }
+    ],
+    [
+     {
+      "text": "According to the USHMM, on September 20, 1944",
+      "claims": [
+       "c49"
+      ]
+     }
     ]
    ],
    "media": [
     "m14"
    ],
    "disagreements": [
-    "d9",
     "d10"
    ]
   },
@@ -532,13 +521,21 @@
      {
       "text": "The story was adapted into a television film titled Haven, which CBS aired in 2001.",
       "claims": [
-       "c65"
+       "c78"
       ]
      },
      {
       "text": "According to the Forward, Gruber died on November 17, 2016, at age 105.",
       "claims": [
        "c3"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to the Forward, in 2011, starring Natasha Richardson",
+      "claims": [
+       "c66"
       ]
      }
     ]
@@ -549,9 +546,7 @@
     "m6",
     "m10"
    ],
-   "disagreements": [
-    "d12"
-   ]
+   "disagreements": []
   },
   {
    "id": "s8",
@@ -560,9 +555,10 @@
    "paragraphs": [
     [
      {
-      "text": "According to Wikipedia, the camp was just a token concession by Roosevelt, and not a significant change in policy.",
+      "text": "The camp was only a symbolic concession by Roosevelt, not a significant change in policy.",
       "claims": [
-       "c15"
+       "c79",
+       "c80"
       ]
      },
      {
@@ -665,12 +661,6 @@
      ]
     },
     {
-     "says": "According to Wikipedia, 912 of the 982 were Jewish",
-     "claims": [
-      "c23"
-     ]
-    },
-    {
      "says": "According to Consider the Source, 93% of the 982 refugees were Jewish, and of all the refugees, 187 were under the age of 16 and 116 were over the age of 60.",
      "claims": [
       "c24"
@@ -697,31 +687,13 @@
    ]
   },
   {
-   "id": "d6",
-   "question": "How long did the ocean crossing take?",
-   "versions": [
-    {
-     "says": "According to Consider the Source, two weeks",
-     "claims": [
-      "c33"
-     ]
-    },
-    {
-     "says": "According to Wikipedia, 17 days, not counting the days waiting in the Naples port",
-     "claims": [
-      "c34"
-     ]
-    }
-   ]
-  },
-  {
    "id": "d7",
    "question": "How long did the quarantine on entering the camp last?",
    "versions": [
     {
-     "says": "According to Wikipedia, for the first month the refugees were not allowed to leave the camp",
+     "says": "During the first month, the refugees were not permitted to leave the camp",
      "claims": [
-      "c41"
+      "c81"
      ]
     },
     {
@@ -752,24 +724,6 @@
      "says": "According to Aish, the adults could not obtain jobs",
      "claims": [
       "c46"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "d9",
-   "question": "When did Eleanor Roosevelt visit the camp?",
-   "versions": [
-    {
-     "says": "According to the USHMM, on September 20, 1944",
-     "claims": [
-      "c49"
-     ]
-    },
-    {
-     "says": "According to Wikipedia, on September 20, 1945",
-     "claims": [
-      "c50"
      ]
     }
    ]
@@ -812,24 +766,6 @@
      "says": "According to the Times of Israel, the New York Times reported in 1932 that she was the youngest German Doctor of Philosophy, not the youngest in the world",
      "claims": [
       "c69"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "d12",
-   "question": "When did the TV movie Haven air?",
-   "versions": [
-    {
-     "says": "According to Wikipedia, in 2001, on CBS",
-     "claims": [
-      "c65"
-     ]
-    },
-    {
-     "says": "According to the Forward, in 2011, starring Natasha Richardson",
-     "claims": [
-      "c66"
      ]
     }
    ]
@@ -966,14 +902,6 @@
    "locator": "שורה 7"
   },
   {
-   "id": "c7",
-   "text": "לפי ויקיפדיה, סקר משנת 1943 הראה ש-78% מהאמריקנים התנגדו לקליטת פליטים.",
-   "source": "src8",
-   "quote": "with a poll in 1943 showing that 78% of American opposed letting in refugees",
-   "status": "confirmed",
-   "locator": "שורה 18"
-  },
-  {
    "id": "c9",
    "text": "לפי Aish, פליטים מיוגוסלביה זרמו לאיטליה בקצב של 1,800 בשבוע והפריעו לצבא האמריקני.",
    "source": "src9",
@@ -1044,14 +972,6 @@
    "quote": "Somebody has to be with them on their journey. Somebody has to take their hand.",
    "status": "confirmed",
    "locator": "שורה 31"
-  },
-  {
-   "id": "c26",
-   "text": "לפי ויקיפדיה, הנציג המיוחד לאונרד אקרמן וגרובר נסעו לאיטליה לבצע את הבחירה של הפליטים.",
-   "source": "src8",
-   "quote": "Special Representative Leonard Ackermann along with Ruth Gruber, a reporter, traveled to Italy, to conduct the selection",
-   "status": "confirmed",
-   "locator": "שורה 25"
   },
   {
    "id": "c25",
@@ -1126,14 +1046,6 @@
    "locator": "שורה 26"
   },
   {
-   "id": "c40",
-   "text": "לפי ויקיפדיה, הפליטים חשו שבמקום ביטחון וחופש הובאו למחנה ריכוז נוסף.",
-   "source": "src8",
-   "quote": "They felt that they had left Europe expecting to be brought to safety and freedom but had instead been brought to another concentration camp.",
-   "status": "confirmed",
-   "locator": "שורה 33"
-  },
-  {
    "id": "c43",
    "text": "לפי Aish, תושבי אוסוגו החלו להעביר חלב ואוכל דרך הגדר והפליטים נרגעו.",
    "source": "src9",
@@ -1198,14 +1110,6 @@
    "locator": "שורה 7"
   },
   {
-   "id": "c50",
-   "text": "לפי ויקיפדיה, אלינור רוזוולט ביקרה במחנה ב-20 בספטמבר 1945.",
-   "source": "src8",
-   "quote": "On September 20, 1945 Eleanor Roosevelt, accompanied by Mrs. Henry Morgenthau Jr., visited the camp.",
-   "status": "confirmed",
-   "locator": "שורה 38"
-  },
-  {
    "id": "c53",
    "text": "לפי Aish, באפריל 1945 כתבה גרובר דוח על המחנה וטענה שיש לקבל את תושביו.",
    "source": "src9",
@@ -1254,28 +1158,12 @@
    "locator": "שורה 7"
   },
   {
-   "id": "c65",
-   "text": "לפי ויקיפדיה, ב-2001 שידרה CBS סרט טלוויזיה בשם Haven על המקלט ועל רות גרובר.",
-   "source": "src8",
-   "quote": "In 2001, CBS aired a made-for-TV film titled Haven about the refugee shelter and Ruth Gruber.",
-   "status": "confirmed",
-   "locator": "שורה 41"
-  },
-  {
    "id": "c66",
    "text": "לפי ה-Forward, הספר Haven עובד בשנת 2011 לסרט טלוויזיה בכיכובה של נטשה ריצ'רדסון.",
    "source": "src1",
    "quote": "was adapted in 2011 as a TV movie starring Natasha Richardson as improbably tall, British version of Gruber.",
    "status": "confirmed",
    "locator": "שורה 7"
-  },
-  {
-   "id": "c15",
-   "text": "לפי ויקיפדיה, רוזוולט החליט להקים מחנה פליטים קטן שהיה ויתור סמלי בלבד ולא שינוי משמעותי במדיניות.",
-   "source": "src8",
-   "quote": "President Roosevelt decided to set up a small refugee camp which was just a token concession and not a significant change in policy.",
-   "status": "confirmed",
-   "locator": "שורה 18"
   },
   {
    "id": "c70",
@@ -1350,14 +1238,6 @@
    "locator": "שורה 44"
   },
   {
-   "id": "c23",
-   "text": "לפי ויקיפדיה, 982 פליטים שוכנו במקלט, מהם 912 יהודים.",
-   "source": "src8",
-   "quote": "the shelter housed 982 refugees from Nazi-occupied Europe, of whom 912 were Jewish and the others were not",
-   "status": "confirmed",
-   "locator": "שורה 2"
-  },
-  {
    "id": "c24",
    "text": "לפי אתר Consider the Source, 93% מהפליטים היו יהודים, 187 מהם מתחת לגיל 16 ו-116 מעל גיל 60.",
    "source": "src10",
@@ -1382,22 +1262,6 @@
    "locator": "שורה 21"
   },
   {
-   "id": "c34",
-   "text": "לפי ויקיפדיה, חציית האוקיינוס על הנרי גיבונס ארכה 17 ימים, פרט לימי ההמתנה בנמל נאפולי.",
-   "source": "src8",
-   "quote": "Aside from the days waiting in the Naples port, it took 17 days for the Henry Gibbins to cross the Atlantic Ocean.",
-   "status": "confirmed",
-   "locator": "שורה 29"
-  },
-  {
-   "id": "c41",
-   "text": "לפי ויקיפדיה, בחודש הראשון לא הורשו הפליטים לעזוב את המחנה.",
-   "source": "src8",
-   "quote": "For the first month, the refugees were not allowed to leave the camp.",
-   "status": "confirmed",
-   "locator": "שורה 33"
-  },
-  {
    "id": "c55",
    "text": "לפי NPS, טרומן הורה ב-1946 שתושבי פורט אונטריו יקבלו ויזות.",
    "source": "src4",
@@ -1412,6 +1276,38 @@
    "quote": "Sailing from Naples on the troopship Henry Gibbins",
    "status": "confirmed",
    "locator": "שורה 4"
+  },
+  {
+   "id": "c78",
+   "text": "הסיפור עובד לסרט טלוויזיה בשם Haven, ש-CBS שידרה ב-2001.",
+   "source": "src14",
+   "quote": "In 2001, the book was made into a two-part CBS mini-series starring the late Natasha Richardson as Ruth.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c79",
+   "text": "המחנה היה ויתור סמלי בלבד של רוזוולט, ולא שינוי משמעותי במדיניות.",
+   "source": "src9",
+   "quote": "was a token gesture of rescue",
+   "status": "confirmed",
+   "locator": "שורה 13"
+  },
+  {
+   "id": "c80",
+   "text": "המחנה היה ויתור סמלי בלבד של רוזוולט, ולא שינוי משמעותי במדיניות.",
+   "source": "src15",
+   "quote": "President Roosevelt agreed to admit just one token group of 982 refugees.",
+   "status": "confirmed",
+   "locator": "שורה 17"
+  },
+  {
+   "id": "c81",
+   "text": "בחודש הראשון לא הורשו הפליטים לעזוב את המחנה",
+   "source": "src16",
+   "quote": "They were placed under quarantine for four weeks—no refugees were permitted to leave the camp and visitors were not allowed.",
+   "status": "confirmed",
+   "locator": "שורה 22"
   }
  ],
  "sources": [
@@ -1458,12 +1354,6 @@
    "kind": "press"
   },
   {
-   "id": "src8",
-   "label": "Wikipedia, Fort Ontario Emergency Refugee Shelter",
-   "url": "https://en.wikipedia.org/wiki/Fort_Ontario_Emergency_Refugee_Shelter",
-   "kind": "reference"
-  },
-  {
    "id": "src9",
    "label": "Aish, Barbed Wire Haven",
    "url": "https://aish.com/barbed-wire-haven/",
@@ -1492,6 +1382,24 @@
    "label": "My Jewish Learning, Ruth Gruber",
    "url": "https://www.myjewishlearning.com/article/ruth-gruber/",
    "kind": "reference"
+  },
+  {
+   "id": "src14",
+   "label": "The Jewish Press: Holding Their Hands",
+   "url": "https://jewishpress.com/holding-their-hands/",
+   "kind": "press"
+  },
+  {
+   "id": "src15",
+   "label": "Aish: Barbed Wire Haven",
+   "url": "https://www.hnn.us/article/fdrs-token-jewish-refugee-shelter",
+   "kind": "press"
+  },
+  {
+   "id": "src16",
+   "label": "Carole G. Vogel: Oswego, New York: Wartime Haven for Jewish Refugees",
+   "url": "https://carolegvogel.com/magazine-articles/oswego-new-york-wartime-haven-for-jewish-refugees/",
+   "kind": "other"
   }
  ],
  "media": [
@@ -1823,7 +1731,7 @@
   "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
   "checked_at": "2026-11-21T07:55:57Z",
   "counts": {
-   "confirmed": 98,
+   "confirmed": 89,
    "not_confirmed": 0,
    "deleted_sentences": 4,
    "first_round_confirmed": 95,
@@ -1844,8 +1752,8 @@
    "fix": "opus-5-5 medium"
   },
   "source_quality": {
-   "sources": 14,
-   "wikipedia": 1,
+   "sources": 15,
+   "wikipedia": 0,
    "strong": 9,
    "ok": true,
    "warnings": []
@@ -1857,18 +1765,25 @@
     "url": "https://www.jta.org/archive/special-to-the-jta-the-oswego-refu-gees-are-reunited-after-40-years",
     "by": "settle 24.11"
    }
-  ]
+  ],
+  "wiki_cleanup": {
+   "at": "2026-11-27T15:23:36Z",
+   "targets": 11,
+   "resourced": 3,
+   "kept_on_other_sources": 0,
+   "deleted": 8
+  }
  },
  "lang": "en",
  "translation": {
   "from": "he",
   "translator": "claude-opus-5-5",
   "checker": "claude-opus-5-5 (separate call, blind to the translation prompt)",
-  "checked_at": "2026-11-23T22:39:40Z",
+  "checked_at": "2026-11-27T15:23:45Z",
   "passed": true,
-  "items": 140,
-  "pairs_checked": 1,
-  "reused": 139,
+  "items": 129,
+  "pairs_checked": 2,
+  "reused": 127,
   "first_round_flagged": 0,
   "still_flagged": 0,
   "flagged": [],

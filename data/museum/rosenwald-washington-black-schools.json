@@ -387,6 +387,14 @@
        "c22"
       ]
      }
+    ],
+    [
+     {
+      "text": "לפי בריטניקה: 4.7 מיליון דולר, יותר מ-4.3 מיליון הדולר של הקרן",
+      "claims": [
+       "c29"
+      ]
+     }
     ]
    ],
    "media": [
@@ -394,9 +402,7 @@
     "m8",
     "m7"
    ],
-   "disagreements": [
-    "d4"
-   ]
+   "disagreements": []
   },
   {
    "id": "s5",
@@ -574,12 +580,6 @@
       "claims": [
        "c79"
       ]
-     },
-     {
-      "text": "ב-2022 העבירה ארצות הברית חוק המורה לשירות הפארקים הלאומיים לבחון הקמה של פארק היסטורי לאומי שיציג את בתי הספר.",
-      "claims": [
-       "c84"
-      ]
      }
     ],
     [
@@ -645,12 +645,6 @@
       "claims": [
        "c71"
       ]
-     },
-     {
-      "text": "לפי ויקיפדיה, באמצע שנות ה-30 התקציב לתלמיד בבתי ספר לבנים בדרום עדיין היה גבוה פי יותר מחמישה מזה של בתי ספר שחורים.",
-      "claims": [
-       "c70"
-      ]
      }
     ]
    ],
@@ -691,24 +685,6 @@
      "says": "לפי האנציקלופדיה של ג'ורג'יה: בתוך ארבע שנים מימן רוזנוולד בנייה של יותר מ-300 בתי ספר כפריים",
      "claims": [
       "c64"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "d4",
-   "question": "כמה תרמו הקהילות השחורות?",
-   "versions": [
-    {
-     "says": "לפי בריטניקה: 4.7 מיליון דולר, יותר מ-4.3 מיליון הדולר של הקרן",
-     "claims": [
-      "c29"
-     ]
-    },
-    {
-     "says": "לפי ויקיפדיה: 4.8 מיליון דולר לבניית 5,338 בתי ספר",
-     "claims": [
-      "c30"
      ]
     }
    ]
@@ -757,12 +733,6 @@
      "says": "לפי The 74: 5,357 בתי ספר ומבנים נלווים ב-883 מחוזות",
      "claims": [
       "c26"
-     ]
-    },
-    {
-     "says": "לפי ויקיפדיה: 5,388 בתי ספר ב-883 מחוזות ב-15 מדינות, ביותר מ-4 מיליון דולר של הקרן",
-     "claims": [
-      "c27"
      ]
     }
    ]
@@ -1252,14 +1222,6 @@
    "locator": "שורה 27"
   },
   {
-   "id": "c84",
-   "text": "ב-2022 העבירה ארצות הברית חוק המורה לשירות הפארקים הלאומיים לבחון הקמת פארק היסטורי לאומי שיציג את בתי הספר.",
-   "source": "src14",
-   "quote": "In 2022 Congress passed a bill directing the National Park Service to study feasilibility of a national historical park preserving and explaining Rosenwald Schools.",
-   "status": "confirmed",
-   "locator": "שורה 55"
-  },
-  {
    "id": "c41",
    "text": "לפי בריטניקה, בתי הספר לא אתגרו את ההפרדה הגזעית ובדרך כלל הפסיקו ללמד אחרי כיתה ח'.",
    "source": "src4",
@@ -1308,14 +1270,6 @@
    "locator": "שורה 42"
   },
   {
-   "id": "c70",
-   "text": "לפי ויקיפדיה, בשנות ה-30 המאוחרות תקציב לתלמיד בבתי ספר לבנים בדרום היה גבוה פי יותר מחמישה מזה של בתי ספר שחורים.",
-   "source": "src14",
-   "quote": "Despite this program, by the mid-1930s white schools in the South had a budget per student more than five times that of black schools",
-   "status": "confirmed",
-   "locator": "שורה 4"
-  },
-  {
    "id": "c63",
    "text": "לפי שירות הפארקים הלאומיים, האנציקלופדיה של בריטניקה: כשוושינגטון מת ב-1915 העניק רוזנוולד מענקים תואמים לכ-80 בתי ספר שחורים בשלוש מדינות.",
    "source": "src4",
@@ -1330,14 +1284,6 @@
    "quote": "over the next four years Rosenwald contributed private funds for the construction of more than 300 rural school buildings in southern states",
    "status": "confirmed",
    "locator": "שורה 5"
-  },
-  {
-   "id": "c30",
-   "text": "לפי ויקיפדיה, קהילות אפרו-אמריקאיות תרמו 4.8 מיליון דולר לבניית 5,338 בתי ספר.",
-   "source": "src14",
-   "quote": "African American communities contributed $4.8 million to the building of 5,338 schools throughout the South.",
-   "status": "confirmed",
-   "locator": "שורה 33"
   },
   {
    "id": "c56",
@@ -1378,14 +1324,6 @@
    "quote": "it had helped to create 5,357 schools and associated buildings in 883 counties that educated 663,615 students",
    "status": "confirmed",
    "locator": "שורה 11"
-  },
-  {
-   "id": "c27",
-   "text": "לפי ויקיפדיה, הקרן הוציאה יותר מ-4 מיליון דולר לבניית 5,388 בתי ספר, 217 בתי מורים ו-163 מבני סדנה ב-883 מחוזות ב-15 מדינות.",
-   "source": "src14",
-   "quote": "the fund spent more than $4 million to build 5,388 schools, 217 teacher homes, and 163 shop buildings in 883 counties in 15 states, from Maryland to Texas.",
-   "status": "confirmed",
-   "locator": "שורה 33"
   },
   {
    "id": "c32",
@@ -1530,12 +1468,6 @@
    "label": "My Jewish Learning, Julius Rosenwald",
    "url": "https://www.myjewishlearning.com/article/julius-rosenwald-hot-topic/",
    "kind": "press"
-  },
-  {
-   "id": "src14",
-   "label": "Wikipedia, Rosenwald School",
-   "url": "https://en.wikipedia.org/wiki/Rosenwald_School",
-   "kind": "reference"
   },
   {
    "id": "src15",
@@ -1998,7 +1930,7 @@
   "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
   "checked_at": "2026-11-21T06:16:04Z",
   "counts": {
-   "confirmed": 99,
+   "confirmed": 93,
    "not_confirmed": 0,
    "deleted_sentences": 3,
    "first_round_confirmed": 94,
@@ -2019,8 +1951,8 @@
    "fix": "opus-5-5 medium"
   },
   "source_quality": {
-   "sources": 14,
-   "wikipedia": 1,
+   "sources": 15,
+   "wikipedia": 0,
    "strong": 11,
    "ok": true,
    "warnings": []
@@ -2038,6 +1970,13 @@
     "url": "https://savingplaces.org/press-center/media-resources/historic-schoolhouses-of-the-south-celebrated",
     "by": "settle 24.11"
    }
-  ]
+  ],
+  "wiki_cleanup": {
+   "at": "2026-11-27T15:18:34Z",
+   "targets": 4,
+   "resourced": 0,
+   "kept_on_other_sources": 0,
+   "deleted": 4
+  }
  }
 }

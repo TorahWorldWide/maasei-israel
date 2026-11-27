@@ -10,8 +10,8 @@
    "text": "Remilk is an Israeli company founded in 2019 by entrepreneur Aviv Wolff and biochemist Dr. Ori Cohavi.",
    "claims": [
     "c1",
-    "c2",
-    "c3"
+    "c81",
+    "c82"
    ]
   },
   {
@@ -58,7 +58,7 @@
    "label": "Since",
    "value": "2019",
    "claims": [
-    "c3"
+    "c83"
    ]
   },
   {
@@ -72,9 +72,9 @@
    "label": "Approvals",
    "value": "US, Singapore, Israel, Canada",
    "claims": [
-    "c22",
     "c23",
-    "c47"
+    "c84",
+    "c85"
    ]
   },
   {
@@ -121,7 +121,7 @@
      {
       "text": "In 2019 they founded Remilk.",
       "claims": [
-       "c3"
+       "c86"
       ]
      }
     ],
@@ -183,7 +183,7 @@
       "text": "Remilk also estimates that its process uses only a small fraction of the land, water and emissions of regular milk.",
       "claims": [
        "c44",
-       "c45"
+       "c87"
       ]
      }
     ]
@@ -280,22 +280,9 @@
    "paragraphs": [
     [
      {
-      "text": "In December 2020 Remilk completed a Series A funding round of $11 million.",
-      "claims": [
-       "c75"
-      ]
-     },
-     {
       "text": "It was followed by a $120 million round.",
       "claims": [
-       "c76",
        "c77"
-      ]
-     },
-     {
-      "text": "According to Wikipedia, it was led by the fund Hanaco Ventures.",
-      "claims": [
-       "c76"
       ]
      }
     ],
@@ -318,6 +305,14 @@
        "c65"
       ]
      }
+    ],
+    [
+     {
+      "text": "According to Green Queen, in January",
+      "claims": [
+       "c77"
+      ]
+     }
     ]
    ],
    "media": [
@@ -325,7 +320,6 @@
    ],
    "disagreements": [
     "d1",
-    "d2",
     "d5"
    ]
   },
@@ -390,7 +384,8 @@
      {
       "text": "In early 2024 approval also came from Health Canada.",
       "claims": [
-       "c47"
+       "c90",
+       "c91"
       ]
      }
     ],
@@ -624,24 +619,6 @@
    ]
   },
   {
-   "id": "d2",
-   "question": "When did the $120 million funding round take place?",
-   "versions": [
-    {
-     "says": "According to Wikipedia, in November 2021",
-     "claims": [
-      "c76"
-     ]
-    },
-    {
-     "says": "According to Green Queen, in January",
-     "claims": [
-      "c77"
-     ]
-    }
-   ]
-  },
-  {
    "id": "d3",
    "question": "When was the FDA approval, and what was it?",
    "versions": [
@@ -649,12 +626,6 @@
      "says": "According to Globes, in June 2022 Remilk received self-affirmed GRAS approval to market in the US",
      "claims": [
       "c21"
-     ]
-    },
-    {
-     "says": "According to Wikipedia, Remilk received FDA approval in June 2022",
-     "claims": [
-      "c22"
      ]
     },
     {
@@ -676,9 +647,9 @@
      ]
     },
     {
-     "says": "According to Remilk's estimate in Wikipedia: 1% of the land, 4% of the emissions and 5% of the water",
+     "says": "According to Remilk's estimate: 1% of the land, 4% of the emissions and 5% of the water",
      "claims": [
-      "c45"
+      "c92"
      ]
     }
    ]
@@ -765,22 +736,6 @@
    "locator": "שורה 13"
   },
   {
-   "id": "c2",
-   "text": "רמילק היא חברה ישראלית רב-לאומית שמתמחה בייצור חלב ומוצרי חלב מתורבתים.",
-   "source": "src2",
-   "quote": "Remilk is a multi-national Israeli company that specializes in the production of cultured milk and dairy products.",
-   "status": "confirmed",
-   "locator": "שורה 20"
-  },
-  {
-   "id": "c3",
-   "text": "רמילק נוסדה ב-2019 על ידי אביב וולף ואורי כהבי.",
-   "source": "src2",
-   "quote": "Remilk was founded in 2019 by Aviv Wolff and Ori Cohavi.",
-   "status": "confirmed",
-   "locator": "שורה 27"
-  },
-  {
    "id": "c6",
    "text": "חוקרים לוקחים את רצף הגנים שמכיל את ההוראות לייצור בטא-לקטוגלובולין, חלבון מי גבינה עיקרי, ומחדירים אותו לשמרים.",
    "source": "src3",
@@ -843,22 +798,6 @@
    "quote": "Founded in 2019, Remilk produces milk proteins via a yeast-based fermentation process that renders them",
    "status": "confirmed",
    "locator": "שורה 9"
-  },
-  {
-   "id": "c22",
-   "text": "לפי ויקיפדיה, רמילק קיבלה אישור FDA ביוני 2022, ובתחילת 2023 גם אישור מסינגפור.",
-   "source": "src2",
-   "quote": "In June 2022, Remilk received FDA approval,[7] and in early 2023 the Singapore Food Agency",
-   "status": "confirmed",
-   "locator": "שורה 31"
-  },
-  {
-   "id": "c47",
-   "text": "בתחילת 2024 קיבלה רמילק אישור רגולטורי מ-Health Canada לשיווק מוצריה בקנדה.",
-   "source": "src2",
-   "quote": "In early 2024, Health Canada granted regulatory approval to the company to market and sell its products to Canadian consumers.",
-   "status": "confirmed",
-   "locator": "שורה 31"
   },
   {
    "id": "c69",
@@ -925,14 +864,6 @@
    "locator": "שורה 18"
   },
   {
-   "id": "c45",
-   "text": "לפי הערכת רמילק בוויקיפדיה, התהליך משתמש ב-1% מהקרקע, 4% מפליטות גזי החממה ו-5% מהמים הנדרשים בייצור חלב מסורתי.",
-   "source": "src2",
-   "quote": "Remilk estimates its process uses just 1% of the land, 4% of the greenhouse gas emissions, and 5% of the water required to produce comparable products",
-   "status": "confirmed",
-   "locator": "שורה 36"
-  },
-  {
    "id": "c5",
    "text": "רמילק יוצרת מחדש את חלבוני החלב בכך שהיא לוקחת את הגנים שמקודדים להם ומחדירה אותם למיקרוב חד-תאי.",
    "source": "src7",
@@ -971,22 +902,6 @@
    "quote": "converting a technology that has been used for decades to create components for the food industry such as vitamins and enzymes in small quantities",
    "status": "confirmed",
    "locator": "שורה 10"
-  },
-  {
-   "id": "c75",
-   "text": "בדצמבר 2020 רמילק השלימה סבב גיוס סדרה A בסך 11 מיליון דולר.",
-   "source": "src2",
-   "quote": "In December 2020, the company completed a Series A funding round of $11 million.",
-   "status": "confirmed",
-   "locator": "שורה 28"
-  },
-  {
-   "id": "c76",
-   "text": "לפי ויקיפדיה, בנובמבר 2021 קרן Hanaco Ventures הובילה סבב גיוס של 120 מיליון דולר.",
-   "source": "src2",
-   "quote": "In November 2021, the multinational venture capital fund, Hanaco Ventures, led a funding round for the company and raised $120 million",
-   "status": "confirmed",
-   "locator": "שורה 29"
   },
   {
    "id": "c77",
@@ -1323,6 +1238,86 @@
    "quote": "The dairy alternative market is expected to grow from about $32 billion in 2024 to $57 billion by 2030, according to a",
    "status": "confirmed",
    "locator": "שורה 37"
+  },
+  {
+   "id": "c81",
+   "text": "רמילק היא חברה ישראלית שנוסדה ב-2019 על ידי היזם אביב וולף והביוכימאי ד\"ר אורי כהבי.",
+   "source": "src13",
+   "quote": "Founded in 2019, Remilk produces milk proteins via a yeast-based fermentation process.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c82",
+   "text": "רמילק היא חברה ישראלית שנוסדה ב-2019 על ידי היזם אביב וולף והביוכימאי ד\"ר אורי כהבי.",
+   "source": "src14",
+   "quote": "His partner Cohavi has a PhD in protein biochemistry from the Weizmann Institute of Science.",
+   "status": "confirmed",
+   "locator": "שורה 29"
+  },
+  {
+   "id": "c83",
+   "text": "מאז: 2019",
+   "source": "src13",
+   "quote": "Founded in 2019, Remilk produces milk proteins via a yeast-based fermentation process.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c84",
+   "text": "אישורים: ארה\"ב, סינגפור, ישראל, קנדה",
+   "source": "src15",
+   "quote": "similar permits from health authorities in Israel, Singapore and the United States",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c85",
+   "text": "אישורים: ארה\"ב, סינגפור, ישראל, קנדה",
+   "source": "src16",
+   "quote": "Health Canada has notified Remilk that it has no objection to the food use of β-lactoglobulin protein",
+   "status": "confirmed",
+   "locator": "שורה 16"
+  },
+  {
+   "id": "c86",
+   "text": "ב-2019 הם הקימו את רמילק.",
+   "source": "src13",
+   "quote": "Founded in 2019, Remilk produces milk proteins via a yeast-based fermentation process.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c87",
+   "text": "רמילק גם מעריכה שהתהליך שלה משתמש בחלק קטן בלבד מהקרקע, מהמים ומהפליטות של חלב רגיל.",
+   "source": "src17",
+   "quote": "Remilk estimates its process uses one percent of the land, four percent of the greenhouse gas emissions,",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c90",
+   "text": "בתחילת 2024 הגיע אישור גם מ-Health Canada.",
+   "source": "src18",
+   "quote": "announced today it has received Health Canada's \"Letter of No Objection\"",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c91",
+   "text": "בתחילת 2024 הגיע אישור גם מ-Health Canada.",
+   "source": "src16",
+   "quote": "Health Canada has notified Remilk that it has no objection to the food use of β-lactoglobulin protein",
+   "status": "confirmed",
+   "locator": "שורה 16"
+  },
+  {
+   "id": "c92",
+   "text": "לפי הערכת רמילק: 1% מהקרקע, 4% מהפליטות ו-5% מהמים",
+   "source": "src17",
+   "quote": "its process uses one percent of the land, four percent of the greenhouse gas emissions, and five percent of the water",
+   "status": "confirmed",
+   "locator": "שורה 6"
   }
  ],
  "sources": [
@@ -1331,12 +1326,6 @@
    "label": "Remilk, company website, announcement on Ministry of Health approval, 2023",
    "url": "https://www.remilk.com/newsroom/historic-achievement-remilk-becomes-first-company-to-secure-regulatory-approval-for-animal-free-proteins-in-israel",
    "kind": "organisation"
-  },
-  {
-   "id": "src2",
-   "label": "Wikipedia, Remilk",
-   "url": "https://en.wikipedia.org/wiki/Remilk",
-   "kind": "reference"
   },
   {
    "id": "src3",
@@ -1396,6 +1385,42 @@
    "id": "src12",
    "label": "JNS, 'Cowless' Remilk gets Health Ministry approval, 2023",
    "url": "https://www.jns.org/cowless-remilk-gets-health-ministry-approval/",
+   "kind": "press"
+  },
+  {
+   "id": "src13",
+   "label": "The Times of Israel: Israel's Remilk to open 'world's largest facility for cow-free milk' in Denmark",
+   "url": "https://www.timesofisrael.com/israels-remilk-to-open-worlds-largest-facility-for-cow-free-milk-in-denmark/",
+   "kind": "press"
+  },
+  {
+   "id": "src14",
+   "label": "The Times of Israel: Israel's Remilk to open 'world's largest facility for cow-free milk' in Denmark",
+   "url": "https://www.timesofisrael.com/dont-have-a-cow-israels-remilk-serves-up-dairy-products-made-without-animals/",
+   "kind": "press"
+  },
+  {
+   "id": "src15",
+   "label": "The Times of Israel: Israel's Remilk secures regulatory nod for sale of cow-free dairy in Canada",
+   "url": "https://www.timesofisrael.com/israels-remilk-secures-regulatory-nod-for-sale-of-cow-free-dairy-in-canada/",
+   "kind": "press"
+  },
+  {
+   "id": "src16",
+   "label": "The Times of Israel: Israel's Remilk secures regulatory nod for sale of cow-free dairy in Canada",
+   "url": "https://www.canada.ca/en/health-canada/services/food-nutrition/genetically-modified-foods-other-novel-foods/approved-products/b-lactoglobulin-protein-komagataella-phaffii-yrmk-66/document.html",
+   "kind": "press"
+  },
+  {
+   "id": "src17",
+   "label": "VegNews: The World's Largest Animal-Free Dairy Factory Will Make As Much Milk Protein as 50,000 Cows",
+   "url": "https://vegnews.com/animal-free-dairy-factory-remilk",
+   "kind": "press"
+  },
+  {
+   "id": "src18",
+   "label": "Remilk via Canada Newswire: Remilk makes history as first animal-free milk protein greenlit for use in Canada (Feb. 5, 2024)",
+   "url": "https://www.newswire.ca/news-releases/remilk-makes-history-as-first-animal-free-milk-protein-greenlit-for-use-in-canada-892703460.html",
    "kind": "press"
   }
  ],
@@ -1666,7 +1691,7 @@
   "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
   "checked_at": "2026-11-22T04:33:19Z",
   "counts": {
-   "confirmed": 91,
+   "confirmed": 87,
    "not_confirmed": 0,
    "deleted_sentences": 3,
    "first_round_confirmed": 90,
@@ -1687,11 +1712,18 @@
    "fix": "opus-5-5 medium"
   },
   "source_quality": {
-   "sources": 12,
-   "wikipedia": 1,
+   "sources": 17,
+   "wikipedia": 0,
    "strong": 10,
    "ok": true,
    "warnings": []
+  },
+  "wiki_cleanup": {
+   "at": "2026-11-27T15:15:59Z",
+   "targets": 12,
+   "resourced": 7,
+   "kept_on_other_sources": 1,
+   "deleted": 4
   }
  },
  "lang": "en",
@@ -1699,12 +1731,12 @@
   "from": "he",
   "translator": "claude-opus-5-5",
   "checker": "claude-opus-5-5 (separate call, blind to the translation prompt)",
-  "checked_at": "2026-11-22T05:02:02Z",
+  "checked_at": "2026-11-27T15:16:09Z",
   "passed": true,
-  "items": 136,
-  "pairs_checked": 5,
-  "reused": 131,
-  "first_round_flagged": 1,
+  "items": 131,
+  "pairs_checked": 1,
+  "reused": 130,
+  "first_round_flagged": 0,
   "still_flagged": 0,
   "flagged": [],
   "quote_translations": {}

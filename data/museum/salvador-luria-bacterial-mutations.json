@@ -1,1674 +1,1618 @@
 {
-  "schema": "maasei-museum/1",
-  "slug": "salvador-luria-bacterial-mutations",
-  "deed": "סלבדור לוריה — מוטציות בחיידקים",
-  "canonical_type": "scientific-discovery",
-  "year": "1943",
-  "title": "סלבדור לוריה, פליט יהודי מאיטליה, הראה עם מקס דלבריק שמוטציות בחיידקים קורות באקראי",
-  "trailer": [
-    {
-      "text": "סלבדור לוריה היה ביולוג איטלקי-אמריקאי שזכה ב-1969 בפרס נובל לפיזיולוגיה או רפואה, יחד עם מקס דלבריק ואלפרד הרשי.",
+ "schema": "maasei-museum/1",
+ "slug": "salvador-luria-bacterial-mutations",
+ "deed": "סלבדור לוריה — מוטציות בחיידקים",
+ "canonical_type": "scientific-discovery",
+ "year": "1943",
+ "title": "סלבדור לוריה, פליט יהודי מאיטליה, הראה עם מקס דלבריק שמוטציות בחיידקים קורות באקראי",
+ "trailer": [
+  {
+   "text": "סלבדור לוריה היה ביולוג איטלקי-אמריקאי שזכה ב-1969 בפרס נובל לפיזיולוגיה או רפואה, יחד עם מקס דלבריק ואלפרד הרשי.",
+   "claims": [
+    "c1"
+   ]
+  },
+  {
+   "text": "הוא נולד ב-1912 למשפחה יהודית בטורינו.",
+   "claims": [
+    "c3"
+   ]
+  },
+  {
+   "text": "לפי MIT Technology Review, חוקי הגזע מנעו ממנו מלגת מחקר באיטליה, ולכן עזב לפריז ב-1938.",
+   "claims": [
+    "c4"
+   ]
+  },
+  {
+   "text": "ב-1943 פרסמו לוריה ודלבריק ניתוח של מוטציות בחיידקי E. coli שמקנות עמידות בפני וירוסים חיידקיים.",
+   "claims": [
+    "c22"
+   ]
+  },
+  {
+   "text": "הם הסיקו שהעמידות נבעה ממוטציות ספונטניות, שאינן תלויות בחשיפה לווירוס.",
+   "claims": [
+    "c28"
+   ]
+  }
+ ],
+ "hero_media": [
+  "m1",
+  "m10",
+  "m11",
+  "m4",
+  "m8",
+  "m3",
+  "m9",
+  "m22"
+ ],
+ "glance": [
+  {
+   "label": "מי",
+   "value": "סלבדור לוריה, ביולוג איטלקי-אמריקאי ממשפחה יהודית",
+   "claims": [
+    "c1",
+    "c3"
+   ]
+  },
+  {
+   "label": "שותף",
+   "value": "מקס דלבריק",
+   "claims": [
+    "c22"
+   ]
+  },
+  {
+   "label": "מתי",
+   "value": "1943",
+   "claims": [
+    "c22"
+   ]
+  },
+  {
+   "label": "איפה",
+   "value": "לוריה עבד אז באוניברסיטת אינדיאנה ודלבריק בוונדרבילט.",
+   "claims": [
+    "c22"
+   ]
+  },
+  {
+   "label": "הכרה",
+   "value": "פרס נובל לפיזיולוגיה או רפואה, 1969",
+   "claims": [
+    "c1"
+   ]
+  }
+ ],
+ "stations": [
+  {
+   "id": "s1",
+   "title": "מטורינו לנמל ניו יורק",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "הוא היה בן שני במשפחה יהודית ממעמד נמוך-בינוני.",
       "claims": [
-        "c1"
+       "c2"
       ]
-    },
-    {
-      "text": "הוא נולד ב-1912 למשפחה יהודית בטורינו.",
+     }
+    ],
+    [
+     {
+      "text": "ביולי 1938 העביר מוסוליני חוקי גזע שהגבילו את השתתפות היהודים בחיים הציבוריים.",
       "claims": [
-        "c3"
+       "c5"
       ]
-    },
-    {
-      "text": "לפי MIT Technology Review, חוקי הגזע מנעו ממנו מלגת מחקר באיטליה, ולכן עזב לפריז ב-1938.",
+     },
+     {
+      "text": "לפי MIT Technology Review, החוקים מנעו מלוריה מלגת מחקר, ולכן עזב לפריז ב-1938.",
       "claims": [
-        "c4"
+       "c4"
       ]
-    },
-    {
-      "text": "ב-1943 פרסמו לוריה ודלבריק ניתוח של מוטציות בחיידקי E. coli שמקנות עמידות בפני וירוסים חיידקיים.",
+     },
+     {
+      "text": "כשהצבא הגרמני פלש ביוני 1940, נסע לוריה באופניים למרסיי כדי להשיג ויזה אמריקאית.",
       "claims": [
-        "c22"
+       "c6"
       ]
-    },
-    {
-      "text": "הם הסיקו שהעמידות נבעה ממוטציות ספונטניות, שאינן תלויות בחשיפה לווירוס.",
+     }
+    ],
+    [
+     {
+      "text": "ב-12 בספטמבר 1940 הוא נכנס לנמל ניו יורק עם 52 דולר והבגדים שעל גופו.",
       "claims": [
-        "c28"
+       "c8"
       ]
-    }
-  ],
-  "hero_media": [
-    "m1",
+     },
+     {
+      "text": "לפי האוטוביוגרפיה שלו, הוא היה במצב טוב יותר מרבים מ-800 הפליטים האחרים באונייה.",
+      "claims": [
+       "c7"
+      ]
+     },
+     {
+      "text": "בניו יורק, בעזרת פרמי, קיבל מלגה מקרן רוקפלר ועבד בקולג' לרופאים ומנתחים של אוניברסיטת קולומביה.",
+      "claims": [
+       "c9"
+      ]
+     },
+     {
+      "text": "בבקשתו לאזרחות שינה את שמו הפרטי מ-Salvatore ל-Salvador והוסיף שם אמצעי, Edward.",
+      "claims": [
+       "c10"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m15"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s2",
+   "title": "שאלה פתוחה, ופגישה עם דלבריק",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "חלק מהמדענים סברו שהמפגש בין בקטריופאגים, וירוסים שתוקפים חיידקים, לבין החיידקים עצמם יכול לעורר בחיידקים עמידות.",
+      "claims": [
+       "c15",
+       "c22"
+      ]
+     },
+     {
+      "text": "לוריה כתב בסקירה מ-1947 שהבקטריולוגיה הייתה אחד המעוזים האחרונים של הלמרקיזם.",
+      "claims": [
+       "c17"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "השאלה עמדה בין שתי השערות.",
+      "claims": [
+       "c14"
+      ]
+     },
+     {
+      "text": "לפי האחת, הווירוסים גורמים ישירות לעמידות בחיידקים.",
+      "claims": [
+       "c14"
+      ]
+     },
+     {
+      "text": "לפי השנייה, העמידות תלויה בשינוי גנטי שקיים מראש, והווירוסים רק בוחרים את החיידקים העמידים.",
+      "claims": [
+       "c14"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "בדצמבר 1940 פגש לוריה את מקס דלבריק.",
+      "claims": [
+       "c11",
+       "c12",
+       "c13"
+      ]
+     },
+     {
+      "text": "בסוף 1941 עבד לוריה עם תומס אנדרסון, והיה בין הראשונים שצילמו בקטריופאגים במיקרוסקופ אלקטרונים ומדדו במדויק את גודלם.",
+      "claims": [
+       "c41"
+      ]
+     }
+    ]
+   ],
+   "media": [
     "m10",
-    "m11",
+    "m17",
+    "m18",
+    "m19"
+   ],
+   "disagreements": [
+    "d1"
+   ]
+  },
+  {
+   "id": "s3",
+   "title": "ג'קפוט בצינורות",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "לוריה הבין שאפשר לראות מוטציות בחיידקים כמקבילות לזכיות בג'קפוט.",
+      "claims": [
+       "c19"
+      ]
+     },
+     {
+      "text": "לפי Live Science, הוא הבין שבעזרת סטטיסטיקה אפשר להבחין בין מוטציות אקראיות לבין מוטציות שהפאגים גורמים להן.",
+      "claims": [
+       "c20"
+      ]
+     },
+     {
+      "text": "לפי מאמר Genetics, מוטציה בדור מוקדם, בתרבית של 10 הכפלות, הייתה מניבה עד 1,024 תאים עמידים בסוף הגידול, ולאפקט הזה קוראים \"ג'קפוט\".",
+      "claims": [
+       "c27"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "בינואר 1943 עבר לוריה לבלומינגטון, אינדיאנה, כדי ללמד באוניברסיטת אינדיאנה.",
+      "claims": [
+       "c21"
+      ]
+     },
+     {
+      "text": "לפי Live Science, הם חשפו את החיידקים לפאגים וגידלו אותם בתרבית סדרתית על לוחות.",
+      "claims": [
+       "c24"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "בשמונה תרביות קטנות מקבילות נעה השונות (המתוקנת לדגימה) במספר החיידקים העמידים בין 40.8 ל-3,498, לפי טבלה 2 במאמרם.",
+      "claims": [
+       "c25"
+      ]
+     },
+     {
+      "text": "בשלושה ניסויים של 10 דגימות מתרבית גדולה אחת הייתה השונות נמוכה בהרבה: 15, 27 ו-3.8.",
+      "claims": [
+       "c26"
+      ]
+     },
+     {
+      "text": "לוריה ודלבריק הסיקו שהעמידות לפאג T1 בזן E. coli B נבעה ממוטציות ספונטניות, שאינן תלויות בחשיפה לווירוס.",
+      "claims": [
+       "c28"
+      ]
+     },
+     {
+      "text": "ב-1943 פרסמו לוריה, אז באוניברסיטת אינדיאנה, ודלבריק, אז בוונדרבילט, את הניתוח.",
+      "claims": [
+       "c22"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m16",
+    "m11"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s4",
+   "title": "מה יצא מזה",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "לפי אתר נובל, לוריה ודלבריק הוכיחו בחקירות סטטיסטיות שחיידקים, כמו אורגניזמים מורכבים יותר, מתפתחים באמצעות מוטציות.",
+      "claims": [
+       "c30"
+      ]
+     },
+     {
+      "text": "לפי ספריית הרפואה הלאומית, העבודה סיפקה ראיה סטטיסטית לקיום גנים בחיידקים, וביססה את המיקרובים כנושאי מחקר מתאימים לגנטיקה.",
+      "claims": [
+       "c31"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "לפי מאמר Genetics, המחקר סייע לפתח את מושג המוטציה האקראית.",
+      "claims": [
+       "c32"
+      ]
+     },
+     {
+      "text": "ההיסטוריון תומס ברוק מזהה את מאמר 1943 כמסמך המכונן של הגנטיקה החיידקית המודרנית.",
+      "claims": [
+       "c33"
+      ]
+     },
+     {
+      "text": "לפי MIT Technology Review, עבודתם של לוריה, דלבריק והרשי הובילה לפיצוץ במחקר הגנטיקה החיידקית.",
+      "claims": [
+       "c34"
+      ]
+     },
+     {
+      "text": "לפי אנדרו מארי, המאמר הראה שניתוח סטטיסטי אלגנטי יכול להאיר תהליכים ביולוגיים שאי אפשר לראות ישירות.",
+      "claims": [
+       "c35"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "דלבריק ולוריה הכניסו לחקר הבקטריופאגים מושגים גנטיים ושיטות כמותיות קפדניות.",
+      "claims": [
+       "c40"
+      ]
+     },
+     {
+      "text": "סביב השלושה צמחה באופן לא רשמי \"קבוצת הפאג\", שמרכזה במעבדה הביולוגית בקולד ספרינג הארבור.",
+      "claims": [
+       "c39"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m14"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s5",
+   "title": "צינור שנשבר, וספר לימוד",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "לוריה היה הראשון שגילה את תופעת ההגבלה-שינוי, שבה חיידקים מגנים על עצמם בשינוי ה-DNA של הפאגים הפולשים.",
+      "claims": [
+       "c42"
+      ]
+     },
+     {
+      "text": "בשנות ה-60 גילו חוקרים אחרים שהשינויים נבעו מאנזימי הגבלה חיידקיים, שפירקו DNA ויראלי כמנגנון הגנה.",
+      "claims": [
+       "c44"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "ב-1953 פרסם לוריה את General Virology, ספר הלימוד המקיף הראשון בתחום.",
+      "claims": [
+       "c45"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m1"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s6",
+   "title": "נובל, ועוד פרסים",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "ב-1969 זכה לוריה בפרס נובל לפיזיולוגיה או רפואה, יחד עם מקס דלבריק ואלפרד הרשי.",
+      "claims": [
+       "c1"
+      ]
+     },
+     {
+      "text": "הפרס ניתן על תגליותיהם בנוגע למנגנון ההעתקה והמבנה הגנטי של וירוסים.",
+      "claims": [
+       "c36",
+       "c37"
+      ]
+     },
+     {
+      "text": "לפי הוועדה, השלושה הניחו את היסודות שעליהם נשענת הביולוגיה המולקולרית המודרנית.",
+      "claims": [
+       "c38"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "באוקטובר 1969, יום אחרי מצעד המורטוריום נגד מלחמת וייטנאם בבוסטון ב-15 באוקטובר, הוכרז על זכייתו של לוריה בפרס נובל, והוא הצהיר שיתרום חלק מכספי הפרס לתנועת השלום.",
+      "claims": [
+       "c60"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "לוריה זכה גם בפרס לנגי של האקדמיה ללינצ'י ב-1965, ובפרס לואיזה גרוס הורוויץ של אוניברסיטת קולומביה ב-1969.",
+      "claims": [
+       "c64"
+      ]
+     },
+     {
+      "text": "ספרו Life: The Unfinished Experiment זכה ב-1974 בפרס הספר הלאומי.",
+      "claims": [
+       "c63"
+      ]
+     },
+     {
+      "text": "ב-1991 קיבל את מדליית המדע הלאומית.",
+      "claims": [
+       "c65"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m1",
+    "m12",
     "m4",
     "m8",
-    "m3",
+    "m5",
+    "m7",
     "m9",
-    "m22"
-  ],
-  "glance": [
-    {
-      "label": "מי",
-      "value": "סלבדור לוריה, ביולוג איטלקי-אמריקאי ממשפחה יהודית",
-      "claims": [
-        "c1",
-        "c3"
-      ]
-    },
-    {
-      "label": "שותף",
-      "value": "מקס דלבריק",
-      "claims": [
-        "c22"
-      ]
-    },
-    {
-      "label": "מתי",
-      "value": "1943",
-      "claims": [
-        "c22"
-      ]
-    },
-    {
-      "label": "איפה",
-      "value": "לוריה עבד אז באוניברסיטת אינדיאנה ודלבריק בוונדרבילט.",
-      "claims": [
-        "c22"
-      ]
-    },
-    {
-      "label": "הכרה",
-      "value": "פרס נובל לפיזיולוגיה או רפואה, 1969",
-      "claims": [
-        "c1"
-      ]
-    }
-  ],
-  "stations": [
-    {
-      "id": "s1",
-      "title": "מטורינו לנמל ניו יורק",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "הוא היה בן שני במשפחה יהודית ממעמד נמוך-בינוני.",
-            "claims": [
-              "c2"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "ביולי 1938 העביר מוסוליני חוקי גזע שהגבילו את השתתפות היהודים בחיים הציבוריים.",
-            "claims": [
-              "c5"
-            ]
-          },
-          {
-            "text": "לפי MIT Technology Review, החוקים מנעו מלוריה מלגת מחקר, ולכן עזב לפריז ב-1938.",
-            "claims": [
-              "c4"
-            ]
-          },
-          {
-            "text": "כשהצבא הגרמני פלש ביוני 1940, נסע לוריה באופניים למרסיי כדי להשיג ויזה אמריקאית.",
-            "claims": [
-              "c6"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "ב-12 בספטמבר 1940 הוא נכנס לנמל ניו יורק עם 52 דולר והבגדים שעל גופו.",
-            "claims": [
-              "c8"
-            ]
-          },
-          {
-            "text": "לפי האוטוביוגרפיה שלו, הוא היה במצב טוב יותר מרבים מ-800 הפליטים האחרים באונייה.",
-            "claims": [
-              "c7"
-            ]
-          },
-          {
-            "text": "בניו יורק, בעזרת פרמי, קיבל מלגה מקרן רוקפלר ועבד בקולג' לרופאים ומנתחים של אוניברסיטת קולומביה.",
-            "claims": [
-              "c9"
-            ]
-          },
-          {
-            "text": "בבקשתו לאזרחות שינה את שמו הפרטי מ-Salvatore ל-Salvador והוסיף שם אמצעי, Edward.",
-            "claims": [
-              "c10"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m15"
-      ],
-      "disagreements": []
-    },
-    {
-      "id": "s2",
-      "title": "שאלה פתוחה, ופגישה עם דלבריק",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "בשנות ה-40 רווחה הסברה שחיידקים יכולים לפתח מוטציות תורשתיות בהתאם לנסיבות שבהן הם נמצאים.",
-            "claims": [
-              "c16"
-            ]
-          },
-          {
-            "text": "חלק מהמדענים סברו שהמפגש בין בקטריופאגים, וירוסים שתוקפים חיידקים, לבין החיידקים עצמם יכול לעורר בחיידקים עמידות.",
-            "claims": [
-              "c15",
-              "c22"
-            ]
-          },
-          {
-            "text": "לוריה כתב בסקירה מ-1947 שהבקטריולוגיה הייתה אחד המעוזים האחרונים של הלמרקיזם.",
-            "claims": [
-              "c17"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "השאלה עמדה בין שתי השערות.",
-            "claims": [
-              "c14"
-            ]
-          },
-          {
-            "text": "לפי האחת, הווירוסים גורמים ישירות לעמידות בחיידקים.",
-            "claims": [
-              "c14"
-            ]
-          },
-          {
-            "text": "לפי השנייה, העמידות תלויה בשינוי גנטי שקיים מראש, והווירוסים רק בוחרים את החיידקים העמידים.",
-            "claims": [
-              "c14"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "בדצמבר 1940 פגש לוריה את מקס דלבריק.",
-            "claims": [
-              "c11",
-              "c12",
-              "c13"
-            ]
-          },
-          {
-            "text": "בסוף 1941 עבד לוריה עם תומס אנדרסון, והיה בין הראשונים שצילמו בקטריופאגים במיקרוסקופ אלקטרונים ומדדו במדויק את גודלם.",
-            "claims": [
-              "c41"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m10",
-        "m17",
-        "m18",
-        "m19"
-      ],
-      "disagreements": [
-        "d1"
-      ]
-    },
-    {
-      "id": "s3",
-      "title": "ג'קפוט בצינורות",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "לוריה הבין שאפשר לראות מוטציות בחיידקים כמקבילות לזכיות בג'קפוט.",
-            "claims": [
-              "c19"
-            ]
-          },
-          {
-            "text": "לפי Live Science, הוא הבין שבעזרת סטטיסטיקה אפשר להבחין בין מוטציות אקראיות לבין מוטציות שהפאגים גורמים להן.",
-            "claims": [
-              "c20"
-            ]
-          },
-          {
-            "text": "לפי מאמר Genetics, מוטציה בדור מוקדם, בתרבית של 10 הכפלות, הייתה מניבה עד 1,024 תאים עמידים בסוף הגידול, ולאפקט הזה קוראים \"ג'קפוט\".",
-            "claims": [
-              "c27"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "בינואר 1943 עבר לוריה לבלומינגטון, אינדיאנה, כדי ללמד באוניברסיטת אינדיאנה.",
-            "claims": [
-              "c21"
-            ]
-          },
-          {
-            "text": "לוריה ודלבריק הכניסו כמות קטנה של חיידקי E. coli לצינורות תרבית נפרדים.",
-            "claims": [
-              "c23"
-            ]
-          },
-          {
-            "text": "לפי Live Science, הם חשפו את החיידקים לפאגים וגידלו אותם בתרבית סדרתית על לוחות.",
-            "claims": [
-              "c24"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "בשמונה תרביות קטנות מקבילות נעה השונות (המתוקנת לדגימה) במספר החיידקים העמידים בין 40.8 ל-3,498, לפי טבלה 2 במאמרם.",
-            "claims": [
-              "c25"
-            ]
-          },
-          {
-            "text": "בשלושה ניסויים של 10 דגימות מתרבית גדולה אחת הייתה השונות נמוכה בהרבה: 15, 27 ו-3.8.",
-            "claims": [
-              "c26"
-            ]
-          },
-          {
-            "text": "לוריה ודלבריק הסיקו שהעמידות לפאג T1 בזן E. coli B נבעה ממוטציות ספונטניות, שאינן תלויות בחשיפה לווירוס.",
-            "claims": [
-              "c28"
-            ]
-          },
-          {
-            "text": "ב-1943 פרסמו לוריה, אז באוניברסיטת אינדיאנה, ודלבריק, אז בוונדרבילט, את הניתוח.",
-            "claims": [
-              "c22"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m16",
-        "m11"
-      ],
-      "disagreements": []
-    },
-    {
-      "id": "s4",
-      "title": "מה יצא מזה",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "לפי ויקיפדיה, הניסוי הראה שמוטציות גנטיות בחיידקים מתרחשות גם בלי לחץ ברירה, ולא כתגובה אליו.",
-            "claims": [
-              "c29"
-            ]
-          },
-          {
-            "text": "לפי אתר נובל, לוריה ודלבריק הוכיחו בחקירות סטטיסטיות שחיידקים, כמו אורגניזמים מורכבים יותר, מתפתחים באמצעות מוטציות.",
-            "claims": [
-              "c30"
-            ]
-          },
-          {
-            "text": "לפי ספריית הרפואה הלאומית, העבודה סיפקה ראיה סטטיסטית לקיום גנים בחיידקים, וביססה את המיקרובים כנושאי מחקר מתאימים לגנטיקה.",
-            "claims": [
-              "c31"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "לפי מאמר Genetics, המחקר סייע לפתח את מושג המוטציה האקראית.",
-            "claims": [
-              "c32"
-            ]
-          },
-          {
-            "text": "ההיסטוריון תומס ברוק מזהה את מאמר 1943 כמסמך המכונן של הגנטיקה החיידקית המודרנית.",
-            "claims": [
-              "c33"
-            ]
-          },
-          {
-            "text": "לפי MIT Technology Review, עבודתם של לוריה, דלבריק והרשי הובילה לפיצוץ במחקר הגנטיקה החיידקית.",
-            "claims": [
-              "c34"
-            ]
-          },
-          {
-            "text": "לפי אנדרו מארי, המאמר הראה שניתוח סטטיסטי אלגנטי יכול להאיר תהליכים ביולוגיים שאי אפשר לראות ישירות.",
-            "claims": [
-              "c35"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "דלבריק ולוריה הכניסו לחקר הבקטריופאגים מושגים גנטיים ושיטות כמותיות קפדניות.",
-            "claims": [
-              "c40"
-            ]
-          },
-          {
-            "text": "סביב השלושה צמחה באופן לא רשמי \"קבוצת הפאג\", שמרכזה במעבדה הביולוגית בקולד ספרינג הארבור.",
-            "claims": [
-              "c39"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m14"
-      ],
-      "disagreements": []
-    },
-    {
-      "id": "s5",
-      "title": "צינור שנשבר, וספר לימוד",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "לוריה היה הראשון שגילה את תופעת ההגבלה-שינוי, שבה חיידקים מגנים על עצמם בשינוי ה-DNA של הפאגים הפולשים.",
-            "claims": [
-              "c42"
-            ]
-          },
-          {
-            "text": "בשנות ה-60 גילו חוקרים אחרים שהשינויים נבעו מאנזימי הגבלה חיידקיים, שפירקו DNA ויראלי כמנגנון הגנה.",
-            "claims": [
-              "c44"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "ב-1953 פרסם לוריה את General Virology, ספר הלימוד המקיף הראשון בתחום.",
-            "claims": [
-              "c45"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m1"
-      ],
-      "disagreements": []
-    },
-    {
-      "id": "s6",
-      "title": "נובל, ועוד פרסים",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "ב-1969 זכה לוריה בפרס נובל לפיזיולוגיה או רפואה, יחד עם מקס דלבריק ואלפרד הרשי.",
-            "claims": [
-              "c1"
-            ]
-          },
-          {
-            "text": "הפרס ניתן על תגליותיהם בנוגע למנגנון ההעתקה והמבנה הגנטי של וירוסים.",
-            "claims": [
-              "c36",
-              "c37"
-            ]
-          },
-          {
-            "text": "לפי הוועדה, השלושה הניחו את היסודות שעליהם נשענת הביולוגיה המולקולרית המודרנית.",
-            "claims": [
-              "c38"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "באוקטובר 1969, יום אחרי מצעד המורטוריום נגד מלחמת וייטנאם בבוסטון ב-15 באוקטובר, הוכרז על זכייתו של לוריה בפרס נובל, והוא הצהיר שיתרום חלק מכספי הפרס לתנועת השלום.",
-            "claims": [
-              "c60"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "לוריה זכה גם בפרס לנגי של האקדמיה ללינצ'י ב-1965, ובפרס לואיזה גרוס הורוויץ של אוניברסיטת קולומביה ב-1969.",
-            "claims": [
-              "c64"
-            ]
-          },
-          {
-            "text": "ספרו Life: The Unfinished Experiment זכה ב-1974 בפרס הספר הלאומי.",
-            "claims": [
-              "c63"
-            ]
-          },
-          {
-            "text": "ב-1991 קיבל את מדליית המדע הלאומית.",
-            "claims": [
-              "c65"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m1",
-        "m12",
-        "m4",
-        "m8",
-        "m5",
-        "m7",
-        "m9",
-        "m6",
-        "m23"
-      ],
-      "disagreements": []
-    },
-    {
-      "id": "s7",
-      "title": "תלמידים, MIT ומשפחה",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "הסטודנט הראשון של לוריה היה ג'יימס ווטסון.",
-            "claims": [
-              "c46"
-            ]
-          },
-          {
-            "text": "לפי MIT Technology Review, לוריה הדריך זוכי נובל כמו ג'יימס ווטסון, דייוויד בולטימור, סוסומו טונגאווה ופיליפ שארפ.",
-            "claims": [
-              "c47"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "ב-MIT מונה לוריה לפרופסור סדג'וויק לביולוגיה.",
-            "claims": [
-              "c50",
-              "c51"
-            ]
-          },
-          {
-            "text": "לפי MIT Technology Review, ב-1972 הוביל מאמץ לגייס מענק של 4.4 מיליון דולר מהמכון הלאומי לסרטן, להקמת מרכז המחקר לסרטן ב-MIT.",
-            "claims": [
-              "c52"
-            ]
-          },
-          {
-            "text": "הוא ניהל את המרכז עד 1985.",
-            "claims": [
-              "c53",
-              "c55"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "לוריה נישא ב-1945 לזלה הורוויץ, ובנם דניאל נולד לפי אנציקלופדיה דיסקברי ב-1948, ולפי ספריית הרפואה הלאומית ב-1949.",
-            "claims": [
-              "c48",
-              "c49"
-            ]
-          },
-          {
-            "text": "לוריה מת בלקסינגטון, מסצ'וסטס, ב-6 בפברואר 1991.",
-            "claims": [
-              "c66"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m13"
-      ],
-      "disagreements": [
-        "d3"
-      ]
-    },
-    {
-      "id": "s8",
-      "title": "דרכון, רשימה שחורה וספקות בניסוי",
-      "kind": "hard",
-      "paragraphs": [
-        [
-          {
-            "text": "לפי אנציקלופדיה דיסקברי, חקירה בת שנתיים של ה-FBI לא מצאה נגד לוריה ראיות לפעילות קומוניסטית או חתרנית, ובכל זאת סורב לו דרכון; לפי אנציקלופדיה דיסקברי הדבר קרה ב-1952 (ובמקום אחר באותה אנציקלופדיה ב-1951), ולפי איגוד האימונולוגים האמריקאי ב-1953.",
-            "claims": [
-              "c56",
-              "c57",
-              "c58"
-            ]
-          },
-          {
-            "text": "לפי איגוד האימונולוגים האמריקאי, הדרכון נשלל כשביקש לנסוע להרצאה בכנס מדעי באוקספורד.",
-            "claims": [
-              "c58"
-            ]
-          },
-          {
-            "text": "ימים ספורים אחרי זכייתו בנובל התברר ששמו נמצא ברשימה שחורה של המכונים הלאומיים לבריאות, שאסרה עליו לייעץ במענקים.",
-            "claims": [
-              "c61"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "לפי ספריית הרפואה הלאומית, הוא היה מבקר חריף של הפלישה הישראלית ללבנון ושל ההתערבות האמריקאית בווייטנאם.",
-            "claims": [
-              "c62"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "לפי מאמר Genetics, לזן ה-E. coli שבחרו לוריה ודלבריק חסר מנגנון CRISPR-Cas פעיל, כנראה במקרה.",
-            "claims": [
-              "c68"
-            ]
-          },
-          {
-            "text": "לפי Live Science, מחקר עדכני מצביע שאילו נבחרה מערכת חיידק-פאג אחרת, למשל כזו שמשתמשת ב-CRISPR, התוצאות הסטטיסטיות לא היו ברורות כל כך.",
-            "claims": [
-              "c69"
-            ]
-          },
-          {
-            "text": "ביומתמטיקאים שכללו מאז את ההבנה של התפלגויות שמתארות את תהליך המוטציה טוב יותר מזו שבה השתמשו לוריה ודלבריק.",
-            "claims": [
-              "c70"
-            ]
-          },
-          {
-            "text": "לפי ויקיפדיה, קיירנס ואחרים, שחקרו מוטציות בחילוף חומרים של סוכר, העמידו את התוצאות בספק.",
-            "claims": [
-              "c71"
-            ]
-          },
-          {
-            "text": "מאמר ב-Phys Biol מ-2017 טוען שהניסוי אינו שולל אבולוציה למרקיאנית.",
-            "claims": [
-              "c72"
-            ]
-          },
-          {
-            "text": "מנגנוני עמידות שמבוססים על שינויים יציבים בתעתוק, בחילוף חומרים או ברכישת חומר גנטי מבחוץ לא נבדקו במחקר מ-1943.",
-            "claims": [
-              "c73"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m3"
-      ],
-      "disagreements": []
-    }
-  ],
-  "disagreements": [
-    {
-      "id": "d1",
-      "question": "היכן נפגשו לוריה ודלבריק לראשונה בדצמבר 1940?",
-      "versions": [
-        {
-          "says": "לפי Live Science, במעבדת קולד ספרינג הארבור בניו יורק",
-          "claims": [
-            "c11"
-          ]
-        },
-        {
-          "says": "לפי ספריית הרפואה הלאומית, בפגישה השנתית של האגודה הפיזיקלית האמריקאית",
-          "claims": [
-            "c13"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d3",
-      "question": "מתי הפך לוריה למנהל מרכז הסרטן ב-MIT?",
-      "versions": [
-        {
-          "says": "לפי MIT Technology Review, עם פתיחת המרכז ב-1973, ועד 1985",
-          "claims": [
-            "c53"
-          ]
-        },
-        {
-          "says": "לפי בריטניקה, ב-1974",
-          "claims": [
-            "c54"
-          ]
-        }
-      ]
-    }
-  ],
-  "unknowns": [],
-  "claims": [
-    {
-      "id": "c1",
-      "text": "סלבדור לוריה היה ביולוג איטלקי-אמריקאי שזכה ב-1969, יחד עם מקס דלבריק ואלפרד הרשי, בפרס נובל לפיזיולוגיה או רפואה על מחקר בבקטריופאגים.",
-      "source": "src1",
-      "quote": "was an Italian-born American biologist who, along with Max Delbrück and Alfred Day Hershey, won the Nobel Prize for Physiology or Medicine in 1969",
-      "status": "confirmed",
-      "locator": "שורה 7"
-    },
-    {
-      "id": "c3",
-      "text": "לוריה נולד למשפחה יהודית בטורינו, איטליה, ב-13 באוגוסט 1912.",
-      "source": "src2",
-      "quote": "Salvador Edward Luria was born to a Jewish family in Turin, Italy, on August 13, 1912",
-      "status": "confirmed",
-      "locator": "שורה 8"
-    },
-    {
-      "id": "c4",
-      "text": "לפי MIT Technology Review, חוקי הגזע מנעו מלוריה מלגת מחקר באיטליה ולכן עזב לפריז ב-1938.",
-      "source": "src3",
-      "quote": "Race laws barred him from a research fellowship in Italy, so he left for Paris in 1938.",
-      "status": "confirmed",
-      "locator": "שורה 5"
-    },
-    {
-      "id": "c22",
-      "text": "ב-1943 פרסמו לוריה, אז באוניברסיטת אינדיאנה, ודלבריק, אז בוונדרבילט, ניתוח של מוטציות ב-E. coli המקנות עמידות בפני וירוסים חיידקיים.",
-      "source": "src4",
-      "quote": "In 1943, Salvador Luria, then at Indiana University, and Max Delbrück, then at Vanderbilt, published an analysis of mutations in Escherichia coli conferring resistance to infection by bacterial viruses",
-      "status": "confirmed",
-      "locator": "שורה 9"
-    },
-    {
-      "id": "c28",
-      "text": "לוריה ודלבריק הסיקו שהעמידות לפאג T1 בזן E. coli B נבעה ממוטציות ספונטניות שאינן תלויות בחשיפה לווירוס.",
-      "source": "src4",
-      "quote": "Luria and Delbrück concluded that resistance to the bacteriophage used in these experiments (T1 phage), for this particular bacterial strain (E. coli B), resulted from spontaneous mutations independent of exposure to the virus.",
-      "status": "confirmed",
-      "locator": "שורה 19"
-    },
-    {
-      "id": "c2",
-      "text": "לוריה נולד בטורינו שבצפון איטליה, בן שני במשפחה יהודית ממעמד נמוך-בינוני.",
-      "source": "src5",
-      "quote": "Salvatore Luria was born in the Northern Italian city of Turin, the second son of a lower-middle-class Jewish family.",
-      "status": "confirmed",
-      "locator": "שורה 10"
-    },
-    {
-      "id": "c5",
-      "text": "מוסוליני העביר ביולי 1938 חוקי גזע שהגבילו את השתתפות היהודים בחיים הציבוריים.",
-      "source": "src5",
-      "quote": "When Benito Mussolini passed a set of race laws that restricted the participation of Jews in public life in July 1938",
-      "status": "confirmed",
-      "locator": "שורה 11"
-    },
-    {
-      "id": "c6",
-      "text": "כשהצבא הגרמני פלש ביוני 1940, לוריה נסע באופניים למרסיי כדי להשיג ויזה אמריקאית.",
-      "source": "src6",
-      "quote": "When the German army invaded in June 1940, Luria traveled by bicycle to Marseilles to acquire an American immigration visa",
-      "status": "confirmed",
-      "locator": "שורה 5"
-    },
-    {
-      "id": "c8",
-      "text": "לוריה נכנס לנמל ניו יורק ב-12 בספטמבר 1940 עם 52 דולר והבגדים שעל גופו.",
-      "source": "src5",
-      "quote": "he entered New York Harbor on 12 September 1940 with $52 and the clothes on his back.",
-      "status": "confirmed",
-      "locator": "שורה 111"
-    },
-    {
-      "id": "c7",
-      "text": "לפי האוטוביוגרפיה שלו, היו ללוריה 52 דולר במזומן ובגד אחד, והוא היה במצב טוב יותר מרבים מ-800 הפליטים האחרים באונייה.",
-      "source": "src3",
-      "quote": "he had $52 in cash and one suit, making him better off than many of the other 800 refugees on the ship.",
-      "status": "confirmed",
-      "locator": "שורה 5"
-    },
-    {
-      "id": "c9",
-      "text": "בניו יורק, בעזרת פרמי, קיבל לוריה מלגה מקרן רוקפלר ועבד בקולג' לרופאים ומנתחים של אוניברסיטת קולומביה.",
-      "source": "src6",
-      "quote": "In New York, assisted by Fermi, Luria got a Rockefeller Foundation fellowship, and worked at the College of Physicians and Surgeons at Columbia University.",
-      "status": "confirmed",
-      "locator": "שורה 6"
-    },
-    {
-      "id": "c10",
-      "text": "בבקשתו לאזרחות שינה לוריה את שמו הפרטי מ-Salvatore ל-Salvador והוסיף שם אמצעי Edward.",
-      "source": "src5",
-      "quote": "On his application for citizenship, Luria changed his first name from the Italian “Salvatore” to the Spanish spelling “Salvador” and added the English middle name “Edward.”",
-      "status": "confirmed",
-      "locator": "שורה 12"
-    },
-    {
-      "id": "c16",
-      "text": "בשנות ה-40 רווחה הסברה שחיידקים שונים ויכולים לפתח מוטציות תורשתיות בהתאם לנסיבות שבהן הם נמצאים.",
-      "source": "src7",
-      "quote": "It was thought that bacteria were somehow different and could develop heritable genetic mutations depending on the circumstances they found themselves",
-      "status": "confirmed",
-      "locator": "שורה 18"
-    },
-    {
-      "id": "c15",
-      "text": "בזמן הניסוי חלק מהמדענים סברו שאינטראקציות בין בקטריופאגים לחיידקים המארחים יכולות לעורר בחיידקים עמידות לפאגים.",
-      "source": "src8",
-      "quote": "but some scientists believed that interactions between bacteriophages — viruses that attack bacteria — and their bacterial hosts could somehow induce bacterial resistance to the phages.",
-      "status": "confirmed",
-      "locator": "שורה 14"
-    },
-    {
-      "id": "c17",
-      "text": "לוריה ציין בסקירה מ-1947 שהבקטריולוגיה הייתה אחד מהמעוזים האחרונים של הלמרקיזם.",
-      "source": "src5",
-      "quote": "In a 1947 review, Luria noted that bacteriology had been “one of the last strongholds of Lamarckism,”",
-      "status": "confirmed",
-      "locator": "שורה 19"
-    },
-    {
-      "id": "c14",
-      "text": "שתי ההשערות שנבדקו: הווירוסים גורמים ישירות להתפתחות העמידות בחיידקים, או שהעמידות תלויה בשינוי גנטי קיים מראש והווירוסים רק בוחרים את החיידקים העמידים.",
-      "source": "src4",
-      "quote": "the viruses act directly on the bacteria they encounter to elicit or activate the resistance mechanism, or 2) the resistance depends on pre-existing genetic change",
-      "status": "confirmed",
-      "locator": "שורה 11"
-    },
-    {
-      "id": "c11",
-      "text": "לפי Live Science, בדצמבר 1940 פגש דלבריק במעבדת קולד ספרינג הארבור בניו יורק את לוריה, רופא יהודי-איטלקי.",
-      "source": "src8",
-      "quote": "In December 1940, at Cold Spring Harbor Laboratory in New York, Delbrück met Luria, an Italian-Jewish doctor.",
-      "status": "confirmed",
-      "locator": "שורה 23"
-    },
-    {
-      "id": "c12",
-      "text": "לפי אנציקלופדיה דיסקברי הביוגרפית, לוריה פגש את דלבריק בכנס בפילדלפיה בדצמבר 1940.",
-      "source": "src5",
-      "quote": "In December 1940 he met Delbrüiick at a conference in Philadelphia, Pennsylvania, and began a collaboration that was to last many years.",
-      "status": "confirmed",
-      "locator": "שורה 112"
-    },
-    {
-      "id": "c13",
-      "text": "לפי ספריית הרפואה הלאומית, לוריה פגש את דלבריק בפגישה השנתית של האגודה הפיזיקלית האמריקאית בדצמבר 1940.",
-      "source": "src6",
-      "quote": "Luria finally met Max Delbrück at the annual meeting of the American Physical Society in December 1940.",
-      "status": "confirmed",
-      "locator": "שורה 7"
-    },
-    {
-      "id": "c41",
-      "text": "בסוף 1941 עבד לוריה עם תומס אנדרסון וצילם בין הראשונים תמונות מיקרוסקופ אלקטרונים של בקטריופאגים ומדד במדויק את גודלם.",
-      "source": "src6",
-      "quote": "At the end of 1941, Luria worked with biophysicist Thomas Anderson to take some of the first electron microscope pictures of bacteriophage and accurately measure their size.",
-      "status": "confirmed",
-      "locator": "שורה 7"
-    },
-    {
-      "id": "c19",
-      "text": "לוריה הבין שמוטציות בחיידקים אפשר לראות כמקבילות לזכיות בג'קפוט.",
-      "source": "src5",
-      "quote": "Luria realized that mutations in bacteria could be considered analogous to jackpots.",
-      "status": "confirmed",
-      "locator": "שורה 17"
-    },
-    {
-      "id": "c20",
-      "text": "לפי Live Science, לוריה הבין שאפשר להשתמש בסטטיסטיקה כדי להבחין בין מוטציות אקראיות למוטציות שהפאגים גורמים להן.",
-      "source": "src8",
-      "quote": "He realized statistics could be used to distinguish between random mutations and ones induced by the phages",
-      "status": "confirmed",
-      "locator": "שורה 25"
-    },
-    {
-      "id": "c27",
-      "text": "לפי מאמר Genetics, מוטציה בדור מוקדם בתרבית של 10 הכפלות הייתה מניבה עד 1,024 תאים עמידים בסוף הגידול, אפקט שנקרא \"ג'קפוט\".",
-      "source": "src4",
-      "quote": "if the culture were to involve 10 cell doublings, a mutation in the first such doubling would yield up to 1,024 resistant cells at the end of the culture",
-      "status": "confirmed",
-      "locator": "שורה 15"
-    },
-    {
-      "id": "c21",
-      "text": "בינואר 1943 עבר לוריה לבלומינגטון, אינדיאנה, כדי להתחיל ללמד באוניברסיטת אינדיאנה.",
-      "source": "src5",
-      "quote": "In January 1943, Luria moved to Bloomington, Indiana, to begin teaching in the Botany and Bacteriology Department at Indiana University.",
-      "status": "confirmed",
-      "locator": "שורה 14"
-    },
-    {
-      "id": "c23",
-      "text": "לוריה ודלבריק הכניסו חיידקי E. coli בכמות קטנה לצינורות תרבית נפרדים.",
-      "source": "src7",
-      "quote": "In their experiment, Luria and Delbrück inoculated a small number of bacteria (Escherichia coli) into separate culture tubes.",
-      "status": "confirmed",
-      "locator": "שורה 19"
-    },
-    {
-      "id": "c24",
-      "text": "לפי Live Science, הם מילאו צינורות ב-E. coli, חשפו את החיידקים לפאגים וגידלו אותם בהדרגה על לוחות.",
-      "source": "src8",
-      "quote": "They filled a bunch of tubes with E. coli and then exposed the bacteria to phages and serially cultured them on plates.",
-      "status": "confirmed",
-      "locator": "שורה 29"
-    },
-    {
-      "id": "c25",
-      "text": "בשמונה תרביות מקבילות קטנות נעה השונות במספר החיידקים העמידים מ-40.8 עד 3,498.",
-      "source": "src4",
-      "quote": "this value ranged from a low of 40.8 to a high of 3,498 (their Table 2)",
-      "status": "confirmed",
-      "locator": "שורה 14"
-    },
-    {
-      "id": "c26",
-      "text": "בשלושה ניסויים של 10 דגימות מתרבית גדולה אחת הייתה השונות נמוכה בהרבה: 15, 27 ו-3.8.",
-      "source": "src4",
-      "quote": "They found the variances in the number of resistant bacteria were much lower for each of the three experiments: 15, 27, and 3.8.",
-      "status": "confirmed",
-      "locator": "שורה 14"
-    },
-    {
-      "id": "c29",
-      "text": "לפי ויקיפדיה, הניסוי הראה שמוטציות גנטיות בחיידקים מתרחשות בהיעדר לחץ ברירה ולא כתגובה אליו.",
-      "source": "src7",
-      "quote": "demonstrated that in bacteria, genetic mutations arise in the absence of selective pressure rather than being a response to it",
-      "status": "confirmed",
-      "locator": "שורה 2"
-    },
-    {
-      "id": "c30",
-      "text": "לפי אתר נובל, ב-1943 הוכיחו לוריה ודלבריק בחקירות סטטיסטיות שחיידקים, כמו אורגניזמים מורכבים יותר, מתפתחים באמצעות מוטציות.",
-      "source": "src9",
-      "quote": "in 1943 Luria and Delbrück proved through statistical investigations that bacteria, like more complex organisms, develop via mutations.",
-      "status": "confirmed",
-      "locator": "שורה 9"
-    },
-    {
-      "id": "c31",
-      "text": "לפי ספריית הרפואה הלאומית, העבודה סיפקה ראיה סטטיסטית לקיום גנים בחיידקים וביססה מיקרובים כנושאי מחקר מתאימים לגנטיקה.",
-      "source": "src6",
-      "quote": "This work provided statistical evidence for the existence of genes in bacteria, and thus established microbes as suitable subjects for genetics research.",
-      "status": "confirmed",
-      "locator": "שורה 7"
-    },
-    {
-      "id": "c32",
-      "text": "לפי מאמר Genetics, המחקר סייע לפתח את מושג המוטציה האקראית.",
-      "source": "src4",
-      "quote": "This study facilitated the development of the concept of random mutation, meaning that the mutation occurs through chemical mechanisms not directly influenced by the functional consequences of the mutation.",
-      "status": "confirmed",
-      "locator": "שורה 22"
-    },
-    {
-      "id": "c33",
-      "text": "ההיסטוריון תומס ברוק מזהה את מאמר 1943 כמסמך המכונן של הגנטיקה החיידקית המודרנית.",
-      "source": "src5",
-      "quote": "historian Thomas Brock identifies it as the founding document of modern bacterial genetics.",
-      "status": "confirmed",
-      "locator": "שורה 19"
-    },
-    {
-      "id": "c34",
-      "text": "לפי MIT Technology Review, עבודתם של לוריה, דלבריק והרשי הראתה שחיידקים מפתחים עמידות לבקטריופאגים דרך מוטציות אקראיות, וזה הוביל לפיצוץ במחקר הגנטיקה החיידקית.",
-      "source": "src3",
-      "quote": "showed that bacteria develop resistance to bacteriophages through random mutations—the same phenomenon that helps drive evolution in more complex organisms.",
-      "status": "confirmed",
-      "locator": "שורה 6"
-    },
-    {
-      "id": "c35",
-      "text": "לפי אנדרו מארי, המאמר הראה שניתוח סטטיסטי אלגנטי יכול להאיר תהליכים ביולוגיים שאי אפשר לצפות בהם ישירות.",
-      "source": "src4",
-      "quote": "it showed that elegant statistical analysis could illuminate biological processes that could not be directly observed",
-      "status": "confirmed",
-      "locator": "שורה 28"
-    },
-    {
-      "id": "c40",
-      "text": "דלבריק ולוריה הכניסו לחקר הבקטריופאגים מושגים גנטיים ושיטות כמותיות קפדניות.",
-      "source": "src10",
-      "quote": "Delbrück and Luria introduced into this field genetic concepts and rigorous quantitative methods.",
-      "status": "confirmed",
-      "locator": "שורה 13"
-    },
-    {
-      "id": "c39",
-      "text": "סביב השלושה צמחה באופן בלתי פורמלי \"קבוצת הפאג\" שמרכזה במעבדה הביולוגית בקולד ספרינג הארבור.",
-      "source": "src10",
-      "quote": "A school, the so-called “phage group” informally grew up around Delbrück, Hershey and Luria, with a geographic center at the Biological Laboratory in Cold Spring Harbor",
-      "status": "confirmed",
-      "locator": "שורה 15"
-    },
-    {
-      "id": "c42",
-      "text": "לוריה היה הראשון שגילה את תופעת ההגבלה-שינוי (restriction-modification), שבה חיידקים מגנים על עצמם בשינוי ה-DNA של הפאגים הפולשים.",
-      "source": "src3",
-      "quote": "was also the first to discover the restriction-modification phenomenon, in which bacteria protect themselves by altering the DNA of their phage invaders.",
-      "status": "confirmed",
-      "locator": "שורה 6"
-    },
-    {
-      "id": "c44",
-      "text": "בשנות ה-60 חוקרים אחרים גילו שהשינויים נבעו מאנזימי הגבלה חיידקיים שפירקו DNA ויראלי כמנגנון הגנה.",
-      "source": "src5",
-      "quote": "other researchers discovered that the temporary changes were the result of bacterial restriction enzymes that degraded viral DNA as a defense mechanism.",
-      "status": "confirmed",
-      "locator": "שורה 24"
-    },
-    {
-      "id": "c45",
-      "text": "ב-1953 פרסם לוריה את General Virology, ספר הלימוד המקיף הראשון בתחום.",
-      "source": "src5",
-      "quote": "That year, Luria published General Virology, the first comprehensive textbook in the field.",
-      "status": "confirmed",
-      "locator": "שורה 28"
-    },
-    {
-      "id": "c36",
-      "text": "פרס נובל ניתן לשלושה: דלבריק, הרשי ולוריה, על תגליותיהם בנוגע למנגנון ההעתקה והמבנה הגנטי של וירוסים.",
-      "source": "src10",
-      "quote": "Karolinska Institutet has decided to award the Nobel Prize in Physiology or Medicine for 1969 jointly to",
-      "status": "confirmed",
-      "locator": "שורה 2"
-    },
-    {
-      "id": "c37",
-      "text": "נימוק הפרס: על תגליותיהם בנוגע למנגנון ההעתקה והמבנה הגנטי של וירוסים.",
-      "source": "src9",
-      "quote": "Prize motivation: “for their discoveries concerning the replication mechanism and the genetic structure of viruses”",
-      "status": "confirmed",
-      "locator": "שורה 6"
-    },
-    {
-      "id": "c38",
-      "text": "לפי הוועדה, דלבריק, הרשי ולוריה הניחו את היסודות שעליהם נשענת הביולוגיה המולקולרית המודרנית.",
-      "source": "src10",
-      "quote": "Delbrück, Hershey and Luria have set the solid foundations on which modern molecular biology rests.",
-      "status": "confirmed",
-      "locator": "שורה 9"
-    },
-    {
-      "id": "c60",
-      "text": "באוקטובר 1969, יום אחרי הכרזת הנובל, הצהיר לוריה שיתרום חלק מכספי הפרס לתנועת השלום.",
-      "source": "src5",
-      "quote": "The next day, his Nobel Prize was announced, and Luria declared that he would donate part of his prize money to the peace movement.",
-      "status": "confirmed",
-      "locator": "שורה 38"
-    },
-    {
-      "id": "c64",
-      "text": "לוריה זכה גם בפרס לואיזה גרוס הורוויץ של אוניברסיטת קולומביה ב-1969 ובפרס לנגי של האקדמיה ללינצ'י ב-1965.",
-      "source": "src6",
-      "quote": "Luria was honored with Columbia University's Louisa Gross Horwitz Prize (1969), the Lenghi Prize of the Accademia dei Lincei (1965) and several honorary doctorates.",
-      "status": "confirmed",
-      "locator": "שורה 17"
-    },
-    {
-      "id": "c63",
-      "text": "ספרו Life: The Unfinished Experiment זכה ב-1974 בפרס הספר הלאומי.",
-      "source": "src5",
-      "quote": "This book was a critical success and won the National Book Award in 1974.",
-      "status": "confirmed",
-      "locator": "שורה 39"
-    },
-    {
-      "id": "c65",
-      "text": "ב-1991 קיבל לוריה את מדליית המדע הלאומית.",
-      "source": "src2",
-      "quote": "* [National Medal of Science](https://www.aai.org/About/History/Notable-Members/Distinguished-Scientific-Awards), 1991",
-      "status": "confirmed",
-      "locator": "שורה 30"
-    },
-    {
-      "id": "c46",
-      "text": "הסטודנט הראשון של לוריה היה ג'יימס ווטסון.",
-      "source": "src5",
-      "quote": "Luria also played a role in the establishment of molecular biology, as his first graduate student was James D. Watson.",
-      "status": "confirmed",
-      "locator": "שורה 9"
-    },
-    {
-      "id": "c47",
-      "text": "לוריה הדריך זוכי נובל כמו ג'יימס ווטסון, דייוויד בולטימור, סוסומו טונגאווה ופיליפ שארפ.",
-      "source": "src3",
-      "quote": "He mentored a lineup of Nobel Prize winners that included James Watson, David Baltimore ‘61, Susumu Tonegawa, and Phillip Sharp, HM ‘96.",
-      "status": "confirmed",
-      "locator": "שורה 1"
-    },
-    {
-      "id": "c50",
-      "text": "ב-1964 מונה לוריה לפרופסור סדג'וויק לביולוגיה ב-MIT.",
-      "source": "src11",
-      "quote": "in 1964 he became Sedgwick Professor of Biology at the M. I. T.",
-      "status": "confirmed",
-      "locator": "שורה 2"
-    },
-    {
-      "id": "c51",
-      "text": "לפי אנציקלופדיה דיסקברי, ב-1966 מונה לוריה לפרופסור הראשון ע\"ש וויליאם תומפסון סדג'וויק לביולוגיה.",
-      "source": "src5",
-      "quote": "In 1966, he was named the first William Thompson Sedgwick Professor of Biology",
-      "status": "confirmed",
-      "locator": "שורה 35"
-    },
-    {
-      "id": "c52",
-      "text": "לפי MIT Technology Review, ב-1972 הוביל לוריה מאמץ לגייס מענק של 4.4 מיליון דולר מהמכון הלאומי לסרטן להקמת מרכז המחקר לסרטן ב-MIT.",
-      "source": "src3",
-      "quote": "In 1972, Luria led the Institute’s effort to secure a $4.4 million grant from the newly formed National Cancer Institute to start the MIT Center for Cancer Research",
-      "status": "confirmed",
-      "locator": "שורה 3"
-    },
-    {
-      "id": "c53",
-      "text": "לפי MIT Technology Review, לוריה ניהל את מרכז הסרטן מפתיחתו ב-1973 עד 1985.",
-      "source": "src3",
-      "quote": "he directed from its opening in 1973 until 1985",
-      "status": "confirmed",
-      "locator": "שורה 3"
-    },
-    {
-      "id": "c55",
-      "text": "לפי אנציקלופדיה דיסקברי, לוריה שימש מנהל מרכז הסרטן של MIT מ-1972 עד פרישתו ב-1985.",
-      "source": "src5",
-      "quote": "Luria served as the director of MIT’s Center for Cancer Research from 1972 until he retired in 1985.",
-      "status": "confirmed",
-      "locator": "שורה 35"
-    },
-    {
-      "id": "c48",
-      "text": "לפי אנציקלופדיה דיסקברי, לוריה נישא ב-1945 לזלה הורוויץ ובנם דניאל נולד ב-1948.",
-      "source": "src5",
-      "quote": "In 1945, Luria married Zella Hurwitz, the only female graduate student in the Department of Psychology. Their son Daniel was born in 1948.",
-      "status": "confirmed",
-      "locator": "שורה 15"
-    },
-    {
-      "id": "c49",
-      "text": "לפי ספריית הרפואה הלאומית, ילדם היחיד של לוריה וזלה, דניאל, נולד ב-1949.",
-      "source": "src6",
-      "quote": "Luria married Zella Hurwitz, a psychologist, in 1945. Their only child, Daniel, was born in 1949.",
-      "status": "confirmed",
-      "locator": "שורה 10"
-    },
-    {
-      "id": "c66",
-      "text": "לוריה מת בלקסינגטון, מסצ'וסטס, ב-6 בפברואר 1991 מהתקף לב.",
-      "source": "src6",
-      "quote": "Luria died in Lexington, Massachusetts, on February 6, 1991, of a heart attack.",
-      "status": "confirmed",
-      "locator": "שורה 18"
-    },
-    {
-      "id": "c56",
-      "text": "לפי אנציקלופדיה דיסקברי, חקירה בת שנתיים של ה-FBI לא מצאה פעילות קומוניסטית או חתרנית, אך לוריה נשלל ממנו דרכון ב-1952.",
-      "source": "src5",
-      "quote": "A two-year investigation yielded no evidence of Communist or other subversive activity, but Luria was nevertheless denied a passport in 1952.",
-      "status": "confirmed",
-      "locator": "שורה 32"
-    },
-    {
-      "id": "c57",
-      "text": "לפי אנציקלופדיה דיסקברי, ב-1951 סורב ללוריה דרכון בגלל אקטיביזם פוליטי.",
-      "source": "src5",
-      "quote": "In 1951 Luria was refused a passport as a result of his outspoken political activism.",
-      "status": "confirmed",
-      "locator": "שורה 116"
-    },
-    {
-      "id": "c58",
-      "text": "לפי איגוד האימונולוגים האמריקאי, ב-1953 נשלל מלוריה דרכון לנסוע להרצאה בכנס מדעי באוקספורד.",
-      "source": "src2",
-      "quote": "Luria, in 1953, was denied a passport to deliver a paper at a scientific meeting in Oxford, England.",
-      "status": "confirmed",
-      "locator": "שורה 10"
-    },
-    {
-      "id": "c61",
-      "text": "ימים ספורים אחרי הזכייה התברר ששמו של לוריה ברשימה שחורה של המכונים הלאומיים לבריאות שאסרה עליו לייעץ במענקים.",
-      "source": "src3",
-      "quote": "Nixon’s administration had blacklisted him from advising the NIH on scientific grants, apparently because of his vocal role in mobilizing faculty and public sentiment against the Vietnam War.",
-      "status": "confirmed",
-      "locator": "שורה 2"
-    },
-    {
-      "id": "c62",
-      "text": "לפי ספריית הרפואה הלאומית, לוריה היה מבקר חריף של הפלישה הישראלית ללבנון ושל ההתערבות האמריקאית בווייטנאם.",
-      "source": "src6",
-      "quote": "He was also an active participant in the peace movement and was an outspoken critic of the Israeli invasion of Lebanon and the American intervention in Vietnam.",
-      "status": "confirmed",
-      "locator": "שורה 14"
-    },
-    {
-      "id": "c68",
-      "text": "לפי מאמר Genetics, זן ה-E. coli שבחרו לוריה ודלבריק חסר מנגנון CRISPR-Cas פעיל, כנראה במקרה.",
-      "source": "src4",
-      "quote": "the E. coli strain selected by Luria and Delbrück for their experiments lacked an operative CRISPR-Cas mechanism",
-      "status": "confirmed",
-      "locator": "שורה 26"
-    },
-    {
-      "id": "c69",
-      "text": "לפי Live Science, מחקר עדכני מצביע שאילו נבחרה מערכת חיידק-פאג אחרת, כמו כזו שמשתמשת ב-CRISPR, התוצאות הסטטיסטיות לא היו ברורות כל כך.",
-      "source": "src8",
-      "quote": "if the team had chosen a different bacterium and phage system to study — such as one that used the bacterial immune system CRISPR to fight off phages — the statistical results would not have been so clear-cut.",
-      "status": "confirmed",
-      "locator": "שורה 35"
-    },
-    {
-      "id": "c70",
-      "text": "ביומתמטיקאים שכללו מאז את ההבנה של התפלגויות מתמטיות שמתארות את תהליך המוטציה טוב יותר מזו שבה השתמשו לוריה ודלבריק.",
-      "source": "src4",
-      "quote": "biomathematicians have refined understanding of mathematical distributions that better describe the mutational process than the one adopted by Luria and Delbrück",
-      "status": "confirmed",
-      "locator": "שורה 30"
-    },
-    {
-      "id": "c71",
-      "text": "לפי ויקיפדיה, תוצאות לוריה ודלבריק הועמדו בספק מאוחר יותר על ידי קיירנס ואחרים שחקרו מוטציות בחילוף חומרים של סוכר.",
-      "source": "src7",
-      "quote": "More recently, the results of Luria and Delbrück were questioned by Cairns and others, who studied mutations in sugar metabolism as a form of environmental stress.",
-      "status": "confirmed",
-      "locator": "שורה 22"
-    },
-    {
-      "id": "c72",
-      "text": "מאמר ב-Phys Biol (2017) טוען שהניסוי הקלאסי של לוריה ודלבריק אינו שולל אבולוציה למרקיאנית.",
-      "source": "src4",
-      "quote": "Luria-Delbrück, revisited: the classic experiment does not rule out Lamarckian evolution.",
-      "status": "confirmed",
-      "locator": "שורה 50"
-    },
-    {
-      "id": "c73",
-      "text": "מנגנוני עמידות המבוססים על שינויים יציבים בתעתוק, בחילוף חומרים או ברכישת חומר גנטי מבחוץ לא נבדקו במחקר מ-1943.",
-      "source": "src4",
-      "quote": "Mechanisms of resistance that depend on relatively stable changes in transcription, metabolism, or acquisition of new genetic material from sources outside the cell all represent pathways not addressed in the study from 1943.",
-      "status": "confirmed",
-      "locator": "שורה 32"
-    },
-    {
-      "id": "c54",
-      "text": "לפי בריטניקה, לוריה הפך ב-1974 למנהל מרכז המחקר לסרטן ב-MIT.",
-      "source": "src1",
-      "quote": "In 1974 he became director of the Center for Cancer Research at MIT.",
-      "status": "confirmed",
-      "locator": "שורה 21"
-    }
-  ],
-  "sources": [
-    {
-      "id": "src1",
-      "label": "Encyclopaedia Britannica, Salvador Luria",
-      "url": "https://www.britannica.com/biography/Salvador-Luria",
-      "kind": "reference"
-    },
-    {
-      "id": "src2",
-      "label": "American Association of Immunologists, Salvador E. Luria",
-      "url": "https://www.aai.org/About/History/Notable-Members/Nobel-Laureates/SalvadorELuria",
-      "kind": "organisation"
-    },
-    {
-      "id": "src3",
-      "label": "MIT Technology Review, The Free Thinker, 23.8.2011",
-      "url": "https://www.technologyreview.com/2011/08/23/192177/the-free-thinker/",
-      "kind": "press"
-    },
-    {
-      "id": "src4",
-      "label": "Historical Highlight: The Luria-Delbrück Fluctuation Test, Genetics (PMC)",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11495157/",
-      "kind": "reference"
-    },
-    {
-      "id": "src5",
-      "label": "Encyclopedia.com, Luria, Salvador Edward (Salvatore)",
-      "url": "https://www.encyclopedia.com/people/medicine/medicine-biographies/salvador-edward-luria",
-      "kind": "reference"
-    },
-    {
-      "id": "src6",
-      "label": "National Library of Medicine, Profiles in Science, Salvador Luria – Biographical Overview",
-      "url": "https://profiles.nlm.nih.gov/spotlight/ql/feature/biographical-overview",
-      "kind": "official"
-    },
-    {
-      "id": "src7",
-      "label": "Wikipedia, Luria–Delbrück experiment",
-      "url": "https://en.wikipedia.org/wiki/Luria%E2%80%93Delbr%C3%BCck_experiment",
-      "kind": "reference"
-    },
-    {
-      "id": "src8",
-      "label": "Live Science, Science history: experiment shows mutations arise spontaneously",
-      "url": "https://www.livescience.com/planet-earth/evolution/science-history-experiment-shows-mutations-arise-spontaneously-supporting-pillar-of-darwinian-evolution-nov-20-1943",
-      "kind": "press"
-    },
-    {
-      "id": "src9",
-      "label": "NobelPrize.org, Salvador E. Luria – facts",
-      "url": "https://www.nobelprize.org/prizes/medicine/1969/luria/facts/",
-      "kind": "official"
-    },
-    {
-      "id": "src10",
-      "label": "NobelPrize.org, Press release 1969",
-      "url": "https://www.nobelprize.org/prizes/medicine/1969/press-release/",
-      "kind": "official"
-    },
-    {
-      "id": "src11",
-      "label": "NobelPrize.org, Luria – autobiographical/biographical",
-      "url": "https://www.nobelprize.org/prizes/medicine/1969/luria/biographical/",
-      "kind": "official"
-    }
-  ],
-  "media": [
-    {
-      "id": "m1",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Salvador%20E.%20Luria%20ca.1969.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Salvador_E._Luria_ca.1969.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Provided by U.S. National Library of Medicine - please see here for more information.",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "צילום בלתי רשמי בשחור-לבן של לוריה ליד שולחנו ב-MIT, כנראה בזמן קבלת פרס נובל ב-1969.",
-      "illustrates": [
-        "c1"
-      ],
-      "date": "circa 1969",
-      "width": 3894,
-      "height": 2723
-    },
-    {
-      "id": "m3",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rolla%20Dyer%20and%20Salvador%20Luria%20ca.%201963.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Rolla_Dyer_and_Salvador_Luria_ca._1963.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Silverman, Sam",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "שני גברים עומדים בחדר, אחד מהם לוריה והשני רולה דייר, לשעבר מנהל המכונים הלאומיים לבריאות, בצילום משנות ה-60 לערך.",
-      "illustrates": [],
-      "date": "1963",
-      "width": 6030,
-      "height": 4839
-    },
-    {
-      "id": "m4",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/31.%20Tagung%201981%20%2829.6.-3.7.%29%20Mediziner%3B%20Er%C3%B6ffnung-%20Salvador%20E.%20Luria%20-%20LABW%20-%20Staatsarchiv%20Freiburg%20W%20134%20Nr.%20118123b.jpeg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:31._Tagung_1981_%2829.6.-3.7.%29_Mediziner%3B_Er%C3%B6ffnung-_Salvador_E._Luria_-_LABW_-_Staatsarchiv_Freiburg_W_134_Nr._118123b.jpeg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Willy Pragher",
-      "licence": "CC BY 4.0",
-      "hosting": "hotlink",
-      "caption": "לוריה נואם ליד דוכן עם מיקרופונים בכנס חתני פרס נובל ברפואה ב-1981.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by/4.0",
-      "date": "1981date Q",
-      "width": 1100,
-      "height": 718
-    },
-    {
-      "id": "m5",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/31.%20Tagung%201981%20%2829.6.-3.7.%29%20Mediziner%3B%20Er%C3%B6ffnung-%20Salvador%20E.%20Luria%20-%20LABW%20-%20Staatsarchiv%20Freiburg%20W%20134%20Nr.%20118123a.jpeg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:31._Tagung_1981_%2829.6.-3.7.%29_Mediziner%3B_Er%C3%B6ffnung-_Salvador_E._Luria_-_LABW_-_Staatsarchiv_Freiburg_W_134_Nr._118123a.jpeg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Willy Pragher",
-      "licence": "CC BY 4.0",
-      "hosting": "hotlink",
-      "caption": "לוריה מדבר ומניף יד ליד דוכן עם מיקרופונים בפתיחת הכנס ב-1981.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by/4.0",
-      "date": "1981date Q",
-      "width": 1102,
-      "height": 723
-    },
-    {
-      "id": "m6",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/31.%20Tagung%201981%20%2829.6.-3.7.%29%20Mediziner%3B%20Maik%C3%A4ferrede%20in%20Farbe-%20Salvador%20E.%20Luria%2C%20Nikolaas%20Tinbergen%20-%20LABW%20-%20Staatsarchiv%20Freiburg%20W%20134%20Nr.%20118152v.jpeg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:31._Tagung_1981_%2829.6.-3.7.%29_Mediziner%3B_Maik%C3%A4ferrede_in_Farbe-_Salvador_E._Luria%2C_Nikolaas_Tinbergen_-_LABW_-_Staatsarchiv_Freiburg_W_134_Nr._118152v.jpeg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Willy Pragher",
-      "licence": "CC BY 4.0",
-      "hosting": "hotlink",
-      "caption": "לוריה במשקפי שמש על סיפון ספינה, ליד ניקולאס טינברגן, בכנס ב-1981.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by/4.0",
-      "date": "1981date Q",
-      "width": 1108,
-      "height": 728
-    },
-    {
-      "id": "m7",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/31.%20Tagung%201981%20%2829.6.-3.7.%29%20Mediziner%3B%20Er%C3%B6ffnung-%20Salvador%20E.%20Luria%20beim%20Vortrag%20-%20LABW%20-%20Staatsarchiv%20Freiburg%20W%20134%20Nr.%20118119a.jpeg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:31._Tagung_1981_%2829.6.-3.7.%29_Mediziner%3B_Er%C3%B6ffnung-_Salvador_E._Luria_beim_Vortrag_-_LABW_-_Staatsarchiv_Freiburg_W_134_Nr._118119a.jpeg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Willy Pragher",
-      "licence": "CC BY 4.0",
-      "hosting": "hotlink",
-      "caption": "צללית של לוריה ליד הדוכן מול שקף על תעלות קולצין בהרצאה בכנס ב-1981.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by/4.0",
-      "date": "1981date Q",
-      "width": 1100,
-      "height": 725
-    },
-    {
-      "id": "m8",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/31.%20Tagung%201981%20%2829.6.-3.7.%29%20Mediziner%3B%20Er%C3%B6ffnung-%20Salvador%20E.%20Luria%20beim%20Vortrag%20-%20LABW%20-%20Staatsarchiv%20Freiburg%20W%20134%20Nr.%20118119b.jpeg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:31._Tagung_1981_%2829.6.-3.7.%29_Mediziner%3B_Er%C3%B6ffnung-_Salvador_E._Luria_beim_Vortrag_-_LABW_-_Staatsarchiv_Freiburg_W_134_Nr._118119b.jpeg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Willy Pragher",
-      "licence": "CC BY 4.0",
-      "hosting": "hotlink",
-      "caption": "לוריה מרצה בחיוך ליד דוכן מול שקף על תעלות קולצין בכנס ב-1981.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by/4.0",
-      "date": "1981date Q",
-      "width": 1089,
-      "height": 725
-    },
-    {
-      "id": "m9",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/31.%20Tagung%201981%20%2829.6.-3.7.%29%20Mediziner%3B%20Pressekonferenz-%20Salvador%20E.%20Luria%20am%20Tisch%20-%20LABW%20-%20Staatsarchiv%20Freiburg%20W%20134%20Nr.%20118125c.jpeg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:31._Tagung_1981_%2829.6.-3.7.%29_Mediziner%3B_Pressekonferenz-_Salvador_E._Luria_am_Tisch_-_LABW_-_Staatsarchiv_Freiburg_W_134_Nr._118125c.jpeg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Willy Pragher",
-      "licence": "CC BY 4.0",
-      "hosting": "hotlink",
-      "caption": "לוריה יושב ליד שולחן ארוך באולם מלא משתתפים בכנס ב-1981.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by/4.0",
-      "date": "1981date Q",
-      "width": 1095,
-      "height": 725
-    },
-    {
-      "id": "m10",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Max%20Delbruck.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Max_Delbruck.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Jonathan Delbruck",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "צילום ישן של מקס דלבריק, שותפו של לוריה לניסוי, כצעיר יושב בחליפה על ספסל בחוץ.",
-      "illustrates": [
-        "c22"
-      ],
-      "date": "Originally",
-      "width": 1344,
-      "height": 2162
-    },
-    {
-      "id": "m11",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Maxdelbr%C3%BCck-cr.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Maxdelbr%C3%BCck-cr.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "The original uploader was MalteAhrens at German Wikipedia.",
-      "licence": "CC BY-SA 3.0",
-      "hosting": "hotlink",
-      "caption": "דיוקן בשחור-לבן של מקס דלבריק, שותפו של לוריה לניסוי, בקרדיגן סרוג וכוס בידו.",
-      "illustrates": [
-        "c22"
-      ],
-      "licence_url": "http://creativecommons.org/licenses/by-sa/3.0/",
-      "date": "26 October",
-      "width": 1248,
-      "height": 1300
-    },
-    {
-      "id": "m12",
-      "kind": "video",
-      "url": "https://www.youtube.com/watch?v=OhS890VpiPc",
-      "youtube_id": "OhS890VpiPc",
-      "source_page": "https://www.youtube.com/watch?v=OhS890VpiPc",
-      "source_name": "YouTube",
-      "credit": "YouTube",
-      "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
-      "licence_url": "https://www.youtube.com/static?template=terms",
-      "hosting": "embed",
-      "caption": "ראיון עם סלבטורה אדואדו לוריה משנת 1986, זוכה פרס נובל ברפואה ב-1969.",
-      "illustrates": [
-        "c1"
-      ],
-      "spoken": "it",
-      "audio_tracks": [
-        "it"
-      ]
-    },
-    {
-      "id": "m13",
-      "kind": "video",
-      "url": "https://www.youtube.com/watch?v=ExUb_i9pJGA",
-      "youtube_id": "ExUb_i9pJGA",
-      "source_page": "https://www.youtube.com/watch?v=ExUb_i9pJGA",
-      "source_name": "YouTube",
-      "credit": "Web of Stories - Life Stories of Remarkable People",
-      "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
-      "licence_url": "https://www.youtube.com/static?template=terms",
-      "hosting": "embed",
-      "caption": "ג'יימס ווטסון מספר על לוריה ועל תגובת אוניברסיטת אינדיאנה לישירותו.",
-      "illustrates": [
-        "c21",
-        "c46"
-      ]
-    },
-    {
-      "id": "m14",
-      "kind": "video",
-      "url": "https://www.youtube.com/watch?v=dNptPNpiGto",
-      "youtube_id": "dNptPNpiGto",
-      "source_page": "https://www.youtube.com/watch?v=dNptPNpiGto",
-      "source_name": "YouTube",
-      "credit": "Web of Stories - Life Stories of Remarkable People",
-      "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
-      "licence_url": "https://www.youtube.com/static?template=terms",
-      "hosting": "embed",
-      "caption": "פרנסואה ז'קוב מדבר על סלבדור לוריה בראיון מסדרת Web of Stories.",
-      "illustrates": []
-    },
-    {
-      "id": "m15",
-      "kind": "video",
-      "url": "https://www.youtube.com/watch?v=fCN0WE8-VPg",
-      "youtube_id": "fCN0WE8-VPg",
-      "source_page": "https://www.youtube.com/watch?v=fCN0WE8-VPg",
-      "source_name": "YouTube",
-      "credit": "Perspectives on Sci Tech Med",
-      "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
-      "licence_url": "https://www.youtube.com/static?template=terms",
-      "hosting": "embed",
-      "caption": "שיחה עם רנה סליה, מחברת הביוגרפיה של לוריה, על חייו כביולוג מהגר באמריקה של המלחמה הקרה.",
-      "illustrates": [
-        "c1"
-      ],
-      "spoken": "en",
-      "audio_tracks": [
-        "en"
-      ]
-    },
-    {
-      "id": "m16",
-      "kind": "video",
-      "url": "https://www.youtube.com/watch?v=slfLeKqE3Bg",
-      "youtube_id": "slfLeKqE3Bg",
-      "source_page": "https://www.youtube.com/watch?v=slfLeKqE3Bg",
-      "source_name": "YouTube",
-      "credit": "The Explorer's Guide to Biology",
-      "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
-      "licence_url": "https://www.youtube.com/static?template=terms",
-      "hosting": "embed",
-      "caption": "הסבר על ניסוי לוריה-דלבריק שהראה שמוטציות חדשות בחיידקים מתרחשות באופן ספונטני.",
-      "illustrates": [
-        "c28",
-        "c29"
-      ],
-      "spoken": "en",
-      "audio_tracks": [
-        "en",
-        "de",
-        "es",
-        "fr",
-        "hi",
-        "id",
-        "it",
-        "ja",
-        "ml",
-        "nl",
-        "pl",
-        "pt",
-        "uk"
-      ]
-    },
-    {
-      "id": "m17",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Copenhagen%20spring%20conference%201932.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Copenhagen_spring_conference_1932.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Unknown authorUnknown author",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "צילום קבוצתי של פיזיקאים בכינוס בקופנהגן, אביב 1932; בין המשתתפים מקס דלבריק.",
-      "illustrates": [],
-      "date": "1932-03",
-      "width": 1024,
-      "height": 479,
-      "role": "related"
-    },
-    {
-      "id": "m18",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bohr%2CNiels%20Commemoration%20Meeting%201963%20Copenhagen.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Bohr%2CNiels_Commemoration_Meeting_1963_Copenhagen.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "GFHund",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "צילום קבוצתי של פיזיקאים באזכרה לניילס בוהר בקופנהגן, יולי 1963, עם שמות המצולמים בכתב יד; בין הנוכחים מקס דלבריק.",
-      "illustrates": [],
-      "date": "1963-07",
-      "width": 6850,
-      "height": 4620,
-      "role": "related"
-    },
-    {
-      "id": "m19",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Freie%20Universitaet%20Berlin%20-%20Gedenktafel%20fuer%20Lise%20Meitner%20und%20Max%20Delbrueck.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Freie_Universitaet_Berlin_-_Gedenktafel_fuer_Lise_Meitner_und_Max_Delbrueck.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Axel Mauruszat",
-      "licence": "CC BY 2.0 de",
-      "hosting": "hotlink",
-      "caption": "לוח זיכרון בברלין-דהלם שמזכיר את מקס דלבריק ואת ליזה מייטנר, שבבניין עבדו בשנים 1932–1937 ו-1913–1938",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by/2.0/de/deed.en",
-      "date": "2008-07-27",
-      "width": 1280,
-      "height": 1014,
-      "role": "related"
-    },
-    {
-      "id": "m22",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hans%20Scheib%20-%20B%C3%BCste%20Max%20Delbr%C3%BCck.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Hans_Scheib_-_B%C3%BCste_Max_Delbr%C3%BCck.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Axel Mauruszat",
-      "licence": "CC BY 3.0 de",
-      "hosting": "hotlink",
-      "caption": "פסל ראש מברונזה של מקס דלבריק מעשה ידי האנס שייב, 2003, מול מרכז התקשורת על שמו בברלין-בוך",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by/3.0/de/deed.en",
-      "date": "2010-07-06",
-      "width": 1926,
-      "height": 2918,
-      "role": "related"
-    },
-    {
-      "id": "m23",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/25.%20Jubil%C3%A4umstagung%201975%20Medizin%3B%20Maik%C3%A4ferrede-%20Gr%C3%A4fin%20Sonja%20Bernadotte%20%C3%BCbergibt%20Maik%C3%A4fer%20an%20Alfred%20D.%20Hershey%2C%20dahinter%20Sir%20John%20C.%20Eccles%2C%20Gerald%20Ed%20-%20LABW%20-%20Staatsarchiv%20Freiburg%20W%20134%20Nr.%20103708r.jpeg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:25._Jubil%C3%A4umstagung_1975_Medizin%3B_Maik%C3%A4ferrede-_Gr%C3%A4fin_Sonja_Bernadotte_%C3%BCbergibt_Maik%C3%A4fer_an_Alfred_D._Hershey%2C_dahinter_Sir_John_C._Eccles%2C_Gerald_Ed_-_LABW_-_Staatsarchiv_Freiburg_W_134_Nr._103708r.jpeg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Willy Pragher",
-      "licence": "CC BY 4.0",
-      "hosting": "hotlink",
-      "caption": "הרוזנת סונייה ברנדוט מגישה חיפושית מאי לאלפרד הרשי, ועוד חתני פרס נובל מאחוריו, בכנס בלינדאו, 1975",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by/4.0",
-      "date": "1975date Q",
-      "width": 1108,
-      "height": 733,
-      "role": "related"
-    }
-  ],
-  "check": {
-    "passed": true,
-    "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
-    "checked_at": "2026-11-21T21:58:58Z",
-    "counts": {
-      "confirmed": 77,
-      "not_confirmed": 0,
-      "deleted_sentences": 17,
-      "first_round_confirmed": 81,
-      "first_round_contradicted": 3,
-      "first_round_unverifiable": 15
-    },
-    "note": "unverifiable sentences were deleted, contradicted ones fixed from the source and checked again"
+    "m6",
+    "m23"
+   ],
+   "disagreements": []
   },
-  "meta": {
-    "run": "salvador-luria-bacterial-mutations",
-    "pipeline": "scripts/museum/museum_line.py",
-    "models": {
-      "research": "sonnet-5-5",
-      "extract": "sonnet-5-5",
-      "media": "sonnet-5-5",
-      "write": "opus-5-5 medium",
-      "check": "opus-5-5 medium",
-      "fix": "opus-5-5 medium"
-    },
-    "source_quality": {
-      "sources": 11,
-      "wikipedia": 1,
-      "strong": 6,
-      "ok": true,
-      "warnings": []
-    },
-    "media_dedupe": [
-      {
-        "drop": "m2",
-        "keep": "m1",
-        "by": "reviewed 24.11"
-      }
+  {
+   "id": "s7",
+   "title": "תלמידים, MIT ומשפחה",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "הסטודנט הראשון של לוריה היה ג'יימס ווטסון.",
+      "claims": [
+       "c46"
+      ]
+     },
+     {
+      "text": "לפי MIT Technology Review, לוריה הדריך זוכי נובל כמו ג'יימס ווטסון, דייוויד בולטימור, סוסומו טונגאווה ופיליפ שארפ.",
+      "claims": [
+       "c47"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "ב-MIT מונה לוריה לפרופסור סדג'וויק לביולוגיה.",
+      "claims": [
+       "c50",
+       "c51"
+      ]
+     },
+     {
+      "text": "לפי MIT Technology Review, ב-1972 הוביל מאמץ לגייס מענק של 4.4 מיליון דולר מהמכון הלאומי לסרטן, להקמת מרכז המחקר לסרטן ב-MIT.",
+      "claims": [
+       "c52"
+      ]
+     },
+     {
+      "text": "הוא ניהל את המרכז עד 1985.",
+      "claims": [
+       "c53",
+       "c55"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "לוריה נישא ב-1945 לזלה הורוויץ, ובנם דניאל נולד לפי אנציקלופדיה דיסקברי ב-1948, ולפי ספריית הרפואה הלאומית ב-1949.",
+      "claims": [
+       "c48",
+       "c49"
+      ]
+     },
+     {
+      "text": "לוריה מת בלקסינגטון, מסצ'וסטס, ב-6 בפברואר 1991.",
+      "claims": [
+       "c66"
+      ]
+     }
     ]
+   ],
+   "media": [
+    "m13"
+   ],
+   "disagreements": [
+    "d3"
+   ]
+  },
+  {
+   "id": "s8",
+   "title": "דרכון, רשימה שחורה וספקות בניסוי",
+   "kind": "hard",
+   "paragraphs": [
+    [
+     {
+      "text": "לפי אנציקלופדיה דיסקברי, חקירה בת שנתיים של ה-FBI לא מצאה נגד לוריה ראיות לפעילות קומוניסטית או חתרנית, ובכל זאת סורב לו דרכון; לפי אנציקלופדיה דיסקברי הדבר קרה ב-1952 (ובמקום אחר באותה אנציקלופדיה ב-1951), ולפי איגוד האימונולוגים האמריקאי ב-1953.",
+      "claims": [
+       "c56",
+       "c57",
+       "c58"
+      ]
+     },
+     {
+      "text": "לפי איגוד האימונולוגים האמריקאי, הדרכון נשלל כשביקש לנסוע להרצאה בכנס מדעי באוקספורד.",
+      "claims": [
+       "c58"
+      ]
+     },
+     {
+      "text": "ימים ספורים אחרי זכייתו בנובל התברר ששמו נמצא ברשימה שחורה של המכונים הלאומיים לבריאות, שאסרה עליו לייעץ במענקים.",
+      "claims": [
+       "c61"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "לפי ספריית הרפואה הלאומית, הוא היה מבקר חריף של הפלישה הישראלית ללבנון ושל ההתערבות האמריקאית בווייטנאם.",
+      "claims": [
+       "c62"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "לפי מאמר Genetics, לזן ה-E. coli שבחרו לוריה ודלבריק חסר מנגנון CRISPR-Cas פעיל, כנראה במקרה.",
+      "claims": [
+       "c68"
+      ]
+     },
+     {
+      "text": "לפי Live Science, מחקר עדכני מצביע שאילו נבחרה מערכת חיידק-פאג אחרת, למשל כזו שמשתמשת ב-CRISPR, התוצאות הסטטיסטיות לא היו ברורות כל כך.",
+      "claims": [
+       "c69"
+      ]
+     },
+     {
+      "text": "ביומתמטיקאים שכללו מאז את ההבנה של התפלגויות שמתארות את תהליך המוטציה טוב יותר מזו שבה השתמשו לוריה ודלבריק.",
+      "claims": [
+       "c70"
+      ]
+     },
+     {
+      "text": "מאמר ב-Phys Biol מ-2017 טוען שהניסוי אינו שולל אבולוציה למרקיאנית.",
+      "claims": [
+       "c72"
+      ]
+     },
+     {
+      "text": "מנגנוני עמידות שמבוססים על שינויים יציבים בתעתוק, בחילוף חומרים או ברכישת חומר גנטי מבחוץ לא נבדקו במחקר מ-1943.",
+      "claims": [
+       "c73"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m3"
+   ],
+   "disagreements": []
   }
+ ],
+ "disagreements": [
+  {
+   "id": "d1",
+   "question": "היכן נפגשו לוריה ודלבריק לראשונה בדצמבר 1940?",
+   "versions": [
+    {
+     "says": "לפי Live Science, במעבדת קולד ספרינג הארבור בניו יורק",
+     "claims": [
+      "c11"
+     ]
+    },
+    {
+     "says": "לפי ספריית הרפואה הלאומית, בפגישה השנתית של האגודה הפיזיקלית האמריקאית",
+     "claims": [
+      "c13"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d3",
+   "question": "מתי הפך לוריה למנהל מרכז הסרטן ב-MIT?",
+   "versions": [
+    {
+     "says": "לפי MIT Technology Review, עם פתיחת המרכז ב-1973, ועד 1985",
+     "claims": [
+      "c53"
+     ]
+    },
+    {
+     "says": "לפי בריטניקה, ב-1974",
+     "claims": [
+      "c54"
+     ]
+    }
+   ]
+  }
+ ],
+ "unknowns": [],
+ "claims": [
+  {
+   "id": "c1",
+   "text": "סלבדור לוריה היה ביולוג איטלקי-אמריקאי שזכה ב-1969, יחד עם מקס דלבריק ואלפרד הרשי, בפרס נובל לפיזיולוגיה או רפואה על מחקר בבקטריופאגים.",
+   "source": "src1",
+   "quote": "was an Italian-born American biologist who, along with Max Delbrück and Alfred Day Hershey, won the Nobel Prize for Physiology or Medicine in 1969",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c3",
+   "text": "לוריה נולד למשפחה יהודית בטורינו, איטליה, ב-13 באוגוסט 1912.",
+   "source": "src2",
+   "quote": "Salvador Edward Luria was born to a Jewish family in Turin, Italy, on August 13, 1912",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c4",
+   "text": "לפי MIT Technology Review, חוקי הגזע מנעו מלוריה מלגת מחקר באיטליה ולכן עזב לפריז ב-1938.",
+   "source": "src3",
+   "quote": "Race laws barred him from a research fellowship in Italy, so he left for Paris in 1938.",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c22",
+   "text": "ב-1943 פרסמו לוריה, אז באוניברסיטת אינדיאנה, ודלבריק, אז בוונדרבילט, ניתוח של מוטציות ב-E. coli המקנות עמידות בפני וירוסים חיידקיים.",
+   "source": "src4",
+   "quote": "In 1943, Salvador Luria, then at Indiana University, and Max Delbrück, then at Vanderbilt, published an analysis of mutations in Escherichia coli conferring resistance to infection by bacterial viruses",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c28",
+   "text": "לוריה ודלבריק הסיקו שהעמידות לפאג T1 בזן E. coli B נבעה ממוטציות ספונטניות שאינן תלויות בחשיפה לווירוס.",
+   "source": "src4",
+   "quote": "Luria and Delbrück concluded that resistance to the bacteriophage used in these experiments (T1 phage), for this particular bacterial strain (E. coli B), resulted from spontaneous mutations independent of exposure to the virus.",
+   "status": "confirmed",
+   "locator": "שורה 19"
+  },
+  {
+   "id": "c2",
+   "text": "לוריה נולד בטורינו שבצפון איטליה, בן שני במשפחה יהודית ממעמד נמוך-בינוני.",
+   "source": "src5",
+   "quote": "Salvatore Luria was born in the Northern Italian city of Turin, the second son of a lower-middle-class Jewish family.",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c5",
+   "text": "מוסוליני העביר ביולי 1938 חוקי גזע שהגבילו את השתתפות היהודים בחיים הציבוריים.",
+   "source": "src5",
+   "quote": "When Benito Mussolini passed a set of race laws that restricted the participation of Jews in public life in July 1938",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c6",
+   "text": "כשהצבא הגרמני פלש ביוני 1940, לוריה נסע באופניים למרסיי כדי להשיג ויזה אמריקאית.",
+   "source": "src6",
+   "quote": "When the German army invaded in June 1940, Luria traveled by bicycle to Marseilles to acquire an American immigration visa",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c8",
+   "text": "לוריה נכנס לנמל ניו יורק ב-12 בספטמבר 1940 עם 52 דולר והבגדים שעל גופו.",
+   "source": "src5",
+   "quote": "he entered New York Harbor on 12 September 1940 with $52 and the clothes on his back.",
+   "status": "confirmed",
+   "locator": "שורה 111"
+  },
+  {
+   "id": "c7",
+   "text": "לפי האוטוביוגרפיה שלו, היו ללוריה 52 דולר במזומן ובגד אחד, והוא היה במצב טוב יותר מרבים מ-800 הפליטים האחרים באונייה.",
+   "source": "src3",
+   "quote": "he had $52 in cash and one suit, making him better off than many of the other 800 refugees on the ship.",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c9",
+   "text": "בניו יורק, בעזרת פרמי, קיבל לוריה מלגה מקרן רוקפלר ועבד בקולג' לרופאים ומנתחים של אוניברסיטת קולומביה.",
+   "source": "src6",
+   "quote": "In New York, assisted by Fermi, Luria got a Rockefeller Foundation fellowship, and worked at the College of Physicians and Surgeons at Columbia University.",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c10",
+   "text": "בבקשתו לאזרחות שינה לוריה את שמו הפרטי מ-Salvatore ל-Salvador והוסיף שם אמצעי Edward.",
+   "source": "src5",
+   "quote": "On his application for citizenship, Luria changed his first name from the Italian “Salvatore” to the Spanish spelling “Salvador” and added the English middle name “Edward.”",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c15",
+   "text": "בזמן הניסוי חלק מהמדענים סברו שאינטראקציות בין בקטריופאגים לחיידקים המארחים יכולות לעורר בחיידקים עמידות לפאגים.",
+   "source": "src8",
+   "quote": "but some scientists believed that interactions between bacteriophages — viruses that attack bacteria — and their bacterial hosts could somehow induce bacterial resistance to the phages.",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c17",
+   "text": "לוריה ציין בסקירה מ-1947 שהבקטריולוגיה הייתה אחד מהמעוזים האחרונים של הלמרקיזם.",
+   "source": "src5",
+   "quote": "In a 1947 review, Luria noted that bacteriology had been “one of the last strongholds of Lamarckism,”",
+   "status": "confirmed",
+   "locator": "שורה 19"
+  },
+  {
+   "id": "c14",
+   "text": "שתי ההשערות שנבדקו: הווירוסים גורמים ישירות להתפתחות העמידות בחיידקים, או שהעמידות תלויה בשינוי גנטי קיים מראש והווירוסים רק בוחרים את החיידקים העמידים.",
+   "source": "src4",
+   "quote": "the viruses act directly on the bacteria they encounter to elicit or activate the resistance mechanism, or 2) the resistance depends on pre-existing genetic change",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c11",
+   "text": "לפי Live Science, בדצמבר 1940 פגש דלבריק במעבדת קולד ספרינג הארבור בניו יורק את לוריה, רופא יהודי-איטלקי.",
+   "source": "src8",
+   "quote": "In December 1940, at Cold Spring Harbor Laboratory in New York, Delbrück met Luria, an Italian-Jewish doctor.",
+   "status": "confirmed",
+   "locator": "שורה 23"
+  },
+  {
+   "id": "c12",
+   "text": "לפי אנציקלופדיה דיסקברי הביוגרפית, לוריה פגש את דלבריק בכנס בפילדלפיה בדצמבר 1940.",
+   "source": "src5",
+   "quote": "In December 1940 he met Delbrüiick at a conference in Philadelphia, Pennsylvania, and began a collaboration that was to last many years.",
+   "status": "confirmed",
+   "locator": "שורה 112"
+  },
+  {
+   "id": "c13",
+   "text": "לפי ספריית הרפואה הלאומית, לוריה פגש את דלבריק בפגישה השנתית של האגודה הפיזיקלית האמריקאית בדצמבר 1940.",
+   "source": "src6",
+   "quote": "Luria finally met Max Delbrück at the annual meeting of the American Physical Society in December 1940.",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c41",
+   "text": "בסוף 1941 עבד לוריה עם תומס אנדרסון וצילם בין הראשונים תמונות מיקרוסקופ אלקטרונים של בקטריופאגים ומדד במדויק את גודלם.",
+   "source": "src6",
+   "quote": "At the end of 1941, Luria worked with biophysicist Thomas Anderson to take some of the first electron microscope pictures of bacteriophage and accurately measure their size.",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c19",
+   "text": "לוריה הבין שמוטציות בחיידקים אפשר לראות כמקבילות לזכיות בג'קפוט.",
+   "source": "src5",
+   "quote": "Luria realized that mutations in bacteria could be considered analogous to jackpots.",
+   "status": "confirmed",
+   "locator": "שורה 17"
+  },
+  {
+   "id": "c20",
+   "text": "לפי Live Science, לוריה הבין שאפשר להשתמש בסטטיסטיקה כדי להבחין בין מוטציות אקראיות למוטציות שהפאגים גורמים להן.",
+   "source": "src8",
+   "quote": "He realized statistics could be used to distinguish between random mutations and ones induced by the phages",
+   "status": "confirmed",
+   "locator": "שורה 25"
+  },
+  {
+   "id": "c27",
+   "text": "לפי מאמר Genetics, מוטציה בדור מוקדם בתרבית של 10 הכפלות הייתה מניבה עד 1,024 תאים עמידים בסוף הגידול, אפקט שנקרא \"ג'קפוט\".",
+   "source": "src4",
+   "quote": "if the culture were to involve 10 cell doublings, a mutation in the first such doubling would yield up to 1,024 resistant cells at the end of the culture",
+   "status": "confirmed",
+   "locator": "שורה 15"
+  },
+  {
+   "id": "c21",
+   "text": "בינואר 1943 עבר לוריה לבלומינגטון, אינדיאנה, כדי להתחיל ללמד באוניברסיטת אינדיאנה.",
+   "source": "src5",
+   "quote": "In January 1943, Luria moved to Bloomington, Indiana, to begin teaching in the Botany and Bacteriology Department at Indiana University.",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c24",
+   "text": "לפי Live Science, הם מילאו צינורות ב-E. coli, חשפו את החיידקים לפאגים וגידלו אותם בהדרגה על לוחות.",
+   "source": "src8",
+   "quote": "They filled a bunch of tubes with E. coli and then exposed the bacteria to phages and serially cultured them on plates.",
+   "status": "confirmed",
+   "locator": "שורה 29"
+  },
+  {
+   "id": "c25",
+   "text": "בשמונה תרביות מקבילות קטנות נעה השונות במספר החיידקים העמידים מ-40.8 עד 3,498.",
+   "source": "src4",
+   "quote": "this value ranged from a low of 40.8 to a high of 3,498 (their Table 2)",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c26",
+   "text": "בשלושה ניסויים של 10 דגימות מתרבית גדולה אחת הייתה השונות נמוכה בהרבה: 15, 27 ו-3.8.",
+   "source": "src4",
+   "quote": "They found the variances in the number of resistant bacteria were much lower for each of the three experiments: 15, 27, and 3.8.",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c30",
+   "text": "לפי אתר נובל, ב-1943 הוכיחו לוריה ודלבריק בחקירות סטטיסטיות שחיידקים, כמו אורגניזמים מורכבים יותר, מתפתחים באמצעות מוטציות.",
+   "source": "src9",
+   "quote": "in 1943 Luria and Delbrück proved through statistical investigations that bacteria, like more complex organisms, develop via mutations.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c31",
+   "text": "לפי ספריית הרפואה הלאומית, העבודה סיפקה ראיה סטטיסטית לקיום גנים בחיידקים וביססה מיקרובים כנושאי מחקר מתאימים לגנטיקה.",
+   "source": "src6",
+   "quote": "This work provided statistical evidence for the existence of genes in bacteria, and thus established microbes as suitable subjects for genetics research.",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c32",
+   "text": "לפי מאמר Genetics, המחקר סייע לפתח את מושג המוטציה האקראית.",
+   "source": "src4",
+   "quote": "This study facilitated the development of the concept of random mutation, meaning that the mutation occurs through chemical mechanisms not directly influenced by the functional consequences of the mutation.",
+   "status": "confirmed",
+   "locator": "שורה 22"
+  },
+  {
+   "id": "c33",
+   "text": "ההיסטוריון תומס ברוק מזהה את מאמר 1943 כמסמך המכונן של הגנטיקה החיידקית המודרנית.",
+   "source": "src5",
+   "quote": "historian Thomas Brock identifies it as the founding document of modern bacterial genetics.",
+   "status": "confirmed",
+   "locator": "שורה 19"
+  },
+  {
+   "id": "c34",
+   "text": "לפי MIT Technology Review, עבודתם של לוריה, דלבריק והרשי הראתה שחיידקים מפתחים עמידות לבקטריופאגים דרך מוטציות אקראיות, וזה הוביל לפיצוץ במחקר הגנטיקה החיידקית.",
+   "source": "src3",
+   "quote": "showed that bacteria develop resistance to bacteriophages through random mutations—the same phenomenon that helps drive evolution in more complex organisms.",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c35",
+   "text": "לפי אנדרו מארי, המאמר הראה שניתוח סטטיסטי אלגנטי יכול להאיר תהליכים ביולוגיים שאי אפשר לצפות בהם ישירות.",
+   "source": "src4",
+   "quote": "it showed that elegant statistical analysis could illuminate biological processes that could not be directly observed",
+   "status": "confirmed",
+   "locator": "שורה 28"
+  },
+  {
+   "id": "c40",
+   "text": "דלבריק ולוריה הכניסו לחקר הבקטריופאגים מושגים גנטיים ושיטות כמותיות קפדניות.",
+   "source": "src10",
+   "quote": "Delbrück and Luria introduced into this field genetic concepts and rigorous quantitative methods.",
+   "status": "confirmed",
+   "locator": "שורה 13"
+  },
+  {
+   "id": "c39",
+   "text": "סביב השלושה צמחה באופן בלתי פורמלי \"קבוצת הפאג\" שמרכזה במעבדה הביולוגית בקולד ספרינג הארבור.",
+   "source": "src10",
+   "quote": "A school, the so-called “phage group” informally grew up around Delbrück, Hershey and Luria, with a geographic center at the Biological Laboratory in Cold Spring Harbor",
+   "status": "confirmed",
+   "locator": "שורה 15"
+  },
+  {
+   "id": "c42",
+   "text": "לוריה היה הראשון שגילה את תופעת ההגבלה-שינוי (restriction-modification), שבה חיידקים מגנים על עצמם בשינוי ה-DNA של הפאגים הפולשים.",
+   "source": "src3",
+   "quote": "was also the first to discover the restriction-modification phenomenon, in which bacteria protect themselves by altering the DNA of their phage invaders.",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c44",
+   "text": "בשנות ה-60 חוקרים אחרים גילו שהשינויים נבעו מאנזימי הגבלה חיידקיים שפירקו DNA ויראלי כמנגנון הגנה.",
+   "source": "src5",
+   "quote": "other researchers discovered that the temporary changes were the result of bacterial restriction enzymes that degraded viral DNA as a defense mechanism.",
+   "status": "confirmed",
+   "locator": "שורה 24"
+  },
+  {
+   "id": "c45",
+   "text": "ב-1953 פרסם לוריה את General Virology, ספר הלימוד המקיף הראשון בתחום.",
+   "source": "src5",
+   "quote": "That year, Luria published General Virology, the first comprehensive textbook in the field.",
+   "status": "confirmed",
+   "locator": "שורה 28"
+  },
+  {
+   "id": "c36",
+   "text": "פרס נובל ניתן לשלושה: דלבריק, הרשי ולוריה, על תגליותיהם בנוגע למנגנון ההעתקה והמבנה הגנטי של וירוסים.",
+   "source": "src10",
+   "quote": "Karolinska Institutet has decided to award the Nobel Prize in Physiology or Medicine for 1969 jointly to",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c37",
+   "text": "נימוק הפרס: על תגליותיהם בנוגע למנגנון ההעתקה והמבנה הגנטי של וירוסים.",
+   "source": "src9",
+   "quote": "Prize motivation: “for their discoveries concerning the replication mechanism and the genetic structure of viruses”",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c38",
+   "text": "לפי הוועדה, דלבריק, הרשי ולוריה הניחו את היסודות שעליהם נשענת הביולוגיה המולקולרית המודרנית.",
+   "source": "src10",
+   "quote": "Delbrück, Hershey and Luria have set the solid foundations on which modern molecular biology rests.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c60",
+   "text": "באוקטובר 1969, יום אחרי הכרזת הנובל, הצהיר לוריה שיתרום חלק מכספי הפרס לתנועת השלום.",
+   "source": "src5",
+   "quote": "The next day, his Nobel Prize was announced, and Luria declared that he would donate part of his prize money to the peace movement.",
+   "status": "confirmed",
+   "locator": "שורה 38"
+  },
+  {
+   "id": "c64",
+   "text": "לוריה זכה גם בפרס לואיזה גרוס הורוויץ של אוניברסיטת קולומביה ב-1969 ובפרס לנגי של האקדמיה ללינצ'י ב-1965.",
+   "source": "src6",
+   "quote": "Luria was honored with Columbia University's Louisa Gross Horwitz Prize (1969), the Lenghi Prize of the Accademia dei Lincei (1965) and several honorary doctorates.",
+   "status": "confirmed",
+   "locator": "שורה 17"
+  },
+  {
+   "id": "c63",
+   "text": "ספרו Life: The Unfinished Experiment זכה ב-1974 בפרס הספר הלאומי.",
+   "source": "src5",
+   "quote": "This book was a critical success and won the National Book Award in 1974.",
+   "status": "confirmed",
+   "locator": "שורה 39"
+  },
+  {
+   "id": "c65",
+   "text": "ב-1991 קיבל לוריה את מדליית המדע הלאומית.",
+   "source": "src2",
+   "quote": "* [National Medal of Science](https://www.aai.org/About/History/Notable-Members/Distinguished-Scientific-Awards), 1991",
+   "status": "confirmed",
+   "locator": "שורה 30"
+  },
+  {
+   "id": "c46",
+   "text": "הסטודנט הראשון של לוריה היה ג'יימס ווטסון.",
+   "source": "src5",
+   "quote": "Luria also played a role in the establishment of molecular biology, as his first graduate student was James D. Watson.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c47",
+   "text": "לוריה הדריך זוכי נובל כמו ג'יימס ווטסון, דייוויד בולטימור, סוסומו טונגאווה ופיליפ שארפ.",
+   "source": "src3",
+   "quote": "He mentored a lineup of Nobel Prize winners that included James Watson, David Baltimore ‘61, Susumu Tonegawa, and Phillip Sharp, HM ‘96.",
+   "status": "confirmed",
+   "locator": "שורה 1"
+  },
+  {
+   "id": "c50",
+   "text": "ב-1964 מונה לוריה לפרופסור סדג'וויק לביולוגיה ב-MIT.",
+   "source": "src11",
+   "quote": "in 1964 he became Sedgwick Professor of Biology at the M. I. T.",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c51",
+   "text": "לפי אנציקלופדיה דיסקברי, ב-1966 מונה לוריה לפרופסור הראשון ע\"ש וויליאם תומפסון סדג'וויק לביולוגיה.",
+   "source": "src5",
+   "quote": "In 1966, he was named the first William Thompson Sedgwick Professor of Biology",
+   "status": "confirmed",
+   "locator": "שורה 35"
+  },
+  {
+   "id": "c52",
+   "text": "לפי MIT Technology Review, ב-1972 הוביל לוריה מאמץ לגייס מענק של 4.4 מיליון דולר מהמכון הלאומי לסרטן להקמת מרכז המחקר לסרטן ב-MIT.",
+   "source": "src3",
+   "quote": "In 1972, Luria led the Institute’s effort to secure a $4.4 million grant from the newly formed National Cancer Institute to start the MIT Center for Cancer Research",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c53",
+   "text": "לפי MIT Technology Review, לוריה ניהל את מרכז הסרטן מפתיחתו ב-1973 עד 1985.",
+   "source": "src3",
+   "quote": "he directed from its opening in 1973 until 1985",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c55",
+   "text": "לפי אנציקלופדיה דיסקברי, לוריה שימש מנהל מרכז הסרטן של MIT מ-1972 עד פרישתו ב-1985.",
+   "source": "src5",
+   "quote": "Luria served as the director of MIT’s Center for Cancer Research from 1972 until he retired in 1985.",
+   "status": "confirmed",
+   "locator": "שורה 35"
+  },
+  {
+   "id": "c48",
+   "text": "לפי אנציקלופדיה דיסקברי, לוריה נישא ב-1945 לזלה הורוויץ ובנם דניאל נולד ב-1948.",
+   "source": "src5",
+   "quote": "In 1945, Luria married Zella Hurwitz, the only female graduate student in the Department of Psychology. Their son Daniel was born in 1948.",
+   "status": "confirmed",
+   "locator": "שורה 15"
+  },
+  {
+   "id": "c49",
+   "text": "לפי ספריית הרפואה הלאומית, ילדם היחיד של לוריה וזלה, דניאל, נולד ב-1949.",
+   "source": "src6",
+   "quote": "Luria married Zella Hurwitz, a psychologist, in 1945. Their only child, Daniel, was born in 1949.",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c66",
+   "text": "לוריה מת בלקסינגטון, מסצ'וסטס, ב-6 בפברואר 1991 מהתקף לב.",
+   "source": "src6",
+   "quote": "Luria died in Lexington, Massachusetts, on February 6, 1991, of a heart attack.",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c56",
+   "text": "לפי אנציקלופדיה דיסקברי, חקירה בת שנתיים של ה-FBI לא מצאה פעילות קומוניסטית או חתרנית, אך לוריה נשלל ממנו דרכון ב-1952.",
+   "source": "src5",
+   "quote": "A two-year investigation yielded no evidence of Communist or other subversive activity, but Luria was nevertheless denied a passport in 1952.",
+   "status": "confirmed",
+   "locator": "שורה 32"
+  },
+  {
+   "id": "c57",
+   "text": "לפי אנציקלופדיה דיסקברי, ב-1951 סורב ללוריה דרכון בגלל אקטיביזם פוליטי.",
+   "source": "src5",
+   "quote": "In 1951 Luria was refused a passport as a result of his outspoken political activism.",
+   "status": "confirmed",
+   "locator": "שורה 116"
+  },
+  {
+   "id": "c58",
+   "text": "לפי איגוד האימונולוגים האמריקאי, ב-1953 נשלל מלוריה דרכון לנסוע להרצאה בכנס מדעי באוקספורד.",
+   "source": "src2",
+   "quote": "Luria, in 1953, was denied a passport to deliver a paper at a scientific meeting in Oxford, England.",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c61",
+   "text": "ימים ספורים אחרי הזכייה התברר ששמו של לוריה ברשימה שחורה של המכונים הלאומיים לבריאות שאסרה עליו לייעץ במענקים.",
+   "source": "src3",
+   "quote": "Nixon’s administration had blacklisted him from advising the NIH on scientific grants, apparently because of his vocal role in mobilizing faculty and public sentiment against the Vietnam War.",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c62",
+   "text": "לפי ספריית הרפואה הלאומית, לוריה היה מבקר חריף של הפלישה הישראלית ללבנון ושל ההתערבות האמריקאית בווייטנאם.",
+   "source": "src6",
+   "quote": "He was also an active participant in the peace movement and was an outspoken critic of the Israeli invasion of Lebanon and the American intervention in Vietnam.",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c68",
+   "text": "לפי מאמר Genetics, זן ה-E. coli שבחרו לוריה ודלבריק חסר מנגנון CRISPR-Cas פעיל, כנראה במקרה.",
+   "source": "src4",
+   "quote": "the E. coli strain selected by Luria and Delbrück for their experiments lacked an operative CRISPR-Cas mechanism",
+   "status": "confirmed",
+   "locator": "שורה 26"
+  },
+  {
+   "id": "c69",
+   "text": "לפי Live Science, מחקר עדכני מצביע שאילו נבחרה מערכת חיידק-פאג אחרת, כמו כזו שמשתמשת ב-CRISPR, התוצאות הסטטיסטיות לא היו ברורות כל כך.",
+   "source": "src8",
+   "quote": "if the team had chosen a different bacterium and phage system to study — such as one that used the bacterial immune system CRISPR to fight off phages — the statistical results would not have been so clear-cut.",
+   "status": "confirmed",
+   "locator": "שורה 35"
+  },
+  {
+   "id": "c70",
+   "text": "ביומתמטיקאים שכללו מאז את ההבנה של התפלגויות מתמטיות שמתארות את תהליך המוטציה טוב יותר מזו שבה השתמשו לוריה ודלבריק.",
+   "source": "src4",
+   "quote": "biomathematicians have refined understanding of mathematical distributions that better describe the mutational process than the one adopted by Luria and Delbrück",
+   "status": "confirmed",
+   "locator": "שורה 30"
+  },
+  {
+   "id": "c72",
+   "text": "מאמר ב-Phys Biol (2017) טוען שהניסוי הקלאסי של לוריה ודלבריק אינו שולל אבולוציה למרקיאנית.",
+   "source": "src4",
+   "quote": "Luria-Delbrück, revisited: the classic experiment does not rule out Lamarckian evolution.",
+   "status": "confirmed",
+   "locator": "שורה 50"
+  },
+  {
+   "id": "c73",
+   "text": "מנגנוני עמידות המבוססים על שינויים יציבים בתעתוק, בחילוף חומרים או ברכישת חומר גנטי מבחוץ לא נבדקו במחקר מ-1943.",
+   "source": "src4",
+   "quote": "Mechanisms of resistance that depend on relatively stable changes in transcription, metabolism, or acquisition of new genetic material from sources outside the cell all represent pathways not addressed in the study from 1943.",
+   "status": "confirmed",
+   "locator": "שורה 32"
+  },
+  {
+   "id": "c54",
+   "text": "לפי בריטניקה, לוריה הפך ב-1974 למנהל מרכז המחקר לסרטן ב-MIT.",
+   "source": "src1",
+   "quote": "In 1974 he became director of the Center for Cancer Research at MIT.",
+   "status": "confirmed",
+   "locator": "שורה 21"
+  }
+ ],
+ "sources": [
+  {
+   "id": "src1",
+   "label": "Encyclopaedia Britannica, Salvador Luria",
+   "url": "https://www.britannica.com/biography/Salvador-Luria",
+   "kind": "reference"
+  },
+  {
+   "id": "src2",
+   "label": "American Association of Immunologists, Salvador E. Luria",
+   "url": "https://www.aai.org/About/History/Notable-Members/Nobel-Laureates/SalvadorELuria",
+   "kind": "organisation"
+  },
+  {
+   "id": "src3",
+   "label": "MIT Technology Review, The Free Thinker, 23.8.2011",
+   "url": "https://www.technologyreview.com/2011/08/23/192177/the-free-thinker/",
+   "kind": "press"
+  },
+  {
+   "id": "src4",
+   "label": "Historical Highlight: The Luria-Delbrück Fluctuation Test, Genetics (PMC)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11495157/",
+   "kind": "reference"
+  },
+  {
+   "id": "src5",
+   "label": "Encyclopedia.com, Luria, Salvador Edward (Salvatore)",
+   "url": "https://www.encyclopedia.com/people/medicine/medicine-biographies/salvador-edward-luria",
+   "kind": "reference"
+  },
+  {
+   "id": "src6",
+   "label": "National Library of Medicine, Profiles in Science, Salvador Luria – Biographical Overview",
+   "url": "https://profiles.nlm.nih.gov/spotlight/ql/feature/biographical-overview",
+   "kind": "official"
+  },
+  {
+   "id": "src8",
+   "label": "Live Science, Science history: experiment shows mutations arise spontaneously",
+   "url": "https://www.livescience.com/planet-earth/evolution/science-history-experiment-shows-mutations-arise-spontaneously-supporting-pillar-of-darwinian-evolution-nov-20-1943",
+   "kind": "press"
+  },
+  {
+   "id": "src9",
+   "label": "NobelPrize.org, Salvador E. Luria – facts",
+   "url": "https://www.nobelprize.org/prizes/medicine/1969/luria/facts/",
+   "kind": "official"
+  },
+  {
+   "id": "src10",
+   "label": "NobelPrize.org, Press release 1969",
+   "url": "https://www.nobelprize.org/prizes/medicine/1969/press-release/",
+   "kind": "official"
+  },
+  {
+   "id": "src11",
+   "label": "NobelPrize.org, Luria – autobiographical/biographical",
+   "url": "https://www.nobelprize.org/prizes/medicine/1969/luria/biographical/",
+   "kind": "official"
+  }
+ ],
+ "media": [
+  {
+   "id": "m1",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Salvador%20E.%20Luria%20ca.1969.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Salvador_E._Luria_ca.1969.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Provided by U.S. National Library of Medicine - please see here for more information.",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "צילום בלתי רשמי בשחור-לבן של לוריה ליד שולחנו ב-MIT, כנראה בזמן קבלת פרס נובל ב-1969.",
+   "illustrates": [
+    "c1"
+   ],
+   "date": "circa 1969",
+   "width": 3894,
+   "height": 2723
+  },
+  {
+   "id": "m3",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rolla%20Dyer%20and%20Salvador%20Luria%20ca.%201963.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Rolla_Dyer_and_Salvador_Luria_ca._1963.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Silverman, Sam",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "שני גברים עומדים בחדר, אחד מהם לוריה והשני רולה דייר, לשעבר מנהל המכונים הלאומיים לבריאות, בצילום משנות ה-60 לערך.",
+   "illustrates": [],
+   "date": "1963",
+   "width": 6030,
+   "height": 4839
+  },
+  {
+   "id": "m4",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/31.%20Tagung%201981%20%2829.6.-3.7.%29%20Mediziner%3B%20Er%C3%B6ffnung-%20Salvador%20E.%20Luria%20-%20LABW%20-%20Staatsarchiv%20Freiburg%20W%20134%20Nr.%20118123b.jpeg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:31._Tagung_1981_%2829.6.-3.7.%29_Mediziner%3B_Er%C3%B6ffnung-_Salvador_E._Luria_-_LABW_-_Staatsarchiv_Freiburg_W_134_Nr._118123b.jpeg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Willy Pragher",
+   "licence": "CC BY 4.0",
+   "hosting": "hotlink",
+   "caption": "לוריה נואם ליד דוכן עם מיקרופונים בכנס חתני פרס נובל ברפואה ב-1981.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/4.0",
+   "date": "1981date Q",
+   "width": 1100,
+   "height": 718
+  },
+  {
+   "id": "m5",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/31.%20Tagung%201981%20%2829.6.-3.7.%29%20Mediziner%3B%20Er%C3%B6ffnung-%20Salvador%20E.%20Luria%20-%20LABW%20-%20Staatsarchiv%20Freiburg%20W%20134%20Nr.%20118123a.jpeg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:31._Tagung_1981_%2829.6.-3.7.%29_Mediziner%3B_Er%C3%B6ffnung-_Salvador_E._Luria_-_LABW_-_Staatsarchiv_Freiburg_W_134_Nr._118123a.jpeg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Willy Pragher",
+   "licence": "CC BY 4.0",
+   "hosting": "hotlink",
+   "caption": "לוריה מדבר ומניף יד ליד דוכן עם מיקרופונים בפתיחת הכנס ב-1981.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/4.0",
+   "date": "1981date Q",
+   "width": 1102,
+   "height": 723
+  },
+  {
+   "id": "m6",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/31.%20Tagung%201981%20%2829.6.-3.7.%29%20Mediziner%3B%20Maik%C3%A4ferrede%20in%20Farbe-%20Salvador%20E.%20Luria%2C%20Nikolaas%20Tinbergen%20-%20LABW%20-%20Staatsarchiv%20Freiburg%20W%20134%20Nr.%20118152v.jpeg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:31._Tagung_1981_%2829.6.-3.7.%29_Mediziner%3B_Maik%C3%A4ferrede_in_Farbe-_Salvador_E._Luria%2C_Nikolaas_Tinbergen_-_LABW_-_Staatsarchiv_Freiburg_W_134_Nr._118152v.jpeg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Willy Pragher",
+   "licence": "CC BY 4.0",
+   "hosting": "hotlink",
+   "caption": "לוריה במשקפי שמש על סיפון ספינה, ליד ניקולאס טינברגן, בכנס ב-1981.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/4.0",
+   "date": "1981date Q",
+   "width": 1108,
+   "height": 728
+  },
+  {
+   "id": "m7",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/31.%20Tagung%201981%20%2829.6.-3.7.%29%20Mediziner%3B%20Er%C3%B6ffnung-%20Salvador%20E.%20Luria%20beim%20Vortrag%20-%20LABW%20-%20Staatsarchiv%20Freiburg%20W%20134%20Nr.%20118119a.jpeg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:31._Tagung_1981_%2829.6.-3.7.%29_Mediziner%3B_Er%C3%B6ffnung-_Salvador_E._Luria_beim_Vortrag_-_LABW_-_Staatsarchiv_Freiburg_W_134_Nr._118119a.jpeg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Willy Pragher",
+   "licence": "CC BY 4.0",
+   "hosting": "hotlink",
+   "caption": "צללית של לוריה ליד הדוכן מול שקף על תעלות קולצין בהרצאה בכנס ב-1981.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/4.0",
+   "date": "1981date Q",
+   "width": 1100,
+   "height": 725
+  },
+  {
+   "id": "m8",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/31.%20Tagung%201981%20%2829.6.-3.7.%29%20Mediziner%3B%20Er%C3%B6ffnung-%20Salvador%20E.%20Luria%20beim%20Vortrag%20-%20LABW%20-%20Staatsarchiv%20Freiburg%20W%20134%20Nr.%20118119b.jpeg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:31._Tagung_1981_%2829.6.-3.7.%29_Mediziner%3B_Er%C3%B6ffnung-_Salvador_E._Luria_beim_Vortrag_-_LABW_-_Staatsarchiv_Freiburg_W_134_Nr._118119b.jpeg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Willy Pragher",
+   "licence": "CC BY 4.0",
+   "hosting": "hotlink",
+   "caption": "לוריה מרצה בחיוך ליד דוכן מול שקף על תעלות קולצין בכנס ב-1981.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/4.0",
+   "date": "1981date Q",
+   "width": 1089,
+   "height": 725
+  },
+  {
+   "id": "m9",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/31.%20Tagung%201981%20%2829.6.-3.7.%29%20Mediziner%3B%20Pressekonferenz-%20Salvador%20E.%20Luria%20am%20Tisch%20-%20LABW%20-%20Staatsarchiv%20Freiburg%20W%20134%20Nr.%20118125c.jpeg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:31._Tagung_1981_%2829.6.-3.7.%29_Mediziner%3B_Pressekonferenz-_Salvador_E._Luria_am_Tisch_-_LABW_-_Staatsarchiv_Freiburg_W_134_Nr._118125c.jpeg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Willy Pragher",
+   "licence": "CC BY 4.0",
+   "hosting": "hotlink",
+   "caption": "לוריה יושב ליד שולחן ארוך באולם מלא משתתפים בכנס ב-1981.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/4.0",
+   "date": "1981date Q",
+   "width": 1095,
+   "height": 725
+  },
+  {
+   "id": "m10",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Max%20Delbruck.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Max_Delbruck.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Jonathan Delbruck",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "צילום ישן של מקס דלבריק, שותפו של לוריה לניסוי, כצעיר יושב בחליפה על ספסל בחוץ.",
+   "illustrates": [
+    "c22"
+   ],
+   "date": "Originally",
+   "width": 1344,
+   "height": 2162
+  },
+  {
+   "id": "m11",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Maxdelbr%C3%BCck-cr.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Maxdelbr%C3%BCck-cr.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "The original uploader was MalteAhrens at German Wikipedia.",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "דיוקן בשחור-לבן של מקס דלבריק, שותפו של לוריה לניסוי, בקרדיגן סרוג וכוס בידו.",
+   "illustrates": [
+    "c22"
+   ],
+   "licence_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "date": "26 October",
+   "width": 1248,
+   "height": 1300
+  },
+  {
+   "id": "m12",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=OhS890VpiPc",
+   "youtube_id": "OhS890VpiPc",
+   "source_page": "https://www.youtube.com/watch?v=OhS890VpiPc",
+   "source_name": "YouTube",
+   "credit": "YouTube",
+   "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "ראיון עם סלבטורה אדואדו לוריה משנת 1986, זוכה פרס נובל ברפואה ב-1969.",
+   "illustrates": [
+    "c1"
+   ],
+   "spoken": "it",
+   "audio_tracks": [
+    "it"
+   ]
+  },
+  {
+   "id": "m13",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=ExUb_i9pJGA",
+   "youtube_id": "ExUb_i9pJGA",
+   "source_page": "https://www.youtube.com/watch?v=ExUb_i9pJGA",
+   "source_name": "YouTube",
+   "credit": "Web of Stories - Life Stories of Remarkable People",
+   "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "ג'יימס ווטסון מספר על לוריה ועל תגובת אוניברסיטת אינדיאנה לישירותו.",
+   "illustrates": [
+    "c21",
+    "c46"
+   ]
+  },
+  {
+   "id": "m14",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=dNptPNpiGto",
+   "youtube_id": "dNptPNpiGto",
+   "source_page": "https://www.youtube.com/watch?v=dNptPNpiGto",
+   "source_name": "YouTube",
+   "credit": "Web of Stories - Life Stories of Remarkable People",
+   "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "פרנסואה ז'קוב מדבר על סלבדור לוריה בראיון מסדרת Web of Stories.",
+   "illustrates": []
+  },
+  {
+   "id": "m15",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=fCN0WE8-VPg",
+   "youtube_id": "fCN0WE8-VPg",
+   "source_page": "https://www.youtube.com/watch?v=fCN0WE8-VPg",
+   "source_name": "YouTube",
+   "credit": "Perspectives on Sci Tech Med",
+   "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "שיחה עם רנה סליה, מחברת הביוגרפיה של לוריה, על חייו כביולוג מהגר באמריקה של המלחמה הקרה.",
+   "illustrates": [
+    "c1"
+   ],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m16",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=slfLeKqE3Bg",
+   "youtube_id": "slfLeKqE3Bg",
+   "source_page": "https://www.youtube.com/watch?v=slfLeKqE3Bg",
+   "source_name": "YouTube",
+   "credit": "The Explorer's Guide to Biology",
+   "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "הסבר על ניסוי לוריה-דלבריק שהראה שמוטציות חדשות בחיידקים מתרחשות באופן ספונטני.",
+   "illustrates": [
+    "c28"
+   ],
+   "spoken": "en",
+   "audio_tracks": [
+    "en",
+    "de",
+    "es",
+    "fr",
+    "hi",
+    "id",
+    "it",
+    "ja",
+    "ml",
+    "nl",
+    "pl",
+    "pt",
+    "uk"
+   ]
+  },
+  {
+   "id": "m17",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Copenhagen%20spring%20conference%201932.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Copenhagen_spring_conference_1932.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Unknown authorUnknown author",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "צילום קבוצתי של פיזיקאים בכינוס בקופנהגן, אביב 1932; בין המשתתפים מקס דלבריק.",
+   "illustrates": [],
+   "date": "1932-03",
+   "width": 1024,
+   "height": 479,
+   "role": "related"
+  },
+  {
+   "id": "m18",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bohr%2CNiels%20Commemoration%20Meeting%201963%20Copenhagen.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Bohr%2CNiels_Commemoration_Meeting_1963_Copenhagen.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "GFHund",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "צילום קבוצתי של פיזיקאים באזכרה לניילס בוהר בקופנהגן, יולי 1963, עם שמות המצולמים בכתב יד; בין הנוכחים מקס דלבריק.",
+   "illustrates": [],
+   "date": "1963-07",
+   "width": 6850,
+   "height": 4620,
+   "role": "related"
+  },
+  {
+   "id": "m19",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Freie%20Universitaet%20Berlin%20-%20Gedenktafel%20fuer%20Lise%20Meitner%20und%20Max%20Delbrueck.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Freie_Universitaet_Berlin_-_Gedenktafel_fuer_Lise_Meitner_und_Max_Delbrueck.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Axel Mauruszat",
+   "licence": "CC BY 2.0 de",
+   "hosting": "hotlink",
+   "caption": "לוח זיכרון בברלין-דהלם שמזכיר את מקס דלבריק ואת ליזה מייטנר, שבבניין עבדו בשנים 1932–1937 ו-1913–1938",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/2.0/de/deed.en",
+   "date": "2008-07-27",
+   "width": 1280,
+   "height": 1014,
+   "role": "related"
+  },
+  {
+   "id": "m22",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hans%20Scheib%20-%20B%C3%BCste%20Max%20Delbr%C3%BCck.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Hans_Scheib_-_B%C3%BCste_Max_Delbr%C3%BCck.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Axel Mauruszat",
+   "licence": "CC BY 3.0 de",
+   "hosting": "hotlink",
+   "caption": "פסל ראש מברונזה של מקס דלבריק מעשה ידי האנס שייב, 2003, מול מרכז התקשורת על שמו בברלין-בוך",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/3.0/de/deed.en",
+   "date": "2010-07-06",
+   "width": 1926,
+   "height": 2918,
+   "role": "related"
+  },
+  {
+   "id": "m23",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/25.%20Jubil%C3%A4umstagung%201975%20Medizin%3B%20Maik%C3%A4ferrede-%20Gr%C3%A4fin%20Sonja%20Bernadotte%20%C3%BCbergibt%20Maik%C3%A4fer%20an%20Alfred%20D.%20Hershey%2C%20dahinter%20Sir%20John%20C.%20Eccles%2C%20Gerald%20Ed%20-%20LABW%20-%20Staatsarchiv%20Freiburg%20W%20134%20Nr.%20103708r.jpeg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:25._Jubil%C3%A4umstagung_1975_Medizin%3B_Maik%C3%A4ferrede-_Gr%C3%A4fin_Sonja_Bernadotte_%C3%BCbergibt_Maik%C3%A4fer_an_Alfred_D._Hershey%2C_dahinter_Sir_John_C._Eccles%2C_Gerald_Ed_-_LABW_-_Staatsarchiv_Freiburg_W_134_Nr._103708r.jpeg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Willy Pragher",
+   "licence": "CC BY 4.0",
+   "hosting": "hotlink",
+   "caption": "הרוזנת סונייה ברנדוט מגישה חיפושית מאי לאלפרד הרשי, ועוד חתני פרס נובל מאחוריו, בכנס בלינדאו, 1975",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/4.0",
+   "date": "1975date Q",
+   "width": 1108,
+   "height": 733,
+   "role": "related"
+  }
+ ],
+ "check": {
+  "passed": true,
+  "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
+  "checked_at": "2026-11-21T21:58:58Z",
+  "counts": {
+   "confirmed": 73,
+   "not_confirmed": 0,
+   "deleted_sentences": 17,
+   "first_round_confirmed": 81,
+   "first_round_contradicted": 3,
+   "first_round_unverifiable": 15
+  },
+  "note": "unverifiable sentences were deleted, contradicted ones fixed from the source and checked again"
+ },
+ "meta": {
+  "run": "salvador-luria-bacterial-mutations",
+  "pipeline": "scripts/museum/museum_line.py",
+  "models": {
+   "research": "sonnet-5-5",
+   "extract": "sonnet-5-5",
+   "media": "sonnet-5-5",
+   "write": "opus-5-5 medium",
+   "check": "opus-5-5 medium",
+   "fix": "opus-5-5 medium"
+  },
+  "source_quality": {
+   "sources": 10,
+   "wikipedia": 0,
+   "strong": 6,
+   "ok": true,
+   "warnings": []
+  },
+  "media_dedupe": [
+   {
+    "drop": "m2",
+    "keep": "m1",
+    "by": "reviewed 24.11"
+   }
+  ],
+  "wiki_cleanup": {
+   "at": "2026-11-27T15:21:57Z",
+   "targets": 4,
+   "resourced": 0,
+   "kept_on_other_sources": 0,
+   "deleted": 4
+  }
+ }
 }

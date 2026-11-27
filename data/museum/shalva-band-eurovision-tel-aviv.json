@@ -9,10 +9,12 @@
   {
    "text": "להקת שלווה היא להקה ישראלית של מוזיקאים עם מוגבלויות, שהוקמה ב-2005 בתוכנית הטיפול במוזיקה של שלווה, העמותה הישראלית לטיפול והכללה של אנשים עם מוגבלויות.",
    "claims": [
-    "c73",
     "c3",
     "c18",
-    "c20"
+    "c20",
+    "c77",
+    "c78",
+    "c79"
    ]
   },
   {
@@ -62,7 +64,7 @@
    "label": "מייסד",
    "value": "שי בן שושן",
    "claims": [
-    "c73"
+    "c80"
    ]
   },
   {
@@ -70,7 +72,7 @@
    "value": "2005",
    "claims": [
     "c18",
-    "c73"
+    "c81"
    ]
   },
   {
@@ -139,7 +141,8 @@
      {
       "text": "היא הוקמה כחלק ממסע השיקום האישי שלו.",
       "claims": [
-       "c73"
+       "c82",
+       "c83"
       ]
      }
     ],
@@ -510,27 +513,16 @@
     ],
     [
      {
-      "text": "בדצמבר 2019 הופיעה הלהקה בכנס המועצה הישראלית-אמריקאית בפלורידה, לפני הנשיא דונלד טראמפ, שחיבק את חבריה בסוף ההופעה.",
-      "claims": [
-       "c74"
-      ]
-     },
-     {
       "text": "הנשיא דונלד טראמפ חיבק שם את חבריה.",
       "claims": [
-       "c74"
+       "c86",
+       "c87"
       ]
      },
      {
       "text": "היא הופיעה עם מוזיקאים מאיחוד האמירויות בביצוע וירטואלי של \"Bridge Over Troubled Water\", עם מסר של אחדות ושלום.",
       "claims": [
        "c71"
-      ]
-     },
-     {
-      "text": "במאי 2023 הופיעה בבמת האו\"ם בז'נבה לכבוד יום העצמאות ה-75 של ישראל, בפני מאות דיפלומטים.",
-      "claims": [
-       "c75"
       ]
      }
     ],
@@ -566,13 +558,7 @@
      {
       "text": "דינה סמטה עלתה לישראל בגיל עשר ממניפור שבהודו.",
       "claims": [
-       "c76"
-      ]
-     },
-     {
-      "text": "היא התעוורה בגיל 6 ולמדה עברית דרך מוזיקה.",
-      "claims": [
-       "c76"
+       "c90"
       ]
      }
     ],
@@ -701,14 +687,6 @@
  ],
  "unknowns": [],
  "claims": [
-  {
-   "id": "c73",
-   "text": "הלהקה היא להקה ישראלית שהוקמה ב-2005 על ידי שי בן שושן כחלק ממסע השיקום האישי שלו.",
-   "source": "src1",
-   "quote": "The band was established in 2005 by [Shai Ben-Shushan](https://en.wikipedia.org/wiki/Shai_Ben-Shushan \"Shai Ben-Shushan\") as part of his personal rehabilitation journey.",
-   "status": "confirmed",
-   "locator": "שורה 16"
-  },
   {
    "id": "c3",
    "text": "אלפי מעריצי האירוויזיון שיבחו את הלהקה בטוויטר אחרי ההופעה; חבריה הם מוזיקאים עם מוגבלויות.",
@@ -1102,28 +1080,12 @@
    "locator": "שורה 40"
   },
   {
-   "id": "c74",
-   "text": "בדצמבר 2019 הלהקה הופיעה לראשונה בארה\"ב בכנס המועצה הישראלית-אמריקאית בפלורידה, לפני הנשיא דונלד טראמפ שחיבק את חבריה.",
-   "source": "src1",
-   "quote": "in Florida in front of then President of the United States, [Donald Trump](https://en.wikipedia.org/wiki/Donald_Trump \"Donald Trump\"), who hugged the members of the band at the end of their performance.",
-   "status": "confirmed",
-   "locator": "שורה 25"
-  },
-  {
    "id": "c71",
    "text": "הלהקה הופיעה עם מוזיקאים מאיחוד האמירויות בביצוע וירטואלי של \"Bridge Over Troubled Water\" שנועד להעביר מסר של אחדות ושלום.",
    "source": "src12",
    "quote": "performed with musicians from the United Arab Emirates in a moving rendition of Simon and Garfunkel's “Bridge Over Troubled Water,” intended to send a message of unity, peace and cooperation.",
    "status": "confirmed",
    "locator": "שורה 11"
-  },
-  {
-   "id": "c75",
-   "text": "במאי 2023 הלהקה הופיעה בבמת האו\"ם בז'נבה לכבוד יום העצמאות ה-75 של ישראל, בפני מאות דיפלומטים.",
-   "source": "src1",
-   "quote": "In May 2023, the band performed on the stage of the [United Nations](https://en.wikipedia.org/wiki/United_Nations \"United Nations\") in Geneva, in honor of Israel's 75th Independence Day, for hundreds of diplomats.",
-   "status": "confirmed",
-   "locator": "שורה 26"
   },
   {
    "id": "c25",
@@ -1140,14 +1102,6 @@
    "quote": "Deena, an immigrant from India, and Annael, an immigrant from France – the band's lead singers – are both blind.",
    "status": "confirmed",
    "locator": "שורה 64"
-  },
-  {
-   "id": "c76",
-   "text": "דינה סמטה היגרה לישראל בגיל עשר ממניפור שבהודו, התעוורה בגיל 6 ולמדה עברית דרך מוזיקה.",
-   "source": "src1",
-   "quote": "Dina immigrated to Israel at the age of ten from [Manipur](https://en.wikipedia.org/wiki/Manipur \"Manipur\") in India. Dina, who became blind at the age of 6, learned Hebrew through music.",
-   "status": "confirmed",
-   "locator": "שורה 31"
   },
   {
    "id": "c46",
@@ -1220,15 +1174,89 @@
    "quote": "The band made it to the finals of the show, but ultimately dropped out when they realized they would have to participate in rehearsals on Shabbat in order to perform at the Eurovision.",
    "status": "confirmed",
    "locator": "שורה 31"
+  },
+  {
+   "id": "c77",
+   "text": "להקת שלווה היא להקה ישראלית של מוזיקאים עם מוגבלויות, שהוקמה ב-2005 בתוכנית הטיפול במוזיקה של שלווה, העמותה הישראלית לטיפול והכללה של אנשים עם מוגבלויות.",
+   "source": "src14",
+   "quote": "What began as a unique outlet for talented Shalva program participants in 2005",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c78",
+   "text": "להקת שלווה היא להקה ישראלית של מוזיקאים עם מוגבלויות, שהוקמה ב-2005 בתוכנית הטיפול במוזיקה של שלווה, העמותה הישראלית לטיפול והכללה של אנשים עם מוגבלויות.",
+   "source": "src14",
+   "quote": "their musical talents were discovered and developed through Shalva's music therapy program",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c79",
+   "text": "להקת שלווה היא להקה ישראלית של מוזיקאים עם מוגבלויות, שהוקמה ב-2005 בתוכנית הטיפול במוזיקה של שלווה, העמותה הישראלית לטיפול והכללה של אנשים עם מוגבלויות.",
+   "source": "src14",
+   "quote": "Shalva, is the Israel Association for Care and Inclusion of Persons with Disabilities.",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c80",
+   "text": "מייסד: שי בן שושן",
+   "source": "src15",
+   "quote": "The Shalva Band was started by drummer Shai Ben Shushan.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c81",
+   "text": "מאז: 2005",
+   "source": "src14",
+   "quote": "What began as a unique outlet for talented Shalva program participants in 2005",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c82",
+   "text": "היא הוקמה כחלק ממסע השיקום האישי שלו.",
+   "source": "src16",
+   "quote": "He went through rehab at Shalva and emerged from that experience wanting to give back to those who had helped him.",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c83",
+   "text": "היא הוקמה כחלק ממסע השיקום האישי שלו.",
+   "source": "src16",
+   "quote": "He credits the formation of the band with giving him the power to recover.",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c86",
+   "text": "הנשיא דונלד טראמפ חיבק שם את חבריה.",
+   "source": "src17",
+   "quote": "At the conclusion of the song, members of the band rushed to embrace the President.",
+   "status": "confirmed",
+   "locator": "שורה 19"
+  },
+  {
+   "id": "c87",
+   "text": "הנשיא דונלד טראמפ חיבק שם את חבריה.",
+   "source": "src17",
+   "quote": "The President encouraged participants of the Hollywood, Florida conference to vote for him in 2020",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c90",
+   "text": "דינה סמטה עלתה לישראל בגיל עשר ממניפור שבהודו.",
+   "source": "src8",
+   "quote": "Dina, who immigrated from Manipur, India to Israel at age 10, said she learned Hebrew through music.",
+   "status": "confirmed",
+   "locator": "שורה 10"
   }
  ],
  "sources": [
-  {
-   "id": "src1",
-   "label": "Wikipedia, Shalva Band",
-   "url": "https://wikipedia.com/wiki/Shalva_Band",
-   "kind": "reference"
-  },
   {
    "id": "src2",
    "label": "Times of Israel, 17.5.2019",
@@ -1300,6 +1328,30 @@
    "label": "Times of Israel Blogs, Shlomo Brody, 2019",
    "url": "https://blogs.timesofisrael.com/when-shalva-chose-shabbat-over-eurovision/",
    "kind": "press"
+  },
+  {
+   "id": "src14",
+   "label": "Shalva (דף העיתונות של להקת שלווה): The Shalva Band, Music That Changes Lives",
+   "url": "https://shelburne-primrose.squarespace.com/resources/the-shalva-band-music-that-changes-lives",
+   "kind": "organisation"
+  },
+  {
+   "id": "src15",
+   "label": "Kveller: You Need to Know This Israeli Band of Young Musicians With Disabilities",
+   "url": "https://www.kveller.com/you-need-to-know-this-israeli-band-of-young-musicians-with-disabilities/",
+   "kind": "press"
+  },
+  {
+   "id": "src16",
+   "label": "JTA: The Shalva Band comes to America",
+   "url": "https://www.jta.org/2019/12/02/ny/the-shalva-band-comes-to-america",
+   "kind": "press"
+  },
+  {
+   "id": "src17",
+   "label": "RedState: Special needs band members at Israeli American Council summit rush stage to hug President Trump",
+   "url": "https://redstate.com/alexparker/2019/12/09/national-treasure-special-needs-band-members-israeli-american-council-summit-rush-stage-hug-president-trump-video",
+   "kind": "press"
   }
  ],
  "media": [
@@ -1313,9 +1365,7 @@
    "licence": "Public domain",
    "hosting": "hotlink",
    "caption": "חברי להקת שלווה על הבמה בכנס המועצה הישראלית-אמריקאית בפלורידה בדצמבר 2019, כשהנשיא טראמפ מוחא להם כפיים לצדם.",
-   "illustrates": [
-    "c74"
-   ],
+   "illustrates": [],
    "date": "2019-12-07",
    "width": 3000,
    "height": 1997
@@ -1809,7 +1859,7 @@
   "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
   "checked_at": "2026-11-20T22:35:27Z",
   "counts": {
-   "confirmed": 79,
+   "confirmed": 76,
    "not_confirmed": 0,
    "deleted_sentences": 6,
    "first_round_confirmed": 80,
@@ -1830,11 +1880,18 @@
    "fix": "opus-5-5 medium"
   },
   "source_quality": {
-   "sources": 13,
+   "sources": 16,
    "wikipedia": 0,
    "strong": 12,
    "ok": true,
    "warnings": []
+  },
+  "wiki_cleanup": {
+   "at": "2026-11-27T15:23:07Z",
+   "targets": 9,
+   "resourced": 6,
+   "kept_on_other_sources": 0,
+   "deleted": 3
   }
  }
 }

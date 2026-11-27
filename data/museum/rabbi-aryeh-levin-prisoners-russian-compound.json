@@ -21,9 +21,11 @@
    ]
   },
   {
-   "text": "לפי ויקיפדיה, במשך 25 שנה הוא בא לכלא בכל שבת וחג, בכל מזג אוויר, ללא שכר.",
+   "text": "במשך 25 שנה הוא בא לכלא בכל שבת וחג, בכל מזג אוויר, ללא שכר.",
    "claims": [
-    "c25"
+    "c78",
+    "c79",
+    "c80"
    ]
   },
   {
@@ -72,16 +74,16 @@
    "label": "איפה",
    "value": "הכלא המרכזי הבריטי, מגרש הרוסים, ירושלים",
    "claims": [
-    "c74",
-    "c75"
+    "c81"
    ]
   },
   {
    "label": "כמה זמן",
    "value": "כ-25 שנה, בכל שבת וחג",
    "claims": [
-    "c25",
-    "c26"
+    "c26",
+    "c82",
+    "c83"
    ]
   },
   {
@@ -89,7 +91,7 @@
    "value": "ללא שכר",
    "claims": [
     "c14",
-    "c25"
+    "c84"
    ]
   },
   {
@@ -172,18 +174,6 @@
    "paragraphs": [
     [
      {
-      "text": "בתקופת המנדט הפך בית הארחה הרוסי לנשים לכלא המרכזי הבריטי, לפי ויקיפדיה.",
-      "claims": [
-       "c75"
-      ]
-     },
-     {
-      "text": "לפי ויקיפדיה, בראשית המנדט היו בכלא המרכזי בירושלים 250 אסירים, ובסופו כ-500.",
-      "claims": [
-       "c77"
-      ]
-     },
-     {
       "text": "לפי הביוגרפיה של המוזיאון, בתחילת שנות העשרים היו אסירי המחתרות בודדים, ומספרם גדל מאז המרד הערבי.",
       "claims": [
        "c23"
@@ -264,21 +254,17 @@
    "paragraphs": [
     [
      {
-      "text": "לפי ויקיפדיה, במשך 25 שנה בא הרב לכלא בכל שבת וחג, בכל מזג אוויר, ללא שכר או משכורת.",
+      "text": "במשך 25 שנה בא הרב לכלא בכל שבת וחג, בכל מזג אוויר, ללא שכר או משכורת.",
       "claims": [
-       "c25"
+       "c85",
+       "c86",
+       "c87"
       ]
      },
      {
       "text": "בשנות הארבעים נערך המפגש איתו בתוך הכלא, בחדר שהוסב לבית כנסת.",
       "claims": [
        "c29"
-      ]
-     },
-     {
-      "text": "לפי ויקיפדיה, התא הזה שימש בית כנסת בשבתות ובחגים.",
-      "claims": [
-       "c30"
       ]
      }
     ],
@@ -335,7 +321,7 @@
       "text": "גם אחרי צאת השבת הרב לא חזר הביתה, עד שביקר את המשפחות המודאגות ומסר להן דרישות שלום מיקיריהן.",
       "claims": [
        "c31",
-       "c42"
+       "c88"
       ]
      },
      {
@@ -380,12 +366,6 @@
      }
     ],
     [
-     {
-      "text": "לפי ויקיפדיה, הרב עזר למצורעים בבית החולים למצורעים בירושלים ולפושעים יהודים, ועם אסירי המחתרות טיפח קשר מיוחד.",
-      "claims": [
-       "c41"
-      ]
-     },
      {
       "text": "לפי המוזיאון, כשביקר את החולים בבית החולים למצורעים בטלביה, אמרו לו שזו הפעם הראשונה שמישהו מבקר אותם.",
       "claims": [
@@ -460,9 +440,10 @@
       ]
      },
      {
-      "text": "לפי ויקיפדיה, בערב שלפני ההוצאה להורג ביקר בתאם הרב יעקב גולדמן, והחליט ללוות אותם.",
+      "text": "בערב שלפני ההוצאה להורג ביקר בתאם הרב יעקב גולדמן, והחליט ללוות אותם.",
       "claims": [
-       "c52"
+       "c90",
+       "c91"
       ]
      },
      {
@@ -595,22 +576,9 @@
     ],
     [
      {
-      "text": "לפי ויקיפדיה, ב-1991 הועבר מבנה הכלא במגרש הרוסים למשרד הביטחון, ששיקם אותו והפך אותו למוזיאון.",
-      "claims": [
-       "c74",
-       "c76"
-      ]
-     },
-     {
       "text": "מוזיאון אסירי המחתרות בירושלים פועל במסגרת משרד הביטחון.",
       "claims": [
        "c2"
-      ]
-     },
-     {
-      "text": "לפי ויקיפדיה, התא ששימש בית כנסת קשור לפועלו של הרב, \"אבי האסירים\".",
-      "claims": [
-       "c30"
       ]
      }
     ]
@@ -731,12 +699,6 @@
    "question": "כמה שנים ביקר בכלא?",
    "versions": [
     {
-     "says": "ויקיפדיה: 25 שנה",
-     "claims": [
-      "c25"
-     ]
-    },
-    {
      "says": "ויקי ישיבה: כעשרים וחמש שנה",
      "claims": [
       "c26"
@@ -853,14 +815,6 @@
    "locator": "שורה 11"
   },
   {
-   "id": "c25",
-   "text": "לפי ויקיפדיה, במשך 25 שנה בא הרב לכלא בכל שבת וחג, בכל מזג אוויר, ללא שכר או משכורת.",
-   "source": "src4",
-   "quote": "For 25 years, the rabbi came to the prison every Shabbat and holiday, in every kind of weather, without any reward or salary.",
-   "status": "confirmed",
-   "locator": "שורה 80"
-  },
-  {
    "id": "c29",
    "text": "בשנות הארבעים נערך המפגש עם הרב בתוך הכלא בחדר שהוסב לבית כנסת.",
    "source": "src3",
@@ -883,22 +837,6 @@
    "quote": "he was presented with a scroll, signed by some 1,000 former prisoners of the British during the Mandate days, paying tribute to him",
    "status": "confirmed",
    "locator": "שורה 2"
-  },
-  {
-   "id": "c74",
-   "text": "לפי ויקיפדיה, מוזיאון אסירי המחתרות נמצא במבנה במגרש הרוסים ברחוב משעול הגבורה בירושלים.",
-   "source": "src4",
-   "quote": "The museum is located on Mish'ol HaGvura Street in one building of the Russian Compound.",
-   "status": "confirmed",
-   "locator": "שורה 47"
-  },
-  {
-   "id": "c75",
-   "text": "לפי ויקיפדיה, בתקופת המנדט הפך בית הארחה הרוסי לנשים לכלא המרכזי הבריטי.",
-   "source": "src4",
-   "quote": "and the Russian women's hostel became the central British prison",
-   "status": "confirmed",
-   "locator": "שורה 50"
   },
   {
    "id": "c14",
@@ -981,14 +919,6 @@
    "locator": "שורה 6"
   },
   {
-   "id": "c77",
-   "text": "לפי ויקיפדיה, בראשית תקופת המנדט היו בכלא המרכזי בירושלים 250 אסירים, ובסופה כ-500.",
-   "source": "src4",
-   "quote": "At the beginning of the Mandatory period, the population of the Central Prison in Jerusalem was 250 inmates. At the end of the period the number was about 500.",
-   "status": "confirmed",
-   "locator": "שורה 64"
-  },
-  {
    "id": "c23",
    "text": "לפי הביוגרפיה של המוזיאון, בתחילת שנות העשרים אסירי המחתרות היו בודדים ומספרם גדל מאז המרד הערבי.",
    "source": "src3",
@@ -1037,14 +967,6 @@
    "locator": "שורה 8"
   },
   {
-   "id": "c30",
-   "text": "לפי ויקיפדיה, התא שימש בית כנסת בשבתות ובחגים והוא קשור לפועלו של הרב אריה לוין, \"אבי האסירים\".",
-   "source": "src4",
-   "quote": "This cell housed Jewish criminals and was used as a synagogue on Shabbat and holidays.",
-   "status": "confirmed",
-   "locator": "שורה 80"
-  },
-  {
    "id": "c27",
    "text": "גם אסירים שלא היו דתיים השתתפו בתפילת השבת, כי ליבם נשבה בטוב ליבו וצדיקותו.",
    "source": "src3",
@@ -1083,14 +1005,6 @@
    "quote": "מספרים שגם בצאת השבת לא היה הרב חוזר לביתו, אלא רק לאחר שסיים את מסלול ביקורי המשפחות המודאגות ומוסר להן דרישות שלום מיקיריהן",
    "status": "confirmed",
    "locator": "שורה 10"
-  },
-  {
-   "id": "c42",
-   "text": "לפי ויקיפדיה, מיד אחרי כל ביקור בכלא מיהר הרב לבתי משפחות האסירים למסור להן דרישות שלום מילדיהן.",
-   "source": "src4",
-   "quote": "immediately after every visit to the prison he hurried to the homes of the prisoners’ families to give them regards from their children",
-   "status": "confirmed",
-   "locator": "שורה 80"
   },
   {
    "id": "c34",
@@ -1139,14 +1053,6 @@
    "quote": "ר' אריה, אכן נחפז מיד לבית הסוהר ושוחח עמה ארוכות, לאחר שיחתם, חדלה משביתתה",
    "status": "confirmed",
    "locator": "שורה 7"
-  },
-  {
-   "id": "c41",
-   "text": "לפי ויקיפדיה, הרב טיפח קשר מיוחד עם אסירי המחתרות, וגם עם מצורעים בבית החולים בירושלים ופושעים יהודים.",
-   "source": "src4",
-   "quote": "The rabbi devoted his life to helping others: lepers in the Lepers' Hospital in Jerusalem, Jewish criminals, and underground prisoners",
-   "status": "confirmed",
-   "locator": "שורה 80"
   },
   {
    "id": "c43",
@@ -1211,14 +1117,6 @@
    "quote": "הרב היה נתון בסערת רגשות, אך התנגד לזה מפורשות",
    "status": "confirmed",
    "locator": "שורה 14"
-  },
-  {
-   "id": "c52",
-   "text": "לפי ויקיפדיה, בערב שלפני ההוצאה להורג ביקר בתאם הרב יעקב גולדמן והחליט ללוותם להוצאה להורג.",
-   "source": "src4",
-   "quote": "On the previous evening they were visited by Rabbi Yaakov Goldman who was so impressed by their courage and spirit that he decided to accompany them to their execution.",
-   "status": "confirmed",
-   "locator": "שורה 98"
   },
   {
    "id": "c54",
@@ -1325,14 +1223,6 @@
    "locator": "שורה 13"
   },
   {
-   "id": "c76",
-   "text": "לפי ויקיפדיה, ב-1991 הועבר המבנה למשרד הביטחון ששיקם אותו והפכו למוזיאון.",
-   "source": "src4",
-   "quote": "In 1991 the building was transferred to the Ministry of Defense which restored the prison and turned it into a museum.",
-   "status": "confirmed",
-   "locator": "שורה 55"
-  },
-  {
    "id": "c2",
    "text": "המוזיאון שהפיק את הביוגרפיה, מוזיאון אסירי המחתרות בירושלים, פועל במסגרת משרד הביטחון של מדינת ישראל.",
    "source": "src3",
@@ -1403,6 +1293,110 @@
    "quote": "שנפטר בט' בניסן, לפני 37 שנה",
    "status": "confirmed",
    "locator": "שורה 2"
+  },
+  {
+   "id": "c78",
+   "text": "במשך 25 שנה הוא בא לכלא בכל שבת וחג, בכל מזג אוויר, ללא שכר.",
+   "source": "src12",
+   "quote": "Every Shabbat and Yom Tov morning, regardless of heat or cold, he would walk to the prison to daven with them.",
+   "status": "confirmed",
+   "locator": "שורה 22"
+  },
+  {
+   "id": "c79",
+   "text": "במשך 25 שנה הוא בא לכלא בכל שבת וחג, בכל מזג אוויר, ללא שכר.",
+   "source": "src13",
+   "quote": "for his 25 years of visiting Jewish inmates",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c80",
+   "text": "במשך 25 שנה הוא בא לכלא בכל שבת וחג, בכל מזג אוויר, ללא שכר.",
+   "source": "src2",
+   "quote": "Rav Aryeh accepted, on the condition that he would not receive any compensation for his time.",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c81",
+   "text": "איפה: הכלא המרכזי הבריטי, מגרש הרוסים, ירושלים",
+   "source": "src14",
+   "quote": "When the British captured Palestine from the Ottoman's in 1917, they converted the Russian Compound in downtown Jerusalem into an administrative headquarters, and part of it became a central prison.",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c82",
+   "text": "כמה זמן: כ-25 שנה, בכל שבת וחג",
+   "source": "src13",
+   "quote": "for his 25 years of visiting Jewish inmates",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c83",
+   "text": "כמה זמן: כ-25 שנה, בכל שבת וחג",
+   "source": "src12",
+   "quote": "Every Shabbat and Yom Tov morning, regardless of heat or cold, he would walk to the prison to daven with them.",
+   "status": "confirmed",
+   "locator": "שורה 22"
+  },
+  {
+   "id": "c84",
+   "text": "שכר: ללא שכר",
+   "source": "src2",
+   "quote": "Rav Aryeh accepted, on the condition that he would not receive any compensation for his time.",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c85",
+   "text": "במשך 25 שנה בא הרב לכלא בכל שבת וחג, בכל מזג אוויר, ללא שכר או משכורת.",
+   "source": "src15",
+   "quote": "את הכינוי 'רב האסירים' קיבל לאחר שבמשך 25 שנים נהג לבקר בבתי הכלא אצל האסירים היהודיים.",
+   "status": "confirmed",
+   "locator": "שורה 15"
+  },
+  {
+   "id": "c86",
+   "text": "במשך 25 שנה בא הרב לכלא בכל שבת וחג, בכל מזג אוויר, ללא שכר או משכורת.",
+   "source": "src12",
+   "quote": "Every Shabbat and Yom Tov morning, regardless of heat or cold, he would walk to the prison to daven with them.",
+   "status": "confirmed",
+   "locator": "שורה 22"
+  },
+  {
+   "id": "c87",
+   "text": "במשך 25 שנה בא הרב לכלא בכל שבת וחג, בכל מזג אוויר, ללא שכר או משכורת.",
+   "source": "src2",
+   "quote": "Rav Aryeh accepted, on the condition that he would not receive any compensation for his time.",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c88",
+   "text": "גם אחרי צאת השבת הרב לא חזר הביתה, עד שביקר את המשפחות המודאגות ומסר להן דרישות שלום מיקיריהן.",
+   "source": "src12",
+   "quote": "From the prison he would hurry to the families of various prisoners to bring them news of their loved ones.",
+   "status": "confirmed",
+   "locator": "שורה 22"
+  },
+  {
+   "id": "c90",
+   "text": "בערב שלפני ההוצאה להורג ביקר בתאם הרב יעקב גולדמן, והחליט ללוות אותם.",
+   "source": "src16",
+   "quote": "The night before their scheduled execution, Rav Yaakov Goldman came to comfort the young fighters.",
+   "status": "confirmed",
+   "locator": "שורה 25"
+  },
+  {
+   "id": "c91",
+   "text": "בערב שלפני ההוצאה להורג ביקר בתאם הרב יעקב גולדמן, והחליט ללוות אותם.",
+   "source": "src16",
+   "quote": "After many hours together, Rav Goldman insisted that he return the following day to be present at their execution.",
+   "status": "confirmed",
+   "locator": "שורה 26"
   }
  ],
  "sources": [
@@ -1423,12 +1417,6 @@
    "label": "מוזיאון אסירי המחתרות, משרד הביטחון – ביוגרפיה של הרב אריה לוין",
    "url": "https://museums.mod.gov.il:443/sites/Jerusalem/Documents/arie%20levin.pdf",
    "kind": "official"
-  },
-  {
-   "id": "src4",
-   "label": "Wikipedia – Museum of Underground Prisoners",
-   "url": "https://en.wikipedia.org/wiki/Museum_of_Underground_Prisoners",
-   "kind": "reference"
   },
   {
    "id": "src5",
@@ -1471,6 +1459,36 @@
    "label": "ערוץ 7 – הרב אריה לוין",
    "url": "https://www.inn.co.il/news/145148",
    "kind": "press"
+  },
+  {
+   "id": "src12",
+   "label": "Melava Malka Stories: All About Rabbi Aryeh Levin",
+   "url": "https://melavamalkastories.com/2020/07/26/all-about-rabbi-aryeh-levin/",
+   "kind": "other"
+  },
+  {
+   "id": "src13",
+   "label": "Melava Malka Stories: All About Rabbi Aryeh Levin",
+   "url": "https://www.hidabroot.com/article/9684",
+   "kind": "other"
+  },
+  {
+   "id": "src14",
+   "label": "iTravelJerusalem: Museum of Underground Prisoners",
+   "url": "https://www.itraveljerusalem.com/ent/museum-of-underground-prisoners/",
+   "kind": "other"
+  },
+  {
+   "id": "src15",
+   "label": "הידברות: דמויות ביהדות (הרב אריה לוין)",
+   "url": "https://www.hidabroot.org/article/210192",
+   "kind": "press"
+  },
+  {
+   "id": "src16",
+   "label": "Vision Magazine: A Grenade Between Two Hearts",
+   "url": "https://visionmag.org/?p=8453",
+   "kind": "press"
   }
  ],
  "media": [
@@ -1505,7 +1523,6 @@
    "caption": "שלט כחול 'בית הרב אריה לוין זצ\"ל', שמספר בין היתר שבתקופת המנדט הלך הרב בשבתות לבקר את אסירי המחתרות בבית הכלא.",
    "illustrates": [
     "c5",
-    "c25",
     "c26"
    ],
    "licence_url": "https://creativecommons.org/licenses/by/2.5",
@@ -1616,8 +1633,7 @@
    "hosting": "embed",
    "caption": "סרטון על הקשר בין הרב אריה לוין, 'אבי האסירים', לבין אסירי המחתרות.",
    "illustrates": [
-    "c22",
-    "c41"
+    "c22"
    ],
    "spoken": "he",
    "audio_tracks": [
@@ -1923,7 +1939,7 @@
   "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
   "checked_at": "2026-11-21T07:49:28Z",
   "counts": {
-   "confirmed": 95,
+   "confirmed": 88,
    "not_confirmed": 0,
    "deleted_sentences": 4,
    "first_round_confirmed": 93,
@@ -1944,11 +1960,18 @@
    "fix": "opus-5-5 medium"
   },
   "source_quality": {
-   "sources": 11,
-   "wikipedia": 1,
+   "sources": 15,
+   "wikipedia": 0,
    "strong": 7,
    "ok": true,
    "warnings": []
+  },
+  "wiki_cleanup": {
+   "at": "2026-11-27T15:16:46Z",
+   "targets": 14,
+   "resourced": 7,
+   "kept_on_other_sources": 0,
+   "deleted": 7
   }
  }
 }

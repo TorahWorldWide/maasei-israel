@@ -1,0 +1,56 @@
+{
+ "schema": "maasei-backdrop/1",
+ "slug": "montefiore-mishkenot-shaananim-jerusalem",
+ "media": "m3",
+ "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Mishkenot%20Sha%27ananim%20P5240018.JPG?width=1920",
+ "img_small": "https://commons.wikimedia.org/wiki/Special:FilePath/Mishkenot%20Sha%27ananim%20P5240018.JPG?width=1080",
+ "why": "A wide view from the battlemented roof of Mishkenot Sha'ananim across the valley to Mount Zion and the Old City walls, showing the move the story is about: the first homes built outside the walls, facing the crowded old city.",
+ "chosen_by": "opus picker",
+ "alternates": [
+  "m10"
+ ],
+ "from": {
+  "average": "#7a7d84",
+  "picked": "#aec3ef",
+  "coloured_share": 0.044,
+  "lightness": 0.499
+ },
+ "palette": {
+  "paper": "#edeef0",
+  "surface": "#f7f8f8",
+  "band": "#dfe0e5",
+  "tint": "#d7dae0",
+  "header": "#e4e6e9",
+  "rule": "#bcc0c7",
+  "text": "#181d2a",
+  "text2": "#333b4c",
+  "accent": "#3d4c71",
+  "meta": "#535b6e",
+  "tone": "#1b1d22",
+  "shadow": "18, 22, 33"
+ },
+ "checks": {
+  "text_on_paper": 14.49,
+  "text_on_surface": 15.81,
+  "text_on_band": 12.77,
+  "text_on_tint": 12.01,
+  "text_on_header": 13.46,
+  "text2_on_paper": 9.67,
+  "text2_on_surface": 10.55,
+  "text2_on_band": 8.52,
+  "text2_on_tint": 8.02,
+  "text2_on_header": 8.98,
+  "accent_on_paper": 7.32,
+  "accent_on_surface": 7.99,
+  "accent_on_band": 6.45,
+  "accent_on_tint": 6.07,
+  "accent_on_header": 6.8,
+  "meta_on_paper": 5.86,
+  "meta_on_surface": 6.39,
+  "meta_on_band": 5.16,
+  "meta_on_tint": 4.85,
+  "meta_on_header": 5.44,
+  "paper_on_accent": 7.32
+ },
+ "passed": true
+}

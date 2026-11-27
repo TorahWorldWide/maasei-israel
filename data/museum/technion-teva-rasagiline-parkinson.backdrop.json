@@ -1,0 +1,56 @@
+{
+ "schema": "maasei-backdrop/1",
+ "slug": "technion-teva-rasagiline-parkinson",
+ "media": "m17",
+ "img": "https://commons.wikimedia.org/wiki/Special:FilePath/TevaFactoryJerusalem9.jpg?width=1920",
+ "img_small": "https://commons.wikimedia.org/wiki/Special:FilePath/TevaFactoryJerusalem9.jpg?width=1080",
+ "why": "A wide view of Teva's Har Hotzvim plant in Jerusalem on its rocky, tree-covered hillside under a grey sky has depth and texture, and it places the visitor in the drugmaker's world where the Technion molecule became a pill.",
+ "chosen_by": "opus picker",
+ "alternates": [
+  "m8"
+ ],
+ "from": {
+  "average": "#858481",
+  "picked": "#4e3e31",
+  "coloured_share": 0.073,
+  "lightness": 0.515
+ },
+ "palette": {
+  "paper": "#f4eee9",
+  "surface": "#faf8f6",
+  "band": "#ece1d7",
+  "tint": "#eadacc",
+  "header": "#efe6df",
+  "rule": "#d5c0af",
+  "text": "#2a2018",
+  "text2": "#4c3e33",
+  "accent": "#785336",
+  "meta": "#685a4f",
+  "tone": "#22201b",
+  "shadow": "33, 25, 18"
+ },
+ "checks": {
+  "text_on_paper": 13.85,
+  "text_on_surface": 15.04,
+  "text_on_band": 12.38,
+  "text_on_tint": 11.68,
+  "text_on_header": 12.94,
+  "text2_on_paper": 8.93,
+  "text2_on_surface": 9.7,
+  "text2_on_band": 7.98,
+  "text2_on_tint": 7.53,
+  "text2_on_header": 8.34,
+  "accent_on_paper": 5.91,
+  "accent_on_surface": 6.42,
+  "accent_on_band": 5.28,
+  "accent_on_tint": 4.98,
+  "accent_on_header": 5.52,
+  "meta_on_paper": 5.77,
+  "meta_on_surface": 6.27,
+  "meta_on_band": 5.16,
+  "meta_on_tint": 4.87,
+  "meta_on_header": 5.39,
+  "paper_on_accent": 5.91
+ },
+ "passed": true
+}

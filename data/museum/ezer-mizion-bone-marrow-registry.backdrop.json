@@ -1,0 +1,56 @@
+{
+ "schema": "maasei-backdrop/1",
+ "slug": "ezer-mizion-bone-marrow-registry",
+ "media": "m2",
+ "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Ezer%20Mizion%20Petah%20Tikva.jpg?width=1920",
+ "img_small": "https://commons.wikimedia.org/wiki/Special:FilePath/Ezer%20Mizion%20Petah%20Tikva.jpg?width=1080",
+ "why": "A wide, angled view of Ezer Mizion's Beit Ornit building in Petah Tikva, whose sign names the national bone marrow donor registry, with trees and street depth that read well as a darkened backdrop.",
+ "chosen_by": "opus picker",
+ "alternates": [
+  "m8"
+ ],
+ "from": {
+  "average": "#616162",
+  "picked": "#a5886e",
+  "coloured_share": 0.023,
+  "lightness": 0.383
+ },
+ "palette": {
+  "paper": "#ededf0",
+  "surface": "#f7f7f8",
+  "band": "#dfdfe5",
+  "tint": "#d7d7e0",
+  "header": "#e4e4e9",
+  "rule": "#bcbcc7",
+  "text": "#18182a",
+  "text2": "#33334c",
+  "accent": "#3d3d71",
+  "meta": "#53536e",
+  "tone": "#1b1b22",
+  "shadow": "18, 18, 33"
+ },
+ "checks": {
+  "text_on_paper": 14.94,
+  "text_on_surface": 16.31,
+  "text_on_band": 13.15,
+  "text_on_tint": 12.21,
+  "text_on_header": 13.78,
+  "text2_on_paper": 10.46,
+  "text2_on_surface": 11.41,
+  "text2_on_band": 9.21,
+  "text2_on_tint": 8.55,
+  "text2_on_header": 9.64,
+  "accent_on_paper": 8.54,
+  "accent_on_surface": 9.32,
+  "accent_on_band": 7.52,
+  "accent_on_tint": 6.98,
+  "accent_on_header": 7.88,
+  "meta_on_paper": 6.35,
+  "meta_on_surface": 6.93,
+  "meta_on_band": 5.59,
+  "meta_on_tint": 5.19,
+  "meta_on_header": 5.86,
+  "paper_on_accent": 8.54
+ },
+ "passed": true
+}

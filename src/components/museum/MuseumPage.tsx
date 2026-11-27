@@ -619,15 +619,16 @@ function EditorNote({ note, en }: { note: NonNullable<MuseumPageData["editor_not
           {t.opinion}
         </p>
       )}
-      <p className="mx-note-src">
-        {en ? "Sources: " : "מקורות: "}
-        {note.sources.map((s, i) => (
-          <a key={s.url} href={s.url} target="_blank" rel="noopener noreferrer">
-            {i > 0 ? " · " : ""}
-            <bdi>{s.label}</bdi>
-          </a>
+      <p className="mx-note-src">{en ? "Sources:" : "מקורות:"}</p>
+      <ul className="mx-note-src">
+        {note.sources.map((s) => (
+          <li key={s.url} dir="auto">
+            <a href={s.url} target="_blank" rel="noopener noreferrer">
+              {s.label}
+            </a>
+          </li>
         ))}
-      </p>
+      </ul>
     </aside>
   );
 }

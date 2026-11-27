@@ -485,4 +485,6 @@
 .mx-root .mx-note p { margin: 0 0 0.6rem; color: #2e251c; }
 .mx-root .mx-note .mx-note-view { border-top: 1px solid #d8ccb4; padding-top: 0.6rem; }
 .mx-root .mx-note .mx-note-src { font-size: 0.8rem; color: #5e4f40; margin: 0.4rem 0 0; }
+.mx-root .mx-note ul.mx-note-src { list-style: none; padding: 0; line-height: 1.5; }
+.mx-root .mx-note ul.mx-note-src li { margin: 0.25rem 0; }
 .mx-root .mx-note a { color: #8a5a2b; text-decoration: underline; text-underline-offset: 2px; }

@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useRef, useEffect, useMemo, useCallback } from "react";
+import { useState, useRef, useEffect, useLayoutEffect, useMemo, useCallback } from "react";
 import type { CSSProperties } from "react";
 import type { Entry } from "@/lib/data";
 import { entryCategories } from "@/lib/data";
@@ -35,10 +35,54 @@ const CLAMP: CSSProperties = {
   overflow: "hidden",
 };
 
+// 27.11 (Tomer): a different opening every visit. Unseen videos first (remembered in this
+// browser), shuffled, and arranged so neighbours differ in category; when all were seen, start over.
+const SEEN_KEY = "maasei-reel-seen";
+function shuffled<T>(a: T[]): T[] {
+  const b = a.slice();
+  for (let i = b.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [b[i], b[j]] = [b[j], b[i]];
+  }
+  return b;
+}
+function spreadByCategory(list: Entry[]): Entry[] {
+  const left = list.slice();
+  const out: Entry[] = [];
+  while (left.length) {
+    const prev = out.length ? entryCategories(out[out.length - 1])[0] : null;
+    let k = left.findIndex((e) => entryCategories(e)[0] !== prev);
+    if (k < 0) k = 0;
+    out.push(left.splice(k, 1)[0]);
+  }
+  return out;
+}
+function readSeen(): string[] {
+  try {
+    const v = JSON.parse(localStorage.getItem(SEEN_KEY) || "[]");
+    return Array.isArray(v) ? v.filter((x) => typeof x === "string") : [];
+  } catch {
+    return [];
+  }
+}
+function personalOrder(pool: Entry[]): Entry[] {
+  const ids = new Set(pool.map((e) => e.id));
+  let seen = readSeen().filter((id) => ids.has(id));
+  if (seen.length >= pool.length) {
+    seen = [];
+    try { localStorage.setItem(SEEN_KEY, "[]"); } catch {}
+  }
+  const seenSet = new Set(seen);
+  const fresh = spreadByCategory(shuffled(pool.filter((e) => !seenSet.has(e.id))));
+  const byId = new Map(pool.map((e) => [e.id, e] as const));
+  const old = spreadByCategory(seen.map((id) => byId.get(id)!).filter(Boolean)); // oldest seen first
+  return [...fresh, ...old];
+}
+
 export default function Theater({ entries }: TheaterProps) {
   const { lang } = useLang();
-  // Featured = anything with playable video; fall back to any media; then all.
-  const featured = useMemo(() => {
+  // Pool = anything with playable video; fall back to any media; then all.
+  const pool = useMemo(() => {
     const vids = entries.filter(
       (e) =>
         (e.media_type === "video_embed" && ytId(e.media_url || "")) ||
@@ -49,6 +93,14 @@ export default function Theater({ entries }: TheaterProps) {
     return media.length ? media : entries;
   }, [entries]);
 
+  // Server render keeps the file order; the visitor's own order is set before the first paint.
+  const [featured, setFeatured] = useState<Entry[]>(pool);
+  const [ordered, setOrdered] = useState(false);
+  useLayoutEffect(() => {
+    setFeatured(personalOrder(pool));
+    setIdx(0);
+    setOrdered(true);
+  }, [pool]);
   const [idx, setIdx] = useState(0);
   // Video ids that failed to embed (owner-disabled / removed) — we swap in a
   // "watch on YouTube" fallback and skip past them so the stage keeps flowing.
@@ -66,6 +118,16 @@ export default function Theater({ entries }: TheaterProps) {
   const goRef = useRef<(dir: number) => void>(() => {});
 
   const current = featured[idx];
+
+  // Remember what this visitor has been shown, so the next visit opens on something new.
+  useEffect(() => {
+    if (!ordered || !current) return;
+    try {
+      const seen = readSeen().filter((id) => id !== current.id);
+      seen.push(current.id);
+      localStorage.setItem(SEEN_KEY, JSON.stringify(seen.slice(-500)));
+    } catch {}
+  }, [ordered, current?.id]); // eslint-disable-line react-hooks/exhaustive-deps
 
   const go = useCallback(
     (dir: number) => {
@@ -119,6 +181,7 @@ export default function Theater({ entries }: TheaterProps) {
       }
       return;
     }
+    if (!ordered) return;
     let cancelled = false;
     loadYouTubeApi().then(() => {
       if (cancelled || !ytMountRef.current) return;
@@ -175,7 +238,7 @@ export default function Theater({ entries }: TheaterProps) {
         ytPlayerRef.current = null;
       }
     };
-  }, [currentYtId]);
+  }, [currentYtId, ordered]);
 
   // keyboard arrows (RTL: ArrowRight = previous, ArrowLeft = next).
   // Disabled while the depth modal is open — it owns the keyboard then.

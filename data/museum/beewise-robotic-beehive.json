@@ -324,9 +324,10 @@
    "paragraphs": [
     [
      {
-      "text": "כשהמערכת מזהה קרדית, היא מעבירה את המסגרת לתא חימום שמעלה את הטמפרטורה ב-2 מעלות פרנהייט.",
+      "text": "כשהמערכת מזהה קרדית, היא מעבירה את המסגרת לתא חימום.",
       "claims": [
-       "c25"
+       "c25",
+       "c-aud-20261127-2"
       ]
      },
      {
@@ -481,12 +482,6 @@
       "text": "לפי דיווח של בלומברג מ-2025, ביווייז צפתה הכנסות של 100 מיליון דולר באותה שנה, וספרא אמר שהיא כשנה מרווחיות.",
       "claims": [
        "c40"
-      ]
-     },
-     {
-      "text": "לפי דיווח של בלומברג מ-2025, הסטארטאפ רוצה יותר מלשלש את מספר ה-BeeHomes שבשימוש ולהגיע למיליון יחידות בתוך שלוש שנים.",
-      "claims": [
-       "c39"
       ]
      },
      {
@@ -664,15 +659,10 @@
    "question": "כמה יחידות BeeHome פועלות?",
    "versions": [
     {
-     "says": "בלומברג: כ-300,000 יחידות בשימוש ברחבי ארה\"ב",
+     "says": "ביווייז, ב-The Robot Report (2025): 1,240 יחידות BeeHome בפעולה",
      "claims": [
-      "c56"
-     ]
-    },
-    {
-     "says": "DeepLearning.AI: יותר מ-300,000 יחידות בצפון אמריקה",
-     "claims": [
-      "c57"
+      "c56",
+      "c-aud-20261127-1"
      ]
     },
     {
@@ -1050,14 +1040,6 @@
    "locator": "שורה 39"
   },
   {
-   "id": "c39",
-   "text": "הסטארטאפ רוצה יותר מלשלש את מספר ה-BeeHomes ולהגיע למיליון בעוד שלוש שנים.",
-   "source": "src6",
-   "quote": "The startup wants to more than triple the number of BeeHomes in use, reaching 1 million in three years.",
-   "status": "confirmed",
-   "locator": "שורה 34"
-  },
-  {
    "id": "c67",
    "text": "ספרא מקווה ש-BeeHome תחליף בהדרגה את כ-100 מיליון הכוורות בעולם.",
    "source": "src2",
@@ -1218,14 +1200,6 @@
    "locator": "שורה 150"
   },
   {
-   "id": "c57",
-   "text": "לפי DeepLearning.AI, יותר מ-300,000 יחידות פרוסות בצפון אמריקה.",
-   "source": "src5",
-   "quote": "Over 300,000 units are currently deployed in North America",
-   "status": "confirmed",
-   "locator": "שורה 2"
-  },
-  {
    "id": "c58",
    "text": "לפי AgriFutures ב-2023, ל-BeeHome יש כבר יותר מ-1000 יחידות בארה\"ב.",
    "source": "src9",
@@ -1256,6 +1230,24 @@
    "quote": "the robot is a tool for beekeepers, but doesn't replace them",
    "status": "confirmed",
    "locator": "שורה 16"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "ביווייז, ב-The Robot Report (2025): 1,240 יחידות BeeHome בפעולה",
+   "source": "src9001",
+   "quote": "All 1,240 BeeHomes currently in operation",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "כשהמערכת מזהה קרדית, היא מעבירה את המסגרת לתא חימום.",
+   "source": "src5",
+   "quote": "it moves the affected frame to a warming compartment",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1324,6 +1316,13 @@
    "label": "Sustainable Brands",
    "url": "https://sustainablebrands.com/read/world-s-first-robotic-beekeeper-on-mission-to-repopulate-and-protect-global-honeybee-populations",
    "kind": "press"
+  },
+  {
+   "id": "src9001",
+   "label": "The Robot Report, Beewise brings in $50M to expand access to its robotic BeeHome, June 2025",
+   "url": "https://www.therobotreport.com/beewise-brings-50m-expands-access-robotic-beehome/",
+   "kind": "press",
+   "date": "2026-11-27"
   }
  ],
  "media": [

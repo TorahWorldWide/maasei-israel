@@ -536,9 +536,10 @@
    "question": "מתי נולדה השיטה?",
    "versions": [
     {
-     "says": "לפי המכלול, השיטה פותחה ב-1989",
+     "says": "לדברי בנימיני, המאמר הוגש לראשונה ב-1989, ועבר שלושה כתבי עת במשך כמעט חמש שנים עד שפורסם",
      "claims": [
-      "c96"
+      "c96",
+      "c-aud-20261127-1"
      ]
     },
     {
@@ -1129,6 +1130,15 @@
    "quote": "So, a month later we submitted the paper that was 1989.",
    "status": "confirmed",
    "locator": "שורה 16"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "לדברי בנימיני, המאמר הוגש לראשונה ב-1989, ועבר שלושה כתבי עת במשך כמעט חמש שנים עד שפורסם",
+   "source": "src17",
+   "quote": "So, a month later we submitted the paper that was 1989. And as you mentioned it took us three journals and almost five years",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [

@@ -1,7 +1,7 @@
 {
  "schema": "maasei-museum/1",
  "slug": "bela-schick-diphtheria-test",
- "deed": "בלה שיק פיתח בדיקה שחשפה מי עלול לחלות בדיפתריה והצילה ילדים",
+ "deed": "Béla Schick developed a test that revealed who was at risk of contracting diphtheria and saved children",
  "canonical_type": "single-inventor",
  "year": "1913",
  "title": "Béla Schick developed a simple test that revealed which children were vulnerable to diphtheria and helped save them",
@@ -387,12 +387,6 @@
       "claims": [
        "c28"
       ]
-     },
-     {
-      "text": "According to the Jewish-American Hall of Fame, the test eventually led to the eradication of this disease.",
-      "claims": [
-       "c29"
-      ]
      }
     ],
     [
@@ -422,9 +416,7 @@
     "m27",
     "m28"
    ],
-   "disagreements": [
-    "d3"
-   ]
+   "disagreements": []
   },
   {
    "id": "s6",
@@ -487,9 +479,7 @@
     ]
    ],
    "media": [],
-   "disagreements": [
-    "d4"
-   ]
+   "disagreements": []
   },
   {
    "id": "s7",
@@ -510,15 +500,10 @@
       ]
      },
      {
-      "text": "Schick was also the founder of the American Academy of Pediatrics,",
+      "text": "Schick also studied scarlet fever, tuberculosis and infant nutrition.",
       "claims": [
-       "c38"
-      ]
-     },
-     {
-      "text": "and also studied scarlet fever, tuberculosis and infant nutrition.",
-      "claims": [
-       "c62"
+       "c62",
+       "c-aud-20261127-1"
       ]
      }
     ],
@@ -621,42 +606,6 @@
    ]
   },
   {
-   "id": "d3",
-   "question": "What was developed in 1923?",
-   "versions": [
-    {
-     "says": "According to Encyclopedia.com, an antitoxin without side effects was developed and given to babies in their first year of life",
-     "claims": [
-      "c58"
-     ]
-    },
-    {
-     "says": "According to EBSCO, a formalin-treated toxin was used to vaccinate people, and was found to be safe",
-     "claims": [
-      "c59"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "d4",
-   "question": "Why was Schick named Extraordinary Professor in 1918?",
-   "versions": [
-    {
-     "says": "According to EBSCO, because of his work",
-     "claims": [
-      "c35"
-     ]
-    },
-    {
-     "says": "According to the Jewish Press, the special title was created for him because at the time only Catholics could become full professors in Germany and Austria",
-     "claims": [
-      "c36"
-     ]
-    }
-   ]
-  },
-  {
    "id": "d5",
    "question": "How many children did Schick treat?",
    "versions": [
@@ -667,9 +616,10 @@
      ]
     },
     {
-     "says": "According to Time, he treated tens of thousands of children in Vienna and in New York since 1923",
+     "says": "According to Time, he treated tens of thousands of children in Vienna and, since 1923, in New York",
      "claims": [
-      "c45"
+      "c45",
+      "c-aud-20261127-2"
      ]
     }
    ]
@@ -941,14 +891,6 @@
    "locator": "שורה 6"
   },
   {
-   "id": "c29",
-   "text": "לפי היכל התהילה היהודי-אמריקאי, הבדיקה הובילה בסופו של דבר לחיסול המחלה שפגעה ב-100,000 אמריקאים ב-1927 וגרמה לכ-10,000 מקרי מוות.",
-   "source": "src6",
-   "quote": "eventually led to the eradication of the childhood disease that attacked 100,000 Americans in 1927, leading to about 10,000 deaths.",
-   "status": "confirmed",
-   "locator": "שורה 8"
-  },
-  {
    "id": "c60",
    "text": "לפי טיים, שיק הכריז על הבדיקה ב-1913, ותוך עשור חומר חיסון בטוח בהרבה (טוקסואיד) הפחית את רוב הסיכון באמצעי המניעה.",
    "source": "src5",
@@ -1037,14 +979,6 @@
    "locator": "שורה 22"
   },
   {
-   "id": "c38",
-   "text": "שיק היה גם מייסד האקדמיה האמריקאית לרפואת ילדים.",
-   "source": "src3",
-   "quote": "Schick was also the founder of the American Academy of Pediatrics.",
-   "status": "confirmed",
-   "locator": "שורה 7"
-  },
-  {
    "id": "c62",
    "text": "שיק חקר גם קדחת ארגמן, שחפת ותזונת תינוקות.",
    "source": "src7",
@@ -1125,30 +1059,6 @@
    "locator": "שורה 2"
   },
   {
-   "id": "c58",
-   "text": "ב-1923 פותח נוגדן ללא תופעות לוואי, שניתן לתינוקות בשנת חייהם הראשונה.",
-   "source": "src3",
-   "quote": "In 1923, an antitoxin without side effects was developed and was then given to babies during their first year of life.",
-   "status": "confirmed",
-   "locator": "שורה 12"
-  },
-  {
-   "id": "c59",
-   "text": "ב-1923 הופעל רעלן שטופל בפורמלין לחיסון אנשים נגד דיפתריה ונמצא בטוח.",
-   "source": "src4",
-   "quote": "In 1923, a formalin-treated toxin was used to vaccinate people against diphtheria and was found to be safe.",
-   "status": "confirmed",
-   "locator": "שורה 57"
-  },
-  {
-   "id": "c36",
-   "text": "לפי Jewish Press, התואר המיוחד נוצר עבורו משום שרק קתולים יכלו להיות פרופסורים מן המניין בגרמניה ובאוסטריה באותן שנים.",
-   "source": "src2",
-   "quote": "a unique title that was developed for him because only Catholics could become full professors in Germany and Austria in those years",
-   "status": "confirmed",
-   "locator": "שורה 18"
-  },
-  {
    "id": "c44",
    "text": "לפי אנציקלופדיה.קום, שיק העריך פעם שטיפל ביותר ממיליון ילדים.",
    "source": "src3",
@@ -1211,6 +1121,24 @@
    "quote": "A control injection is given at the same time into the skin of the right arm.",
    "status": "confirmed",
    "locator": "שורה 17"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "שיק חקר גם קדחת ארגמן, שחפת ותזונת תינוקות.",
+   "source": "src12",
+   "quote": "made contributions to knowledge about scarlet fever",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "לפי טיים, הוא טיפל בעשרות אלפי ילדים בווינה, ומאז 1923 גם בניו יורק",
+   "source": "src5",
+   "quote": "tens of thousands of children in Vienna and (since 1923) in New York",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [

@@ -302,9 +302,10 @@
       ]
      },
      {
-      "text": "ועדת נובל ציינה שגני ה-MHC הם מערכת זיהוי עצמי שמאפשרת למערכת החיסון לא לפגוע בתאי הגוף עצמו.",
+      "text": "לפי אתר פרס נובל, גני ה-MHC הם מערכת זיהוי עצמי שמאפשרת למערכת החיסון לא לפגוע בתאי הגוף עצמו.",
       "claims": [
-       "c28"
+       "c28",
+       "c-aud-20261127-2"
       ]
      }
     ],
@@ -330,9 +331,10 @@
     ],
     [
      {
-      "text": "לפי אדוארד בנץ, נשיא דנה-פארבר, תגליותיו אפשרו חלק גדול ממה שידוע היום על זיהום, מחלות אוטואימוניות וסרטן.",
+      "text": "לפי אדוארד בנץ, שהיה נשיא דנה-פארבר בעת מותו של בנאסראף, תגליותיו אפשרו חלק גדול ממה שידוע היום על זיהום, מחלות אוטואימוניות וסרטן.",
       "claims": [
-       "c33"
+       "c33",
+       "c-aud-20261127-1"
       ]
      },
      {
@@ -1013,6 +1015,24 @@
    "quote": "as its president from 1980-92",
    "status": "confirmed",
    "locator": "שורה 4"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "לפי אדוארד בנץ, שהיה נשיא דנה-פארבר בעת מותו של בנאסראף, תגליותיו אפשרו חלק גדול ממה שידוע היום על זיהום, מחלות אוטואימוניות וסרטן.",
+   "source": "src9001",
+   "quote": "current President Edward J. Benz, Jr., MD, has agreed to remain as president until her arrival",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "לפי אתר פרס נובל, גני ה-MHC הם מערכת זיהוי עצמי שמאפשרת למערכת החיסון לא לפגוע בתאי הגוף עצמו.",
+   "source": "src9002",
+   "quote": "Achieving this requires a sophisticated self-identification system",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1081,6 +1101,20 @@
    "label": "JTA, 1980",
    "url": "https://www.jta.org/archive/sephardic-jew-shares-1980-nobel-prize-in-the-field-of-physiology",
    "kind": "press"
+  },
+  {
+   "id": "src9001",
+   "label": "Dana-Farber Cancer Institute, Laurie H. Glimcher, MD, named President of Dana-Farber Cancer Institute, 2016",
+   "url": "https://www.dana-farber.org/newsroom/news-releases/2016/laurie-h-glimcher-md-named-president-of-dana-farber-cancer-institute",
+   "kind": "organisation",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9002",
+   "label": "NobelPrize.org, Speed read: Seeking signs of compatibility (Physiology or Medicine 1980)",
+   "url": "https://www.nobelprize.org/prizes/medicine/1980/speedread/",
+   "kind": "official",
+   "date": "2026-11-27"
   }
  ],
  "media": [

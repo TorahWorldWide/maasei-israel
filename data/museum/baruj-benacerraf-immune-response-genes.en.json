@@ -1,7 +1,7 @@
 {
  "schema": "maasei-museum/1",
  "slug": "baruj-benacerraf-immune-response-genes",
- "deed": "ברוך בנאסראף גילה את הגנים המאפשרים למערכת החיסון להבחין בין עצמי לזר",
+ "deed": "Baruj Benacerraf discovered the genes that enable the immune system to distinguish between self and non-self",
  "canonical_type": "scientific-discovery",
  "year": "1948",
  "title": "Baruj Benacerraf discovered the genes that help the immune system distinguish between self and non-self",
@@ -302,9 +302,10 @@
       ]
      },
      {
-      "text": "The Nobel committee noted that the MHC genes are a self-identification system that allows the immune system not to harm the body's own cells.",
+      "text": "According to the Nobel Prize website, the MHC genes are a self-identification system that allows the immune system not to harm the body's own cells.",
       "claims": [
-       "c28"
+       "c28",
+       "c-aud-20261127-2"
       ]
      }
     ],
@@ -330,9 +331,10 @@
     ],
     [
      {
-      "text": "According to Edward Benz, president of Dana-Farber, his discoveries made possible much of what is known today about infection, autoimmune diseases and cancer.",
+      "text": "According to Edward Benz, who was president of Dana-Farber at the time of Benacerraf's death, his discoveries made possible much of what is known today about infection, autoimmune diseases and cancer.",
       "claims": [
-       "c33"
+       "c33",
+       "c-aud-20261127-1"
       ]
      },
      {
@@ -1013,6 +1015,24 @@
    "quote": "as its president from 1980-92",
    "status": "confirmed",
    "locator": "שורה 4"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "לפי אדוארד בנץ, שהיה נשיא דנה-פארבר בעת מותו של בנאסראף, תגליותיו אפשרו חלק גדול ממה שידוע היום על זיהום, מחלות אוטואימוניות וסרטן.",
+   "source": "src9001",
+   "quote": "current President Edward J. Benz, Jr., MD, has agreed to remain as president until her arrival",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "לפי אתר פרס נובל, גני ה-MHC הם מערכת זיהוי עצמי שמאפשרת למערכת החיסון לא לפגוע בתאי הגוף עצמו.",
+   "source": "src9002",
+   "quote": "Achieving this requires a sophisticated self-identification system",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1081,6 +1101,20 @@
    "label": "JTA, 1980",
    "url": "https://www.jta.org/archive/sephardic-jew-shares-1980-nobel-prize-in-the-field-of-physiology",
    "kind": "press"
+  },
+  {
+   "id": "src9001",
+   "label": "Dana-Farber Cancer Institute, Laurie H. Glimcher, MD, named President of Dana-Farber Cancer Institute, 2016",
+   "url": "https://www.dana-farber.org/newsroom/news-releases/2016/laurie-h-glimcher-md-named-president-of-dana-farber-cancer-institute",
+   "kind": "organisation",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9002",
+   "label": "NobelPrize.org, Speed read: Seeking signs of compatibility (Physiology or Medicine 1980)",
+   "url": "https://www.nobelprize.org/prizes/medicine/1980/speedread/",
+   "kind": "official",
+   "date": "2026-11-27"
   }
  ],
  "media": [

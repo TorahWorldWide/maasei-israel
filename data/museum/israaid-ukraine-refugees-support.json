@@ -364,7 +364,8 @@
    ],
    "media": [],
    "disagreements": [
-    "d9001"
+    "d9001",
+    "d9002"
    ]
   },
   {
@@ -715,6 +716,24 @@
   },
   {
    "id": "d9001",
+   "question": "מתי התחילה IsraAID להכשיר אנשי טיפול בבוצ'ה?",
+   "versions": [
+    {
+     "says": "IsraAID (ציר הזמן לשנה למלחמה): ביוני 2022, עם הכניסה לאוקראינה, הוכשרו פסיכולוגים ועובדים סוציאליים באירפין ובבוצ'ה",
+     "claims": [
+      "c-aud-20261127-1"
+     ]
+    },
+    {
+     "says": "eJewishPhilanthropy (יולי 2022): בתחילת יוני רק פנה הארגון לממשלת אוקראינה. המפגש הראשון בבוצ'ה היה פיילוט לא מתוכנן בביקורו של פוליצר בתחילת יולי",
+     "claims": [
+      "c-aud-20261127-2"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9002",
    "question": "מתי התחילה IsraAID להכשיר אנשי טיפול בבוצ'ה?",
    "versions": [
     {
@@ -1278,6 +1297,24 @@
    "text": "פוליצר לג'רוזלם פוסט: הוא עוסק בעבודה הזו 14 שנה",
    "source": "src1",
    "quote": "doing this work for 14 years",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "IsraAID (ציר הזמן לשנה למלחמה): ביוני 2022, עם הכניסה לאוקראינה, הוכשרו פסיכולוגים ועובדים סוציאליים באירפין ובבוצ'ה",
+   "source": "src2",
+   "quote": "mental health and psychosocial support training for psychologists and social workers in Irpin and Bucha",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "eJewishPhilanthropy (יולי 2022): בתחילת יוני רק פנה הארגון לממשלת אוקראינה. המפגש הראשון בבוצ'ה היה פיילוט לא מתוכנן בביקורו של פוליצר בתחילת יולי",
+   "source": "src7",
+   "quote": "the post-trauma program accidentally piloted in Bucha",
    "locator": "audit 2026-11-27",
    "status": "confirmed",
    "checker_note": "audit: quote found on the fetched page"

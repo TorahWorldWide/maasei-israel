@@ -72,9 +72,10 @@
   },
   {
    "label": "היקף",
-   "value": "אירופה, דרום-מזרח אסיה, דרום אמריקה (לפי פוקס ניוז).",
+   "value": "אירופה, דרום-מזרח אסיה, דרום אמריקה (2023)",
    "claims": [
-    "c53"
+    "c53",
+    "c-aud-20261127-1"
    ]
   },
   {
@@ -1240,6 +1241,15 @@
    "quote": "averaging more than $12,000 per session, according to the American Society of Reproductive Medicine",
    "status": "confirmed",
    "locator": "שורה 5"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "אירופה, דרום-מזרח אסיה, דרום אמריקה (2023)",
+   "source": "src1",
+   "quote": "technology is right now in use in Europe, Southeast Asia and South America",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [

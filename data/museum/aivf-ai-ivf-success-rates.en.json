@@ -76,7 +76,8 @@
    "value": "Europe, Southeast Asia, South America (2023)",
    "claims": [
     "c53",
-    "c-aud-20261127-2"
+    "c-aud-20261127-2",
+    "c-aud-20261127-1"
    ]
   },
   {
@@ -1255,6 +1256,15 @@
   {
    "id": "c-aud-20261127-3",
    "text": "ב-2021 קיבלה הפלטפורמה את סימון CE האירופי, ולפי פוקס ניוז, ב-2023 היא הייתה בשימוש באירופה, בדרום-מזרח אסיה ובדרום אמריקה.",
+   "source": "src1",
+   "quote": "technology is right now in use in Europe, Southeast Asia and South America",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "אירופה, דרום-מזרח אסיה, דרום אמריקה (2023)",
    "source": "src1",
    "quote": "technology is right now in use in Europe, Southeast Asia and South America",
    "locator": "audit 2026-11-27",

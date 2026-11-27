@@ -190,9 +190,10 @@
     ],
     [
      {
-      "text": "לפי בלוג ב-Times of Israel, ספרו \"זכותו של הילד לכבוד\" יצא ב-1925, בתקופה שבה ענישה גופנית הייתה מקובלת.",
+      "text": "ספרו \"זכותו של הילד לכבוד\" יצא ב-1929. לפי בלוג ב-Times of Israel, הוא יצא בתקופה שבה ענישה גופנית הייתה מקובלת.",
       "claims": [
-       "c68"
+       "c68",
+       "c-aud-20261127-1"
       ]
      },
      {
@@ -213,7 +214,8 @@
    ],
    "disagreements": [
     "d3",
-    "d9001"
+    "d9001",
+    "d9002"
    ]
   },
   {
@@ -792,6 +794,24 @@
      "says": "יד ושם (חומר לימוד): ב-1910",
      "claims": [
       "c-aud-20261127-4"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9002",
+   "question": "באיזו שנה פגש קורצ'אק את סטפה וילצ'ינסקה?",
+   "versions": [
+    {
+     "says": "יד ושם (הודעה לעיתונות): ב-1909",
+     "claims": [
+      "c-aud-20261127-2"
+     ]
+    },
+    {
+     "says": "יד ושם (חומר לימוד): ב-1910",
+     "claims": [
+      "c-aud-20261127-3"
      ]
     }
    ]
@@ -1391,6 +1411,33 @@
    "locator": "audit 2026-11-27",
    "status": "confirmed",
    "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "ספרו \"זכותו של הילד לכבוד\" יצא ב-1929. לפי בלוג ב-Times of Israel, הוא יצא בתקופה שבה ענישה גופנית הייתה מקובלת.",
+   "source": "src9001",
+   "quote": "The book was issued only the once during Korczak's lifetime – in 1929.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "יד ושם (הודעה לעיתונות): ב-1909",
+   "source": "src5",
+   "quote": "In 1909, she met Korczak and the two began working together.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "יד ושם (חומר לימוד): ב-1910",
+   "source": "src1",
+   "quote": "There, in 1910, he met Stefania Wilczyńska (Stefa)",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
   }
  ],
  "sources": [
@@ -1459,6 +1506,13 @@
    "label": "יד ושם, מאגר שמות הנספים: רשומת קורצ'אק",
    "url": "https://collections.yadvashem.org/en/names/13919330",
    "kind": "official"
+  },
+  {
+   "id": "src9001",
+   "label": "University of Warsaw, Korczak Digital Repository, Prawo dziecka do szacunku",
+   "url": "https://korczak.ckc.uw.edu.pl/items/show/84",
+   "kind": "reference",
+   "date": "2026-11-27"
   }
  ],
  "media": [

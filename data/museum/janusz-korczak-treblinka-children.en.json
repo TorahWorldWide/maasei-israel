@@ -1,7 +1,7 @@
 {
  "schema": "maasei-museum/1",
  "slug": "janusz-korczak-treblinka-children",
- "deed": "יאנוש קורצ'אק דחה מחבוא בצד הארי וצעד לרכבת עם כמאתיים ילדים",
+ "deed": "Janusz Korczak turned down a hiding place on the Aryan side and marched to the train with some two hundred children",
  "canonical_type": "individual-heroism",
  "year": "1940",
  "title": "Janusz Korczak turned down a hiding place on the Aryan side and marched with some two hundred children to the train to Treblinka",
@@ -190,9 +190,10 @@
     ],
     [
      {
-      "text": "According to a blog on the Times of Israel, his book “The Child’s Right to Respect” came out in 1925, at a time when corporal punishment was acceptable.",
+      "text": "His book “The Child’s Right to Respect” came out in 1929. According to a blog on the Times of Israel, it appeared at a time when corporal punishment was acceptable.",
       "claims": [
-       "c68"
+       "c68",
+       "c-aud-20261127-1"
       ]
      },
      {
@@ -213,7 +214,8 @@
    ],
    "disagreements": [
     "d3",
-    "d9001"
+    "d9001",
+    "d9002"
    ]
   },
   {
@@ -792,6 +794,24 @@
      "says": "Yad Vashem (educational material): in 1910",
      "claims": [
       "c-aud-20261127-4"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9002",
+   "question": "In what year did Korczak meet Stefa Wilczynska?",
+   "versions": [
+    {
+     "says": "Yad Vashem (press release): in 1909",
+     "claims": [
+      "c-aud-20261127-2"
+     ]
+    },
+    {
+     "says": "Yad Vashem (educational material): in 1910",
+     "claims": [
+      "c-aud-20261127-3"
      ]
     }
    ]
@@ -1391,6 +1411,33 @@
    "locator": "audit 2026-11-27",
    "status": "confirmed",
    "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "ספרו \"זכותו של הילד לכבוד\" יצא ב-1929. לפי בלוג ב-Times of Israel, הוא יצא בתקופה שבה ענישה גופנית הייתה מקובלת.",
+   "source": "src9001",
+   "quote": "The book was issued only the once during Korczak's lifetime – in 1929.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "יד ושם (הודעה לעיתונות): ב-1909",
+   "source": "src5",
+   "quote": "In 1909, she met Korczak and the two began working together.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "יד ושם (חומר לימוד): ב-1910",
+   "source": "src1",
+   "quote": "There, in 1910, he met Stefania Wilczyńska (Stefa)",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
   }
  ],
  "sources": [
@@ -1459,6 +1506,13 @@
    "label": "Yad Vashem, Names Database of Victims: Korczak record",
    "url": "https://collections.yadvashem.org/en/names/13919330",
    "kind": "official"
+  },
+  {
+   "id": "src9001",
+   "label": "University of Warsaw, Korczak Digital Repository, Prawo dziecka do szacunku",
+   "url": "https://korczak.ckc.uw.edu.pl/items/show/84",
+   "kind": "reference",
+   "date": "2026-11-27"
   }
  ],
  "media": [

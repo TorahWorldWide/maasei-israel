@@ -15,8 +15,9 @@
   {
    "text": "בראשית מאי 2008 פגע הציקלון נארגיס במיאנמר, ולפי JTA יותר ממיליון איש נותרו בלי בית, בלי מזון ובלי מי שתייה בטוחים.",
    "claims": [
-    "c47",
-    "c32"
+    "c32",
+    "c56",
+    "c57"
    ]
   },
   {
@@ -67,7 +68,7 @@
    "value": "מאי 2008",
    "claims": [
     "c30",
-    "c47"
+    "c58"
    ]
   },
   {
@@ -108,15 +109,9 @@
    "paragraphs": [
     [
      {
-      "text": "נארגיס הייתה סופת ציקלון בדרגה 4 בסולם ספיר-סימפסון.",
-      "claims": [
-       "c47"
-      ]
-     },
-     {
       "text": "היא פגעה במיאנמר בראשית מאי 2008.",
       "claims": [
-       "c47"
+       "c60"
       ]
      },
      {
@@ -158,7 +153,8 @@
       "claims": [
        "c17",
        "c37",
-       "c45"
+       "c61",
+       "c62"
       ]
      }
     ]
@@ -439,13 +435,7 @@
      {
       "text": "החונטה השלטת במיאנמר הציבה מכשולים בפני משלחות סיוע זרות.",
       "claims": [
-       "c46"
-      ]
-     },
-     {
-      "text": "אנשי ארגוני סיוע והאו\"ם התקשו לקבל היתרי כניסה.",
-      "claims": [
-       "c46"
+       "c63"
       ]
      },
      {
@@ -543,12 +533,6 @@
      ]
     },
     {
-     "says": "לפי המכלול, המניין הרשמי עמד על כ-78,000 הרוגים וכ-56,000 נעדרים",
-     "claims": [
-      "c44"
-     ]
-    },
-    {
      "says": "לפי ISRAEL21c, ארגוני סיוע מסוימים העריכו עד 100,000 הרוגים",
      "claims": [
       "c3"
@@ -558,19 +542,14 @@
      "says": "לפי מידע שהגיע לשגרירות האמריקאית, ומקורות באו\"ם ובצלב האדום, יותר מ-100 אלף הרוגים",
      "claims": [
       "c34",
-      "c50"
+      "c67",
+      "c68"
      ]
     },
     {
      "says": "לפי וואלה!, בדיווח מאוחר יותר המספר עלה ל-133 אלף",
      "claims": [
       "c36"
-     ]
-    },
-    {
-     "says": "בטבלת הערך במכלול מוערך מספר ההרוגים ב-146,000.",
-     "claims": [
-      "c45"
      ]
     }
    ]
@@ -629,14 +608,6 @@
    "quote": "The executive members of IsraAID who represent 15 non-governmental organizations in Israel",
    "status": "confirmed",
    "locator": "שורה 9"
-  },
-  {
-   "id": "c47",
-   "text": "נארגיס הייתה סופת ציקלון בדרגה 4 בסולם ספיר-סימפסון שפגעה במיאנמר בראשית מאי 2008.",
-   "source": "src2",
-   "quote": "סופת ציקלון בדרגה 4 בסולם ספיר-סימפסון שפגעה במיאנמר בראשית מאי 2008",
-   "status": "confirmed",
-   "locator": "שורה 23"
   },
   {
    "id": "c32",
@@ -775,14 +746,6 @@
    "locator": "שורה 6"
   },
   {
-   "id": "c45",
-   "text": "בטבלת הערך מוערך מספר ההרוגים בציקלון נארגיס ב-146,000.",
-   "source": "src2",
-   "quote": "146,000 (הערכה)",
-   "status": "confirmed",
-   "locator": "שורה 19"
-  },
-  {
    "id": "c14",
    "text": "לפי המאמר, IsraAID שלח סיוע לאחר הוריקן קטרינה ולאחר צונאמי 2004.",
    "source": "src1",
@@ -887,14 +850,6 @@
    "locator": "שורה 7"
   },
   {
-   "id": "c46",
-   "text": "החונטה השלטת במיאנמר העמידה מכשולים בפני משלחות סיוע זרות, ואנשי ארגוני סיוע והאו\"ם התקשו לקבל היתרי כניסה.",
-   "source": "src2",
-   "quote": "כניסתם של אנשי משלחות סיוע מטעם מדינות זרות לא אושרה, וגם אנשי ארגוני סיוע ואנשי האו\"ם התקשו לקבל היתרי כניסה",
-   "status": "confirmed",
-   "locator": "שורה 26"
-  },
-  {
    "id": "c39",
    "text": "המשטר הצבאי רמז שיסכים לקבל אספקה אך לא יאפשר כניסה של צוותי סיוע זרים.",
    "source": "src6",
@@ -983,14 +938,6 @@
    "locator": "שורה 8"
   },
   {
-   "id": "c44",
-   "text": "לפי המניין הרשמי בעת כתיבת הערך, נארגיס הותירה כ-78,000 הרוגים וכ-56,000 נעדרים.",
-   "source": "src2",
-   "quote": "לפי המניין הרשמי הנוכחי, כ-78,000 הרוגים וכ-56,000 נעדרים",
-   "status": "confirmed",
-   "locator": "שורה 25"
-  },
-  {
    "id": "c3",
    "text": "לפי המאמר, ארגוני סיוע מסוימים מאמינים שעד 100,000 בני אדם נהרגו באסון.",
    "source": "src1",
@@ -1005,14 +952,6 @@
    "quote": "יותר מ-100 אלף בני אדם נהרגו, ויותר ממיליון איבדו את בתיהם בסופת הציקלון הקטלנית שפגעה במיאנמר",
    "status": "confirmed",
    "locator": "שורה 2"
-  },
-  {
-   "id": "c50",
-   "text": "מקורות האו\"ם והצלב האדום העריכו שמספר ההרוגים עולה על 100,000.",
-   "source": "src2",
-   "quote": "מקורות האו\"ם והצלב האדום העריכו כי מספר ההרוגים עולה על 100,000 בני-אדם",
-   "status": "confirmed",
-   "locator": "שורה 25"
   },
   {
    "id": "c36",
@@ -1037,6 +976,78 @@
    "quote": "חברת הביטוח הראל הודיעה שתשגר היום משלחת איתור וחילוץ, בניסיון לאתר את עמית אפרתי",
    "status": "confirmed",
    "locator": "שורה 10"
+  },
+  {
+   "id": "c56",
+   "text": "בראשית מאי 2008 פגע הציקלון נארגיס במיאנמר, ולפי JTA יותר ממיליון איש נותרו בלי בית, בלי מזון ובלי מי שתייה בטוחים.",
+   "source": "src11",
+   "quote": "More than a million people have been left homeless and without food or safe drinking water.",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c57",
+   "text": "בראשית מאי 2008 פגע הציקלון נארגיס במיאנמר, ולפי JTA יותר ממיליון איש נותרו בלי בית, בלי מזון ובלי מי שתייה בטוחים.",
+   "source": "src12",
+   "quote": "Cyclone Nargis struck southern Burma on May 2-3, 2008, killing at least 140,000 people",
+   "status": "confirmed",
+   "locator": "שורה 29"
+  },
+  {
+   "id": "c58",
+   "text": "מתי: מאי 2008",
+   "source": "src12",
+   "quote": "Cyclone Nargis struck southern Burma on May 2-3, 2008, killing at least 140,000 people",
+   "status": "confirmed",
+   "locator": "שורה 29"
+  },
+  {
+   "id": "c60",
+   "text": "היא פגעה במיאנמר בראשית מאי 2008.",
+   "source": "src12",
+   "quote": "Cyclone Nargis struck southern Burma on May 2-3, 2008, killing at least 140,000 people",
+   "status": "confirmed",
+   "locator": "שורה 29"
+  },
+  {
+   "id": "c61",
+   "text": "כמה אנשים נהרגו? המקורות נותנים מספרים שונים מאוד.",
+   "source": "src12",
+   "quote": "Cyclone Nargis struck southern Burma on May 2-3, 2008, killing at least 140,000 people",
+   "status": "confirmed",
+   "locator": "שורה 29"
+  },
+  {
+   "id": "c62",
+   "text": "כמה אנשים נהרגו? המקורות נותנים מספרים שונים מאוד.",
+   "source": "src13",
+   "quote": "well over 90,000 people were confirmed dead",
+   "status": "confirmed",
+   "locator": "שורה 25"
+  },
+  {
+   "id": "c63",
+   "text": "החונטה השלטת במיאנמר הציבה מכשולים בפני משלחות סיוע זרות.",
+   "source": "src12",
+   "quote": "The military government blocked large-scale international relief efforts by delaying the issuance of visas to aid workers",
+   "status": "confirmed",
+   "locator": "שורה 30"
+  },
+  {
+   "id": "c67",
+   "text": "לפי מידע שהגיע לשגרירות האמריקאית, ומקורות באו\"ם ובצלב האדום, יותר מ-100 אלף הרוגים",
+   "source": "src14",
+   "quote": "both the Red Cross and United Nations had estimated a death toll above 100,000",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c68",
+   "text": "לפי מידע שהגיע לשגרירות האמריקאית, ומקורות באו\"ם ובצלב האדום, יותר מ-100 אלף הרוגים",
+   "source": "src15",
+   "quote": "המידע שאנו מקבלים מצביע על כך שמניין ההרוגים באזור דלתת נהר האירוואדי עלול להיות גבוה יותר מ-100 אלף",
+   "status": "confirmed",
+   "locator": "שורה 4"
   }
  ],
  "sources": [
@@ -1045,12 +1056,6 @@
    "label": "ISRAEL21c, מאי 2008",
    "url": "https://archive.israel21c.org/social-action-2/israel-flies-in-relief-volunteers-to-myanmar/",
    "kind": "press"
-  },
-  {
-   "id": "src2",
-   "label": "המכלול, ציקלון נארגיס",
-   "url": "https://www.hamichlol.org.il/ציקלון_נארגיס",
-   "kind": "reference"
   },
   {
    "id": "src3",
@@ -1098,6 +1103,36 @@
    "id": "src10",
    "label": "NEWSru.co.il, 5.5.2008",
    "url": "https://www.newsru.co.il/world/5may2008/myanmar411.html",
+   "kind": "press"
+  },
+  {
+   "id": "src11",
+   "label": "JTA: Israeli relief workers reach Myanmar (13 May 2008)",
+   "url": "https://jta.org/?p=423838",
+   "kind": "press"
+  },
+  {
+   "id": "src12",
+   "label": "JTA: Israeli relief workers reach Myanmar (13 May 2008)",
+   "url": "https://www.hrw.org/report/2010/04/28/i-want-help-my-own-people/state-control-and-civil-society-burma-after-cyclone",
+   "kind": "press"
+  },
+  {
+   "id": "src13",
+   "label": "Human Rights Watch: \"I Want to Help My Own People\" (2010)",
+   "url": "https://hurricanescience.org/history/storms/2000s/cyclonenargis/index.html",
+   "kind": "organisation"
+  },
+  {
+   "id": "src14",
+   "label": "RTÉ News: Burma cyclone death toll",
+   "url": "https://www.rte.ie/news/2008/0516/103368-burma/",
+   "kind": "press"
+  },
+  {
+   "id": "src15",
+   "label": "RTÉ News: Burma cyclone death toll",
+   "url": "https://www.ynet.co.il/articles/0,7340,L-3540792,00.html",
    "kind": "press"
   }
  ],
@@ -1632,7 +1667,7 @@
   "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
   "checked_at": "2026-11-14T11:30:50Z",
   "counts": {
-   "confirmed": 71,
+   "confirmed": 67,
    "not_confirmed": 0,
    "deleted_sentences": 8,
    "first_round_confirmed": 66,
@@ -1653,11 +1688,18 @@
    "fix": "opus-5-5 medium"
   },
   "source_quality": {
-   "sources": 10,
+   "sources": 14,
    "wikipedia": 0,
    "strong": 8,
    "ok": true,
    "warnings": []
+  },
+  "wiki_cleanup": {
+   "at": "2026-11-27T15:32:00Z",
+   "targets": 10,
+   "resourced": 6,
+   "kept_on_other_sources": 0,
+   "deleted": 4
   }
  }
 }

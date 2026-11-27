@@ -130,12 +130,6 @@
       "claims": [
        "c68"
       ]
-     },
-     {
-      "text": "אביו, שלום מרדכי צ'צ'קס, היה בעל סמיכה לרבנות, אבל עסק במסחר בפרוות.",
-      "claims": [
-       "c69"
-      ]
      }
     ],
     [
@@ -162,33 +156,22 @@
       ]
      },
      {
-      "text": "לפי המכלול, ב-28 באוקטובר 1912 הפליגו ארתור רופין ועגנון מיפו בדרך לברלין.",
-      "claims": [
-       "c59"
-      ]
-     },
-     {
       "text": "ב-6 ביוני 1924 פרצה שרפה בביתו בבאד הומבורג.",
       "claims": [
-       "c60"
+       "c76"
       ]
      },
      {
       "text": "כל כתבי היד שלו ואוסף ספריו עלו באש.",
       "claims": [
-       "c60"
+       "c77",
+       "c78"
       ]
      },
      {
       "text": "לפי אתר נובל, אחרי השרפה חזרה המשפחה לפלשתינה.",
       "claims": [
        "c58"
-      ]
-     },
-     {
-      "text": "אחרי שעלה לירושלים לצמיתות ב-1924, החל עגנון לחבוש כיפה ושמר מצוות עד סוף ימיו.",
-      "claims": [
-       "c61"
       ]
      },
      {
@@ -248,12 +231,6 @@
       "text": "הוא לא זכה עד 1966.",
       "claims": [
        "c42"
-      ]
-     },
-     {
-      "text": "בקיץ 1951 ביקר בשוודיה כדי לשפר את סיכוייו לזכות, ובביקור לקה בהתקף לב.",
-      "claims": [
-       "c43"
       ]
      },
      {
@@ -323,12 +300,6 @@
       ]
      },
      {
-      "text": "לפי המכלול, נציג שוודיה בישראל, קרל לינדול, בישר לעגנון על החלטת האקדמיה השוודית.",
-      "claims": [
-       "c4"
-      ]
-     },
-     {
       "text": "נימוק הפרס היה \"על אמנות הסיפור המאופיינת עמוקות שלו, עם מוטיבים מחיי העם היהודי\".",
       "claims": [
        "c1"
@@ -366,7 +337,7 @@
       "text": "עגנון היה לחתן פרס נובל הראשון של המדינה היהודית.",
       "claims": [
        "c5",
-       "c8"
+       "c81"
       ]
      },
      {
@@ -393,6 +364,14 @@
        "c3"
       ]
      }
+    ],
+    [
+     {
+      "text": "לפי ה-Jerusalem Post, ההודעה על הזכייה הייתה ב-18 באוקטובר 1966",
+      "claims": [
+       "c3"
+      ]
+     }
     ]
    ],
    "media": [
@@ -400,9 +379,7 @@
     "m1",
     "m34"
    ],
-   "disagreements": [
-    "d4"
-   ]
+   "disagreements": []
   },
   {
    "id": "s4",
@@ -640,19 +617,8 @@
      {
       "text": "במאי 1967 יצא עגנון לסיור בארצות הברית.",
       "claims": [
-       "c63"
-      ]
-     },
-     {
-      "text": "עם פרוץ מלחמת ששת הימים קטע את הסיור וחזר ארצה.",
-      "claims": [
-       "c63"
-      ]
-     },
-     {
-      "text": "כשלושה חודשים אחרי המלחמה הצטרף למייסדי התנועה למען ארץ ישראל השלמה.",
-      "claims": [
-       "c64"
+       "c82",
+       "c83"
       ]
      },
      {
@@ -799,24 +765,6 @@
      ]
     }
    ]
-  },
-  {
-   "id": "d4",
-   "question": "באיזה תאריך הוכרזה הזכייה?",
-   "versions": [
-    {
-     "says": "לפי ה-Jerusalem Post, ההודעה על הזכייה הייתה ב-18 באוקטובר 1966",
-     "claims": [
-      "c3"
-     ]
-    },
-    {
-     "says": "לפי המכלול, נציג שוודיה בישר לעגנון על הזכייה ב-20 באוקטובר 1966",
-     "claims": [
-      "c4"
-     ]
-    }
-   ]
   }
  ],
  "unknowns": [
@@ -941,14 +889,6 @@
    "locator": "שורה 5"
   },
   {
-   "id": "c69",
-   "text": "אביו של עגנון, שלום מרדכי צ'צ'קס, היה בעל סמיכה לרבנות אך עסק במסחר בפרוות.",
-   "source": "src8",
-   "quote": "ושלום מרדכי צ'צ'קס, שהיה בעל סמיכה לרבנות, אך עסק במסחר בפרוות.",
-   "status": "confirmed",
-   "locator": "שורה 50"
-  },
-  {
    "id": "c54",
    "text": "לפי אתר נובל, עגנון עבר ליפו ב-1907, ושש שנים לאחר מכן עבר לגרמניה, שם הכיר את אשתו.",
    "source": "src2",
@@ -981,36 +921,12 @@
    "locator": "שורה 6"
   },
   {
-   "id": "c59",
-   "text": "לפי המכלול, ב-28 באוקטובר 1912 הפליגו ארתור רופין ועגנון מיפו בדרך לברלין.",
-   "source": "src8",
-   "quote": "ב-28 באוקטובר 1912 הפליגו רופין ועגנון מיפו בדרכם לברלין.",
-   "status": "confirmed",
-   "locator": "שורה 69"
-  },
-  {
-   "id": "c60",
-   "text": "ב-6 ביוני 1924 פרצה שרפה בביתו של עגנון בבאד הומבורג, וכל כתבי היד שלו ואוסף ספריו עלו באש.",
-   "source": "src8",
-   "quote": "ב-6 ביוני 1924 פרצה שרפה בביתו של עגנון בבאד הומבורג, וכל כתבי-היד שלו ואוסף ספריו הגדול עלו באש.",
-   "status": "confirmed",
-   "locator": "שורה 81"
-  },
-  {
    "id": "c58",
    "text": "לפי אתר נובל, עגנון חי בגרמניה עד 1924, אז חזרה המשפחה לפלשתינה לאחר ששרפה הרסה את ביתם.",
    "source": "src2",
    "quote": "Six years later, he moved to Germany where he met his wife and lived until 1924",
    "status": "confirmed",
    "locator": "שורה 10"
-  },
-  {
-   "id": "c61",
-   "text": "לאחר עלייתו הקבועה לירושלים ב-1924 החל עגנון לחבוש כיפה ושמר מצוות עד סוף ימיו.",
-   "source": "src8",
-   "quote": "הוא החל לחבוש כיפה, שב בכל לבו לשמירת המצוות, ודבק בהן עד סוף ימיו.",
-   "status": "confirmed",
-   "locator": "שורה 83"
   },
   {
    "id": "c70",
@@ -1027,14 +943,6 @@
    "quote": "an August 1951 air letter written from Stockholm when Agnon was nominated for the first time as a candidate for the Nobel Prize",
    "status": "confirmed",
    "locator": "שורה 13"
-  },
-  {
-   "id": "c43",
-   "text": "בביקור בשוודיה בקיץ 1951, שנועד לשפר את סיכוייו לזכות בפרס נובל, לקה עגנון בהתקף לב.",
-   "source": "src8",
-   "quote": "בעת ביקור בשוודיה בקיץ 1951, שנועד לשפר את סיכוייו לזכות בפרס נובל, לקה עגנון בהתקף לב.",
-   "status": "confirmed",
-   "locator": "שורה 106"
   },
   {
    "id": "c44",
@@ -1077,14 +985,6 @@
    "locator": "שורה 2"
   },
   {
-   "id": "c4",
-   "text": "לפי המכלול, ב-20 באוקטובר 1966 בישר נציג שוודיה בישראל, קרל לינדול, לעגנון על החלטת האקדמיה השוודית להעניק לו את פרס נובל.",
-   "source": "src8",
-   "quote": "מיופה הכוח של שוודיה בישראל, קרל לינדול, מבשר לעגנון על החלטת האקדמיה השוודית להעניק לו את פרס נובל לספרות. 20.10.1966",
-   "status": "confirmed",
-   "locator": "שורה 103"
-  },
-  {
    "id": "c11",
    "text": "לפי JTA, עגנון נשאר רגוע למרות הפתעתו הברורה כששמע על הזכייה.",
    "source": "src1",
@@ -1115,14 +1015,6 @@
    "quote": "with the announcement that he had won the Nobel Prize for Literature, becoming the Jewish state's first Nobel Prize laureate",
    "status": "confirmed",
    "locator": "שורה 25"
-  },
-  {
-   "id": "c8",
-   "text": "לפי המכלול, עגנון הוא הישראלי הראשון שזכה בפרס נובל והיחיד עד כה שזכה בפרס נובל לספרות.",
-   "source": "src8",
-   "quote": "עגנון הוא הישראלי הראשון שזכה בפרס נובל והיחיד עד כה שזכה בפרס נובל לספרות.",
-   "status": "confirmed",
-   "locator": "שורה 44"
   },
   {
    "id": "c6",
@@ -1285,22 +1177,6 @@
    "locator": "שורה 4"
   },
   {
-   "id": "c63",
-   "text": "במאי 1967 יצא עגנון לסיור בארצות הברית, אך עם פרוץ מלחמת ששת הימים קטע אותו וחזר ארצה.",
-   "source": "src8",
-   "quote": "ב-18 במאי 1967 יצא עגנון לסיור בארצות הברית, אך עם פרוץ מלחמת ששת הימים החליט לקטוע את הסיור ולחזור ארצה.",
-   "status": "confirmed",
-   "locator": "שורה 111"
-  },
-  {
-   "id": "c64",
-   "text": "כשלושה חודשים אחרי מלחמת ששת הימים הצטרף עגנון למייסדי התנועה למען ארץ ישראל השלמה.",
-   "source": "src8",
-   "quote": "נענה עגנון לפנייתו של הסופר משה שמיר והצטרף אל מייסדי התנועה למען ארץ ישראל השלמה",
-   "status": "confirmed",
-   "locator": "שורה 111"
-  },
-  {
    "id": "c66",
    "text": "עגנון מת ארבע שנים לאחר שקיבל את פרס נובל.",
    "source": "src5",
@@ -1387,6 +1263,54 @@
    "quote": "In October 1912, the twenty-four-year-old Hebrew writer Shmuel Yosef Agnon embarked on a ship in the port of Jaffa",
    "status": "confirmed",
    "locator": "שורה 20"
+  },
+  {
+   "id": "c76",
+   "text": "ב-6 ביוני 1924 פרצה שרפה בביתו בבאד הומבורג.",
+   "source": "src11",
+   "quote": "ב־6 ביוני 1924, כשנה לאחר מכן, פרצה דליקה בביתו של עגנון",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c77",
+   "text": "כל כתבי היד שלו ואוסף ספריו עלו באש.",
+   "source": "src7",
+   "quote": "In 1924 fire swept his home and destroyed all his books and manuscripts",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c78",
+   "text": "כל כתבי היד שלו ואוסף ספריו עלו באש.",
+   "source": "src11",
+   "quote": "האש כילתה את כתבי היד של עגנון",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c81",
+   "text": "עגנון היה לחתן פרס נובל הראשון של המדינה היהודית.",
+   "source": "src12",
+   "quote": "Agnon became Israel's first Nobel laureate when he received the literature prize in 1966.",
+   "status": "confirmed",
+   "locator": "שורה 1"
+  },
+  {
+   "id": "c82",
+   "text": "במאי 1967 יצא עגנון לסיור בארצות הברית.",
+   "source": "src13",
+   "quote": "It was May 23, 1967, just a few months after Agnon was awarded the Nobel Prize in Literature.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c83",
+   "text": "במאי 1967 יצא עגנון לסיור בארצות הברית.",
+   "source": "src13",
+   "quote": "in 1967 – on his first and only trip to America – Israeli author S.Y. Agnon stood before 1000 Americans",
+   "status": "confirmed",
+   "locator": "שורה 6"
   }
  ],
  "sources": [
@@ -1433,12 +1357,6 @@
    "kind": "organisation"
   },
   {
-   "id": "src8",
-   "label": "המכלול, ש\"י עגנון",
-   "url": "https://www.hamichlol.org.il/%D7%A9%22%D7%99_%D7%A2%D7%92%D7%A0%D7%95%D7%9F",
-   "kind": "reference"
-  },
-  {
    "id": "src9",
    "label": "Jewish Journal, עגנון וזקס",
    "url": "https://jewishjournal.com/culture/213022/",
@@ -1449,6 +1367,24 @@
    "label": "AJS Review (Cambridge University Press), Agnon in Germany 1912-1924: A Chapter of a Biography",
    "url": "https://www.cambridge.org/core/journals/ajs-review/article/agnon-in-germany19121924-a-chapter-of-a-biography/9A9D4CC23314DC15B5822CA67DDBB8B6",
    "kind": "reference"
+  },
+  {
+   "id": "src11",
+   "label": "ynet: האוצר הגנוז של עגנון: לראשונה ייחשפו הדפים ששרדו את האש",
+   "url": "https://www.ynet.co.il/articles/0,7340,L-4942702,00.html",
+   "kind": "press"
+  },
+  {
+   "id": "src12",
+   "label": "iEducation (israeled.org): S.Y. Agnon (1888-1970)",
+   "url": "https://israeled.org/s-y-agnon-1888-1970",
+   "kind": "reference"
+  },
+  {
+   "id": "src13",
+   "label": "Jewish Journal: Agnon's 1967 trip to America",
+   "url": "https://jewishjournal.com/?p=353381",
+   "kind": "press"
   }
  ],
  "media": [
@@ -1644,9 +1580,7 @@
    "licence_url": "https://www.youtube.com/static?template=terms",
    "hosting": "embed",
    "caption": "קטע מארכיון המדינה שבו עגנון מתבשר בשידור חי על זכייתו בפרס נובל לספרות.",
-   "illustrates": [
-    "c4"
-   ],
+   "illustrates": [],
    "spoken": "he",
    "audio_tracks": [
     "he"
@@ -1966,7 +1900,7 @@
   "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
   "checked_at": "2026-11-14T03:00:18Z",
   "counts": {
-   "confirmed": 106,
+   "confirmed": 97,
    "not_confirmed": 0,
    "deleted_sentences": 2,
    "first_round_confirmed": 105,
@@ -1987,7 +1921,7 @@
    "fix": "opus-5-5 medium"
   },
   "source_quality": {
-   "sources": 9,
+   "sources": 12,
    "wikipedia": 0,
    "strong": 7,
    "ok": true,
@@ -2000,6 +1934,13 @@
     "url": "https://www.cambridge.org/core/journals/ajs-review/article/agnon-in-germany19121924-a-chapter-of-a-biography/9A9D4CC23314DC15B5822CA67DDBB8B6",
     "by": "settle 24.11"
    }
-  ]
+  ],
+  "wiki_cleanup": {
+   "at": "2026-11-27T15:35:08Z",
+   "targets": 12,
+   "resourced": 4,
+   "kept_on_other_sources": 0,
+   "deleted": 8
+  }
  }
 }

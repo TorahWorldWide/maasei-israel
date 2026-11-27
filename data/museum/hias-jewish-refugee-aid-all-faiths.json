@@ -14,9 +14,9 @@
    ]
   },
   {
-   "text": "לפי ויקיפדיה, המטרה הייתה לעזור ליהודים ממזרח אירופה שברחו מרדיפות אנטישמיות.",
+   "text": "המטרה הייתה לעזור ליהודים ממזרח אירופה שברחו מרדיפות אנטישמיות.",
    "claims": [
-    "c13"
+    "c86"
    ]
   },
   {
@@ -163,12 +163,6 @@
       "claims": [
        "c68"
       ]
-     },
-     {
-      "text": "לפי ויקיפדיה, במשך חצי מאה עזרה HIAS שם ליותר מ-100,000 מהגרים יהודים שאולי היו נדחים.",
-      "claims": [
-       "c65"
-      ]
      }
     ],
     [
@@ -239,26 +233,6 @@
     ],
     [
      {
-      "text": "לפי ויקיפדיה, בצרפת עבדה קבוצה קטנה של עובדי HICEM עם ההתנגדות הצרפתית.",
-      "claims": [
-       "c24"
-      ]
-     },
-     {
-      "text": "הם הבריחו יהודים לספרד ולשווייץ.",
-      "claims": [
-       "c24"
-      ]
-     },
-     {
-      "text": "לפי ויקיפדיה, בקטע שמסומן שם כחסר מקור, 21 עובדי HICEM גורשו ונרצחו במחנות הריכוז, ואחרים נהרגו בקרב ישיר עם הנאצים.",
-      "claims": [
-       "c24"
-      ]
-     }
-    ],
-    [
-     {
       "text": "לפי אנציקלופדיית השואה, בקיץ 1943 השיקה HIAS תוכנית לרישום קרובים של פליטים.",
       "claims": [
        "c26"
@@ -270,14 +244,21 @@
        "c26"
       ]
      }
+    ],
+    [
+     {
+      "text": "מארק הטפילד: 22 עובדים",
+      "claims": [
+       "c25"
+      ]
+     }
     ]
    ],
    "media": [
     "m11"
    ],
    "disagreements": [
-    "d2",
-    "d4"
+    "d2"
    ]
   },
   {
@@ -360,15 +341,10 @@
       ]
      },
      {
-      "text": "לפי ויקיפדיה, בין מקבלי הסיוע של HIAS היה סרגיי ברין, לימים ממייסדי גוגל, שהיגר בגיל שש עם משפחתו מברית המועצות לארצות הברית.",
+      "text": "בין מקבלי הסיוע של HIAS היה סרגיי ברין, לימים ממייסדי גוגל, שהיגר בגיל שש עם משפחתו מברית המועצות לארצות הברית.",
       "claims": [
-       "c61"
-      ]
-     },
-     {
-      "text": "ב-2009 תרם ברין ל-HIAS מיליון דולר.",
-      "claims": [
-       "c61"
+       "c87",
+       "c88"
       ]
      }
     ],
@@ -554,15 +530,15 @@
     ],
     [
      {
-      "text": "לפי ויקיפדיה, ב-1981 תפסה הליגה להגנה יהודית את המשרדים הראשיים של HIAS במנהטן.",
+      "text": "ב-1981 תפסה הליגה להגנה יהודית את המשרדים הראשיים של HIAS במנהטן.",
       "claims": [
-       "c37"
+       "c90"
       ]
      },
      {
       "text": "היא מחתה על \"חוסר פעולה\" בהצלת יהודי אתיופיה.",
       "claims": [
-       "c37"
+       "c91"
       ]
      },
      {
@@ -588,12 +564,6 @@
      "says": "אנציקלופדיית השואה: ב-1881, בלואר איסט סייד",
      "claims": [
       "c10"
-     ]
-    },
-    {
-     "says": "ויקיפדיה: ב-27 בנובמבר 1881",
-     "claims": [
-      "c13"
      ]
     },
     {
@@ -638,12 +608,6 @@
      "claims": [
       "c21"
      ]
-    },
-    {
-     "says": "ויקיפדיה: כ-40,000 יהודים, בעזרת HICEM והג'וינט",
-     "claims": [
-      "c22"
-     ]
     }
    ]
   },
@@ -661,30 +625,6 @@
      "says": "אנציקלופדיית השואה: יותר מ-150,000",
      "claims": [
       "c28"
-     ]
-    },
-    {
-     "says": "ויקיפדיה: 167,450 מהגרים בין 1945 ל-1951",
-     "claims": [
-      "c29"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "d4",
-   "question": "כמה עובדי HIAS ו-HICEM נהרגו במלחמה?",
-   "versions": [
-    {
-     "says": "מארק הטפילד: 22 עובדים",
-     "claims": [
-      "c25"
-     ]
-    },
-    {
-     "says": "ויקיפדיה: 21 עובדי HICEM גורשו ונרצחו במחנות הריכוז.",
-     "claims": [
-      "c24"
      ]
     }
    ]
@@ -711,12 +651,6 @@
    "id": "d6",
    "question": "מתי התחילה HIAS לעזור לפליטים מכל הדתות?",
    "versions": [
-    {
-     "says": "ויקיפדיה: מאז שנות ה-70",
-     "claims": [
-      "c41"
-     ]
-    },
     {
      "says": "HIAS: מאז שנות ה-90, עם פליטים לא יהודים מיוגוסלביה לשעבר, מזרח אפריקה, דרום־מזרח אסיה והמזרח התיכון",
      "claims": [
@@ -762,14 +696,6 @@
    "quote": "In the 1880s, the Jewish community founded HIAS (originally the Hebrew Immigrant Aid Society) in New York City, the immigrant gateway to America.",
    "status": "confirmed",
    "locator": "שורה 10"
-  },
-  {
-   "id": "c13",
-   "text": "לפי ויקיפדיה, HIAS הוקמה ב-27 בנובמבר 1881 כדי לסייע ליהודים מזרח־אירופים שברחו מרדיפות אנטישמיות.",
-   "source": "src3",
-   "quote": "The Hebrew Immigrant Aid Society was established on November 27, 1881, originally to help the large number of Eastern European Jewish immigrants",
-   "status": "confirmed",
-   "locator": "שורה 48"
   },
   {
    "id": "c8",
@@ -860,14 +786,6 @@
    "locator": "שורה 7"
   },
   {
-   "id": "c65",
-   "text": "לפי ויקיפדיה, במחצית המאה שלאחר הקמת הלשכה באליס איילנד ב-1904 סייעה HIAS ליותר מ-100,000 מהגרים יהודים שאולי היו נדחים.",
-   "source": "src3",
-   "quote": "In the half-century following the establishment of a formal Ellis Island bureau in 1904, HIAS helped more than 100,000 Jewish immigrants who might otherwise have been turned away.",
-   "status": "confirmed",
-   "locator": "שורה 51"
-  },
-  {
    "id": "c62",
    "text": "לפי מרכז ההיסטוריה היהודית, בסביבות 1910 פתחה HIAS מטבח כשר באליס איילנד.",
    "source": "src5",
@@ -914,14 +832,6 @@
    "quote": "HIAS made the bold decision to work in partnership with several other organizations to open a European arm, known as HICEM",
    "status": "confirmed",
    "locator": "שורה 10"
-  },
-  {
-   "id": "c24",
-   "text": "לפי ויקיפדיה, קבוצה קטנה של עובדי HICEM בצרפת, בשיתוף פעולה עם ההתנגדות הצרפתית, הבריחה יהודים לספרד ולשווייץ, ועובדי HICEM אחדים נשלחו למחנות והוכחדו.",
-   "source": "src3",
-   "quote": "succeeded in smuggling Jews out of France to Spain and Switzerland. Twenty-one HICEM employees were deported and killed in the concentration camps",
-   "status": "confirmed",
-   "locator": "שורה 72"
   },
   {
    "id": "c26",
@@ -978,14 +888,6 @@
    "quote": "with over 400,000 migrating with HIAS assistance through Vienna and Rome to the United States, Canada, Australia, New Zealand, and elsewhere.",
    "status": "confirmed",
    "locator": "שורה 17"
-  },
-  {
-   "id": "c61",
-   "text": "לפי ויקיפדיה, סרגיי ברין, מייסד גוגל, היגר מברית המועצות בגיל שש בסיוע HIAS ותרם לה מיליון דולר ב-2009.",
-   "source": "src3",
-   "quote": "Brin donated $1 million to the organization; his mother served on HIAS' board of directors.",
-   "status": "confirmed",
-   "locator": "שורה 102"
   },
   {
    "id": "c38",
@@ -1148,14 +1050,6 @@
    "locator": "שורה 17"
   },
   {
-   "id": "c37",
-   "text": "לפי ויקיפדיה, ב-1981 הליגה להגנה יהודית מחתה על 'חוסר פעולה' בהצלת יהודי אתיופיה בכך שתפסה את משרדי HIAS הראשיים במנהטן.",
-   "source": "src3",
-   "quote": "However, in 1981, the Jewish Defense League protested the \"lack of action\" to rescue Ethiopian Jews by taking over the main offices of HIAS in Manhattan.",
-   "status": "confirmed",
-   "locator": "שורה 87"
-  },
-  {
    "id": "c36",
    "text": "לפי יודאיקה, בשנות ה-80 היו מתיחויות בין HIAS לממשלת ישראל בשאלה אם לסייע ליהודי ברית המועצות להגר למדינות שאינן ישראל.",
    "source": "src7",
@@ -1196,36 +1090,12 @@
    "locator": "שורה 16"
   },
   {
-   "id": "c22",
-   "text": "לפי ויקיפדיה, כ-40,000 יהודים הצליחו להימלט מאירופה בזמן השואה בסיוע HICEM וה'ג'וינט'.",
-   "source": "src3",
-   "quote": "In all, some 40,000 Jews managed to escape Europe during the Holocaust with HICEM's and the Joint's assistance.",
-   "status": "confirmed",
-   "locator": "שורה 76"
-  },
-  {
-   "id": "c29",
-   "text": "לפי ויקיפדיה, בין 1945 ל-1951 HIAS נתנה חסות וסיוע ל-167,450 מהגרים.",
-   "source": "src3",
-   "quote": "From 1945 to 1951, HIAS sponsored and assisted a total 167,450 emigrants",
-   "status": "confirmed",
-   "locator": "שורה 80"
-  },
-  {
    "id": "c25",
    "text": "לפי מארק הטפילד, 22 עובדי HIAS נהרגו במהלך המלחמה במילוי תפקידם.",
    "source": "src6",
    "quote": "Twenty-two HIAS employees perished during the war in the line of duty.",
    "status": "confirmed",
    "locator": "שורה 11"
-  },
-  {
-   "id": "c41",
-   "text": "לפי ויקיפדיה, מאז שנות ה-70 HIAS פועלת לסייע לפליטים ולעקורים מכל הדתות, האתניות והלאומים.",
-   "source": "src3",
-   "quote": "Since the 1970s, HIAS has worked to assist refugees and displaced people of all religions, ethnicities, nationalities, and backgrounds.",
-   "status": "confirmed",
-   "locator": "שורה 105"
   },
   {
    "id": "c67",
@@ -1258,6 +1128,46 @@
    "quote": "More than 12 million people have been displaced, and more than a million Sudanese have crossed into Chad.",
    "status": "confirmed",
    "locator": "שורה 27"
+  },
+  {
+   "id": "c86",
+   "text": "המטרה הייתה לעזור ליהודים ממזרח אירופה שברחו מרדיפות אנטישמיות.",
+   "source": "src4",
+   "quote": "A wave of eastern European Jewish immigration began in 1881, as Russian Jews fled pogroms",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c87",
+   "text": "בין מקבלי הסיוע של HIAS היה סרגיי ברין, לימים ממייסדי גוגל, שהיגר בגיל שש עם משפחתו מברית המועצות לארצות הברית.",
+   "source": "src11",
+   "quote": "HIAS was one of the groups that helped Brin's family when it fled the Soviet Union 30 years ago.",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c88",
+   "text": "בין מקבלי הסיוע של HIAS היה סרגיי ברין, לימים ממייסדי גוגל, שהיגר בגיל שש עם משפחתו מברית המועצות לארצות הברית.",
+   "source": "src11",
+   "quote": "Brin was 6 when his family left in 1976.",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c90",
+   "text": "ב-1981 תפסה הליגה להגנה יהודית את המשרדים הראשיים של HIAS במנהטן.",
+   "source": "src12",
+   "quote": "Some 30 members of the Jewish Defense League took over the main offices of HIAS this afternoon",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c91",
+   "text": "היא מחתה על \"חוסר פעולה\" בהצלת יהודי אתיופיה.",
+   "source": "src12",
+   "quote": "were taken to protest \"lack of action\" to rescue Ethiopian Jews, Falashas",
+   "status": "confirmed",
+   "locator": "שורה 2"
   }
  ],
  "sources": [
@@ -1272,12 +1182,6 @@
    "label": "HIAS, Who We Are",
    "url": "https://hias.org/who/",
    "kind": "organisation"
-  },
-  {
-   "id": "src3",
-   "label": "Wikipedia, HIAS",
-   "url": "https://en.wikipedia.org/wiki/HIAS",
-   "kind": "reference"
   },
   {
    "id": "src4",
@@ -1320,6 +1224,18 @@
    "label": "American Jewish Historical Society, HIAS timeline",
    "url": "https://ajhs.org/hias-timeline",
    "kind": "reference"
+  },
+  {
+   "id": "src11",
+   "label": "JTA: Google’s Brin gives $1 million to HIAS",
+   "url": "https://www.jta.org/2009/10/25/lifestyle/googles-brin-gives-1-million-to-hias",
+   "kind": "press"
+  },
+  {
+   "id": "src12",
+   "label": "JTA: JDL stages protests at HIAS, Jewish Agency offices claiming lack of action to rescue Falashas (9 September 1981)",
+   "url": "https://www.jta.org/archive/jdl-stages-protests-at-hias-jewish-agency-offices-claiming-lack-of-action-to-rescue-falashas",
+   "kind": "press"
   }
  ],
  "media": [
@@ -1595,7 +1511,7 @@
   "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
   "checked_at": "2026-11-21T05:17:30Z",
   "counts": {
-   "confirmed": 91,
+   "confirmed": 81,
    "not_confirmed": 0,
    "deleted_sentences": 4,
    "first_round_confirmed": 89,
@@ -1616,13 +1532,20 @@
    "fix": "opus-5-5 medium"
   },
   "source_quality": {
-   "sources": 10,
-   "wikipedia": 1,
+   "sources": 11,
+   "wikipedia": 0,
    "strong": 2,
    "ok": false,
    "warnings": [
     "only 2 official/court/press/book sources"
    ]
+  },
+  "wiki_cleanup": {
+   "at": "2026-11-27T15:58:12Z",
+   "targets": 14,
+   "resourced": 4,
+   "kept_on_other_sources": 0,
+   "deleted": 10
   }
  },
  "editor_note": {

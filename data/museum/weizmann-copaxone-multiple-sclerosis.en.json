@@ -448,12 +448,6 @@
    "paragraphs": [
     [
      {
-      "text": "Michael Sela was an Israeli immunologist of Polish Jewish origin.",
-      "claims": [
-       "c49"
-      ]
-     },
-     {
       "text": "Rising antisemitism drove his family to Romania and then to Palestine, where he arrived at age 17.",
       "claims": [
        "c52"
@@ -502,7 +496,15 @@
      {
       "text": "Sela is known as the co-developer of Copaxone with Arnon and Teitelbaum.",
       "claims": [
-       "c50"
+       "c57"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to the Telegraph, on February 28, 1924",
+      "claims": [
+       "c54"
       ]
      }
     ]
@@ -515,9 +517,7 @@
     "m10",
     "m12"
    ],
-   "disagreements": [
-    "d1"
-   ]
+   "disagreements": []
   },
   {
    "id": "s9",
@@ -549,26 +549,7 @@
    "disagreements": []
   }
  ],
- "disagreements": [
-  {
-   "id": "d1",
-   "question": "When was Michael Sela born?",
-   "versions": [
-    {
-     "says": "According to the Telegraph, on February 28, 1924",
-     "claims": [
-      "c54"
-     ]
-    },
-    {
-     "says": "According to Wikipedia, on March 2, 1924",
-     "claims": [
-      "c55"
-     ]
-    }
-   ]
-  }
- ],
+ "disagreements": [],
  "unknowns": [
   {
    "text": "In a decisive double-blind trial carried out between 1991 and 1994, the drug was tried on several hundred patients in eleven US hospitals.",
@@ -899,14 +880,6 @@
    "locator": "שורה 76"
   },
   {
-   "id": "c49",
-   "text": "סלע היה אימונולוג ישראלי ממוצא יהודי פולני.",
-   "source": "src9",
-   "quote": "was an Israeli immunologist of Polish Jewish origin",
-   "status": "confirmed",
-   "locator": "שורה 26"
-  },
-  {
    "id": "c52",
    "text": "אנטישמיות גוברת הביאה את משפחת סלע לרומניה ואחר כך לפלשתינה, שם הגיע בגיל 17.",
    "source": "src4",
@@ -955,14 +928,6 @@
    "locator": "שורה 9"
   },
   {
-   "id": "c50",
-   "text": "סלע ידוע כמפתח משותף, עם רות ארנון ודבורה טייטלבוים, של תרופת הטרשת הנפוצה קופקסון.",
-   "source": "src9",
-   "quote": "He is probably best known as the co-developer (with Ruth Arnon and Dvora Teitelbaum) of the multiple sclerosis drug copaxone.",
-   "status": "confirmed",
-   "locator": "שורה 41"
-  },
-  {
    "id": "c44",
    "text": "לפי גלובס, המחלוקת עם טבע הגיעה לבוררות והמכון זכה בה.",
    "source": "src7",
@@ -995,12 +960,12 @@
    "locator": "שורה 8"
   },
   {
-   "id": "c55",
-   "text": "לפי ויקיפדיה, סלע נולד ב-2 במרץ 1924.",
-   "source": "src9",
-   "quote": "Michael Sela was born as Mieczysław Salomonowicz in Tomaszów Mazowiecki, Poland, on 2 March 1924.",
+   "id": "c57",
+   "text": "סלע ידוע כמפתח משותף של קופקסון עם ארנון וטייטלבוים.",
+   "source": "src5",
+   "quote": "Along with Prof. Ruth Arnon and Dr. Dvora Teitelbaum, that ultimately also led to the development of Copaxone.",
    "status": "confirmed",
-   "locator": "שורה 35"
+   "locator": "שורה 72"
   }
  ],
  "sources": [
@@ -1051,12 +1016,6 @@
    "label": "Jewish Press, obituary of Michael Sela, 30.5.2022",
    "url": "https://jewishpress.com/news/obituaries/inventor-of-drugs-for-ms-cancer-passes-away/2022/05/30",
    "kind": "press"
-  },
-  {
-   "id": "src9",
-   "label": "Wikipedia, Michael Sela",
-   "url": "https://en.wikipedia.org/wiki/Michael_Sela",
-   "kind": "reference"
   }
  ],
  "media": [
@@ -1446,7 +1405,7 @@
   "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
   "checked_at": "2026-11-21T18:07:55Z",
   "counts": {
-   "confirmed": 66,
+   "confirmed": 64,
    "not_confirmed": 0,
    "deleted_sentences": 2,
    "first_round_confirmed": 66,
@@ -1467,11 +1426,18 @@
    "fix": "opus-5-5 medium"
   },
   "source_quality": {
-   "sources": 9,
-   "wikipedia": 1,
+   "sources": 8,
+   "wikipedia": 0,
    "strong": 5,
    "ok": true,
    "warnings": []
+  },
+  "wiki_cleanup": {
+   "at": "2026-11-27T15:42:23Z",
+   "targets": 3,
+   "resourced": 1,
+   "kept_on_other_sources": 0,
+   "deleted": 2
   }
  },
  "lang": "en",
@@ -1479,11 +1445,11 @@
   "from": "he",
   "translator": "claude-opus-5-5",
   "checker": "claude-opus-5-5 (separate call, blind to the translation prompt)",
-  "checked_at": "2026-11-21T19:24:04Z",
+  "checked_at": "2026-11-27T15:42:24Z",
   "passed": true,
-  "items": 117,
-  "pairs_checked": 2,
-  "reused": 115,
+  "items": 114,
+  "pairs_checked": 0,
+  "reused": 114,
   "first_round_flagged": 0,
   "still_flagged": 0,
   "flagged": [],

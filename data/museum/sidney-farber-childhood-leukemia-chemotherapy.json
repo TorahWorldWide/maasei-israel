@@ -11,15 +11,9 @@
    "claims": [
     "c8",
     "c59",
-    "c67",
-    "c68"
-   ]
-  },
-  {
-   "text": "סידני פרבר, בן להורים יהודים מבאפלו שבניו יורק, היה באמצע שנות הארבעים פתולוג בבית החולים לילדים של בוסטון.",
-   "claims": [
-    "c9",
-    "c8"
+    "c68",
+    "c80",
+    "c81"
    ]
   },
   {
@@ -37,9 +31,10 @@
   {
    "text": "כדי לממן את המחקר נולדה קרן ג'ימי, שנקראה על שם ילד חולה שהופיע בתוכנית רדיו ב-1948.",
    "claims": [
-    "c36",
     "c37",
-    "c48"
+    "c48",
+    "c82",
+    "c83"
    ]
   },
   {
@@ -63,13 +58,6 @@
    "value": "סידני פרבר, פתולוג בבית החולים לילדים של בוסטון",
    "claims": [
     "c8"
-   ]
-  },
-  {
-   "label": "מוצא",
-   "value": "נולד בבאפלו להורים יהודים",
-   "claims": [
-    "c9"
    ]
   },
   {
@@ -150,18 +138,6 @@
       "text": "סידני פרבר נולד ב-1903 בבאפלו שבמדינת ניו יורק, השלישי מבין 14 ילדים.",
       "claims": [
        "c11"
-      ]
-     },
-     {
-      "text": "לפי ויקיפדיה, הוריו היו יהודים.",
-      "claims": [
-       "c9"
-      ]
-     },
-     {
-      "text": "לפי ויקיפדיה, באמצע שנות ה-20 סירבו לעיתים קרובות לקבל סטודנטים יהודים לבתי ספר לרפואה בארה\"ב, ולכן נסע פרבר לאירופה.",
-      "claims": [
-       "c10"
       ]
      }
     ],
@@ -360,7 +336,8 @@
      {
       "text": "ב-22 במאי 1948 הופיע איינר, נער בן 12, בתוכנית הרדיו Truth or Consequences.",
       "claims": [
-       "c36"
+       "c84",
+       "c85"
       ]
      },
      {
@@ -382,9 +359,9 @@
       ]
      },
      {
-      "text": "לפי ויקיפדיה, הצלחת קרן ג'ימי הובילה את פרבר להבין את חשיבות השיווק בקידום הידע המדעי על מחלות.",
+      "text": "הצלחת קרן ג'ימי הובילה את פרבר להבין את חשיבות השיווק בקידום הידע המדעי על מחלות.",
       "claims": [
-       "c71"
+       "c86"
       ]
      }
     ],
@@ -471,12 +448,6 @@
       "text": "ב-1955 גילה פרבר שאקטינומיצין D וקרינה יכולים לגרום להפוגה בגידול וילמס, סרטן כליות בילדים.",
       "claims": [
        "c54"
-      ]
-     },
-     {
-      "text": "את אקטינומיצין D הציעה במקור בחינם חברת התרופות Eli Lilly.",
-      "claims": [
-       "c76"
       ]
      },
      {
@@ -575,9 +546,10 @@
       ]
      },
      {
-      "text": "לפי ויקיפדיה, ב-1974 שונה שם הקרן למרכז הסרטן סידני פרבר, וב-1976 למכון הסרטן סידני פרבר.",
+      "text": "ב-1974 שונה שם הקרן למרכז הסרטן סידני פרבר, וב-1976 למכון הסרטן סידני פרבר.",
       "claims": [
-       "c67"
+       "c87",
+       "c88"
       ]
      },
      {
@@ -629,7 +601,7 @@
       "text": "פרבר קיבל גם את פרס Gold-Headed Cane.",
       "claims": [
        "c62",
-       "c63"
+       "c89"
       ]
      }
     ],
@@ -647,15 +619,24 @@
       ]
      },
      {
-      "text": "לפי ויקיפדיה, ב-30 במרץ 1973 מת פרבר מדום לב בעודו עובד במשרדו.",
+      "text": "ב-30 במרץ 1973 מת פרבר מדום לב בעודו עובד במשרדו.",
       "claims": [
-       "c64"
+       "c90",
+       "c91"
       ]
      },
      {
       "text": "לפי מחברי מאמר ב-PMC, תרומותיו של פרבר זכו להכרה פחותה ממה שהגיע לו.",
       "claims": [
        "c70"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "לפי מאמר ב-PMC, ב-1972",
+      "claims": [
+       "c62"
       ]
      }
     ]
@@ -665,7 +646,6 @@
     "m21"
    ],
    "disagreements": [
-    "d6",
     "d7"
    ]
   }
@@ -762,31 +742,14 @@
    ]
   },
   {
-   "id": "d6",
-   "question": "באיזו שנה קיבל פרבר את פרס Gold-Headed Cane?",
-   "versions": [
-    {
-     "says": "לפי מאמר ב-PMC, ב-1972",
-     "claims": [
-      "c62"
-     ]
-    },
-    {
-     "says": "לפי ויקיפדיה, ב-1973",
-     "claims": [
-      "c63"
-     ]
-    }
-   ]
-  },
-  {
    "id": "d7",
    "question": "באיזה גיל מת פרבר?",
    "versions": [
     {
-     "says": "לפי ויקיפדיה, בגיל 69",
+     "says": "בגיל 69",
      "claims": [
-      "c64"
+      "c92",
+      "c93"
      ]
     },
     {
@@ -798,23 +761,8 @@
    ]
   }
  ],
- "unknowns": [
-  {
-   "text": "לפי ויקיפדיה, באמצע שנות ה-20 סירבו לעיתים קרובות לקבל סטודנטים יהודים לבתי ספר לרפואה בארה\"ב, ולכן נסע פרבר לאירופה, ושם למד את שנתו הראשונה בבית הספר לרפואה באוניברסיטאות היידלברג ופרייבורג בגרמניה.",
-   "claims": [
-    "c10"
-   ]
-  }
- ],
+ "unknowns": [],
  "claims": [
-  {
-   "id": "c9",
-   "text": "לפי ויקיפדיה, פרבר נולד בבאפלו, ניו יורק, להורים יהודים.",
-   "source": "src1",
-   "quote": "Farber was born in Buffalo, New York, to Jewish parents Simon Farber and Matilda (née Goldstein).",
-   "status": "confirmed",
-   "locator": "שורה 39"
-  },
   {
    "id": "c8",
    "text": "באמצע שנות הארבעים פרבר היה פתולוג בבית החולים לילדים של בוסטון.",
@@ -838,14 +786,6 @@
    "quote": "In November 1947, Farber tried the drug on a group of 16 children who were seriously ill with leukemia. Temporary remissions were achieved in 10 of them.",
    "status": "confirmed",
    "locator": "שורה 13"
-  },
-  {
-   "id": "c36",
-   "text": "ב-22 במאי 1948 הופיע בתוכנית הרדיו Truth or Consequences נער בן 12 בשם איינר גוסטפסון, מהראשונים שהגיבו לתרופה.",
-   "source": "src1",
-   "quote": "On May 22, 1948, one of the CCRF's first patients to respond to Farber's antifolate, a twelve-year-old boy named Einar Gustafson, appeared on the show.",
-   "status": "confirmed",
-   "locator": "שורה 60"
   },
   {
    "id": "c37",
@@ -934,14 +874,6 @@
    "quote": "Sidney Farber was born in 1903 in Buffalo, N.Y., the third oldest of 14 children.",
    "status": "confirmed",
    "locator": "שורה 19"
-  },
-  {
-   "id": "c10",
-   "text": "לפי ויקיפדיה, באמצע שנות ה-20 סירבו לעיתים קרובות לקבל סטודנטים יהודים לבתי ספר לרפואה בארה\"ב, ולכן פרבר נסע לאירופה.",
-   "source": "src1",
-   "quote": "In the mid-1920s, Jewish students were often refused admission to US medical schools, prompting him to go to Europe.",
-   "status": "confirmed",
-   "locator": "שורה 41"
   },
   {
    "id": "c7",
@@ -1112,14 +1044,6 @@
    "locator": "שורה 27"
   },
   {
-   "id": "c71",
-   "text": "לפי ויקיפדיה, הצלחת קרן ג'ימי הובילה את פרבר להבין את חשיבות השיווק בקידום הידע המדעי על מחלות.",
-   "source": "src1",
-   "quote": "The success of the Jimmy Fund led Farber to realize the importance of marketing in the scientific advancement of knowledge about diseases.",
-   "status": "confirmed",
-   "locator": "שורה 61"
-  },
-  {
    "id": "c45",
    "text": "קבוצת הבייסבול בוסטון בְּרייבס בחרה בקרן ג'ימי כנהנית ממיזמי גיוס הכספים הקהילתיים שלה.",
    "source": "src4",
@@ -1198,14 +1122,6 @@
    "quote": "notably the 1955 discovery that the antibiotic actinomycin D and radiation therapy could produce remission in Wilms' tumor, a pediatric cancer of the kidneys.",
    "status": "confirmed",
    "locator": "שורה 40"
-  },
-  {
-   "id": "c76",
-   "text": "אקטינומיצין D הוצע בחינם במקור על ידי חברת התרופות Eli Lilly.",
-   "source": "src1",
-   "quote": "was originally offered for free by the Eli Lilly Pharmaceutical Company",
-   "status": "confirmed",
-   "locator": "שורה 55"
   },
   {
    "id": "c55",
@@ -1304,14 +1220,6 @@
    "locator": "שורה 48"
   },
   {
-   "id": "c67",
-   "text": "ב-1974 שונה שם הקרן למרכז הסרטן סידני פרבר, וב-1976 למכון הסרטן סידני פרבר.",
-   "source": "src1",
-   "quote": "In 1974, Farber's CCRF was renamed the Sidney Farber Cancer Center, and again in 1976 to the Sidney Farber Cancer Institute.",
-   "status": "confirmed",
-   "locator": "שורה 65"
-  },
-  {
    "id": "c68",
    "text": "תמיכתה ארוכת הטווח של קרן צ'ארלס דנה הוכרה בשם המכון הנוכחי, דנה-פרבר, ב-1983.",
    "source": "src5",
@@ -1344,14 +1252,6 @@
    "locator": "שורה 44"
   },
   {
-   "id": "c63",
-   "text": "לפי ויקיפדיה, פרבר קיבל את פרס Gold-Headed Cane ב-1973.",
-   "source": "src1",
-   "quote": "In 1973, Farber was presented with the prestigious ASIP gold-headed cane award.",
-   "status": "confirmed",
-   "locator": "שורה 46"
-  },
-  {
    "id": "c73",
    "text": "פרבר פרסם יותר מ-270 ספרים ומאמרי מחקר לאורך הקריירה שלו.",
    "source": "src4",
@@ -1366,14 +1266,6 @@
    "quote": "Any man who predicts a date for discovery is no longer a scientist",
    "status": "confirmed",
    "locator": "שורה 49"
-  },
-  {
-   "id": "c64",
-   "text": "לפי ויקיפדיה, ב-30 במרץ 1973, בגיל 69, פרבר מת מדום לב בעודו עובד במשרדו.",
-   "source": "src1",
-   "quote": "On March 30, 1973, at the age of 69, Sidney Farber died from cardiac arrest while working in his office.",
-   "status": "confirmed",
-   "locator": "שורה 68"
   },
   {
    "id": "c70",
@@ -1430,15 +1322,121 @@
    "quote": "Sidney Farber died from a heart attack in 1973, at the age of 70 years.",
    "status": "confirmed",
    "locator": "שורה 16"
+  },
+  {
+   "id": "c80",
+   "text": "סידני פרבר היה פתולוג וחוקר סרטן ילדים, ועל שמו נקרא כיום מכון הסרטן דנה-פרבר.",
+   "source": "src12",
+   "quote": "The institute was formally rebranded as the Dana-Farber Cancer Institute (DFCI) in 1983.",
+   "status": "confirmed",
+   "locator": "שורה 30"
+  },
+  {
+   "id": "c81",
+   "text": "סידני פרבר היה פתולוג וחוקר סרטן ילדים, ועל שמו נקרא כיום מכון הסרטן דנה-פרבר.",
+   "source": "src2",
+   "quote": "In 1929, he became the first full-time pathologist at Children's Hospital.",
+   "status": "confirmed",
+   "locator": "שורה 20"
+  },
+  {
+   "id": "c82",
+   "text": "כדי לממן את המחקר נולדה קרן ג'ימי, שנקראה על שם ילד חולה שהופיע בתוכנית רדיו ב-1948.",
+   "source": "src12",
+   "quote": "In May 1948, at the CCRF, the renowned program on radio known as 'Truth or Consequences' featured 'Jimmy,' who was a cancer patient about 12 years of age.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c83",
+   "text": "כדי לממן את המחקר נולדה קרן ג'ימי, שנקראה על שם ילד חולה שהופיע בתוכנית רדיו ב-1948.",
+   "source": "src2",
+   "quote": "which was renamed the Jimmy Fund.",
+   "status": "confirmed",
+   "locator": "שורה 27"
+  },
+  {
+   "id": "c84",
+   "text": "ב-22 במאי 1948 הופיע איינר, נער בן 12, בתוכנית הרדיו Truth or Consequences.",
+   "source": "src13",
+   "quote": "On May 22, 1948, radio star Ralph Edwards was to ask for donations on a broadcast of his radio show",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c85",
+   "text": "ב-22 במאי 1948 הופיע איינר, נער בן 12, בתוכנית הרדיו Truth or Consequences.",
+   "source": "src14",
+   "quote": "Einar Gustafson, a 12-year-old boy whom Dr. Farber had dubbed \"Jimmy\" to protect his privacy.",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c86",
+   "text": "הצלחת קרן ג'ימי הובילה את פרבר להבין את חשיבות השיווק בקידום הידע המדעי על מחלות.",
+   "source": "src15",
+   "quote": "Farber's realization of the marketing significance in furthering scientific understanding of diseases",
+   "status": "confirmed",
+   "locator": "שורה 48"
+  },
+  {
+   "id": "c87",
+   "text": "ב-1974 שונה שם הקרן למרכז הסרטן סידני פרבר, וב-1976 למכון הסרטן סידני פרבר.",
+   "source": "src16",
+   "quote": "The Children's Cancer Research Foundation is renamed the Sidney Farber Cancer Center in honor of its founder.",
+   "status": "confirmed",
+   "locator": "שורה 31"
+  },
+  {
+   "id": "c88",
+   "text": "ב-1974 שונה שם הקרן למרכז הסרטן סידני פרבר, וב-1976 למכון הסרטן סידני פרבר.",
+   "source": "src16",
+   "quote": "Two years later, the name is again modified, becoming the Sidney Farber Cancer Institute.",
+   "status": "confirmed",
+   "locator": "שורה 31"
+  },
+  {
+   "id": "c89",
+   "text": "פרבר קיבל גם את פרס Gold-Headed Cane.",
+   "source": "src17",
+   "quote": "1972 Sidney Farber",
+   "status": "confirmed",
+   "locator": "שורה 86"
+  },
+  {
+   "id": "c90",
+   "text": "ב-30 במרץ 1973 מת פרבר מדום לב בעודו עובד במשרדו.",
+   "source": "src15",
+   "quote": "Regrettably, he succumbed to cardiac arrest while on duty on March 30, 1973",
+   "status": "confirmed",
+   "locator": "שורה 21"
+  },
+  {
+   "id": "c91",
+   "text": "ב-30 במרץ 1973 מת פרבר מדום לב בעודו עובד במשרדו.",
+   "source": "src8",
+   "quote": "He died while working in his office on March 30, 1973.",
+   "status": "confirmed",
+   "locator": "שורה 36"
+  },
+  {
+   "id": "c92",
+   "text": "בגיל 69",
+   "source": "src8",
+   "quote": "He died while working in his office on March 30, 1973.",
+   "status": "confirmed",
+   "locator": "שורה 36"
+  },
+  {
+   "id": "c93",
+   "text": "בגיל 69",
+   "source": "src8",
+   "quote": "Farber was 69 years old.",
+   "status": "confirmed",
+   "locator": "שורה 36"
   }
  ],
  "sources": [
-  {
-   "id": "src1",
-   "label": "Wikipedia, Sidney Farber",
-   "url": "https://en.wikipedia.org/wiki/Sidney_Farber",
-   "kind": "reference"
-  },
   {
    "id": "src2",
    "label": "Dana-Farber Cancer Institute, היסטוריה: Sidney Farber, MD",
@@ -1498,6 +1496,42 @@
    "label": "Life in the Fast Lane (LITFL), Sidney Farber",
    "url": "https://litfl.com/sidney-farber/",
    "kind": "reference"
+  },
+  {
+   "id": "src12",
+   "label": "Cureus (via Europe PMC): Dr. Sidney Farber (1903-1973): Founder of Pediatric Pathology and the Father of Modern Chemotherapy",
+   "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11440578/fullTextXML",
+   "kind": "reference"
+  },
+  {
+   "id": "src13",
+   "label": "New England Historical Society: Jimmy Fund Jimmy Survives, Gives Ted Williams a Thrill",
+   "url": "https://newenglandhistoricalsociety.com/jimmy-fund-jimmy-survives-gives-ted-williams-thrill",
+   "kind": "organisation"
+  },
+  {
+   "id": "src14",
+   "label": "New England Historical Society: Jimmy Fund Jimmy Survives, Gives Ted Williams a Thrill",
+   "url": "https://sabr.org/gamesproj/game/may-23-1948-boston-braves-win-two-jimmy-fund",
+   "kind": "organisation"
+  },
+  {
+   "id": "src15",
+   "label": "PubMed Central: Dr. Sidney Farber (1903-1973): Founder of Pediatric Pathology and the Father of Modern Chemotherapy",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11440578/",
+   "kind": "reference"
+  },
+  {
+   "id": "src16",
+   "label": "Dana-Farber Cancer Institute: Milestones in the History of Dana-Farber and the Jimmy Fund",
+   "url": "https://www.dana-farber.org/about/history/timeline",
+   "kind": "official"
+  },
+  {
+   "id": "src17",
+   "label": "American Society for Investigative Pathology: Gold-Headed Cane Award recipients",
+   "url": "https://www.asip.org/?p=3052",
+   "kind": "organisation"
   }
  ],
  "media": [
@@ -1779,7 +1813,7 @@
   "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
   "checked_at": "2026-11-21T06:15:15Z",
   "counts": {
-   "confirmed": 98,
+   "confirmed": 91,
    "not_confirmed": 0,
    "deleted_sentences": 2,
    "first_round_confirmed": 95,
@@ -1800,11 +1834,18 @@
    "fix": "opus-5-5 medium"
   },
   "source_quality": {
-   "sources": 11,
-   "wikipedia": 1,
+   "sources": 16,
+   "wikipedia": 0,
    "strong": 3,
    "ok": true,
    "warnings": []
+  },
+  "wiki_cleanup": {
+   "at": "2026-11-27T15:38:47Z",
+   "targets": 15,
+   "resourced": 8,
+   "kept_on_other_sources": 0,
+   "deleted": 7
   }
  }
 }

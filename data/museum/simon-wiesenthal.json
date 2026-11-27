@@ -1,2450 +1,2275 @@
 {
-  "schema": "maasei-museum/1",
-  "slug": "simon-wiesenthal",
-  "deed": "שמעון ויזנטל, ניצול שואה, הקדיש את חייו להביא פושעים נאצים למשפט",
-  "canonical_type": "historical-figure",
-  "year": "1947",
-  "title": "שמעון ויזנטל, ניצול שואה, אסף ראיות על פושעים נאצים כדי להביאם לדין",
-  "trailer": [
-    {
-      "text": "שמעון ויזנטל היה אדריכל יהודי וניצול שואה שנודע כ\"צייד נאצים\", לפי המכלול.",
-      "claims": [
-        "c2"
-      ]
-    },
-    {
-      "text": "לפי מרכז שמעון ויזנטל, הוא הקדיש את חייו כדי שפשעי המשטר הנאצי לא יישכחו ושהאחראים להם יובאו לדין.",
-      "claims": [
-        "c1"
-      ]
-    },
-    {
-      "text": "בשואה נספו 89 מבני משפחתו ומבני משפחת אשתו.",
-      "claims": [
-        "c7"
-      ]
-    },
-    {
-      "text": "ב-1947 פתח עם שלושים מתנדבים מרכז תיעוד בלינץ שבאוסטריה, כדי לאסוף ראיות למשפטים עתידיים.",
-      "claims": [
-        "c15"
-      ]
-    },
-    {
-      "text": "הוא בנה כרטסת של 22,500 שמות והכין תיקים על ששת אלפים מקרים,",
-      "claims": [
-        "c40"
-      ]
-    },
-    {
-      "text": "וכשנפטר בווינה בגיל 96 נטמן בהרצליה שבישראל.",
-      "claims": [
-        "c63"
-      ]
-    }
-  ],
-  "hero_media": [
-    "m1",
-    "m3",
-    "m9",
-    "m10",
-    "m13",
-    "m4",
-    "m7",
-    "m12",
-    "m19",
-    "m20",
-    "m21",
-    "m22",
-    "m24",
-    "m25",
-    "m26",
-    "m27",
-    "m28",
-    "m29",
-    "m30",
-    "m34",
-    "m39",
-    "m42",
-    "m44",
-    "m47",
-    "m48",
-    "m52",
-    "m53",
-    "m54",
-    "m56",
-    "m57",
-    "m58"
-  ],
-  "glance": [
-    {
-      "label": "נולד",
-      "value": "1908, בוצ'אץ'",
-      "claims": [
-        "c3"
-      ]
-    },
-    {
-      "label": "מקצוע",
-      "value": "אדריכל, תואר מפראג ב-1932",
-      "claims": [
-        "c5"
-      ]
-    },
-    {
-      "label": "מרכז התיעוד",
-      "value": "לינץ ב-1947, אחר כך וינה",
-      "claims": [
-        "c15",
-        "c18"
-      ]
-    },
-    {
-      "label": "הכרטסת",
-      "value": "22,500 שמות, 6,000 תיקים",
-      "claims": [
-        "c40"
-      ]
-    },
-    {
-      "label": "הכרה",
-      "value": "מדליית הזהב של הקונגרס האמריקני, לגיון הכבוד הצרפתי",
-      "claims": [
-        "c56"
-      ]
-    },
-    {
-      "label": "קבור",
-      "value": "הרצליה",
-      "claims": [
-        "c63"
-      ]
-    }
-  ],
-  "stations": [
-    {
-      "id": "s1",
-      "title": "ילד מבוצ'אץ', אדריכל מפראג",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "שמעון ויזנטל נולד ב-31 בדצמבר 1908 בבוצ'אץ', באזור שנמצא כיום במחוז לבוב באוקראינה.",
-            "claims": [
-              "c4"
-            ]
-          },
-          {
-            "text": "הוא גדל במשפחה יהודית אמידה.",
-            "claims": [
-              "c3"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "הוא רצה ללמוד בפוליטכניון בלבוב, אבל נדחה בגלל מכסות על סטודנטים יהודים.",
-            "claims": [
-              "c5"
-            ]
-          },
-          {
-            "text": "לכן נסע ללמוד בפראג, וב-1932 קיבל תואר בהנדסת אדריכלות.",
-            "claims": [
-              "c5"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m3"
-      ],
-      "disagreements": []
-    },
-    {
-      "id": "s2",
-      "title": "שנות המלחמה",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "לפי מרכז ויזנטל, הוא הציל את עצמו, את אשתו ואת אמו מגירוש לסיביר בכך ששיחד קומיסר של ה-NKVD.",
-            "claims": [
-              "c6"
-            ]
-          },
-          {
-            "text": "אחר כך עשה עסקה עם המחתרת הפולנית: הוא מסר תרשימים של צמתי רכבת, ובתמורה קיבל מסמכים מזויפים לאשתו.",
-            "claims": [
-              "c8"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "באוגוסט 1942 נשלחה אמו למחנה ההשמדה בלז'ץ.",
-            "claims": [
-              "c7"
-            ]
-          },
-          {
-            "text": "לפי המכלול, ב-20 באפריל 1943 החליטו שומרי ינובסקה לירות למוות ב-54 יהודים, לציון יום הולדתו ה-54 של היטלר.",
-            "claims": [
-              "c12"
-            ]
-          },
-          {
-            "text": "באוקטובר 1943 נמלט ויזנטל ממחנה העבודה אוסטבאן בעזרת סגן המנהל, זמן קצר לפני שהגרמנים החלו לחסל את כל האסירים.",
-            "claims": [
-              "c9"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "לאחר שנתפס שוב ביוני 1944 והוחזר למחנה ינובסקה, הצטרפו שומרי האס אס במחנה לנסיגה הכללית מערבה עם 34 אסירים בלבד מתוך 149,000 שהיו בו במקור..",
-            "claims": [
-              "c10"
-            ]
-          },
-          {
-            "text": "ב-5 במאי 1945 שחררה יחידת שריון אמריקנית את מחנה מאוטהאוזן, וויזנטל היה אז בקושי בחיים.",
-            "claims": [
-              "c11"
-            ]
-          },
-          {
-            "text": "לפי המכלול, גובהו היה 1.80 מטרים, ובתום המלחמה שקל פחות מ-45 קילוגרמים.",
-            "claims": [
-              "c13"
-            ]
-          }
-        ]
-      ],
-      "media": [],
-      "disagreements": [
-        "d1"
-      ]
-    },
-    {
-      "id": "s3",
-      "title": "אחרי השחרור: מתחילים לאסוף",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "ברגע שבריאותו שוחזרה, החל ויזנטל לאסוף ולהכין ראיות על זוועות הנאצים עבור מדור פשעי המלחמה של צבא ארצות הברית.",
-            "claims": [
-              "c14"
-            ]
-          },
-          {
-            "text": "ויזנטל ואשתו התאחדו, ושניהם סברו עד אז שהשני מת.",
-            "claims": [
-              "c43",
-              "c44"
-            ]
-          },
-          {
-            "text": "נולדה להם בת, פאולינה.",
-            "claims": [
-              "c45",
-              "c46"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "ב-1947 פתח ויזנטל עם שלושים מתנדבים את המרכז ההיסטורי היהודי לתיעוד בלינץ שבאוסטריה, כדי לאסוף ראיות למשפטים עתידיים.",
-            "claims": [
-              "c15"
-            ]
-          },
-          {
-            "text": "לפי העיתון, כשפתח את מרכז התיעוד בווינה בעקבות לכידת אייכמן ב-1960, היו לו בתחילה מעט משאבים כספיים ומעט בעלי ברית פוליטיים בעבודתו כצייד נאצים..",
-            "claims": [
-              "c67"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "לפי האנציקלופדיה, פרוץ המלחמה הקרה הפך את העמדת הפושעים הנאצים לדין לבלתי אטרקטיבית פוליטית עבור מעצמות המערב.",
-            "claims": [
-              "c16"
-            ]
-          },
-          {
-            "text": "ב-1954 נסגר המשרד בלינץ, ותיקיו נמסרו לארכיון יד ושם בישראל, מלבד תיק אחד.",
-            "claims": [
-              "c17"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m16",
-        "m49",
-        "m50",
-        "m51",
-        "m55"
-      ],
-      "disagreements": [
-        "d2",
-        "d3"
-      ]
-    },
-    {
-      "id": "s4",
-      "title": "אייכמן, והמשרד בווינה",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "לפי מרכז ויזנטל, אדולף אייכמן התגורר בבואנוס איירס בשם בדוי.",
-            "claims": [
-              "c22"
-            ]
-          },
-          {
-            "text": "סוכנים ישראלים לכדו אותו והביאו אותו לישראל למשפט.",
-            "claims": [
-              "c22"
-            ]
-          },
-          {
-            "text": "לפי מרכז ויזנטל, אייכמן נמצא אשם ברצח המוני והוצא להורג.",
-            "claims": [
-              "c19"
-            ]
-          },
-          {
-            "text": "לפי אתר החדשות JNS, התלייה נקבעה לחצות, התעכבה מעט, ולכן התקיימה כמה דקות אחרי חצות, ב-1 ביוני 1962.",
-            "claims": [
-              "c900"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "לפי האנציקלופדיה, המידע שוויזנטל אסף על אייכמן סייע לרשויות הישראליות בלכידתו.",
-            "claims": [
-              "c21"
-            ]
-          },
-          {
-            "text": "לפי המכלול, ויזנטל עצמו מעולם לא טען שהוא זה שהביא ללכידתו של אייכמן.",
-            "claims": [
-              "c26"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "אחרי לכידת אייכמן פתח ויזנטל מחדש את המרכז לתיעוד יהודי, הפעם בווינה.",
-            "claims": [
-              "c18"
-            ]
-          },
-          {
-            "text": "הפעם התרכז רק בציד פושעי מלחמה.",
-            "claims": [
-              "c18"
-            ]
-          }
-        ]
-      ],
-      "media": [],
-      "disagreements": [
-        "d4",
-        "d6"
-      ]
-    },
-    {
-      "id": "s5",
-      "title": "איך עבד: כרטסת, תיקים ועיתונות",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "בניגוד לאמונה הרווחת, ויזנטל לא איתר בדרך כלל בעצמו את הנאצים הנמלטים.",
-            "claims": [
-              "c34"
-            ]
-          },
-          {
-            "text": "משימתו העיקרית הייתה איסוף וניתוח של מידע.",
-            "claims": [
-              "c34"
-            ]
-          },
-          {
-            "text": "לפי המכלול, שיטתו התבססה על איסוף קפדני של כל פיסת מידע.",
-            "claims": [
-              "c35"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "הוא ערך כרטסת של 22,500 שמות והכין תיקים על ששת אלפים מקרים.",
-            "claims": [
-              "c40"
-            ]
-          },
-          {
-            "text": "לפעמים עבד על עד שלוש מאות מקרים בו-זמנית.",
-            "claims": [
-              "c40"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "כשהרשויות לא פעלו, פנה ויזנטל לעיתונות ולתקשורת.",
-            "claims": [
-              "c36"
-            ]
-          },
-          {
-            "text": "הניסיון לימד אותו שפרסום וזעם ציבורי הם נשק עוצמתי.",
-            "claims": [
-              "c36"
-            ]
-          },
-          {
-            "text": "לפי המכלול, הוא ניהל מסע לחצים בינלאומי, והפרלמנט המערב-גרמני ביטל בעקבותיו את חוק ההתיישנות על פשעי הנאצים.",
-            "claims": [
-              "c64"
-            ]
-          },
-          {
-            "text": "לפי אנציקלופדיית אבסקו, הוא התעקש שהמוסר חייב להישאר בצד המאשימים, ושעונש ראוי יכול לבוא רק מבתי המשפט.",
-            "claims": [
-              "c65"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m11",
-        "m13",
-        "m7",
-        "m1",
-        "m17",
-        "m36",
-        "m9",
-        "m40",
-        "m41"
-      ],
-      "disagreements": []
-    },
-    {
-      "id": "s6",
-      "title": "התיקים שנסגרו בבית המשפט",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "ב-1963 איתר ויזנטל את קרל זילברבאואר, שהיה אז מפקח משטרה באוסטריה.",
-            "claims": [
-              "c27"
-            ]
-          },
-          {
-            "text": "תועמלנים נאו-נאצים הולנדים הצליחו למדי בניסיונותיהם להכפיש את אמיתות יומנה של אנה פרנק, עד שוויזנטל איתר ב-1963 את קרל זילברבאואר, שהיה אז מפקח משטרה באוסטריה..",
-            "claims": [
-              "c27"
-            ]
-          },
-          {
-            "text": "לפי אתר הסטורי, זילברבאואר הושעה זמנית ממשטרת וינה, אבל לא הועמד לדין, כי נמצא שפעל רק לפי פקודות.",
-            "claims": [
-              "c28"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "באוקטובר 1966 הועמדו לדין בשטוטגרט שבמערב גרמניה שישה עשר קציני אס אס בשל השתתפות בהשמדת יהודי לבוב, ותשעה מהם אותרו על ידי ויזנטל..",
-            "claims": [
-              "c30"
-            ]
-          },
-          {
-            "text": "אחרי שלוש שנות עבודה חשאית של ויזנטל אותר פרנץ שטנגל בברזיל, וב-1967 הוסגר למערב גרמניה.",
-            "claims": [
-              "c29"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "לפי המכלול, הרמינה בראונשטיינר נעצרה בקווינס שבניו יורק, שם חייתה כעקרת בית.",
-            "claims": [
-              "c32"
-            ]
-          },
-          {
-            "text": "היא נעצרה אחרי מחקר ממושך של ויזנטל ושל מתנדבים ששלח.",
-            "claims": [
-              "c32"
-            ]
-          },
-          {
-            "text": "לפי מרכז ויזנטל, הרמינה ראיין (לבית בראונשטיינר) הוסגרה לגרמניה ב-1973 וקיבלה מאסר עולם.",
-            "claims": [
-              "c31"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "בעיתון נכתב שוויזנטל פנה בקריאה עולמית להציל את מרכז התיעוד בווינה מסגירה אפשרית בידי ממשלת אוסטריה.",
-            "claims": [
-              "c71"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m10"
-      ],
-      "disagreements": [
-        "d7",
-        "d8"
-      ]
-    },
-    {
-      "id": "s7",
-      "title": "הכרה, מילים אחרונות ומקום מנוחה",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "ב-1977 נקרא מרכז שמעון ויזנטל ללימודי שואה בלוס אנג'לס על שמו.",
-            "claims": [
-              "c59"
-            ]
-          },
-          {
-            "text": "ב-1980 קיבל מנשיא ארצות הברית קרטר את מדליית הזהב של הקונגרס האמריקני, וב-1986 קיבל את לגיון הכבוד הצרפתי.",
-            "claims": [
-              "c56"
-            ]
-          },
-          {
-            "text": "לפי אנציקלופדיית אבסקו, הוא היה מועמד לפרס נובל לשלום ב-1985, קיבל מדליות חירות מהולנד ומלוקסמבורג, וקיבל גם את מדליית החירות הנשיאותית מהנשיא קלינטון.",
-            "claims": [
-              "c57"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "ויזנטל סירב להצטרף לטקס בביטבורג, כי בבית הקברות שם היו קבורים חיילי אס אס.",
-            "claims": [
-              "c70"
-            ]
-          },
-          {
-            "text": "לפי המכלול, רק בשנות ה-90 שבה החברה האוסטרית והתפייסה עם ויזנטל, ודור הנכדים של משתתפי מלחמת העולם השנייה ראה בו סמל לדמוקרטיה, ליושר ולשפיות..",
-            "claims": [
-              "c66"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "ויזנטל כתב שההישרדות היא זכות שמטילה חובות.",
-            "claims": [
-              "c60"
-            ]
-          },
-          {
-            "text": "הוא כתב גם שהוא שואל את עצמו כל הזמן מה יוכל לעשות למען מי שלא שרדו.",
-            "claims": [
-              "c60"
-            ]
-          },
-          {
-            "text": "בראיון ב-1994 אמר שהערך היחיד של כחמישה עשורי עבודתו הוא אזהרה לרוצחי המחר שלעולם לא ינוחו.",
-            "claims": [
-              "c61"
-            ]
-          },
-          {
-            "text": "ב-2003 אמר בראיון לשבועון האוסטרי \"פורמט\" שגילה את הרוצחים ההמוניים שחיפש.",
-            "claims": [
-              "c62"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "לפי המכלול, ויזנטל סירב לעלות לישראל, אף שאשתו ביקשה זאת ואף שבתו, חתנו ונכדיו עלו.",
-            "claims": [
-              "c69"
-            ]
-          },
-          {
-            "text": "הוא נפטר ב-20 בספטמבר 2005 בביתו בווינה, בגיל 96, ונטמן בהרצליה שבישראל.",
-            "claims": [
-              "c63"
-            ]
-          },
-          {
-            "text": "הרב מרווין הייר אמר שוויזנטל הראה לעולם מה יכול להשיג אדם אחד הנחוש לעשות את הדבר הנכון.",
-            "claims": [
-              "c68"
-            ]
-          },
-          {
-            "text": "ב-2006 שינתה עיריית וינה שם של רחוב ל-Simon-Wiesenthal-Gasse לכבודו.",
-            "claims": [
-              "c58"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m1",
-        "m4",
-        "m8",
-        "m12",
-        "m6",
-        "m18",
-        "m14",
-        "m43",
-        "m45",
-        "m46"
-      ],
-      "disagreements": []
-    },
-    {
-      "id": "s8",
-      "title": "ביקורת, טעויות ואיומים",
-      "kind": "hard",
-      "paragraphs": [
-        [
-          {
-            "text": "לפי המכלול, המידע של ויזנטל על מקום הימצאו של מנגלה התברר כשגוי.",
-            "claims": [
-              "c33"
-            ]
-          },
-          {
-            "text": "המידע הוביל את המחפשים לפרגוואי במקום לברזיל, ועורר ביקורת.",
-            "claims": [
-              "c33"
-            ]
-          },
-          {
-            "text": "לפי אנציקלופדיית אבסקו, ועדה ממשלתית בקנדה קבעה שההערכות על מספר הפושעים הנאצים בקנדה הוגזמו מאוד.",
-            "claims": [
-              "c72"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "לפי אנציקלופדיית אבסקו, ניצולי שואה וציידי נאצים, ובהם אלי ויזל, האשימו את ויזנטל בהגזמה חמורה בחלק מטענותיו.",
-            "claims": [
-              "c54"
-            ]
-          },
-          {
-            "text": "לפי המכלול, הצייד טוביה פרידמן כינה את ויזנטל שקרן, נוכל ואנטי-ציוני, וטען שהתפרסם והתעשר מסיפורי בדים.",
-            "claims": [
-              "c55"
-            ]
-          },
-          {
-            "text": "לפי אנציקלופדיית אבסקו, ציונים מסוימים ראו בחתירתו לצדק כלפי נאצים פגיעה ביעדיהם וניסו להכפיש את מאמציו.",
-            "claims": [
-              "c51"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "ויזנטל ניהל מחלוקת משפטית עם הקנצלר האוסטרי קרייסקי.",
-            "claims": [
-              "c52",
-              "c53"
-            ]
-          },
-          {
-            "text": "לפי המכלול, המחלוקת פרצה אחרי שוויזנטל הצביע על חברי ממשלה בעלי עבר נאצי.",
-            "claims": [
-              "c53"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "ביוני 1982 התפוצצה פצצה בדלת ביתו של ויזנטל וגרמה נזק רב, ואיש לא נפגע.",
-            "claims": [
-              "c49"
-            ]
-          },
-          {
-            "text": "בגין הפיצוץ נעצרו נאו-נאצי גרמני וכמה נאו-נאצים אוסטרים.",
-            "claims": [
-              "c50"
-            ]
-          },
-          {
-            "text": "הגרמני נמצא המבצע העיקרי ונידון לחמש שנות מאסר.",
-            "claims": [
-              "c50"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m15"
-      ],
-      "disagreements": [
-        "d9"
-      ]
-    }
-  ],
-  "disagreements": [
-    {
-      "id": "d1",
-      "question": "בכמה מחנות היה ויזנטל?",
-      "versions": [
-        {
-          "says": "לפי אתר הסטורי, הוא שרד מאסר בארבעה מחנות ריכוז ובצעדת מוות",
-          "claims": [
-            "c47"
-          ]
-        },
-        {
-          "says": "לפי אנציקלופדיית אבסקו, הוא שרד תריסר מחנות ריכוז והשמדה",
-          "claims": [
-            "c48"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d2",
-      "question": "באיזו שנה התאחד ויזנטל עם אשתו?",
-      "versions": [
-        {
-          "says": "לפי מרכז ויזנטל, בסוף 1945",
-          "claims": [
-            "c43"
-          ]
-        },
-        {
-          "says": "לפי אתר הסטורי, ב-1947",
-          "claims": [
-            "c44"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d3",
-      "question": "באיזו שנה נולדה בתו פאולינה?",
-      "versions": [
-        {
-          "says": "לפי מרכז ויזנטל, ב-1946",
-          "claims": [
-            "c45"
-          ]
-        },
-        {
-          "says": "לפי אנציקלופדיית אבסקו, ב-1947",
-          "claims": [
-            "c46"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d4",
-      "question": "היכן נלכד אייכמן?",
-      "versions": [
-        {
-          "says": "לפי האנציקלופדיה, בברזיל ב-1960",
-          "claims": [
-            "c21"
-          ]
-        },
-        {
-          "says": "לפי מרכז ויזנטל, בבואנוס איירס",
-          "claims": [
-            "c22"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d6",
-      "question": "מה היה חלקו של ויזנטל באיתור אייכמן?",
-      "versions": [
-        {
-          "says": "לפי אנציקלופדיית אבסקו, ויזנטל זכה להכרה בינלאומית לראשונה בזכות איתור אייכמן בבואנוס איירס",
-          "claims": [
-            "c24"
-          ]
-        },
-        {
-          "says": "לפי העיתון, מומחים אומרים שוויזנטל לא היה מכריע באיתור אייכמן, בניגוד לתפיסה הרווחת",
-          "claims": [
-            "c23"
-          ]
-        },
-        {
-          "says": "לפי המכלול, ראש המוסד לשעבר איסר הראל טען שלוויזנטל לא היה חלק באיתור אייכמן ובתפיסתו",
-          "claims": [
-            "c25"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d7",
-      "question": "כמה פושעים הובאו לדין בזכות ויזנטל?",
-      "versions": [
-        {
-          "says": "לפי המכלול, ויזנטל ואנשיו הביאו למשפט כאלף פושעי מלחמה נאצים",
-          "claims": [
-            "c37"
-          ]
-        },
-        {
-          "says": "במקום אחר במכלול נכתב שהוא הביא לדין יותר מ-1,100 פושעי מלחמה",
-          "claims": [
-            "c38"
-          ]
-        },
-        {
-          "says": "לפי האנציקלופדיה, הוא סייע להביא לדין כאחד עשר מאות פושעי מלחמה",
-          "claims": [
-            "c39"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d8",
-      "question": "כמה שמות היו בתיקי פושעי המלחמה בגרמניה?",
-      "versions": [
-        {
-          "says": "לפי מרכז ויזנטל, יותר מ-90,000 שמות, רובם של אנשים שמעולם לא נשפטו",
-          "claims": [
-            "c41"
-          ]
-        },
-        {
-          "says": "לפי אנציקלופדיית אבסקו, בתיקים של ממשלת מערב גרמניה היו יותר מ-160,000 שמות, רובם לא נשפטו",
-          "claims": [
-            "c42"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d9",
-      "question": "מי תבע את מי במחלוקת עם קרייסקי?",
-      "versions": [
-        {
-          "says": "לפי אנציקלופדיית אבסקו, ויזנטל הגיש תביעת דיבה נגד קרייסקי, ולבסוף הגיע להסדר מחוץ לבית המשפט",
-          "claims": [
-            "c52"
-          ]
-        },
-        {
-          "says": "לפי המכלול, קרייסקי הוא שאיים לתבוע את ויזנטל בגין דיבה",
-          "claims": [
-            "c53"
-          ]
-        }
-      ]
-    }
-  ],
-  "unknowns": [
-    {
-      "text": "ב-1954 נסגר המשרד בלינץ ותיקיו נמסרו לארכיון יד ושם בישראל, מלבד תיק אחד – התיק של אדולף אייכמן.",
-      "claims": [
-        "c17"
-      ]
-    }
-  ],
-  "claims": [
-    {
-      "id": "c2",
-      "text": "לפי המכלול, ויזנטל היה אדריכל יהודי שנודע כ\"צייד נאצים\" וכניצול שואה הקדיש את חייו לאיסוף ותיעוד מידע על פושעי מלחמה נאצים.",
-      "source": "src1",
-      "quote": "היה אדריכל יהודי שנודע כ\"צייד נאצים\". כניצול השואה, הקדיש את חייו לאיסוף ותיעוד מידע אודות פושעי מלחמה נאצים",
-      "status": "confirmed",
-      "locator": "שורה 12"
-    },
-    {
-      "id": "c1",
-      "text": "ויזנטל היה ניצול שואה אוסטרי שהקדיש את חייו להבטיח שפשעי המשטר הנאצי לא יישכחו ושהאחראים להם יובאו לדין, לפי מרכז שמעון ויזנטל.",
-      "source": "src2",
-      "quote": "Simon Wiesenthal was an Austrian Holocaust survivor who dedicated his life to ensuring that the crimes of the Nazi regime were not forgotten and that those responsible were brought to justice.",
-      "status": "confirmed",
-      "locator": "שורה 3"
-    },
-    {
-      "id": "c7",
-      "text": "באוגוסט 1942 נשלחה אמו של ויזנטל למחנה ההשמדה בלז'ץ, ובסך הכול נספו 89 בני משפחותיו ומשפחת אשתו.",
-      "source": "src2",
-      "quote": "In August 1942, Wiesenthal's mother was sent to the Belzec death camp. By September, most of his and his wife's relatives were dead; a total of eighty-nine members of both families perished.",
-      "status": "confirmed",
-      "locator": "שורה 16"
-    },
-    {
-      "id": "c15",
-      "text": "ב-1947 פתח ויזנטל עם שלושים מתנדבים את המרכז ההיסטורי היהודי לתיעוד בלינץ שבאוסטריה, כדי לאסוף ראיות למשפטים עתידיים.",
-      "source": "src2",
-      "quote": "Wiesenthal and thirty volunteers opened the Jewish Historical Documentation Center in Linz, Austria, for the purpose of assembling evidence for future trials.",
-      "status": "confirmed",
-      "locator": "שורה 23"
-    },
-    {
-      "id": "c40",
-      "text": "ויזנטל ערך כרטסת של 22,500 שמות, הכין תיקים על ששת אלפים מקרים ועבד על עד שלוש מאות מקרים בו-זמנית.",
-      "source": "src3",
-      "quote": "He compiled a card index of 22,500 names on his Nazi wanted list, assembled dossiers on six thousand cases, and worked on as many as three hundred cases at a time.",
-      "status": "confirmed",
-      "locator": "שורה 20"
-    },
-    {
-      "id": "c63",
-      "text": "ויזנטל נפטר ב-20 בספטמבר 2005 בביתו בווינה בגיל 96 ונטמן בהרצליה שבישראל.",
-      "source": "src1",
-      "quote": "ב-20 בספטמבר 2005 נפטר בביתו שבווינה בגיל 96. נטמן בבית העלמין בהרצליה בישראל.",
-      "status": "confirmed",
-      "locator": "שורה 35"
-    },
-    {
-      "id": "c3",
-      "text": "ויזנטל נולד ב-1908 למשפחה יהודית אמידה בבוצ'אץ', שנמצאת כיום באוקראינה, ובבגרותו עבר לפראג ולמד אדריכלות.",
-      "source": "src4",
-      "quote": "הוא נולד ב-1908 למשפחה יהודית אמידה בעיר בוצ'אץ' השוכנת כיום באוקראינה, ועם התבגרו עבר לפראג ולמד אדריכלות",
-      "status": "confirmed",
-      "locator": "שורה 6"
-    },
-    {
-      "id": "c5",
-      "text": "ויזנטל נדחה מהפוליטכניון בלבוב בגלל מכסות על סטודנטים יהודים, ולכן למד בפראג וקיבל ב-1932 תואר בהנדסת אדריכלות.",
-      "source": "src2",
-      "quote": "Turned away because of quota restrictions on Jewish students, he went instead to the Technical University of Prague, from which he received his degree in architectural engineering in 1932.",
-      "status": "confirmed",
-      "locator": "שורה 13"
-    },
-    {
-      "id": "c18",
-      "text": "לאחר לכידת אייכמן פתח ויזנטל מחדש את המרכז לתיעוד יהודי, הפעם בווינה, והתרכז אך ורק בציד פושעי מלחמה.",
-      "source": "src2",
-      "quote": "Encouraged by the capture of Eichmann, Wiesenthal reopened the Jewish Documentation Center, this time in Vienna, and concentrated exclusively on the hunting of war criminals.",
-      "status": "confirmed",
-      "locator": "שורה 25"
-    },
-    {
-      "id": "c56",
-      "text": "ויזנטל קיבל את מדליית הזהב של הקונגרס האמריקני מנשיא קרטר ב-1980 ואת לגיון הכבוד הצרפתי ב-1986.",
-      "source": "src2",
-      "quote": "the U.S. Congressional Gold Medal presented to him by President Jimmy Carter in 1980, and the French Legion of Honor which he received in 1986",
-      "status": "confirmed",
-      "locator": "שורה 32"
-    },
-    {
-      "id": "c4",
-      "text": "ויזנטל נולד ב-31 בדצמבר 1908 בבוצ'אץ', באזור שנמצא כיום במחוז לבוב באוקראינה.",
-      "source": "src2",
-      "quote": "Simon Wiesenthal was born on December 31, 1908 in Buczacz, in what is now the Lvov Oblast section of the Ukraine.",
-      "status": "confirmed",
-      "locator": "שורה 13"
-    },
-    {
-      "id": "c6",
-      "text": "לפי מרכז ויזנטל, הוא הציל את עצמו, את אשתו ואת אמו מגירוש לסיביר בכך ששיחד קומיסר של ה-NKVD.",
-      "source": "src2",
-      "quote": "Later he saved himself, his wife, and his mother from deportation to Siberia by bribing an NKVD commissar.",
-      "status": "confirmed",
-      "locator": "שורה 15"
-    },
-    {
-      "id": "c8",
-      "text": "ויזנטל עשה עסקה עם המחתרת הפולנית: תרשימים של צמתי רכבת תמורת מסמכים מזויפים לאשתו.",
-      "source": "src2",
-      "quote": "In return for detailed charts of railroad junction points made by him for use by saboteurs, his wife was provided with false papers",
-      "status": "confirmed",
-      "locator": "שורה 17"
-    },
-    {
-      "id": "c12",
-      "text": "לפי המכלול, ב-20 באפריל 1943 החליטו שומרי ינובסקה לירות למוות ב-54 יהודים לציון יום הולדתו ה-54 של היטלר.",
-      "source": "src1",
-      "quote": "ב-20 באפריל 1943, לציון יום הולדתו ה-54 של היטלר, החליטו שומרי ינובסקה לירות למוות ב-54 יהודים בחגיגה",
-      "status": "confirmed",
-      "locator": "שורה 26"
-    },
-    {
-      "id": "c9",
-      "text": "ויזנטל נמלט ממחנה העבודה אוסטבאן באוקטובר 1943 בעזרת סגן המנהל, זמן קצר לפני שהגרמנים החלו לחסל את כל האסירים.",
-      "source": "src2",
-      "quote": "With the help of the deputy director, Wiesenthal himself escaped the Ostbahn camp in October 1943, just before the Germans began liquidating all the inmates.",
-      "status": "confirmed",
-      "locator": "שורה 18"
-    },
-    {
-      "id": "c10",
-      "text": "מקבוצה של 149,000 אסירים נותרו 34 בלבד כשהשומרים החלו בנסיגה מערבה.",
-      "source": "src2",
-      "quote": "With 34 prisoners out of an original 149,000, the 200 guards joined the general retreat westward",
-      "status": "confirmed",
-      "locator": "שורה 18"
-    },
-    {
-      "id": "c11",
-      "text": "ויזנטל היה בקושי בחיים כשמחנה מאוטהאוזן שוחרר על ידי יחידת שריון אמריקנית ב-5 במאי 1945.",
-      "source": "src2",
-      "quote": "Wiesenthal was barely alive when Mauthausen was liberated by an American armored unit on May 5, 1945.",
-      "status": "confirmed",
-      "locator": "שורה 19"
-    },
-    {
-      "id": "c13",
-      "text": "לפי המכלול, גובהו של ויזנטל היה 1.80 מטרים ומשקלו בתום המלחמה פחות מ-45 קילוגרמים.",
-      "source": "src1",
-      "quote": "אף על פי שגובהו היה 1.80 מטרים, משקלו היה פחות מ-45 קילוגרמים.",
-      "status": "confirmed",
-      "locator": "שורה 28"
-    },
-    {
-      "id": "c14",
-      "text": "ברגע שבריאותו שוחזרה החל ויזנטל לאסוף ולהכין ראיות על זוועות הנאצים עבור מדור פשעי המלחמה של צבא ארצות הברית.",
-      "source": "src2",
-      "quote": "Wiesenthal began gathering and preparing evidence on Nazi atrocities for the War Crimes Section of the United States Army.",
-      "status": "confirmed",
-      "locator": "שורה 22"
-    },
-    {
-      "id": "c43",
-      "text": "בסוף 1945 התאחדו ויזנטל ואשתו, שכל אחד מהם סבר שהאחר מת.",
-      "source": "src2",
-      "quote": "Late in 1945, he and his wife, each of whom had believed the other to be dead, were reunited",
-      "status": "confirmed",
-      "locator": "שורה 22"
-    },
-    {
-      "id": "c44",
-      "text": "לפי אתר הסטורי, ויזנטל התאחד עם אשתו ב-1947, ושניהם סברו שהאחר מת.",
-      "source": "src5",
-      "quote": "he miraculously reunited with his wife in 1947. They had both assumed that the other was dead.",
-      "status": "confirmed",
-      "locator": "שורה 14"
-    },
-    {
-      "id": "c45",
-      "text": "לפי מרכז ויזנטל, בתם פאולינה נולדה ב-1946.",
-      "source": "src2",
-      "quote": "were reunited, and in 1946, their daughter Pauline was born.",
-      "status": "confirmed",
-      "locator": "שורה 22"
-    },
-    {
-      "id": "c46",
-      "text": "לפי אנציקלופדיית אבסקו, בתו פאולינה נולדה ב-1947.",
-      "source": "src3",
-      "quote": "His bitterness was softened by his reunion with Cyla and the birth of his daughter, Pauline, in 1947.",
-      "status": "confirmed",
-      "locator": "שורה 17"
-    },
-    {
-      "id": "c67",
-      "text": "לפי העיתון, ויזנטל היה אדריכל במקצועו, ובתחילת דרכו כצייד נאצים היו לו מעט משאבים כספיים ובעלי ברית פוליטיים.",
-      "source": "src6",
-      "quote": "An architect by training, at first he had few financial resources or political allies in his Nazi-hunting work.",
-      "status": "confirmed",
-      "locator": "שורה 279"
-    },
-    {
-      "id": "c16",
-      "text": "לפי אנציקלופדיה, פרוץ המלחמה הקרה הפך את העמדת הפושעים הנאצים לדין לבלתי אטרקטיבית פוליטית עבור מעצמות המערב.",
-      "source": "src7",
-      "quote": "The onset of the Cold War made prosecuting Nazi criminals politically unattractive to Western powers",
-      "status": "confirmed",
-      "locator": "שורה 9"
-    },
-    {
-      "id": "c17",
-      "text": "ב-1954 נסגר המשרד בלינץ ותיקיו נמסרו לארכיון יד ושם בישראל, מלבד תיק אחד.",
-      "source": "src2",
-      "quote": "In 1954, the office in Linz was closed and its files were given to the Yad Vashem Archives in Israel",
-      "status": "confirmed",
-      "locator": "שורה 23"
-    },
-    {
-      "id": "c22",
-      "text": "לפי מרכז ויזנטל, אייכמן התגורר בבואנוס איירס בשם בדוי ונלכד שם בידי סוכנים ישראלים והובא לישראל למשפט.",
-      "source": "src2",
-      "quote": "that Eichmann was in Buenos Aires living under the alias of Ricardo Klement. He was captured there by Israeli agents and brought to Israel for trial.",
-      "status": "confirmed",
-      "locator": "שורה 24"
-    },
-    {
-      "id": "c19",
-      "text": "לפי מרכז ויזנטל, אייכמן נמצא אשם ברצח המוני והוצא להורג ב-31 במאי 1961.",
-      "source": "src2",
-      "quote": "Eichmann was found guilty of mass murder and executed on May 31, 1961.",
-      "status": "confirmed",
-      "locator": "שורה 24"
-    },
-    {
-      "id": "c21",
-      "text": "לפי האנציקלופדיה, המידע שוויזנטל אסף על אייכמן סייע לרשויות הישראליות בלכידתו בברזיל ב-1960.",
-      "source": "src7",
-      "quote": "Wiesenthal continued to amass information on Adolf Eichmann, which assisted the Israeli authorities in his capture in Brazil in 1960.",
-      "status": "confirmed",
-      "locator": "שורה 9"
-    },
-    {
-      "id": "c26",
-      "text": "לפי המכלול, ויזנטל עצמו מעולם לא טען שהוא זה שהביא ללכידתו של אייכמן.",
-      "source": "src1",
-      "quote": "ויזנטל מעולם לא טען שהביא ללכידתו של אדולף אייכמן.",
-      "status": "confirmed",
-      "locator": "שורה 40"
-    },
-    {
-      "id": "c34",
-      "text": "בניגוד לאמונה הרווחת, ויזנטל לא איתר בדרך כלל בעצמו את הנאצים הנמלטים; משימתו העיקרית הייתה איסוף וניתוח מידע.",
-      "source": "src2",
-      "quote": "Contrary to belief, Wiesenthal does not usually track down the Nazi fugitives himself. His chief task is gathering and analyzing information.",
-      "status": "confirmed",
-      "locator": "שורה 28"
-    },
-    {
-      "id": "c35",
-      "text": "לפי המכלול, ויזנטל לא עסק בציד פיזי של פושעים, ושיטתו התבססה על איסוף קפדני של כל פיסת מידע.",
-      "source": "src1",
-      "quote": "ויזנטל לא עסק מעולם בציד פיזי של פושעי מלחמה. שיטת עבודתו התבססה על איסוף קפדני של כל פיסת נייר ופריט מידע אפשרי",
-      "status": "confirmed",
-      "locator": "שורה 33"
-    },
-    {
-      "id": "c36",
-      "text": "כשהרשויות לא פעלו, פנה ויזנטל לעיתונות ולתקשורת, מתוך ניסיון שפרסום וזעם ציבורי הם נשק עוצמתי.",
-      "source": "src2",
-      "quote": "When, as often happens, they fail to take action, whether from indifference, pro-Nazi sentiment, or some other consideration, Wiesenthal goes to the press and other media",
-      "status": "confirmed",
-      "locator": "שורה 29"
-    },
-    {
-      "id": "c64",
-      "text": "לפי המכלול, ויזנטל ניהל מסע לחצים בינלאומי שגרם לפרלמנט המערב-גרמני לבטל את חוק ההתיישנות על פשעי הנאצים.",
-      "source": "src1",
-      "quote": "וגם ניהל מסע לחצים בינלאומי שגרם לפרלמנט המערב-גרמני לבטל את חוק ההתיישנות על פשעי הנאצים",
-      "status": "confirmed",
-      "locator": "שורה 33"
-    },
-    {
-      "id": "c65",
-      "text": "לפי אנציקלופדיית אבסקו, ויזנטל התעקש שהמוסר חייב להישאר בצד המאשימים ושעונש ראוי יכול לבוא רק מבתי המשפט.",
-      "source": "src3",
-      "quote": "Morality, he insisted, must remain on the side of the accusers, so proper punishment can come only from the courts.",
-      "status": "confirmed",
-      "locator": "שורה 22"
-    },
-    {
-      "id": "c27",
-      "text": "ויזנטל איתר ב-1963 את קרל זילברבאואר, שהיה אז מפקח משטרה באוסטריה, וכך הופרכו ניסיונות להכפיש את אמיתות יומנה של אנה פרנק.",
-      "source": "src2",
-      "quote": "Dutch neo-Nazi propagandists were fairly successful in their attempts to discredit the authenticity of Anne Frank's famous diary until Wiesenthal located Silberbauer, then a police inspector in Austria, in 1963.",
-      "status": "confirmed",
-      "locator": "שורה 25"
-    },
-    {
-      "id": "c28",
-      "text": "לפי אתר הסטורי, זילברבאואר הושעה זמנית ממשטרת וינה אך לא הועמד לדין, כיוון שנמצא שפעל רק לפי פקודות.",
-      "source": "src5",
-      "quote": "While he was temporarily suspended from the Vienna police force, he was not prosecuted. He was found to be only acting under orders from his commander.",
-      "status": "confirmed",
-      "locator": "שורה 35"
-    },
-    {
-      "id": "c30",
-      "text": "באוקטובר 1966 הועמדו לדין בשטוטגרט שישה עשר קציני אס אס, תשעה מהם נמצאו על ידי ויזנטל.",
-      "source": "src2",
-      "quote": "In October 1966, sixteen SS officers, nine of them found by Wiesenthal, went on trial in Stuttgart, West Germany, for participation in the extermination of Jews in Lvov.",
-      "status": "confirmed",
-      "locator": "שורה 26"
-    },
-    {
-      "id": "c29",
-      "text": "לאחר שלוש שנות עבודה חשאית של ויזנטל אותר פרנץ שטנגל בברזיל והוסגר למערב גרמניה ב-1967.",
-      "source": "src2",
-      "quote": "After three years of patient undercover work by Wiesenthal, Stangl was located in Brazil and remanded to West Germany for imprisonment in 1967.",
-      "status": "confirmed",
-      "locator": "שורה 26"
-    },
-    {
-      "id": "c32",
-      "text": "לפי המכלול, בראונשטיינר נעצרה בקווינס שבניו יורק, שם חייתה כעקרת בית, לאחר מחקר ממושך של ויזנטל ומתנדבים שנשלחו על ידו.",
-      "source": "src1",
-      "quote": "לאחר מחקר ממושך של ויזנטל ומתנדבים שונים שנשלחו על ידו, היא נעצרה ברובע קווינס שבניו יורק, שם חייתה כעקרת בית.",
-      "status": "confirmed",
-      "locator": "שורה 52"
-    },
-    {
-      "id": "c31",
-      "text": "הרמינה ראיין (לבית בראונשטיינר) הוסגרה לגרמניה ב-1973 וקיבלה מאסר עולם, לפי מרכז ויזנטל.",
-      "source": "src2",
-      "quote": "She was extradited to Germany for trial as a war criminal in 1973 and received life imprisonment.",
-      "status": "confirmed",
-      "locator": "שורה 27"
-    },
-    {
-      "id": "c71",
-      "text": "בעיתון נכתב שוויזנטל פנה בקריאה עולמית לסייע להציל את מרכז התיעוד בווינה מסגירה אפשרית על ידי ממשלת אוסטריה.",
-      "source": "src8",
-      "quote": "has issued a worldwide appeal to help save his Documentation Center in Vienna from what he fears is imminent closure by the Austrian government",
-      "status": "confirmed",
-      "locator": "שורה 2"
-    },
-    {
-      "id": "c59",
-      "text": "ב-1977 נקרא מרכז שמעון ויזנטל ללימודי שואה בלוס אנג'לס על שמו.",
-      "source": "src7",
-      "quote": "In 1977 the Simon Wiesenthal Center for Holocaust Studies in Los Angeles was named in his honor.",
-      "status": "confirmed",
-      "locator": "שורה 11"
-    },
-    {
-      "id": "c57",
-      "text": "לפי אנציקלופדיית אבסקו, ויזנטל קיבל גם מועמדות לפרס נובל לשלום ב-1985, מדליות חירות הולנדית ולוקסמבורגית ואת מדליית החירות הנשיאותית מנשיא קלינטון.",
-      "source": "src3",
-      "quote": "a Nobel Peace Prize nomination in 1985, membership in the French Legion of Honor in 1986, the Dutch Freedom Medal, the Luxembourg Freedom Medal",
-      "status": "confirmed",
-      "locator": "שורה 31"
-    },
-    {
-      "id": "c70",
-      "text": "ויזנטל סירב להצטרף לטקס בביטבורג כי חיילי אס אס היו קבורים בבית הקברות.",
-      "source": "src3",
-      "quote": "Wiesenthal declined because SS soldiers were buried in the cemetery where the ceremony took place.",
-      "status": "confirmed",
-      "locator": "שורה 28"
-    },
-    {
-      "id": "c66",
-      "text": "לפי המכלול, בשנות ה-90 הפכה החברה האוסטרית לרואה בוויזנטל סמל לדמוקרטיה, ליושר ולשפיות.",
-      "source": "src1",
-      "quote": "דור הנכדים של משתתפי מלחמת העולם השנייה ראה בוויזנטל סמל לדמוקרטיה, ליושר ולשפיות.",
-      "status": "confirmed",
-      "locator": "שורה 79"
-    },
-    {
-      "id": "c60",
-      "text": "ויזנטל כתב שההישרדות היא זכות שמטילה חובות, ושהוא שואל את עצמו כל העת מה יוכל לעשות למען מי שלא שרדו.",
-      "source": "src2",
-      "quote": "Survival is a privilege which entails obligations. I am forever asking myself what I can do for those who have not survived.",
-      "status": "confirmed",
-      "locator": "שורה 48"
-    },
-    {
-      "id": "c61",
-      "text": "ויזנטל אמר בראיון ב-1994 שהערך היחיד של כחמישה עשורי עבודתו הוא אזהרה לרוצחי המחר שלעולם לא ינוחו.",
-      "source": "src2",
-      "quote": "The only value of nearly five decades of my work is a warning to the murderers of tomorrow, that they will never rest.",
-      "status": "confirmed",
-      "locator": "שורה 42"
-    },
-    {
-      "id": "c62",
-      "text": "ב-2003 אמר ויזנטל בראיון לשבועון האוסטרי \"פורמט\" שגילה את הרוצחים ההמוניים שחיפש.",
-      "source": "src4",
-      "quote": "גיליתי את הרוצחים ההמוניים שחיפשתי והארכתי חיים יותר מכולם.",
-      "status": "confirmed",
-      "locator": "שורה 4"
-    },
-    {
-      "id": "c69",
-      "text": "לפי המכלול, ויזנטל סירב לעלות לישראל למרות בקשות אשתו ועלייתם של בתו, חתנו ונכדיו.",
-      "source": "src1",
-      "quote": "סירב ויזנטל לעלות לישראל, למרות בקשותיה של אשתו ולמרות עלייתם של בתו, חתנו ונכדיו.",
-      "status": "confirmed",
-      "locator": "שורה 71"
-    },
-    {
-      "id": "c68",
-      "text": "הרב מרווין הייר מילא את הדברים: ויזנטל הראה לעולם מה יכול אדם אחד נחוש לעשות את הדבר הנכון להשיג.",
-      "source": "src6",
-      "quote": "Simon Wiesenthal showed the world what one person determined to do the right thing can accomplish",
-      "status": "confirmed",
-      "locator": "שורה 269"
-    },
-    {
-      "id": "c58",
-      "text": "ב-2006 שינתה עיריית וינה שם של רחוב ל-Simon-Wiesenthal-Gasse לכבודו.",
-      "source": "src3",
-      "quote": "In 2006 the Vienna city government renamed a street, Simon-Wiesenthal-Gasse, in his honor.",
-      "status": "confirmed",
-      "locator": "שורה 31"
-    },
-    {
-      "id": "c33",
-      "text": "לפי המכלול, המידע של ויזנטל על מקום הימצאו של מנגלה התברר כשגוי והוביל את המחפשים לפרגוואי במקום לברזיל, מה שעורר ביקורת.",
-      "source": "src1",
-      "quote": "המידע שסיפק על מקום הימצאו של יוזף מנגלה התברר כשגוי. מידע זה הוביל את המחפשים אחרי מנגלה לפרגוואי במקום לברזיל",
-      "status": "confirmed",
-      "locator": "שורה 49"
-    },
-    {
-      "id": "c72",
-      "text": "לפי אנציקלופדיית אבסקו, ועדה ממשלתית בקנדה קבעה שההערכות על מספר הפושעים הנאצים בקנדה הוגזמו מאוד.",
-      "source": "src3",
-      "quote": "a Canadian government commission appointed to study the evidence concluded that the estimates of Nazi criminals in Canada had been grossly exaggerated",
-      "status": "confirmed",
-      "locator": "שורה 29"
-    },
-    {
-      "id": "c54",
-      "text": "לפי אנציקלופדיית אבסקו, ניצולי שואה וציידי נאצים, ובהם אלי ויזל, האשימו את ויזנטל בהגזמה חמורה בחלק מטענותיו.",
-      "source": "src3",
-      "quote": "some fellow Holocaust survivors and Nazi hunters, including Nobel laureate Elie Wiesel, accused Wiesenthal of gross exaggeration in some of his claims",
-      "status": "confirmed",
-      "locator": "שורה 34"
-    },
-    {
-      "id": "c55",
-      "text": "לפי המכלול, הצייד טוביה פרידמן כינה את ויזנטל שקרן, נוכל ואנטי-ציוני וטען שהתפרסם והתעשר מסיפורי בדים.",
-      "source": "src1",
-      "quote": "צייד הנאצים טוביה פרידמן, שעבד תקופה מסוימת עם ויזנטל, כינה אותו שקרן, נוכל ואנטי-ציוני, וטען שהתפרסם והתעשר מסיפורי בדים על לכידת אייכמן ונאצים אחרים.",
-      "status": "confirmed",
-      "locator": "שורה 68"
-    },
-    {
-      "id": "c51",
-      "text": "לפי אנציקלופדיית אבסקו, ציונים מסוימים ראו בחתירתו של ויזנטל לצדק כלפי נאצים פוגעת ביעדיהם וניסו להכפיש את מאמציו.",
-      "source": "src3",
-      "quote": "Some Zionists considered his ecumenical, justice-based pursuit of former Nazis to detract from their parochial goals and sought to discredit his efforts.",
-      "status": "confirmed",
-      "locator": "שורה 25"
-    },
-    {
-      "id": "c52",
-      "text": "לפי אנציקלופדיית אבסקו, ויזנטל הגיש תביעת דיבה נגד הקנצלר קרייסקי ולבסוף הגיע להסדר מחוץ לבית המשפט.",
-      "source": "src3",
-      "quote": "Relations between the two degenerated to personal invective, until Wiesenthal finally brought a libel suit against the chancellor.",
-      "status": "confirmed",
-      "locator": "שורה 26"
-    },
-    {
-      "id": "c53",
-      "text": "לפי המכלול, קרייסקי הוא שאיים לתבוע את ויזנטל בגין דיבה לאחר שהצביע על חברי ממשלה בעלי עבר נאצי.",
-      "source": "src1",
-      "quote": "איים לתבוע את ויזנטל למשפט דיבה, לאחר שוויזנטל הצביע על כמה מחברי ממשלתו כבעלי עבר נאצי",
-      "status": "confirmed",
-      "locator": "שורה 76"
-    },
-    {
-      "id": "c49",
-      "text": "ביוני 1982 התפוצצה פצצה בדלת ביתו של ויזנטל וגרמה נזק רב, ואיש לא נפגע.",
-      "source": "src2",
-      "quote": "In June 1982, a bomb exploded at the front door of his house causing a great deal of damage. Fortunately, no one was hurt.",
-      "status": "confirmed",
-      "locator": "שורה 35"
-    },
-    {
-      "id": "c50",
-      "text": "בגין הפיצוץ נעצרו נאו-נאצי גרמני וכמה נאו-נאצים אוסטרים, והגרמני, שנמצא המבצע העיקרי, נידון לחמש שנות מאסר.",
-      "source": "src2",
-      "quote": "One German and several Austrian neo-Nazis were arrested for the bombing. The German, who was found to be the main perpetrator, was sentenced to five years in prison.",
-      "status": "confirmed",
-      "locator": "שורה 35"
-    },
-    {
-      "id": "c47",
-      "text": "לפי אתר הסטורי, ויזנטל שרד מאסר בארבעה מחנות ריכוז ובצעדת מוות.",
-      "source": "src5",
-      "quote": "as he lived through imprisonment in four concentration camps and a death march",
-      "status": "confirmed",
-      "locator": "שורה 13"
-    },
-    {
-      "id": "c48",
-      "text": "לפי אנציקלופדיית אבסקו, ויזנטל שרד תריסר מחנות ריכוז והשמדה נאציים.",
-      "source": "src3",
-      "quote": "Wiesenthal, a survivor of a dozen Nazi concentration and death camps, became the leading independent Nazi hunter.",
-      "status": "confirmed",
-      "locator": "שורה 10"
-    },
-    {
-      "id": "c24",
-      "text": "לפי אנציקלופדיית אבסקו, ויזנטל זכה להכרה בינלאומית לראשונה על איתור אייכמן בבואנוס איירס.",
-      "source": "src3",
-      "quote": "Wiesenthal first gained international recognition for locating Eichmann in Buenos Aires, Argentina.",
-      "status": "confirmed",
-      "locator": "שורה 20"
-    },
-    {
-      "id": "c23",
-      "text": "לפי העיתון, מומחים אומרים שוויזנטל לא היה מכריע באיתור אייכמן, בניגוד לתפיסה הרווחת.",
-      "source": "src6",
-      "quote": "Despite the popular perception, experts say Wiesenthal was not instrumental in tracking down Eichmann.",
-      "status": "confirmed",
-      "locator": "שורה 280"
-    },
-    {
-      "id": "c25",
-      "text": "לפי המכלול, ראש המוסד לשעבר איסר הראל טען שלוויזנטל לא היה חלק באיתור ובתפיסת אייכמן.",
-      "source": "src1",
-      "quote": "ראש המוסד לשעבר איסר הראל טען, כאמור, כי לוויזנטל לא היה כל חלק באיתור ותפיסת אדולף אייכמן",
-      "status": "confirmed",
-      "locator": "שורה 68"
-    },
-    {
-      "id": "c37",
-      "text": "לפי המכלול, ויזנטל ואנשיו הביאו למשפט כאלף פושעי מלחמה נאצים.",
-      "source": "src1",
-      "quote": "בסך הכול הצליחו ויזנטל ואנשיו להביא למשפט כאלף פושעי מלחמה נאצים.",
-      "status": "confirmed",
-      "locator": "שורה 33"
-    },
-    {
-      "id": "c38",
-      "text": "לפי המכלול, ויזנטל הצליח להביא לדין יותר מ-1,100 פושעי מלחמה.",
-      "source": "src1",
-      "quote": "הוא הצליח להביא לדין יותר מ-1,100 פושעי מלחמה שהיו אחראים לרציחות המוניות בעת השואה.",
-      "status": "confirmed",
-      "locator": "שורה 12"
-    },
-    {
-      "id": "c39",
-      "text": "לפי האנציקלופדיה, ויזנטל סייע להביא לדין כאחד עשר מאות פושעי מלחמה.",
-      "source": "src7",
-      "quote": "In total, Wiesenthal helped bring approximately eleven hundred war criminals to justice.",
-      "status": "confirmed",
-      "locator": "שורה 10"
-    },
-    {
-      "id": "c41",
-      "text": "לפי מרכז ויזנטל, תיקי פושעי המלחמה של גרמניה כוללים יותר מ-90,000 שמות, רובם של אנשים שמעולם לא נשפטו.",
-      "source": "src2",
-      "quote": "Germany's war criminal files contain more than 90,000 names, most of them of people who have never been tried.",
-      "status": "confirmed",
-      "locator": "שורה 31"
-    },
-    {
-      "id": "c42",
-      "text": "לפי אנציקלופדיית אבסקו, בתיקי פשעי המלחמה של ממשלת מערב גרמניה היו יותר מ-160,000 שמות, רובם לא נשפטו.",
-      "source": "src3",
-      "quote": "The West German government had more than 160,000 names in its war-crimes files, most of them never tried.",
-      "status": "confirmed",
-      "locator": "שורה 32"
-    },
-    {
-      "id": "c900",
-      "text": "לפי אתר החדשות JNS, התלייה נקבעה לחצות, התעכבה מעט, ולכן התקיימה כמה דקות אחרי חצות, ב-1 ביוני 1962.",
-      "source": "src9",
-      "quote": "The hanging, scheduled for midnight, was slightly delayed and thus took place a few minutes past midnight on 1 June 1962.",
-      "status": "confirmed",
-      "locator": "שורה 25"
-    }
-  ],
-  "sources": [
-    {
-      "id": "src1",
-      "label": "המכלול, שמעון ויזנטל",
-      "url": "https://www.hamichlol.org.il/שמעון_ויזנטל",
-      "kind": "reference"
-    },
-    {
-      "id": "src2",
-      "label": "Simon Wiesenthal Center, About Simon Wiesenthal",
-      "url": "https://wiesenthal.org/about/about-simon-wiesenthal",
-      "kind": "organisation"
-    },
-    {
-      "id": "src3",
-      "label": "EBSCO Research Starters, Simon Wiesenthal",
-      "url": "https://ebsco.com/research-starters/biography/simon-wiesenthal",
-      "kind": "reference"
-    },
-    {
-      "id": "src4",
-      "label": "ערוץ 7, כתבה על ויזנטל",
-      "url": "https://www.inn.co.il/news/49425",
-      "kind": "press"
-    },
-    {
-      "id": "src5",
-      "label": "History Hit / History.co.uk, Simon Wiesenthal: The Real Nazi Hunter",
-      "url": "https://www.history.co.uk/articles/simon-wiesenthal-the-real-nazi-hunter",
-      "kind": "press"
-    },
-    {
-      "id": "src6",
-      "label": "J. The Jewish News of Northern California, Wiesenthal obituary, 2005",
-      "url": "https://jweekly.com/?p=52431",
-      "kind": "press"
-    },
-    {
-      "id": "src7",
-      "label": "Encyclopedia.com, Wiesenthal, Simon (1908–2005)",
-      "url": "https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/wiesenthal-simon-1908-2005",
-      "kind": "reference"
-    },
-    {
-      "id": "src8",
-      "label": "JTA archive, Wiesenthal issues worldwide appeal to help save documentation center in Vienna",
-      "url": "https://www.jta.org/archive/wiesenthal-issues-worldwide-appeal-to-help-save-documentation-center-in-vienna",
-      "kind": "press"
-    },
-    {
-      "id": "src9",
-      "label": "JNS, The man behind the last days of Adolf Eichmann",
-      "url": "https://www.jns.org/opinion/the-man-behind-the-last-days-of-adolf-eichmann/",
-      "kind": "press"
-    }
-  ],
-  "media": [
-    {
-      "id": "m1",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Simon%20Wiesenthal%20%281982%29.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Simon_Wiesenthal_%281982%29.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Rob Bogaerts for Anefo",
-      "licence": "CC BY-SA 3.0",
-      "hosting": "hotlink",
-      "caption": "דיוקן שחור-לבן של שמעון ויזנטל בגיל מבוגר, בחליפה וקשור עניבה, בכנס של CIDI באמסטרדם באוקטובר 1982.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-      "date": "1982-10-18",
-      "width": 2018,
-      "height": 2690
-    },
-    {
-      "id": "m3",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Simon%20Wiesenthal%20%281940-1945%29.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Simon_Wiesenthal_%281940-1945%29.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Unknown authorUnknown author",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "דיוקן ישן של שמעון ויזנטל בגיל צעיר יותר, עם שפם, חליפה ועניבה.",
-      "illustrates": [],
-      "date": "circa 1940",
-      "width": 1751,
-      "height": 2334
-    },
-    {
-      "id": "m4",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/V.l.n.r.%20Barnett%20Janner%20%28Brits%20parlementslid%29%2C%20Simon%20Wiesenthal%20%28joodse%20mensenr%2C%20Bestanddeelnr%20923-4538.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:V.l.n.r._Barnett_Janner_%28Brits_parlementslid%29%2C_Simon_Wiesenthal_%28joodse_mensenr%2C_Bestanddeelnr_923-4538.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Fotograaf Onbekend / Anefo",
-      "licence": "CC0",
-      "hosting": "hotlink",
-      "caption": "ויזנטל, בכובע, עומד בין שני גברים בבית כנסת באמסטרדם. לפי התיאור, עם ברנט ג'אנר והסופר עמנואל ליטבינוף בעצרת הזדהות עם יהודים.",
-      "illustrates": [],
-      "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-      "date": "1970-04-19",
-      "width": 3679,
-      "height": 2445
-    },
-    {
-      "id": "m6",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tree%20planted%20by%20Simon%20Wiesenthal%20-%20plaque.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Tree_planted_by_Simon_Wiesenthal_-_plaque.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Herzi Pinki",
-      "licence": "CC BY-SA 4.0",
-      "hosting": "hotlink",
-      "caption": "לוחית מתכת על גזע עץ, ועליה כתוב בגרמנית שוויזנטל נטע את העץ ב-1989 עם מינויו לחבר כבוד של האוניברסיטה לאמנויות שימושיות בווינה.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "date": "2019-06-26",
-      "width": 4048,
-      "height": 2564
-    },
-    {
-      "id": "m7",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Van%20Agt%20begroet%20dr.%20Simon%20Wiesenthal%2C%20Bestanddeelnr%20932-3670.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Van_Agt_begroet_dr._Simon_Wiesenthal%2C_Bestanddeelnr_932-3670.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Rob Bogaerts for Anefo",
-      "licence": "CC0",
-      "hosting": "hotlink",
-      "caption": "ויזנטל מחייך ולוחץ יד לדריס ון אחט בין מצלמות וצלמים, בסימפוזיון של CIDI באמסטרדם.",
-      "illustrates": [],
-      "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-      "date": "1982-10-18",
-      "width": 3674,
-      "height": 2453
-    },
-    {
-      "id": "m8",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Simon%20Wiesenthal%2C%20Richter%20Roegholt%20en%20Lou%20de%20Jong%20%281988%29.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Simon_Wiesenthal%2C_Richter_Roegholt_en_Lou_de_Jong_%281988%29.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Rob Croes for Anefo",
-      "licence": "CC0",
-      "hosting": "hotlink",
-      "caption": "ויזנטל, ריכטר רוגהולט ולו דה יונג מחזיקים ספר על בן סיז'ס בהצגת הספר ב-19 באוקטובר 1988.",
-      "illustrates": [],
-      "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-      "date": "1988-10-19",
-      "width": 3017,
-      "height": 2263
-    },
-    {
-      "id": "m10",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/In%20het%20gerechtsgebouw%20Simon%20Wiesenthal%20%28midden%29%20in%20gesprek%20met%20de%20officieren%20van%2C%20Bestanddeelnr%20930-5159.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:In_het_gerechtsgebouw_Simon_Wiesenthal_%28midden%29_in_gesprek_met_de_officieren_van%2C_Bestanddeelnr_930-5159.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Koen Suyk / Anefo",
-      "licence": "CC0",
-      "hosting": "hotlink",
-      "caption": "ויזנטל (במרכז) משוחח עם גברים במסדרון בית משפט בהאגן שבמערב גרמניה, במשפט סירט ברוינס.",
-      "illustrates": [],
-      "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-      "date": "1979-10-29",
-      "width": 3682,
-      "height": 2448
-    },
-    {
-      "id": "m11",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Persconferentie%20ir.%20Simon%20Wiesenthal%20in%20Apollo-paviljoen%20t.g.v.%20boek%20Moordenaars%2C%20Bestanddeelnr%20920-1323.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Persconferentie_ir._Simon_Wiesenthal_in_Apollo-paviljoen_t.g.v._boek_Moordenaars%2C_Bestanddeelnr_920-1323.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Pieter Jongerhuis / Anefo",
-      "licence": "CC0",
-      "hosting": "hotlink",
-      "caption": "ויזנטל עומד ומדבר ליד שולחן עם מיקרופונים בכנס עיתונאים באמסטרדם לרגל הספר \"רוצחים בקרבנו\", 1967.",
-      "illustrates": [],
-      "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-      "date": "1967-03-02",
-      "width": 2406,
-      "height": 3648
-    },
-    {
-      "id": "m12",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Stands%20met%20herdenkingszegels%20van%20Anne%20Frank%20en%20Simon%20Wiesenthal%2C%20Bestanddeelnr%20930-2227.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Stands_met_herdenkingszegels_van_Anne_Frank_en_Simon_Wiesenthal%2C_Bestanddeelnr_930-2227.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Fernando Pereira / Anefo",
-      "licence": "CC0",
-      "hosting": "hotlink",
-      "caption": "דוכן בירידי הבית ברחוב RAI באמסטרדם עם בולי הנצחה של אנה פרנק ושל שמעון ויזנטל, 20 באפריל 1979.",
-      "illustrates": [],
-      "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-      "date": "1979-04-20",
-      "width": 3680,
-      "height": 2443
-    },
-    {
-      "id": "m13",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Simon%20Wiesenthal%20signeert%20zijn%20boek%20Zeilen%20der%20Hoop%20in%20Bijenkorf%20te%20Amsterdam%2C%20Bestanddeelnr%20926-3036.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Simon_Wiesenthal_signeert_zijn_boek_Zeilen_der_Hoop_in_Bijenkorf_te_Amsterdam%2C_Bestanddeelnr_926-3036.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "W. Punt for Anefo",
-      "licence": "CC0",
-      "hosting": "hotlink",
-      "caption": "ויזנטל יושב וחותם על ספרו \"Zeilen der Hoop\", וערימת ספרים לצדו, בבייקורף באמסטרדם, 27 במרץ 1973.",
-      "illustrates": [],
-      "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-      "date": "1973-03-27",
-      "width": 2441,
-      "height": 3671
-    },
-    {
-      "id": "m14",
-      "kind": "video",
-      "url": "https://www.youtube.com/watch?v=rqwuKCb2x1Q",
-      "youtube_id": "rqwuKCb2x1Q",
-      "source_page": "https://www.youtube.com/watch?v=rqwuKCb2x1Q",
-      "source_name": "YouTube",
-      "credit": "AP Archive",
-      "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
-      "licence_url": "https://www.youtube.com/static?template=terms",
-      "hosting": "embed",
-      "caption": "סרטון של AP Archive מהלווייתו של ויזנטל בישראל בספטמבר 2005.",
-      "illustrates": [
-        "c63"
-      ],
-      "spoken": "en",
-      "audio_tracks": [
-        "en",
-        "ar",
-        "bn",
-        "de",
-        "es",
-        "fr",
-        "hi",
-        "id",
-        "it",
-        "he",
-        "ja",
-        "ko",
-        "ml",
-        "nl",
-        "pa",
-        "pl",
-        "pt",
-        "ru",
-        "ta",
-        "te",
-        "uk"
-      ]
-    },
-    {
-      "id": "m15",
-      "kind": "video",
-      "url": "https://www.youtube.com/watch?v=i_aj_XsY0yA",
-      "youtube_id": "i_aj_XsY0yA",
-      "source_page": "https://www.youtube.com/watch?v=i_aj_XsY0yA",
-      "source_name": "YouTube",
-      "credit": "AP Archive",
-      "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
-      "licence_url": "https://www.youtube.com/static?template=terms",
-      "hosting": "embed",
-      "caption": "ראיון של AP Archive מווינה ב-1975 עם ויזנטל על המחלוקת הפומבית שלו עם הקנצלר קרייסקי.",
-      "illustrates": [
-        "c52",
-        "c53"
-      ],
-      "spoken": "en",
-      "audio_tracks": [
-        "en"
-      ]
-    },
-    {
-      "id": "m16",
-      "kind": "video",
-      "url": "https://www.youtube.com/watch?v=3ucuHYjZtbM",
-      "youtube_id": "3ucuHYjZtbM",
-      "source_page": "https://www.youtube.com/watch?v=3ucuHYjZtbM",
-      "source_name": "YouTube",
-      "credit": "Simon Wiesenthal Center",
-      "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
-      "licence_url": "https://www.youtube.com/static?template=terms",
-      "hosting": "embed",
-      "caption": "קטע של מרכז שמעון ויזנטל שבו ויזנטל מסביר כיצד משפטי נירנברג עיצבו את שליחות חייו.",
-      "illustrates": [
-        "c1"
-      ],
-      "spoken": "de",
-      "audio_tracks": [
-        "de"
-      ]
-    },
-    {
-      "id": "m17",
-      "kind": "video",
-      "url": "https://www.youtube.com/watch?v=7_cA4jnrX9c",
-      "youtube_id": "7_cA4jnrX9c",
-      "source_page": "https://www.youtube.com/watch?v=7_cA4jnrX9c",
-      "source_name": "YouTube",
-      "credit": "the fifth estate",
-      "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
-      "licence_url": "https://www.youtube.com/static?template=terms",
-      "hosting": "embed",
-      "caption": "ראיון מ-1980 של התוכנית \"The Fifth Estate\" עם ויזנטל בווינה.",
-      "illustrates": [],
-      "spoken": "en",
-      "audio_tracks": [
-        "en",
-        "pt",
-        "id",
-        "de",
-        "hi",
-        "ja",
-        "it",
-        "es",
-        "fr"
-      ]
-    },
-    {
-      "id": "m18",
-      "kind": "video",
-      "url": "https://www.youtube.com/watch?v=I0NMbTunpeA",
-      "youtube_id": "I0NMbTunpeA",
-      "source_page": "https://www.youtube.com/watch?v=I0NMbTunpeA",
-      "source_name": "YouTube",
-      "credit": "Newz Reels",
-      "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
-      "licence_url": "https://www.youtube.com/static?template=terms",
-      "hosting": "embed",
-      "caption": "ראיון עם ויזנטל משנת 1990, בשידור של PBS.",
-      "illustrates": [],
-      "spoken": "en",
-      "audio_tracks": [
-        "en",
-        "ar",
-        "bn",
-        "de",
-        "es",
-        "fr",
-        "hi",
-        "id",
-        "it",
-        "he",
-        "ja",
-        "ko",
-        "ml",
-        "nl",
-        "pa",
-        "pl",
-        "pt",
-        "ru",
-        "ta",
-        "te",
-        "uk"
-      ]
-    },
-    {
-      "id": "m19",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Aankomst%20dr.%20S.%20Wiesenthal%20op%20Schiphol%2C%20dr.%20S.%20Wiesenthal%20%28kop%29%2C%20Bestanddeelnr%20917-7625.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Aankomst_dr._S._Wiesenthal_op_Schiphol%2C_dr._S._Wiesenthal_%28kop%29%2C_Bestanddeelnr_917-7625.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Joop van Bilsen for Anefo",
-      "licence": "CC0",
-      "hosting": "hotlink",
-      "caption": "ויזנטל בכובע ובמעיל על מסלול שדה התעופה שיפהול, ליד זנב מטוס KLM, 12 במאי 1965.",
-      "illustrates": [],
-      "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-      "date": "1965-05-12",
-      "width": 2749,
-      "height": 3421,
-      "role": "deed"
-    },
-    {
-      "id": "m20",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Aankomst%20dr.%20S.%20Wiesenthal%20op%20Schiphol%2C%20dr.%20S.%20Wiesenthal%20%28kop%29%2C%20Bestanddeelnr%20917-7626.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Aankomst_dr._S._Wiesenthal_op_Schiphol%2C_dr._S._Wiesenthal_%28kop%29%2C_Bestanddeelnr_917-7626.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Joop van Bilsen for Anefo",
-      "licence": "CC0",
-      "hosting": "hotlink",
-      "caption": "ויזנטל, מעיל על זרועו, צועד באולם בשדה התעופה שיפהול עם מלווים, 12 במאי 1965.",
-      "illustrates": [],
-      "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-      "date": "1965-05-12",
-      "width": 2725,
-      "height": 3426,
-      "role": "deed"
-    },
-    {
-      "id": "m21",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Aankomst%20dr.%20S.%20Wiesenthal%20op%20Schiphol%2C%20dr.%20S.%20Wiesenthal%2C%20Bestanddeelnr%20917-7623.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Aankomst_dr._S._Wiesenthal_op_Schiphol%2C_dr._S._Wiesenthal%2C_Bestanddeelnr_917-7623.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Joop van Bilsen for Anefo",
-      "licence": "CC0",
-      "hosting": "hotlink",
-      "caption": "ויזנטל בכובע ובמעיל ליד אוטובוס על מסלול שיפהול, 12 במאי 1965.",
-      "illustrates": [],
-      "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-      "date": "1965-05-12",
-      "width": 2749,
-      "height": 3416,
-      "role": "deed"
-    },
-    {
-      "id": "m22",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Aankomst%20dr.%20S.%20Wiesenthal%20op%20Schiphol%2C%20dr.%20S.%20Wiesenthal%2C%20Bestanddeelnr%20917-7624.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Aankomst_dr._S._Wiesenthal_op_Schiphol%2C_dr._S._Wiesenthal%2C_Bestanddeelnr_917-7624.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Joop van Bilsen for Anefo",
-      "licence": "CC0",
-      "hosting": "hotlink",
-      "caption": "ויזנטל מדבר ליד שולחן בשיפהול, ומאחוריו תצלום גדול של מטוסי KLM, 12 במאי 1965.",
-      "illustrates": [],
-      "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-      "date": "1965-05-12",
-      "width": 3440,
-      "height": 2710,
-      "role": "deed"
-    },
-    {
-      "id": "m24",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Barnett%20Janner%20%28l%29%20aan%20het%20woord%20en%20Simon%20Wiesenthal%20%28r%29%20tijdens%20persconferentie%2C%20Bestanddeelnr%20923-4541.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Barnett_Janner_%28l%29_aan_het_woord_en_Simon_Wiesenthal_%28r%29_tijdens_persconferentie%2C_Bestanddeelnr_923-4541.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Fotograaf Onbekend / Anefo",
-      "licence": "CC0",
-      "hosting": "hotlink",
-      "caption": "ג'אנר מדבר ויזנטל לצדו, מול עיתונאים, באספת הזדהות עם יהודי רוסיה בבית הכנסת הפורטוגזי באמסטרדם.",
-      "illustrates": [],
-      "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-      "date": "1970-04-19",
-      "width": 3679,
-      "height": 2445,
-      "role": "deed"
-    },
-    {
-      "id": "m25",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Brits%20parlementari%C3%ABr%20Barnett%20Janner%20%28l%29%20en%20de%20joodse%20mensenrechtenactivist%20Simon%2C%20Bestanddeelnr%20923-4540.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Brits_parlementari%C3%ABr_Barnett_Janner_%28l%29_en_de_joodse_mensenrechtenactivist_Simon%2C_Bestanddeelnr_923-4540.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Fotograaf Onbekend / Anefo",
-      "licence": "CC0",
-      "hosting": "hotlink",
-      "caption": "בארנט ג'אנר (משמאל) וויזנטל, שניהם בכובעים, יושבים ליד שולחן באספת הזדהות באמסטרדם.",
-      "illustrates": [],
-      "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-      "date": "1970-04-19",
-      "width": 3679,
-      "height": 2445,
-      "role": "deed"
-    },
-    {
-      "id": "m26",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dr%20Wiesenthal%20in%20Nederland%20om%20te%20spreken%20over%20zijn%20werk%2C%206%20en%207%20%28kop%29%20Dr%20Wiese%2C%20Bestanddeelnr%20915-0673.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Dr_Wiesenthal_in_Nederland_om_te_spreken_over_zijn_werk%2C_6_en_7_%28kop%29_Dr_Wiese%2C_Bestanddeelnr_915-0673.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Hugo van Gelderen / Anefo",
-      "licence": "CC0",
-      "hosting": "hotlink",
-      "caption": "ויזנטל יושב מאחורי מיקרופון, ידיו שלובות, בביקורו בהולנד, 21 באפריל 1963.",
-      "illustrates": [],
-      "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-      "date": "1963-04-21",
-      "width": 3648,
-      "height": 2406,
-      "role": "deed"
-    },
-    {
-      "id": "m27",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dr%20Wiesenthal%20in%20Nederland%20om%20te%20spreken%20over%20zijn%20werk%2C%20Dr%20Wiesenthal%20bij%20vli%2C%20Bestanddeelnr%20915-0672.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Dr_Wiesenthal_in_Nederland_om_te_spreken_over_zijn_werk%2C_Dr_Wiesenthal_bij_vli%2C_Bestanddeelnr_915-0672.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Hugo van Gelderen / Anefo",
-      "licence": "CC0",
-      "hosting": "hotlink",
-      "caption": "ויזנטל לוחץ יד לגבר על מסלול שדה התעופה בהולנד, 21 באפריל 1963.",
-      "illustrates": [],
-      "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-      "date": "1963-04-21",
-      "width": 2406,
-      "height": 3648,
-      "role": "deed"
-    },
-    {
-      "id": "m28",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dr%20Wiesenthal%20in%20Nederland%20om%20te%20spreken%20over%20zijn%20werk%2C%20hier%20op%20Schiphol%20Neder%2C%20Bestanddeelnr%20915-0664.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Dr_Wiesenthal_in_Nederland_om_te_spreken_over_zijn_werk%2C_hier_op_Schiphol_Neder%2C_Bestanddeelnr_915-0664.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Hugo van Gelderen / Anefo",
-      "licence": "CC0",
-      "hosting": "hotlink",
-      "caption": "ויזנטל מחייך ומסדיר את שרוולו ליד מיקרופון, בביקורו בהולנד, 1963.",
-      "illustrates": [],
-      "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-      "date": "1963-04-21",
-      "width": 3648,
-      "height": 2406,
-      "role": "deed"
-    },
-    {
-      "id": "m29",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dr%20Wiesenthal%20in%20Nederland%20om%20te%20spreken%20over%20zijn%20werk%2C%20hier%20op%20Schiphol%2C%20Bestanddeelnr%20915-0665.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Dr_Wiesenthal_in_Nederland_om_te_spreken_over_zijn_werk%2C_hier_op_Schiphol%2C_Bestanddeelnr_915-0665.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Hugo van Gelderen / Anefo",
-      "licence": "CC0",
-      "hosting": "hotlink",
-      "caption": "ויזנטל מדבר ליד שולחן, כפות ידיו צמודות, ולצדו גבר מרכיב משקפיים, 1963.",
-      "illustrates": [],
-      "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-      "date": "1963-04-21",
-      "width": 3648,
-      "height": 2406,
-      "role": "deed"
-    },
-    {
-      "id": "m30",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dr%20Wiesenthal%20in%20Nederland%20om%20te%20spreken%20over%20zijn%20werk%2C%20hier%20op%20Schiphol%2C%20Bestanddeelnr%20915-0666.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Dr_Wiesenthal_in_Nederland_om_te_spreken_over_zijn_werk%2C_hier_op_Schiphol%2C_Bestanddeelnr_915-0666.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Hugo van Gelderen / Anefo",
-      "licence": "CC0",
-      "hosting": "hotlink",
-      "caption": "ויזנטל צוחק ליד שולחן העיתונאים, ולצדו גבר רושם בפנקס, 1963.",
-      "illustrates": [],
-      "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-      "date": "1963-04-21",
-      "width": 3648,
-      "height": 2406,
-      "role": "deed"
-    },
-    {
-      "id": "m34",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dr%20Wiesenthal%20in%20Nederland%20om%20te%20spreken%20over%20zijn%20werk%2C%20hier%20op%20Schiphol%2C%20Bestanddeelnr%20915-0670.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Dr_Wiesenthal_in_Nederland_om_te_spreken_over_zijn_werk%2C_hier_op_Schiphol%2C_Bestanddeelnr_915-0670.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Hugo van Gelderen / Anefo",
-      "licence": "CC0",
-      "hosting": "hotlink",
-      "caption": "ויזנטל מדבר ומפשיט ידיים ליד מיקרופון על שולחן, בביקורו בהולנד, 1963.",
-      "illustrates": [],
-      "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-      "date": "1963-04-21",
-      "width": 3648,
-      "height": 2406,
-      "role": "deed"
-    },
-    {
-      "id": "m36",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Persconferentie%20ir.%20Simon%20Wiesenthal%20in%20Apollo-paviljoen%20t.g.v.%20boek%20Moordenaars%2C%20Bestanddeelnr%20920-1324.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Persconferentie_ir._Simon_Wiesenthal_in_Apollo-paviljoen_t.g.v._boek_Moordenaars%2C_Bestanddeelnr_920-1324.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Pieter Jongerhuis / Anefo",
-      "licence": "CC0",
-      "hosting": "hotlink",
-      "caption": "ויזנטל חותם על עותק של ספרו \"רוצחים בקרבנו\" בכנס עיתונאים באמסטרדם, 1967.",
-      "illustrates": [],
-      "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-      "date": "1967-03-02",
-      "width": 2406,
-      "height": 3648,
-      "role": "deed"
-    },
-    {
-      "id": "m9",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Persconferentie%20ir.%20Simon%20Wiesenthal%20in%20Apollo-paviljoe%20t.g.v.%20boek%20Moordenaars%20%2C%20Bestanddeelnr%20920-1322.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Persconferentie_ir._Simon_Wiesenthal_in_Apollo-paviljoe_t.g.v._boek_Moordenaars_%2C_Bestanddeelnr_920-1322.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Pieter Jongerhuis / Anefo",
-      "licence": "CC0",
-      "hosting": "hotlink",
-      "caption": "ויזנטל עומד ומדבר בכנס עיתונאים באמסטרדם לרגל צאת ספרו \"רוצחים בקרבנו\", 2 במרץ 1967.",
-      "illustrates": [],
-      "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-      "date": "1967-03-02",
-      "width": 3648,
-      "height": 2406
-    },
-    {
-      "id": "m39",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Receptie%20t.g.v.%20Dies%20Natalis%20A%27dam%20Universiteit%20in%20Hilton%20Hotel%20Amsterdam%20.%20Rech%2C%20Bestanddeelnr%20923-1375.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Receptie_t.g.v._Dies_Natalis_A%27dam_Universiteit_in_Hilton_Hotel_Amsterdam_._Rech%2C_Bestanddeelnr_923-1375.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Rob Mieremet / Anefo",
-      "licence": "CC0",
-      "hosting": "hotlink",
-      "caption": "ויזנטל משוחח עם אורחים בקבלת פנים במלון הילטון באמסטרדם.",
-      "illustrates": [],
-      "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-      "date": "1970-01-08",
-      "width": 3697,
-      "height": 2452,
-      "role": "deed"
-    },
-    {
-      "id": "m40",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Replica%20of%20the%20Simon%20Wiesenthal%27s%20office%20in%20Vienna%2C%20Museum%20of%20Tolerance.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Replica_of_the_Simon_Wiesenthal%27s_office_in_Vienna%2C_Museum_of_Tolerance.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Alexis Doine",
-      "licence": "CC0",
-      "hosting": "hotlink",
-      "caption": "העתק של משרדו של ויזנטל בווינה, בתצוגה במוזיאון הסובלנות בלוס אנג'לס: ספרים, ניירות ותעודות על הקיר.",
-      "illustrates": [],
-      "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-      "date": "2024-08-21",
-      "width": 4030,
-      "height": 2960,
-      "role": "related"
-    },
-    {
-      "id": "m41",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Simon%20Wiesenthal%20signeert%20zijn%20boek%20Zeilen%20der%20Hoop%20in%20Bijenkorf%20te%20Amsterdam%2C%20Bestanddeelnr%20926-3035.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Simon_Wiesenthal_signeert_zijn_boek_Zeilen_der_Hoop_in_Bijenkorf_te_Amsterdam%2C_Bestanddeelnr_926-3035.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "W. Punt for Anefo",
-      "licence": "CC0",
-      "hosting": "hotlink",
-      "caption": "ויזנטל יושב ליד שולחן עם פרחים מול קהל, באירוע ספרו בהולנד, 27 במרץ 1973.",
-      "illustrates": [],
-      "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-      "date": "1973-03-27",
-      "width": 3689,
-      "height": 2453,
-      "role": "deed"
-    },
-    {
-      "id": "m42",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Simon%20Wiesenthal%20signeert%20zijn%20boek%20Zeilen%20der%20Hoop%20in%20Bijenkorf%20te%20Amsterdam%2C%20Bestanddeelnr%20926-3037.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Simon_Wiesenthal_signeert_zijn_boek_Zeilen_der_Hoop_in_Bijenkorf_te_Amsterdam%2C_Bestanddeelnr_926-3037.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "W. Punt for Anefo",
-      "licence": "CC0",
-      "hosting": "hotlink",
-      "caption": "ויזנטל מדבר בתנועות ידיים ליד מיקרופון, באירוע ספרו באמסטרדם, 27 במרץ 1973.",
-      "illustrates": [],
-      "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-      "date": "1973-03-27",
-      "width": 2441,
-      "height": 3617,
-      "role": "deed"
-    },
-    {
-      "id": "m43",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tree%20planted%20by%20Simon%20Wiesenthal.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Tree_planted_by_Simon_Wiesenthal.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Herzi Pinki",
-      "licence": "CC BY-SA 4.0",
-      "hosting": "hotlink",
-      "caption": "העץ שנטע ויזנטל ב-1989, עם מינויו לחבר כבוד באוניברסיטה לאמנויות שימושיות בווינה, ליד בניין הלבנים של האוניברסיטה.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "date": "2019-06-26",
-      "width": 2976,
-      "height": 4054,
-      "role": "deed"
-    },
-    {
-      "id": "m44",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Vliegvelden%2C%20aankomsten%2C%20portretten%2C%20Bestanddeelnr%20930-1515.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Vliegvelden%2C_aankomsten%2C_portretten%2C_Bestanddeelnr_930-1515.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Rob Croes for Anefo",
-      "licence": "CC0",
-      "hosting": "hotlink",
-      "caption": "ויזנטל בגיל מבוגר במעיל צמר ליד מיקרופונים; לפי הארכיון, בהגעתו לשיפהול במרץ 1979.",
-      "illustrates": [],
-      "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-      "date": "1979-03-05",
-      "width": 3694,
-      "height": 2442,
-      "role": "deed"
-    },
-    {
-      "id": "m45",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/VWI%20LectureMoses02.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:VWI_LectureMoses02.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "VWI Wiener Wiesenthal Institut für Holocaust-Studien",
-      "licence": "CC BY-SA 3.0",
-      "hosting": "hotlink",
-      "caption": "הרצאה של מכון ויזנטל לחקר השואה בווינה: דובר ליד דוכן וכרזה עם דיוקן ויזנטל מחזיק זכוכית מגדלת.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-      "date": "2010-09-28",
-      "width": 2000,
-      "height": 3008,
-      "role": "related"
-    },
-    {
-      "id": "m46",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wiesenthal%27s%20grave%2C%20Herzliya.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Wiesenthal%27s_grave%2C_Herzliya.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "דוד שי",
-      "licence": "CC BY-SA 3.0",
-      "hosting": "hotlink",
-      "caption": "מצבת קברו של שמעון ויזנטל בבית הקברות הישן בהרצליה, מכוסה באבנים וכוכבי דוד.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-      "date": "2011-02-20",
-      "width": 1200,
-      "height": 1600,
-      "role": "deed"
-    },
-    {
-      "id": "m47",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/2020%20Brug%20790%2C%20overzicht%20%281%29.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:2020_Brug_790%2C_overzicht_%281%29.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Ceescamel",
-      "licence": "CC BY-SA 4.0",
-      "hosting": "hotlink",
-      "caption": "גשר ויזנטל בשכונת ניו-ווסט באמסטרדם, על תעלה בין בתי מגורים, 2020.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "date": "2020-09-11",
-      "width": 5312,
-      "height": 2988,
-      "role": "related"
-    },
-    {
-      "id": "m48",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/2020%20Brug%20790%2C%20zijaanzicht.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:2020_Brug_790%2C_zijaanzicht.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Ceescamel",
-      "licence": "CC BY-SA 4.0",
-      "hosting": "hotlink",
-      "caption": "מבט צד על גשר ויזנטל באמסטרדם, מעקה בטון ומתכת מעל תעלה, 2020.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "date": "2020-09-11",
-      "width": 5312,
-      "height": 2988,
-      "role": "related"
-    },
-    {
-      "id": "m49",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Huwelijk%20Paulinka%20Wiesenthal%20%28dochter%20Simon%20Wiesenthal%20met%20Gerard%20Kreisberg%20in%20U%2C%20Bestanddeelnr%20918-5806.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Huwelijk_Paulinka_Wiesenthal_%28dochter_Simon_Wiesenthal_met_Gerard_Kreisberg_in_U%2C_Bestanddeelnr_918-5806.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Joop van Bilsen for Anefo",
-      "licence": "CC0",
-      "hosting": "hotlink",
-      "caption": "חתונת פאולינקה, בתו של ויזנטל, וג'רארד קרייסברג בבית הכנסת באוטרכט, 19 בדצמבר 1965; ויזנטל עומד מימין מתחת לחופה.",
-      "illustrates": [],
-      "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-      "date": "1965-12-19",
-      "width": 3445,
-      "height": 2710,
-      "role": "deed"
-    },
-    {
-      "id": "m50",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Huwelijk%20Paulinka%20Wiesenthal%20%28dochter%20Simon%20Wiesenthal%20met%20Gerard%20Kreisberg%20in%20U%2C%20Bestanddeelnr%20918-5807.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Huwelijk_Paulinka_Wiesenthal_%28dochter_Simon_Wiesenthal_met_Gerard_Kreisberg_in_U%2C_Bestanddeelnr_918-5807.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Joop van Bilsen for Anefo",
-      "licence": "CC0",
-      "hosting": "hotlink",
-      "caption": "הכלה, החתן ואורחים יושבים ליד שולחן החופה בחתונת בתו של ויזנטל באוטרכט, 1965.",
-      "illustrates": [],
-      "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-      "date": "1965-12-19",
-      "width": 3416,
-      "height": 2696,
-      "role": "deed"
-    },
-    {
-      "id": "m51",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Huwelijk%20Paulinka%20Wiesenthal%20%28dochter%20Simon%20Wiesenthal%20met%20Gerard%20Kreisberg%20in%20U%2C%20Bestanddeelnr%20918-5808.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Huwelijk_Paulinka_Wiesenthal_%28dochter_Simon_Wiesenthal_met_Gerard_Kreisberg_in_U%2C_Bestanddeelnr_918-5808.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Joop van Bilsen for Anefo",
-      "licence": "CC0",
-      "hosting": "hotlink",
-      "caption": "ויזנטל (מימין) עומד ליד החופה בשעת הקראת הכתובה בחתונת בתו, אוטרכט, 1965.",
-      "illustrates": [],
-      "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-      "date": "1965-12-19",
-      "width": 3454,
-      "height": 2701,
-      "role": "deed"
-    },
-    {
-      "id": "m52",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Huwelijk%20Paulinka%20Wiesenthal%20%28dochter%20Simon%20Wiesenthal%20met%20Gerard%20Kreisberg%20in%20U%2C%20Bestanddeelnr%20918-5809.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Huwelijk_Paulinka_Wiesenthal_%28dochter_Simon_Wiesenthal_met_Gerard_Kreisberg_in_U%2C_Bestanddeelnr_918-5809.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Joop van Bilsen for Anefo",
-      "licence": "CC0",
-      "hosting": "hotlink",
-      "caption": "החתן עונד את הטבעת לכלה בחופה, בחתונת בתו של ויזנטל באוטרכט, 1965.",
-      "illustrates": [],
-      "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-      "date": "1965-12-19",
-      "width": 3426,
-      "height": 2710,
-      "role": "deed"
-    },
-    {
-      "id": "m53",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Huwelijk%20Paulinka%20Wiesenthal%20%28dochter%20Simon%20Wiesenthal%20met%20Gerard%20Kreisberg%20in%20U%2C%20Bestanddeelnr%20918-5810.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Huwelijk_Paulinka_Wiesenthal_%28dochter_Simon_Wiesenthal_met_Gerard_Kreisberg_in_U%2C_Bestanddeelnr_918-5810.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Joop van Bilsen for Anefo",
-      "licence": "CC0",
-      "hosting": "hotlink",
-      "caption": "הכלה, בתו של ויזנטל, צועדת בגשם בכניסה לבית הכנסת באוטרכט, תחת מטרייה, 19 בדצמבר 1965.",
-      "illustrates": [],
-      "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-      "date": "1965-12-19",
-      "width": 2681,
-      "height": 3445,
-      "role": "deed"
-    },
-    {
-      "id": "m54",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Huwelijk%20Paulinka%20Wiesenthal%20%28dochter%20Simon%20Wiesenthal%20met%20Gerard%20Kreisberg%20in%20U%2C%20Bestanddeelnr%20918-5811.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Huwelijk_Paulinka_Wiesenthal_%28dochter_Simon_Wiesenthal_met_Gerard_Kreisberg_in_U%2C_Bestanddeelnr_918-5811.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Joop van Bilsen for Anefo",
-      "licence": "CC0",
-      "hosting": "hotlink",
-      "caption": "הכלה טועמת מהכוס מתחת לחופה, בחתונת בתו של ויזנטל באוטרכט, 1965.",
-      "illustrates": [],
-      "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-      "date": "1965-12-19",
-      "width": 3421,
-      "height": 2725,
-      "role": "deed"
-    },
-    {
-      "id": "m55",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Huwelijk%20Paulinka%20Wiesenthal%20%28dochter%20Simon%20Wiesenthal%20met%20Gerard%20Kreisberg%20in%20U%2C%20Bestanddeelnr%20918-5812.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Huwelijk_Paulinka_Wiesenthal_%28dochter_Simon_Wiesenthal_met_Gerard_Kreisberg_in_U%2C_Bestanddeelnr_918-5812.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Joop van Bilsen for Anefo",
-      "licence": "CC0",
-      "hosting": "hotlink",
-      "caption": "הכלה, החתן וקרובים עומדים מתחת לחופה ובידי הרב ספר, ויזנטל ביניהם, חתונה באוטרכט, 1965.",
-      "illustrates": [],
-      "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-      "date": "1965-12-19",
-      "width": 3411,
-      "height": 2725,
-      "role": "deed"
-    },
-    {
-      "id": "m56",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Huwelijk%20Paulinka%20Wiesenthal%20%28dochter%20Simon%20Wiesenthal%20met%20Gerard%20Kreisberg%20in%20U%2C%20Bestanddeelnr%20918-5813.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Huwelijk_Paulinka_Wiesenthal_%28dochter_Simon_Wiesenthal_met_Gerard_Kreisberg_in_U%2C_Bestanddeelnr_918-5813.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Joop van Bilsen for Anefo",
-      "licence": "CC0",
-      "hosting": "hotlink",
-      "caption": "הזוג הטרי צועד במעבר בית הכנסת בין האורחים, אוטרכט, 19 בדצמבר 1965.",
-      "illustrates": [],
-      "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-      "date": "1965-12-19",
-      "width": 2710,
-      "height": 3426,
-      "role": "deed"
-    },
-    {
-      "id": "m57",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Simon%20Wiesenthal%20Tolerance%20Center%20NY.JPG?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Simon_Wiesenthal_Tolerance_Center_NY.JPG",
-      "source_name": "Wikimedia Commons",
-      "credit": "Alexisrael",
-      "licence": "CC BY-SA 3.0",
-      "hosting": "hotlink",
-      "caption": "שלט מרכז ויזנטל לסובלנות בניו יורק, על קיר זכוכית כחול.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-      "date": "2012-10-27",
-      "width": 4608,
-      "height": 3456,
-      "role": "related"
-    },
-    {
-      "id": "m58",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Harry%20and%20Jeanette%20Weinberg%20Building%20%28Simon%20Wiesenthal%20Center%29%2C%20Los%20Angeles.JPG?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Harry_and_Jeanette_Weinberg_Building_%28Simon_Wiesenthal_Center%29%2C_Los_Angeles.JPG",
-      "source_name": "Wikimedia Commons",
-      "credit": "Alexis Doine",
-      "licence": "CC0",
-      "hosting": "hotlink",
-      "caption": "בניין מרכז שמעון ויזנטל בלוס אנג'לס, בניין הארי וג'נט וינברג, צילום פנורמי.",
-      "illustrates": [],
-      "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-      "date": "2024-08-20",
-      "width": 3464,
-      "height": 1332,
-      "role": "related"
-    }
-  ],
-  "check": {
-    "passed": true,
-    "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
-    "checked_at": "2026-11-13T20:44:14Z",
-    "counts": {
-      "confirmed": 101,
-      "not_confirmed": 0,
-      "deleted_sentences": 3,
-      "first_round_confirmed": 100,
-      "first_round_contradicted": 2,
-      "first_round_unverifiable": 3
-    },
-    "note": "unverifiable sentences were deleted, contradicted ones fixed from the source and checked again"
+ "schema": "maasei-museum/1",
+ "slug": "simon-wiesenthal",
+ "deed": "שמעון ויזנטל, ניצול שואה, הקדיש את חייו להביא פושעים נאצים למשפט",
+ "canonical_type": "historical-figure",
+ "year": "1947",
+ "title": "שמעון ויזנטל, ניצול שואה, אסף ראיות על פושעים נאצים כדי להביאם לדין",
+ "trailer": [
+  {
+   "text": "לפי מרכז שמעון ויזנטל, הוא הקדיש את חייו כדי שפשעי המשטר הנאצי לא יישכחו ושהאחראים להם יובאו לדין.",
+   "claims": [
+    "c1"
+   ]
   },
-  "meta": {
-    "run": "simon-wiesenthal",
-    "pipeline": "scripts/museum/museum_line.py",
-    "models": {
-      "research": "sonnet-5-5",
-      "extract": "sonnet-5-5",
-      "media": "sonnet-5-5",
-      "write": "opus-5-5 medium",
-      "check": "opus-5-5 medium",
-      "fix": "opus-5-5 medium"
-    },
-    "source_quality": {
-      "sources": 8,
-      "wikipedia": 0,
-      "strong": 4,
-      "ok": true,
-      "warnings": []
-    },
-    "media_dedupe": [
-      {
-        "drop": "m2",
-        "keep": "m1",
-        "by": "Tomer 24.11"
-      },
-      {
-        "drop": "m5",
-        "keep": "m13"
-      },
-      {
-        "drop": "m37",
-        "keep": "m9",
-        "by": "Tomer 24.11"
-      }
-    ],
-    "media_keep": [
-      "m1",
-      "m9",
-      "m13"
-    ]
+  {
+   "text": "בשואה נספו 89 מבני משפחתו ומבני משפחת אשתו.",
+   "claims": [
+    "c7"
+   ]
+  },
+  {
+   "text": "ב-1947 פתח עם שלושים מתנדבים מרכז תיעוד בלינץ שבאוסטריה, כדי לאסוף ראיות למשפטים עתידיים.",
+   "claims": [
+    "c15"
+   ]
+  },
+  {
+   "text": "הוא בנה כרטסת של 22,500 שמות והכין תיקים על ששת אלפים מקרים,",
+   "claims": [
+    "c40"
+   ]
+  },
+  {
+   "text": "וכשנפטר בווינה בגיל 96 נטמן בהרצליה שבישראל.",
+   "claims": [
+    "c902",
+    "c903"
+   ]
   }
+ ],
+ "hero_media": [
+  "m1",
+  "m3",
+  "m9",
+  "m10",
+  "m13",
+  "m4",
+  "m7",
+  "m12",
+  "m19",
+  "m20",
+  "m21",
+  "m22",
+  "m24",
+  "m25",
+  "m26",
+  "m27",
+  "m28",
+  "m29",
+  "m30",
+  "m34",
+  "m39",
+  "m42",
+  "m44",
+  "m47",
+  "m48",
+  "m52",
+  "m53",
+  "m54",
+  "m56",
+  "m57",
+  "m58"
+ ],
+ "glance": [
+  {
+   "label": "נולד",
+   "value": "1908, בוצ'אץ'",
+   "claims": [
+    "c3"
+   ]
+  },
+  {
+   "label": "מקצוע",
+   "value": "אדריכל, תואר מפראג ב-1932",
+   "claims": [
+    "c5"
+   ]
+  },
+  {
+   "label": "מרכז התיעוד",
+   "value": "לינץ ב-1947, אחר כך וינה",
+   "claims": [
+    "c15",
+    "c18"
+   ]
+  },
+  {
+   "label": "הכרטסת",
+   "value": "22,500 שמות, 6,000 תיקים",
+   "claims": [
+    "c40"
+   ]
+  },
+  {
+   "label": "הכרה",
+   "value": "מדליית הזהב של הקונגרס האמריקני, לגיון הכבוד הצרפתי",
+   "claims": [
+    "c56"
+   ]
+  },
+  {
+   "label": "קבור",
+   "value": "הרצליה",
+   "claims": [
+    "c904"
+   ]
+  }
+ ],
+ "stations": [
+  {
+   "id": "s1",
+   "title": "ילד מבוצ'אץ', אדריכל מפראג",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "שמעון ויזנטל נולד ב-31 בדצמבר 1908 בבוצ'אץ', באזור שנמצא כיום במחוז לבוב באוקראינה.",
+      "claims": [
+       "c4"
+      ]
+     },
+     {
+      "text": "הוא גדל במשפחה יהודית אמידה.",
+      "claims": [
+       "c3"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "הוא רצה ללמוד בפוליטכניון בלבוב, אבל נדחה בגלל מכסות על סטודנטים יהודים.",
+      "claims": [
+       "c5"
+      ]
+     },
+     {
+      "text": "לכן נסע ללמוד בפראג, וב-1932 קיבל תואר בהנדסת אדריכלות.",
+      "claims": [
+       "c5"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m3"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s2",
+   "title": "שנות המלחמה",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "לפי מרכז ויזנטל, הוא הציל את עצמו, את אשתו ואת אמו מגירוש לסיביר בכך ששיחד קומיסר של ה-NKVD.",
+      "claims": [
+       "c6"
+      ]
+     },
+     {
+      "text": "אחר כך עשה עסקה עם המחתרת הפולנית: הוא מסר תרשימים של צמתי רכבת, ובתמורה קיבל מסמכים מזויפים לאשתו.",
+      "claims": [
+       "c8"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "באוגוסט 1942 נשלחה אמו למחנה ההשמדה בלז'ץ.",
+      "claims": [
+       "c7"
+      ]
+     },
+     {
+      "text": "באוקטובר 1943 נמלט ויזנטל ממחנה העבודה אוסטבאן בעזרת סגן המנהל, זמן קצר לפני שהגרמנים החלו לחסל את כל האסירים.",
+      "claims": [
+       "c9"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "לאחר שנתפס שוב ביוני 1944 והוחזר למחנה ינובסקה, הצטרפו שומרי האס אס במחנה לנסיגה הכללית מערבה עם 34 אסירים בלבד מתוך 149,000 שהיו בו במקור..",
+      "claims": [
+       "c10"
+      ]
+     },
+     {
+      "text": "ב-5 במאי 1945 שחררה יחידת שריון אמריקנית את מחנה מאוטהאוזן, וויזנטל היה אז בקושי בחיים.",
+      "claims": [
+       "c11"
+      ]
+     }
+    ]
+   ],
+   "media": [],
+   "disagreements": [
+    "d1"
+   ]
+  },
+  {
+   "id": "s3",
+   "title": "אחרי השחרור: מתחילים לאסוף",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "ברגע שבריאותו שוחזרה, החל ויזנטל לאסוף ולהכין ראיות על זוועות הנאצים עבור מדור פשעי המלחמה של צבא ארצות הברית.",
+      "claims": [
+       "c14"
+      ]
+     },
+     {
+      "text": "ויזנטל ואשתו התאחדו, ושניהם סברו עד אז שהשני מת.",
+      "claims": [
+       "c43",
+       "c44"
+      ]
+     },
+     {
+      "text": "נולדה להם בת, פאולינה.",
+      "claims": [
+       "c45",
+       "c46"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "ב-1947 פתח ויזנטל עם שלושים מתנדבים את המרכז ההיסטורי היהודי לתיעוד בלינץ שבאוסטריה, כדי לאסוף ראיות למשפטים עתידיים.",
+      "claims": [
+       "c15"
+      ]
+     },
+     {
+      "text": "לפי העיתון, כשפתח את מרכז התיעוד בווינה בעקבות לכידת אייכמן ב-1960, היו לו בתחילה מעט משאבים כספיים ומעט בעלי ברית פוליטיים בעבודתו כצייד נאצים..",
+      "claims": [
+       "c67"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "לפי האנציקלופדיה, פרוץ המלחמה הקרה הפך את העמדת הפושעים הנאצים לדין לבלתי אטרקטיבית פוליטית עבור מעצמות המערב.",
+      "claims": [
+       "c16"
+      ]
+     },
+     {
+      "text": "ב-1954 נסגר המשרד בלינץ, ותיקיו נמסרו לארכיון יד ושם בישראל, מלבד תיק אחד.",
+      "claims": [
+       "c17"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m16",
+    "m49",
+    "m50",
+    "m51",
+    "m55"
+   ],
+   "disagreements": [
+    "d2",
+    "d3"
+   ]
+  },
+  {
+   "id": "s4",
+   "title": "אייכמן, והמשרד בווינה",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "לפי מרכז ויזנטל, אדולף אייכמן התגורר בבואנוס איירס בשם בדוי.",
+      "claims": [
+       "c22"
+      ]
+     },
+     {
+      "text": "סוכנים ישראלים לכדו אותו והביאו אותו לישראל למשפט.",
+      "claims": [
+       "c22"
+      ]
+     },
+     {
+      "text": "לפי מרכז ויזנטל, אייכמן נמצא אשם ברצח המוני והוצא להורג.",
+      "claims": [
+       "c19"
+      ]
+     },
+     {
+      "text": "לפי אתר החדשות JNS, התלייה נקבעה לחצות, התעכבה מעט, ולכן התקיימה כמה דקות אחרי חצות, ב-1 ביוני 1962.",
+      "claims": [
+       "c900"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "לפי האנציקלופדיה, המידע שוויזנטל אסף על אייכמן סייע לרשויות הישראליות בלכידתו.",
+      "claims": [
+       "c21"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "אחרי לכידת אייכמן פתח ויזנטל מחדש את המרכז לתיעוד יהודי, הפעם בווינה.",
+      "claims": [
+       "c18"
+      ]
+     },
+     {
+      "text": "הפעם התרכז רק בציד פושעי מלחמה.",
+      "claims": [
+       "c18"
+      ]
+     }
+    ]
+   ],
+   "media": [],
+   "disagreements": [
+    "d4",
+    "d6"
+   ]
+  },
+  {
+   "id": "s5",
+   "title": "איך עבד: כרטסת, תיקים ועיתונות",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "בניגוד לאמונה הרווחת, ויזנטל לא איתר בדרך כלל בעצמו את הנאצים הנמלטים.",
+      "claims": [
+       "c34"
+      ]
+     },
+     {
+      "text": "משימתו העיקרית הייתה איסוף וניתוח של מידע.",
+      "claims": [
+       "c34"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "הוא ערך כרטסת של 22,500 שמות והכין תיקים על ששת אלפים מקרים.",
+      "claims": [
+       "c40"
+      ]
+     },
+     {
+      "text": "לפעמים עבד על עד שלוש מאות מקרים בו-זמנית.",
+      "claims": [
+       "c40"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "כשהרשויות לא פעלו, פנה ויזנטל לעיתונות ולתקשורת.",
+      "claims": [
+       "c36"
+      ]
+     },
+     {
+      "text": "הניסיון לימד אותו שפרסום וזעם ציבורי הם נשק עוצמתי.",
+      "claims": [
+       "c36"
+      ]
+     },
+     {
+      "text": "לפי אנציקלופדיית אבסקו, הוא התעקש שהמוסר חייב להישאר בצד המאשימים, ושעונש ראוי יכול לבוא רק מבתי המשפט.",
+      "claims": [
+       "c65"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m11",
+    "m13",
+    "m7",
+    "m1",
+    "m17",
+    "m36",
+    "m9",
+    "m40",
+    "m41"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s6",
+   "title": "התיקים שנסגרו בבית המשפט",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "ב-1963 איתר ויזנטל את קרל זילברבאואר, שהיה אז מפקח משטרה באוסטריה.",
+      "claims": [
+       "c27"
+      ]
+     },
+     {
+      "text": "תועמלנים נאו-נאצים הולנדים הצליחו למדי בניסיונותיהם להכפיש את אמיתות יומנה של אנה פרנק, עד שוויזנטל איתר ב-1963 את קרל זילברבאואר, שהיה אז מפקח משטרה באוסטריה..",
+      "claims": [
+       "c27"
+      ]
+     },
+     {
+      "text": "לפי אתר הסטורי, זילברבאואר הושעה זמנית ממשטרת וינה, אבל לא הועמד לדין, כי נמצא שפעל רק לפי פקודות.",
+      "claims": [
+       "c28"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "באוקטובר 1966 הועמדו לדין בשטוטגרט שבמערב גרמניה שישה עשר קציני אס אס בשל השתתפות בהשמדת יהודי לבוב, ותשעה מהם אותרו על ידי ויזנטל..",
+      "claims": [
+       "c30"
+      ]
+     },
+     {
+      "text": "אחרי שלוש שנות עבודה חשאית של ויזנטל אותר פרנץ שטנגל בברזיל, וב-1967 הוסגר למערב גרמניה.",
+      "claims": [
+       "c29"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "לפי מרכז ויזנטל, הרמינה ראיין (לבית בראונשטיינר) הוסגרה לגרמניה ב-1973 וקיבלה מאסר עולם.",
+      "claims": [
+       "c31"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "בעיתון נכתב שוויזנטל פנה בקריאה עולמית להציל את מרכז התיעוד בווינה מסגירה אפשרית בידי ממשלת אוסטריה.",
+      "claims": [
+       "c71"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "לפי האנציקלופדיה, הוא סייע להביא לדין כאחד עשר מאות פושעי מלחמה",
+      "claims": [
+       "c39"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m10"
+   ],
+   "disagreements": [
+    "d8"
+   ]
+  },
+  {
+   "id": "s7",
+   "title": "הכרה, מילים אחרונות ומקום מנוחה",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "ב-1977 נקרא מרכז שמעון ויזנטל ללימודי שואה בלוס אנג'לס על שמו.",
+      "claims": [
+       "c59"
+      ]
+     },
+     {
+      "text": "ב-1980 קיבל מנשיא ארצות הברית קרטר את מדליית הזהב של הקונגרס האמריקני, וב-1986 קיבל את לגיון הכבוד הצרפתי.",
+      "claims": [
+       "c56"
+      ]
+     },
+     {
+      "text": "לפי אנציקלופדיית אבסקו, הוא היה מועמד לפרס נובל לשלום ב-1985, קיבל מדליות חירות מהולנד ומלוקסמבורג, וקיבל גם את מדליית החירות הנשיאותית מהנשיא קלינטון.",
+      "claims": [
+       "c57"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "ויזנטל סירב להצטרף לטקס בביטבורג, כי בבית הקברות שם היו קבורים חיילי אס אס.",
+      "claims": [
+       "c70"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "ויזנטל כתב שההישרדות היא זכות שמטילה חובות.",
+      "claims": [
+       "c60"
+      ]
+     },
+     {
+      "text": "הוא כתב גם שהוא שואל את עצמו כל הזמן מה יוכל לעשות למען מי שלא שרדו.",
+      "claims": [
+       "c60"
+      ]
+     },
+     {
+      "text": "בראיון ב-1994 אמר שהערך היחיד של כחמישה עשורי עבודתו הוא אזהרה לרוצחי המחר שלעולם לא ינוחו.",
+      "claims": [
+       "c61"
+      ]
+     },
+     {
+      "text": "ב-2003 אמר בראיון לשבועון האוסטרי \"פורמט\" שגילה את הרוצחים ההמוניים שחיפש.",
+      "claims": [
+       "c62"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "הוא נפטר ב-20 בספטמבר 2005 בביתו בווינה, בגיל 96, ונטמן בהרצליה שבישראל.",
+      "claims": [
+       "c909",
+       "c910"
+      ]
+     },
+     {
+      "text": "הרב מרווין הייר אמר שוויזנטל הראה לעולם מה יכול להשיג אדם אחד הנחוש לעשות את הדבר הנכון.",
+      "claims": [
+       "c68"
+      ]
+     },
+     {
+      "text": "ב-2006 שינתה עיריית וינה שם של רחוב ל-Simon-Wiesenthal-Gasse לכבודו.",
+      "claims": [
+       "c58"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m1",
+    "m4",
+    "m8",
+    "m12",
+    "m6",
+    "m18",
+    "m14",
+    "m43",
+    "m45",
+    "m46"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s8",
+   "title": "ביקורת, טעויות ואיומים",
+   "kind": "hard",
+   "paragraphs": [
+    [
+     {
+      "text": "לפי אנציקלופדיית אבסקו, ועדה ממשלתית בקנדה קבעה שההערכות על מספר הפושעים הנאצים בקנדה הוגזמו מאוד.",
+      "claims": [
+       "c72"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "לפי אנציקלופדיית אבסקו, ניצולי שואה וציידי נאצים, ובהם אלי ויזל, האשימו את ויזנטל בהגזמה חמורה בחלק מטענותיו.",
+      "claims": [
+       "c54"
+      ]
+     },
+     {
+      "text": "לפי אנציקלופדיית אבסקו, ציונים מסוימים ראו בחתירתו לצדק כלפי נאצים פגיעה ביעדיהם וניסו להכפיש את מאמציו.",
+      "claims": [
+       "c51"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "ויזנטל ניהל מחלוקת משפטית עם הקנצלר האוסטרי קרייסקי.",
+      "claims": [
+       "c52",
+       "c911"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "ביוני 1982 התפוצצה פצצה בדלת ביתו של ויזנטל וגרמה נזק רב, ואיש לא נפגע.",
+      "claims": [
+       "c49"
+      ]
+     },
+     {
+      "text": "בגין הפיצוץ נעצרו נאו-נאצי גרמני וכמה נאו-נאצים אוסטרים.",
+      "claims": [
+       "c50"
+      ]
+     },
+     {
+      "text": "הגרמני נמצא המבצע העיקרי ונידון לחמש שנות מאסר.",
+      "claims": [
+       "c50"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "לפי אנציקלופדיית אבסקו, ויזנטל הגיש תביעת דיבה נגד קרייסקי, ולבסוף הגיע להסדר מחוץ לבית המשפט",
+      "claims": [
+       "c52"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m15"
+   ],
+   "disagreements": []
+  }
+ ],
+ "disagreements": [
+  {
+   "id": "d1",
+   "question": "בכמה מחנות היה ויזנטל?",
+   "versions": [
+    {
+     "says": "לפי אתר הסטורי, הוא שרד מאסר בארבעה מחנות ריכוז ובצעדת מוות",
+     "claims": [
+      "c47"
+     ]
+    },
+    {
+     "says": "לפי אנציקלופדיית אבסקו, הוא שרד תריסר מחנות ריכוז והשמדה",
+     "claims": [
+      "c48"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d2",
+   "question": "באיזו שנה התאחד ויזנטל עם אשתו?",
+   "versions": [
+    {
+     "says": "לפי מרכז ויזנטל, בסוף 1945",
+     "claims": [
+      "c43"
+     ]
+    },
+    {
+     "says": "לפי אתר הסטורי, ב-1947",
+     "claims": [
+      "c44"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d3",
+   "question": "באיזו שנה נולדה בתו פאולינה?",
+   "versions": [
+    {
+     "says": "לפי מרכז ויזנטל, ב-1946",
+     "claims": [
+      "c45"
+     ]
+    },
+    {
+     "says": "לפי אנציקלופדיית אבסקו, ב-1947",
+     "claims": [
+      "c46"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d4",
+   "question": "היכן נלכד אייכמן?",
+   "versions": [
+    {
+     "says": "לפי האנציקלופדיה, בברזיל ב-1960",
+     "claims": [
+      "c21"
+     ]
+    },
+    {
+     "says": "לפי מרכז ויזנטל, בבואנוס איירס",
+     "claims": [
+      "c22"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d6",
+   "question": "מה היה חלקו של ויזנטל באיתור אייכמן?",
+   "versions": [
+    {
+     "says": "לפי אנציקלופדיית אבסקו, ויזנטל זכה להכרה בינלאומית לראשונה בזכות איתור אייכמן בבואנוס איירס",
+     "claims": [
+      "c24"
+     ]
+    },
+    {
+     "says": "לפי העיתון, מומחים אומרים שוויזנטל לא היה מכריע באיתור אייכמן, בניגוד לתפיסה הרווחת",
+     "claims": [
+      "c23"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d8",
+   "question": "כמה שמות היו בתיקי פושעי המלחמה בגרמניה?",
+   "versions": [
+    {
+     "says": "לפי מרכז ויזנטל, יותר מ-90,000 שמות, רובם של אנשים שמעולם לא נשפטו",
+     "claims": [
+      "c41"
+     ]
+    },
+    {
+     "says": "לפי אנציקלופדיית אבסקו, בתיקים של ממשלת מערב גרמניה היו יותר מ-160,000 שמות, רובם לא נשפטו",
+     "claims": [
+      "c42"
+     ]
+    }
+   ]
+  }
+ ],
+ "unknowns": [
+  {
+   "text": "ב-1954 נסגר המשרד בלינץ ותיקיו נמסרו לארכיון יד ושם בישראל, מלבד תיק אחד – התיק של אדולף אייכמן.",
+   "claims": [
+    "c17"
+   ]
+  }
+ ],
+ "claims": [
+  {
+   "id": "c1",
+   "text": "ויזנטל היה ניצול שואה אוסטרי שהקדיש את חייו להבטיח שפשעי המשטר הנאצי לא יישכחו ושהאחראים להם יובאו לדין, לפי מרכז שמעון ויזנטל.",
+   "source": "src2",
+   "quote": "Simon Wiesenthal was an Austrian Holocaust survivor who dedicated his life to ensuring that the crimes of the Nazi regime were not forgotten and that those responsible were brought to justice.",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c7",
+   "text": "באוגוסט 1942 נשלחה אמו של ויזנטל למחנה ההשמדה בלז'ץ, ובסך הכול נספו 89 בני משפחותיו ומשפחת אשתו.",
+   "source": "src2",
+   "quote": "In August 1942, Wiesenthal's mother was sent to the Belzec death camp. By September, most of his and his wife's relatives were dead; a total of eighty-nine members of both families perished.",
+   "status": "confirmed",
+   "locator": "שורה 16"
+  },
+  {
+   "id": "c15",
+   "text": "ב-1947 פתח ויזנטל עם שלושים מתנדבים את המרכז ההיסטורי היהודי לתיעוד בלינץ שבאוסטריה, כדי לאסוף ראיות למשפטים עתידיים.",
+   "source": "src2",
+   "quote": "Wiesenthal and thirty volunteers opened the Jewish Historical Documentation Center in Linz, Austria, for the purpose of assembling evidence for future trials.",
+   "status": "confirmed",
+   "locator": "שורה 23"
+  },
+  {
+   "id": "c40",
+   "text": "ויזנטל ערך כרטסת של 22,500 שמות, הכין תיקים על ששת אלפים מקרים ועבד על עד שלוש מאות מקרים בו-זמנית.",
+   "source": "src3",
+   "quote": "He compiled a card index of 22,500 names on his Nazi wanted list, assembled dossiers on six thousand cases, and worked on as many as three hundred cases at a time.",
+   "status": "confirmed",
+   "locator": "שורה 20"
+  },
+  {
+   "id": "c3",
+   "text": "ויזנטל נולד ב-1908 למשפחה יהודית אמידה בבוצ'אץ', שנמצאת כיום באוקראינה, ובבגרותו עבר לפראג ולמד אדריכלות.",
+   "source": "src4",
+   "quote": "הוא נולד ב-1908 למשפחה יהודית אמידה בעיר בוצ'אץ' השוכנת כיום באוקראינה, ועם התבגרו עבר לפראג ולמד אדריכלות",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c5",
+   "text": "ויזנטל נדחה מהפוליטכניון בלבוב בגלל מכסות על סטודנטים יהודים, ולכן למד בפראג וקיבל ב-1932 תואר בהנדסת אדריכלות.",
+   "source": "src2",
+   "quote": "Turned away because of quota restrictions on Jewish students, he went instead to the Technical University of Prague, from which he received his degree in architectural engineering in 1932.",
+   "status": "confirmed",
+   "locator": "שורה 13"
+  },
+  {
+   "id": "c18",
+   "text": "לאחר לכידת אייכמן פתח ויזנטל מחדש את המרכז לתיעוד יהודי, הפעם בווינה, והתרכז אך ורק בציד פושעי מלחמה.",
+   "source": "src2",
+   "quote": "Encouraged by the capture of Eichmann, Wiesenthal reopened the Jewish Documentation Center, this time in Vienna, and concentrated exclusively on the hunting of war criminals.",
+   "status": "confirmed",
+   "locator": "שורה 25"
+  },
+  {
+   "id": "c56",
+   "text": "ויזנטל קיבל את מדליית הזהב של הקונגרס האמריקני מנשיא קרטר ב-1980 ואת לגיון הכבוד הצרפתי ב-1986.",
+   "source": "src2",
+   "quote": "the U.S. Congressional Gold Medal presented to him by President Jimmy Carter in 1980, and the French Legion of Honor which he received in 1986",
+   "status": "confirmed",
+   "locator": "שורה 32"
+  },
+  {
+   "id": "c4",
+   "text": "ויזנטל נולד ב-31 בדצמבר 1908 בבוצ'אץ', באזור שנמצא כיום במחוז לבוב באוקראינה.",
+   "source": "src2",
+   "quote": "Simon Wiesenthal was born on December 31, 1908 in Buczacz, in what is now the Lvov Oblast section of the Ukraine.",
+   "status": "confirmed",
+   "locator": "שורה 13"
+  },
+  {
+   "id": "c6",
+   "text": "לפי מרכז ויזנטל, הוא הציל את עצמו, את אשתו ואת אמו מגירוש לסיביר בכך ששיחד קומיסר של ה-NKVD.",
+   "source": "src2",
+   "quote": "Later he saved himself, his wife, and his mother from deportation to Siberia by bribing an NKVD commissar.",
+   "status": "confirmed",
+   "locator": "שורה 15"
+  },
+  {
+   "id": "c8",
+   "text": "ויזנטל עשה עסקה עם המחתרת הפולנית: תרשימים של צמתי רכבת תמורת מסמכים מזויפים לאשתו.",
+   "source": "src2",
+   "quote": "In return for detailed charts of railroad junction points made by him for use by saboteurs, his wife was provided with false papers",
+   "status": "confirmed",
+   "locator": "שורה 17"
+  },
+  {
+   "id": "c9",
+   "text": "ויזנטל נמלט ממחנה העבודה אוסטבאן באוקטובר 1943 בעזרת סגן המנהל, זמן קצר לפני שהגרמנים החלו לחסל את כל האסירים.",
+   "source": "src2",
+   "quote": "With the help of the deputy director, Wiesenthal himself escaped the Ostbahn camp in October 1943, just before the Germans began liquidating all the inmates.",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c10",
+   "text": "מקבוצה של 149,000 אסירים נותרו 34 בלבד כשהשומרים החלו בנסיגה מערבה.",
+   "source": "src2",
+   "quote": "With 34 prisoners out of an original 149,000, the 200 guards joined the general retreat westward",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c11",
+   "text": "ויזנטל היה בקושי בחיים כשמחנה מאוטהאוזן שוחרר על ידי יחידת שריון אמריקנית ב-5 במאי 1945.",
+   "source": "src2",
+   "quote": "Wiesenthal was barely alive when Mauthausen was liberated by an American armored unit on May 5, 1945.",
+   "status": "confirmed",
+   "locator": "שורה 19"
+  },
+  {
+   "id": "c14",
+   "text": "ברגע שבריאותו שוחזרה החל ויזנטל לאסוף ולהכין ראיות על זוועות הנאצים עבור מדור פשעי המלחמה של צבא ארצות הברית.",
+   "source": "src2",
+   "quote": "Wiesenthal began gathering and preparing evidence on Nazi atrocities for the War Crimes Section of the United States Army.",
+   "status": "confirmed",
+   "locator": "שורה 22"
+  },
+  {
+   "id": "c43",
+   "text": "בסוף 1945 התאחדו ויזנטל ואשתו, שכל אחד מהם סבר שהאחר מת.",
+   "source": "src2",
+   "quote": "Late in 1945, he and his wife, each of whom had believed the other to be dead, were reunited",
+   "status": "confirmed",
+   "locator": "שורה 22"
+  },
+  {
+   "id": "c44",
+   "text": "לפי אתר הסטורי, ויזנטל התאחד עם אשתו ב-1947, ושניהם סברו שהאחר מת.",
+   "source": "src5",
+   "quote": "he miraculously reunited with his wife in 1947. They had both assumed that the other was dead.",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c45",
+   "text": "לפי מרכז ויזנטל, בתם פאולינה נולדה ב-1946.",
+   "source": "src2",
+   "quote": "were reunited, and in 1946, their daughter Pauline was born.",
+   "status": "confirmed",
+   "locator": "שורה 22"
+  },
+  {
+   "id": "c46",
+   "text": "לפי אנציקלופדיית אבסקו, בתו פאולינה נולדה ב-1947.",
+   "source": "src3",
+   "quote": "His bitterness was softened by his reunion with Cyla and the birth of his daughter, Pauline, in 1947.",
+   "status": "confirmed",
+   "locator": "שורה 17"
+  },
+  {
+   "id": "c67",
+   "text": "לפי העיתון, ויזנטל היה אדריכל במקצועו, ובתחילת דרכו כצייד נאצים היו לו מעט משאבים כספיים ובעלי ברית פוליטיים.",
+   "source": "src6",
+   "quote": "An architect by training, at first he had few financial resources or political allies in his Nazi-hunting work.",
+   "status": "confirmed",
+   "locator": "שורה 279"
+  },
+  {
+   "id": "c16",
+   "text": "לפי אנציקלופדיה, פרוץ המלחמה הקרה הפך את העמדת הפושעים הנאצים לדין לבלתי אטרקטיבית פוליטית עבור מעצמות המערב.",
+   "source": "src7",
+   "quote": "The onset of the Cold War made prosecuting Nazi criminals politically unattractive to Western powers",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c17",
+   "text": "ב-1954 נסגר המשרד בלינץ ותיקיו נמסרו לארכיון יד ושם בישראל, מלבד תיק אחד.",
+   "source": "src2",
+   "quote": "In 1954, the office in Linz was closed and its files were given to the Yad Vashem Archives in Israel",
+   "status": "confirmed",
+   "locator": "שורה 23"
+  },
+  {
+   "id": "c22",
+   "text": "לפי מרכז ויזנטל, אייכמן התגורר בבואנוס איירס בשם בדוי ונלכד שם בידי סוכנים ישראלים והובא לישראל למשפט.",
+   "source": "src2",
+   "quote": "that Eichmann was in Buenos Aires living under the alias of Ricardo Klement. He was captured there by Israeli agents and brought to Israel for trial.",
+   "status": "confirmed",
+   "locator": "שורה 24"
+  },
+  {
+   "id": "c19",
+   "text": "לפי מרכז ויזנטל, אייכמן נמצא אשם ברצח המוני והוצא להורג ב-31 במאי 1961.",
+   "source": "src2",
+   "quote": "Eichmann was found guilty of mass murder and executed on May 31, 1961.",
+   "status": "confirmed",
+   "locator": "שורה 24"
+  },
+  {
+   "id": "c21",
+   "text": "לפי האנציקלופדיה, המידע שוויזנטל אסף על אייכמן סייע לרשויות הישראליות בלכידתו בברזיל ב-1960.",
+   "source": "src7",
+   "quote": "Wiesenthal continued to amass information on Adolf Eichmann, which assisted the Israeli authorities in his capture in Brazil in 1960.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c34",
+   "text": "בניגוד לאמונה הרווחת, ויזנטל לא איתר בדרך כלל בעצמו את הנאצים הנמלטים; משימתו העיקרית הייתה איסוף וניתוח מידע.",
+   "source": "src2",
+   "quote": "Contrary to belief, Wiesenthal does not usually track down the Nazi fugitives himself. His chief task is gathering and analyzing information.",
+   "status": "confirmed",
+   "locator": "שורה 28"
+  },
+  {
+   "id": "c36",
+   "text": "כשהרשויות לא פעלו, פנה ויזנטל לעיתונות ולתקשורת, מתוך ניסיון שפרסום וזעם ציבורי הם נשק עוצמתי.",
+   "source": "src2",
+   "quote": "When, as often happens, they fail to take action, whether from indifference, pro-Nazi sentiment, or some other consideration, Wiesenthal goes to the press and other media",
+   "status": "confirmed",
+   "locator": "שורה 29"
+  },
+  {
+   "id": "c65",
+   "text": "לפי אנציקלופדיית אבסקו, ויזנטל התעקש שהמוסר חייב להישאר בצד המאשימים ושעונש ראוי יכול לבוא רק מבתי המשפט.",
+   "source": "src3",
+   "quote": "Morality, he insisted, must remain on the side of the accusers, so proper punishment can come only from the courts.",
+   "status": "confirmed",
+   "locator": "שורה 22"
+  },
+  {
+   "id": "c27",
+   "text": "ויזנטל איתר ב-1963 את קרל זילברבאואר, שהיה אז מפקח משטרה באוסטריה, וכך הופרכו ניסיונות להכפיש את אמיתות יומנה של אנה פרנק.",
+   "source": "src2",
+   "quote": "Dutch neo-Nazi propagandists were fairly successful in their attempts to discredit the authenticity of Anne Frank's famous diary until Wiesenthal located Silberbauer, then a police inspector in Austria, in 1963.",
+   "status": "confirmed",
+   "locator": "שורה 25"
+  },
+  {
+   "id": "c28",
+   "text": "לפי אתר הסטורי, זילברבאואר הושעה זמנית ממשטרת וינה אך לא הועמד לדין, כיוון שנמצא שפעל רק לפי פקודות.",
+   "source": "src5",
+   "quote": "While he was temporarily suspended from the Vienna police force, he was not prosecuted. He was found to be only acting under orders from his commander.",
+   "status": "confirmed",
+   "locator": "שורה 35"
+  },
+  {
+   "id": "c30",
+   "text": "באוקטובר 1966 הועמדו לדין בשטוטגרט שישה עשר קציני אס אס, תשעה מהם נמצאו על ידי ויזנטל.",
+   "source": "src2",
+   "quote": "In October 1966, sixteen SS officers, nine of them found by Wiesenthal, went on trial in Stuttgart, West Germany, for participation in the extermination of Jews in Lvov.",
+   "status": "confirmed",
+   "locator": "שורה 26"
+  },
+  {
+   "id": "c29",
+   "text": "לאחר שלוש שנות עבודה חשאית של ויזנטל אותר פרנץ שטנגל בברזיל והוסגר למערב גרמניה ב-1967.",
+   "source": "src2",
+   "quote": "After three years of patient undercover work by Wiesenthal, Stangl was located in Brazil and remanded to West Germany for imprisonment in 1967.",
+   "status": "confirmed",
+   "locator": "שורה 26"
+  },
+  {
+   "id": "c31",
+   "text": "הרמינה ראיין (לבית בראונשטיינר) הוסגרה לגרמניה ב-1973 וקיבלה מאסר עולם, לפי מרכז ויזנטל.",
+   "source": "src2",
+   "quote": "She was extradited to Germany for trial as a war criminal in 1973 and received life imprisonment.",
+   "status": "confirmed",
+   "locator": "שורה 27"
+  },
+  {
+   "id": "c71",
+   "text": "בעיתון נכתב שוויזנטל פנה בקריאה עולמית לסייע להציל את מרכז התיעוד בווינה מסגירה אפשרית על ידי ממשלת אוסטריה.",
+   "source": "src8",
+   "quote": "has issued a worldwide appeal to help save his Documentation Center in Vienna from what he fears is imminent closure by the Austrian government",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c59",
+   "text": "ב-1977 נקרא מרכז שמעון ויזנטל ללימודי שואה בלוס אנג'לס על שמו.",
+   "source": "src7",
+   "quote": "In 1977 the Simon Wiesenthal Center for Holocaust Studies in Los Angeles was named in his honor.",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c57",
+   "text": "לפי אנציקלופדיית אבסקו, ויזנטל קיבל גם מועמדות לפרס נובל לשלום ב-1985, מדליות חירות הולנדית ולוקסמבורגית ואת מדליית החירות הנשיאותית מנשיא קלינטון.",
+   "source": "src3",
+   "quote": "a Nobel Peace Prize nomination in 1985, membership in the French Legion of Honor in 1986, the Dutch Freedom Medal, the Luxembourg Freedom Medal",
+   "status": "confirmed",
+   "locator": "שורה 31"
+  },
+  {
+   "id": "c70",
+   "text": "ויזנטל סירב להצטרף לטקס בביטבורג כי חיילי אס אס היו קבורים בבית הקברות.",
+   "source": "src3",
+   "quote": "Wiesenthal declined because SS soldiers were buried in the cemetery where the ceremony took place.",
+   "status": "confirmed",
+   "locator": "שורה 28"
+  },
+  {
+   "id": "c60",
+   "text": "ויזנטל כתב שההישרדות היא זכות שמטילה חובות, ושהוא שואל את עצמו כל העת מה יוכל לעשות למען מי שלא שרדו.",
+   "source": "src2",
+   "quote": "Survival is a privilege which entails obligations. I am forever asking myself what I can do for those who have not survived.",
+   "status": "confirmed",
+   "locator": "שורה 48"
+  },
+  {
+   "id": "c61",
+   "text": "ויזנטל אמר בראיון ב-1994 שהערך היחיד של כחמישה עשורי עבודתו הוא אזהרה לרוצחי המחר שלעולם לא ינוחו.",
+   "source": "src2",
+   "quote": "The only value of nearly five decades of my work is a warning to the murderers of tomorrow, that they will never rest.",
+   "status": "confirmed",
+   "locator": "שורה 42"
+  },
+  {
+   "id": "c62",
+   "text": "ב-2003 אמר ויזנטל בראיון לשבועון האוסטרי \"פורמט\" שגילה את הרוצחים ההמוניים שחיפש.",
+   "source": "src4",
+   "quote": "גיליתי את הרוצחים ההמוניים שחיפשתי והארכתי חיים יותר מכולם.",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c68",
+   "text": "הרב מרווין הייר מילא את הדברים: ויזנטל הראה לעולם מה יכול אדם אחד נחוש לעשות את הדבר הנכון להשיג.",
+   "source": "src6",
+   "quote": "Simon Wiesenthal showed the world what one person determined to do the right thing can accomplish",
+   "status": "confirmed",
+   "locator": "שורה 269"
+  },
+  {
+   "id": "c58",
+   "text": "ב-2006 שינתה עיריית וינה שם של רחוב ל-Simon-Wiesenthal-Gasse לכבודו.",
+   "source": "src3",
+   "quote": "In 2006 the Vienna city government renamed a street, Simon-Wiesenthal-Gasse, in his honor.",
+   "status": "confirmed",
+   "locator": "שורה 31"
+  },
+  {
+   "id": "c72",
+   "text": "לפי אנציקלופדיית אבסקו, ועדה ממשלתית בקנדה קבעה שההערכות על מספר הפושעים הנאצים בקנדה הוגזמו מאוד.",
+   "source": "src3",
+   "quote": "a Canadian government commission appointed to study the evidence concluded that the estimates of Nazi criminals in Canada had been grossly exaggerated",
+   "status": "confirmed",
+   "locator": "שורה 29"
+  },
+  {
+   "id": "c54",
+   "text": "לפי אנציקלופדיית אבסקו, ניצולי שואה וציידי נאצים, ובהם אלי ויזל, האשימו את ויזנטל בהגזמה חמורה בחלק מטענותיו.",
+   "source": "src3",
+   "quote": "some fellow Holocaust survivors and Nazi hunters, including Nobel laureate Elie Wiesel, accused Wiesenthal of gross exaggeration in some of his claims",
+   "status": "confirmed",
+   "locator": "שורה 34"
+  },
+  {
+   "id": "c51",
+   "text": "לפי אנציקלופדיית אבסקו, ציונים מסוימים ראו בחתירתו של ויזנטל לצדק כלפי נאצים פוגעת ביעדיהם וניסו להכפיש את מאמציו.",
+   "source": "src3",
+   "quote": "Some Zionists considered his ecumenical, justice-based pursuit of former Nazis to detract from their parochial goals and sought to discredit his efforts.",
+   "status": "confirmed",
+   "locator": "שורה 25"
+  },
+  {
+   "id": "c52",
+   "text": "לפי אנציקלופדיית אבסקו, ויזנטל הגיש תביעת דיבה נגד הקנצלר קרייסקי ולבסוף הגיע להסדר מחוץ לבית המשפט.",
+   "source": "src3",
+   "quote": "Relations between the two degenerated to personal invective, until Wiesenthal finally brought a libel suit against the chancellor.",
+   "status": "confirmed",
+   "locator": "שורה 26"
+  },
+  {
+   "id": "c49",
+   "text": "ביוני 1982 התפוצצה פצצה בדלת ביתו של ויזנטל וגרמה נזק רב, ואיש לא נפגע.",
+   "source": "src2",
+   "quote": "In June 1982, a bomb exploded at the front door of his house causing a great deal of damage. Fortunately, no one was hurt.",
+   "status": "confirmed",
+   "locator": "שורה 35"
+  },
+  {
+   "id": "c50",
+   "text": "בגין הפיצוץ נעצרו נאו-נאצי גרמני וכמה נאו-נאצים אוסטרים, והגרמני, שנמצא המבצע העיקרי, נידון לחמש שנות מאסר.",
+   "source": "src2",
+   "quote": "One German and several Austrian neo-Nazis were arrested for the bombing. The German, who was found to be the main perpetrator, was sentenced to five years in prison.",
+   "status": "confirmed",
+   "locator": "שורה 35"
+  },
+  {
+   "id": "c47",
+   "text": "לפי אתר הסטורי, ויזנטל שרד מאסר בארבעה מחנות ריכוז ובצעדת מוות.",
+   "source": "src5",
+   "quote": "as he lived through imprisonment in four concentration camps and a death march",
+   "status": "confirmed",
+   "locator": "שורה 13"
+  },
+  {
+   "id": "c48",
+   "text": "לפי אנציקלופדיית אבסקו, ויזנטל שרד תריסר מחנות ריכוז והשמדה נאציים.",
+   "source": "src3",
+   "quote": "Wiesenthal, a survivor of a dozen Nazi concentration and death camps, became the leading independent Nazi hunter.",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c24",
+   "text": "לפי אנציקלופדיית אבסקו, ויזנטל זכה להכרה בינלאומית לראשונה על איתור אייכמן בבואנוס איירס.",
+   "source": "src3",
+   "quote": "Wiesenthal first gained international recognition for locating Eichmann in Buenos Aires, Argentina.",
+   "status": "confirmed",
+   "locator": "שורה 20"
+  },
+  {
+   "id": "c23",
+   "text": "לפי העיתון, מומחים אומרים שוויזנטל לא היה מכריע באיתור אייכמן, בניגוד לתפיסה הרווחת.",
+   "source": "src6",
+   "quote": "Despite the popular perception, experts say Wiesenthal was not instrumental in tracking down Eichmann.",
+   "status": "confirmed",
+   "locator": "שורה 280"
+  },
+  {
+   "id": "c39",
+   "text": "לפי האנציקלופדיה, ויזנטל סייע להביא לדין כאחד עשר מאות פושעי מלחמה.",
+   "source": "src7",
+   "quote": "In total, Wiesenthal helped bring approximately eleven hundred war criminals to justice.",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c41",
+   "text": "לפי מרכז ויזנטל, תיקי פושעי המלחמה של גרמניה כוללים יותר מ-90,000 שמות, רובם של אנשים שמעולם לא נשפטו.",
+   "source": "src2",
+   "quote": "Germany's war criminal files contain more than 90,000 names, most of them of people who have never been tried.",
+   "status": "confirmed",
+   "locator": "שורה 31"
+  },
+  {
+   "id": "c42",
+   "text": "לפי אנציקלופדיית אבסקו, בתיקי פשעי המלחמה של ממשלת מערב גרמניה היו יותר מ-160,000 שמות, רובם לא נשפטו.",
+   "source": "src3",
+   "quote": "The West German government had more than 160,000 names in its war-crimes files, most of them never tried.",
+   "status": "confirmed",
+   "locator": "שורה 32"
+  },
+  {
+   "id": "c900",
+   "text": "לפי אתר החדשות JNS, התלייה נקבעה לחצות, התעכבה מעט, ולכן התקיימה כמה דקות אחרי חצות, ב-1 ביוני 1962.",
+   "source": "src9",
+   "quote": "The hanging, scheduled for midnight, was slightly delayed and thus took place a few minutes past midnight on 1 June 1962.",
+   "status": "confirmed",
+   "locator": "שורה 25"
+  },
+  {
+   "id": "c902",
+   "text": "וכשנפטר בווינה בגיל 96 נטמן בהרצליה שבישראל.",
+   "source": "src10",
+   "quote": "Nazi-hunter Simon Wiesenthal was laid to rest in a Herzliya cemetery Friday.",
+   "status": "confirmed",
+   "locator": "שורה 42"
+  },
+  {
+   "id": "c903",
+   "text": "וכשנפטר בווינה בגיל 96 נטמן בהרצליה שבישראל.",
+   "source": "src11",
+   "quote": "Wiesenthal, 96, died Sept. 20 in his sleep at his home in Vienna.",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c904",
+   "text": "קבור: הרצליה",
+   "source": "src10",
+   "quote": "Nazi-hunter Simon Wiesenthal was laid to rest in a Herzliya cemetery Friday.",
+   "status": "confirmed",
+   "locator": "שורה 42"
+  },
+  {
+   "id": "c909",
+   "text": "הוא נפטר ב-20 בספטמבר 2005 בביתו בווינה, בגיל 96, ונטמן בהרצליה שבישראל.",
+   "source": "src11",
+   "quote": "Wiesenthal, 96, died Sept. 20 in his sleep at his home in Vienna.",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c910",
+   "text": "הוא נפטר ב-20 בספטמבר 2005 בביתו בווינה, בגיל 96, ונטמן בהרצליה שבישראל.",
+   "source": "src12",
+   "quote": "Wiesenthal was buried in Herzliya, Israel.",
+   "status": "confirmed",
+   "locator": "שורה 30"
+  },
+  {
+   "id": "c911",
+   "text": "ויזנטל ניהל מחלוקת משפטית עם הקנצלר האוסטרי קרייסקי.",
+   "source": "src13",
+   "quote": "Wisenthal sued Kreisky, who subsequently had to retract his allegation.",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  }
+ ],
+ "sources": [
+  {
+   "id": "src2",
+   "label": "Simon Wiesenthal Center, About Simon Wiesenthal",
+   "url": "https://wiesenthal.org/about/about-simon-wiesenthal",
+   "kind": "organisation"
+  },
+  {
+   "id": "src3",
+   "label": "EBSCO Research Starters, Simon Wiesenthal",
+   "url": "https://ebsco.com/research-starters/biography/simon-wiesenthal",
+   "kind": "reference"
+  },
+  {
+   "id": "src4",
+   "label": "ערוץ 7, כתבה על ויזנטל",
+   "url": "https://www.inn.co.il/news/49425",
+   "kind": "press"
+  },
+  {
+   "id": "src5",
+   "label": "History Hit / History.co.uk, Simon Wiesenthal: The Real Nazi Hunter",
+   "url": "https://www.history.co.uk/articles/simon-wiesenthal-the-real-nazi-hunter",
+   "kind": "press"
+  },
+  {
+   "id": "src6",
+   "label": "J. The Jewish News of Northern California, Wiesenthal obituary, 2005",
+   "url": "https://jweekly.com/?p=52431",
+   "kind": "press"
+  },
+  {
+   "id": "src7",
+   "label": "Encyclopedia.com, Wiesenthal, Simon (1908–2005)",
+   "url": "https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/wiesenthal-simon-1908-2005",
+   "kind": "reference"
+  },
+  {
+   "id": "src8",
+   "label": "JTA archive, Wiesenthal issues worldwide appeal to help save documentation center in Vienna",
+   "url": "https://www.jta.org/archive/wiesenthal-issues-worldwide-appeal-to-help-save-documentation-center-in-vienna",
+   "kind": "press"
+  },
+  {
+   "id": "src9",
+   "label": "JNS, The man behind the last days of Adolf Eichmann",
+   "url": "https://www.jns.org/opinion/the-man-behind-the-last-days-of-adolf-eichmann/",
+   "kind": "press"
+  },
+  {
+   "id": "src10",
+   "label": "Ynetnews: Wiesenthal buried in Herzliya",
+   "url": "https://www.ynetnews.com/article/3146211",
+   "kind": "press"
+  },
+  {
+   "id": "src11",
+   "label": "Ynetnews: Wiesenthal buried in Herzliya",
+   "url": "https://www.jta.org/archive/simon-wiesenthal-was-buried-in-israel-dignitaries-from",
+   "kind": "press"
+  },
+  {
+   "id": "src12",
+   "label": "Jewish Telegraphic Agency: Simon Wiesenthal was buried in Israel",
+   "url": "https://www.ebsco.com/research-starters/biography/simon-wiesenthal/",
+   "kind": "press"
+  },
+  {
+   "id": "src13",
+   "label": "Haus der Geschichte Österreich: Kreisky-Peter-Wiesenthal affair",
+   "url": "https://hdgoe.at/kreisky_peter_wiesenthal_affair",
+   "kind": "organisation"
+  }
+ ],
+ "media": [
+  {
+   "id": "m1",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Simon%20Wiesenthal%20%281982%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Simon_Wiesenthal_%281982%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Rob Bogaerts for Anefo",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "דיוקן שחור-לבן של שמעון ויזנטל בגיל מבוגר, בחליפה וקשור עניבה, בכנס של CIDI באמסטרדם באוקטובר 1982.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "1982-10-18",
+   "width": 2018,
+   "height": 2690
+  },
+  {
+   "id": "m3",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Simon%20Wiesenthal%20%281940-1945%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Simon_Wiesenthal_%281940-1945%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Unknown authorUnknown author",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "דיוקן ישן של שמעון ויזנטל בגיל צעיר יותר, עם שפם, חליפה ועניבה.",
+   "illustrates": [],
+   "date": "circa 1940",
+   "width": 1751,
+   "height": 2334
+  },
+  {
+   "id": "m4",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/V.l.n.r.%20Barnett%20Janner%20%28Brits%20parlementslid%29%2C%20Simon%20Wiesenthal%20%28joodse%20mensenr%2C%20Bestanddeelnr%20923-4538.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:V.l.n.r._Barnett_Janner_%28Brits_parlementslid%29%2C_Simon_Wiesenthal_%28joodse_mensenr%2C_Bestanddeelnr_923-4538.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Fotograaf Onbekend / Anefo",
+   "licence": "CC0",
+   "hosting": "hotlink",
+   "caption": "ויזנטל, בכובע, עומד בין שני גברים בבית כנסת באמסטרדם. לפי התיאור, עם ברנט ג'אנר והסופר עמנואל ליטבינוף בעצרת הזדהות עם יהודים.",
+   "illustrates": [],
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "date": "1970-04-19",
+   "width": 3679,
+   "height": 2445
+  },
+  {
+   "id": "m6",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tree%20planted%20by%20Simon%20Wiesenthal%20-%20plaque.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Tree_planted_by_Simon_Wiesenthal_-_plaque.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Herzi Pinki",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "לוחית מתכת על גזע עץ, ועליה כתוב בגרמנית שוויזנטל נטע את העץ ב-1989 עם מינויו לחבר כבוד של האוניברסיטה לאמנויות שימושיות בווינה.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2019-06-26",
+   "width": 4048,
+   "height": 2564
+  },
+  {
+   "id": "m7",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Van%20Agt%20begroet%20dr.%20Simon%20Wiesenthal%2C%20Bestanddeelnr%20932-3670.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Van_Agt_begroet_dr._Simon_Wiesenthal%2C_Bestanddeelnr_932-3670.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Rob Bogaerts for Anefo",
+   "licence": "CC0",
+   "hosting": "hotlink",
+   "caption": "ויזנטל מחייך ולוחץ יד לדריס ון אחט בין מצלמות וצלמים, בסימפוזיון של CIDI באמסטרדם.",
+   "illustrates": [],
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "date": "1982-10-18",
+   "width": 3674,
+   "height": 2453
+  },
+  {
+   "id": "m8",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Simon%20Wiesenthal%2C%20Richter%20Roegholt%20en%20Lou%20de%20Jong%20%281988%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Simon_Wiesenthal%2C_Richter_Roegholt_en_Lou_de_Jong_%281988%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Rob Croes for Anefo",
+   "licence": "CC0",
+   "hosting": "hotlink",
+   "caption": "ויזנטל, ריכטר רוגהולט ולו דה יונג מחזיקים ספר על בן סיז'ס בהצגת הספר ב-19 באוקטובר 1988.",
+   "illustrates": [],
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "date": "1988-10-19",
+   "width": 3017,
+   "height": 2263
+  },
+  {
+   "id": "m10",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/In%20het%20gerechtsgebouw%20Simon%20Wiesenthal%20%28midden%29%20in%20gesprek%20met%20de%20officieren%20van%2C%20Bestanddeelnr%20930-5159.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:In_het_gerechtsgebouw_Simon_Wiesenthal_%28midden%29_in_gesprek_met_de_officieren_van%2C_Bestanddeelnr_930-5159.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Koen Suyk / Anefo",
+   "licence": "CC0",
+   "hosting": "hotlink",
+   "caption": "ויזנטל (במרכז) משוחח עם גברים במסדרון בית משפט בהאגן שבמערב גרמניה, במשפט סירט ברוינס.",
+   "illustrates": [],
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "date": "1979-10-29",
+   "width": 3682,
+   "height": 2448
+  },
+  {
+   "id": "m11",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Persconferentie%20ir.%20Simon%20Wiesenthal%20in%20Apollo-paviljoen%20t.g.v.%20boek%20Moordenaars%2C%20Bestanddeelnr%20920-1323.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Persconferentie_ir._Simon_Wiesenthal_in_Apollo-paviljoen_t.g.v._boek_Moordenaars%2C_Bestanddeelnr_920-1323.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Pieter Jongerhuis / Anefo",
+   "licence": "CC0",
+   "hosting": "hotlink",
+   "caption": "ויזנטל עומד ומדבר ליד שולחן עם מיקרופונים בכנס עיתונאים באמסטרדם לרגל הספר \"רוצחים בקרבנו\", 1967.",
+   "illustrates": [],
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "date": "1967-03-02",
+   "width": 2406,
+   "height": 3648
+  },
+  {
+   "id": "m12",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Stands%20met%20herdenkingszegels%20van%20Anne%20Frank%20en%20Simon%20Wiesenthal%2C%20Bestanddeelnr%20930-2227.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Stands_met_herdenkingszegels_van_Anne_Frank_en_Simon_Wiesenthal%2C_Bestanddeelnr_930-2227.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Fernando Pereira / Anefo",
+   "licence": "CC0",
+   "hosting": "hotlink",
+   "caption": "דוכן בירידי הבית ברחוב RAI באמסטרדם עם בולי הנצחה של אנה פרנק ושל שמעון ויזנטל, 20 באפריל 1979.",
+   "illustrates": [],
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "date": "1979-04-20",
+   "width": 3680,
+   "height": 2443
+  },
+  {
+   "id": "m13",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Simon%20Wiesenthal%20signeert%20zijn%20boek%20Zeilen%20der%20Hoop%20in%20Bijenkorf%20te%20Amsterdam%2C%20Bestanddeelnr%20926-3036.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Simon_Wiesenthal_signeert_zijn_boek_Zeilen_der_Hoop_in_Bijenkorf_te_Amsterdam%2C_Bestanddeelnr_926-3036.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "W. Punt for Anefo",
+   "licence": "CC0",
+   "hosting": "hotlink",
+   "caption": "ויזנטל יושב וחותם על ספרו \"Zeilen der Hoop\", וערימת ספרים לצדו, בבייקורף באמסטרדם, 27 במרץ 1973.",
+   "illustrates": [],
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "date": "1973-03-27",
+   "width": 2441,
+   "height": 3671
+  },
+  {
+   "id": "m14",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=rqwuKCb2x1Q",
+   "youtube_id": "rqwuKCb2x1Q",
+   "source_page": "https://www.youtube.com/watch?v=rqwuKCb2x1Q",
+   "source_name": "YouTube",
+   "credit": "AP Archive",
+   "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "סרטון של AP Archive מהלווייתו של ויזנטל בישראל בספטמבר 2005.",
+   "illustrates": [],
+   "spoken": "en",
+   "audio_tracks": [
+    "en",
+    "ar",
+    "bn",
+    "de",
+    "es",
+    "fr",
+    "hi",
+    "id",
+    "it",
+    "he",
+    "ja",
+    "ko",
+    "ml",
+    "nl",
+    "pa",
+    "pl",
+    "pt",
+    "ru",
+    "ta",
+    "te",
+    "uk"
+   ]
+  },
+  {
+   "id": "m15",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=i_aj_XsY0yA",
+   "youtube_id": "i_aj_XsY0yA",
+   "source_page": "https://www.youtube.com/watch?v=i_aj_XsY0yA",
+   "source_name": "YouTube",
+   "credit": "AP Archive",
+   "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "ראיון של AP Archive מווינה ב-1975 עם ויזנטל על המחלוקת הפומבית שלו עם הקנצלר קרייסקי.",
+   "illustrates": [
+    "c52"
+   ],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m16",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=3ucuHYjZtbM",
+   "youtube_id": "3ucuHYjZtbM",
+   "source_page": "https://www.youtube.com/watch?v=3ucuHYjZtbM",
+   "source_name": "YouTube",
+   "credit": "Simon Wiesenthal Center",
+   "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "קטע של מרכז שמעון ויזנטל שבו ויזנטל מסביר כיצד משפטי נירנברג עיצבו את שליחות חייו.",
+   "illustrates": [
+    "c1"
+   ],
+   "spoken": "de",
+   "audio_tracks": [
+    "de"
+   ]
+  },
+  {
+   "id": "m17",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=7_cA4jnrX9c",
+   "youtube_id": "7_cA4jnrX9c",
+   "source_page": "https://www.youtube.com/watch?v=7_cA4jnrX9c",
+   "source_name": "YouTube",
+   "credit": "the fifth estate",
+   "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "ראיון מ-1980 של התוכנית \"The Fifth Estate\" עם ויזנטל בווינה.",
+   "illustrates": [],
+   "spoken": "en",
+   "audio_tracks": [
+    "en",
+    "pt",
+    "id",
+    "de",
+    "hi",
+    "ja",
+    "it",
+    "es",
+    "fr"
+   ]
+  },
+  {
+   "id": "m18",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=I0NMbTunpeA",
+   "youtube_id": "I0NMbTunpeA",
+   "source_page": "https://www.youtube.com/watch?v=I0NMbTunpeA",
+   "source_name": "YouTube",
+   "credit": "Newz Reels",
+   "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "ראיון עם ויזנטל משנת 1990, בשידור של PBS.",
+   "illustrates": [],
+   "spoken": "en",
+   "audio_tracks": [
+    "en",
+    "ar",
+    "bn",
+    "de",
+    "es",
+    "fr",
+    "hi",
+    "id",
+    "it",
+    "he",
+    "ja",
+    "ko",
+    "ml",
+    "nl",
+    "pa",
+    "pl",
+    "pt",
+    "ru",
+    "ta",
+    "te",
+    "uk"
+   ]
+  },
+  {
+   "id": "m19",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Aankomst%20dr.%20S.%20Wiesenthal%20op%20Schiphol%2C%20dr.%20S.%20Wiesenthal%20%28kop%29%2C%20Bestanddeelnr%20917-7625.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Aankomst_dr._S._Wiesenthal_op_Schiphol%2C_dr._S._Wiesenthal_%28kop%29%2C_Bestanddeelnr_917-7625.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Joop van Bilsen for Anefo",
+   "licence": "CC0",
+   "hosting": "hotlink",
+   "caption": "ויזנטל בכובע ובמעיל על מסלול שדה התעופה שיפהול, ליד זנב מטוס KLM, 12 במאי 1965.",
+   "illustrates": [],
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "date": "1965-05-12",
+   "width": 2749,
+   "height": 3421,
+   "role": "deed"
+  },
+  {
+   "id": "m20",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Aankomst%20dr.%20S.%20Wiesenthal%20op%20Schiphol%2C%20dr.%20S.%20Wiesenthal%20%28kop%29%2C%20Bestanddeelnr%20917-7626.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Aankomst_dr._S._Wiesenthal_op_Schiphol%2C_dr._S._Wiesenthal_%28kop%29%2C_Bestanddeelnr_917-7626.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Joop van Bilsen for Anefo",
+   "licence": "CC0",
+   "hosting": "hotlink",
+   "caption": "ויזנטל, מעיל על זרועו, צועד באולם בשדה התעופה שיפהול עם מלווים, 12 במאי 1965.",
+   "illustrates": [],
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "date": "1965-05-12",
+   "width": 2725,
+   "height": 3426,
+   "role": "deed"
+  },
+  {
+   "id": "m21",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Aankomst%20dr.%20S.%20Wiesenthal%20op%20Schiphol%2C%20dr.%20S.%20Wiesenthal%2C%20Bestanddeelnr%20917-7623.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Aankomst_dr._S._Wiesenthal_op_Schiphol%2C_dr._S._Wiesenthal%2C_Bestanddeelnr_917-7623.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Joop van Bilsen for Anefo",
+   "licence": "CC0",
+   "hosting": "hotlink",
+   "caption": "ויזנטל בכובע ובמעיל ליד אוטובוס על מסלול שיפהול, 12 במאי 1965.",
+   "illustrates": [],
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "date": "1965-05-12",
+   "width": 2749,
+   "height": 3416,
+   "role": "deed"
+  },
+  {
+   "id": "m22",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Aankomst%20dr.%20S.%20Wiesenthal%20op%20Schiphol%2C%20dr.%20S.%20Wiesenthal%2C%20Bestanddeelnr%20917-7624.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Aankomst_dr._S._Wiesenthal_op_Schiphol%2C_dr._S._Wiesenthal%2C_Bestanddeelnr_917-7624.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Joop van Bilsen for Anefo",
+   "licence": "CC0",
+   "hosting": "hotlink",
+   "caption": "ויזנטל מדבר ליד שולחן בשיפהול, ומאחוריו תצלום גדול של מטוסי KLM, 12 במאי 1965.",
+   "illustrates": [],
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "date": "1965-05-12",
+   "width": 3440,
+   "height": 2710,
+   "role": "deed"
+  },
+  {
+   "id": "m24",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Barnett%20Janner%20%28l%29%20aan%20het%20woord%20en%20Simon%20Wiesenthal%20%28r%29%20tijdens%20persconferentie%2C%20Bestanddeelnr%20923-4541.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Barnett_Janner_%28l%29_aan_het_woord_en_Simon_Wiesenthal_%28r%29_tijdens_persconferentie%2C_Bestanddeelnr_923-4541.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Fotograaf Onbekend / Anefo",
+   "licence": "CC0",
+   "hosting": "hotlink",
+   "caption": "ג'אנר מדבר ויזנטל לצדו, מול עיתונאים, באספת הזדהות עם יהודי רוסיה בבית הכנסת הפורטוגזי באמסטרדם.",
+   "illustrates": [],
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "date": "1970-04-19",
+   "width": 3679,
+   "height": 2445,
+   "role": "deed"
+  },
+  {
+   "id": "m25",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Brits%20parlementari%C3%ABr%20Barnett%20Janner%20%28l%29%20en%20de%20joodse%20mensenrechtenactivist%20Simon%2C%20Bestanddeelnr%20923-4540.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Brits_parlementari%C3%ABr_Barnett_Janner_%28l%29_en_de_joodse_mensenrechtenactivist_Simon%2C_Bestanddeelnr_923-4540.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Fotograaf Onbekend / Anefo",
+   "licence": "CC0",
+   "hosting": "hotlink",
+   "caption": "בארנט ג'אנר (משמאל) וויזנטל, שניהם בכובעים, יושבים ליד שולחן באספת הזדהות באמסטרדם.",
+   "illustrates": [],
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "date": "1970-04-19",
+   "width": 3679,
+   "height": 2445,
+   "role": "deed"
+  },
+  {
+   "id": "m26",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dr%20Wiesenthal%20in%20Nederland%20om%20te%20spreken%20over%20zijn%20werk%2C%206%20en%207%20%28kop%29%20Dr%20Wiese%2C%20Bestanddeelnr%20915-0673.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Dr_Wiesenthal_in_Nederland_om_te_spreken_over_zijn_werk%2C_6_en_7_%28kop%29_Dr_Wiese%2C_Bestanddeelnr_915-0673.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Hugo van Gelderen / Anefo",
+   "licence": "CC0",
+   "hosting": "hotlink",
+   "caption": "ויזנטל יושב מאחורי מיקרופון, ידיו שלובות, בביקורו בהולנד, 21 באפריל 1963.",
+   "illustrates": [],
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "date": "1963-04-21",
+   "width": 3648,
+   "height": 2406,
+   "role": "deed"
+  },
+  {
+   "id": "m27",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dr%20Wiesenthal%20in%20Nederland%20om%20te%20spreken%20over%20zijn%20werk%2C%20Dr%20Wiesenthal%20bij%20vli%2C%20Bestanddeelnr%20915-0672.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Dr_Wiesenthal_in_Nederland_om_te_spreken_over_zijn_werk%2C_Dr_Wiesenthal_bij_vli%2C_Bestanddeelnr_915-0672.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Hugo van Gelderen / Anefo",
+   "licence": "CC0",
+   "hosting": "hotlink",
+   "caption": "ויזנטל לוחץ יד לגבר על מסלול שדה התעופה בהולנד, 21 באפריל 1963.",
+   "illustrates": [],
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "date": "1963-04-21",
+   "width": 2406,
+   "height": 3648,
+   "role": "deed"
+  },
+  {
+   "id": "m28",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dr%20Wiesenthal%20in%20Nederland%20om%20te%20spreken%20over%20zijn%20werk%2C%20hier%20op%20Schiphol%20Neder%2C%20Bestanddeelnr%20915-0664.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Dr_Wiesenthal_in_Nederland_om_te_spreken_over_zijn_werk%2C_hier_op_Schiphol_Neder%2C_Bestanddeelnr_915-0664.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Hugo van Gelderen / Anefo",
+   "licence": "CC0",
+   "hosting": "hotlink",
+   "caption": "ויזנטל מחייך ומסדיר את שרוולו ליד מיקרופון, בביקורו בהולנד, 1963.",
+   "illustrates": [],
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "date": "1963-04-21",
+   "width": 3648,
+   "height": 2406,
+   "role": "deed"
+  },
+  {
+   "id": "m29",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dr%20Wiesenthal%20in%20Nederland%20om%20te%20spreken%20over%20zijn%20werk%2C%20hier%20op%20Schiphol%2C%20Bestanddeelnr%20915-0665.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Dr_Wiesenthal_in_Nederland_om_te_spreken_over_zijn_werk%2C_hier_op_Schiphol%2C_Bestanddeelnr_915-0665.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Hugo van Gelderen / Anefo",
+   "licence": "CC0",
+   "hosting": "hotlink",
+   "caption": "ויזנטל מדבר ליד שולחן, כפות ידיו צמודות, ולצדו גבר מרכיב משקפיים, 1963.",
+   "illustrates": [],
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "date": "1963-04-21",
+   "width": 3648,
+   "height": 2406,
+   "role": "deed"
+  },
+  {
+   "id": "m30",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dr%20Wiesenthal%20in%20Nederland%20om%20te%20spreken%20over%20zijn%20werk%2C%20hier%20op%20Schiphol%2C%20Bestanddeelnr%20915-0666.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Dr_Wiesenthal_in_Nederland_om_te_spreken_over_zijn_werk%2C_hier_op_Schiphol%2C_Bestanddeelnr_915-0666.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Hugo van Gelderen / Anefo",
+   "licence": "CC0",
+   "hosting": "hotlink",
+   "caption": "ויזנטל צוחק ליד שולחן העיתונאים, ולצדו גבר רושם בפנקס, 1963.",
+   "illustrates": [],
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "date": "1963-04-21",
+   "width": 3648,
+   "height": 2406,
+   "role": "deed"
+  },
+  {
+   "id": "m34",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dr%20Wiesenthal%20in%20Nederland%20om%20te%20spreken%20over%20zijn%20werk%2C%20hier%20op%20Schiphol%2C%20Bestanddeelnr%20915-0670.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Dr_Wiesenthal_in_Nederland_om_te_spreken_over_zijn_werk%2C_hier_op_Schiphol%2C_Bestanddeelnr_915-0670.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Hugo van Gelderen / Anefo",
+   "licence": "CC0",
+   "hosting": "hotlink",
+   "caption": "ויזנטל מדבר ומפשיט ידיים ליד מיקרופון על שולחן, בביקורו בהולנד, 1963.",
+   "illustrates": [],
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "date": "1963-04-21",
+   "width": 3648,
+   "height": 2406,
+   "role": "deed"
+  },
+  {
+   "id": "m36",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Persconferentie%20ir.%20Simon%20Wiesenthal%20in%20Apollo-paviljoen%20t.g.v.%20boek%20Moordenaars%2C%20Bestanddeelnr%20920-1324.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Persconferentie_ir._Simon_Wiesenthal_in_Apollo-paviljoen_t.g.v._boek_Moordenaars%2C_Bestanddeelnr_920-1324.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Pieter Jongerhuis / Anefo",
+   "licence": "CC0",
+   "hosting": "hotlink",
+   "caption": "ויזנטל חותם על עותק של ספרו \"רוצחים בקרבנו\" בכנס עיתונאים באמסטרדם, 1967.",
+   "illustrates": [],
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "date": "1967-03-02",
+   "width": 2406,
+   "height": 3648,
+   "role": "deed"
+  },
+  {
+   "id": "m9",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Persconferentie%20ir.%20Simon%20Wiesenthal%20in%20Apollo-paviljoe%20t.g.v.%20boek%20Moordenaars%20%2C%20Bestanddeelnr%20920-1322.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Persconferentie_ir._Simon_Wiesenthal_in_Apollo-paviljoe_t.g.v._boek_Moordenaars_%2C_Bestanddeelnr_920-1322.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Pieter Jongerhuis / Anefo",
+   "licence": "CC0",
+   "hosting": "hotlink",
+   "caption": "ויזנטל עומד ומדבר בכנס עיתונאים באמסטרדם לרגל צאת ספרו \"רוצחים בקרבנו\", 2 במרץ 1967.",
+   "illustrates": [],
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "date": "1967-03-02",
+   "width": 3648,
+   "height": 2406
+  },
+  {
+   "id": "m39",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Receptie%20t.g.v.%20Dies%20Natalis%20A%27dam%20Universiteit%20in%20Hilton%20Hotel%20Amsterdam%20.%20Rech%2C%20Bestanddeelnr%20923-1375.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Receptie_t.g.v._Dies_Natalis_A%27dam_Universiteit_in_Hilton_Hotel_Amsterdam_._Rech%2C_Bestanddeelnr_923-1375.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Rob Mieremet / Anefo",
+   "licence": "CC0",
+   "hosting": "hotlink",
+   "caption": "ויזנטל משוחח עם אורחים בקבלת פנים במלון הילטון באמסטרדם.",
+   "illustrates": [],
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "date": "1970-01-08",
+   "width": 3697,
+   "height": 2452,
+   "role": "deed"
+  },
+  {
+   "id": "m40",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Replica%20of%20the%20Simon%20Wiesenthal%27s%20office%20in%20Vienna%2C%20Museum%20of%20Tolerance.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Replica_of_the_Simon_Wiesenthal%27s_office_in_Vienna%2C_Museum_of_Tolerance.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Alexis Doine",
+   "licence": "CC0",
+   "hosting": "hotlink",
+   "caption": "העתק של משרדו של ויזנטל בווינה, בתצוגה במוזיאון הסובלנות בלוס אנג'לס: ספרים, ניירות ותעודות על הקיר.",
+   "illustrates": [],
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "date": "2024-08-21",
+   "width": 4030,
+   "height": 2960,
+   "role": "related"
+  },
+  {
+   "id": "m41",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Simon%20Wiesenthal%20signeert%20zijn%20boek%20Zeilen%20der%20Hoop%20in%20Bijenkorf%20te%20Amsterdam%2C%20Bestanddeelnr%20926-3035.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Simon_Wiesenthal_signeert_zijn_boek_Zeilen_der_Hoop_in_Bijenkorf_te_Amsterdam%2C_Bestanddeelnr_926-3035.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "W. Punt for Anefo",
+   "licence": "CC0",
+   "hosting": "hotlink",
+   "caption": "ויזנטל יושב ליד שולחן עם פרחים מול קהל, באירוע ספרו בהולנד, 27 במרץ 1973.",
+   "illustrates": [],
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "date": "1973-03-27",
+   "width": 3689,
+   "height": 2453,
+   "role": "deed"
+  },
+  {
+   "id": "m42",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Simon%20Wiesenthal%20signeert%20zijn%20boek%20Zeilen%20der%20Hoop%20in%20Bijenkorf%20te%20Amsterdam%2C%20Bestanddeelnr%20926-3037.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Simon_Wiesenthal_signeert_zijn_boek_Zeilen_der_Hoop_in_Bijenkorf_te_Amsterdam%2C_Bestanddeelnr_926-3037.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "W. Punt for Anefo",
+   "licence": "CC0",
+   "hosting": "hotlink",
+   "caption": "ויזנטל מדבר בתנועות ידיים ליד מיקרופון, באירוע ספרו באמסטרדם, 27 במרץ 1973.",
+   "illustrates": [],
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "date": "1973-03-27",
+   "width": 2441,
+   "height": 3617,
+   "role": "deed"
+  },
+  {
+   "id": "m43",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tree%20planted%20by%20Simon%20Wiesenthal.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Tree_planted_by_Simon_Wiesenthal.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Herzi Pinki",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "העץ שנטע ויזנטל ב-1989, עם מינויו לחבר כבוד באוניברסיטה לאמנויות שימושיות בווינה, ליד בניין הלבנים של האוניברסיטה.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2019-06-26",
+   "width": 2976,
+   "height": 4054,
+   "role": "deed"
+  },
+  {
+   "id": "m44",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Vliegvelden%2C%20aankomsten%2C%20portretten%2C%20Bestanddeelnr%20930-1515.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Vliegvelden%2C_aankomsten%2C_portretten%2C_Bestanddeelnr_930-1515.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Rob Croes for Anefo",
+   "licence": "CC0",
+   "hosting": "hotlink",
+   "caption": "ויזנטל בגיל מבוגר במעיל צמר ליד מיקרופונים; לפי הארכיון, בהגעתו לשיפהול במרץ 1979.",
+   "illustrates": [],
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "date": "1979-03-05",
+   "width": 3694,
+   "height": 2442,
+   "role": "deed"
+  },
+  {
+   "id": "m45",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/VWI%20LectureMoses02.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:VWI_LectureMoses02.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "VWI Wiener Wiesenthal Institut für Holocaust-Studien",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "הרצאה של מכון ויזנטל לחקר השואה בווינה: דובר ליד דוכן וכרזה עם דיוקן ויזנטל מחזיק זכוכית מגדלת.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "2010-09-28",
+   "width": 2000,
+   "height": 3008,
+   "role": "related"
+  },
+  {
+   "id": "m46",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wiesenthal%27s%20grave%2C%20Herzliya.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Wiesenthal%27s_grave%2C_Herzliya.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "דוד שי",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "מצבת קברו של שמעון ויזנטל בבית הקברות הישן בהרצליה, מכוסה באבנים וכוכבי דוד.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "2011-02-20",
+   "width": 1200,
+   "height": 1600,
+   "role": "deed"
+  },
+  {
+   "id": "m47",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/2020%20Brug%20790%2C%20overzicht%20%281%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:2020_Brug_790%2C_overzicht_%281%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Ceescamel",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "גשר ויזנטל בשכונת ניו-ווסט באמסטרדם, על תעלה בין בתי מגורים, 2020.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2020-09-11",
+   "width": 5312,
+   "height": 2988,
+   "role": "related"
+  },
+  {
+   "id": "m48",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/2020%20Brug%20790%2C%20zijaanzicht.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:2020_Brug_790%2C_zijaanzicht.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Ceescamel",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "מבט צד על גשר ויזנטל באמסטרדם, מעקה בטון ומתכת מעל תעלה, 2020.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2020-09-11",
+   "width": 5312,
+   "height": 2988,
+   "role": "related"
+  },
+  {
+   "id": "m49",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Huwelijk%20Paulinka%20Wiesenthal%20%28dochter%20Simon%20Wiesenthal%20met%20Gerard%20Kreisberg%20in%20U%2C%20Bestanddeelnr%20918-5806.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Huwelijk_Paulinka_Wiesenthal_%28dochter_Simon_Wiesenthal_met_Gerard_Kreisberg_in_U%2C_Bestanddeelnr_918-5806.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Joop van Bilsen for Anefo",
+   "licence": "CC0",
+   "hosting": "hotlink",
+   "caption": "חתונת פאולינקה, בתו של ויזנטל, וג'רארד קרייסברג בבית הכנסת באוטרכט, 19 בדצמבר 1965; ויזנטל עומד מימין מתחת לחופה.",
+   "illustrates": [],
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "date": "1965-12-19",
+   "width": 3445,
+   "height": 2710,
+   "role": "deed"
+  },
+  {
+   "id": "m50",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Huwelijk%20Paulinka%20Wiesenthal%20%28dochter%20Simon%20Wiesenthal%20met%20Gerard%20Kreisberg%20in%20U%2C%20Bestanddeelnr%20918-5807.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Huwelijk_Paulinka_Wiesenthal_%28dochter_Simon_Wiesenthal_met_Gerard_Kreisberg_in_U%2C_Bestanddeelnr_918-5807.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Joop van Bilsen for Anefo",
+   "licence": "CC0",
+   "hosting": "hotlink",
+   "caption": "הכלה, החתן ואורחים יושבים ליד שולחן החופה בחתונת בתו של ויזנטל באוטרכט, 1965.",
+   "illustrates": [],
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "date": "1965-12-19",
+   "width": 3416,
+   "height": 2696,
+   "role": "deed"
+  },
+  {
+   "id": "m51",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Huwelijk%20Paulinka%20Wiesenthal%20%28dochter%20Simon%20Wiesenthal%20met%20Gerard%20Kreisberg%20in%20U%2C%20Bestanddeelnr%20918-5808.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Huwelijk_Paulinka_Wiesenthal_%28dochter_Simon_Wiesenthal_met_Gerard_Kreisberg_in_U%2C_Bestanddeelnr_918-5808.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Joop van Bilsen for Anefo",
+   "licence": "CC0",
+   "hosting": "hotlink",
+   "caption": "ויזנטל (מימין) עומד ליד החופה בשעת הקראת הכתובה בחתונת בתו, אוטרכט, 1965.",
+   "illustrates": [],
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "date": "1965-12-19",
+   "width": 3454,
+   "height": 2701,
+   "role": "deed"
+  },
+  {
+   "id": "m52",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Huwelijk%20Paulinka%20Wiesenthal%20%28dochter%20Simon%20Wiesenthal%20met%20Gerard%20Kreisberg%20in%20U%2C%20Bestanddeelnr%20918-5809.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Huwelijk_Paulinka_Wiesenthal_%28dochter_Simon_Wiesenthal_met_Gerard_Kreisberg_in_U%2C_Bestanddeelnr_918-5809.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Joop van Bilsen for Anefo",
+   "licence": "CC0",
+   "hosting": "hotlink",
+   "caption": "החתן עונד את הטבעת לכלה בחופה, בחתונת בתו של ויזנטל באוטרכט, 1965.",
+   "illustrates": [],
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "date": "1965-12-19",
+   "width": 3426,
+   "height": 2710,
+   "role": "deed"
+  },
+  {
+   "id": "m53",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Huwelijk%20Paulinka%20Wiesenthal%20%28dochter%20Simon%20Wiesenthal%20met%20Gerard%20Kreisberg%20in%20U%2C%20Bestanddeelnr%20918-5810.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Huwelijk_Paulinka_Wiesenthal_%28dochter_Simon_Wiesenthal_met_Gerard_Kreisberg_in_U%2C_Bestanddeelnr_918-5810.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Joop van Bilsen for Anefo",
+   "licence": "CC0",
+   "hosting": "hotlink",
+   "caption": "הכלה, בתו של ויזנטל, צועדת בגשם בכניסה לבית הכנסת באוטרכט, תחת מטרייה, 19 בדצמבר 1965.",
+   "illustrates": [],
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "date": "1965-12-19",
+   "width": 2681,
+   "height": 3445,
+   "role": "deed"
+  },
+  {
+   "id": "m54",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Huwelijk%20Paulinka%20Wiesenthal%20%28dochter%20Simon%20Wiesenthal%20met%20Gerard%20Kreisberg%20in%20U%2C%20Bestanddeelnr%20918-5811.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Huwelijk_Paulinka_Wiesenthal_%28dochter_Simon_Wiesenthal_met_Gerard_Kreisberg_in_U%2C_Bestanddeelnr_918-5811.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Joop van Bilsen for Anefo",
+   "licence": "CC0",
+   "hosting": "hotlink",
+   "caption": "הכלה טועמת מהכוס מתחת לחופה, בחתונת בתו של ויזנטל באוטרכט, 1965.",
+   "illustrates": [],
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "date": "1965-12-19",
+   "width": 3421,
+   "height": 2725,
+   "role": "deed"
+  },
+  {
+   "id": "m55",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Huwelijk%20Paulinka%20Wiesenthal%20%28dochter%20Simon%20Wiesenthal%20met%20Gerard%20Kreisberg%20in%20U%2C%20Bestanddeelnr%20918-5812.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Huwelijk_Paulinka_Wiesenthal_%28dochter_Simon_Wiesenthal_met_Gerard_Kreisberg_in_U%2C_Bestanddeelnr_918-5812.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Joop van Bilsen for Anefo",
+   "licence": "CC0",
+   "hosting": "hotlink",
+   "caption": "הכלה, החתן וקרובים עומדים מתחת לחופה ובידי הרב ספר, ויזנטל ביניהם, חתונה באוטרכט, 1965.",
+   "illustrates": [],
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "date": "1965-12-19",
+   "width": 3411,
+   "height": 2725,
+   "role": "deed"
+  },
+  {
+   "id": "m56",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Huwelijk%20Paulinka%20Wiesenthal%20%28dochter%20Simon%20Wiesenthal%20met%20Gerard%20Kreisberg%20in%20U%2C%20Bestanddeelnr%20918-5813.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Huwelijk_Paulinka_Wiesenthal_%28dochter_Simon_Wiesenthal_met_Gerard_Kreisberg_in_U%2C_Bestanddeelnr_918-5813.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Joop van Bilsen for Anefo",
+   "licence": "CC0",
+   "hosting": "hotlink",
+   "caption": "הזוג הטרי צועד במעבר בית הכנסת בין האורחים, אוטרכט, 19 בדצמבר 1965.",
+   "illustrates": [],
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "date": "1965-12-19",
+   "width": 2710,
+   "height": 3426,
+   "role": "deed"
+  },
+  {
+   "id": "m57",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Simon%20Wiesenthal%20Tolerance%20Center%20NY.JPG?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Simon_Wiesenthal_Tolerance_Center_NY.JPG",
+   "source_name": "Wikimedia Commons",
+   "credit": "Alexisrael",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "שלט מרכז ויזנטל לסובלנות בניו יורק, על קיר זכוכית כחול.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "2012-10-27",
+   "width": 4608,
+   "height": 3456,
+   "role": "related"
+  },
+  {
+   "id": "m58",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Harry%20and%20Jeanette%20Weinberg%20Building%20%28Simon%20Wiesenthal%20Center%29%2C%20Los%20Angeles.JPG?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Harry_and_Jeanette_Weinberg_Building_%28Simon_Wiesenthal_Center%29%2C_Los_Angeles.JPG",
+   "source_name": "Wikimedia Commons",
+   "credit": "Alexis Doine",
+   "licence": "CC0",
+   "hosting": "hotlink",
+   "caption": "בניין מרכז שמעון ויזנטל בלוס אנג'לס, בניין הארי וג'נט וינברג, צילום פנורמי.",
+   "illustrates": [],
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "date": "2024-08-20",
+   "width": 3464,
+   "height": 1332,
+   "role": "related"
+  }
+ ],
+ "check": {
+  "passed": true,
+  "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
+  "checked_at": "2026-11-13T20:44:14Z",
+  "counts": {
+   "confirmed": 83,
+   "not_confirmed": 0,
+   "deleted_sentences": 3,
+   "first_round_confirmed": 100,
+   "first_round_contradicted": 2,
+   "first_round_unverifiable": 3
+  },
+  "note": "unverifiable sentences were deleted, contradicted ones fixed from the source and checked again"
+ },
+ "meta": {
+  "run": "simon-wiesenthal",
+  "pipeline": "scripts/museum/museum_line.py",
+  "models": {
+   "research": "sonnet-5-5",
+   "extract": "sonnet-5-5",
+   "media": "sonnet-5-5",
+   "write": "opus-5-5 medium",
+   "check": "opus-5-5 medium",
+   "fix": "opus-5-5 medium"
+  },
+  "source_quality": {
+   "sources": 12,
+   "wikipedia": 0,
+   "strong": 4,
+   "ok": true,
+   "warnings": []
+  },
+  "media_dedupe": [
+   {
+    "drop": "m2",
+    "keep": "m1",
+    "by": "Tomer 24.11"
+   },
+   {
+    "drop": "m5",
+    "keep": "m13"
+   },
+   {
+    "drop": "m37",
+    "keep": "m9",
+    "by": "Tomer 24.11"
+   }
+  ],
+  "media_keep": [
+   "m1",
+   "m9",
+   "m13"
+  ],
+  "wiki_cleanup": {
+   "at": "2026-11-27T15:40:52Z",
+   "targets": 22,
+   "resourced": 4,
+   "kept_on_other_sources": 0,
+   "deleted": 18
+  }
+ }
 }

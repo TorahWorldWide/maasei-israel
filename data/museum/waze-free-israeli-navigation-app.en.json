@@ -85,7 +85,7 @@
    "label": "Recognition",
    "value": "GSM Association Best Mobile App award, 2013",
    "claims": [
-    "c78"
+    "c79"
    ]
   }
  ],
@@ -203,12 +203,6 @@
       ]
      },
      {
-      "text": "According to Wikipedia, the three are veterans of Unit 8200.",
-      "claims": [
-       "c72"
-      ]
-     },
-     {
       "text": "Levine credits his success in part to six years of service in the Israel Defense Forces.",
       "claims": [
        "c42"
@@ -317,6 +311,14 @@
        "c46"
       ]
      }
+    ],
+    [
+     {
+      "text": "According to The Next Web, $30 million in 2011",
+      "claims": [
+       "c18"
+      ]
+     }
     ]
    ],
    "media": [
@@ -325,7 +327,6 @@
    ],
    "disagreements": [
     "d3",
-    "d4",
     "d5"
    ]
   },
@@ -465,7 +466,7 @@
      {
       "text": "In 2013 the GSM Association gave Waze the Best Mobile App award.",
       "claims": [
-       "c78"
+       "c80"
       ]
      },
      {
@@ -542,7 +543,7 @@
      {
       "text": "The US Federal Trade Commission later decided not to challenge the deal.",
       "claims": [
-       "c74"
+       "c81"
       ]
      }
     ],
@@ -551,12 +552,6 @@
       "text": "The app was criticized for potentially distracting drivers, who must use their phones while driving in order to make reports.",
       "claims": [
        "c32"
-      ]
-     },
-     {
-      "text": "In 2014, Charlie Beck of the Los Angeles Police Department complained about the app's police locator feature.",
-      "claims": [
-       "c77"
       ]
      },
      {
@@ -569,12 +564,6 @@
       "text": "Levine responded to the criticism, saying that Waze redistributes traffic to create a better traffic situation for everyone.",
       "claims": [
        "c33"
-      ]
-     },
-     {
-      "text": "Iraq announced a ban on Waze due to its Israeli origin, as it has no diplomatic ties with Israel.",
-      "claims": [
-       "c75"
       ]
      }
     ],
@@ -703,24 +692,6 @@
    ]
   },
   {
-   "id": "d4",
-   "question": "How much did Waze raise in its second round, and when?",
-   "versions": [
-    {
-     "says": "According to Wikipedia, $25 million in 2010, in the second funding round",
-     "claims": [
-      "c76"
-     ]
-    },
-    {
-     "says": "According to The Next Web, $30 million in 2011",
-     "claims": [
-      "c18"
-     ]
-    }
-   ]
-  },
-  {
    "id": "d5",
    "question": "Was Noam Bardin one of Waze's founders?",
    "versions": [
@@ -767,9 +738,9 @@
      ]
     },
     {
-     "says": "According to Wikipedia, $1.3 billion",
+     "says": "$1.3 billion",
      "claims": [
-      "c73"
+      "c85"
      ]
     },
     {
@@ -882,14 +853,6 @@
    "locator": "שורה 13"
   },
   {
-   "id": "c78",
-   "text": "ב-2013 הענקי איגוד GSM לווייז את פרס אפליקציית המובייל הטובה ביותר.",
-   "source": "src5",
-   "quote": "In 2013, the GSM Association, a trade association of mobile network operators, gave Waze the Best Overall Mobile App award",
-   "status": "confirmed",
-   "locator": "שורה 59"
-  },
-  {
    "id": "c48",
    "text": "חברת מפה טענה שהפר זכויות יוצרים והייתה מוכנה לקנות ממנו את האפליקציה אך לא לאפשר שימוש במפות שלה.",
    "source": "src2",
@@ -920,14 +883,6 @@
    "quote": "In the beginning, the guys used game mechanics just to get people to come on the app because we didn’t have much for people to do.",
    "status": "confirmed",
    "locator": "שורה 8"
-  },
-  {
-   "id": "c72",
-   "text": "לפי ויקיפדיה, ווייז הוקמה על ידי היזמים הישראלים שבתאי, שנער ולוין, ותיקי יחידה 8200.",
-   "source": "src5",
-   "quote": "a company founded by Israeli entrepreneurs Ehud Shabtai, Amir Shinar, and Uri Levine, who are also veterans of Unit 8200.",
-   "status": "confirmed",
-   "locator": "שורה 34"
   },
   {
    "id": "c42",
@@ -1226,28 +1181,12 @@
    "locator": "שורה 14"
   },
   {
-   "id": "c74",
-   "text": "רשות הסחר הפדרלית בארה\"ב החליטה בהמשך שלא לערער על העסקה.",
-   "source": "src5",
-   "quote": "The FTC later decided that it would not challenge the deal",
-   "status": "confirmed",
-   "locator": "שורה 62"
-  },
-  {
    "id": "c32",
    "text": "האפליקציה זכתה לביקורת על כך שהיא עלולה להסיח את דעת נהגים שנדרשים להשתמש בטלפון בזמן הנהיגה כדי לדווח.",
    "source": "src3",
    "quote": "The app's innovation has had led to backlash in the past, for potentially distracting drivers, who must use their phones behind the wheel to make reports on Waze.",
    "status": "confirmed",
    "locator": "שורה 11"
-  },
-  {
-   "id": "c77",
-   "text": "ב-2014 קצין משטרת לוס אנג'לס צ'רלי בק התלונן על תכונת איתור המשטרה באפליקציה.",
-   "source": "src5",
-   "quote": "In December 2014, in a letter sent to Google, Los Angeles Police Department Chief Charlie Beck complained about the police locator feature",
-   "status": "confirmed",
-   "locator": "שורה 87"
   },
   {
    "id": "c31",
@@ -1264,14 +1203,6 @@
    "quote": "In that sense, Waze redistributes traffic to create a better traffic situation for everyone",
    "status": "confirmed",
    "locator": "שורה 12"
-  },
-  {
-   "id": "c75",
-   "text": "עיראק הודיעה על איסור על ווייז בשל מקורה הישראלי, כיוון שאין לה יחסים דיפלומטיים עם ישראל.",
-   "source": "src5",
-   "quote": "Iraq announced it would be banning Waze due to its Israeli origin, as Iraq does not have diplomatic ties with Israel.",
-   "status": "confirmed",
-   "locator": "שורה 93"
   },
   {
    "id": "c52",
@@ -1370,14 +1301,6 @@
    "locator": "שורה 7"
   },
   {
-   "id": "c76",
-   "text": "לפי ויקיפדיה, ב-2010 החברה גייסה 25 מיליון דולר בסבב מימון שני.",
-   "source": "src5",
-   "quote": "In 2010, the company raised US$25 million in the second round of funding",
-   "status": "confirmed",
-   "locator": "שורה 57"
-  },
-  {
    "id": "c14",
    "text": "נועם ברדין, מנכ\"ל ומייסד שותף של ווייז, אישר בפוסט בלינקדאין שגוגל הסכימה לשלם 1.15 מיליארד דולר.",
    "source": "src8",
@@ -1392,14 +1315,6 @@
    "quote": "Google won, buying Waze for $1 billion in cash, with an additional $100 million in performance payouts in cash and Google stock for employees, company sources said.",
    "status": "confirmed",
    "locator": "שורה 6"
-  },
-  {
-   "id": "c73",
-   "text": "לפי ויקיפדיה, גוגל רכשה את ווייז ביוני 2013 תמורת 1.3 מיליארד דולר.",
-   "source": "src5",
-   "quote": "In June 2013, Waze was acquired by Google for $1.3 billion.",
-   "status": "confirmed",
-   "locator": "שורה 61"
   },
   {
    "id": "c54",
@@ -1424,6 +1339,38 @@
    "quote": "which is used by about 150 million people worldwide every day",
    "status": "confirmed",
    "locator": "שורה 18"
+  },
+  {
+   "id": "c79",
+   "text": "הוקרה: פרס אפליקציית המובייל הטובה ביותר של איגוד GSM, 2013",
+   "source": "src13",
+   "quote": "won the Best Overall Mobile App by the GSM Association in the 2013 Global Mobile Awards",
+   "status": "confirmed",
+   "locator": "שורה 40"
+  },
+  {
+   "id": "c80",
+   "text": "ב-2013 העניק איגוד GSM לווייז את פרס אפליקציית המובייל הטובה ביותר.",
+   "source": "src13",
+   "quote": "won the Best Overall Mobile App by the GSM Association in the 2013 Global Mobile Awards",
+   "status": "confirmed",
+   "locator": "שורה 40"
+  },
+  {
+   "id": "c81",
+   "text": "רשות הסחר הפדרלית בארה\"ב החליטה בהמשך שלא לערער על העסקה.",
+   "source": "src14",
+   "quote": "the FTC will not interfere with the acquisition",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c85",
+   "text": "1.3 מיליארד דולר",
+   "source": "src15",
+   "quote": "which news provider Reuters said had been sold for $1.3bn, although terms were undisclosed.",
+   "status": "confirmed",
+   "locator": "שורה 1"
   }
  ],
  "sources": [
@@ -1450,12 +1397,6 @@
    "label": "Jerusalem Post",
    "url": "https://www.jpost.com/Metro/Features/Waze-to-make-commuting-easier",
    "kind": "press"
-  },
-  {
-   "id": "src5",
-   "label": "Wikipedia, Waze",
-   "url": "https://en.wikipedia.org/wiki/Waze",
-   "kind": "reference"
   },
   {
    "id": "src6",
@@ -1497,6 +1438,24 @@
    "id": "src12",
    "label": "Globes, Waze fails to reach its destination",
    "url": "https://en.globes.co.il/en/article-1001451145",
+   "kind": "press"
+  },
+  {
+   "id": "src13",
+   "label": "Globes: Waze wins Best Mobile App award in Barcelona",
+   "url": "https://en.globes.co.il/en/article-1000825700",
+   "kind": "press"
+  },
+  {
+   "id": "src14",
+   "label": "Engadget: FTC will not challenge Google's $1 billion Waze acquisition",
+   "url": "https://www.engadget.com/2013/10/01/ftc-will-not-challenge-google-waze-acquisition/",
+   "kind": "press"
+  },
+  {
+   "id": "src15",
+   "label": "Globes: Google to buy Waze for $1.3b",
+   "url": "https://globalventuring.com/blog/2013/06/13/qualcomm-ventures-nets-10x-on-waze/?format=md",
    "kind": "press"
   }
  ],
@@ -1878,7 +1837,7 @@
   "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
   "checked_at": "2026-11-21T13:26:33Z",
   "counts": {
-   "confirmed": 100,
+   "confirmed": 96,
    "not_confirmed": 0,
    "deleted_sentences": 10,
    "first_round_confirmed": 97,
@@ -1899,11 +1858,18 @@
    "fix": "opus-5-5 medium"
   },
   "source_quality": {
-   "sources": 12,
-   "wikipedia": 1,
+   "sources": 14,
+   "wikipedia": 0,
    "strong": 11,
    "ok": true,
    "warnings": []
+  },
+  "wiki_cleanup": {
+   "at": "2026-11-27T15:45:03Z",
+   "targets": 8,
+   "resourced": 4,
+   "kept_on_other_sources": 0,
+   "deleted": 4
   }
  },
  "lang": "en",
@@ -1911,12 +1877,12 @@
   "from": "he",
   "translator": "claude-opus-5-5",
   "checker": "claude-opus-5-5 (separate call, blind to the translation prompt)",
-  "checked_at": "2026-11-21T14:36:16Z",
+  "checked_at": "2026-11-27T15:45:13Z",
   "passed": true,
-  "items": 143,
-  "pairs_checked": 7,
-  "reused": 136,
-  "first_round_flagged": 1,
+  "items": 138,
+  "pairs_checked": 1,
+  "reused": 137,
+  "first_round_flagged": 0,
   "still_flagged": 0,
   "flagged": [],
   "quote_translations": {}

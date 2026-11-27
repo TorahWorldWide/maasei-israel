@@ -123,12 +123,6 @@
       ]
      },
      {
-      "text": "According to HaMichlol, it was a liberal Jewish family that was integrated into general society.",
-      "claims": [
-       "c62"
-      ]
-     },
-     {
       "text": "Her father, Bela, was a journalist, author and playwright.",
       "claims": [
        "c2"
@@ -142,18 +136,6 @@
      }
     ],
     [
-     {
-      "text": "At school, Hannah was elected to the literary council.",
-      "claims": [
-       "c67"
-      ]
-     },
-     {
-      "text": "For antisemitic reasons, she was prevented from filling the position.",
-      "claims": [
-       "c67"
-      ]
-     },
      {
       "text": "After experiencing antisemitism during her studies, she became a Zionist.",
       "claims": [
@@ -184,12 +166,6 @@
    "kind": "story",
    "paragraphs": [
     [
-     {
-      "text": "In 1939 Hannah immigrated to Eretz Israel, with a certificate she received from WIZO.",
-      "claims": [
-       "c70"
-      ]
-     },
      {
       "text": "For two years she attended the agricultural school in Nahalal.",
       "claims": [
@@ -515,18 +491,6 @@
    "paragraphs": [
     [
      {
-      "text": "On 26 March 1950 Hannah's coffin arrived at the port of Haifa.",
-      "claims": [
-       "c60"
-      ]
-     },
-     {
-      "text": "Crowds paid tribute to her in the funeral procession, which began in the streets of Haifa.",
-      "claims": [
-       "c60"
-      ]
-     },
-     {
       "text": "Her remains were buried on Mount Herzl, and the settlement Yad Hannah was established in her name.",
       "claims": [
        "c12"
@@ -553,11 +517,13 @@
       "claims": [
        "c14"
       ]
-     },
+     }
+    ],
+    [
      {
-      "text": "According to HaMichlol, she became a symbol through her sacrifice for a Hebrew state and her steadfastness under torture in captivity.",
+      "text": "Arutz 7: following an official request by the Government of Israel",
       "claims": [
-       "c63"
+       "c44"
       ]
      }
     ]
@@ -575,9 +541,7 @@
     "m38",
     "m43"
    ],
-   "disagreements": [
-    "d7"
-   ]
+   "disagreements": []
   },
   {
    "id": "s8",
@@ -635,12 +599,6 @@
       "text": "Srugim sums up that according to the district court ruling, Kastner could have saved her from execution but did nothing, so as not to harm the collaboration with the Nazis.",
       "claims": [
        "c34"
-      ]
-     },
-     {
-      "text": "Her mother and her brother Giora firmly maintain that Kastner deliberately refrained from saving her.",
-      "claims": [
-       "c61"
       ]
      },
      {
@@ -835,24 +793,6 @@
      ]
     }
    ]
-  },
-  {
-   "id": "d7",
-   "question": "Who initiated Hannah's acquittal in Hungary in 1993?",
-   "versions": [
-    {
-     "says": "Arutz 7: following an official request by the Government of Israel",
-     "claims": [
-      "c44"
-     ]
-    },
-    {
-     "says": "HaMichlol: under the direction of the Hungarian government",
-     "claims": [
-      "c59"
-     ]
-    }
-   ]
   }
  ],
  "unknowns": [],
@@ -946,28 +886,12 @@
    "locator": "שורה 60"
   },
   {
-   "id": "c62",
-   "text": "חנה נולדה בבודפשט למשפחה יהודית ליברלית שהייתה מעורה בחברה הכללית.",
-   "source": "src4",
-   "quote": "חנה סנש נולדה בבודפשט שבהונגריה למשפחה יהודית ליברלית שהייתה מעורה בחברה הכללית.",
-   "status": "confirmed",
-   "locator": "שורה 24"
-  },
-  {
    "id": "c2",
    "text": "אביה, בלה, היה עיתונאי, סופר ומחזאי, ונפטר כשחנה הייתה בת שש.",
    "source": "src3",
    "quote": "Her father Bela was a journalist, author and playwright, who passed away when Hannah was six years old.",
    "status": "confirmed",
    "locator": "שורה 22"
-  },
-  {
-   "id": "c67",
-   "text": "כשנבחרה למועצה הספרותית של בית הספר נמנע ממנה למלא את התפקיד מסיבות אנטישמיות.",
-   "source": "src4",
-   "quote": "כאשר נבחרה למועצה הספרותית של בית הספר, נמנע ממנה למלא את התפקיד מסיבות אנטישמיות.",
-   "status": "confirmed",
-   "locator": "שורה 25"
   },
   {
    "id": "c21",
@@ -984,14 +908,6 @@
    "quote": "אני מרגישה שעכשיו אני יהודייה בעלת הכרה, ובכל מאודי. אני מתגאה ביהדותי, ומטרתי לעלות לארץ ישראל ולהשתתף בבניינה",
    "status": "confirmed",
    "locator": "שורה 6"
-  },
-  {
-   "id": "c70",
-   "text": "ב-1939 עלתה חנה לארץ ישראל עם סרטיפיקט שקיבלה מויצו.",
-   "source": "src4",
-   "quote": "בשנת 1939 עלתה לארץ ישראל עם סרטיפיקט שקיבלה מויצו.",
-   "status": "confirmed",
-   "locator": "שורה 27"
   },
   {
    "id": "c38",
@@ -1170,14 +1086,6 @@
    "locator": "שורה 92"
   },
   {
-   "id": "c60",
-   "text": "ב-26 במרץ 1950 הגיע ארונה של חנה לנמל חיפה, ומונים חלקו לה כבוד במסע ההלוויה.",
-   "source": "src4",
-   "quote": "ב-26 במרץ 1950, הגיע הארון לנמל חיפה. המונים חלקו לחנה סנש כבוד במסע ההלוויה שהתחיל ברחובות חיפה",
-   "status": "confirmed",
-   "locator": "שורה 36"
-  },
-  {
    "id": "c13",
    "text": "ב-1993 בית המשפט העליון הצבאי של הונגריה פסק לטהר את שמה של חנה ולבטל את הרשעתה בבגידה ואת גזר דין המוות.",
    "source": "src3",
@@ -1192,14 +1100,6 @@
    "quote": "Hannah Szenes has been memorialized by authors and playwrights, and became a symbol of courage, proud determination and integrity.",
    "status": "confirmed",
    "locator": "שורה 60"
-  },
-  {
-   "id": "c63",
-   "text": "המכלול: חנה הפכה לסמל בהקרבתה למען מדינה עברית ובעמידתה האיתנה בעינויי השבי.",
-   "source": "src4",
-   "quote": "סנש הפכה לסמל בהקרבתה למען מדינה עברית ובעמידתה האיתנה בעינויי השבי.",
-   "status": "confirmed",
-   "locator": "שורה 43"
   },
   {
    "id": "c41",
@@ -1256,14 +1156,6 @@
    "quote": "בפסק הדין המחוזי מסכם הלוי על פי העדויות כי קסטנר היה יכול להציל את חנה סנש מהוצאתה להורג אך לא עשה לשם כך דבר כדי לא לפגוע בשיתוף הפעולה עם הנאצים.",
    "status": "confirmed",
    "locator": "שורה 35"
-  },
-  {
-   "id": "c61",
-   "text": "אמה וגיורא אחיה טוענים בתוקף שקסטנר נמנע במכוון מהצלתה.",
-   "source": "src4",
-   "quote": "קטרינה וגיורא, אחיה של חנה, טוענים בתוקף כי קסטנר נמנע במכוון מהצלתה.",
-   "status": "confirmed",
-   "locator": "שורה 33"
   },
   {
    "id": "c35",
@@ -1400,14 +1292,6 @@
    "quote": "ביולי 1993, בעקבות בקשה רשמית של ממשלת ישראל, התכנס בית-הדין העליון של צבא הונגריה וזיכה את חנה סנש מכל אשמה.",
    "status": "confirmed",
    "locator": "שורה 36"
-  },
-  {
-   "id": "c59",
-   "text": "לפי המכלול, ביולי 1993, בהנחיית ממשלת הונגריה, בית המשפט העליון הצבאי של הונגריה ביטל את פסק הדין וגזר דין המוות.",
-   "source": "src4",
-   "quote": "ביולי 1993, בהנחיית ממשלת הונגריה, הוצא על ידי בית המשפט העליון של צבא הונגריה פסק דין המבטל את פסק הדין שנקבע לחנה סנש ואת גזר דין המוות שהוטל עליה",
-   "status": "confirmed",
-   "locator": "שורה 37"
   }
  ],
  "sources": [
@@ -1428,12 +1312,6 @@
    "label": "Yad Vashem, From Our Collections: Hannah Szenes",
    "url": "https://yadvashem.org/from-our-collections/hannah-szenes.html",
    "kind": "official"
-  },
-  {
-   "id": "src4",
-   "label": "HaMichlol: Hannah Szenes",
-   "url": "https://www.hamichlol.org.il/חנה_סנש",
-   "kind": "reference"
   },
   {
    "id": "src5",
@@ -2179,7 +2057,7 @@
   "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
   "checked_at": "2026-11-13T22:45:05Z",
   "counts": {
-   "confirmed": 101,
+   "confirmed": 92,
    "not_confirmed": 0,
    "deleted_sentences": 6,
    "first_round_confirmed": 99,
@@ -2200,11 +2078,18 @@
    "fix": "opus-5-5 medium"
   },
   "source_quality": {
-   "sources": 9,
+   "sources": 8,
    "wikipedia": 0,
    "strong": 4,
    "ok": true,
    "warnings": []
+  },
+  "wiki_cleanup": {
+   "at": "2026-11-27T15:32:15Z",
+   "targets": 9,
+   "resourced": 0,
+   "kept_on_other_sources": 0,
+   "deleted": 9
   }
  },
  "lang": "en",
@@ -2212,30 +2097,24 @@
   "from": "he",
   "translator": "claude-opus-5-5",
   "checker": "claude-opus-5-5 (separate call, blind to the translation prompt)",
-  "checked_at": "2026-11-21T04:57:27Z",
+  "checked_at": "2026-11-27T15:32:15Z",
   "passed": true,
-  "items": 214,
-  "pairs_checked": 5,
-  "reused": 209,
+  "items": 196,
+  "pairs_checked": 0,
+  "reused": 196,
   "first_round_flagged": 0,
   "still_flagged": 0,
   "flagged": [],
   "quote_translations": {
-   "c62": "Hannah Szenes was born in Budapest, Hungary, to a liberal Jewish family that was integrated into general society.",
-   "c67": "When she was elected to the school's literary council, she was prevented from filling the position for antisemitic reasons.",
    "c37": "I feel that now I am a conscious Jew, with all my being. I am proud of my Judaism, and my goal is to immigrate to Eretz Israel and take part in building it",
-   "c70": "In 1939 she immigrated to Eretz Israel with a certificate she received from WIZO.",
    "c38": "Following the news that began to arrive from Europe in 1942, the Jewish Agency sought to include Jewish emissaries in operations behind enemy lines in the occupied countries.",
    "c39": "240 were selected to prepare themselves for the mission in Europe and underwent courses in parachuting, weapons, radio, sabotage and more.",
    "c43": "On the night between the ninth and the tenth of June 1944, Szenes, accompanied by three escorts, crossed the border.",
-   "c60": "On 26 March 1950, the coffin arrived at the port of Haifa. Crowds paid tribute to Hannah Szenes in the funeral procession that began in the streets of Haifa",
-   "c63": "Szenes became a symbol through her sacrifice for a Hebrew state and her steadfastness under torture in captivity.",
    "c41": "In hindsight, there are those who criticize the entire operation, claiming that it was doomed to failure from the start.",
    "c42": "Most of the parachutists survived, brought good intelligence to the British and important information about the fate of the Jews in Europe",
    "c32": "The divided opinions about him: whether he saved the Jews from death through the rescue train, or sharp criticism of his collaboration with the Nazis",
    "c33": "For these reasons Kastner did not act for the release of Hannah Szenes and even prevented others from handling her release",
    "c34": "In the district court ruling, Halevi sums up, on the basis of the testimonies, that Kastner could have saved Hannah Szenes from her execution but did nothing to that end, so as not to harm the collaboration with the Nazis.",
-   "c61": "Katerina and Giora, Hannah's brother, firmly maintain that Kastner deliberately refrained from saving her.",
    "c35": "Had I sacrificed several thousand Jews in order to save her – would that have been all right?",
    "c45": "In one of the scenes, Kastner rejects the claim that Palgi and Goldstein were caught because of him, and claims that it was Hannah Szenes who handed them over to the Hungarian police.",
    "c46": "In the hearing, the series' writer, Motti Lerner, admitted that this is a complete historical lie.",
@@ -2244,8 +2123,7 @@
    "c40": "In the end, only about thirty parachutists, among them three women, were dropped behind enemy lines.",
    "c30": "On 15 March 1944, Hannah Szenes parachuted near the Hungarian border together with Reuven Dafni, Yona Rosen and Abba Berdichev",
    "c31": "Only three months later, on 9.6, Szenes crossed the border into Hungary together with three escorts, and was caught immediately by the Hungarian soldiers",
-   "c44": "In July 1993, following an official request by the Government of Israel, the Supreme Court of the Hungarian Army convened and acquitted Hannah Szenes of all guilt.",
-   "c59": "In July 1993, under the direction of the Hungarian government, a ruling was issued by the Supreme Court of the Hungarian Army annulling the verdict passed on Hannah Szenes and the death sentence imposed on her"
+   "c44": "In July 1993, following an official request by the Government of Israel, the Supreme Court of the Hungarian Army convened and acquitted Hannah Szenes of all guilt."
   }
  }
 }

@@ -422,7 +422,7 @@
       "text": "מ-1971 הוא היה נשיא אוניברסיטת תל אביב.",
       "claims": [
        "c42",
-       "c43"
+       "c80"
       ]
      }
     ],
@@ -543,8 +543,7 @@
      {
       "text": "הוא קיבל גם את מדליית ויגנר.",
       "claims": [
-       "c60",
-       "c61"
+       "c60"
       ]
      },
      {
@@ -561,12 +560,6 @@
       "text": "הוא תואר כפיזיקאי מוערך בעולם, כאחד המדענים הבולטים בישראל וכאידאולוג ימני.",
       "claims": [
        "c68"
-      ]
-     },
-     {
-      "text": "חיים הררי, פיזיקאי ונשיא מכון ויצמן לשעבר, הוא בן דודו של נאמן.",
-      "claims": [
-       "c74"
       ]
      },
      {
@@ -589,6 +582,14 @@
        "c70"
       ]
      }
+    ],
+    [
+     {
+      "text": "לפי אתר אוניברסיטת טקסס, ב-1982",
+      "claims": [
+       "c60"
+      ]
+     }
     ]
    ],
    "media": [
@@ -600,7 +601,6 @@
     "m2"
    ],
    "disagreements": [
-    "d7",
     "d8",
     "d9"
    ]
@@ -636,12 +636,6 @@
       ]
      },
      {
-      "text": "הוא אמר שגם שיקול אנטי-ישראלי שיחק תפקיד בשיקולי הוועדה.",
-      "claims": [
-       "c34"
-      ]
-     },
-     {
       "text": "לפי ניסינוב, החלטת ועדת נובל הושפעה מכך שגל-מן ואוקובו מצאו יחס מסות בתוך מולטיפלטים של SU(3).",
       "claims": [
        "c35"
@@ -652,31 +646,15 @@
      {
       "text": "נאמן ייסד את התחייה, מפלגה שפרשה מהליכוד.",
       "claims": [
-       "c50"
-      ]
-     },
-     {
-      "text": "התחייה קמה בהתנגדות לתמיכת בגין בשיחות קמפ דייוויד ולפינוי ימית.",
-      "claims": [
-       "c50"
-      ]
-     },
-     {
-      "text": "פעילותו בתחייה עוררה תמיהה בקרב מי שידעו על השקפותיו האתאיסטיות, שהיו בסתירה לימין הדתי.",
-      "claims": [
-       "c53"
-      ]
-     },
-     {
-      "text": "במאי 1984 עורר סערה כשהביע תמיכה בפיגוע ההתנקשות בראשי הערים הפלסטינים שביצעה המחתרת היהודית.",
-      "claims": [
-       "c52"
+       "c82",
+       "c83"
       ]
      },
      {
       "text": "ב-1992 החזיר את פרס ישראל במחאה על הענקתו לאמיל חביבי.",
       "claims": [
-       "c62"
+       "c85",
+       "c86"
       ]
      }
     ],
@@ -685,18 +663,6 @@
       "text": "הוא התפטר מתפקיד היועץ הבכיר במשרד הביטחון במחאה על הוויתור על שדות הנפט בסיני בהסכם הביניים עם מצרים.",
       "claims": [
        "c75"
-      ]
-     },
-     {
-      "text": "לפי המכלול, הוא לא היה ביחסים טובים עם שמעון פרס, שעמד בראש הקמת דימונה, ובסוף פרש.",
-      "claims": [
-       "c57"
-      ]
-     },
-     {
-      "text": "שאיפותיו, ובהן שיגור לוויין ישראלי, הכעיסו את יצחק רבין ויצרו קרע ביניהם.",
-      "claims": [
-       "c58"
       ]
      }
     ]
@@ -714,12 +680,6 @@
      "says": "לפי CERN Courier, עד אוקטובר 1960",
      "claims": [
       "c19"
-     ]
-    },
-    {
-     "says": "לפי ויקיפדיה, ב-1961",
-     "claims": [
-      "c20"
      ]
     },
     {
@@ -762,30 +722,6 @@
      "says": "לפי CERN Courier, נאמן ייסד אותה ב-1963",
      "claims": [
       "c40"
-     ]
-    },
-    {
-     "says": "לפי המכלול, נאמן הועמד בראשה לקראת סוף 1962, עם הקמתה",
-     "claims": [
-      "c41"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "d7",
-   "question": "באיזו שנה קיבל נאמן את מדליית ויגנר?",
-   "versions": [
-    {
-     "says": "לפי אתר אוניברסיטת טקסס, ב-1982",
-     "claims": [
-      "c60"
-     ]
-    },
-    {
-     "says": "לפי ויקיפדיה, נאמן קיבל את מדליית ויגנר ב-1984, אך באותו ערך עצמו מופיעה גם השנה 1982.",
-     "claims": [
-      "c61"
      ]
     }
    ]
@@ -938,14 +874,6 @@
    "quote": "By October he had achieved his first major result: the discovery of the \"eightfold way\", utilizing the adjoint representation of the SU(3) group as a classifying symmetry of hadrons.",
    "status": "confirmed",
    "locator": "שורה 59"
-  },
-  {
-   "id": "c20",
-   "text": "לפי ויקיפדיה, נאמן גילה ב-1961 את מיון ההדרונים לפי סימטריית SU(3).",
-   "source": "src5",
-   "quote": "One of his greatest achievements in physics was his 1961 discovery of the classification of hadrons through the SU(3) flavour symmetry",
-   "status": "confirmed",
-   "locator": "שורה 38"
   },
   {
    "id": "c21",
@@ -1124,14 +1052,6 @@
    "locator": "שורה 42"
   },
   {
-   "id": "c43",
-   "text": "לפי ויקיפדיה, נאמן היה נשיא אוניברסיטת תל אביב בשנים 1971 עד 1977.",
-   "source": "src5",
-   "quote": "He was the President of Tel Aviv University from 1971 to 1977.",
-   "status": "confirmed",
-   "locator": "שורה 28"
-  },
-  {
    "id": "c48",
    "text": "נאמן הקים ב-1983 את סוכנות החלל הישראלית וכיהן כיושב ראשה כמעט עד מותו.",
    "source": "src10",
@@ -1204,14 +1124,6 @@
    "locator": "שורה 12"
   },
   {
-   "id": "c61",
-   "text": "לפי ויקיפדיה, נאמן קיבל את מדליית ויגנר ב-1984.",
-   "source": "src5",
-   "quote": "In 1984, he received the Wigner Medal, which is awarded every 2 years",
-   "status": "confirmed",
-   "locator": "שורה 49"
-  },
-  {
    "id": "c63",
    "text": "לפי אתר אוניברסיטת טקסס, נאמן פרסם מעל 300 מאמרים ו-15 ספרים.",
    "source": "src3",
@@ -1242,14 +1154,6 @@
    "quote": "Yuval Ne'eman, 80, a world-acclaimed physicist, multi-talented academic, one of Israel's most prominent scientists and a right-wing ideologue, died on Wednesday",
    "status": "confirmed",
    "locator": "שורה 24"
-  },
-  {
-   "id": "c74",
-   "text": "חיים הררי, פיזיקאי ונשיא מכון ויצמן לשעבר, הוא בן דודו של נאמן.",
-   "source": "src11",
-   "quote": "ובן דודו, בנו של יזהר, הוא חיים הררי, פיזיקאי בעל שם בזכות עצמו, ונשיא מכון ויצמן למדע לשעבר",
-   "status": "confirmed",
-   "locator": "שורה 130"
   },
   {
    "id": "c69",
@@ -1292,52 +1196,12 @@
    "locator": "שורה 15"
   },
   {
-   "id": "c34",
-   "text": "נאמן אמר שגם שיקול אנטי-ישראלי שיחק תפקיד בשיקולי הוועדה.",
-   "source": "src11",
-   "quote": "ברור שגם השיקול האנטי ישראלי שיחק תפקיד בשיקוליה של הוועדה",
-   "status": "confirmed",
-   "locator": "שורה 60"
-  },
-  {
    "id": "c35",
    "text": "לפי ניסינוב, החלטת ועדת נובל הושפעה מכך שגל-מן ואוקובו מצאו יחס מסות בתוך מולטיפלטים של SU(3).",
    "source": "src8",
    "quote": "that Gell-Mann (and also Sossumo Okubo from Rochester) found a relation between masses in SU(3) multiplets embodying a simple pattern of symmetry breaking",
    "status": "confirmed",
    "locator": "שורה 57"
-  },
-  {
-   "id": "c50",
-   "text": "נאמן ייסד את התחייה, פורשת מהליכוד שקמה בהתנגדות לתמיכת בגין בשיחות קמפ דייוויד ולפינוי ימית.",
-   "source": "src5",
-   "quote": "Ne'eman founded Tehiya, a right-wing breakaway from Likud, formed in opposition to Menachem Begin's support for the Camp David talks that paved the way for peace with Egypt and the evacuation of Yamit.",
-   "status": "confirmed",
-   "locator": "שורה 43"
-  },
-  {
-   "id": "c53",
-   "text": "פעילותו של נאמן בתחייה עוררה תמיהה בקרב מי שידעו על השקפותיו האתאיסטיות, שהיו בסתירה לימין הדתי.",
-   "source": "src11",
-   "quote": "פעילותו בתנועת התחיה עוררה הרמת גבה מצד אלו שהיו מודעים להשקפותיו האתאיסטיות שעמדו בסתירה חדה לעמדות הימין הדתי",
-   "status": "confirmed",
-   "locator": "שורה 117"
-  },
-  {
-   "id": "c52",
-   "text": "במאי 1984 עורר נאמן סערה כשהביע תמיכה בפיגוע ההתנקשות בראשי הערים הפלסטינים שביצעה המחתרת היהודית.",
-   "source": "src11",
-   "quote": "במאי 1984 עורר סערה לאחר שהביע תמיכה בפיגוע ההתנקשות בראשי הערים הפלסטינים שביצעה המחתרת היהודית.",
-   "status": "confirmed",
-   "locator": "שורה 121"
-  },
-  {
-   "id": "c62",
-   "text": "נאמן החזיר ב-1992 את פרס ישראל במחאה על הענקתו לאמיל חביבי.",
-   "source": "src5",
-   "quote": "(which he returned in 1992 in protest of the award of the Israel Prize to Emile Habibi)",
-   "status": "confirmed",
-   "locator": "שורה 28"
   },
   {
    "id": "c75",
@@ -1348,36 +1212,12 @@
    "locator": "שורה 8"
   },
   {
-   "id": "c57",
-   "text": "לפי המכלול, נאמן לא היה ביחסים טובים עם שמעון פרס, שעמד בראש הקמת דימונה, ובסוף פרש.",
-   "source": "src11",
-   "quote": "נאמן, שעבד תחתיו, לא היה ביחסים טובים עמו ופרש לבסוף",
-   "status": "confirmed",
-   "locator": "שורה 68"
-  },
-  {
-   "id": "c58",
-   "text": "שאיפותיו של נאמן, ובהן שיגור לוויין ישראלי, הכעיסו את יצחק רבין ויצרו קרע ביניהם.",
-   "source": "src11",
-   "quote": "שאיפותיו, בהן שיגור לוויין ישראלי, הכעיסו את יצחק רבין ויצרו קרע ביניהם",
-   "status": "confirmed",
-   "locator": "שורה 55"
-  },
-  {
    "id": "c40",
    "text": "לפי CERN Courier, נאמן ייסד את המחלקה לפיזיקה באוניברסיטת תל אביב ב-1963.",
    "source": "src2",
    "quote": "Yuval set up theoretical high energy physics in Israel, founded the physics department at Tel Aviv University in 1963, started the first astrophysics research group in Israel and created the Wise Observatory in the Negev in 1971.",
    "status": "confirmed",
    "locator": "שורה 64"
-  },
-  {
-   "id": "c41",
-   "text": "לפי המכלול, לקראת סוף 1962, עם הקמת המחלקה לפיזיקה באוניברסיטת תל אביב, הועמד נאמן בראשה.",
-   "source": "src11",
-   "quote": "לקראת סוף 1962, עם הקמת המחלקה לפיזיקה באוניברסיטת תל אביב הועמד נאמן בראשה",
-   "status": "confirmed",
-   "locator": "שורה 62"
   },
   {
    "id": "c66",
@@ -1418,6 +1258,46 @@
    "quote": "resigned in 1975",
    "status": "confirmed",
    "locator": "שורה 8"
+  },
+  {
+   "id": "c80",
+   "text": "מ-1971 הוא היה נשיא אוניברסיטת תל אביב.",
+   "source": "src2",
+   "quote": "He served as president of Tel Aviv University (1971-75)",
+   "status": "confirmed",
+   "locator": "שורה 66"
+  },
+  {
+   "id": "c82",
+   "text": "נאמן ייסד את התחייה, מפלגה שפרשה מהליכוד.",
+   "source": "src13",
+   "quote": "established in 1979 by Knesset members who had broken away from the Likud",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c83",
+   "text": "נאמן ייסד את התחייה, מפלגה שפרשה מהליכוד.",
+   "source": "src14",
+   "quote": "ב-1979 הקים יחד עם גאולה כהן את תנועת \"התחייה\" ונבחר לעמוד בראשה.",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c85",
+   "text": "ב-1992 החזיר את פרס ישראל במחאה על הענקתו לאמיל חביבי.",
+   "source": "src15",
+   "quote": "rose from the audience, announced he was returning the Israel Prize for physics",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c86",
+   "text": "ב-1992 החזיר את פרס ישראל במחאה על הענקתו לאמיל חביבי.",
+   "source": "src15",
+   "quote": "the 1992 Israel Prize for Arabic literature",
+   "status": "confirmed",
+   "locator": "שורה 3"
   }
  ],
  "sources": [
@@ -1443,12 +1323,6 @@
    "id": "src4",
    "label": "Encyclopaedia Judaica, Ne'eman, Yuval",
    "url": "https://encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/neeman-yuval",
-   "kind": "reference"
-  },
-  {
-   "id": "src5",
-   "label": "Wikipedia, Yuval Ne'eman",
-   "url": "https://en.wikipedia.org/wiki/Yuval_Ne%27eman",
    "kind": "reference"
   },
   {
@@ -1482,15 +1356,27 @@
    "kind": "press"
   },
   {
-   "id": "src11",
-   "label": "המכלול, יובל נאמן",
-   "url": "https://hamichlol.org.il/%D7%99%D7%95%D7%91%D7%9C_%D7%A0%D7%90%D7%9E%D7%9F",
-   "kind": "reference"
-  },
-  {
    "id": "src12",
    "label": "הידען, יובל נאמן מת, 26.4.2006",
    "url": "https://hayadan.com/yuval-neeman-died-2604061",
+   "kind": "press"
+  },
+  {
+   "id": "src13",
+   "label": "Israel Democracy Institute: Tehiya",
+   "url": "https://en.idi.org.il/israeli-elections-and-parties/parties/tehiya/",
+   "kind": "organisation"
+  },
+  {
+   "id": "src14",
+   "label": "Israel Democracy Institute: Tehiya",
+   "url": "https://www.walla.co.il/news/israel/896711",
+   "kind": "organisation"
+  },
+  {
+   "id": "src15",
+   "label": "JTA: Israeli Arab accepts Israel Prize; Tehiya leader Ne'eman stalks out (12 May 1992)",
+   "url": "https://www.jta.org/archive/israeli-arab-accepts-israel-prize-tehiya-leader-neeman-stalks-out",
    "kind": "press"
   }
  ],
@@ -1748,7 +1634,7 @@
   "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
   "checked_at": "2026-11-14T05:54:02Z",
   "counts": {
-   "confirmed": 105,
+   "confirmed": 92,
    "not_confirmed": 0,
    "deleted_sentences": 3,
    "first_round_confirmed": 104,
@@ -1769,8 +1655,8 @@
    "fix": "opus-5-5 medium"
   },
   "source_quality": {
-   "sources": 12,
-   "wikipedia": 1,
+   "sources": 13,
+   "wikipedia": 0,
    "strong": 7,
    "ok": true,
    "warnings": []
@@ -1794,6 +1680,13 @@
     "url": "https://encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/neeman-yuval",
     "by": "settle 24.11"
    }
-  ]
+  ],
+  "wiki_cleanup": {
+   "at": "2026-11-27T15:46:02Z",
+   "targets": 14,
+   "resourced": 3,
+   "kept_on_other_sources": 1,
+   "deleted": 10
+  }
  }
 }

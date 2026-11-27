@@ -30,7 +30,7 @@
    "text": "In 1986 the Japanese physicist Akira Tonomura and his team observed the effect in an experiment.",
    "claims": [
     "c21",
-    "c52"
+    "c59"
    ]
   },
   {
@@ -278,21 +278,10 @@
    "paragraphs": [
     [
      {
-      "text": "According to Wikipedia, the first claimed experimental confirmation was by Robert Chambers in 1960.",
-      "claims": [
-       "c50"
-      ]
-     },
-     {
-      "text": "He used an electron interferometer and a magnetic field from a thin iron \"whisker\".",
-      "claims": [
-       "c50"
-      ]
-     },
-     {
       "text": "Later researchers questioned several of the early results, because the electrons may not have been completely shielded from the fields.",
       "claims": [
-       "c51"
+       "c60",
+       "c61"
       ]
      }
     ],
@@ -300,13 +289,15 @@
      {
       "text": "In 1986 Akira Tonomura and his team observed the effect without ambiguity.",
       "claims": [
-       "c52"
+       "c62",
+       "c63"
       ]
      },
      {
       "text": "They completely excluded the magnetic field from the electron path with the help of a superconducting film.",
       "claims": [
-       "c52"
+       "c64",
+       "c65"
       ]
      },
      {
@@ -343,15 +334,9 @@
       ]
      },
      {
-      "text": "The physicist Chen-Ning Yang considered the effect to be the only direct experimental proof of the gauge principle.",
-      "claims": [
-       "c53"
-      ]
-     },
-     {
       "text": "New Scientist magazine chose it as one of the \"seven wonders of the quantum world\".",
       "claims": [
-       "c54"
+       "c66"
       ]
      }
     ],
@@ -374,13 +359,7 @@
       "text": "The idea continues to develop.",
       "claims": [
        "c46",
-       "c58"
-      ]
-     },
-     {
-      "text": "In early 2022 an experiment was carried out to observe a gravitational version of the effect, with ultracold rubidium atoms.",
-      "claims": [
-       "c58"
+       "c67"
       ]
      },
      {
@@ -548,19 +527,14 @@
      {
       "text": "Lev Vaidman disputed the accepted interpretation.",
       "claims": [
-       "c55"
+       "c70"
       ]
      },
      {
       "text": "In his view, the effect can be explained without potentials, if the charges that create the field are treated fully quantum mechanically.",
       "claims": [
-       "c55"
-      ]
-     },
-     {
-      "text": "Aharonov, Cohen and Rohrlich responded that the effect may be due to a local potential or to non-local fields.",
-      "claims": [
-       "c56"
+       "c71",
+       "c72"
       ]
      }
     ],
@@ -568,27 +542,28 @@
      {
       "text": "Werner Ehrenberg and Raymond Siday predicted the effect as early as 1949.",
       "claims": [
-       "c48"
-      ]
-     },
-     {
-      "text": "According to Wikipedia, after the 1959 paper was published Bohm learned of their work, and it was acknowledged in the follow-up paper of 1961.",
-      "claims": [
-       "c49"
+       "c74",
+       "c75"
       ]
      },
      {
       "text": "The original time-dependent electric effect has not yet been verified experimentally.",
       "claims": [
-       "c57"
+       "c78"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "The EPJ H interview: the effect was discovered theoretically in 1959 by Aharonov and Bohm",
+      "claims": [
+       "c18"
       ]
      }
     ]
    ],
    "media": [],
-   "disagreements": [
-    "d3"
-   ]
+   "disagreements": []
   }
  ],
  "disagreements": [
@@ -616,39 +591,22 @@
    "question": "Who first confirmed the effect experimentally, and how convincing is it?",
    "versions": [
     {
-     "says": "According to Wikipedia, the first claimed confirmation was by Robert Chambers in 1960",
+     "says": "The first claimed confirmation was by Robert Chambers in 1960",
      "claims": [
-      "c50"
+      "c79",
+      "c80"
      ]
     },
     {
      "says": "Later researchers questioned several of the early results",
      "claims": [
-      "c51"
+      "c81"
      ]
     },
     {
      "says": "According to the EPJ H interview, experimental proof came in 1986 in studies by Akira Tonomura",
      "claims": [
       "c21"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "d3",
-   "question": "Were Aharonov and Bohm the first?",
-   "versions": [
-    {
-     "says": "The EPJ H interview: the effect was discovered theoretically in 1959 by Aharonov and Bohm",
-     "claims": [
-      "c18"
-     ]
-    },
-    {
-     "says": "Wikipedia: Werner Ehrenberg and Raymond Siday first predicted the effect in 1949",
-     "claims": [
-      "c48"
      ]
     }
    ]
@@ -710,14 +668,6 @@
    "quote": "Experimental proof came in 1986 through groundbreaking studies led by Japanese physicist Akira Tonomura",
    "status": "confirmed",
    "locator": "שורה 98"
-  },
-  {
-   "id": "c52",
-   "text": "טונומורה וצוותו ב-1986 צפו באפקט ללא עמימות, תוך הרחקה מוחלטת של השדה המגנטי מנתיב האלקטרונים בעזרת שכבת מוליך-על.",
-   "source": "src4",
-   "quote": "An early experiment in which an unambiguous Aharonov–Bohm effect was observed by completely excluding the magnetic field from the electron path (with the help of a superconducting film) was performed by Tonomura et al. in 1986.",
-   "status": "confirmed",
-   "locator": "שורה 32"
   },
   {
    "id": "c22",
@@ -872,44 +822,12 @@
    "locator": "שורה 14"
   },
   {
-   "id": "c50",
-   "text": "לפי ויקיפדיה, האישור הניסויי הראשון הנטען היה של רוברט צ'יימברס ב-1960, באינטרפרומטר אלקטרונים עם שדה מגנטי מ\"שערת\" ברזל דקה.",
-   "source": "src4",
-   "quote": "The first claimed experimental confirmation was by Robert G. Chambers in 1960,[21][22] in an electron interferometer with a magnetic field produced by a thin iron whisker",
-   "status": "confirmed",
-   "locator": "שורה 32"
-  },
-  {
-   "id": "c51",
-   "text": "חוקרים מאוחרים יותר הטילו ספק בתוקף של כמה מהתוצאות המוקדמות, משום שייתכן שהאלקטרונים לא היו מוגנים לגמרי מהשדות המגנטיים.",
-   "source": "src4",
-   "quote": "However, subsequent authors questioned the validity of several of these early results because the electrons may not have been completely shielded from the magnetic fields.",
-   "status": "confirmed",
-   "locator": "שורה 32"
-  },
-  {
    "id": "c24",
    "text": "הוכחתו הניסויית של טונומורה הסדירה את השאלה אם האפקט קיים, אך הדיונים על פרשנותו נמשכים עד היום.",
    "source": "src1",
    "quote": "discussions over its interpretation – the deeper meaning of how and why it arises – have remained active to this day.",
    "status": "confirmed",
    "locator": "שורה 99"
-  },
-  {
-   "id": "c53",
-   "text": "צ'ן-נינג יאנג ראה באפקט אהרונוב-בוהם את ההוכחה הניסויית הישירה היחידה לעקרון המדידה (gauge).",
-   "source": "src4",
-   "quote": "Chen-Ning Yang considered the Aharonov–Bohm effect to be the only direct experimental proof of the gauge principle.[12]",
-   "status": "confirmed",
-   "locator": "שורה 13"
-  },
-  {
-   "id": "c54",
-   "text": "המגזין New Scientist בחר באפקט כאחד מ\"שבעת פלאי העולם הקוונטי\".",
-   "source": "src4",
-   "quote": "the Aharonov–Bohm effect was chosen by the New Scientist magazine as one of the \"seven wonders of the quantum world\".[11]",
-   "status": "confirmed",
-   "locator": "שורה 13"
   },
   {
    "id": "c31",
@@ -934,14 +852,6 @@
    "quote": "Its topological nature commonly implies that an electron encircling a magnetic flux source in a field-free region must close the loop in order to generate an observable effect.",
    "status": "confirmed",
    "locator": "שורה 17"
-  },
-  {
-   "id": "c58",
-   "text": "בתחילת 2022 בוצע ניסוי לצפייה באפקט אהרונוב-בוהם הכבידתי באמצעות אטומי רובידיום קרים במיוחד.",
-   "source": "src4",
-   "quote": "in early 2022[39][40][41] an experiment was carried out to observe it based on an experimental design from 2012.[42][43]",
-   "status": "confirmed",
-   "locator": "שורה 46"
   },
   {
    "id": "c27",
@@ -1048,52 +958,156 @@
    "locator": "שורה 14"
   },
   {
-   "id": "c55",
-   "text": "לב ויידמן חלק על הפרשנות המקובלת, בטענה שאפשר להסביר את האפקט בלי פוטנציאלים אם מטפלים קוונטית מלאה במטענים המקור.",
-   "source": "src4",
-   "quote": "Lev Vaidman has challenged this interpretation by showing that the Aharonov–Bohm effect can be explained without the use of potentials",
-   "status": "confirmed",
-   "locator": "שורה 16"
-  },
-  {
-   "id": "c56",
-   "text": "אהרונוב, כהן ורורליך השיבו שהאפקט עשוי לנבוע מפוטנציאל מדידה מקומי או משדות לא-מקומיים שאינם תלויי מדידה.",
-   "source": "src4",
-   "quote": "Aharonov, Cohen, and Rohrlich responded that the effect may be due to a local gauge potential or due to non-local gauge-invariant fields.",
-   "status": "confirmed",
-   "locator": "שורה 16"
-  },
-  {
-   "id": "c48",
-   "text": "ורנר ארנברג ורי\"מונד סידיי ניבאו לראשונה את האפקט ב-1949.",
-   "source": "src4",
-   "quote": "Werner Ehrenberg (1901–1975) and Raymond E. Siday first predicted the effect in 1949.[4]",
-   "status": "confirmed",
-   "locator": "שורה 6"
-  },
-  {
-   "id": "c49",
-   "text": "לפי ויקיפדיה, לאחר פרסום מאמר 1959 בוהם נודע על עבודת ארנברג וסידיי, והיא הוכרה ויוחסה במאמר ההמשך של 1961.",
-   "source": "src4",
-   "quote": "After publication of the 1959 paper, Bohm was informed of Ehrenberg and Siday's work, which was acknowledged and credited in Bohm and Aharonov's subsequent 1961 paper.",
-   "status": "confirmed",
-   "locator": "שורה 6"
-  },
-  {
-   "id": "c57",
-   "text": "האפקט החשמלי המקורי התלוי בזמן טרם זכה לאימות ניסויי.",
-   "source": "src4",
-   "quote": "The original time dependent electric Aharonov–Bohm effect has not yet found experimental verification.[38]",
-   "status": "confirmed",
-   "locator": "שורה 44"
-  },
-  {
    "id": "c43",
    "text": "הידען מדווח שהגילוי התרחש ב-1953 במסגרת עבודת הדוקטורט של אהרונוב.",
    "source": "src7",
    "quote": "The discovery took place in 1953 as part of his doctoral thesis.",
    "status": "confirmed",
    "locator": "שורה 9"
+  },
+  {
+   "id": "c59",
+   "text": "ב-1986 הפיזיקאי היפני אקירה טונומורה וצוותו צפו באפקט בניסוי.",
+   "source": "src10",
+   "quote": "In 1986, Tonomura and his colleagues fabricated a doughnut-shaped (toroidal) ferromagnet six micrometers in diameter",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c60",
+   "text": "חוקרים מאוחרים יותר הטילו ספק בכמה מהתוצאות המוקדמות, כי ייתכן שהאלקטרונים לא היו מוגנים לגמרי מהשדות.",
+   "source": "src11",
+   "quote": "Many experimental papers from the 1960s highlighted leakage concerns, sought to minimize it and to measure its influence.",
+   "status": "confirmed",
+   "locator": "שורה 75"
+  },
+  {
+   "id": "c61",
+   "text": "חוקרים מאוחרים יותר הטילו ספק בכמה מהתוצאות המוקדמות, כי ייתכן שהאלקטרונים לא היו מוגנים לגמרי מהשדות.",
+   "source": "src11",
+   "quote": "Unfortunately, because it was finite, that whisker had leakage, so there was some magnetic field outside.",
+   "status": "confirmed",
+   "locator": "שורה 70"
+  },
+  {
+   "id": "c62",
+   "text": "ב-1986 צפו אקירה טונומורה וצוותו באפקט בלי עמימות.",
+   "source": "src10",
+   "quote": "In 1986, Tonomura and his colleagues fabricated a doughnut-shaped (toroidal) ferromagnet six micrometers in diameter",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c63",
+   "text": "ב-1986 צפו אקירה טונומורה וצוותו באפקט בלי עמימות.",
+   "source": "src12",
+   "quote": "Its excellent agreement with the AB prediction answers all objections about stray fields and un-physical geometries.",
+   "status": "confirmed",
+   "locator": "שורה 23"
+  },
+  {
+   "id": "c64",
+   "text": "הם הרחיקו לגמרי את השדה המגנטי מנתיב האלקטרונים בעזרת שכבת מוליך-על.",
+   "source": "src10",
+   "quote": "covered it with a niobium superconductor to completely confine the magnetic field within the doughnut",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c65",
+   "text": "הם הרחיקו לגמרי את השדה המגנטי מנתיב האלקטרונים בעזרת שכבת מוליך-על.",
+   "source": "src12",
+   "quote": "The magnet's superconducting niobium cladding excluded any stray fields in that experiment.",
+   "status": "confirmed",
+   "locator": "שורה 23"
+  },
+  {
+   "id": "c66",
+   "text": "המגזין New Scientist בחר בו כאחד מ\"שבעת פלאי העולם הקוונטי\".",
+   "source": "src13",
+   "quote": "This is why the Aharonov-Bohm effect has been called one of the \"seven wonders of the quantum world\" by New Scientist magazine",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c67",
+   "text": "הרעיון ממשיך להתפתח.",
+   "source": "src14",
+   "quote": "Kasevich and colleagues launched rubidium atoms inside a 10-meter-tall vacuum chamber",
+   "status": "confirmed",
+   "locator": "שורה 13"
+  },
+  {
+   "id": "c70",
+   "text": "לב ויידמן חלק על הפירוש המקובל.",
+   "source": "src15",
+   "quote": "in the framework of quantum theory, the Aharonov-Bohm effect can be explained without the notion of potentials.",
+   "status": "confirmed",
+   "locator": "שורה 15"
+  },
+  {
+   "id": "c71",
+   "text": "לטענתו, אפשר להסביר את האפקט בלי פוטנציאלים, אם מטפלים קוונטית מלאה במטענים שיוצרים את השדה.",
+   "source": "src15",
+   "quote": "in the framework of quantum theory, the Aharonov-Bohm effect can be explained without the notion of potentials.",
+   "status": "confirmed",
+   "locator": "שורה 15"
+  },
+  {
+   "id": "c72",
+   "text": "לטענתו, אפשר להסביר את האפקט בלי פוטנציאלים, אם מטפלים קוונטית מלאה במטענים שיוצרים את השדה.",
+   "source": "src15",
+   "quote": "It is explained by local action of the field of the electron on the source of the potential.",
+   "status": "confirmed",
+   "locator": "שורה 15"
+  },
+  {
+   "id": "c74",
+   "text": "ורנר ארנברג ורי\"מונד סידיי ניבאו את האפקט כבר ב-1949.",
+   "source": "src16",
+   "quote": "It reappeared in a paper in 1949, ten years before the defining paper appeared.",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c75",
+   "text": "ורנר ארנברג ורי\"מונד סידיי ניבאו את האפקט כבר ב-1949.",
+   "source": "src17",
+   "quote": "The magnetic version of the effects commonly attributed to Aharonov and Bohm had been published ten years earlier",
+   "status": "confirmed",
+   "locator": "שורה 13"
+  },
+  {
+   "id": "c78",
+   "text": "האפקט החשמלי המקורי, התלוי בזמן, עוד לא אומת בניסוי.",
+   "source": "src18",
+   "quote": "Despite its fundamental character, this archetypal electric Aharonov-Bohm effect has evidently never been observed.",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c79",
+   "text": "האישור הראשון הנטען היה של רוברט צ'יימברס ב-1960",
+   "source": "src16",
+   "quote": "Aharonov and Bohm were rather fortunate in that an experimentalist, Robert Chambers at Bristol University where they were working,",
+   "status": "confirmed",
+   "locator": "שורה 78"
+  },
+  {
+   "id": "c80",
+   "text": "האישור הראשון הנטען היה של רוברט צ'יימברס ב-1960",
+   "source": "src16",
+   "quote": "[5] Chambers, R. G. Shift of an electron interference pattern by enclosed magnetic flux, Phys. Rev. Lett, 5, (1960) 3-5.",
+   "status": "confirmed",
+   "locator": "שורה 90"
+  },
+  {
+   "id": "c81",
+   "text": "חוקרים מאוחרים יותר הטילו ספק בכמה מהתוצאות המוקדמות",
+   "source": "src19",
+   "quote": "Unfortunately, because it was finite, that whisker had leakage, so there was some magnetic field outside.",
+   "status": "confirmed",
+   "locator": "שורה 70"
   }
  ],
  "sources": [
@@ -1114,12 +1128,6 @@
    "label": "Aharonov & Bohm, Physical Review 115, 485, 1959",
    "url": "https://docente.unife.it/guido.zavattini/allegati/aharonov-bohm-physrev-115-485.pdf",
    "kind": "press"
-  },
-  {
-   "id": "src4",
-   "label": "Wikipedia, Aharonov–Bohm effect",
-   "url": "https://en.wikipedia.org/wiki/Aharonov%E2%80%93Bohm_effect",
-   "kind": "reference"
   },
   {
    "id": "src5",
@@ -1150,6 +1158,66 @@
    "label": "EPJ H, 2025, interview with Aharonov (Guy Hetzroni, Open University)",
    "url": "https://epjh.epj.org/articles/epjh/abs/2025/01/13129_2025_Article_107/13129_2025_Article_107.html",
    "kind": "press"
+  },
+  {
+   "id": "src10",
+   "label": "Hitachi: Aharonov-Bohm effect (Tonomura's experiments)",
+   "url": "https://www.hitachi.com/rd/research/materials/quantum/aharonov-bohm/index.html",
+   "kind": "organisation"
+  },
+  {
+   "id": "src11",
+   "label": "arXiv (Aharonov & Hetzroni): Theoretical Discovery, Experiment, and Controversy in the Aharonov-Bohm Effect: An Oral History Interview",
+   "url": "https://arxiv.org/html/2508.08105",
+   "kind": "other"
+  },
+  {
+   "id": "src12",
+   "label": "Hitachi: Aharonov-Bohm effect (Tonomura's experiments)",
+   "url": "https://physicstoday.aip.org/features/the-aharonov-bohm-effects-variations-on-a-subtle-theme",
+   "kind": "organisation"
+  },
+  {
+   "id": "src13",
+   "label": "The Wire: The Story of the Electron That Was Affected by Fields That Weren't There",
+   "url": "https://science.thewire.in/the-sciences/aharonov-bohm-effect-non-abelian-symmetry-electromagnetic-gauge-potential/",
+   "kind": "press"
+  },
+  {
+   "id": "src14",
+   "label": "Science News: Quantum particles can feel the influence of gravitational fields they never touch",
+   "url": "https://www.sciencenews.org/article/quantum-particles-gravity-spacetime-aharonov-bohm-effect",
+   "kind": "press"
+  },
+  {
+   "id": "src15",
+   "label": "arXiv (L. Vaidman): On the role of potentials in the Aharonov-Bohm effect",
+   "url": "https://arxiv.org/abs/1110.6169",
+   "kind": "press"
+  },
+  {
+   "id": "src16",
+   "label": "B. J. Hiley (arXiv): The Early History of the Aharonov-Bohm Effect",
+   "url": "https://ar5iv.labs.arxiv.org/html/1304.4736",
+   "kind": "press"
+  },
+  {
+   "id": "src17",
+   "label": "B. J. Hiley (arXiv): The Early History of the Aharonov-Bohm Effect",
+   "url": "https://arxiv.org/abs/0910.2202",
+   "kind": "press"
+  },
+  {
+   "id": "src18",
+   "label": "arXiv (Bachlechner & Kleban): abstract on the archetypal electric Aharonov-Bohm effect",
+   "url": "https://arxiv.org/abs/1909.11668",
+   "kind": "press"
+  },
+  {
+   "id": "src19",
+   "label": "arXiv: Theoretical Discovery, Experiment, and Controversy in the Aharonov-Bohm Effect: An Oral History Interview (Aharonov)",
+   "url": "https://arxiv.org/html/2508.08105v1",
+   "kind": "press"
   }
  ],
  "media": [
@@ -1163,9 +1231,7 @@
    "licence": "CC BY-SA 4.0",
    "hosting": "hotlink",
    "caption": "Diagram of the electric Aharonov-Bohm effect: an electron splits into two paths in a kind of interferometer, and charges Q approach the upper mirror and move away from it.",
-   "illustrates": [
-    "c57"
-   ],
+   "illustrates": [],
    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
    "date": "2023-12-13",
    "width": 1194,
@@ -1181,9 +1247,7 @@
    "licence": "CC BY-SA 4.0",
    "hosting": "hotlink",
    "caption": "Diagram of the gravitational Aharonov-Bohm effect: a particle of mass m splits into two paths, and masses M approach the upper mirror and move away from it.",
-   "illustrates": [
-    "c58"
-   ],
+   "illustrates": [],
    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
    "date": "2023-12-13",
    "width": 1116,
@@ -1352,7 +1416,7 @@
   "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
   "checked_at": "2026-11-14T04:58:10Z",
   "counts": {
-   "confirmed": 79,
+   "confirmed": 72,
    "not_confirmed": 0,
    "deleted_sentences": 3,
    "first_round_confirmed": 77,
@@ -1373,11 +1437,18 @@
    "fix": "opus-5-5 medium"
   },
   "source_quality": {
-   "sources": 9,
-   "wikipedia": 1,
+   "sources": 18,
+   "wikipedia": 0,
    "strong": 6,
    "ok": true,
    "warnings": []
+  },
+  "wiki_cleanup": {
+   "at": "2026-11-27T15:48:42Z",
+   "targets": 19,
+   "resourced": 12,
+   "kept_on_other_sources": 0,
+   "deleted": 7
   }
  },
  "lang": "en",
@@ -1385,11 +1456,11 @@
   "from": "he",
   "translator": "claude-opus-5-5",
   "checker": "claude-opus-5-5 (separate call, blind to the translation prompt)",
-  "checked_at": "2026-11-21T05:53:40Z",
+  "checked_at": "2026-11-27T15:48:57Z",
   "passed": true,
-  "items": 114,
-  "pairs_checked": 3,
-  "reused": 111,
+  "items": 106,
+  "pairs_checked": 1,
+  "reused": 105,
   "first_round_flagged": 0,
   "still_flagged": 0,
   "flagged": [],

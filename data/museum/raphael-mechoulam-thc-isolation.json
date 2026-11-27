@@ -25,12 +25,6 @@
    ]
   },
   {
-   "text": "לפי המכלול, ב-1964 בודד ה-THC לראשונה בצורתו הטהורה בידי הכימאים הישראלים משולם, גאוני, אדרעי ועמיתיהם.",
-   "claims": [
-    "c30"
-   ]
-  },
-  {
    "text": "לפי החברה הבינלאומית למחקר קנבינואידים, עבודתו סללה דרך לתרופות ולטיפולים חדשים בכאב כרוני, באפילפסיה ובטרשת נפוצה.",
    "claims": [
     "c51"
@@ -588,12 +582,6 @@
      "claims": [
       "c29"
      ]
-    },
-    {
-     "says": "לפי המכלול, ה-THC בודד במכון ויצמן",
-     "claims": [
-      "c30"
-     ]
     }
    ]
   },
@@ -666,14 +654,6 @@
    "quote": "In 1962, he asked the director at the Weizmann Institute",
    "status": "confirmed",
    "locator": "שורה 18"
-  },
-  {
-   "id": "c30",
-   "text": "לפי המכלול, ה-THC בודד לראשונה ב-1964 בצורתו הטהורה על ידי הכימאים הישראליים משולם, גאוני, אדרעי ועמיתיהם במכון ויצמן.",
-   "source": "src4",
-   "quote": "בודד לראשונה בשנת 1964, בצורתו הטהורה, על ידי הכימאים הישראליים רפאל משולם, יחיאל גאוני, חביב אדרעי ועמיתיהם במכון ויצמן למדע.",
-   "status": "confirmed",
-   "locator": "שורה 32"
   },
   {
    "id": "c51",
@@ -1184,12 +1164,6 @@
    "kind": "reference"
   },
   {
-   "id": "src4",
-   "label": "המכלול, THC",
-   "url": "https://www.hamichlol.org.il/THC",
-   "kind": "reference"
-  },
-  {
    "id": "src5",
    "label": "Jerusalem Post, מרץ 2023",
    "url": "https://www.jpost.com/israel-news/article-734028",
@@ -1517,7 +1491,7 @@
   "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
   "checked_at": "2026-11-14T05:33:07Z",
   "counts": {
-   "confirmed": 76,
+   "confirmed": 73,
    "not_confirmed": 0,
    "deleted_sentences": 4,
    "first_round_confirmed": 72,
@@ -1551,6 +1525,13 @@
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7891190",
     "by": "settle 24.11"
    }
-  ]
+  ],
+  "wiki_cleanup": {
+   "at": "2026-11-27T15:29:04Z",
+   "targets": 2,
+   "resourced": 0,
+   "kept_on_other_sources": 0,
+   "deleted": 2
+  }
  }
 }

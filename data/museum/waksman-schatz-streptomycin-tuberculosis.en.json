@@ -1,1877 +1,1758 @@
 {
-  "schema": "maasei-museum/1",
-  "slug": "waksman-schatz-streptomycin-tuberculosis",
-  "deed": "סלמן ואקסמן ותלמידו הוציאו מהאדמה את האנטיביוטיקה הראשונה נגד שחפת",
-  "canonical_type": "scientific-discovery",
-  "year": "1943",
-  "title": "The discovery of streptomycin – the first antibiotic against tuberculosis",
-  "trailer": [
-    {
-      "text": "Selman Waksman was a researcher of the decomposition of organisms that live in soil, and headed the Institute of Microbiology at Rutgers University until his retirement in 1958.",
+ "schema": "maasei-museum/1",
+ "slug": "waksman-schatz-streptomycin-tuberculosis",
+ "deed": "סלמן ואקסמן ותלמידו הוציאו מהאדמה את האנטיביוטיקה הראשונה נגד שחפת",
+ "canonical_type": "scientific-discovery",
+ "year": "1943",
+ "title": "The discovery of streptomycin – the first antibiotic against tuberculosis",
+ "trailer": [
+  {
+   "text": "Selman Waksman received the Nobel Prize in Medicine for the discovery of streptomycin, the first antibiotic effective against tuberculosis.",
+   "claims": [
+    "c1",
+    "c57"
+   ]
+  },
+  {
+   "text": "Sanatoriums were then filled with tuberculosis patients, and very little could be done for them.",
+   "claims": [
+    "c5"
+   ]
+  },
+  {
+   "text": "Waksman and his colleagues screened more than 10,000 soil microorganisms, and in 1943 his colleague Albert Schatz isolated streptomycin, which proved to be an effective medicine against tuberculosis.",
+   "claims": [
+    "c23",
+    "c3"
+   ]
+  },
+  {
+   "text": "The discovery of streptomycin changed the course of modern medicine.",
+   "claims": [
+    "c40"
+   ]
+  }
+ ],
+ "hero_media": [
+  "m3",
+  "m1",
+  "m5",
+  "m4",
+  "m9",
+  "m6",
+  "m10",
+  "m16",
+  "m24"
+ ],
+ "glance": [
+  {
+   "label": "Who",
+   "value": "Selman Waksman and Albert Schatz",
+   "claims": [
+    "c3"
+   ]
+  },
+  {
+   "label": "When",
+   "value": "1943",
+   "claims": [
+    "c3"
+   ]
+  },
+  {
+   "label": "Where",
+   "value": "Rutgers",
+   "claims": [
+    "c29",
+    "c34"
+   ]
+  },
+  {
+   "label": "Against what",
+   "value": "Tuberculosis",
+   "claims": [
+    "c1"
+   ]
+  },
+  {
+   "label": "Recognition",
+   "value": "Nobel Prize in Medicine, 1952",
+   "claims": [
+    "c57"
+   ]
+  }
+ ],
+ "stations": [
+  {
+   "id": "s1",
+   "title": "A disease with no cure",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "Robert Koch discovered that a bacterium causes tuberculosis, and then the race to find a cure began.",
       "claims": [
-        "c10",
-        "c59"
+       "c2"
       ]
-    },
-    {
-      "text": "Selman Waksman received the Nobel Prize in Medicine for the discovery of streptomycin, the first antibiotic effective against tuberculosis.",
+     }
+    ],
+    [
+     {
+      "text": "When streptomycin was discovered, tuberculosis was the most resistant and irreversible of the major infectious diseases.",
       "claims": [
-        "c1",
-        "c57"
+       "c4"
       ]
-    },
-    {
-      "text": "Sanatoriums were then filled with tuberculosis patients, and very little could be done for them.",
+     },
+     {
+      "text": "Sanatoriums around the country were filled with tuberculosis patients, and very little could be done for them.",
       "claims": [
-        "c5"
+       "c5"
       ]
-    },
-    {
-      "text": "Waksman and his colleagues screened more than 10,000 soil microorganisms, and in 1943 his colleague Albert Schatz isolated streptomycin, which proved to be an effective medicine against tuberculosis.",
+     },
+     {
+      "text": "In the years of the Second World War, the tuberculosis bacterium was the worst, because it resisted every antibiotic that was available.",
       "claims": [
-        "c23",
-        "c3"
+       "c6"
       ]
-    },
-    {
-      "text": "The discovery of streptomycin changed the course of modern medicine.",
+     }
+    ]
+   ],
+   "media": [
+    "m14",
+    "m27",
+    "m28",
+    "m29",
+    "m30"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s2",
+   "title": "From a Jewish village to Rutgers",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "According to the facts page on the Nobel Prize website, the village of Priluka was in the Russian Empire (today Nova Pryluka in Ukraine).",
       "claims": [
-        "c40"
+       "c13"
       ]
-    }
-  ],
-  "hero_media": [
+     },
+     {
+      "text": "According to Encyclopedia.com, his little sister Miriam died of diphtheria when he was nine years old.",
+      "claims": [
+       "c11"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "As a youth, Waksman helped organize an armed Jewish youth defense group against oppression.",
+      "claims": [
+       "c9"
+      ]
+     },
+     {
+      "text": "According to one source, he fled prejudice and poverty and arrived in the United States in 1910.",
+      "claims": [
+       "c7"
+      ]
+     },
+     {
+      "text": "On 2 November 1910 he landed in Philadelphia, accompanied by his friend Peisi Mitnik.",
+      "claims": [
+       "c15"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to the archive of Rutgers University Libraries, Selman Abraham Waksman was born in Priluka, Russia, on July 22, 1888.",
+      "claims": [
+       "c68"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m6",
+    "m8",
+    "m7"
+   ],
+   "disagreements": [
+    "d2"
+   ]
+  },
+  {
+   "id": "s3",
+   "title": "Searching for a cure in the soil",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "In 1932 the American Association against Tuberculosis asked Waksman to investigate reports that the tuberculosis bacterium was rapidly destroyed in soil.",
+      "claims": [
+       "c17"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "In 1939 René Dubos, his former student, discovered tyrothricin, and this was among the reasons Waksman began the antibiotics program.",
+      "claims": [
+       "c18"
+      ]
+     },
+     {
+      "text": "According to Encyclopedia.com, he set up a team that systematically studied thousands of soil fungi and microorganisms.",
+      "claims": [
+       "c19"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "In 1940, with the help of Boyd Woodruff, Waksman isolated the antibiotic actinomycin.",
+      "claims": [
+       "c21"
+      ]
+     },
+     {
+      "text": "According to Woodruff, the team quickly discovered four antibiotics, but all of them were toxic to animals.",
+      "claims": [
+       "c22"
+      ]
+     },
+     {
+      "text": "Waksman and his colleagues screened more than 10,000 soil microorganisms before they isolated streptomycin in 1943.",
+      "claims": [
+       "c23"
+      ]
+     }
+    ]
+   ],
+   "media": [
     "m3",
     "m1",
     "m5",
+    "m19"
+   ],
+   "disagreements": [
+    "d3"
+   ]
+  },
+  {
+   "id": "s4",
+   "title": "Albert Schatz and the strain from the soil",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "Albert Schatz, the newest doctoral student in the group, arrived and began his research under Waksman.",
+      "claims": [
+       "c24"
+      ]
+     },
+     {
+      "text": "He was drafted into the army, and after a few months he was released and returned to searching for a useful antibiotic.",
+      "claims": [
+       "c25"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to Woodruff, Schatz isolated a Streptomyces griseus strain from the farm soil of the Rutgers Agriculture School.",
+      "claims": [
+       "c29"
+      ]
+     },
+     {
+      "text": "On 19 October 1943 Schatz realized that he had a chemical that killed tuberculosis bacteria.",
+      "claims": [
+       "c26"
+      ]
+     },
+     {
+      "text": "In 1943 Schatz isolated streptomycin from the bacterium, and it proved to be an effective medicine against tuberculosis.",
+      "claims": [
+       "c3"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "Elizabeth Bugie was the second author of the original paper on streptomycin.",
+      "claims": [
+       "c52"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m11",
+    "m1",
+    "m20",
+    "m21"
+   ],
+   "disagreements": [
+    "d4",
+    "d5"
+   ]
+  },
+  {
+   "id": "s5",
+   "title": "From the laboratory to patients",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "According to Woodruff, Mayo Clinic experts tested the substance and reported that it was not toxic to various animals.",
+      "claims": [
+       "c31"
+      ]
+     },
+     {
+      "text": "According to Woodruff, streptomycin cured infected guinea pigs, and was the first drug to do so.",
+      "claims": [
+       "c32"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "Clinical trials showed that streptomycin was effective against a wide range of diseases, most notably tuberculosis.",
+      "claims": [
+       "c38"
+      ]
+     },
+     {
+      "text": "By 1950 it was used against seventy germs that could not be treated with penicillin.",
+      "claims": [
+       "c37"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "The Merck company built a factory in Virginia to produce streptomycin, and the drug was marketed worldwide.",
+      "claims": [
+       "c33"
+      ]
+     },
+     {
+      "text": "When it became clear how important streptomycin was, Merck agreed to transfer its rights to Rutgers University, and the university licensed several companies to manufacture it.",
+      "claims": [
+       "c34"
+      ]
+     },
+     {
+      "text": "According to San Diego Jewish World, Waksman transferred the exclusive rights to streptomycin to the university where it was discovered.",
+      "claims": [
+       "c58"
+      ]
+     },
+     {
+      "text": "According to Woodruff, Waksman argued that purified antibiotics were no longer natural products and could therefore be patented, and so it was ruled.",
+      "claims": [
+       "c42"
+      ]
+     },
+     {
+      "text": "Manufacture of the drug became a $50-million-per-year industry.",
+      "claims": [
+       "c41"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m15",
+    "m23"
+   ],
+   "disagreements": [
+    "d6"
+   ]
+  },
+  {
+   "id": "s6",
+   "title": "Nobel, an institute and a generation of drugs",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "According to the Odessa Journal, Waksman was nominated for the Nobel Prize 45 times, and received it only in 1952.",
+      "claims": [
+       "c53"
+      ]
+     },
+     {
+      "text": "In 1952 he traveled to Sweden to receive the Nobel Prize in Medicine for the discovery of streptomycin.",
+      "claims": [
+       "c57"
+      ]
+     },
+     {
+      "text": "In the award presentation speech, Arvid Wallgren said that penicillin was discovered largely by chance, whereas streptomycin was developed through the systematic work of a large group of scientists.",
+      "claims": [
+       "c56"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to Encyclopedia.com, the Rutgers foundation assigned most of the royalties from streptomycin and neomycin to the establishment of the Institute of Microbiology.",
+      "claims": [
+       "c60"
+      ]
+     },
+     {
+      "text": "According to EBSCO, Waksman headed the institute until his retirement in 1958.",
+      "claims": [
+       "c59"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "The development of streptomycin stimulated scientists around the world to search the microbial world for other antibiotics and medicines.",
+      "claims": [
+       "c66"
+      ]
+     },
+     {
+      "text": "According to the Odessa Journal, today more than 70% of antibiotics are produced from Actinomycetales.",
+      "claims": [
+       "c64"
+      ]
+     }
+    ]
+   ],
+   "media": [
     "m4",
     "m9",
-    "m6",
     "m10",
-    "m16",
-    "m24"
-  ],
-  "glance": [
-    {
-      "label": "Who",
-      "value": "Selman Waksman and Albert Schatz",
-      "claims": [
-        "c3"
-      ]
-    },
-    {
-      "label": "When",
-      "value": "1943",
-      "claims": [
-        "c3"
-      ]
-    },
-    {
-      "label": "Where",
-      "value": "Rutgers",
-      "claims": [
-        "c29",
-        "c34"
-      ]
-    },
-    {
-      "label": "Against what",
-      "value": "Tuberculosis",
-      "claims": [
-        "c1"
-      ]
-    },
-    {
-      "label": "Recognition",
-      "value": "Nobel Prize in Medicine, 1952",
-      "claims": [
-        "c57"
-      ]
-    }
-  ],
-  "stations": [
-    {
-      "id": "s1",
-      "title": "A disease with no cure",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "Robert Koch discovered that a bacterium causes tuberculosis, and then the race to find a cure began.",
-            "claims": [
-              "c2"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "When streptomycin was discovered, tuberculosis was the most resistant and irreversible of the major infectious diseases.",
-            "claims": [
-              "c4"
-            ]
-          },
-          {
-            "text": "Sanatoriums around the country were filled with tuberculosis patients, and very little could be done for them.",
-            "claims": [
-              "c5"
-            ]
-          },
-          {
-            "text": "In the years of the Second World War, the tuberculosis bacterium was the worst, because it resisted every antibiotic that was available.",
-            "claims": [
-              "c6"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m14",
-        "m27",
-        "m28",
-        "m29",
-        "m30"
-      ],
-      "disagreements": []
-    },
-    {
-      "id": "s2",
-      "title": "From a Jewish village to Rutgers",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "According to the facts page on the Nobel Prize website, the village of Priluka was in the Russian Empire (today Nova Pryluka in Ukraine).",
-            "claims": [
-              "c13"
-            ]
-          },
-          {
-            "text": "According to Encyclopedia.com, his little sister Miriam died of diphtheria when he was nine years old.",
-            "claims": [
-              "c11"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "As a youth, Waksman helped organize an armed Jewish youth defense group against oppression.",
-            "claims": [
-              "c9"
-            ]
-          },
-          {
-            "text": "According to one source, he fled prejudice and poverty and arrived in the United States in 1910.",
-            "claims": [
-              "c7"
-            ]
-          },
-          {
-            "text": "On 2 November 1910 he landed in Philadelphia, accompanied by his friend Peisi Mitnik.",
-            "claims": [
-              "c15"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "Waksman studied at Rutgers, and in 1915 completed a bachelor's degree in agricultural science.",
-            "claims": [
-              "c16"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to the archive of Rutgers University Libraries, Selman Abraham Waksman was born in Priluka, Russia, on July 22, 1888.",
-            "claims": [
-              "c68"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m6",
-        "m8",
-        "m7"
-      ],
-      "disagreements": [
-        "d2"
-      ]
-    },
-    {
-      "id": "s3",
-      "title": "Searching for a cure in the soil",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "In 1932 the American Association against Tuberculosis asked Waksman to investigate reports that the tuberculosis bacterium was rapidly destroyed in soil.",
-            "claims": [
-              "c17"
-            ]
-          },
-          {
-            "text": "According to Wikipedia, Waksman's research into the decomposition of organisms that live in soil enabled the discovery of streptomycin and other antibiotics.",
-            "claims": [
-              "c10"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "In 1939 René Dubos, his former student, discovered tyrothricin, and this was among the reasons Waksman began the antibiotics program.",
-            "claims": [
-              "c18"
-            ]
-          },
-          {
-            "text": "According to Encyclopedia.com, he set up a team that systematically studied thousands of soil fungi and microorganisms.",
-            "claims": [
-              "c19"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "In 1940, with the help of Boyd Woodruff, Waksman isolated the antibiotic actinomycin.",
-            "claims": [
-              "c21"
-            ]
-          },
-          {
-            "text": "According to Woodruff, the team quickly discovered four antibiotics, but all of them were toxic to animals.",
-            "claims": [
-              "c22"
-            ]
-          },
-          {
-            "text": "Waksman and his colleagues screened more than 10,000 soil microorganisms before they isolated streptomycin in 1943.",
-            "claims": [
-              "c23"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m3",
-        "m1",
-        "m5",
-        "m19"
-      ],
-      "disagreements": [
-        "d3"
-      ]
-    },
-    {
-      "id": "s4",
-      "title": "Albert Schatz and the strain from the soil",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "Albert Schatz, the newest doctoral student in the group, arrived and began his research under Waksman.",
-            "claims": [
-              "c24"
-            ]
-          },
-          {
-            "text": "He was drafted into the army, and after a few months he was released and returned to searching for a useful antibiotic.",
-            "claims": [
-              "c25"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to Woodruff, Schatz isolated a Streptomyces griseus strain from the farm soil of the Rutgers Agriculture School.",
-            "claims": [
-              "c29"
-            ]
-          },
-          {
-            "text": "On 19 October 1943 Schatz realized that he had a chemical that killed tuberculosis bacteria.",
-            "claims": [
-              "c26"
-            ]
-          },
-          {
-            "text": "In 1943 Schatz isolated streptomycin from the bacterium, and it proved to be an effective medicine against tuberculosis.",
-            "claims": [
-              "c3"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "Elizabeth Bugie was the second author of the original paper on streptomycin.",
-            "claims": [
-              "c52"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m11",
-        "m1",
-        "m20",
-        "m21"
-      ],
-      "disagreements": [
-        "d4",
-        "d5"
-      ]
-    },
-    {
-      "id": "s5",
-      "title": "From the laboratory to patients",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "According to Woodruff, Mayo Clinic experts tested the substance and reported that it was not toxic to various animals.",
-            "claims": [
-              "c31"
-            ]
-          },
-          {
-            "text": "According to Woodruff, streptomycin cured infected guinea pigs, and was the first drug to do so.",
-            "claims": [
-              "c32"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "Clinical trials showed that streptomycin was effective against a wide range of diseases, most notably tuberculosis.",
-            "claims": [
-              "c38"
-            ]
-          },
-          {
-            "text": "By 1950 it was used against seventy germs that could not be treated with penicillin.",
-            "claims": [
-              "c37"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "The Merck company built a factory in Virginia to produce streptomycin, and the drug was marketed worldwide.",
-            "claims": [
-              "c33"
-            ]
-          },
-          {
-            "text": "When it became clear how important streptomycin was, Merck agreed to transfer its rights to Rutgers University, and the university licensed several companies to manufacture it.",
-            "claims": [
-              "c34"
-            ]
-          },
-          {
-            "text": "According to San Diego Jewish World, Waksman transferred the exclusive rights to streptomycin to the university where it was discovered.",
-            "claims": [
-              "c58"
-            ]
-          },
-          {
-            "text": "According to Woodruff, Waksman argued that purified antibiotics were no longer natural products and could therefore be patented, and so it was ruled.",
-            "claims": [
-              "c42"
-            ]
-          },
-          {
-            "text": "Manufacture of the drug became a $50-million-per-year industry.",
-            "claims": [
-              "c41"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m15",
-        "m23"
-      ],
-      "disagreements": [
-        "d6"
-      ]
-    },
-    {
-      "id": "s6",
-      "title": "Nobel, an institute and a generation of drugs",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "According to the Odessa Journal, Waksman was nominated for the Nobel Prize 45 times, and received it only in 1952.",
-            "claims": [
-              "c53"
-            ]
-          },
-          {
-            "text": "In 1952 he traveled to Sweden to receive the Nobel Prize in Medicine for the discovery of streptomycin.",
-            "claims": [
-              "c57"
-            ]
-          },
-          {
-            "text": "In the award presentation speech, Arvid Wallgren said that penicillin was discovered largely by chance, whereas streptomycin was developed through the systematic work of a large group of scientists.",
-            "claims": [
-              "c56"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to Encyclopedia.com, the Rutgers foundation assigned most of the royalties from streptomycin and neomycin to the establishment of the Institute of Microbiology.",
-            "claims": [
-              "c60"
-            ]
-          },
-          {
-            "text": "According to EBSCO, Waksman headed the institute until his retirement in 1958.",
-            "claims": [
-              "c59"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "The development of streptomycin stimulated scientists around the world to search the microbial world for other antibiotics and medicines.",
-            "claims": [
-              "c66"
-            ]
-          },
-          {
-            "text": "According to the Odessa Journal, today more than 70% of antibiotics are produced from Actinomycetales.",
-            "claims": [
-              "c64"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m4",
-        "m9",
-        "m10",
-        "m17",
-        "m18",
-        "m22"
-      ],
-      "disagreements": [
-        "d7",
-        "d8"
-      ]
-    },
-    {
-      "id": "s7",
-      "title": "Who discovered it, and what the drug did not solve",
-      "kind": "hard",
-      "paragraphs": [
-        [
-          {
-            "text": "According to Woodruff, streptomycin treatment often required about half a year, and as a result resistant tuberculosis cells appeared.",
-            "claims": [
-              "c39"
-            ]
-          },
-          {
-            "text": "It was later found that streptomycin is somewhat toxic to humans, and other antibiotics replaced it.",
-            "claims": [
-              "c40"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to Shaastra, Schatz and Waksman applied for a patent together, and Waksman persuaded Schatz to sign over his royalty rights to the university.",
-            "claims": [
-              "c43"
-            ]
-          },
-          {
-            "text": "According to Shaastra, Waksman secretly negotiated with the university to receive 20% of the royalties.",
-            "claims": [
-              "c44"
-            ]
-          },
-          {
-            "text": "According to Shaastra, Schatz felt betrayed and sued both his mentor and the university.",
-            "claims": [
-              "c45"
-            ]
-          },
-          {
-            "text": "According to the NJ Digital Highway website, Schatz became concerned when Waksman began receiving funds from the foundation, $380,000 according to his claim, and filed a civil suit.",
-            "claims": [
-              "c46"
-            ]
-          },
-          {
-            "text": "The case was settled in December 1950.",
-            "claims": [
-              "c47"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "In 1952 Waksman alone received the Nobel Prize, and this drew much criticism.",
-            "claims": [
-              "c54"
-            ]
-          },
-          {
-            "text": "Schatz protested being left out of the award, and even sent a letter to the King of Sweden.",
-            "claims": [
-              "c55"
-            ]
-          },
-          {
-            "text": "Only in the 1980s did researchers begin to credit Schatz.",
-            "claims": [
-              "c65"
-            ]
-          },
-          {
-            "text": "Elizabeth Bugie was not given credit for her work on streptomycin and was not listed on the patent application, because she signed an affidavit stating that she had not contributed to the discovery of streptomycin.",
-            "claims": [
-              "c67"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m12",
-        "m13"
-      ],
-      "disagreements": [
-        "d9",
-        "d10"
-      ]
-    }
-  ],
-  "disagreements": [
-    {
-      "id": "d2",
-      "question": "What was the name of the sister who fell ill with diphtheria, and how old was she?",
-      "versions": [
-        {
-          "says": "Encyclopedia.com: his little sister Miriam died of diphtheria when Waksman was nine years old",
-          "claims": [
-            "c11"
-          ]
-        },
-        {
-          "says": "Odessa Journal: in 1897 his two-year-old sister, Mishkha, fell ill with diphtheria",
-          "claims": [
-            "c12"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d3",
-      "question": "How many people were on Waksman's team?",
-      "versions": [
-        {
-          "says": "Encyclopedia.com: about 50 students and assistants",
-          "claims": [
-            "c19"
-          ]
-        },
-        {
-          "says": "Woodruff: eight researchers who specialized in antibacterial research",
-          "claims": [
-            "c20"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d4",
-      "question": "Where did the strain from which streptomycin was isolated come from?",
-      "versions": [
-        {
-          "says": "Woodruff: from the farm soil of the Rutgers Agriculture School",
-          "claims": [
-            "c29"
-          ]
-        },
-        {
-          "says": "Shaastra: from two sources, fresh manure near the lab and a throat swab from a healthy chicken",
-          "claims": [
-            "c30"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d5",
-      "question": "When was streptomycin discovered?",
-      "versions": [
-        {
-          "says": "The Nobel Committee: in 1943",
-          "claims": [
-            "c3"
-          ]
-        },
-        {
-          "says": "EBSCO: in August 1943, from two strains of Streptomyces griseus",
-          "claims": [
-            "c27"
-          ]
-        },
-        {
-          "says": "Shaastra: on 19 October 1943 Schatz realized that he had a substance that killed tuberculosis bacteria",
-          "claims": [
-            "c26"
-          ]
-        },
-        {
-          "says": "Odessa Journal: in 1942",
-          "claims": [
-            "c28"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d6",
-      "question": "When did the first clinical trials begin?",
-      "versions": [
-        {
-          "says": "One text in Encyclopedia.com: in 1944, and the drug proved highly effective against tuberculosis",
-          "claims": [
-            "c35"
-          ]
-        },
-        {
-          "says": "Another text in Encyclopedia.com: the first trials in human tuberculosis began in 1945",
-          "claims": [
-            "c36"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d7",
-      "question": "When was the Rutgers Institute of Microbiology founded?",
-      "versions": [
-        {
-          "says": "EBSCO: in 1949",
-          "claims": [
-            "c59"
-          ]
-        },
-        {
-          "says": "Encyclopedia.com: in 1951 most of the royalties were assigned to its establishment",
-          "claims": [
-            "c60"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d8",
-      "question": "How many antibiotics did Waksman and his team discover?",
-      "versions": [
-        {
-          "says": "Encyclopedia.com: Waksman himself discovered eighteen antibiotics",
-          "claims": [
-            "c61"
-          ]
-        },
-        {
-          "says": "Another source in Encyclopedia.com: Waksman and his coworkers isolated twenty-two new defensive compounds from soil microbes",
-          "claims": [
-            "c62"
-          ]
-        },
-        {
-          "says": "Wikipedia: the laboratory isolated more than 15 antibiotics",
-          "claims": [
-            "c63"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d9",
-      "question": "What did Schatz receive in the end?",
-      "versions": [
-        {
-          "says": "Wikipedia: $120,000 for patent rights and 3% of royalties",
-          "claims": [
-            "c48"
-          ]
-        },
-        {
-          "says": "Woodruff: Waksman proposed that one tenth of the royalties be passed to 26 people who had been involved with streptomycin, and that Schatz, as the discoverer, would receive the largest share",
-          "claims": [
-            "c49"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d10",
-      "question": "What was Schatz's part in the discovery?",
-      "versions": [
-        {
-          "says": "Wikipedia: Waksman noted that Schatz was in the army in 1943, was in the lab for only three months and played a small role in the discovery",
-          "claims": [
-            "c51"
-          ]
-        },
-        {
-          "says": "Woodruff: students at the Rutgers Agriculture School insisted on a plaque naming Schatz as a codiscoverer, and this was done",
-          "claims": [
-            "c50"
-          ]
-        }
-      ]
-    }
-  ],
-  "unknowns": [],
-  "claims": [
-    {
-      "id": "c1",
-      "text": "נימוק פרס נובל לסלמן ואקסמן היה על גילוי הסטרפטומיצין, האנטיביוטיקה הראשונה היעילה נגד שחפת.",
-      "source": "src1",
-      "quote": "for his discovery of streptomycin, the first antibiotic effective against tuberculosis",
-      "status": "confirmed",
-      "locator": "שורה 6"
-    },
-    {
-      "id": "c57",
-      "text": "ואקסמן נסע לשוודיה ב-1952 לקבל את פרס נובל ברפואה על גילוי הסטרפטומיצין.",
-      "source": "src2",
-      "quote": "The crowning event among all these was his trip to Sweden in 1952 to receive the Nobel Prize in physiology and medicine for the discovery of streptomycin.",
-      "status": "confirmed",
-      "locator": "שורה 28"
-    },
-    {
-      "id": "c5",
-      "text": "בתי הסנטוריום ברחבי המדינה היו מלאים בחולי שחפת, ומעט מאוד אפשר היה לעשות למענם.",
-      "source": "src2",
-      "quote": "Sanatoriums around the country were filled with persons suffering the ravages of tuberculosis, and little could be done for them.",
-      "status": "confirmed",
-      "locator": "שורה 74"
-    },
-    {
-      "id": "c23",
-      "text": "ואקסמן ועמיתיו סרקו יותר מ-10,000 מיקרואורגניזמים מהאדמה לפני שבודדו את הסטרפטומיצין ב-1943.",
-      "source": "src2",
-      "quote": "Waksman and his colleagues screened more than 10,000 different soil microbes before they isolated streptomycin in 1943.",
-      "status": "confirmed",
-      "locator": "שורה 107"
-    },
-    {
-      "id": "c3",
-      "text": "בשנת 1943 עמיתו של ואקסמן, אלברט שץ, בודד את הסטרפטומיצין מהחיידק, והוא התברר כתרופה יעילה נגד שחפת.",
-      "source": "src1",
-      "quote": "In 1943 Waksman's colleague, Albert Schatz, isolated streptomycin from this bacterium, which proved an effective medicine against tuberculosis.",
-      "status": "confirmed",
-      "locator": "שורה 9"
-    },
-    {
-      "id": "c40",
-      "text": "הסטרפטומיצין התגלה בהמשך כרעיל במידה מסוימת לבני אדם ואנטיביוטיקות אחרות החליפו אותו, אך גילויו שינה את מהלך הרפואה המודרנית.",
-      "source": "src2",
-      "quote": "Streptomycin ultimately proved to have some human toxicity and was supplanted by other antibiotics, but its discovery changed the course of modern medicine.",
-      "status": "confirmed",
-      "locator": "שורה 76"
-    },
-    {
-      "id": "c29",
-      "text": "לפי וודרוף, שץ בודד זן סטרפטומיצס גריסאוס מאדמת החווה של בית הספר לחקלאות בראטגרס.",
-      "source": "src3",
-      "quote": "he isolated a Streptomyces griseus strain from the farm soil of the Rutgers Agriculture School.",
-      "status": "confirmed",
-      "locator": "שורה 17"
-    },
-    {
-      "id": "c34",
-      "text": "כשהתברר שהסטרפטומיצין חשוב מאוד, מרק הסכימה להעביר את זכויותיה לאוניברסיטת ראטגרס, שהעניקה רישיונות לכמה חברות לייצר אותו.",
-      "source": "src2",
-      "quote": "When it became obvious that streptomycin was a most important product, Merck generously agreed to transfer its rights to Rutgers University, which licensed a number of companies to manufacture the antibiotic.",
-      "status": "confirmed",
-      "locator": "שורה 27"
-    },
-    {
-      "id": "c2",
-      "text": "לאחר שרוברט קוך גילה שחיידק גורם לשחפת, החל המרוץ למצוא תרופה.",
-      "source": "src1",
-      "quote": "After Robert Koch discovered that tuberculosis is caused by a bacterium, the hunt for a cure began.",
-      "status": "confirmed",
-      "locator": "שורה 9"
-    },
-    {
-      "id": "c4",
-      "text": "בזמן גילוי הסטרפטומיצין, השחפת הייתה המחלה הזיהומית הגדולה העמידה והבלתי הפיכה ביותר.",
-      "source": "src2",
-      "quote": "At the time of streptomycin's discovery, tuberculosis was the most resistant and irreversible of all the major infectious diseases.",
-      "status": "confirmed",
-      "locator": "שורה 74"
-    },
-    {
-      "id": "c6",
-      "text": "בשנות מלחמת העולם השנייה חיידק השחפת היה הגרוע ביותר, כי עמד בפני כל אנטיביוטיקה שהייתה זמינה.",
-      "source": "src4",
-      "quote": "The TB bacterium was the worst: it resisted every available antibiotic.",
-      "status": "confirmed",
-      "locator": "שורה 8"
-    },
-    {
-      "id": "c13",
-      "text": "לפי ועדת נובל, ואקסמן נולד ב-22 ביולי 1888 בפרילוקה שבאימפריה הרוסית.",
-      "source": "src1",
-      "quote": "Born: 22 July 1888, Priluka, Russian Empire (now Nova Pryluka, Ukraine)",
-      "status": "confirmed",
-      "locator": "שורה 3"
-    },
-    {
-      "id": "c11",
-      "text": "לפי אנציקלופדיה.קום, אחותו הקטנה של ואקסמן, מרים, מתה מדיפתריה כשהיה בן תשע.",
-      "source": "src2",
-      "quote": "his little sister, Miriam, died of diphtheria when he was nine years old, well after the discovery of diphtheria antitoxin",
-      "status": "confirmed",
-      "locator": "שורה 10"
-    },
-    {
-      "id": "c9",
-      "text": "בנעוריו סייע ואקסמן בארגון קבוצת הגנה יהודית חמושה של בני נוער נגד הדיכוי.",
-      "source": "src2",
-      "quote": "As a teen during the Russian revolution, Waksman helped organize an armed Jewish youth defense group to counteract oppression.",
-      "status": "confirmed",
-      "locator": "שורה 63"
-    },
-    {
-      "id": "c7",
-      "text": "לפי אחד המקורות, ואקסמן היה יהודי רוסי שנמלט מדעות קדומות ומעוני והגיע לארצות הברית ב-1910.",
-      "source": "src5",
-      "quote": "A Russian Jew, fleeing prejudice and poverty, he arrived in the United States in 1910.",
-      "status": "confirmed",
-      "locator": "שורה 41"
-    },
-    {
-      "id": "c15",
-      "text": "ואקסמן נחת בפילדלפיה ב-2 בנובמבר 1910, בלווית חברו פייסי מיטניק.",
-      "source": "src2",
-      "quote": "Accompanied by Peisi Mitnik, the most important companion of his youth, he landed in Philadelphia on 2 November 1910",
-      "status": "confirmed",
-      "locator": "שורה 12"
-    },
-    {
-      "id": "c16",
-      "text": "ואקסמן למד בראטגרס וסיים תואר ראשון במדעי החקלאות ב-1915.",
-      "source": "src6",
-      "quote": "Waksman attended Rutgers College (now Rutgers University), where he graduated in 1915 with a Bachelor of Science in agriculture.",
-      "status": "confirmed",
-      "locator": "שורה 46"
-    },
-    {
-      "id": "c17",
-      "text": "ב-1932 האגודה האמריקנית למלחמה בשחפת ביקשה מואקסמן לבדוק דיווחים שחיידק השחפת נהרס במהירות באדמה.",
-      "source": "src2",
-      "quote": "In 1932 the American National Association against Tuberculosis asked Waksman to investigate earlier reports that the tubercle bacillus, or the bacteria that cause tuberculosis, was rapidly destroyed in soil.",
-      "status": "confirmed",
-      "locator": "שורה 105"
-    },
-    {
-      "id": "c10",
-      "text": "לפי ויקיפדיה, מחקרו של ואקסמן על פירוק אורגניזמים החיים באדמה איפשר את גילוי הסטרפטומיצין ועוד אנטיביוטיקות.",
-      "source": "src6",
-      "quote": "whose research into the decomposition of organisms that live in soil enabled the discovery of streptomycin and several other antibiotics",
-      "status": "confirmed",
-      "locator": "שורה 27"
-    },
-    {
-      "id": "c18",
-      "text": "גילוי הטירותריצין ב-1939 בידי תלמידו לשעבר רנה דובו היה בין הסיבות שהניעו את ואקסמן להתחיל בתוכנית האנטיביוטיקה.",
-      "source": "src2",
-      "quote": "the discovery of tyrothricin by his former student René Dubos in 1939",
-      "status": "confirmed",
-      "locator": "שורה 25"
-    },
-    {
-      "id": "c19",
-      "text": "לפי אנציקלופדיה.קום, ואקסמן הקים צוות של כ-50 סטודנטים ועוזרים לחקור באופן שיטתי אלפי פטריות ומיקרואורגניזמים מהאדמה.",
-      "source": "src2",
-      "quote": "Waksman set up a team of about 50 graduate students and assistants to undertake a systematic study of thousands of different soil fungi and other microorganisms.",
-      "status": "confirmed",
-      "locator": "שורה 71"
-    },
-    {
-      "id": "c21",
-      "text": "ב-1940, בעזרת בויד וודרוף, בודד ואקסמן את האנטיביוטיקה אקטינומיצין.",
-      "source": "src2",
-      "quote": "In that year too, with the help of Boyd Woodruff, he isolated the antibiotic actinomycin.",
-      "status": "confirmed",
-      "locator": "שורה 72"
-    },
-    {
-      "id": "c22",
-      "text": "לפי וודרוף, הצוות גילה במהירות ארבע אנטיביוטיקות, אך כולן היו רעילות לבעלי חיים.",
-      "source": "src3",
-      "quote": "actinomycin, streptothricin, fumigacin, and clavacin. Unfortunately, all four were toxic to animals.",
-      "status": "confirmed",
-      "locator": "שורה 17"
-    },
-    {
-      "id": "c24",
-      "text": "אלברט שץ, הדוקטורנט החדש ביותר בקבוצה, הגיע והחל במחקרו תחת ואקסמן.",
-      "source": "src3",
-      "quote": "Albert Schatz, the most recent Ph.D. student joining our group to search for antibiotics, arrived and started his research under Dr. Waksman",
-      "status": "confirmed",
-      "locator": "שורה 17"
-    },
-    {
-      "id": "c25",
-      "text": "שץ גויס לצבא, ואחרי כמה חודשים שוחרר וחזר לחפש אנטיביוטיקה מועילה.",
-      "source": "src3",
-      "quote": "Then, he was drafted into the army. After a few months, he was released",
-      "status": "confirmed",
-      "locator": "שורה 17"
-    },
-    {
-      "id": "c26",
-      "text": "ב-19 באוקטובר 1943 שץ הבין שברשותו חומר כימי שהורג חיידקי שחפת.",
-      "source": "src4",
-      "quote": "On October 19, 1943, Albert Schatz realised he had a chemical that killed TB bacteria.",
-      "status": "confirmed",
-      "locator": "שורה 7"
-    },
-    {
-      "id": "c52",
-      "text": "אליזבת בוגי הייתה המחברת השנייה במאמר המקורי על הסטרפטומיצין.",
-      "source": "src4",
-      "quote": "Elizabeth Bugie (pictured) was the second author on the original streptomycin paper that the trio published.",
-      "status": "confirmed",
-      "locator": "שורה 12"
-    },
-    {
-      "id": "c31",
-      "text": "לפי וודרוף, מומחי מאיו קליניק בדקו את החומר ודיווחו שאינו רעיל לבעלי חיים שונים.",
-      "source": "src3",
-      "quote": "and after testing it, they reported that it was not toxic to various animals",
-      "status": "confirmed",
-      "locator": "שורה 17"
-    },
-    {
-      "id": "c32",
-      "text": "לפי וודרוף, הסטרפטומיצין ריפא שרקנים נגועים, והיה התרופה הראשונה שעשתה זאת.",
-      "source": "src3",
-      "quote": "Streptomycin proved to be curative for infected guinea pigs, the first drug to do so",
-      "status": "confirmed",
-      "locator": "שורה 20"
-    },
-    {
-      "id": "c38",
-      "text": "ניסויים קליניים הראו שהסטרפטומיצין יעיל נגד מגוון רחב של מחלות, ובעיקר שחפת.",
-      "source": "src2",
-      "quote": "Clinical trials showed it to be effective against a wide range of diseases, most notably tuberculosis.",
-      "status": "confirmed",
-      "locator": "שורה 73"
-    },
-    {
-      "id": "c37",
-      "text": "עד 1950 הסטרפטומיצין שימש נגד שבעים חיידקים שאי אפשר היה לטפל בהם בפניצילין.",
-      "source": "src2",
-      "quote": "By 1950, streptomycin was used against seventy different germs that were not treatable with penicillin.",
-      "status": "confirmed",
-      "locator": "שורה 75"
-    },
-    {
-      "id": "c33",
-      "text": "חברת מרק בנתה מפעל בווירג'יניה לייצור סטרפטומיצין, והתרופה שווקה ברחבי העולם.",
-      "source": "src3",
-      "quote": "Merck built a factory in Virginia to produce streptomycin, and it became marketed worldwide.",
-      "status": "confirmed",
-      "locator": "שורה 22"
-    },
-    {
-      "id": "c58",
-      "text": "לפי San Diego Jewish World, ואקסמן העביר את הזכויות הבלעדיות על הסטרפטומיצין לאוניברסיטה שבה התגלה.",
-      "source": "src7",
-      "quote": "Waksman transferred the exclusive rights to streptomycin to the university where it was discovered.",
-      "status": "confirmed",
-      "locator": "שורה 12"
-    },
-    {
-      "id": "c42",
-      "text": "לפי וודרוף, ואקסמן טען שאנטיביוטיקות מזוקקות אינן עוד מוצרי טבע ולכן ניתן לרשום עליהן פטנט, וכך נקבע.",
-      "source": "src3",
-      "quote": "He argued that purified antibiotics were no longer natural products and, therefore, they should be patentable, and they eventually were judged to be so.",
-      "status": "confirmed",
-      "locator": "שורה 47"
-    },
-    {
-      "id": "c41",
-      "text": "ייצור התרופה הפך לענף של 50 מיליון דולר בשנה.",
-      "source": "src2",
-      "quote": "Manufacture of the drug became a $50-million-per-year industry.",
-      "status": "confirmed",
-      "locator": "שורה 76"
-    },
-    {
-      "id": "c53",
-      "text": "ואקסמן היה מועמד לפרס נובל 45 פעמים, וקיבל אותו רק ב-1952.",
-      "source": "src8",
-      "quote": "Selman Waksman was nominated for the Nobel Prize 45 times, but he received it only in 1952",
-      "status": "confirmed",
-      "locator": "שורה 32"
-    },
-    {
-      "id": "c56",
-      "text": "בנאום הענקת הפרס ציין ארוויד וולגרן שבניגוד לפניצילין, שנתגלה במידה רבה במקרה, הסטרפטומיצין פותח בעבודה שיטתית של קבוצה גדולה של מדענים.",
-      "source": "src7",
-      "quote": "Unlike the discovery of penicillin by Professor Alexander Fleming, which was largely due to chance, the development of streptomycin was the result of the long, systematic, and tireless work of a large group of scientists.",
-      "status": "confirmed",
-      "locator": "שורה 11"
-    },
-    {
-      "id": "c60",
-      "text": "לפי אנציקלופדיה.קום, ב-1951 הקצתה קרן ראטגרס את רוב התמלוגים מהסטרפטומיצין והניאומיצין להקמת מכון המיקרוביולוגיה.",
-      "source": "src2",
-      "quote": "the assignment in 1951 by the Rutgers Research Educational Foundation of most of the royalties received from the sale of streptomycin and neomycin to the creation and support of the Institute of Microbiology at Rutgers University",
-      "status": "confirmed",
-      "locator": "שורה 29"
-    },
-    {
-      "id": "c59",
-      "text": "לפי EBSCO, מכון המיקרוביולוגיה של ראטגרס נוסד ב-1949 ואקסמן עמד בראשו עד פרישתו ב-1958.",
-      "source": "src5",
-      "quote": "Patents were assigned to a Rutgers foundation that endowed the Rutgers Institute of Microbiology, founded in 1949 and headed by Waksman until his retirement in 1958.",
-      "status": "confirmed",
-      "locator": "שורה 32"
-    },
-    {
-      "id": "c66",
-      "text": "פיתוח הסטרפטומיצין עורר מדענים ברחבי העולם לחפש בעולם המיקרוביאלי אנטיביוטיקות ותרופות נוספות.",
-      "source": "src2",
-      "quote": "its development stimulated scientists around the globe to search the microbial world for other antibiotics and medicines",
-      "status": "confirmed",
-      "locator": "שורה 76"
-    },
-    {
-      "id": "c64",
-      "text": "לפי יומן אודסה, היום יותר מ-70% מהאנטיביוטיקות מיוצרות מאקטינומיצטלס, חיידקים שואקסמן גילה באדמה.",
-      "source": "src8",
-      "quote": "By the way, today more than 70% of antibiotics are produced just from Actinomycetales",
-      "status": "confirmed",
-      "locator": "שורה 32"
-    },
-    {
-      "id": "c39",
-      "text": "לפי וודרוף, טיפול בסטרפטומיצין דרש לרוב כחצי שנה, מה שהוביל להופעת תאי שחפת עמידים.",
-      "source": "src3",
-      "quote": "Streptomycin often required a 6-month treatment period to achieve a permanent cure of tuberculosis.",
-      "status": "confirmed",
-      "locator": "שורה 12"
-    },
-    {
-      "id": "c43",
-      "text": "לפי שאסטרה, שץ וואקסמן הגישו יחד בקשת פטנט, וואקסמן שכנע את שץ לחתום על זכויות התמלוגים לאוניברסיטה.",
-      "source": "src4",
-      "quote": "Schatz and Waksman applied for a patent together, but the latter convinced the former to sign over his royalty rights from sales of the drug to the university.",
-      "status": "confirmed",
-      "locator": "שורה 13"
-    },
-    {
-      "id": "c44",
-      "text": "לפי שאסטרה, ואקסמן ניהל בחשאי משא ומתן עם האוניברסיטה לקבל 20% מהתמלוגים.",
-      "source": "src4",
-      "quote": "Waksman secretly negotiated with the university to get 20% of the royalties.",
-      "status": "confirmed",
-      "locator": "שורה 14"
-    },
-    {
-      "id": "c45",
-      "text": "לפי שאסטרה, שץ הרגיש נבגד ותבע גם את מנחהו וגם את האוניברסיטה.",
-      "source": "src4",
-      "quote": "Feeling betrayed, Schatz sued both his mentor and the university.",
-      "status": "confirmed",
-      "locator": "שורה 14"
-    },
-    {
-      "id": "c46",
-      "text": "לפי אתר NJ Digital Highway, שץ חשש כשואקסמן החל לקבל כספים מהקרן (380,000 דולר לטענת שץ) והגיש תביעה אזרחית.",
-      "source": "src9",
-      "quote": "Shatz became concerned when Waksman began receiving monies from the Foundation ($380,000 alleged by Schatz) and filed a civil suit.",
-      "status": "confirmed",
-      "locator": "שורה 4"
-    },
-    {
-      "id": "c47",
-      "text": "התיק הסתיים בפשרה בדצמבר 1950.",
-      "source": "src9",
-      "quote": "After the case had been settled in December 1950, the legal mess continued as Albert Schatz sued his lawyers.",
-      "status": "confirmed",
-      "locator": "שורה 18"
-    },
-    {
-      "id": "c54",
-      "text": "ב-1952 ואקסמן לבדו קיבל את פרס נובל, תוך ביקורת רבה.",
-      "source": "src4",
-      "quote": "In 1952, Waksman alone received the Nobel Prize, amidst much criticism",
-      "status": "confirmed",
-      "locator": "שורה 17"
-    },
-    {
-      "id": "c55",
-      "text": "שץ מחה על כך שהושמט מהפרס, ואף שלח מכתב למלך שוודיה.",
-      "source": "src6",
-      "quote": "Schatz protested being left out of the award, even sending a letter to Gustaf VI Adolf, the King of Sweden",
-      "status": "confirmed",
-      "locator": "שורה 65"
-    },
-    {
-      "id": "c65",
-      "text": "רק בשנות ה-80 החלו חוקרים להכיר בשץ.",
-      "source": "src4",
-      "quote": "It was only in the 1980s that researchers began crediting Schatz.",
-      "status": "confirmed",
-      "locator": "שורה 18"
-    },
-    {
-      "id": "c67",
-      "text": "בוגי לא קיבלה קרדיט על עבודתה על הסטרפטומיצין ולא נכללה בבקשת הפטנט.",
-      "source": "src6",
-      "quote": "Bugie was also not given credit for her work on streptomycin, nor was she listed on the patent proposal",
-      "status": "confirmed",
-      "locator": "שורה 54"
-    },
-    {
-      "id": "c12",
-      "text": "לפי יומן אודסה, ב-1897 אחותו בת השנתיים, בשם מישכה, חלתה בדיפתריה.",
-      "source": "src8",
-      "quote": "1897 - Mishkha, the 2-year-old sister, suffers from diphtheria.",
-      "status": "confirmed",
-      "locator": "שורה 8"
-    },
-    {
-      "id": "c20",
-      "text": "לפי וודרוף, ואקסמן אסף שמונה חוקרים שהתמחו במחקר נגד חיידקים.",
-      "source": "src3",
-      "quote": "Dr. Waksman, with his reawakened interest in antibiotics, had gathered eight researchers together to specialize in antibacterial studies",
-      "status": "confirmed",
-      "locator": "שורה 17"
-    },
-    {
-      "id": "c30",
-      "text": "לפי שאסטרה, שץ גידל זני סטרפטומיצס גריסאוס משני מקורות: זבל טרי ליד המעבדה ומשטח גרון מתרנגולת בריאה.",
-      "source": "src4",
-      "quote": "he began culturing strains of a bacterium called Streptomyces griseus taken from two sources: fresh manure found near the lab and a throat swab from a healthy chicken",
-      "status": "confirmed",
-      "locator": "שורה 10"
-    },
-    {
-      "id": "c27",
-      "text": "לפי EBSCO, בחודש אוגוסט 1943 ואקסמן ותלמידיו בודדו משני זנים של סטרפטומיצס גריסאוס חומר ששמו סטרפטומיצין.",
-      "source": "src5",
-      "quote": "The good news came in August, 1943. From two strains of streptomyces griseus, Waksman and his students isolated a substance that they dubbed streptomycin.",
-      "status": "confirmed",
-      "locator": "שורה 30"
-    },
-    {
-      "id": "c28",
-      "text": "לפי יומן אודסה, ואקסמן גילה את הסטרפטומיצין ב-1942.",
-      "source": "src8",
-      "quote": "In 1942, Selman discovered streptomycin, but this did not bring the scientist closer to solving the",
-      "status": "confirmed",
-      "locator": "שורה 28"
-    },
-    {
-      "id": "c35",
-      "text": "לפי אנציקלופדיה.קום, מהניסויים הקליניים הראשונים ב-1944 הסטרפטומיצין הוכיח יעילות רבה נגד שחפת.",
-      "source": "src2",
-      "quote": "From the time of its first clinical trials in 1944, it proved to be remarkably effective against tuberculosis",
-      "status": "confirmed",
-      "locator": "שורה 75"
-    },
-    {
-      "id": "c36",
-      "text": "לפי טקסט אחר באנציקלופדיה.קום, הניסויים הקליניים הראשונים בשחפת בבני אדם החלו ב-1945.",
-      "source": "src2",
-      "quote": "The first clinical trials in human tuberculosis began in 1945.",
-      "status": "confirmed",
-      "locator": "שורה 27"
-    },
-    {
-      "id": "c61",
-      "text": "לפי אנציקלופדיה.קום, ואקסמן עצמו גילה שמונה עשרה אנטיביוטיקות במהלך הקריירה שלו.",
-      "source": "src2",
-      "quote": "Waksman himself discovered eighteen antibiotics during the course of his career.",
-      "status": "confirmed",
-      "locator": "שורה 77"
-    },
-    {
-      "id": "c62",
-      "text": "לפי מקור אחר באנציקלופדיה.קום, ואקסמן ושותפיו בודדו עשרים ושניים תרכובות הגנה חדשות מחיידקי אדמה.",
-      "source": "src2",
-      "quote": "He and coworkers isolated twenty-two new defensive compounds produced by soil microbes and in the process discovered streptomycin",
-      "status": "confirmed",
-      "locator": "שורה 102"
-    },
-    {
-      "id": "c63",
-      "text": "לפי ויקיפדיה, מעבדתו של ואקסמן בודדה יותר מ-15 אנטיביוטיקות.",
-      "source": "src6",
-      "quote": "isolating more than 15 antibiotics, including streptomycin, which was the first effective treatment for tuberculosis",
-      "status": "confirmed",
-      "locator": "שורה 29"
-    },
-    {
-      "id": "c48",
-      "text": "לפי ויקיפדיה, שץ קיבל 120,000 דולר עבור זכויות פטנט ו-3% מהתמלוגים.",
-      "source": "src6",
-      "quote": "Schatz was awarded $120,000 for patent rights and 3% of royalties.",
-      "status": "confirmed",
-      "locator": "שורה 56"
-    },
-    {
-      "id": "c49",
-      "text": "לפי וודרוף, ואקסמן הציע שהעשירית מהתמלוגים תועבר ל-26 אנשים שהיו מעורבים בסטרפטומיצין, ושץ, כמגלה, יקבל את החלק הגדול ביותר.",
-      "source": "src3",
-      "quote": "He proposed that 10% of the royalties should be passed to them, 26 persons in all",
-      "status": "confirmed",
-      "locator": "שורה 52"
-    },
-    {
-      "id": "c51",
-      "text": "לפי ויקיפדיה, ואקסמן ציין ששץ היה בצבא ב-1943, שהה במעבדה רק שלושה חודשים ומילא תפקיד קטן בגילוי.",
-      "source": "src6",
-      "quote": "Waksman noted that Schatz was away at the military in 1943, adding that he was only in the lab for three months and only played a small role in discovering streptomycin.",
-      "status": "confirmed",
-      "locator": "שורה 56"
-    },
-    {
-      "id": "c50",
-      "text": "לפי וודרוף, סטודנטים בבית הספר לחקלאות בראטגרס התעקשו על הצבת שלט שמציין את שץ כמגלה שותף של הסטרפטומיצין, וכך נעשה.",
-      "source": "src3",
-      "quote": "Later, Rutgers Agriculture School students insisted that a plaque showing that Albert Schatz was truly a codiscoverer of streptomycin must be placed in the building",
-      "status": "confirmed",
-      "locator": "שורה 52"
-    },
-    {
-      "id": "c68",
-      "text": "לפי הארכיון של ספריות אוניברסיטת רוטגרס, סלמן אברהם ואקסמן נולד בפרילוקה שברוסיה ב-22 ביולי 1888.",
-      "source": "src10",
-      "quote": "Selman Abraham Waksman was born in Priluka, Russia, on July 22, 1888.",
-      "status": "confirmed",
-      "locator": "שורה 18"
-    }
-  ],
-  "sources": [
-    {
-      "id": "src1",
-      "label": "Nobel Prize Outreach, Selman A. Waksman – Facts",
-      "url": "https://www.nobelprize.org/prizes/medicine/1952/waksman/facts/",
-      "kind": "official"
-    },
-    {
-      "id": "src2",
-      "label": "Encyclopedia.com, Waksman, Selman Abraham",
-      "url": "https://encyclopedia.com/people/medicine/medicine-biographies/selman-abraham-waksman",
-      "kind": "reference"
-    },
-    {
-      "id": "src3",
-      "label": "H. Boyd Woodruff, Applied and Environmental Microbiology, 2014",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3911012",
-      "kind": "official"
-    },
-    {
-      "id": "src4",
-      "label": "Shaastra (IIT Madras), Salve soil",
-      "url": "https://shaastramag.iitm.ac.in/time-machine/salve-soil",
-      "kind": "press"
-    },
-    {
-      "id": "src5",
-      "label": "EBSCO Research Starters, Selman Abraham Waksman",
-      "url": "https://ebsco.com/research-starters/history/selman-abraham-waksman",
-      "kind": "reference"
-    },
-    {
-      "id": "src6",
-      "label": "Wikipedia, Selman Waksman",
-      "url": "https://en.wikipedia.org/wiki/Selman_Waksman",
-      "kind": "reference"
-    },
-    {
-      "id": "src7",
-      "label": "San Diego Jewish World",
-      "url": "https://www.sdjewishworld.com/?p=187039",
-      "kind": "press"
-    },
-    {
-      "id": "src8",
-      "label": "Odessa Journal, The story of Selman Waksman",
-      "url": "https://odessa-journal.com/his-inventions-save-millions-of-lives-every-day-the-story-of-selman-waksman",
-      "kind": "press"
-    },
-    {
-      "id": "src9",
-      "label": "NJ Digital Highway, The Schatz v. Waksman Lawsuit – 1950",
-      "url": "https://www.njdigitalhighway.org/lesson/selman_waksman/schatz_lawsuit",
-      "kind": "press"
-    },
-    {
-      "id": "src10",
-      "label": "Rutgers University Libraries, Special Collections – Selman A. Waksman papers finding aid",
-      "url": "https://archives.libraries.rutgers.edu/repositories/3/resources/610",
-      "kind": "official"
-    }
-  ],
-  "media": [
-    {
-      "id": "m1",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Selman%20Waksman%20NYWTS.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Selman_Waksman_NYWTS.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "New York World-Telegram and the Sun staff photographer: Higgins, Roger, photographer.",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "Waksman in the laboratory, in a white coat, beside glass equipment and jars of chemicals.",
-      "illustrates": [],
-      "date": "1953",
-      "width": 2177,
-      "height": 2668
-    },
-    {
-      "id": "m3",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Waksman%2C%20selman.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Waksman%2C_selman.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Unknown photographer",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "Waksman and two female colleagues in the laboratory, with jars of soil, test tubes and Petri dishes; according to the file description, they are testing streptomycin.",
-      "illustrates": [
-        "c10"
-      ],
-      "date": "Unknown da",
-      "width": 2700,
-      "height": 1800
-    },
-    {
-      "id": "m4",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Instituto%20Butantan%202016%20091%20-%20Selman%20Waksman.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Instituto_Butantan_2016_091_-_Selman_Waksman.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Photograph by Mike Peel (www.mikepeel.net).",
-      "licence": "CC BY-SA 4.0",
-      "hosting": "hotlink",
-      "caption": "A bust of Selman Waksman in an exhibition at the Butantan Institute in São Paulo, Brazil.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "date": "2016-12-04",
-      "width": 3024,
-      "height": 4032
-    },
-    {
-      "id": "m5",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20A%20Salman%20Waksman%20Wellcome%20M0016141.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Portrait_of_A_Salman_Waksman_Wellcome_M0016141.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "not stated",
-      "licence": "CC BY 4.0",
-      "hosting": "hotlink",
-      "caption": "Waksman in his laboratory, holding a bottle in his hand and looking at it.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by/4.0",
-      "width": 4016,
-      "height": 2709
-    },
-    {
-      "id": "m6",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%92%D0%B0%D0%BA%D1%81%D0%BC%D0%B0%D0%BD%D0%9F%D1%80%D0%B8%D0%BB%D1%83%D0%BA%D0%B0.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:%D0%92%D0%B0%D0%BA%D1%81%D0%BC%D0%B0%D0%BD%D0%9F%D1%80%D0%B8%D0%BB%D1%83%D0%BA%D0%B0.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Visem at Ukrainian Wikipedia",
-      "licence": "GFDL",
-      "hosting": "hotlink",
-      "caption": "A memorial stone with a wreath of flowers in Nova Pryluka in memory of Waksman.",
-      "illustrates": [],
-      "licence_url": "http://www.gnu.org/copyleft/fdl.html",
-      "date": "2010-07-07",
-      "width": 1536,
-      "height": 2048
-    },
-    {
-      "id": "m7",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nova%20Pryluka%2012.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Nova_Pryluka_12.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Visem",
-      "licence": "CC BY-SA 3.0",
-      "hosting": "hotlink",
-      "caption": "The memorial stone to Waksman in the park of Nova Pryluka, in autumn, at the end of a paved path.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-      "date": "2012-11-04",
-      "width": 3264,
-      "height": 2448
-    },
-    {
-      "id": "m8",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nova%20Pryluka%2011.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Nova_Pryluka_11.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Visem",
-      "licence": "CC BY-SA 3.0",
-      "hosting": "hotlink",
-      "caption": "The memorial stone in Nova Pryluka with an inscription in Ukrainian and English about Waksman's birth in the village.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-      "date": "2012-11-04",
-      "width": 2448,
-      "height": 3264
-    },
-    {
-      "id": "m9",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Instituto%20Butantan%205.JPG?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Instituto_Butantan_5.JPG",
-      "source_name": "Wikimedia Commons",
-      "credit": "Eugenio Hansen, OFS",
-      "licence": "CC BY-SA 4.0",
-      "hosting": "hotlink",
-      "caption": "A bronze bust of Selman Waksman, in an exhibition at the Butantan Institute.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "date": "2016-01-28",
-      "width": 3864,
-      "height": 5152
-    },
-    {
-      "id": "m10",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nobel%20Laureates.%20Selman%20Waksman%20-%20First%20day%20cover.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Nobel_Laureates._Selman_Waksman_-_First_day_cover.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Roysma",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "A 2018 Ukrainian first-day cover honoring Waksman, with his stamp and portrait and with a chemical formula.",
-      "illustrates": [],
-      "date": "2025-05-17",
-      "width": 1600,
-      "height": 1131
-    },
-    {
-      "id": "m11",
-      "kind": "video",
-      "url": "https://www.youtube.com/watch?v=_PB-OVGVWGg",
-      "youtube_id": "_PB-OVGVWGg",
-      "source_page": "https://www.youtube.com/watch?v=_PB-OVGVWGg",
-      "source_name": "YouTube",
-      "credit": "Rutgers University",
-      "licence": "YouTube, embedded only (standard YouTube licence)",
-      "licence_url": "https://www.youtube.com/static?template=terms",
-      "hosting": "embed",
-      "caption": "A Rutgers University video, marking 250 years since its founding, about the discovery of streptomycin by Waksman and his student Albert Schatz.",
-      "illustrates": [
-        "c3"
-      ]
-    },
-    {
-      "id": "m12",
-      "kind": "video",
-      "url": "https://www.youtube.com/watch?v=lBKuLLZ2aSo",
-      "youtube_id": "lBKuLLZ2aSo",
-      "source_page": "https://www.youtube.com/watch?v=lBKuLLZ2aSo",
-      "source_name": "YouTube",
-      "credit": "Patrick Kelly",
-      "licence": "YouTube, embedded only (standard YouTube licence)",
-      "licence_url": "https://www.youtube.com/static?template=terms",
-      "hosting": "embed",
-      "caption": "An explanation of streptomycin, the first effective antibiotic against tuberculosis, and of the dispute between Schatz and Waksman over credit for the discovery.",
-      "illustrates": [
-        "c45"
-      ],
-      "spoken": "en",
-      "audio_tracks": [
-        "en",
-        "pl",
-        "id",
-        "fr",
-        "it",
-        "nl",
-        "es",
-        "ml",
-        "pt",
-        "de",
-        "uk",
-        "hi"
-      ]
-    },
-    {
-      "id": "m13",
-      "kind": "video",
-      "url": "https://www.youtube.com/watch?v=eQp5TsEZ_e0",
-      "youtube_id": "eQp5TsEZ_e0",
-      "source_page": "https://www.youtube.com/watch?v=eQp5TsEZ_e0",
-      "source_name": "YouTube",
-      "credit": "Daily Dose Documentary",
-      "licence": "YouTube, embedded only (standard YouTube licence)",
-      "licence_url": "https://www.youtube.com/static?template=terms",
-      "hosting": "embed",
-      "caption": "A short documentary about Albert Schatz, who discovered streptomycin and from whom Waksman took the credit for the discovery.",
-      "illustrates": [
-        "c45"
-      ],
-      "spoken": "en",
-      "audio_tracks": [
-        "en",
-        "ar",
-        "bn",
-        "de",
-        "es",
-        "fr",
-        "hi",
-        "id",
-        "it",
-        "he",
-        "ja",
-        "ko",
-        "ml",
-        "nl",
-        "pa",
-        "pl",
-        "pt",
-        "ru",
-        "ta",
-        "te",
-        "uk"
-      ]
-    },
-    {
-      "id": "m14",
-      "kind": "video",
-      "url": "https://www.youtube.com/watch?v=YtkZt-8QAhA",
-      "youtube_id": "YtkZt-8QAhA",
-      "source_page": "https://www.youtube.com/watch?v=YtkZt-8QAhA",
-      "source_name": "YouTube",
-      "credit": "Boris Lozhkin",
-      "licence": "YouTube, embedded only (standard YouTube licence)",
-      "licence_url": "https://www.youtube.com/static?template=terms",
-      "hosting": "embed",
-      "caption": "A film about Waksman in a series on the Jews of Ukraine, which opens with tuberculosis, which today kills about one and a half million people a year, and with the discovery of streptomycin.",
-      "illustrates": []
-    },
-    {
-      "id": "m15",
-      "kind": "video",
-      "url": "https://www.youtube.com/watch?v=dAlp5HPREQM",
-      "youtube_id": "dAlp5HPREQM",
-      "source_page": "https://www.youtube.com/watch?v=dAlp5HPREQM",
-      "source_name": "YouTube",
-      "credit": "PeriscopeFilm",
-      "licence": "YouTube, embedded only (standard YouTube licence)",
-      "licence_url": "https://www.youtube.com/static?template=terms",
-      "hosting": "embed",
-      "caption": "A 1956 television film from the series Industry on Parade, produced by the American Manufacturers' Association, about Dr. Waksman and streptomycin.",
-      "illustrates": [],
-      "spoken": "en",
-      "audio_tracks": [
-        "en",
-        "de",
-        "es",
-        "fr",
-        "hi",
-        "id",
-        "it",
-        "ja",
-        "ml",
-        "pl",
-        "pt",
-        "uk"
-      ]
-    },
-    {
-      "id": "m16",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Group%20portrait%20including%20E.B.%20Chain.%20Wellcome%20L0012312.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Group_portrait_including_E.B._Chain._Wellcome_L0012312.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "not stated",
-      "licence": "CC BY 4.0",
-      "hosting": "hotlink",
-      "caption": "A group portrait of scientists, among them Selman Waksman, Howard Florey and Ernst Boris Chain.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by/4.0",
-      "width": 3968,
-      "height": 4390,
-      "role": "deed"
-    },
-    {
-      "id": "m17",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Calle%20del%20Profesor%20Waksman.JPG?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Calle_del_Profesor_Waksman.JPG",
-      "source_name": "Wikimedia Commons",
-      "credit": "Asqueladd",
-      "licence": "CC BY-SA 3.0",
-      "hosting": "hotlink",
-      "caption": "A street named after Professor Waksman in Madrid, a city avenue with bare trees.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-      "date": "2017-02",
-      "width": 4288,
-      "height": 3216,
-      "role": "related"
-    },
-    {
-      "id": "m18",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Placa%20de%20la%20calle%20del%20Profesor%20Waksman%20%28cropped%29.JPG?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Placa_de_la_calle_del_Profesor_Waksman_%28cropped%29.JPG",
-      "source_name": "Wikimedia Commons",
-      "credit": "Asqueladd",
-      "licence": "CC BY-SA 3.0",
-      "hosting": "hotlink",
-      "caption": "The street sign \"Calle del Profesor Waksman\" in Madrid.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-      "date": "2017-02",
-      "width": 2170,
-      "height": 879,
-      "role": "related"
-    },
-    {
-      "id": "m19",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20actinomycetes%20%281961%29%20%2816152632663%29.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:The_actinomycetes_%281961%29_%2816152632663%29.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Waksman, Selman A. (Selman Abraham), 1888-1973",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "An illustration of filaments of actinomycetes, soil bacteria, from a 1961 book by Waksman.",
-      "illustrates": [],
-      "date": "1961",
-      "width": 2040,
-      "height": 3060,
-      "role": "related"
-    },
-    {
-      "id": "m20",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20actinomycetes%20%281961%29%20%2816152646263%29.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:The_actinomycetes_%281961%29_%2816152646263%29.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Internet Archive Book Images",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "A micrograph of spores of Streptomyces diastaticus, magnified 4,500 times, from a book on actinomycetes.",
-      "illustrates": [],
-      "date": "1961",
-      "width": 1832,
-      "height": 1368,
-      "role": "related"
-    },
-    {
-      "id": "m21",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20actinomycetes%20%281961%29%20%2816585184890%29.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:The_actinomycetes_%281961%29_%2816585184890%29.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Internet Archive Book Images",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "A micrograph of chains of cells from a book on actinomycetes, bacteria that live in soil.",
-      "illustrates": [],
-      "date": "1961",
-      "width": 2316,
-      "height": 2084,
-      "role": "related"
-    },
-    {
-      "id": "m22",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/1977%20Selman%20A.%20Waxman%20Award%20Medal%20-%20Front%20View.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:1977_Selman_A._Waxman_Award_Medal_-_Front_View.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Witsende",
-      "licence": "CC BY-SA 4.0",
-      "hosting": "hotlink",
-      "caption": "The Selman Waksman lecture medal of the American Society for Microbiology, New Jersey Branch, in a wooden frame.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "date": "2019-03-08",
-      "width": 2549,
-      "height": 2522,
-      "role": "related"
-    },
-    {
-      "id": "m23",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Streptomycin%20Molecular%20Structure.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Streptomycin_Molecular_Structure.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Javentur",
-      "licence": "CC BY-SA 4.0",
-      "hosting": "hotlink",
-      "caption": "A diagram of the chemical structure of the streptomycin molecule.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "date": "2022-05-23",
-      "width": 1507,
-      "height": 804,
-      "role": "deed"
-    },
-    {
-      "id": "m24",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Streptomycin-1ntb-xtal-3D-balls.png?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Streptomycin-1ntb-xtal-3D-balls.png",
-      "source_name": "Wikimedia Commons",
-      "credit": "Ben Mills",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "A ball-and-stick model of the streptomycin molecule, based on X-ray diffraction data.",
-      "illustrates": [],
-      "date": "2008-05-04",
-      "width": 1100,
-      "height": 789,
-      "role": "deed"
-    },
-    {
-      "id": "m27",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Photogravure%20of%20gouache%20painting%3B%20R.%20Koch%20Wellcome%20M0000732.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Photogravure_of_gouache_painting%3B_R._Koch_Wellcome_M0000732.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "not stated",
-      "licence": "CC BY 4.0",
-      "hosting": "hotlink",
-      "caption": "Robert Koch looking through a microscope in his laboratory, among dishes and glass bottles; a print of a gouache painting.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by/4.0",
-      "width": 2748,
-      "height": 3963,
-      "role": "related"
-    },
-    {
-      "id": "m28",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Aetiologie%20der%20Tuberkulose.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Aetiologie_der_Tuberkulose.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Robert Koch",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "A color plate from Koch's writings on the etiology of tuberculosis: tissue sections with bacteria in blue.",
-      "illustrates": [],
-      "date": "1884",
-      "width": 493,
-      "height": 724,
-      "role": "related"
-    },
-    {
-      "id": "m29",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bascillus%20Tuberculosis%20culture%3B%20Koch%27s%20method%20Wellcome%20M0012591.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Bascillus_Tuberculosis_culture%3B_Koch%27s_method_Wellcome_M0012591.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "not stated",
-      "licence": "CC BY 4.0",
-      "hosting": "hotlink",
-      "caption": "Illustrations of culturing the tuberculosis bacterium by Koch's method: a test tube, a Petri dish and microscopic magnifications.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by/4.0",
-      "width": 2575,
-      "height": 4075,
-      "role": "related"
-    },
-    {
-      "id": "m30",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Members%20of%20the%20International%20Congress%20on%20Tuberculosis%20Wellcome%20M0013275.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Members_of_the_International_Congress_on_Tuberculosis_Wellcome_M0013275.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "not stated",
-      "licence": "CC BY 4.0",
-      "hosting": "hotlink",
-      "caption": "Participants in the International Congress on Tuberculosis, 1901, on a weekend outing in Maidenhead; Koch is third from the right and Paul Ehrlich is at the far right.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by/4.0",
-      "width": 3950,
-      "height": 2826,
-      "role": "related"
-    }
-  ],
-  "check": {
-    "passed": true,
-    "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
-    "checked_at": "2026-11-21T18:53:26Z",
-    "counts": {
-      "confirmed": 84,
-      "not_confirmed": 0,
-      "deleted_sentences": 3,
-      "first_round_confirmed": 83,
-      "first_round_contradicted": 1,
-      "first_round_unverifiable": 4
-    },
-    "note": "unverifiable sentences were deleted, contradicted ones fixed from the source and checked again"
+    "m17",
+    "m18",
+    "m22"
+   ],
+   "disagreements": [
+    "d7",
+    "d8"
+   ]
   },
-  "meta": {
-    "run": "waksman-schatz-streptomycin-tuberculosis",
-    "pipeline": "scripts/museum/museum_line.py",
-    "models": {
-      "research": "sonnet-5-5",
-      "extract": "sonnet-5-5",
-      "media": "sonnet-5-5",
-      "write": "opus-5-5 medium",
-      "check": "opus-5-5 medium",
-      "fix": "opus-5-5 medium"
-    },
-    "source_quality": {
-      "sources": 9,
-      "wikipedia": 1,
-      "strong": 6,
-      "ok": true,
-      "warnings": []
-    },
-    "settled": [
-      {
-        "box": "d1",
-        "question": "באיזה יום נולד ואקסמן?",
-        "url": "https://archives.libraries.rutgers.edu/repositories/3/resources/610",
-        "by": "settle 24.11"
-      }
+  {
+   "id": "s7",
+   "title": "Who discovered it, and what the drug did not solve",
+   "kind": "hard",
+   "paragraphs": [
+    [
+     {
+      "text": "According to Woodruff, streptomycin treatment often required about half a year, and as a result resistant tuberculosis cells appeared.",
+      "claims": [
+       "c39"
+      ]
+     },
+     {
+      "text": "It was later found that streptomycin is somewhat toxic to humans, and other antibiotics replaced it.",
+      "claims": [
+       "c40"
+      ]
+     }
     ],
-    "media_dedupe": [
-      {
-        "drop": "m2",
-        "keep": "m1",
-        "by": "reviewed 24.11"
-      }
+    [
+     {
+      "text": "According to Shaastra, Schatz and Waksman applied for a patent together, and Waksman persuaded Schatz to sign over his royalty rights to the university.",
+      "claims": [
+       "c43"
+      ]
+     },
+     {
+      "text": "According to Shaastra, Waksman secretly negotiated with the university to receive 20% of the royalties.",
+      "claims": [
+       "c44"
+      ]
+     },
+     {
+      "text": "According to Shaastra, Schatz felt betrayed and sued both his mentor and the university.",
+      "claims": [
+       "c45"
+      ]
+     },
+     {
+      "text": "According to the NJ Digital Highway website, Schatz became concerned when Waksman began receiving funds from the foundation, $380,000 according to his claim, and filed a civil suit.",
+      "claims": [
+       "c46"
+      ]
+     },
+     {
+      "text": "The case was settled in December 1950.",
+      "claims": [
+       "c47"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "In 1952 Waksman alone received the Nobel Prize, and this drew much criticism.",
+      "claims": [
+       "c54"
+      ]
+     },
+     {
+      "text": "Only in the 1980s did researchers begin to credit Schatz.",
+      "claims": [
+       "c65"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "Woodruff: Waksman proposed that one tenth of the royalties be passed to 26 people who had been involved with streptomycin, and that Schatz, as the discoverer, would receive the largest share",
+      "claims": [
+       "c49"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "Woodruff: students at the Rutgers Agriculture School insisted on a plaque naming Schatz as a codiscoverer, and this was done",
+      "claims": [
+       "c50"
+      ]
+     }
     ]
-  },
-  "lang": "en",
-  "translation": {
-    "from": "he",
-    "translator": "claude-opus-5-5",
-    "checker": "claude-opus-5-5 (separate call, blind to the translation prompt)",
-    "checked_at": "2026-11-23T22:41:53Z",
-    "passed": true,
-    "items": 132,
-    "pairs_checked": 1,
-    "reused": 131,
-    "first_round_flagged": 0,
-    "still_flagged": 0,
-    "flagged": [],
-    "quote_translations": {}
+   ],
+   "media": [
+    "m12",
+    "m13"
+   ],
+   "disagreements": []
   }
+ ],
+ "disagreements": [
+  {
+   "id": "d2",
+   "question": "What was the name of the sister who fell ill with diphtheria, and how old was she?",
+   "versions": [
+    {
+     "says": "Encyclopedia.com: his little sister Miriam died of diphtheria when Waksman was nine years old",
+     "claims": [
+      "c11"
+     ]
+    },
+    {
+     "says": "Odessa Journal: in 1897 his two-year-old sister, Mishkha, fell ill with diphtheria",
+     "claims": [
+      "c12"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d3",
+   "question": "How many people were on Waksman's team?",
+   "versions": [
+    {
+     "says": "Encyclopedia.com: about 50 students and assistants",
+     "claims": [
+      "c19"
+     ]
+    },
+    {
+     "says": "Woodruff: eight researchers who specialized in antibacterial research",
+     "claims": [
+      "c20"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d4",
+   "question": "Where did the strain from which streptomycin was isolated come from?",
+   "versions": [
+    {
+     "says": "Woodruff: from the farm soil of the Rutgers Agriculture School",
+     "claims": [
+      "c29"
+     ]
+    },
+    {
+     "says": "Shaastra: from two sources, fresh manure near the lab and a throat swab from a healthy chicken",
+     "claims": [
+      "c30"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d5",
+   "question": "When was streptomycin discovered?",
+   "versions": [
+    {
+     "says": "The Nobel Committee: in 1943",
+     "claims": [
+      "c3"
+     ]
+    },
+    {
+     "says": "EBSCO: in August 1943, from two strains of Streptomyces griseus",
+     "claims": [
+      "c27"
+     ]
+    },
+    {
+     "says": "Shaastra: on 19 October 1943 Schatz realized that he had a substance that killed tuberculosis bacteria",
+     "claims": [
+      "c26"
+     ]
+    },
+    {
+     "says": "Odessa Journal: in 1942",
+     "claims": [
+      "c28"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d6",
+   "question": "When did the first clinical trials begin?",
+   "versions": [
+    {
+     "says": "One text in Encyclopedia.com: in 1944, and the drug proved highly effective against tuberculosis",
+     "claims": [
+      "c35"
+     ]
+    },
+    {
+     "says": "Another text in Encyclopedia.com: the first trials in human tuberculosis began in 1945",
+     "claims": [
+      "c36"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d7",
+   "question": "When was the Rutgers Institute of Microbiology founded?",
+   "versions": [
+    {
+     "says": "EBSCO: in 1949",
+     "claims": [
+      "c59"
+     ]
+    },
+    {
+     "says": "Encyclopedia.com: in 1951 most of the royalties were assigned to its establishment",
+     "claims": [
+      "c60"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d8",
+   "question": "How many antibiotics did Waksman and his team discover?",
+   "versions": [
+    {
+     "says": "Encyclopedia.com: Waksman himself discovered eighteen antibiotics",
+     "claims": [
+      "c61"
+     ]
+    },
+    {
+     "says": "Another source in Encyclopedia.com: Waksman and his coworkers isolated twenty-two new defensive compounds from soil microbes",
+     "claims": [
+      "c62"
+     ]
+    }
+   ]
+  }
+ ],
+ "unknowns": [],
+ "claims": [
+  {
+   "id": "c1",
+   "text": "נימוק פרס נובל לסלמן ואקסמן היה על גילוי הסטרפטומיצין, האנטיביוטיקה הראשונה היעילה נגד שחפת.",
+   "source": "src1",
+   "quote": "for his discovery of streptomycin, the first antibiotic effective against tuberculosis",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c57",
+   "text": "ואקסמן נסע לשוודיה ב-1952 לקבל את פרס נובל ברפואה על גילוי הסטרפטומיצין.",
+   "source": "src2",
+   "quote": "The crowning event among all these was his trip to Sweden in 1952 to receive the Nobel Prize in physiology and medicine for the discovery of streptomycin.",
+   "status": "confirmed",
+   "locator": "שורה 28"
+  },
+  {
+   "id": "c5",
+   "text": "בתי הסנטוריום ברחבי המדינה היו מלאים בחולי שחפת, ומעט מאוד אפשר היה לעשות למענם.",
+   "source": "src2",
+   "quote": "Sanatoriums around the country were filled with persons suffering the ravages of tuberculosis, and little could be done for them.",
+   "status": "confirmed",
+   "locator": "שורה 74"
+  },
+  {
+   "id": "c23",
+   "text": "ואקסמן ועמיתיו סרקו יותר מ-10,000 מיקרואורגניזמים מהאדמה לפני שבודדו את הסטרפטומיצין ב-1943.",
+   "source": "src2",
+   "quote": "Waksman and his colleagues screened more than 10,000 different soil microbes before they isolated streptomycin in 1943.",
+   "status": "confirmed",
+   "locator": "שורה 107"
+  },
+  {
+   "id": "c3",
+   "text": "בשנת 1943 עמיתו של ואקסמן, אלברט שץ, בודד את הסטרפטומיצין מהחיידק, והוא התברר כתרופה יעילה נגד שחפת.",
+   "source": "src1",
+   "quote": "In 1943 Waksman's colleague, Albert Schatz, isolated streptomycin from this bacterium, which proved an effective medicine against tuberculosis.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c40",
+   "text": "הסטרפטומיצין התגלה בהמשך כרעיל במידה מסוימת לבני אדם ואנטיביוטיקות אחרות החליפו אותו, אך גילויו שינה את מהלך הרפואה המודרנית.",
+   "source": "src2",
+   "quote": "Streptomycin ultimately proved to have some human toxicity and was supplanted by other antibiotics, but its discovery changed the course of modern medicine.",
+   "status": "confirmed",
+   "locator": "שורה 76"
+  },
+  {
+   "id": "c29",
+   "text": "לפי וודרוף, שץ בודד זן סטרפטומיצס גריסאוס מאדמת החווה של בית הספר לחקלאות בראטגרס.",
+   "source": "src3",
+   "quote": "he isolated a Streptomyces griseus strain from the farm soil of the Rutgers Agriculture School.",
+   "status": "confirmed",
+   "locator": "שורה 17"
+  },
+  {
+   "id": "c34",
+   "text": "כשהתברר שהסטרפטומיצין חשוב מאוד, מרק הסכימה להעביר את זכויותיה לאוניברסיטת ראטגרס, שהעניקה רישיונות לכמה חברות לייצר אותו.",
+   "source": "src2",
+   "quote": "When it became obvious that streptomycin was a most important product, Merck generously agreed to transfer its rights to Rutgers University, which licensed a number of companies to manufacture the antibiotic.",
+   "status": "confirmed",
+   "locator": "שורה 27"
+  },
+  {
+   "id": "c2",
+   "text": "לאחר שרוברט קוך גילה שחיידק גורם לשחפת, החל המרוץ למצוא תרופה.",
+   "source": "src1",
+   "quote": "After Robert Koch discovered that tuberculosis is caused by a bacterium, the hunt for a cure began.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c4",
+   "text": "בזמן גילוי הסטרפטומיצין, השחפת הייתה המחלה הזיהומית הגדולה העמידה והבלתי הפיכה ביותר.",
+   "source": "src2",
+   "quote": "At the time of streptomycin's discovery, tuberculosis was the most resistant and irreversible of all the major infectious diseases.",
+   "status": "confirmed",
+   "locator": "שורה 74"
+  },
+  {
+   "id": "c6",
+   "text": "בשנות מלחמת העולם השנייה חיידק השחפת היה הגרוע ביותר, כי עמד בפני כל אנטיביוטיקה שהייתה זמינה.",
+   "source": "src4",
+   "quote": "The TB bacterium was the worst: it resisted every available antibiotic.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c13",
+   "text": "לפי ועדת נובל, ואקסמן נולד ב-22 ביולי 1888 בפרילוקה שבאימפריה הרוסית.",
+   "source": "src1",
+   "quote": "Born: 22 July 1888, Priluka, Russian Empire (now Nova Pryluka, Ukraine)",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c11",
+   "text": "לפי אנציקלופדיה.קום, אחותו הקטנה של ואקסמן, מרים, מתה מדיפתריה כשהיה בן תשע.",
+   "source": "src2",
+   "quote": "his little sister, Miriam, died of diphtheria when he was nine years old, well after the discovery of diphtheria antitoxin",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c9",
+   "text": "בנעוריו סייע ואקסמן בארגון קבוצת הגנה יהודית חמושה של בני נוער נגד הדיכוי.",
+   "source": "src2",
+   "quote": "As a teen during the Russian revolution, Waksman helped organize an armed Jewish youth defense group to counteract oppression.",
+   "status": "confirmed",
+   "locator": "שורה 63"
+  },
+  {
+   "id": "c7",
+   "text": "לפי אחד המקורות, ואקסמן היה יהודי רוסי שנמלט מדעות קדומות ומעוני והגיע לארצות הברית ב-1910.",
+   "source": "src5",
+   "quote": "A Russian Jew, fleeing prejudice and poverty, he arrived in the United States in 1910.",
+   "status": "confirmed",
+   "locator": "שורה 41"
+  },
+  {
+   "id": "c15",
+   "text": "ואקסמן נחת בפילדלפיה ב-2 בנובמבר 1910, בלווית חברו פייסי מיטניק.",
+   "source": "src2",
+   "quote": "Accompanied by Peisi Mitnik, the most important companion of his youth, he landed in Philadelphia on 2 November 1910",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c17",
+   "text": "ב-1932 האגודה האמריקנית למלחמה בשחפת ביקשה מואקסמן לבדוק דיווחים שחיידק השחפת נהרס במהירות באדמה.",
+   "source": "src2",
+   "quote": "In 1932 the American National Association against Tuberculosis asked Waksman to investigate earlier reports that the tubercle bacillus, or the bacteria that cause tuberculosis, was rapidly destroyed in soil.",
+   "status": "confirmed",
+   "locator": "שורה 105"
+  },
+  {
+   "id": "c18",
+   "text": "גילוי הטירותריצין ב-1939 בידי תלמידו לשעבר רנה דובו היה בין הסיבות שהניעו את ואקסמן להתחיל בתוכנית האנטיביוטיקה.",
+   "source": "src2",
+   "quote": "the discovery of tyrothricin by his former student René Dubos in 1939",
+   "status": "confirmed",
+   "locator": "שורה 25"
+  },
+  {
+   "id": "c19",
+   "text": "לפי אנציקלופדיה.קום, ואקסמן הקים צוות של כ-50 סטודנטים ועוזרים לחקור באופן שיטתי אלפי פטריות ומיקרואורגניזמים מהאדמה.",
+   "source": "src2",
+   "quote": "Waksman set up a team of about 50 graduate students and assistants to undertake a systematic study of thousands of different soil fungi and other microorganisms.",
+   "status": "confirmed",
+   "locator": "שורה 71"
+  },
+  {
+   "id": "c21",
+   "text": "ב-1940, בעזרת בויד וודרוף, בודד ואקסמן את האנטיביוטיקה אקטינומיצין.",
+   "source": "src2",
+   "quote": "In that year too, with the help of Boyd Woodruff, he isolated the antibiotic actinomycin.",
+   "status": "confirmed",
+   "locator": "שורה 72"
+  },
+  {
+   "id": "c22",
+   "text": "לפי וודרוף, הצוות גילה במהירות ארבע אנטיביוטיקות, אך כולן היו רעילות לבעלי חיים.",
+   "source": "src3",
+   "quote": "actinomycin, streptothricin, fumigacin, and clavacin. Unfortunately, all four were toxic to animals.",
+   "status": "confirmed",
+   "locator": "שורה 17"
+  },
+  {
+   "id": "c24",
+   "text": "אלברט שץ, הדוקטורנט החדש ביותר בקבוצה, הגיע והחל במחקרו תחת ואקסמן.",
+   "source": "src3",
+   "quote": "Albert Schatz, the most recent Ph.D. student joining our group to search for antibiotics, arrived and started his research under Dr. Waksman",
+   "status": "confirmed",
+   "locator": "שורה 17"
+  },
+  {
+   "id": "c25",
+   "text": "שץ גויס לצבא, ואחרי כמה חודשים שוחרר וחזר לחפש אנטיביוטיקה מועילה.",
+   "source": "src3",
+   "quote": "Then, he was drafted into the army. After a few months, he was released",
+   "status": "confirmed",
+   "locator": "שורה 17"
+  },
+  {
+   "id": "c26",
+   "text": "ב-19 באוקטובר 1943 שץ הבין שברשותו חומר כימי שהורג חיידקי שחפת.",
+   "source": "src4",
+   "quote": "On October 19, 1943, Albert Schatz realised he had a chemical that killed TB bacteria.",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c52",
+   "text": "אליזבת בוגי הייתה המחברת השנייה במאמר המקורי על הסטרפטומיצין.",
+   "source": "src4",
+   "quote": "Elizabeth Bugie (pictured) was the second author on the original streptomycin paper that the trio published.",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c31",
+   "text": "לפי וודרוף, מומחי מאיו קליניק בדקו את החומר ודיווחו שאינו רעיל לבעלי חיים שונים.",
+   "source": "src3",
+   "quote": "and after testing it, they reported that it was not toxic to various animals",
+   "status": "confirmed",
+   "locator": "שורה 17"
+  },
+  {
+   "id": "c32",
+   "text": "לפי וודרוף, הסטרפטומיצין ריפא שרקנים נגועים, והיה התרופה הראשונה שעשתה זאת.",
+   "source": "src3",
+   "quote": "Streptomycin proved to be curative for infected guinea pigs, the first drug to do so",
+   "status": "confirmed",
+   "locator": "שורה 20"
+  },
+  {
+   "id": "c38",
+   "text": "ניסויים קליניים הראו שהסטרפטומיצין יעיל נגד מגוון רחב של מחלות, ובעיקר שחפת.",
+   "source": "src2",
+   "quote": "Clinical trials showed it to be effective against a wide range of diseases, most notably tuberculosis.",
+   "status": "confirmed",
+   "locator": "שורה 73"
+  },
+  {
+   "id": "c37",
+   "text": "עד 1950 הסטרפטומיצין שימש נגד שבעים חיידקים שאי אפשר היה לטפל בהם בפניצילין.",
+   "source": "src2",
+   "quote": "By 1950, streptomycin was used against seventy different germs that were not treatable with penicillin.",
+   "status": "confirmed",
+   "locator": "שורה 75"
+  },
+  {
+   "id": "c33",
+   "text": "חברת מרק בנתה מפעל בווירג'יניה לייצור סטרפטומיצין, והתרופה שווקה ברחבי העולם.",
+   "source": "src3",
+   "quote": "Merck built a factory in Virginia to produce streptomycin, and it became marketed worldwide.",
+   "status": "confirmed",
+   "locator": "שורה 22"
+  },
+  {
+   "id": "c58",
+   "text": "לפי San Diego Jewish World, ואקסמן העביר את הזכויות הבלעדיות על הסטרפטומיצין לאוניברסיטה שבה התגלה.",
+   "source": "src7",
+   "quote": "Waksman transferred the exclusive rights to streptomycin to the university where it was discovered.",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c42",
+   "text": "לפי וודרוף, ואקסמן טען שאנטיביוטיקות מזוקקות אינן עוד מוצרי טבע ולכן ניתן לרשום עליהן פטנט, וכך נקבע.",
+   "source": "src3",
+   "quote": "He argued that purified antibiotics were no longer natural products and, therefore, they should be patentable, and they eventually were judged to be so.",
+   "status": "confirmed",
+   "locator": "שורה 47"
+  },
+  {
+   "id": "c41",
+   "text": "ייצור התרופה הפך לענף של 50 מיליון דולר בשנה.",
+   "source": "src2",
+   "quote": "Manufacture of the drug became a $50-million-per-year industry.",
+   "status": "confirmed",
+   "locator": "שורה 76"
+  },
+  {
+   "id": "c53",
+   "text": "ואקסמן היה מועמד לפרס נובל 45 פעמים, וקיבל אותו רק ב-1952.",
+   "source": "src8",
+   "quote": "Selman Waksman was nominated for the Nobel Prize 45 times, but he received it only in 1952",
+   "status": "confirmed",
+   "locator": "שורה 32"
+  },
+  {
+   "id": "c56",
+   "text": "בנאום הענקת הפרס ציין ארוויד וולגרן שבניגוד לפניצילין, שנתגלה במידה רבה במקרה, הסטרפטומיצין פותח בעבודה שיטתית של קבוצה גדולה של מדענים.",
+   "source": "src7",
+   "quote": "Unlike the discovery of penicillin by Professor Alexander Fleming, which was largely due to chance, the development of streptomycin was the result of the long, systematic, and tireless work of a large group of scientists.",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c60",
+   "text": "לפי אנציקלופדיה.קום, ב-1951 הקצתה קרן ראטגרס את רוב התמלוגים מהסטרפטומיצין והניאומיצין להקמת מכון המיקרוביולוגיה.",
+   "source": "src2",
+   "quote": "the assignment in 1951 by the Rutgers Research Educational Foundation of most of the royalties received from the sale of streptomycin and neomycin to the creation and support of the Institute of Microbiology at Rutgers University",
+   "status": "confirmed",
+   "locator": "שורה 29"
+  },
+  {
+   "id": "c59",
+   "text": "לפי EBSCO, מכון המיקרוביולוגיה של ראטגרס נוסד ב-1949 ואקסמן עמד בראשו עד פרישתו ב-1958.",
+   "source": "src5",
+   "quote": "Patents were assigned to a Rutgers foundation that endowed the Rutgers Institute of Microbiology, founded in 1949 and headed by Waksman until his retirement in 1958.",
+   "status": "confirmed",
+   "locator": "שורה 32"
+  },
+  {
+   "id": "c66",
+   "text": "פיתוח הסטרפטומיצין עורר מדענים ברחבי העולם לחפש בעולם המיקרוביאלי אנטיביוטיקות ותרופות נוספות.",
+   "source": "src2",
+   "quote": "its development stimulated scientists around the globe to search the microbial world for other antibiotics and medicines",
+   "status": "confirmed",
+   "locator": "שורה 76"
+  },
+  {
+   "id": "c64",
+   "text": "לפי יומן אודסה, היום יותר מ-70% מהאנטיביוטיקות מיוצרות מאקטינומיצטלס, חיידקים שואקסמן גילה באדמה.",
+   "source": "src8",
+   "quote": "By the way, today more than 70% of antibiotics are produced just from Actinomycetales",
+   "status": "confirmed",
+   "locator": "שורה 32"
+  },
+  {
+   "id": "c39",
+   "text": "לפי וודרוף, טיפול בסטרפטומיצין דרש לרוב כחצי שנה, מה שהוביל להופעת תאי שחפת עמידים.",
+   "source": "src3",
+   "quote": "Streptomycin often required a 6-month treatment period to achieve a permanent cure of tuberculosis.",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c43",
+   "text": "לפי שאסטרה, שץ וואקסמן הגישו יחד בקשת פטנט, וואקסמן שכנע את שץ לחתום על זכויות התמלוגים לאוניברסיטה.",
+   "source": "src4",
+   "quote": "Schatz and Waksman applied for a patent together, but the latter convinced the former to sign over his royalty rights from sales of the drug to the university.",
+   "status": "confirmed",
+   "locator": "שורה 13"
+  },
+  {
+   "id": "c44",
+   "text": "לפי שאסטרה, ואקסמן ניהל בחשאי משא ומתן עם האוניברסיטה לקבל 20% מהתמלוגים.",
+   "source": "src4",
+   "quote": "Waksman secretly negotiated with the university to get 20% of the royalties.",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c45",
+   "text": "לפי שאסטרה, שץ הרגיש נבגד ותבע גם את מנחהו וגם את האוניברסיטה.",
+   "source": "src4",
+   "quote": "Feeling betrayed, Schatz sued both his mentor and the university.",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c46",
+   "text": "לפי אתר NJ Digital Highway, שץ חשש כשואקסמן החל לקבל כספים מהקרן (380,000 דולר לטענת שץ) והגיש תביעה אזרחית.",
+   "source": "src9",
+   "quote": "Shatz became concerned when Waksman began receiving monies from the Foundation ($380,000 alleged by Schatz) and filed a civil suit.",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c47",
+   "text": "התיק הסתיים בפשרה בדצמבר 1950.",
+   "source": "src9",
+   "quote": "After the case had been settled in December 1950, the legal mess continued as Albert Schatz sued his lawyers.",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c54",
+   "text": "ב-1952 ואקסמן לבדו קיבל את פרס נובל, תוך ביקורת רבה.",
+   "source": "src4",
+   "quote": "In 1952, Waksman alone received the Nobel Prize, amidst much criticism",
+   "status": "confirmed",
+   "locator": "שורה 17"
+  },
+  {
+   "id": "c65",
+   "text": "רק בשנות ה-80 החלו חוקרים להכיר בשץ.",
+   "source": "src4",
+   "quote": "It was only in the 1980s that researchers began crediting Schatz.",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c12",
+   "text": "לפי יומן אודסה, ב-1897 אחותו בת השנתיים, בשם מישכה, חלתה בדיפתריה.",
+   "source": "src8",
+   "quote": "1897 - Mishkha, the 2-year-old sister, suffers from diphtheria.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c20",
+   "text": "לפי וודרוף, ואקסמן אסף שמונה חוקרים שהתמחו במחקר נגד חיידקים.",
+   "source": "src3",
+   "quote": "Dr. Waksman, with his reawakened interest in antibiotics, had gathered eight researchers together to specialize in antibacterial studies",
+   "status": "confirmed",
+   "locator": "שורה 17"
+  },
+  {
+   "id": "c30",
+   "text": "לפי שאסטרה, שץ גידל זני סטרפטומיצס גריסאוס משני מקורות: זבל טרי ליד המעבדה ומשטח גרון מתרנגולת בריאה.",
+   "source": "src4",
+   "quote": "he began culturing strains of a bacterium called Streptomyces griseus taken from two sources: fresh manure found near the lab and a throat swab from a healthy chicken",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c27",
+   "text": "לפי EBSCO, בחודש אוגוסט 1943 ואקסמן ותלמידיו בודדו משני זנים של סטרפטומיצס גריסאוס חומר ששמו סטרפטומיצין.",
+   "source": "src5",
+   "quote": "The good news came in August, 1943. From two strains of streptomyces griseus, Waksman and his students isolated a substance that they dubbed streptomycin.",
+   "status": "confirmed",
+   "locator": "שורה 30"
+  },
+  {
+   "id": "c28",
+   "text": "לפי יומן אודסה, ואקסמן גילה את הסטרפטומיצין ב-1942.",
+   "source": "src8",
+   "quote": "In 1942, Selman discovered streptomycin, but this did not bring the scientist closer to solving the",
+   "status": "confirmed",
+   "locator": "שורה 28"
+  },
+  {
+   "id": "c35",
+   "text": "לפי אנציקלופדיה.קום, מהניסויים הקליניים הראשונים ב-1944 הסטרפטומיצין הוכיח יעילות רבה נגד שחפת.",
+   "source": "src2",
+   "quote": "From the time of its first clinical trials in 1944, it proved to be remarkably effective against tuberculosis",
+   "status": "confirmed",
+   "locator": "שורה 75"
+  },
+  {
+   "id": "c36",
+   "text": "לפי טקסט אחר באנציקלופדיה.קום, הניסויים הקליניים הראשונים בשחפת בבני אדם החלו ב-1945.",
+   "source": "src2",
+   "quote": "The first clinical trials in human tuberculosis began in 1945.",
+   "status": "confirmed",
+   "locator": "שורה 27"
+  },
+  {
+   "id": "c61",
+   "text": "לפי אנציקלופדיה.קום, ואקסמן עצמו גילה שמונה עשרה אנטיביוטיקות במהלך הקריירה שלו.",
+   "source": "src2",
+   "quote": "Waksman himself discovered eighteen antibiotics during the course of his career.",
+   "status": "confirmed",
+   "locator": "שורה 77"
+  },
+  {
+   "id": "c62",
+   "text": "לפי מקור אחר באנציקלופדיה.קום, ואקסמן ושותפיו בודדו עשרים ושניים תרכובות הגנה חדשות מחיידקי אדמה.",
+   "source": "src2",
+   "quote": "He and coworkers isolated twenty-two new defensive compounds produced by soil microbes and in the process discovered streptomycin",
+   "status": "confirmed",
+   "locator": "שורה 102"
+  },
+  {
+   "id": "c49",
+   "text": "לפי וודרוף, ואקסמן הציע שהעשירית מהתמלוגים תועבר ל-26 אנשים שהיו מעורבים בסטרפטומיצין, ושץ, כמגלה, יקבל את החלק הגדול ביותר.",
+   "source": "src3",
+   "quote": "He proposed that 10% of the royalties should be passed to them, 26 persons in all",
+   "status": "confirmed",
+   "locator": "שורה 52"
+  },
+  {
+   "id": "c50",
+   "text": "לפי וודרוף, סטודנטים בבית הספר לחקלאות בראטגרס התעקשו על הצבת שלט שמציין את שץ כמגלה שותף של הסטרפטומיצין, וכך נעשה.",
+   "source": "src3",
+   "quote": "Later, Rutgers Agriculture School students insisted that a plaque showing that Albert Schatz was truly a codiscoverer of streptomycin must be placed in the building",
+   "status": "confirmed",
+   "locator": "שורה 52"
+  },
+  {
+   "id": "c68",
+   "text": "לפי הארכיון של ספריות אוניברסיטת רוטגרס, סלמן אברהם ואקסמן נולד בפרילוקה שברוסיה ב-22 ביולי 1888.",
+   "source": "src10",
+   "quote": "Selman Abraham Waksman was born in Priluka, Russia, on July 22, 1888.",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  }
+ ],
+ "sources": [
+  {
+   "id": "src1",
+   "label": "Nobel Prize Outreach, Selman A. Waksman – Facts",
+   "url": "https://www.nobelprize.org/prizes/medicine/1952/waksman/facts/",
+   "kind": "official"
+  },
+  {
+   "id": "src2",
+   "label": "Encyclopedia.com, Waksman, Selman Abraham",
+   "url": "https://encyclopedia.com/people/medicine/medicine-biographies/selman-abraham-waksman",
+   "kind": "reference"
+  },
+  {
+   "id": "src3",
+   "label": "H. Boyd Woodruff, Applied and Environmental Microbiology, 2014",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3911012",
+   "kind": "official"
+  },
+  {
+   "id": "src4",
+   "label": "Shaastra (IIT Madras), Salve soil",
+   "url": "https://shaastramag.iitm.ac.in/time-machine/salve-soil",
+   "kind": "press"
+  },
+  {
+   "id": "src5",
+   "label": "EBSCO Research Starters, Selman Abraham Waksman",
+   "url": "https://ebsco.com/research-starters/history/selman-abraham-waksman",
+   "kind": "reference"
+  },
+  {
+   "id": "src7",
+   "label": "San Diego Jewish World",
+   "url": "https://www.sdjewishworld.com/?p=187039",
+   "kind": "press"
+  },
+  {
+   "id": "src8",
+   "label": "Odessa Journal, The story of Selman Waksman",
+   "url": "https://odessa-journal.com/his-inventions-save-millions-of-lives-every-day-the-story-of-selman-waksman",
+   "kind": "press"
+  },
+  {
+   "id": "src9",
+   "label": "NJ Digital Highway, The Schatz v. Waksman Lawsuit – 1950",
+   "url": "https://www.njdigitalhighway.org/lesson/selman_waksman/schatz_lawsuit",
+   "kind": "press"
+  },
+  {
+   "id": "src10",
+   "label": "Rutgers University Libraries, Special Collections – Selman A. Waksman papers finding aid",
+   "url": "https://archives.libraries.rutgers.edu/repositories/3/resources/610",
+   "kind": "official"
+  }
+ ],
+ "media": [
+  {
+   "id": "m1",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Selman%20Waksman%20NYWTS.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Selman_Waksman_NYWTS.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "New York World-Telegram and the Sun staff photographer: Higgins, Roger, photographer.",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "Waksman in the laboratory, in a white coat, beside glass equipment and jars of chemicals.",
+   "illustrates": [],
+   "date": "1953",
+   "width": 2177,
+   "height": 2668
+  },
+  {
+   "id": "m3",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Waksman%2C%20selman.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Waksman%2C_selman.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Unknown photographer",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "Waksman and two female colleagues in the laboratory, with jars of soil, test tubes and Petri dishes; according to the file description, they are testing streptomycin.",
+   "illustrates": [],
+   "date": "Unknown da",
+   "width": 2700,
+   "height": 1800
+  },
+  {
+   "id": "m4",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Instituto%20Butantan%202016%20091%20-%20Selman%20Waksman.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Instituto_Butantan_2016_091_-_Selman_Waksman.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Photograph by Mike Peel (www.mikepeel.net).",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "A bust of Selman Waksman in an exhibition at the Butantan Institute in São Paulo, Brazil.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2016-12-04",
+   "width": 3024,
+   "height": 4032
+  },
+  {
+   "id": "m5",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20A%20Salman%20Waksman%20Wellcome%20M0016141.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Portrait_of_A_Salman_Waksman_Wellcome_M0016141.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "not stated",
+   "licence": "CC BY 4.0",
+   "hosting": "hotlink",
+   "caption": "Waksman in his laboratory, holding a bottle in his hand and looking at it.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/4.0",
+   "width": 4016,
+   "height": 2709
+  },
+  {
+   "id": "m6",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%92%D0%B0%D0%BA%D1%81%D0%BC%D0%B0%D0%BD%D0%9F%D1%80%D0%B8%D0%BB%D1%83%D0%BA%D0%B0.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:%D0%92%D0%B0%D0%BA%D1%81%D0%BC%D0%B0%D0%BD%D0%9F%D1%80%D0%B8%D0%BB%D1%83%D0%BA%D0%B0.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Visem at Ukrainian Wikipedia",
+   "licence": "GFDL",
+   "hosting": "hotlink",
+   "caption": "A memorial stone with a wreath of flowers in Nova Pryluka in memory of Waksman.",
+   "illustrates": [],
+   "licence_url": "http://www.gnu.org/copyleft/fdl.html",
+   "date": "2010-07-07",
+   "width": 1536,
+   "height": 2048
+  },
+  {
+   "id": "m7",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nova%20Pryluka%2012.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Nova_Pryluka_12.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Visem",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "The memorial stone to Waksman in the park of Nova Pryluka, in autumn, at the end of a paved path.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "2012-11-04",
+   "width": 3264,
+   "height": 2448
+  },
+  {
+   "id": "m8",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nova%20Pryluka%2011.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Nova_Pryluka_11.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Visem",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "The memorial stone in Nova Pryluka with an inscription in Ukrainian and English about Waksman's birth in the village.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "2012-11-04",
+   "width": 2448,
+   "height": 3264
+  },
+  {
+   "id": "m9",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Instituto%20Butantan%205.JPG?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Instituto_Butantan_5.JPG",
+   "source_name": "Wikimedia Commons",
+   "credit": "Eugenio Hansen, OFS",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "A bronze bust of Selman Waksman, in an exhibition at the Butantan Institute.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2016-01-28",
+   "width": 3864,
+   "height": 5152
+  },
+  {
+   "id": "m10",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nobel%20Laureates.%20Selman%20Waksman%20-%20First%20day%20cover.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Nobel_Laureates._Selman_Waksman_-_First_day_cover.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Roysma",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "A 2018 Ukrainian first-day cover honoring Waksman, with his stamp and portrait and with a chemical formula.",
+   "illustrates": [],
+   "date": "2025-05-17",
+   "width": 1600,
+   "height": 1131
+  },
+  {
+   "id": "m11",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=_PB-OVGVWGg",
+   "youtube_id": "_PB-OVGVWGg",
+   "source_page": "https://www.youtube.com/watch?v=_PB-OVGVWGg",
+   "source_name": "YouTube",
+   "credit": "Rutgers University",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "A Rutgers University video, marking 250 years since its founding, about the discovery of streptomycin by Waksman and his student Albert Schatz.",
+   "illustrates": [
+    "c3"
+   ]
+  },
+  {
+   "id": "m12",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=lBKuLLZ2aSo",
+   "youtube_id": "lBKuLLZ2aSo",
+   "source_page": "https://www.youtube.com/watch?v=lBKuLLZ2aSo",
+   "source_name": "YouTube",
+   "credit": "Patrick Kelly",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "An explanation of streptomycin, the first effective antibiotic against tuberculosis, and of the dispute between Schatz and Waksman over credit for the discovery.",
+   "illustrates": [
+    "c45"
+   ],
+   "spoken": "en",
+   "audio_tracks": [
+    "en",
+    "pl",
+    "id",
+    "fr",
+    "it",
+    "nl",
+    "es",
+    "ml",
+    "pt",
+    "de",
+    "uk",
+    "hi"
+   ]
+  },
+  {
+   "id": "m13",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=eQp5TsEZ_e0",
+   "youtube_id": "eQp5TsEZ_e0",
+   "source_page": "https://www.youtube.com/watch?v=eQp5TsEZ_e0",
+   "source_name": "YouTube",
+   "credit": "Daily Dose Documentary",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "A short documentary about Albert Schatz, who discovered streptomycin and from whom Waksman took the credit for the discovery.",
+   "illustrates": [
+    "c45"
+   ],
+   "spoken": "en",
+   "audio_tracks": [
+    "en",
+    "ar",
+    "bn",
+    "de",
+    "es",
+    "fr",
+    "hi",
+    "id",
+    "it",
+    "he",
+    "ja",
+    "ko",
+    "ml",
+    "nl",
+    "pa",
+    "pl",
+    "pt",
+    "ru",
+    "ta",
+    "te",
+    "uk"
+   ]
+  },
+  {
+   "id": "m14",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=YtkZt-8QAhA",
+   "youtube_id": "YtkZt-8QAhA",
+   "source_page": "https://www.youtube.com/watch?v=YtkZt-8QAhA",
+   "source_name": "YouTube",
+   "credit": "Boris Lozhkin",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "A film about Waksman in a series on the Jews of Ukraine, which opens with tuberculosis, which today kills about one and a half million people a year, and with the discovery of streptomycin.",
+   "illustrates": []
+  },
+  {
+   "id": "m15",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=dAlp5HPREQM",
+   "youtube_id": "dAlp5HPREQM",
+   "source_page": "https://www.youtube.com/watch?v=dAlp5HPREQM",
+   "source_name": "YouTube",
+   "credit": "PeriscopeFilm",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "A 1956 television film from the series Industry on Parade, produced by the American Manufacturers' Association, about Dr. Waksman and streptomycin.",
+   "illustrates": [],
+   "spoken": "en",
+   "audio_tracks": [
+    "en",
+    "de",
+    "es",
+    "fr",
+    "hi",
+    "id",
+    "it",
+    "ja",
+    "ml",
+    "pl",
+    "pt",
+    "uk"
+   ]
+  },
+  {
+   "id": "m16",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Group%20portrait%20including%20E.B.%20Chain.%20Wellcome%20L0012312.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Group_portrait_including_E.B._Chain._Wellcome_L0012312.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "not stated",
+   "licence": "CC BY 4.0",
+   "hosting": "hotlink",
+   "caption": "A group portrait of scientists, among them Selman Waksman, Howard Florey and Ernst Boris Chain.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/4.0",
+   "width": 3968,
+   "height": 4390,
+   "role": "deed"
+  },
+  {
+   "id": "m17",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Calle%20del%20Profesor%20Waksman.JPG?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Calle_del_Profesor_Waksman.JPG",
+   "source_name": "Wikimedia Commons",
+   "credit": "Asqueladd",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "A street named after Professor Waksman in Madrid, a city avenue with bare trees.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "2017-02",
+   "width": 4288,
+   "height": 3216,
+   "role": "related"
+  },
+  {
+   "id": "m18",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Placa%20de%20la%20calle%20del%20Profesor%20Waksman%20%28cropped%29.JPG?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Placa_de_la_calle_del_Profesor_Waksman_%28cropped%29.JPG",
+   "source_name": "Wikimedia Commons",
+   "credit": "Asqueladd",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "The street sign \"Calle del Profesor Waksman\" in Madrid.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "2017-02",
+   "width": 2170,
+   "height": 879,
+   "role": "related"
+  },
+  {
+   "id": "m19",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20actinomycetes%20%281961%29%20%2816152632663%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:The_actinomycetes_%281961%29_%2816152632663%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Waksman, Selman A. (Selman Abraham), 1888-1973",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "An illustration of filaments of actinomycetes, soil bacteria, from a 1961 book by Waksman.",
+   "illustrates": [],
+   "date": "1961",
+   "width": 2040,
+   "height": 3060,
+   "role": "related"
+  },
+  {
+   "id": "m20",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20actinomycetes%20%281961%29%20%2816152646263%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:The_actinomycetes_%281961%29_%2816152646263%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Internet Archive Book Images",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "A micrograph of spores of Streptomyces diastaticus, magnified 4,500 times, from a book on actinomycetes.",
+   "illustrates": [],
+   "date": "1961",
+   "width": 1832,
+   "height": 1368,
+   "role": "related"
+  },
+  {
+   "id": "m21",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20actinomycetes%20%281961%29%20%2816585184890%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:The_actinomycetes_%281961%29_%2816585184890%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Internet Archive Book Images",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "A micrograph of chains of cells from a book on actinomycetes, bacteria that live in soil.",
+   "illustrates": [],
+   "date": "1961",
+   "width": 2316,
+   "height": 2084,
+   "role": "related"
+  },
+  {
+   "id": "m22",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/1977%20Selman%20A.%20Waxman%20Award%20Medal%20-%20Front%20View.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:1977_Selman_A._Waxman_Award_Medal_-_Front_View.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Witsende",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "The Selman Waksman lecture medal of the American Society for Microbiology, New Jersey Branch, in a wooden frame.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2019-03-08",
+   "width": 2549,
+   "height": 2522,
+   "role": "related"
+  },
+  {
+   "id": "m23",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Streptomycin%20Molecular%20Structure.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Streptomycin_Molecular_Structure.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Javentur",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "A diagram of the chemical structure of the streptomycin molecule.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2022-05-23",
+   "width": 1507,
+   "height": 804,
+   "role": "deed"
+  },
+  {
+   "id": "m24",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Streptomycin-1ntb-xtal-3D-balls.png?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Streptomycin-1ntb-xtal-3D-balls.png",
+   "source_name": "Wikimedia Commons",
+   "credit": "Ben Mills",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "A ball-and-stick model of the streptomycin molecule, based on X-ray diffraction data.",
+   "illustrates": [],
+   "date": "2008-05-04",
+   "width": 1100,
+   "height": 789,
+   "role": "deed"
+  },
+  {
+   "id": "m27",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Photogravure%20of%20gouache%20painting%3B%20R.%20Koch%20Wellcome%20M0000732.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Photogravure_of_gouache_painting%3B_R._Koch_Wellcome_M0000732.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "not stated",
+   "licence": "CC BY 4.0",
+   "hosting": "hotlink",
+   "caption": "Robert Koch looking through a microscope in his laboratory, among dishes and glass bottles; a print of a gouache painting.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/4.0",
+   "width": 2748,
+   "height": 3963,
+   "role": "related"
+  },
+  {
+   "id": "m28",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Aetiologie%20der%20Tuberkulose.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Aetiologie_der_Tuberkulose.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Robert Koch",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "A color plate from Koch's writings on the etiology of tuberculosis: tissue sections with bacteria in blue.",
+   "illustrates": [],
+   "date": "1884",
+   "width": 493,
+   "height": 724,
+   "role": "related"
+  },
+  {
+   "id": "m29",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bascillus%20Tuberculosis%20culture%3B%20Koch%27s%20method%20Wellcome%20M0012591.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Bascillus_Tuberculosis_culture%3B_Koch%27s_method_Wellcome_M0012591.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "not stated",
+   "licence": "CC BY 4.0",
+   "hosting": "hotlink",
+   "caption": "Illustrations of culturing the tuberculosis bacterium by Koch's method: a test tube, a Petri dish and microscopic magnifications.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/4.0",
+   "width": 2575,
+   "height": 4075,
+   "role": "related"
+  },
+  {
+   "id": "m30",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Members%20of%20the%20International%20Congress%20on%20Tuberculosis%20Wellcome%20M0013275.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Members_of_the_International_Congress_on_Tuberculosis_Wellcome_M0013275.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "not stated",
+   "licence": "CC BY 4.0",
+   "hosting": "hotlink",
+   "caption": "Participants in the International Congress on Tuberculosis, 1901, on a weekend outing in Maidenhead; Koch is third from the right and Paul Ehrlich is at the far right.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/4.0",
+   "width": 3950,
+   "height": 2826,
+   "role": "related"
+  }
+ ],
+ "check": {
+  "passed": true,
+  "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
+  "checked_at": "2026-11-21T18:53:26Z",
+  "counts": {
+   "confirmed": 75,
+   "not_confirmed": 0,
+   "deleted_sentences": 3,
+   "first_round_confirmed": 83,
+   "first_round_contradicted": 1,
+   "first_round_unverifiable": 4
+  },
+  "note": "unverifiable sentences were deleted, contradicted ones fixed from the source and checked again"
+ },
+ "meta": {
+  "run": "waksman-schatz-streptomycin-tuberculosis",
+  "pipeline": "scripts/museum/museum_line.py",
+  "models": {
+   "research": "sonnet-5-5",
+   "extract": "sonnet-5-5",
+   "media": "sonnet-5-5",
+   "write": "opus-5-5 medium",
+   "check": "opus-5-5 medium",
+   "fix": "opus-5-5 medium"
+  },
+  "source_quality": {
+   "sources": 9,
+   "wikipedia": 0,
+   "strong": 6,
+   "ok": true,
+   "warnings": []
+  },
+  "settled": [
+   {
+    "box": "d1",
+    "question": "באיזה יום נולד ואקסמן?",
+    "url": "https://archives.libraries.rutgers.edu/repositories/3/resources/610",
+    "by": "settle 24.11"
+   }
+  ],
+  "media_dedupe": [
+   {
+    "drop": "m2",
+    "keep": "m1",
+    "by": "reviewed 24.11"
+   }
+  ],
+  "wiki_cleanup": {
+   "at": "2026-11-27T15:40:43Z",
+   "targets": 8,
+   "resourced": 0,
+   "kept_on_other_sources": 0,
+   "deleted": 8
+  }
+ },
+ "lang": "en",
+ "translation": {
+  "from": "he",
+  "translator": "claude-opus-5-5",
+  "checker": "claude-opus-5-5 (separate call, blind to the translation prompt)",
+  "checked_at": "2026-11-27T15:40:43Z",
+  "passed": true,
+  "items": 121,
+  "pairs_checked": 0,
+  "reused": 121,
+  "first_round_flagged": 0,
+  "still_flagged": 0,
+  "flagged": [],
+  "quote_translations": {}
+ }
 }

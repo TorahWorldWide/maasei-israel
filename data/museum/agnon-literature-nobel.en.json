@@ -130,12 +130,6 @@
       "claims": [
        "c68"
       ]
-     },
-     {
-      "text": "His father, Shalom Mordechai Czaczkes, held rabbinic ordination but worked in the fur trade.",
-      "claims": [
-       "c69"
-      ]
      }
     ],
     [
@@ -162,33 +156,22 @@
       ]
      },
      {
-      "text": "According to Hamichlol, on 28 October 1912 Arthur Ruppin and Agnon sailed from Jaffa on their way to Berlin.",
-      "claims": [
-       "c59"
-      ]
-     },
-     {
       "text": "On 6 June 1924 a fire broke out in his home in Bad Homburg.",
       "claims": [
-       "c60"
+       "c76"
       ]
      },
      {
       "text": "All his manuscripts and his book collection were destroyed in the fire.",
       "claims": [
-       "c60"
+       "c77",
+       "c78"
       ]
      },
      {
       "text": "According to the Nobel website, after the fire the family returned to Palestine.",
       "claims": [
        "c58"
-      ]
-     },
-     {
-      "text": "After moving to Jerusalem permanently in 1924, Agnon began wearing a kippah and observed the commandments until the end of his life.",
-      "claims": [
-       "c61"
       ]
      },
      {
@@ -248,12 +231,6 @@
       "text": "He did not win until 1966.",
       "claims": [
        "c42"
-      ]
-     },
-     {
-      "text": "In the summer of 1951 he visited Sweden to improve his chances of winning, and during the visit he suffered a heart attack.",
-      "claims": [
-       "c43"
       ]
      },
      {
@@ -323,12 +300,6 @@
       ]
      },
      {
-      "text": "According to Hamichlol, Sweden's representative in Israel, Carl Lindahl, informed Agnon of the Swedish Academy's decision.",
-      "claims": [
-       "c4"
-      ]
-     },
-     {
       "text": "The prize citation was \"for his profoundly characteristic narrative art with motifs from the life of the Jewish people\".",
       "claims": [
        "c1"
@@ -366,7 +337,7 @@
       "text": "Agnon became the Jewish state's first Nobel Prize laureate.",
       "claims": [
        "c5",
-       "c8"
+       "c81"
       ]
      },
      {
@@ -393,6 +364,14 @@
        "c3"
       ]
      }
+    ],
+    [
+     {
+      "text": "According to the Jerusalem Post, the announcement of the award was on 18 October 1966",
+      "claims": [
+       "c3"
+      ]
+     }
     ]
    ],
    "media": [
@@ -400,9 +379,7 @@
     "m1",
     "m34"
    ],
-   "disagreements": [
-    "d4"
-   ]
+   "disagreements": []
   },
   {
    "id": "s4",
@@ -640,19 +617,8 @@
      {
       "text": "In May 1967 Agnon set out on a tour of the United States.",
       "claims": [
-       "c63"
-      ]
-     },
-     {
-      "text": "With the outbreak of the Six-Day War he cut the tour short and returned to Israel.",
-      "claims": [
-       "c63"
-      ]
-     },
-     {
-      "text": "About three months after the war he joined the founders of the Movement for Greater Israel.",
-      "claims": [
-       "c64"
+       "c82",
+       "c83"
       ]
      },
      {
@@ -799,24 +765,6 @@
      ]
     }
    ]
-  },
-  {
-   "id": "d4",
-   "question": "On what date was the award announced?",
-   "versions": [
-    {
-     "says": "According to the Jerusalem Post, the announcement of the award was on 18 October 1966",
-     "claims": [
-      "c3"
-     ]
-    },
-    {
-     "says": "According to Hamichlol, Sweden's representative informed Agnon of the award on 20 October 1966",
-     "claims": [
-      "c4"
-     ]
-    }
-   ]
   }
  ],
  "unknowns": [
@@ -941,14 +889,6 @@
    "locator": "שורה 5"
   },
   {
-   "id": "c69",
-   "text": "אביו של עגנון, שלום מרדכי צ'צ'קס, היה בעל סמיכה לרבנות אך עסק במסחר בפרוות.",
-   "source": "src8",
-   "quote": "ושלום מרדכי צ'צ'קס, שהיה בעל סמיכה לרבנות, אך עסק במסחר בפרוות.",
-   "status": "confirmed",
-   "locator": "שורה 50"
-  },
-  {
    "id": "c54",
    "text": "לפי אתר נובל, עגנון עבר ליפו ב-1907, ושש שנים לאחר מכן עבר לגרמניה, שם הכיר את אשתו.",
    "source": "src2",
@@ -981,36 +921,12 @@
    "locator": "שורה 6"
   },
   {
-   "id": "c59",
-   "text": "לפי המכלול, ב-28 באוקטובר 1912 הפליגו ארתור רופין ועגנון מיפו בדרך לברלין.",
-   "source": "src8",
-   "quote": "ב-28 באוקטובר 1912 הפליגו רופין ועגנון מיפו בדרכם לברלין.",
-   "status": "confirmed",
-   "locator": "שורה 69"
-  },
-  {
-   "id": "c60",
-   "text": "ב-6 ביוני 1924 פרצה שרפה בביתו של עגנון בבאד הומבורג, וכל כתבי היד שלו ואוסף ספריו עלו באש.",
-   "source": "src8",
-   "quote": "ב-6 ביוני 1924 פרצה שרפה בביתו של עגנון בבאד הומבורג, וכל כתבי-היד שלו ואוסף ספריו הגדול עלו באש.",
-   "status": "confirmed",
-   "locator": "שורה 81"
-  },
-  {
    "id": "c58",
    "text": "לפי אתר נובל, עגנון חי בגרמניה עד 1924, אז חזרה המשפחה לפלשתינה לאחר ששרפה הרסה את ביתם.",
    "source": "src2",
    "quote": "Six years later, he moved to Germany where he met his wife and lived until 1924",
    "status": "confirmed",
    "locator": "שורה 10"
-  },
-  {
-   "id": "c61",
-   "text": "לאחר עלייתו הקבועה לירושלים ב-1924 החל עגנון לחבוש כיפה ושמר מצוות עד סוף ימיו.",
-   "source": "src8",
-   "quote": "הוא החל לחבוש כיפה, שב בכל לבו לשמירת המצוות, ודבק בהן עד סוף ימיו.",
-   "status": "confirmed",
-   "locator": "שורה 83"
   },
   {
    "id": "c70",
@@ -1027,14 +943,6 @@
    "quote": "an August 1951 air letter written from Stockholm when Agnon was nominated for the first time as a candidate for the Nobel Prize",
    "status": "confirmed",
    "locator": "שורה 13"
-  },
-  {
-   "id": "c43",
-   "text": "בביקור בשוודיה בקיץ 1951, שנועד לשפר את סיכוייו לזכות בפרס נובל, לקה עגנון בהתקף לב.",
-   "source": "src8",
-   "quote": "בעת ביקור בשוודיה בקיץ 1951, שנועד לשפר את סיכוייו לזכות בפרס נובל, לקה עגנון בהתקף לב.",
-   "status": "confirmed",
-   "locator": "שורה 106"
   },
   {
    "id": "c44",
@@ -1077,14 +985,6 @@
    "locator": "שורה 2"
   },
   {
-   "id": "c4",
-   "text": "לפי המכלול, ב-20 באוקטובר 1966 בישר נציג שוודיה בישראל, קרל לינדול, לעגנון על החלטת האקדמיה השוודית להעניק לו את פרס נובל.",
-   "source": "src8",
-   "quote": "מיופה הכוח של שוודיה בישראל, קרל לינדול, מבשר לעגנון על החלטת האקדמיה השוודית להעניק לו את פרס נובל לספרות. 20.10.1966",
-   "status": "confirmed",
-   "locator": "שורה 103"
-  },
-  {
    "id": "c11",
    "text": "לפי JTA, עגנון נשאר רגוע למרות הפתעתו הברורה כששמע על הזכייה.",
    "source": "src1",
@@ -1115,14 +1015,6 @@
    "quote": "with the announcement that he had won the Nobel Prize for Literature, becoming the Jewish state's first Nobel Prize laureate",
    "status": "confirmed",
    "locator": "שורה 25"
-  },
-  {
-   "id": "c8",
-   "text": "לפי המכלול, עגנון הוא הישראלי הראשון שזכה בפרס נובל והיחיד עד כה שזכה בפרס נובל לספרות.",
-   "source": "src8",
-   "quote": "עגנון הוא הישראלי הראשון שזכה בפרס נובל והיחיד עד כה שזכה בפרס נובל לספרות.",
-   "status": "confirmed",
-   "locator": "שורה 44"
   },
   {
    "id": "c6",
@@ -1285,22 +1177,6 @@
    "locator": "שורה 4"
   },
   {
-   "id": "c63",
-   "text": "במאי 1967 יצא עגנון לסיור בארצות הברית, אך עם פרוץ מלחמת ששת הימים קטע אותו וחזר ארצה.",
-   "source": "src8",
-   "quote": "ב-18 במאי 1967 יצא עגנון לסיור בארצות הברית, אך עם פרוץ מלחמת ששת הימים החליט לקטוע את הסיור ולחזור ארצה.",
-   "status": "confirmed",
-   "locator": "שורה 111"
-  },
-  {
-   "id": "c64",
-   "text": "כשלושה חודשים אחרי מלחמת ששת הימים הצטרף עגנון למייסדי התנועה למען ארץ ישראל השלמה.",
-   "source": "src8",
-   "quote": "נענה עגנון לפנייתו של הסופר משה שמיר והצטרף אל מייסדי התנועה למען ארץ ישראל השלמה",
-   "status": "confirmed",
-   "locator": "שורה 111"
-  },
-  {
    "id": "c66",
    "text": "עגנון מת ארבע שנים לאחר שקיבל את פרס נובל.",
    "source": "src5",
@@ -1387,6 +1263,54 @@
    "quote": "In October 1912, the twenty-four-year-old Hebrew writer Shmuel Yosef Agnon embarked on a ship in the port of Jaffa",
    "status": "confirmed",
    "locator": "שורה 20"
+  },
+  {
+   "id": "c76",
+   "text": "ב-6 ביוני 1924 פרצה שרפה בביתו בבאד הומבורג.",
+   "source": "src11",
+   "quote": "ב־6 ביוני 1924, כשנה לאחר מכן, פרצה דליקה בביתו של עגנון",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c77",
+   "text": "כל כתבי היד שלו ואוסף ספריו עלו באש.",
+   "source": "src7",
+   "quote": "In 1924 fire swept his home and destroyed all his books and manuscripts",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c78",
+   "text": "כל כתבי היד שלו ואוסף ספריו עלו באש.",
+   "source": "src11",
+   "quote": "האש כילתה את כתבי היד של עגנון",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c81",
+   "text": "עגנון היה לחתן פרס נובל הראשון של המדינה היהודית.",
+   "source": "src12",
+   "quote": "Agnon became Israel's first Nobel laureate when he received the literature prize in 1966.",
+   "status": "confirmed",
+   "locator": "שורה 1"
+  },
+  {
+   "id": "c82",
+   "text": "במאי 1967 יצא עגנון לסיור בארצות הברית.",
+   "source": "src13",
+   "quote": "It was May 23, 1967, just a few months after Agnon was awarded the Nobel Prize in Literature.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c83",
+   "text": "במאי 1967 יצא עגנון לסיור בארצות הברית.",
+   "source": "src13",
+   "quote": "in 1967 – on his first and only trip to America – Israeli author S.Y. Agnon stood before 1000 Americans",
+   "status": "confirmed",
+   "locator": "שורה 6"
   }
  ],
  "sources": [
@@ -1433,12 +1357,6 @@
    "kind": "organisation"
   },
   {
-   "id": "src8",
-   "label": "Hamichlol, S.Y. Agnon",
-   "url": "https://www.hamichlol.org.il/%D7%A9%22%D7%99_%D7%A2%D7%92%D7%A0%D7%95%D7%9F",
-   "kind": "reference"
-  },
-  {
    "id": "src9",
    "label": "Jewish Journal, Agnon and Sachs",
    "url": "https://jewishjournal.com/culture/213022/",
@@ -1449,6 +1367,24 @@
    "label": "AJS Review (Cambridge University Press), Agnon in Germany 1912-1924: A Chapter of a Biography",
    "url": "https://www.cambridge.org/core/journals/ajs-review/article/agnon-in-germany19121924-a-chapter-of-a-biography/9A9D4CC23314DC15B5822CA67DDBB8B6",
    "kind": "reference"
+  },
+  {
+   "id": "src11",
+   "label": "ynet: Agnon's Hidden Treasure: The Pages That Survived the Fire to Be Revealed for the First Time",
+   "url": "https://www.ynet.co.il/articles/0,7340,L-4942702,00.html",
+   "kind": "press"
+  },
+  {
+   "id": "src12",
+   "label": "iEducation (israeled.org): S.Y. Agnon (1888-1970)",
+   "url": "https://israeled.org/s-y-agnon-1888-1970",
+   "kind": "reference"
+  },
+  {
+   "id": "src13",
+   "label": "Jewish Journal: Agnon's 1967 trip to America",
+   "url": "https://jewishjournal.com/?p=353381",
+   "kind": "press"
   }
  ],
  "media": [
@@ -1644,9 +1580,7 @@
    "licence_url": "https://www.youtube.com/static?template=terms",
    "hosting": "embed",
    "caption": "Clip from the Israel State Archives in which Agnon learns live on air of his Nobel Prize in Literature.",
-   "illustrates": [
-    "c4"
-   ],
+   "illustrates": [],
    "spoken": "he",
    "audio_tracks": [
     "he"
@@ -1966,7 +1900,7 @@
   "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
   "checked_at": "2026-11-14T03:00:18Z",
   "counts": {
-   "confirmed": 106,
+   "confirmed": 97,
    "not_confirmed": 0,
    "deleted_sentences": 2,
    "first_round_confirmed": 105,
@@ -1987,7 +1921,7 @@
    "fix": "opus-5-5 medium"
   },
   "source_quality": {
-   "sources": 9,
+   "sources": 12,
    "wikipedia": 0,
    "strong": 7,
    "ok": true,
@@ -2000,31 +1934,31 @@
     "url": "https://www.cambridge.org/core/journals/ajs-review/article/agnon-in-germany19121924-a-chapter-of-a-biography/9A9D4CC23314DC15B5822CA67DDBB8B6",
     "by": "settle 24.11"
    }
-  ]
+  ],
+  "wiki_cleanup": {
+   "at": "2026-11-27T15:35:08Z",
+   "targets": 12,
+   "resourced": 4,
+   "kept_on_other_sources": 0,
+   "deleted": 8
+  }
  },
  "lang": "en",
  "translation": {
   "from": "he",
   "translator": "claude-opus-5-5",
   "checker": "claude-opus-5-5 (separate call, blind to the translation prompt)",
-  "checked_at": "2026-11-23T22:23:04Z",
+  "checked_at": "2026-11-27T15:35:16Z",
   "passed": true,
-  "items": 177,
-  "pairs_checked": 1,
-  "reused": 176,
-  "first_round_flagged": 1,
+  "items": 161,
+  "pairs_checked": 2,
+  "reused": 158,
+  "first_round_flagged": 0,
   "still_flagged": 0,
   "flagged": [],
   "quote_translations": {
-   "c69": "And Shalom Mordechai Czaczkes, who held rabbinic ordination, but worked in the fur trade.",
-   "c59": "On 28 October 1912 Ruppin and Agnon sailed from Jaffa on their way to Berlin.",
-   "c60": "On 6 June 1924 a fire broke out in Agnon's home in Bad Homburg, and all his manuscripts and his large book collection went up in flames.",
-   "c61": "He began to wear a kippah, returned wholeheartedly to observing the commandments, and held to them until the end of his life.",
-   "c43": "During a visit to Sweden in the summer of 1951, intended to improve his chances of winning the Nobel Prize, Agnon suffered a heart attack.",
-   "c4": "Sweden's chargé in Israel, Carl Lindahl, informs Agnon of the Swedish Academy's decision to award him the Nobel Prize in Literature. 20.10.1966",
-   "c8": "Agnon is the first Israeli to win the Nobel Prize and the only one to date to win the Nobel Prize in Literature.",
-   "c63": "On 18 May 1967 Agnon set out on a tour of the United States, but with the outbreak of the Six-Day War he decided to cut the tour short and return to Israel.",
-   "c64": "Agnon responded to the appeal of the writer Moshe Shamir and joined the founders of the Movement for Greater Israel"
+   "c76": "On June 6, 1924, about a year later, a fire broke out in Agnon's home",
+   "c78": "The fire consumed Agnon's manuscripts"
   }
  }
 }

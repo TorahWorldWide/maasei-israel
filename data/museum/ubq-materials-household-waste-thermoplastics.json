@@ -32,9 +32,9 @@
    ]
   },
   {
-   "text": "לפי ויקיפדיה, ב-2024 פתחה החברה מתקן ייצור מלא בברחן אופ זום שבהולנד.",
+   "text": "ב-2024 פתחה החברה מתקן ייצור מלא בברחן אופ זום שבהולנד.",
    "claims": [
-    "c79"
+    "c84"
    ]
   }
  ],
@@ -57,14 +57,14 @@
    "label": "מייסדים",
    "value": "ג'ק ביביו, יהודה פרל, ארן לב",
    "claims": [
-    "c78"
+    "c85"
    ]
   },
   {
    "label": "מאז",
    "value": "2012",
    "claims": [
-    "c78"
+    "c86"
    ]
   },
   {
@@ -72,7 +72,7 @@
    "value": "קיבוץ צאלים, וברחן אופ זום בהולנד",
    "claims": [
     "c36",
-    "c79"
+    "c87"
    ]
   },
   {
@@ -86,7 +86,7 @@
    "label": "הכרה",
    "value": "רשימת ההמצאות הטובות של טיים, 2023",
    "claims": [
-    "c80"
+    "c88"
    ]
   }
  ],
@@ -185,9 +185,9 @@
       ]
      },
      {
-      "text": "לפי ויקיפדיה, UBQ נוסדה ב-2012 על ידי יהודה פרל, ג'ק ביביו וארן לב.",
+      "text": "UBQ נוסדה ב-2012 על ידי יהודה פרל, ג'ק ביביו וארן לב.",
       "claims": [
-       "c78"
+       "c89"
       ]
      },
      {
@@ -216,13 +216,20 @@
        "c31"
       ]
      }
+    ],
+    [
+     {
+      "text": "ג'רוזלם פוסט: ב-2019",
+      "claims": [
+       "c66"
+      ]
+     }
     ]
    ],
    "media": [
     "m2"
    ],
    "disagreements": [
-    "d1",
     "d2"
    ]
   },
@@ -477,9 +484,9 @@
       ]
      },
      {
-      "text": "לפי ויקיפדיה, ב-2023 נכללה UBQ ברשימת ההמצאות הטובות של מגזין טיים.",
+      "text": "ב-2023 נכללה UBQ ברשימת ההמצאות הטובות של מגזין טיים.",
       "claims": [
-       "c80"
+       "c90"
       ]
      }
     ]
@@ -520,12 +527,6 @@
     ],
     [
      {
-      "text": "לפי ויקיפדיה, שני עובדי החברה, הדר ברדיצ'בסקי ואורי רוסו, נרצחו בבתיהם.",
-      "claims": [
-       "c81"
-      ]
-     },
-     {
       "text": "לפי גלובס, שני העובדים הבכירים נרצחו ב-7 באוקטובר בכפר עזה.",
       "claims": [
        "c15"
@@ -540,23 +541,23 @@
       ]
      },
      {
-      "text": "לפי ויקיפדיה, הייצור במפעל בצאלים חודש ב-30 באוקטובר 2023.",
-      "claims": [
-       "c82"
-      ]
-     },
-     {
       "text": "ביביו אמר שהוא רוצה ש-UBQ תהיה חברה ישראלית גלובלית, כמו טבע או נטפים.",
       "claims": [
        "c13"
       ]
      }
+    ],
+    [
+     {
+      "text": "לפי גלובס: סגנית מנהל חשבונות ומהנדס ראשי, שנרצחו בכפר עזה",
+      "claims": [
+       "c15"
+      ]
+     }
     ]
    ],
    "media": [],
-   "disagreements": [
-    "d7"
-   ]
+   "disagreements": []
   },
   {
    "id": "s8",
@@ -618,24 +619,6 @@
  ],
  "disagreements": [
   {
-   "id": "d1",
-   "question": "באיזו שנה נוסדה החברה?",
-   "versions": [
-    {
-     "says": "ויקיפדיה: ב-2012, בידי יהודה פרל, ג'ק ביביו וארן לב",
-     "claims": [
-      "c78"
-     ]
-    },
-    {
-     "says": "ג'רוזלם פוסט: ב-2019",
-     "claims": [
-      "c66"
-     ]
-    }
-   ]
-  },
-  {
    "id": "d2",
    "question": "יהודה פרל: מייסד או משקיע?",
    "versions": [
@@ -688,9 +671,9 @@
      ]
     },
     {
-     "says": "לפי ויקיפדיה, שמייחסת את הנתון להערכת מחזור חיים של ERM, כל ק\"ג טבליות UBQ המיוצרות בברגן אופ זום מסיט 1.5 ק\"ג פסולת מהטמנה ומשריפה.",
+     "says": "כל ק\"ג טבליות UBQ המיוצרות בברגן אופ זום מסיט 1.5 ק\"ג פסולת מהטמנה ומשריפה.",
      "claims": [
-      "c83"
+      "c92"
      ]
     }
    ]
@@ -754,27 +737,9 @@
      ]
     },
     {
-     "says": "ויקיפדיה: נפתח ב-2024",
+     "says": "נפתח ב-2024",
      "claims": [
-      "c79"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "d7",
-   "question": "מי היו העובדים שנרצחו, ואיפה נרצחו?",
-   "versions": [
-    {
-     "says": "לפי גלובס: סגנית מנהל חשבונות ומהנדס ראשי, שנרצחו בכפר עזה",
-     "claims": [
-      "c15"
-     ]
-    },
-    {
-     "says": "לפי ויקיפדיה: הדר ברדיצ'בסקי ואורי רוסו, מנהל תחזוקה והנדסה, שנרצחו בבתיהם",
-     "claims": [
-      "c81"
+      "c93"
      ]
     }
    ]
@@ -848,36 +813,12 @@
    "locator": "שורה 81"
   },
   {
-   "id": "c79",
-   "text": "לפי ויקיפדיה, ב-2024 החברה פתחה מתקן ייצור מלא בברחן אופ זום בהולנד.",
-   "source": "src4",
-   "quote": "In 2024, the company opened a full-scale production facility in Bergen op Zoom, the Netherlands.",
-   "status": "confirmed",
-   "locator": "שורה 31"
-  },
-  {
-   "id": "c78",
-   "text": "לפי ויקיפדיה, UBQ נוסדה ב-2012 על ידי יהודה פרל, ג'ק ביביו וארן לב.",
-   "source": "src4",
-   "quote": "UBQ Materials was founded in 2012 by Yehuda Pearl (co-founder of Sabra), Jack (Tato) Bigio, and Eran Lev.",
-   "status": "confirmed",
-   "locator": "שורה 30"
-  },
-  {
    "id": "c11",
    "text": "לפי Globes, UBQ גייסה עד כה 250 מיליון דולר ויש לה לקוחות מוכרים בישראל ובעולם.",
    "source": "src1",
    "quote": "UBQ, which has raised $250 million to date, has well-known clients both in Israel and globally",
    "status": "confirmed",
    "locator": "שורה 15"
-  },
-  {
-   "id": "c80",
-   "text": "לפי ויקיפדיה, UBQ נכללה ב-2023 ברשימת ההמצאות הטובות של מגזין טיים.",
-   "source": "src4",
-   "quote": "UBQ Materials was named to Time’s List of Best Inventions of 2023, 2023",
-   "status": "confirmed",
-   "locator": "שורה 58"
   },
   {
    "id": "c1",
@@ -1248,14 +1189,6 @@
    "locator": "שורה 72"
   },
   {
-   "id": "c81",
-   "text": "לפי ויקיפדיה, שני עובדים, הדר ברדיצ'בסקי ואורי רוסו (מנהל תחזוקה והנדסה), נרצחו בבתיהם.",
-   "source": "src4",
-   "quote": "Two employees, Hadar Berdichevsky, former assistant controller and Uri Russo, maintenance and engineering manager, were murdered in their homes.",
-   "status": "confirmed",
-   "locator": "שורה 67"
-  },
-  {
    "id": "c15",
    "text": "לפי Globes, שני עובדים בכירים של UBQ, סגנית מנהל חשבונות ומהנדס ראשי, נרצחו ב-7 באוקטובר בכפר עזה.",
    "source": "src1",
@@ -1270,14 +1203,6 @@
    "quote": "We went back to work three weeks after that horrible day",
    "status": "confirmed",
    "locator": "שורה 20"
-  },
-  {
-   "id": "c82",
-   "text": "לפי ויקיפדיה, הייצור במפעל בצאלים חודש ב-30 באוקטובר 2023.",
-   "source": "src4",
-   "quote": "Production resumed on October 30, 2023 and remains fully operational.",
-   "status": "confirmed",
-   "locator": "שורה 67"
   },
   {
    "id": "c13",
@@ -1352,14 +1277,6 @@
    "locator": "שורה 3"
   },
   {
-   "id": "c83",
-   "text": "לפי ויקיפדיה ו-ERM, כל קילוגרם טבליות UBQ מסיט 1.5 ק\"ג פסולת מהטמנה ומשריפה.",
-   "source": "src4",
-   "quote": "every kilogram of UBQ tablets produced in Bergen op Zoom, the Netherlands, diverts 1.5 kilograms of waste from landfills and incinerators",
-   "status": "confirmed",
-   "locator": "שורה 63"
-  },
-  {
    "id": "c22",
    "text": "לפי כלכליסט, המגשים בכל סניפי מקדונלד'ס באמריקה הלטינית הוחלפו במגשים מהחומר שמיוצר בצאלים.",
    "source": "src3",
@@ -1414,6 +1331,78 @@
    "quote": "With a relatively small amount of energy, no emissions, waste, effluents or use of water",
    "status": "confirmed",
    "locator": "שורה 214"
+  },
+  {
+   "id": "c84",
+   "text": "ב-2024 פתחה החברה מתקן ייצור מלא בברחן אופ זום שבהולנד.",
+   "source": "src16",
+   "quote": "first full-scale production facility in Bergen op Zoom",
+   "status": "confirmed",
+   "locator": "שורה 21"
+  },
+  {
+   "id": "c85",
+   "text": "מייסדים: ג'ק ביביו, יהודה פרל, ארן לב",
+   "source": "src16",
+   "quote": "founded in 2012 by Yehuda Pearl, Jack \"Tato\" Bigio, and Eran Lev.",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c86",
+   "text": "מאז: 2012",
+   "source": "src16",
+   "quote": "founded in 2012",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c87",
+   "text": "איפה: קיבוץ צאלים, וברחן אופ זום בהולנד",
+   "source": "src16",
+   "quote": "first full-scale production facility in Bergen op Zoom",
+   "status": "confirmed",
+   "locator": "שורה 21"
+  },
+  {
+   "id": "c88",
+   "text": "הכרה: רשימת ההמצאות הטובות של טיים, 2023",
+   "source": "src17",
+   "quote": "has been honored in TIME",
+   "status": "confirmed",
+   "locator": "שורה 1"
+  },
+  {
+   "id": "c89",
+   "text": "UBQ נוסדה ב-2012 על ידי יהודה פרל, ג'ק ביביו וארן לב.",
+   "source": "src16",
+   "quote": "founded in 2012 by Yehuda Pearl, Jack \"Tato\" Bigio, and Eran Lev.",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c90",
+   "text": "ב-2023 נכללה UBQ ברשימת ההמצאות הטובות של מגזין טיים.",
+   "source": "src18",
+   "quote": "UBQ Materials Named to Time’s List of The Best Inventions Of 2023",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c92",
+   "text": "כל ק\"ג טבליות UBQ המיוצרות בברגן אופ זום מסיט 1.5 ק\"ג פסולת מהטמנה ומשריפה.",
+   "source": "src19",
+   "quote": "Every kilogram of UBQ™ produced in Bergen op Zoom, the Netherlands, diverts 1.5 kilograms of waste",
+   "status": "confirmed",
+   "locator": "שורה 37"
+  },
+  {
+   "id": "c93",
+   "text": "נפתח ב-2024",
+   "source": "src20",
+   "quote": "2024 saw the much-heralded opening of our industrial-scale facility in Bergen op Zoom",
+   "status": "confirmed",
+   "locator": "שורה 22"
   }
  ],
  "sources": [
@@ -1434,12 +1423,6 @@
    "label": "כלכליסט, כתבה בעברית על UBQ ומפעל צאלים",
    "url": "https://www.calcalist.co.il/articles/0,7340,L-3890475,00.html",
    "kind": "press"
-  },
-  {
-   "id": "src4",
-   "label": "Wikipedia, UBQ Materials",
-   "url": "https://en.wikipedia.org/wiki/UBQ_Materials",
-   "kind": "reference"
   },
   {
    "id": "src5",
@@ -1506,6 +1489,36 @@
    "label": "UBQ Materials, Full Life Cycle Assessment Report (Quantis)",
    "url": "https://www.ubqmaterials.com/full-life-cycle-assessment-report/",
    "kind": "organisation"
+  },
+  {
+   "id": "src16",
+   "label": "UBQ Materials: About us",
+   "url": "https://www.ubqmaterials.com/about/",
+   "kind": "official"
+  },
+  {
+   "id": "src17",
+   "label": "PR Newswire (UBQ Materials): UBQ Materials Named to TIME's List of the Best Inventions of 2023",
+   "url": "https://www.prnewswire.com/news-releases/ubq-materials-named-to-times-list-of-the-best-inventions-of-2023-301965869.html",
+   "kind": "press"
+  },
+  {
+   "id": "src18",
+   "label": "UBQ Materials: UBQ Materials Named to Time’s List of The Best Inventions Of 2023",
+   "url": "https://www.ubqmaterials.com/ubq-materials-named-to-times-list-of-the-best-inventions-of-2023/",
+   "kind": "official"
+  },
+  {
+   "id": "src19",
+   "label": "UBQ Materials: ISO 14001: A Step Toward Sustainable Innovation with UBQ Materials",
+   "url": "https://www.ubqmaterials.com/iso-14001/",
+   "kind": "official"
+  },
+  {
+   "id": "src20",
+   "label": "UBQ Materials: UBQ’s 2024 Milestones: How We’re Reshaping Sustainability and What’s Next for 2025",
+   "url": "https://www.ubqmaterials.com/how-ubq-is-reshaping-sustainability-and-whats-next-for-2025/",
+   "kind": "official"
   }
  ],
  "media": [
@@ -1938,7 +1951,7 @@
   "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
   "checked_at": "2026-11-22T02:03:35Z",
   "counts": {
-   "confirmed": 97,
+   "confirmed": 93,
    "not_confirmed": 0,
    "deleted_sentences": 5,
    "first_round_confirmed": 95,
@@ -1959,11 +1972,18 @@
    "fix": "opus-5-5 medium"
   },
   "source_quality": {
-   "sources": 15,
-   "wikipedia": 1,
+   "sources": 19,
+   "wikipedia": 0,
    "strong": 13,
    "ok": true,
    "warnings": []
+  },
+  "wiki_cleanup": {
+   "at": "2026-11-27T15:40:19Z",
+   "targets": 13,
+   "resourced": 9,
+   "kept_on_other_sources": 0,
+   "deleted": 4
   }
  }
 }

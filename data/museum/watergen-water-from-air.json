@@ -14,23 +14,11 @@
    ]
   },
   {
-   "text": "לפי ויקיפדיה, היזם והמפקד לשעבר אריה כוהבי הקים אותה ב-2009 עם צוות מהנדסים, כדי לספק מים לחיילים.",
-   "claims": [
-    "c15"
-   ]
-  },
-  {
    "text": "לפי AFP, המיליארדר הרוסי-ישראלי מיכאל מירילשוילי, אזרח ישראלי ויהודי שומר מצוות, רכש את החברה.",
    "claims": [
     "c8",
     "c10",
     "c18"
-   ]
-  },
-  {
-   "text": "לפי ויקיפדיה, אחרי הרכישה פנתה החברה לטפל במחסור במים ולעזור לאנשים אחרי אסונות טבע.",
-   "claims": [
-    "c17"
    ]
   },
   {
@@ -51,18 +39,11 @@
  ],
  "glance": [
   {
-   "label": "מייסד",
-   "value": "אריה כוהבי וצוות מהנדסים",
-   "claims": [
-    "c15"
-   ]
-  },
-  {
    "label": "מאז",
    "value": "2009",
    "claims": [
     "c12",
-    "c15"
+    "c86"
    ]
   },
   {
@@ -70,7 +51,7 @@
    "value": "מיכאל מירילשוילי",
    "claims": [
     "c8",
-    "c17"
+    "c87"
    ]
   },
   {
@@ -145,12 +126,6 @@
       "claims": [
        "c18"
       ]
-     },
-     {
-      "text": "לפי ויקיפדיה, אחרי הרכישה פנתה החברה לטפל במחסור במים ובצורכי אנשים אחרי אסונות טבע.",
-      "claims": [
-       "c17"
-      ]
      }
     ],
     [
@@ -166,15 +141,21 @@
        "c74"
       ]
      }
+    ],
+    [
+     {
+      "text": "AFP: אחרי שעבר לישראל ב-2009, בלי שנה מדויקת",
+      "claims": [
+       "c18"
+      ]
+     }
     ]
    ],
    "media": [
     "m3",
     "m10"
    ],
-   "disagreements": [
-    "d2"
-   ]
+   "disagreements": []
   },
   {
    "id": "s3",
@@ -647,24 +628,6 @@
    ]
   },
   {
-   "id": "d2",
-   "question": "מתי רכש מירילשוילי את ווטרגן?",
-   "versions": [
-    {
-     "says": "ויקיפדיה: ב-2016",
-     "claims": [
-      "c17"
-     ]
-    },
-    {
-     "says": "AFP: אחרי שעבר לישראל ב-2009, בלי שנה מדויקת",
-     "claims": [
-      "c18"
-     ]
-    }
-   ]
-  },
-  {
    "id": "d3",
    "question": "בכמה מדינות פועלות המכונות?",
    "versions": [
@@ -735,12 +698,6 @@
      ]
     },
     {
-     "says": "ויקיפדיה: במאי 2020, בבית החולים א-רנטיסי, עם חברת החשמל הפלסטינית מאיית אל-אהל",
-     "claims": [
-      "c47"
-     ]
-    },
-    {
      "says": "Euronews: שלוש המכונות נכנסו לעזה במהלך 2020",
      "claims": [
       "c33"
@@ -806,14 +763,6 @@
    "locator": "שורה 39"
   },
   {
-   "id": "c15",
-   "text": "לפי ויקיפדיה, ווטרגן הוקמה ב-2009 בידי היזם והמפקד לשעבר אריה כוהבי וצוות מהנדסים, במטרה לספק מים לחיילים.",
-   "source": "src3",
-   "quote": "Watergen was founded in 2009 by entrepreneur and former military commander Arye Kohavi and a team of engineers with the goal of providing freely accessible water to troops around the world.",
-   "status": "confirmed",
-   "locator": "שורה 10"
-  },
-  {
    "id": "c8",
    "text": "לפי AFP, הפרויקט בעזה הוא פרי יוזמתו של המיליארדר הרוסי-ישראלי מיכאל מירילשוילי.",
    "source": "src2",
@@ -836,14 +785,6 @@
    "quote": "Mirilashvili bought Watergen after moving to Israel in 2009",
    "status": "confirmed",
    "locator": "שורה 27"
-  },
-  {
-   "id": "c17",
-   "text": "לפי ויקיפדיה, לאחר רכישת ווטרגן בידי מירילשוילי ב-2016 החברה פנתה לטפל במחסור במים ולצורכי אנשים אחרי אסונות טבע.",
-   "source": "src3",
-   "quote": "Following the acquisition of Watergen by billionaire Michael Mirilashvili, in 2016, the company turned its attention to addressing water scarcity and responding to the needs of people in the aftermath of natural catastrophes.",
-   "status": "confirmed",
-   "locator": "שורה 11"
   },
   {
    "id": "c60",
@@ -1374,14 +1315,6 @@
    "locator": "שורה 55"
   },
   {
-   "id": "c47",
-   "text": "לפי ויקיפדיה, במאי 2020 הותקן מכשיר להפקת מים מאוויר בבית החולים א-רנטיסי בעזה בשיתוף חברת החשמל הפלסטינית מאיית אל-אהל.",
-   "source": "src3",
-   "quote": "In May 2020, the company installed a water-from-air device at the Al-Rantisi Hospital in Gaza. This initiative, a result of a collaboration with the Palestinian power company Mayet Al Ahel",
-   "status": "confirmed",
-   "locator": "שורה 14"
-  },
-  {
    "id": "c28",
    "text": "לפי חאלד מארגון דמור, כשלחות האוויר מעל 65 אחוזים המכונות מפיקות כ-5,000 ליטר ביום.",
    "source": "src2",
@@ -1396,6 +1329,22 @@
    "quote": "Michael shared that hospitals are increasingly coming to Watergen for their products because of the perfect water they generate.",
    "status": "confirmed",
    "locator": "שורה 16"
+  },
+  {
+   "id": "c86",
+   "text": "מאז: 2009",
+   "source": "src14",
+   "quote": "The innovation—and the company—dates to 2009",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c87",
+   "text": "בעלים: מיכאל מירילשוילי",
+   "source": "src14",
+   "quote": "which was acquired by Israeli-Georgian businessman Michael Mirilashvili in 2016",
+   "status": "confirmed",
+   "locator": "שורה 7"
   }
  ],
  "sources": [
@@ -1410,12 +1359,6 @@
    "label": "Inquirer (סוכנות ידיעות), ינואר 2021",
    "url": "https://newsinfo.inquirer.net/?p=1379604",
    "kind": "press"
-  },
-  {
-   "id": "src3",
-   "label": "Wikipedia",
-   "url": "https://en.wikipedia.org/wiki/Watergen",
-   "kind": "reference"
   },
   {
    "id": "src4",
@@ -1475,6 +1418,12 @@
    "id": "src13",
    "label": "Algemeiner, 2019",
    "url": "https://www.algemeiner.com/?p=475093",
+   "kind": "press"
+  },
+  {
+   "id": "src14",
+   "label": "Hadassah Magazine: Israeli Scene (Watergen)",
+   "url": "https://www.hadassahmagazine.org/?p=25154",
    "kind": "press"
   }
  ],
@@ -1771,7 +1720,7 @@
   "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
   "checked_at": "2026-11-14T00:24:15Z",
   "counts": {
-   "confirmed": 94,
+   "confirmed": 88,
    "not_confirmed": 0,
    "deleted_sentences": 5,
    "first_round_confirmed": 87,
@@ -1793,10 +1742,17 @@
   },
   "source_quality": {
    "sources": 13,
-   "wikipedia": 1,
+   "wikipedia": 0,
    "strong": 10,
    "ok": true,
    "warnings": []
+  },
+  "wiki_cleanup": {
+   "at": "2026-11-27T15:42:03Z",
+   "targets": 8,
+   "resourced": 2,
+   "kept_on_other_sources": 0,
+   "deleted": 6
   }
  }
 }

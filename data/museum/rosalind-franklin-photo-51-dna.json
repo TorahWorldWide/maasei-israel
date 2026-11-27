@@ -10,9 +10,11 @@
    "text": "ד\"ר רוזלינד פרנקלין הייתה מדענית יהודייה בריטית שהוכשרה ככימאית פיזיקלית, והמאמרים שפרסמו היא וצוותה על נגיפים הניחו את היסודות לווירולוגיה מבנית.",
    "claims": [
     "c41",
-    "c42",
     "c40",
-    "c37"
+    "c37",
+    "c59",
+    "c60",
+    "c61"
    ]
   },
   {
@@ -102,12 +104,6 @@
       "text": "לפי Live Science, פרנקלין נולדה ב-25 ביולי 1920 וגדלה בלונדון שלפני מלחמת העולם השנייה, במשפחה יהודית מוכרת.",
       "claims": [
        "c43"
-      ]
-     },
-     {
-      "text": "לפי המכלול, היא הייתה מדענית יהודייה-אנגלייה שהוכשרה ככימאית פיזיקלית.",
-      "claims": [
-       "c42"
       ]
      }
     ],
@@ -286,7 +282,7 @@
      {
       "text": "ג'ון דזמונד ברנל אמר בדברי הזיכרון לפרנקלין שהצילומים שלה היו בין צילומי הרנטגן היפים ביותר של חומר כלשהו.",
       "claims": [
-       "c53"
+       "c64"
       ]
      }
     ]
@@ -338,7 +334,8 @@
      {
       "text": "ב-4 בפברואר 1953 הם ניסו שוב לבנות מודל, הפעם של סליל כפול.",
       "claims": [
-       "c52"
+       "c65",
+       "c66"
       ]
      }
     ],
@@ -404,12 +401,6 @@
       ]
      },
      {
-      "text": "ב-1956 פענחה פרנקלין עם הצוות שלה את מבנה נגיף פסיפס הטבק (TMV).",
-      "claims": [
-       "c49"
-      ]
-     },
-     {
       "text": "מ-1953 ועד מותה פרסמה 17 מאמרים על נגיפים, והקבוצה שלה הניחה את היסודות לווירולוגיה מבנית.",
       "claims": [
        "c37"
@@ -417,20 +408,6 @@
      }
     ],
     [
-     {
-      "text": "לפי המכלול, פרנקלין ביקרה בישראל פעם אחת, ובביקור הגיעה לחיפה אל בת דודתה אייריני.",
-      "claims": [
-       "c51"
-      ]
-     }
-    ],
-    [
-     {
-      "text": "פרנקלין נפטרה ב-16 באפריל 1958, אחרי מחלה ממושכת.",
-      "claims": [
-       "c39"
-      ]
-     },
      {
       "text": "היא מתה מסרטן השחלות.",
       "claims": [
@@ -597,14 +574,6 @@
    "quote": "Dr. Rosalind Franklin, a British Jewish scientist, is often remembered as a woman snubbed",
    "status": "confirmed",
    "locator": "שורה 4"
-  },
-  {
-   "id": "c42",
-   "text": "לפי המכלול, פרנקלין הייתה מדענית יהודייה-אנגלייה שהוכשרה ככימאית פיזיקלית.",
-   "source": "src2",
-   "quote": "הייתה מדענית יהודייה-אנגלייה, שהוכשרה ככימאית פיזיקלית, ועסקה במשך חייה במחקרים על מבנה הפחם",
-   "status": "confirmed",
-   "locator": "שורה 11"
   },
   {
    "id": "c1",
@@ -799,14 +768,6 @@
    "locator": "שורה 7"
   },
   {
-   "id": "c53",
-   "text": "ג'ון דזמונד ברנל אמר בדברי הזיכרון לפרנקלין שהצילומים שלה היו בין צילומי הרנטגן היפים ביותר של חומר כלשהו.",
-   "source": "src2",
-   "quote": "הצילומים שצילמה היו בין צילומי הרנטגן היפים ביותר של חומר כלשהו",
-   "status": "confirmed",
-   "locator": "שורה 53"
-  },
-  {
    "id": "c56",
    "text": "פרנקלין לא פנתה לתצלום 51 עד תחילת 1953.",
    "source": "src5",
@@ -837,14 +798,6 @@
    "quote": "Later, Watson and Crick received an internal King´s College London research report written by Franklin about her DNA diffraction images.",
    "status": "confirmed",
    "locator": "שורה 11"
-  },
-  {
-   "id": "c52",
-   "text": "ב-4 בפברואר 1953 ניסו ווטסון וקריק שוב לבנות מודל, הפעם של סליל כפול.",
-   "source": "src2",
-   "quote": "ב-4 בפברואר 1953 ניסו ווטסון וקריק שוב לבנות את המודל, והפעם בנו מודל של סליל כפול",
-   "status": "confirmed",
-   "locator": "שורה 58"
   },
   {
    "id": "c33",
@@ -887,36 +840,12 @@
    "locator": "שורה 26"
   },
   {
-   "id": "c49",
-   "text": "ב-1956 פענחה פרנקלין עם צוותה את מבנה נגיף פסיפס הטבק (TMV).",
-   "source": "src2",
-   "quote": "ב-1956 פענחה פרנקלין ביחד עם צוות החוקרים שלה את המבנה של נגיף TMV.",
-   "status": "confirmed",
-   "locator": "שורה 76"
-  },
-  {
    "id": "c37",
    "text": "בין 1953 למותה ב-1958, בגיל 37, פרסמה פרנקלין 17 מאמרים על נגיפים, וקבוצתה הניחה את היסודות לווירולוגיה מבנית.",
    "source": "src3",
    "quote": "Between 1953 and her death in 1958, aged only 37, she published 17 papers on viruses",
    "status": "confirmed",
    "locator": "שורה 10"
-  },
-  {
-   "id": "c51",
-   "text": "לפי המכלול, פרנקלין ערכה ביקור יחיד בישראל, שבמהלכו הגיעה לחיפה אל בת דודתה אייריני.",
-   "source": "src2",
-   "quote": "בין היתר ניצלה זמן זה לביקור היחיד שערכה בישראל. היא הגיעה לחיפה, שם המתינה לה בת דודתה אייריני פרנקלין",
-   "status": "confirmed",
-   "locator": "שורה 71"
-  },
-  {
-   "id": "c39",
-   "text": "פרנקלין נפטרה ב-16 באפריל 1958 לאחר מחלה ממושכת.",
-   "source": "src2",
-   "quote": "בסוף שנת 1957 החלה שוב לעבור טיפולים ותקופות ארוכות של אשפוז, אך ב-16 באפריל 1958 נפטרה ממחלתה",
-   "status": "confirmed",
-   "locator": "שורה 85"
   },
   {
    "id": "c40",
@@ -1045,6 +974,54 @@
    "quote": "was first published by Franklin and Gosling in the April 25, 1953, issue of Nature",
    "status": "confirmed",
    "locator": "שורה 6"
+  },
+  {
+   "id": "c59",
+   "text": "ד\"ר רוזלינד פרנקלין הייתה מדענית יהודייה בריטית שהוכשרה ככימאית פיזיקלית, והמאמרים שפרסמו היא וצוותה על נגיפים הניחו את היסודות לווירולוגיה מבנית.",
+   "source": "src13",
+   "quote": "Rosalind Elsie Franklin (1920–1958) was a British physical chemist and X-ray crystallographer whose research advanced",
+   "status": "confirmed",
+   "locator": "שורה 1"
+  },
+  {
+   "id": "c60",
+   "text": "ד\"ר רוזלינד פרנקלין הייתה מדענית יהודייה בריטית שהוכשרה ככימאית פיזיקלית, והמאמרים שפרסמו היא וצוותה על נגיפים הניחו את היסודות לווירולוגיה מבנית.",
+   "source": "src14",
+   "quote": "she was proud of her Jewish identity.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c61",
+   "text": "ד\"ר רוזלינד פרנקלין הייתה מדענית יהודייה בריטית שהוכשרה ככימאית פיזיקלית, והמאמרים שפרסמו היא וצוותה על נגיפים הניחו את היסודות לווירולוגיה מבנית.",
+   "source": "src14",
+   "quote": "she also made foundational contributions to modern understandings of coal, graphite and viruses.",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c64",
+   "text": "ג'ון דזמונד ברנל אמר בדברי הזיכרון לפרנקלין שהצילומים שלה היו בין צילומי הרנטגן היפים ביותר של חומר כלשהו.",
+   "source": "src15",
+   "quote": "Her photographs are among the most beautiful of any substances ever taken.",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c65",
+   "text": "ב-4 בפברואר 1953 הם ניסו שוב לבנות מודל, הפעם של סליל כפול.",
+   "source": "src16",
+   "quote": "On Wednesday, February 4, Watson began building the model.",
+   "status": "confirmed",
+   "locator": "שורה 42"
+  },
+  {
+   "id": "c66",
+   "text": "ב-4 בפברואר 1953 הם ניסו שוב לבנות מודל, הפעם של סליל כפול.",
+   "source": "src16",
+   "quote": "Although Crick was still not entirely convinced that there were not three chains, Watson stuck to only two.",
+   "status": "confirmed",
+   "locator": "שורה 42"
   }
  ],
  "sources": [
@@ -1053,12 +1030,6 @@
    "label": "Jewish Women's Archive, Elana Spivack, Beyond the Double Helix: Rosalind Franklin Turns 100, 2020",
    "url": "https://jwa.org/blog/beyond-double-helix-rosalind-franklin-turns-100",
    "kind": "organisation"
-  },
-  {
-   "id": "src2",
-   "label": "המכלול, רוזלינד פרנקלין",
-   "url": "https://www.hamichlol.org.il/רוזלינד_פרנקלין",
-   "kind": "reference"
   },
   {
    "id": "src3",
@@ -1119,6 +1090,30 @@
    "label": "Science History Institute, New research challenges misconceptions about Photo 51",
    "url": "https://www.sciencehistory.org/about/news/new-research-challenges-misconceptions-about-photo-51/",
    "kind": "organisation"
+  },
+  {
+   "id": "src13",
+   "label": "Memorial University of Newfoundland (mun.ca): RE Franklin",
+   "url": "https://mun.ca/biology/scarr/4270_Franklin.html",
+   "kind": "other"
+  },
+  {
+   "id": "src14",
+   "label": "Memorial University of Newfoundland (mun.ca): RE Franklin",
+   "url": "https://www.rfi.ac.uk/about/rosalind-franklin/",
+   "kind": "other"
+  },
+  {
+   "id": "src15",
+   "label": "Physics Today: Rosalind Franklin and the double helix (quoting Bernal's Nature obituary, 1958)",
+   "url": "https://physicstoday.aip.org/features/rosalind-franklin-and-the-double-helix",
+   "kind": "press"
+  },
+  {
+   "id": "src16",
+   "label": "Hayadan: excerpt from Brenda Maddox's biography of Rosalind Franklin",
+   "url": "https://hayadan.com/rosalin-franklin-book-2709095",
+   "kind": "press"
   }
  ],
  "media": [
@@ -1543,7 +1538,7 @@
   "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
   "checked_at": "2026-11-21T08:52:53Z",
   "counts": {
-   "confirmed": 70,
+   "confirmed": 63,
    "not_confirmed": 0,
    "deleted_sentences": 2,
    "first_round_confirmed": 70,
@@ -1564,7 +1559,7 @@
    "fix": "opus-5-5 medium"
   },
   "source_quality": {
-   "sources": 10,
+   "sources": 15,
    "wikipedia": 0,
    "strong": 4,
    "ok": true,
@@ -1583,6 +1578,13 @@
     "url": "https://www.sciencehistory.org/about/news/new-research-challenges-misconceptions-about-photo-51/",
     "by": "settle 24.11"
    }
-  ]
+  ],
+  "wiki_cleanup": {
+   "at": "2026-11-27T15:33:59Z",
+   "targets": 7,
+   "resourced": 3,
+   "kept_on_other_sources": 0,
+   "deleted": 4
+  }
  }
 }

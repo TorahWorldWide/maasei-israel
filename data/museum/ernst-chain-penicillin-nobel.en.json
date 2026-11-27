@@ -1,7 +1,7 @@
 {
  "schema": "maasei-museum/1",
  "slug": "ernst-chain-penicillin-nobel",
- "deed": "ארנסט בוריס צ׳יין פיתח את הפניצילין לתרופה וזכה בפרס נובל לרפואה",
+ "deed": "Ernst Boris Chain developed penicillin into a drug and won the Nobel Prize in Medicine",
  "canonical_type": "scientific-discovery",
  "year": "1938 או 1939",
  "title": "Ernst Chain, a Jewish refugee from Berlin, turned penicillin into a medicine and won the Nobel Prize",
@@ -607,9 +607,10 @@
    "question": "How many patients were treated in the first trials, and what happened to them?",
    "versions": [
     {
-     "says": "According to Encyclopedia.com, of eight patients the first two died from complications unrelated to the infection, and the other six, who had been on the verge of death, were completely cured",
+     "says": "According to Oxfordshire Blue Plaques, six patients were selected for the first trial and four made a complete recovery; the policeman Albert Alexander, the first patient, relapsed when there was not enough purified penicillin, and died on 15 March 1941",
      "claims": [
-      "c29"
+      "c29",
+      "c-aud-20261127-1"
      ]
     },
     {
@@ -1201,6 +1202,15 @@
    "quote": "Imperial celebrates the founder of the Department of Biochemistry as it names the Sir Ernst Chain Building",
    "status": "confirmed",
    "locator": "שורה 6"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "לפי Oxfordshire Blue Plaques, בניסוי הראשון נבחרו שישה חולים, וארבעה מהם החלימו לגמרי; השוטר אלברט אלכסנדר, החולה הראשון, נסוג כשהפניצילין המטוהר לא הספיק, ומת ב-15 במרץ 1941",
+   "source": "src9001",
+   "quote": "Six patients altogether were selected for treatment and four made a complete recovery.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1281,6 +1291,13 @@
    "label": "Imperial College London: Sir Ernst Chain is honoured in building naming ceremony",
    "url": "https://imperial.ac.uk/news/115787/sir-ernst-chain-honoured-building-naming",
    "kind": "official"
+  },
+  {
+   "id": "src9001",
+   "label": "Oxfordshire Blue Plaques Board, Penicillin – Radcliffe Infirmary",
+   "url": "https://www.oxonblueplaques.org.uk/plaques/penicillin_infirmary.html",
+   "kind": "organisation",
+   "date": "2026-11-27"
   }
  ],
  "media": [

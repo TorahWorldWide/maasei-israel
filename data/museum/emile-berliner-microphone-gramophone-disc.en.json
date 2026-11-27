@@ -1,7 +1,7 @@
 {
  "schema": "maasei-museum/1",
  "slug": "emile-berliner-microphone-gramophone-disc",
- "deed": "אמיל ברלינר המציא את המיקרופון ואת תקליט הדיסק ששמרו את קול האדם",
+ "deed": "Emile Berliner invented the microphone and the disc record that preserved the human voice",
  "canonical_type": "single-inventor",
  "year": "1876",
  "title": "Emile Berliner built a telephone microphone and a flat disc record that became the recording standard",
@@ -115,9 +115,11 @@
     ],
     [
      {
-      "text": "In 1870, when he was not yet 20, he emigrated to the United States to avoid conscription in the Franco-Prussian War.",
+      "text": "In 1870, when he was not yet 20, he emigrated to the United States; according to the Library of Congress, he was drawn by the offer of a clerkship, and perhaps also by a desire to escape military duty.",
       "claims": [
-       "c8"
+       "c8",
+       "c-aud-20261127-4",
+       "c-aud-20261127-5"
       ]
      },
      {
@@ -147,7 +149,8 @@
     "m16"
    ],
    "disagreements": [
-    "d2"
+    "d2",
+    "d9002"
    ]
   },
   {
@@ -200,12 +203,6 @@
       "text": "His microphone was so successful that it replaced the earlier microphone in Bell's telephones.",
       "claims": [
        "c47"
-      ]
-     },
-     {
-      "text": "His design is still the basis for most microphones manufactured today.",
-      "claims": [
-       "c48"
       ]
      }
     ]
@@ -301,7 +298,8 @@
     "m40"
    ],
    "disagreements": [
-    "d5"
+    "d5",
+    "d9001"
    ]
   },
   {
@@ -418,9 +416,10 @@
       ]
      },
      {
-      "text": "According to the DPMA, for almost 100 years the vinyl record remained the standard sound reproduction technology.",
+      "text": "According to the DPMA, the disc record remained the standard sound reproduction technology until digital formats conquered the music market from the 1980s, but it was made from vinyl only from the 1950s.",
       "claims": [
-       "c50"
+       "c50",
+       "c-aud-20261127-3"
       ]
      }
     ]
@@ -616,7 +615,8 @@
     "m45"
    ],
    "disagreements": [
-    "d8"
+    "d8",
+    "d9003"
    ]
   }
  ],
@@ -717,15 +717,76 @@
    "question": "When was the fellowship established, and in whose name?",
    "versions": [
     {
-     "says": "Hall of Fame: in 1911, the Esther Berliner Fellowship, for qualified women to continue scientific research",
+     "says": "Hall of Fame: in 1911, a fellowship named for his mother, for qualified women to continue scientific research",
      "claims": [
-      "c71"
+      "c71",
+      "c-aud-20261127-6"
      ]
     },
     {
      "says": "In 1908, the Sarah Berliner Research Fellowship",
      "claims": [
       "c97"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9001",
+   "question": "Did Edison have a working recording device when Berliner presented the gramophone in 1887?",
+   "versions": [
+    {
+     "says": "German National Library: Edison was at the time unable to come up with a functioning completed model, and his records were not meant for mass production",
+     "claims": [
+      "c-aud-20261127-1"
+     ]
+    },
+    {
+     "says": "DPMA: ten years earlier Edison had introduced his phonograph, and he beat Charles Cros to it with a working device",
+     "claims": [
+      "c-aud-20261127-2"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9002",
+   "question": "Why did Berliner emigrate to the United States in 1870?",
+   "versions": [
+    {
+     "says": "Library of Congress: because of the offer of a clerkship in a store, and perhaps a desire to escape military duty; he left Hanover in late March 1870",
+     "claims": [
+      "c-aud-20261127-4"
+     ]
+    },
+    {
+     "says": "German National Library: to avoid conscription during the Franco-Prussian War",
+     "claims": [
+      "c-aud-20261127-5"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9003",
+   "question": "Why did he set up a company in Montreal?",
+   "versions": [
+    {
+     "says": "Encyclopedia.com, based on a Canadian biography: an injunction of June 25, 1900 prevented him from marketing in the United States",
+     "claims": [
+      "c-aud-20261127-7"
+     ]
+    },
+    {
+     "says": "The Canadian Encyclopedia: the Montreal operation predated the injunction, with a Canadian patent in 1897 and record production from January 2, 1900",
+     "claims": [
+      "c-aud-20261127-8"
+     ]
+    },
+    {
+     "says": "According to Encyclopedia.com, his grandson explained that his grandfather chose Montreal because of its strategic location",
+     "claims": [
+      "c-aud-20261127-9"
      ]
     }
    ]
@@ -892,14 +953,6 @@
    "quote": "a sum which allowed him the financial independence to keep pursuing his work as an inventor",
    "status": "confirmed",
    "locator": "שורה 35"
-  },
-  {
-   "id": "c48",
-   "text": "העיצוב של המיקרופון שלו עדיין משמש בסיס לרוב המיקרופונים המיוצרים כיום.",
-   "source": "src3",
-   "quote": "It is still the basic design used in most microphones manufactured today.",
-   "status": "confirmed",
-   "locator": "שורה 12"
   },
   {
    "id": "c19",
@@ -1348,6 +1401,87 @@
    "quote": "In honor of his mother, he established the Sarah Berliner Research Fellowship for physics, biology, and chemistry in 1908.",
    "status": "confirmed",
    "locator": "שורה 27"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "הספרייה הלאומית הגרמנית: אדיסון לא הצליח אז להגיע לדגם מוגמר שמתפקד, ותקליטיו לא נועדו לייצור המוני",
+   "source": "src7",
+   "quote": "who at the time however was unable to come up with a functioning completed model",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "DPMA: עשר שנים קודם לכן הציג אדיסון את הפונוגרף שלו, והקדים את שארל קרו עם מכשיר מתפקד",
+   "source": "src8",
+   "quote": "Edison beat him to it with a working device",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "לפי DPMA, התקליט נשאר טכנולוגיית ההשמעה הסטנדרטית עד שהפורמטים הדיגיטליים כבשו את שוק המוזיקה משנות ה-80, אך מוויניל יוצר רק משנות ה-50.",
+   "source": "src8",
+   "quote": "It was only with the production from vinyl since the 1950s",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-4",
+   "text": "ספריית הקונגרס: בעקבות הצעת עבודה כפקיד בחנות, ואולי גם מרצון להימנע משירות צבאי; הוא יצא מהנובר בסוף מרץ 1870",
+   "source": "src3",
+   "quote": "perhaps by a desire to escape the military duty",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261127-5",
+   "text": "הספרייה הלאומית הגרמנית: כדי להימנע מגיוס במלחמת צרפת-פרוסיה",
+   "source": "src7",
+   "quote": "emigrated to the USA in 1870 to avoid conscription during the Franco-Prussian War",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-6",
+   "text": "היכל התהילה: ב-1911, מלגה על שם אמו, לנשים כשירות להמשך מחקר מדעי",
+   "source": "src6",
+   "quote": "In 1911 he established the Esther Berliner (his mother) Fellowship",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-7",
+   "text": "אנציקלופדיה.קום, בהסתמך על ביוגרפיה קנדית: צו מניעה מ-25 ביוני 1900 מנע ממנו לשווק בארצות הברית",
+   "source": "src5",
+   "quote": "an injunction filed by Seaman National against Berliner Gramophone on June 25, 1900",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-8",
+   "text": "האנציקלופדיה הקנדית: הפעילות במונטריאול קדמה לצו – פטנט קנדי ב-1897, וייצור תקליטים מ-2 בינואר 1900",
+   "source": "src9001",
+   "quote": "Berliner took out a Canadian patent on his invention 24 Feb 1897",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261127-9",
+   "text": "לפי אנציקלופדיה.קום, נכדו הסביר שסבו בחר במונטריאול בשל מיקומה האסטרטגי",
+   "source": "src5",
+   "quote": "He explained that his grandfather chose to set up in Montreal because of that city",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1416,6 +1550,13 @@
    "label": "EBSCO Research Starters: Emile Berliner",
    "url": "https://www.ebsco.com/research-starters/biography/emile-berliner/",
    "kind": "reference"
+  },
+  {
+   "id": "src9001",
+   "label": "The Canadian Encyclopedia, Edward B. Moogk, Berliner Gramophone Company, 2013",
+   "url": "https://thecanadianencyclopedia.ca/en/article/berliner-gramophone-company-emc",
+   "kind": "reference",
+   "date": "2026-11-27"
   }
  ],
  "media": [

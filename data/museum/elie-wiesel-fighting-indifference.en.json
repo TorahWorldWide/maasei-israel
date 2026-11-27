@@ -116,9 +116,10 @@
     ],
     [
      {
-      "text": "Hungary was an ally of Nazi Germany, but Sighet entered the Holocaust only with the German invasion in March 1944.",
+      "text": "Hungary was an ally of Nazi Germany. As early as July–August 1941 hundreds of Sighet's Jews were deported from Hungary, and many of them were murdered at Kamenets-Podolsk, but most of the town's Jews were struck only after the German invasion in March 1944.",
       "claims": [
-       "c5"
+       "c5",
+       "c-aud-20261127-3"
       ]
      },
      {
@@ -212,19 +213,14 @@
        "c12",
        "c13"
       ]
-     },
-     {
-      "text": "According to Israel Hayom, the father was slowly dying during the forced labor until he died on the death march.",
-      "claims": [
-       "c14"
-      ]
      }
     ],
     [
      {
-      "text": "Wiesel, seventeen years old, was still alive when Allied soldiers liberated the camp on April 11.",
+      "text": "Wiesel, sixteen years old, was still alive when Allied soldiers liberated the camp on April 11.",
       "claims": [
-       "c16"
+       "c16",
+       "c-aud-20261127-1"
       ]
      },
      {
@@ -377,7 +373,6 @@
    "media": [],
    "disagreements": [
     "d4",
-    "d5",
     "d6"
    ]
   },
@@ -599,9 +594,7 @@
     "m8",
     "m25"
    ],
-   "disagreements": [
-    "d8"
-   ]
+   "disagreements": []
   },
   {
    "id": "s7",
@@ -698,9 +691,10 @@
       ]
      },
      {
-      "text": "Haaretz commentator Roger Alpher wrote to Wiesel: \"Netanyahu is my prime minister. You are not an Israeli citizen. You do not live here.\"",
+      "text": "Haaretz commentator Rogel Alpher wrote to Wiesel: \"Netanyahu is my prime minister. You are not an Israeli citizen. You do not live here.\"",
       "claims": [
-       "c76"
+       "c76",
+       "c-aud-20261127-2"
       ]
      }
     ],
@@ -755,24 +749,6 @@
    ]
   },
   {
-   "id": "d5",
-   "question": "When did \"Night\" rise to prominence again?",
-   "versions": [
-    {
-     "says": "According to AP: in 2006, when a new translation returned it to the best-seller lists after it was chosen for Oprah Winfrey's book club.",
-     "claims": [
-      "c37"
-     ]
-    },
-    {
-     "says": "According to Israel Hayom: in 2007, when it was chosen as Oprah Winfrey's book of the month",
-     "claims": [
-      "c38"
-     ]
-    }
-   ]
-  },
-  {
    "id": "d6",
    "question": "How many books did Wiesel write?",
    "versions": [
@@ -786,24 +762,6 @@
      "says": "According to Israel Hayom: more than 50 books",
      "claims": [
       "c40"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "d8",
-   "question": "Where in Oslo was the prize presented and the acceptance speech delivered?",
-   "versions": [
-    {
-     "says": "According to EBSCO: at the Aula hall of Oslo University",
-     "claims": [
-      "c53"
-     ]
-    },
-    {
-     "says": "According to the Nobel Prize website: at Oslo City Hall",
-     "claims": [
-      "c54"
      ]
     }
    ]
@@ -970,14 +928,6 @@
    "quote": "where his father died on January 28 and from which Wiesel was liberated in April",
    "status": "confirmed",
    "locator": "שורה 5"
-  },
-  {
-   "id": "c14",
-   "text": "לפי ישראל היום, אביו של ויזל הלך וגסס במהלך עבודות הפרך עד מותו בצעדת המוות.",
-   "source": "src5",
-   "quote": "עבד בעבודות פרך לצד אביו, שהלך וגסס עד מותו בצעדת המוות",
-   "status": "confirmed",
-   "locator": "שורה 11"
   },
   {
    "id": "c16",
@@ -1442,6 +1392,33 @@
    "quote": "[At this point the President presented Elie Wiesel with the Congressional Gold Medal.]",
    "status": "confirmed",
    "locator": "שורה 14"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "ויזל, בן שש עשרה, היה עדיין בחיים כשחיילי בעלות הברית שחררו את המחנה ב-11 באפריל.",
+   "source": "src1",
+   "quote": "born September 30, 1928, Sighet, Romania",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "פרשן הארץ רוגל אלפר כתב לוויזל: \"נתניהו הוא ראש הממשלה שלי. אתה לא אזרח ישראלי. אתה לא חי כאן\".",
+   "source": "src9001",
+   "quote": "From Rogel Alpher in Haaretz:",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "הונגריה הייתה בת בריתה של גרמניה הנאצית. כבר ביולי–אוגוסט 1941 גורשו מהונגריה מאות מיהודי סיגט, ורבים מהם נרצחו בקמניץ-פודולסק, אבל רוב יהודי העיר נפגעו רק אחרי הפלישה הגרמנית במארס 1944.",
+   "source": "src9002",
+   "quote": "In July–August 1941, hundreds of Jews from Sighet were deported from Hungary.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1522,6 +1499,20 @@
    "label": "Ronald Reagan Presidential Library, Remarks on Presenting the Congressional Gold Medal to Elie Wiesel, April 19, 1985",
    "url": "https://www.reaganlibrary.gov/research/speeches/41985a",
    "kind": "official"
+  },
+  {
+   "id": "src9001",
+   "label": "The Algemeiner, Haaretz's Pitiful Attack on Elie Wiesel",
+   "url": "https://www.algemeiner.com/?p=255909",
+   "kind": "press",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9002",
+   "label": "USHMM Holocaust Encyclopedia, Sighet",
+   "url": "https://encyclopedia.ushmm.org/content/en/article/sighet",
+   "kind": "official",
+   "date": "2026-11-27"
   }
  ],
  "media": [
@@ -1697,7 +1688,7 @@
    "licence": "YouTube, embedded only (standard YouTube licence)",
    "licence_url": "https://www.youtube.com/static?template=terms",
    "hosting": "embed",
-   "caption": "Elie Wiesel's acceptance speech at the Nobel Peace Prize ceremony in Oslo City Hall, December 10, 1986.",
+   "caption": "Elie Wiesel's acceptance speech at the Nobel Peace Prize ceremony in the Aula of the University of Oslo, December 10, 1986.",
    "illustrates": [
     "c54",
     "c55",

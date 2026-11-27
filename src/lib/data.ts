@@ -292,6 +292,7 @@ export class DataUnavailableError extends Error {
 export const HIDDEN_ENTRY_IDS = new Set<string>([
   "55c7771e-3d56-4e79-a08b-70f102c2a5fe",
   "b4a5042d-635a-4704-adcf-0ea35193db13", // 27.11: Krembo Wings UN adviser (Tomer: nothing tied to the UN)
+  "75076aa3-5011-4f0c-9601-35038b85d238", // 27.11: Rabbi Salanter, Yom Kippur cholera 1848 (Tomer removed it)
 ]);
 
 export async function getApprovedEntries(): Promise<Entry[]> {

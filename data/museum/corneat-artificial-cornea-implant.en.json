@@ -36,10 +36,11 @@
    ]
   },
   {
-   "text": "Since then the device has been implanted in 10 patients in a first study, and the trial is continuing at centers in several countries.",
+   "text": "Since then the device has been implanted in 10 patients in a first study and in a follow-up trial at centres in several countries, which the company stopped in 2026 following safety findings.",
    "claims": [
     "c49",
-    "c81"
+    "c81",
+    "c-aud-20261127-1"
    ]
   }
  ],
@@ -449,9 +450,7 @@
     "m5",
     "m6"
    ],
-   "disagreements": [
-    "d3"
-   ]
+   "disagreements": []
   },
   {
    "id": "s6",
@@ -506,9 +505,10 @@
       ]
      },
      {
-      "text": "The RESEE trial is being conducted at clinical centers in Canada, France, India, Israel and the Netherlands.",
+      "text": "According to the company's September 2025 release, the RESEE trial was then being conducted at clinical centres in Canada, France, India, Israel and the Netherlands, but according to the trial's ClinicalTrials.gov record the company terminated it following safety findings.",
       "claims": [
-       "c81"
+       "c81",
+       "c-aud-20261127-2"
       ]
      }
     ]
@@ -678,30 +678,6 @@
      "claims": [
       "c33"
      ]
-    },
-    {
-     "says": "According to Israel Hayom, a patient who is not identified by name, who had suffered total blindness following a severe corneal infection, underwent implantation of a new CorNeat Vision artificial cornea at Beilinson \"a few weeks ago\" as of the article's publication.",
-     "claims": [
-      "c57"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "d3",
-   "question": "How well did the patient see after the implantation?",
-   "versions": [
-    {
-     "says": "According to Dr. Litvin in EuroTimes: 6/90, seven months after implantation",
-     "claims": [
-      "c34"
-     ]
-    },
-    {
-     "says": "According to Israel Hayom, after a short recovery, the vision of that patient, who is not identified by name and was operated on \"a few weeks ago\" as of the article's publication, returned to a level of 6/6.",
-     "claims": [
-      "c58"
-     ]
     }
    ]
   }
@@ -719,13 +695,6 @@
    "claims": [
     "c20",
     "c81"
-   ]
-  },
-  {
-   "text": "The company’s announcement describes the patient as blind in both eyes, and EuroTimes describes one functioning eye that had undergone four transplants, and the sources do not explain the difference",
-   "claims": [
-    "c17",
-    "c32"
    ]
   }
  ],
@@ -1059,14 +1028,6 @@
    "locator": "שורה 21"
   },
   {
-   "id": "c57",
-   "text": "לפי ישראל היום, מטופל שסבל מעיוורון מוחלט בעקבות זיהום קשה בקרנית עבר השתלת קרנית מלאכותית חדשה.",
-   "source": "src8",
-   "quote": "מטופל שסבל מעיוורון מוחלט בעקבות זיהום קשה בקרנית עבר השתלה של קרנית מלאכותית חדשה",
-   "status": "confirmed",
-   "locator": "שורה 7"
-  },
-  {
    "id": "c27",
    "text": "לפי הדיווח, רופאי מחלקת העיניים בבילינסון מאמינים שזהו המוצא האחרון של הרפואה להצלת מאור עיניו.",
    "source": "src5",
@@ -1331,28 +1292,22 @@
    "locator": "שורה 14"
   },
   {
-   "id": "c58",
-   "text": "לפי ישראל היום, לאחר התאוששות קצרה ראייתו של המטופל שבה לרמה של 6/6.",
-   "source": "src8",
-   "quote": "ולאחר התאוששות קצרה שבה ראייתו לרמה של 6/6",
+   "id": "c-aud-20261127-1",
+   "text": "מאז הושתל ההתקן ב-10 מטופלים במחקר ראשון, ובניסוי המשך במרכזים בכמה ארצות, שהחברה הפסיקה ב-2026 בעקבות ממצאי בטיחות.",
+   "source": "src9001",
+   "quote": "The study was voluntarily terminated by the sponsor following emerging safety findings",
+   "locator": "audit 2026-11-27",
    "status": "confirmed",
-   "locator": "שורה 7"
+   "checker_note": "audit: quote found on the fetched page"
   },
   {
-   "id": "c17",
-   "text": "הניתוח בוצע בגבר בן 78 עיוור בשתי עיניו במרכז הרפואי רבין, בידי פרופ' אירית בכר, מנהלת מחלקת העיניים.",
-   "source": "src3",
-   "quote": "The surgery was performed on a bilaterally blind, 78-year-old male at Rabin Medical Center, Israel, by Professor Irit Bahar, Director of the Ophthalmology Department.",
+   "id": "c-aud-20261127-2",
+   "text": "לפי הודעת החברה מספטמבר 2025, ניסוי RESEE התקיים אז במרכזים קליניים בקנדה, צרפת, הודו, ישראל והולנד, אך לפי רישום הניסוי ב-ClinicalTrials.gov החברה הפסיקה אותו בעקבות ממצאי בטיחות.",
+   "source": "src9001",
+   "quote": "The study was voluntarily terminated by the sponsor following emerging safety findings",
+   "locator": "audit 2026-11-27",
    "status": "confirmed",
-   "locator": "שורה 2"
-  },
-  {
-   "id": "c32",
-   "text": "למטופל הראשון הייתה עין אחת מתפקדת שעברה ארבע השתלות קרנית.",
-   "source": "src4",
-   "quote": "The first recipient of the synthetic keratoprosthesis had one functioning eye that had undergone four corneal transplantation procedures.",
-   "status": "confirmed",
-   "locator": "שורה 21"
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1433,6 +1388,13 @@
    "label": "ISRAEL21c",
    "url": "https://archive.israel21c.org/topic/artificial-cornea/",
    "kind": "press"
+  },
+  {
+   "id": "src9001",
+   "label": "ClinicalTrials.gov, NCT05694247, CorNeat KPro for Treatment of Corneal Blindness (record verified March 2026)",
+   "url": "https://clinicaltrials.gov/api/v2/studies/NCT05694247",
+   "kind": "official",
+   "date": "2026-11-27"
   }
  ],
  "media": [

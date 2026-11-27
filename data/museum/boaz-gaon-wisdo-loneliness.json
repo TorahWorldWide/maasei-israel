@@ -124,9 +124,7 @@
     ]
    ],
    "media": [],
-   "disagreements": [
-    "d1"
-   ]
+   "disagreements": []
   },
   {
    "id": "s2",
@@ -297,9 +295,10 @@
    "paragraphs": [
     [
      {
-      "text": "החברה ממוקמת בעיקר ברמת גן, ובה מפתחי מובייל ואנשי תוכן ושיווק.",
+      "text": "לפי ISRAEL21c, ב-2019 החברה הייתה ממוקמת בעיקר ברמת גן, והיו בה מפתחי מובייל ואנשי תוכן ושיווק.",
       "claims": [
-       "c2"
+       "c2",
+       "c-aud-20261127-1"
       ]
      },
      {
@@ -543,24 +542,6 @@
   }
  ],
  "disagreements": [
-  {
-   "id": "d1",
-   "question": "מאיזה סרטן סבל אביו של גאון?",
-   "versions": [
-    {
-     "says": "לפי NoCamels, מסרטן הלבלב",
-     "claims": [
-      "c4"
-     ]
-    },
-    {
-     "says": "לפי MedCity News, מסרטן כליה, אחר כך מלוקמיה לימפוציטית כרונית ולבסוף מסרטן ריאה",
-     "claims": [
-      "c6"
-     ]
-    }
-   ]
-  },
   {
    "id": "d2",
    "question": "באיזו שנה הושקה וויסדו?",
@@ -1232,6 +1213,15 @@
    "quote": "Financial terms of the acquisition were not disclosed.",
    "status": "confirmed",
    "locator": "שורה 6"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "לפי ISRAEL21c, ב-2019 החברה הייתה ממוקמת בעיקר ברמת גן, והיו בה מפתחי מובייל ואנשי תוכן ושיווק.",
+   "source": "src1",
+   "quote": "The company is mostly based in Ramat Gan in Israel",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [

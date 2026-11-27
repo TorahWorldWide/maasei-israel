@@ -1,10 +1,10 @@
 {
  "schema": "maasei-museum/1",
  "slug": "casimir-funk-vitamin-concept",
- "deed": "קזימיר פונק טבע את המושג ויטמין וזיהה שמחלות נגרמות ממחסור",
+ "deed": "Casimir Funk coined the term vitamin and identified that diseases are caused by deficiencies",
  "canonical_type": "scientific-discovery",
  "year": "1911",
- "title": "Casimir Funk coined the word “vitamin” and showed that diseases are caused by deficiencies in food",
+ "title": "Casimir Funk coined the word “vitamin” for the substances whose lack in food causes diseases",
  "trailer": [
   {
    "text": "Casimir Funk (1884–1967) was a Polish-American biochemist whom the American Nutrition Association inducted into the Nutrition Hall of Fame.",
@@ -28,9 +28,10 @@
    ]
   },
   {
-   "text": "According to Live Science, in 1912 Funk discovered that diseases such as scurvy and rickets are caused by a lack of specific components of food.",
+   "text": "In his 1912 paper Funk wrote that research on rickets had not made much progress, and suggested experiments to test whether vitamines affect it too.",
    "claims": [
-    "c50"
+    "c50",
+    "c-aud-20261127-1"
    ]
   },
   {
@@ -354,9 +355,10 @@
       ]
      },
      {
-      "text": "According to the encyclopedia, the 1912 publication earned Funk public recognition and a Beit Fellowship from the University of London.",
+      "text": "According to the Pauling Blog of Oregon State University, after the 1912 publication Funk received a Beit Fellowship to continue his research.",
       "claims": [
-       "c35"
+       "c35",
+       "c-aud-20261127-3"
       ]
      }
     ],
@@ -394,9 +396,7 @@
     "m18",
     "m20"
    ],
-   "disagreements": [
-    "d2"
-   ]
+   "disagreements": []
   },
   {
    "id": "s6",
@@ -405,9 +405,10 @@
    "paragraphs": [
     [
      {
-      "text": "According to an article in PMC, the US Congress officially marked one hundred years since Funk's discovery of the vitamin.",
+      "text": "In 2012 Representative Frank Pallone entered remarks into the Congressional Record marking one hundred years since the discovery of the vitamin.",
       "claims": [
-       "c27"
+       "c27",
+       "c-aud-20261127-2"
       ]
      },
      {
@@ -611,33 +612,9 @@
  ],
  "disagreements": [
   {
-   "id": "d2",
-   "question": "In what year was Funk's book on vitamins published?",
-   "versions": [
-    {
-     "says": "According to an article in PMC, the book Die Vitamine was published two years after the 1912 paper",
-     "claims": [
-      "c25"
-     ]
-    },
-    {
-     "says": "According to the University of Bristol, Funk published a book called The Vitamines in 1912",
-     "claims": [
-      "c61"
-     ]
-    }
-   ]
-  },
-  {
    "id": "d3",
    "question": "Did Funk isolate the anti-beriberi substance?",
    "versions": [
-    {
-     "says": "According to the University of Utah, Funk isolated the active principle from rice polishings and found that it was an amine compound, thiamin.",
-     "claims": [
-      "c57"
-     ]
-    },
     {
      "says": "According to the encyclopedia, Funk never isolated a pure vitamin, but he prepared concentrates that contained several vitamins",
      "claims": [
@@ -1128,22 +1105,6 @@
    "locator": "שורה 15"
   },
   {
-   "id": "c61",
-   "text": "לפי אוניברסיטת בריסטול, פונק פרסם ספר בשם The Vitamines ב-1912.",
-   "source": "src8",
-   "quote": "published a book called The Vitamines in 1912",
-   "status": "confirmed",
-   "locator": "שורה 32"
-  },
-  {
-   "id": "c57",
-   "text": "לפי אוניברסיטת יוטה, פונק בודד את החומר הפעיל מסובי אורז, מצא שהוא אמין והציע שמחלות נוספות נובעות ממחסור תזונתי.",
-   "source": "src10",
-   "quote": "Casimir Funk isolated the active principle from rice polishings, found it was an amine (thiamin), and proposed other diseases could be due to deficiencies in the diet.",
-   "status": "confirmed",
-   "locator": "שורה 12"
-  },
-  {
    "id": "c70",
    "text": "מתי: המונח „ויטמין\" נטבע ב-1912",
    "source": "src11",
@@ -1198,6 +1159,33 @@
    "quote": "In 1926, Dutch chemists Barend Jansen and Willem Donath, also working in the Dutch East Indies, isolated crystals of the anti-beriberi factor from extracts of rice polishings.",
    "status": "confirmed",
    "locator": "שורה 11"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "במאמרו מ-1912 כתב פונק שהמחקר על רככת לא התקדם הרבה, והציע לבדוק בניסויים אם ויטמינים משפיעים גם עליה.",
+   "source": "src2",
+   "quote": "The investigation of this disease has not made much progress",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "ב-2012 הכניס חבר בית הנבחרים פרנק פאלון לרשומות הקונגרס דברים לציון מאה שנה לגילוי הוויטמין.",
+   "source": "src9001",
+   "quote": "entered into the U.S. House of Representatives' Congressional Record remarks",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "לפי בלוג פאולינג של אוניברסיטת אורגון, אחרי הפרסום מ-1912 קיבל פונק מלגת Beit כדי להמשיך במחקרו.",
+   "source": "src11",
+   "quote": "received a Beit Fellowship to continue his research",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1284,6 +1272,13 @@
    "label": "American Chemical Society (Axial): History of B vitamin research",
    "url": "https://axial.acs.org/2016/12/02/history-b-vitamin-research",
    "kind": "organisation"
+  },
+  {
+   "id": "src9001",
+   "label": "Council for Responsible Nutrition, 'Congressman Recognizes the 100th Anniversary of the Vitamin', 2012",
+   "url": "https://crnusa.org/newsroom/congressman-recognizes-100th-anniversary-vitamin-congressional-remarks-mark-milestone",
+   "kind": "organisation",
+   "date": "2026-11-27"
   }
  ],
  "media": [
@@ -1326,7 +1321,7 @@
    "credit": "Jack Drummond",
    "licence": "Public domain",
    "hosting": "hotlink",
-   "caption": "A page from J. C. Drummond's 1920 article on the names of nutritional factors; it mentions that Funk coined the name “Vitamine” and proposed dropping the final e.",
+   "caption": "A page from J. C. Drummond's 1920 article on the names of nutritional factors; Drummond notes that Funk coined the name “Vitamine” and proposes dropping the final e.",
    "illustrates": [],
    "date": "1920-08-12",
    "width": 2914,

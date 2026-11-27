@@ -1,10 +1,10 @@
 {
  "schema": "maasei-museum/1",
  "slug": "casimir-funk-vitamin-concept",
- "deed": "קזימיר פונק טבע את המושג ויטמין וזיהה שמחלות נגרמות ממחסור",
+ "deed": "קזימיר פונק טבע את המושג ויטמין לחומרים שמחסור בהם גורם למחלות",
  "canonical_type": "scientific-discovery",
  "year": "1911",
- "title": "קזימיר פונק טבע את המילה „ויטמין\" והראה שמחלות נגרמות ממחסור במזון",
+ "title": "קזימיר פונק טבע את המילה „ויטמין\" לחומרים שמחסור בהם במזון גורם למחלות",
  "trailer": [
   {
    "text": "קזימיר פונק (1884–1967) היה ביוכימאי פולני-אמריקאי, שאיגוד התזונה האמריקאי צירף להיכל התהילה של התזונה.",
@@ -28,9 +28,10 @@
    ]
   },
   {
-   "text": "לפי Live Science, פונק גילה ב-1912 שמחלות כמו צפדינה ורככת נגרמות ממחסור ברכיבי מזון ספציפיים.",
+   "text": "במאמרו מ-1912 כתב פונק שהמחקר על רככת לא התקדם הרבה, והציע לבדוק בניסויים אם ויטמינים משפיעים גם עליה.",
    "claims": [
-    "c50"
+    "c50",
+    "c-aud-20261127-1"
    ]
   },
   {
@@ -354,9 +355,10 @@
       ]
      },
      {
-      "text": "לפי האנציקלופדיה, הפרסום מ-1912 הביא לפונק הכרה ציבורית ומלגת Beit מאוניברסיטת לונדון.",
+      "text": "לפי בלוג פאולינג של אוניברסיטת אורגון, אחרי הפרסום מ-1912 קיבל פונק מלגת Beit כדי להמשיך במחקרו.",
       "claims": [
-       "c35"
+       "c35",
+       "c-aud-20261127-3"
       ]
      }
     ],
@@ -394,9 +396,7 @@
     "m18",
     "m20"
    ],
-   "disagreements": [
-    "d2"
-   ]
+   "disagreements": []
   },
   {
    "id": "s6",
@@ -405,9 +405,10 @@
    "paragraphs": [
     [
      {
-      "text": "לפי מאמר ב-PMC, הקונגרס האמריקאי ציין באופן רשמי מאה שנה לגילוי הוויטמין בידי פונק.",
+      "text": "ב-2012 הכניס חבר בית הנבחרים פרנק פאלון לרשומות הקונגרס דברים לציון מאה שנה לגילוי הוויטמין.",
       "claims": [
-       "c27"
+       "c27",
+       "c-aud-20261127-2"
       ]
      },
      {
@@ -611,33 +612,9 @@
  ],
  "disagreements": [
   {
-   "id": "d2",
-   "question": "באיזו שנה יצא ספרו של פונק על הוויטמינים?",
-   "versions": [
-    {
-     "says": "לפי מאמר ב-PMC, הספר Die Vitamine יצא שנתיים אחרי המאמר מ-1912",
-     "claims": [
-      "c25"
-     ]
-    },
-    {
-     "says": "לפי אוניברסיטת בריסטול, פונק פרסם ספר בשם The Vitamines ב-1912",
-     "claims": [
-      "c61"
-     ]
-    }
-   ]
-  },
-  {
    "id": "d3",
    "question": "האם פונק בודד את החומר נגד בריברי?",
    "versions": [
-    {
-     "says": "לפי אוניברסיטת יוטה, פונק בודד מסובי אורז את החומר הפעיל ומצא שהוא תרכובת אמינית (amine), תיאמין.",
-     "claims": [
-      "c57"
-     ]
-    },
     {
      "says": "לפי האנציקלופדיה, פונק מעולם לא בודד ויטמין טהור, אבל הכין תרכיזים שהיו בהם כמה ויטמינים",
      "claims": [
@@ -1128,22 +1105,6 @@
    "locator": "שורה 15"
   },
   {
-   "id": "c61",
-   "text": "לפי אוניברסיטת בריסטול, פונק פרסם ספר בשם The Vitamines ב-1912.",
-   "source": "src8",
-   "quote": "published a book called The Vitamines in 1912",
-   "status": "confirmed",
-   "locator": "שורה 32"
-  },
-  {
-   "id": "c57",
-   "text": "לפי אוניברסיטת יוטה, פונק בודד את החומר הפעיל מסובי אורז, מצא שהוא אמין והציע שמחלות נוספות נובעות ממחסור תזונתי.",
-   "source": "src10",
-   "quote": "Casimir Funk isolated the active principle from rice polishings, found it was an amine (thiamin), and proposed other diseases could be due to deficiencies in the diet.",
-   "status": "confirmed",
-   "locator": "שורה 12"
-  },
-  {
    "id": "c70",
    "text": "מתי: המונח „ויטמין\" נטבע ב-1912",
    "source": "src11",
@@ -1198,6 +1159,33 @@
    "quote": "In 1926, Dutch chemists Barend Jansen and Willem Donath, also working in the Dutch East Indies, isolated crystals of the anti-beriberi factor from extracts of rice polishings.",
    "status": "confirmed",
    "locator": "שורה 11"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "במאמרו מ-1912 כתב פונק שהמחקר על רככת לא התקדם הרבה, והציע לבדוק בניסויים אם ויטמינים משפיעים גם עליה.",
+   "source": "src2",
+   "quote": "The investigation of this disease has not made much progress",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "ב-2012 הכניס חבר בית הנבחרים פרנק פאלון לרשומות הקונגרס דברים לציון מאה שנה לגילוי הוויטמין.",
+   "source": "src9001",
+   "quote": "entered into the U.S. House of Representatives' Congressional Record remarks",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "לפי בלוג פאולינג של אוניברסיטת אורגון, אחרי הפרסום מ-1912 קיבל פונק מלגת Beit כדי להמשיך במחקרו.",
+   "source": "src11",
+   "quote": "received a Beit Fellowship to continue his research",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1284,6 +1272,13 @@
    "label": "American Chemical Society (Axial): History of B vitamin research",
    "url": "https://axial.acs.org/2016/12/02/history-b-vitamin-research",
    "kind": "organisation"
+  },
+  {
+   "id": "src9001",
+   "label": "Council for Responsible Nutrition, 'Congressman Recognizes the 100th Anniversary of the Vitamin', 2012",
+   "url": "https://crnusa.org/newsroom/congressman-recognizes-100th-anniversary-vitamin-congressional-remarks-mark-milestone",
+   "kind": "organisation",
+   "date": "2026-11-27"
   }
  ],
  "media": [
@@ -1326,7 +1321,7 @@
    "credit": "Jack Drummond",
    "licence": "Public domain",
    "hosting": "hotlink",
-   "caption": "עמוד ממאמרו של ג'יי. סי. דראמונד מ-1920 על שמות הגורמים התזונתיים; הוא מזכיר שפונק טבע את השם \"Vitamine\" והציע להשמיט את ה-e האחרון.",
+   "caption": "עמוד ממאמרו של ג'יי. סי. דראמונד מ-1920 על שמות הגורמים התזונתיים; דראמונד מזכיר שפונק טבע את השם \"Vitamine\" ומציע להשמיט את ה-e האחרון.",
    "illustrates": [],
    "date": "1920-08-12",
    "width": 2914,

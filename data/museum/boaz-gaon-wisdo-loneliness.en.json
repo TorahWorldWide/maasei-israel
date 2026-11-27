@@ -1,7 +1,7 @@
 {
  "schema": "maasei-museum/1",
  "slug": "boaz-gaon-wisdo-loneliness",
- "deed": "בועז גאון מקים את וויסדו שמחבר אנשים במשבר ומפחית בדידות",
+ "deed": "Boaz Gaon is founding Wisdo, which connects people in crisis and reduces loneliness",
  "canonical_type": "ongoing-charity",
  "year": "2015",
  "title": "Boaz Gaon turned his father's illness into Wisdo, an app that connects people in crisis and reduces loneliness",
@@ -124,9 +124,7 @@
     ]
    ],
    "media": [],
-   "disagreements": [
-    "d1"
-   ]
+   "disagreements": []
   },
   {
    "id": "s2",
@@ -297,9 +295,10 @@
    "paragraphs": [
     [
      {
-      "text": "The company is mostly based in Ramat Gan, and includes mobile developers and content and marketing people.",
+      "text": "According to ISRAEL21c, in 2019 the company was mostly based in Ramat Gan, and included mobile developers and content and marketing people.",
       "claims": [
-       "c2"
+       "c2",
+       "c-aud-20261127-1"
       ]
      },
      {
@@ -543,24 +542,6 @@
   }
  ],
  "disagreements": [
-  {
-   "id": "d1",
-   "question": "What cancer did Gaon's father have?",
-   "versions": [
-    {
-     "says": "According to NoCamels, pancreatic cancer",
-     "claims": [
-      "c4"
-     ]
-    },
-    {
-     "says": "According to MedCity News, kidney cancer, then chronic lymphocytic leukemia and eventually lung cancer",
-     "claims": [
-      "c6"
-     ]
-    }
-   ]
-  },
   {
    "id": "d2",
    "question": "In what year was Wisdo launched?",
@@ -1232,6 +1213,15 @@
    "quote": "Financial terms of the acquisition were not disclosed.",
    "status": "confirmed",
    "locator": "שורה 6"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "לפי ISRAEL21c, ב-2019 החברה הייתה ממוקמת בעיקר ברמת גן, והיו בה מפתחי מובייל ואנשי תוכן ושיווק.",
+   "source": "src1",
+   "quote": "The company is mostly based in Ramat Gan in Israel",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [

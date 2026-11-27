@@ -307,9 +307,10 @@
       ]
      },
      {
-      "text": "At the end of 1896 an Institute for the control of therapeutic sera was established at Steglitz in Berlin, and Ehrlich was appointed its Director.",
+      "text": "On 1 June 1896 the Institute for Serum Research and Serum Testing was founded in Steglitz near Berlin, and Ehrlich was appointed its Director.",
       "claims": [
-       "c24"
+       "c24",
+       "c-aud-20261127-1"
       ]
      },
      {
@@ -568,9 +569,10 @@
       ]
      },
      {
-      "text": "Paul Uhlenhuth, an associate of Ehrlich's, claimed that he had discovered the drug first.",
+      "text": "Paul Uhlenhuth, head of the bacteriology department of the Imperial Health Office in Berlin, waged long disputes with Ehrlich over who had discovered arsenic therapy against syphilis.",
       "claims": [
-       "c68"
+       "c68",
+       "c-aud-20261127-2"
       ]
      }
     ],
@@ -1282,6 +1284,24 @@
    "quote": "Twelve orders (ten from foreign governments) and five honorary doctorates were conferred on him.",
    "status": "confirmed",
    "locator": "שורה 39"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "ב-1 ביוני 1896 נוסד בשטגליץ שליד ברלין המכון לחקר נסיובים ולבדיקת נסיובים, וארליך מונה למנהלו.",
+   "source": "src9001",
+   "quote": "On 1 June 1896, the Paul-Ehrlich-Institut, then still known as the \"Institute for Serum Research and Serum Testing\"",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "פאול אוהלנהוט, מנהל המחלקה הבקטריולוגית במשרד הבריאות הקיסרי בברלין, ניהל עם ארליך מחלוקות ארוכות על השאלה מי גילה את הטיפול בארסן נגד עגבת.",
+   "source": "src9002",
+   "quote": "Dies führte zu ausgedehnten Prioritätsstreitigkeiten mit Paul Ehrlich (1854–1915)",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1326,6 +1346,20 @@
    "label": "The Forward, Paul Ehrlich, a 'Markedly Jewish' Humanitarian",
    "url": "https://forward.com/schmooze/148647/paul-ehrlich-a-markedly-jewish-humanitarian/",
    "kind": "press"
+  },
+  {
+   "id": "src9001",
+   "label": "Paul-Ehrlich-Institut, 125 Years Paul-Ehrlich-Institut, 1 June 2021",
+   "url": "https://www.pei.de/EN/newsroom/hp-news/2021/210601-125-years-paul-ehrlich-institut-pei.html",
+   "kind": "official",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9002",
+   "label": "Neue Deutsche Biographie 26 (2016), Hüntelmann, Uhlenhuth, Paul Theodor",
+   "url": "https://www.deutsche-biographie.de/sfz48812.html",
+   "kind": "reference",
+   "date": "2026-11-27"
   }
  ],
  "media": [

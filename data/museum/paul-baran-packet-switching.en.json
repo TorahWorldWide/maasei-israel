@@ -159,9 +159,10 @@
    "paragraphs": [
     [
      {
-      "text": "Baran left Hughes and joined RAND’s computer science department.",
+      "text": "In late 1959 Baran left Hughes and joined RAND’s computer science department.",
       "claims": [
-       "c10"
+       "c10",
+       "c-aud-20261127-1"
       ]
      },
      {
@@ -197,9 +198,10 @@
       ]
      },
      {
-      "text": "According to the history, the Air Force replied that the proposal might suit the President, but communicating with forces in the field required a system with much greater capacity.",
+      "text": "According to the history, the Air Force replied that the proposal might suit the needs of the President of the United States, but communicating with forces in the field required a system with much greater capacity.",
       "claims": [
-       "c22"
+       "c22",
+       "c-aud-20261127-3"
       ]
      }
     ]
@@ -210,9 +212,7 @@
     "m12",
     "m15"
    ],
-   "disagreements": [
-    "d1"
-   ]
+   "disagreements": []
   },
   {
    "id": "s3",
@@ -656,24 +656,6 @@
  ],
  "disagreements": [
   {
-   "id": "d1",
-   "question": "In what year did Baran join RAND?",
-   "versions": [
-    {
-     "says": "According to ARRL, in 1959",
-     "claims": [
-      "c10"
-     ]
-    },
-    {
-     "says": "According to the National Academy of Engineering memorial tribute, in 1960",
-     "claims": [
-      "c11"
-     ]
-    }
-   ]
-  },
-  {
    "id": "d2",
    "question": "How many volumes did the On Distributed Communications series comprise?",
    "versions": [
@@ -702,9 +684,10 @@
    "question": "When was the technology adopted to create ARPANET?",
    "versions": [
     {
-     "says": "According to ARRL, MIT and DARPA adopted the technology in 1968",
+     "says": "According to DARPA, in 1968 ARPA contracted BBN to build the network’s first routers",
      "claims": [
-      "c37"
+      "c37",
+      "c-aud-20261127-2"
      ]
     },
     {
@@ -1279,14 +1262,6 @@
    "locator": "שורה 12"
   },
   {
-   "id": "c11",
-   "text": "לפי ההספד של האקדמיה הלאומית להנדסה, ברן הצטרף ל-RAND ב-1960.",
-   "source": "src2",
-   "quote": "Baran joined the RAND Corporation in 1960, two years after the invention of the integrated circuit.",
-   "status": "confirmed",
-   "locator": "שורה 10"
-  },
-  {
    "id": "c32",
    "text": "תקציר הראיון במכון צ'רלס באבאג' מתאר את כתיבתו והפצתו של חיבור בן אחד-עשר כרכים.",
    "source": "src11",
@@ -1453,6 +1428,33 @@
    "quote": "The packet switching concept was first invented by Paul Baran in the early 1960’s, and then independently a few years later by Donald Davies.",
    "status": "confirmed",
    "locator": "שורה 7"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "בסוף 1959 עזב ברן את היוז והצטרף למחלקת מדעי המחשב של RAND.",
+   "source": "src18",
+   "quote": "In late 1959 when I joined the RAND Corporation",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "לפי DARPA, ב-1968 התקשרה ARPA עם BBN לבניית הנתבים הראשונים של הרשת",
+   "source": "src9001",
+   "quote": "contracted BBN Technologies to build the first routers",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "לפי ההיסטוריה, חיל האוויר השיב לו שההצעה אולי מתאימה לצורכי נשיא ארצות הברית, אבל לתקשורת עם כוחות בשטח נדרשת מערכת בעלת קיבולת גדולה בהרבה.",
+   "source": "src18",
+   "quote": "may take care of the President issuing the orders at the start of a war",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1575,6 +1577,13 @@
    "label": "Alex McKenzie: Comments on Dr. Leonard Kleinrock's claim to be \"the Father of Modern Data Networking\"",
    "url": "http://alexmckenzie.weebly.com/comments-on-kleinrocks-claims.html",
    "kind": "other"
+  },
+  {
+   "id": "src9001",
+   "label": "DARPA, Innovation Timeline: ARPANET",
+   "url": "https://www.darpa.mil/about/innovation-timeline/arpanet",
+   "kind": "official",
+   "date": "2026-11-27"
   }
  ],
  "media": [

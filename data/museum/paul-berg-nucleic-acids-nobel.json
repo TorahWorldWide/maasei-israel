@@ -29,10 +29,11 @@
    ]
   },
   {
-   "text": "בפברואר 1975 ארגן עם מקסין סינגר וריצ'רד רובלין את כנס אסילומר, ושם הוחלט שהמחקר יימשך תחת הגבלות מחמירות.",
+   "text": "בפברואר 1975 ארגן עם דייוויד בולטימור, סידני ברנר, ריצ'רד רובלין ומקסין סינגר את כנס אסילומר, ושם הוחלט שהמחקר יימשך תחת הגבלות מחמירות.",
    "claims": [
     "c36",
-    "c44"
+    "c44",
+    "c-aud-20261127-2"
    ]
   },
   {
@@ -127,9 +128,10 @@
       ]
      },
      {
-      "text": "הוא סיים תואר ראשון בביוכימיה בפנסילבניה סטייט ב-1948, וקיבל דוקטורט בביוכימיה מקייס ווסטרן ריזרב ב-1952.",
+      "text": "הוא סיים תואר ראשון בביוכימיה בפנסילבניה סטייט ב-1948, וקיבל דוקטורט בביוכימיה מאוניברסיטת ווסטרן ריזרב (כיום קייס ווסטרן ריזרב) ב-1952.",
       "claims": [
-       "c14"
+       "c14",
+       "c-aud-20261127-4"
       ]
      },
      {
@@ -196,21 +198,16 @@
     ],
     [
      {
-      "text": "לפי The Scientist, הצוות של ברג החדיר קטע DNA של החיידק E. coli לגנום של SV40 והפיק גן פעיל.",
+      "text": "ברג כתב שהצוות שלו החדיר לגנום של SV40 קטע DNA שהכיל שלושה גנים של החיידק E. coli האחראים לחילוף החומרים של הסוכר גלקטוז.",
       "claims": [
-       "c29"
+       "c29",
+       "c-aud-20261127-3"
       ]
      },
      {
       "text": "לפי קרן נובל, כך נוצרה מולקולת ה-DNA הראשונה המורכבת מחלקים מאורגניזמים שונים.",
       "claims": [
        "c22"
-      ]
-     },
-     {
-      "text": "לפי Chemistry World, ברג היה הראשון שהחדיר DNA מאורגניזם אחד לאורגניזם אחר.",
-      "claims": [
-       "c5"
       ]
      }
     ],
@@ -314,9 +311,10 @@
    "paragraphs": [
     [
      {
-      "text": "בפברואר 1975 נערך כנס אסילומר בנושא DNA רקומביננטי, שאורגן על ידי ברג, מקסין סינגר וריצ'רד רובלין.",
+      "text": "בפברואר 1975 נערך כנס אסילומר בנושא DNA רקומביננטי, שאורגן על ידי ברג, דייוויד בולטימור, סידני ברנר, ריצ'רד רובלין ומקסין סינגר.",
       "claims": [
-       "c36"
+       "c36",
+       "c-aud-20261127-1"
       ]
      },
      {
@@ -1359,6 +1357,42 @@
    "quote": "DNA segment containing lambda phage genes and the galactose operon",
    "status": "confirmed",
    "locator": "שורה 6"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "בפברואר 1975 נערך כנס אסילומר בנושא DNA רקומביננטי, שאורגן על ידי ברג, דייוויד בולטימור, סידני ברנר, ריצ'רד רובלין ומקסין סינגר.",
+   "source": "src6",
+   "quote": "David Baltimore, Sydney Brenner, Richard Roblin and Maxine Singer",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "בפברואר 1975 ארגן עם דייוויד בולטימור, סידני ברנר, ריצ'רד רובלין ומקסין סינגר את כנס אסילומר, ושם הוחלט שהמחקר יימשך תחת הגבלות מחמירות.",
+   "source": "src6",
+   "quote": "David Baltimore, Sydney Brenner, Richard Roblin and Maxine Singer",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "ברג כתב שהצוות שלו החדיר לגנום של SV40 קטע DNA שהכיל שלושה גנים של החיידק E. coli האחראים לחילוף החומרים של הסוכר גלקטוז.",
+   "source": "src6",
+   "quote": "we inserted a segment of DNA containing three Escherichia coli genes responsible for the metabolism of the sugar galactose into the genome of the Simian Virus",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-4",
+   "text": "הוא סיים תואר ראשון בביוכימיה בפנסילבניה סטייט ב-1948, וקיבל דוקטורט בביוכימיה מאוניברסיטת ווסטרן ריזרב (כיום קייס ווסטרן ריזרב) ב-1952.",
+   "source": "src3",
+   "quote": "his doctorate from Western Reserve University in 1952",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [

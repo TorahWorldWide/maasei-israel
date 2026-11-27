@@ -1,7 +1,7 @@
 {
  "schema": "maasei-museum/1",
  "slug": "paul-berg-nucleic-acids-nobel",
- "deed": "פול ברג זכה בפרס נובל לכימיה על מחקריו פורצי הדרך בחומצות הגרעין",
+ "deed": "Paul Berg won the Nobel Prize in Chemistry for his groundbreaking research on nucleic acids",
  "canonical_type": "scientific-discovery",
  "year": "1980",
  "title": "Paul Berg joined DNA from two organisms, led the Asilomar Conference and won the Nobel Prize in Chemistry",
@@ -29,10 +29,11 @@
    ]
   },
   {
-   "text": "In February 1975 he organized the Asilomar Conference with Maxine Singer and Richard Roblin, and there it was decided that the research would continue under stringent restrictions.",
+   "text": "In February 1975 he organized the Asilomar Conference with David Baltimore, Sydney Brenner, Richard Roblin and Maxine Singer, and there it was decided that the research would continue under stringent restrictions.",
    "claims": [
     "c36",
-    "c44"
+    "c44",
+    "c-aud-20261127-2"
    ]
   },
   {
@@ -127,9 +128,10 @@
       ]
      },
      {
-      "text": "He completed an undergraduate degree in biochemistry at Penn State in 1948, and received a PhD in biochemistry from Case Western Reserve in 1952.",
+      "text": "He completed an undergraduate degree in biochemistry at Penn State in 1948, and received a PhD in biochemistry from Western Reserve University (now Case Western Reserve) in 1952.",
       "claims": [
-       "c14"
+       "c14",
+       "c-aud-20261127-4"
       ]
      },
      {
@@ -196,21 +198,16 @@
     ],
     [
      {
-      "text": "According to The Scientist, Berg's team inserted a DNA segment from the bacterium E. coli into the genome of SV40 and produced a functional gene.",
+      "text": "Berg wrote that his team inserted into the genome of SV40 a DNA segment containing three genes of the bacterium E. coli responsible for the metabolism of the sugar galactose.",
       "claims": [
-       "c29"
+       "c29",
+       "c-aud-20261127-3"
       ]
      },
      {
       "text": "According to the Nobel Foundation, this created the first DNA molecule made of parts from different organisms.",
       "claims": [
        "c22"
-      ]
-     },
-     {
-      "text": "According to Chemistry World, Berg was the first to introduce DNA from one organism into another.",
-      "claims": [
-       "c5"
       ]
      }
     ],
@@ -314,9 +311,10 @@
    "paragraphs": [
     [
      {
-      "text": "In February 1975 the Asilomar Conference on recombinant DNA was held, organized by Berg, Maxine Singer and Richard Roblin.",
+      "text": "In February 1975 the Asilomar Conference on recombinant DNA was held, organized by Berg, David Baltimore, Sydney Brenner, Richard Roblin and Maxine Singer.",
       "claims": [
-       "c36"
+       "c36",
+       "c-aud-20261127-1"
       ]
      },
      {
@@ -1359,6 +1357,42 @@
    "quote": "DNA segment containing lambda phage genes and the galactose operon",
    "status": "confirmed",
    "locator": "שורה 6"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "בפברואר 1975 נערך כנס אסילומר בנושא DNA רקומביננטי, שאורגן על ידי ברג, דייוויד בולטימור, סידני ברנר, ריצ'רד רובלין ומקסין סינגר.",
+   "source": "src6",
+   "quote": "David Baltimore, Sydney Brenner, Richard Roblin and Maxine Singer",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "בפברואר 1975 ארגן עם דייוויד בולטימור, סידני ברנר, ריצ'רד רובלין ומקסין סינגר את כנס אסילומר, ושם הוחלט שהמחקר יימשך תחת הגבלות מחמירות.",
+   "source": "src6",
+   "quote": "David Baltimore, Sydney Brenner, Richard Roblin and Maxine Singer",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "ברג כתב שהצוות שלו החדיר לגנום של SV40 קטע DNA שהכיל שלושה גנים של החיידק E. coli האחראים לחילוף החומרים של הסוכר גלקטוז.",
+   "source": "src6",
+   "quote": "we inserted a segment of DNA containing three Escherichia coli genes responsible for the metabolism of the sugar galactose into the genome of the Simian Virus",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-4",
+   "text": "הוא סיים תואר ראשון בביוכימיה בפנסילבניה סטייט ב-1948, וקיבל דוקטורט בביוכימיה מאוניברסיטת ווסטרן ריזרב (כיום קייס ווסטרן ריזרב) ב-1952.",
+   "source": "src3",
+   "quote": "his doctorate from Western Reserve University in 1952",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [

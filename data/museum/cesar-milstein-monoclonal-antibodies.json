@@ -336,9 +336,10 @@
       ]
      },
      {
-      "text": "גלפרה הכניס נגיף סנדאי כחומר היתוך, וכך שיפר את התהליך והפך אותו לאמין יותר.",
+      "text": "גלפרה החליף את נגיף סנדאי בפוליאתילן גליקול (PEG) כחומר היתוך, וכך שיפר את התהליך והפך אותו לאמין יותר.",
       "claims": [
-       "c20"
+       "c20",
+       "c-aud-20261127-1"
       ]
      }
     ],
@@ -401,7 +402,9 @@
     "m23",
     "m24"
    ],
-   "disagreements": []
+   "disagreements": [
+    "d9001"
+   ]
   },
   {
    "id": "s6",
@@ -632,6 +635,24 @@
      "says": "לפי AAI, ב-1995",
      "claims": [
       "c58"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9001",
+   "question": "כמה זמן עבר עד שנוגדנים חד-שבטיים שימשו לטיפול בבני אדם?",
+   "versions": [
+    {
+     "says": "מכון LMB: כ-20 שנה, בעקבות מחקר בהובלת גרג וינטר ומייקל נויברגר",
+     "claims": [
+      "c-aud-20261127-2"
+     ]
+    },
+    {
+     "says": "Encyclopedia.com: נוגדן חד-שבטי מעכבר, מורומונאב-CD3, אושר על ידי ה-FDA לשימוש בבני אדם כבר בסוף 1986",
+     "claims": [
+      "c-aud-20261127-3"
      ]
     }
    ]
@@ -1102,6 +1123,33 @@
    "quote": "A documentary film that pays tribute to Cesar Milstein, last Argentine Nobel Prize.",
    "status": "confirmed",
    "locator": "שורה 2"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "גלפרה החליף את נגיף סנדאי בפוליאתילן גליקול (PEG) כחומר היתוך, וכך שיפר את התהליך והפך אותו לאמין יותר.",
+   "source": "src9001",
+   "quote": "the easier and safer polyethylene glycol fusion treatment was substituted for the viral fusion",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "מכון LMB: כ-20 שנה, בעקבות מחקר בהובלת גרג וינטר ומייקל נויברגר",
+   "source": "src9002",
+   "quote": "it would take 20 years before this approach could be applied to humans",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "Encyclopedia.com: נוגדן חד-שבטי מעכבר, מורומונאב-CD3, אושר על ידי ה-FDA לשימוש בבני אדם כבר בסוף 1986",
+   "source": "src9003",
+   "quote": "In late 1986 Muromonab-CD3 was the first monoclonal antibody approved for use by the FDA",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1170,6 +1218,27 @@
    "label": "Box Office Mojo (IMDbPro): Un fueguito. La historia de César Milstein",
    "url": "https://www.boxofficemojo.com/release/rl906462465",
    "kind": "reference"
+  },
+  {
+   "id": "src9001",
+   "label": "US Patent 4690893 (Google Patents), Hybridoma cell lines producing monoclonal antibodies which specifically bind to mouse interleukin-2, citing Galfre & Milstein, Meth. Enzym. 73 (1981)",
+   "url": "https://patents.google.com/patent/US4690893A/en",
+   "kind": "other",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9002",
+   "label": "MRC Laboratory of Molecular Biology, 1984: César Milstein & Georges Köhler",
+   "url": "https://mrclmb.ac.uk/achievements/awards-and-prizes/nobel-prizes/1984-cesar-milstein-georges-kohler/",
+   "kind": "organisation",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9003",
+   "label": "Encyclopedia.com, Muromonab-CD3",
+   "url": "https://www.encyclopedia.com/medicine/encyclopedias-almanacs-transcripts-and-maps/muromonab-cd3",
+   "kind": "reference",
+   "date": "2026-11-27"
   }
  ],
  "media": [

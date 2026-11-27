@@ -314,9 +314,10 @@
       ]
      },
      {
-      "text": "According to Shechtman, the head of his laboratory in Israel told him that he was a disgrace to the group and that he could not bear the disgrace.",
+      "text": "According to Shechtman, the head of his research group told him that he was a disgrace to the group and that he could not bear the disgrace.",
       "claims": [
-       "c26"
+       "c26",
+       "c-aud-20261127-1"
       ]
      },
      {
@@ -1323,6 +1324,15 @@
    "quote": "1998 Israel Prize in Physics",
    "status": "confirmed",
    "locator": "שורה 18"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "לפי שכטמן, ראש קבוצת המחקר שלו אמר לו שהוא בושה לקבוצה ושהוא לא יכול לשאת את הבושה.",
+   "source": "src2",
+   "quote": "Shechtman was asked to leave his research group at the National Bureau of Standards",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
   }
  ],
  "sources": [

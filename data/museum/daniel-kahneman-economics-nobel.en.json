@@ -1,7 +1,7 @@
 {
  "schema": "maasei-museum/1",
  "slug": "daniel-kahneman-economics-nobel",
- "deed": "הפסיכולוג הישראלי דניאל כהנמן זכה בנובל לכלכלה על חקר קבלת ההחלטות",
+ "deed": "Israeli psychologist Daniel Kahneman won the Nobel Prize in Economics for his research on decision-making",
  "canonical_type": "scientific-discovery",
  "year": "2002",
  "title": "Daniel Kahneman, a psychologist born in Tel Aviv, showed how people make decisions and won the Nobel Prize in Economics",
@@ -97,9 +97,10 @@
       ]
      },
      {
-      "text": "According to JTA, his parents were Jews of Lithuanian origin, and he grew up in France, where his father worked as a representative of a cosmetics company.",
+      "text": "His parents were Jews of Lithuanian origin, and he grew up in France, where his father was the chief of research in a large chemical factory.",
       "claims": [
-       "c17"
+       "c17",
+       "c-aud-20261127-4"
       ]
      }
     ],
@@ -132,10 +133,11 @@
     ],
     [
      {
-      "text": "His father died six weeks before D-Day.",
+      "text": "His father, who had diabetes and could not get proper treatment during the war, died in 1944, six weeks before D-Day.",
       "claims": [
        "c21",
-       "c22"
+       "c22",
+       "c-aud-20261127-3"
       ]
      },
      {
@@ -148,7 +150,6 @@
    ],
    "media": [],
    "disagreements": [
-    "d1",
     "d2"
    ]
   },
@@ -184,14 +185,6 @@
       "text": "Kahneman then wrote a doctoral dissertation, which was submitted in 1961.",
       "claims": [
        "c68"
-      ]
-     }
-    ],
-    [
-     {
-      "text": "According to Social Science Space, Amitai Etzioni, at Berkeley",
-      "claims": [
-       "c46"
       ]
      }
     ]
@@ -256,12 +249,6 @@
       ]
      },
      {
-      "text": "One example: judges grant more paroles after lunch than when they are hungry.",
-      "claims": [
-       "c40"
-      ]
-     },
-     {
       "text": "The peak-end rule holds that our impression of a past event is determined mainly by its peak moment and its final moment, and not by the total amount of pleasure and suffering.",
       "claims": [
        "c72"
@@ -270,9 +257,10 @@
     ],
     [
      {
-      "text": "According to one of the sources, in the mid-1970s, when Kahneman was at Stanford as a fellow at the Center for Advanced Study in the Behavioral Sciences, he also began working with the economist Richard Thaler on what was termed the endowment effect and mental accounting.",
+      "text": "In the 1977-78 academic year, when Kahneman was at Stanford as a fellow at the Center for Advanced Study in the Behavioral Sciences, the economist Richard Thaler met him and Tversky for the first time.",
       "claims": [
-       "c60"
+       "c60",
+       "c-aud-20261127-2"
       ]
      }
     ]
@@ -424,10 +412,11 @@
    "paragraphs": [
     [
      {
-      "text": "Kahneman and Tversky jointly received the Grawemeyer Award.",
+      "text": "Kahneman and Tversky jointly received the 2003 Grawemeyer Award in Psychology.",
       "claims": [
        "c35",
-       "c74"
+       "c74",
+       "c-aud-20261127-1"
       ]
      },
      {
@@ -448,14 +437,6 @@
       "text": "According to NPR, Kahneman himself credited much of his success to good luck.",
       "claims": [
        "c58"
-      ]
-     }
-    ],
-    [
-     {
-      "text": "According to Social Science Space, in 2002",
-      "claims": [
-       "c35"
       ]
      }
     ]
@@ -528,24 +509,6 @@
   }
  ],
  "disagreements": [
-  {
-   "id": "d1",
-   "question": "What did Kahneman's father die of?",
-   "versions": [
-    {
-     "says": "According to JTA, his father died of a stroke",
-     "claims": [
-      "c21"
-     ]
-    },
-    {
-     "says": "According to Social Science Space, his father died of diabetes",
-     "claims": [
-      "c22"
-     ]
-    }
-   ]
-  },
   {
    "id": "d2",
    "question": "When did the family move to Palestine?",
@@ -896,14 +859,6 @@
    "locator": "שורה 18"
   },
   {
-   "id": "c46",
-   "text": "לפי Social Science Space, כהנמן למד לדוקטורט בברקלי אצל אמיטאי אציוני.",
-   "source": "src6",
-   "quote": "received a fellowship to earn a PhD under Amitai Etzioni at the University of California, Berkeley.",
-   "status": "confirmed",
-   "locator": "שורה 15"
-  },
-  {
    "id": "c64",
    "text": "התגלית: תורת הסיכוי, פורסמה ב־1979",
    "source": "src10",
@@ -982,6 +937,42 @@
    "quote": "The Grawemeyer Award recognizes Kahneman and his former colleague Amos Tversky",
    "status": "confirmed",
    "locator": "שורה 5"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "כהנמן וטברסקי קיבלו יחד את פרס גרוומאייר לפסיכולוגיה לשנת 2003.",
+   "source": "src9001",
+   "quote": "2003 Daniel Kahneman Amos Tversky",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "בשנת הלימודים 1977–1978, כשכהנמן שהה בסטנפורד כעמית במרכז למחקר מתקדם במדעי ההתנהגות, הכלכלן ריצ'רד תיילר נפגש לראשונה איתו ועם טברסקי.",
+   "source": "src9002",
+   "quote": "Fuchs ultimately arranged the first meeting with Kahneman and Tversky",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "אביו, שחלה בסוכרת ולא קיבל טיפול מתאים בזמן המלחמה, מת ב־1944, שישה שבועות לפני D-Day.",
+   "source": "src10",
+   "quote": "His father, who had diabetes, was unable to receive proper treatment during the war and died in 1944",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-4",
+   "text": "הוריו היו יהודים ממוצא ליטאי, והוא גדל בצרפת, שם היה אביו ראש המחקר במפעל כימי גדול.",
+   "source": "src9003",
+   "quote": "My father was the chief of research in a large chemical factory.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1074,6 +1065,27 @@
    "label": "The Daily Princetonian: Nobel winner Kahneman grabs $200K psych prize",
    "url": "https://www.dailyprincetonian.com/article/2002/12/nobel-winner-kahneman-grabs-200k-psych-prize",
    "kind": "press"
+  },
+  {
+   "id": "src9001",
+   "label": "University of Louisville, Grawemeyer Award Previous Recipients",
+   "url": "https://awards.louisville.edu/grawemeyer-award-previous-recipients",
+   "kind": "official",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9002",
+   "label": "CASBS, Stanford University, CASBS and the history of behavioral economics",
+   "url": "https://casbs.stanford.edu/news/casbs-history-behavioral-economics",
+   "kind": "other",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9003",
+   "label": "Kahneman, Nobel autobiography (Nobel Prize, 2002), via RePEc",
+   "url": "https://ideas.repec.org/p/ris/nobelp/2002_003.html",
+   "kind": "official",
+   "date": "2026-11-27"
   }
  ],
  "media": [

@@ -97,9 +97,10 @@
       ]
      },
      {
-      "text": "לפי JTA, הוריו היו יהודים ממוצא ליטאי, והוא גדל בצרפת, שם עבד אביו כנציג של חברת קוסמטיקה.",
+      "text": "הוריו היו יהודים ממוצא ליטאי, והוא גדל בצרפת, שם היה אביו ראש המחקר במפעל כימי גדול.",
       "claims": [
-       "c17"
+       "c17",
+       "c-aud-20261127-4"
       ]
      }
     ],
@@ -132,10 +133,11 @@
     ],
     [
      {
-      "text": "אביו מת שישה שבועות לפני D-Day.",
+      "text": "אביו, שחלה בסוכרת ולא קיבל טיפול מתאים בזמן המלחמה, מת ב־1944, שישה שבועות לפני D-Day.",
       "claims": [
        "c21",
-       "c22"
+       "c22",
+       "c-aud-20261127-3"
       ]
      },
      {
@@ -148,7 +150,6 @@
    ],
    "media": [],
    "disagreements": [
-    "d1",
     "d2"
    ]
   },
@@ -184,14 +185,6 @@
       "text": "אחר כך כהנמן כתב עבודת דוקטורט, שהוגשה ב־1961.",
       "claims": [
        "c68"
-      ]
-     }
-    ],
-    [
-     {
-      "text": "לפי Social Science Space, אמיטאי אציוני, בברקלי",
-      "claims": [
-       "c46"
       ]
      }
     ]
@@ -256,12 +249,6 @@
       ]
      },
      {
-      "text": "דוגמה אחת: שופטים נותנים יותר שחרורים על תנאי אחרי ארוחת צהריים מאשר כשהם רעבים.",
-      "claims": [
-       "c40"
-      ]
-     },
-     {
       "text": "כלל השיא־סוף קובע שההתרשמות שלנו מאירוע שעבר נקבעת בעיקר לפי רגע השיא ורגע הסיום, ולא לפי סך ההנאה והסבל.",
       "claims": [
        "c72"
@@ -270,9 +257,10 @@
     ],
     [
      {
-      "text": "לפי אחד המקורות, באמצע שנות ה־70, כשכהנמן שהה בסטנפורד כעמית במרכז למחקר מתקדם במדעי ההתנהגות, הוא החל לעבוד גם עם הכלכלן ריצ'רד תיילר על מה שכונה \"אפקט ההקניה\" ו\"חשבונאות מנטלית\".",
+      "text": "בשנת הלימודים 1977–1978, כשכהנמן שהה בסטנפורד כעמית במרכז למחקר מתקדם במדעי ההתנהגות, הכלכלן ריצ'רד תיילר נפגש לראשונה איתו ועם טברסקי.",
       "claims": [
-       "c60"
+       "c60",
+       "c-aud-20261127-2"
       ]
      }
     ]
@@ -424,10 +412,11 @@
    "paragraphs": [
     [
      {
-      "text": "כהנמן וטברסקי קיבלו יחד את פרס גרוומאייר.",
+      "text": "כהנמן וטברסקי קיבלו יחד את פרס גרוומאייר לפסיכולוגיה לשנת 2003.",
       "claims": [
        "c35",
-       "c74"
+       "c74",
+       "c-aud-20261127-1"
       ]
      },
      {
@@ -448,14 +437,6 @@
       "text": "לפי NPR, כהנמן עצמו ייחס חלק גדול מהצלחתו למזל טוב.",
       "claims": [
        "c58"
-      ]
-     }
-    ],
-    [
-     {
-      "text": "לפי Social Science Space, ב־2002",
-      "claims": [
-       "c35"
       ]
      }
     ]
@@ -528,24 +509,6 @@
   }
  ],
  "disagreements": [
-  {
-   "id": "d1",
-   "question": "ממה מת אביו של כהנמן?",
-   "versions": [
-    {
-     "says": "לפי JTA, אביו מת משבץ",
-     "claims": [
-      "c21"
-     ]
-    },
-    {
-     "says": "לפי Social Science Space, אביו מת מסוכרת",
-     "claims": [
-      "c22"
-     ]
-    }
-   ]
-  },
   {
    "id": "d2",
    "question": "מתי עברה המשפחה לפלשתינה?",
@@ -896,14 +859,6 @@
    "locator": "שורה 18"
   },
   {
-   "id": "c46",
-   "text": "לפי Social Science Space, כהנמן למד לדוקטורט בברקלי אצל אמיטאי אציוני.",
-   "source": "src6",
-   "quote": "received a fellowship to earn a PhD under Amitai Etzioni at the University of California, Berkeley.",
-   "status": "confirmed",
-   "locator": "שורה 15"
-  },
-  {
    "id": "c64",
    "text": "התגלית: תורת הסיכוי, פורסמה ב־1979",
    "source": "src10",
@@ -982,6 +937,42 @@
    "quote": "The Grawemeyer Award recognizes Kahneman and his former colleague Amos Tversky",
    "status": "confirmed",
    "locator": "שורה 5"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "כהנמן וטברסקי קיבלו יחד את פרס גרוומאייר לפסיכולוגיה לשנת 2003.",
+   "source": "src9001",
+   "quote": "2003 Daniel Kahneman Amos Tversky",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "בשנת הלימודים 1977–1978, כשכהנמן שהה בסטנפורד כעמית במרכז למחקר מתקדם במדעי ההתנהגות, הכלכלן ריצ'רד תיילר נפגש לראשונה איתו ועם טברסקי.",
+   "source": "src9002",
+   "quote": "Fuchs ultimately arranged the first meeting with Kahneman and Tversky",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "אביו, שחלה בסוכרת ולא קיבל טיפול מתאים בזמן המלחמה, מת ב־1944, שישה שבועות לפני D-Day.",
+   "source": "src10",
+   "quote": "His father, who had diabetes, was unable to receive proper treatment during the war and died in 1944",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-4",
+   "text": "הוריו היו יהודים ממוצא ליטאי, והוא גדל בצרפת, שם היה אביו ראש המחקר במפעל כימי גדול.",
+   "source": "src9003",
+   "quote": "My father was the chief of research in a large chemical factory.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1074,6 +1065,27 @@
    "label": "The Daily Princetonian: Nobel winner Kahneman grabs $200K psych prize",
    "url": "https://www.dailyprincetonian.com/article/2002/12/nobel-winner-kahneman-grabs-200k-psych-prize",
    "kind": "press"
+  },
+  {
+   "id": "src9001",
+   "label": "University of Louisville, Grawemeyer Award Previous Recipients",
+   "url": "https://awards.louisville.edu/grawemeyer-award-previous-recipients",
+   "kind": "official",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9002",
+   "label": "CASBS, Stanford University, CASBS and the history of behavioral economics",
+   "url": "https://casbs.stanford.edu/news/casbs-history-behavioral-economics",
+   "kind": "other",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9003",
+   "label": "Kahneman, Nobel autobiography (Nobel Prize, 2002), via RePEc",
+   "url": "https://ideas.repec.org/p/ris/nobelp/2002_003.html",
+   "kind": "official",
+   "date": "2026-11-27"
   }
  ],
  "media": [

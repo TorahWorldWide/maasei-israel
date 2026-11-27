@@ -7,9 +7,10 @@
  "title": "Israeli scientist Shlomo Navarro developed an airtight bag that protects grain without pesticides",
  "trailer": [
   {
-   "text": "Prof. Shlomo Navarro, an Israeli food and environment expert, began his career as a researcher at the rank of principal scientist in the Department of Food Science at the Volcani Center of the Agricultural Research Organization in Beit Dagan ‹c2›.",
+   "text": "Prof. Shlomo Navarro, an Israeli food and environment expert, was formerly a researcher at the rank of principal scientist in the Department of Food Science at the Volcani Center of the Agricultural Research Organization in Beit Dagan ‹c2›.",
    "claims": [
-    "c15"
+    "c15",
+    "c-aud-20261127-3"
    ]
   },
   {
@@ -95,15 +96,17 @@
    "paragraphs": [
     [
      {
-      "text": "According to the GrainPro website, up to 811 million people do not get enough food, according to the UN World Food Programme.",
+      "text": "According to the UN report on the state of food security and nutrition in the world, published in July 2026, around 645 million people were affected by hunger in 2025.",
       "claims": [
-       "c24"
+       "c24",
+       "c-aud-20261127-4"
       ]
      },
      {
-      "text": "According to the website, nearly 45 million people live on the brink of famine.",
+      "text": "According to the GrainPro website, nearly 45 million people live on the brink of famine.",
       "claims": [
-       "c25"
+       "c25",
+       "c-aud-20261127-5"
       ]
      }
     ],
@@ -271,12 +274,6 @@
    "paragraphs": [
     [
      {
-      "text": "According to the article, the cocoon was developed in the 1980s with the help of the US-Israel Science and Technology Foundation.",
-      "claims": [
-       "c14"
-      ]
-     },
-     {
       "text": "According to the article, it was previously marketed by a kibbutz specializing in plastics.",
       "claims": [
        "c14"
@@ -364,15 +361,17 @@
       ]
      },
      {
-      "text": "According to a 2011 article, 4.3 million tons of rice were stored, a short time before its publication, in GrainPro cocoons at a new facility in Colombo, Sri Lanka.",
+      "text": "According to a 2011 Sri Lankan newspaper report on GrainPro's arrival in the country, Sri Lanka produces about 4.3 million tons of paddy a year.",
       "claims": [
-       "c17"
+       "c17",
+       "c-aud-20261127-1"
       ]
      },
      {
-      "text": "According to the article, in the past some 15 to 20 percent of this amount of rice was lost because of poor storage.",
+      "text": "According to the same report, 15 to 20 percent of this paddy perishes every year because of poor storage facilities.",
       "claims": [
-       "c18"
+       "c18",
+       "c-aud-20261127-2"
       ]
      }
     ],
@@ -808,6 +807,51 @@
    "quote": "He has edited five books of proceedings of the IOBC.",
    "status": "confirmed",
    "locator": "שורה 17"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "לפי עיתון סרי לנקי משנת 2011, שדיווח על הגעת GrainPro למדינה, סרי לנקה מייצרת כ-4.3 מיליון טון אורז לא מקולף בשנה.",
+   "source": "src9001",
+   "quote": "Sri Lanka produces about 4.3 million metric tonnes of paddy annually",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "לפי אותו דיווח, 15 עד 20 אחוז מהאורז הזה נרקבים מדי שנה בגלל מתקני אחסון לקויים.",
+   "source": "src9001",
+   "quote": "out of this 15% to 20% of paddy perishes yearly due to the poor storage facilities",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "פרופ' שלמה נברו, מומחה ישראלי למזון וסביבה, היה בעבר חוקר בדרגת מדען בכיר (principal scientist) במחלקה למדעי המזון במרכז וולקני של מינהל המחקר החקלאי בבית דגן ‹c2›.",
+   "source": "src9002",
+   "quote": "formerly a principal scientist in the Department of Food Science",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-4",
+   "text": "לפי דוח האו\"ם על מצב ביטחון המזון והתזונה בעולם, שפורסם ביולי 2026, כ-645 מיליון בני אדם סבלו מרעב ב-2025.",
+   "source": "src9003",
+   "quote": "around 645 million people were affected by hunger in 2025",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-5",
+   "text": "לפי אתר GrainPro, כמעט 45 מיליון בני אדם חיים על סף רעב.",
+   "source": "src2",
+   "quote": "Nearly 45 million people live on the brink of famine.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -840,6 +884,27 @@
    "label": "Journal of Pest Science, Navarro, 2012",
    "url": "https://link.springer.com/content/pdf/10.1007/s10340-012-0424-3.pdf",
    "kind": "reference"
+  },
+  {
+   "id": "src9001",
+   "label": "Daily FT (Sri Lanka), GrainPro agriculture storage systems now in Sri Lanka, 4 Aug 2011",
+   "url": "https://www.ft.lk/Sectors/grainpro-agriculture-storage-systems-now-in-sri-lanka/20-41950",
+   "kind": "press",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9002",
+   "label": "ISRAEL21c, Karin Kloosterman, Saving grain in a cocoon, 27 Nov 2011",
+   "url": "https://archive.israel21c.org/?p=4643",
+   "kind": "press",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9003",
+   "label": "FAO Newsroom, UN report: Global hunger levels ease for third consecutive year as regional disparities persist, 21 Jul 2026",
+   "url": "https://www.fao.org/newsroom/detail/un-report--global-hunger-levels-ease-for-third-consecutive-year-as-regional-disparities-persist/en",
+   "kind": "official",
+   "date": "2026-11-27"
   }
  ],
  "media": [

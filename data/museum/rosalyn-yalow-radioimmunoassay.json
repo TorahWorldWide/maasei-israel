@@ -7,10 +7,11 @@
  "title": "רוזלין ילו והרדיואימונואסיי",
  "trailer": [
   {
-   "text": "רוזלין ילו (1921–2011) הייתה פיזיקאית רפואית אמריקאית, וב-14 באוקטובר 1977 קיבלה את השיחה מסטוקהולם על זכייתה בפרס נובל.",
+   "text": "רוזלין ילו (1921–2011) הייתה פיזיקאית רפואית אמריקאית, וב-13 באוקטובר 1977 נודע לה על זכייתה בפרס נובל.",
    "claims": [
     "c2",
-    "c60"
+    "c60",
+    "c-aud-20261127-1"
    ]
   },
   {
@@ -106,9 +107,10 @@
       ]
      },
      {
-      "text": "הוריה היו מהגרים ממזרח אירופה, והם רצו שתקבל את ההשכלה שנמנעה מהם.",
+      "text": "אמה הייתה מהגרת ואביה בא מהלואר איסט סייד שבניו יורק, והם רצו שתקבל את ההשכלה שנמנעה מהם.",
       "claims": [
-       "c7"
+       "c7",
+       "c-aud-20261127-4"
       ]
      }
     ],
@@ -134,9 +136,7 @@
     ]
    ],
    "media": [],
-   "disagreements": [
-    "d1"
-   ]
+   "disagreements": []
   },
   {
    "id": "s2",
@@ -213,9 +213,7 @@
     "m24",
     "m25"
    ],
-   "disagreements": [
-    "d2"
-   ]
+   "disagreements": []
   },
   {
    "id": "s3",
@@ -502,9 +500,10 @@
     ],
     [
      {
-      "text": "ב-14 באוקטובר 1977 קיבלה ילו את השיחה מסטוקהולם.",
+      "text": "ב-13 באוקטובר 1977 נודע לילו על זכייתה בפרס נובל.",
       "claims": [
-       "c60"
+       "c60",
+       "c-aud-20261127-2"
       ]
      },
      {
@@ -541,9 +540,10 @@
       ]
      },
      {
-      "text": "לפי ארכיון הנשים היהודיות, ב-8 בדצמבר 1977, כשקיבלה את פרס הנובל לפיזיולוגיה או רפואה, הפכה ילו לאישה הראשונה ילידת ארצות הברית ובעלת הכשרה אמריקאית שקיבלה פרס נובל במדע.",
+      "text": "לפי ארכיון הנשים היהודיות, כשקיבלה בדצמבר 1977 את פרס הנובל לפיזיולוגיה או רפואה, הפכה ילו לאישה הראשונה ילידת ארצות הברית ובעלת הכשרה אמריקאית שקיבלה פרס נובל במדע.",
       "claims": [
-       "c61"
+       "c61",
+       "c-aud-20261127-3"
       ]
      },
      {
@@ -579,11 +579,7 @@
     "m4",
     "m3"
    ],
-   "disagreements": [
-    "d3",
-    "d4",
-    "d5"
-   ]
+   "disagreements": []
   },
   {
    "id": "s8",
@@ -671,98 +667,7 @@
    "disagreements": []
   }
  ],
- "disagreements": [
-  {
-   "id": "d1",
-   "question": "היכן גדלה ילו?",
-   "versions": [
-    {
-     "says": "ארכיון הנשים היהודיות: היא נולדה בשכונת פועלים בדרום ברונקס",
-     "claims": [
-      "c5"
-     ]
-    },
-    {
-     "says": "מכון ההיסטוריה של המדע: היא גדלה בעיר ניו יורק, במנהטן",
-     "claims": [
-      "c6"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "d2",
-   "question": "באיזו שנה נישאו רוזלין ואהרון ילו?",
-   "versions": [
-    {
-     "says": "ארכיון הנשים היהודיות: ב-6 ביוני 1943",
-     "claims": [
-      "c16"
-     ]
-    },
-    {
-     "says": "מוזיאון הנשים הלאומי: ב-1942",
-     "claims": [
-      "c17"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "d3",
-   "question": "באיזו שנה זכתה ילו בפרס נובל?",
-   "versions": [
-    {
-     "says": "אנציקלופדיה בריטניקה: בפרס לשנת 1977",
-     "claims": [
-      "c3"
-     ]
-    },
-    {
-     "says": "העיתון Jewish Rhode Island: ב-1976",
-     "claims": [
-      "c66"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "d4",
-   "question": "באיזה תאריך נערך נשף הנובל שבו נאמה ילו?",
-   "versions": [
-    {
-     "says": "מוזיאון הנשים הלאומי: ב-10 בדצמבר 1977",
-     "claims": [
-      "c62"
-     ]
-    },
-    {
-     "says": "אנציקלופדיה בריטניקה: ב-14 בדצמבר 1977",
-     "claims": [
-      "c63"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "d5",
-   "question": "היכן נשאה ילו את דבריה בטקסי הנובל?",
-   "versions": [
-    {
-     "says": "ארכיון הנשים היהודיות (ערך הביוגרפיה): בטקסים באוסלו, נורווגיה",
-     "claims": [
-      "c64"
-     ]
-    },
-    {
-     "says": "ארכיון הנשים היהודיות (This Week in History): בארוחת הפרס בשטוקהולם",
-     "claims": [
-      "c65"
-     ]
-    }
-   ]
-  }
- ],
+ "disagreements": [],
  "unknowns": [],
  "claims": [
   {
@@ -1358,44 +1263,40 @@
    "locator": "שורה 37"
   },
   {
-   "id": "c5",
-   "text": "לפי ארכיון הנשים היהודיות, ילו נולדה ב-19 ביולי 1921 בשכונה פועלית בדרום ברונקס.",
-   "source": "src7",
-   "quote": "Born July 19, 1921, in a working-class South Bronx neighborhood, Rosalyn Yalow excelled in math and chemistry.",
+   "id": "c-aud-20261127-1",
+   "text": "רוזלין ילו (1921–2011) הייתה פיזיקאית רפואית אמריקאית, וב-13 באוקטובר 1977 נודע לה על זכייתה בפרס נובל.",
+   "source": "src9001",
+   "quote": "Dr. Yalow at the Bronx Veterans Administration Hospital, Oct. 13, 1977",
+   "locator": "audit 2026-11-27",
    "status": "confirmed",
-   "locator": "שורה 3"
+   "checker_note": "audit: quote found on the fetched page"
   },
   {
-   "id": "c66",
-   "text": "לפי העיתון Jewish Rhode Island, RIA זיכתה את ילו בפרס נובל ב-1976.",
-   "source": "src13",
-   "quote": "RIA became a widespread tool for measuring hormones and for diagnosing conditions that had previously been difficult to locate and treat; it garnered Yalow the Nobel Prize in 1976.",
+   "id": "c-aud-20261127-2",
+   "text": "ב-13 באוקטובר 1977 נודע לילו על זכייתה בפרס נובל.",
+   "source": "src9001",
+   "quote": "Dr. Yalow at the Bronx Veterans Administration Hospital, Oct. 13, 1977",
+   "locator": "audit 2026-11-27",
    "status": "confirmed",
-   "locator": "שורה 60"
+   "checker_note": "audit: quote found on the fetched page"
   },
   {
-   "id": "c62",
-   "text": "לפי מוזיאון הנשים הלאומי, נאום ילו בנשף הנובל נערך ב-10 בדצמבר 1977.",
-   "source": "src9",
-   "quote": "Rosalyn Yalow’s speech at the Nobel Banquet, December 10, 1977",
-   "status": "confirmed",
-   "locator": "שורה 6"
-  },
-  {
-   "id": "c63",
-   "text": "לפי בריטניקה, ילו הייתה בנשף נובל בשטוקהולם ב-14 בדצמבר 1977.",
-   "source": "src1",
-   "quote": "Rosalyn S. Yalow at the Nobel Banquet in Stockholm, Dec. 14, 1977.",
-   "status": "confirmed",
-   "locator": "שורה 6"
-  },
-  {
-   "id": "c65",
-   "text": "לפי ארכיון הנשים היהודיות (This Week in History), ילו נאמה בארוחת הפרס בשטוקהולם.",
+   "id": "c-aud-20261127-3",
+   "text": "לפי ארכיון הנשים היהודיות, כשקיבלה בדצמבר 1977 את פרס הנובל לפיזיולוגיה או רפואה, הפכה ילו לאישה הראשונה ילידת ארצות הברית ובעלת הכשרה אמריקאית שקיבלה פרס נובל במדע.",
    "source": "src8",
-   "quote": "At the Nobel awards dinner in Stockholm, she told attendees that",
+   "quote": "became the first American-born and American-trained woman to receive a Nobel Prize in science",
+   "locator": "audit 2026-11-27",
    "status": "confirmed",
-   "locator": "שורה 7"
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-4",
+   "text": "אמה הייתה מהגרת ואביה בא מהלואר איסט סייד שבניו יורק, והם רצו שתקבל את ההשכלה שנמנעה מהם.",
+   "source": "src9001",
+   "quote": "an immigrant mother and a father from New York's Lower East Side",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1472,10 +1373,11 @@
    "kind": "reference"
   },
   {
-   "id": "src13",
-   "label": "Jewish Rhode Island, American-born Dr. Rosalyn S. Yalow makes history",
-   "url": "https://www.jewishrhody.com/stories/american-born-dr-rosalyn-s-yalow-makes-history,2130",
-   "kind": "press"
+   "id": "src9001",
+   "label": "PBS NewsHour, Happy birthday, Dr. Rosalyn S. Yalow, 2015",
+   "url": "https://www.pbs.org/newshour/health/happy-birthday-dr-rosalyn-s-yalow-woman-revolutionized-endocrinology",
+   "kind": "press",
+   "date": "2026-11-27"
   }
  ],
  "media": [
@@ -1523,7 +1425,7 @@
    "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
    "licence_url": "https://www.youtube.com/static?template=terms",
    "hosting": "embed",
-   "caption": "כתבה של MSNBC מסדרת \"7 Days of Genius\" על רוזלין סוסמן ילו, האישה האמריקאית הראשונה שזכתה בפרס נובל לרפואה.",
+   "caption": "כתבה של MSNBC מסדרת \"7 Days of Genius\" על רוזלין סוסמן ילו, האישה הראשונה ילידת ארצות הברית שזכתה בפרס נובל לרפואה.",
    "illustrates": []
   },
   {

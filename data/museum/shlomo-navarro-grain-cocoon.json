@@ -7,9 +7,10 @@
  "title": "המדען הישראלי שלמה נברו פיתח שק אטום ששומר על תבואה בלי חומרי הדברה",
  "trailer": [
   {
-   "text": "פרופ' שלמה נברו, מומחה ישראלי למזון וסביבה, החל את דרכו כחוקר בדרגת מדען בכיר (principal scientist) במחלקה למדעי המזון במרכז וולקני של מינהל המחקר החקלאי בבית דגן ‹c2›.",
+   "text": "פרופ' שלמה נברו, מומחה ישראלי למזון וסביבה, היה בעבר חוקר בדרגת מדען בכיר (principal scientist) במחלקה למדעי המזון במרכז וולקני של מינהל המחקר החקלאי בבית דגן ‹c2›.",
    "claims": [
-    "c15"
+    "c15",
+    "c-aud-20261127-3"
    ]
   },
   {
@@ -95,15 +96,17 @@
    "paragraphs": [
     [
      {
-      "text": "לפי אתר GrainPro, עד 811 מיליון בני אדם אינם מקבלים מספיק מזון, על פי תוכנית המזון העולמית של האו\"ם.",
+      "text": "לפי דוח האו\"ם על מצב ביטחון המזון והתזונה בעולם, שפורסם ביולי 2026, כ-645 מיליון בני אדם סבלו מרעב ב-2025.",
       "claims": [
-       "c24"
+       "c24",
+       "c-aud-20261127-4"
       ]
      },
      {
-      "text": "לפי האתר, כמעט 45 מיליון בני אדם חיים על סף רעב.",
+      "text": "לפי אתר GrainPro, כמעט 45 מיליון בני אדם חיים על סף רעב.",
       "claims": [
-       "c25"
+       "c25",
+       "c-aud-20261127-5"
       ]
      }
     ],
@@ -271,12 +274,6 @@
    "paragraphs": [
     [
      {
-      "text": "לפי הכתבה, הקוקון פותח בשנות ה-80 בעזרת הקרן האמריקנית-ישראלית למדע וטכנולוגיה.",
-      "claims": [
-       "c14"
-      ]
-     },
-     {
       "text": "לפי הכתבה, בעבר שיווק אותו קיבוץ שמתמחה בפלסטיק.",
       "claims": [
        "c14"
@@ -364,15 +361,17 @@
       ]
      },
      {
-      "text": "לפי כתבה משנת 2011, 4.3 מיליון טון אורז אוחסנו זמן קצר לפני פרסומה בקוקונים של GrainPro במתקן חדש בקולומבו שבסרי לנקה.",
+      "text": "לפי עיתון סרי לנקי משנת 2011, שדיווח על הגעת GrainPro למדינה, סרי לנקה מייצרת כ-4.3 מיליון טון אורז לא מקולף בשנה.",
       "claims": [
-       "c17"
+       "c17",
+       "c-aud-20261127-1"
       ]
      },
      {
-      "text": "לפי הכתבה, בעבר אבדו כ-15 עד 20 אחוז מכמות האורז הזו בגלל אחסון לקוי.",
+      "text": "לפי אותו דיווח, 15 עד 20 אחוז מהאורז הזה נרקבים מדי שנה בגלל מתקני אחסון לקויים.",
       "claims": [
-       "c18"
+       "c18",
+       "c-aud-20261127-2"
       ]
      }
     ],
@@ -808,6 +807,51 @@
    "quote": "He has edited five books of proceedings of the IOBC.",
    "status": "confirmed",
    "locator": "שורה 17"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "לפי עיתון סרי לנקי משנת 2011, שדיווח על הגעת GrainPro למדינה, סרי לנקה מייצרת כ-4.3 מיליון טון אורז לא מקולף בשנה.",
+   "source": "src9001",
+   "quote": "Sri Lanka produces about 4.3 million metric tonnes of paddy annually",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "לפי אותו דיווח, 15 עד 20 אחוז מהאורז הזה נרקבים מדי שנה בגלל מתקני אחסון לקויים.",
+   "source": "src9001",
+   "quote": "out of this 15% to 20% of paddy perishes yearly due to the poor storage facilities",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "פרופ' שלמה נברו, מומחה ישראלי למזון וסביבה, היה בעבר חוקר בדרגת מדען בכיר (principal scientist) במחלקה למדעי המזון במרכז וולקני של מינהל המחקר החקלאי בבית דגן ‹c2›.",
+   "source": "src9002",
+   "quote": "formerly a principal scientist in the Department of Food Science",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-4",
+   "text": "לפי דוח האו\"ם על מצב ביטחון המזון והתזונה בעולם, שפורסם ביולי 2026, כ-645 מיליון בני אדם סבלו מרעב ב-2025.",
+   "source": "src9003",
+   "quote": "around 645 million people were affected by hunger in 2025",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-5",
+   "text": "לפי אתר GrainPro, כמעט 45 מיליון בני אדם חיים על סף רעב.",
+   "source": "src2",
+   "quote": "Nearly 45 million people live on the brink of famine.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -840,6 +884,27 @@
    "label": "Journal of Pest Science, Navarro, 2012",
    "url": "https://link.springer.com/content/pdf/10.1007/s10340-012-0424-3.pdf",
    "kind": "reference"
+  },
+  {
+   "id": "src9001",
+   "label": "Daily FT (Sri Lanka), GrainPro agriculture storage systems now in Sri Lanka, 4 Aug 2011",
+   "url": "https://www.ft.lk/Sectors/grainpro-agriculture-storage-systems-now-in-sri-lanka/20-41950",
+   "kind": "press",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9002",
+   "label": "ISRAEL21c, Karin Kloosterman, Saving grain in a cocoon, 27 Nov 2011",
+   "url": "https://archive.israel21c.org/?p=4643",
+   "kind": "press",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9003",
+   "label": "FAO Newsroom, UN report: Global hunger levels ease for third consecutive year as regional disparities persist, 21 Jul 2026",
+   "url": "https://www.fao.org/newsroom/detail/un-report--global-hunger-levels-ease-for-third-consecutive-year-as-regional-disparities-persist/en",
+   "kind": "official",
+   "date": "2026-11-27"
   }
  ],
  "media": [

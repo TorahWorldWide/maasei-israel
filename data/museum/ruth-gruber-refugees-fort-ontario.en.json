@@ -1,7 +1,7 @@
 {
  "schema": "maasei-museum/1",
  "slug": "ruth-gruber-refugees-fort-ontario",
- "deed": "רות גרובר מלווה אלף פליטים מאיטליה לארצות הברית בשם ממשל רוזוולט",
+ "deed": "Ruth Gruber escorts a thousand refugees from Italy to the United States on behalf of the Roosevelt administration",
  "canonical_type": "rescue-operation",
  "year": "1944",
  "title": "Ruth Gruber escorted about a thousand refugees from Italy to a haven in the United States, and they stayed there",
@@ -130,9 +130,10 @@
     ],
     [
      {
-      "text": "According to Aish, at that time refugees from Yugoslavia were streaming into Italy at a rate of 1,800 a week, and they were getting in the way of the American military.",
+      "text": "According to Aish, in 1944 refugees from Yugoslavia were streaming into Italy at a rate of 1,800 a week, and they were getting in the way of the American military.",
       "claims": [
-       "c9"
+       "c9",
+       "c-aud-20261127-5"
       ]
      }
     ]
@@ -280,7 +281,8 @@
      {
       "text": "According to the Times of Israel, the refugees boarded the ship Henry Gibbins and set sail in July 1944.",
       "claims": [
-       "c19"
+       "c19",
+       "c-aud-20261127-6"
       ]
      },
      {
@@ -300,7 +302,8 @@
      {
       "text": "According to Aish, the captain of the Henry Gibbins released black smoke to camouflage the ship, and it was not attacked.",
       "claims": [
-       "c32"
+       "c32",
+       "c-aud-20261127-7"
       ]
      }
     ],
@@ -491,9 +494,10 @@
       ]
      },
      {
-      "text": "According to My Jewish Learning, Dr. Alex Margulies, who came as a teenager from Yugoslavia, helped develop the CAT scan and the MRI.",
+      "text": "According to My Jewish Learning, Dr. Alex Margulis, born in Belgrade, Yugoslavia (1921), helped develop the CAT scan and the MRI.",
       "claims": [
-       "c58"
+       "c58",
+       "c-aud-20261127-4"
       ]
      }
     ],
@@ -533,9 +537,10 @@
     ],
     [
      {
-      "text": "According to the Forward, in 2011, starring Natasha Richardson",
+      "text": "According to JWA, the actress Natasha Richardson played Ruth in the miniseries.",
       "claims": [
-       "c66"
+       "c66",
+       "c-aud-20261127-1"
       ]
      }
     ]
@@ -607,15 +612,10 @@
    "question": "When did Roosevelt decide, and when was the shelter established?",
    "versions": [
     {
-     "says": "Gruber said that Roosevelt decided in January 1944 to take in 1,000 refugees",
+     "says": "According to Aish, Roosevelt created the War Refugee Board in January 1944, and the decision on the shelter became official several months later",
      "claims": [
-      "c12"
-     ]
-    },
-    {
-     "says": "According to Aish, the Oswego camp was created in February 1944 in a political decision",
-     "claims": [
-      "c13"
+      "c13",
+      "c-aud-20261127-2"
      ]
     },
     {
@@ -733,9 +733,10 @@
    "question": "When did the refugees receive visas?",
    "versions": [
     {
-     "says": "According to the Times of Israel, in December 1945, in Canada",
+     "says": "According to JTA, in January 1946 the first group, 98 refugees, received visas at Niagara in Canada",
      "claims": [
-      "c54"
+      "c54",
+      "c-aud-20261127-3"
      ]
     },
     {
@@ -1308,6 +1309,69 @@
    "quote": "They were placed under quarantine for four weeks—no refugees were permitted to leave the camp and visitors were not allowed.",
    "status": "confirmed",
    "locator": "שורה 22"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "לפי JWA, השחקנית נטשה ריצ'רדסון גילמה את רות בסדרה.",
+   "source": "src2",
+   "quote": "The actress Natasha Richardson played Ruth",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "לפי Aish, רוזוולט הקים את מועצת הפליטים למלחמה בינואר 1944, וההחלטה על המקלט נעשתה רשמית כעבור כמה חודשים",
+   "source": "src9",
+   "quote": "several months later, the decision to create an emergency refugee shelter in New York became official",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "לפי JTA, בינואר 1946 קיבלה הקבוצה הראשונה, 98 פליטים, ויזות בניאגרה שבקנדה",
+   "source": "src9001",
+   "quote": "Ninety-eight refugees from the refugee shelter at Fort Ontario, Oswego, N.Y.,",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-4",
+   "text": "לפי My Jewish Learning, ד\"ר אלכס מרגוליס, יליד בלגרד שביוגוסלביה (1921), סייע בפיתוח ה-CAT וה-MRI.",
+   "source": "src9002",
+   "quote": "born in Belgrade in the former Yugoslavia",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-5",
+   "text": "לפי Aish, ב-1944 זרמו פליטים מיוגוסלביה לאיטליה בקצב של 1,800 בשבוע, והם הפריעו לצבא האמריקני.",
+   "source": "src9",
+   "quote": "Yugoslavian refugees were streaming into Italy at the rate of 1,800 a week",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-6",
+   "text": "לפי טיימס אוף ישראל, הפליטים עלו על האונייה הנרי גיבינס ויצאו לדרך ביולי 1944.",
+   "source": "src5",
+   "quote": "Sailing from Naples on the troopship Henry Gibbins",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-7",
+   "text": "לפי Aish, הקברניט של הנרי גיבינס שחרר עשן שחור כדי להסוות את האונייה, והיא לא הותקפה.",
+   "source": "src9",
+   "quote": "The captain of the Henry Gibbins released black smoke to act as a camouflage",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1400,6 +1464,20 @@
    "label": "Carole G. Vogel: Oswego, New York: Wartime Haven for Jewish Refugees",
    "url": "https://carolegvogel.com/magazine-articles/oswego-new-york-wartime-haven-for-jewish-refugees/",
    "kind": "other"
+  },
+  {
+   "id": "src9001",
+   "label": "JTA, First Contingent of Fort Ontario Refugees Enter U.S., January 20, 1946",
+   "url": "https://www.jta.org/archive/first-contingent-of-fort-ontario-refugees-enter-u-s-advance-group-arrives-in-new-york",
+   "kind": "press",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9002",
+   "label": "RSNA, RSNA Mourns the Passing of Esteemed Radiologist Alexander R. Margulis, MD, September 2018",
+   "url": "https://www.rsna.org/en/news/2018/september/rsna-mourns-alexander-margulis-md",
+   "kind": "organisation",
+   "date": "2026-11-27"
   }
  ],
  "media": [

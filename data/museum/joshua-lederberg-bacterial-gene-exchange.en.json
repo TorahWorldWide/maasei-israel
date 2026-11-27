@@ -7,14 +7,6 @@
  "title": "Joshua Lederberg discovered that bacteria exchange genes, and won the Nobel Prize at 33",
  "trailer": [
   {
-   "text": "Joshua Lederberg was born in 1925 in Montclair, New Jersey, to a Jewish family, the son of Rabbi Zvi Hirsch Lederberg, and helped pioneer the field of bacterial genetics.",
-   "claims": [
-    "c6",
-    "c8",
-    "c38"
-   ]
-  },
-  {
    "text": "For a long time it was thought that bacteria multiply by dividing, and that all bacteria therefore have the same genetic make-up.",
    "claims": [
     "c1"
@@ -155,12 +147,6 @@
       "text": "Lederberg was born on May 23, 1925, in Montclair, New Jersey.",
       "claims": [
        "c6"
-      ]
-     },
-     {
-      "text": "According to Wikipedia, he was born to a Jewish family, the son of Esther and Rabbi Zvi Hirsch Lederberg.",
-      "claims": [
-       "c8"
       ]
      },
      {
@@ -516,7 +502,8 @@
      {
       "text": "In 2012 an impact crater 87 km in diameter on Mars was named after him.",
       "claims": [
-       "c60"
+       "c76",
+       "c77"
       ]
      }
     ],
@@ -580,31 +567,15 @@
    "paragraphs": [
     [
      {
-      "text": "According to Wikipedia, the work on the discovery of mating in bacteria was done alongside his wife Esther, who did not receive credit for her contribution.",
+      "text": "In 1986, Lederberg supported the Soviet account, according to which the anthrax outbreak in Sverdlovsk resulted from transmission from animals to humans.",
       "claims": [
-       "c66"
-      ]
-     }
-    ],
-    [
-     {
-      "text": "According to Wikipedia, in 1986 Lederberg supported the Soviet version, according to which the anthrax outbreak in Sverdlovsk resulted from transmission from animals to humans.",
-      "claims": [
-       "c68"
+       "c78"
       ]
      },
      {
-      "text": "According to Wikipedia, later investigations confirmed that the outbreak was caused by a release of anthrax aerosol from a nearby military facility.",
+      "text": "Later investigations confirmed that the outbreak was caused by a leak of anthrax aerosol from a nearby military facility.",
       "claims": [
-       "c69"
-      ]
-     }
-    ],
-    [
-     {
-      "text": "According to Wikipedia, some commentators consider euphenics, a term Lederberg coined, to be a form of eugenics.",
-      "claims": [
-       "c70"
+       "c79"
       ]
      }
     ]
@@ -710,14 +681,6 @@
    "quote": "Dr. Lederberg was born May 23, 1925, in Montclair, N.J., to Zvi Hirsch Lederberg, a rabbi",
    "status": "confirmed",
    "locator": "שורה 11"
-  },
-  {
-   "id": "c8",
-   "text": "לפי ויקיפדיה, לדרברג נולד למשפחה יהודית, בנם של אסתר ושל הרב צבי הירש לדרברג.",
-   "source": "src2",
-   "quote": "Lederberg was born in Montclair, New Jersey, to a Jewish family, son of Esther Goldenbaum Schulman Lederberg and Rabbi Zvi Hirsch Lederberg",
-   "status": "confirmed",
-   "locator": "שורה 45"
   },
   {
    "id": "c38",
@@ -1080,14 +1043,6 @@
    "locator": "שורה 29"
   },
   {
-   "id": "c60",
-   "text": "ב-2012 נקרא על שמו מכתש פגיעה בקוטר 87 ק\"מ במאדים.",
-   "source": "src2",
-   "quote": "In Lederberg's honor, the 87 km diameter large impact crater in Xanthe Terra on the surface of Mars was named in the year 2012.",
-   "status": "confirmed",
-   "locator": "שורה 72"
-  },
-  {
    "id": "c61",
    "text": "לפי דייוויד המבורג, לדרברג היה אחד המדענים הגדולים של המאה ה-20.",
    "source": "src1",
@@ -1142,38 +1097,6 @@
    "quote": "Dr. Lederberg is survived by his wife of 40 years, Marguerite S. Lederberg, children Anne Lederberg and David Kirsch and two grandchildren.",
    "status": "confirmed",
    "locator": "שורה 13"
-  },
-  {
-   "id": "c66",
-   "text": "לפי ויקיפדיה, גילוי ההזדווגות נעשה יחד עם אשתו אסתר, שלא זכתה לקרדיט על תרומתה.",
-   "source": "src2",
-   "quote": "work that was conducted alongside his wife Esther, who was uncredited for her contributions.",
-   "status": "confirmed",
-   "locator": "שורה 31"
-  },
-  {
-   "id": "c68",
-   "text": "לפי ויקיפדיה, ב-1986 תמך בגרסה הסובייטית שהתפרצות האנתרקס בסברדלובסק נבעה מהעברה מבעלי חיים לבני אדם.",
-   "source": "src2",
-   "quote": "Lederberg sided with Soviets that the anthrax outbreak was from animal to human transmission",
-   "status": "confirmed",
-   "locator": "שורה 63"
-  },
-  {
-   "id": "c69",
-   "text": "לפי ויקיפדיה, חקירות מאוחרות אישרו שההתפרצות נגרמה מדליפת אירוסול אנתרקס ממתקן צבאי סמוך.",
-   "source": "src2",
-   "quote": "a team of scientists confirmed the outbreak was caused by a release of an aerosol of anthrax pathogen from a nearby military facility",
-   "status": "confirmed",
-   "locator": "שורה 63"
-  },
-  {
-   "id": "c70",
-   "text": "לפי ויקיפדיה, יש פרשנים הרואים באאופניקס, המונח שטבע, סוג של אאוגניקה.",
-   "source": "src2",
-   "quote": "(Some commentators nonetheless consider this to be a form of eugenics.)",
-   "status": "confirmed",
-   "locator": "שורה 66"
   },
   {
    "id": "c13",
@@ -1238,6 +1161,38 @@
    "quote": "After obtaining a Ph.D. from Yale in 1948, Lederberg accepted a job at the University of Wisconsin.",
    "status": "confirmed",
    "locator": "שורה 7"
+  },
+  {
+   "id": "c76",
+   "text": "ב-2012 נקרא על שמו מכתש פגיעה בקוטר 87 ק״מ במאדים.",
+   "source": "src15",
+   "quote": "Diameter: 87.25 km",
+   "status": "confirmed",
+   "locator": "שורה 24"
+  },
+  {
+   "id": "c77",
+   "text": "ב-2012 נקרא על שמו מכתש פגיעה בקוטר 87 ק״מ במאדים.",
+   "source": "src15",
+   "quote": "Approval Date: Jul 20, 2012",
+   "status": "confirmed",
+   "locator": "שורה 53"
+  },
+  {
+   "id": "c78",
+   "text": "ב-1986 תמך לדרברג בגרסה הסובייטית, שלפיה התפרצות האנתרקס בסברדלובסק נבעה מהעברה מבעלי חיים לבני אדם.",
+   "source": "src16",
+   "quote": "The current Soviet account is very likely to be true.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c79",
+   "text": "חקירות מאוחרות יותר אישרו שההתפרצות נגרמה מדליפת אירוסול אנתרקס ממתקן צבאי סמוך.",
+   "source": "src17",
+   "quote": "the team concluded the outbreak was caused by a release of an aerosol of anthrax pathogen at the military facility.",
+   "status": "confirmed",
+   "locator": "שורה 13"
   }
  ],
  "sources": [
@@ -1246,12 +1201,6 @@
    "label": "The New York Times obituary (preserved on the Garfield Library website), 2008",
    "url": "https://garfield.library.upenn.edu/lederberg/jlobituary.html",
    "kind": "press"
-  },
-  {
-   "id": "src2",
-   "label": "Wikipedia, Joshua Lederberg",
-   "url": "https://en.wikipedia.org/wiki/Joshua_Lederberg",
-   "kind": "reference"
   },
   {
    "id": "src3",
@@ -1318,6 +1267,24 @@
    "label": "DNA Learning Center, Cold Spring Harbor Laboratory, Biography 18: Joshua Lederberg (1925-2008)",
    "url": "https://dnalc.cshl.edu/view/16418-Biography-18-Joshua-Lederberg-1925-2008-.html",
    "kind": "organisation"
+  },
+  {
+   "id": "src15",
+   "label": "USGS Gazetteer of Planetary Nomenclature: Lederberg, crater on Mars",
+   "url": "https://planetarynames.wr.usgs.gov/Feature/15016",
+   "kind": "official"
+  },
+  {
+   "id": "src16",
+   "label": "New Zealand Herald (reprint of The New York Times): Soviets once denied an anthrax leak, US scientists backed the story",
+   "url": "https://nzherald.co.nz/world/soviets-once-denied-an-anthrax-leak-us-scientists-backed-the-story/KJ7MWLLQ33RMBMNARSMG52FAHM",
+   "kind": "press"
+  },
+  {
+   "id": "src17",
+   "label": "PBS Frontline: The 1979 Anthrax Leak (Plague War)",
+   "url": "https://www.pbs.org/wgbh/pages/frontline/shows/plague/sverdlovsk/",
+   "kind": "press"
   }
  ],
  "media": [
@@ -1647,7 +1614,7 @@
   "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
   "checked_at": "2026-11-21T20:38:13Z",
   "counts": {
-   "confirmed": 86,
+   "confirmed": 79,
    "not_confirmed": 0,
    "deleted_sentences": 2,
    "first_round_confirmed": 85,
@@ -1668,8 +1635,8 @@
    "fix": "opus-5-5 medium"
   },
   "source_quality": {
-   "sources": 13,
-   "wikipedia": 1,
+   "sources": 15,
+   "wikipedia": 0,
    "strong": 7,
    "ok": true,
    "warnings": []
@@ -1681,18 +1648,25 @@
     "url": "https://dnalc.cshl.edu/view/16418-Biography-18-Joshua-Lederberg-1925-2008-.html",
     "by": "settle 24.11"
    }
-  ]
+  ],
+  "wiki_cleanup": {
+   "at": "2026-11-27T14:53:48Z",
+   "targets": 7,
+   "resourced": 3,
+   "kept_on_other_sources": 0,
+   "deleted": 4
+  }
  },
  "lang": "en",
  "translation": {
   "from": "he",
   "translator": "claude-opus-5-5",
   "checker": "claude-opus-5-5 (separate call, blind to the translation prompt)",
-  "checked_at": "2026-11-23T22:33:54Z",
+  "checked_at": "2026-11-27T14:54:00Z",
   "passed": true,
-  "items": 119,
-  "pairs_checked": 1,
-  "reused": 118,
+  "items": 115,
+  "pairs_checked": 2,
+  "reused": 113,
   "first_round_flagged": 0,
   "still_flagged": 0,
   "flagged": [],

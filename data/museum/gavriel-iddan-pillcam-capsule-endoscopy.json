@@ -9,8 +9,9 @@
   {
    "text": "גבריאל אידן, מהנדס ישראלי שעבד ברפאל, הוא הממציא של האנדוסקופיה האלחוטית בקפסולה.",
    "claims": [
-    "c71",
-    "c29"
+    "c29",
+    "c87",
+    "c88"
    ]
   },
   {
@@ -55,13 +56,6 @@
  ],
  "glance": [
   {
-   "label": "ממציא",
-   "value": "גבריאל אידן, מהנדס ישראלי",
-   "claims": [
-    "c71"
-   ]
-  },
-  {
    "label": "נולד",
    "value": "בחיפה, 1941, בוגר הטכניון",
    "claims": [
@@ -94,7 +88,7 @@
    "label": "הכרה",
    "value": "מועמד לפרס הממציא האירופי, 2011",
    "claims": [
-    "c73"
+    "c90"
    ]
   }
  ],
@@ -185,9 +179,9 @@
     ],
     [
      {
-      "text": "לפי ויקיפדיה, אידן ראה שאפשר למזער טכנולוגיית טילים למוצר רפואי.",
+      "text": "אידן ראה שאפשר למזער טכנולוגיית טילים למוצר רפואי.",
       "claims": [
-       "c74"
+       "c91"
       ]
      },
      {
@@ -425,9 +419,9 @@
       ]
      },
      {
-      "text": "לפי ויקיפדיה, ב-PillCam SB אין צורך בהרדמה.",
+      "text": "ב-PillCam SB אין צורך בהרדמה.",
       "claims": [
-       "c76"
+       "c92"
       ]
      },
      {
@@ -567,12 +561,6 @@
       ]
      },
      {
-      "text": "במאי 2009 נמכרה קפסולת ה-PillCam המיליונית.",
-      "claims": [
-       "c75"
-      ]
-     },
-     {
       "text": "לפי המכון האירופי לפטנטים, PillCam SB שימשה כמעט 1.5 מיליון פעמים, ביותר מ-5,000 מוסדות רפואיים ביותר מ-75 מדינות.",
       "claims": [
        "c12"
@@ -589,7 +577,7 @@
      {
       "text": "ב-8 בדצמבר 2013 הודיעה קוביידיין על הסכם לרכוש את Given Imaging ב-30 דולר למניה במזומן.",
       "claims": [
-       "c81"
+       "c94"
       ]
      },
      {
@@ -606,12 +594,6 @@
      }
     ],
     [
-     {
-      "text": "ב-2011 היה אידן מועמד לפרס הממציא האירופי.",
-      "claims": [
-       "c73"
-      ]
-     },
      {
       "text": "לפי המכון האירופי לפטנטים, המצלמה שלו פתחה אפשרויות חדשות באבחון מערכת העיכול.",
       "claims": [
@@ -720,9 +702,9 @@
      ]
     },
     {
-     "says": "ויקיפדיה: מהנדס אלקטרו-אופטי",
+     "says": "מהנדס אלקטרו-אופטי",
      "claims": [
-      "c71"
+      "c95"
      ]
     }
    ]
@@ -768,9 +750,10 @@
    "question": "מתי נוצר אב הטיפוס?",
    "versions": [
     {
-     "says": "ויקיפדיה: אידן יצר אב טיפוס ב-1998, אחרי כמעט עשרים שנות עבודה על הרעיון",
+     "says": "אידן יצר אב טיפוס ב-1998, אחרי כמעט עשרים שנות עבודה על הרעיון",
      "claims": [
-      "c72"
+      "c96",
+      "c97"
      ]
     },
     {
@@ -852,9 +835,10 @@
      ]
     },
     {
-     "says": "ויקיפדיה: אין צורך בהרדמה, אבל צריך הכנת מעיים",
+     "says": "אין צורך בהרדמה, אבל צריך הכנת מעיים",
      "claims": [
-      "c76"
+      "c98",
+      "c99"
      ]
     }
    ]
@@ -880,14 +864,6 @@
  ],
  "unknowns": [],
  "claims": [
-  {
-   "id": "c71",
-   "text": "גבריאל עידן הוא מהנדס אלקטרו-אופטי ישראלי והממציא של האנדוסקופיה האלחוטית בקפסולה.",
-   "source": "src1",
-   "quote": "Gavriel Iddan (Hebrew: גבריאל עידן) is an Israeli electro-optical engineer and the inventor of wireless capsule endoscopy.",
-   "status": "confirmed",
-   "locator": "שורה 15"
-  },
   {
    "id": "c29",
    "text": "ב-1981 יצא גבריאל אידן לשבתון מתפקידו כמהנדס בכיר במדור התכן האלקטרו-אופטי של רפאל, זרוע המו\"פ של משרד הביטחון הישראלי.",
@@ -993,14 +969,6 @@
    "locator": "שורה 13"
   },
   {
-   "id": "c73",
-   "text": "ב-2011 היה אידן מועמד לפרס הממציא האירופי.",
-   "source": "src1",
-   "quote": "In 2011 he became a European Inventor Award nominee.",
-   "status": "confirmed",
-   "locator": "שורה 15"
-  },
-  {
    "id": "c32",
    "text": "ב-1993 אידן העלה את הרעיון לפצל את המערכת לשלושה חלקים.",
    "source": "src2",
@@ -1031,14 +999,6 @@
    "quote": "החל לפתח אחרי המפגש גלולה המצוידת במצלמת וידיאו, שתאפשר לרופאים לאבחן מחלות ודימומים",
    "status": "confirmed",
    "locator": "שורה 78"
-  },
-  {
-   "id": "c74",
-   "text": "לפי ויקיפדיה, אידן פיתח את הרעיון בעת עבודתו במחלקת הטילים ברפאל, וראה שאפשר למזער טכנולוגיית טילים למוצר רפואי.",
-   "source": "src7",
-   "quote": "The idea for the solution was developed by Dr. Iddan, while working in the missile division of Rafael",
-   "status": "confirmed",
-   "locator": "שורה 29"
   },
   {
    "id": "c17",
@@ -1233,14 +1193,6 @@
    "locator": "שורה 12"
   },
   {
-   "id": "c76",
-   "text": "לפי ויקיפדיה, ב-PillCam SB אין צורך בהרדמה אך נדרשת הכנת מעיים.",
-   "source": "src7",
-   "quote": "No sedation is needed, however bowel prep is needed.",
-   "status": "confirmed",
-   "locator": "שורה 41"
-  },
-  {
    "id": "c20",
    "text": "לפי Forward, לאחר שמונה שעות הרופא מוריד מהמקלט כמעט 60,000 תמונות למחשב.",
    "source": "src4",
@@ -1345,28 +1297,12 @@
    "locator": "שורה 20"
   },
   {
-   "id": "c75",
-   "text": "במאי 2009 נמכרה קפסולת ה-PillCam המיליונית.",
-   "source": "src7",
-   "quote": "In May 2009, 1 millionth PillCam capsule was sold.",
-   "status": "confirmed",
-   "locator": "שורה 37"
-  },
-  {
    "id": "c70",
    "text": "לפי Jewish Link, כיום מבוצעות בעולם יותר משני מיליון בדיקות קפסולה בשנה.",
    "source": "src5",
    "quote": "At this time, over 2 million capsule endoscopies are performed annually worldwide.",
    "status": "confirmed",
    "locator": "שורה 14"
-  },
-  {
-   "id": "c81",
-   "text": "ב-8 בדצמבר 2013 הודיעה קוביידיין על הסכם לרכוש את Given Imaging ב-30 דולר למניה במזומן.",
-   "source": "src7",
-   "quote": "On 8 December 2013, Covidien announced an agreement to acquire Given Imaging for US$30 per share in cash",
-   "status": "confirmed",
-   "locator": "שורה 40"
   },
   {
    "id": "c63",
@@ -1481,14 +1417,6 @@
    "locator": "שורה 10"
   },
   {
-   "id": "c72",
-   "text": "לפי ויקיפדיה, אחרי כמעט עשרים שנות עבודה על הרעיון יצר אידן אב טיפוס ב-1998.",
-   "source": "src1",
-   "quote": "After working on the idea for almost twenty years, he successfully created a prototype in 1998",
-   "status": "confirmed",
-   "locator": "שורה 15"
-  },
-  {
    "id": "c42",
    "text": "לפי סוויין, אבות טיפוס עובדים הופקו בינואר 1999 על ידי קבוצת המו\"פ של Given Imaging בראשות ד\"ר ארקדי גלוחובסקי.",
    "source": "src2",
@@ -1511,15 +1439,97 @@
    "quote": "For eight hours, the camera takes internal pictures at a rate of two frames per second",
    "status": "confirmed",
    "locator": "שורה 8"
+  },
+  {
+   "id": "c87",
+   "text": "גבריאל אידן, מהנדס ישראלי שעבד ברפאל, הוא הממציא של האנדוסקופיה האלחוטית בקפסולה.",
+   "source": "src3",
+   "quote": "Israeli inventor Gavriel Iddan's development of a pill-sized camera for wireless capsule endoscopy",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c88",
+   "text": "גבריאל אידן, מהנדס ישראלי שעבד ברפאל, הוא הממציא של האנדוסקופיה האלחוטית בקפסולה.",
+   "source": "src2",
+   "quote": "Iddan took a sabbatical from his regular position as a senior engineer at the electro optical design section of Rafael",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c90",
+   "text": "הכרה: מועמד לפרס הממציא האירופי, 2011",
+   "source": "src11",
+   "quote": "US, Israeli and Indian scientists behind turbines for power generation in shallow or sluggish water, miniscule camera technology for endoscopy and an ultraviolet technique for water disinfectant are also nominated under a non-European section.",
+   "status": "confirmed",
+   "locator": "שורה 13"
+  },
+  {
+   "id": "c91",
+   "text": "אידן ראה שאפשר למזער טכנולוגיית טילים למוצר רפואי.",
+   "source": "src12",
+   "quote": "Iddan had worked on the seeker, or the “eye” of the missile, which captures the targets and guides it",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c92",
+   "text": "ב-PillCam SB אין צורך בהרדמה.",
+   "source": "src3",
+   "quote": "The procedure requires no bowel preparation or sedation.",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c94",
+   "text": "ב-8 בדצמבר 2013 הודיעה קוביידיין על הסכם לרכוש את Given Imaging ב-30 דולר למניה במזומן.",
+   "source": "src13",
+   "quote": "Covidien will acquire all of the outstanding shares of Given Imaging for $30.00 per share in cash.",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c95",
+   "text": "מהנדס אלקטרו-אופטי",
+   "source": "src5",
+   "quote": "Gavriel Iddan, born in Haifa in 1941, was an electro-optical engineer (whatever that is)",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c96",
+   "text": "אידן יצר אב טיפוס ב-1998, אחרי כמעט עשרים שנות עבודה על הרעיון",
+   "source": "src5",
+   "quote": "By 1998, he had developed a prototype for an ingestible wireless capsule",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c97",
+   "text": "אידן יצר אב טיפוס ב-1998, אחרי כמעט עשרים שנות עבודה על הרעיון",
+   "source": "src5",
+   "quote": "This began his 20-year quest to solve the problem.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c98",
+   "text": "אין צורך בהרדמה, אבל צריך הכנת מעיים",
+   "source": "src14",
+   "quote": "without sedation or gas insufflation",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c99",
+   "text": "אין צורך בהרדמה, אבל צריך הכנת מעיים",
+   "source": "src14",
+   "quote": "laxative bowel preparation is crucial",
+   "status": "confirmed",
+   "locator": "שורה 141"
   }
  ],
  "sources": [
-  {
-   "id": "src1",
-   "label": "Wikipedia, Gavriel Iddan",
-   "url": "https://en.wikipedia.org/wiki/Gavriel_Iddan",
-   "kind": "reference"
-  },
   {
    "id": "src2",
    "label": "PMC, מאמר סקירה על היסטוריית האנדוסקופיה בקפסולה",
@@ -1551,12 +1561,6 @@
    "kind": "press"
   },
   {
-   "id": "src7",
-   "label": "Wikipedia, Given Imaging / PillCam",
-   "url": "https://www.wikipedia.org/wiki/Pillcam",
-   "kind": "reference"
-  },
-  {
    "id": "src8",
    "label": "Science Museum Group, First wireless capsule endoscope to be swallowed by a person",
    "url": "https://collection.sciencemuseumgroup.org.uk/objects/co8819639",
@@ -1573,6 +1577,30 @@
    "label": "Seattle Times, 'A transmitter pill to swallow', 25.5.2000",
    "url": "https://archive.seattletimes.com/archive/20000525/4022958/a-transmitter-pill-to-swallow-camera-records-digestive-tract",
    "kind": "press"
+  },
+  {
+   "id": "src11",
+   "label": "Phys.org (AFP): Europe unveils life-enhancing 2011 inventors award shortlist",
+   "url": "https://phys.org/news/2011-03-europe-unveils-life-enhancing-inventors-award.amp",
+   "kind": "press"
+  },
+  {
+   "id": "src12",
+   "label": "ISRAEL21c: Camera-in-a-pill gives a closer look",
+   "url": "https://archive.israel21c.org/camera-in-a-pill-gives-a-closer-look/",
+   "kind": "press"
+  },
+  {
+   "id": "src13",
+   "label": "Covidien and Given Imaging (SEC Form 6-K, exhibit 99.4): press release, December 8, 2013",
+   "url": "https://www.sec.gov/Archives/edgar/data/0001126140/000117891313003546/exhibit_99-4.htm",
+   "kind": "official"
+  },
+  {
+   "id": "src14",
+   "label": "PubMed Central: colon capsule endoscopy article (PMC5438790)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5438790",
+   "kind": "reference"
   }
  ],
  "media": [
@@ -1769,8 +1797,7 @@
    "caption": "סרטון של המכון האירופי לפטנטים על גבריאל אידן ועל מצלמת הגלולה לאנדוסקופיה אלחוטית, בהקשר פרס הממציא האירופי.",
    "illustrates": [
     "c1",
-    "c13",
-    "c73"
+    "c13"
    ]
   },
   {
@@ -1786,8 +1813,7 @@
    "hosting": "embed",
    "caption": "סרטון של הנציבות האירופית עם דיוקן של גבריאל אידן והמצאתו, מצלמה בגודל גלולה לאנדוסקופיה אלחוטית.",
    "illustrates": [
-    "c1",
-    "c71"
+    "c1"
    ],
    "spoken": "en",
    "audio_tracks": [
@@ -1847,9 +1873,7 @@
    "licence_url": "https://www.youtube.com/static?template=terms",
    "hosting": "embed",
    "caption": "קטע קצר מתוכנית של ארגון FOI קנדה, שמזכיר שאידן זכה ב-2011 בפרס הממציא האירופי על ההמצאה.",
-   "illustrates": [
-    "c73"
-   ],
+   "illustrates": [],
    "spoken": "en",
    "audio_tracks": [
     "en"
@@ -1912,7 +1936,7 @@
   "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
   "checked_at": "2026-11-21T15:05:47Z",
   "counts": {
-   "confirmed": 104,
+   "confirmed": 101,
    "not_confirmed": 0,
    "deleted_sentences": 4,
    "first_round_confirmed": 103,
@@ -1933,13 +1957,20 @@
    "fix": "opus-5-5 medium"
   },
   "source_quality": {
-   "sources": 10,
-   "wikipedia": 2,
+   "sources": 12,
+   "wikipedia": 0,
    "strong": 6,
    "ok": false,
    "warnings": [
     "2 Wikipedia pages among the sources"
    ]
+  },
+  "wiki_cleanup": {
+   "at": "2026-11-27T14:36:31Z",
+   "targets": 11,
+   "resourced": 8,
+   "kept_on_other_sources": 0,
+   "deleted": 3
   }
  }
 }

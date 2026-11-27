@@ -429,9 +429,9 @@
    "paragraphs": [
     [
      {
-      "text": "לפי ויקיפדיה, IsraAID הוקם כארגון גג של גופי חילוץ, רפואה וסיוע יהודיים וישראליים.",
+      "text": "IsraAID הוקם כארגון גג של גופי חילוץ, רפואה וסיוע יהודיים וישראליים.",
       "claims": [
-       "c48"
+       "c56"
       ]
      },
      {
@@ -871,14 +871,6 @@
    "locator": "שורה 11"
   },
   {
-   "id": "c48",
-   "text": "לפי ויקיפדיה, IsraAID הוקם כארגון גג של גופי חילוץ, רפואה וסיוע יהודיים וישראליים.",
-   "source": "src6",
-   "quote": "consisted of Jewish and Israeli search and rescue, medical and relief groups that provide aid worldwide to people in need, regardless of race, religion, nationality or disability.",
-   "status": "confirmed",
-   "locator": "שורה 16"
-  },
-  {
    "id": "c44",
    "text": "שחר זהבי סיפר ש-IsraAID קם ביוזמתו ויוזמת אחרים, והוא ניהל אותו 16 שנה עד 2016.",
    "source": "src12",
@@ -981,6 +973,14 @@
    "quote": "Hundreds were killed and more than 160,000 people in Mozambique are currently displaced.",
    "status": "confirmed",
    "locator": "שורה 4"
+  },
+  {
+   "id": "c56",
+   "text": "IsraAID הוקם כארגון גג של גופי חילוץ, רפואה וסיוע יהודיים וישראליים.",
+   "source": "src13",
+   "quote": "Founded in 2001 by Shahar Zehavi, IsraAid brings together all of the professional Israeli and Jewish aid organizations",
+   "status": "confirmed",
+   "locator": "שורה 7"
   }
  ],
  "sources": [
@@ -1013,12 +1013,6 @@
    "label": "eJewishPhilanthropy",
    "url": "https://ejewishphilanthropy.com/israaids-yotam-polizer-announced-as-charles-bronfman-prize-recipient/",
    "kind": "press"
-  },
-  {
-   "id": "src6",
-   "label": "Wikipedia, IsraAID",
-   "url": "https://en.wikipedia.org/wiki/IsraAid",
-   "kind": "reference"
   },
   {
    "id": "src7",
@@ -1054,6 +1048,12 @@
    "id": "src12",
    "label": "Ynetnews, על שחר זהבי",
    "url": "https://www.ynetnews.com/magazine/article/rylzkr4mn",
+   "kind": "press"
+  },
+  {
+   "id": "src13",
+   "label": "ISRAEL21c: Saving lives in the wake of natural disasters",
+   "url": "https://archive.israel21c.org/?p=5892",
    "kind": "press"
   }
  ],
@@ -1598,10 +1598,17 @@
   },
   "source_quality": {
    "sources": 12,
-   "wikipedia": 1,
+   "wikipedia": 0,
    "strong": 10,
    "ok": true,
    "warnings": []
+  },
+  "wiki_cleanup": {
+   "at": "2026-11-27T14:43:33Z",
+   "targets": 1,
+   "resourced": 1,
+   "kept_on_other_sources": 0,
+   "deleted": 0
   }
  }
 }

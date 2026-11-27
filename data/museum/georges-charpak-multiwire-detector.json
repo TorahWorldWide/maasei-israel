@@ -17,8 +17,9 @@
   {
    "text": "ז'ורז' שרפק נולד להורים יהודים, ומשפחתו עזבה את פולין והתיישבה בפריז ב-1932.",
    "claims": [
-    "c5",
-    "c13"
+    "c13",
+    "c77",
+    "c78"
    ]
   },
   {
@@ -126,12 +127,6 @@
    "paragraphs": [
     [
      {
-      "text": "שרפק נולד להורים יהודים, חנה (שפירו) ומוריס שרפק.",
-      "claims": [
-       "c5"
-      ]
-     },
-     {
       "text": "שרפק סיפר: \"היינו קודם כול יהודים ודיברנו יידיש כמו כל תושבי סרני\", העיירה שבה לדבריו נולד בפועל..",
       "claims": [
        "c6"
@@ -157,14 +152,21 @@
        "c14"
       ]
      }
+    ],
+    [
+     {
+      "text": "שרפק עצמו: הוא נולד בפועל בעיירה סרני",
+      "claims": [
+       "c6"
+      ]
+     }
     ]
    ],
    "media": [
     "m10"
    ],
    "disagreements": [
-    "d1",
-    "d2"
+    "d1"
    ]
   },
   {
@@ -336,14 +338,14 @@
      {
       "text": "הוא נישא לדומיניק וידאל.",
       "claims": [
-       "c69",
-       "c70"
+       "c70",
+       "c79"
       ]
      },
      {
-      "text": "לפי ויקיפדיה נולדו להם שלושה ילדים.",
+      "text": "נולדו להם שלושה ילדים.",
       "claims": [
-       "c69"
+       "c80"
       ]
      }
     ],
@@ -360,6 +362,14 @@
        "c38"
       ]
      }
+    ],
+    [
+     {
+      "text": "הגיליון הביוגרפי הצרפתי: ב-1952",
+      "claims": [
+       "c70"
+      ]
+     }
     ]
    ],
    "media": [
@@ -368,8 +378,7 @@
     "m41"
    ],
    "disagreements": [
-    "d3",
-    "d4"
+    "d3"
    ]
   },
   {
@@ -436,12 +445,6 @@
       "text": "בנאום הקבלה של פרס הנובל אמר שרפק שתרומתו היא אמנות האריגה במרחב של חוטים דקים, שמגלים חלקיקים טעונים הנוצרים בהתנגשויות גרעיניות באנרגיה גבוהה.",
       "claims": [
        "c55"
-      ]
-     },
-     {
-      "text": "החדר הרב-חוטי נרשם כפטנט ודחק במהירות את תאי הבועות הישנים.",
-      "claims": [
-       "c75"
       ]
      }
     ]
@@ -573,27 +576,23 @@
     ],
     [
      {
-      "text": "ב-20 במאי 1985 נבחר לאקדמיה הצרפתית למדעים.",
-      "claims": [
-       "c64"
-      ]
-     },
-     {
       "text": "ב-1989 קיבל את פרס הפיזיקה של חלקיקים ואנרגיות גבוהות של האגודה הפיזיקלית האירופית.",
       "claims": [
-       "c61"
+       "c81",
+       "c82"
       ]
      },
      {
       "text": "ב-1999 קיבל את פרס צלחת הזהב של האקדמיה האמריקאית להישגים.",
       "claims": [
-       "c62"
+       "c83",
+       "c84"
       ]
      },
      {
       "text": "בסן-ז'ניס-פואיי, ליד CERN, יש רחוב על שמו.",
       "claims": [
-       "c63"
+       "c85"
       ]
      }
     ]
@@ -615,7 +614,8 @@
      {
       "text": "ב-1972 יזם שרפק, יחד עם דניאלה עמאטי, עצומה נגד מלחמת וייטנאם.",
       "claims": [
-       "c66"
+       "c86",
+       "c87"
       ]
      },
      {
@@ -680,12 +680,6 @@
    "question": "מתי נולד שרפק?",
    "versions": [
     {
-     "says": "ויקיפדיה: ב-1 באוגוסט 1924",
-     "claims": [
-      "c7"
-     ]
-    },
-    {
      "says": "הגיליון הביוגרפי הצרפתי: רשמית ב-1 באוגוסט 1924",
      "claims": [
       "c10"
@@ -707,26 +701,6 @@
    ]
   },
   {
-   "id": "d2",
-   "question": "היכן נולד שרפק?",
-   "versions": [
-    {
-     "says": "ויקיפדיה, פיזיקס טודיי והגיליון הביוגרפי: בדומברוביצה שבפולין",
-     "claims": [
-      "c7",
-      "c8",
-      "c10"
-     ]
-    },
-    {
-     "says": "שרפק עצמו: הוא נולד בפועל בעיירה סרני",
-     "claims": [
-      "c6"
-     ]
-    }
-   ]
-  },
-  {
    "id": "d3",
    "question": "באיזו שנה קיבל שרפק את הדוקטורט?",
    "versions": [
@@ -743,24 +717,6 @@
      ]
     }
    ]
-  },
-  {
-   "id": "d4",
-   "question": "באיזו שנה נישא שרפק לדומיניק וידאל?",
-   "versions": [
-    {
-     "says": "ויקיפדיה: ב-1953",
-     "claims": [
-      "c69"
-     ]
-    },
-    {
-     "says": "הגיליון הביוגרפי הצרפתי: ב-1952",
-     "claims": [
-      "c70"
-     ]
-    }
-   ]
   }
  ],
  "unknowns": [
@@ -772,14 +728,6 @@
   }
  ],
  "claims": [
-  {
-   "id": "c5",
-   "text": "שרפק נולד להורים יהודים, חנה (שפירו) ומוריס שרפק.",
-   "source": "src1",
-   "quote": "was born on 1 August 1924[4] to Jewish parents, Chana (Szapiro) and Maurice Charpak",
-   "status": "confirmed",
-   "locator": "שורה 35"
-  },
   {
    "id": "c13",
    "text": "הוריו של שרפק ואחיו הצעיר עזבו את פולין והתיישבו בפריז ב-1932.",
@@ -1029,14 +977,6 @@
    "locator": "שורה 11"
   },
   {
-   "id": "c69",
-   "text": "לפי ויקיפדיה, שרפק נישא לדומיניק וידאל ב-1953 ונולדו להם שלושה ילדים.",
-   "source": "src1",
-   "quote": "Charpak married Dominique Vidal in 1953. They had three children.",
-   "status": "confirmed",
-   "locator": "שורה 39"
-  },
-  {
    "id": "c70",
    "text": "לפי הגיליון הביוגרפי הצרפתי, שרפק נישא לדומיניק וידאל ב-1952.",
    "source": "src2",
@@ -1115,14 +1055,6 @@
    "quote": "the art of weaving in space thin wires detecting the whisper of nearby flying charged particles produced in high-energy nuclear collisions",
    "status": "confirmed",
    "locator": "שורה 13"
-  },
-  {
-   "id": "c75",
-   "text": "החדר הרב-חוטי נרשם כפטנט ודחק במהירות את תאי הבועות הישנים.",
-   "source": "src1",
-   "quote": "The chamber was patented and quickly superseded the old bubble chambers, allowing for better data processing.",
-   "status": "confirmed",
-   "locator": "שורה 42"
   },
   {
    "id": "c39",
@@ -1229,46 +1161,6 @@
    "locator": "שורה 18"
   },
   {
-   "id": "c64",
-   "text": "שרפק נבחר לאקדמיה הצרפתית למדעים ב-20 במאי 1985.",
-   "source": "src1",
-   "quote": "He was elected to the French Academy of Sciences on 20 May 1985.",
-   "status": "confirmed",
-   "locator": "שורה 43"
-  },
-  {
-   "id": "c61",
-   "text": "ב-1989 קיבל שרפק את פרס הפיזיקה של חלקיקים ואנרגיות גבוהות של האגודה הפיזיקלית האירופית.",
-   "source": "src1",
-   "quote": "Georges Charpak received the High Energy Particle Physics Prize of the European Physical Society in 1989 (the first edition of the prize)",
-   "status": "confirmed",
-   "locator": "שורה 44"
-  },
-  {
-   "id": "c62",
-   "text": "ב-1999 קיבל שרפק את פרס צלחת הזהב של האקדמיה האמריקאית להישגים.",
-   "source": "src1",
-   "quote": "In 1999, Charpak received the Golden Plate Award of the American Academy of Achievement.",
-   "status": "confirmed",
-   "locator": "שורה 45"
-  },
-  {
-   "id": "c63",
-   "text": "בסן-ז'ניס-פואיי שליד CERN יש רחוב על שמו.",
-   "source": "src1",
-   "quote": "there is a street named in his honor",
-   "status": "confirmed",
-   "locator": "שורה 45"
-  },
-  {
-   "id": "c66",
-   "text": "ב-1972 יזם שרפק יחד עם דניאלה עמאטי עצומה נגד מלחמת וייטנאם.",
-   "source": "src1",
-   "quote": "in 1972, together with Daniele Amati, he launched a petition against the Vietnam War.",
-   "status": "confirmed",
-   "locator": "שורה 38"
-  },
-  {
    "id": "c57",
    "text": "ב-1978 ביטל שרפק את השתתפותו בכנס בדובנה בברית המועצות במחאה על מאסרו של הפיזיקאי יורי אורלוב.",
    "source": "src7",
@@ -1317,14 +1209,6 @@
    "locator": "שורה 17"
   },
   {
-   "id": "c7",
-   "text": "לפי ויקיפדיה, שרפק נולד ב-1 באוגוסט 1924 בדומברוביצה שבפולין.",
-   "source": "src1",
-   "quote": "(1924-08-01)1 August 1924 Dąbrowica, Wołyń Voivodeship, Second Polish Republic",
-   "status": "confirmed",
-   "locator": "שורה 4"
-  },
-  {
    "id": "c10",
    "text": "לפי גיליון ביוגרפי צרפתי, שרפק נולד רשמית ב-1 באוגוסט 1924 בדומברוביצה שבפולין.",
    "source": "src2",
@@ -1371,15 +1255,97 @@
    "quote": "He received a Ph.D. in 1955 from the College de France, Paris",
    "status": "confirmed",
    "locator": "שורה 7"
+  },
+  {
+   "id": "c77",
+   "text": "ז'ורז' שרפק נולד להורים יהודים, ומשפחתו עזבה את פולין והתיישבה בפריז ב-1932.",
+   "source": "src10",
+   "quote": "Georges moved to Paris with his family in 1932 when he was seven.",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c78",
+   "text": "ז'ורז' שרפק נולד להורים יהודים, ומשפחתו עזבה את פולין והתיישבה בפריז ב-1932.",
+   "source": "src11",
+   "quote": "to a Polish/ Ukrainian Jewish family who moved to Paris when he was seven years old.",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c79",
+   "text": "הוא נישא לדומיניק וידאל.",
+   "source": "src12",
+   "quote": "married Dominique Vidal, 1953",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c80",
+   "text": "נולדו להם שלושה ילדים.",
+   "source": "src12",
+   "quote": "children: Yves, Nathalie, Serge",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c81",
+   "text": "ב-1989 קיבל את פרס הפיזיקה של חלקיקים ואנרגיות גבוהות של האגודה הפיזיקלית האירופית.",
+   "source": "src13",
+   "quote": "For the development of detectors: multiwire proportional chambers, drift chambers and several other gaseous detectors",
+   "status": "confirmed",
+   "locator": "שורה 45"
+  },
+  {
+   "id": "c82",
+   "text": "ב-1989 קיבל את פרס הפיזיקה של חלקיקים ואנרגיות גבוהות של האגודה הפיזיקלית האירופית.",
+   "source": "src14",
+   "quote": "high-energy and particle-physics prize, 1989",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c83",
+   "text": "ב-1999 קיבל את פרס צלחת הזהב של האקדמיה האמריקאית להישגים.",
+   "source": "src15",
+   "quote": "Awards Council member Leon Lederman presents the Golden Plate Award to Dr. Georges Charpak, recipient of the Nobel Prize in Physics, at a luncheon ceremony in Budapest.",
+   "status": "confirmed",
+   "locator": "שורה 19"
+  },
+  {
+   "id": "c84",
+   "text": "ב-1999 קיבל את פרס צלחת הזהב של האקדמיה האמריקאית להישגים.",
+   "source": "src15",
+   "quote": "1999: (Left) Leon Lederman with delegates at the American Academy of Achievement's Inaugural International Achievement Summit in Budapest, Hungary.",
+   "status": "confirmed",
+   "locator": "שורה 19"
+  },
+  {
+   "id": "c85",
+   "text": "בסן-ז'ניס-פואיי, ליד CERN, יש רחוב על שמו.",
+   "source": "src16",
+   "quote": "might not be the only French street named in honour of the late Georges Charpak",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c86",
+   "text": "ב-1972 יזם שרפק, יחד עם דניאלה עמאטי, עצומה נגד מלחמת וייטנאם.",
+   "source": "src17",
+   "quote": "the Italian Daniele Amati; and the Polish-born French detector specialist (and later Nobel laureate) Georges Charpak",
+   "status": "confirmed",
+   "locator": "שורה 65"
+  },
+  {
+   "id": "c87",
+   "text": "ב-1972 יזם שרפק, יחד עם דניאלה עמאטי, עצומה נגד מלחמת וייטנאם.",
+   "source": "src17",
+   "quote": "Three staff members had drafted the petition: the Polish theoretician Jacek Prentki;",
+   "status": "confirmed",
+   "locator": "שורה 65"
   }
  ],
  "sources": [
-  {
-   "id": "src1",
-   "label": "Wikipedia, Georges Charpak",
-   "url": "https://en.wikipedia.org/wiki/Georges_Charpak",
-   "kind": "reference"
-  },
   {
    "id": "src2",
    "label": "AFMD 44, גיליון ביוגרפי: Charpak Georges",
@@ -1427,6 +1393,54 @@
    "label": "CERN Courier, הספד לז'ורז' שרפק, 2010",
    "url": "https://cerncourier.com/?p=9302",
    "kind": "organisation"
+  },
+  {
+   "id": "src10",
+   "label": "CERN Courier: Georges Charpak obituary",
+   "url": "https://cerncourier.com/?p=9345",
+   "kind": "organisation"
+  },
+  {
+   "id": "src11",
+   "label": "CERN Courier: Georges Charpak obituary",
+   "url": "https://www.mediatheque.lindau-nobel.org/laureates/charpak/cv",
+   "kind": "organisation"
+  },
+  {
+   "id": "src12",
+   "label": "Encyclopedia.com: Charpak, Georges 1924-",
+   "url": "https://encyclopedia.com/arts/educational-magazines/charpak-georges-1924",
+   "kind": "reference"
+  },
+  {
+   "id": "src13",
+   "label": "EPS High Energy and Particle Physics Division: The High Energy and Particle Physics Prizes (1989 entry, Georges Charpak)",
+   "url": "https://eps-hepp.web.cern.ch/hepp-prize-awards.php",
+   "kind": "organisation"
+  },
+  {
+   "id": "src14",
+   "label": "EPS High Energy and Particle Physics Division: The High Energy and Particle Physics Prizes (1989 entry, Georges Charpak)",
+   "url": "https://www.encyclopedia.com/arts/educational-magazines/charpak-georges-1924",
+   "kind": "organisation"
+  },
+  {
+   "id": "src15",
+   "label": "American Academy of Achievement: Leon Lederman, Ph.D. (1999 photo caption; Charpak is listed under 1999 in the Golden Plate honorees)",
+   "url": "https://achievement.org/achiever/leon-lederman-ph-d/",
+   "kind": "organisation"
+  },
+  {
+   "id": "src16",
+   "label": "CERN Bulletin: Georges Charpak street sign unveiled (Saint-Genis-Pouilly, 2011)",
+   "url": "https://repository.cern/records/ekg2n-xtp82",
+   "kind": "organisation"
+  },
+  {
+   "id": "src17",
+   "label": "Physics in Perspective: Hof, Ienna, Turchetti, The Protest that Never Was: Silencing Political Activism at CERN Before and During the Vietnam War",
+   "url": "https://link.springer.com/article/10.1007/s00016-024-00317-6",
+   "kind": "reference"
   }
  ],
  "media": [
@@ -1598,9 +1612,7 @@
    "licence_url": "https://www.youtube.com/static?template=terms",
    "hosting": "embed",
    "caption": "סרט על סיפור חייו של שרפק, יליד אזור רובנה, זוכה הנובל לעתיד, ועל השפות שידע.",
-   "illustrates": [
-    "c5"
-   ]
+   "illustrates": []
   },
   {
    "id": "m11",
@@ -2251,7 +2263,7 @@
   "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
   "checked_at": "2026-11-14T09:42:23Z",
   "counts": {
-   "confirmed": 89,
+   "confirmed": 83,
    "not_confirmed": 0,
    "deleted_sentences": 3,
    "first_round_confirmed": 88,
@@ -2272,11 +2284,18 @@
    "fix": "opus-5-5 medium"
   },
   "source_quality": {
-   "sources": 9,
-   "wikipedia": 1,
+   "sources": 16,
+   "wikipedia": 0,
    "strong": 5,
    "ok": true,
    "warnings": []
+  },
+  "wiki_cleanup": {
+   "at": "2026-11-27T14:40:04Z",
+   "targets": 13,
+   "resourced": 7,
+   "kept_on_other_sources": 0,
+   "deleted": 6
   }
  }
 }

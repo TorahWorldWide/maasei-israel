@@ -10,7 +10,8 @@
    "text": "ב-2009, אחרי הטייפון קטסנה, שלחה IsraAID את משלחתה הראשונה לפיליפינים: רופאים, אחיות ופרמדיקים ישראלים, כולם מתנדבים.",
    "claims": [
     "c47",
-    "c49"
+    "c54",
+    "c55"
    ]
   },
   {
@@ -41,17 +42,10 @@
  ],
  "glance": [
   {
-   "label": "ארגון",
-   "value": "IsraAID, קואליציה של ארגוני סיוע ישראליים",
-   "claims": [
-    "c50"
-   ]
-  },
-  {
    "label": "מייסדים",
    "value": "שחר זהבי ומולי דור",
    "claims": [
-    "c51"
+    "c57"
    ]
   },
   {
@@ -531,9 +525,9 @@
      ]
     },
     {
-     "says": "ויקיפדיה: שישה רופאים, אחיות ופרמדיקים",
+     "says": "שישה רופאים, אחיות ופרמדיקים",
      "claims": [
-      "c49"
+      "c58"
      ]
     }
    ]
@@ -584,36 +578,12 @@
  "unknowns": [],
  "claims": [
   {
-   "id": "c50",
-   "text": "IsraAID נוסדה ב-2001 כקואליציה של ארגוני סיוע ופיתוח בינלאומי ישראליים.",
-   "source": "src1",
-   "quote": "IsraAID was founded in 2001 as a coalition of Israeli aid and international development organizations,",
-   "status": "confirmed",
-   "locator": "שורה 15"
-  },
-  {
-   "id": "c51",
-   "text": "לפי ויקיפדיה, IsraAID הוקמה על ידי שחר זהבי ומולי דור.",
-   "source": "src1",
-   "quote": "IsraAID was founded by Shachar Zahavi and Mully Dor.",
-   "status": "confirmed",
-   "locator": "שורה 14"
-  },
-  {
    "id": "c47",
    "text": "לפי Borgen Project, IsraAID שלחה את משלחתה הראשונה לפיליפינים אחרי הטייפון קטסנה ב-2009.",
    "source": "src2",
    "quote": "IsraAID sent its first mission to the Philippines after Typhoon Ketsana in 2009.",
    "status": "confirmed",
    "locator": "שורה 9"
-  },
-  {
-   "id": "c49",
-   "text": "לפי ויקיפדיה, IsraAID שלחה ב-2009 שישה רופאים, אחיות ופרמדיקים מתנדבים לפיליפינים.",
-   "source": "src1",
-   "quote": "IsraAID sent six volunteer doctors, nurses and paramedics to the Philippines to assist",
-   "status": "confirmed",
-   "locator": "שורה 28"
   },
   {
    "id": "c4",
@@ -982,15 +952,41 @@
    "quote": "Israeli party to travel to country hit by Typhoon Ketsana, which has already claimed 280 lives",
    "status": "confirmed",
    "locator": "שורה 37"
+  },
+  {
+   "id": "c54",
+   "text": "ב-2009, אחרי הטייפון קטסנה, שלחה IsraAID את משלחתה הראשונה לפיליפינים: רופאים, אחיות ופרמדיקים ישראלים, כולם מתנדבים.",
+   "source": "src6",
+   "quote": "five other volunteering doctors, nurses, and paramedics",
+   "status": "confirmed",
+   "locator": "שורה 43"
+  },
+  {
+   "id": "c55",
+   "text": "ב-2009, אחרי הטייפון קטסנה, שלחה IsraAID את משלחתה הראשונה לפיליפינים: רופאים, אחיות ופרמדיקים ישראלים, כולם מתנדבים.",
+   "source": "src6",
+   "quote": "Typhoon Ketsana, which claimed the lives of 280 of the country's citizens last week",
+   "status": "confirmed",
+   "locator": "שורה 42"
+  },
+  {
+   "id": "c57",
+   "text": "מייסדים: שחר זהבי ומולי דור",
+   "source": "src8",
+   "quote": "IsraAID was founded in 2001 by Shachar Zahavi, Mully Dor, and Meira Aboulafia as an informal coalition",
+   "status": "confirmed",
+   "locator": "שורה 21"
+  },
+  {
+   "id": "c58",
+   "text": "שישה רופאים, אחיות ופרמדיקים",
+   "source": "src9",
+   "quote": "Last weekend, six volunteer doctors, nurses and paramedics with the Israeli organization, IsraAID,",
+   "status": "confirmed",
+   "locator": "שורה 5"
   }
  ],
  "sources": [
-  {
-   "id": "src1",
-   "label": "Wikipedia, IsraAID",
-   "url": "https://EN.wikipedia.com/wiki/IsraAID",
-   "kind": "reference"
-  },
   {
    "id": "src2",
    "label": "Borgen Project",
@@ -1025,6 +1021,18 @@
    "id": "src7",
    "label": "ISRAEL21c",
    "url": "https://archive.israel21c.org/floods-typhoons-hurricanes-israel-is-on-the-way/",
+   "kind": "press"
+  },
+  {
+   "id": "src8",
+   "label": "ISRAEL21c: Explore the progress of 6 Humanitarian Aid Organizations in Israel",
+   "url": "https://archive.israel21c.org/?p=112674",
+   "kind": "press"
+  },
+  {
+   "id": "src9",
+   "label": "CBN News: Israeli Doctors Aid Philippines",
+   "url": "https://cbn.com/article/not-selected/israeli-doctors-aid-philippines",
    "kind": "press"
   }
  ],
@@ -1287,7 +1295,7 @@
   "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
   "checked_at": "2026-11-14T10:40:06Z",
   "counts": {
-   "confirmed": 68,
+   "confirmed": 67,
    "not_confirmed": 0,
    "deleted_sentences": 3,
    "first_round_confirmed": 70,
@@ -1308,11 +1316,18 @@
    "fix": "opus-5-5 medium"
   },
   "source_quality": {
-   "sources": 7,
+   "sources": 8,
    "wikipedia": 0,
    "strong": 6,
    "ok": true,
    "warnings": []
+  },
+  "wiki_cleanup": {
+   "at": "2026-11-27T14:46:18Z",
+   "targets": 4,
+   "resourced": 3,
+   "kept_on_other_sources": 0,
+   "deleted": 1
   }
  }
 }

@@ -9,8 +9,8 @@
   {
    "text": "Prof. Hossam Haick is an Arab-Israeli scientist and engineer and a Full Professor at the Technion, born in 1975 in Nazareth into an Arab Christian family.",
    "claims": [
-    "c80",
-    "c81"
+    "c89",
+    "c90"
    ]
   },
   {
@@ -35,7 +35,7 @@
   {
    "text": "In 2026, Haick received the Presidential Medal of Honour.",
    "claims": [
-    "c83"
+    "c91"
    ]
   }
  ],
@@ -55,7 +55,7 @@
    "label": "Inventor",
    "value": "Prof. Hossam Haick, Technion",
    "claims": [
-    "c80"
+    "c92"
    ]
   },
   {
@@ -63,7 +63,7 @@
    "value": "2006",
    "claims": [
     "c14",
-    "c82"
+    "c93"
    ]
   },
   {
@@ -84,7 +84,7 @@
    "label": "Recognition",
    "value": "Presidential Medal of Honour, 2026",
    "claims": [
-    "c83"
+    "c94"
    ]
   }
  ],
@@ -98,7 +98,8 @@
      {
       "text": "Hossam Haick was born in 1975 in Nazareth, into an Arab Christian family.",
       "claims": [
-       "c81"
+       "c95",
+       "c96"
       ]
      },
      {
@@ -119,12 +120,6 @@
       "text": "After a postdoc at Caltech he returned to the Technion.",
       "claims": [
        "c49"
-      ]
-     },
-     {
-      "text": "In 2006 he joined the faculty as an Assistant Professor in the Wolfson Faculty of Chemical Engineering.",
-      "claims": [
-       "c82"
       ]
      },
      {
@@ -202,7 +197,7 @@
      {
       "text": "As early as 2009, a paper of his in Nature Nanotechnology demonstrated the diagnosis of lung cancer from exhaled breath using sensor arrays with gold nanoparticles.",
       "claims": [
-       "c87"
+       "c98"
       ]
      }
     ]
@@ -439,7 +434,8 @@
      {
       "text": "In 2018 SniffPhone won the European Commission Innovation Prize in Lisbon.",
       "claims": [
-       "c85"
+       "c99",
+       "c100"
       ]
      }
     ],
@@ -497,12 +493,6 @@
       ]
      },
      {
-      "text": "He was included in the list from 2015 to 2018.",
-      "claims": [
-       "c88"
-      ]
-     },
-     {
       "text": "The list includes people from 37 countries.",
       "claims": [
        "c50"
@@ -517,21 +507,9 @@
     ],
     [
      {
-      "text": "In 2026, he received the Presidential Medal of Honour and became a Fellow of the United States National Academy of Inventors.",
-      "claims": [
-       "c83"
-      ]
-     },
-     {
-      "text": "He has more than 500 scientific publications and more than 100 patents.",
-      "claims": [
-       "c84"
-      ]
-     },
-     {
       "text": "He is a co-founder of five companies that emerged from academic research.",
       "claims": [
-       "c86"
+       "c103"
       ]
      }
     ],
@@ -679,22 +657,6 @@
  ],
  "claims": [
   {
-   "id": "c80",
-   "text": "ויקיפדיה מתארת את חאיק כמדען ומהנדס ערבי-ישראלי, פרופסור מן המניין בטכניון.",
-   "source": "src1",
-   "quote": "is an Arab-Israeli scientist and engineer, who is a Full Professor at the Technion – Israel Institute of Technology.",
-   "status": "confirmed",
-   "locator": "שורה 24"
-  },
-  {
-   "id": "c81",
-   "text": "חאיק נולד ב-1975 בנצרת, ישראל, למשפחה נוצרית ערבית.",
-   "source": "src1",
-   "quote": "Haick was born in 1975 in Nazareth, Israel, into an Arab Christian family.",
-   "status": "confirmed",
-   "locator": "שורה 36"
-  },
-  {
    "id": "c51",
    "text": "מדעני הטכניון פיתחו \"אף מלאכותי\" שמסוגל לאבחן מחלות רבות באמצעות ניתוח כימי של הבל הפה.",
    "source": "src2",
@@ -727,28 +689,12 @@
    "locator": "שורה 21"
   },
   {
-   "id": "c83",
-   "text": "ב-2026 קיבל חאיק את עיטור הנשיא לאות כבוד הישראלי והפך לעמית באקדמיה הלאומית האמריקאית לממציאים.",
-   "source": "src1",
-   "quote": "In 2026, Haick was awarded the Israeli Presidential Medal of Honour and became a Fellow of the United States National Academy of Inventors.",
-   "status": "confirmed",
-   "locator": "שורה 25"
-  },
-  {
    "id": "c14",
    "text": "חאיק החל לפתח את המכשיר לפני כ-10 שנים, כשהצטרף לסגל הטכניון לאחר פוסט-דוקטורט בקאלטק.",
    "source": "src3",
    "quote": "Haick began developing the device 10 years ago when he joined the faculty at Technion after completing a postdoc at the California Institute of Technology.",
    "status": "confirmed",
    "locator": "שורה 17"
-  },
-  {
-   "id": "c82",
-   "text": "חאיק הצטרף לסגל הטכניון ב-2006 כפרופסור עוזר בפקולטה להנדסה כימית ע\"ש וולפסון.",
-   "source": "src1",
-   "quote": "Haick joined the Technion faculty in 2006 as an Assistant Professor in the Wolfson Faculty of Chemical Engineering.",
-   "status": "confirmed",
-   "locator": "שורה 38"
   },
   {
    "id": "c11",
@@ -813,14 +759,6 @@
    "quote": "We let it smell a given disease but instead of a nose we use chemical sensors, and instead of the brain we use the algorithms.",
    "status": "confirmed",
    "locator": "שורה 8"
-  },
-  {
-   "id": "c87",
-   "text": "מאמרו משנת 2009 ב-Nature Nanotechnology הדגים אבחון סרטן ריאה מנשיפה באמצעות מערכי חיישנים עם חלקיקי זהב.",
-   "source": "src1",
-   "quote": "His 2009 paper in Nature Nanotechnology demonstrated the diagnosis of lung cancer from exhaled breath using gold-nanoparticle sensor arrays",
-   "status": "confirmed",
-   "locator": "שורה 42"
   },
   {
    "id": "c33",
@@ -1047,14 +985,6 @@
    "locator": "שורה 12"
   },
   {
-   "id": "c85",
-   "text": "ב-2018 זכה פרויקט SniffPhone בפרס החדשנות של הנציבות האירופית בליסבון.",
-   "source": "src1",
-   "quote": "In 2018, SniffPhone received the European Commission Innovation Prize at EFECS in Lisbon.",
-   "status": "confirmed",
-   "locator": "שורה 39"
-  },
-  {
    "id": "c62",
    "text": "לחברת Nanose Medical יש רישיון בלעדי להשתמש בטכנולוגיית ה-Nanose של חאיק מהטכניון לשימושים רפואיים.",
    "source": "src8",
@@ -1103,14 +1033,6 @@
    "locator": "שורה 6"
   },
   {
-   "id": "c88",
-   "text": "חאיק נכלל ברשימת GOOD 100 משנת 2015 עד 2018.",
-   "source": "src1",
-   "quote": "was included in the GOOD 100 list of global citizens and creative change-makers from 2015 to 2018",
-   "status": "confirmed",
-   "locator": "שורה 26"
-  },
-  {
    "id": "c50",
    "text": "רשימת Good Magazine כוללת אנשים מ-37 מדינות התורמים לרווחת האנושות.",
    "source": "src5",
@@ -1125,22 +1047,6 @@
    "quote": "Haick last weekend was also presented with the Humboldt Research Award, which recognizes top research done throughout the world in cooperation with research institutes in Germany.",
    "status": "confirmed",
    "locator": "שורה 19"
-  },
-  {
-   "id": "c84",
-   "text": "לחאיק יותר מ-500 פרסומים מדעיים ויותר מ-100 פטנטים, רבים מהם ברישיון לחברות בינלאומיות.",
-   "source": "src1",
-   "quote": "He has published more than 500 scientific publications and holds more than 100 patents, many of which have been licensed to international companies.",
-   "status": "confirmed",
-   "locator": "שורה 25"
-  },
-  {
-   "id": "c86",
-   "text": "חאיק הוא מייסד שותף של חמש חברות שצמחו ממחקר אקדמי.",
-   "source": "src1",
-   "quote": "Haick is a co-founder of five companies that emerged from academic research",
-   "status": "confirmed",
-   "locator": "שורה 40"
   },
   {
    "id": "c41",
@@ -1261,15 +1167,105 @@
    "quote": "neither the Na-nose device nor any variations will be available on the market -- or in our doctor's offices -- for a number of years, said Haick.",
    "status": "confirmed",
    "locator": "שורה 10"
+  },
+  {
+   "id": "c89",
+   "text": "פרופ׳ חוסאם חאיק הוא מדען ומהנדס ערבי-ישראלי ופרופסור מן המניין בטכניון, שנולד ב-1975 בנצרת למשפחה נוצרית ערבית.",
+   "source": "src11",
+   "quote": "Hossam Haick is a Full Professor in the Technion – Israel Institute of Technology and the Dean of Undergraduate Studies.",
+   "status": "confirmed",
+   "locator": "שורה 1"
+  },
+  {
+   "id": "c90",
+   "text": "פרופ׳ חוסאם חאיק הוא מדען ומהנדס ערבי-ישראלי ופרופסור מן המניין בטכניון, שנולד ב-1975 בנצרת למשפחה נוצרית ערבית.",
+   "source": "src12",
+   "quote": "Born in 1975 into an Arab Christian family in Nazareth, Haick graduated from the city’s Catholic school",
+   "status": "confirmed",
+   "locator": "שורה 23"
+  },
+  {
+   "id": "c91",
+   "text": "ב-2026 קיבל חאיק את עיטור הנשיא לאות כבוד.",
+   "source": "src13",
+   "quote": "President of Israel Isaac Herzog will award the Israeli Presidential Medal of Honour to Prof. Hossam Haick",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c92",
+   "text": "ממציא: פרופ׳ חוסאם חאיק, הטכניון",
+   "source": "src11",
+   "quote": "Hossam Haick is a Full Professor in the Technion – Israel Institute of Technology and the Dean of Undergraduate Studies.",
+   "status": "confirmed",
+   "locator": "שורה 1"
+  },
+  {
+   "id": "c93",
+   "text": "מאז: 2006",
+   "source": "src14",
+   "quote": "Prof. Haick returned to the Technion in 2006 and was promoted to full professor in 2011.",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c94",
+   "text": "הוקרה: עיטור הנשיא, 2026",
+   "source": "src13",
+   "quote": "President of Israel Isaac Herzog will award the Israeli Presidential Medal of Honour to Prof. Hossam Haick",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c95",
+   "text": "חוסאם חאיק נולד ב-1975 בנצרת, למשפחה נוצרית ערבית.",
+   "source": "src12",
+   "quote": "Born in 1975 into an Arab Christian family in Nazareth, Haick graduated from the city’s Catholic school",
+   "status": "confirmed",
+   "locator": "שורה 23"
+  },
+  {
+   "id": "c96",
+   "text": "חוסאם חאיק נולד ב-1975 בנצרת, למשפחה נוצרית ערבית.",
+   "source": "src15",
+   "quote": "הוא לא בן למעמד פריבילגי, בעל כוח וקשרים בארץ, אלא ערבי־נוצרי, יליד נצרת.",
+   "status": "confirmed",
+   "locator": "שורה 114"
+  },
+  {
+   "id": "c98",
+   "text": "כבר ב-2009 הדגים מאמר שלו ב-Nature Nanotechnology אבחון סרטן ריאה מנשיפה בעזרת מערכי חיישנים עם חלקיקי זהב.",
+   "source": "src16",
+   "quote": "sensors based on gold nanoparticles could form the basis of an inexpensive and non-invasive diagnostic tool for lung cancer",
+   "status": "confirmed",
+   "locator": "שורה 1"
+  },
+  {
+   "id": "c99",
+   "text": "ב-2018 זכה SniffPhone בפרס החדשנות של הנציבות האירופית בליסבון.",
+   "source": "src17",
+   "quote": "The award was presented in Lisbon on November 21, at the European Forum of Electronic Components and Systems (EFECS).",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c100",
+   "text": "ב-2018 זכה SniffPhone בפרס החדשנות של הנציבות האירופית בליסבון.",
+   "source": "src17",
+   "quote": "Prof. Hossam Haick Won the EU Innovation Award for the SniffPhone Project",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c103",
+   "text": "הוא מייסד שותף של חמש חברות שצמחו ממחקר אקדמי.",
+   "source": "src13",
+   "quote": "is a co-founder of five companies that emerged from academic research",
+   "status": "confirmed",
+   "locator": "שורה 8"
   }
  ],
  "sources": [
-  {
-   "id": "src1",
-   "label": "Wikipedia, Hossam Haick",
-   "url": "https://en.wikipedia.org/wiki/Hossam_Haick",
-   "kind": "reference"
-  },
   {
    "id": "src2",
    "label": "ynet, Technion researchers developed an \"artificial nose\" that diagnoses cancer",
@@ -1323,6 +1319,48 @@
    "label": "WRAL, Experimental technology can smell disease on your breath",
    "url": "https://www.wral.com/experimental-technology-can-smell-disease-on-your-breath/17096514/",
    "kind": "press"
+  },
+  {
+   "id": "src11",
+   "label": "Israel Institute for Advanced Studies (The Hebrew University): Hossam Haick",
+   "url": "https://iias.huji.ac.il/people/hossam-haick",
+   "kind": "organisation"
+  },
+  {
+   "id": "src12",
+   "label": "Israel Institute for Advanced Studies (The Hebrew University): Hossam Haick",
+   "url": "https://layoftheland.online/2019/01/08/",
+   "kind": "organisation"
+  },
+  {
+   "id": "src13",
+   "label": "Technion: Israeli Presidential Medal of Honour Awarded to Technion's Prof. Hossam Haick (28.07.2026)",
+   "url": "https://www.technion.ac.il/en/blog/article/israeli-presidential-medal-of-honour-awarded-to-technions-prof-hossam-haick/",
+   "kind": "official"
+  },
+  {
+   "id": "src14",
+   "label": "Technion Canada: Hossam Haick",
+   "url": "https://www.technioncanada.org/our-team/hossam-haick/",
+   "kind": "organisation"
+  },
+  {
+   "id": "src15",
+   "label": "Lay of the Land: January 8, 2019",
+   "url": "https://www.calcalist.co.il/articles/0,7340,L-3753869,00.html",
+   "kind": "press"
+  },
+  {
+   "id": "src16",
+   "label": "Nature Nanotechnology (Peng et al., 2009), abstract via Europe PMC: Diagnosing lung cancer in exhaled breath using gold nanoparticles",
+   "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:19809459%20AND%20SRC:MED&resultType=core&format=json",
+   "kind": "reference"
+  },
+  {
+   "id": "src17",
+   "label": "Technion: European Innovation Prize to Prof. Haick",
+   "url": "https://www.technion.ac.il/en/2018/11/european-innovation-prize-to-prof-haick/",
+   "kind": "official"
   }
  ],
  "media": [
@@ -1678,7 +1716,7 @@
   "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
   "checked_at": "2026-11-20T22:33:10Z",
   "counts": {
-   "confirmed": 81,
+   "confirmed": 77,
    "not_confirmed": 0,
    "deleted_sentences": 2,
    "first_round_confirmed": 81,
@@ -1699,11 +1737,18 @@
    "fix": "opus-5-5 medium"
   },
   "source_quality": {
-   "sources": 10,
-   "wikipedia": 1,
+   "sources": 16,
+   "wikipedia": 0,
    "strong": 8,
    "ok": true,
    "warnings": []
+  },
+  "wiki_cleanup": {
+   "at": "2026-11-27T14:44:45Z",
+   "targets": 13,
+   "resourced": 9,
+   "kept_on_other_sources": 0,
+   "deleted": 4
   }
  },
  "lang": "en",
@@ -1711,11 +1756,11 @@
   "from": "he",
   "translator": "claude-opus-5-5",
   "checker": "claude-opus-5-5 (separate call, blind to the translation prompt)",
-  "checked_at": "2026-11-21T06:21:02Z",
+  "checked_at": "2026-11-27T14:44:57Z",
   "passed": true,
-  "items": 146,
-  "pairs_checked": 6,
-  "reused": 140,
+  "items": 145,
+  "pairs_checked": 1,
+  "reused": 142,
   "first_round_flagged": 0,
   "still_flagged": 0,
   "flagged": [],
@@ -1737,7 +1782,8 @@
    "c62": "The implementation of the technology and its commercialization are being carried out within the company Nanose Medical. The company has an exclusive license to use the technology of Prof. Haick of the Technion",
    "c67": "The production cost of each device is about 1,000 dollars, but in industrial production it can be brought down to a few hundred",
    "c74": "These are encouraging preliminary data regarding the diagnostic ability and accuracy of the system",
-   "c68": "The system is in the process of commercialization because it has to go through regulatory processes. We are doing the maximum"
+   "c68": "The system is in the process of commercialization because it has to go through regulatory processes. We are doing the maximum",
+   "c96": "He is not the son of a privileged class, with power and connections in the country, but a Christian Arab, born in Nazareth."
   }
  }
 }

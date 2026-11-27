@@ -1,1507 +1,1560 @@
 {
-  "schema": "maasei-museum/1",
-  "slug": "israel-jordan-egypt-cyprus-wildfire",
-  "deed": "ישראל, ירדן ומצרים סייעו יחד בכיבוי השרפה הקטלנית בקפריסין",
-  "canonical_type": "rescue-operation",
-  "year": "2025",
-  "title": "Israel, Jordan and Egypt sent planes and helicopters to fight the deadly wildfire in Cyprus",
-  "trailer": [
-    {
-      "text": "According to Devdiscourse, Jordan, Egypt, Israel, Spain and Greece swiftly dispatched aircraft and personnel to Cyprus, in a joint international effort against the fire.",
-      "claims": [
-        "c62"
-      ]
-    },
-    {
-      "text": "On 23 July 2025, during a severe heatwave, a fire broke out near the village of Malia in the Limassol district, and it claimed the lives of two people.",
-      "claims": [
-        "c58",
-        "c1"
-      ]
-    },
-    {
-      "text": "According to the government spokesman, four Jordanian aircraft and two Egyptian helicopters were already on the island, and two planes from Israel were due to arrive.",
-      "claims": [
-        "c6"
-      ]
-    },
-    {
-      "text": "Two Israeli C-130 aircraft were to make water drops at night.",
-      "claims": [
-        "c19"
-      ]
-    },
-    {
-      "text": "Until sunset, a total of 13 firefighting aircraft made water drops.",
-      "claims": [
-        "c29"
-      ]
-    }
-  ],
-  "hero_media": [
-    "m5",
-    "m4",
-    "m3",
-    "m1",
-    "m18",
-    "m24"
-  ],
-  "glance": [
-    {
-      "label": "Where",
-      "value": "Near the village of Malia, Limassol district, Cyprus",
-      "claims": [
-        "c58"
-      ]
-    },
-    {
-      "label": "When",
-      "value": "23 July 2025",
-      "claims": [
-        "c58"
-      ]
-    },
-    {
-      "label": "Who helped",
-      "value": "Jordan, Egypt, Israel, Spain, Greece, United Kingdom",
-      "claims": [
-        "c62",
-        "c59"
-      ]
-    },
-    {
-      "label": "From Israel",
-      "value": "Two C-130 aircraft for night water drops",
-      "claims": [
-        "c19"
-      ]
-    },
-    {
-      "label": "On the ground",
-      "value": "More than 250 firefighters, 75 fire engines, 14 aircraft",
-      "claims": [
-        "c4"
-      ]
-    }
-  ],
-  "stations": [
-    {
-      "id": "s1",
-      "title": "Fire breaks out near Malia",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "The fire broke out on 23 July 2025 near the village of Malia, during a severe heatwave.",
-            "claims": [
-              "c58"
-            ]
-          },
-          {
-            "text": "That Wednesday, the temperature in Cyprus reached 43 degrees, and an amber weather alert was issued.",
-            "claims": [
-              "c54"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "Cyprus has been suffering from a protracted drought, which has brought water resources down to very low levels.",
-            "claims": [
-              "c55"
-            ]
-          },
-          {
-            "text": "According to the government spokesman, very strong winds, heat and extreme dryness after three winters with little rain created a \"perfect storm\".",
-            "claims": [
-              "c5"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "The Ministry of Interior ordered immediate evacuations along a 14 km stretch of mountainous area.",
-            "claims": [
-              "c48"
-            ]
-          },
-          {
-            "text": "According to AP, on Wednesday the fire forced the evacuation of at least 14 villages.",
-            "claims": [
-              "c13"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m5",
-        "m13",
-        "m17"
-      ],
-      "disagreements": [
-        "d2",
-        "d5"
-      ]
-    },
-    {
-      "id": "s2",
-      "title": "Two dead and burned villages",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "The two dead, an elderly couple, were found in a burned-out car on the road between the villages of Monagri and Alassa.",
-            "claims": [
-              "c20"
-            ]
-          },
-          {
-            "text": "Police were still trying to identify their remains.",
-            "claims": [
-              "c9"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "In the village of Lofou, at least 20 homes were destroyed, as the fire threatened a group of stranded evacuees trying to flee.",
-            "claims": [
-              "c14"
-            ]
-          },
-          {
-            "text": "A rescue operation by the police and the National Guard for 36 residents of Lofou did not succeed.",
-            "claims": [
-              "c34"
-            ]
-          },
-          {
-            "text": "According to the village head, the residents travelled in a police minibus, encountered a wall of fire and were forced to turn back to Lofou.",
-            "claims": [
-              "c35"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to Wikipedia, 224 buildings were completely burned and 308 partially, 532 in total.",
-            "claims": [
-              "c61"
-            ]
-          },
-          {
-            "text": "An electricity company substation in the area was completely destroyed, and at dawn on Thursday 15 villages were without electricity.",
-            "claims": [
-              "c37",
-              "c38"
-            ]
-          },
-          {
-            "text": "Cypriot President Christodoulides said there had never been anything like this in Cyprus.",
-            "claims": [
-              "c3"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m1",
-        "m3",
-        "m12",
-        "m19"
-      ],
-      "disagreements": [
-        "d1",
-        "d3"
-      ]
-    },
-    {
-      "id": "s3",
-      "title": "Cyprus fights the fire",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "According to the government spokesman, more than 250 firefighters, 75 fire engines and 14 aircraft were working to contain the flames.",
-            "claims": [
-              "c4"
-            ]
-          },
-          {
-            "text": "Alongside the fire department, the forestry department, Civil Defence and the Limassol district local government authority were operating, assisted by organised groups and volunteers.",
-            "claims": [
-              "c26"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "Private companies provided fuel for the aircraft free of charge, as well as other supplies for fighting the fire.",
-            "claims": [
-              "c25"
-            ]
-          },
-          {
-            "text": "The President visited the command centre in Ayios Efraim, and called on residents to follow evacuation instructions.",
-            "claims": [
-              "c49"
-            ]
-          },
-          {
-            "text": "He said the situation was very difficult, the fire front was huge and all forces had been mobilised.",
-            "claims": [
-              "c53"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m4",
-        "m25"
-      ],
-      "disagreements": []
-    },
-    {
-      "id": "s4",
-      "title": "Neighbours send help",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "According to the European Commission, Cyprus requested firefighting assistance through the EU Civil Protection Mechanism.",
-            "claims": [
-              "c57"
-            ]
-          },
-          {
-            "text": "According to AP, aircraft from Jordan, Israel, Lebanon and Spain were on their way on Thursday.",
-            "claims": [
-              "c1"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to the government spokesman, four Jordanian aircraft and two Egyptian helicopters were already on the island.",
-            "claims": [
-              "c6"
-            ]
-          },
-          {
-            "text": "Egyptian Petroleum Minister Karim Badawi, who was visiting Cyprus, said that two specialised helicopters would arrive, to show that his country is a strategic and reliable partner.",
-            "claims": [
-              "c8"
-            ]
-          },
-          {
-            "text": "According to Al Jazeera, a British Chinook helicopter based in Cyprus also assisted.",
-            "claims": [
-              "c52"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to Devdiscourse, Jordan, Egypt, Israel, Spain and Greece swiftly sent aircraft and personnel in a joint international effort.",
-            "claims": [
-              "c62"
-            ]
-          },
-          {
-            "text": "Until sunset, 13 firefighting aircraft made water drops.",
-            "claims": [
-              "c29"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m6",
-        "m7"
-      ],
-      "disagreements": [
-        "d4"
-      ]
-    },
-    {
-      "id": "s5",
-      "title": "The planes from Israel fly at night",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "According to Anadolu, Israel confirmed it would provide aerial assistance under the direction of Foreign Minister Gideon Saar, and the aircraft were scheduled to depart on Thursday evening.",
-            "claims": [
-              "c46"
-            ]
-          },
-          {
-            "text": "According to the Cypriot government spokesman, two planes from Israel were due to arrive.",
-            "claims": [
-              "c6"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "These were two C-130 aircraft, which were to make water drops at night.",
-            "claims": [
-              "c19"
-            ]
-          },
-          {
-            "text": "According to Christodoulides, the Israeli planes could also be used at night.",
-            "claims": [
-              "c7"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m9",
-        "m8",
-        "m10"
-      ],
-      "disagreements": []
-    },
-    {
-      "id": "s6",
-      "title": "After the fire: evacuees and rebuilding",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "According to Justice Minister Hartsiotis, evacuees from the affected communities were housed in temporary shelters.",
-            "claims": [
-              "c12"
-            ]
-          },
-          {
-            "text": "Cyprus Red Cross volunteers distributed basic necessities in Ayios Ambrosios, Pachna, Trimikli and Episkopi.",
-            "claims": [
-              "c28"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "The government pledged immediate financial support to community councils, full restoration of property damage, temporary housing and basic necessities.",
-            "claims": [
-              "c27"
-            ]
-          },
-          {
-            "text": "Christodoulides promised help to people who lost their livelihood, and to property owners to rebuild their homes.",
-            "claims": [
-              "c15"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "Antonis Christou, 67, from the village of Kantou, said he cried because the world was on fire.",
-            "claims": [
-              "c16"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m16",
-        "m22"
-      ],
-      "disagreements": [
-        "d6"
-      ]
-    },
-    {
-      "id": "s7",
-      "title": "Criticism of the response",
-      "kind": "hard",
-      "paragraphs": [
-        [
-          {
-            "text": "Some locals accused the authorities of a slow response.",
-            "claims": [
-              "c24"
-            ]
-          },
-          {
-            "text": "The head of the village of Souni-Zanakia said fire engines began arriving when the fire had already burned half the village.",
-            "claims": [
-              "c39"
-            ]
-          },
-          {
-            "text": "According to Al Jazeera, residents vented their anger at what they called a disorganised response.",
-            "claims": [
-              "c50"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "The government spokesman rejected the criticism, saying that fire crews had responded quickly and that all firefighting protocols had been activated from the start.",
-            "claims": [
-              "c11"
-            ]
-          },
-          {
-            "text": "The Justice Minister said everything possible under the circumstances had been done and that this was not the time to assign blame.",
-            "claims": [
-              "c42"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to Anadolu, Greece also faced criticism for a delayed response.",
-            "claims": [
-              "c47"
-            ]
-          },
-          {
-            "text": "The Justice Minister explained that fires in Greece limited its ability to assist.",
-            "claims": [
-              "c47"
-            ]
-          }
-        ]
-      ],
-      "media": [],
-      "disagreements": []
-    }
-  ],
-  "disagreements": [
-    {
-      "id": "d1",
-      "question": "How much land burned?",
-      "versions": [
-        {
-          "says": "According to AP, more than 120 sq km",
-          "claims": [
-            "c2"
-          ]
-        },
-        {
-          "says": "According to Cyprus Mail, about 120 sq km",
-          "claims": [
-            "c31"
-          ]
-        },
-        {
-          "says": "According to a fire service spokesman, about 100 sq km",
-          "claims": [
-            "c36"
-          ]
-        },
-        {
-          "says": "According to Al Jazeera, about 100 sq km",
-          "claims": [
-            "c51"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d2",
-      "question": "When on Wednesday did the fire start?",
-      "versions": [
-        {
-          "says": "According to the government spokesman, around noon",
-          "claims": [
-            "c17"
-          ]
-        },
-        {
-          "says": "According to Cyprus Mail, in the afternoon",
-          "claims": [
-            "c40"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d3",
-      "question": "How many were injured?",
-      "versions": [
-        {
-          "says": "According to health authorities, seven were treated in hospitals, two of them for burns",
-          "claims": [
-            "c32",
-            "c10"
-          ]
-        },
-        {
-          "says": "According to Cyprus Mail, about 10 are known so far to have been injured",
-          "claims": [
-            "c41"
-          ]
-        },
-        {
-          "says": "According to Anadolu, 26 were injured: 10 firefighters and 16 residents",
-          "claims": [
-            "c44"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d4",
-      "question": "What did Jordan and Egypt send: planes or helicopters?",
-      "versions": [
-        {
-          "says": "According to the government spokesman, four Jordanian aircraft and two Egyptian helicopters",
-          "claims": [
-            "c6"
-          ]
-        },
-        {
-          "says": "According to Cyprus Mail, four aircraft from Jordan and two firefighting aircraft from Egypt",
-          "claims": [
-            "c18"
-          ]
-        },
-        {
-          "says": "According to Al Jazeera, Jordan sent helicopters",
-          "claims": [
-            "c52"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d5",
-      "question": "Was the fire set deliberately or caused by accident?",
-      "versions": [
-        {
-          "says": "According to the fire chief, eyewitnesses reported that the fire was started deliberately at two points near Malia",
-          "claims": [
-            "c21"
-          ]
-        },
-        {
-          "says": "The community leader of Malia said arson was likely, because a fire had been set at the same spot about two weeks earlier",
-          "claims": [
-            "c22"
-          ]
-        },
-        {
-          "says": "According to Wikipedia, a later investigation by an American team concludes that the fire was likely caused by a carelessly discarded cigarette, and it was classified as accidental",
-          "claims": [
-            "c60"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d6",
-      "question": "How many evacuees were housed?",
-      "versions": [
-        {
-          "says": "According to the Justice Minister, 100 people",
-          "claims": [
-            "c12"
-          ]
-        },
-        {
-          "says": "According to the Civil Defence spokesman, about 80 people stayed overnight",
-          "claims": [
-            "c30"
-          ]
-        },
-        {
-          "says": "The Justice Minister told CyBC radio that the number stood at 106",
-          "claims": [
-            "c33"
-          ]
-        }
-      ]
-    }
-  ],
-  "unknowns": [],
-  "claims": [
-    {
-      "id": "c62",
-      "text": "לפי Devdiscourse, ירדן, מצרים, ישראל, ספרד ויוון שלחו במהירות כלי טיס ואנשי צוות במאמץ בינלאומי משותף.",
-      "source": "src1",
-      "quote": "Jordan, Egypt, Israel, Spain, and Greece swiftly dispatched aircraft and personnel, highlighting a collaborative international effort against the blaze.",
-      "status": "confirmed",
-      "locator": "שורה 14"
-    },
-    {
-      "id": "c58",
-      "text": "לפי ויקיפדיה, השרפות פרצו ב-23 ביולי 2025 ליד הכפר מליה בזמן גל חום חמור.",
-      "source": "src2",
-      "quote": "On 23 July 2025, wildfires broke out near the Cypriot village of Malia during a severe heatwave with temperatures exceeding 44 °C.",
-      "status": "confirmed",
-      "locator": "שורה 30"
-    },
-    {
-      "id": "c1",
-      "text": "לפי AP, מטוסים מירדן, מישראל, מלבנון ומספרד היו בדרכם ביום חמישי לסייע בכיבוי שרפה גדולה בקפריסין שגבתה את חייהם של שני בני אדם.",
-      "source": "src3",
-      "quote": "Aircraft from Jordan, Israel, Lebanon and Spain were on their way Thursday to help battle a huge wildfire in Cyprus that has claimed the lives of two people.",
-      "status": "confirmed",
-      "locator": "שורה 26"
-    },
-    {
-      "id": "c6",
-      "text": "לפי דובר הממשלה, ארבעה מטוסים ירדניים ושני מסוקים מצריים כבר היו באי, ושני מטוסים מישראל, שניים מספרד ושניים מלבנון עמדו להגיע.",
-      "source": "src3",
-      "quote": "Letymbiotis said that four Jordanian fixed-wing aircraft and two Egyptian helicopters are already on the island while two planes from Israel, a pair from Spain and two more from Lebanon would be arriving",
-      "status": "confirmed",
-      "locator": "שורה 37"
-    },
-    {
-      "id": "c19",
-      "text": "שני מטוסי C-130 ישראליים שעמדו להגיע אמורים היו לבצע הטלות מים בשעות הלילה.",
-      "source": "src4",
-      "quote": "The two arriving Israeli C-130 aircraft would make nighttime air drops.",
-      "status": "confirmed",
-      "locator": "שורה 29"
-    },
-    {
-      "id": "c29",
-      "text": "בסך הכול 13 כלי טיס לכיבוי ביצעו הטלות מים עד שקיעת החמה.",
-      "source": "src4",
-      "quote": "In total, 13 firefighting aircraft were making airdrops until the sun went down.",
-      "status": "confirmed",
-      "locator": "שורה 15"
-    },
-    {
-      "id": "c59",
-      "text": "לפי ויקיפדיה, בכיבוי השתתפו יותר מ-250 אנשים וסיוע בינלאומי מירדן, ספרד, ישראל, מצרים ובריטניה.",
-      "source": "src2",
-      "quote": "Firefighting efforts involved more than 250 personnel and international assistance (after the 24th) from Jordan, Spain, Israel, Egypt, and the United Kingdom.",
-      "status": "confirmed",
-      "locator": "שורה 31"
-    },
-    {
-      "id": "c4",
-      "text": "לפי דובר הממשלה, יותר מ-250 כבאים, 75 כלי כיבוי ו-14 כלי טיס פעלו לבלום את הלהבות.",
-      "source": "src3",
-      "quote": "More than 250 firefighters, 75 engines and 14 aircraft were working to contain the flames, government spokesman Constantinos Letymbiotis said.",
-      "status": "confirmed",
-      "locator": "שורה 30"
-    },
-    {
-      "id": "c54",
-      "text": "הטמפרטורה בקפריסין הגיעה ל-43 מעלות ביום רביעי והופעלה אזהרת מזג אוויר כתומה.",
-      "source": "src5",
-      "quote": "Temperatures on the island reached 43 degrees Centigrade (109.4 Fahrenheit) on Wednesday, triggering an amber weather alert.",
-      "status": "confirmed",
-      "locator": "שורה 12"
-    },
-    {
-      "id": "c55",
-      "text": "קפריסין סובלת מבצורת ממושכת שהורידה את משאבי המים לרמות נמוכות מאוד.",
-      "source": "src5",
-      "quote": "Cyprus has struggled with a protracted drought, pushing scarce water resources to critically low levels.",
-      "status": "confirmed",
-      "locator": "שורה 12"
-    },
-    {
-      "id": "c5",
-      "text": "לפי דובר הממשלה, רוחות חזקות מאוד, טמפרטורות גבוהות ותנאי יובש קיצוני אחרי שלושה חורפים עם מעט גשם יצרו \"סערה מושלמת\".",
-      "source": "src3",
-      "quote": "Very strong winds, high temperatures and very arid conditions after three winters of minimal rainfall created a perfect storm",
-      "status": "confirmed",
-      "locator": "שורה 31"
-    },
-    {
-      "id": "c48",
-      "text": "משרד הפנים הורה על פינוי מיידי לאורך רצועה הררית של 14 ק\"מ.",
-      "source": "src6",
-      "quote": "The Ministry of Interior mandated immediate evacuations throughout a 14km (8.7 miles) stretch of mountainous area.",
-      "status": "confirmed",
-      "locator": "שורה 9"
-    },
-    {
-      "id": "c13",
-      "text": "לפי AP, השרפה אילצה ביום רביעי פינוי של לפחות 14 כפרים.",
-      "source": "src3",
-      "quote": "The fire on Wednesday had forced the evacuation of at least 14 villages as media reports showed gutted homes smoldering.",
-      "status": "confirmed",
-      "locator": "שורה 46"
-    },
-    {
-      "id": "c20",
-      "text": "שני המתים, זוג קשישים, נמצאו במכונית שרופה בכביש בין הכפרים מונגרי ואלסה.",
-      "source": "src4",
-      "quote": "The two who died, an elderly couple, were found in a burnt-out car on the road between the villages of Monagri and Alassa.",
-      "status": "confirmed",
-      "locator": "שורה 2"
-    },
-    {
-      "id": "c9",
-      "text": "המשטרה ניסתה עדיין לזהות את שרידיהם הפחוחים של שני בני אדם שנמצאו במכונית שרופה בשולי כביש מונגרי-אלסה.",
-      "source": "src3",
-      "quote": "Police were still trying to identify the charred remains of two people who were found inside a burned-out car on the shoulder of the main Monagri-Alassa road.",
-      "status": "confirmed",
-      "locator": "שורה 40"
-    },
-    {
-      "id": "c14",
-      "text": "בכפר לופו נהרסו לפחות 20 בתים בשעה שהאש איימה על קבוצת מפונים תקועים שניסו להימלט.",
-      "source": "src3",
-      "quote": "In the village of Lofou, at least 20 homes were destroyed as fires threatened a group of stranded evacuees trying to flee.",
-      "status": "confirmed",
-      "locator": "שורה 46"
-    },
-    {
-      "id": "c34",
-      "text": "מבצע חילוץ של המשטרה והמשמר הלאומי ל-36 תושבי לופו לא צלח.",
-      "source": "src7",
-      "quote": "Not all evacuation attempts were successful, however, with a rescue operation launched by the police and the national guard to extract 36 residents of the village of Lofou",
-      "status": "confirmed",
-      "locator": "שורה 9"
-    },
-    {
-      "id": "c35",
-      "text": "לדברי ראש הכפר לופו, התושבים נסעו במיניבוס משטרתי, פגשו חומת אש ונאלצו לחזור ללופו.",
-      "source": "src7",
-      "quote": "where they “encountered a wall of fire” and were forced to turn back to Lofou.",
-      "status": "confirmed",
-      "locator": "שורה 10"
-    },
-    {
-      "id": "c61",
-      "text": "לפי ויקיפדיה, 224 מבנים נשרפו כליל, 308 חלקית, בסך הכול 532.",
-      "source": "src2",
-      "quote": "Completely Burned: 224 Partially Burned: 308 Total: 532",
-      "status": "confirmed",
-      "locator": "שורה 23"
-    },
-    {
-      "id": "c37",
-      "text": "לדברי דוברת חברת החשמל, אושר שתחנת משנה באזור נהרסה כליל בשרפה.",
-      "source": "src7",
-      "quote": "it had been confirmed that a substation in the area had been completely destroyed by the fire.",
-      "status": "confirmed",
-      "locator": "שורה 28"
-    },
-    {
-      "id": "c38",
-      "text": "עם שחר ביום חמישי היו 15 כפרים ללא חשמל, וגם חלק מהפרבר איפסונאס.",
-      "source": "src7",
-      "quote": "As of dawn on Thursday, a total of 15 villages were without electricity, while part of the Limassol suburb of Ypsonas was also without power.",
-      "status": "confirmed",
-      "locator": "שורה 31"
-    },
-    {
-      "id": "c3",
-      "text": "נשיא קפריסין כריסטודולידס אמר שמעולם לא היה בקפריסין דבר כזה.",
-      "source": "src3",
-      "quote": "There's never been anything like this before in Cyprus.",
-      "status": "confirmed",
-      "locator": "שורה 29"
-    },
-    {
-      "id": "c26",
-      "text": "לצד מכבי האש פעלו אנשי מחלקת היערות, ההגנה האזרחית והרשות המקומית של מחוז לימסול, בסיוע קבוצות מאורגנות ומתנדבים.",
-      "source": "src4",
-      "quote": "Operating alongside the fire department were personnel from the forestry department, Civil Defence, the Limassol district local government authority, assisted by organised groups and volunteers.",
-      "status": "confirmed",
-      "locator": "שורה 14"
-    },
-    {
-      "id": "c25",
-      "text": "חברות פרטיות סייעו בכך שסיפקו דלק למטוסים בחינם וכן אספקה נוספת למאבק באש.",
-      "source": "src4",
-      "quote": "Private companies were meantime pitching in, providing fuel for the aircraft free of charge, as well as other supplies needed to combat the fires.",
-      "status": "confirmed",
-      "locator": "שורה 16"
-    },
-    {
-      "id": "c49",
-      "text": "הנשיא כריסטודולידס ביקר במרכז הפיקוד באגיוס אפרים וקרא לתושבים להישמע להוראות הפינוי.",
-      "source": "src6",
-      "quote": "President Nikos Christodoulides visited the command centre in Ayios Efraim and implored residents to heed evacuation directives.",
-      "status": "confirmed",
-      "locator": "שורה 10"
-    },
-    {
-      "id": "c53",
-      "text": "נשיא קפריסין אמר שהמצב קשה מאוד, חזית האש עצומה וכל הכוחות גויסו.",
-      "source": "src5",
-      "quote": "The situation is very difficult and the fire front is huge. All forces have been mobilized",
-      "status": "confirmed",
-      "locator": "שורה 6"
-    },
-    {
-      "id": "c57",
-      "text": "לפי הנציבות האירופית, הרשויות בקפריסין ביקשו סיוע כיבוי דרך מנגנון ההגנה האזרחית של האיחוד האירופי.",
-      "source": "src8",
-      "quote": "Following a major fire in the Limassol district of Cyprus, the authorities have requested firefighting assistance through the EU Civil Protection Mechanism.",
-      "status": "confirmed",
-      "locator": "שורה 2"
-    },
-    {
-      "id": "c8",
-      "text": "שר הנפט המצרי כרים בדאווי, שביקר בקפריסין, אמר ששני מסוקים מיוחדים יגיעו לקפריסין כדי להראות שמדינתו היא שותפה אסטרטגית ואמינה.",
-      "source": "src3",
-      "quote": "said that two “specialized helicopters” would be arriving in Cyprus later Thursday to demonstrate that his country is a “strategic, reliable partner” to Cyprus.",
-      "status": "confirmed",
-      "locator": "שורה 39"
-    },
-    {
-      "id": "c52",
-      "text": "לפי אל-ג'זירה, ספרד שלחה שני מטוסי כיבוי, ירדן שלחה מסוקים, ומסוק צ'ינוק בריטי מקפריסין סייע גם הוא.",
-      "source": "src6",
-      "quote": "Spain is dispatching two firefighting planes, while Jordan has sent helicopters, and a British RAF Chinook based in Cyprus is providing additional support.",
-      "status": "confirmed",
-      "locator": "שורה 11"
-    },
-    {
-      "id": "c46",
-      "text": "לפי אנאדולו, ישראל אישרה שתספק סיוע אווירי בהנחיית שר החוץ גדעון סער, ומטוסים אמורים היו לצאת ביום חמישי בערב.",
-      "source": "src9",
-      "quote": "Israel confirmed it would provide aerial assistance under the direction of Foreign Minister Gideon Saar, with aid aircraft scheduled to depart on Thursday evening.",
-      "status": "confirmed",
-      "locator": "שורה 13"
-    },
-    {
-      "id": "c7",
-      "text": "לפי כריסטודולידס, אפשר היה להפעיל את המטוסים הישראליים בשעות הלילה.",
-      "source": "src3",
-      "quote": "The Israeli planes could be used at nighttime because",
-      "status": "confirmed",
-      "locator": "שורה 37"
-    },
-    {
-      "id": "c12",
-      "text": "לפי שר המשפטים הרציוטיס, 100 בני אדם שפונו מהיישובים שנפגעו אוכסנו במקלטים זמניים.",
-      "source": "src3",
-      "quote": "Justice Minister Marios Hartsiotis said that 100 people who were evacuated from fire-hit communities were being hosted in temporary shelters.",
-      "status": "confirmed",
-      "locator": "שורה 44"
-    },
-    {
-      "id": "c28",
-      "text": "הצלב האדום הקפריסאי הודיע שמתנדביו חילקו צרכי יסוד באגיוס אמברוסיוס, פאחנה, טרימיקלי ואפיסקופי.",
-      "source": "src4",
-      "quote": "The Cyprus Red Cross (CRC) said its volunteers were distributing basic necessities in Ayios Ambrosios, Pachna, Trimikli and Episkopi.",
-      "status": "confirmed",
-      "locator": "שורה 37"
-    },
-    {
-      "id": "c27",
-      "text": "הממשלה התחייבה לתמיכה כספית מיידית למועצות הקהילה לצרכי חירום, לשיקום מלא של נזקי רכוש, לדיור זמני ולצרכי יסוד.",
-      "source": "src4",
-      "quote": "The government pledged immediate financial support to community councils to meet emergency needs, fully restore property damage, support temporary housing, and cover basic necessities.",
-      "status": "confirmed",
-      "locator": "שורה 33"
-    },
-    {
-      "id": "c15",
-      "text": "כריסטודולידס חזר והבטיח סיוע לאנשים שאיבדו את פרנסתם ולבעלי נכסים לבנות מחדש את בתיהם השרופים.",
-      "source": "src3",
-      "quote": "He reaffirmed a government pledge to help people who lost their livelihood, and property owners to rebuild their gutted homes.",
-      "status": "confirmed",
-      "locator": "שורה 33"
-    },
-    {
-      "id": "c16",
-      "text": "תושב הכפר קנטו, אנטוניס כריסטו בן ה-67, סיפר שבכה כי העולם בער.",
-      "source": "src3",
-      "quote": "I cried, honestly I cried, because the world was on fire",
-      "status": "confirmed",
-      "locator": "שורה 35"
-    },
-    {
-      "id": "c24",
-      "text": "14 קהילות פונו, וחלק מהמקומיים האשימו את הרשויות בתגובה איטית.",
-      "source": "src4",
-      "quote": "As of the last count, fourteen communities had to be evacuated, with some locals accusing authorities of a slow response time.",
-      "status": "confirmed",
-      "locator": "שורה 22"
-    },
-    {
-      "id": "c39",
-      "text": "ראש הכפר סוני-זנקיה מתח ביקורת על הרשויות ואמר שכלי כיבוי החלו להגיע כשהאש כבר שרפה חצי מהכפר.",
-      "source": "src7",
-      "quote": "offered more criticism for the authorities, saying that “fire engines started coming to Souni when the fire had burnt half the village”",
-      "status": "confirmed",
-      "locator": "שורה 35"
-    },
-    {
-      "id": "c50",
-      "text": "לפי אל-ג'זירה, תושבים זעמו על מה שכינו תגובה לא מאורגנת לשרפה, והמשטרה המשיכה לחסום גישה ליישובים.",
-      "source": "src6",
-      "quote": "Police continued to block road access to the fire-affected communities as residents vented against what they called a disorganised response to the fire.",
-      "status": "confirmed",
-      "locator": "שורה 22"
-    },
-    {
-      "id": "c11",
-      "text": "דובר הממשלה דחה ביקורת של חלק מהתושבים ואמר שהכבאים הגיבו במהירות ושכל נהלי הכיבוי הופעלו מההתחלה.",
-      "source": "src3",
-      "quote": "Letymbiotis deflected criticism by some residents, saying that fire crews had responded quickly to calls for help and that all firefighting protocols had been activated from the first instance.",
-      "status": "confirmed",
-      "locator": "שורה 43"
-    },
-    {
-      "id": "c42",
-      "text": "שר המשפטים אמר שנעשה כל מה שאפשר בנסיבות ושאין זה הזמן להטלת אשמה.",
-      "source": "src4",
-      "quote": "Everything that could have been done under the circumstances was done. This is not the time for apportioning blame",
-      "status": "confirmed",
-      "locator": "שורה 26"
-    },
-    {
-      "id": "c47",
-      "text": "לפי אנאדולו, יוון ספגה ביקורת על תגובה מאוחרת, ושר המשפטים הסביר ששרפות ביוון הגבילו את יכולתה לסייע.",
-      "source": "src9",
-      "quote": "Greece faced criticism for its delayed response, with Greek Cypriot Justice Minister Marios Hartsioti explaining that ongoing fires in Greece limited its ability to assist.",
-      "status": "confirmed",
-      "locator": "שורה 14"
-    },
-    {
-      "id": "c2",
-      "text": "לפי AP, המשטרה חקרה דיווחים על הצתה, והשרפה שרפה יותר מ-120 קמ\"ר של גבעות מיוערות באחת השרפות הקשות שזכורות באחרונה.",
-      "source": "src3",
-      "quote": "Police were investigating reports that arsonists were to blame for the flames, which have scorched more than 120 square kilometers (46 square miles) of forested hillsides in one of the worst such blazes in recent memory.",
-      "status": "confirmed",
-      "locator": "שורה 27"
-    },
-    {
-      "id": "c31",
-      "text": "לפי Cyprus Mail, השרפה כילתה כ-120 קמ\"ר במחוז לימסול, ושני בני אדם אושרו כמתים.",
-      "source": "src4",
-      "quote": "incinerated an estimated 120 square kilometres in the Limassol district, with two people confirmed dead and at least two injured",
-      "status": "confirmed",
-      "locator": "שורה 1"
-    },
-    {
-      "id": "c36",
-      "text": "לפי דובר כבאות, השרפה שרפה כ-100 קמ\"ר של שטח.",
-      "source": "src7",
-      "quote": "He also said the fire has burned around 100 square kilometres of land",
-      "status": "confirmed",
-      "locator": "שורה 20"
-    },
-    {
-      "id": "c51",
-      "text": "לפי אל-ג'זירה, השרפה פגעה בכ-100 קמ\"ר באזור יין שמצפון ללימסול והרגה שניים.",
-      "source": "src6",
-      "quote": "A devastating wildfire in southern Cyprus has killed two people and prompted hundreds to flee as flames ravaged approximately 100 square kilometres (38 square miles)",
-      "status": "confirmed",
-      "locator": "שורה 5"
-    },
-    {
-      "id": "c17",
-      "text": "לפי דובר הממשלה, השרפה החלה בערך בצהריים ביום רביעי, והמשטרה בדקה דיווחים על הצתה.",
-      "source": "src3",
-      "quote": "Police were investigating reports that the fire, which began around noon Wednesday, was the work of arsonists, according to the government spokesman.",
-      "status": "confirmed",
-      "locator": "שורה 38"
-    },
-    {
-      "id": "c40",
-      "text": "לפי Cyprus Mail, השרפה החלה בכפר מליה ביום רביעי אחר הצהריים.",
-      "source": "src7",
-      "quote": "The fire began in the village of Malia on Wednesday afternoon",
-      "status": "confirmed",
-      "locator": "שורה 25"
-    },
-    {
-      "id": "c32",
-      "text": "לפי רשויות הבריאות, שבעה בני אדם טופלו בבתי חולים, שניים מהם בשל כוויות.",
-      "source": "src4",
-      "quote": "Health authorities said late on Thursday that seven persons were receiving treatment in hospitals – two for burns.",
-      "status": "confirmed",
-      "locator": "שורה 4"
-    },
-    {
-      "id": "c10",
-      "text": "לפי גורמי בריאות, שבעה בני אדם טופלו בשלושה בתי חולים בשל כוויות ושאיפת עשן.",
-      "source": "src3",
-      "quote": "Health officials said seven people are being treated in three hospitals for burns and smoke inhalation.",
-      "status": "confirmed",
-      "locator": "שורה 42"
-    },
-    {
-      "id": "c41",
-      "text": "לפי Cyprus Mail, כ-10 בני אדם ידועים עד כה כפצועים.",
-      "source": "src7",
-      "quote": "while around 10 people are thus far known to have been injured.",
-      "status": "confirmed",
-      "locator": "שורה 25"
-    },
-    {
-      "id": "c44",
-      "text": "לפי אנאדולו, 26 בני אדם נפצעו, בהם 10 כבאים ו-16 תושבי כפרים שפונו לבתי חולים.",
-      "source": "src9",
-      "quote": "In total, 26 people were injured in the Limassol rural fire, including 10 firefighters and 16 villagers who were taken to various hospitals for treatment.",
-      "status": "confirmed",
-      "locator": "שורה 8"
-    },
-    {
-      "id": "c18",
-      "text": "לפי Cyprus Mail, מצרים שלחה שני מטוסי כיבוי וירדן ארבעה, וישראל, לבנון וספרד התחייבו לסייע באותו אופן.",
-      "source": "src4",
-      "quote": "Egypt sent two firefighting aircraft, with Jordan sending four, while Israel, Lebanon and Spain pledged to assist in the same way.",
-      "status": "confirmed",
-      "locator": "שורה 28"
-    },
-    {
-      "id": "c21",
-      "text": "לפי מפקד הכבאות ניקוס לונגינוס, עדי ראייה מסרו לרשויות שהשרפה הוצתה בכוונה בשתי נקודות נפרדות במרחק 100 מטר זו מזו ליד הכפר מליה.",
-      "source": "src4",
-      "quote": "Fire chief Nikos Longinos said eyewitnesses had informed authorities that the fire was started deliberately at two separate points, 100 metres apart, near the village of Malia.",
-      "status": "confirmed",
-      "locator": "שורה 18"
-    },
-    {
-      "id": "c22",
-      "text": "ראשת הקהילה של מליה אמרה שהצתה סבירה, כי באותו מקום הוצתה אש כשבועיים קודם ונכבתה במהירות.",
-      "source": "src4",
-      "quote": "Community leader of Malia, Marilena Athini, later said that arson was likely, as a fire had been set at the same spot about two weeks ago and was promptly extinguished.",
-      "status": "confirmed",
-      "locator": "שורה 19"
-    },
-    {
-      "id": "c60",
-      "text": "לפי ויקיפדיה, חקירה מאוחרת של צוות אמריקאי מסיק שהשרפה נגרמה כנראה מסיגריה שהושלכה ברשלנות, וסווגה כתאונה.",
-      "source": "src2",
-      "quote": "concluding that the wildfire was likely caused by a carelessly discarded cigarette coming into contact with dry vegetation, and classifying it as Accidental",
-      "status": "confirmed",
-      "locator": "שורה 31"
-    },
-    {
-      "id": "c30",
-      "text": "לפי דובר ההגנה האזרחית, כ-80 בני אדם אוכסנו במתקנים שהוקמו ונשארו שם ללילה.",
-      "source": "src4",
-      "quote": "around 80 people were being hosted at these facilities and would stay there overnight.",
-      "status": "confirmed",
-      "locator": "שורה 21"
-    },
-    {
-      "id": "c33",
-      "text": "שר המשפטים אמר ברדיו CyBC שמספר האנשים שהוצאו לדיור זמני עמד על 106.",
-      "source": "src7",
-      "quote": "told CyBC radio shortly before 8am that the total number of people being housed in temporary accommodation stood at 106",
-      "status": "confirmed",
-      "locator": "שורה 6"
-    }
-  ],
-  "sources": [
-    {
-      "id": "src1",
-      "label": "Devdiscourse (Reuters), July 2025",
-      "url": "https://www.devdiscourse.com/article/science-environment/3515710-international-efforts-intensify-to-combat-cyprus-wildfire",
-      "kind": "press"
-    },
-    {
-      "id": "src2",
-      "label": "Wikipedia: 2025 Limassol wildfires",
-      "url": "https://en.wikipedia.org/wiki/2025_Limassol_wildfires",
-      "kind": "reference"
-    },
-    {
-      "id": "src3",
-      "label": "AP via KSAT, 23.7.2025",
-      "url": "https://www.ksat.com/news/world/2025/07/23/cyprus-gets-help-from-other-countries-in-battling-huge-wildfire-that-has-killed-2/",
-      "kind": "press"
-    },
-    {
-      "id": "src4",
-      "label": "Cyprus Mail, 24.7.2025",
-      "url": "https://www.cyprus-mail.com/2025/07/24/inferno-devastates-villages-in-limassol",
-      "kind": "press"
-    },
-    {
-      "id": "src5",
-      "label": "Greek Reporter, 24.7.2025",
-      "url": "https://greekreporter.com/2025/07/24/two-dead-massive-wildfire-cyprus/",
-      "kind": "press"
-    },
-    {
-      "id": "src6",
-      "label": "Al Jazeera, 24.7.2025",
-      "url": "https://www.aljazeera.com/gallery/2025/7/24/chk_deadly-cyprus-wildfire-claims-two-lives-forces-mass-evacuations",
-      "kind": "press"
-    },
-    {
-      "id": "src7",
-      "label": "Cyprus Mail, 24.7.2025",
-      "url": "https://cyprus-mail.com/2025/07/24/two-dead-as-firefighters-return-to-battle-flames",
-      "kind": "press"
-    },
-    {
-      "id": "src8",
-      "label": "European Commission, Civil Protection, 24.7.2025",
-      "url": "https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/eu-sends-firefighting-airplanes-cyprus-2025-07-24_en",
-      "kind": "official"
-    },
-    {
-      "id": "src9",
-      "label": "Anadolu Agency, 24.7.2025",
-      "url": "https://www.aa.com.tr/en/environment/2-dead-26-injured-in-largest-wildfire-in-50-years-in-greek-cyprus/3641218",
-      "kind": "press"
-    }
-  ],
-  "media": [
-    {
-      "id": "m1",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Severe%20wildfire%20in%20southern%20Cyprus%20%28Copernicus%202025-07-26%29.png?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Severe_wildfire_in_southern_Cyprus_%28Copernicus_2025-07-26%29.png",
-      "source_name": "Wikimedia Commons",
-      "credit": "European Union, Copernicus Sentinel-3 imagery",
-      "licence": "Attribution",
-      "hosting": "hotlink",
-      "caption": "Satellite image of Cyprus with a burned area marked in the south of the island, near Limassol.",
-      "illustrates": [
-        "c31"
-      ],
-      "date": "Taken on 2",
-      "width": 4960,
-      "height": 3507
-    },
-    {
-      "id": "m3",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wildfires%20Burn%20Fiercely%20in%20Cyprus%20%28CIRA%202025-07-24%20-%20nb%20cyprusfires%20nolabels0%29.png?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Wildfires_Burn_Fiercely_in_Cyprus_%28CIRA_2025-07-24_-_nb_cyprusfires_nolabels0%29.png",
-      "source_name": "Wikimedia Commons",
-      "credit": "JPSS imagery: CSU/CIRA &amp; NOAA/NESDIS",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "Night-time satellite image of Cyprus; a large bright spot of light is visible in the south of the island.",
-      "illustrates": [],
-      "date": "Taken on 2",
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "id": "m4",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wildfires%20Burn%20Fiercely%20in%20Cyprus%20%28CIRA%202025-07-24%20-%20ayfire%20cyprusfires%20nolabels0%29.png?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Wildfires_Burn_Fiercely_in_Cyprus_%28CIRA_2025-07-24_-_ayfire_cyprusfires_nolabels0%29.png",
-      "source_name": "Wikimedia Commons",
-      "credit": "JPSS imagery: CSU/CIRA &amp; NOAA/NESDIS",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "Satellite image of Cyprus showing red points of fire in the south of the island.",
-      "illustrates": [],
-      "date": "Taken on 2",
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "id": "m5",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tree%20of%20fire%20during%20the%20Malia%20Wildfire.webp?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Tree_of_fire_during_the_Malia_Wildfire.webp",
-      "source_name": "Wikimedia Commons",
-      "credit": "Georgie1235",
-      "licence": "CC BY-SA 4.0",
-      "hosting": "hotlink",
-      "caption": "Trees burning in flames near a road during the fire in Malia, Limassol district.",
-      "illustrates": [
-        "c58"
-      ],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "date": "2025-07-23",
-      "width": 1110,
-      "height": 1480
-    },
-    {
-      "id": "m6",
-      "kind": "video",
-      "url": "https://www.youtube.com/watch?v=5CetKsco2RU",
-      "youtube_id": "5CetKsco2RU",
-      "source_page": "https://www.youtube.com/watch?v=5CetKsco2RU",
-      "source_name": "YouTube",
-      "credit": "AP Archive",
-      "licence": "YouTube, embedded only (standard YouTube licence)",
-      "licence_url": "https://www.youtube.com/static?template=terms",
-      "hosting": "embed",
-      "caption": "AP Archive report from 24 July 2025: firefighters in Cyprus battle a huge fire, and international aid is on the way.",
-      "illustrates": [
-        "c1",
-        "c2",
-        "c13"
-      ]
-    },
-    {
-      "id": "m7",
-      "kind": "video",
-      "url": "https://www.youtube.com/watch?v=pk9_76EU_4Q",
-      "youtube_id": "pk9_76EU_4Q",
-      "source_page": "https://www.youtube.com/watch?v=pk9_76EU_4Q",
-      "source_name": "YouTube",
-      "credit": "Breaking News",
-      "licence": "YouTube, embedded only (standard YouTube licence)",
-      "licence_url": "https://www.youtube.com/static?template=terms",
-      "hosting": "embed",
-      "caption": "News report that Greece, the United Kingdom and Israel are helping to put out the deadly fire in Cyprus.",
-      "illustrates": [
-        "c59"
-      ],
-      "spoken": "en",
-      "audio_tracks": [
-        "en"
-      ]
-    },
-    {
-      "id": "m8",
-      "kind": "video",
-      "url": "https://www.youtube.com/watch?v=azgqLitrEgQ",
-      "youtube_id": "azgqLitrEgQ",
-      "source_page": "https://www.youtube.com/watch?v=azgqLitrEgQ",
-      "source_name": "YouTube",
-      "credit": "Ministry of National Security",
-      "licence": "YouTube, embedded only (standard YouTube licence)",
-      "licence_url": "https://www.youtube.com/static?template=terms",
-      "hosting": "embed",
-      "caption": "Video by the Ministry of National Security on the end of Operation \"Wings of Fire\": the firefighting aircraft of the Israeli delegation landed in Israel.",
-      "illustrates": [
-        "c46"
-      ]
-    },
-    {
-      "id": "m9",
-      "kind": "video",
-      "url": "https://www.youtube.com/watch?v=UtbX_fYSCKA",
-      "youtube_id": "UtbX_fYSCKA",
-      "source_page": "https://www.youtube.com/watch?v=UtbX_fYSCKA",
-      "source_name": "YouTube",
-      "credit": "Kol Dodi Dofek",
-      "licence": "YouTube, embedded only (standard YouTube licence)",
-      "licence_url": "https://www.youtube.com/static?template=terms",
-      "hosting": "embed",
-      "caption": "Report on the huge fires in Cyprus and on the sending of firefighting aircraft from Israel, under the headline \"The worst fire in the history of Cyprus\".",
-      "illustrates": []
-    },
-    {
-      "id": "m10",
-      "kind": "video",
-      "url": "https://www.youtube.com/watch?v=O8mB4nz-fnk",
-      "youtube_id": "O8mB4nz-fnk",
-      "source_page": "https://www.youtube.com/watch?v=O8mB4nz-fnk",
-      "source_name": "YouTube",
-      "credit": "Otzma Yehudit",
-      "licence": "YouTube, embedded only (standard YouTube licence)",
-      "licence_url": "https://www.youtube.com/static?template=terms",
-      "hosting": "embed",
-      "caption": "Video by the Otzma Yehudit party on the meeting of the Minister of National Security with the Cypriot Justice Minister, as part of the Israeli delegation's assistance.",
-      "illustrates": []
-    },
-    {
-      "id": "m12",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/A%40a%20moutagiaka%20village%2011%20limassol%20cyprus%20-%20panoramio.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:A%40a_moutagiaka_village_11_limassol_cyprus_-_panoramio.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "An. Antoniou",
-      "licence": "CC BY-SA 3.0",
-      "hosting": "hotlink",
-      "caption": "Houses in a village in the Limassol district, among trees and dry hills",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-      "date": "Taken on 1",
-      "width": 1024,
-      "height": 768,
-      "role": "related"
-    },
-    {
-      "id": "m13",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/A%40a%20moutagiaka%20village%2014%20limassol%20cyprus%20-%20panoramio.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:A%40a_moutagiaka_village_14_limassol_cyprus_-_panoramio.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "An. Antoniou",
-      "licence": "CC BY-SA 3.0",
-      "hosting": "hotlink",
-      "caption": "A hill with dry vegetation and a house at its edge, in the Limassol district",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-      "date": "Taken on 1",
-      "width": 1024,
-      "height": 691,
-      "role": "related"
-    },
-    {
-      "id": "m16",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/A%40a%20Trimiklini%20village%20limassol%20cyprus%20-%20panoramio.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:A%40a_Trimiklini_village_limassol_cyprus_-_panoramio.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "An. Antoniou",
-      "licence": "CC BY-SA 3.0",
-      "hosting": "hotlink",
-      "caption": "A street in the village of Trimikli, with a church with a red dome and stone houses",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-      "date": "Taken on 8",
-      "width": 1024,
-      "height": 689,
-      "role": "related"
-    },
-    {
-      "id": "m17",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/A%40a%20agios%20theodoros%20area%20limassol%20cy%20-%20panoramio%20%283%29.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:A%40a_agios_theodoros_area_limassol_cy_-_panoramio_%283%29.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "An. Antoniou",
-      "licence": "CC BY-SA 3.0",
-      "hosting": "hotlink",
-      "caption": "A winding road between hills with shrubland in Limassol District, in the Agios Theodoros area",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-      "date": "Taken on 6",
-      "width": 1024,
-      "height": 686,
-      "role": "related"
-    },
-    {
-      "id": "m18",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/A%40a%20Kourris%20dam%20limassol%20cy%20-%20panoramio%20%284%29.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:A%40a_Kourris_dam_limassol_cy_-_panoramio_%284%29.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "An. Antoniou",
-      "licence": "CC BY-SA 3.0",
-      "hosting": "hotlink",
-      "caption": "A valley with hills covered in dry vegetation and dirt roads in the Kouris Dam area of Limassol District",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-      "date": "Taken on 8",
-      "width": 1024,
-      "height": 768,
-      "role": "related"
-    },
-    {
-      "id": "m19",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/A%40a%20moutagiaka%20village%2010%20limassol%20cyprus%20-%20panoramio.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:A%40a_moutagiaka_village_10_limassol_cyprus_-_panoramio.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "An. Antoniou",
-      "licence": "CC BY-SA 3.0",
-      "hosting": "hotlink",
-      "caption": "White houses and power lines in the village of Mouttagiaka in Limassol District, with hills and fields on the horizon",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-      "date": "Taken on 1",
-      "width": 1024,
-      "height": 768,
-      "role": "related"
-    },
-    {
-      "id": "m22",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Agios%20Amvrosios%2C%20Cyprus%20-%20panoramio.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Agios_Amvrosios%2C_Cyprus_-_panoramio.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "z-pinch",
-      "licence": "CC BY-SA 3.0",
-      "hosting": "hotlink",
-      "caption": "A green valley view with trees and house roofs, according to the archive title in the Agios Amvrosios area",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-      "date": "Taken on 5",
-      "width": 3264,
-      "height": 2448,
-      "role": "related"
-    },
-    {
-      "id": "m24",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Artemis%20Nature%20Trail%20-%20panoramio.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Artemis_Nature_Trail_-_panoramio.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Dmitry Panov",
-      "licence": "CC BY 3.0",
-      "hosting": "hotlink",
-      "caption": "A view of mountains forested with pine trees and a winding road in the Troodos Mountains of Limassol District",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by/3.0",
-      "date": "21 May 201",
-      "width": 1920,
-      "height": 1280,
-      "role": "related"
-    },
-    {
-      "id": "m25",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Artemis%20Nature%20Trail%2C%20Cyprus%20-%20panoramio%20%2820%29.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Artemis_Nature_Trail%2C_Cyprus_-_panoramio_%2820%29.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Dmitry Panov",
-      "licence": "CC BY 3.0",
-      "hosting": "hotlink",
-      "caption": "A tall pine tree in a forest in the Troodos Mountains, with a wooden sign beside it",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by/3.0",
-      "date": "Taken on 1",
-      "width": 3758,
-      "height": 5637,
-      "role": "related"
-    }
-  ],
-  "check": {
-    "passed": true,
-    "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
-    "checked_at": "2026-11-21T12:42:46Z",
-    "counts": {
-      "confirmed": 71,
-      "not_confirmed": 0,
-      "deleted_sentences": 4,
-      "first_round_confirmed": 70,
-      "first_round_contradicted": 1,
-      "first_round_unverifiable": 4
-    },
-    "note": "unverifiable sentences were deleted, contradicted ones fixed from the source and checked again"
+ "schema": "maasei-museum/1",
+ "slug": "israel-jordan-egypt-cyprus-wildfire",
+ "deed": "ישראל, ירדן ומצרים סייעו יחד בכיבוי השרפה הקטלנית בקפריסין",
+ "canonical_type": "rescue-operation",
+ "year": "2025",
+ "title": "Israel, Jordan and Egypt sent planes and helicopters to fight the deadly wildfire in Cyprus",
+ "trailer": [
+  {
+   "text": "According to Devdiscourse, Jordan, Egypt, Israel, Spain and Greece swiftly dispatched aircraft and personnel to Cyprus, in a joint international effort against the fire.",
+   "claims": [
+    "c62"
+   ]
   },
-  "meta": {
-    "run": "israel-jordan-egypt-cyprus-wildfire",
-    "pipeline": "scripts/museum/museum_line.py",
-    "models": {
-      "research": "sonnet-5-5",
-      "extract": "sonnet-5-5",
-      "media": "sonnet-5-5",
-      "write": "opus-5-5 medium",
-      "check": "opus-5-5 medium",
-      "fix": "opus-5-5 medium"
-    },
-    "source_quality": {
-      "sources": 9,
-      "wikipedia": 1,
-      "strong": 8,
-      "ok": true,
-      "warnings": []
-    },
-    "media_dedupe": [
-      {
-        "drop": "m11",
-        "keep": "m1",
-        "by": "reviewed 24.11"
-      },
-      {
-        "drop": "m20",
-        "keep": "m12",
-        "by": "reviewed 24.11"
-      }
-    ]
+  {
+   "text": "On 23 July 2025, during a severe heatwave, a fire broke out near the village of Malia in the Limassol district, and it claimed the lives of two people.",
+   "claims": [
+    "c1",
+    "c64",
+    "c65",
+    "c66"
+   ]
   },
-  "lang": "en",
-  "translation": {
-    "from": "he",
-    "translator": "claude-opus-5-5",
-    "checker": "claude-opus-5-5 (separate call, blind to the translation prompt)",
-    "checked_at": "2026-11-21T13:51:45Z",
-    "passed": true,
-    "items": 115,
-    "pairs_checked": 1,
-    "reused": 114,
-    "first_round_flagged": 0,
-    "still_flagged": 0,
-    "flagged": [],
-    "quote_translations": {}
+  {
+   "text": "According to the government spokesman, four Jordanian aircraft and two Egyptian helicopters were already on the island, and two planes from Israel were due to arrive.",
+   "claims": [
+    "c6"
+   ]
+  },
+  {
+   "text": "Two Israeli C-130 aircraft were to make water drops at night.",
+   "claims": [
+    "c19"
+   ]
+  },
+  {
+   "text": "Until sunset, a total of 13 firefighting aircraft made water drops.",
+   "claims": [
+    "c29"
+   ]
   }
+ ],
+ "hero_media": [
+  "m5",
+  "m4",
+  "m3",
+  "m1",
+  "m18",
+  "m24"
+ ],
+ "glance": [
+  {
+   "label": "Where",
+   "value": "Near the village of Malia, Limassol district, Cyprus",
+   "claims": [
+    "c67"
+   ]
+  },
+  {
+   "label": "Who helped",
+   "value": "Jordan, Egypt, Israel, Spain, Greece, United Kingdom",
+   "claims": [
+    "c62",
+    "c69",
+    "c70",
+    "c71"
+   ]
+  },
+  {
+   "label": "From Israel",
+   "value": "Two C-130 aircraft for night water drops",
+   "claims": [
+    "c19"
+   ]
+  },
+  {
+   "label": "On the ground",
+   "value": "More than 250 firefighters, 75 fire engines, 14 aircraft",
+   "claims": [
+    "c4"
+   ]
+  }
+ ],
+ "stations": [
+  {
+   "id": "s1",
+   "title": "Fire breaks out near Malia",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "That Wednesday, the temperature in Cyprus reached 43 degrees, and an amber weather alert was issued.",
+      "claims": [
+       "c54"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "Cyprus has been suffering from a protracted drought, which has brought water resources down to very low levels.",
+      "claims": [
+       "c55"
+      ]
+     },
+     {
+      "text": "According to the government spokesman, very strong winds, heat and extreme dryness after three winters with little rain created a \"perfect storm\".",
+      "claims": [
+       "c5"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "The Ministry of Interior ordered immediate evacuations along a 14 km stretch of mountainous area.",
+      "claims": [
+       "c48"
+      ]
+     },
+     {
+      "text": "According to AP, on Wednesday the fire forced the evacuation of at least 14 villages.",
+      "claims": [
+       "c13"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m5",
+    "m13",
+    "m17"
+   ],
+   "disagreements": [
+    "d2",
+    "d5"
+   ]
+  },
+  {
+   "id": "s2",
+   "title": "Two dead and burned villages",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "The two dead, an elderly couple, were found in a burned-out car on the road between the villages of Monagri and Alassa.",
+      "claims": [
+       "c20"
+      ]
+     },
+     {
+      "text": "Police were still trying to identify their remains.",
+      "claims": [
+       "c9"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "In the village of Lofou, at least 20 homes were destroyed, as the fire threatened a group of stranded evacuees trying to flee.",
+      "claims": [
+       "c14"
+      ]
+     },
+     {
+      "text": "A rescue operation by the police and the National Guard for 36 residents of Lofou did not succeed.",
+      "claims": [
+       "c34"
+      ]
+     },
+     {
+      "text": "According to the village head, the residents travelled in a police minibus, encountered a wall of fire and were forced to turn back to Lofou.",
+      "claims": [
+       "c35"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "An electricity company substation in the area was completely destroyed, and at dawn on Thursday 15 villages were without electricity.",
+      "claims": [
+       "c37",
+       "c38"
+      ]
+     },
+     {
+      "text": "Cypriot President Christodoulides said there had never been anything like this in Cyprus.",
+      "claims": [
+       "c3"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m1",
+    "m3",
+    "m12",
+    "m19"
+   ],
+   "disagreements": [
+    "d1",
+    "d3"
+   ]
+  },
+  {
+   "id": "s3",
+   "title": "Cyprus fights the fire",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "According to the government spokesman, more than 250 firefighters, 75 fire engines and 14 aircraft were working to contain the flames.",
+      "claims": [
+       "c4"
+      ]
+     },
+     {
+      "text": "Alongside the fire department, the forestry department, Civil Defence and the Limassol district local government authority were operating, assisted by organised groups and volunteers.",
+      "claims": [
+       "c26"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "Private companies provided fuel for the aircraft free of charge, as well as other supplies for fighting the fire.",
+      "claims": [
+       "c25"
+      ]
+     },
+     {
+      "text": "The President visited the command centre in Ayios Efraim, and called on residents to follow evacuation instructions.",
+      "claims": [
+       "c49"
+      ]
+     },
+     {
+      "text": "He said the situation was very difficult, the fire front was huge and all forces had been mobilised.",
+      "claims": [
+       "c53"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m4",
+    "m25"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s4",
+   "title": "Neighbours send help",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "According to the European Commission, Cyprus requested firefighting assistance through the EU Civil Protection Mechanism.",
+      "claims": [
+       "c57"
+      ]
+     },
+     {
+      "text": "According to AP, aircraft from Jordan, Israel, Lebanon and Spain were on their way on Thursday.",
+      "claims": [
+       "c1"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to the government spokesman, four Jordanian aircraft and two Egyptian helicopters were already on the island.",
+      "claims": [
+       "c6"
+      ]
+     },
+     {
+      "text": "Egyptian Petroleum Minister Karim Badawi, who was visiting Cyprus, said that two specialised helicopters would arrive, to show that his country is a strategic and reliable partner.",
+      "claims": [
+       "c8"
+      ]
+     },
+     {
+      "text": "According to Al Jazeera, a British Chinook helicopter based in Cyprus also assisted.",
+      "claims": [
+       "c52"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to Devdiscourse, Jordan, Egypt, Israel, Spain and Greece swiftly sent aircraft and personnel in a joint international effort.",
+      "claims": [
+       "c62"
+      ]
+     },
+     {
+      "text": "Until sunset, 13 firefighting aircraft made water drops.",
+      "claims": [
+       "c29"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m6",
+    "m7"
+   ],
+   "disagreements": [
+    "d4"
+   ]
+  },
+  {
+   "id": "s5",
+   "title": "The planes from Israel fly at night",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "According to Anadolu, Israel confirmed it would provide aerial assistance under the direction of Foreign Minister Gideon Saar, and the aircraft were scheduled to depart on Thursday evening.",
+      "claims": [
+       "c46"
+      ]
+     },
+     {
+      "text": "According to the Cypriot government spokesman, two planes from Israel were due to arrive.",
+      "claims": [
+       "c6"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "These were two C-130 aircraft, which were to make water drops at night.",
+      "claims": [
+       "c19"
+      ]
+     },
+     {
+      "text": "According to Christodoulides, the Israeli planes could also be used at night.",
+      "claims": [
+       "c7"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m9",
+    "m8",
+    "m10"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s6",
+   "title": "After the fire: evacuees and rebuilding",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "According to Justice Minister Hartsiotis, evacuees from the affected communities were housed in temporary shelters.",
+      "claims": [
+       "c12"
+      ]
+     },
+     {
+      "text": "Cyprus Red Cross volunteers distributed basic necessities in Ayios Ambrosios, Pachna, Trimikli and Episkopi.",
+      "claims": [
+       "c28"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "The government pledged immediate financial support to community councils, full restoration of property damage, temporary housing and basic necessities.",
+      "claims": [
+       "c27"
+      ]
+     },
+     {
+      "text": "Christodoulides promised help to people who lost their livelihood, and to property owners to rebuild their homes.",
+      "claims": [
+       "c15"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "Antonis Christou, 67, from the village of Kantou, said he cried because the world was on fire.",
+      "claims": [
+       "c16"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m16",
+    "m22"
+   ],
+   "disagreements": [
+    "d6"
+   ]
+  },
+  {
+   "id": "s7",
+   "title": "Criticism of the response",
+   "kind": "hard",
+   "paragraphs": [
+    [
+     {
+      "text": "Some locals accused the authorities of a slow response.",
+      "claims": [
+       "c24"
+      ]
+     },
+     {
+      "text": "The head of the village of Souni-Zanakia said fire engines began arriving when the fire had already burned half the village.",
+      "claims": [
+       "c39"
+      ]
+     },
+     {
+      "text": "According to Al Jazeera, residents vented their anger at what they called a disorganised response.",
+      "claims": [
+       "c50"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "The government spokesman rejected the criticism, saying that fire crews had responded quickly and that all firefighting protocols had been activated from the start.",
+      "claims": [
+       "c11"
+      ]
+     },
+     {
+      "text": "The Justice Minister said everything possible under the circumstances had been done and that this was not the time to assign blame.",
+      "claims": [
+       "c42"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to Anadolu, Greece also faced criticism for a delayed response.",
+      "claims": [
+       "c47"
+      ]
+     },
+     {
+      "text": "The Justice Minister explained that fires in Greece limited its ability to assist.",
+      "claims": [
+       "c47"
+      ]
+     }
+    ]
+   ],
+   "media": [],
+   "disagreements": []
+  }
+ ],
+ "disagreements": [
+  {
+   "id": "d1",
+   "question": "How much land burned?",
+   "versions": [
+    {
+     "says": "According to AP, more than 120 sq km",
+     "claims": [
+      "c2"
+     ]
+    },
+    {
+     "says": "According to Cyprus Mail, about 120 sq km",
+     "claims": [
+      "c31"
+     ]
+    },
+    {
+     "says": "According to a fire service spokesman, about 100 sq km",
+     "claims": [
+      "c36"
+     ]
+    },
+    {
+     "says": "According to Al Jazeera, about 100 sq km",
+     "claims": [
+      "c51"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d2",
+   "question": "When on Wednesday did the fire start?",
+   "versions": [
+    {
+     "says": "According to the government spokesman, around noon",
+     "claims": [
+      "c17"
+     ]
+    },
+    {
+     "says": "According to Cyprus Mail, in the afternoon",
+     "claims": [
+      "c40"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d3",
+   "question": "How many were injured?",
+   "versions": [
+    {
+     "says": "According to health authorities, seven were treated in hospitals, two of them for burns",
+     "claims": [
+      "c32",
+      "c10"
+     ]
+    },
+    {
+     "says": "According to Cyprus Mail, about 10 are known so far to have been injured",
+     "claims": [
+      "c41"
+     ]
+    },
+    {
+     "says": "According to Anadolu, 26 were injured: 10 firefighters and 16 residents",
+     "claims": [
+      "c44"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d4",
+   "question": "What did Jordan and Egypt send: planes or helicopters?",
+   "versions": [
+    {
+     "says": "According to the government spokesman, four Jordanian aircraft and two Egyptian helicopters",
+     "claims": [
+      "c6"
+     ]
+    },
+    {
+     "says": "According to Cyprus Mail, four aircraft from Jordan and two firefighting aircraft from Egypt",
+     "claims": [
+      "c18"
+     ]
+    },
+    {
+     "says": "According to Al Jazeera, Jordan sent helicopters",
+     "claims": [
+      "c52"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d5",
+   "question": "Was the fire set deliberately or caused by accident?",
+   "versions": [
+    {
+     "says": "According to the fire chief, eyewitnesses reported that the fire was started deliberately at two points near Malia",
+     "claims": [
+      "c21"
+     ]
+    },
+    {
+     "says": "The community leader of Malia said arson was likely, because a fire had been set at the same spot about two weeks earlier",
+     "claims": [
+      "c22"
+     ]
+    },
+    {
+     "says": "A later investigation by an American team concluded that the fire was probably caused by a carelessly discarded cigarette, and it was classified as an accident",
+     "claims": [
+      "c76",
+      "c77"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d6",
+   "question": "How many evacuees were housed?",
+   "versions": [
+    {
+     "says": "According to the Justice Minister, 100 people",
+     "claims": [
+      "c12"
+     ]
+    },
+    {
+     "says": "According to the Civil Defence spokesman, about 80 people stayed overnight",
+     "claims": [
+      "c30"
+     ]
+    },
+    {
+     "says": "The Justice Minister told CyBC radio that the number stood at 106",
+     "claims": [
+      "c33"
+     ]
+    }
+   ]
+  }
+ ],
+ "unknowns": [],
+ "claims": [
+  {
+   "id": "c62",
+   "text": "לפי Devdiscourse, ירדן, מצרים, ישראל, ספרד ויוון שלחו במהירות כלי טיס ואנשי צוות במאמץ בינלאומי משותף.",
+   "source": "src1",
+   "quote": "Jordan, Egypt, Israel, Spain, and Greece swiftly dispatched aircraft and personnel, highlighting a collaborative international effort against the blaze.",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c1",
+   "text": "לפי AP, מטוסים מירדן, מישראל, מלבנון ומספרד היו בדרכם ביום חמישי לסייע בכיבוי שרפה גדולה בקפריסין שגבתה את חייהם של שני בני אדם.",
+   "source": "src3",
+   "quote": "Aircraft from Jordan, Israel, Lebanon and Spain were on their way Thursday to help battle a huge wildfire in Cyprus that has claimed the lives of two people.",
+   "status": "confirmed",
+   "locator": "שורה 26"
+  },
+  {
+   "id": "c6",
+   "text": "לפי דובר הממשלה, ארבעה מטוסים ירדניים ושני מסוקים מצריים כבר היו באי, ושני מטוסים מישראל, שניים מספרד ושניים מלבנון עמדו להגיע.",
+   "source": "src3",
+   "quote": "Letymbiotis said that four Jordanian fixed-wing aircraft and two Egyptian helicopters are already on the island while two planes from Israel, a pair from Spain and two more from Lebanon would be arriving",
+   "status": "confirmed",
+   "locator": "שורה 37"
+  },
+  {
+   "id": "c19",
+   "text": "שני מטוסי C-130 ישראליים שעמדו להגיע אמורים היו לבצע הטלות מים בשעות הלילה.",
+   "source": "src4",
+   "quote": "The two arriving Israeli C-130 aircraft would make nighttime air drops.",
+   "status": "confirmed",
+   "locator": "שורה 29"
+  },
+  {
+   "id": "c29",
+   "text": "בסך הכול 13 כלי טיס לכיבוי ביצעו הטלות מים עד שקיעת החמה.",
+   "source": "src4",
+   "quote": "In total, 13 firefighting aircraft were making airdrops until the sun went down.",
+   "status": "confirmed",
+   "locator": "שורה 15"
+  },
+  {
+   "id": "c4",
+   "text": "לפי דובר הממשלה, יותר מ-250 כבאים, 75 כלי כיבוי ו-14 כלי טיס פעלו לבלום את הלהבות.",
+   "source": "src3",
+   "quote": "More than 250 firefighters, 75 engines and 14 aircraft were working to contain the flames, government spokesman Constantinos Letymbiotis said.",
+   "status": "confirmed",
+   "locator": "שורה 30"
+  },
+  {
+   "id": "c54",
+   "text": "הטמפרטורה בקפריסין הגיעה ל-43 מעלות ביום רביעי והופעלה אזהרת מזג אוויר כתומה.",
+   "source": "src5",
+   "quote": "Temperatures on the island reached 43 degrees Centigrade (109.4 Fahrenheit) on Wednesday, triggering an amber weather alert.",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c55",
+   "text": "קפריסין סובלת מבצורת ממושכת שהורידה את משאבי המים לרמות נמוכות מאוד.",
+   "source": "src5",
+   "quote": "Cyprus has struggled with a protracted drought, pushing scarce water resources to critically low levels.",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c5",
+   "text": "לפי דובר הממשלה, רוחות חזקות מאוד, טמפרטורות גבוהות ותנאי יובש קיצוני אחרי שלושה חורפים עם מעט גשם יצרו \"סערה מושלמת\".",
+   "source": "src3",
+   "quote": "Very strong winds, high temperatures and very arid conditions after three winters of minimal rainfall created a perfect storm",
+   "status": "confirmed",
+   "locator": "שורה 31"
+  },
+  {
+   "id": "c48",
+   "text": "משרד הפנים הורה על פינוי מיידי לאורך רצועה הררית של 14 ק\"מ.",
+   "source": "src6",
+   "quote": "The Ministry of Interior mandated immediate evacuations throughout a 14km (8.7 miles) stretch of mountainous area.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c13",
+   "text": "לפי AP, השרפה אילצה ביום רביעי פינוי של לפחות 14 כפרים.",
+   "source": "src3",
+   "quote": "The fire on Wednesday had forced the evacuation of at least 14 villages as media reports showed gutted homes smoldering.",
+   "status": "confirmed",
+   "locator": "שורה 46"
+  },
+  {
+   "id": "c20",
+   "text": "שני המתים, זוג קשישים, נמצאו במכונית שרופה בכביש בין הכפרים מונגרי ואלסה.",
+   "source": "src4",
+   "quote": "The two who died, an elderly couple, were found in a burnt-out car on the road between the villages of Monagri and Alassa.",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c9",
+   "text": "המשטרה ניסתה עדיין לזהות את שרידיהם הפחוחים של שני בני אדם שנמצאו במכונית שרופה בשולי כביש מונגרי-אלסה.",
+   "source": "src3",
+   "quote": "Police were still trying to identify the charred remains of two people who were found inside a burned-out car on the shoulder of the main Monagri-Alassa road.",
+   "status": "confirmed",
+   "locator": "שורה 40"
+  },
+  {
+   "id": "c14",
+   "text": "בכפר לופו נהרסו לפחות 20 בתים בשעה שהאש איימה על קבוצת מפונים תקועים שניסו להימלט.",
+   "source": "src3",
+   "quote": "In the village of Lofou, at least 20 homes were destroyed as fires threatened a group of stranded evacuees trying to flee.",
+   "status": "confirmed",
+   "locator": "שורה 46"
+  },
+  {
+   "id": "c34",
+   "text": "מבצע חילוץ של המשטרה והמשמר הלאומי ל-36 תושבי לופו לא צלח.",
+   "source": "src7",
+   "quote": "Not all evacuation attempts were successful, however, with a rescue operation launched by the police and the national guard to extract 36 residents of the village of Lofou",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c35",
+   "text": "לדברי ראש הכפר לופו, התושבים נסעו במיניבוס משטרתי, פגשו חומת אש ונאלצו לחזור ללופו.",
+   "source": "src7",
+   "quote": "where they “encountered a wall of fire” and were forced to turn back to Lofou.",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c37",
+   "text": "לדברי דוברת חברת החשמל, אושר שתחנת משנה באזור נהרסה כליל בשרפה.",
+   "source": "src7",
+   "quote": "it had been confirmed that a substation in the area had been completely destroyed by the fire.",
+   "status": "confirmed",
+   "locator": "שורה 28"
+  },
+  {
+   "id": "c38",
+   "text": "עם שחר ביום חמישי היו 15 כפרים ללא חשמל, וגם חלק מהפרבר איפסונאס.",
+   "source": "src7",
+   "quote": "As of dawn on Thursday, a total of 15 villages were without electricity, while part of the Limassol suburb of Ypsonas was also without power.",
+   "status": "confirmed",
+   "locator": "שורה 31"
+  },
+  {
+   "id": "c3",
+   "text": "נשיא קפריסין כריסטודולידס אמר שמעולם לא היה בקפריסין דבר כזה.",
+   "source": "src3",
+   "quote": "There's never been anything like this before in Cyprus.",
+   "status": "confirmed",
+   "locator": "שורה 29"
+  },
+  {
+   "id": "c26",
+   "text": "לצד מכבי האש פעלו אנשי מחלקת היערות, ההגנה האזרחית והרשות המקומית של מחוז לימסול, בסיוע קבוצות מאורגנות ומתנדבים.",
+   "source": "src4",
+   "quote": "Operating alongside the fire department were personnel from the forestry department, Civil Defence, the Limassol district local government authority, assisted by organised groups and volunteers.",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c25",
+   "text": "חברות פרטיות סייעו בכך שסיפקו דלק למטוסים בחינם וכן אספקה נוספת למאבק באש.",
+   "source": "src4",
+   "quote": "Private companies were meantime pitching in, providing fuel for the aircraft free of charge, as well as other supplies needed to combat the fires.",
+   "status": "confirmed",
+   "locator": "שורה 16"
+  },
+  {
+   "id": "c49",
+   "text": "הנשיא כריסטודולידס ביקר במרכז הפיקוד באגיוס אפרים וקרא לתושבים להישמע להוראות הפינוי.",
+   "source": "src6",
+   "quote": "President Nikos Christodoulides visited the command centre in Ayios Efraim and implored residents to heed evacuation directives.",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c53",
+   "text": "נשיא קפריסין אמר שהמצב קשה מאוד, חזית האש עצומה וכל הכוחות גויסו.",
+   "source": "src5",
+   "quote": "The situation is very difficult and the fire front is huge. All forces have been mobilized",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c57",
+   "text": "לפי הנציבות האירופית, הרשויות בקפריסין ביקשו סיוע כיבוי דרך מנגנון ההגנה האזרחית של האיחוד האירופי.",
+   "source": "src8",
+   "quote": "Following a major fire in the Limassol district of Cyprus, the authorities have requested firefighting assistance through the EU Civil Protection Mechanism.",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c8",
+   "text": "שר הנפט המצרי כרים בדאווי, שביקר בקפריסין, אמר ששני מסוקים מיוחדים יגיעו לקפריסין כדי להראות שמדינתו היא שותפה אסטרטגית ואמינה.",
+   "source": "src3",
+   "quote": "said that two “specialized helicopters” would be arriving in Cyprus later Thursday to demonstrate that his country is a “strategic, reliable partner” to Cyprus.",
+   "status": "confirmed",
+   "locator": "שורה 39"
+  },
+  {
+   "id": "c52",
+   "text": "לפי אל-ג'זירה, ספרד שלחה שני מטוסי כיבוי, ירדן שלחה מסוקים, ומסוק צ'ינוק בריטי מקפריסין סייע גם הוא.",
+   "source": "src6",
+   "quote": "Spain is dispatching two firefighting planes, while Jordan has sent helicopters, and a British RAF Chinook based in Cyprus is providing additional support.",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c46",
+   "text": "לפי אנאדולו, ישראל אישרה שתספק סיוע אווירי בהנחיית שר החוץ גדעון סער, ומטוסים אמורים היו לצאת ביום חמישי בערב.",
+   "source": "src9",
+   "quote": "Israel confirmed it would provide aerial assistance under the direction of Foreign Minister Gideon Saar, with aid aircraft scheduled to depart on Thursday evening.",
+   "status": "confirmed",
+   "locator": "שורה 13"
+  },
+  {
+   "id": "c7",
+   "text": "לפי כריסטודולידס, אפשר היה להפעיל את המטוסים הישראליים בשעות הלילה.",
+   "source": "src3",
+   "quote": "The Israeli planes could be used at nighttime because",
+   "status": "confirmed",
+   "locator": "שורה 37"
+  },
+  {
+   "id": "c12",
+   "text": "לפי שר המשפטים הרציוטיס, 100 בני אדם שפונו מהיישובים שנפגעו אוכסנו במקלטים זמניים.",
+   "source": "src3",
+   "quote": "Justice Minister Marios Hartsiotis said that 100 people who were evacuated from fire-hit communities were being hosted in temporary shelters.",
+   "status": "confirmed",
+   "locator": "שורה 44"
+  },
+  {
+   "id": "c28",
+   "text": "הצלב האדום הקפריסאי הודיע שמתנדביו חילקו צרכי יסוד באגיוס אמברוסיוס, פאחנה, טרימיקלי ואפיסקופי.",
+   "source": "src4",
+   "quote": "The Cyprus Red Cross (CRC) said its volunteers were distributing basic necessities in Ayios Ambrosios, Pachna, Trimikli and Episkopi.",
+   "status": "confirmed",
+   "locator": "שורה 37"
+  },
+  {
+   "id": "c27",
+   "text": "הממשלה התחייבה לתמיכה כספית מיידית למועצות הקהילה לצרכי חירום, לשיקום מלא של נזקי רכוש, לדיור זמני ולצרכי יסוד.",
+   "source": "src4",
+   "quote": "The government pledged immediate financial support to community councils to meet emergency needs, fully restore property damage, support temporary housing, and cover basic necessities.",
+   "status": "confirmed",
+   "locator": "שורה 33"
+  },
+  {
+   "id": "c15",
+   "text": "כריסטודולידס חזר והבטיח סיוע לאנשים שאיבדו את פרנסתם ולבעלי נכסים לבנות מחדש את בתיהם השרופים.",
+   "source": "src3",
+   "quote": "He reaffirmed a government pledge to help people who lost their livelihood, and property owners to rebuild their gutted homes.",
+   "status": "confirmed",
+   "locator": "שורה 33"
+  },
+  {
+   "id": "c16",
+   "text": "תושב הכפר קנטו, אנטוניס כריסטו בן ה-67, סיפר שבכה כי העולם בער.",
+   "source": "src3",
+   "quote": "I cried, honestly I cried, because the world was on fire",
+   "status": "confirmed",
+   "locator": "שורה 35"
+  },
+  {
+   "id": "c24",
+   "text": "14 קהילות פונו, וחלק מהמקומיים האשימו את הרשויות בתגובה איטית.",
+   "source": "src4",
+   "quote": "As of the last count, fourteen communities had to be evacuated, with some locals accusing authorities of a slow response time.",
+   "status": "confirmed",
+   "locator": "שורה 22"
+  },
+  {
+   "id": "c39",
+   "text": "ראש הכפר סוני-זנקיה מתח ביקורת על הרשויות ואמר שכלי כיבוי החלו להגיע כשהאש כבר שרפה חצי מהכפר.",
+   "source": "src7",
+   "quote": "offered more criticism for the authorities, saying that “fire engines started coming to Souni when the fire had burnt half the village”",
+   "status": "confirmed",
+   "locator": "שורה 35"
+  },
+  {
+   "id": "c50",
+   "text": "לפי אל-ג'זירה, תושבים זעמו על מה שכינו תגובה לא מאורגנת לשרפה, והמשטרה המשיכה לחסום גישה ליישובים.",
+   "source": "src6",
+   "quote": "Police continued to block road access to the fire-affected communities as residents vented against what they called a disorganised response to the fire.",
+   "status": "confirmed",
+   "locator": "שורה 22"
+  },
+  {
+   "id": "c11",
+   "text": "דובר הממשלה דחה ביקורת של חלק מהתושבים ואמר שהכבאים הגיבו במהירות ושכל נהלי הכיבוי הופעלו מההתחלה.",
+   "source": "src3",
+   "quote": "Letymbiotis deflected criticism by some residents, saying that fire crews had responded quickly to calls for help and that all firefighting protocols had been activated from the first instance.",
+   "status": "confirmed",
+   "locator": "שורה 43"
+  },
+  {
+   "id": "c42",
+   "text": "שר המשפטים אמר שנעשה כל מה שאפשר בנסיבות ושאין זה הזמן להטלת אשמה.",
+   "source": "src4",
+   "quote": "Everything that could have been done under the circumstances was done. This is not the time for apportioning blame",
+   "status": "confirmed",
+   "locator": "שורה 26"
+  },
+  {
+   "id": "c47",
+   "text": "לפי אנאדולו, יוון ספגה ביקורת על תגובה מאוחרת, ושר המשפטים הסביר ששרפות ביוון הגבילו את יכולתה לסייע.",
+   "source": "src9",
+   "quote": "Greece faced criticism for its delayed response, with Greek Cypriot Justice Minister Marios Hartsioti explaining that ongoing fires in Greece limited its ability to assist.",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c2",
+   "text": "לפי AP, המשטרה חקרה דיווחים על הצתה, והשרפה שרפה יותר מ-120 קמ\"ר של גבעות מיוערות באחת השרפות הקשות שזכורות באחרונה.",
+   "source": "src3",
+   "quote": "Police were investigating reports that arsonists were to blame for the flames, which have scorched more than 120 square kilometers (46 square miles) of forested hillsides in one of the worst such blazes in recent memory.",
+   "status": "confirmed",
+   "locator": "שורה 27"
+  },
+  {
+   "id": "c31",
+   "text": "לפי Cyprus Mail, השרפה כילתה כ-120 קמ\"ר במחוז לימסול, ושני בני אדם אושרו כמתים.",
+   "source": "src4",
+   "quote": "incinerated an estimated 120 square kilometres in the Limassol district, with two people confirmed dead and at least two injured",
+   "status": "confirmed",
+   "locator": "שורה 1"
+  },
+  {
+   "id": "c36",
+   "text": "לפי דובר כבאות, השרפה שרפה כ-100 קמ\"ר של שטח.",
+   "source": "src7",
+   "quote": "He also said the fire has burned around 100 square kilometres of land",
+   "status": "confirmed",
+   "locator": "שורה 20"
+  },
+  {
+   "id": "c51",
+   "text": "לפי אל-ג'זירה, השרפה פגעה בכ-100 קמ\"ר באזור יין שמצפון ללימסול והרגה שניים.",
+   "source": "src6",
+   "quote": "A devastating wildfire in southern Cyprus has killed two people and prompted hundreds to flee as flames ravaged approximately 100 square kilometres (38 square miles)",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c17",
+   "text": "לפי דובר הממשלה, השרפה החלה בערך בצהריים ביום רביעי, והמשטרה בדקה דיווחים על הצתה.",
+   "source": "src3",
+   "quote": "Police were investigating reports that the fire, which began around noon Wednesday, was the work of arsonists, according to the government spokesman.",
+   "status": "confirmed",
+   "locator": "שורה 38"
+  },
+  {
+   "id": "c40",
+   "text": "לפי Cyprus Mail, השרפה החלה בכפר מליה ביום רביעי אחר הצהריים.",
+   "source": "src7",
+   "quote": "The fire began in the village of Malia on Wednesday afternoon",
+   "status": "confirmed",
+   "locator": "שורה 25"
+  },
+  {
+   "id": "c32",
+   "text": "לפי רשויות הבריאות, שבעה בני אדם טופלו בבתי חולים, שניים מהם בשל כוויות.",
+   "source": "src4",
+   "quote": "Health authorities said late on Thursday that seven persons were receiving treatment in hospitals – two for burns.",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c10",
+   "text": "לפי גורמי בריאות, שבעה בני אדם טופלו בשלושה בתי חולים בשל כוויות ושאיפת עשן.",
+   "source": "src3",
+   "quote": "Health officials said seven people are being treated in three hospitals for burns and smoke inhalation.",
+   "status": "confirmed",
+   "locator": "שורה 42"
+  },
+  {
+   "id": "c41",
+   "text": "לפי Cyprus Mail, כ-10 בני אדם ידועים עד כה כפצועים.",
+   "source": "src7",
+   "quote": "while around 10 people are thus far known to have been injured.",
+   "status": "confirmed",
+   "locator": "שורה 25"
+  },
+  {
+   "id": "c44",
+   "text": "לפי אנאדולו, 26 בני אדם נפצעו, בהם 10 כבאים ו-16 תושבי כפרים שפונו לבתי חולים.",
+   "source": "src9",
+   "quote": "In total, 26 people were injured in the Limassol rural fire, including 10 firefighters and 16 villagers who were taken to various hospitals for treatment.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c18",
+   "text": "לפי Cyprus Mail, מצרים שלחה שני מטוסי כיבוי וירדן ארבעה, וישראל, לבנון וספרד התחייבו לסייע באותו אופן.",
+   "source": "src4",
+   "quote": "Egypt sent two firefighting aircraft, with Jordan sending four, while Israel, Lebanon and Spain pledged to assist in the same way.",
+   "status": "confirmed",
+   "locator": "שורה 28"
+  },
+  {
+   "id": "c21",
+   "text": "לפי מפקד הכבאות ניקוס לונגינוס, עדי ראייה מסרו לרשויות שהשרפה הוצתה בכוונה בשתי נקודות נפרדות במרחק 100 מטר זו מזו ליד הכפר מליה.",
+   "source": "src4",
+   "quote": "Fire chief Nikos Longinos said eyewitnesses had informed authorities that the fire was started deliberately at two separate points, 100 metres apart, near the village of Malia.",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c22",
+   "text": "ראשת הקהילה של מליה אמרה שהצתה סבירה, כי באותו מקום הוצתה אש כשבועיים קודם ונכבתה במהירות.",
+   "source": "src4",
+   "quote": "Community leader of Malia, Marilena Athini, later said that arson was likely, as a fire had been set at the same spot about two weeks ago and was promptly extinguished.",
+   "status": "confirmed",
+   "locator": "שורה 19"
+  },
+  {
+   "id": "c30",
+   "text": "לפי דובר ההגנה האזרחית, כ-80 בני אדם אוכסנו במתקנים שהוקמו ונשארו שם ללילה.",
+   "source": "src4",
+   "quote": "around 80 people were being hosted at these facilities and would stay there overnight.",
+   "status": "confirmed",
+   "locator": "שורה 21"
+  },
+  {
+   "id": "c33",
+   "text": "שר המשפטים אמר ברדיו CyBC שמספר האנשים שהוצאו לדיור זמני עמד על 106.",
+   "source": "src7",
+   "quote": "told CyBC radio shortly before 8am that the total number of people being housed in temporary accommodation stood at 106",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c64",
+   "text": "ב-23 ביולי 2025, בזמן גל חום חמור, פרצה שרפה ליד הכפר מליה שבמחוז לימסול, והיא גבתה את חייהם של שני בני אדם.",
+   "source": "src10",
+   "quote": "The wildfire broke out around midday on Wednesday (23 July) in the village of Mallia.",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c65",
+   "text": "ב-23 ביולי 2025, בזמן גל חום חמור, פרצה שרפה ליד הכפר מליה שבמחוז לימסול, והיא גבתה את חייהם של שני בני אדם.",
+   "source": "src7",
+   "quote": "Two people have been confirmed dead.",
+   "status": "confirmed",
+   "locator": "שורה 1"
+  },
+  {
+   "id": "c66",
+   "text": "ב-23 ביולי 2025, בזמן גל חום חמור, פרצה שרפה ליד הכפר מליה שבמחוז לימסול, והיא גבתה את חייהם של שני בני אדם.",
+   "source": "src11",
+   "quote": "The fire comes amid an intense heat wave sweeping across the island.",
+   "status": "confirmed",
+   "locator": "שורה 52"
+  },
+  {
+   "id": "c67",
+   "text": "איפה: ליד הכפר מליה, מחוז לימסול, קפריסין",
+   "source": "src10",
+   "quote": "The wildfire broke out around midday on Wednesday (23 July) in the village of Mallia.",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c69",
+   "text": "מי סייע: ירדן, מצרים, ישראל, ספרד, יוון, בריטניה",
+   "source": "src3",
+   "quote": "four Jordanian fixed-wing aircraft and two Egyptian helicopters are already on the island",
+   "status": "confirmed",
+   "locator": "שורה 37"
+  },
+  {
+   "id": "c70",
+   "text": "מי סייע: ירדן, מצרים, ישראל, ספרד, יוון, בריטניה",
+   "source": "src3",
+   "quote": "Aircraft from Jordan, Israel, Lebanon and Spain were on their way Thursday",
+   "status": "confirmed",
+   "locator": "שורה 26"
+  },
+  {
+   "id": "c71",
+   "text": "מי סייע: ירדן, מצרים, ישראל, ספרד, יוון, בריטניה",
+   "source": "src12",
+   "quote": "providing firefighting assistance to the Cypriot authorities",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c76",
+   "text": "חקירה מאוחרת של צוות אמריקאי מסיקה שהשרפה נגרמה כנראה מסיגריה שהושלכה ברשלנות, וסווגה כתאונה",
+   "source": "src13",
+   "quote": "carelessly discarded cigarette coming into contact with dry vegetation",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c77",
+   "text": "חקירה מאוחרת של צוות אמריקאי מסיקה שהשרפה נגרמה כנראה מסיגריה שהושלכה ברשלנות, וסווגה כתאונה",
+   "source": "src14",
+   "quote": "The report categorises the incident as an accident and rules out other possible causes,",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  }
+ ],
+ "sources": [
+  {
+   "id": "src1",
+   "label": "Devdiscourse (Reuters), July 2025",
+   "url": "https://www.devdiscourse.com/article/science-environment/3515710-international-efforts-intensify-to-combat-cyprus-wildfire",
+   "kind": "press"
+  },
+  {
+   "id": "src3",
+   "label": "AP via KSAT, 23.7.2025",
+   "url": "https://www.ksat.com/news/world/2025/07/23/cyprus-gets-help-from-other-countries-in-battling-huge-wildfire-that-has-killed-2/",
+   "kind": "press"
+  },
+  {
+   "id": "src4",
+   "label": "Cyprus Mail, 24.7.2025",
+   "url": "https://www.cyprus-mail.com/2025/07/24/inferno-devastates-villages-in-limassol",
+   "kind": "press"
+  },
+  {
+   "id": "src5",
+   "label": "Greek Reporter, 24.7.2025",
+   "url": "https://greekreporter.com/2025/07/24/two-dead-massive-wildfire-cyprus/",
+   "kind": "press"
+  },
+  {
+   "id": "src6",
+   "label": "Al Jazeera, 24.7.2025",
+   "url": "https://www.aljazeera.com/gallery/2025/7/24/chk_deadly-cyprus-wildfire-claims-two-lives-forces-mass-evacuations",
+   "kind": "press"
+  },
+  {
+   "id": "src7",
+   "label": "Cyprus Mail, 24.7.2025",
+   "url": "https://cyprus-mail.com/2025/07/24/two-dead-as-firefighters-return-to-battle-flames",
+   "kind": "press"
+  },
+  {
+   "id": "src8",
+   "label": "European Commission, Civil Protection, 24.7.2025",
+   "url": "https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/eu-sends-firefighting-airplanes-cyprus-2025-07-24_en",
+   "kind": "official"
+  },
+  {
+   "id": "src9",
+   "label": "Anadolu Agency, 24.7.2025",
+   "url": "https://www.aa.com.tr/en/environment/2-dead-26-injured-in-largest-wildfire-in-50-years-in-greek-cyprus/3641218",
+   "kind": "press"
+  },
+  {
+   "id": "src10",
+   "label": "Sigmalive: Deadly Cyprus wildfire: What we know so far",
+   "url": "https://en.sigmalive.com/?p=25858",
+   "kind": "press"
+  },
+  {
+   "id": "src11",
+   "label": "Sigmalive: Deadly Cyprus wildfire: What we know so far",
+   "url": "https://www.ynetnews.com/environment/article/hkst7p1vee",
+   "kind": "press"
+  },
+  {
+   "id": "src12",
+   "label": "AP via KSAT: Cyprus gets help from other countries in battling huge wildfire that has killed 2",
+   "url": "https://cyprus-mail.com/2025/07/24/egypt-greece-eu-uk-send-firefighting-aircraft-to-battle-limassol-fire",
+   "kind": "press"
+  },
+  {
+   "id": "src13",
+   "label": "Euronews: Wildfire on Cyprus caused by 'carelessly discarded cigarette', ATF report finds",
+   "url": "https://www.euronews.com/2025/08/28/wildfire-on-cyprus-caused-by-carelessly-discarded-cigarette-atf-report-finds",
+   "kind": "press"
+  },
+  {
+   "id": "src14",
+   "label": "Euronews: Wildfire on Cyprus caused by 'carelessly discarded cigarette', ATF report finds",
+   "url": "https://en.sigmalive.com/cigarette-blamed-for-deadly-july-wildfire-in-limassol/",
+   "kind": "press"
+  }
+ ],
+ "media": [
+  {
+   "id": "m1",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Severe%20wildfire%20in%20southern%20Cyprus%20%28Copernicus%202025-07-26%29.png?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Severe_wildfire_in_southern_Cyprus_%28Copernicus_2025-07-26%29.png",
+   "source_name": "Wikimedia Commons",
+   "credit": "European Union, Copernicus Sentinel-3 imagery",
+   "licence": "Attribution",
+   "hosting": "hotlink",
+   "caption": "Satellite image of Cyprus with a burned area marked in the south of the island, near Limassol.",
+   "illustrates": [
+    "c31"
+   ],
+   "date": "Taken on 2",
+   "width": 4960,
+   "height": 3507
+  },
+  {
+   "id": "m3",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wildfires%20Burn%20Fiercely%20in%20Cyprus%20%28CIRA%202025-07-24%20-%20nb%20cyprusfires%20nolabels0%29.png?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Wildfires_Burn_Fiercely_in_Cyprus_%28CIRA_2025-07-24_-_nb_cyprusfires_nolabels0%29.png",
+   "source_name": "Wikimedia Commons",
+   "credit": "JPSS imagery: CSU/CIRA &amp; NOAA/NESDIS",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "Night-time satellite image of Cyprus; a large bright spot of light is visible in the south of the island.",
+   "illustrates": [],
+   "date": "Taken on 2",
+   "width": 1920,
+   "height": 1080
+  },
+  {
+   "id": "m4",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wildfires%20Burn%20Fiercely%20in%20Cyprus%20%28CIRA%202025-07-24%20-%20ayfire%20cyprusfires%20nolabels0%29.png?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Wildfires_Burn_Fiercely_in_Cyprus_%28CIRA_2025-07-24_-_ayfire_cyprusfires_nolabels0%29.png",
+   "source_name": "Wikimedia Commons",
+   "credit": "JPSS imagery: CSU/CIRA &amp; NOAA/NESDIS",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "Satellite image of Cyprus showing red points of fire in the south of the island.",
+   "illustrates": [],
+   "date": "Taken on 2",
+   "width": 1920,
+   "height": 1080
+  },
+  {
+   "id": "m5",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tree%20of%20fire%20during%20the%20Malia%20Wildfire.webp?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Tree_of_fire_during_the_Malia_Wildfire.webp",
+   "source_name": "Wikimedia Commons",
+   "credit": "Georgie1235",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "Trees burning in flames near a road during the fire in Malia, Limassol district.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2025-07-23",
+   "width": 1110,
+   "height": 1480
+  },
+  {
+   "id": "m6",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=5CetKsco2RU",
+   "youtube_id": "5CetKsco2RU",
+   "source_page": "https://www.youtube.com/watch?v=5CetKsco2RU",
+   "source_name": "YouTube",
+   "credit": "AP Archive",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "AP Archive report from 24 July 2025: firefighters in Cyprus battle a huge fire, and international aid is on the way.",
+   "illustrates": [
+    "c1",
+    "c2",
+    "c13"
+   ]
+  },
+  {
+   "id": "m7",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=pk9_76EU_4Q",
+   "youtube_id": "pk9_76EU_4Q",
+   "source_page": "https://www.youtube.com/watch?v=pk9_76EU_4Q",
+   "source_name": "YouTube",
+   "credit": "Breaking News",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "News report that Greece, the United Kingdom and Israel are helping to put out the deadly fire in Cyprus.",
+   "illustrates": [],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m8",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=azgqLitrEgQ",
+   "youtube_id": "azgqLitrEgQ",
+   "source_page": "https://www.youtube.com/watch?v=azgqLitrEgQ",
+   "source_name": "YouTube",
+   "credit": "Ministry of National Security",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "Video by the Ministry of National Security on the end of Operation \"Wings of Fire\": the firefighting aircraft of the Israeli delegation landed in Israel.",
+   "illustrates": [
+    "c46"
+   ]
+  },
+  {
+   "id": "m9",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=UtbX_fYSCKA",
+   "youtube_id": "UtbX_fYSCKA",
+   "source_page": "https://www.youtube.com/watch?v=UtbX_fYSCKA",
+   "source_name": "YouTube",
+   "credit": "Kol Dodi Dofek",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "Report on the huge fires in Cyprus and on the sending of firefighting aircraft from Israel, under the headline \"The worst fire in the history of Cyprus\".",
+   "illustrates": []
+  },
+  {
+   "id": "m10",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=O8mB4nz-fnk",
+   "youtube_id": "O8mB4nz-fnk",
+   "source_page": "https://www.youtube.com/watch?v=O8mB4nz-fnk",
+   "source_name": "YouTube",
+   "credit": "Otzma Yehudit",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "Video by the Otzma Yehudit party on the meeting of the Minister of National Security with the Cypriot Justice Minister, as part of the Israeli delegation's assistance.",
+   "illustrates": []
+  },
+  {
+   "id": "m12",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/A%40a%20moutagiaka%20village%2011%20limassol%20cyprus%20-%20panoramio.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:A%40a_moutagiaka_village_11_limassol_cyprus_-_panoramio.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "An. Antoniou",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "Houses in a village in the Limassol district, among trees and dry hills",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "Taken on 1",
+   "width": 1024,
+   "height": 768,
+   "role": "related"
+  },
+  {
+   "id": "m13",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/A%40a%20moutagiaka%20village%2014%20limassol%20cyprus%20-%20panoramio.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:A%40a_moutagiaka_village_14_limassol_cyprus_-_panoramio.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "An. Antoniou",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "A hill with dry vegetation and a house at its edge, in the Limassol district",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "Taken on 1",
+   "width": 1024,
+   "height": 691,
+   "role": "related"
+  },
+  {
+   "id": "m16",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/A%40a%20Trimiklini%20village%20limassol%20cyprus%20-%20panoramio.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:A%40a_Trimiklini_village_limassol_cyprus_-_panoramio.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "An. Antoniou",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "A street in the village of Trimikli, with a church with a red dome and stone houses",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "Taken on 8",
+   "width": 1024,
+   "height": 689,
+   "role": "related"
+  },
+  {
+   "id": "m17",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/A%40a%20agios%20theodoros%20area%20limassol%20cy%20-%20panoramio%20%283%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:A%40a_agios_theodoros_area_limassol_cy_-_panoramio_%283%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "An. Antoniou",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "A winding road between hills with shrubland in Limassol District, in the Agios Theodoros area",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "Taken on 6",
+   "width": 1024,
+   "height": 686,
+   "role": "related"
+  },
+  {
+   "id": "m18",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/A%40a%20Kourris%20dam%20limassol%20cy%20-%20panoramio%20%284%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:A%40a_Kourris_dam_limassol_cy_-_panoramio_%284%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "An. Antoniou",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "A valley with hills covered in dry vegetation and dirt roads in the Kouris Dam area of Limassol District",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "Taken on 8",
+   "width": 1024,
+   "height": 768,
+   "role": "related"
+  },
+  {
+   "id": "m19",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/A%40a%20moutagiaka%20village%2010%20limassol%20cyprus%20-%20panoramio.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:A%40a_moutagiaka_village_10_limassol_cyprus_-_panoramio.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "An. Antoniou",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "White houses and power lines in the village of Mouttagiaka in Limassol District, with hills and fields on the horizon",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "Taken on 1",
+   "width": 1024,
+   "height": 768,
+   "role": "related"
+  },
+  {
+   "id": "m22",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Agios%20Amvrosios%2C%20Cyprus%20-%20panoramio.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Agios_Amvrosios%2C_Cyprus_-_panoramio.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "z-pinch",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "A green valley view with trees and house roofs, according to the archive title in the Agios Amvrosios area",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "Taken on 5",
+   "width": 3264,
+   "height": 2448,
+   "role": "related"
+  },
+  {
+   "id": "m24",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Artemis%20Nature%20Trail%20-%20panoramio.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Artemis_Nature_Trail_-_panoramio.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Dmitry Panov",
+   "licence": "CC BY 3.0",
+   "hosting": "hotlink",
+   "caption": "A view of mountains forested with pine trees and a winding road in the Troodos Mountains of Limassol District",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/3.0",
+   "date": "21 May 201",
+   "width": 1920,
+   "height": 1280,
+   "role": "related"
+  },
+  {
+   "id": "m25",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Artemis%20Nature%20Trail%2C%20Cyprus%20-%20panoramio%20%2820%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Artemis_Nature_Trail%2C_Cyprus_-_panoramio_%2820%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Dmitry Panov",
+   "licence": "CC BY 3.0",
+   "hosting": "hotlink",
+   "caption": "A tall pine tree in a forest in the Troodos Mountains, with a wooden sign beside it",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/3.0",
+   "date": "Taken on 1",
+   "width": 3758,
+   "height": 5637,
+   "role": "related"
+  }
+ ],
+ "check": {
+  "passed": true,
+  "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
+  "checked_at": "2026-11-21T12:42:46Z",
+  "counts": {
+   "confirmed": 68,
+   "not_confirmed": 0,
+   "deleted_sentences": 4,
+   "first_round_confirmed": 70,
+   "first_round_contradicted": 1,
+   "first_round_unverifiable": 4
+  },
+  "note": "unverifiable sentences were deleted, contradicted ones fixed from the source and checked again"
+ },
+ "meta": {
+  "run": "israel-jordan-egypt-cyprus-wildfire",
+  "pipeline": "scripts/museum/museum_line.py",
+  "models": {
+   "research": "sonnet-5-5",
+   "extract": "sonnet-5-5",
+   "media": "sonnet-5-5",
+   "write": "opus-5-5 medium",
+   "check": "opus-5-5 medium",
+   "fix": "opus-5-5 medium"
+  },
+  "source_quality": {
+   "sources": 13,
+   "wikipedia": 0,
+   "strong": 8,
+   "ok": true,
+   "warnings": []
+  },
+  "media_dedupe": [
+   {
+    "drop": "m11",
+    "keep": "m1",
+    "by": "reviewed 24.11"
+   },
+   {
+    "drop": "m20",
+    "keep": "m12",
+    "by": "reviewed 24.11"
+   }
+  ],
+  "wiki_cleanup": {
+   "at": "2026-11-27T14:47:39Z",
+   "targets": 7,
+   "resourced": 4,
+   "kept_on_other_sources": 0,
+   "deleted": 3
+  }
+ },
+ "lang": "en",
+ "translation": {
+  "from": "he",
+  "translator": "claude-opus-5-5",
+  "checker": "claude-opus-5-5 (separate call, blind to the translation prompt)",
+  "checked_at": "2026-11-27T14:47:50Z",
+  "passed": true,
+  "items": 108,
+  "pairs_checked": 1,
+  "reused": 107,
+  "first_round_flagged": 0,
+  "still_flagged": 0,
+  "flagged": [],
+  "quote_translations": {}
+ }
 }

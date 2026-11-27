@@ -21,16 +21,8 @@
    ]
   },
   {
-   "text": "מבין כמה הצעות בחר בלאס בקיבוץ חצרים שבנגב, ועד אוגוסט 1965 נחתם הסכם בינו לבין הקיבוץ.",
-   "claims": [
-    "c10",
-    "c11"
-   ]
-  },
-  {
    "text": "מהנדסי נטפים ורפי מהודר שיפרו את הטפטפת, ולפי ג'רוזלם פוסט רק אז החלה ההצלחה העולמית של החברה.",
    "claims": [
-    "c15",
     "c16",
     "c18"
    ]
@@ -240,18 +232,6 @@
    "paragraphs": [
     [
      {
-      "text": "לפי ויקיפדיה, ב־1965 פנה בלאס אל אריה בהיר, האחראי על התעשייה בקיבוצים, כדי למצוא קיבוץ שיפתח את המיזם.",
-      "claims": [
-       "c9"
-      ]
-     },
-     {
-      "text": "מבין כמה הצעות הוא בחר בקיבוץ חצרים בנגב.",
-      "claims": [
-       "c10"
-      ]
-     },
-     {
       "text": "ורבר נפגש עם בלאס ב־1964, ועד אוגוסט 1965 נחתם הסכם בין בלאס לקיבוץ.",
       "claims": [
        "c11"
@@ -307,14 +287,6 @@
    "title": "מהודר משפר את הטפטפת",
    "kind": "story",
    "paragraphs": [
-    [
-     {
-      "text": "מהנדסי נטפים שעבדו עם בלאס פיתחו את הטפטפת המוצמדת (online), ולפי ויקיפדיה הם איפשרו למדבר לפרוח.",
-      "claims": [
-       "c15"
-      ]
-     }
-    ],
     [
      {
       "text": "ב־1972 פנו מייסדי נטפים אל רפי מהודר.",
@@ -868,28 +840,12 @@
    "locator": "שורה 19"
   },
   {
-   "id": "c10",
-   "text": "מבין כמה הצעות בחר בלאס בקיבוץ חצרים בנגב.",
-   "source": "src2",
-   "quote": "Out of some suggestions, Blass chose kibbutz Hazerim in the Negev.",
-   "status": "confirmed",
-   "locator": "שורה 22"
-  },
-  {
    "id": "c11",
    "text": "ורבר נפגש עם בלאס ב־1964, ועד אוגוסט 1965 נחתם הסכם בין בלאס לקיבוץ חצרים.",
    "source": "src3",
    "quote": "Werber met with the inventor in 1964, and by August 1965 an agreement between Blass and Kibbutz Hatzerim was signed.",
    "status": "confirmed",
    "locator": "שורה 37"
-  },
-  {
-   "id": "c15",
-   "text": "מהנדסי נטפים שעבדו עם בלאס פיתחו את הטפטפת המוצמדת (online), ולפי המקור איפשרו למדבר לפרוח.",
-   "source": "src2",
-   "quote": "Netafim engineers working with Blass, developed the online dripper—indeed allowing the desert to bloom.",
-   "status": "confirmed",
-   "locator": "שורה 24"
   },
   {
    "id": "c16",
@@ -1050,14 +1006,6 @@
    "quote": "The first experimental system of this type was established in 1959.",
    "status": "confirmed",
    "locator": "שורה 19"
-  },
-  {
-   "id": "c9",
-   "text": "לפי ויקיפדיה, ב־1965 פנה בלאס אל אריה בהיר, האחראי על התעשייה בקיבוצים, כדי למצוא קיבוץ שיפתח את המיזם.",
-   "source": "src2",
-   "quote": "In 1965 he contacted Arie Bahir who was in charge of the industry in the kibbutzim in order to find a kibbutz",
-   "status": "confirmed",
-   "locator": "שורה 22"
   },
   {
    "id": "c14",
@@ -1428,12 +1376,6 @@
    "kind": "reference"
   },
   {
-   "id": "src2",
-   "label": "Wikipedia, Simcha Blass",
-   "url": "https://en.wikipedia.org/wiki/Simcha_Blass",
-   "kind": "reference"
-  },
-  {
    "id": "src3",
    "label": "Jerusalem Post, a drip revolution around the world",
    "url": "https://www.jpost.com/israel-news/a-drip-revolution-around-the-world-398660",
@@ -1533,9 +1475,7 @@
    "licence": "CC BY-SA 4.0",
    "hosting": "hotlink",
    "caption": "שורות של צמחים ירוקים בחממה, ולצדן צינורות השקיה שחורים עם טפטפות ננעצות.",
-   "illustrates": [
-    "c15"
-   ],
+   "illustrates": [],
    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
    "date": "1899-11-30",
    "width": 2048,
@@ -1589,7 +1529,6 @@
    "hosting": "embed",
    "caption": "סרט של ערוץ Lev Haolam על סיפור ההשקיה בטפטוף וקיבוץ חצרים, נטפים.",
    "illustrates": [
-    "c10",
     "c12"
    ],
    "spoken": "en",
@@ -1924,7 +1863,7 @@
   "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
   "checked_at": "2026-11-21T15:43:49Z",
   "counts": {
-   "confirmed": 100,
+   "confirmed": 96,
    "not_confirmed": 0,
    "deleted_sentences": 7,
    "first_round_confirmed": 100,
@@ -1945,11 +1884,18 @@
    "fix": "opus-5-5 medium"
   },
   "source_quality": {
-   "sources": 11,
-   "wikipedia": 1,
+   "sources": 10,
+   "wikipedia": 0,
    "strong": 9,
    "ok": true,
    "warnings": []
+  },
+  "wiki_cleanup": {
+   "at": "2026-11-27T14:58:43Z",
+   "targets": 5,
+   "resourced": 0,
+   "kept_on_other_sources": 1,
+   "deleted": 4
   }
  }
 }

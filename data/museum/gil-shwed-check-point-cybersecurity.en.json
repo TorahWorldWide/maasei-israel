@@ -7,27 +7,9 @@
  "title": "Gil Shwed, founder of Check Point",
  "trailer": [
   {
-   "text": "Gil Shwed, an Israeli software engineer and entrepreneur, is a co-founder of Check Point and its Executive Chairman of the Board.",
+   "text": "Check Point is the largest pure-play cybersecurity company in the world.",
    "claims": [
-    "c1"
-   ]
-  },
-  {
-   "text": "In 1993 he founded the company with Shlomo Kramer, his friend from the military unit, and with Marius Nacht, who worked with him at Optrotech.",
-   "claims": [
-    "c60"
-   ]
-  },
-  {
-   "text": "That same year he invented and patented stateful inspection, which is the basis for the first version of the FireWall-1 product.",
-   "claims": [
-    "c30"
-   ]
-  },
-  {
-   "text": "According to Wikipedia, Check Point is the world's largest pure-play cybersecurity company.",
-   "claims": [
-    "c2"
+    "c71"
    ]
   },
   {
@@ -61,7 +43,8 @@
    "label": "Founders",
    "value": "Gil Shwed, Shlomo Kramer and Marius Nacht",
    "claims": [
-    "c60"
+    "c72",
+    "c73"
    ]
   },
   {
@@ -104,12 +87,6 @@
       "claims": [
        "c23"
       ]
-     },
-     {
-      "text": "According to Wikipedia, he started programming at age 13, and two years later he was already studying computer science at the Hebrew University, while still a high school student.",
-      "claims": [
-       "c24"
-      ]
      }
     ],
     [
@@ -145,12 +122,6 @@
       "text": "During his four years of service in the IDF, the idea for stateful inspection first came to him.",
       "claims": [
        "c28"
-      ]
-     },
-     {
-      "text": "Shlomo Kramer was his friend from the military unit.",
-      "claims": [
-       "c60"
       ]
      }
     ],
@@ -206,16 +177,10 @@
       ]
      },
      {
-      "text": "That same year Shwed invented and patented stateful inspection.",
-      "claims": [
-       "c30"
-      ]
-     },
-     {
       "text": "In July 1993 the three founded Check Point.",
       "claims": [
        "c6",
-       "c60"
+       "c76"
       ]
      }
     ],
@@ -381,20 +346,6 @@
    "paragraphs": [
     [
      {
-      "text": "According to Wikipedia, Shwed served as CEO from 1994 to 2024, the longest tenure at a Nasdaq-listed company.",
-      "claims": [
-       "c33"
-      ]
-     },
-     {
-      "text": "In 2024 he stepped down as CEO and became Executive Chairman of the Board.",
-      "claims": [
-       "c34"
-      ]
-     }
-    ],
-    [
-     {
       "text": "Shwed said that the company sees itself as a technology company, not a military or an Israeli company.",
       "claims": [
        "c40"
@@ -431,11 +382,13 @@
       "claims": [
        "c58"
       ]
-     },
+     }
+    ],
+    [
      {
-      "text": "Shwed and Check Point emphasize the fifth generation of cybersecurity.",
+      "text": "Calcalist: since the company's founding",
       "claims": [
-       "c56"
+       "c35"
       ]
      }
     ]
@@ -446,9 +399,7 @@
     "m18",
     "m19"
    ],
-   "disagreements": [
-    "d4"
-   ]
+   "disagreements": []
   },
   {
    "id": "s7",
@@ -509,18 +460,6 @@
       ]
      },
      {
-      "text": "Wikipedia writes that he is considered the inventor of the modern computer firewall.",
-      "claims": [
-       "c32"
-      ]
-     },
-     {
-      "text": "In June 2005 he received an honorary doctorate from the Technion.",
-      "claims": [
-       "c53"
-      ]
-     },
-     {
       "text": "In 2002 he appeared on Forbes' list of billionaire babies under 35, and as a result some wags in Israel called him the Bill Gates of Israel.",
       "claims": [
        "c38"
@@ -529,7 +468,7 @@
      {
       "text": "Globes named him \"Person of the Year\" in 2014.",
       "claims": [
-       "c54"
+       "c78"
       ]
      }
     ]
@@ -557,12 +496,6 @@
       "claims": [
        "c46"
       ]
-     },
-     {
-      "text": "He is also a member of the Board of Directors of the Yeholot Association, which was founded by the Rashi Foundation and works, among other things, to reduce dropout rates in high schools.",
-      "claims": [
-       "c64"
-      ]
      }
     ],
     [
@@ -570,8 +503,8 @@
       "text": "There are several different estimates of his personal wealth.",
       "claims": [
        "c50",
-       "c51",
-       "c52"
+       "c79",
+       "c80"
       ]
      }
     ]
@@ -600,12 +533,6 @@
      ]
     },
     {
-     "says": "Wikipedia: started programming at age 13",
-     "claims": [
-      "c24"
-     ]
-    },
-    {
      "says": "Srugim: began his path in the world of technology at age 13",
      "claims": [
       "c25"
@@ -624,9 +551,9 @@
      ]
     },
     {
-     "says": "Wikipedia: the first version was released in 1994",
+     "says": "The first version was released in 1994",
      "claims": [
-      "c30"
+      "c81"
      ]
     },
     {
@@ -656,24 +583,6 @@
    ]
   },
   {
-   "id": "d4",
-   "question": "When did Shwed begin serving as CEO?",
-   "versions": [
-    {
-     "says": "Wikipedia: from 1994",
-     "claims": [
-      "c33"
-     ]
-    },
-    {
-     "says": "Calcalist: since the company's founding",
-     "claims": [
-      "c35"
-     ]
-    }
-   ]
-  },
-  {
    "id": "d5",
    "question": "What is Shwed's net worth?",
    "versions": [
@@ -684,15 +593,9 @@
      ]
     },
     {
-     "says": "Wikipedia: in 2018 he held 19.1% of Check Point's shares, with an estimated worth of $3.4 billion",
+     "says": "In 2018 he held 19.1% of Check Point's shares, with an estimated value of $3.4 billion",
      "claims": [
-      "c51"
-     ]
-    },
-    {
-     "says": "Forbes: in January 2024, $4.38 billion",
-     "claims": [
-      "c52"
+      "c82"
      ]
     }
    ]
@@ -707,38 +610,6 @@
   }
  ],
  "claims": [
-  {
-   "id": "c1",
-   "text": "גיל שוד הוא מהנדס תוכנה ויזם ישראלי, ממייסדי צ'ק פוינט ויושב ראש הדירקטוריון המבצע שלה.",
-   "source": "src1",
-   "quote": "is an Israeli software engineer and entrepreneur.[3][4] He is the co-founder and Executive Chairman of the Board of Check Point",
-   "status": "confirmed",
-   "locator": "שורה 7"
-  },
-  {
-   "id": "c60",
-   "text": "ב-1993 הקים שוד את צ'ק פוינט עם שלמה קרמר, חברו מהיחידה הצבאית, ועם מריוס נכט, שעבד איתו באופטרוטק.",
-   "source": "src1",
-   "quote": "In 1993, Shwed founded Check Point with Shlomo Kramer, Shwed's friend from the military unit, and Marius Nacht with whom he worked at Optrotech.[4]",
-   "status": "confirmed",
-   "locator": "שורה 21"
-  },
-  {
-   "id": "c30",
-   "text": "שוד המציא ורשם פטנט על stateful inspection ב-1993, והיא הבסיס לגרסה הראשונה של FireWall-1 שיצאה ב-1994.",
-   "source": "src1",
-   "quote": "That year, Shwed invented and patented stateful inspection,[9] which was the basis for the first version of the company's renowned FireWall-1, released in 1994.[10]",
-   "status": "confirmed",
-   "locator": "שורה 22"
-  },
-  {
-   "id": "c2",
-   "text": "לפי ויקיפדיה, צ'ק פוינט היא אחת מחברות הטכנולוגיה הגדולות בישראל וחברת הסייבר הטהורה הגדולה בעולם.",
-   "source": "src1",
-   "quote": "one of Israel's largest technology companies and the world's largest pure-play cybersecurity company.[5][4]",
-   "status": "confirmed",
-   "locator": "שורה 7"
-  },
   {
    "id": "c42",
    "text": "שוד יקבל את פרס ישראל למפעל חיים בתחום טכנולוגיה וחדשנות יישומית.",
@@ -778,14 +649,6 @@
    "quote": "At the tender age of 10, Shwed began taking weekly computer classes in his home town of Jerusalem",
    "status": "confirmed",
    "locator": "שורה 6"
-  },
-  {
-   "id": "c24",
-   "text": "לפי ויקיפדיה, שוד החל לתכנת בגיל 13, ושנתיים אחר כך החל ללמוד מדעי המחשב באוניברסיטה העברית בעודו בתיכון.",
-   "source": "src1",
-   "quote": "He started programming at the age of 13, and two years later began studying computer sciences at Hebrew University in Jerusalem, while he was still in high-school.",
-   "status": "confirmed",
-   "locator": "שורה 18"
   },
   {
    "id": "c26",
@@ -988,22 +851,6 @@
    "locator": "שורה 84"
   },
   {
-   "id": "c33",
-   "text": "לפי ויקיפדיה, שוד היה מנכ\"ל מ-1994 עד 2024, הכהונה הארוכה ביותר בחברה הנסחרת בנאסד\"ק.",
-   "source": "src1",
-   "quote": "Shwed was CEO from 1994 until 2024, the longest tenure for a Nasdaq-listed company.[6]",
-   "status": "confirmed",
-   "locator": "שורה 7"
-  },
-  {
-   "id": "c34",
-   "text": "ב-2024 פרש שוד מתפקיד המנכ\"ל והפך ליושב ראש הדירקטוריון המבצע.",
-   "source": "src1",
-   "quote": "In 2024, Shwed stepped down as CEO and became Executive Chairman of the Board.[18]",
-   "status": "confirmed",
-   "locator": "שורה 26"
-  },
-  {
    "id": "c40",
    "text": "שוד אמר שהחברה רואה עצמה חברת טכנולוגיה ולא חברה צבאית או ישראלית.",
    "source": "src4",
@@ -1042,14 +889,6 @@
    "quote": "information security is much more competitive; it's hard to develop something completely new.",
    "status": "confirmed",
    "locator": "שורה 22"
-  },
-  {
-   "id": "c56",
-   "text": "שוד וצ'ק פוינט מדגישים את הדור החמישי של אבטחת הסייבר.",
-   "source": "src1",
-   "quote": "Shwed and Check Point emphasize the \"fifth generation\" of cybersecurity",
-   "status": "confirmed",
-   "locator": "שורה 24"
   },
   {
    "id": "c43",
@@ -1108,36 +947,12 @@
    "locator": "שורה 10"
   },
   {
-   "id": "c32",
-   "text": "ויקיפדיה כותבת שהוא נחשב לממציא חומת האש המחשובית המודרנית.",
-   "source": "src1",
-   "quote": "He is considered the inventor of the modern computer firewall.",
-   "status": "confirmed",
-   "locator": "שורה 8"
-  },
-  {
-   "id": "c53",
-   "text": "שוד קיבל תואר דוקטור לשם כבוד מהטכניון ביוני 2005.",
-   "source": "src1",
-   "quote": "He received an honorary doctorate from the Technion – Israel Institute of Technology in June 2005.[19]",
-   "status": "confirmed",
-   "locator": "שורה 30"
-  },
-  {
    "id": "c38",
    "text": "שוד הופיע ב-2002 ברשימת פורבס של מתחת לגיל 35, וכונה בישראל \"הביל גייטס של ישראל\".",
    "source": "src4",
    "quote": "His appearance on Forbes’ 2002 list of under-35",
    "status": "confirmed",
    "locator": "שורה 4"
-  },
-  {
-   "id": "c54",
-   "text": "עיתון גלובס הכתיר את שוד \"איש השנה\" ב-2014.",
-   "source": "src1",
-   "quote": "Globes newspaper honored Shwed as their \"Person of the Year\" in 2014.[20]",
-   "status": "confirmed",
-   "locator": "שורה 31"
   },
   {
    "id": "c55",
@@ -1156,36 +971,12 @@
    "locator": "שורה 81"
   },
   {
-   "id": "c64",
-   "text": "שוד חבר בדירקטוריון עמותת יחדיו, שנוסדה בידי קרן רש\"י ופועלת בין היתר להפחתת נשירה בתיכונים.",
-   "source": "src1",
-   "quote": "Board of Directors of Yeholot Association founded by the Rashi Foundation whose charter is, among other things, to reduce dropout rates in high schools.",
-   "status": "confirmed",
-   "locator": "שורה 28"
-  },
-  {
    "id": "c50",
    "text": "לפי סרוגים, הונו האישי של שויד נאמד בכ-2 מיליארד דולר.",
    "source": "src5",
    "quote": "הונו האישי נאמד בכ-2 מיליארד דולרים, והוא מאנשי העסקים העשירים בישראל.",
    "status": "confirmed",
    "locator": "שורה 12"
-  },
-  {
-   "id": "c51",
-   "text": "לפי ויקיפדיה, ב-2018 החזיק שוד ב-19.1% ממניות צ'ק פוינט, בשווי משוער של 3.4 מיליארד דולר.",
-   "source": "src1",
-   "quote": "As of 2018, Shwed is the leading shareholder in Checkpoint, owning 19.1% of the company, with an estimated worth of US$3.4 billion.",
-   "status": "confirmed",
-   "locator": "שורה 23"
-  },
-  {
-   "id": "c52",
-   "text": "לפי פורבס, בינואר 2024 הונו של שוד היה 4.38 מיליארד דולר.",
-   "source": "src1",
-   "quote": "As of January 27, 2024, Forbes listed Gil Shwed net worth at US$4.38 billion, ranking him 682 on the Billionaires list.[17]",
-   "status": "confirmed",
-   "locator": "שורה 25"
   },
   {
    "id": "c36",
@@ -1210,15 +1001,81 @@
    "quote": "שוויד מכהן כמנכ\"ל צ'ק פוינט מאז הקמתה; כיום החברה נחשבת לחברה הישראלית",
    "status": "confirmed",
    "locator": "שורה 84"
+  },
+  {
+   "id": "c71",
+   "text": "צ'ק פוינט היא חברת הסייבר הטהורה הגדולה בעולם.",
+   "source": "src8",
+   "quote": "Check Point Software Technologies Ltd. (Nasdaq: CHKP), the largest pure-play security vendor globally,",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c72",
+   "text": "מייסדים: גיל שוד, שלמה קרמר ומריוס נכט",
+   "source": "src9",
+   "quote": "Shwed, Nacht and another friend, Shlomo Kramer, who had served with Shwed in the IDF,",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c73",
+   "text": "מייסדים: גיל שוד, שלמה קרמר ומריוס נכט",
+   "source": "src9",
+   "quote": "The three friends started Check Point Software in July 1993, just a few months later.",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c76",
+   "text": "ביולי 1993 הקימו השלושה את צ'ק פוינט.",
+   "source": "src9",
+   "quote": "The three friends started Check Point Software in July 1993, just a few months later.",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c78",
+   "text": "גלובס הכתיר אותו \"איש השנה\" ב-2014.",
+   "source": "src10",
+   "quote": "Shwed was named \"Globes\" Person of the Year for 2014.",
+   "status": "confirmed",
+   "locator": "שורה 41"
+  },
+  {
+   "id": "c79",
+   "text": "על ההון האישי שלו יש כמה הערכות שונות.",
+   "source": "src11",
+   "quote": "Check Point co-founder and CEO Gil Shwed owns 19.1% of the company, worth $3.4 billion.",
+   "status": "confirmed",
+   "locator": "שורה 40"
+  },
+  {
+   "id": "c80",
+   "text": "על ההון האישי שלו יש כמה הערכות שונות.",
+   "source": "src12",
+   "quote": "Shwed's current stake is worth $3.2 billion.",
+   "status": "confirmed",
+   "locator": "שורה 45"
+  },
+  {
+   "id": "c81",
+   "text": "הגרסה הראשונה יצאה ב-1994",
+   "source": "src9",
+   "quote": "The team gave FireWall-1 first public debut at the 1994 NetWorld Interop show in Las Vegas.",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c82",
+   "text": "ב-2018 החזיק ב-19.1% ממניות צ'ק פוינט, בשווי משוער של 3.4 מיליארד דולר",
+   "source": "src11",
+   "quote": "Check Point co-founder and CEO Gil Shwed owns 19.1% of the company, worth $3.4 billion.",
+   "status": "confirmed",
+   "locator": "שורה 40"
   }
  ],
  "sources": [
-  {
-   "id": "src1",
-   "label": "Wikipedia, Gil Shwed",
-   "url": "https://en.wikipedia.org/wiki/Gil_Shwed",
-   "kind": "reference"
-  },
   {
    "id": "src2",
    "label": "Calcalist, Israel Prize for high-tech to be awarded to Gil Shwed, 2018",
@@ -1254,6 +1111,36 @@
    "label": "The Battle for the Cybersecurity Industry, Chapter 5: The Pioneer—The Story of Check Point",
    "url": "https://www.oreilly.com/library/view/the-battle-for/9781394174157/c05.xhtml",
    "kind": "book"
+  },
+  {
+   "id": "src8",
+   "label": "Check Point: IDC names Check Point leader in worldwide firewall and UTM appliance market (press release)",
+   "url": "https://www.checkpoint.com/fr/press-releases/idc-names-check-point-leader-worldwide-firewall-utm-appliance-market/",
+   "kind": "official"
+  },
+  {
+   "id": "src9",
+   "label": "The Register: Firewall tech pioneer Gil Shwed: Former teen sysadmin on today's infosec biz",
+   "url": "https://www.theregister.com/2013/04/23/check_point_profile/",
+   "kind": "press"
+  },
+  {
+   "id": "src10",
+   "label": "Globes: \"Globes\" names Gil Shwed \"Person of the Year\"",
+   "url": "https://en.globes.co.il/en/article-globes-names-gil-shwed-person-of-the-year-1000991417",
+   "kind": "press"
+  },
+  {
+   "id": "src11",
+   "label": "Globes: Check Point to give Shwed options worth $144m",
+   "url": "https://en.globes.co.il/en/article-check-point-to-give-shwed-options-worth-$144m-1001246880",
+   "kind": "press"
+  },
+  {
+   "id": "src12",
+   "label": "Globes: Check Point to give Shwed options worth $144m",
+   "url": "https://en.globes.co.il/en/article-gil-shweds-check-point-stake-down-in-2018-1001271914",
+   "kind": "press"
   }
  ],
  "media": [
@@ -1435,9 +1322,7 @@
    "hosting": "embed",
    "caption": "An episode of the ScaleUP Nation series on Gil Shwed, founder of Check Point and the veteran CEO on Nasdaq, from a 14-year-old Jerusalem computer kid at university to the invention of the firewall.",
    "illustrates": [
-    "c26",
-    "c33",
-    "c32"
+    "c26"
    ],
    "spoken": "he",
    "audio_tracks": [
@@ -1470,9 +1355,7 @@
    "licence_url": "https://www.youtube.com/static?template=terms",
    "hosting": "embed",
    "caption": "A CNBC interview with Check Point CEO Gil Shwed on cyber threats and the online crime market.",
-   "illustrates": [
-    "c56"
-   ],
+   "illustrates": [],
    "spoken": "en",
    "audio_tracks": [
     "en"
@@ -1491,7 +1374,6 @@
    "hosting": "embed",
    "caption": "An interview with Gil Shwed on building Check Point into a $20 billion cybersecurity company, starting from a security flaw he identified as a programmer.",
    "illustrates": [
-    "c2",
     "c28"
    ],
    "spoken": "en",
@@ -1896,7 +1778,7 @@
   "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
   "checked_at": "2026-11-20T21:52:05Z",
   "counts": {
-   "confirmed": 80,
+   "confirmed": 65,
    "not_confirmed": 0,
    "deleted_sentences": 3,
    "first_round_confirmed": 77,
@@ -1917,11 +1799,18 @@
    "fix": "opus-5-5 medium"
   },
   "source_quality": {
-   "sources": 7,
-   "wikipedia": 1,
+   "sources": 11,
+   "wikipedia": 0,
    "strong": 6,
    "ok": true,
    "warnings": []
+  },
+  "wiki_cleanup": {
+   "at": "2026-11-27T14:42:19Z",
+   "targets": 22,
+   "resourced": 7,
+   "kept_on_other_sources": 0,
+   "deleted": 15
   }
  },
  "lang": "en",
@@ -1929,12 +1818,12 @@
   "from": "he",
   "translator": "claude-opus-5-5",
   "checker": "claude-opus-5-5 (separate call, blind to the translation prompt)",
-  "checked_at": "2026-11-21T06:18:59Z",
+  "checked_at": "2026-11-27T14:42:37Z",
   "passed": true,
-  "items": 169,
+  "items": 153,
   "pairs_checked": 3,
-  "reused": 166,
-  "first_round_flagged": 1,
+  "reused": 150,
+  "first_round_flagged": 0,
   "still_flagged": 0,
   "flagged": [],
   "quote_translations": {

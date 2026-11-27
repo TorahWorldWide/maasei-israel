@@ -9,8 +9,9 @@
   {
    "text": "Insightec is an Israeli privately held medical device company from Tirat Carmel that sells MR guided focused ultrasound equipment.",
    "claims": [
-    "c1",
-    "c4"
+    "c4",
+    "c81",
+    "c82"
    ]
   },
   {
@@ -47,10 +48,11 @@
  "glance": [
   {
    "label": "Founder",
-   "value": "Kobi Vortman, and according to Wikipedia also Oded Tamir",
+   "value": "Kobi Vortman, and also Oded Tamir",
    "claims": [
     "c5",
-    "c6"
+    "c83",
+    "c84"
    ]
   },
   {
@@ -58,7 +60,7 @@
    "value": "1999",
    "claims": [
     "c5",
-    "c6"
+    "c85"
    ]
   },
   {
@@ -154,12 +156,6 @@
       "text": "He established the technology at Elbit Medical Imaging, and from there it led to the founding of Insightec in 1999, in a joint effort by Elbit and GE Healthcare.",
       "claims": [
        "c8"
-      ]
-     },
-     {
-      "text": "According to Wikipedia, Vortman founded the company in 1999 with Oded Tamir, with seed investment from Elbit Medical Imaging and GE Healthcare, but in Wikipedia itself this statement is marked 'citation needed'.",
-      "claims": [
-       "c6"
       ]
      }
     ],
@@ -293,12 +289,6 @@
       "claims": [
        "c32"
       ]
-     },
-     {
-      "text": "According to Wikipedia, the trial data were published in the New England Journal of Medicine in the month after the approval.",
-      "claims": [
-       "c69"
-      ]
      }
     ],
     [
@@ -349,12 +339,6 @@
       "text": "According to MedCity News, FDA approval for the treatment of pain from bone cancer came in 2012.",
       "claims": [
        "c61"
-      ]
-     },
-     {
-      "text": "According to Wikipedia, that same year the company received a European CE mark for the treatment of neurological disorders in the brain, including essential tremor.",
-      "claims": [
-       "c62"
       ]
      },
      {
@@ -475,9 +459,9 @@
       ]
      },
      {
-      "text": "According to Wikipedia, Ferré is the founder and former CEO of Mako Surgical.",
+      "text": "Ferré is the founder and former CEO of Mako Surgical.",
       "claims": [
-       "c52"
+       "c88"
       ]
      },
      {
@@ -621,10 +605,10 @@
    "question": "Where is Insightec's headquarters in Israel?",
    "versions": [
     {
-     "says": "According to Wikipedia and MedCity News, in Tirat Carmel",
+     "says": "In Tirat Carmel",
      "claims": [
-      "c59",
-      "c4"
+      "c4",
+      "c89"
      ]
     },
     {
@@ -682,9 +666,10 @@
      ]
     },
     {
-     "says": "According to Wikipedia, in 2016",
+     "says": "In 2016",
      "claims": [
-      "c52"
+      "c90",
+      "c91"
      ]
     }
    ]
@@ -705,14 +690,6 @@
   }
  ],
  "claims": [
-  {
-   "id": "c1",
-   "text": "אינסייטק היא חברה ישראלית פרטית לציוד רפואי שמוכרת ציוד אולטרסאונד ממוקד בהנחיית MR.",
-   "source": "src1",
-   "quote": "INSIGHTEC Ltd., is an Israeli privately held medical device company that sells MR guided Focused Ultrasound equipment.",
-   "status": "confirmed",
-   "locator": "שורה 16"
-  },
   {
    "id": "c4",
    "text": "לפי MedCity News, אינסייטק היא חברה שבסיסה בטירת הכרמל, ישראל, והיא מפתחת את מכשיר האולטרסאונד הממוקד Exablate Neuro.",
@@ -752,14 +729,6 @@
    "quote": "So far, Exablate Neuro has treated around 2,000 tremor patients and is currently offered at 16 sites around the U.S.",
    "status": "confirmed",
    "locator": "שורה 22"
-  },
-  {
-   "id": "c6",
-   "text": "לפי ויקיפדיה, החברה נוסדה ב-1999 על ידי קובי וורטמן ואודד תמיר, עם השקעת הזנק מאלביט הדמיה רפואית וג'י אי הלת'קר.",
-   "source": "src1",
-   "quote": "The company was founded in 1999[3] by Kobi Vortman and Oded Tamir, with seed investment from Elbit Medical Imaging and GE Healthcare.",
-   "status": "confirmed",
-   "locator": "שורה 19"
   },
   {
    "id": "c73",
@@ -954,14 +923,6 @@
    "locator": "שורה 6"
   },
   {
-   "id": "c69",
-   "text": "לפי ויקיפדיה, בחודש שלאחר האישור פורסמו נתוני הניסוי המכריע בכתב העת New England Journal of Medicine.",
-   "source": "src1",
-   "quote": "the next month published data from the pivotal trial in the New England Journal of Medicine.",
-   "status": "confirmed",
-   "locator": "שורה 23"
-  },
-  {
    "id": "c25",
    "text": "לפי MassDevice, אינסייטק הגישה בקשה לאישור טרום-שיווק ל-Exablate Neuro באוקטובר 2015.",
    "source": "src7",
@@ -1008,14 +969,6 @@
    "quote": "The company received FDA approval in 2004 for the use of its technology in treating uterine fibroids, followed by another approval in 2012 as a pain treatment for bone cancers",
    "status": "confirmed",
    "locator": "שורה 8"
-  },
-  {
-   "id": "c62",
-   "text": "לפי ויקיפדיה, ב-2012 החברה קיבלה סימן CE אירופי לטיפול בהפרעות נוירולוגיות במוח, ובהן רעד חיוני.",
-   "source": "src1",
-   "quote": "In 2012, the company received European CE mark for the treatment of neurological disorders in the brain including essential tremor",
-   "status": "confirmed",
-   "locator": "שורה 22"
   },
   {
    "id": "c64",
@@ -1120,14 +1073,6 @@
    "quote": "In January Insightec pulled down a $22 million funding round and tapped Ferré, with former CEO Kobi Vortman stepping down and taking a seat on the board.",
    "status": "confirmed",
    "locator": "שורה 11"
-  },
-  {
-   "id": "c52",
-   "text": "לפי ויקיפדיה, ב-2016 החברה שכרה את מוריס פרה, מייסד ומנכ\"ל לשעבר של Mako Surgical, כמנכ\"ל.",
-   "source": "src1",
-   "quote": "In 2016, the company hired Maurice R. Ferré, the founder and former CEO of Mako Surgical, as its CEO.",
-   "status": "confirmed",
-   "locator": "שורה 24"
   },
   {
    "id": "c57",
@@ -1242,14 +1187,6 @@
    "locator": "שורה 12"
   },
   {
-   "id": "c59",
-   "text": "לפי ויקיפדיה, מטה החברה נמצא בטירת הכרמל ויש לה משרדים בדאלאס, מיאמי, טוקיו ושנגחאי.",
-   "source": "src1",
-   "quote": "The company is headquartered in Tirat Carmel, and maintains offices in Dallas, Miami, Tokyo, and Shanghai.",
-   "status": "confirmed",
-   "locator": "שורה 17"
-  },
-  {
    "id": "c29",
    "text": "לפי אינסייטק, מטופלי Exablate Neuro הראו שיפור של כמעט 50% ברעד ובתפקוד המוטורי שלושה חודשים אחרי הטיפול לעומת הבסיס.",
    "source": "src3",
@@ -1288,15 +1225,81 @@
    "quote": "for $30.00 per share with an aggregate purchase price of approximately $1.65 billion.",
    "status": "confirmed",
    "locator": "שורה 4"
+  },
+  {
+   "id": "c81",
+   "text": "אינסייטק היא חברה ישראלית פרטית לציוד רפואי מטירת הכרמל, שמוכרת ציוד אולטרסאונד ממוקד בהנחיית MR.",
+   "source": "src10",
+   "quote": "Insightec was founded in 1999 and has its corporate headquarters in Tirat Carmel, Israel, with global offices",
+   "status": "confirmed",
+   "locator": "שורה 47"
+  },
+  {
+   "id": "c82",
+   "text": "אינסייטק היא חברה ישראלית פרטית לציוד רפואי מטירת הכרמל, שמוכרת ציוד אולטרסאונד ממוקד בהנחיית MR.",
+   "source": "src11",
+   "quote": "InSightec Ltd. is privately held by Elbit Imaging, General Electric, and MediTech Advisors.",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c83",
+   "text": "מייסד: קובי וורטמן, וגם אודד תמיר",
+   "source": "src12",
+   "quote": "שני מייסדיה, ד\"ר קובי וורטמן המכהן כנשיא ומנכ\"ל החברה, ועודד טמיר שאחראי על ענייני הכספים והתפעול",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c84",
+   "text": "מייסד: קובי וורטמן, וגם אודד תמיר",
+   "source": "src4",
+   "quote": "Kobi founded the company in 1999.",
+   "status": "confirmed",
+   "locator": "שורה 50"
+  },
+  {
+   "id": "c85",
+   "text": "מאז: 1999",
+   "source": "src10",
+   "quote": "Insightec was founded in 1999 and has its corporate headquarters in Tirat Carmel, Israel, with global offices",
+   "status": "confirmed",
+   "locator": "שורה 47"
+  },
+  {
+   "id": "c88",
+   "text": "פרה הוא מייסד ומנכ\"ל לשעבר של Mako Surgical.",
+   "source": "src13",
+   "quote": "Prior to INSIGHTEC, Ferré served as CEO and Chairman of the Board of MAKO Surgical Corp.,",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c89",
+   "text": "בטירת הכרמל",
+   "source": "src2",
+   "quote": "Tirat Carmel, Israel-based company Insightec",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c90",
+   "text": "ב-2016",
+   "source": "src14",
+   "quote": "Dr. Maurice R. Ferré, a seasoned medical device executive will join the INSIGHTEC leadership team",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c91",
+   "text": "ב-2016",
+   "source": "src14",
+   "quote": "HAIFA, Israel, January 7, 2016",
+   "status": "confirmed",
+   "locator": "שורה 12"
   }
  ],
  "sources": [
-  {
-   "id": "src1",
-   "label": "Wikipedia, Insightec",
-   "url": "https://en.wikipedia.org/wiki/Insightec",
-   "kind": "reference"
-  },
   {
    "id": "src2",
    "label": "MedCity News, Insightec wants to usher in a new era of incisionless surgery, 7.2019",
@@ -1344,6 +1347,36 @@
    "label": "Stryker Investor Relations, Stryker Announces Definitive Agreement to Acquire MAKO Surgical Corp. for $1.65 Billion (2013)",
    "url": "https://investors.stryker.com/press-releases/news-details/2013/Stryker-Announces-Definitive-Agreement-to-Acquire-MAKO-Surgical-Corp-for-165-Billion/default.aspx",
    "kind": "official"
+  },
+  {
+   "id": "src10",
+   "label": "The Times of Israel: Israeli startup uses ultrasound waves to reduce Parkinson's tremors",
+   "url": "https://www.timesofisrael.com/israeli-startup-uses-ultrasound-waves-to-reduce-parkinsons-tremors/",
+   "kind": "press"
+  },
+  {
+   "id": "src11",
+   "label": "The Times of Israel: Israeli startup uses ultrasound waves to reduce Parkinson's tremors",
+   "url": "https://www.prnewswire.com/news-releases/insightecs-exablate-neuro-system-awarded-european-ce-mark-for-non-invasive-treatment-of-neurological-disorders-in-the-brain-181981381.html",
+   "kind": "press"
+  },
+  {
+   "id": "src12",
+   "label": "Walla! (from Haaretz): article about Insightec, 2002",
+   "url": "https://finance.walla.co.il/item/171051",
+   "kind": "press"
+  },
+  {
+   "id": "src13",
+   "label": "Globes: Insightec CEO confident of $30-50 billion exit",
+   "url": "https://insightec.com/team/maurice-r-ferre-md",
+   "kind": "press"
+  },
+  {
+   "id": "src14",
+   "label": "BioSpace: INSIGHTEC Secures $22 Million and Appoints Maurice R. Ferré, MD, as CEO",
+   "url": "https://www.biospace.com/insightec-secures-22-million-and-appoints-board-chair-as-ceo",
+   "kind": "press"
   }
  ],
  "media": [
@@ -1357,9 +1390,7 @@
    "licence": "CC BY-SA 4.0",
    "hosting": "hotlink",
    "caption": "The INSIGHTEC company logo in gray letters, with a green line and a blue line inside the letter H.",
-   "illustrates": [
-    "c1"
-   ],
+   "illustrates": [],
    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
    "date": "2015-11-16",
    "width": 753,
@@ -1549,7 +1580,7 @@
   "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
   "checked_at": "2026-11-20T21:52:33Z",
   "counts": {
-   "confirmed": 86,
+   "confirmed": 82,
    "not_confirmed": 0,
    "deleted_sentences": 2,
    "first_round_confirmed": 85,
@@ -1570,8 +1601,8 @@
    "fix": "opus-5-5 medium"
   },
   "source_quality": {
-   "sources": 8,
-   "wikipedia": 1,
+   "sources": 13,
+   "wikipedia": 0,
    "strong": 4,
    "ok": true,
    "warnings": []
@@ -1583,21 +1614,30 @@
     "url": "https://investors.stryker.com/press-releases/news-details/2013/Stryker-Announces-Definitive-Agreement-to-Acquire-MAKO-Surgical-Corp-for-165-Billion/default.aspx",
     "by": "settle 24.11"
    }
-  ]
+  ],
+  "wiki_cleanup": {
+   "at": "2026-11-27T14:44:05Z",
+   "targets": 9,
+   "resourced": 6,
+   "kept_on_other_sources": 0,
+   "deleted": 3
+  }
  },
  "lang": "en",
  "translation": {
   "from": "he",
   "translator": "claude-opus-5-5",
   "checker": "claude-opus-5-5 (separate call, blind to the translation prompt)",
-  "checked_at": "2026-11-23T22:31:03Z",
+  "checked_at": "2026-11-27T14:44:23Z",
   "passed": true,
-  "items": 120,
-  "pairs_checked": 1,
-  "reused": 119,
+  "items": 119,
+  "pairs_checked": 5,
+  "reused": 113,
   "first_round_flagged": 0,
   "still_flagged": 0,
   "flagged": [],
-  "quote_translations": {}
+  "quote_translations": {
+   "c83": "Its two founders, Dr. Kobi Vortman, who serves as the company's president and CEO, and Oded Tamir, who is responsible for finance and operations"
+  }
  }
 }

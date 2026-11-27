@@ -10,14 +10,8 @@
    "text": "Ernst Boris Chain, a Jew born in Berlin, shared the 1945 Nobel Prize in Physiology or Medicine with Fleming and Florey.",
    "claims": [
     "c8",
-    "c45"
-   ]
-  },
-  {
-   "text": "He was forced to flee Germany after the rise of the Nazis, and later became a member of the board of governors of the Weizmann Institute of Science in Rehovot.",
-   "claims": [
-    "c2",
-    "c4"
+    "c66",
+    "c67"
    ]
   },
   {
@@ -79,14 +73,14 @@
    "label": "Recognition",
    "value": "Nobel Prize in Physiology or Medicine, 1945",
    "claims": [
-    "c45"
+    "c70"
    ]
   },
   {
    "label": "Israel",
    "value": "Board of governors of the Weizmann Institute, from 1954",
    "claims": [
-    "c4"
+    "c71"
    ]
   },
   {
@@ -154,12 +148,6 @@
       "text": "His mother and sister stayed in Berlin, and eventually perished in a concentration camp.",
       "claims": [
        "c9"
-      ]
-     },
-     {
-      "text": "Towards the end of World War II, Chain learned that they had been killed by the Nazis.",
-      "claims": [
-       "c10"
       ]
      }
     ]
@@ -441,15 +429,21 @@
        "c43"
       ]
      }
+    ],
+    [
+     {
+      "text": "According to Encyclopedia.com, Chain and his partners proposed the correct structure by October 1943",
+      "claims": [
+       "c41"
+      ]
+     }
     ]
    ],
    "media": [
     "m3",
     "m2"
    ],
-   "disagreements": [
-    "d4"
-   ]
+   "disagreements": []
   },
   {
    "id": "s7",
@@ -460,7 +454,7 @@
      {
       "text": "Chain shared the 1945 Nobel Prize in Physiology or Medicine with Fleming and Florey.",
       "claims": [
-       "c45"
+       "c72"
       ]
      },
      {
@@ -487,7 +481,7 @@
       "text": "He was elected a Fellow of the Royal Society.",
       "claims": [
        "c57",
-       "c58"
+       "c73"
       ]
      },
      {
@@ -499,22 +493,23 @@
      {
       "text": "The biochemistry building at Imperial College London is named after him.",
       "claims": [
-       "c65"
+       "c74"
       ]
      }
     ],
     [
      {
-      "text": "Chain was an ardent Zionist, and from 1954 he was a member of the board of governors of the Weizmann Institute of Science in Rehovot.",
-      "claims": [
-       "c4",
-       "c5"
-      ]
-     },
-     {
       "text": "Chain died on August 12, 1979.",
       "claims": [
        "c64"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to NobelPrize.org, in 1949",
+      "claims": [
+       "c57"
       ]
      }
     ]
@@ -527,7 +522,6 @@
    ],
    "disagreements": [
     "d5",
-    "d6",
     "d7"
    ]
   },
@@ -581,14 +575,6 @@
       "text": "The Nobel Prize Committee did not mention the Penicillin Girls, although their work was crucial to scaling up production in Oxford.",
       "claims": [
        "c47"
-      ]
-     }
-    ],
-    [
-     {
-      "text": "According to Wikipedia, Chain was barred from entry to the United States under the McCarran Act, and his visa application was declined twice in 1951.",
-      "claims": [
-       "c53"
       ]
      }
     ]
@@ -653,24 +639,6 @@
    ]
   },
   {
-   "id": "d4",
-   "question": "When was the structure of penicillin proposed?",
-   "versions": [
-    {
-     "says": "According to Wikipedia, Chain and Abraham were involved in 1942 in proposing the beta-lactam structure",
-     "claims": [
-      "c40"
-     ]
-    },
-    {
-     "says": "According to Encyclopedia.com, Chain and his partners proposed the correct structure by October 1943",
-     "claims": [
-      "c41"
-     ]
-    }
-   ]
-  },
-  {
    "id": "d5",
    "question": "When did Chain return to England and become a professor at Imperial College?",
    "versions": [
@@ -690,24 +658,6 @@
      "says": "According to the RCP, he returned to London in 1964 to take charge of the new facilities",
      "claims": [
       "c55"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "d6",
-   "question": "In what year was he elected a Fellow of the Royal Society?",
-   "versions": [
-    {
-     "says": "According to NobelPrize.org, in 1949",
-     "claims": [
-      "c57"
-     ]
-    },
-    {
-     "says": "According to Wikipedia, on 17 March 1948",
-     "claims": [
-      "c58"
      ]
     }
    ]
@@ -749,28 +699,12 @@
    "locator": "שורה 6"
   },
   {
-   "id": "c45",
-   "text": "צ׳יין חלק את פרס נובל לפיזיולוגיה או רפואה לשנת 1945 עם פלמינג ופלורי.",
-   "source": "src2",
-   "quote": "He shared the 1945 Nobel Prize in Physiology or Medicine with Alexander Fleming and Howard Florey",
-   "status": "confirmed",
-   "locator": "שורה 26"
-  },
-  {
    "id": "c2",
    "text": "צ׳יין היה ביולוג יהודי שנאלץ לברוח מגרמניה לאחר עליית הנאצים.",
    "source": "src3",
    "quote": "Dr. Ernst Boris Chain, a Jewish biologist who was forced to flee Germany after the advent of the Nazis",
    "status": "confirmed",
    "locator": "שורה 2"
-  },
-  {
-   "id": "c4",
-   "text": "צ׳יין היה ציוני נלהב והיה חבר במועצת הנגידים של מכון ויצמן למדע ברחובות משנת 1954.",
-   "source": "src2",
-   "quote": "Chain was an ardent Zionist and he became a member of the board of governors of the Weizmann Institute of Science at Rehovot in 1954",
-   "status": "confirmed",
-   "locator": "שורה 43"
   },
   {
    "id": "c11",
@@ -875,14 +809,6 @@
    "quote": "His mother and sister stayed in Berlin only to perish in a concentration camp.",
    "status": "confirmed",
    "locator": "שורה 5"
-  },
-  {
-   "id": "c10",
-   "text": "לקראת סוף מלחמת העולם השנייה נודע לצ׳יין שאמו ואחותו נהרגו בידי הנאצים.",
-   "source": "src2",
-   "quote": "Towards the end of World War II, Chain learned his mother and sister had been killed by the Nazis.",
-   "status": "confirmed",
-   "locator": "שורה 40"
   },
   {
    "id": "c12",
@@ -1109,30 +1035,6 @@
    "locator": "שורה 4"
   },
   {
-   "id": "c58",
-   "text": "לפי ויקיפדיה, צ׳יין מונה לעמית החברה המלכותית ב-17 במרץ 1948.",
-   "source": "src2",
-   "quote": "On 17 March 1948 Chain was appointed a Fellow of the Royal Society.",
-   "status": "confirmed",
-   "locator": "שורה 41"
-  },
-  {
-   "id": "c65",
-   "text": "בניין הביוכימיה באימפריאל קולג׳ לונדון קרוי על שמו של צ׳יין.",
-   "source": "src2",
-   "quote": "The Imperial College London biochemistry building is named after him",
-   "status": "confirmed",
-   "locator": "שורה 45"
-  },
-  {
-   "id": "c5",
-   "text": "צ׳יין שירת במועצת הנגידים של מכון ויצמן בישראל.",
-   "source": "src6",
-   "quote": "He served on the Board of Governors of the Weizmann Institute in Israel",
-   "status": "confirmed",
-   "locator": "שורה 19"
-  },
-  {
    "id": "c64",
    "text": "צ׳יין מת ב-12 באוגוסט 1979.",
    "source": "src7",
@@ -1189,14 +1091,6 @@
    "locator": "שורה 12"
   },
   {
-   "id": "c53",
-   "text": "לפי ויקיפדיה, צ׳יין נמנעה כניסתו לארה״ב לפי חוק מקארן, וויזה נדחתה פעמיים ב-1951.",
-   "source": "src2",
-   "quote": "Chain was for some time barred from entry to the United States under the McCarran Internal Security Act of 1950, being declined a visa on two occasions in 1951.",
-   "status": "confirmed",
-   "locator": "שורה 42"
-  },
-  {
    "id": "c29",
    "text": "לפי Encyclopedia.com, מבין שמונה חולים שני הראשונים מתו מסיבוכים שאינם קשורים לזיהום, ושישה האחרים, שהיו על סף מוות, נרפאו לגמרי.",
    "source": "src6",
@@ -1211,14 +1105,6 @@
    "quote": "researchers administered penicillin to 15 seriously ill patients as well as to 172 patients with localised infections",
    "status": "confirmed",
    "locator": "שורה 16"
-  },
-  {
-   "id": "c40",
-   "text": "לפי ויקיפדיה, צ׳יין ואברהם עסקו ב-1942 בהצעת מבנה הבטא-לקטם של הפניצילין.",
-   "source": "src2",
-   "quote": "he was also involved in theorising the beta-lactam structure of penicillin in 1942",
-   "status": "confirmed",
-   "locator": "שורה 40"
   },
   {
    "id": "c54",
@@ -1259,6 +1145,62 @@
    "quote": "he died in Castlebar, Ireland, on this day in 1979",
    "status": "confirmed",
    "locator": "שורה 15"
+  },
+  {
+   "id": "c66",
+   "text": "ארנסט בוריס צ׳יין, יהודי יליד ברלין, חלק את פרס נובל לפיזיולוגיה או רפואה לשנת 1945 עם פלמינג ופלורי.",
+   "source": "src12",
+   "quote": "In 1945, Chain was awarded the Nobel Prize, which he shared with Fleming and Florey.",
+   "status": "confirmed",
+   "locator": "שורה 21"
+  },
+  {
+   "id": "c67",
+   "text": "ארנסט בוריס צ׳יין, יהודי יליד ברלין, חלק את פרס נובל לפיזיולוגיה או רפואה לשנת 1945 עם פלמינג ופלורי.",
+   "source": "src12",
+   "quote": "Sir Ernst Boris Chain, winner of the Nobel Prize in Physiology or Medicine, was born on June 19, 1906, in Berlin.",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c70",
+   "text": "הוקרה: פרס נובל לפיזיולוגיה או רפואה, 1945",
+   "source": "src9",
+   "quote": "Nobel Prize in Physiology or Medicine 1945 for the discovery of penicillin and its curative effect in various infectious diseases, shared with Sir Alexander Fleming and Sir Howard Walter Florey.",
+   "status": "confirmed",
+   "locator": "שורה 1"
+  },
+  {
+   "id": "c71",
+   "text": "ישראל: מועצת הנגידים של מכון ויצמן, משנת 1954",
+   "source": "src12",
+   "quote": "Starting in 1954, Chain served on the Board of Directors of the Weizmann Institute in Israel.",
+   "status": "confirmed",
+   "locator": "שורה 27"
+  },
+  {
+   "id": "c72",
+   "text": "צ׳יין חלק את פרס נובל לפיזיולוגיה או רפואה לשנת 1945 עם פלמינג ופלורי.",
+   "source": "src12",
+   "quote": "In 1945, Chain was awarded the Nobel Prize, which he shared with Fleming and Florey.",
+   "status": "confirmed",
+   "locator": "שורה 21"
+  },
+  {
+   "id": "c73",
+   "text": "הוא נבחר לעמית החברה המלכותית.",
+   "source": "src13",
+   "quote": "Sir Ernst Boris Chain (1906-1979), German-British biochemist, was elected a Fellow of the Royal Society in 1949.",
+   "status": "confirmed",
+   "locator": "שורה 34"
+  },
+  {
+   "id": "c74",
+   "text": "בניין הביוכימיה באימפריאל קולג׳ לונדון קרוי על שמו.",
+   "source": "src14",
+   "quote": "Imperial celebrates the founder of the Department of Biochemistry as it names the Sir Ernst Chain Building",
+   "status": "confirmed",
+   "locator": "שורה 6"
   }
  ],
  "sources": [
@@ -1266,12 +1208,6 @@
    "id": "src1",
    "label": "Linda Hall Library, Scientist of the Day: Ernst Boris Chain",
    "url": "https://www.lindahall.org/about/news/scientist-of-the-day/ernst-boris-chain/",
-   "kind": "reference"
-  },
-  {
-   "id": "src2",
-   "label": "Wikipedia, Ernst Chain",
-   "url": "https://en.wikipedia.org/wiki/Ernst_Chain",
    "kind": "reference"
   },
   {
@@ -1326,6 +1262,24 @@
    "id": "src11",
    "label": "NobelPrize.org, The Nobel Prize in Physiology or Medicine 1945",
    "url": "https://www.nobelprize.org/prizes/medicine/1945/chain/",
+   "kind": "official"
+  },
+  {
+   "id": "src12",
+   "label": "San Diego Jewish World: Ernst Chain profile",
+   "url": "https://www.sdjewishworld.com/?p=190348",
+   "kind": "press"
+  },
+  {
+   "id": "src13",
+   "label": "Royal Society: Portrait of Ernst Boris Chain",
+   "url": "https://pictures.royalsociety.org/image-rs-19839",
+   "kind": "organisation"
+  },
+  {
+   "id": "src14",
+   "label": "Imperial College London: Sir Ernst Chain is honoured in building naming ceremony",
+   "url": "https://imperial.ac.uk/news/115787/sir-ernst-chain-honoured-building-naming",
    "kind": "official"
   }
  ],
@@ -1451,7 +1405,6 @@
    "caption": "Berlin memorial plaque in German for Chain: born in Tiergarten on 19.6.1906, shared the 1945 Nobel Prize with Fleming and Florey, and left Germany in 1933.",
    "illustrates": [
     "c1",
-    "c45",
     "c64"
    ],
    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
@@ -1489,9 +1442,7 @@
    "licence_url": "https://www.youtube.com/static?template=terms",
    "hosting": "embed",
    "caption": "A short film by Merton Heritage about Sir Ernst Chain, a German-British biochemist who was part of the trio that won the Nobel Prize for developing penicillin.",
-   "illustrates": [
-    "c45"
-   ]
+   "illustrates": []
   },
   {
    "id": "m11",
@@ -1711,7 +1662,7 @@
   "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
   "checked_at": "2026-11-21T19:56:58Z",
   "counts": {
-   "confirmed": 85,
+   "confirmed": 79,
    "not_confirmed": 0,
    "deleted_sentences": 3,
    "first_round_confirmed": 83,
@@ -1732,11 +1683,18 @@
    "fix": "opus-5-5 medium"
   },
   "source_quality": {
-   "sources": 11,
-   "wikipedia": 1,
+   "sources": 13,
+   "wikipedia": 0,
    "strong": 5,
    "ok": true,
    "warnings": []
+  },
+  "wiki_cleanup": {
+   "at": "2026-11-27T14:33:26Z",
+   "targets": 12,
+   "resourced": 6,
+   "kept_on_other_sources": 0,
+   "deleted": 6
   }
  },
  "lang": "en",
@@ -1744,11 +1702,11 @@
   "from": "he",
   "translator": "claude-opus-5-5",
   "checker": "claude-opus-5-5 (separate call, blind to the translation prompt)",
-  "checked_at": "2026-11-21T20:56:53Z",
+  "checked_at": "2026-11-27T14:33:27Z",
   "passed": true,
-  "items": 133,
-  "pairs_checked": 5,
-  "reused": 128,
+  "items": 125,
+  "pairs_checked": 0,
+  "reused": 125,
   "first_round_flagged": 0,
   "still_flagged": 0,
   "flagged": [],

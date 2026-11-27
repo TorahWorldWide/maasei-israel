@@ -7,12 +7,6 @@
  "title": "Sivan Yaari's Israeli nonprofit pumps clean water with solar power to villages in Africa",
  "trailer": [
   {
-   "text": "Sivan Yaari is an Israeli businesswoman. She founded Innovation: Africa and serves as its Founder and CEO.",
-   "claims": [
-    "c3"
-   ]
-  },
-  {
    "text": "According to ynet, she founded the organization after a visit to Africa, where she saw poverty, hunger and disease, and a lack of clean water and electricity.",
    "claims": [
     "c13"
@@ -48,7 +42,7 @@
    "label": "Founder",
    "value": "Sivan Yaari, Founder and CEO",
    "claims": [
-    "c3"
+    "c81"
    ]
   },
   {
@@ -63,20 +57,6 @@
    "value": "Remote communities in Sub-Saharan Africa",
    "claims": [
     "c1"
-   ]
-  },
-  {
-   "label": "Scale",
-   "value": "According to Wikipedia: over 1,400 projects in 10 countries",
-   "claims": [
-    "c42"
-   ]
-  },
-  {
-   "label": "Recognition",
-   "value": "Consultative status with the UN's ECOSOC since 2012",
-   "claims": [
-    "c56"
    ]
   }
  ],
@@ -537,12 +517,6 @@
    "paragraphs": [
     [
      {
-      "text": "Since 2012 the organization has had special consultative status with the United Nations Economic and Social Council (ECOSOC).",
-      "claims": [
-       "c56"
-      ]
-     },
-     {
       "text": "According to ISRAEL21c, a year after receiving this status, the organization won the Innovation Award at the UN development expo in Nairobi.",
       "claims": [
        "c57"
@@ -553,25 +527,14 @@
      {
       "text": "Yaari was selected to light a torch at the ceremony for Israel's 75th Independence Day in 2023.",
       "claims": [
-       "c60"
+       "c82"
       ]
      },
      {
-      "text": "In 2024 she received the Bertie Lubner Humanitarian Award from the South Africa Jewish Report magazine.",
+      "text": "In October 2026 she received an honorary doctorate from Bar-Ilan University, at the university's 70th gala.",
       "claims": [
-       "c58"
-      ]
-     },
-     {
-      "text": "In 2026, Yaari was named an Honoree of the YPO Global Impact Award, in recognition of her leadership and impact.",
-      "claims": [
-       "c77"
-      ]
-     },
-     {
-      "text": "According to Wikipedia, in October 2026 she received an honorary doctorate from Bar-Ilan University, at the university's 70th gala.",
-      "claims": [
-       "c59"
+       "c85",
+       "c86"
       ]
      }
     ]
@@ -641,12 +604,6 @@
      "says": "JNS: more than 5 million people since 2008",
      "claims": [
       "c41"
-     ]
-    },
-    {
-     "says": "Wikipedia: more than 6 million people, in over 1,400 projects in 10 countries",
-     "claims": [
-      "c42"
      ]
     },
     {
@@ -783,14 +740,6 @@
  "unknowns": [],
  "claims": [
   {
-   "id": "c3",
-   "text": "סיון יערי היא אשת עסקים ישראלית שהקימה את Innovation: Africa ומכהנת כמייסדת וכמנכ\"לית שלה.",
-   "source": "src1",
-   "quote": "Sivan Yaari (Hebrew: סיון יערי; born June 23, 1978) is an Israeli businessperson who founded Innovation: Africa and serves as its Founder & CEO.",
-   "status": "confirmed",
-   "locator": "שורה 12"
-  },
-  {
    "id": "c13",
    "text": "לפי ynet, יערי הקימה את הארגון לאחר שחזרה מביקור באפריקה, שם נחשפה לעוני, רעב ומחלות ולמחסור בתשתיות בסיסיות, בעיקר מים נקיים וחשמל.",
    "source": "src2",
@@ -837,22 +786,6 @@
    "quote": "Innovation: Africa is a non-profit, non-governmental organization that was established in 2008, by its Founder & CEO, Sivan Yaari.",
    "status": "confirmed",
    "locator": "שורה 34"
-  },
-  {
-   "id": "c42",
-   "text": "לפי ויקיפדיה, הארגון השלים מעל 1,400 פרויקטים וסיפק חשמל ומים נקיים ליותר מ-6 מיליון איש ב-10 מדינות באפריקה.",
-   "source": "src1",
-   "quote": "The organization has completed over 1400[8] projects in remote villages,[9] providing electricity and clean water to more than 6 million people[8] across 10 African countries.",
-   "status": "confirmed",
-   "locator": "שורה 16"
-  },
-  {
-   "id": "c56",
-   "text": "מאז 2012 יש לארגון מעמד ייעוצי מיוחד במועצה הכלכלית והחברתית של האו\"ם (ECOSOC).",
-   "source": "src1",
-   "quote": "Since 2012, Innovation: Africa has had a special consultative status to the United Nations Economic and Social Council (ECOSOC).",
-   "status": "confirmed",
-   "locator": "שורה 20"
   },
   {
    "id": "c6",
@@ -1215,38 +1148,6 @@
    "locator": "שורה 29"
   },
   {
-   "id": "c60",
-   "text": "יערי נבחרה להדליק משואה בטקס יום העצמאות ה-75 של ישראל ב-2023.",
-   "source": "src1",
-   "quote": "She was selected to light a torch at the celebration of Israel's 75th Independence Day in 2023.",
-   "status": "confirmed",
-   "locator": "שורה 22"
-  },
-  {
-   "id": "c58",
-   "text": "ב-2024 קיבלה יערי את פרס ברטי לובנר ההומניטרי ממגזין South Africa Jewish Report.",
-   "source": "src1",
-   "quote": "In recognition of her work across rural Africa, in 2024 Sivan was awarded the Bertie Lubner Humanitarian Award by the South Africa Jewish Report magazine.",
-   "status": "confirmed",
-   "locator": "שורה 24"
-  },
-  {
-   "id": "c77",
-   "text": "ב-2026 נבחרה יערי לעמיתת פרס ההשפעה הגלובלית של YPO על מנהיגותה והשפעתה.",
-   "source": "src1",
-   "quote": "In 2026, Yaari was named a YPO Global Impact Award Honoree by Young Presidents' Organization (YPO)",
-   "status": "confirmed",
-   "locator": "שורה 25"
-  },
-  {
-   "id": "c59",
-   "text": "לפי ויקיפדיה, באוקטובר 2026 הוענק ליערי תואר דוקטור לשם כבוד מאוניברסיטת בר-אילן בגאלה ה-70 של האוניברסיטה.",
-   "source": "src1",
-   "quote": "In October 2026, Yaari was awarded an honorary doctorate by Bar-Ilan Univeristy during its 70th anniversary gala",
-   "status": "confirmed",
-   "locator": "שורה 26"
-  },
-  {
    "id": "c69",
    "text": "יערי אמרה שמה שמדאיג אותה ביותר הוא קידוחים חוזרים שלא מוצאים מים, בזמן שהתושבים עוקבים בדאגה.",
    "source": "src2",
@@ -1389,15 +1290,41 @@
    "quote": "Joseph Chamberlain, the British colonial secretary, offered Herzl the Guas Ngishu plateau near Nairobi in East Africa",
    "status": "confirmed",
    "locator": "שורה 6"
+  },
+  {
+   "id": "c81",
+   "text": "מייסדת: סיון יערי, מייסדת ומנכ\"לית",
+   "source": "src14",
+   "quote": "גם סיוון יערי, מייסדת ומנכ\"לית עמותת \"אינוביישין אפריקה Innovation: Africa\",",
+   "status": "confirmed",
+   "locator": "שורה 15"
+  },
+  {
+   "id": "c82",
+   "text": "יערי נבחרה להדליק משואה בטקס יום העצמאות ה-75 של ישראל ב-2023.",
+   "source": "src15",
+   "quote": "In 2023, she was chosen to light the torch at Israel's 75th Independence Day ceremony",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c85",
+   "text": "באוקטובר 2026 קיבלה תואר דוקטור לשם כבוד מאוניברסיטת בר-אילן, בגאלה ה-70 של האוניברסיטה.",
+   "source": "src16",
+   "quote": "The university also honored Russia's Chief Rabbi Berel Lazar, Africa Innovation founder Sivan Yaari",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c86",
+   "text": "באוקטובר 2026 קיבלה תואר דוקטור לשם כבוד מאוניברסיטת בר-אילן, בגאלה ה-70 של האוניברסיטה.",
+   "source": "src16",
+   "quote": "Bar-Ilan University celebrated its 70th anniversary on Monday night with a gala in Ramat Gan",
+   "status": "confirmed",
+   "locator": "שורה 7"
   }
  ],
  "sources": [
-  {
-   "id": "src1",
-   "label": "Wikipedia, Sivan Yaari",
-   "url": "https://en.wikipedia.org/wiki/Sivan_Yaari",
-   "kind": "reference"
-  },
   {
    "id": "src2",
    "label": "ynet, The Angel of Africa – Sivan Yaari",
@@ -1463,6 +1390,24 @@
    "label": "Encyclopedia.com, Uganda Scheme",
    "url": "https://www.encyclopedia.com:443/religion/encyclopedias-almanacs-transcripts-and-maps/uganda-scheme",
    "kind": "reference"
+  },
+  {
+   "id": "src14",
+   "label": "Maariv: Regev decided: Avigdor Kahalani and Shalom Asayag among the torch lighters at the Independence Day ceremony",
+   "url": "https://www.maariv.co.il/news/israel/Article-995900",
+   "kind": "press"
+  },
+  {
+   "id": "src15",
+   "label": "Innovation: Africa: Sivan Yaari",
+   "url": "https://innoafrica.org/?p=912",
+   "kind": "organisation"
+  },
+  {
+   "id": "src16",
+   "label": "JNS: Bar-Ilan marks 70 years with honorary degrees for Gal Gadot, Steve Witkoff",
+   "url": "https://www.jns.org/news/israel-news/bar-ilan-marks-70-years-with-honorary-degrees-for-gal-gadot-steve-witkoff",
+   "kind": "press"
   }
  ],
  "media": [
@@ -1496,9 +1441,7 @@
    "licence": "CC BY-SA 3.0",
    "hosting": "hotlink",
    "caption": "Portrait photograph of Sivan Yaari, smiling and standing against a gray background.",
-   "illustrates": [
-    "c3"
-   ],
+   "illustrates": [],
    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
    "date": "2016-12-14",
    "width": 1365,
@@ -1537,7 +1480,6 @@
    "hosting": "embed",
    "caption": "Interview with Sivan Yaari on i24NEWS (2020) about bringing solar technology and water from Israel to Africa, uploaded by the organization.",
    "illustrates": [
-    "c3",
     "c1"
    ],
    "spoken": "en",
@@ -1557,9 +1499,7 @@
    "licence_url": "https://www.youtube.com/static?template=terms",
    "hosting": "embed",
    "caption": "Channel 2 News interview with Sivan Yaari, founder of Innovation: Africa, with English subtitles.",
-   "illustrates": [
-    "c3"
-   ]
+   "illustrates": []
   },
   {
    "id": "m6",
@@ -1614,9 +1554,7 @@
    "licence_url": "https://www.youtube.com/static?template=terms",
    "hosting": "embed",
    "caption": "Report by the South Africa Jewish Report on Sivan Yaari winning the Bertie Lubner Humanitarian Award.",
-   "illustrates": [
-    "c58"
-   ],
+   "illustrates": [],
    "spoken": "en",
    "audio_tracks": [
     "en"
@@ -1661,7 +1599,7 @@
   "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
   "checked_at": "2026-11-14T01:08:46Z",
   "counts": {
-   "confirmed": 97,
+   "confirmed": 89,
    "not_confirmed": 0,
    "deleted_sentences": 4,
    "first_round_confirmed": 96,
@@ -1682,8 +1620,8 @@
    "fix": "opus-5-5 medium"
   },
   "source_quality": {
-   "sources": 12,
-   "wikipedia": 1,
+   "sources": 14,
+   "wikipedia": 0,
    "strong": 9,
    "ok": true,
    "warnings": []
@@ -1695,23 +1633,29 @@
     "url": "https://www.encyclopedia.com:443/religion/encyclopedias-almanacs-transcripts-and-maps/uganda-scheme",
     "by": "settle 24.11"
    }
-  ]
+  ],
+  "wiki_cleanup": {
+   "at": "2026-11-27T14:48:07Z",
+   "targets": 10,
+   "resourced": 3,
+   "kept_on_other_sources": 0,
+   "deleted": 7
+  }
  },
  "lang": "en",
  "translation": {
   "from": "he",
   "translator": "claude-opus-5-5",
   "checker": "claude-opus-5-5 (separate call, blind to the translation prompt)",
-  "checked_at": "2026-11-23T22:32:31Z",
+  "checked_at": "2026-11-27T14:48:23Z",
   "passed": true,
-  "items": 151,
-  "pairs_checked": 1,
-  "reused": 150,
+  "items": 143,
+  "pairs_checked": 2,
+  "reused": 140,
   "first_round_flagged": 0,
   "still_flagged": 0,
   "flagged": [],
   "quote_translations": {
-   "c3": "Sivan Yaari (Hebrew: סיון יערי; born June 23, 1978) is an Israeli businessperson who founded Innovation: Africa and serves as its Founder & CEO.",
    "c13": "Yaari founded Innovation: Africa when she returned from a visit to the Black Continent, where she was exposed to populations struggling with a capricious climate, severe poverty, hunger and disease",
    "c12": "I saw them walking for hours on foot, digging with their hands in puddles, just to find a little contaminated water.",
    "c17": "She was born in Rishon LeZion to a family of limited means, a father who immigrated from Algiers and a mother who came from Tunis.",
@@ -1730,7 +1674,8 @@
    "c71": "As someone who herself experienced poverty in Israel, that is true, but I found an accessible solution to a different kind of poverty.",
    "c45": "At least three million people in Africa owe the significant improvement in their quality of life to one Israeli woman,",
    "c48": "Yaari operates in six African countries, in which she has also established representative offices of the nonprofit with local staff: Uganda, Malawi, Tanzania, Cameroon, Zambia and South Africa.",
-   "c8": "Even this morning there were still more than 450 million people whom we have not yet reached."
+   "c8": "Even this morning there were still more than 450 million people whom we have not yet reached.",
+   "c81": "Also Sivan Yaari, founder and CEO of the nonprofit \"Innovation Africa Innovation: Africa\","
   }
  }
 }

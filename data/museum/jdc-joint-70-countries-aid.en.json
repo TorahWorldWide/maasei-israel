@@ -1,2206 +1,2239 @@
 {
-  "schema": "maasei-museum/1",
-  "slug": "jdc-joint-70-countries-aid",
-  "deed": "הג'וינט פועל ביותר מ-70 מדינות ומסייע גם לקהילות לא-יהודיות באסונות",
-  "canonical_type": "ongoing-charity",
-  "year": "1914",
-  "title": "The JDC, a Jewish relief organization from New York, also helps non-Jewish communities after disasters",
-  "trailer": [
-    {
-      "text": "The Joint (JDC) is a Jewish relief organization based in New York City, and it was founded there on November 27, 1914.",
+ "schema": "maasei-museum/1",
+ "slug": "jdc-joint-70-countries-aid",
+ "deed": "הג'וינט פועל ביותר מ-70 מדינות ומסייע גם לקהילות לא-יהודיות באסונות",
+ "canonical_type": "ongoing-charity",
+ "year": "1914",
+ "title": "The JDC, a Jewish relief organization from New York, also helps non-Jewish communities after disasters",
+ "trailer": [
+  {
+   "text": "According to the JDC Archives, it is active today in more than 70 countries, and its reach extends beyond the Jewish community: non-sectarian disaster relief and long-term development assistance.",
+   "claims": [
+    "c2",
+    "c3"
+   ]
+  },
+  {
+   "text": "After the earthquakes in Turkey in 2023, the JDC worked with the local Jewish community and provided shelter to more than 2,000 people in hotel rooms, tents and containers.",
+   "claims": [
+    "c43",
+    "c27"
+   ]
+  },
+  {
+   "text": "According to its disaster response director, Mickey Noam-Alon, even two years after the earthquake, the sewing workshops launched with the Bülbülzade Foundation serve as a community center for displaced women and children.",
+   "claims": [
+    "c16",
+    "c31",
+    "c32"
+   ]
+  },
+  {
+   "text": "In 2007 the JDC received the Israel Prize.",
+   "claims": [
+    "c81",
+    "c82"
+   ]
+  }
+ ],
+ "hero_media": [
+  "m11",
+  "m6",
+  "m5",
+  "m2",
+  "m9",
+  "m3",
+  "m12",
+  "m10",
+  "m19",
+  "m22",
+  "m23",
+  "m27",
+  "m28",
+  "m29"
+ ],
+ "glance": [
+  {
+   "label": "Founded",
+   "value": "November 27, 1914, New York",
+   "claims": [
+    "c10"
+   ]
+  },
+  {
+   "label": "Reach",
+   "value": "More than 70 countries, according to the JDC Archives",
+   "claims": [
+    "c2"
+   ]
+  },
+  {
+   "label": "For whom",
+   "value": "Non-sectarian disaster relief worldwide",
+   "claims": [
+    "c3"
+   ]
+  },
+  {
+   "label": "Funding",
+   "value": "The Jewish Federations of North America and individual donors",
+   "claims": [
+    "c44"
+   ]
+  },
+  {
+   "label": "Recognition",
+   "value": "Israel Prize, 2007",
+   "claims": [
+    "c85",
+    "c86"
+   ]
+  }
+ ],
+ "stations": [
+  {
+   "id": "s1",
+   "title": "New York, 1914",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "The JDC was founded on November 27, 1914, in New York.",
       "claims": [
-        "c6",
-        "c10"
+       "c10"
       ]
-    },
-    {
-      "text": "According to the JDC Archives, it is active today in more than 70 countries, and its reach extends beyond the Jewish community: non-sectarian disaster relief and long-term development assistance.",
+     }
+    ],
+    [
+     {
+      "text": "According to the Encyclopaedia Judaica, it is an independent, non-political American Jewish relief and welfare organization.",
       "claims": [
-        "c2",
-        "c3"
+       "c7"
       ]
-    },
-    {
-      "text": "After the earthquakes in Turkey in 2023, the JDC worked with the local Jewish community and provided shelter to more than 2,000 people in hotel rooms, tents and containers.",
+     },
+     {
+      "text": "According to the same source, it provides both emergency aid and long-term assistance to Jews and Jewish communities around the world outside North America.",
       "claims": [
-        "c43",
-        "c27"
+       "c7"
       ]
-    },
-    {
-      "text": "According to its disaster response director, Mickey Noam-Alon, even two years after the earthquake, the sewing workshops launched with the Bülbülzade Foundation serve as a community center for displaced women and children.",
+     }
+    ]
+   ],
+   "media": [
+    "m2",
+    "m34",
+    "m36",
+    "m39"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s2",
+   "title": "Rescue in the hard years",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "According to the United States Holocaust Memorial Museum, the JDC helped Jews leave Germany between 1933 and 1939.",
       "claims": [
-        "c16",
-        "c31",
-        "c32"
+       "c74"
       ]
-    },
-    {
-      "text": "According to Wikipedia, in 2007 the JDC was awarded the Israel Prize.",
+     },
+     {
+      "text": "Exactly how many Jews? The sources give different numbers.",
       "claims": [
-        "c9"
+       "c74",
+       "c75",
+       "c89"
       ]
-    }
-  ],
-  "hero_media": [
+     }
+    ],
+    [
+     {
+      "text": "According to the Encyclopaedia Judaica, in 1939 the JDC arranged for the passengers of the ship St. Louis to be accepted by England, Holland, Belgium and France.",
+      "claims": [
+       "c73"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to the Encyclopaedia Judaica, in 1949 the JDC financed Operation Magic Carpet, in which the Jews of Yemen were flown from Aden to Israel.",
+      "claims": [
+       "c78"
+      ]
+     },
+     {
+      "text": "Here too the sources give different numbers.",
+      "claims": [
+       "c77",
+       "c78"
+      ]
+     }
+    ]
+   ],
+   "media": [
     "m11",
     "m6",
     "m5",
-    "m2",
-    "m9",
-    "m3",
-    "m12",
     "m10",
-    "m19",
-    "m22",
-    "m23",
-    "m27",
-    "m28",
-    "m29"
-  ],
-  "glance": [
-    {
-      "label": "Founded",
-      "value": "November 27, 1914, New York",
-      "claims": [
-        "c10"
-      ]
-    },
-    {
-      "label": "What it is",
-      "value": "A Jewish relief organization based in New York",
-      "claims": [
-        "c6"
-      ]
-    },
-    {
-      "label": "Reach",
-      "value": "More than 70 countries, according to the JDC Archives",
-      "claims": [
-        "c2"
-      ]
-    },
-    {
-      "label": "For whom",
-      "value": "Non-sectarian disaster relief worldwide",
-      "claims": [
-        "c3"
-      ]
-    },
-    {
-      "label": "Funding",
-      "value": "The Jewish Federations of North America and individual donors",
-      "claims": [
-        "c44"
-      ]
-    },
-    {
-      "label": "Recognition",
-      "value": "Israel Prize, 2007, according to Wikipedia",
-      "claims": [
-        "c9"
-      ]
-    }
-  ],
-  "stations": [
-    {
-      "id": "s1",
-      "title": "New York, 1914",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "The JDC was founded on November 27, 1914, in New York.",
-            "claims": [
-              "c10"
-            ]
-          },
-          {
-            "text": "It is a Jewish relief organization, based in New York.",
-            "claims": [
-              "c6"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to the Encyclopaedia Judaica, it is an independent, non-political American Jewish relief and welfare organization.",
-            "claims": [
-              "c7"
-            ]
-          },
-          {
-            "text": "According to the same source, it provides both emergency aid and long-term assistance to Jews and Jewish communities around the world outside North America.",
-            "claims": [
-              "c7"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m2",
-        "m34",
-        "m36",
-        "m39"
-      ],
-      "disagreements": []
-    },
-    {
-      "id": "s2",
-      "title": "Rescue in the hard years",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "According to the United States Holocaust Memorial Museum, the JDC helped Jews leave Germany between 1933 and 1939.",
-            "claims": [
-              "c74"
-            ]
-          },
-          {
-            "text": "Exactly how many Jews? The sources give different numbers.",
-            "claims": [
-              "c74",
-              "c75",
-              "c76"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to the Encyclopaedia Judaica, in 1939 the JDC arranged for the passengers of the ship St. Louis to be accepted by England, Holland, Belgium and France.",
-            "claims": [
-              "c73"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to the Encyclopaedia Judaica, in 1949 the JDC financed Operation Magic Carpet, in which the Jews of Yemen were flown from Aden to Israel.",
-            "claims": [
-              "c78"
-            ]
-          },
-          {
-            "text": "Here too the sources give different numbers.",
-            "claims": [
-              "c77",
-              "c78"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m11",
-        "m6",
-        "m5",
-        "m10",
-        "m20",
-        "m24",
-        "m37"
-      ],
-      "disagreements": [
-        "d2",
-        "d3"
-      ]
-    },
-    {
-      "id": "s3",
-      "title": "Not only for Jews",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "According to the JDC Archives, the organization's reach extends beyond the global Jewish community.",
-            "claims": [
-              "c3"
-            ]
-          },
-          {
-            "text": "According to the Archives, it provides non-sectarian disaster relief and long-term development assistance worldwide.",
-            "claims": [
-              "c3"
-            ]
-          },
-          {
-            "text": "According to the Encyclopaedia Judaica, its global activities include non-Jews as well as Jews.",
-            "claims": [
-              "c12"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to the Encyclopaedia Judaica, in 1986 the JDC established the International Development Program.",
-            "claims": [
-              "c11"
-            ]
-          },
-          {
-            "text": "According to the same source, the program was meant to meet the urgent needs of populations around the world after disasters.",
-            "claims": [
-              "c11"
-            ]
-          },
-          {
-            "text": "According to Wikipedia, the JDC contributes millions of dollars in disaster relief and development assistance to non-Jewish communities.",
-            "claims": [
-              "c4"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "The JDC describes itself as the \"Jewish hands\" who help communities of all backgrounds and faiths rebuild themselves after a disaster.",
-            "claims": [
-              "c5"
-            ]
-          },
-          {
-            "text": "Mickey Noam-Alon, the organization's disaster response director, says that a natural disaster affects everyone in its path, regardless of their identity.",
-            "claims": [
-              "c16",
-              "c56"
-            ]
-          },
-          {
-            "text": "According to Lipstein of the organization Olam, Jewish values drive many organizations to rush to help, and obligate them to reach out beyond the community as well.",
-            "claims": [
-              "c55"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m13",
-        "m7",
-        "m18",
-        "m26",
-        "m32"
-      ],
-      "disagreements": []
-    },
-    {
-      "id": "s4",
-      "title": "Turkey, February 2023: the earthquake",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "Noam-Alon describes the earthquake in Turkey in February 2023 as a magnitude-7.8 earthquake that ripped the country apart.",
-            "claims": [
-              "c17"
-            ]
-          },
-          {
-            "text": "According to him, in 103 seconds 500,000 buildings collapsed.",
-            "claims": [
-              "c18"
-            ]
-          },
-          {
-            "text": "According to him, the earthquake encompassed 1,000 square kilometers, and more than 13 million people were affected.",
-            "claims": [
-              "c19"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "In a statement of February 6, 2023, the JDC said it was working with the Jewish community of Turkey to respond to the earthquakes.",
-            "claims": [
-              "c43"
-            ]
-          },
-          {
-            "text": "According to the statement, the local Jewish community has led relief efforts for its neighbors for decades, and the JDC has supported it for years.",
-            "claims": [
-              "c41"
-            ]
-          },
-          {
-            "text": "According to Noam-Alon, thanks to the deep connections with this community, the JDC reached Gaziantep quickly and began operating immediately.",
-            "claims": [
-              "c20"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "The JDC's CEO, Ariel Zwang, said, according to the statement, that the harsh winter makes the aid even more critical.",
-            "claims": [
-              "c42"
-            ]
-          },
-          {
-            "text": "According to the statement, she spoke of people suffering from cold, homelessness, hunger, injury and despair.",
-            "claims": [
-              "c42"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m15",
-        "m14"
-      ],
-      "disagreements": [
-        "d4",
-        "d5"
-      ]
-    },
-    {
-      "id": "s5",
-      "title": "Turkey: a roof, food and blankets",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "According to Noam-Alon, many survivors had to sleep in their cars in a freezing, snowy winter.",
-            "claims": [
-              "c26"
-            ]
-          },
-          {
-            "text": "The JDC provided shelter to more than 2,000 people, in hotel rooms, tents, containers and converted dormitories.",
-            "claims": [
-              "c27"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "Yasemin Orhan and her children lived for a month with distant relatives, in one small room shared with another family and with only a small stove.",
-            "claims": [
-              "c36"
-            ]
-          },
-          {
-            "text": "Hakki said that thanks to JDC-supported housing, the family had a safe and dry place to be together.",
-            "claims": [
-              "c37"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to Noam-Alon, the JDC set up with partners a kitchen that served meals, and distributed blankets.",
-            "claims": [
-              "c28"
-            ]
-          },
-          {
-            "text": "The JDC procured four ambulances able to reach hundreds of thousands of people in southern Turkey.",
-            "claims": [
-              "c25"
-            ]
-          },
-          {
-            "text": "It also brought medical equipment to hospitals and temporary clinics.",
-            "claims": [
-              "c25"
-            ]
-          },
-          {
-            "text": "It supported a pop-up store in Nurdağı that reached more than 3,000 children in just two days.",
-            "claims": [
-              "c30"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to the JDC, the organization evacuated a small group of elderly Jews from Antakya to Istanbul, together with the Jewish community.",
-            "claims": [
-              "c38"
-            ]
-          },
-          {
-            "text": "According to the JDC, it and its partners covered the transportation and care costs.",
-            "claims": [
-              "c38"
-            ]
-          },
-          {
-            "text": "According to JNS, the Antakya community numbers about 20 people, and its roots are 2,500 years old.",
-            "claims": [
-              "c39"
-            ]
-          },
-          {
-            "text": "According to JNS, the evacuation was run by the local Jewish community, which numbers 15,000 people.",
-            "claims": [
-              "c40"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m16"
-      ],
-      "disagreements": [
-        "d6"
-      ]
-    },
-    {
-      "id": "s6",
-      "title": "Turkey: staying after the cameras leave",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "The JDC describes a commitment to stay on the ground long after the disaster, so that communities get back on their feet.",
-            "claims": [
-              "c15"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "Together with the Bülbülzade Foundation, a sewing project was launched for women in the container cities.",
-            "claims": [
-              "c31"
-            ]
-          },
-          {
-            "text": "According to Noam-Alon, even two years after the earthquake, the sewing workshops serve as a multi-purpose community center for displaced women and children.",
-            "claims": [
-              "c32"
-            ]
-          },
-          {
-            "text": "According to him, the JDC is developing a project to establish a prosthetics lab, intended to help more than 800 injured children who are awaiting care.",
-            "claims": [
-              "c33"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to Wein, it is a great thing that a Jewish organization is helping other humans on the ground.",
-            "claims": [
-              "c51"
-            ]
-          }
-        ]
-      ],
-      "media": [],
-      "disagreements": []
-    },
-    {
-      "id": "s7",
-      "title": "From Myanmar to Haiti",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "According to Noam-Alon, the earthquake in Myanmar on March 28, 2025, killed more than 3,600 people, injured 5,000 and displaced more than 200,000 from their homes.",
-            "claims": [
-              "c58"
-            ]
-          },
-          {
-            "text": "He describes Myanmar as a highly vulnerable place, with poor medical services, severe outbreaks of malaria and dengue, and intermittent electricity.",
-            "claims": [
-              "c57"
-            ]
-          },
-          {
-            "text": "According to him, the JDC was among the first international responders there, and the first Jewish humanitarian organization on the ground.",
-            "claims": [
-              "c59"
-            ]
-          },
-          {
-            "text": "According to him, immediately after the earthquakes the organization activated the Go/No-Go app, which confirmed that there was an urgent need to respond.",
-            "claims": [
-              "c60"
-            ]
-          },
-          {
-            "text": "There the JDC distributed hygiene kits, tarps for shelter, mosquito nets and other critical supplies.",
-            "claims": [
-              "c61"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to JNS, the JDC is responding to the flash floods in northern Nepal of August 26, which caused widespread destruction of vital infrastructure.",
-            "claims": [
-              "c62"
-            ]
-          },
-          {
-            "text": "According to JNS, it operates there through local partners.",
-            "claims": [
-              "c63"
-            ]
-          },
-          {
-            "text": "According to JNS, it is providing clean water, hygiene kits, sanitary supplies and disease-outbreak prevention tools.",
-            "claims": [
-              "c63"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to an account by a JDC representative in Haiti, at the time of writing JDC was helping local partners bring medical supplies, water and essential items to the most vulnerable victims of the August earthquake, which occurred after the 2010 earthquake.",
-            "claims": [
-              "c67"
-            ]
-          },
-          {
-            "text": "Jerhi Baptiste tells of a Haitian dancer who lost a leg in the 2010 earthquake and returned to his career thanks to a JDC-supported clinic.",
-            "claims": [
-              "c69"
-            ]
-          },
-          {
-            "text": "According to Baptiste, the JDC brings logistical know-how to chaotic situations, mobilizes local partners and listens to their needs.",
-            "claims": [
-              "c68"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "In 2019, the JDC worked with survivors of Hurricane Dorian in the Bahamas.",
-            "claims": [
-              "c54"
-            ]
-          },
-          {
-            "text": "Together they developed hydroponic food-growing techniques and other ways to prepare for disaster.",
-            "claims": [
-              "c54"
-            ]
-          },
-          {
-            "text": "According to JNS, the JDC has also recently responded to earthquakes in Venezuela, Colombia, Morocco and Haiti.",
-            "claims": [
-              "c65"
-            ]
-          },
-          {
-            "text": "The organization also describes a response in Ethiopia, Chad, India and in the crisis in Ukraine.",
-            "claims": [
-              "c70"
-            ]
-          },
-          {
-            "text": "According to the organization, in its disaster relief work it develops local capacity so that the most vulnerable people in the hardest-hit cities and towns are better prepared for the next emergency.",
-            "claims": [
-              "c71"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m25"
-      ],
-      "disagreements": []
-    },
-    {
-      "id": "s8",
-      "title": "Who stands behind it, and what was recognized",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "According to the press release, the JDC's disaster relief programs are funded by special appeals of the Jewish Federations of North America.",
-            "claims": [
-              "c44"
-            ]
-          },
-          {
-            "text": "According to the statement, tens of thousands of individual donors also contribute to them.",
-            "claims": [
-              "c44"
-            ]
-          },
-          {
-            "text": "According to JNS, the money also comes from the JDC's disaster fund.",
-            "claims": [
-              "c66"
-            ]
-          },
-          {
-            "text": "According to JNS, Julie Platt, chair of the Federations, said that more than 121 local federations raised money for Turkey.",
-            "claims": [
-              "c49"
-            ]
-          },
-          {
-            "text": "According to the Federations, they mobilize resources for urgent aid to communities in need, regardless of faith, ethnicity or origin.",
-            "claims": [
-              "c48"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "The JDC leads the Jewish Coalition for Disaster Relief (JCDR).",
-            "claims": [
-              "c46"
-            ]
-          },
-          {
-            "text": "The coalition has 49 Jewish organizations, most of them from North America.",
-            "claims": [
-              "c46"
-            ]
-          },
-          {
-            "text": "Its relief activities are coordinated with the U.S. Department of State, USAID, Israeli relief efforts and the United Nations.",
-            "claims": [
-              "c45"
-            ]
-          },
-          {
-            "text": "According to Wein, the JDC works in coordination with other bodies, and not to duplicate efforts.",
-            "claims": [
-              "c52"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "JDC Israel presents itself as having accompanied Israeli society for more than 100 years.",
-            "claims": [
-              "c8"
-            ]
-          },
-          {
-            "text": "According to Wikipedia, in 2007 the JDC was awarded the Israel Prize for lifetime achievement and special contribution to society and the State of Israel.",
-            "claims": [
-              "c9"
-            ]
-          },
-          {
-            "text": "The JDC defines itself as the leading Jewish humanitarian organization.",
-            "claims": [
-              "c1"
-            ]
-          },
-          {
-            "text": "In how many countries does it operate? The sources give different numbers.",
-            "claims": [
-              "c1",
-              "c2",
-              "c13",
-              "c14"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m3",
-        "m4",
-        "m9",
-        "m8",
-        "m12",
-        "m17",
-        "m21",
-        "m30",
-        "m31"
-      ],
-      "disagreements": [
-        "d1"
-      ]
-    }
-  ],
-  "disagreements": [
-    {
-      "id": "d1",
-      "question": "In how many countries does the JDC operate?",
-      "versions": [
-        {
-          "says": "The JDC, in a 2023 press release: in 70 countries",
-          "claims": [
-            "c1"
-          ]
-        },
-        {
-          "says": "JDC Archives: in more than 70 countries",
-          "claims": [
-            "c2"
-          ]
-        },
-        {
-          "says": "Encyclopaedia Judaica: in 2004, in more than 60 countries",
-          "claims": [
-            "c13"
-          ]
-        },
-        {
-          "says": "Wikipedia: in 71 countries, as of 2009",
-          "claims": [
-            "c14"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d2",
-      "question": "How many Jews did the JDC help emigrate from Germany before 1939?",
-      "versions": [
-        {
-          "says": "According to the United States Holocaust Memorial Museum, JDC efforts were instrumental in helping at least 190,000 Jews leave Germany between 1933 and 1939.",
-          "claims": [
-            "c74"
-          ]
-        },
-        {
-          "says": "Encyclopaedia Judaica: more than 100,000 refugees by 1939",
-          "claims": [
-            "c75"
-          ]
-        },
-        {
-          "says": "Wikipedia: 110,000 Jews between 1933 and 1939, through JDC-supported organizations",
-          "claims": [
-            "c76"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d3",
-      "question": "How many Jews were flown in Operation Magic Carpet?",
-      "versions": [
-        {
-          "says": "United States Holocaust Memorial Museum: 46,000 Jews from Yemen",
-          "claims": [
-            "c77"
-          ]
-        },
-        {
-          "says": "Encyclopaedia Judaica: about 50,000 Yemenite Jews",
-          "claims": [
-            "c78"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d4",
-      "question": "How long after the earthquake in Turkey did the JDC team reach the ground?",
-      "versions": [
-        {
-          "says": "Noam-Alon: a few hours after the earthquake",
-          "claims": [
-            "c21"
-          ]
-        },
-        {
-          "says": "Avital Sandler-Loeff: less than 24 hours after the earthquake",
-          "claims": [
-            "c22"
-          ]
-        },
-        {
-          "says": "Algemeiner/JNS: two disaster experts and the country director in Turkey arrived within a day",
-          "claims": [
-            "c23"
-          ]
-        },
-        {
-          "says": "eJewishPhilanthropy: Laura Wein arrived 33 hours after the earthquake",
-          "claims": [
-            "c24"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d5",
-      "question": "How many people were killed in the earthquake in Turkey?",
-      "versions": [
-        {
-          "says": "Noam-Alon: more than 50,000",
-          "claims": [
-            "c18"
-          ]
-        },
-        {
-          "says": "A JDC story: more than 50,000",
-          "claims": [
-            "c34"
-          ]
-        },
-        {
-          "says": "eJewishPhilanthropy: in the first days, the death toll passed 24,000",
-          "claims": [
-            "c35"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d6",
-      "question": "How many meals and blankets did the JDC distribute in Turkey?",
-      "versions": [
-        {
-          "says": "Noam-Alon: a kitchen with partners that served 10,000 meals per day, and more than 11,000 blankets",
-          "claims": [
-            "c28"
-          ]
-        },
-        {
-          "says": "Algemeiner/JNS: as of Monday after the earthquake, about 7,000 meals and 10,000 blankets",
-          "claims": [
-            "c29"
-          ]
-        }
-      ]
-    }
-  ],
-  "unknowns": [
-    {
-      "text": "This page does not know exactly how much money the JDC spent on the relief in Turkey",
-      "claims": [
-        "c44"
-      ]
-    },
-    {
-      "text": "According to JNS, the flash floods in northern Nepal occurred on August 26, 2026, and caused extensive destruction to critical infrastructure.",
-      "claims": [
-        "c62"
-      ]
-    }
-  ],
-  "claims": [
-    {
-      "id": "c6",
-      "text": "הג'וינט הוא ארגון סיוע יהודי שמושבו בניו יורק.",
-      "source": "src1",
-      "quote": "also known as Joint or JDC, is a Jewish relief organization based in New York City",
-      "status": "confirmed",
-      "locator": "שורה 21"
-    },
-    {
-      "id": "c10",
-      "text": "הג'וינט נוסד ב-27 בנובמבר 1914 בניו יורק.",
-      "source": "src2",
-      "quote": "On November 27, 1914, they founded the American Jewish Joint Distribution Committee",
-      "status": "confirmed",
-      "locator": "שורה 16"
-    },
-    {
-      "id": "c2",
-      "text": "לפי ארכיון הג'וינט, הארגון פעיל כיום ביותר מ-70 מדינות ופועל עם שותפיו להקלת רעב ומצוקה והצלת יהודים בסכנה.",
-      "source": "src3",
-      "quote": "Active today in more than 70 countries, JDC and its partners work to alleviate hunger and hardship, rescue Jews in danger",
-      "status": "confirmed",
-      "locator": "שורה 17"
-    },
-    {
-      "id": "c3",
-      "text": "לפי ארכיון הג'וינט, פעילות הארגון חורגת מעבר לקהילה היהודית העולמית ומספקת סיוע לא-עדתי באסונות וסיוע פיתוח ארוך טווח ברחבי העולם.",
-      "source": "src3",
-      "quote": "reach extends beyond the global Jewish community by providing non-sectarian disaster relief and long-term development assistance worldwide",
-      "status": "confirmed",
-      "locator": "שורה 17"
-    },
-    {
-      "id": "c43",
-      "text": "הודעת הג'וינט ב-6 בפברואר 2023 מסרה שהארגון משתף פעולה עם הקהילה היהודית בטורקיה כדי להגיב לרעידות האדמה.",
-      "source": "src4",
-      "quote": "The American Jewish Joint Distribution Committee (JDC) is partnering with the Jewish Community of Turkey",
-      "status": "confirmed",
-      "locator": "שורה 5"
-    },
-    {
-      "id": "c27",
-      "text": "הג'וינט סיפק מקלט ליותר מ-2,000 אנשים בחדרי מלון, אוהלים, מכולות ומעונות שהוסבו.",
-      "source": "src5",
-      "quote": "provide shelter to more than 2,000 people in hotel rooms, tents, containers, and converted dormitories",
-      "status": "confirmed",
-      "locator": "שורה 21"
-    },
-    {
-      "id": "c16",
-      "text": "מנהל תגובת האסונות של הג'וינט, מיקי נועם-אלון, מדווח על יותר מ-15 שנות ניסיון בארגון התערבויות הומניטריות מורכבות ברחבי העולם.",
-      "source": "src5",
-      "quote": "has more than 15 years of experience organizing and executing complex humanitarian interventions around the globe",
-      "status": "confirmed",
-      "locator": "שורה 4"
-    },
-    {
-      "id": "c31",
-      "text": "בשיתוף קרן בולבולזאדה הושק פרויקט תפירה לנשים בערי המכולות.",
-      "source": "src5",
-      "quote": "In partnership with the Bülbülzade Foundation, we launched a sewing project for women living in the container cities.",
-      "status": "confirmed",
-      "locator": "שורה 23"
-    },
-    {
-      "id": "c32",
-      "text": "לפי נועם-אלון, גם שנתיים אחרי הרעידה סדנאות התפירה משמשות מרכז קהילתי רב-תכליתי לנשים וילדים עקורים.",
-      "source": "src5",
-      "quote": "Even now, two years after the earthquake, the sewing workshops serve as a vital multi-purpose community center",
-      "status": "confirmed",
-      "locator": "שורה 24"
-    },
-    {
-      "id": "c9",
-      "text": "בשנת 2007 הוענק לג'וינט פרס ישראל על מפעל חיים ותרומה מיוחדת לחברה ולמדינת ישראל, לפי ויקיפדיה.",
-      "source": "src1",
-      "quote": "the JDC was awarded the Israel Prize for its lifetime achievements and special contribution to society and the State of Israel",
-      "status": "confirmed",
-      "locator": "שורה 54"
-    },
-    {
-      "id": "c44",
-      "text": "לפי ההודעה לעיתונות, תוכניות הסיוע באסונות של הג'וינט ממומנות בקריאות מיוחדות של הפדרציות היהודיות של צפון אמריקה ועשרות אלפי תורמים פרטיים.",
-      "source": "src4",
-      "quote": "are funded by special appeals of the Jewish Federations of North America and tens of thousands of individual donors to JDC",
-      "status": "confirmed",
-      "locator": "שורה 8"
-    },
-    {
-      "id": "c7",
-      "text": "לפי האנציקלופדיה היהודית, הג'וינט הוא ארגון סיוע ורווחה יהודי-אמריקאי עצמאי ובלתי פוליטי, המספק סיוע חירום וסיוע ארוך טווח.",
-      "source": "src6",
-      "quote": "independent, non-political American Jewish relief and welfare organization dedicated to providing both emergency aid and long-term assistance",
-      "status": "confirmed",
-      "locator": "שורה 6"
-    },
-    {
-      "id": "c74",
-      "text": "לפי מוזיאון השואה האמריקאי, הג'וינט סייע ליותר מ-190,000 יהודים לעזוב את גרמניה בין 1933 ל-1939.",
-      "source": "src2",
-      "quote": "JDC efforts were instrumental in assisting at least 190,000 Jews to leave Germany between 1933 and 1939",
-      "status": "confirmed",
-      "locator": "שורה 21"
-    },
-    {
-      "id": "c75",
-      "text": "לפי האנציקלופדיה היהודית, עד 1939 הג'וינט סייע ליותר מ-100,000 פליטים להגר מגרמניה.",
-      "source": "src6",
-      "quote": "By 1939, jdc had helped more than 100,000 refugees emigrate from Germany.",
-      "status": "confirmed",
-      "locator": "שורה 26"
-    },
-    {
-      "id": "c76",
-      "text": "לפי ויקיפדיה, בין 1933 ל-1939 ארגונים בתמיכת הג'וינט סייעו ל-110,000 יהודים להגר מגרמניה.",
-      "source": "src1",
-      "quote": "From 1933 to 1939, JDC-supported organizations helped 110,000 Jews emigrate from Germany, 30,000 in 1939 alone.",
-      "status": "confirmed",
-      "locator": "שורה 85"
-    },
-    {
-      "id": "c73",
-      "text": "לפי האנציקלופדיה היהודית, ב-1939 הג'וינט הושיע את נוסעי האוניה סנט לואיס בכך שסידר את קבלתם באנגליה, הולנד, בלגיה וצרפת.",
-      "source": "src6",
-      "quote": "jdc arranged for the passengers to be accepted by England, Holland, Belgium, and France, so they would not have to return to Germany",
-      "status": "confirmed",
-      "locator": "שורה 24"
-    },
-    {
-      "id": "c78",
-      "text": "לפי האנציקלופדיה היהודית, ב-1949 מימן הג'וינט את מבצע שטיח הקסמים, שבו הוטסו כ-50,000 יהודי תימן מעדן לישראל.",
-      "source": "src6",
-      "quote": "In 1949 jdc financed Operation Magic Carpet, the airlift of some 50,000 Yemenite Jews from Aden to Israel",
-      "status": "confirmed",
-      "locator": "שורה 43"
-    },
-    {
-      "id": "c77",
-      "text": "לפי מוזיאון השואה האמריקאי, במבצע שטיח הקסמים הוטסו 46,000 יהודים מתימן מעדן.",
-      "source": "src2",
-      "quote": "including 46,000 from Yemen flown in from the British colony Aden in Operation “Magic Carpet.”",
-      "status": "confirmed",
-      "locator": "שורה 32"
-    },
-    {
-      "id": "c12",
-      "text": "לפי האנציקלופדיה היהודית, פעילות הג'וינט העולמית כוללת לא-יהודים לצד יהודים.",
-      "source": "src6",
-      "quote": "global activities include non-Jews as well as Jews",
-      "status": "confirmed",
-      "locator": "שורה 70"
-    },
-    {
-      "id": "c11",
-      "text": "לפי האנציקלופדיה היהודית, בשנת 1986 הקים הג'וינט את תוכנית הפיתוח הבינלאומית כדי לתת מענה לצרכים דחופים של אוכלוסיות ברחבי העולם בעקבות אסונות.",
-      "source": "src6",
-      "quote": "In 1986, jdc established the International Development Program (idp), to meet the urgent needs of populations around the world following natural or other disasters.",
-      "status": "confirmed",
-      "locator": "שורה 70"
-    },
-    {
-      "id": "c4",
-      "text": "לפי ויקיפדיה, הג'וינט תורם מיליוני דולרים לסיוע באסונות ולסיוע פיתוח לקהילות לא-יהודיות.",
-      "source": "src1",
-      "quote": "In addition, the JDC contributes millions of dollars in disaster relief and development assistance to non-Jewish communities.",
-      "status": "confirmed",
-      "locator": "שורה 22"
-    },
-    {
-      "id": "c5",
-      "text": "הג'וינט מתאר את עצמו כ'הידיים היהודיות' שעוזרות לקהילות מכל הרקעים והדתות לשקם את עצמן לאחר אסון.",
-      "source": "src7",
-      "quote": "we are the Jewish hands who help communities of all backgrounds and faiths rebuild",
-      "status": "confirmed",
-      "locator": "שורה 3"
-    },
-    {
-      "id": "c56",
-      "text": "לפי נועם-אלון, אסון טבע משפיע על כל מי שנקרא בדרכו ללא קשר לזהותו.",
-      "source": "src5",
-      "quote": "an earthquake, cyclone, or tsunami affects everyone in its path, regardless of their identity",
-      "status": "confirmed",
-      "locator": "שורה 47"
-    },
-    {
-      "id": "c55",
-      "text": "לפי ליפשטיין מארגון אולם, ערכים יהודיים מניעים ארגונים רבים להזדרז לסייע ומחייבים להושיט עזרה מעבר לקהילה.",
-      "source": "src8",
-      "quote": "As Jews, when we are lucky enough to have the capacity to extend our giving beyond our community, we must fulfill our moral responsibility",
-      "status": "confirmed",
-      "locator": "שורה 11"
-    },
-    {
-      "id": "c17",
-      "text": "נועם-אלון מתאר את רעידת האדמה בטורקיה בפברואר 2023 כרעידה בעוצמה 7.8 שקרעה את המדינה.",
-      "source": "src5",
-      "quote": "but this was Turkey in February 2023. A magnitude-7.8 earthquake had just ripped the country apart",
-      "status": "confirmed",
-      "locator": "שורה 9"
-    },
-    {
-      "id": "c18",
-      "text": "לפי נועם-אלון, ב-103 שניות נהרגו בטורקיה יותר מ-50,000 בני אדם וקרסו 500,000 מבנים.",
-      "source": "src5",
-      "quote": "all it took was 103 seconds— less than two minutes — for more than 50,000 people to perish and 500,000 buildings to collapse",
-      "status": "confirmed",
-      "locator": "שורה 16"
-    },
-    {
-      "id": "c19",
-      "text": "לפי נועם-אלון, הרעש כיסה 1,000 קילומטרים רבועים ומעל 13 מיליון בני אדם נפגעו.",
-      "source": "src5",
-      "quote": "The earthquake encompassed 1,000 square kilometers, and over 13 million people were affected.",
-      "status": "confirmed",
-      "locator": "שורה 16"
-    },
-    {
-      "id": "c41",
-      "text": "לפי הודעת הג'וינט לעיתונות, הקהילה היהודית המקומית בטורקיה הובילה במשך עשרות שנים מאמצי סיוע לשכניה, והג'וינט תומך בה זה שנים.",
-      "source": "src4",
-      "quote": "longstanding support and cooperation with the 15,000-person local Jewish community, who have led disaster response efforts aiding their neighbors for many decades",
-      "status": "confirmed",
-      "locator": "שורה 7"
-    },
-    {
-      "id": "c20",
-      "text": "לפי נועם-אלון, בזכות הקשרים העמוקים עם הקהילה היהודית בטורקיה, הג'וינט הגיע במהירות לגאזיאנטפ והחל להגיב מיד.",
-      "source": "src5",
-      "quote": "Thanks to our deep and lasting connections with the Jewish community of Turkey, we reached Gaziantep quickly and launched our response immediately.",
-      "status": "confirmed",
-      "locator": "שורה 10"
-    },
-    {
-      "id": "c42",
-      "text": "לפי ההודעה לעיתונות, מנכ\"לית הג'וינט אריאל צוואנג אמרה שהחורף הקשה הופך את הסיוע לקריטי עוד יותר לאנשים הסובלים מקור, חוסר בית, רעב, פציעה ויאוש.",
-      "source": "src4",
-      "quote": "knowing that the harsh winter season makes this aid all the more critical to people enduring the cold, homelessness, hunger, injury, and despair",
-      "status": "confirmed",
-      "locator": "שורה 6"
-    },
-    {
-      "id": "c26",
-      "text": "לפי נועם-אלון, ניצולים רבים נאלצו לישון ברכביהם בחורף הקפוא והמושלג.",
-      "source": "src5",
-      "quote": "Many earthquake survivors had to sleep in their cars, if they had them",
-      "status": "confirmed",
-      "locator": "שורה 20"
-    },
-    {
-      "id": "c36",
-      "text": "חקי ויסמין אורהאן וילדיהם בילו חודש אצל קרובים רחוקים בחדר קטן אחד שחלקו עם משפחה נוספת, עם תנור קטן בלבד.",
-      "source": "src9",
-      "quote": "Yasemin and her children spent a month with distant relatives, packed into one small room shared with another family, with only a small stove to keep them all warm.",
-      "status": "confirmed",
-      "locator": "שורה 7"
-    },
-    {
-      "id": "c37",
-      "text": "חקי אורהאן סיפר שבזכות דיור בתמיכת הג'וינט היה למשפחה מקום בטוח ויבש להיות יחד.",
-      "source": "src9",
-      "quote": "While everyone was looking for a roof over their heads, we had a safe and dry place to be together as a family",
-      "status": "confirmed",
-      "locator": "שורה 24"
-    },
-    {
-      "id": "c28",
-      "text": "לפי נועם-אלון, הג'וינט הקים עם שותפים מטבח שהגיש 10,000 ארוחות ביום וחילק יותר מ-11,000 שמיכות.",
-      "source": "src5",
-      "quote": "we worked with our partners to set up a kitchen that served 10,000 meals per day and we delivered over 11,000 blankets to those enduring the cold",
-      "status": "confirmed",
-      "locator": "שורה 21"
-    },
-    {
-      "id": "c25",
-      "text": "בסיוע לטורקיה הג'וינט רכש ארבע אמבולנסים שיכולים להגיע למאות אלפי אנשים בדרום טורקיה והביא ציוד רפואי לבתי חולים ולמרפאות זמניות.",
-      "source": "src5",
-      "quote": "we procured four ambulances, able to reach hundreds of thousands of people across southern Turkey",
-      "status": "confirmed",
-      "locator": "שורה 19"
-    },
-    {
-      "id": "c30",
-      "text": "הג'וינט תמך בחנות פופ-אפ בנורדאי שהגיעה ליותר מ-3,000 ילדים בשני ימים בלבד.",
-      "source": "src5",
-      "quote": "We also supported a pop-up store in Nurdağı that reached more than 3,000 children in just two days.",
-      "status": "confirmed",
-      "locator": "שורה 21"
-    },
-    {
-      "id": "c38",
-      "text": "לפי הג'וינט, הארגון פינה קבוצה קטנה של יהודים קשישים מאנטקיה לאיסטנבול בשיתוף הקהילה היהודית, והג'וינט ושותפיו כיסו את עלויות ההובלה והטיפול.",
-      "source": "src9",
-      "quote": "to evacuate a small group of elderly Jews from Antakya to safety in Istanbul, with JDC and its partners covering transportation and care costs",
-      "status": "confirmed",
-      "locator": "שורה 21"
-    },
-    {
-      "id": "c39",
-      "text": "לפי אלגמיינר/JNS, הג'וינט ושותפים סייעו במימון ההובלה והטיפול בקהילת אנטקיה, כ-20 איש ששורשיה בני 2,500 שנה.",
-      "source": "src10",
-      "quote": "JDC and partners helped fund the transportation and care of that community of about 20 people, whose roots date back 2,500 years.",
-      "status": "confirmed",
-      "locator": "שורה 5"
-    },
-    {
-      "id": "c40",
-      "text": "לפי JNS, הג'וינט עובד עם הקהילה היהודית המקומית בת 15,000 האנשים, שניהלה מבצע פינוי של יהודי אנטקיה.",
-      "source": "src10",
-      "quote": "The team is working with the local, 15,000-strong Jewish community, which ran an evacuation operation to evacuate the Jews of hard-hit Antakya.",
-      "status": "confirmed",
-      "locator": "שורה 4"
-    },
-    {
-      "id": "c15",
-      "text": "הג'וינט מתאר מחויבות להישאר בשטח זמן רב אחרי האסון, כדי שהקהילות יעמדו שוב על רגליהן.",
-      "source": "src7",
-      "quote": "We’re on the ground from the very beginning, and we stay long after it’s over to make sure those communities get back on their feet.",
-      "status": "confirmed",
-      "locator": "שורה 3"
-    },
-    {
-      "id": "c33",
-      "text": "לפי נועם-אלון, הג'וינט מפתח פרויקט להקמת מעבדת תותבות לעזרה ליותר מ-800 ילדים פצועים שממתינים לטיפול.",
-      "source": "src5",
-      "quote": "We are now developing a project to establish a prosthetics lab to help more than 800 injured children who are still awaiting care.",
-      "status": "confirmed",
-      "locator": "שורה 26"
-    },
-    {
-      "id": "c24",
-      "text": "לפי eJewishPhilanthropy, לאורה ויין, מנהלת תגובת האסונות של הג'וינט, הגיעה לטורקיה 33 שעות לאחר הרעידה.",
-      "source": "src8",
-      "quote": "arrived in Turkey 33 hours after the earthquake initially struck",
-      "status": "confirmed",
-      "locator": "שורה 18"
-    },
-    {
-      "id": "c51",
-      "text": "לפי ויין, כארגון יהודי הסיוע לבני אדם אחרים בשטח הוא דבר מצוין.",
-      "source": "src10",
-      "quote": "As a Jewish organization, being on the ground helping other humans is a great thing",
-      "status": "confirmed",
-      "locator": "שורה 25"
-    },
-    {
-      "id": "c58",
-      "text": "לפי נועם-אלון, רעידת האדמה במיאנמר ב-28 במרץ 2025 הרגה יותר מ-3,600 בני אדם, פצעה 5,000 ועקרה יותר מ-200,000 מבתיהם.",
-      "source": "src5",
-      "quote": "killing more than 3,600 people, injuring 5,000 more, and displacing over 200,000 from their homes",
-      "status": "confirmed",
-      "locator": "שורה 35"
-    },
-    {
-      "id": "c57",
-      "text": "נועם-אלון מתאר את מיאנמר כמקום פגיע מאוד מבחינת תשתיות, עם שירותי רפואה לקויים, התפרצויות קשות של מלריה ודנגי וחשמל לסירוגין.",
-      "source": "src5",
-      "quote": "Medical services are sorely lacking, malaria and dengue outbreaks are severe and common, and electricity is spotty",
-      "status": "confirmed",
-      "locator": "שורה 33"
-    },
-    {
-      "id": "c59",
-      "text": "לפי נועם-אלון, הג'וינט היה בין המגיבים הבינלאומיים הראשונים והארגון ההומניטרי היהודי הראשון שפעל בשטח במיאנמר.",
-      "source": "src5",
-      "quote": "JDC was among the first international responders, and the first Jewish humanitarian organization, to operate on the ground in Myanmar",
-      "status": "confirmed",
-      "locator": "שורה 37"
-    },
-    {
-      "id": "c60",
-      "text": "לפי נועם-אלון, הג'וינט הפעיל מיד אחרי הרעידות את אפליקציית Go/No-Go שאישרה את הצורך הדחוף בתגובה.",
-      "source": "src5",
-      "quote": "Immediately after the earthquakes, we activated our Go/No-Go app, confirming the urgent need for a response",
-      "status": "confirmed",
-      "locator": "שורה 37"
-    },
-    {
-      "id": "c61",
-      "text": "במיאנמר הג'וינט חילק ערכות היגיינה, יריעות מחסה, כילות נגד יתושים וציוד קריטי נוסף.",
-      "source": "src5",
-      "quote": "distribute basic necessities, like hygiene kits, tarps for shelter, mosquito nets, and other critical supplies",
-      "status": "confirmed",
-      "locator": "שורה 41"
-    },
-    {
-      "id": "c62",
-      "text": "לפי JNS, הג'וינט מגיב להצפות הפתע בצפון נפאל ב-26 באוגוסט, שגרמו להרס נרחב לתשתיות קריטיות.",
-      "source": "src11",
-      "quote": "responding to the catastrophic flash floods that struck northern Nepal on Aug. 26",
-      "status": "confirmed",
-      "locator": "שורה 7"
-    },
-    {
-      "id": "c63",
-      "text": "בנפאל הג'וינט פועל דרך שותפים מקומיים ומספק מים נקיים, ערכות היגיינה, אספקה סניטרית וכלים למניעת התפרצות מחלות.",
-      "source": "src11",
-      "quote": "Working through local partners in the region, JDC is providing critically needed clean water, hygiene kits, sanitary supplies and disease-outbreak prevention tools",
-      "status": "confirmed",
-      "locator": "שורה 8"
-    },
-    {
-      "id": "c67",
-      "text": "בהאיטי הג'וינט עוזר לשותפים מקומיים להעביר ציוד רפואי, מים וציוד חיוני לקורבנות הפגיעים ביותר של רעידת האדמה.",
-      "source": "src12",
-      "quote": "JDC is helping its local partners get medical supplies, water, and other essential items to the most vulnerable earthquake victims",
-      "status": "confirmed",
-      "locator": "שורה 17"
-    },
-    {
-      "id": "c69",
-      "text": "בפטיסט מספר שרקדן האיטי שאיבד רגל ברעידת 2010 הצליח לחזור לקריירה בזכות מרפאה בתמיכת הג'וינט.",
-      "source": "src12",
-      "quote": "Thanks to a JDC-supported clinic, George was able to meet with an orthopedic surgeon, treat his injuries, and continue his career",
-      "status": "confirmed",
-      "locator": "שורה 23"
-    },
-    {
-      "id": "c68",
-      "text": "לפי ג'רהי בפטיסט, הג'וינט מביא ידע לוגיסטי למצבים כאוטיים, מגייס שותפים מקומיים ומקשיב לצרכיהם.",
-      "source": "src12",
-      "quote": "JDC brings logistical savvy to otherwise chaotic situations, mobilizing its local partners and listening to what they need",
-      "status": "confirmed",
-      "locator": "שורה 18"
-    },
-    {
-      "id": "c54",
-      "text": "ב-2019 עבד הג'וינט עם ניצולי הוריקן דוריאן בבהאמה כדי לפתח טכניקות מזון הידרופוניות וצורות נוספות של היערכות לאסון.",
-      "source": "src8",
-      "quote": "In 2019, for example, the group worked with survivors of Hurricane Dorian, which devastated the Bahamas, to help them develop hydroponic food techniques",
-      "status": "confirmed",
-      "locator": "שורה 19"
-    },
-    {
-      "id": "c65",
-      "text": "לפי JNS, הג'וינט הגיב לאחרונה לרעידות אדמה בוונצואלה, קולומביה, מיאנמר, טורקיה, מרוקו והאיטי.",
-      "source": "src11",
-      "quote": "has most recently responded to the earthquakes in Venezuela and Colombia, earthquakes in Myanmar, Turkey, Morocco, and Haiti",
-      "status": "confirmed",
-      "locator": "שורה 12"
-    },
-    {
-      "id": "c70",
-      "text": "הג'וינט מתאר שימוש בניסיון של מאה שנות הצלה וסיוע להגיב באתיופיה, בצ'אד ובהודו ובמשבר אוקראינה.",
-      "source": "src7",
-      "quote": "We leverage a century of rescue and relief experience to launch an effective response in places like Ethiopia, Chad, and India",
-      "status": "confirmed",
-      "locator": "שורה 21"
-    },
-    {
-      "id": "c71",
-      "text": "לפי הג'וינט, בהתערבויות אלה הוא מרחיב מיומנות מקומית לשיפור ההיערכות לחירום עתידי.",
-      "source": "src7",
-      "quote": "develop local capacity to ensure that the most vulnerable people in the hardest-hit towns and cities are better prepared to mitigate future emergencies",
-      "status": "confirmed",
-      "locator": "שורה 21"
-    },
-    {
-      "id": "c66",
-      "text": "לפי JNS, תוכניות הסיוע באסונות ממומנות מקרן האסונות של הג'וינט ומקריאות מיוחדות של הפדרציות היהודיות ותורמים פרטיים.",
-      "source": "src11",
-      "quote": "The disaster-relief programs are funded by its disaster fund, as well as special appeals from the Jewish Federations of North America",
-      "status": "confirmed",
-      "locator": "שורה 11"
-    },
-    {
-      "id": "c49",
-      "text": "לפי JNS, ג'ולי פלאט, יו\"ר הפדרציות היהודיות של צפון אמריקה, אמרה שמעל 121 פדרציות מקומיות גייסו כספים לטורקיה.",
-      "source": "src10",
-      "quote": "more than 121 local Jewish federations had people contribute funds for Turkey",
-      "status": "confirmed",
-      "locator": "שורה 28"
-    },
-    {
-      "id": "c48",
-      "text": "לפי הפדרציות היהודיות של צפון אמריקה, הן מגייסות משאבים לסיוע הומניטרי דחוף לקהילות נזקקות ללא קשר לדת, אתניות או מוצא.",
-      "source": "src13",
-      "quote": "deliver urgent humanitarian aid to communities in need regardless of faith, ethnicity, or origin",
-      "status": "confirmed",
-      "locator": "שורה 3"
-    },
-    {
-      "id": "c46",
-      "text": "הג'וינט מוביל את הקואליציה היהודית לסיוע באסונות (JCDR), הכוללת 49 ארגונים יהודיים, רובם צפון-אמריקאיים.",
-      "source": "src4",
-      "quote": "JDC also leads the Jewish Coalition for Disaster Relief (JCDR), made up of 49 mostly North American Jewish organizations",
-      "status": "confirmed",
-      "locator": "שורה 9"
-    },
-    {
-      "id": "c45",
-      "text": "פעילות הסיוע של הג'וינט מתואמת עם משרד החוץ האמריקאי, USAID, מאמצי סיוע ישראליים והאו\"ם.",
-      "source": "src4",
-      "quote": "JDC relief activities are coordinated with the U.S. Department of State, USAID, Israeli relief efforts, and the United Nations",
-      "status": "confirmed",
-      "locator": "שורה 8"
-    },
-    {
-      "id": "c52",
-      "text": "לפי ויין, הג'וינט פועל תוך תיאום עם גופים אחרים ולא כדי לשכפל מאמצים.",
-      "source": "src10",
-      "quote": "We always look to leverage these other efforts and not to duplicate, and that’s what’s happening.",
-      "status": "confirmed",
-      "locator": "שורה 22"
-    },
-    {
-      "id": "c8",
-      "text": "ג'וינט ישראל מציג עצמו כמי שמלווה את החברה הישראלית יותר מ-100 שנים.",
-      "source": "src14",
-      "quote": "אנחנו מלווים את החברה הישראלית כבר יותר מ-100 שנים",
-      "status": "confirmed",
-      "locator": "שורה 44"
-    },
-    {
-      "id": "c1",
-      "text": "הג'וינט (JDC) מגדיר את עצמו כארגון ההומניטרי היהודי המוביל, הפועל ב-70 מדינות.",
-      "source": "src4",
-      "quote": "is the leading Jewish humanitarian organization, working in 70 countries to lift lives and strengthen communities",
-      "status": "confirmed",
-      "locator": "שורה 11"
-    },
-    {
-      "id": "c13",
-      "text": "לפי האנציקלופדיה היהודית, ב-2004 פעל הג'וינט ביותר מ-60 מדינות.",
-      "source": "src6",
-      "quote": "In 2004, after 90 years of service, jdc was operating in over 60 countries",
-      "status": "confirmed",
-      "locator": "שורה 6"
-    },
-    {
-      "id": "c14",
-      "text": "לפי ויקיפדיה, הג'וינט פועל ב-71 מדינות נכון ל-2009.",
-      "source": "src1",
-      "quote": "They are conducting projects in 71 countries, including Argentina, Croatia, Ethiopia, Poland, Morocco, Cuba, and throughout the former Soviet Union",
-      "status": "confirmed",
-      "locator": "שורה 125"
-    },
-    {
-      "id": "c21",
-      "text": "לפי נועם-אלון, כמה שעות לאחר הרעידה כבר היו אנשי הג'וינט בשטח.",
-      "source": "src5",
-      "quote": "Just a few hours after that, we were on the ground, helping to lead our multipronged disaster-response efforts.",
-      "status": "confirmed",
-      "locator": "שורה 17"
-    },
-    {
-      "id": "c22",
-      "text": "לפי אביטל סנדלר-לף, צוות הג'וינט היה בשטח פחות מ-24 שעות לאחר הרעידה.",
-      "source": "src9",
-      "quote": "Our team was on the ground less than 24 hours after the earthquake, and we knew we could help and make an impact",
-      "status": "confirmed",
-      "locator": "שורה 14"
-    },
-    {
-      "id": "c23",
-      "text": "לפי אלגמיינר/JNS, שני מומחי אסונות ומנהל המדינה של הג'וינט בטורקיה הגיעו כולם תוך יממה מהרעידה הראשונה.",
-      "source": "src10",
-      "quote": "all arrived within a day of the first earthquake",
-      "status": "confirmed",
-      "locator": "שורה 4"
-    },
-    {
-      "id": "c34",
-      "text": "לפי סיפור של הג'וינט, הרעידה בטורקיה הרגה יותר מ-50,000 בני אדם והרסה למעלה מ-500,000 מבנים.",
-      "source": "src9",
-      "quote": "which killed more than 50,000 people and destroyed over 500,000 buildings",
-      "status": "confirmed",
-      "locator": "שורה 7"
-    },
-    {
-      "id": "c35",
-      "text": "לפי eJewishPhilanthropy, בימים הראשונים לאחר הרעידה, שמספר ההרוגים בה חצה את ה-24,000, נשלחו עשרות ארגונים יהודיים וישראליים לסייע.",
-      "source": "src8",
-      "quote": "dozens of Jewish and Israeli organizations — along with aid agencies from all over the world — have dispatched teams to help with relief efforts as the death toll climbs above 24,000",
-      "status": "confirmed",
-      "locator": "שורה 9"
-    },
-    {
-      "id": "c29",
-      "text": "לפי אלגמיינר/JNS, נכון ליום שני אחרי הרעידה חילק הג'וינט כ-7,000 ארוחות ו-10,000 שמיכות.",
-      "source": "src10",
-      "quote": "As of Monday, the JDC had distributed some 7,000 meals and 10,000 blankets",
-      "status": "confirmed",
-      "locator": "שורה 10"
-    }
-  ],
-  "sources": [
-    {
-      "id": "src1",
-      "label": "Wikipedia, American Jewish Joint Distribution Committee",
-      "url": "https://en.wikipedia.org/wiki/American_Jewish_Joint_Distribution_Committee",
-      "kind": "reference"
-    },
-    {
-      "id": "src2",
-      "label": "United States Holocaust Memorial Museum Encyclopedia",
-      "url": "https://encyclopedia.ushmm.org/content/en/article/american-jewish-joint-distribution-committee-and-refugee-aid",
-      "kind": "reference"
-    },
-    {
-      "id": "src3",
-      "label": "JDC Archives, History of JDC",
-      "url": "https://archives.jdc.org/?p=53805",
-      "kind": "organisation"
-    },
-    {
-      "id": "src4",
-      "label": "JDC, press release on the earthquakes in Turkey, 2023",
-      "url": "https://jdc.org/press-releases/jdc-deploys-response-to-turkey-earthquakes/",
-      "kind": "organisation"
-    },
-    {
-      "id": "src5",
-      "label": "JDC Voices, interview with a disaster relief expert",
-      "url": "https://www.jdc.org/voice/nonsectarian-aid-jewish-values-this-disaster-relief-expert-reflects-on-jdcs-global-work/",
-      "kind": "organisation"
-    },
-    {
-      "id": "src6",
-      "label": "Encyclopedia.com, American Jewish Joint Distribution Committee",
-      "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/american-jewish-joint-distribution-committee",
-      "kind": "reference"
-    },
-    {
-      "id": "src7",
-      "label": "JDC, Global Crises Response",
-      "url": "https://www.jdc.org/our-work/global-crises-response/",
-      "kind": "organisation"
-    },
-    {
-      "id": "src8",
-      "label": "eJewishPhilanthropy, Jewish and Israeli organizations in earthquake relief",
-      "url": "https://ejewishphilanthropy.com/jewish-and-israeli-humanitarian-organizations-join-earthquake-relief-efforts/",
-      "kind": "press"
-    },
-    {
-      "id": "src9",
-      "label": "JDC, Stories: In Turkey, Leveraging Partners for a Robust Nonsectarian Response",
-      "url": "https://www.jdc.org/stories/in-turkey-leveraging-partners-for-a-robust-nonsectarian-response/",
-      "kind": "organisation"
-    },
-    {
-      "id": "src10",
-      "label": "Algemeiner, 16.2.2023",
-      "url": "https://www.algemeiner.com/2023/02/16/jdc-works-with-turkeys-local-community-global-jewry-to-bring-relief-to-quake-victims/",
-      "kind": "press"
-    },
-    {
-      "id": "src11",
-      "label": "JNS, JDC responds to floods in Nepal",
-      "url": "https://www.jns.org/wire/jdc/jdc-responds-to-aftermath-of-catastrophic-flooding-in-nepal",
-      "kind": "press"
-    },
-    {
-      "id": "src12",
-      "label": "JDC Voices, the earthquake in Haiti",
-      "url": "https://jdc.org/voice/on-our-feet-again-a-jdc-disaster-relief-expert-reflects-on-the-earthquake-in-haiti/",
-      "kind": "organisation"
-    },
-    {
-      "id": "src13",
-      "label": "Jewish Federations of North America, Global Humanitarian Efforts",
-      "url": "https://www.jewishfederations.org/about-us/global-humanitarian-efforts",
-      "kind": "organisation"
-    },
-    {
-      "id": "src14",
-      "label": "JDC Israel",
-      "url": "https://www.thejoint.org.il/en/?p=169",
-      "kind": "organisation"
-    }
-  ],
-  "media": [
-    {
-      "id": "m2",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/1914%20telegram%20that%20prompted%20the%20establishment%20of%20the%20Joint%20Distribution%20Committee%20%28JDC%29.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:1914_telegram_that_prompted_the_establishment_of_the_Joint_Distribution_Committee_%28JDC%29.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Henry Morgenthau, Sr.",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "A Western Union telegram from August 1914 to Jacob Schiff in New York, which according to the description led to the founding of the JDC.",
-      "illustrates": [
-        "c10"
-      ],
-      "date": "1914-08-31",
-      "width": 3009,
-      "height": 2323
-    },
-    {
-      "id": "m3",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/American%20Jewish%20Joint%20Distribution%20Committee%20-%202.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:American_Jewish_Joint_Distribution_Committee_-_2.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Farouk",
-      "licence": "CC BY-SA 4.0",
-      "hosting": "hotlink",
-      "caption": "The JDC Israel building in Givat Ram in Jerusalem, with a \"JDC Israel\" sign on the stone wall.",
-      "illustrates": [
-        "c8"
-      ],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "date": "2015-02-23",
-      "width": 3264,
-      "height": 1836
-    },
-    {
-      "id": "m4",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/American%20Jewish%20Joint%20Distribution%20Committee%20-%201.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:American_Jewish_Joint_Distribution_Committee_-_1.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Farouk",
-      "licence": "CC BY-SA 4.0",
-      "hosting": "hotlink",
-      "caption": "The JDC Israel building in Givat Ram, seen from across the road.",
-      "illustrates": [
-        "c8"
-      ],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "date": "2015-02-23",
-      "width": 2350,
-      "height": 1400
-    },
-    {
-      "id": "m5",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jewish%20refugees%20in%20Vienna.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Jewish_refugees_in_Vienna.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "U.S. Army Signal Corps",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "A sergeant in military dress stands beside a couple with two children in a room at a refugee center in Vienna; according to the description, he brought milk to displaced Jewish children.",
-      "illustrates": [],
-      "date": "1945-10-26",
-      "width": 1268,
-      "height": 1050
-    },
-    {
-      "id": "m6",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jdc-child.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Jdc-child.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "United States Holocaust Memorial Museum, courtesy of National Archives and Records Administration, College Park",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "A man lifts a little girl in front of aid crates and flags, and beside them is a woman in a coat; the crates bear the name American Joint Distribution Committee.",
-      "illustrates": [],
-      "date": "1945-1946",
-      "width": 955,
-      "height": 1200
-    },
-    {
-      "id": "m7",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo-positive.png?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Logo-positive.png",
-      "source_name": "Wikimedia Commons",
-      "credit": "JDC Israel",
-      "licence": "CC BY-SA 4.0",
-      "hosting": "hotlink",
-      "caption": "The Hebrew logo of the JDC, with a menorah symbol and the letters JDC.",
-      "illustrates": [
-        "c1"
-      ],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "date": "2019-11-01",
-      "width": 570,
-      "height": 168
-    },
-    {
-      "id": "m8",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Secretary%20Kerry%20Delivers%20Remarks%20at%20the%20American%20Jewish%20Joint%20Distribution%20Committee%E2%80%99s%20100th%20Anniversary%20Celebration%20%2811329165534%29.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Secretary_Kerry_Delivers_Remarks_at_the_American_Jewish_Joint_Distribution_Committee%E2%80%99s_100th_Anniversary_Celebration_%2811329165534%29.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "U.S. Department of State from United States",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "U.S. Secretary of State John Kerry speaks at a podium at an event with a \"JDC 100 YEARS\" sign, before guests at tables; according to the description, this is the JDC's 100th anniversary event in Washington.",
-      "illustrates": [
-        "c10"
-      ],
-      "date": "2013-12-09",
-      "width": 4545,
-      "height": 3025
-    },
-    {
-      "id": "m9",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Secretary%20Kerry%20Delivers%20Remarks%20at%20the%20American%20Jewish%20Joint%20Distribution%20Committee%E2%80%99s%20100th%20Anniversary%20Celebration%20%2811329220843%29.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Secretary_Kerry_Delivers_Remarks_at_the_American_Jewish_Joint_Distribution_Committee%E2%80%99s_100th_Anniversary_Celebration_%2811329220843%29.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "U.S. Department of State from United States",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "John Kerry speaks against a backdrop of JDC 1914–2014 signs, at the JDC's 100th anniversary event in Washington, according to the description.",
-      "illustrates": [
-        "c10"
-      ],
-      "date": "2013-12-09",
-      "width": 5468,
-      "height": 3645
-    },
-    {
-      "id": "m10",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/JDC%20shanghai.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:JDC_shanghai.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "WL from Shanghai, China",
-      "licence": "CC BY 2.0",
-      "hosting": "hotlink",
-      "caption": "An old brick building on a street in Shanghai; according to the description, this is the site where the JDC office in the city was once located.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by/2.0",
-      "date": "2009-11-01",
-      "width": 500,
-      "height": 375
-    },
-    {
-      "id": "m11",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Renati-Rulhater-Harry-Weinsaft-JDC.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Renati-Rulhater-Harry-Weinsaft-JDC.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "United States Holocaust Memorial Museum, courtesy of National Archives and Records Administration, College Park",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "A man in military uniform kneels before a little girl and hands her a package, beside an aid crate; according to the description, this is Harry Weinsaft of the JDC and the girl Renate, a displaced Jewish girl in Vienna.",
-      "illustrates": [
-        "c3"
-      ],
-      "date": "1945-1946",
-      "width": 1521,
-      "height": 1200
-    },
-    {
-      "id": "m12",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Joint-Minsk.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Joint-Minsk.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Pessimist2006",
-      "licence": "CC BY-SA 3.0",
-      "hosting": "hotlink",
-      "caption": "An illuminated JDC sign on a wall, beside the flags of Israel, the United States and Belarus; according to the description, this is the JDC office in Minsk.",
-      "illustrates": [
-        "c1"
-      ],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-      "date": "2010-04-16",
-      "width": 1470,
-      "height": 1920
-    },
-    {
-      "id": "m13",
-      "kind": "video",
-      "url": "https://www.youtube.com/watch?v=rX2nmv1UEbk",
-      "youtube_id": "rX2nmv1UEbk",
-      "source_page": "https://www.youtube.com/watch?v=rX2nmv1UEbk",
-      "source_name": "YouTube",
-      "credit": "JDC",
-      "licence": "YouTube, embedded only (standard YouTube licence)",
-      "licence_url": "https://www.youtube.com/static?template=terms",
-      "hosting": "embed",
-      "caption": "A JDC film about itself on its response to the earthquake in Turkey, under the message that the organization puts Jewish values into action for all people.",
-      "illustrates": [
-        "c5",
-        "c3"
-      ]
-    },
-    {
-      "id": "m14",
-      "kind": "video",
-      "url": "https://www.youtube.com/watch?v=FKVM5GvZziY",
-      "youtube_id": "FKVM5GvZziY",
-      "source_page": "https://www.youtube.com/watch?v=FKVM5GvZziY",
-      "source_name": "YouTube",
-      "credit": "JDC",
-      "licence": "YouTube, embedded only (standard YouTube licence)",
-      "licence_url": "https://www.youtube.com/static?template=terms",
-      "hosting": "embed",
-      "caption": "A JDC film about itself on its response to the earthquake disaster in Turkey, in which it presents itself as the leading Jewish humanitarian organization in 70 countries.",
-      "illustrates": [
-        "c1"
-      ],
-      "spoken": "tr",
-      "audio_tracks": [
-        "tr"
-      ]
-    },
-    {
-      "id": "m15",
-      "kind": "video",
-      "url": "https://www.youtube.com/watch?v=NYQQj0m3gew",
-      "youtube_id": "NYQQj0m3gew",
-      "source_page": "https://www.youtube.com/watch?v=NYQQj0m3gew",
-      "source_name": "YouTube",
-      "credit": "JDC",
-      "licence": "YouTube, embedded only (standard YouTube licence)",
-      "licence_url": "https://www.youtube.com/static?template=terms",
-      "hosting": "embed",
-      "caption": "A JDC film about itself on its emergency response to the earthquake in Turkey, which claimed more than 40,000 lives.",
-      "illustrates": [
-        "c43"
-      ],
-      "spoken": "en",
-      "audio_tracks": [
-        "en"
-      ]
-    },
-    {
-      "id": "m16",
-      "kind": "video",
-      "url": "https://www.youtube.com/watch?v=03GWJRddGp4",
-      "youtube_id": "03GWJRddGp4",
-      "source_page": "https://www.youtube.com/watch?v=03GWJRddGp4",
-      "source_name": "YouTube",
-      "credit": "JDC",
-      "licence": "YouTube, embedded only (standard YouTube licence)",
-      "licence_url": "https://www.youtube.com/static?template=terms",
-      "hosting": "embed",
-      "caption": "A JDC film about itself on coping with recovery after the earthquake in Turkey, which left a million people without a home.",
-      "illustrates": [
-        "c43"
-      ],
-      "spoken": "tr",
-      "audio_tracks": [
-        "tr"
-      ]
-    },
-    {
-      "id": "m17",
-      "kind": "video",
-      "url": "https://www.youtube.com/watch?v=1shH9nqbMz0",
-      "youtube_id": "1shH9nqbMz0",
-      "source_page": "https://www.youtube.com/watch?v=1shH9nqbMz0",
-      "source_name": "YouTube",
-      "credit": "JDC",
-      "licence": "YouTube, embedded only (standard YouTube licence)",
-      "licence_url": "https://www.youtube.com/static?template=terms",
-      "hosting": "embed",
-      "caption": "A JDC film about itself that presents it as the leading Jewish humanitarian organization operating in 70 countries.",
-      "illustrates": [
-        "c1"
-      ],
-      "spoken": "en",
-      "audio_tracks": [
-        "en"
-      ]
-    },
-    {
-      "id": "m18",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/JDC%20conference%20on%20Arab%20employment%20in%20Israel%2001.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:JDC_conference_on_Arab_employment_in_Israel_01.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Nizzan Cohen",
-      "licence": "CC BY 4.0",
-      "hosting": "hotlink",
-      "caption": "A JDC conference at Givat Haviva, with a speaker at a podium and a screen with the JDC's Hebrew logo.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by/4.0",
-      "date": "2023-11-21",
-      "width": 4624,
-      "height": 2080,
-      "role": "deed"
-    },
-    {
-      "id": "m19",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/JDC%20conference%20on%20Arab%20employment%20in%20Israel%2002.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:JDC_conference_on_Arab_employment_in_Israel_02.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Nizzan Cohen",
-      "licence": "CC BY 4.0",
-      "hosting": "hotlink",
-      "caption": "A panel at a JDC conference at Givat Haviva, with a screen and a banner with the JDC's Hebrew logo behind it.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by/4.0",
-      "date": "2023-11-21",
-      "width": 4624,
-      "height": 2080,
-      "role": "deed"
-    },
-    {
-      "id": "m20",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/JOINT%20report%20on%20Palestine%2C%201917-18.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:JOINT_report_on_Palestine%2C_1917-18.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Book by Siegfried Hoofien (1881–1957)",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "The cover of Siegfried Hoofien's report to the JDC in New York on relief activity in Palestine, 1917–1918.",
-      "illustrates": [],
-      "date": "circa 1920",
-      "width": 1872,
-      "height": 1585,
-      "role": "deed"
-    },
-    {
-      "id": "m21",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Reuven%20Rivlin%20meeting%20with%20the%20members%20of%20JDC%20board%20of%20directors%2C%20February%202018%20%286443%29.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Reuven_Rivlin_meeting_with_the_members_of_JDC_board_of_directors%2C_February_2018_%286443%29.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Mark Neyman",
-      "licence": "CC BY-SA 3.0",
-      "hosting": "hotlink",
-      "caption": "Israeli President Reuven Rivlin with three men at a meeting with members of the JDC board, February 13, 2018.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-      "date": "2018-02-13",
-      "width": 3307,
-      "height": 2373,
-      "role": "deed"
-    },
-    {
-      "id": "m22",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Reuven%20Rivlin%20meeting%20with%20the%20members%20of%20JDC%20board%20of%20directors%2C%20February%202018%20%286552%29.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Reuven_Rivlin_meeting_with_the_members_of_JDC_board_of_directors%2C_February_2018_%286552%29.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Mark Neyman",
-      "licence": "CC BY-SA 3.0",
-      "hosting": "hotlink",
-      "caption": "Israeli President Reuven Rivlin and a JDC representative hold a frame with a document, at a meeting with the JDC board, February 2018.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-      "date": "2018-02-13",
-      "width": 3307,
-      "height": 2205,
-      "role": "deed"
-    },
-    {
-      "id": "m23",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Reuven%20Rivlin%20meeting%20with%20the%20members%20of%20JDC%20board%20of%20directors%2C%20February%202018%20%286629%29.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Reuven_Rivlin_meeting_with_the_members_of_JDC_board_of_directors%2C_February_2018_%286629%29.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Mark Neyman",
-      "licence": "CC BY-SA 3.0",
-      "hosting": "hotlink",
-      "caption": "President Rivlin with children and a teenage boy, among them a girl in a wheelchair wearing a shirt that reads Board Meetings, at a meeting with the JDC board, 2018.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-      "date": "2018-02-13",
-      "width": 3307,
-      "height": 4981,
-      "role": "deed"
-    },
-    {
-      "id": "m24",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/World%20War%20I%20Hungarian%20Prisoner%20of%20War%20Card.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:World_War_I_Hungarian_Prisoner_of_War_Card.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Joint Distribution Committee of the American Funds for Jewish War Sufferers",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "A card of the JDC branch in Vladivostok, issued in 1920 to a Hungarian prisoner of war, with his photograph.",
-      "illustrates": [],
-      "date": "1920",
-      "width": 4344,
-      "height": 6058,
-      "role": "deed"
-    },
-    {
-      "id": "m25",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eli%20Eliezri%20in%20Thailand%20in%202005%20after%20the%20tsunami.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Eli_Eliezri_in_Thailand_in_2005_after_the_tsunami.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Unknown authorUnknown author",
-      "licence": "CC BY-SA 4.0",
-      "hosting": "hotlink",
-      "caption": "Eli Eliezri against a backdrop of destroyed houses after the tsunami in Thailand, 2005.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "date": "2005-02-06",
-      "width": 1600,
-      "height": 1200,
-      "role": "related"
-    },
-    {
-      "id": "m26",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/BrukdeilF8193.JPG?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:BrukdeilF8193.JPG",
-      "source_name": "Wikimedia Commons",
-      "credit": "Yaakov",
-      "licence": "CC BY-SA 3.0",
-      "hosting": "hotlink",
-      "caption": "The entrance gate to the JDC's Brookdale Institute in Givat Ram, Jerusalem.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-      "date": "2013-07-02",
-      "width": 2048,
-      "height": 1536,
-      "role": "deed"
-    },
-    {
-      "id": "m27",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Joint%20Jerusalem%20Sundial-%20back%20view%20%284278684724%29.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Joint_Jerusalem_Sundial-_back_view_%284278684724%29.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "zeevveez from Jerusalem, Israel",
-      "licence": "CC BY 2.0",
-      "hosting": "hotlink",
-      "caption": "The JDC Israel building in Givat Ram, Jerusalem, with the large sundial in front.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by/2.0",
-      "date": "2010-01-16",
-      "width": 2304,
-      "height": 1728,
-      "role": "deed"
-    },
-    {
-      "id": "m28",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Joint%20Jerusalem%20Sundial-%20front%20%284277936147%29.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Joint_Jerusalem_Sundial-_front_%284277936147%29.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "zeevveez from Jerusalem, Israel",
-      "licence": "CC BY 2.0",
-      "hosting": "hotlink",
-      "caption": "The sundial at the JDC building in Givat Ram, Jerusalem, front view.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by/2.0",
-      "date": "2010-01-16",
-      "width": 2304,
-      "height": 1728,
-      "role": "deed"
-    },
-    {
-      "id": "m29",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Joint%20Jerusalem%20Sundial-%20side%20view%20%284277938659%29.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Joint_Jerusalem_Sundial-_side_view_%284277938659%29.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "zeevveez from Jerusalem, Israel",
-      "licence": "CC BY 2.0",
-      "hosting": "hotlink",
-      "caption": "A \"Givat HaJoint\" stone on the lawn, with the JDC Israel building in Givat Ram behind it.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by/2.0",
-      "date": "2010-01-16",
-      "width": 1728,
-      "height": 2304,
-      "role": "deed"
-    },
-    {
-      "id": "m30",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Joint%20Jerusalem%20Sundial-%20side%20view-1%20%284278683412%29.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Joint_Jerusalem_Sundial-_side_view-1_%284278683412%29.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "zeevveez from Jerusalem, Israel",
-      "licence": "CC BY 2.0",
-      "hosting": "hotlink",
-      "caption": "The sundial of the JDC building in Givat Ram, side view.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by/2.0",
-      "date": "2010-01-16",
-      "width": 2304,
-      "height": 1728,
-      "role": "deed"
-    },
-    {
-      "id": "m31",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Joint%20Jerusalem%20Sundial-%20sign%20%284278683816%29.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Joint_Jerusalem_Sundial-_sign_%284278683816%29.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "zeevveez from Jerusalem, Israel",
-      "licence": "CC BY 2.0",
-      "hosting": "hotlink",
-      "caption": "A stone plaque on the lawn near the JDC building: the water system was donated by Joseph G. Glickman, \"in appreciation of the great work of the JDC around the world\".",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by/2.0",
-      "date": "2010-01-16",
-      "width": 2232,
-      "height": 1644,
-      "role": "deed"
-    },
-    {
-      "id": "m32",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Round%20Stairs%20at%20Joint%20Building%20Jerusalem%20%288604787675%29.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Round_Stairs_at_Joint_Building_Jerusalem_%288604787675%29.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "zeevveez from Jerusalem, Israel",
-      "licence": "CC BY 2.0",
-      "hosting": "hotlink",
-      "caption": "Stone steps on the dome of the sundial near the JDC building in Givat Ram.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by/2.0",
-      "date": "2013-03-31",
-      "width": 1024,
-      "height": 683,
-      "role": "deed"
-    },
-    {
-      "id": "m34",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/%22Among%20those%20noticed%20on%20Main%20Street%20were%20-%22%20-%20caricatures%20by%20Marius%20de%20Zayas.%20LCCN97507998.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:%22Among_those_noticed_on_Main_Street_were_-%22_-_caricatures_by_Marius_de_Zayas._LCCN97507998.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Marius de Zayas",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "Caricatures by Marius de Zayas of a street scene in New York, among them Jacob Schiff, in the early 20th century.",
-      "illustrates": [],
-      "date": "1915",
-      "width": 1440,
-      "height": 1167,
-      "role": "related"
-    },
-    {
-      "id": "m36",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Appleton%2C%20Gaynor%2C%20Schiff%20%26%20Ridder%20LCCN2014694293.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Appleton%2C_Gaynor%2C_Schiff_%26_Ridder_LCCN2014694293.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Bain News Service, publisher",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "Men on the steps of New York City Hall, among them Jacob Schiff, at a ceremony on September 3, 1913.",
-      "illustrates": [],
-      "date": "1913",
-      "width": 5722,
-      "height": 4197,
-      "role": "related"
-    },
-    {
-      "id": "m37",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Christian%20herald%20%281918%29%20%2814597090700%29.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Christian_herald_%281918%29_%2814597090700%29.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Internet Archive Book Images",
-      "licence": "No restrictions",
-      "hosting": "hotlink",
-      "caption": "A page from a 1918 magazine: according to the caption, the Jews of New York raised $5 million for wartime relief, led by Jacob Schiff.",
-      "illustrates": [],
-      "licence_url": "https://www.flickr.com/commons/usage/",
-      "date": "1918",
-      "width": 3386,
-      "height": 4246,
-      "role": "related"
-    },
-    {
-      "id": "m39",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hermann%20Struck%20Grafik%20JMBerlin%20GDR%2087%2021%200.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Hermann_Struck_Grafik_JMBerlin_GDR_87_21_0.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Hermann Struck",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "An etching by Hermann Struck, 1913: a profile portrait of Jacob Schiff.",
-      "illustrates": [],
-      "date": "1913date Q",
-      "width": 2027,
-      "height": 2468,
-      "role": "related"
-    }
-  ],
-  "check": {
-    "passed": true,
-    "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
-    "checked_at": "2026-11-21T04:56:44Z",
-    "counts": {
-      "confirmed": 104,
-      "not_confirmed": 0,
-      "deleted_sentences": 4,
-      "first_round_confirmed": 101,
-      "first_round_contradicted": 3,
-      "first_round_unverifiable": 4
-    },
-    "note": "unverifiable sentences were deleted, contradicted ones fixed from the source and checked again"
+    "m20",
+    "m24",
+    "m37"
+   ],
+   "disagreements": [
+    "d2",
+    "d3"
+   ]
   },
-  "meta": {
-    "run": "jdc-joint-70-countries-aid",
-    "pipeline": "scripts/museum/museum_line.py",
-    "models": {
-      "research": "sonnet-5-5",
-      "extract": "sonnet-5-5",
-      "media": "sonnet-5-5",
-      "write": "opus-5-5 medium",
-      "check": "opus-5-5 medium",
-      "fix": "opus-5-5 medium"
-    },
-    "source_quality": {
-      "sources": 14,
-      "wikipedia": 1,
-      "strong": 3,
-      "ok": true,
-      "warnings": []
-    },
-    "media_dedupe": [
-      {
-        "drop": "m1",
-        "keep": "m11",
-        "by": "reviewed 24.11"
-      }
+  {
+   "id": "s3",
+   "title": "Not only for Jews",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "According to the JDC Archives, the organization's reach extends beyond the global Jewish community.",
+      "claims": [
+       "c3"
+      ]
+     },
+     {
+      "text": "According to the Archives, it provides non-sectarian disaster relief and long-term development assistance worldwide.",
+      "claims": [
+       "c3"
+      ]
+     },
+     {
+      "text": "According to the Encyclopaedia Judaica, its global activities include non-Jews as well as Jews.",
+      "claims": [
+       "c12"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to the Encyclopaedia Judaica, in 1986 the JDC established the International Development Program.",
+      "claims": [
+       "c11"
+      ]
+     },
+     {
+      "text": "According to the same source, the program was meant to meet the urgent needs of populations around the world after disasters.",
+      "claims": [
+       "c11"
+      ]
+     },
+     {
+      "text": "The JDC donates millions of dollars to disaster relief and to development aid for non-Jewish communities.",
+      "claims": [
+       "c90"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "The JDC describes itself as the \"Jewish hands\" who help communities of all backgrounds and faiths rebuild themselves after a disaster.",
+      "claims": [
+       "c5"
+      ]
+     },
+     {
+      "text": "Mickey Noam-Alon, the organization's disaster response director, says that a natural disaster affects everyone in its path, regardless of their identity.",
+      "claims": [
+       "c16",
+       "c56"
+      ]
+     },
+     {
+      "text": "According to Lipstein of the organization Olam, Jewish values drive many organizations to rush to help, and obligate them to reach out beyond the community as well.",
+      "claims": [
+       "c55"
+      ]
+     }
     ]
+   ],
+   "media": [
+    "m13",
+    "m7",
+    "m18",
+    "m26",
+    "m32"
+   ],
+   "disagreements": []
   },
-  "lang": "en",
-  "translation": {
-    "from": "he",
-    "translator": "claude-opus-5-5",
-    "checker": "claude-opus-5-5 (separate call, blind to the translation prompt)",
-    "checked_at": "2026-11-21T06:28:00Z",
-    "passed": true,
-    "items": 170,
-    "pairs_checked": 5,
-    "reused": 165,
-    "first_round_flagged": 0,
-    "still_flagged": 0,
-    "flagged": [],
-    "quote_translations": {
-      "c8": "We have been accompanying Israeli society for more than 100 years"
-    }
+  {
+   "id": "s4",
+   "title": "Turkey, February 2023: the earthquake",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "Noam-Alon describes the earthquake in Turkey in February 2023 as a magnitude-7.8 earthquake that ripped the country apart.",
+      "claims": [
+       "c17"
+      ]
+     },
+     {
+      "text": "According to him, in 103 seconds 500,000 buildings collapsed.",
+      "claims": [
+       "c18"
+      ]
+     },
+     {
+      "text": "According to him, the earthquake encompassed 1,000 square kilometers, and more than 13 million people were affected.",
+      "claims": [
+       "c19"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "In a statement of February 6, 2023, the JDC said it was working with the Jewish community of Turkey to respond to the earthquakes.",
+      "claims": [
+       "c43"
+      ]
+     },
+     {
+      "text": "According to the statement, the local Jewish community has led relief efforts for its neighbors for decades, and the JDC has supported it for years.",
+      "claims": [
+       "c41"
+      ]
+     },
+     {
+      "text": "According to Noam-Alon, thanks to the deep connections with this community, the JDC reached Gaziantep quickly and began operating immediately.",
+      "claims": [
+       "c20"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "The JDC's CEO, Ariel Zwang, said, according to the statement, that the harsh winter makes the aid even more critical.",
+      "claims": [
+       "c42"
+      ]
+     },
+     {
+      "text": "According to the statement, she spoke of people suffering from cold, homelessness, hunger, injury and despair.",
+      "claims": [
+       "c42"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m15",
+    "m14"
+   ],
+   "disagreements": [
+    "d4",
+    "d5"
+   ]
+  },
+  {
+   "id": "s5",
+   "title": "Turkey: a roof, food and blankets",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "According to Noam-Alon, many survivors had to sleep in their cars in a freezing, snowy winter.",
+      "claims": [
+       "c26"
+      ]
+     },
+     {
+      "text": "The JDC provided shelter to more than 2,000 people, in hotel rooms, tents, containers and converted dormitories.",
+      "claims": [
+       "c27"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "Yasemin Orhan and her children lived for a month with distant relatives, in one small room shared with another family and with only a small stove.",
+      "claims": [
+       "c36"
+      ]
+     },
+     {
+      "text": "Hakki said that thanks to JDC-supported housing, the family had a safe and dry place to be together.",
+      "claims": [
+       "c37"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to Noam-Alon, the JDC set up with partners a kitchen that served meals, and distributed blankets.",
+      "claims": [
+       "c28"
+      ]
+     },
+     {
+      "text": "The JDC procured four ambulances able to reach hundreds of thousands of people in southern Turkey.",
+      "claims": [
+       "c25"
+      ]
+     },
+     {
+      "text": "It also brought medical equipment to hospitals and temporary clinics.",
+      "claims": [
+       "c25"
+      ]
+     },
+     {
+      "text": "It supported a pop-up store in Nurdağı that reached more than 3,000 children in just two days.",
+      "claims": [
+       "c30"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to the JDC, the organization evacuated a small group of elderly Jews from Antakya to Istanbul, together with the Jewish community.",
+      "claims": [
+       "c38"
+      ]
+     },
+     {
+      "text": "According to the JDC, it and its partners covered the transportation and care costs.",
+      "claims": [
+       "c38"
+      ]
+     },
+     {
+      "text": "According to JNS, the Antakya community numbers about 20 people, and its roots are 2,500 years old.",
+      "claims": [
+       "c39"
+      ]
+     },
+     {
+      "text": "According to JNS, the evacuation was run by the local Jewish community, which numbers 15,000 people.",
+      "claims": [
+       "c40"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m16"
+   ],
+   "disagreements": [
+    "d6"
+   ]
+  },
+  {
+   "id": "s6",
+   "title": "Turkey: staying after the cameras leave",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "The JDC describes a commitment to stay on the ground long after the disaster, so that communities get back on their feet.",
+      "claims": [
+       "c15"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "Together with the Bülbülzade Foundation, a sewing project was launched for women in the container cities.",
+      "claims": [
+       "c31"
+      ]
+     },
+     {
+      "text": "According to Noam-Alon, even two years after the earthquake, the sewing workshops serve as a multi-purpose community center for displaced women and children.",
+      "claims": [
+       "c32"
+      ]
+     },
+     {
+      "text": "According to him, the JDC is developing a project to establish a prosthetics lab, intended to help more than 800 injured children who are awaiting care.",
+      "claims": [
+       "c33"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to Wein, it is a great thing that a Jewish organization is helping other humans on the ground.",
+      "claims": [
+       "c51"
+      ]
+     }
+    ]
+   ],
+   "media": [],
+   "disagreements": []
+  },
+  {
+   "id": "s7",
+   "title": "From Myanmar to Haiti",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "According to Noam-Alon, the earthquake in Myanmar on March 28, 2025, killed more than 3,600 people, injured 5,000 and displaced more than 200,000 from their homes.",
+      "claims": [
+       "c58"
+      ]
+     },
+     {
+      "text": "He describes Myanmar as a highly vulnerable place, with poor medical services, severe outbreaks of malaria and dengue, and intermittent electricity.",
+      "claims": [
+       "c57"
+      ]
+     },
+     {
+      "text": "According to him, the JDC was among the first international responders there, and the first Jewish humanitarian organization on the ground.",
+      "claims": [
+       "c59"
+      ]
+     },
+     {
+      "text": "According to him, immediately after the earthquakes the organization activated the Go/No-Go app, which confirmed that there was an urgent need to respond.",
+      "claims": [
+       "c60"
+      ]
+     },
+     {
+      "text": "There the JDC distributed hygiene kits, tarps for shelter, mosquito nets and other critical supplies.",
+      "claims": [
+       "c61"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to JNS, the JDC is responding to the flash floods in northern Nepal of August 26, which caused widespread destruction of vital infrastructure.",
+      "claims": [
+       "c62"
+      ]
+     },
+     {
+      "text": "According to JNS, it operates there through local partners.",
+      "claims": [
+       "c63"
+      ]
+     },
+     {
+      "text": "According to JNS, it is providing clean water, hygiene kits, sanitary supplies and disease-outbreak prevention tools.",
+      "claims": [
+       "c63"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to an account by a JDC representative in Haiti, at the time of writing JDC was helping local partners bring medical supplies, water and essential items to the most vulnerable victims of the August earthquake, which occurred after the 2010 earthquake.",
+      "claims": [
+       "c67"
+      ]
+     },
+     {
+      "text": "Jerhi Baptiste tells of a Haitian dancer who lost a leg in the 2010 earthquake and returned to his career thanks to a JDC-supported clinic.",
+      "claims": [
+       "c69"
+      ]
+     },
+     {
+      "text": "According to Baptiste, the JDC brings logistical know-how to chaotic situations, mobilizes local partners and listens to their needs.",
+      "claims": [
+       "c68"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "In 2019, the JDC worked with survivors of Hurricane Dorian in the Bahamas.",
+      "claims": [
+       "c54"
+      ]
+     },
+     {
+      "text": "Together they developed hydroponic food-growing techniques and other ways to prepare for disaster.",
+      "claims": [
+       "c54"
+      ]
+     },
+     {
+      "text": "According to JNS, the JDC has also recently responded to earthquakes in Venezuela, Colombia, Morocco and Haiti.",
+      "claims": [
+       "c65"
+      ]
+     },
+     {
+      "text": "The organization also describes a response in Ethiopia, Chad, India and in the crisis in Ukraine.",
+      "claims": [
+       "c70"
+      ]
+     },
+     {
+      "text": "According to the organization, in its disaster relief work it develops local capacity so that the most vulnerable people in the hardest-hit cities and towns are better prepared for the next emergency.",
+      "claims": [
+       "c71"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m25"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s8",
+   "title": "Who stands behind it, and what was recognized",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "According to the press release, the JDC's disaster relief programs are funded by special appeals of the Jewish Federations of North America.",
+      "claims": [
+       "c44"
+      ]
+     },
+     {
+      "text": "According to the statement, tens of thousands of individual donors also contribute to them.",
+      "claims": [
+       "c44"
+      ]
+     },
+     {
+      "text": "According to JNS, the money also comes from the JDC's disaster fund.",
+      "claims": [
+       "c66"
+      ]
+     },
+     {
+      "text": "According to JNS, Julie Platt, chair of the Federations, said that more than 121 local federations raised money for Turkey.",
+      "claims": [
+       "c49"
+      ]
+     },
+     {
+      "text": "According to the Federations, they mobilize resources for urgent aid to communities in need, regardless of faith, ethnicity or origin.",
+      "claims": [
+       "c48"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "The JDC leads the Jewish Coalition for Disaster Relief (JCDR).",
+      "claims": [
+       "c46"
+      ]
+     },
+     {
+      "text": "The coalition has 49 Jewish organizations, most of them from North America.",
+      "claims": [
+       "c46"
+      ]
+     },
+     {
+      "text": "Its relief activities are coordinated with the U.S. Department of State, USAID, Israeli relief efforts and the United Nations.",
+      "claims": [
+       "c45"
+      ]
+     },
+     {
+      "text": "According to Wein, the JDC works in coordination with other bodies, and not to duplicate efforts.",
+      "claims": [
+       "c52"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "JDC Israel presents itself as having accompanied Israeli society for more than 100 years.",
+      "claims": [
+       "c8"
+      ]
+     },
+     {
+      "text": "In 2007 the JDC received the Israel Prize for lifetime achievement and special contribution to society and the State of Israel.",
+      "claims": [
+       "c91"
+      ]
+     },
+     {
+      "text": "The JDC defines itself as the leading Jewish humanitarian organization.",
+      "claims": [
+       "c1"
+      ]
+     },
+     {
+      "text": "In how many countries does it operate? The sources give different numbers.",
+      "claims": [
+       "c1",
+       "c2",
+       "c13",
+       "c92"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m3",
+    "m4",
+    "m9",
+    "m8",
+    "m12",
+    "m17",
+    "m21",
+    "m30",
+    "m31"
+   ],
+   "disagreements": [
+    "d1"
+   ]
   }
+ ],
+ "disagreements": [
+  {
+   "id": "d1",
+   "question": "In how many countries does the JDC operate?",
+   "versions": [
+    {
+     "says": "The JDC, in a 2023 press release: in 70 countries",
+     "claims": [
+      "c1"
+     ]
+    },
+    {
+     "says": "JDC Archives: in more than 70 countries",
+     "claims": [
+      "c2"
+     ]
+    },
+    {
+     "says": "Encyclopaedia Judaica: in 2004, in more than 60 countries",
+     "claims": [
+      "c13"
+     ]
+    },
+    {
+     "says": "In 71 countries, as of 2009",
+     "claims": [
+      "c93"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d2",
+   "question": "How many Jews did the JDC help emigrate from Germany before 1939?",
+   "versions": [
+    {
+     "says": "According to the United States Holocaust Memorial Museum, JDC efforts were instrumental in helping at least 190,000 Jews leave Germany between 1933 and 1939.",
+     "claims": [
+      "c74"
+     ]
+    },
+    {
+     "says": "Encyclopaedia Judaica: more than 100,000 refugees by 1939",
+     "claims": [
+      "c75"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d3",
+   "question": "How many Jews were flown in Operation Magic Carpet?",
+   "versions": [
+    {
+     "says": "United States Holocaust Memorial Museum: 46,000 Jews from Yemen",
+     "claims": [
+      "c77"
+     ]
+    },
+    {
+     "says": "Encyclopaedia Judaica: about 50,000 Yemenite Jews",
+     "claims": [
+      "c78"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d4",
+   "question": "How long after the earthquake in Turkey did the JDC team reach the ground?",
+   "versions": [
+    {
+     "says": "Noam-Alon: a few hours after the earthquake",
+     "claims": [
+      "c21"
+     ]
+    },
+    {
+     "says": "Avital Sandler-Loeff: less than 24 hours after the earthquake",
+     "claims": [
+      "c22"
+     ]
+    },
+    {
+     "says": "Algemeiner/JNS: two disaster experts and the country director in Turkey arrived within a day",
+     "claims": [
+      "c23"
+     ]
+    },
+    {
+     "says": "eJewishPhilanthropy: Laura Wein arrived 33 hours after the earthquake",
+     "claims": [
+      "c24"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d5",
+   "question": "How many people were killed in the earthquake in Turkey?",
+   "versions": [
+    {
+     "says": "Noam-Alon: more than 50,000",
+     "claims": [
+      "c18"
+     ]
+    },
+    {
+     "says": "A JDC story: more than 50,000",
+     "claims": [
+      "c34"
+     ]
+    },
+    {
+     "says": "eJewishPhilanthropy: in the first days, the death toll passed 24,000",
+     "claims": [
+      "c35"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d6",
+   "question": "How many meals and blankets did the JDC distribute in Turkey?",
+   "versions": [
+    {
+     "says": "Noam-Alon: a kitchen with partners that served 10,000 meals per day, and more than 11,000 blankets",
+     "claims": [
+      "c28"
+     ]
+    },
+    {
+     "says": "Algemeiner/JNS: as of Monday after the earthquake, about 7,000 meals and 10,000 blankets",
+     "claims": [
+      "c29"
+     ]
+    }
+   ]
+  }
+ ],
+ "unknowns": [
+  {
+   "text": "This page does not know exactly how much money the JDC spent on the relief in Turkey",
+   "claims": [
+    "c44"
+   ]
+  },
+  {
+   "text": "According to JNS, the flash floods in northern Nepal occurred on August 26, 2026, and caused extensive destruction to critical infrastructure.",
+   "claims": [
+    "c62"
+   ]
+  }
+ ],
+ "claims": [
+  {
+   "id": "c10",
+   "text": "הג'וינט נוסד ב-27 בנובמבר 1914 בניו יורק.",
+   "source": "src2",
+   "quote": "On November 27, 1914, they founded the American Jewish Joint Distribution Committee",
+   "status": "confirmed",
+   "locator": "שורה 16"
+  },
+  {
+   "id": "c2",
+   "text": "לפי ארכיון הג'וינט, הארגון פעיל כיום ביותר מ-70 מדינות ופועל עם שותפיו להקלת רעב ומצוקה והצלת יהודים בסכנה.",
+   "source": "src3",
+   "quote": "Active today in more than 70 countries, JDC and its partners work to alleviate hunger and hardship, rescue Jews in danger",
+   "status": "confirmed",
+   "locator": "שורה 17"
+  },
+  {
+   "id": "c3",
+   "text": "לפי ארכיון הג'וינט, פעילות הארגון חורגת מעבר לקהילה היהודית העולמית ומספקת סיוע לא-עדתי באסונות וסיוע פיתוח ארוך טווח ברחבי העולם.",
+   "source": "src3",
+   "quote": "reach extends beyond the global Jewish community by providing non-sectarian disaster relief and long-term development assistance worldwide",
+   "status": "confirmed",
+   "locator": "שורה 17"
+  },
+  {
+   "id": "c43",
+   "text": "הודעת הג'וינט ב-6 בפברואר 2023 מסרה שהארגון משתף פעולה עם הקהילה היהודית בטורקיה כדי להגיב לרעידות האדמה.",
+   "source": "src4",
+   "quote": "The American Jewish Joint Distribution Committee (JDC) is partnering with the Jewish Community of Turkey",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c27",
+   "text": "הג'וינט סיפק מקלט ליותר מ-2,000 אנשים בחדרי מלון, אוהלים, מכולות ומעונות שהוסבו.",
+   "source": "src5",
+   "quote": "provide shelter to more than 2,000 people in hotel rooms, tents, containers, and converted dormitories",
+   "status": "confirmed",
+   "locator": "שורה 21"
+  },
+  {
+   "id": "c16",
+   "text": "מנהל תגובת האסונות של הג'וינט, מיקי נועם-אלון, מדווח על יותר מ-15 שנות ניסיון בארגון התערבויות הומניטריות מורכבות ברחבי העולם.",
+   "source": "src5",
+   "quote": "has more than 15 years of experience organizing and executing complex humanitarian interventions around the globe",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c31",
+   "text": "בשיתוף קרן בולבולזאדה הושק פרויקט תפירה לנשים בערי המכולות.",
+   "source": "src5",
+   "quote": "In partnership with the Bülbülzade Foundation, we launched a sewing project for women living in the container cities.",
+   "status": "confirmed",
+   "locator": "שורה 23"
+  },
+  {
+   "id": "c32",
+   "text": "לפי נועם-אלון, גם שנתיים אחרי הרעידה סדנאות התפירה משמשות מרכז קהילתי רב-תכליתי לנשים וילדים עקורים.",
+   "source": "src5",
+   "quote": "Even now, two years after the earthquake, the sewing workshops serve as a vital multi-purpose community center",
+   "status": "confirmed",
+   "locator": "שורה 24"
+  },
+  {
+   "id": "c44",
+   "text": "לפי ההודעה לעיתונות, תוכניות הסיוע באסונות של הג'וינט ממומנות בקריאות מיוחדות של הפדרציות היהודיות של צפון אמריקה ועשרות אלפי תורמים פרטיים.",
+   "source": "src4",
+   "quote": "are funded by special appeals of the Jewish Federations of North America and tens of thousands of individual donors to JDC",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c7",
+   "text": "לפי האנציקלופדיה היהודית, הג'וינט הוא ארגון סיוע ורווחה יהודי-אמריקאי עצמאי ובלתי פוליטי, המספק סיוע חירום וסיוע ארוך טווח.",
+   "source": "src6",
+   "quote": "independent, non-political American Jewish relief and welfare organization dedicated to providing both emergency aid and long-term assistance",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c74",
+   "text": "לפי מוזיאון השואה האמריקאי, הג'וינט סייע ליותר מ-190,000 יהודים לעזוב את גרמניה בין 1933 ל-1939.",
+   "source": "src2",
+   "quote": "JDC efforts were instrumental in assisting at least 190,000 Jews to leave Germany between 1933 and 1939",
+   "status": "confirmed",
+   "locator": "שורה 21"
+  },
+  {
+   "id": "c75",
+   "text": "לפי האנציקלופדיה היהודית, עד 1939 הג'וינט סייע ליותר מ-100,000 פליטים להגר מגרמניה.",
+   "source": "src6",
+   "quote": "By 1939, jdc had helped more than 100,000 refugees emigrate from Germany.",
+   "status": "confirmed",
+   "locator": "שורה 26"
+  },
+  {
+   "id": "c73",
+   "text": "לפי האנציקלופדיה היהודית, ב-1939 הג'וינט הושיע את נוסעי האוניה סנט לואיס בכך שסידר את קבלתם באנגליה, הולנד, בלגיה וצרפת.",
+   "source": "src6",
+   "quote": "jdc arranged for the passengers to be accepted by England, Holland, Belgium, and France, so they would not have to return to Germany",
+   "status": "confirmed",
+   "locator": "שורה 24"
+  },
+  {
+   "id": "c78",
+   "text": "לפי האנציקלופדיה היהודית, ב-1949 מימן הג'וינט את מבצע שטיח הקסמים, שבו הוטסו כ-50,000 יהודי תימן מעדן לישראל.",
+   "source": "src6",
+   "quote": "In 1949 jdc financed Operation Magic Carpet, the airlift of some 50,000 Yemenite Jews from Aden to Israel",
+   "status": "confirmed",
+   "locator": "שורה 43"
+  },
+  {
+   "id": "c77",
+   "text": "לפי מוזיאון השואה האמריקאי, במבצע שטיח הקסמים הוטסו 46,000 יהודים מתימן מעדן.",
+   "source": "src2",
+   "quote": "including 46,000 from Yemen flown in from the British colony Aden in Operation “Magic Carpet.”",
+   "status": "confirmed",
+   "locator": "שורה 32"
+  },
+  {
+   "id": "c12",
+   "text": "לפי האנציקלופדיה היהודית, פעילות הג'וינט העולמית כוללת לא-יהודים לצד יהודים.",
+   "source": "src6",
+   "quote": "global activities include non-Jews as well as Jews",
+   "status": "confirmed",
+   "locator": "שורה 70"
+  },
+  {
+   "id": "c11",
+   "text": "לפי האנציקלופדיה היהודית, בשנת 1986 הקים הג'וינט את תוכנית הפיתוח הבינלאומית כדי לתת מענה לצרכים דחופים של אוכלוסיות ברחבי העולם בעקבות אסונות.",
+   "source": "src6",
+   "quote": "In 1986, jdc established the International Development Program (idp), to meet the urgent needs of populations around the world following natural or other disasters.",
+   "status": "confirmed",
+   "locator": "שורה 70"
+  },
+  {
+   "id": "c5",
+   "text": "הג'וינט מתאר את עצמו כ'הידיים היהודיות' שעוזרות לקהילות מכל הרקעים והדתות לשקם את עצמן לאחר אסון.",
+   "source": "src7",
+   "quote": "we are the Jewish hands who help communities of all backgrounds and faiths rebuild",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c56",
+   "text": "לפי נועם-אלון, אסון טבע משפיע על כל מי שנקרא בדרכו ללא קשר לזהותו.",
+   "source": "src5",
+   "quote": "an earthquake, cyclone, or tsunami affects everyone in its path, regardless of their identity",
+   "status": "confirmed",
+   "locator": "שורה 47"
+  },
+  {
+   "id": "c55",
+   "text": "לפי ליפשטיין מארגון אולם, ערכים יהודיים מניעים ארגונים רבים להזדרז לסייע ומחייבים להושיט עזרה מעבר לקהילה.",
+   "source": "src8",
+   "quote": "As Jews, when we are lucky enough to have the capacity to extend our giving beyond our community, we must fulfill our moral responsibility",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c17",
+   "text": "נועם-אלון מתאר את רעידת האדמה בטורקיה בפברואר 2023 כרעידה בעוצמה 7.8 שקרעה את המדינה.",
+   "source": "src5",
+   "quote": "but this was Turkey in February 2023. A magnitude-7.8 earthquake had just ripped the country apart",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c18",
+   "text": "לפי נועם-אלון, ב-103 שניות נהרגו בטורקיה יותר מ-50,000 בני אדם וקרסו 500,000 מבנים.",
+   "source": "src5",
+   "quote": "all it took was 103 seconds— less than two minutes — for more than 50,000 people to perish and 500,000 buildings to collapse",
+   "status": "confirmed",
+   "locator": "שורה 16"
+  },
+  {
+   "id": "c19",
+   "text": "לפי נועם-אלון, הרעש כיסה 1,000 קילומטרים רבועים ומעל 13 מיליון בני אדם נפגעו.",
+   "source": "src5",
+   "quote": "The earthquake encompassed 1,000 square kilometers, and over 13 million people were affected.",
+   "status": "confirmed",
+   "locator": "שורה 16"
+  },
+  {
+   "id": "c41",
+   "text": "לפי הודעת הג'וינט לעיתונות, הקהילה היהודית המקומית בטורקיה הובילה במשך עשרות שנים מאמצי סיוע לשכניה, והג'וינט תומך בה זה שנים.",
+   "source": "src4",
+   "quote": "longstanding support and cooperation with the 15,000-person local Jewish community, who have led disaster response efforts aiding their neighbors for many decades",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c20",
+   "text": "לפי נועם-אלון, בזכות הקשרים העמוקים עם הקהילה היהודית בטורקיה, הג'וינט הגיע במהירות לגאזיאנטפ והחל להגיב מיד.",
+   "source": "src5",
+   "quote": "Thanks to our deep and lasting connections with the Jewish community of Turkey, we reached Gaziantep quickly and launched our response immediately.",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c42",
+   "text": "לפי ההודעה לעיתונות, מנכ\"לית הג'וינט אריאל צוואנג אמרה שהחורף הקשה הופך את הסיוע לקריטי עוד יותר לאנשים הסובלים מקור, חוסר בית, רעב, פציעה ויאוש.",
+   "source": "src4",
+   "quote": "knowing that the harsh winter season makes this aid all the more critical to people enduring the cold, homelessness, hunger, injury, and despair",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c26",
+   "text": "לפי נועם-אלון, ניצולים רבים נאלצו לישון ברכביהם בחורף הקפוא והמושלג.",
+   "source": "src5",
+   "quote": "Many earthquake survivors had to sleep in their cars, if they had them",
+   "status": "confirmed",
+   "locator": "שורה 20"
+  },
+  {
+   "id": "c36",
+   "text": "חקי ויסמין אורהאן וילדיהם בילו חודש אצל קרובים רחוקים בחדר קטן אחד שחלקו עם משפחה נוספת, עם תנור קטן בלבד.",
+   "source": "src9",
+   "quote": "Yasemin and her children spent a month with distant relatives, packed into one small room shared with another family, with only a small stove to keep them all warm.",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c37",
+   "text": "חקי אורהאן סיפר שבזכות דיור בתמיכת הג'וינט היה למשפחה מקום בטוח ויבש להיות יחד.",
+   "source": "src9",
+   "quote": "While everyone was looking for a roof over their heads, we had a safe and dry place to be together as a family",
+   "status": "confirmed",
+   "locator": "שורה 24"
+  },
+  {
+   "id": "c28",
+   "text": "לפי נועם-אלון, הג'וינט הקים עם שותפים מטבח שהגיש 10,000 ארוחות ביום וחילק יותר מ-11,000 שמיכות.",
+   "source": "src5",
+   "quote": "we worked with our partners to set up a kitchen that served 10,000 meals per day and we delivered over 11,000 blankets to those enduring the cold",
+   "status": "confirmed",
+   "locator": "שורה 21"
+  },
+  {
+   "id": "c25",
+   "text": "בסיוע לטורקיה הג'וינט רכש ארבע אמבולנסים שיכולים להגיע למאות אלפי אנשים בדרום טורקיה והביא ציוד רפואי לבתי חולים ולמרפאות זמניות.",
+   "source": "src5",
+   "quote": "we procured four ambulances, able to reach hundreds of thousands of people across southern Turkey",
+   "status": "confirmed",
+   "locator": "שורה 19"
+  },
+  {
+   "id": "c30",
+   "text": "הג'וינט תמך בחנות פופ-אפ בנורדאי שהגיעה ליותר מ-3,000 ילדים בשני ימים בלבד.",
+   "source": "src5",
+   "quote": "We also supported a pop-up store in Nurdağı that reached more than 3,000 children in just two days.",
+   "status": "confirmed",
+   "locator": "שורה 21"
+  },
+  {
+   "id": "c38",
+   "text": "לפי הג'וינט, הארגון פינה קבוצה קטנה של יהודים קשישים מאנטקיה לאיסטנבול בשיתוף הקהילה היהודית, והג'וינט ושותפיו כיסו את עלויות ההובלה והטיפול.",
+   "source": "src9",
+   "quote": "to evacuate a small group of elderly Jews from Antakya to safety in Istanbul, with JDC and its partners covering transportation and care costs",
+   "status": "confirmed",
+   "locator": "שורה 21"
+  },
+  {
+   "id": "c39",
+   "text": "לפי אלגמיינר/JNS, הג'וינט ושותפים סייעו במימון ההובלה והטיפול בקהילת אנטקיה, כ-20 איש ששורשיה בני 2,500 שנה.",
+   "source": "src10",
+   "quote": "JDC and partners helped fund the transportation and care of that community of about 20 people, whose roots date back 2,500 years.",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c40",
+   "text": "לפי JNS, הג'וינט עובד עם הקהילה היהודית המקומית בת 15,000 האנשים, שניהלה מבצע פינוי של יהודי אנטקיה.",
+   "source": "src10",
+   "quote": "The team is working with the local, 15,000-strong Jewish community, which ran an evacuation operation to evacuate the Jews of hard-hit Antakya.",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c15",
+   "text": "הג'וינט מתאר מחויבות להישאר בשטח זמן רב אחרי האסון, כדי שהקהילות יעמדו שוב על רגליהן.",
+   "source": "src7",
+   "quote": "We’re on the ground from the very beginning, and we stay long after it’s over to make sure those communities get back on their feet.",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c33",
+   "text": "לפי נועם-אלון, הג'וינט מפתח פרויקט להקמת מעבדת תותבות לעזרה ליותר מ-800 ילדים פצועים שממתינים לטיפול.",
+   "source": "src5",
+   "quote": "We are now developing a project to establish a prosthetics lab to help more than 800 injured children who are still awaiting care.",
+   "status": "confirmed",
+   "locator": "שורה 26"
+  },
+  {
+   "id": "c24",
+   "text": "לפי eJewishPhilanthropy, לאורה ויין, מנהלת תגובת האסונות של הג'וינט, הגיעה לטורקיה 33 שעות לאחר הרעידה.",
+   "source": "src8",
+   "quote": "arrived in Turkey 33 hours after the earthquake initially struck",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c51",
+   "text": "לפי ויין, כארגון יהודי הסיוע לבני אדם אחרים בשטח הוא דבר מצוין.",
+   "source": "src10",
+   "quote": "As a Jewish organization, being on the ground helping other humans is a great thing",
+   "status": "confirmed",
+   "locator": "שורה 25"
+  },
+  {
+   "id": "c58",
+   "text": "לפי נועם-אלון, רעידת האדמה במיאנמר ב-28 במרץ 2025 הרגה יותר מ-3,600 בני אדם, פצעה 5,000 ועקרה יותר מ-200,000 מבתיהם.",
+   "source": "src5",
+   "quote": "killing more than 3,600 people, injuring 5,000 more, and displacing over 200,000 from their homes",
+   "status": "confirmed",
+   "locator": "שורה 35"
+  },
+  {
+   "id": "c57",
+   "text": "נועם-אלון מתאר את מיאנמר כמקום פגיע מאוד מבחינת תשתיות, עם שירותי רפואה לקויים, התפרצויות קשות של מלריה ודנגי וחשמל לסירוגין.",
+   "source": "src5",
+   "quote": "Medical services are sorely lacking, malaria and dengue outbreaks are severe and common, and electricity is spotty",
+   "status": "confirmed",
+   "locator": "שורה 33"
+  },
+  {
+   "id": "c59",
+   "text": "לפי נועם-אלון, הג'וינט היה בין המגיבים הבינלאומיים הראשונים והארגון ההומניטרי היהודי הראשון שפעל בשטח במיאנמר.",
+   "source": "src5",
+   "quote": "JDC was among the first international responders, and the first Jewish humanitarian organization, to operate on the ground in Myanmar",
+   "status": "confirmed",
+   "locator": "שורה 37"
+  },
+  {
+   "id": "c60",
+   "text": "לפי נועם-אלון, הג'וינט הפעיל מיד אחרי הרעידות את אפליקציית Go/No-Go שאישרה את הצורך הדחוף בתגובה.",
+   "source": "src5",
+   "quote": "Immediately after the earthquakes, we activated our Go/No-Go app, confirming the urgent need for a response",
+   "status": "confirmed",
+   "locator": "שורה 37"
+  },
+  {
+   "id": "c61",
+   "text": "במיאנמר הג'וינט חילק ערכות היגיינה, יריעות מחסה, כילות נגד יתושים וציוד קריטי נוסף.",
+   "source": "src5",
+   "quote": "distribute basic necessities, like hygiene kits, tarps for shelter, mosquito nets, and other critical supplies",
+   "status": "confirmed",
+   "locator": "שורה 41"
+  },
+  {
+   "id": "c62",
+   "text": "לפי JNS, הג'וינט מגיב להצפות הפתע בצפון נפאל ב-26 באוגוסט, שגרמו להרס נרחב לתשתיות קריטיות.",
+   "source": "src11",
+   "quote": "responding to the catastrophic flash floods that struck northern Nepal on Aug. 26",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c63",
+   "text": "בנפאל הג'וינט פועל דרך שותפים מקומיים ומספק מים נקיים, ערכות היגיינה, אספקה סניטרית וכלים למניעת התפרצות מחלות.",
+   "source": "src11",
+   "quote": "Working through local partners in the region, JDC is providing critically needed clean water, hygiene kits, sanitary supplies and disease-outbreak prevention tools",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c67",
+   "text": "בהאיטי הג'וינט עוזר לשותפים מקומיים להעביר ציוד רפואי, מים וציוד חיוני לקורבנות הפגיעים ביותר של רעידת האדמה.",
+   "source": "src12",
+   "quote": "JDC is helping its local partners get medical supplies, water, and other essential items to the most vulnerable earthquake victims",
+   "status": "confirmed",
+   "locator": "שורה 17"
+  },
+  {
+   "id": "c69",
+   "text": "בפטיסט מספר שרקדן האיטי שאיבד רגל ברעידת 2010 הצליח לחזור לקריירה בזכות מרפאה בתמיכת הג'וינט.",
+   "source": "src12",
+   "quote": "Thanks to a JDC-supported clinic, George was able to meet with an orthopedic surgeon, treat his injuries, and continue his career",
+   "status": "confirmed",
+   "locator": "שורה 23"
+  },
+  {
+   "id": "c68",
+   "text": "לפי ג'רהי בפטיסט, הג'וינט מביא ידע לוגיסטי למצבים כאוטיים, מגייס שותפים מקומיים ומקשיב לצרכיהם.",
+   "source": "src12",
+   "quote": "JDC brings logistical savvy to otherwise chaotic situations, mobilizing its local partners and listening to what they need",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c54",
+   "text": "ב-2019 עבד הג'וינט עם ניצולי הוריקן דוריאן בבהאמה כדי לפתח טכניקות מזון הידרופוניות וצורות נוספות של היערכות לאסון.",
+   "source": "src8",
+   "quote": "In 2019, for example, the group worked with survivors of Hurricane Dorian, which devastated the Bahamas, to help them develop hydroponic food techniques",
+   "status": "confirmed",
+   "locator": "שורה 19"
+  },
+  {
+   "id": "c65",
+   "text": "לפי JNS, הג'וינט הגיב לאחרונה לרעידות אדמה בוונצואלה, קולומביה, מיאנמר, טורקיה, מרוקו והאיטי.",
+   "source": "src11",
+   "quote": "has most recently responded to the earthquakes in Venezuela and Colombia, earthquakes in Myanmar, Turkey, Morocco, and Haiti",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c70",
+   "text": "הג'וינט מתאר שימוש בניסיון של מאה שנות הצלה וסיוע להגיב באתיופיה, בצ'אד ובהודו ובמשבר אוקראינה.",
+   "source": "src7",
+   "quote": "We leverage a century of rescue and relief experience to launch an effective response in places like Ethiopia, Chad, and India",
+   "status": "confirmed",
+   "locator": "שורה 21"
+  },
+  {
+   "id": "c71",
+   "text": "לפי הג'וינט, בהתערבויות אלה הוא מרחיב מיומנות מקומית לשיפור ההיערכות לחירום עתידי.",
+   "source": "src7",
+   "quote": "develop local capacity to ensure that the most vulnerable people in the hardest-hit towns and cities are better prepared to mitigate future emergencies",
+   "status": "confirmed",
+   "locator": "שורה 21"
+  },
+  {
+   "id": "c66",
+   "text": "לפי JNS, תוכניות הסיוע באסונות ממומנות מקרן האסונות של הג'וינט ומקריאות מיוחדות של הפדרציות היהודיות ותורמים פרטיים.",
+   "source": "src11",
+   "quote": "The disaster-relief programs are funded by its disaster fund, as well as special appeals from the Jewish Federations of North America",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c49",
+   "text": "לפי JNS, ג'ולי פלאט, יו\"ר הפדרציות היהודיות של צפון אמריקה, אמרה שמעל 121 פדרציות מקומיות גייסו כספים לטורקיה.",
+   "source": "src10",
+   "quote": "more than 121 local Jewish federations had people contribute funds for Turkey",
+   "status": "confirmed",
+   "locator": "שורה 28"
+  },
+  {
+   "id": "c48",
+   "text": "לפי הפדרציות היהודיות של צפון אמריקה, הן מגייסות משאבים לסיוע הומניטרי דחוף לקהילות נזקקות ללא קשר לדת, אתניות או מוצא.",
+   "source": "src13",
+   "quote": "deliver urgent humanitarian aid to communities in need regardless of faith, ethnicity, or origin",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c46",
+   "text": "הג'וינט מוביל את הקואליציה היהודית לסיוע באסונות (JCDR), הכוללת 49 ארגונים יהודיים, רובם צפון-אמריקאיים.",
+   "source": "src4",
+   "quote": "JDC also leads the Jewish Coalition for Disaster Relief (JCDR), made up of 49 mostly North American Jewish organizations",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c45",
+   "text": "פעילות הסיוע של הג'וינט מתואמת עם משרד החוץ האמריקאי, USAID, מאמצי סיוע ישראליים והאו\"ם.",
+   "source": "src4",
+   "quote": "JDC relief activities are coordinated with the U.S. Department of State, USAID, Israeli relief efforts, and the United Nations",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c52",
+   "text": "לפי ויין, הג'וינט פועל תוך תיאום עם גופים אחרים ולא כדי לשכפל מאמצים.",
+   "source": "src10",
+   "quote": "We always look to leverage these other efforts and not to duplicate, and that’s what’s happening.",
+   "status": "confirmed",
+   "locator": "שורה 22"
+  },
+  {
+   "id": "c8",
+   "text": "ג'וינט ישראל מציג עצמו כמי שמלווה את החברה הישראלית יותר מ-100 שנים.",
+   "source": "src14",
+   "quote": "אנחנו מלווים את החברה הישראלית כבר יותר מ-100 שנים",
+   "status": "confirmed",
+   "locator": "שורה 44"
+  },
+  {
+   "id": "c1",
+   "text": "הג'וינט (JDC) מגדיר את עצמו כארגון ההומניטרי היהודי המוביל, הפועל ב-70 מדינות.",
+   "source": "src4",
+   "quote": "is the leading Jewish humanitarian organization, working in 70 countries to lift lives and strengthen communities",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c13",
+   "text": "לפי האנציקלופדיה היהודית, ב-2004 פעל הג'וינט ביותר מ-60 מדינות.",
+   "source": "src6",
+   "quote": "In 2004, after 90 years of service, jdc was operating in over 60 countries",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c21",
+   "text": "לפי נועם-אלון, כמה שעות לאחר הרעידה כבר היו אנשי הג'וינט בשטח.",
+   "source": "src5",
+   "quote": "Just a few hours after that, we were on the ground, helping to lead our multipronged disaster-response efforts.",
+   "status": "confirmed",
+   "locator": "שורה 17"
+  },
+  {
+   "id": "c22",
+   "text": "לפי אביטל סנדלר-לף, צוות הג'וינט היה בשטח פחות מ-24 שעות לאחר הרעידה.",
+   "source": "src9",
+   "quote": "Our team was on the ground less than 24 hours after the earthquake, and we knew we could help and make an impact",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c23",
+   "text": "לפי אלגמיינר/JNS, שני מומחי אסונות ומנהל המדינה של הג'וינט בטורקיה הגיעו כולם תוך יממה מהרעידה הראשונה.",
+   "source": "src10",
+   "quote": "all arrived within a day of the first earthquake",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c34",
+   "text": "לפי סיפור של הג'וינט, הרעידה בטורקיה הרגה יותר מ-50,000 בני אדם והרסה למעלה מ-500,000 מבנים.",
+   "source": "src9",
+   "quote": "which killed more than 50,000 people and destroyed over 500,000 buildings",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c35",
+   "text": "לפי eJewishPhilanthropy, בימים הראשונים לאחר הרעידה, שמספר ההרוגים בה חצה את ה-24,000, נשלחו עשרות ארגונים יהודיים וישראליים לסייע.",
+   "source": "src8",
+   "quote": "dozens of Jewish and Israeli organizations — along with aid agencies from all over the world — have dispatched teams to help with relief efforts as the death toll climbs above 24,000",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c29",
+   "text": "לפי אלגמיינר/JNS, נכון ליום שני אחרי הרעידה חילק הג'וינט כ-7,000 ארוחות ו-10,000 שמיכות.",
+   "source": "src10",
+   "quote": "As of Monday, the JDC had distributed some 7,000 meals and 10,000 blankets",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c81",
+   "text": "ב-2007 קיבל הג'וינט את פרס ישראל.",
+   "source": "src15",
+   "quote": "The American Jewish Joint Distribution Committee-Israel was one of four to receive an Israel Prize",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c82",
+   "text": "ב-2007 קיבל הג'וינט את פרס ישראל.",
+   "source": "src16",
+   "quote": "our Israel operation had won the esteemed Israel Prize this year",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c85",
+   "text": "הכרה: פרס ישראל, 2007",
+   "source": "src15",
+   "quote": "The American Jewish Joint Distribution Committee-Israel was one of four to receive an Israel Prize",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c86",
+   "text": "הכרה: פרס ישראל, 2007",
+   "source": "src16",
+   "quote": "our Israel operation had won the esteemed Israel Prize this year",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c89",
+   "text": "כמה יהודים בדיוק? המקורות נותנים מספרים שונים.",
+   "source": "src2",
+   "quote": "JDC efforts were instrumental in assisting at least 190,000 Jews to leave Germany between 1933 and 1939;",
+   "status": "confirmed",
+   "locator": "שורה 21"
+  },
+  {
+   "id": "c90",
+   "text": "הג'וינט תורם מיליוני דולרים לסיוע באסונות ולסיוע פיתוח לקהילות לא-יהודיות.",
+   "source": "src17",
+   "quote": "will give more than $8 million this year to non-Jewish causes",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c91",
+   "text": "ב-2007 קיבל הג'וינט את פרס ישראל על מפעל חיים ותרומה מיוחדת לחברה ולמדינת ישראל.",
+   "source": "src15",
+   "quote": "The American Jewish Joint Distribution Committee-Israel was one of four to receive an Israel Prize for life achievement",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c92",
+   "text": "בכמה מדינות הוא פועל? המקורות נותנים מספרים שונים.",
+   "source": "src18",
+   "quote": "in need in this country and around the globe in the 71 countries where we work.",
+   "status": "confirmed",
+   "locator": "שורה 24"
+  },
+  {
+   "id": "c93",
+   "text": "ב-71 מדינות, נכון ל-2009",
+   "source": "src18",
+   "quote": "in need in this country and around the globe in the 71 countries where we work.",
+   "status": "confirmed",
+   "locator": "שורה 24"
+  }
+ ],
+ "sources": [
+  {
+   "id": "src2",
+   "label": "United States Holocaust Memorial Museum Encyclopedia",
+   "url": "https://encyclopedia.ushmm.org/content/en/article/american-jewish-joint-distribution-committee-and-refugee-aid",
+   "kind": "reference"
+  },
+  {
+   "id": "src3",
+   "label": "JDC Archives, History of JDC",
+   "url": "https://archives.jdc.org/?p=53805",
+   "kind": "organisation"
+  },
+  {
+   "id": "src4",
+   "label": "JDC, press release on the earthquakes in Turkey, 2023",
+   "url": "https://jdc.org/press-releases/jdc-deploys-response-to-turkey-earthquakes/",
+   "kind": "organisation"
+  },
+  {
+   "id": "src5",
+   "label": "JDC Voices, interview with a disaster relief expert",
+   "url": "https://www.jdc.org/voice/nonsectarian-aid-jewish-values-this-disaster-relief-expert-reflects-on-jdcs-global-work/",
+   "kind": "organisation"
+  },
+  {
+   "id": "src6",
+   "label": "Encyclopedia.com, American Jewish Joint Distribution Committee",
+   "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/american-jewish-joint-distribution-committee",
+   "kind": "reference"
+  },
+  {
+   "id": "src7",
+   "label": "JDC, Global Crises Response",
+   "url": "https://www.jdc.org/our-work/global-crises-response/",
+   "kind": "organisation"
+  },
+  {
+   "id": "src8",
+   "label": "eJewishPhilanthropy, Jewish and Israeli organizations in earthquake relief",
+   "url": "https://ejewishphilanthropy.com/jewish-and-israeli-humanitarian-organizations-join-earthquake-relief-efforts/",
+   "kind": "press"
+  },
+  {
+   "id": "src9",
+   "label": "JDC, Stories: In Turkey, Leveraging Partners for a Robust Nonsectarian Response",
+   "url": "https://www.jdc.org/stories/in-turkey-leveraging-partners-for-a-robust-nonsectarian-response/",
+   "kind": "organisation"
+  },
+  {
+   "id": "src10",
+   "label": "Algemeiner, 16.2.2023",
+   "url": "https://www.algemeiner.com/2023/02/16/jdc-works-with-turkeys-local-community-global-jewry-to-bring-relief-to-quake-victims/",
+   "kind": "press"
+  },
+  {
+   "id": "src11",
+   "label": "JNS, JDC responds to floods in Nepal",
+   "url": "https://www.jns.org/wire/jdc/jdc-responds-to-aftermath-of-catastrophic-flooding-in-nepal",
+   "kind": "press"
+  },
+  {
+   "id": "src12",
+   "label": "JDC Voices, the earthquake in Haiti",
+   "url": "https://jdc.org/voice/on-our-feet-again-a-jdc-disaster-relief-expert-reflects-on-the-earthquake-in-haiti/",
+   "kind": "organisation"
+  },
+  {
+   "id": "src13",
+   "label": "Jewish Federations of North America, Global Humanitarian Efforts",
+   "url": "https://www.jewishfederations.org/about-us/global-humanitarian-efforts",
+   "kind": "organisation"
+  },
+  {
+   "id": "src14",
+   "label": "JDC Israel",
+   "url": "https://www.thejoint.org.il/en/?p=169",
+   "kind": "organisation"
+  },
+  {
+   "id": "src15",
+   "label": "JTA: Israel Prizes awarded (26 March 2007)",
+   "url": "https://jta.org/2007/03/26/default/israel-prizes-awarded",
+   "kind": "press"
+  },
+  {
+   "id": "src16",
+   "label": "JTA: Israel Prizes awarded (26 March 2007)",
+   "url": "https://www.jta.org/2007/04/19/ideas/israel-is-part-of-our-dna",
+   "kind": "press"
+  },
+  {
+   "id": "src17",
+   "label": "JTA: JDC to give more than $8 million this year to non-Jewish causes (October 2007)",
+   "url": "https://www.jta.org/?p=419690",
+   "kind": "press"
+  },
+  {
+   "id": "src18",
+   "label": "JDC Ambassadors Circle blog: Briefing from Steve Schwager, JDC executive (20 January 2009)",
+   "url": "https://jdcambassadorscircle.blogspot.com/2009/01/briefing-from-steve-schwager-executive.html",
+   "kind": "organisation"
+  }
+ ],
+ "media": [
+  {
+   "id": "m2",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/1914%20telegram%20that%20prompted%20the%20establishment%20of%20the%20Joint%20Distribution%20Committee%20%28JDC%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:1914_telegram_that_prompted_the_establishment_of_the_Joint_Distribution_Committee_%28JDC%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Henry Morgenthau, Sr.",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "A Western Union telegram from August 1914 to Jacob Schiff in New York, which according to the description led to the founding of the JDC.",
+   "illustrates": [
+    "c10"
+   ],
+   "date": "1914-08-31",
+   "width": 3009,
+   "height": 2323
+  },
+  {
+   "id": "m3",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/American%20Jewish%20Joint%20Distribution%20Committee%20-%202.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:American_Jewish_Joint_Distribution_Committee_-_2.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Farouk",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "The JDC Israel building in Givat Ram in Jerusalem, with a \"JDC Israel\" sign on the stone wall.",
+   "illustrates": [
+    "c8"
+   ],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2015-02-23",
+   "width": 3264,
+   "height": 1836
+  },
+  {
+   "id": "m4",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/American%20Jewish%20Joint%20Distribution%20Committee%20-%201.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:American_Jewish_Joint_Distribution_Committee_-_1.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Farouk",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "The JDC Israel building in Givat Ram, seen from across the road.",
+   "illustrates": [
+    "c8"
+   ],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2015-02-23",
+   "width": 2350,
+   "height": 1400
+  },
+  {
+   "id": "m5",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jewish%20refugees%20in%20Vienna.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Jewish_refugees_in_Vienna.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "U.S. Army Signal Corps",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "A sergeant in military dress stands beside a couple with two children in a room at a refugee center in Vienna; according to the description, he brought milk to displaced Jewish children.",
+   "illustrates": [],
+   "date": "1945-10-26",
+   "width": 1268,
+   "height": 1050
+  },
+  {
+   "id": "m6",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jdc-child.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Jdc-child.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "United States Holocaust Memorial Museum, courtesy of National Archives and Records Administration, College Park",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "A man lifts a little girl in front of aid crates and flags, and beside them is a woman in a coat; the crates bear the name American Joint Distribution Committee.",
+   "illustrates": [],
+   "date": "1945-1946",
+   "width": 955,
+   "height": 1200
+  },
+  {
+   "id": "m7",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo-positive.png?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Logo-positive.png",
+   "source_name": "Wikimedia Commons",
+   "credit": "JDC Israel",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "The Hebrew logo of the JDC, with a menorah symbol and the letters JDC.",
+   "illustrates": [
+    "c1"
+   ],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2019-11-01",
+   "width": 570,
+   "height": 168
+  },
+  {
+   "id": "m8",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Secretary%20Kerry%20Delivers%20Remarks%20at%20the%20American%20Jewish%20Joint%20Distribution%20Committee%E2%80%99s%20100th%20Anniversary%20Celebration%20%2811329165534%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Secretary_Kerry_Delivers_Remarks_at_the_American_Jewish_Joint_Distribution_Committee%E2%80%99s_100th_Anniversary_Celebration_%2811329165534%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "U.S. Department of State from United States",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "U.S. Secretary of State John Kerry speaks at a podium at an event with a \"JDC 100 YEARS\" sign, before guests at tables; according to the description, this is the JDC's 100th anniversary event in Washington.",
+   "illustrates": [
+    "c10"
+   ],
+   "date": "2013-12-09",
+   "width": 4545,
+   "height": 3025
+  },
+  {
+   "id": "m9",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Secretary%20Kerry%20Delivers%20Remarks%20at%20the%20American%20Jewish%20Joint%20Distribution%20Committee%E2%80%99s%20100th%20Anniversary%20Celebration%20%2811329220843%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Secretary_Kerry_Delivers_Remarks_at_the_American_Jewish_Joint_Distribution_Committee%E2%80%99s_100th_Anniversary_Celebration_%2811329220843%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "U.S. Department of State from United States",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "John Kerry speaks against a backdrop of JDC 1914–2014 signs, at the JDC's 100th anniversary event in Washington, according to the description.",
+   "illustrates": [
+    "c10"
+   ],
+   "date": "2013-12-09",
+   "width": 5468,
+   "height": 3645
+  },
+  {
+   "id": "m10",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/JDC%20shanghai.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:JDC_shanghai.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "WL from Shanghai, China",
+   "licence": "CC BY 2.0",
+   "hosting": "hotlink",
+   "caption": "An old brick building on a street in Shanghai; according to the description, this is the site where the JDC office in the city was once located.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/2.0",
+   "date": "2009-11-01",
+   "width": 500,
+   "height": 375
+  },
+  {
+   "id": "m11",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Renati-Rulhater-Harry-Weinsaft-JDC.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Renati-Rulhater-Harry-Weinsaft-JDC.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "United States Holocaust Memorial Museum, courtesy of National Archives and Records Administration, College Park",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "A man in military uniform kneels before a little girl and hands her a package, beside an aid crate; according to the description, this is Harry Weinsaft of the JDC and the girl Renate, a displaced Jewish girl in Vienna.",
+   "illustrates": [
+    "c3"
+   ],
+   "date": "1945-1946",
+   "width": 1521,
+   "height": 1200
+  },
+  {
+   "id": "m12",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Joint-Minsk.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Joint-Minsk.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Pessimist2006",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "An illuminated JDC sign on a wall, beside the flags of Israel, the United States and Belarus; according to the description, this is the JDC office in Minsk.",
+   "illustrates": [
+    "c1"
+   ],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "2010-04-16",
+   "width": 1470,
+   "height": 1920
+  },
+  {
+   "id": "m13",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=rX2nmv1UEbk",
+   "youtube_id": "rX2nmv1UEbk",
+   "source_page": "https://www.youtube.com/watch?v=rX2nmv1UEbk",
+   "source_name": "YouTube",
+   "credit": "JDC",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "A JDC film about itself on its response to the earthquake in Turkey, under the message that the organization puts Jewish values into action for all people.",
+   "illustrates": [
+    "c5",
+    "c3"
+   ]
+  },
+  {
+   "id": "m14",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=FKVM5GvZziY",
+   "youtube_id": "FKVM5GvZziY",
+   "source_page": "https://www.youtube.com/watch?v=FKVM5GvZziY",
+   "source_name": "YouTube",
+   "credit": "JDC",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "A JDC film about itself on its response to the earthquake disaster in Turkey, in which it presents itself as the leading Jewish humanitarian organization in 70 countries.",
+   "illustrates": [
+    "c1"
+   ],
+   "spoken": "tr",
+   "audio_tracks": [
+    "tr"
+   ]
+  },
+  {
+   "id": "m15",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=NYQQj0m3gew",
+   "youtube_id": "NYQQj0m3gew",
+   "source_page": "https://www.youtube.com/watch?v=NYQQj0m3gew",
+   "source_name": "YouTube",
+   "credit": "JDC",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "A JDC film about itself on its emergency response to the earthquake in Turkey, which claimed more than 40,000 lives.",
+   "illustrates": [
+    "c43"
+   ],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m16",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=03GWJRddGp4",
+   "youtube_id": "03GWJRddGp4",
+   "source_page": "https://www.youtube.com/watch?v=03GWJRddGp4",
+   "source_name": "YouTube",
+   "credit": "JDC",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "A JDC film about itself on coping with recovery after the earthquake in Turkey, which left a million people without a home.",
+   "illustrates": [
+    "c43"
+   ],
+   "spoken": "tr",
+   "audio_tracks": [
+    "tr"
+   ]
+  },
+  {
+   "id": "m17",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=1shH9nqbMz0",
+   "youtube_id": "1shH9nqbMz0",
+   "source_page": "https://www.youtube.com/watch?v=1shH9nqbMz0",
+   "source_name": "YouTube",
+   "credit": "JDC",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "A JDC film about itself that presents it as the leading Jewish humanitarian organization operating in 70 countries.",
+   "illustrates": [
+    "c1"
+   ],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m18",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/JDC%20conference%20on%20Arab%20employment%20in%20Israel%2001.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:JDC_conference_on_Arab_employment_in_Israel_01.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Nizzan Cohen",
+   "licence": "CC BY 4.0",
+   "hosting": "hotlink",
+   "caption": "A JDC conference at Givat Haviva, with a speaker at a podium and a screen with the JDC's Hebrew logo.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/4.0",
+   "date": "2023-11-21",
+   "width": 4624,
+   "height": 2080,
+   "role": "deed"
+  },
+  {
+   "id": "m19",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/JDC%20conference%20on%20Arab%20employment%20in%20Israel%2002.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:JDC_conference_on_Arab_employment_in_Israel_02.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Nizzan Cohen",
+   "licence": "CC BY 4.0",
+   "hosting": "hotlink",
+   "caption": "A panel at a JDC conference at Givat Haviva, with a screen and a banner with the JDC's Hebrew logo behind it.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/4.0",
+   "date": "2023-11-21",
+   "width": 4624,
+   "height": 2080,
+   "role": "deed"
+  },
+  {
+   "id": "m20",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/JOINT%20report%20on%20Palestine%2C%201917-18.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:JOINT_report_on_Palestine%2C_1917-18.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Book by Siegfried Hoofien (1881–1957)",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "The cover of Siegfried Hoofien's report to the JDC in New York on relief activity in Palestine, 1917–1918.",
+   "illustrates": [],
+   "date": "circa 1920",
+   "width": 1872,
+   "height": 1585,
+   "role": "deed"
+  },
+  {
+   "id": "m21",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Reuven%20Rivlin%20meeting%20with%20the%20members%20of%20JDC%20board%20of%20directors%2C%20February%202018%20%286443%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Reuven_Rivlin_meeting_with_the_members_of_JDC_board_of_directors%2C_February_2018_%286443%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Mark Neyman",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "Israeli President Reuven Rivlin with three men at a meeting with members of the JDC board, February 13, 2018.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "2018-02-13",
+   "width": 3307,
+   "height": 2373,
+   "role": "deed"
+  },
+  {
+   "id": "m22",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Reuven%20Rivlin%20meeting%20with%20the%20members%20of%20JDC%20board%20of%20directors%2C%20February%202018%20%286552%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Reuven_Rivlin_meeting_with_the_members_of_JDC_board_of_directors%2C_February_2018_%286552%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Mark Neyman",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "Israeli President Reuven Rivlin and a JDC representative hold a frame with a document, at a meeting with the JDC board, February 2018.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "2018-02-13",
+   "width": 3307,
+   "height": 2205,
+   "role": "deed"
+  },
+  {
+   "id": "m23",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Reuven%20Rivlin%20meeting%20with%20the%20members%20of%20JDC%20board%20of%20directors%2C%20February%202018%20%286629%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Reuven_Rivlin_meeting_with_the_members_of_JDC_board_of_directors%2C_February_2018_%286629%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Mark Neyman",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "President Rivlin with children and a teenage boy, among them a girl in a wheelchair wearing a shirt that reads Board Meetings, at a meeting with the JDC board, 2018.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "2018-02-13",
+   "width": 3307,
+   "height": 4981,
+   "role": "deed"
+  },
+  {
+   "id": "m24",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/World%20War%20I%20Hungarian%20Prisoner%20of%20War%20Card.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:World_War_I_Hungarian_Prisoner_of_War_Card.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Joint Distribution Committee of the American Funds for Jewish War Sufferers",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "A card of the JDC branch in Vladivostok, issued in 1920 to a Hungarian prisoner of war, with his photograph.",
+   "illustrates": [],
+   "date": "1920",
+   "width": 4344,
+   "height": 6058,
+   "role": "deed"
+  },
+  {
+   "id": "m25",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eli%20Eliezri%20in%20Thailand%20in%202005%20after%20the%20tsunami.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Eli_Eliezri_in_Thailand_in_2005_after_the_tsunami.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Unknown authorUnknown author",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "Eli Eliezri against a backdrop of destroyed houses after the tsunami in Thailand, 2005.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2005-02-06",
+   "width": 1600,
+   "height": 1200,
+   "role": "related"
+  },
+  {
+   "id": "m26",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/BrukdeilF8193.JPG?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:BrukdeilF8193.JPG",
+   "source_name": "Wikimedia Commons",
+   "credit": "Yaakov",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "The entrance gate to the JDC's Brookdale Institute in Givat Ram, Jerusalem.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "2013-07-02",
+   "width": 2048,
+   "height": 1536,
+   "role": "deed"
+  },
+  {
+   "id": "m27",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Joint%20Jerusalem%20Sundial-%20back%20view%20%284278684724%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Joint_Jerusalem_Sundial-_back_view_%284278684724%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "zeevveez from Jerusalem, Israel",
+   "licence": "CC BY 2.0",
+   "hosting": "hotlink",
+   "caption": "The JDC Israel building in Givat Ram, Jerusalem, with the large sundial in front.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/2.0",
+   "date": "2010-01-16",
+   "width": 2304,
+   "height": 1728,
+   "role": "deed"
+  },
+  {
+   "id": "m28",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Joint%20Jerusalem%20Sundial-%20front%20%284277936147%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Joint_Jerusalem_Sundial-_front_%284277936147%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "zeevveez from Jerusalem, Israel",
+   "licence": "CC BY 2.0",
+   "hosting": "hotlink",
+   "caption": "The sundial at the JDC building in Givat Ram, Jerusalem, front view.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/2.0",
+   "date": "2010-01-16",
+   "width": 2304,
+   "height": 1728,
+   "role": "deed"
+  },
+  {
+   "id": "m29",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Joint%20Jerusalem%20Sundial-%20side%20view%20%284277938659%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Joint_Jerusalem_Sundial-_side_view_%284277938659%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "zeevveez from Jerusalem, Israel",
+   "licence": "CC BY 2.0",
+   "hosting": "hotlink",
+   "caption": "A \"Givat HaJoint\" stone on the lawn, with the JDC Israel building in Givat Ram behind it.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/2.0",
+   "date": "2010-01-16",
+   "width": 1728,
+   "height": 2304,
+   "role": "deed"
+  },
+  {
+   "id": "m30",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Joint%20Jerusalem%20Sundial-%20side%20view-1%20%284278683412%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Joint_Jerusalem_Sundial-_side_view-1_%284278683412%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "zeevveez from Jerusalem, Israel",
+   "licence": "CC BY 2.0",
+   "hosting": "hotlink",
+   "caption": "The sundial of the JDC building in Givat Ram, side view.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/2.0",
+   "date": "2010-01-16",
+   "width": 2304,
+   "height": 1728,
+   "role": "deed"
+  },
+  {
+   "id": "m31",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Joint%20Jerusalem%20Sundial-%20sign%20%284278683816%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Joint_Jerusalem_Sundial-_sign_%284278683816%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "zeevveez from Jerusalem, Israel",
+   "licence": "CC BY 2.0",
+   "hosting": "hotlink",
+   "caption": "A stone plaque on the lawn near the JDC building: the water system was donated by Joseph G. Glickman, \"in appreciation of the great work of the JDC around the world\".",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/2.0",
+   "date": "2010-01-16",
+   "width": 2232,
+   "height": 1644,
+   "role": "deed"
+  },
+  {
+   "id": "m32",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Round%20Stairs%20at%20Joint%20Building%20Jerusalem%20%288604787675%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Round_Stairs_at_Joint_Building_Jerusalem_%288604787675%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "zeevveez from Jerusalem, Israel",
+   "licence": "CC BY 2.0",
+   "hosting": "hotlink",
+   "caption": "Stone steps on the dome of the sundial near the JDC building in Givat Ram.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/2.0",
+   "date": "2013-03-31",
+   "width": 1024,
+   "height": 683,
+   "role": "deed"
+  },
+  {
+   "id": "m34",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/%22Among%20those%20noticed%20on%20Main%20Street%20were%20-%22%20-%20caricatures%20by%20Marius%20de%20Zayas.%20LCCN97507998.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:%22Among_those_noticed_on_Main_Street_were_-%22_-_caricatures_by_Marius_de_Zayas._LCCN97507998.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Marius de Zayas",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "Caricatures by Marius de Zayas of a street scene in New York, among them Jacob Schiff, in the early 20th century.",
+   "illustrates": [],
+   "date": "1915",
+   "width": 1440,
+   "height": 1167,
+   "role": "related"
+  },
+  {
+   "id": "m36",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Appleton%2C%20Gaynor%2C%20Schiff%20%26%20Ridder%20LCCN2014694293.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Appleton%2C_Gaynor%2C_Schiff_%26_Ridder_LCCN2014694293.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Bain News Service, publisher",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "Men on the steps of New York City Hall, among them Jacob Schiff, at a ceremony on September 3, 1913.",
+   "illustrates": [],
+   "date": "1913",
+   "width": 5722,
+   "height": 4197,
+   "role": "related"
+  },
+  {
+   "id": "m37",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Christian%20herald%20%281918%29%20%2814597090700%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Christian_herald_%281918%29_%2814597090700%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Internet Archive Book Images",
+   "licence": "No restrictions",
+   "hosting": "hotlink",
+   "caption": "A page from a 1918 magazine: according to the caption, the Jews of New York raised $5 million for wartime relief, led by Jacob Schiff.",
+   "illustrates": [],
+   "licence_url": "https://www.flickr.com/commons/usage/",
+   "date": "1918",
+   "width": 3386,
+   "height": 4246,
+   "role": "related"
+  },
+  {
+   "id": "m39",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hermann%20Struck%20Grafik%20JMBerlin%20GDR%2087%2021%200.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Hermann_Struck_Grafik_JMBerlin_GDR_87_21_0.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Hermann Struck",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "An etching by Hermann Struck, 1913: a profile portrait of Jacob Schiff.",
+   "illustrates": [],
+   "date": "1913date Q",
+   "width": 2027,
+   "height": 2468,
+   "role": "related"
+  }
+ ],
+ "check": {
+  "passed": true,
+  "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
+  "checked_at": "2026-11-21T04:56:44Z",
+  "counts": {
+   "confirmed": 100,
+   "not_confirmed": 0,
+   "deleted_sentences": 4,
+   "first_round_confirmed": 101,
+   "first_round_contradicted": 3,
+   "first_round_unverifiable": 4
+  },
+  "note": "unverifiable sentences were deleted, contradicted ones fixed from the source and checked again"
+ },
+ "meta": {
+  "run": "jdc-joint-70-countries-aid",
+  "pipeline": "scripts/museum/museum_line.py",
+  "models": {
+   "research": "sonnet-5-5",
+   "extract": "sonnet-5-5",
+   "media": "sonnet-5-5",
+   "write": "opus-5-5 medium",
+   "check": "opus-5-5 medium",
+   "fix": "opus-5-5 medium"
+  },
+  "source_quality": {
+   "sources": 17,
+   "wikipedia": 0,
+   "strong": 3,
+   "ok": true,
+   "warnings": []
+  },
+  "media_dedupe": [
+   {
+    "drop": "m1",
+    "keep": "m11",
+    "by": "reviewed 24.11"
+   }
+  ],
+  "wiki_cleanup": {
+   "at": "2026-11-27T14:51:41Z",
+   "targets": 11,
+   "resourced": 7,
+   "kept_on_other_sources": 0,
+   "deleted": 4
+  }
+ },
+ "lang": "en",
+ "translation": {
+  "from": "he",
+  "translator": "claude-opus-5-5",
+  "checker": "claude-opus-5-5 (separate call, blind to the translation prompt)",
+  "checked_at": "2026-11-27T14:51:53Z",
+  "passed": true,
+  "items": 164,
+  "pairs_checked": 5,
+  "reused": 159,
+  "first_round_flagged": 0,
+  "still_flagged": 0,
+  "flagged": [],
+  "quote_translations": {
+   "c8": "We have been accompanying Israeli society for more than 100 years"
+  }
+ }
 }

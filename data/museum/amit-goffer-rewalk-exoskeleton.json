@@ -524,9 +524,10 @@
    "paragraphs": [
     [
      {
-      "text": "לפי ויקיפדיה, גופר היה מנכ\"ל החברה בין 2001 ל-2012, ובין 2012 ל-2015 היה נשיאה וה-CTO שלה.",
+      "text": "גופר היה מנכ\"ל החברה בין 2001 ל-2012, ובין 2012 ל-2015 היה נשיאה וה-CTO שלה.",
       "claims": [
-       "c75"
+       "c81",
+       "c82"
       ]
      },
      {
@@ -1176,14 +1177,6 @@
    "locator": "שורה 6"
   },
   {
-   "id": "c75",
-   "text": "לפי ויקיפדיה, גופר היה מנכ\"ל החברה שייסד בין 2001 ל-2012, ובין 2012 ל-2015 נשיאה וה-CTO שלה.",
-   "source": "src9",
-   "quote": "From 2001 to 2012 he was CEO, and then from 2012 to 2015 the President and CTO of the company he founded",
-   "status": "confirmed",
-   "locator": "שורה 15"
-  },
-  {
    "id": "c73",
    "text": "גופר עובד כיום על UPnRIDE, מכשיר זקוף על גלגלים שיאפשר למשתמשי כיסא גלגלים להיות ניידים בעמידה.",
    "source": "src3",
@@ -1342,6 +1335,22 @@
    "quote": "The green light from the FDA is a big step forward for the entire exoskeleton industry. The price for a unit is $69,500.",
    "status": "confirmed",
    "locator": "שורה 8"
+  },
+  {
+   "id": "c81",
+   "text": "גופר היה מנכ\"ל החברה בין 2001 ל-2012, ובין 2012 ל-2015 היה נשיאה וה-CTO שלה.",
+   "source": "src10",
+   "quote": "Dr. Goffer served as ReWalk's CEO from 2001 until 2012,",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c82",
+   "text": "גופר היה מנכ\"ל החברה בין 2001 ל-2012, ובין 2012 ל-2015 היה נשיאה וה-CTO שלה.",
+   "source": "src10",
+   "quote": "and has served as its President and Chief Technology Officer since 2012",
+   "status": "confirmed",
+   "locator": "שורה 8"
   }
  ],
  "sources": [
@@ -1394,10 +1403,10 @@
    "kind": "press"
   },
   {
-   "id": "src9",
-   "label": "Wikipedia, Amit Goffer",
-   "url": "https://wikipedia.com/wiki/Amit_Goffer",
-   "kind": "reference"
+   "id": "src10",
+   "label": "BioSpace (ReWalk Robotics press release): ReWalk' Founder Dr. Amit Goffer To Retire",
+   "url": "https://www.biospace.com/rewalk-founder-b-dr-amit-goffer-b-to-retire",
+   "kind": "press"
   }
  ],
  "media": [
@@ -1625,6 +1634,13 @@
    "strong": 7,
    "ok": true,
    "warnings": []
+  },
+  "wiki_cleanup": {
+   "at": "2026-11-27T14:33:56Z",
+   "targets": 1,
+   "resourced": 1,
+   "kept_on_other_sources": 0,
+   "deleted": 0
   }
  }
 }

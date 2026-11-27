@@ -100,9 +100,9 @@
       ]
      },
      {
-      "text": "לפי ויקיפדיה, ישראל לא הוזמנה לוועידת בנדונג ב-1955 בדרישת מדינות ערב, שאיימו להחרים את הוועידה אם ישראל תוזמן.",
+      "text": "ישראל לא הוזמנה לוועידת בנדונג ב-1955 בדרישת מדינות ערב, שאיימו להחרים את הוועידה אם ישראל תוזמן.",
       "claims": [
-       "c72"
+       "c77"
       ]
      },
      {
@@ -235,14 +235,20 @@
        "c31"
       ]
      }
+    ],
+    [
+     {
+      "text": "אתר מש״ב: ב-1958",
+      "claims": [
+       "c2"
+      ]
+     }
     ]
    ],
    "media": [
     "m1"
    ],
-   "disagreements": [
-    "d3"
-   ]
+   "disagreements": []
   },
   {
    "id": "s4",
@@ -637,18 +643,6 @@
      "claims": [
       "c17"
      ]
-    },
-    {
-     "says": "ויקיפדיה: מעל 270,000 אנשי מקצוע מיותר מ-132 מדינות",
-     "claims": [
-      "c74"
-     ]
-    },
-    {
-     "says": "ויקיפדיה: רבע מיליון תלמידים עד 2010, רובם אפריקאים",
-     "claims": [
-      "c75"
-     ]
     }
    ]
   },
@@ -672,24 +666,6 @@
      "says": "מאמר JCPA: בתחילת 1958",
      "claims": [
       "c25"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "d3",
-   "question": "מתי נוסדה מש״ב?",
-   "versions": [
-    {
-     "says": "אתר מש״ב: ב-1958",
-     "claims": [
-      "c2"
-     ]
-    },
-    {
-     "says": "ויקיפדיה: החלה לשתף ידע בסוף 1957",
-     "claims": [
-      "c73"
      ]
     }
    ]
@@ -825,14 +801,6 @@
    "quote": "Nonetheless, that year it launched an ambitious initiative aimed at sharing its nation-building know-how with newly nascent countries in Africa and Asia that were gaining independence from colonial powers.",
    "status": "confirmed",
    "locator": "שורה 11"
-  },
-  {
-   "id": "c72",
-   "text": "לפי ויקיפדיה, מש״ב הוקמה בעקבות ועידת בנדונג 1955, שממנה הודחה ישראל בדרישת מדינות ערב.",
-   "source": "src8",
-   "quote": "from which Israel had been excluded at the demand of Arab countries who threatened a boycott of the conference if Israel was invited.",
-   "status": "confirmed",
-   "locator": "שורה 10"
   },
   {
    "id": "c22",
@@ -1251,22 +1219,6 @@
    "locator": "שורה 5"
   },
   {
-   "id": "c74",
-   "text": "לפי ויקיפדיה, מאז הקמתה השתתפו בהכשרות מש״ב מעל 270,000 אנשי מקצוע מיותר מ-132 מדינות.",
-   "source": "src8",
-   "quote": "Since its establishment, over 270,000 professionals from more than 132 countries have participated in Mashav's training programs.",
-   "status": "confirmed",
-   "locator": "שורה 13"
-  },
-  {
-   "id": "c75",
-   "text": "לפי ויקיפדיה, עד 2010 הכשירה מש״ב רבע מיליון תלמידים, ברובם אפריקאים.",
-   "source": "src8",
-   "quote": "By 2010, Mashav had trained a quarter of a million students, predominantly African",
-   "status": "confirmed",
-   "locator": "שורה 14"
-  },
-  {
    "id": "c10",
    "text": "לפי גיל חסקל, ראש מש״ב, הסוכנות נולדה מנסיעתה של שרת החוץ הישראלית גולדה מאיר לאפריקה ב-1957.",
    "source": "src2",
@@ -1275,20 +1227,20 @@
    "locator": "שורה 3"
   },
   {
-   "id": "c73",
-   "text": "לפי ויקיפדיה, מש״ב החלה בסוף 1957 לשתף ידע וטכנולוגיות שעמדו בבסיס ההתפתחות המהירה של ישראל.",
-   "source": "src8",
-   "quote": "Since its inception in late 1957, Mashav has striven to share with the rest of the developing world the know-how and technologies",
-   "status": "confirmed",
-   "locator": "שורה 11"
-  },
-  {
    "id": "c64",
    "text": "לפי טיימס אוף ישראל, לאחר מלחמת יום הכיפורים 1973 כל מדינות אפריקה פרט לארבע ניתקו יחסים עם ישראל.",
    "source": "src6",
    "quote": "Thus, all but four African countries cut off relations with Israel after the 1973 Yom Kippur",
    "status": "confirmed",
    "locator": "שורה 29"
+  },
+  {
+   "id": "c77",
+   "text": "ישראל לא הוזמנה לוועידת בנדונג ב-1955 בדרישת מדינות ערב, שאיימו להחרים את הוועידה אם ישראל תוזמן.",
+   "source": "src9",
+   "quote": "none of the Arab States would attend the conference if Israel were seated",
+   "status": "confirmed",
+   "locator": "שורה 5"
   }
  ],
  "sources": [
@@ -1335,10 +1287,10 @@
    "kind": "press"
   },
   {
-   "id": "src8",
-   "label": "Wikipedia, Mashav",
-   "url": "https://en.wikipedia.org/wiki/Mashav",
-   "kind": "reference"
+   "id": "src9",
+   "label": "Jewish Telegraphic Agency: Israel Eliminated from Asian-African Parley Under Pressure (1954)",
+   "url": "https://www.jta.org/archive/israel-eliminated-from-asian-african-parley-under-pressure",
+   "kind": "press"
   }
  ],
  "media": [
@@ -1582,7 +1534,7 @@
   "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
   "checked_at": "2026-11-21T03:44:32Z",
   "counts": {
-   "confirmed": 88,
+   "confirmed": 85,
    "not_confirmed": 0,
    "deleted_sentences": 4,
    "first_round_confirmed": 85,
@@ -1604,10 +1556,17 @@
   },
   "source_quality": {
    "sources": 8,
-   "wikipedia": 1,
+   "wikipedia": 0,
    "strong": 7,
    "ok": true,
    "warnings": []
+  },
+  "wiki_cleanup": {
+   "at": "2026-11-27T14:37:24Z",
+   "targets": 4,
+   "resourced": 1,
+   "kept_on_other_sources": 0,
+   "deleted": 3
   }
  }
 }

@@ -1,1711 +1,1602 @@
 {
-  "schema": "maasei-museum/1",
-  "slug": "gerty-cori-glycogen-nobel",
-  "deed": "גרטי קורי מגלה את מסלול המרת הגליקוגן וזוכה ראשונה בנשים בנובל לרפואה",
-  "canonical_type": "scientific-discovery",
-  "year": "1929",
-  "title": "גרטי קורי פענחה עם בעלה איך הגוף מפרק ובונה גליקוגן, וזכתה ראשונה בנשים בנובל לרפואה",
-  "trailer": [
-    {
-      "text": "גרטי קורי, האישה הראשונה שזכתה בפרס נובל ברפואה או בפיזיולוגיה, נולדה ב-1896 בפראג למשפחה יהודית אמידה.",
+ "schema": "maasei-museum/1",
+ "slug": "gerty-cori-glycogen-nobel",
+ "deed": "גרטי קורי מגלה את מסלול המרת הגליקוגן וזוכה ראשונה בנשים בנובל לרפואה",
+ "canonical_type": "scientific-discovery",
+ "year": "1929",
+ "title": "גרטי קורי פענחה עם בעלה איך הגוף מפרק ובונה גליקוגן, וזכתה ראשונה בנשים בנובל לרפואה",
+ "trailer": [
+  {
+   "text": "גרטי קורי, האישה הראשונה שזכתה בפרס נובל ברפואה או בפיזיולוגיה, נולדה ב-1896 בפראג למשפחה יהודית אמידה.",
+   "claims": [
+    "c1",
+    "c3"
+   ]
+  },
+  {
+   "text": "בלימודי הרפואה הכירה את קרל, ומאז למדו, טיילו וחקרו יחד.",
+   "claims": [
+    "c11"
+   ]
+  },
+  {
+   "text": "בני הזוג עזבו את אירופה לארצות הברית, ושם חקרו יחד.",
+   "claims": [
+    "c17",
+    "c18"
+   ]
+  },
+  {
+   "text": "ב-1929 תיארו את מחזור קורי, שבו הגוף אוגר סוכר בשרירים כגליקוגן ושולח אותו לכבד לעיבוד.",
+   "claims": [
+    "c36"
+   ]
+  },
+  {
+   "text": "אחר כך מצאו את האנזים שמתחיל את פירוק הגליקוגן, ובשנת 1947 קיבלו יחד את פרס נובל.",
+   "claims": [
+    "c40",
+    "c1"
+   ]
+  }
+ ],
+ "hero_media": [
+  "m2",
+  "m3",
+  "m7",
+  "m5",
+  "m6",
+  "m13"
+ ],
+ "glance": [
+  {
+   "label": "מי",
+   "value": "גרטי קורי, ילידת פראג, ממשפחה יהודית",
+   "claims": [
+    "c3"
+   ]
+  },
+  {
+   "label": "הגילוי",
+   "value": "מסלול ההמרה של גליקוגן ומחזור קורי",
+   "claims": [
+    "c2",
+    "c36"
+   ]
+  },
+  {
+   "label": "איפה",
+   "value": "באפלו, ואחר כך אוניברסיטת וושינגטון בסנט לואיס",
+   "claims": [
+    "c18",
+    "c28"
+   ]
+  },
+  {
+   "label": "הכרה",
+   "value": "פרס נובל לרפואה, 1947",
+   "claims": [
+    "c1"
+   ]
+  },
+  {
+   "label": "תלמידים",
+   "value": "שישה מחניכיהם זכו בנובל, לפי מילדרד כהן",
+   "claims": [
+    "c56"
+   ]
+  }
+ ],
+ "stations": [
+  {
+   "id": "s1",
+   "title": "ילדה בפראג",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "גרטי נולדה ב-15 באוגוסט 1896 בפראג.",
       "claims": [
-        "c1",
-        "c3"
+       "c5"
       ]
-    },
-    {
-      "text": "בלימודי הרפואה הכירה את קרל, ומאז למדו, טיילו וחקרו יחד.",
+     },
+     {
+      "text": "הוריה היו אוטו רדניץ ומרתה נוישטדט.",
       "claims": [
-        "c11"
+       "c6"
       ]
-    },
-    {
-      "text": "בני הזוג עזבו את אירופה לארצות הברית, ושם חקרו יחד.",
+     },
+     {
+      "text": "המשפחה הייתה יהודית ואמידה.",
       "claims": [
-        "c17",
-        "c18"
+       "c3"
       ]
-    },
-    {
-      "text": "ב-1929 תיארו את מחזור קורי, שבו הגוף אוגר סוכר בשרירים כגליקוגן ושולח אותו לכבד לעיבוד.",
+     }
+    ],
+    [
+     {
+      "text": "כשרצתה ללמוד מדעים, גילתה שחסרות לה דרישות קדם בלטינית, בפיזיקה, בכימיה ובמתמטיקה.",
       "claims": [
-        "c36"
+       "c73"
       ]
-    },
-    {
-      "text": "אחר כך מצאו את האנזים שמתחיל את פירוק הגליקוגן, ובשנת 1947 קיבלו יחד את פרס נובל.",
+     },
+     {
+      "text": "ב-1914, בגיל 18, נרשמה ללימודי רפואה.",
       "claims": [
-        "c40",
-        "c1"
+       "c10"
       ]
-    }
-  ],
-  "hero_media": [
-    "m2",
-    "m3",
+     },
+     {
+      "text": "היא למדה בבית הספר לרפואה של האוניברסיטה הגרמנית בפראג, וקיבלה דוקטורט ברפואה ב-1920.",
+      "claims": [
+       "c12"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "בשיעור אנטומיה הכירה את קרל קורי.",
+      "claims": [
+       "c11"
+      ]
+     },
+     {
+      "text": "מאז היו בלתי נפרדים: למדו, טיילו, גלשו בסקי וחקרו יחד.",
+      "claims": [
+       "c11"
+      ]
+     }
+    ]
+   ],
+   "media": [
     "m7",
     "m5",
     "m6",
-    "m13"
-  ],
-  "glance": [
-    {
-      "label": "מי",
-      "value": "גרטי קורי, ילידת פראג, ממשפחה יהודית",
-      "claims": [
-        "c3"
-      ]
-    },
-    {
-      "label": "הגילוי",
-      "value": "מסלול ההמרה של גליקוגן ומחזור קורי",
-      "claims": [
-        "c2",
-        "c36"
-      ]
-    },
-    {
-      "label": "איפה",
-      "value": "באפלו, ואחר כך אוניברסיטת וושינגטון בסנט לואיס",
-      "claims": [
-        "c18",
-        "c28"
-      ]
-    },
-    {
-      "label": "הכרה",
-      "value": "פרס נובל לרפואה, 1947",
-      "claims": [
-        "c1"
-      ]
-    },
-    {
-      "label": "תלמידים",
-      "value": "שישה מחניכיהם זכו בנובל, לפי מילדרד כהן",
-      "claims": [
-        "c56"
-      ]
-    }
-  ],
-  "stations": [
-    {
-      "id": "s1",
-      "title": "ילדה בפראג",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "גרטי נולדה ב-15 באוגוסט 1896 בפראג.",
-            "claims": [
-              "c5"
-            ]
-          },
-          {
-            "text": "הוריה היו אוטו רדניץ ומרתה נוישטדט.",
-            "claims": [
-              "c6"
-            ]
-          },
-          {
-            "text": "המשפחה הייתה יהודית ואמידה.",
-            "claims": [
-              "c3"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "כשרצתה ללמוד מדעים, גילתה שחסרות לה דרישות קדם בלטינית, בפיזיקה, בכימיה ובמתמטיקה.",
-            "claims": [
-              "c9"
-            ]
-          },
-          {
-            "text": "ב-1914, בגיל 18, נרשמה ללימודי רפואה.",
-            "claims": [
-              "c10"
-            ]
-          },
-          {
-            "text": "היא למדה בבית הספר לרפואה של האוניברסיטה הגרמנית בפראג, וקיבלה דוקטורט ברפואה ב-1920.",
-            "claims": [
-              "c12"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "בשיעור אנטומיה הכירה את קרל קורי.",
-            "claims": [
-              "c11"
-            ]
-          },
-          {
-            "text": "מאז היו בלתי נפרדים: למדו, טיילו, גלשו בסקי וחקרו יחד.",
-            "claims": [
-              "c11"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m7",
-        "m5",
-        "m6",
-        "m12",
-        "m26"
-      ],
-      "disagreements": [
-        "d1",
-        "d2"
-      ]
-    },
-    {
-      "id": "s2",
-      "title": "לעזוב את אירופה",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "ב-1920 מזרח אירופה עוד התאוששה מהמלחמה, והאנטישמיות הייתה בעלייה.",
-            "claims": [
-              "c13"
-            ]
-          },
-          {
-            "text": "לפי מילדרד כהן, משפחתו של קרל התנגדה לנישואים, כי האמינה שהרקע היהודי של גרטי יפגע בקריירה שלו.",
-            "claims": [
-              "c14"
-            ]
-          },
-          {
-            "text": "בווינה, בבית החולים, סירבה גרטי לקבל תוספות תזונה, כי הרגישה שהחולים זקוקים להן יותר.",
-            "claims": [
-              "c15"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "לפי מילדרד כהן, ההחלטה לעזוב את אירופה נבעה בעיקר מהאנטישמיות הגואה.",
-            "claims": [
-              "c16"
-            ]
-          },
-          {
-            "text": "בני הזוג עברו לארצות הברית.",
-            "claims": [
-              "c17"
-            ]
-          },
-          {
-            "text": "קרל התקבל לנהל מעבדה במכון הממלכתי לחקר מחלות ממאירות בבאפלו, וסידר לגרטי עבודה שם כעוזרת פתולוגית.",
-            "claims": [
-              "c18"
-            ]
-          },
-          {
-            "text": "ב-1928 הם נעשו אזרחים אמריקאים.",
-            "claims": [
-              "c19"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "לפי הספרייה הלאומית לרפואה של ארצות הברית, בשנת 1922 היגרו בני הזוג קורי לבאפלו שבניו יורק.",
-            "claims": [
-              "c72"
-            ]
-          }
-        ]
-      ],
-      "media": [],
-      "disagreements": []
-    },
-    {
-      "id": "s3",
-      "title": "לעבוד יחד, למרות הכול",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "בבאפלו פרסמו בני הזוג מאמרים רבים יחד.",
-            "claims": [
-              "c21",
-              "c23"
-            ]
-          },
-          {
-            "text": "מעט מוסדות היו מוכנים להעסיק את גרטי, ואלה שהעסיקו אותה לא נתנו לה מעמד או שכר שווים.",
-            "claims": [
-              "c24"
-            ]
-          },
-          {
-            "text": "לפי אתר פרס נובל, כאישה היא הועסקה בתנאים פחות נוחים בהרבה מבעלה.",
-            "claims": [
-              "c25"
-            ]
-          },
-          {
-            "text": "לפי ויקיפדיה, מנהל המכון איים לפטר אותה אם לא תפסיק לחקור עם בעלה.",
-            "claims": [
-              "c26"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "קורנל ואוניברסיטת טורונטו רצו את קרל, אבל סירבו להעסיק את גרטי.",
-            "claims": [
-              "c27"
-            ]
-          },
-          {
-            "text": "ב-1931 סירב קרל למשרה באוניברסיטה שהייתה אוסרת על גרטי לעבוד איתו.",
-            "claims": [
-              "c28"
-            ]
-          },
-          {
-            "text": "הוא קיבל את ראשות המחלקה לפרמקולוגיה באוניברסיטת וושינגטון בסנט לואיס.",
-            "claims": [
-              "c28"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "כללי האוניברסיטה אסרו אז למנות שני בני משפחה לסגל, ולכן גרטי הועסקה כעמיתת מחקר בפרמקולוגיה.",
-            "claims": [
-              "c29"
-            ]
-          },
-          {
-            "text": "שכרה היה עשירית משכר בעלה.",
-            "claims": [
-              "c30"
-            ]
-          },
-          {
-            "text": "לפי ויקיפדיה, הרקטור ארתור קומפטון התיר לה לכהן שם, תוך התעלמות מהכללים.",
-            "claims": [
-              "c31"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m3"
-      ],
-      "disagreements": [
-        "d4"
-      ]
-    },
-    {
-      "id": "s4",
-      "title": "הסוכר, השריר והכבד",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "כשבני הזוג התחילו, היה ידוע מעט על האופן שבו הגוף שומר על אספקת אנרגיה קבועה.",
-            "claims": [
-              "c32"
-            ]
-          },
-          {
-            "text": "לפי מילדרד כהן, הם שאלו מה מווסת את רמות הסוכר בדם.",
-            "claims": [
-              "c33"
-            ]
-          },
-          {
-            "text": "לפיה, הם הצליחו כי פיתחו שיטות מדויקות למדוד גלוקוז, גליקוגן, חומצת חלב ופוספטים.",
-            "claims": [
-              "c34"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "ניסויים בחולדות הראו שגליקוגן מתפרק בשריר, יוצר חומצת חלב בדם, ומחומצת החלב נוצר גליקוגן בכבד.",
-            "claims": [
-              "c35"
-            ]
-          },
-          {
-            "text": "ב-1929 תיארו בני הזוג את מחזור קורי.",
-            "claims": [
-              "c36"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "לפי בקר, חשבו אז שהמרת גליקוגן לגלוקוז היא הידרוליזה, אבל בשנות ה-30 הראו בני הזוג שהפירוק כרוך ביצירת חומר.",
-            "claims": [
-              "c37"
-            ]
-          },
-          {
-            "text": "ב-1936 גילו חומר ביניים חדש, גלוקוז-1-פוספט, שנקרא \"אסטר קורי\".",
-            "claims": [
-              "c38"
-            ]
-          },
-          {
-            "text": "את התגובה זירז אנזים שהם בודדו לראשונה וקראו לו פוספורילאז.",
-            "claims": [
-              "c39"
-            ]
-          },
-          {
-            "text": "אחר כך הפכו את התהליך ויצרו גליקוגן במבחנה.",
-            "claims": [
-              "c40"
-            ]
-          },
-          {
-            "text": "בכך פתחו דרך למחקר ביוכימי מחוץ לתאים חיים.",
-            "claims": [
-              "c41"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m3",
-        "m10",
-        "m23"
-      ],
-      "disagreements": []
-    },
-    {
-      "id": "s5",
-      "title": "נובל, 1947",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "ב-1947 קיבלו גרטי וקרל קורי את פרס נובל ברפואה או בפיזיולוגיה, והיא הייתה האישה הראשונה שזכתה בו.",
-            "claims": [
-              "c1"
-            ]
-          },
-          {
-            "text": "הנימוק היה \"על גילוי מסלול ההמרה הקטליטית של גליקוגן\".",
-            "claims": [
-              "c2"
-            ]
-          },
-          {
-            "text": "הם קיבלו חצי מהפרס, והחצי השני הלך לפיזיולוג הארגנטינאי ברנרדו הוסאי.",
-            "claims": [
-              "c43"
-            ]
-          },
-          {
-            "text": "גרטי קיבלה את הפרס ב-10 בדצמבר 1947.",
-            "claims": [
-              "c44"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "לפי ארכיון הנשים היהודיות, היא הייתה האישה היהודייה הראשונה והאישה האמריקאית הראשונה שזכתה בנובל במדעים.",
-            "claims": [
-              "c4"
-            ]
-          },
-          {
-            "text": "לפי ארכיון הנשים היהודיות, המחקר היה חשוב במיוחד להבנת הסוכרת ולטיפול בה.",
-            "claims": [
-              "c45"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "בסעודת נובל אמר קרל שמאמציהם משלימים, ושאחד בלי השני לא היה מגיע רחוק כמו שניהם יחד.",
-            "claims": [
-              "c63"
-            ]
-          },
-          {
-            "text": "גרטי כתבה שרגעים בלתי נשכחים הם נדירים, ובאים אחרי שנים של עבודה מאומצת.",
-            "claims": [
-              "c64"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m2",
-        "m9",
-        "m8",
-        "m14"
-      ],
-      "disagreements": [
-        "d5"
-      ]
-    },
-    {
-      "id": "s6",
-      "title": "השנים האחרונות",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "בסביבות זמן הפרס קודמה גרטי סוף סוף לדרגת פרופסור.",
-            "claims": [
-              "c49",
-              "c50"
-            ]
-          },
-          {
-            "text": "ב-1947 אובחנה אצלה מחלת מח עצם מתישה.",
-            "claims": [
-              "c52"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "בעשור האחרון לחייה גילתה את האנזימים שבונים ומפרקים את נקודות ההסתעפות בגליקוגן.",
-            "claims": [
-              "c54"
-            ]
-          },
-          {
-            "text": "בפרויקט האחרון שלה זיהתה את הפגם באנזים בכמה מחלות אגירת גליקוגן תורשתיות בילדים.",
-            "claims": [
-              "c55"
-            ]
-          },
-          {
-            "text": "כך הוכיחה לראשונה שחסר או ליקוי באנזים אחד יכול לגרום למחלה.",
-            "claims": [
-              "c55"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "ב-1952 מינה אותה הנשיא טרומן לדירקטוריון הקרן הלאומית למדע.",
-            "claims": [
-              "c58"
-            ]
-          },
-          {
-            "text": "לפי מילדרד כהן, שישה ממי שהודרכו על ידי בני הזוג זכו אחר כך בנובל.",
-            "claims": [
-              "c56"
-            ]
-          },
-          {
-            "text": "גרטי מתה ב-26 באוקטובר 1957 בסנט לואיס.",
-            "claims": [
-              "c71"
-            ]
-          },
-          {
-            "text": "לפי האגודה האמריקאית לכימיה, היא מתה מאי ספיקת כבד.",
-            "claims": [
-              "c53"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m11",
-        "m15"
-      ],
-      "disagreements": [
-        "d6"
-      ]
-    },
-    {
-      "id": "s7",
-      "title": "מה שנשאר",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "גרטי קיבלה גם את מדליית גרבן-אולין, את פרס סנט לואיס, את פרס מחקר הסוכר ואת פרס בורדן.",
-            "claims": [
-              "c59"
-            ]
-          },
-          {
-            "text": "ייל, בוסטון, סמית', קולומביה ורוצ'סטר העניקו לה תארי כבוד.",
-            "claims": [
-              "c60"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "ב-1998 הוכנסה להיכל התהילה הלאומי של נשים.",
-            "claims": [
-              "c66"
-            ]
-          },
-          {
-            "text": "ב-21 בספטמבר 2004 הכריזה האגודה האמריקאית לכימיה על המחקר של בני הזוג באוניברסיטת וושינגטון כאתר היסטורי כימי לאומי.",
-            "claims": [
-              "c57"
-            ]
-          },
-          {
-            "text": "באפריל 2008 יצא בול של שירות הדואר האמריקאי לכבודה.",
-            "claims": [
-              "c67"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "מכתש קורי על הירח נקרא על שמה.",
-            "claims": [
-              "c65"
-            ]
-          },
-          {
-            "text": "משרד האנרגיה האמריקאי קרא על שמה את מחשב העל NERSC-8 במעבדת ברקלי.",
-            "claims": [
-              "c69"
-            ]
-          },
-          {
-            "text": "ב-2016 תרם בנה תומס את מדליות הנובל של הוריו לבית הספר לרפואה של אוניברסיטת וושינגטון.",
-            "claims": [
-              "c70"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m24",
-        "m25"
-      ],
-      "disagreements": []
-    },
-    {
-      "id": "s8",
-      "title": "מה שלא הלך חלק",
-      "kind": "hard",
-      "paragraphs": [
-        [
-          {
-            "text": "לפי האגודה האמריקאית לכימיה, גרטי הודרה מחלק מההכרה.",
-            "claims": [
-              "c61"
-            ]
-          },
-          {
-            "text": "למשל, קרל היה הזוכה היחיד בפרס לסקר של איגוד בריאות הציבור האמריקאי.",
-            "claims": [
-              "c62"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "לפי אסושיאייטד פרס, בבול שהוקדש לה נפלה טעות בנוסחה הכימית של גלוקוז-1-פוספט, והוא הופץ בכל זאת.",
-            "claims": [
-              "c68"
-            ]
-          }
-        ]
-      ],
-      "media": [],
-      "disagreements": []
-    }
-  ],
-  "disagreements": [
-    {
-      "id": "d1",
-      "question": "היכן נולדה קורי?",
-      "versions": [
-        {
-          "says": "אתר פרס נובל: בפראג, אוסטריה-הונגריה (כיום צ'כיה)",
-          "claims": [
-            "c5"
-          ]
-        },
-        {
-          "says": "הספרייה הלאומית לרפואה של ארה\"ב: בפראג שבצ'כוסלובקיה",
-          "claims": [
-            "c6"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d2",
-      "question": "מה היה מקצוע אביה?",
-      "versions": [
-        {
-          "says": "מילדרד כהן: אוטו רדניץ היה כימאי שניהל בתי זיקוק לסוכר",
-          "claims": [
-            "c7"
-          ]
-        },
-        {
-          "says": "מכון ההיסטוריה של המדע: איש עסקים יהודי",
-          "claims": [
-            "c8"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d4",
-      "question": "כמה מאמרים משותפים פרסמו בבאפלו?",
-      "versions": [
-        {
-          "says": "אתר פרס נובל: 50 מאמרים בשמונה שנים",
-          "claims": [
-            "c21"
-          ]
-        },
-        {
-          "says": "הספרייה הלאומית לרפואה: חמישים מאמרים במכון רוזוול",
-          "claims": [
-            "c23"
-          ]
-        },
-        {
-          "says": "מילדרד כהן: רוב שמונים הפרסומים שלהם בין 1922 ל-1931 היו משותפים",
-          "claims": [
-            "c22"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d5",
-      "question": "הזוג הנשוי הראשון או השלישי שזכה בנובל?",
-      "versions": [
-        {
-          "says": "הספרייה הלאומית לרפואה: הזוג הנשוי הראשון שזכה בנובל במדעים",
-          "claims": [
-            "c47"
-          ]
-        },
-        {
-          "says": "ויקיפדיה: הזוג הנשוי השלישי אי פעם שזכה בנובל",
-          "claims": [
-            "c48"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d6",
-      "question": "מתי קודמה לפרופסור?",
-      "versions": [
-        {
-          "says": "אתר פרס נובל: חודשיים אחרי הפרס, שש עשרה שנה אחרי המעבר",
-          "claims": [
-            "c49"
-          ]
-        },
-        {
-          "says": "בקר: ביולי 1947, חודשים ספורים לפני הפרס",
-          "claims": [
-            "c50"
-          ]
-        },
-        {
-          "says": "ארכיון הנשים היהודיות: ב-1946, כשקרל מונה ליושב ראש המחלקה לביוכימיה",
-          "claims": [
-            "c51"
-          ]
-        }
-      ]
-    }
-  ],
-  "unknowns": [
-    {
-      "text": "לא ידוע מהחומר איך בדיוק עזר המחקר להבנת הסוכרת ולטיפול בה; יש רק קביעה כללית של ארכיון הנשים היהודיות",
-      "claims": [
-        "c45"
-      ]
-    }
-  ],
-  "claims": [
-    {
-      "id": "c1",
-      "text": "גרטי קורי ובעלה קרל קיבלו ב-1947 את פרס נובל ברפואה או בפיזיולוגיה, והיא הייתה האישה הראשונה שזכתה בו.",
-      "source": "src1",
-      "quote": "Gerty Cori and her husband, Carl, received the Nobel Prize in Physiology or Medicine in 1947; she was the first woman to do so.",
-      "status": "confirmed",
-      "locator": "שורה 25"
-    },
-    {
-      "id": "c3",
-      "text": "גרטי קורי נולדה ב-1896 בפראג למשפחה יהודית אמידה.",
-      "source": "src1",
-      "quote": "Gerty Cori was born Gerty Theresa Radnitz in 1896 to a wealthy Jewish family in Prague.",
-      "status": "confirmed",
-      "locator": "שורה 4"
-    },
-    {
-      "id": "c11",
-      "text": "גרטי וקרל הכירו בשיעור אנטומיה והפכו לבלתי נפרדים: למדו, טיילו, החליקו וחקרו יחד.",
-      "source": "src1",
-      "quote": "She and Carl met in anatomy class and became inseparable, studying, hiking, skiing, and researching together.",
-      "status": "confirmed",
-      "locator": "שורה 7"
-    },
-    {
-      "id": "c17",
-      "text": "בני הזוג קורי עזבו את אירופה ב-1922 לארצות הברית.",
-      "source": "src1",
-      "quote": "The Coris left Europe in 1922 for the safety and prosperity of the United States.",
-      "status": "confirmed",
-      "locator": "שורה 11"
-    },
-    {
-      "id": "c18",
-      "text": "קרל התקבל לנהל מעבדה במכון הממלכתי לחקר מחלות ממאירות בבאפלו, וסידר לאשתו עבודה שם כעוזרת פתולוגית.",
-      "source": "src1",
-      "quote": "Carl was hired to run the lab at the State Institute for the Study of Malignant Disease, in Buffalo, New York, and got his wife a job there as an assistant pathologist.",
-      "status": "confirmed",
-      "locator": "שורה 11"
-    },
-    {
-      "id": "c36",
-      "text": "ב-1929 תיארו בני הזוג את מחזור קורי, שבו הגוף אוגר סוכר בשרירים כגליקוגן ושולח אותו לכבד לעיבוד.",
-      "source": "src1",
-      "quote": "In 1929 they described the Cori cycle, the basic cellular process in which the body stores sugar in muscle cells as glycogen, sends it to the liver for processing into a usable form",
-      "status": "confirmed",
-      "locator": "שורה 17"
-    },
-    {
-      "id": "c40",
-      "text": "בני הזוג זיהו את האנזים שיוזם את פירוק הגליקוגן לגלוקוז, ואז הפכו את התהליך ויצרו גליקוגן במבחנה.",
-      "source": "src1",
-      "quote": "identified the enzyme that initiates decomposition into glucose. Then they reversed that enzymatic decomposition process to create glycogen in a test tube",
-      "status": "confirmed",
-      "locator": "שורה 18"
-    },
-    {
-      "id": "c2",
-      "text": "נימוק הפרס היה \"על גילוי מסלול ההמרה הקטליטית של גליקוגן\".",
-      "source": "src2",
-      "quote": "for their discovery of the course of the catalytic conversion of glycogen",
-      "status": "confirmed",
-      "locator": "שורה 6"
-    },
-    {
-      "id": "c28",
-      "text": "ב-1931 סירב קרל למשרה באוניברסיטה שהייתה אוסרת על גרטי לעבוד איתו, וקיבל את ראשות המחלקה לפרמקולוגיה באוניברסיטת וושינגטון בסנט לואיס.",
-      "source": "src3",
-      "quote": "In 1931, after refusing a position at a university that would prohibit Gerty from working with him, Carl accepted the chairmanship of the Pharmacology Department at Washington University in St. Louis",
-      "status": "confirmed",
-      "locator": "שורה 15"
-    },
-    {
-      "id": "c56",
-      "text": "לפי מילדרד כהן, שישה ממי שהודרכו על ידי בני הזוג קורי זכו אחר כך בפרס נובל.",
-      "source": "src3",
-      "quote": "Among those mentored by them, six subsequently received the Nobel prize.",
-      "status": "confirmed",
-      "locator": "שורה 17"
-    },
-    {
-      "id": "c5",
-      "text": "קורי נולדה ב-15 באוגוסט 1896 בפראג, אוסטריה-הונגריה (כיום צ'כיה).",
-      "source": "src2",
-      "quote": "Born: 15 August 1896, Prague, Austria-Hungary (now Czech Republic)",
-      "status": "confirmed",
-      "locator": "שורה 3"
-    },
-    {
-      "id": "c6",
-      "text": "לפי הספרייה הלאומית לרפואה של ארה\"ב, קורי נולדה בפראג שבצ'כוסלובקיה ב-1896 לאוטו רדניץ ולמרתה נוישטדט.",
-      "source": "src4",
-      "quote": "Gerty Cori was born in Prague, Czechoslovakia in 1896, to Otto Radnitz and Martha Neustadt.",
-      "status": "confirmed",
-      "locator": "שורה 17"
-    },
-    {
-      "id": "c9",
-      "text": "בחיפוש אחר לימודי המדעים גילתה גרטי שחסרות לה דרישות קדם בלטינית, בפיזיקה, בכימיה ובמתמטיקה.",
-      "source": "src5",
-      "quote": "Gerty learned that she lacked the prerequisites in Latin, physics, chemistry, and mathematics",
-      "status": "confirmed",
-      "locator": "שורה 48"
-    },
-    {
-      "id": "c10",
-      "text": "קורי נרשמה ללימודי רפואה ב-1914 בגיל 18.",
-      "source": "src1",
-      "quote": "and enrolled in medical school in 1914, at the age of 18",
-      "status": "confirmed",
-      "locator": "שורה 6"
-    },
-    {
-      "id": "c12",
-      "text": "קורי נכנסה לבית הספר לרפואה של האוניברסיטה הגרמנית בפראג וקיבלה דוקטורט ברפואה ב-1920.",
-      "source": "src6",
-      "quote": "She entered the Medical School of the German University of Prague and received the Doctorate in Medicine in 1920.",
-      "status": "confirmed",
-      "locator": "שורה 1"
-    },
-    {
-      "id": "c13",
-      "text": "ב-1920 מזרח אירופה התאוששה מהמלחמה והאנטישמיות הייתה בעלייה.",
-      "source": "src1",
-      "quote": "It was 1920, Eastern Europe was still recovering from the war and anti-Semitism was on the rise.",
-      "status": "confirmed",
-      "locator": "שורה 10"
-    },
-    {
-      "id": "c14",
-      "text": "לפי מילדרד כהן, משפחת קרל התנגדה לנישואים מפני שהאמינה שרקעה היהודי של גרטי יפגע בקריירה של קרל.",
-      "source": "src3",
-      "quote": "in spite of the opposition of his family, who were convinced that her Jewish background would hamper Carl",
-      "status": "confirmed",
-      "locator": "שורה 10"
-    },
-    {
-      "id": "c15",
-      "text": "בווינה סירבה גרטי לקבל תוספות תזונה בבית החולים מתוך תחושה שהחולים זקוקים להן יותר.",
-      "source": "src7",
-      "quote": "Gerty was given dietary supplements at her hospital but refused them, feeling that the patients needed them more than she did.",
-      "status": "confirmed",
-      "locator": "שורה 14"
-    },
-    {
-      "id": "c16",
-      "text": "לפי מילדרד כהן, ההחלטה לעזוב את אירופה נבעה בעיקר מאנטישמיות גואה.",
-      "source": "src3",
-      "quote": "Their decision to leave Europe was fueled primarily by rampant antisemitism.",
-      "status": "confirmed",
-      "locator": "שורה 12"
-    },
-    {
-      "id": "c19",
-      "text": "ב-1928 הפכו בני הזוג קורי לאזרחים אמריקאים.",
-      "source": "src8",
-      "quote": "In 1928 the Coris became naturalized U.S. citizens.",
-      "status": "confirmed",
-      "locator": "שורה 13"
-    },
-    {
-      "id": "c21",
-      "text": "אחרי שמונה שנים בבאפלו, שבהן פרסמו יחד 50 מאמרים, חיפשו בני הזוג מקום מתאים יותר למחקרם.",
-      "source": "src1",
-      "quote": "After eight years in Buffalo, where they published 50 papers together, they sought a place better suited to their research.",
-      "status": "confirmed",
-      "locator": "שורה 14"
-    },
-    {
-      "id": "c23",
-      "text": "לפי הספרייה הלאומית לרפואה, בני הזוג פרסמו חמישים מאמרים במשותף בעת שהיו במכון רוזוול.",
-      "source": "src4",
-      "quote": "The Coris published fifty papers jointly while at Roswell",
-      "status": "confirmed",
-      "locator": "שורה 18"
-    },
-    {
-      "id": "c24",
-      "text": "מעט מוסדות היו מוכנים להעסיק את גרטי למרות הישגיה, ואלה שכן העסיקו אותה לא העניקו לה מעמד או שכר שווים.",
-      "source": "src1",
-      "quote": "But few institutions would hire Gerty, despite her accomplishments, and those that did would not give her equal status or pay.",
-      "status": "confirmed",
-      "locator": "שורה 14"
-    },
-    {
-      "id": "c25",
-      "text": "לפי אתר פרס נובל, כאישה הועסקה גרטי קורי בתנאים פחות נוחים בהרבה מבעלה.",
-      "source": "src2",
-      "quote": "As a woman, Gerty Cori was employed on much less favorable terms than her husband.",
-      "status": "confirmed",
-      "locator": "שורה 9"
-    },
-    {
-      "id": "c26",
-      "text": "לפי ויקיפדיה, מנהל המכון איים לפטר את גרטי אם לא תפסיק את המחקר המשותף עם בעלה.",
-      "source": "src5",
-      "quote": "The director of the institute threatened to dismiss Gerty if she did not cease collaborative research with her husband.",
-      "status": "confirmed",
-      "locator": "שורה 54"
-    },
-    {
-      "id": "c27",
-      "text": "קורנל ואוניברסיטת טורונטו סירבו להעסיק את גרטי קורי, אף שניסו לשכנע את בעלה לקבל משרה.",
-      "source": "src4",
-      "quote": "Both Cornell University and the University of Toronto refused to hire Gerty Cori even while they tried to persuade her husband to take up an appointment",
-      "status": "confirmed",
-      "locator": "שורה 19"
-    },
-    {
-      "id": "c29",
-      "text": "כללי האוניברסיטה אסרו מינוי של שני בני משפחה לסגל, ולכן גרטי הועסקה כעמיתת מחקר בפרמקולוגיה.",
-      "source": "src8",
-      "quote": "The University rules at the time prohibited faculty appointment of two members of the same family, so Gerty Cori was hired as a research fellow in Pharmacology",
-      "status": "confirmed",
-      "locator": "שורה 15"
-    },
-    {
-      "id": "c30",
-      "text": "שכרה של גרטי היה סמלי, שווה רק לעשירית משכר בעלה.",
-      "source": "src8",
-      "quote": "at a token salary equal to only one tenth that of her husband",
-      "status": "confirmed",
-      "locator": "שורה 15"
-    },
-    {
-      "id": "c31",
-      "text": "לפי ויקיפדיה, הרקטור ארתור קומפטון התיר לגרטי לכהן שם תוך התעלמות מכללי הנפוטיזם של האוניברסיטה.",
-      "source": "src5",
-      "quote": "Washington University's Chancellor, Arthur Compton, made a special allowance for Gerty to hold a position there, ignoring the university's nepotism rules.",
-      "status": "confirmed",
-      "locator": "שורה 59"
-    },
-    {
-      "id": "c32",
-      "text": "כשהחלו בני הזוג לחקור, היה ידוע מעט על האופן שבו הגוף שומר על אספקת אנרגיה קבועה.",
-      "source": "src9",
-      "quote": "Little was known about how the body maintained a constant supply of energy.",
-      "status": "confirmed",
-      "locator": "שורה 37"
-    },
-    {
-      "id": "c33",
-      "text": "לפי מילדרד כהן, השאלה שבני הזוג חקרו הייתה מה מווסת את רמות הסוכר בדם.",
-      "source": "src3",
-      "quote": "The question they addressed was what regulates blood sugar levels.",
-      "status": "confirmed",
-      "locator": "שורה 14"
-    },
-    {
-      "id": "c34",
-      "text": "לפי מילדרד כהן, הצלחתם נבעה מפיתוח שיטות אנליטיות מדויקות למדידת גלוקוז, גליקוגן, חומצת חלב ופוספטים.",
-      "source": "src3",
-      "quote": "Their success resulted from their development of precise analytical methods for the determination of glucose, glycogen, lactic acid, inorganic and organic phosphates",
-      "status": "confirmed",
-      "locator": "שורה 14"
-    },
-    {
-      "id": "c35",
-      "text": "ניסויי מאזן בחולדות הראו שפירוק גליקוגן בשריר, בהשפעת אינסולין ואפינפרין, יוצר חומצת חלב בדם שממנה נוצר גליקוגן בכבד.",
-      "source": "src3",
-      "quote": "Balance experiments on glucose metabolism in rats demonstrated that the breakdown of muscle glycogen as modulated by insulin and epinephrine, led to formation of blood lactic acid which then forms glycogen in the liver.",
-      "status": "confirmed",
-      "locator": "שורה 14"
-    },
-    {
-      "id": "c37",
-      "text": "לפי בקר, חשבו שהמרת גליקוגן לגלוקוז היא הידרוליזה, אך בשנות ה-30 הראו בני הזוג שהפירוק כרוך ביצירת חומר.",
-      "source": "src8",
-      "quote": "was thought to be hydrolysis. However, in the 1930s the Coris demonstrated that the breakdown of glycogen involved the formation of a substance",
-      "status": "confirmed",
-      "locator": "שורה 16"
-    },
-    {
-      "id": "c38",
-      "text": "ב-1936 גילו בני הזוג חומר ביניים חדש, גלוקוז-1-פוספט, \"אסטר קורי\".",
-      "source": "src3",
-      "quote": "In 1936, extending their quantitative analytical methods to hexose monophosphates in glycogenolysis, they discovered a new intermediate, glucose-1-phosphate, the Cori ester.",
-      "status": "confirmed",
-      "locator": "שורה 15"
-    },
-    {
-      "id": "c39",
-      "text": "את התגובה זירז אנזים שבני הזוג בודדו לראשונה וקראו לו פוספורילאז, והוא מעורב גם ביצירת גליקוגן וגם בפירוקו.",
-      "source": "src8",
-      "quote": "This reaction was catalyzed by an enzyme, first isolated by the Coris and named phosphorylase, which was involved in both the synthesis and cleavage of glycogen.",
-      "status": "confirmed",
-      "locator": "שורה 16"
-    },
-    {
-      "id": "c41",
-      "text": "בכך פתחו דרך לביצוע מחקר ביוכימי בסביבה מבוקרת מחוץ לתאים חיים.",
-      "source": "src1",
-      "quote": "thus pioneering a method of doing biochemical research in a controlled environment outside of living cells",
-      "status": "confirmed",
-      "locator": "שורה 18"
-    },
-    {
-      "id": "c43",
-      "text": "בני הזוג קורי קיבלו חצי מהפרס, והחצי השני הלך לפיזיולוג הארגנטינאי ברנרדו הוסאי.",
-      "source": "src5",
-      "quote": "They received one half the prize, the other half going to the Argentinian physiologist, Bernardo Houssay",
-      "status": "confirmed",
-      "locator": "שורה 61"
-    },
-    {
-      "id": "c44",
-      "text": "קורי קיבלה את הפרס ב-10 בדצמבר 1947.",
-      "source": "src10",
-      "quote": "when she received the Nobel Prize for Physiology or Medicine on December 10, 1947",
-      "status": "confirmed",
-      "locator": "שורה 4"
-    },
-    {
-      "id": "c4",
-      "text": "לפי ארכיון הנשים היהודיות, קורי הייתה האישה היהודייה הראשונה והאישה האמריקאית הראשונה שזכתה בפרס נובל במדעים.",
-      "source": "src10",
-      "quote": "became the first Jewish woman, as well as the first American woman, to win a Nobel Prize in the sciences",
-      "status": "confirmed",
-      "locator": "שורה 4"
-    },
-    {
-      "id": "c45",
-      "text": "לפי ארכיון הנשים היהודיות, המחקר היה חשוב במיוחד להבנת הסוכרת וטיפולה.",
-      "source": "src10",
-      "quote": "This research was particularly important in leading to the understanding and treatment of diabetes.",
-      "status": "confirmed",
-      "locator": "שורה 4"
-    },
-    {
-      "id": "c63",
-      "text": "בנאום בסעודת נובל אמר קרל שמאמציהם משלימים ושאחד בלי השני לא היה מגיע רחוק כמו בשילוב.",
-      "source": "src8",
-      "quote": "Our efforts have been largely complementary, and one without the other would not have gone as far as in combination.",
-      "status": "confirmed",
-      "locator": "שורה 20"
-    },
-    {
-      "id": "c64",
-      "text": "קורי כתבה שרגעים בלתי נשכחים הם נדירים ובאים אחרי שנים של עבודה מאומצת.",
-      "source": "src1",
-      "quote": "The unforgotten moments of my life are those rare ones which come after years of plodding work",
-      "status": "confirmed",
-      "locator": "שורה 26"
-    },
-    {
-      "id": "c49",
-      "text": "לפי נובל, שש עשרה שנה אחרי המעבר וחודשיים לאחר הפרס קודמה גרטי סוף סוף לדרגת פרופסור.",
-      "source": "src1",
-      "quote": "Sixteen years later (and two months after receiving the Nobel Prize), Gerty was finally promoted to the rank of professor.",
-      "status": "confirmed",
-      "locator": "שורה 16"
-    },
-    {
-      "id": "c50",
-      "text": "לפי בקר, קורי קודמה לפרופסור בכימיה ביולוגית ביולי 1947, חודשים ספורים לפני הפרס.",
-      "source": "src8",
-      "quote": "She was promoted to the rank of professor of Biological Chemistry in July 1947, only months before she was awarded the Nobel Prize.",
-      "status": "confirmed",
-      "locator": "שורה 15"
-    },
-    {
-      "id": "c52",
-      "text": "ב-1947 אובחנה אצל גרטי מחלת מח עצם מתישה.",
-      "source": "src3",
-      "quote": "Unfortunately 1947 was also the year when Gerty was diagnosed with myelosclerosis, a debilitating bone marrow disease.",
-      "status": "confirmed",
-      "locator": "שורה 16"
-    },
-    {
-      "id": "c54",
-      "text": "בעשור האחרון לחייה גילתה קורי את אנזימי ההסתעפות וההסרת הסתעפות המזרזים יצירה ופירוק של נקודות הסתעפות בגליקוגן.",
-      "source": "src3",
-      "quote": "She discovered the branching and debranching enzymes which catalyze the formation and breakdown, respectively, of branch points in glycogen.",
-      "status": "confirmed",
-      "locator": "שורה 18"
-    },
-    {
-      "id": "c55",
-      "text": "בפרויקט האחרון זיהתה קורי את הפגם באנזים בצורות של מחלות אגירת גליקוגן תורשתיות בילדים, והוכיחה לראשונה שחסר או ליקוי באנזים אחד יכול לגרום למחלה.",
-      "source": "src3",
-      "quote": "In her last research project, Gerty identified the individual enzyme defect in various forms of inherited glycogen-storage diseases in children, establishing for the first time that the lack or impairment of a single enzyme activity could cause a disease.",
-      "status": "confirmed",
-      "locator": "שורה 18"
-    },
-    {
-      "id": "c58",
-      "text": "ב-1952 מינה הנשיא טרומן את קורי לדירקטוריון הקרן הלאומית למדע.",
-      "source": "src10",
-      "quote": "In 1952, President Truman appointed her to the Board of Directors of the National Science Foundation.",
-      "status": "confirmed",
-      "locator": "שורה 6"
-    },
-    {
-      "id": "c71",
-      "text": "קורי מתה ב-26 באוקטובר 1957 בסנט לואיס.",
-      "source": "src2",
-      "quote": "Died: 26 October 1957, St. Louis, MO, USA",
-      "status": "confirmed",
-      "locator": "שורה 4"
-    },
-    {
-      "id": "c53",
-      "text": "לפי האגודה האמריקאית לכימיה, גרטי נפטרה ב-1957 מאי ספיקת כבד.",
-      "source": "src9",
-      "quote": "She succumbed to the disease in 1957, dying from liver failure.",
-      "status": "confirmed",
-      "locator": "שורה 39"
-    },
-    {
-      "id": "c59",
-      "text": "קורי קיבלה גם את מדליית גרבן-אולין, פרס סנט לואיס, פרס מחקר הסוכר ופרס בורדן.",
-      "source": "src5",
-      "quote": "In addition, Cori received the Garvan-Olin Medal (1948), the St. Louis Award (1948), the Sugar Research Prize (1950), the Borden Award (1951).",
-      "status": "confirmed",
-      "locator": "שורה 65"
-    },
-    {
-      "id": "c60",
-      "text": "תארי כבוד הוענקו לקורי מייל, בוסטון, סמית', קולומביה ורוצ'סטר.",
-      "source": "src8",
-      "quote": "Honorary degrees were awarded to Cori by Yale University, Boston University, Smith College, Columbia University, and the University of Rochester.",
-      "status": "confirmed",
-      "locator": "שורה 18"
-    },
-    {
-      "id": "c66",
-      "text": "קורי הוכנסה להיכל התהילה הלאומי של נשים ב-1998.",
-      "source": "src5",
-      "quote": "She was inducted into the National Women's Hall of Fame in 1998.",
-      "status": "confirmed",
-      "locator": "שורה 68"
-    },
-    {
-      "id": "c57",
-      "text": "האגודה האמריקאית לכימיה הכריזה על מחקר בני הזוג קורי באוניברסיטת וושינגטון אתר היסטורי כימי לאומי ב-21 בספטמבר 2004.",
-      "source": "src8",
-      "quote": "The American Chemical Society designated the research of Gerty and Carl Cori on the metabolism of carbohydrates at The Washington University School of Medicine a National Historic Chemical Landmark on September 21, 2004.",
-      "status": "confirmed",
-      "locator": "שורה 18"
-    },
-    {
-      "id": "c67",
-      "text": "קורי זכתה לבול של שירות הדואר האמריקאי באפריל 2008.",
-      "source": "src5",
-      "quote": "Cori was honored by a US Postal Service stamp in April 2008.",
-      "status": "confirmed",
-      "locator": "שורה 70"
-    },
-    {
-      "id": "c65",
-      "text": "מכתש קורי על הירח נקרא על שמה.",
-      "source": "src5",
-      "quote": "The crater Cori on the Moon is named after her",
-      "status": "confirmed",
-      "locator": "שורה 68"
-    },
-    {
-      "id": "c69",
-      "text": "משרד האנרגיה האמריקאי קרא על שמה את מחשב העל NERSC-8 במעבדת ברקלי.",
-      "source": "src5",
-      "quote": "The US Department of Energy named the NERSC-8 supercomputer installed at Berkeley Lab in 2015/2016 after Cori.",
-      "status": "confirmed",
-      "locator": "שורה 71"
-    },
-    {
-      "id": "c70",
-      "text": "ב-2016 תרם בנה תומס את מדליות הנובל של הוריו לבית הספר לרפואה של אוניברסיטת וושינגטון.",
-      "source": "src5",
-      "quote": "In 2016 Tom donated his parents' Nobel Prize medals to the Washington University School of Medicine",
-      "status": "confirmed",
-      "locator": "שורה 75"
-    },
-    {
-      "id": "c61",
-      "text": "לפי האגודה האמריקאית לכימיה, קורי הודרה מחלק מההכרה.",
-      "source": "src9",
-      "quote": "Gerty Cori was excluded from some of the recognition",
-      "status": "confirmed",
-      "locator": "שורה 40"
-    },
-    {
-      "id": "c62",
-      "text": "קרל היה הזוכה היחיד בפרס לסקר של איגוד בריאות הציבור האמריקאי.",
-      "source": "src9",
-      "quote": "Carl was the sole recipient of the Albert Lasker Award for the American Public Health Association",
-      "status": "confirmed",
-      "locator": "שורה 40"
-    },
-    {
-      "id": "c68",
-      "text": "לפי אסושיאייטד פרס, בבול נפלה טעות הדפסה בנוסחה הכימית של גלוקוז-1-פוספט, אך הוא הופץ בכל זאת.",
-      "source": "src5",
-      "quote": "The 41-cent stamp was reported by the Associated Press to have a printing error in the chemical formula for glucose-1-phosphate",
-      "status": "confirmed",
-      "locator": "שורה 70"
-    },
-    {
-      "id": "c7",
-      "text": "לפי מילדרד כהן, אביה של גרטי, אוטו רדניץ, היה כימאי שניהל בתי זיקוק לסוכר.",
-      "source": "src3",
-      "quote": "oldest of three daughters of Otto Radnitz, a chemist who was a manager of sugar refineries",
-      "status": "confirmed",
-      "locator": "שורה 9"
-    },
-    {
-      "id": "c8",
-      "text": "לפי מכון ההיסטוריה של המדע, קורי הייתה בתו של איש עסקים יהודי.",
-      "source": "src7",
-      "quote": "Gerty Cori, née Radnitz, was born in Prague (then part of the Austro-Hungarian Empire), the daughter of a Jewish businessman.",
-      "status": "confirmed",
-      "locator": "שורה 6"
-    },
-    {
-      "id": "c22",
-      "text": "לפי מילדרד כהן, רוב שמונים הפרסומים שלהם בין 1922 ל-1931 היו משותפים.",
-      "source": "src3",
-      "quote": "the bulk of their eighty publications between 1922 and 1931 were joint",
-      "status": "confirmed",
-      "locator": "שורה 14"
-    },
-    {
-      "id": "c47",
-      "text": "לפי הספרייה הלאומית לרפואה, בני הזוג קורי היו הזוג הנשוי הראשון שזכה בנובל במדעים.",
-      "source": "src4",
-      "quote": "were the first married couple to receive a Nobel Prize in science",
-      "status": "confirmed",
-      "locator": "שורה 16"
-    },
-    {
-      "id": "c48",
-      "text": "לפי ויקיפדיה, בני הזוג קורי היו הזוג הנשוי השלישי אי פעם שזכה בפרס נובל.",
-      "source": "src5",
-      "quote": "The Coris were the third ever married couple to win the Nobel Prize.",
-      "status": "confirmed",
-      "locator": "שורה 34"
-    },
-    {
-      "id": "c51",
-      "text": "לפי ארכיון הנשים היהודיות, ב-1946 קודמה גרטי לפרופסור מן המניין כשקרל מונה ליושב ראש המחלקה לביוכימיה.",
-      "source": "src10",
-      "quote": "When Carl was made chair of a new biochemistry department in 1946, Gerty was finally promoted to full professor.",
-      "status": "confirmed",
-      "locator": "שורה 6"
-    },
-    {
-      "id": "c72",
-      "text": "לפי הספרייה הלאומית לרפואה של ארצות הברית, בשנת 1922 היגרו בני הזוג קורי לבאפלו שבניו יורק.",
-      "source": "src4",
-      "quote": "In 1922, concerned that war would break out in Europe for a second time, they immigrated to Buffalo, New York.",
-      "status": "confirmed",
-      "locator": "שורה 23"
-    }
-  ],
-  "sources": [
-    {
-      "id": "src1",
-      "label": "NobelPrize.org, Women who changed science: Gerty Cori",
-      "url": "https://www.nobelprize.org/stories/women-who-changed-science/gerty-cori/",
-      "kind": "official"
-    },
-    {
-      "id": "src2",
-      "label": "NobelPrize.org, עמוד עובדות על גרטי קורי, פרס נובל 1947",
-      "url": "https://www.nobelprize.org/prizes/medicine/1947/cori-gt/facts/",
-      "kind": "official"
-    },
-    {
-      "id": "src3",
-      "label": "Jewish Women's Archive, Shalvi/Hyman Encyclopedia of Jewish Women, מילדרד כהן",
-      "url": "https://jwa.org/encyclopedia/article/cori-gerty-theresa",
-      "kind": "reference"
-    },
-    {
-      "id": "src4",
-      "label": "US National Library of Medicine, Changing the Face of Medicine: Gerty Cori",
-      "url": "https://www.nlm.nih.gov/exhibition/changing-the-face-of-medicine/physicians/biography_gerty_cori.html",
-      "kind": "official"
-    },
-    {
-      "id": "src5",
-      "label": "Wikipedia, Gerty Cori",
-      "url": "https://en.wikipedia.org/wiki/Gerty_Cori",
-      "kind": "reference"
-    },
-    {
-      "id": "src6",
-      "label": "NobelPrize.org, ביוגרפיה של גרטי קורי",
-      "url": "https://www.nobelprize.org/prizes/medicine/1947/cori-gt/biographical/",
-      "kind": "official"
-    },
-    {
-      "id": "src7",
-      "label": "Science History Institute, Carl Ferdinand Cori and Gerty Theresa Cori",
-      "url": "https://www.sciencehistory.org/education/scientific-biographies/carl-ferdinand-cori-and-gerty-theresa-cori",
-      "kind": "reference"
-    },
-    {
-      "id": "src8",
-      "label": "Becker Medical Library, Washington University in St. Louis, Gerty T. Cori (1896-1957)",
-      "url": "https://beckerexhibits.wustl.edu/mowihsp/bios/cori.htm",
-      "kind": "organisation"
-    },
-    {
-      "id": "src9",
-      "label": "American Chemical Society, Gerty Theresa Cori",
-      "url": "https://www.acs.org/education/whatischemistry/women-scientists/gerty-theresa-cori.html",
-      "kind": "organisation"
-    },
-    {
-      "id": "src10",
-      "label": "Jewish Women's Archive, This Week in History: Gerty Cori wins Nobel Prize",
-      "url": "https://jwa.org/thisweek/dec/10/1947/gerty-theresa-radnitz-cori",
-      "kind": "organisation"
-    }
-  ],
-  "media": [
-    {
-      "id": "m2",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gerty%20Theresa%20Cori.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Gerty_Theresa_Cori.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "National Library of Medicine, Images from the History of Medicine, B05353",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "דיוקן בשחור-לבן של גרטי קורי בחיוך, עם שרשרת פנינים.",
-      "illustrates": [
-        "c1"
-      ],
-      "date": "1947",
-      "width": 992,
-      "height": 1488
-    },
-    {
-      "id": "m3",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gerty%20Theresa%20Radnitz%20Cori%20%281896-1957%29%20and%20Carl%20Ferdinand%20Cori.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Gerty_Theresa_Radnitz_Cori_%281896-1957%29_and_Carl_Ferdinand_Cori.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Smithsonian Institution from United States",
-      "licence": "No restrictions",
-      "hosting": "hotlink",
-      "caption": "גרטי קורי מחזיקה פיפטה מורמת במעבדה, וקרל קורי עומד לצדה; מאחוריהם מדפים עם בקבוקי כימיקלים.",
-      "illustrates": [
-        "c1"
-      ],
-      "licence_url": "https://www.flickr.com/commons/usage/",
-      "date": "2009-03-18",
-      "width": 3250,
-      "height": 3970
-    },
-    {
-      "id": "m5",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Deska%20Gerty%20T%20Cori%20-%20v%20Praze.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Deska_Gerty_T_Cori_-_v_Praze.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "R.Kukačka/L.Jeřábek",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "לוח זיכרון בצ'כית על בית הולדתה של גרטי רדניץ-קורי בפראג, שמציין כי זכתה בפרס נובל לרפואה ב-1947 ונולדה ב-15 באוגוסט 1896.",
-      "illustrates": [
-        "c1",
-        "c5"
-      ],
-      "width": 1728,
-      "height": 696
-    },
-    {
-      "id": "m6",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/S%C3%AD%C5%88%20Coriov%C3%BDch%20deska.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:S%C3%AD%C5%88_Coriov%C3%BDch_deska.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Pavel Dušek",
-      "licence": "CC BY-SA 3.0",
-      "hosting": "hotlink",
-      "caption": "לוח בצ'כית באולם בפקולטה הראשונה לרפואה של אוניברסיטת קרל בפראג, שמציין כי בני הזוג קורי למדו שם.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-      "date": "14 April 2",
-      "width": 2560,
-      "height": 1600
-    },
-    {
-      "id": "m7",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rodn%C3%BD%20d%C5%AFm%20Gerty%20Cori%20-%20Petrsk%C3%A1%20v%20Praze.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Rodn%C3%BD_d%C5%AFm_Gerty_Cori_-_Petrsk%C3%A1_v_Praze.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "R.Kukačka/L.Jeřábek",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "חזית בניין מגורים מפואר בפראג, ברחוב פטרסקה 29, שלפי תיאור התמונה הוא בית הולדתה של גרטי קורי.",
-      "illustrates": [
-        "c3",
-        "c5"
-      ],
-      "date": "5 December",
-      "width": 1304,
-      "height": 1739
-    },
-    {
-      "id": "m8",
-      "kind": "video",
-      "url": "https://www.youtube.com/watch?v=wKIsMLmSbms",
-      "youtube_id": "wKIsMLmSbms",
-      "source_page": "https://www.youtube.com/watch?v=wKIsMLmSbms",
-      "source_name": "YouTube",
-      "credit": "Montreal Gazette",
-      "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
-      "licence_url": "https://www.youtube.com/static?template=terms",
-      "hosting": "embed",
-      "caption": "קטע מעיתון מונטריאול גאזט בסדרה The Right Chemistry על מורשתה של גרטי קורי ועל פרס נובל לרפואה ב-1947.",
-      "illustrates": [
-        "c1"
-      ],
-      "spoken": "en",
-      "audio_tracks": [
-        "en"
-      ]
-    },
-    {
-      "id": "m9",
-      "kind": "video",
-      "url": "https://www.youtube.com/watch?v=StsEOUt83Rg",
-      "youtube_id": "StsEOUt83Rg",
-      "source_page": "https://www.youtube.com/watch?v=StsEOUt83Rg",
-      "source_name": "YouTube",
-      "credit": "Nucleotides",
-      "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
-      "licence_url": "https://www.youtube.com/static?template=terms",
-      "hosting": "embed",
-      "caption": "סרטון הסבר על גרטי קורי, האישה הראשונה שזכתה בפרס נובל לרפואה.",
-      "illustrates": [
-        "c1"
-      ]
-    },
-    {
-      "id": "m10",
-      "kind": "video",
-      "url": "https://www.youtube.com/watch?v=dEb5-aANA2Y",
-      "youtube_id": "dEb5-aANA2Y",
-      "source_page": "https://www.youtube.com/watch?v=dEb5-aANA2Y",
-      "source_name": "YouTube",
-      "credit": "FunHistoryCartoons",
-      "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
-      "licence_url": "https://www.youtube.com/static?template=terms",
-      "hosting": "embed",
-      "caption": "סרטון אנימציה לילדים על גרטי קורי, מפראג לניו יורק, ועל גילוי מחזור הגליקוגן עם בעלה.",
-      "illustrates": [
-        "c3",
-        "c36"
-      ],
-      "spoken": "en",
-      "audio_tracks": [
-        "en"
-      ]
-    },
-    {
-      "id": "m11",
-      "kind": "video",
-      "url": "https://www.youtube.com/watch?v=nU1P1faVzFk",
-      "youtube_id": "nU1P1faVzFk",
-      "source_page": "https://www.youtube.com/watch?v=nU1P1faVzFk",
-      "source_name": "YouTube",
-      "credit": "Bellefontaine Cemetery and Arboretum",
-      "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
-      "licence_url": "https://www.youtube.com/static?template=terms",
-      "hosting": "embed",
-      "caption": "סרטון של בית הקברות והארבורטום בלפונטיין, שבו נקברה קורי, על חייה כביוכימאית יהודית ופורצת דרך לנשים במדע.",
-      "illustrates": [
-        "c1"
-      ],
-      "spoken": "en",
-      "audio_tracks": [
-        "en"
-      ]
-    },
-    {
-      "id": "m12",
-      "kind": "video",
-      "url": "https://www.youtube.com/watch?v=dQyonW9EoJk",
-      "youtube_id": "dQyonW9EoJk",
-      "source_page": "https://www.youtube.com/watch?v=dQyonW9EoJk",
-      "source_name": "YouTube",
-      "credit": "Icons & Moments",
-      "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
-      "licence_url": "https://www.youtube.com/static?template=terms",
-      "hosting": "embed",
-      "caption": "סרטון ביוגרפי על גרטי קורי, שנולדה בפראג ב-1896, ועל דרכה לפרס נובל.",
-      "illustrates": [
-        "c1",
-        "c3"
-      ],
-      "spoken": "en",
-      "audio_tracks": [
-        "en"
-      ]
-    },
-    {
-      "id": "m13",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gerty%20and%20Carl%20Cori%20at%20the%20Nobel%20Prize.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Gerty_and_Carl_Cori_at_the_Nobel_Prize.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "علاء",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "גרטי וקרל קורי בטקס הענקת פרס נובל בשטוקהולם, 10 בדצמבר 1947.",
-      "illustrates": [],
-      "date": "1947-12-10",
-      "width": 680,
-      "height": 929,
-      "role": "deed"
-    },
-    {
-      "id": "m14",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gerty%20nobel.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Gerty_nobel.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Silvia semeraro",
-      "licence": "CC BY-SA 4.0",
-      "hosting": "hotlink",
-      "caption": "גרטי וקרל קורי על מדרגות מטוס; הוא מנופף בכובעו, והיא מחייכת לצדו.",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "date": "2016-01-31",
-      "width": 699,
-      "height": 910,
-      "role": "deed"
-    },
-    {
-      "id": "m15",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/National%20Science%20Board%20Members%2C%20July%201951.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:National_Science_Board_Members%2C_July_1951.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "NSF",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "גרטי קורי בתצלום קבוצתי של חברי המועצה הלאומית למדע של ארצות הברית, יולי 1951.",
-      "illustrates": [],
-      "date": "1951-07-01",
-      "width": 1500,
-      "height": 1159,
-      "role": "deed"
-    },
-    {
-      "id": "m23",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cori%20cycle.PNG?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Cori_cycle.PNG",
-      "source_name": "Wikimedia Commons",
-      "credit": "Krepideia",
-      "licence": "CC BY-SA 3.0",
-      "hosting": "hotlink",
-      "caption": "תרשים של מחזור קורי: גלוקוז ולקטט נעים בין השריר לכבד (כיתובים באיטלקית).",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-      "date": "2011-08-01",
-      "width": 688,
-      "height": 708,
-      "role": "related"
-    },
-    {
-      "id": "m24",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/25.%20Jubil%C3%A4umstagung%201975%20Medizin-%20Julius%20Axelrod%2C%20Carl%20F.%20Cori%20-%20LABW%20-%20Staatsarchiv%20Freiburg%20W%20134%20Nr.%20103670g.jpeg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:25._Jubil%C3%A4umstagung_1975_Medizin-_Julius_Axelrod%2C_Carl_F._Cori_-_LABW_-_Staatsarchiv_Freiburg_W_134_Nr._103670g.jpeg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Willy Pragher",
-      "licence": "CC BY 4.0",
-      "hosting": "hotlink",
-      "caption": "קרל קורי ויוליוס אקסלרוד בשיחה בכינוס יובל לחתני נובל ברפואה, 1975",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by/4.0",
-      "date": "1975date Q",
-      "width": 1099,
-      "height": 731,
-      "role": "related"
-    },
-    {
-      "id": "m25",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/25.%20Jubil%C3%A4umstagung%201975%20Medizin-%20Sir%20Hans%20A.%20Krebs%2C%20Julius%20Axelrod%2C%20Severa%20Ochoa%2C%20rechts-%20Carl%20F.%20Cori%20-%20LABW%20-%20Staatsarchiv%20Freiburg%20W%20134%20Nr.%20103670b.jpeg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:25._Jubil%C3%A4umstagung_1975_Medizin-_Sir_Hans_A._Krebs%2C_Julius_Axelrod%2C_Severa_Ochoa%2C_rechts-_Carl_F._Cori_-_LABW_-_Staatsarchiv_Freiburg_W_134_Nr._103670b.jpeg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Willy Pragher",
-      "licence": "CC BY 4.0",
-      "hosting": "hotlink",
-      "caption": "חתני נובל ברפואה בכינוס יובל, 1975; קרל קורי מימין, לצד האנס קרבס, יוליוס אקסלרוד וסברו אוצ'ואה",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by/4.0",
-      "date": "1975date Q",
-      "width": 1102,
-      "height": 720,
-      "role": "related"
-    },
-    {
-      "id": "m26",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Deska%20Carl%20Cori%20-%20v%20Praze.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Deska_Carl_Cori_-_v_Praze.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "R.Kukačka/L.Jeřábek",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "לוח זיכרון בצ'כית בפראג לקרל פרדיננד קורי, חתן פרס נובל לרפואה 1947, שנולד בבית זה ב-5 בדצמבר 1896",
-      "illustrates": [],
-      "date": "5 December",
-      "width": 1627,
-      "height": 787,
-      "role": "deed"
-    }
-  ],
-  "check": {
-    "passed": true,
-    "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
-    "checked_at": "2026-11-21T20:42:16Z",
-    "counts": {
-      "confirmed": 89,
-      "not_confirmed": 0,
-      "deleted_sentences": 1,
-      "first_round_confirmed": 89,
-      "first_round_contradicted": 1,
-      "first_round_unverifiable": 1
-    },
-    "note": "unverifiable sentences were deleted, contradicted ones fixed from the source and checked again"
+    "m12",
+    "m26"
+   ],
+   "disagreements": [
+    "d1",
+    "d2"
+   ]
   },
-  "meta": {
-    "run": "gerty-cori-glycogen-nobel",
-    "pipeline": "scripts/museum/museum_line.py",
-    "models": {
-      "research": "sonnet-5-5",
-      "extract": "sonnet-5-5",
-      "media": "sonnet-5-5",
-      "write": "opus-5-5 medium",
-      "check": "opus-5-5 medium",
-      "fix": "opus-5-5 medium"
-    },
-    "source_quality": {
-      "sources": 11,
-      "wikipedia": 1,
-      "strong": 5,
-      "ok": true,
-      "warnings": []
-    },
-    "settled": [
-      {
-        "box": "d3",
-        "question": "באיזו שנה הגיעו בני הזוג לארצות הברית?",
-        "url": "https://www.nlm.nih.gov/exhibition/changing-the-face-of-medicine/physicians/biography_gerty_cori.html",
-        "by": "settle 24.11"
-      }
+  {
+   "id": "s2",
+   "title": "לעזוב את אירופה",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "ב-1920 מזרח אירופה עוד התאוששה מהמלחמה, והאנטישמיות הייתה בעלייה.",
+      "claims": [
+       "c13"
+      ]
+     },
+     {
+      "text": "לפי מילדרד כהן, משפחתו של קרל התנגדה לנישואים, כי האמינה שהרקע היהודי של גרטי יפגע בקריירה שלו.",
+      "claims": [
+       "c14"
+      ]
+     },
+     {
+      "text": "בווינה, בבית החולים, סירבה גרטי לקבל תוספות תזונה, כי הרגישה שהחולים זקוקים להן יותר.",
+      "claims": [
+       "c15"
+      ]
+     }
     ],
-    "media_dedupe": [
-      {
-        "drop": "m1",
-        "keep": "m3",
-        "by": "reviewed 24.11"
-      },
-      {
-        "drop": "m4",
-        "keep": "m3",
-        "by": "reviewed 24.11"
-      }
+    [
+     {
+      "text": "לפי מילדרד כהן, ההחלטה לעזוב את אירופה נבעה בעיקר מהאנטישמיות הגואה.",
+      "claims": [
+       "c16"
+      ]
+     },
+     {
+      "text": "בני הזוג עברו לארצות הברית.",
+      "claims": [
+       "c17"
+      ]
+     },
+     {
+      "text": "קרל התקבל לנהל מעבדה במכון הממלכתי לחקר מחלות ממאירות בבאפלו, וסידר לגרטי עבודה שם כעוזרת פתולוגית.",
+      "claims": [
+       "c18"
+      ]
+     },
+     {
+      "text": "ב-1928 הם נעשו אזרחים אמריקאים.",
+      "claims": [
+       "c19"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "לפי הספרייה הלאומית לרפואה של ארצות הברית, בשנת 1922 היגרו בני הזוג קורי לבאפלו שבניו יורק.",
+      "claims": [
+       "c72"
+      ]
+     }
     ]
+   ],
+   "media": [],
+   "disagreements": []
+  },
+  {
+   "id": "s3",
+   "title": "לעבוד יחד, למרות הכול",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "בבאפלו פרסמו בני הזוג מאמרים רבים יחד.",
+      "claims": [
+       "c21",
+       "c23"
+      ]
+     },
+     {
+      "text": "מעט מוסדות היו מוכנים להעסיק את גרטי, ואלה שהעסיקו אותה לא נתנו לה מעמד או שכר שווים.",
+      "claims": [
+       "c24"
+      ]
+     },
+     {
+      "text": "לפי אתר פרס נובל, כאישה היא הועסקה בתנאים פחות נוחים בהרבה מבעלה.",
+      "claims": [
+       "c25"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "קורנל ואוניברסיטת טורונטו רצו את קרל, אבל סירבו להעסיק את גרטי.",
+      "claims": [
+       "c27"
+      ]
+     },
+     {
+      "text": "ב-1931 סירב קרל למשרה באוניברסיטה שהייתה אוסרת על גרטי לעבוד איתו.",
+      "claims": [
+       "c28"
+      ]
+     },
+     {
+      "text": "הוא קיבל את ראשות המחלקה לפרמקולוגיה באוניברסיטת וושינגטון בסנט לואיס.",
+      "claims": [
+       "c28"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "כללי האוניברסיטה אסרו אז למנות שני בני משפחה לסגל, ולכן גרטי הועסקה כעמיתת מחקר בפרמקולוגיה.",
+      "claims": [
+       "c29"
+      ]
+     },
+     {
+      "text": "שכרה היה עשירית משכר בעלה.",
+      "claims": [
+       "c30"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m3"
+   ],
+   "disagreements": [
+    "d4"
+   ]
+  },
+  {
+   "id": "s4",
+   "title": "הסוכר, השריר והכבד",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "כשבני הזוג התחילו, היה ידוע מעט על האופן שבו הגוף שומר על אספקת אנרגיה קבועה.",
+      "claims": [
+       "c32"
+      ]
+     },
+     {
+      "text": "לפי מילדרד כהן, הם שאלו מה מווסת את רמות הסוכר בדם.",
+      "claims": [
+       "c33"
+      ]
+     },
+     {
+      "text": "לפיה, הם הצליחו כי פיתחו שיטות מדויקות למדוד גלוקוז, גליקוגן, חומצת חלב ופוספטים.",
+      "claims": [
+       "c34"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "ניסויים בחולדות הראו שגליקוגן מתפרק בשריר, יוצר חומצת חלב בדם, ומחומצת החלב נוצר גליקוגן בכבד.",
+      "claims": [
+       "c35"
+      ]
+     },
+     {
+      "text": "ב-1929 תיארו בני הזוג את מחזור קורי.",
+      "claims": [
+       "c36"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "לפי בקר, חשבו אז שהמרת גליקוגן לגלוקוז היא הידרוליזה, אבל בשנות ה-30 הראו בני הזוג שהפירוק כרוך ביצירת חומר.",
+      "claims": [
+       "c37"
+      ]
+     },
+     {
+      "text": "ב-1936 גילו חומר ביניים חדש, גלוקוז-1-פוספט, שנקרא \"אסטר קורי\".",
+      "claims": [
+       "c38"
+      ]
+     },
+     {
+      "text": "את התגובה זירז אנזים שהם בודדו לראשונה וקראו לו פוספורילאז.",
+      "claims": [
+       "c39"
+      ]
+     },
+     {
+      "text": "אחר כך הפכו את התהליך ויצרו גליקוגן במבחנה.",
+      "claims": [
+       "c40"
+      ]
+     },
+     {
+      "text": "בכך פתחו דרך למחקר ביוכימי מחוץ לתאים חיים.",
+      "claims": [
+       "c41"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m3",
+    "m10",
+    "m23"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s5",
+   "title": "נובל, 1947",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "ב-1947 קיבלו גרטי וקרל קורי את פרס נובל ברפואה או בפיזיולוגיה, והיא הייתה האישה הראשונה שזכתה בו.",
+      "claims": [
+       "c1"
+      ]
+     },
+     {
+      "text": "הנימוק היה \"על גילוי מסלול ההמרה הקטליטית של גליקוגן\".",
+      "claims": [
+       "c2"
+      ]
+     },
+     {
+      "text": "גרטי קיבלה את הפרס ב-10 בדצמבר 1947.",
+      "claims": [
+       "c44"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "לפי ארכיון הנשים היהודיות, היא הייתה האישה היהודייה הראשונה והאישה האמריקאית הראשונה שזכתה בנובל במדעים.",
+      "claims": [
+       "c4"
+      ]
+     },
+     {
+      "text": "לפי ארכיון הנשים היהודיות, המחקר היה חשוב במיוחד להבנת הסוכרת ולטיפול בה.",
+      "claims": [
+       "c45"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "בסעודת נובל אמר קרל שמאמציהם משלימים, ושאחד בלי השני לא היה מגיע רחוק כמו שניהם יחד.",
+      "claims": [
+       "c63"
+      ]
+     },
+     {
+      "text": "גרטי כתבה שרגעים בלתי נשכחים הם נדירים, ובאים אחרי שנים של עבודה מאומצת.",
+      "claims": [
+       "c64"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m2",
+    "m9",
+    "m8",
+    "m14"
+   ],
+   "disagreements": [
+    "d5"
+   ]
+  },
+  {
+   "id": "s6",
+   "title": "השנים האחרונות",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "בסביבות זמן הפרס קודמה גרטי סוף סוף לדרגת פרופסור.",
+      "claims": [
+       "c49",
+       "c50"
+      ]
+     },
+     {
+      "text": "ב-1947 אובחנה אצלה מחלת מח עצם מתישה.",
+      "claims": [
+       "c52"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "בעשור האחרון לחייה גילתה את האנזימים שבונים ומפרקים את נקודות ההסתעפות בגליקוגן.",
+      "claims": [
+       "c54"
+      ]
+     },
+     {
+      "text": "בפרויקט האחרון שלה זיהתה את הפגם באנזים בכמה מחלות אגירת גליקוגן תורשתיות בילדים.",
+      "claims": [
+       "c55"
+      ]
+     },
+     {
+      "text": "כך הוכיחה לראשונה שחסר או ליקוי באנזים אחד יכול לגרום למחלה.",
+      "claims": [
+       "c55"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "ב-1952 מינה אותה הנשיא טרומן לדירקטוריון הקרן הלאומית למדע.",
+      "claims": [
+       "c58"
+      ]
+     },
+     {
+      "text": "לפי מילדרד כהן, שישה ממי שהודרכו על ידי בני הזוג זכו אחר כך בנובל.",
+      "claims": [
+       "c56"
+      ]
+     },
+     {
+      "text": "גרטי מתה ב-26 באוקטובר 1957 בסנט לואיס.",
+      "claims": [
+       "c71"
+      ]
+     },
+     {
+      "text": "לפי האגודה האמריקאית לכימיה, היא מתה מאי ספיקת כבד.",
+      "claims": [
+       "c53"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m11",
+    "m15"
+   ],
+   "disagreements": [
+    "d6"
+   ]
+  },
+  {
+   "id": "s7",
+   "title": "מה שנשאר",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "ייל, בוסטון, סמית', קולומביה ורוצ'סטר העניקו לה תארי כבוד.",
+      "claims": [
+       "c60"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "ב-21 בספטמבר 2004 הכריזה האגודה האמריקאית לכימיה על המחקר של בני הזוג באוניברסיטת וושינגטון כאתר היסטורי כימי לאומי.",
+      "claims": [
+       "c57"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "מכתש קורי על הירח נקרא על שמה.",
+      "claims": [
+       "c76"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m24",
+    "m25"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s8",
+   "title": "מה שלא הלך חלק",
+   "kind": "hard",
+   "paragraphs": [
+    [
+     {
+      "text": "לפי האגודה האמריקאית לכימיה, גרטי הודרה מחלק מההכרה.",
+      "claims": [
+       "c61"
+      ]
+     },
+     {
+      "text": "למשל, קרל היה הזוכה היחיד בפרס לסקר של איגוד בריאות הציבור האמריקאי.",
+      "claims": [
+       "c62"
+      ]
+     }
+    ]
+   ],
+   "media": [],
+   "disagreements": []
   }
+ ],
+ "disagreements": [
+  {
+   "id": "d1",
+   "question": "היכן נולדה קורי?",
+   "versions": [
+    {
+     "says": "אתר פרס נובל: בפראג, אוסטריה-הונגריה (כיום צ'כיה)",
+     "claims": [
+      "c5"
+     ]
+    },
+    {
+     "says": "הספרייה הלאומית לרפואה של ארה\"ב: בפראג שבצ'כוסלובקיה",
+     "claims": [
+      "c6"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d2",
+   "question": "מה היה מקצוע אביה?",
+   "versions": [
+    {
+     "says": "מילדרד כהן: אוטו רדניץ היה כימאי שניהל בתי זיקוק לסוכר",
+     "claims": [
+      "c7"
+     ]
+    },
+    {
+     "says": "מכון ההיסטוריה של המדע: איש עסקים יהודי",
+     "claims": [
+      "c8"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d4",
+   "question": "כמה מאמרים משותפים פרסמו בבאפלו?",
+   "versions": [
+    {
+     "says": "אתר פרס נובל: 50 מאמרים בשמונה שנים",
+     "claims": [
+      "c21"
+     ]
+    },
+    {
+     "says": "הספרייה הלאומית לרפואה: חמישים מאמרים במכון רוזוול",
+     "claims": [
+      "c23"
+     ]
+    },
+    {
+     "says": "מילדרד כהן: רוב שמונים הפרסומים שלהם בין 1922 ל-1931 היו משותפים",
+     "claims": [
+      "c22"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d5",
+   "question": "הזוג הנשוי הראשון או השלישי שזכה בנובל?",
+   "versions": [
+    {
+     "says": "הספרייה הלאומית לרפואה: הזוג הנשוי הראשון שזכה בנובל במדעים",
+     "claims": [
+      "c47"
+     ]
+    },
+    {
+     "says": "הזוג הנשוי השלישי אי פעם שזכה בנובל",
+     "claims": [
+      "c81"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d6",
+   "question": "מתי קודמה לפרופסור?",
+   "versions": [
+    {
+     "says": "אתר פרס נובל: חודשיים אחרי הפרס, שש עשרה שנה אחרי המעבר",
+     "claims": [
+      "c49"
+     ]
+    },
+    {
+     "says": "בקר: ביולי 1947, חודשים ספורים לפני הפרס",
+     "claims": [
+      "c50"
+     ]
+    },
+    {
+     "says": "ארכיון הנשים היהודיות: ב-1946, כשקרל מונה ליושב ראש המחלקה לביוכימיה",
+     "claims": [
+      "c51"
+     ]
+    }
+   ]
+  }
+ ],
+ "unknowns": [
+  {
+   "text": "לא ידוע מהחומר איך בדיוק עזר המחקר להבנת הסוכרת ולטיפול בה; יש רק קביעה כללית של ארכיון הנשים היהודיות",
+   "claims": [
+    "c45"
+   ]
+  }
+ ],
+ "claims": [
+  {
+   "id": "c1",
+   "text": "גרטי קורי ובעלה קרל קיבלו ב-1947 את פרס נובל ברפואה או בפיזיולוגיה, והיא הייתה האישה הראשונה שזכתה בו.",
+   "source": "src1",
+   "quote": "Gerty Cori and her husband, Carl, received the Nobel Prize in Physiology or Medicine in 1947; she was the first woman to do so.",
+   "status": "confirmed",
+   "locator": "שורה 25"
+  },
+  {
+   "id": "c3",
+   "text": "גרטי קורי נולדה ב-1896 בפראג למשפחה יהודית אמידה.",
+   "source": "src1",
+   "quote": "Gerty Cori was born Gerty Theresa Radnitz in 1896 to a wealthy Jewish family in Prague.",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c11",
+   "text": "גרטי וקרל הכירו בשיעור אנטומיה והפכו לבלתי נפרדים: למדו, טיילו, החליקו וחקרו יחד.",
+   "source": "src1",
+   "quote": "She and Carl met in anatomy class and became inseparable, studying, hiking, skiing, and researching together.",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c17",
+   "text": "בני הזוג קורי עזבו את אירופה ב-1922 לארצות הברית.",
+   "source": "src1",
+   "quote": "The Coris left Europe in 1922 for the safety and prosperity of the United States.",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c18",
+   "text": "קרל התקבל לנהל מעבדה במכון הממלכתי לחקר מחלות ממאירות בבאפלו, וסידר לאשתו עבודה שם כעוזרת פתולוגית.",
+   "source": "src1",
+   "quote": "Carl was hired to run the lab at the State Institute for the Study of Malignant Disease, in Buffalo, New York, and got his wife a job there as an assistant pathologist.",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c36",
+   "text": "ב-1929 תיארו בני הזוג את מחזור קורי, שבו הגוף אוגר סוכר בשרירים כגליקוגן ושולח אותו לכבד לעיבוד.",
+   "source": "src1",
+   "quote": "In 1929 they described the Cori cycle, the basic cellular process in which the body stores sugar in muscle cells as glycogen, sends it to the liver for processing into a usable form",
+   "status": "confirmed",
+   "locator": "שורה 17"
+  },
+  {
+   "id": "c40",
+   "text": "בני הזוג זיהו את האנזים שיוזם את פירוק הגליקוגן לגלוקוז, ואז הפכו את התהליך ויצרו גליקוגן במבחנה.",
+   "source": "src1",
+   "quote": "identified the enzyme that initiates decomposition into glucose. Then they reversed that enzymatic decomposition process to create glycogen in a test tube",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c2",
+   "text": "נימוק הפרס היה \"על גילוי מסלול ההמרה הקטליטית של גליקוגן\".",
+   "source": "src2",
+   "quote": "for their discovery of the course of the catalytic conversion of glycogen",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c28",
+   "text": "ב-1931 סירב קרל למשרה באוניברסיטה שהייתה אוסרת על גרטי לעבוד איתו, וקיבל את ראשות המחלקה לפרמקולוגיה באוניברסיטת וושינגטון בסנט לואיס.",
+   "source": "src3",
+   "quote": "In 1931, after refusing a position at a university that would prohibit Gerty from working with him, Carl accepted the chairmanship of the Pharmacology Department at Washington University in St. Louis",
+   "status": "confirmed",
+   "locator": "שורה 15"
+  },
+  {
+   "id": "c56",
+   "text": "לפי מילדרד כהן, שישה ממי שהודרכו על ידי בני הזוג קורי זכו אחר כך בפרס נובל.",
+   "source": "src3",
+   "quote": "Among those mentored by them, six subsequently received the Nobel prize.",
+   "status": "confirmed",
+   "locator": "שורה 17"
+  },
+  {
+   "id": "c5",
+   "text": "קורי נולדה ב-15 באוגוסט 1896 בפראג, אוסטריה-הונגריה (כיום צ'כיה).",
+   "source": "src2",
+   "quote": "Born: 15 August 1896, Prague, Austria-Hungary (now Czech Republic)",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c6",
+   "text": "לפי הספרייה הלאומית לרפואה של ארה\"ב, קורי נולדה בפראג שבצ'כוסלובקיה ב-1896 לאוטו רדניץ ולמרתה נוישטדט.",
+   "source": "src4",
+   "quote": "Gerty Cori was born in Prague, Czechoslovakia in 1896, to Otto Radnitz and Martha Neustadt.",
+   "status": "confirmed",
+   "locator": "שורה 17"
+  },
+  {
+   "id": "c10",
+   "text": "קורי נרשמה ללימודי רפואה ב-1914 בגיל 18.",
+   "source": "src1",
+   "quote": "and enrolled in medical school in 1914, at the age of 18",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c12",
+   "text": "קורי נכנסה לבית הספר לרפואה של האוניברסיטה הגרמנית בפראג וקיבלה דוקטורט ברפואה ב-1920.",
+   "source": "src6",
+   "quote": "She entered the Medical School of the German University of Prague and received the Doctorate in Medicine in 1920.",
+   "status": "confirmed",
+   "locator": "שורה 1"
+  },
+  {
+   "id": "c13",
+   "text": "ב-1920 מזרח אירופה התאוששה מהמלחמה והאנטישמיות הייתה בעלייה.",
+   "source": "src1",
+   "quote": "It was 1920, Eastern Europe was still recovering from the war and anti-Semitism was on the rise.",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c14",
+   "text": "לפי מילדרד כהן, משפחת קרל התנגדה לנישואים מפני שהאמינה שרקעה היהודי של גרטי יפגע בקריירה של קרל.",
+   "source": "src3",
+   "quote": "in spite of the opposition of his family, who were convinced that her Jewish background would hamper Carl",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c15",
+   "text": "בווינה סירבה גרטי לקבל תוספות תזונה בבית החולים מתוך תחושה שהחולים זקוקים להן יותר.",
+   "source": "src7",
+   "quote": "Gerty was given dietary supplements at her hospital but refused them, feeling that the patients needed them more than she did.",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c16",
+   "text": "לפי מילדרד כהן, ההחלטה לעזוב את אירופה נבעה בעיקר מאנטישמיות גואה.",
+   "source": "src3",
+   "quote": "Their decision to leave Europe was fueled primarily by rampant antisemitism.",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c19",
+   "text": "ב-1928 הפכו בני הזוג קורי לאזרחים אמריקאים.",
+   "source": "src8",
+   "quote": "In 1928 the Coris became naturalized U.S. citizens.",
+   "status": "confirmed",
+   "locator": "שורה 13"
+  },
+  {
+   "id": "c21",
+   "text": "אחרי שמונה שנים בבאפלו, שבהן פרסמו יחד 50 מאמרים, חיפשו בני הזוג מקום מתאים יותר למחקרם.",
+   "source": "src1",
+   "quote": "After eight years in Buffalo, where they published 50 papers together, they sought a place better suited to their research.",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c23",
+   "text": "לפי הספרייה הלאומית לרפואה, בני הזוג פרסמו חמישים מאמרים במשותף בעת שהיו במכון רוזוול.",
+   "source": "src4",
+   "quote": "The Coris published fifty papers jointly while at Roswell",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c24",
+   "text": "מעט מוסדות היו מוכנים להעסיק את גרטי למרות הישגיה, ואלה שכן העסיקו אותה לא העניקו לה מעמד או שכר שווים.",
+   "source": "src1",
+   "quote": "But few institutions would hire Gerty, despite her accomplishments, and those that did would not give her equal status or pay.",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c25",
+   "text": "לפי אתר פרס נובל, כאישה הועסקה גרטי קורי בתנאים פחות נוחים בהרבה מבעלה.",
+   "source": "src2",
+   "quote": "As a woman, Gerty Cori was employed on much less favorable terms than her husband.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c27",
+   "text": "קורנל ואוניברסיטת טורונטו סירבו להעסיק את גרטי קורי, אף שניסו לשכנע את בעלה לקבל משרה.",
+   "source": "src4",
+   "quote": "Both Cornell University and the University of Toronto refused to hire Gerty Cori even while they tried to persuade her husband to take up an appointment",
+   "status": "confirmed",
+   "locator": "שורה 19"
+  },
+  {
+   "id": "c29",
+   "text": "כללי האוניברסיטה אסרו מינוי של שני בני משפחה לסגל, ולכן גרטי הועסקה כעמיתת מחקר בפרמקולוגיה.",
+   "source": "src8",
+   "quote": "The University rules at the time prohibited faculty appointment of two members of the same family, so Gerty Cori was hired as a research fellow in Pharmacology",
+   "status": "confirmed",
+   "locator": "שורה 15"
+  },
+  {
+   "id": "c30",
+   "text": "שכרה של גרטי היה סמלי, שווה רק לעשירית משכר בעלה.",
+   "source": "src8",
+   "quote": "at a token salary equal to only one tenth that of her husband",
+   "status": "confirmed",
+   "locator": "שורה 15"
+  },
+  {
+   "id": "c32",
+   "text": "כשהחלו בני הזוג לחקור, היה ידוע מעט על האופן שבו הגוף שומר על אספקת אנרגיה קבועה.",
+   "source": "src9",
+   "quote": "Little was known about how the body maintained a constant supply of energy.",
+   "status": "confirmed",
+   "locator": "שורה 37"
+  },
+  {
+   "id": "c33",
+   "text": "לפי מילדרד כהן, השאלה שבני הזוג חקרו הייתה מה מווסת את רמות הסוכר בדם.",
+   "source": "src3",
+   "quote": "The question they addressed was what regulates blood sugar levels.",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c34",
+   "text": "לפי מילדרד כהן, הצלחתם נבעה מפיתוח שיטות אנליטיות מדויקות למדידת גלוקוז, גליקוגן, חומצת חלב ופוספטים.",
+   "source": "src3",
+   "quote": "Their success resulted from their development of precise analytical methods for the determination of glucose, glycogen, lactic acid, inorganic and organic phosphates",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c35",
+   "text": "ניסויי מאזן בחולדות הראו שפירוק גליקוגן בשריר, בהשפעת אינסולין ואפינפרין, יוצר חומצת חלב בדם שממנה נוצר גליקוגן בכבד.",
+   "source": "src3",
+   "quote": "Balance experiments on glucose metabolism in rats demonstrated that the breakdown of muscle glycogen as modulated by insulin and epinephrine, led to formation of blood lactic acid which then forms glycogen in the liver.",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c37",
+   "text": "לפי בקר, חשבו שהמרת גליקוגן לגלוקוז היא הידרוליזה, אך בשנות ה-30 הראו בני הזוג שהפירוק כרוך ביצירת חומר.",
+   "source": "src8",
+   "quote": "was thought to be hydrolysis. However, in the 1930s the Coris demonstrated that the breakdown of glycogen involved the formation of a substance",
+   "status": "confirmed",
+   "locator": "שורה 16"
+  },
+  {
+   "id": "c38",
+   "text": "ב-1936 גילו בני הזוג חומר ביניים חדש, גלוקוז-1-פוספט, \"אסטר קורי\".",
+   "source": "src3",
+   "quote": "In 1936, extending their quantitative analytical methods to hexose monophosphates in glycogenolysis, they discovered a new intermediate, glucose-1-phosphate, the Cori ester.",
+   "status": "confirmed",
+   "locator": "שורה 15"
+  },
+  {
+   "id": "c39",
+   "text": "את התגובה זירז אנזים שבני הזוג בודדו לראשונה וקראו לו פוספורילאז, והוא מעורב גם ביצירת גליקוגן וגם בפירוקו.",
+   "source": "src8",
+   "quote": "This reaction was catalyzed by an enzyme, first isolated by the Coris and named phosphorylase, which was involved in both the synthesis and cleavage of glycogen.",
+   "status": "confirmed",
+   "locator": "שורה 16"
+  },
+  {
+   "id": "c41",
+   "text": "בכך פתחו דרך לביצוע מחקר ביוכימי בסביבה מבוקרת מחוץ לתאים חיים.",
+   "source": "src1",
+   "quote": "thus pioneering a method of doing biochemical research in a controlled environment outside of living cells",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c44",
+   "text": "קורי קיבלה את הפרס ב-10 בדצמבר 1947.",
+   "source": "src10",
+   "quote": "when she received the Nobel Prize for Physiology or Medicine on December 10, 1947",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c4",
+   "text": "לפי ארכיון הנשים היהודיות, קורי הייתה האישה היהודייה הראשונה והאישה האמריקאית הראשונה שזכתה בפרס נובל במדעים.",
+   "source": "src10",
+   "quote": "became the first Jewish woman, as well as the first American woman, to win a Nobel Prize in the sciences",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c45",
+   "text": "לפי ארכיון הנשים היהודיות, המחקר היה חשוב במיוחד להבנת הסוכרת וטיפולה.",
+   "source": "src10",
+   "quote": "This research was particularly important in leading to the understanding and treatment of diabetes.",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c63",
+   "text": "בנאום בסעודת נובל אמר קרל שמאמציהם משלימים ושאחד בלי השני לא היה מגיע רחוק כמו בשילוב.",
+   "source": "src8",
+   "quote": "Our efforts have been largely complementary, and one without the other would not have gone as far as in combination.",
+   "status": "confirmed",
+   "locator": "שורה 20"
+  },
+  {
+   "id": "c64",
+   "text": "קורי כתבה שרגעים בלתי נשכחים הם נדירים ובאים אחרי שנים של עבודה מאומצת.",
+   "source": "src1",
+   "quote": "The unforgotten moments of my life are those rare ones which come after years of plodding work",
+   "status": "confirmed",
+   "locator": "שורה 26"
+  },
+  {
+   "id": "c49",
+   "text": "לפי נובל, שש עשרה שנה אחרי המעבר וחודשיים לאחר הפרס קודמה גרטי סוף סוף לדרגת פרופסור.",
+   "source": "src1",
+   "quote": "Sixteen years later (and two months after receiving the Nobel Prize), Gerty was finally promoted to the rank of professor.",
+   "status": "confirmed",
+   "locator": "שורה 16"
+  },
+  {
+   "id": "c50",
+   "text": "לפי בקר, קורי קודמה לפרופסור בכימיה ביולוגית ביולי 1947, חודשים ספורים לפני הפרס.",
+   "source": "src8",
+   "quote": "She was promoted to the rank of professor of Biological Chemistry in July 1947, only months before she was awarded the Nobel Prize.",
+   "status": "confirmed",
+   "locator": "שורה 15"
+  },
+  {
+   "id": "c52",
+   "text": "ב-1947 אובחנה אצל גרטי מחלת מח עצם מתישה.",
+   "source": "src3",
+   "quote": "Unfortunately 1947 was also the year when Gerty was diagnosed with myelosclerosis, a debilitating bone marrow disease.",
+   "status": "confirmed",
+   "locator": "שורה 16"
+  },
+  {
+   "id": "c54",
+   "text": "בעשור האחרון לחייה גילתה קורי את אנזימי ההסתעפות וההסרת הסתעפות המזרזים יצירה ופירוק של נקודות הסתעפות בגליקוגן.",
+   "source": "src3",
+   "quote": "She discovered the branching and debranching enzymes which catalyze the formation and breakdown, respectively, of branch points in glycogen.",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c55",
+   "text": "בפרויקט האחרון זיהתה קורי את הפגם באנזים בצורות של מחלות אגירת גליקוגן תורשתיות בילדים, והוכיחה לראשונה שחסר או ליקוי באנזים אחד יכול לגרום למחלה.",
+   "source": "src3",
+   "quote": "In her last research project, Gerty identified the individual enzyme defect in various forms of inherited glycogen-storage diseases in children, establishing for the first time that the lack or impairment of a single enzyme activity could cause a disease.",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c58",
+   "text": "ב-1952 מינה הנשיא טרומן את קורי לדירקטוריון הקרן הלאומית למדע.",
+   "source": "src10",
+   "quote": "In 1952, President Truman appointed her to the Board of Directors of the National Science Foundation.",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c71",
+   "text": "קורי מתה ב-26 באוקטובר 1957 בסנט לואיס.",
+   "source": "src2",
+   "quote": "Died: 26 October 1957, St. Louis, MO, USA",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c53",
+   "text": "לפי האגודה האמריקאית לכימיה, גרטי נפטרה ב-1957 מאי ספיקת כבד.",
+   "source": "src9",
+   "quote": "She succumbed to the disease in 1957, dying from liver failure.",
+   "status": "confirmed",
+   "locator": "שורה 39"
+  },
+  {
+   "id": "c60",
+   "text": "תארי כבוד הוענקו לקורי מייל, בוסטון, סמית', קולומביה ורוצ'סטר.",
+   "source": "src8",
+   "quote": "Honorary degrees were awarded to Cori by Yale University, Boston University, Smith College, Columbia University, and the University of Rochester.",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c57",
+   "text": "האגודה האמריקאית לכימיה הכריזה על מחקר בני הזוג קורי באוניברסיטת וושינגטון אתר היסטורי כימי לאומי ב-21 בספטמבר 2004.",
+   "source": "src8",
+   "quote": "The American Chemical Society designated the research of Gerty and Carl Cori on the metabolism of carbohydrates at The Washington University School of Medicine a National Historic Chemical Landmark on September 21, 2004.",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c61",
+   "text": "לפי האגודה האמריקאית לכימיה, קורי הודרה מחלק מההכרה.",
+   "source": "src9",
+   "quote": "Gerty Cori was excluded from some of the recognition",
+   "status": "confirmed",
+   "locator": "שורה 40"
+  },
+  {
+   "id": "c62",
+   "text": "קרל היה הזוכה היחיד בפרס לסקר של איגוד בריאות הציבור האמריקאי.",
+   "source": "src9",
+   "quote": "Carl was the sole recipient of the Albert Lasker Award for the American Public Health Association",
+   "status": "confirmed",
+   "locator": "שורה 40"
+  },
+  {
+   "id": "c7",
+   "text": "לפי מילדרד כהן, אביה של גרטי, אוטו רדניץ, היה כימאי שניהל בתי זיקוק לסוכר.",
+   "source": "src3",
+   "quote": "oldest of three daughters of Otto Radnitz, a chemist who was a manager of sugar refineries",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c8",
+   "text": "לפי מכון ההיסטוריה של המדע, קורי הייתה בתו של איש עסקים יהודי.",
+   "source": "src7",
+   "quote": "Gerty Cori, née Radnitz, was born in Prague (then part of the Austro-Hungarian Empire), the daughter of a Jewish businessman.",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c22",
+   "text": "לפי מילדרד כהן, רוב שמונים הפרסומים שלהם בין 1922 ל-1931 היו משותפים.",
+   "source": "src3",
+   "quote": "the bulk of their eighty publications between 1922 and 1931 were joint",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c47",
+   "text": "לפי הספרייה הלאומית לרפואה, בני הזוג קורי היו הזוג הנשוי הראשון שזכה בנובל במדעים.",
+   "source": "src4",
+   "quote": "were the first married couple to receive a Nobel Prize in science",
+   "status": "confirmed",
+   "locator": "שורה 16"
+  },
+  {
+   "id": "c51",
+   "text": "לפי ארכיון הנשים היהודיות, ב-1946 קודמה גרטי לפרופסור מן המניין כשקרל מונה ליושב ראש המחלקה לביוכימיה.",
+   "source": "src10",
+   "quote": "When Carl was made chair of a new biochemistry department in 1946, Gerty was finally promoted to full professor.",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c72",
+   "text": "לפי הספרייה הלאומית לרפואה של ארצות הברית, בשנת 1922 היגרו בני הזוג קורי לבאפלו שבניו יורק.",
+   "source": "src4",
+   "quote": "In 1922, concerned that war would break out in Europe for a second time, they immigrated to Buffalo, New York.",
+   "status": "confirmed",
+   "locator": "שורה 23"
+  },
+  {
+   "id": "c73",
+   "text": "כשרצתה ללמוד מדעים, גילתה שחסרות לה דרישות קדם בלטינית, בפיזיקה, בכימיה ובמתמטיקה.",
+   "source": "src11",
+   "quote": "such as Latin, mathematics, chemistry, and physics",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c76",
+   "text": "מכתש קורי על הירח נקרא על שמה.",
+   "source": "src12",
+   "quote": "Gerty Theresa Radnitz; Czech-American physiologist; Nobel laureate (1896-1957).",
+   "status": "confirmed",
+   "locator": "שורה 77"
+  },
+  {
+   "id": "c81",
+   "text": "הזוג הנשוי השלישי אי פעם שזכה בנובל",
+   "source": "src13",
+   "quote": "the couple was the third husband-wife team to win Nobel Prizes together.",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  }
+ ],
+ "sources": [
+  {
+   "id": "src1",
+   "label": "NobelPrize.org, Women who changed science: Gerty Cori",
+   "url": "https://www.nobelprize.org/stories/women-who-changed-science/gerty-cori/",
+   "kind": "official"
+  },
+  {
+   "id": "src2",
+   "label": "NobelPrize.org, עמוד עובדות על גרטי קורי, פרס נובל 1947",
+   "url": "https://www.nobelprize.org/prizes/medicine/1947/cori-gt/facts/",
+   "kind": "official"
+  },
+  {
+   "id": "src3",
+   "label": "Jewish Women's Archive, Shalvi/Hyman Encyclopedia of Jewish Women, מילדרד כהן",
+   "url": "https://jwa.org/encyclopedia/article/cori-gerty-theresa",
+   "kind": "reference"
+  },
+  {
+   "id": "src4",
+   "label": "US National Library of Medicine, Changing the Face of Medicine: Gerty Cori",
+   "url": "https://www.nlm.nih.gov/exhibition/changing-the-face-of-medicine/physicians/biography_gerty_cori.html",
+   "kind": "official"
+  },
+  {
+   "id": "src6",
+   "label": "NobelPrize.org, ביוגרפיה של גרטי קורי",
+   "url": "https://www.nobelprize.org/prizes/medicine/1947/cori-gt/biographical/",
+   "kind": "official"
+  },
+  {
+   "id": "src7",
+   "label": "Science History Institute, Carl Ferdinand Cori and Gerty Theresa Cori",
+   "url": "https://www.sciencehistory.org/education/scientific-biographies/carl-ferdinand-cori-and-gerty-theresa-cori",
+   "kind": "reference"
+  },
+  {
+   "id": "src8",
+   "label": "Becker Medical Library, Washington University in St. Louis, Gerty T. Cori (1896-1957)",
+   "url": "https://beckerexhibits.wustl.edu/mowihsp/bios/cori.htm",
+   "kind": "organisation"
+  },
+  {
+   "id": "src9",
+   "label": "American Chemical Society, Gerty Theresa Cori",
+   "url": "https://www.acs.org/education/whatischemistry/women-scientists/gerty-theresa-cori.html",
+   "kind": "organisation"
+  },
+  {
+   "id": "src10",
+   "label": "Jewish Women's Archive, This Week in History: Gerty Cori wins Nobel Prize",
+   "url": "https://jwa.org/thisweek/dec/10/1947/gerty-theresa-radnitz-cori",
+   "kind": "organisation"
+  },
+  {
+   "id": "src11",
+   "label": "Encyclopedia.com (Women in World History): Cori, Gerty T. (1896–1957)",
+   "url": "https://encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/cori-gerty-t-1896-1957",
+   "kind": "reference"
+  },
+  {
+   "id": "src12",
+   "label": "USGS Astrogeology: Gazetteer of Planetary Nomenclature, Cori (Moon crater)",
+   "url": "https://planetarynames.wr.usgs.gov/Feature/1308",
+   "kind": "official"
+  },
+  {
+   "id": "src13",
+   "label": "Washington University Becker Medical Library: About the Exhibit",
+   "url": "https://becker.wustl.edu/?p=4318",
+   "kind": "official"
+  }
+ ],
+ "media": [
+  {
+   "id": "m2",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gerty%20Theresa%20Cori.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Gerty_Theresa_Cori.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "National Library of Medicine, Images from the History of Medicine, B05353",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "דיוקן בשחור-לבן של גרטי קורי בחיוך, עם שרשרת פנינים.",
+   "illustrates": [
+    "c1"
+   ],
+   "date": "1947",
+   "width": 992,
+   "height": 1488
+  },
+  {
+   "id": "m3",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gerty%20Theresa%20Radnitz%20Cori%20%281896-1957%29%20and%20Carl%20Ferdinand%20Cori.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Gerty_Theresa_Radnitz_Cori_%281896-1957%29_and_Carl_Ferdinand_Cori.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Smithsonian Institution from United States",
+   "licence": "No restrictions",
+   "hosting": "hotlink",
+   "caption": "גרטי קורי מחזיקה פיפטה מורמת במעבדה, וקרל קורי עומד לצדה; מאחוריהם מדפים עם בקבוקי כימיקלים.",
+   "illustrates": [
+    "c1"
+   ],
+   "licence_url": "https://www.flickr.com/commons/usage/",
+   "date": "2009-03-18",
+   "width": 3250,
+   "height": 3970
+  },
+  {
+   "id": "m5",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Deska%20Gerty%20T%20Cori%20-%20v%20Praze.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Deska_Gerty_T_Cori_-_v_Praze.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "R.Kukačka/L.Jeřábek",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "לוח זיכרון בצ'כית על בית הולדתה של גרטי רדניץ-קורי בפראג, שמציין כי זכתה בפרס נובל לרפואה ב-1947 ונולדה ב-15 באוגוסט 1896.",
+   "illustrates": [
+    "c1",
+    "c5"
+   ],
+   "width": 1728,
+   "height": 696
+  },
+  {
+   "id": "m6",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/S%C3%AD%C5%88%20Coriov%C3%BDch%20deska.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:S%C3%AD%C5%88_Coriov%C3%BDch_deska.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Pavel Dušek",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "לוח בצ'כית באולם בפקולטה הראשונה לרפואה של אוניברסיטת קרל בפראג, שמציין כי בני הזוג קורי למדו שם.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "14 April 2",
+   "width": 2560,
+   "height": 1600
+  },
+  {
+   "id": "m7",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rodn%C3%BD%20d%C5%AFm%20Gerty%20Cori%20-%20Petrsk%C3%A1%20v%20Praze.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Rodn%C3%BD_d%C5%AFm_Gerty_Cori_-_Petrsk%C3%A1_v_Praze.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "R.Kukačka/L.Jeřábek",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "חזית בניין מגורים מפואר בפראג, ברחוב פטרסקה 29, שלפי תיאור התמונה הוא בית הולדתה של גרטי קורי.",
+   "illustrates": [
+    "c3",
+    "c5"
+   ],
+   "date": "5 December",
+   "width": 1304,
+   "height": 1739
+  },
+  {
+   "id": "m8",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=wKIsMLmSbms",
+   "youtube_id": "wKIsMLmSbms",
+   "source_page": "https://www.youtube.com/watch?v=wKIsMLmSbms",
+   "source_name": "YouTube",
+   "credit": "Montreal Gazette",
+   "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "קטע מעיתון מונטריאול גאזט בסדרה The Right Chemistry על מורשתה של גרטי קורי ועל פרס נובל לרפואה ב-1947.",
+   "illustrates": [
+    "c1"
+   ],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m9",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=StsEOUt83Rg",
+   "youtube_id": "StsEOUt83Rg",
+   "source_page": "https://www.youtube.com/watch?v=StsEOUt83Rg",
+   "source_name": "YouTube",
+   "credit": "Nucleotides",
+   "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "סרטון הסבר על גרטי קורי, האישה הראשונה שזכתה בפרס נובל לרפואה.",
+   "illustrates": [
+    "c1"
+   ]
+  },
+  {
+   "id": "m10",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=dEb5-aANA2Y",
+   "youtube_id": "dEb5-aANA2Y",
+   "source_page": "https://www.youtube.com/watch?v=dEb5-aANA2Y",
+   "source_name": "YouTube",
+   "credit": "FunHistoryCartoons",
+   "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "סרטון אנימציה לילדים על גרטי קורי, מפראג לניו יורק, ועל גילוי מחזור הגליקוגן עם בעלה.",
+   "illustrates": [
+    "c3",
+    "c36"
+   ],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m11",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=nU1P1faVzFk",
+   "youtube_id": "nU1P1faVzFk",
+   "source_page": "https://www.youtube.com/watch?v=nU1P1faVzFk",
+   "source_name": "YouTube",
+   "credit": "Bellefontaine Cemetery and Arboretum",
+   "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "סרטון של בית הקברות והארבורטום בלפונטיין, שבו נקברה קורי, על חייה כביוכימאית יהודית ופורצת דרך לנשים במדע.",
+   "illustrates": [
+    "c1"
+   ],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m12",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=dQyonW9EoJk",
+   "youtube_id": "dQyonW9EoJk",
+   "source_page": "https://www.youtube.com/watch?v=dQyonW9EoJk",
+   "source_name": "YouTube",
+   "credit": "Icons & Moments",
+   "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "סרטון ביוגרפי על גרטי קורי, שנולדה בפראג ב-1896, ועל דרכה לפרס נובל.",
+   "illustrates": [
+    "c1",
+    "c3"
+   ],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m13",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gerty%20and%20Carl%20Cori%20at%20the%20Nobel%20Prize.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Gerty_and_Carl_Cori_at_the_Nobel_Prize.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "علاء",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "גרטי וקרל קורי בטקס הענקת פרס נובל בשטוקהולם, 10 בדצמבר 1947.",
+   "illustrates": [],
+   "date": "1947-12-10",
+   "width": 680,
+   "height": 929,
+   "role": "deed"
+  },
+  {
+   "id": "m14",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gerty%20nobel.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Gerty_nobel.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Silvia semeraro",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "גרטי וקרל קורי על מדרגות מטוס; הוא מנופף בכובעו, והיא מחייכת לצדו.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2016-01-31",
+   "width": 699,
+   "height": 910,
+   "role": "deed"
+  },
+  {
+   "id": "m15",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/National%20Science%20Board%20Members%2C%20July%201951.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:National_Science_Board_Members%2C_July_1951.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "NSF",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "גרטי קורי בתצלום קבוצתי של חברי המועצה הלאומית למדע של ארצות הברית, יולי 1951.",
+   "illustrates": [],
+   "date": "1951-07-01",
+   "width": 1500,
+   "height": 1159,
+   "role": "deed"
+  },
+  {
+   "id": "m23",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cori%20cycle.PNG?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Cori_cycle.PNG",
+   "source_name": "Wikimedia Commons",
+   "credit": "Krepideia",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "תרשים של מחזור קורי: גלוקוז ולקטט נעים בין השריר לכבד (כיתובים באיטלקית).",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "2011-08-01",
+   "width": 688,
+   "height": 708,
+   "role": "related"
+  },
+  {
+   "id": "m24",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/25.%20Jubil%C3%A4umstagung%201975%20Medizin-%20Julius%20Axelrod%2C%20Carl%20F.%20Cori%20-%20LABW%20-%20Staatsarchiv%20Freiburg%20W%20134%20Nr.%20103670g.jpeg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:25._Jubil%C3%A4umstagung_1975_Medizin-_Julius_Axelrod%2C_Carl_F._Cori_-_LABW_-_Staatsarchiv_Freiburg_W_134_Nr._103670g.jpeg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Willy Pragher",
+   "licence": "CC BY 4.0",
+   "hosting": "hotlink",
+   "caption": "קרל קורי ויוליוס אקסלרוד בשיחה בכינוס יובל לחתני נובל ברפואה, 1975",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/4.0",
+   "date": "1975date Q",
+   "width": 1099,
+   "height": 731,
+   "role": "related"
+  },
+  {
+   "id": "m25",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/25.%20Jubil%C3%A4umstagung%201975%20Medizin-%20Sir%20Hans%20A.%20Krebs%2C%20Julius%20Axelrod%2C%20Severa%20Ochoa%2C%20rechts-%20Carl%20F.%20Cori%20-%20LABW%20-%20Staatsarchiv%20Freiburg%20W%20134%20Nr.%20103670b.jpeg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:25._Jubil%C3%A4umstagung_1975_Medizin-_Sir_Hans_A._Krebs%2C_Julius_Axelrod%2C_Severa_Ochoa%2C_rechts-_Carl_F._Cori_-_LABW_-_Staatsarchiv_Freiburg_W_134_Nr._103670b.jpeg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Willy Pragher",
+   "licence": "CC BY 4.0",
+   "hosting": "hotlink",
+   "caption": "חתני נובל ברפואה בכינוס יובל, 1975; קרל קורי מימין, לצד האנס קרבס, יוליוס אקסלרוד וסברו אוצ'ואה",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/4.0",
+   "date": "1975date Q",
+   "width": 1102,
+   "height": 720,
+   "role": "related"
+  },
+  {
+   "id": "m26",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Deska%20Carl%20Cori%20-%20v%20Praze.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Deska_Carl_Cori_-_v_Praze.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "R.Kukačka/L.Jeřábek",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "לוח זיכרון בצ'כית בפראג לקרל פרדיננד קורי, חתן פרס נובל לרפואה 1947, שנולד בבית זה ב-5 בדצמבר 1896",
+   "illustrates": [],
+   "date": "5 December",
+   "width": 1627,
+   "height": 787,
+   "role": "deed"
+  }
+ ],
+ "check": {
+  "passed": true,
+  "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
+  "checked_at": "2026-11-21T20:42:16Z",
+  "counts": {
+   "confirmed": 79,
+   "not_confirmed": 0,
+   "deleted_sentences": 1,
+   "first_round_confirmed": 89,
+   "first_round_contradicted": 1,
+   "first_round_unverifiable": 1
+  },
+  "note": "unverifiable sentences were deleted, contradicted ones fixed from the source and checked again"
+ },
+ "meta": {
+  "run": "gerty-cori-glycogen-nobel",
+  "pipeline": "scripts/museum/museum_line.py",
+  "models": {
+   "research": "sonnet-5-5",
+   "extract": "sonnet-5-5",
+   "media": "sonnet-5-5",
+   "write": "opus-5-5 medium",
+   "check": "opus-5-5 medium",
+   "fix": "opus-5-5 medium"
+  },
+  "source_quality": {
+   "sources": 12,
+   "wikipedia": 0,
+   "strong": 5,
+   "ok": true,
+   "warnings": []
+  },
+  "settled": [
+   {
+    "box": "d3",
+    "question": "באיזו שנה הגיעו בני הזוג לארצות הברית?",
+    "url": "https://www.nlm.nih.gov/exhibition/changing-the-face-of-medicine/physicians/biography_gerty_cori.html",
+    "by": "settle 24.11"
+   }
+  ],
+  "media_dedupe": [
+   {
+    "drop": "m1",
+    "keep": "m3",
+    "by": "reviewed 24.11"
+   },
+   {
+    "drop": "m4",
+    "keep": "m3",
+    "by": "reviewed 24.11"
+   }
+  ],
+  "wiki_cleanup": {
+   "at": "2026-11-27T14:38:41Z",
+   "targets": 12,
+   "resourced": 3,
+   "kept_on_other_sources": 0,
+   "deleted": 9
+  }
+ }
 }

@@ -213,6 +213,14 @@
        "c39"
       ]
      }
+    ],
+    [
+     {
+      "text": "ויגיזר סיפר לגלובס: בחדר קטן בסאניווייל, קליפורניה",
+      "claims": [
+       "c21"
+      ]
+     }
     ]
    ],
    "media": [
@@ -220,8 +228,7 @@
     "m20"
    ],
    "disagreements": [
-    "d1",
-    "d2"
+    "d1"
    ]
   },
   {
@@ -243,9 +250,10 @@
       ]
      },
      {
-      "text": "לפי ויקיפדיה, ICQ התפשטה כשאנשים עודדו את חבריהם להצטרף, כדי שיוכלו לתקשר איתם.",
+      "text": "ICQ התפשטה כשאנשים עודדו את חבריהם להצטרף, כדי שיוכלו לתקשר איתם.",
       "claims": [
-       "c76"
+       "c79",
+       "c80"
       ]
      }
     ],
@@ -670,30 +678,6 @@
      "claims": [
       "c60"
      ]
-    },
-    {
-     "says": "ויקיפדיה: פחות מחודשיים",
-     "claims": [
-      "c73"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "d2",
-   "question": "היכן בארצות הברית עבדו על התוכנה?",
-   "versions": [
-    {
-     "says": "ויגיזר סיפר לגלובס: בחדר קטן בסאניווייל, קליפורניה",
-     "claims": [
-      "c21"
-     ]
-    },
-    {
-     "says": "ויקיפדיה: בדירה קטנה בסן חוזה, קליפורניה",
-     "claims": [
-      "c74"
-     ]
     }
    ]
   },
@@ -796,12 +780,6 @@
      "claims": [
       "c5",
       "c14"
-     ]
-    },
-    {
-     "says": "ויקיפדיה: ביולי 1996",
-     "claims": [
-      "c72"
      ]
     },
     {
@@ -1004,14 +982,6 @@
    "quote": "enabling the users to propagate the program from within itself with the click of a button",
    "status": "confirmed",
    "locator": "שורה 7"
-  },
-  {
-   "id": "c76",
-   "text": "לפי ויקיפדיה, ICQ התפשטה כשאנשים עודדו את חבריהם להצטרף כדי שיוכלו לתקשר.",
-   "source": "src8",
-   "quote": "ICQ grew as people encouraged their friends to join so they could communicate with each other.",
-   "status": "confirmed",
-   "locator": "שורה 16"
   },
   {
    "id": "c45",
@@ -1286,22 +1256,6 @@
    "locator": "שורה 9"
   },
   {
-   "id": "c73",
-   "text": "לפי ויקיפדיה, הם יצרו את ICQ בפחות מחודשיים אך היה להם כסף מועט או שלא היה להם מימון.",
-   "source": "src8",
-   "quote": "They created ICQ in less than two months, but had no funding.",
-   "status": "confirmed",
-   "locator": "שורה 15"
-  },
-  {
-   "id": "c74",
-   "text": "לפי ויקיפדיה, מירביליס הוקמה בדירה קטנה בסן חוזה, קליפורניה, שבה הגישה לאינטרנט הייתה זולה יותר.",
-   "source": "src8",
-   "quote": "Mirabilis was established in a small apartment in San Jose, California, where Internet access was cheaper.",
-   "status": "confirmed",
-   "locator": "שורה 15"
-  },
-  {
    "id": "c46",
    "text": "לפי הספר, ביוני 1998 נחתם חוזה למכירת מירביליס ל-AOL תמורת 287 מיליון דולר במזומן ועוד 120 מיליון דולר שתלויים בעמידה ביעדים.",
    "source": "src5",
@@ -1350,14 +1304,6 @@
    "locator": "שורה 13"
   },
   {
-   "id": "c72",
-   "text": "לפי ויקיפדיה, מירביליס נוסדה ביולי 1996 על ידי אריק ורדי, יאיר גולדפינגר, ספי ויזיגר ועמנואל עמיר.",
-   "source": "src8",
-   "quote": "Mirabilis was founded in July 1996 by Arik Vardi, Yair Goldfinger, Sefi Visiger and Amnon Amir.",
-   "status": "confirmed",
-   "locator": "שורה 14"
-  },
-  {
    "id": "c66",
    "text": "ComputerBase כתב שבנובמבר 1996 הקימו ארבעה סטודנטים ישראלים, גולדפינגר, ורדי, ויגיזר ועמיר, את מירביליס.",
    "source": "src6",
@@ -1372,6 +1318,22 @@
    "quote": "As previously announced, on April 28, 2010, AOL Inc., (the \"Company\") entered into a Securities Purchase Agreement",
    "status": "confirmed",
    "locator": "שורה 34"
+  },
+  {
+   "id": "c79",
+   "text": "ICQ התפשטה כשאנשים עודדו את חבריהם להצטרף, כדי שיוכלו לתקשר איתם.",
+   "source": "src12",
+   "quote": "simply sent messages to friends, inviting them to install the software",
+   "status": "confirmed",
+   "locator": "שורה 83"
+  },
+  {
+   "id": "c80",
+   "text": "ICQ התפשטה כשאנשים עודדו את חבריהם להצטרף, כדי שיוכלו לתקשר איתם.",
+   "source": "src12",
+   "quote": "ICQ had the advantage of actually being viral, spreading by word of mouth.",
+   "status": "confirmed",
+   "locator": "שורה 83"
   }
  ],
  "sources": [
@@ -1418,12 +1380,6 @@
    "kind": "press"
   },
   {
-   "id": "src8",
-   "label": "Wikipedia, Mirabilis (company)",
-   "url": "https://en.wikipedia.org/wiki/Mirabilis_(company)",
-   "kind": "reference"
-  },
-  {
    "id": "src9",
    "label": "Jüdische Allgemeine, בונטה בלומן אונד איינהורנר",
    "url": "https://www.juedische-allgemeine.de/kultur/bunte-blumen-und-einhoerner",
@@ -1440,6 +1396,12 @@
    "label": "AOL Inc., Form 8-K (SEC), 2010",
    "url": "https://www.sec.gov/Archives/edgar/data/0001468516/000119312510156846/d8k.htm",
    "kind": "official"
+  },
+  {
+   "id": "src12",
+   "label": "Calcalist (CTech): ICQ history article",
+   "url": "https://www.calcalistech.com/ctechnews/article/bjq01vmn0",
+   "kind": "press"
   }
  ],
  "media": [
@@ -1832,7 +1794,7 @@
   "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
   "checked_at": "2026-11-22T02:36:24Z",
   "counts": {
-   "confirmed": 103,
+   "confirmed": 96,
    "not_confirmed": 0,
    "deleted_sentences": 2,
    "first_round_confirmed": 98,
@@ -1853,8 +1815,8 @@
    "fix": "opus-5-5 medium"
   },
   "source_quality": {
-   "sources": 10,
-   "wikipedia": 1,
+   "sources": 11,
+   "wikipedia": 0,
    "strong": 8,
    "ok": true,
    "warnings": []
@@ -1866,6 +1828,13 @@
     "url": "https://www.sec.gov/Archives/edgar/data/0001468516/000119312510156846/d8k.htm",
     "by": "settle 24.11"
    }
-  ]
+  ],
+  "wiki_cleanup": {
+   "at": "2026-11-27T14:41:33Z",
+   "targets": 4,
+   "resourced": 1,
+   "kept_on_other_sources": 0,
+   "deleted": 3
+  }
  }
 }

@@ -7,13 +7,6 @@
  "title": "ישראייד שלחה לסרי לנקה צוות ישראלי שהקים מטבחים ומרפאה לניצולי הצונאמי",
  "trailer": [
   {
-   "text": "ישראייד היא ארגון לא ממשלתי שבסיסו בישראל, והוא הוקם כארגון גג של קבוצות חילוץ, רפואה וסיוע יהודיות וישראליות.",
-   "claims": [
-    "c68",
-    "c69"
-   ]
-  },
-  {
    "text": "אחרי הצונאמי של 26 בדצמבר 2004 ישראייד הובילה את הקמפיין הישראלי לאסון בדרום-מזרח אסיה.",
    "claims": [
     "c64",
@@ -151,12 +144,6 @@
    "kind": "story",
    "paragraphs": [
     [
-     {
-      "text": "ישראייד הוקמה ב-2001 כקואליציה של ארגוני סיוע ופיתוח ישראליים.",
-      "claims": [
-       "c71"
-      ]
-     },
      {
       "text": "לפי שחר זהבי, היא מורכבת מכ-30 ארגונים ופועלת כמרכז מתאם ביניהם.",
       "claims": [
@@ -620,9 +607,9 @@
      ]
     },
     {
-     "says": "ויקיפדיה: 14 אנשי רפואה ולוגיסטיקה",
+     "says": "14 אנשי רפואה ולוגיסטיקה",
      "claims": [
-      "c70"
+      "c80"
      ]
     },
     {
@@ -716,9 +703,9 @@
    "question": "מי הקים את ישראייד?",
    "versions": [
     {
-     "says": "ויקיפדיה: שחר זהבי ומולי דור",
+     "says": "שחר זהבי ומולי דור",
      "claims": [
-      "c72"
+      "c81"
      ]
     },
     {
@@ -763,22 +750,6 @@
   }
  ],
  "claims": [
-  {
-   "id": "c68",
-   "text": "ישראייד היא ארגון לא ממשלתי שבסיסו בישראל.",
-   "source": "src1",
-   "quote": "IsraAID (The Israel Forum for International Humanitarian Aid) is an Israel-based, non-governmental organization (NGO)",
-   "status": "confirmed",
-   "locator": "שורה 11"
-  },
-  {
-   "id": "c69",
-   "text": "ישראייד הוקם כארגון גג של קבוצות חילוץ, רפואה וסיוע יהודיות וישראליות.",
-   "source": "src1",
-   "quote": "consisted of Jewish and Israeli search and rescue, medical and relief groups that provide aid worldwide to people in need",
-   "status": "confirmed",
-   "locator": "שורה 23"
-  },
   {
    "id": "c64",
    "text": "לפי S8, הצונאמי של 26.12.2004 הרג יותר מ-200,000 איש.",
@@ -890,14 +861,6 @@
    "quote": "The Sri Lankan government is frantically trying to recover from losing more than 30,000 people to the tsunami.",
    "status": "confirmed",
    "locator": "שורה 273"
-  },
-  {
-   "id": "c71",
-   "text": "ויקיפדיה: ישראייד הוקם ב-2001 כקואליציה של ארגוני סיוע ופיתוח ישראליים.",
-   "source": "src1",
-   "quote": "IsraAID was founded in 2001 as a coalition of Israeli aid and international development organizations",
-   "status": "confirmed",
-   "locator": "שורה 20"
   },
   {
    "id": "c52",
@@ -1276,28 +1239,12 @@
    "locator": "שורה 21"
   },
   {
-   "id": "c70",
-   "text": "לפי ויקיפדיה, ישראל שלחה צוות של 14 אנשי רפואה ולוגיסטיקה לסרי לנקה בהובלת ישראייד.",
-   "source": "src1",
-   "quote": "A humanitarian team of 14 medical and logistical personnel was sent to Sri Lanka to help those affected by the tsunami.",
-   "status": "confirmed",
-   "locator": "שורה 27"
-  },
-  {
    "id": "c31",
    "text": "גל לוסקי מישראייד אמרה שהארגון יתמקד ברווחת הילדים ובהאכלת 5,000 איש ביום.",
    "source": "src4",
    "quote": "She said the organization will focus mainly on watching out for the children’s welfare and getting 5,000 people fed per day.",
    "status": "confirmed",
    "locator": "שורה 271"
-  },
-  {
-   "id": "c72",
-   "text": "ויקיפדיה: ישראייד הוקם בידי שחר זהבי ומולי דור.",
-   "source": "src1",
-   "quote": "IsraAID was founded by Shachar Zahavi and Mully Dor.",
-   "status": "confirmed",
-   "locator": "שורה 11"
   },
   {
    "id": "c73",
@@ -1314,15 +1261,25 @@
    "quote": "sent a jumbo plane to Sri Lanka with 18 tons of equipment",
    "status": "confirmed",
    "locator": "שורה 14"
+  },
+  {
+   "id": "c80",
+   "text": "14 אנשי רפואה ולוגיסטיקה",
+   "source": "src3",
+   "quote": "The Israeli team that left for Sri Lanka this week included 14 medical and logistical personnel.",
+   "status": "confirmed",
+   "locator": "שורה 15"
+  },
+  {
+   "id": "c81",
+   "text": "שחר זהבי ומולי דור",
+   "source": "src11",
+   "quote": "IsraAID was founded in 2001 by Shachar Zahavi, Mully Dor, and Meira Aboulafia",
+   "status": "confirmed",
+   "locator": "שורה 21"
   }
  ],
  "sources": [
-  {
-   "id": "src1",
-   "label": "ויקיפדיה, IsraAID",
-   "url": "https://en.wikipedia.org/wiki/IsraAid",
-   "kind": "reference"
-  },
   {
    "id": "src2",
    "label": "JTA, ארכיון",
@@ -1376,6 +1333,12 @@
    "label": "ISRAEL21c, \"Israel sends doctors, supplies to aid tsunami victims\"",
    "url": "https://archive.israel21c.org/?p=3568",
    "kind": "press"
+  },
+  {
+   "id": "src11",
+   "label": "ISRAEL21c: Explore the progress of 6 Humanitarian Aid Organizations in Israel",
+   "url": "https://archive.israel21c.org/?p=112674",
+   "kind": "press"
   }
  ],
  "media": [
@@ -1392,8 +1355,7 @@
    "hosting": "embed",
    "caption": "סרט של ישראייד על עצמו, העוסק בפעילות הסיוע של הארגון בסרי לנקה אחרי הצונאמי של 2004.",
    "illustrates": [
-    "c6",
-    "c68"
+    "c6"
    ],
    "spoken": "en",
    "audio_tracks": [
@@ -1985,7 +1947,7 @@
   "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
   "checked_at": "2026-11-21T11:30:52Z",
   "counts": {
-   "confirmed": 89,
+   "confirmed": 87,
    "not_confirmed": 0,
    "deleted_sentences": 4,
    "first_round_confirmed": 88,
@@ -2007,10 +1969,17 @@
   },
   "source_quality": {
    "sources": 10,
-   "wikipedia": 1,
+   "wikipedia": 0,
    "strong": 9,
    "ok": true,
    "warnings": []
+  },
+  "wiki_cleanup": {
+   "at": "2026-11-27T14:45:49Z",
+   "targets": 4,
+   "resourced": 2,
+   "kept_on_other_sources": 0,
+   "deleted": 2
   }
  }
 }

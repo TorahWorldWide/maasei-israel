@@ -459,18 +459,6 @@
     ],
     [
      {
-      "text": "ב-1949 הנהיגה הדסה את פרס הנרייטה סאלד, ובאותה שנה הוא הוענק לאלינור רוזוולט.",
-      "claims": [
-       "c51"
-      ]
-     },
-     {
-      "text": "קיבוץ כפר סולד בגליל העליון נקרא על שמה.",
-      "claims": [
-       "c52"
-      ]
-     },
-     {
       "text": "ב-2005 היה הארגון הרפואי הדסה מועמד לפרס נובל לשלום, על טיפול רפואי מתקדם לכולם בלי הבדל גזע, מוצא או לאום.",
       "claims": [
        "c4"
@@ -526,12 +514,6 @@
     ],
     [
      {
-      "text": "ב-1942 הייתה סאלד ממייסדי איחוד, מפלגה בארץ שחתרה לפתרון דו-לאומי.",
-      "claims": [
-       "c39"
-      ]
-     },
-     {
       "text": "המפלגה הייתה מוכנה להגביל עלייה יהודית גם בזמן השמדת יהודי אירופה, ונשארה שולית.",
       "claims": [
        "c37"
@@ -579,12 +561,6 @@
      "claims": [
       "c54"
      ]
-    },
-    {
-     "says": "לפי ויקיפדיה, סאלד הצטרפה לשש נשים נוספות כדי להקים את הדסה.",
-     "claims": [
-      "c53"
-     ]
     }
    ]
   },
@@ -623,9 +599,9 @@
      ]
     },
     {
-     "says": "לפי ויקיפדיה, עליית הנוער הצילה 30,000 ילדים יהודים מאירופה הנאצית",
+     "says": "עליית הנוער הצילה 30,000 ילדים יהודים מאירופה הנאצית",
      "claims": [
-      "c45"
+      "c62"
      ]
     },
     {
@@ -637,15 +613,7 @@
    ]
   }
  ],
- "unknowns": [
-  {
-   "text": "המקורות חלוקים בפער הגילים בין סאלד לגינצברג: לפי JWA, סאלד הייתה מבוגרת ממנו בשלוש עשרה שנים, ולפי ויקיפדיה, הוא היה צעיר ממנה בחמש עשרה שנים.",
-   "claims": [
-    "c55",
-    "c56"
-   ]
-  }
- ],
+ "unknowns": [],
  "claims": [
   {
    "id": "c31",
@@ -960,22 +928,6 @@
    "locator": "שורה 64"
   },
   {
-   "id": "c51",
-   "text": "ב-1949 הנהיגה הדסה את פרס הנרייטה סאלד, שהוענק באותה שנה לאלינור רוזוולט.",
-   "source": "src10",
-   "quote": "In 1949, Hadassah inaugurated the Henrietta Szold Prize, which was awarded that year to Eleanor Roosevelt.",
-   "status": "confirmed",
-   "locator": "שורה 48"
-  },
-  {
-   "id": "c52",
-   "text": "קיבוץ כפר סולד בגליל העליון נקרא על שמה.",
-   "source": "src10",
-   "quote": "Kibbutz Kfar Szold, in Upper Galilee is named after her.",
-   "status": "confirmed",
-   "locator": "שורה 47"
-  },
-  {
    "id": "c12",
    "text": "לפי האנציקלופדיה, התעקשותה של סאלד על סטנדרטים והרגלי עבודה אמריקניים נתקלה בהתנגדות עזה, ובחוגי העבודה ראו בכך אימפריאליזם רפואי.",
    "source": "src2",
@@ -998,14 +950,6 @@
    "quote": "When The Hebrew University opened, however, she was denied a seat on the board, because of her sex.",
    "status": "confirmed",
    "locator": "שורה 11"
-  },
-  {
-   "id": "c39",
-   "text": "ב-1942 הייתה סאלד ממייסדי איחוד, מפלגה בפלסטין המנדטורית שנועדה לפתרון דו-לאומי.",
-   "source": "src10",
-   "quote": "In 1942, she co-founded Ihud, a political party in Mandatory Palestine dedicated to a binational solution.",
-   "status": "confirmed",
-   "locator": "שורה 10"
   },
   {
    "id": "c37",
@@ -1040,14 +984,6 @@
    "locator": "שורה 16"
   },
   {
-   "id": "c53",
-   "text": "לפי ויקיפדיה, סאלד הצטרפה לשש נשים נוספות כדי להקים את הדסה.",
-   "source": "src10",
-   "quote": "Szold joined six other women to found Hadassah, which recruited American Jewish women to upgrade health care in Palestine.",
-   "status": "confirmed",
-   "locator": "שורה 36"
-  },
-  {
    "id": "c18",
    "text": "לפי מקור אחר, שתי האחיות שהפליגו לירושלים היו רוז קפלן ורייצ'ל (ריי) למב.",
    "source": "src7",
@@ -1072,14 +1008,6 @@
    "locator": "שורה 12"
   },
   {
-   "id": "c45",
-   "text": "לפי ויקיפדיה, עליית הנוער הצילה 30,000 ילדים יהודים מאירופה הנאצית, וסאלד עלתה ב-1933.",
-   "source": "src10",
-   "quote": "In 1933, she immigrated to Palestine and helped run Youth Aliyah, an organization that rescued 30,000 Jewish children from Nazi Europe.",
-   "status": "confirmed",
-   "locator": "שורה 38"
-  },
-  {
    "id": "c46",
    "text": "לפי הדסה, מאז 1934 סיימו יותר מ-300,000 צעירים ב-80 מדינות את כפרי הנוער בתמיכת הדסה.",
    "source": "src4",
@@ -1088,28 +1016,20 @@
    "locator": "שורה 12"
   },
   {
-   "id": "c55",
-   "text": "לפי JWA, הגיל בין סאלד לגינצברג היה שלוש עשרה שנים והיא המבוגרת.",
-   "source": "src3",
-   "quote": "Szold had long accepted that the difference in their ages (she was thirteen years his senior) precluded any realistic hope of romantic attachment.",
-   "status": "confirmed",
-   "locator": "שורה 30"
-  },
-  {
-   "id": "c56",
-   "text": "לפי ויקיפדיה, גינצברג היה צעיר ממנה בחמש עשרה שנים והחזיר את רגשותיה רק באופן אפלטוני.",
-   "source": "src10",
-   "quote": "He was fifteen years her junior, and he returned her feelings only platonically.",
-   "status": "confirmed",
-   "locator": "שורה 27"
-  },
-  {
    "id": "c59",
    "text": "לפי האנציקלופדיה Encyclopedia.com, הנרייטה סאלד עברה לארץ ישראל ב-1920 והחלה לפקח על הפעילות היומיומית של פרויקטי הדסה.",
    "source": "src12",
    "quote": "Henrietta Szold finally moved to Palestine in 1920 and began overseeing the daily operation of Hadassah projects.",
    "status": "confirmed",
    "locator": "שורה 35"
+  },
+  {
+   "id": "c62",
+   "text": "עליית הנוער הצילה 30,000 ילדים יהודים מאירופה הנאצית",
+   "source": "src13",
+   "quote": "responsible for rescuing 30,000 Jewish children from Nazi Europe",
+   "status": "confirmed",
+   "locator": "שורה 10"
   }
  ],
  "sources": [
@@ -1168,12 +1088,6 @@
    "kind": "press"
   },
   {
-   "id": "src10",
-   "label": "Wikipedia, Henrietta Szold",
-   "url": "https://en.wikipedia.org/wiki/Henrietta_Szold",
-   "kind": "reference"
-  },
-  {
    "id": "src11",
    "label": "Encyclopedia.com, Szold, Henrietta, Shulamit Reinharz",
    "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/szold-henrietta",
@@ -1184,6 +1098,12 @@
    "label": "Encyclopedia.com, Szold, Henrietta (1860–1945)",
    "url": "https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/szold-henrietta-1860-1945",
    "kind": "reference"
+  },
+  {
+   "id": "src13",
+   "label": "Kenyon College Digital Collections: Bulmash Freier collection",
+   "url": "https://digital.kenyon.edu/bulmash_freier/",
+   "kind": "other"
   }
  ],
  "media": [
@@ -1456,7 +1376,7 @@
   "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
   "checked_at": "2026-11-21T00:47:46Z",
   "counts": {
-   "confirmed": 77,
+   "confirmed": 70,
    "not_confirmed": 0,
    "deleted_sentences": 2,
    "first_round_confirmed": 75,
@@ -1477,8 +1397,8 @@
    "fix": "opus-5-5 medium"
   },
   "source_quality": {
-   "sources": 11,
-   "wikipedia": 1,
+   "sources": 12,
+   "wikipedia": 0,
    "strong": 3,
    "ok": true,
    "warnings": []
@@ -1490,6 +1410,13 @@
     "url": "https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/szold-henrietta-1860-1945",
     "by": "settle 24.11"
    }
-  ]
+  ],
+  "wiki_cleanup": {
+   "at": "2026-11-27T14:39:38Z",
+   "targets": 6,
+   "resourced": 1,
+   "kept_on_other_sources": 0,
+   "deleted": 5
+  }
  }
 }

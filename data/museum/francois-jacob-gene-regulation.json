@@ -290,12 +290,6 @@
       "claims": [
        "c25"
       ]
-     },
-     {
-      "text": "לפי ויקיפדיה, שיטת הבקרה על ייצור האנזימים לא הייתה מובנת היטב באותה עת.",
-      "claims": [
-       "c26"
-      ]
      }
     ],
     [
@@ -381,11 +375,14 @@
       "claims": [
        "c37"
       ]
-     },
+     }
+    ],
+    [
      {
-      "text": "ויקיפדיה מספרת את סיפור הסרט אחרת, ומייחסת אותו למונו ולאשתו.",
+      "text": "נשיונל ג'יאוגרפיק והכולז' דה פרנס: ז'קוב",
       "claims": [
-       "c38"
+       "c33",
+       "c36"
       ]
      }
     ]
@@ -393,9 +390,7 @@
    "media": [
     "m5"
    ],
-   "disagreements": [
-    "d4"
-   ]
+   "disagreements": []
   },
   {
    "id": "s6",
@@ -557,8 +552,8 @@
      {
       "text": "הוא קיבל גם את פרס לואיס תומאס לכתיבה על מדע.",
       "claims": [
-       "c81",
-       "c82"
+       "c82",
+       "c85"
       ]
      },
      {
@@ -743,25 +738,6 @@
      "says": "הכולז' דה פרנס: ב-1953",
      "claims": [
       "c52"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "d4",
-   "question": "מי חווה את הרעיון בבית הקולנוע ב-1958?",
-   "versions": [
-    {
-     "says": "נשיונל ג'יאוגרפיק והכולז' דה פרנס: ז'קוב",
-     "claims": [
-      "c33",
-      "c36"
-     ]
-    },
-    {
-     "says": "ויקיפדיה: מונו ואשתו",
-     "claims": [
-      "c38"
      ]
     }
    ]
@@ -1060,14 +1036,6 @@
    "locator": "שורה 14"
   },
   {
-   "id": "c26",
-   "text": "לפי ויקיפדיה, שיטת הבקרה על ייצור האנזימים לא הייתה מובנת היטב באותה עת.",
-   "source": "src12",
-   "quote": "the method of controlling the enzyme production was not well understood at the time",
-   "status": "confirmed",
-   "locator": "שורה 42"
-  },
-  {
    "id": "c27",
    "text": "מונו מצא שרק לאחר שהחיידקים אכלו את כל הגלוקוז החלו לייצר ביתא-גלקטוזידאז בכמות ממשית.",
    "source": "src5",
@@ -1130,14 +1098,6 @@
    "quote": "But when François tried to sketch out his ideas for his wife, he was disappointed.",
    "status": "confirmed",
    "locator": "שורה 19"
-  },
-  {
-   "id": "c38",
-   "text": "ויקיפדיה מייחסת את סיפור הסרט והמשפט \"חשבתי על משהו חשוב\" למונו ולאשתו, בניגוד למקורות אחרים שמייחסים אותו לז'קוב.",
-   "source": "src12",
-   "quote": "In 1958, Monod was watching a film with his wife and told her",
-   "status": "confirmed",
-   "locator": "שורה 41"
   },
   {
    "id": "c35",
@@ -1292,14 +1252,6 @@
    "locator": "שורה 15"
   },
   {
-   "id": "c81",
-   "text": "לפי ויקיפדיה, ז'קוב קיבל את פרס לואיס תומאס הראשון ב-1994.",
-   "source": "src12",
-   "quote": "in 1994 received the inaugural Lewis Thomas Prize",
-   "status": "confirmed",
-   "locator": "שורה 24"
-  },
-  {
    "id": "c82",
    "text": "לפי מאמר זיכרון בנורת'ווסטרן, ז'קוב קיבל את פרס לואיס תומאס לכתיבה על מדע ב-1996.",
    "source": "src11",
@@ -1450,6 +1402,14 @@
    "quote": "He was also a member of the Selection Committee that chose Dr. Jacob for 1994.",
    "status": "confirmed",
    "locator": "שורה 5"
+  },
+  {
+   "id": "c85",
+   "text": "הוא קיבל גם את פרס לואיס תומאס לכתיבה על מדע.",
+   "source": "src13",
+   "quote": "with the second Lewis Thomas Prize on Wednesday, May 25.",
+   "status": "confirmed",
+   "locator": "שורה 3"
   }
  ],
  "sources": [
@@ -1518,12 +1478,6 @@
    "label": "Northwestern University (Amaral lab), In Memoriam François Jacob",
    "url": "https://amaral.northwestern.edu/blog/Francois-Jacob",
    "kind": "press"
-  },
-  {
-   "id": "src12",
-   "label": "Wikipedia, François Jacob",
-   "url": "https://en.wikipedia.org/wiki/Fran%C3%A7ois_Jacob",
-   "kind": "reference"
   },
   {
    "id": "src13",
@@ -1824,7 +1778,7 @@
   "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
   "checked_at": "2026-11-21T21:55:57Z",
   "counts": {
-   "confirmed": 97,
+   "confirmed": 93,
    "not_confirmed": 0,
    "deleted_sentences": 2,
    "first_round_confirmed": 97,
@@ -1846,7 +1800,7 @@
   },
   "source_quality": {
    "sources": 12,
-   "wikipedia": 1,
+   "wikipedia": 0,
    "strong": 7,
    "ok": true,
    "warnings": []
@@ -1858,6 +1812,13 @@
     "url": "https://www.rockefeller.edu/news/4737-french-nobelist-author-to-receive-1994-lewis-thomas-prize-from-rockefeller-university/",
     "by": "settle 24.11"
    }
-  ]
+  ],
+  "wiki_cleanup": {
+   "at": "2026-11-27T14:33:01Z",
+   "targets": 4,
+   "resourced": 1,
+   "kept_on_other_sources": 0,
+   "deleted": 3
+  }
  }
 }

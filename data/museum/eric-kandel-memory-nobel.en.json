@@ -178,7 +178,8 @@
       "text": "Kandel and his brother traveled before their parents.",
       "claims": [
        "c15",
-       "c16"
+       "c66",
+       "c67"
       ]
      },
      {
@@ -201,11 +202,18 @@
        "c19"
       ]
      }
+    ],
+    [
+     {
+      "text": "Kandel recounted that he and his brother emigrated in April 1939, and his parents in September 1939, only days before World War II broke out",
+      "claims": [
+       "c15"
+      ]
+     }
     ]
    ],
    "media": [],
    "disagreements": [
-    "d2",
     "d3"
    ]
   },
@@ -248,9 +256,9 @@
       ]
      },
      {
-      "text": "According to Wikipedia, in 1957 Kandel joined the Laboratory of Neurophysiology at the US National Institutes of Health.",
+      "text": "In 1957, Kandel joined the Laboratory of Neurophysiology at the National Institutes of Health in the United States.",
       "claims": [
-       "c29"
+       "c68"
       ]
      }
     ],
@@ -320,12 +328,6 @@
      }
     ],
     [
-     {
-      "text": "According to Wikipedia, many senior biologists and psychologists believed that nothing could be learned about human memory by studying invertebrate physiology.",
-      "claims": [
-       "c33"
-      ]
-     },
      {
       "text": "According to Columbia Magazine, Kandel chose the neurons of Aplysia despite scientists who discouraged him, because they thought human behavior was too complex to be learned about from simple systems.",
       "claims": [
@@ -489,15 +491,16 @@
     ],
     [
      {
-      "text": "According to Wikipedia, Austrian President Thomas Klestil called Kandel after the prize.",
+      "text": "Austrian President Thomas Klestil called Kandel after the win.",
       "claims": [
-       "c55"
+       "c71",
+       "c72"
       ]
      },
      {
-      "text": "According to Wikipedia, Kandel said that it was not an Austrian Nobel Prize, but a Jewish-American Nobel Prize.",
+      "text": "Kandel said that it was not an Austrian Nobel Prize, but a Jewish-American Nobel Prize.",
       "claims": [
-       "c4"
+       "c73"
       ]
      },
      {
@@ -522,12 +525,6 @@
    "paragraphs": [
     [
      {
-      "text": "According to Wikipedia, Kandel asked that Doktor-Karl-Lueger-Ring be renamed, because Lueger was an anti-Semitic mayor of Vienna.",
-      "claims": [
-       "c56"
-      ]
-     },
-     {
       "text": "According to Lake Forest College, Kandel organized a symposium in Austria and met with officials, in order to educate citizens about the country's role in the Holocaust.",
       "claims": [
        "c57"
@@ -542,9 +539,9 @@
     ],
     [
      {
-      "text": "According to Wikipedia, his book In Search of Memory won the Los Angeles Times Prize for 2006.",
+      "text": "His book In Search of Memory won the Los Angeles Times prize for 2006.",
       "claims": [
-       "c59"
+       "c76"
       ]
      },
      {
@@ -570,24 +567,6 @@
  ],
  "disagreements": [
   {
-   "id": "d2",
-   "question": "When did Kandel emigrate to the United States?",
-   "versions": [
-    {
-     "says": "Kandel recounted that he and his brother emigrated in April 1939, and his parents in September 1939, only days before World War II broke out",
-     "claims": [
-      "c15"
-     ]
-    },
-    {
-     "says": "According to Wikipedia, Kandel and his brother joined their uncle in Brooklyn on May 11, 1939, and his parents arrived later",
-     "claims": [
-      "c16"
-     ]
-    }
-   ]
-  },
-  {
    "id": "d3",
    "question": "What was the name of Kandel's brother?",
    "versions": [
@@ -598,9 +577,9 @@
      ]
     },
     {
-     "says": "According to Wikipedia, his brother was named Ludwig, and was 14 when they sailed to the United States",
+     "says": "His brother was named Ludwig, and he was 14 when they sailed to the United States",
      "claims": [
-      "c18"
+      "c77"
      ]
     }
    ]
@@ -783,14 +762,6 @@
    "locator": "שורה 18"
   },
   {
-   "id": "c16",
-   "text": "לפי ויקיפדיה, קנדל ואחיו הצטרפו לדודם בברוקלין ב-11 במאי 1939 והוריו הגיעו אחר כך.",
-   "source": "src7",
-   "quote": "joined their uncle in Brooklyn on May 11, 1939, to be followed later by his parents",
-   "status": "confirmed",
-   "locator": "שורה 43"
-  },
-  {
    "id": "c5",
    "text": "לפי אנציקלופדיה.קום, קנדל הפך לאזרח ארצות הברית באמצע שנות הארבעים.",
    "source": "src6",
@@ -855,14 +826,6 @@
    "locator": "שורה 41"
   },
   {
-   "id": "c29",
-   "text": "לפי ויקיפדיה, קנדל הצטרף למעבדה לנוירופיזיולוגיה במכוני הבריאות הלאומיים בארצות הברית ב-1957.",
-   "source": "src7",
-   "quote": "When Kandel joined the Laboratory of Neurophysiology at the US National Institutes of Health in 1957",
-   "status": "confirmed",
-   "locator": "שורה 50"
-  },
-  {
    "id": "c26",
    "text": "קנדל כתב שאשתו דניז יהודייה, ושאמה עזרה לאביה לברוח ממחנה ריכוז צרפתי.",
    "source": "src5",
@@ -917,14 +880,6 @@
    "quote": "The strange, squishy beast has only 20,000 neurons, many big enough to see with the naked eye and easy to probe and monitor with electrodes and sensors.",
    "status": "confirmed",
    "locator": "שורה 18"
-  },
-  {
-   "id": "c33",
-   "text": "לפי ויקיפדיה, ביולוגים ופסיכולוגים בכירים רבים האמינו שאי אפשר ללמוד על זיכרון אנושי מחקר פיזיולוגיה של חסרי חוליות.",
-   "source": "src7",
-   "quote": "many senior biologists and psychologists believed that nothing useful could be learned about human memory by studying invertebrate physiology",
-   "status": "confirmed",
-   "locator": "שורה 51"
   },
   {
    "id": "c32",
@@ -1031,36 +986,12 @@
    "locator": "שורה 6"
   },
   {
-   "id": "c55",
-   "text": "לפי ויקיפדיה, נשיא אוסטריה תומאס קלסטיל התקשר לקנדל אחרי הזכייה.",
-   "source": "src7",
-   "quote": "he got a call from then Austrian president Thomas Klestil asking him",
-   "status": "confirmed",
-   "locator": "שורה 76"
-  },
-  {
-   "id": "c4",
-   "text": "קנדל אמר שזה לא היה פרס נובל אוסטרי אלא פרס נובל יהודי-אמריקאי.",
-   "source": "src7",
-   "quote": "certainly not an Austrian Nobel, it was a Jewish-American Nobel",
-   "status": "confirmed",
-   "locator": "שורה 76"
-  },
-  {
    "id": "c54",
    "text": "לפי אוניברסיטת לייק פורסט, קנדל הזכיר למאחלים מווינה שמדובר בפרס נובל אמריקאי.",
    "source": "src11",
    "quote": "He reminded his well-wishers that it was an American Nobel Prize.",
    "status": "confirmed",
    "locator": "שורה 3"
-  },
-  {
-   "id": "c56",
-   "text": "לפי ויקיפדיה, קנדל ביקש ששדרת דוקטור קרל לואגר תשונה, כי לואגר היה ראש עיר אנטישמי של וינה.",
-   "source": "src7",
-   "quote": "Kandel said that first, Doktor-Karl-Lueger-Ring should be renamed; Karl Lueger was an anti-Semitic mayor of Vienna",
-   "status": "confirmed",
-   "locator": "שורה 76"
   },
   {
    "id": "c57",
@@ -1079,14 +1010,6 @@
    "locator": "שורה 5"
   },
   {
-   "id": "c59",
-   "text": "לפי ויקיפדיה, ספרו של קנדל \"In Search of Memory\" זכה בפרס לוס אנג'לס טיימס לשנת 2006.",
-   "source": "src7",
-   "quote": "was awarded the 2006 Los Angeles Times Book Prize for Science and Technology",
-   "status": "confirmed",
-   "locator": "שורה 23"
-  },
-  {
    "id": "c60",
    "text": "קנדל קיבל את מדליית ליאו בק במרכז להיסטוריה יהודית ב-17 בנובמבר 2015.",
    "source": "src8",
@@ -1101,14 +1024,6 @@
    "quote": "My brother Lewis was born on November 14, 1924.",
    "status": "confirmed",
    "locator": "שורה 7"
-  },
-  {
-   "id": "c18",
-   "text": "לפי ויקיפדיה, אחיו של קנדל נקרא לודוויג והיה בן 14 כשהפליגו לארצות הברית.",
-   "source": "src7",
-   "quote": "he and his brother Ludwig, 14, boarded the Gerolstein at Antwerp, Belgium",
-   "status": "confirmed",
-   "locator": "שורה 43"
   },
   {
    "id": "c35",
@@ -1157,6 +1072,70 @@
    "quote": "On the night of November 9–10, 1938, Nazi German leaders unleashed a nationwide anti-Jewish riot.",
    "status": "confirmed",
    "locator": "שורה 79"
+  },
+  {
+   "id": "c66",
+   "text": "קנדל ואחיו נסעו לפני ההורים.",
+   "source": "src14",
+   "quote": "And when my parents came they also joined us in that apartment.",
+   "status": "confirmed",
+   "locator": "שורה 43"
+  },
+  {
+   "id": "c67",
+   "text": "קנדל ואחיו נסעו לפני ההורים.",
+   "source": "src14",
+   "quote": "My grandparents left in February. We left at the beginning of April.",
+   "status": "confirmed",
+   "locator": "שורה 39"
+  },
+  {
+   "id": "c68",
+   "text": "ב-1957 הצטרף קנדל למעבדה לנוירופיזיולוגיה במכוני הבריאות הלאומיים בארצות הברית.",
+   "source": "src6",
+   "quote": "In 1957, Kandel began doing research at the National Institutes of Health Laboratory of Neurophysiology.",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c71",
+   "text": "נשיא אוסטריה תומאס קלסטיל התקשר לקנדל אחרי הזכייה.",
+   "source": "src15",
+   "quote": "And when he won the Nobel Prize in 2000, he got a call from the Austrian president.",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c72",
+   "text": "נשיא אוסטריה תומאס קלסטיל התקשר לקנדל אחרי הזכייה.",
+   "source": "src16",
+   "quote": "I was soon contacted by the president of Austria at the time, Thomas Klestil, who wanted to know how his country could recognize me.",
+   "status": "confirmed",
+   "locator": "שורה 31"
+  },
+  {
+   "id": "c73",
+   "text": "קנדל אמר שזה לא היה פרס נובל אוסטרי, אלא פרס נובל יהודי-אמריקאי.",
+   "source": "src17",
+   "quote": "This is an American Nobel Prize and a Jewish Nobel Prize.",
+   "status": "confirmed",
+   "locator": "שורה 35"
+  },
+  {
+   "id": "c76",
+   "text": "ספרו \"In Search of Memory\" זכה בפרס לוס אנג'לס טיימס לשנת 2006.",
+   "source": "src18",
+   "quote": "Winner — Los Angeles Times Book Prize, 2006",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c77",
+   "text": "אחיו נקרא לודוויג, והיה בן 14 כשהפליגו לארצות הברית",
+   "source": "src19",
+   "quote": "Eric and his brother Ludwig, who was 14 years old at the time,",
+   "status": "confirmed",
+   "locator": "שורה 32"
   }
  ],
  "sources": [
@@ -1197,12 +1176,6 @@
    "kind": "reference"
   },
   {
-   "id": "src7",
-   "label": "Wikipedia, Eric Kandel",
-   "url": "https://en.wikipedia.org/wiki/Eric_Kandel",
-   "kind": "reference"
-  },
-  {
    "id": "src8",
    "label": "Leo Baeck Institute, Leo Baeck Medal – Eric R. Kandel",
    "url": "https://www.lbi.org/news/leo-baeck-medal-eric-r-kandel/",
@@ -1237,6 +1210,42 @@
    "label": "USHMM, Holocaust Encyclopedia, Kristallnacht",
    "url": "https://encyclopedia.ushmm.org/content/en/article/kristallnacht",
    "kind": "reference"
+  },
+  {
+   "id": "src14",
+   "label": "Web of Stories: Eric Kandel interview, leaving Vienna and arriving in Brooklyn",
+   "url": "https://webofstories.com/play/56094?o=MS",
+   "kind": "video"
+  },
+  {
+   "id": "src15",
+   "label": "Jewish Journal: article on Eric Kandel",
+   "url": "https://jewishjournal.com/community/69040/",
+   "kind": "press"
+  },
+  {
+   "id": "src16",
+   "label": "Jewish Journal: article on Eric Kandel",
+   "url": "https://magazine.columbia.edu/article/your-brain-klimt",
+   "kind": "press"
+  },
+  {
+   "id": "src17",
+   "label": "The Columbia Current: The Life of a Laureate (Eric Kandel)",
+   "url": "https://www.columbia-current.org/dr-eric-kandel---netana-markovitz.html",
+   "kind": "press"
+  },
+  {
+   "id": "src18",
+   "label": "W. W. Norton: In Search of Memory (Eric R. Kandel), Awards",
+   "url": "https://wwnorton.co.uk/books/9780393329377-in-search-of-memory",
+   "kind": "other"
+  },
+  {
+   "id": "src19",
+   "label": "Leo Baeck Institute: Eric Kandel, biographical record",
+   "url": "https://www.lbi.org/griffinger/record/5573649",
+   "kind": "organisation"
   }
  ],
  "media": [
@@ -1756,7 +1765,7 @@
   "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
   "checked_at": "2026-11-21T19:54:59Z",
   "counts": {
-   "confirmed": 76,
+   "confirmed": 72,
    "not_confirmed": 0,
    "deleted_sentences": 3,
    "first_round_confirmed": 75,
@@ -1777,8 +1786,8 @@
    "fix": "opus-5-5 medium"
   },
   "source_quality": {
-   "sources": 12,
-   "wikipedia": 1,
+   "sources": 18,
+   "wikipedia": 0,
    "strong": 8,
    "ok": true,
    "warnings": []
@@ -1790,19 +1799,26 @@
     "url": "https://encyclopedia.ushmm.org/content/en/article/kristallnacht",
     "by": "settle 24.11"
    }
-  ]
+  ],
+  "wiki_cleanup": {
+   "at": "2026-11-27T14:35:20Z",
+   "targets": 9,
+   "resourced": 6,
+   "kept_on_other_sources": 0,
+   "deleted": 3
+  }
  },
  "lang": "en",
  "translation": {
   "from": "he",
   "translator": "claude-opus-5-5",
   "checker": "claude-opus-5-5 (separate call, blind to the translation prompt)",
-  "checked_at": "2026-11-23T22:27:42Z",
+  "checked_at": "2026-11-27T14:35:50Z",
   "passed": true,
-  "items": 127,
-  "pairs_checked": 1,
-  "reused": 126,
-  "first_round_flagged": 0,
+  "items": 123,
+  "pairs_checked": 5,
+  "reused": 118,
+  "first_round_flagged": 1,
   "still_flagged": 0,
   "flagged": [],
   "quote_translations": {}

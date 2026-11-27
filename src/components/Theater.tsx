@@ -459,7 +459,7 @@ export default function Theater({ entries }: TheaterProps) {
               style={{ background: `linear-gradient(to bottom, ${GOLD_BRIGHT}, ${GOLD})`, color: "#f6f1e6", boxShadow: "0 8px 22px -10px rgba(107,68,38,0.5)" }}
             >
               {lang === "en" ? "Read the whole deed" : "לקריאת המעשה המלא"}
-              <svg className="w-3.5 h-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+              <svg className="w-3.5 h-3.5 ltr:rotate-180" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
               </svg>
             </a>

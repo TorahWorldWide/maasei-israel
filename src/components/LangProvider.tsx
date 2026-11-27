@@ -42,11 +42,22 @@ export function LangProvider({
     document.documentElement.dir = l === "he" ? "rtl" : "ltr";
   }
 
+  // 27.11: the page flips right/left when the language changes, so it fades out
+  // quickly, flips while hidden, and fades back in (no fade for reduced motion).
   function setLang(l: Lang) {
-    setLangState(l);
-    applyLang(l);
     writeCookie(l);
     localStorage.setItem(LEGACY_KEY, l);
+    const root = document.documentElement;
+    const swap = () => {
+      setLangState(l);
+      applyLang(l);
+    };
+    if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) return swap();
+    root.classList.add("lang-fade");
+    window.setTimeout(() => {
+      swap();
+      requestAnimationFrame(() => requestAnimationFrame(() => root.classList.remove("lang-fade")));
+    }, 180);
   }
 
   return (

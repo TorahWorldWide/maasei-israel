@@ -64,9 +64,10 @@
   },
   {
    "label": "התחלה",
-   "value": "8.2.2023, היום הראשון לחילוץ",
+   "value": "7.2.2023, משלחת החילוץ נחתה והחלה לפעול",
    "claims": [
-    "c12"
+    "c12",
+    "c-aud-20261127-4"
    ]
   },
   {
@@ -113,16 +114,18 @@
       ]
      },
      {
-      "text": "הרשויות בטורקיה מדווחות שכ-6,500 מבנים קרסו, ואינספור בניינים נוספים ניזוקו.",
+      "text": "לפי מאקו, ב-11 בפברואר דיווחו הרשויות בטורקיה שכ-6,500 מבנים קרסו, ואינספור בניינים נוספים ניזוקו.",
       "claims": [
-       "c49"
+       "c49",
+       "c-aud-20261127-3"
       ]
      },
      {
-      "text": "מספר ההרוגים עלה מיום ליום, והמקורות מוסרים מספרים שונים.",
+      "text": "מספר ההרוגים עלה מיום ליום, והמקורות מוסרים מספרים שונים. לפי שר הפנים של טורקיה, בסופו של דבר נהרגו בטורקיה 53,537 בני אדם.",
       "claims": [
        "c52",
-       "c51"
+       "c51",
+       "c-aud-20261127-2"
       ]
      }
     ],
@@ -233,7 +236,6 @@
     "m46"
    ],
    "disagreements": [
-    "d6",
     "d4"
    ]
   },
@@ -344,7 +346,6 @@
     "m33"
    ],
    "disagreements": [
-    "d1",
     "d7"
    ]
   },
@@ -355,9 +356,10 @@
    "paragraphs": [
     [
      {
-      "text": "בערב יום שישי חילצו צוותי חילוץ ישראליים ילד בן 9 מתחת לבניין שקרס, אחרי שהיה לכוד יותר מ-120 שעות.",
+      "text": "בערב יום שישי חילצו צוותי חילוץ ישראליים ילד בן 9 מתחת לבניין שקרס, אחרי שהיה לכוד כ-120 שעות.",
       "claims": [
-       "c2"
+       "c2",
+       "c-aud-20261127-1"
       ]
      },
      {
@@ -500,15 +502,17 @@
     ],
     [
      {
-      "text": "ואך אמר שהמהירות שבה הגיעו לזירה היא שהביאה לתוצאות.",
+      "text": "ביום רביעי, אחרי ארבעה חילוצים, אמר ואך שהמהירות שבה הגיעו לזירה היא שהביאה לתוצאות.",
       "claims": [
-       "c26"
+       "c26",
+       "c-aud-20261127-6"
       ]
      },
      {
-      "text": "לדבריו, המשלחת הישראלית היא הגדולה ביותר, למעט אזרבייג'ן ששלחה 400 איש.",
+      "text": "לדבריו באותו יום, המשלחת הישראלית הייתה הגדולה ביותר, למעט אזרבייג'ן ששלחה 400 איש.",
       "claims": [
-       "c25"
+       "c25",
+       "c-aud-20261127-5"
       ]
      },
      {
@@ -623,30 +627,6 @@
  ],
  "disagreements": [
   {
-   "id": "d1",
-   "question": "בן כמה היה הילד שחולץ?",
-   "versions": [
-    {
-     "says": "לפי JNS, בערב יום שישי חילצו צוותי חילוץ ישראליים ילד בן 9 בשם רידוואן מתחת לבניין שקרס, לאחר שהיה לכוד יותר מ-120 שעות.",
-     "claims": [
-      "c2"
-     ]
-    },
-    {
-     "says": "לפי Jewish News, ילד בן 10 שארבעה מבני משפחתו נהרגו חולץ ביום רביעי",
-     "claims": [
-      "c21"
-     ]
-    },
-    {
-     "says": "לפי ואך בטיימס אוף ישראל, הילד שארבעה מבני משפחתו מתו באותו חדר היה בן 12",
-     "claims": [
-      "c18"
-     ]
-    }
-   ]
-  },
-  {
    "id": "d2",
    "question": "כמה אנשים חילצה המשלחת בסך הכול?",
    "versions": [
@@ -726,7 +706,7 @@
   },
   {
    "id": "d5",
-   "question": "כמה הרוגים גבתה הרעידה?",
+   "question": "כמה הרוגים דווחו בימי פעילות המשלחת?",
    "versions": [
     {
      "says": "לפי JNS, יותר מ-28,000 בטורקיה ובסוריה",
@@ -750,24 +730,6 @@
      "says": "לפי טיימס אוף ישראל, ביום רביעי אחר הצהריים לפחות 11,200",
      "claims": [
       "c52"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "d6",
-   "question": "מי עמד בראש המשלחת?",
-   "versions": [
-    {
-     "says": "לפי טיימס אוף ישראל, אל\"ם (מיל') גולן ואך הוא ראש משלחת הסיוע הישראלית",
-     "claims": [
-      "c46"
-     ]
-    },
-    {
-     "says": "לפי JNS, אל\"ם אלעד אדרי, ראש חטיבת החילוץ של פיקוד העורף, הוביל את המשלחת",
-     "claims": [
-      "c47"
      ]
     }
    ]
@@ -1274,14 +1236,6 @@
    "locator": "שורה 45"
   },
   {
-   "id": "c21",
-   "text": "לפי Jewish News, ילד בן 10 שארבעה מבני משפחתו נהרגו ברעידה חולץ גם הוא ביום רביעי.",
-   "source": "src5",
-   "quote": "A 10-year-old boy, whose four family members were killed in the earthquake, was also rescued earlier on Wednesday.",
-   "status": "confirmed",
-   "locator": "שורה 10"
-  },
-  {
    "id": "c1",
    "text": "לפי JNS, עד יום שבת חילצה משלחת \"ענפי זית\" של צה\"ל בטורקיה 19 בני אדם מההריסות, ברעידות האדמה שהרגו יותר מ-28,000 בני אדם בטורקיה ובסוריה.",
    "source": "src8",
@@ -1322,28 +1276,66 @@
    "locator": "שורה 9"
   },
   {
-   "id": "c46",
-   "text": "אל\"ם (מיל') גולן ואך הוא ראש משלחת הסיוע הישראלית.",
-   "source": "src1",
-   "quote": "the head of the aid delegation, Col. (Res.) Golan Vach, said the Israeli teams had been the most successful so far",
-   "status": "confirmed",
-   "locator": "שורה 23"
-  },
-  {
-   "id": "c47",
-   "text": "לפי JNS, אל\"ם אלעד אדרי, ראש חטיבת החילוץ של פיקוד העורף, הוביל את המשלחת.",
-   "source": "src10",
-   "quote": "The delegation is being led by Col. Elad Edri, head of the Home Front Command Search and Rescue Brigade.",
-   "status": "confirmed",
-   "locator": "שורה 9"
-  },
-  {
    "id": "c67",
    "text": "לפי Jewish News, צוות אחר הציל אישה בת 21 בלילה הקודם.",
    "source": "src5",
    "quote": "Israeli rescue teams operating in the Turkish city of Kahramanmaras managed to save a 12-year-old boy, while another team saved a 21-year-old woman last night.",
    "status": "confirmed",
    "locator": "שורה 19"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "בערב יום שישי חילצו צוותי חילוץ ישראליים ילד בן 9 מתחת לבניין שקרס, אחרי שהיה לכוד כ-120 שעות.",
+   "source": "src3",
+   "quote": "Rescue of 9-year-old Ridban alive after about 120 hours under the rubble",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "מספר ההרוגים עלה מיום ליום, והמקורות מוסרים מספרים שונים. לפי שר הפנים של טורקיה, בסופו של דבר נהרגו בטורקיה 53,537 בני אדם.",
+   "source": "src9001",
+   "quote": "killed 53,537 people in the country, the interior minister said",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "לפי מאקו, ב-11 בפברואר דיווחו הרשויות בטורקיה שכ-6,500 מבנים קרסו, ואינספור בניינים נוספים ניזוקו.",
+   "source": "src7",
+   "quote": "הרשויות בטורקיה מדווחות שכ-6,500 מבנים קרסו ברחבי המדינה",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-4",
+   "text": "7.2.2023, משלחת החילוץ נחתה והחלה לפעול",
+   "source": "src1",
+   "quote": "IDF search and rescue teams begin operating in a bid to find survivors after an earthquake in Turkey on February 7, 2023",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261127-5",
+   "text": "לדבריו באותו יום, המשלחת הישראלית הייתה הגדולה ביותר, למעט אזרבייג'ן ששלחה 400 איש.",
+   "source": "src1",
+   "quote": "The Israeli delegation is the largest, with the exception of Azerbaijan which sent 400 people",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261127-6",
+   "text": "ביום רביעי, אחרי ארבעה חילוצים, אמר ואך שהמהירות שבה הגיעו לזירה היא שהביאה לתוצאות.",
+   "source": "src1",
+   "quote": "The speed with which we reached the scene is what brought us to these results",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
   }
  ],
  "sources": [
@@ -1406,6 +1398,13 @@
    "label": "JNS, IDF delegation lands in Turkey",
    "url": "https://www.jns.org/israel-news/idf-delegation-lands-in-turkey-prepares-to-set-up-field-hospital",
    "kind": "press"
+  },
+  {
+   "id": "src9001",
+   "label": "Gulf News (AFP), Nearly 60,000 killed in 2023 Turkey-Syria quake: new toll, 2.2.2024",
+   "url": "https://gulfnews.com/world/mena/nearly-60000-killed-in-2023-turkey-syria-quake-new-toll-1.1706864966200",
+   "kind": "press",
+   "date": "2026-11-27"
   }
  ],
  "media": [

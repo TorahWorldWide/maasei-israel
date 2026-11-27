@@ -233,9 +233,10 @@
       ]
      },
      {
-      "text": "לפי הטיימס אוף ישראל, המצלמה בעלת העדשה האחת נוצרה בהשראת הראייה האנושית, המשתמשת בעין אחת לתפיסת עומק.",
+      "text": "לפי מגזין מכון ויצמן, הרעיון של שעשוע נשען על הראייה האנושית: אם האדם תופס עומק גם כשרק עין אחת שלו פעילה, גם מצלמה אחת יכולה להספיק.",
       "claims": [
-       "c26"
+       "c26",
+       "c-aud-20261127-1"
       ]
      }
     ],
@@ -1387,6 +1388,15 @@
    "quote": "whose revenues in 2016 will total about $350 million, generating some $200m.",
    "status": "confirmed",
    "locator": "שורה 40"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "לפי מגזין מכון ויצמן, הרעיון של שעשוע נשען על הראייה האנושית: אם האדם תופס עומק גם כשרק עין אחת שלו פעילה, גם מצלמה אחת יכולה להספיק.",
+   "source": "src9001",
+   "quote": "If the human eye can acquire depth perception and provide warning even when only one eye is active",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1473,6 +1483,13 @@
    "label": "Automotive Hall of Fame, Amnon Shashua",
    "url": "https://automotivehalloffame.org/honoree/amnon-shashua/",
    "kind": "press"
+  },
+  {
+   "id": "src9001",
+   "label": "Weizmann Institute of Science, Weizmann Compass, 'When basic science drives invention'",
+   "url": "https://www.weizmann.ac.il/WeizmannCompass/sections/people-behind-the-science/when-basic-science-drives-invention",
+   "kind": "organisation",
+   "date": "2026-11-27"
   }
  ],
  "media": [

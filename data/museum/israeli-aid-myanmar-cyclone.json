@@ -1,15 +1,16 @@
 {
  "schema": "maasei-museum/1",
  "slug": "israeli-aid-myanmar-cyclone",
- "deed": "צוותי סיוע ישראליים סייעו בשיקום מיאנמר לאחר ציקלון קטלני",
+ "deed": "צוותי סיוע ישראליים יצאו לתת סיוע מיידי לנפגעי ציקלון קטלני במיאנמר",
  "canonical_type": "rescue-operation",
  "year": "2008",
  "title": "צוותי סיוע ישראליים יצאו למיאנמר אחרי הציקלון נארגיס, עם רופאים, אחיות ומומחי מים",
  "trailer": [
   {
-   "text": "IsraAID הוא ארגון סיוע ישראלי שחברי הנהלתו מייצגים 15 ארגונים לא ממשלתיים בישראל.",
+   "text": "ב-2008 היה IsraAID ארגון גג ישראלי של מתנדבים לסיוע הומניטרי, שחברי הנהלתו ייצגו 15 ארגונים לא ממשלתיים בישראל.",
    "claims": [
-    "c6"
+    "c6",
+    "c-aud-20261127-9"
    ]
   },
   {
@@ -35,10 +36,11 @@
    ]
   },
   {
-   "text": "לפי דיווח שפורסם ביום יציאת המשלחות, משרד החוץ שלח צוותים, וישראל שלחה גם ציוד ובו יריעות פלסטיק, מזון, מכשירי חשמל ביתיים ומסנני מים.",
+   "text": "לפי Ynetnews, משרד החוץ הודיע שישלח חבילת סיוע ראשונית של תרופות וציוד רפואי בשווי 100 אלף דולר, במשותף עם הג'וינט.",
    "claims": [
     "c23",
-    "c24"
+    "c24",
+    "c-aud-20261127-3"
    ]
   }
  ],
@@ -213,15 +215,19 @@
       ]
      },
      {
-      "text": "בשיאה היא מנתה 1,200 איש.",
+      "text": "לפי Arutz Sheva, בשיאה היא מנתה 1,200 איש.",
       "claims": [
-       "c51"
+       "c51",
+       "c-aud-20261127-7",
+       "c-aud-20261127-8"
       ]
      }
     ]
    ],
    "media": [],
-   "disagreements": []
+   "disagreements": [
+    "d9002"
+   ]
   },
   {
    "id": "s3",
@@ -292,7 +298,8 @@
     "m31"
    ],
    "disagreements": [
-    "d2"
+    "d2",
+    "d9001"
    ]
   },
   {
@@ -347,9 +354,10 @@
    "paragraphs": [
     [
      {
-      "text": "לפי דיווח שפורסם ביום יציאת המשלחות, משרד החוץ שלח צוותים מיחידת החיפוש וההצלה של צה\"ל.",
+      "text": "לפי Arutz Sheva, משרד החוץ שלח צוותים מיחידת החיפוש וההצלה של צה\"ל.",
       "claims": [
-       "c23"
+       "c23",
+       "c-aud-20261127-2"
       ]
      },
      {
@@ -547,9 +555,10 @@
      ]
     },
     {
-     "says": "לפי וואלה!, בדיווח מאוחר יותר המספר עלה ל-133 אלף",
+     "says": "לפי הטלוויזיה הממלכתית במיאנמר, ב-16 במאי 2008 היו 77,738 הרוגים ועוד 55,917 נעדרים, יחד יותר מ-130 אלף הרוגים ונעדרים",
      "claims": [
-      "c36"
+      "c36",
+      "c-aud-20261127-1"
      ]
     }
    ]
@@ -568,6 +577,48 @@
      "says": "לפי Arutz Sheva, משרד החוץ שלח צוות של 10 רופאים ואחיות",
      "claims": [
       "c23"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9001",
+   "question": "מה היה גודל הצוות הרפואי הישראלי, ומי שלח אותו?",
+   "versions": [
+    {
+     "says": "Ynetnews: ארגון FIRST הכין צוות של 12 אנשי רפואה והצלה",
+     "claims": [
+      "c-aud-20261127-4"
+     ]
+    },
+    {
+     "says": "JTA: בני ברית מימנו את IsraAID כדי לשלוח 10 עובדי סיוע, ובהם פרמדיקים, רופאים, אחיות ומומחי מים",
+     "claims": [
+      "c-aud-20261127-5"
+     ]
+    },
+    {
+     "says": "Arutz Sheva: משרד החוץ שלח צוות של 10 רופאים ואחיות",
+     "claims": [
+      "c-aud-20261127-6"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9002",
+   "question": "כמה יהודים חיו בבורמה בשיא הקהילה?",
+   "versions": [
+    {
+     "says": "Arutz Sheva: בשיאה מנתה הקהילה 1,200 איש",
+     "claims": [
+      "c-aud-20261127-7"
+     ]
+    },
+    {
+     "says": "Aish: בשנות ה-30 חיו בבורמה כ-3,000 יהודים",
+     "claims": [
+      "c-aud-20261127-8"
      ]
     }
    ]
@@ -1048,6 +1099,87 @@
    "quote": "המידע שאנו מקבלים מצביע על כך שמניין ההרוגים באזור דלתת נהר האירוואדי עלול להיות גבוה יותר מ-100 אלף",
    "status": "confirmed",
    "locator": "שורה 4"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "לפי הטלוויזיה הממלכתית במיאנמר, ב-16 במאי 2008 היו 77,738 הרוגים ועוד 55,917 נעדרים, יחד יותר מ-130 אלף הרוגים ונעדרים",
+   "source": "src9001",
+   "quote": "state television in the army-ruled former Burma said 77,738 people were dead and another 55,917 missing",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "לפי Arutz Sheva, משרד החוץ שלח צוותים מיחידת החיפוש וההצלה של צה\"ל.",
+   "source": "src4",
+   "quote": "The Foreign Ministry sent teams from the IDF's highly trained search-and-rescue team",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "לפי Ynetnews, משרד החוץ הודיע שישלח חבילת סיוע ראשונית של תרופות וציוד רפואי בשווי 100 אלף דולר, במשותף עם הג'וינט.",
+   "source": "src7",
+   "quote": "The Foreign Ministry will be sending an initial $100,000 aid package comprising medicine and medical equipment",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-4",
+   "text": "Ynetnews: ארגון FIRST הכין צוות של 12 אנשי רפואה והצלה",
+   "source": "src7",
+   "quote": "FIRST, which is putting together a team of 12 medical and rescue professionals",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-5",
+   "text": "JTA: בני ברית מימנו את IsraAID כדי לשלוח 10 עובדי סיוע, ובהם פרמדיקים, רופאים, אחיות ומומחי מים",
+   "source": "src9002",
+   "quote": "send 10 relief workers, including paramedics, doctors, nurses and water specialists",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-6",
+   "text": "Arutz Sheva: משרד החוץ שלח צוות של 10 רופאים ואחיות",
+   "source": "src4",
+   "quote": "a 10-member team of top Israeli doctors and nurses",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-7",
+   "text": "Arutz Sheva: בשיאה מנתה הקהילה 1,200 איש",
+   "source": "src4",
+   "quote": "At its peak, the Jewish population in Burma was only 1,200",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-8",
+   "text": "Aish: בשנות ה-30 חיו בבורמה כ-3,000 יהודים",
+   "source": "src9003",
+   "quote": "By the 1930s, about 3,000 Jews lived in Burma",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-9",
+   "text": "ב-2008 היה IsraAID ארגון גג ישראלי של מתנדבים לסיוע הומניטרי, שחברי הנהלתו ייצגו 15 ארגונים לא ממשלתיים בישראל.",
+   "source": "src1",
+   "quote": "The executive members of IsraAID who represent 15 non-governmental organizations in Israel",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1134,6 +1266,27 @@
    "label": "RTÉ News: Burma cyclone death toll",
    "url": "https://www.ynet.co.il/articles/0,7340,L-3540792,00.html",
    "kind": "press"
+  },
+  {
+   "id": "src9001",
+   "label": "The Irish Times, Burma says 130,000 dead or missing, 16 May 2008",
+   "url": "https://www.irishtimes.com/news/burma-says-130-000-dead-or-missing-1.822847",
+   "kind": "press",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9002",
+   "label": "JTA, Jewish groups mobilize for Myanmar, 6 May 2008",
+   "url": "https://www.jta.org/2008/05/06/default/jewish-groups-mobilize-for-myanmar",
+   "kind": "press",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9003",
+   "label": "Aish, Jews of Myanmar: 10 Facts",
+   "url": "https://aish.com/jews-of-myanmar-10-facts/",
+   "kind": "other",
+   "date": "2026-11-27"
   }
  ],
  "media": [

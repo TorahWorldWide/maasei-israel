@@ -103,9 +103,10 @@
       ]
      },
      {
-      "text": "תקליטון החזיק לכל היותר 1.44 מגה-בייט.",
+      "text": "התקליטון הנפוץ החזיק 1.44 מגה-בייט.",
       "claims": [
-       "c21"
+       "c21",
+       "c-aud-20261127-3"
       ]
      }
     ],
@@ -472,9 +473,10 @@
       ]
      },
      {
-      "text": "הן טאן (Henn Tan) הגיש בקשת פטנט על המצאתו ב-2000, חודש לפני יריד הטכנולוגיה בגרמניה שבו הציגה Trek את ההתקן.",
+      "text": "Trek, בראשות הן טאן (Henn Tan), הגישה בקשת פטנט בסינגפור ב-21 בפברואר 2000, כשבוע לפני יריד הטכנולוגיה בגרמניה שבו הציגה את ההתקן.",
       "claims": [
-       "c55"
+       "c55",
+       "c-aud-20261127-1"
       ]
      },
      {
@@ -499,9 +501,10 @@
       ]
      },
      {
-      "text": "בית משפט לערעורים בבריטניה לא השתכנע, וב-2008 איבדה Trek את הפטנט שלה שם.",
+      "text": "בבריטניה לא השתכנעו: ב-2006 ביטל משרד הפטנטים הבריטי את הפטנט של Trek, וב-2008 דחה בית המשפט הגבוה את ערעורה.",
       "claims": [
-       "c57"
+       "c57",
+       "c-aud-20261127-2"
       ]
      },
      {
@@ -1068,6 +1071,33 @@
    "quote": "November 19, 2006 -- SanDisk® Corporation (NASDAQ:SNDK - News) today announced the completion of its acquisition",
    "status": "confirmed",
    "locator": "שורה 1"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "Trek, בראשות הן טאן (Henn Tan), הגישה בקשת פטנט בסינגפור ב-21 בפברואר 2000, כשבוע לפני יריד הטכנולוגיה בגרמניה שבו הציגה את ההתקן.",
+   "source": "src9001",
+   "quote": "On 21 February 2000, Trek filed an application for a Singapore patent",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "בבריטניה לא השתכנעו: ב-2006 ביטל משרד הפטנטים הבריטי את הפטנט של Trek, וב-2008 דחה בית המשפט הגבוה את ערעורה.",
+   "source": "src9002",
+   "quote": "dated 8 November 2006, to revoke patent number GB 2371653",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "התקליטון הנפוץ החזיק 1.44 מגה-בייט.",
+   "source": "src9003",
+   "quote": "IBM has launched two PS/2 microcomputers, with a 2.88MB formatted FDD, double the 1.44MB capacity common today.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1136,6 +1166,27 @@
    "label": "SanDisk press release (Design & Reuse): SanDisk Completes Acquisition of msystems",
    "url": "https://design-reuse.com/news/14720/sandisk-acquisition-msystems.html",
    "kind": "press"
+  },
+  {
+   "id": "src9001",
+   "label": "Singapore Court of Appeal, Trek Technology (Singapore) Pte Ltd v FE Global Electronics, [2005] SGCA 55",
+   "url": "https://www.elitigation.sg/gd/s/2005_SGCA_55",
+   "kind": "court",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9002",
+   "label": "High Court of Justice, Patents Court, M-Systems Flash Disk Pioneers Ltd v Trek 2000 International Ltd [2008] EWHC 102 (Pat), 28 Jan 2008",
+   "url": "https://caselaw.nationalarchives.gov.uk/ewhc/pat/2008/102",
+   "kind": "court",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9003",
+   "label": "StorageNewsletter, History 1991: Superfloppy Drives Coming Along, 21 Feb 2020",
+   "url": "https://www.storagenewsletter.com/2020/02/21/history-1991-superfloppy-drives-coming-along/",
+   "kind": "press",
+   "date": "2026-11-27"
   }
  ],
  "media": [

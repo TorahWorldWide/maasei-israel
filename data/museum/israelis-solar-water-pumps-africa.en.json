@@ -1,7 +1,7 @@
 {
  "schema": "maasei-museum/1",
  "slug": "israelis-solar-water-pumps-africa",
- "deed": "ישראלים מתקינים משאבות מים סולאריות בכפרים באפריקה — שישה מיליון איש מקבלים מים נקיים",
+ "deed": "Israelis install solar water pumps in African villages — six million people receive clean water",
  "canonical_type": "ongoing-charity",
  "year": "2008",
  "title": "Sivan Yaari's Israeli nonprofit pumps clean water with solar power to villages in Africa",
@@ -219,9 +219,10 @@
       ]
      },
      {
-      "text": "According to the Jerusalem Post, the towers hold the panels, the water tank and the pump.",
+      "text": "According to the Jerusalem Post, the towers hold the panels and the water tank.",
       "claims": [
-       "c21"
+       "c21",
+       "c-aud-20261127-2"
       ]
      }
     ],
@@ -268,7 +269,8 @@
     "m6"
    ],
    "disagreements": [
-    "d2"
+    "d2",
+    "d9003"
    ]
   },
   {
@@ -447,9 +449,10 @@
       ]
      },
      {
-      "text": "According to ISRAEL21c, Karamoja in Uganda is the region that was discussed with Herzl in 1903 as a possible refuge for Jews.",
+      "text": "According to ISRAEL21c, Karamoja in Uganda is the region that was discussed with Herzl in 1903 as a possible refuge for Jews, but the land actually offered to Herzl was in British East Africa, today's Kenya, not in Uganda.",
       "claims": [
-       "c72"
+       "c72",
+       "c-aud-20261127-1"
       ]
      }
     ],
@@ -487,17 +490,19 @@
       ]
      },
      {
-      "text": "In remarks quoted by JNS, Yaari said that although the organization had by then helped more than a million people, it is only a drop in the ocean.",
+      "text": "Years earlier, at a ceremony marking the organization's tenth anniversary, Yaari told JNS that although the organization had helped more than a million people, it was only a drop in the ocean.",
       "claims": [
-       "c76"
+       "c76",
+       "c-aud-20261127-8"
       ]
      }
     ],
     [
      {
-      "text": "According to the encyclopedia Encyclopedia.com, Joseph Chamberlain, the British colonial secretary, offered Herzl the Guas Ngishu plateau near Nairobi in East Africa.",
+      "text": "According to the encyclopedia Encyclopedia.com, Joseph Chamberlain, the British colonial secretary, offered Herzl the Guas Ngishu plateau in East Africa.",
       "claims": [
-       "c78"
+       "c78",
+       "c-aud-20261127-13"
       ]
      }
     ]
@@ -507,7 +512,8 @@
    ],
    "disagreements": [
     "d1",
-    "d5"
+    "d5",
+    "d9001"
    ]
   },
   {
@@ -517,9 +523,10 @@
    "paragraphs": [
     [
      {
-      "text": "According to ISRAEL21c, a year after receiving this status, the organization won the Innovation Award at the UN development expo in Nairobi.",
+      "text": "According to ISRAEL21c, in 2012 the organization was granted Special Consultative Status at the UN Economic and Social Council (ECOSOC), and the following year it won the Innovation Award at the UN development expo in Nairobi.",
       "claims": [
-       "c57"
+       "c57",
+       "c-aud-20261127-7"
       ]
      }
     ],
@@ -564,9 +571,11 @@
       ]
      },
      {
-      "text": "The drill was sent to her, but it did not arrive fast enough, and the baby died two days later.",
+      "text": "According to ynet, Yaari said she sent the drill, but it was not fast enough, and the baby died two days later.",
       "claims": [
-       "c68"
+       "c68",
+       "c-aud-20261127-5",
+       "c-aud-20261127-6"
       ]
      }
     ],
@@ -592,7 +601,9 @@
     ]
    ],
    "media": [],
-   "disagreements": []
+   "disagreements": [
+    "d9002"
+   ]
   }
  ],
  "disagreements": [
@@ -625,9 +636,10 @@
      ]
     },
     {
-     "says": "Publication of the Embassy of Tanzania: more than one and a half million people",
+     "says": "Publication of the Embassy of Tanzania (June 2019): more than one and a half million people",
      "claims": [
-      "c46"
+      "c46",
+      "c-aud-20261127-11"
      ]
     }
    ]
@@ -643,9 +655,10 @@
      ]
     },
     {
-     "says": "Yaari in an interview with ynet: more than 500 villages",
+     "says": "Yaari in an interview with ynet, about 13 years after the organization was founded: more than 500 villages",
      "claims": [
-      "c47"
+      "c47",
+      "c-aud-20261127-12"
      ]
     }
    ]
@@ -732,6 +745,60 @@
      "says": "Yaari to ynet: more than 450 million people whom the organization has not yet reached",
      "claims": [
       "c8"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9001",
+   "question": "How many refugees did the organization's joint project with UNICEF in Cameroon reach?",
+   "versions": [
+    {
+     "says": "Jerusalem Post, quoting Yaari: tens of thousands of refugees",
+     "claims": [
+      "c-aud-20261127-3"
+     ]
+    },
+    {
+     "says": "ISRAEL21c: 250,000 refugees from the Central African Republic",
+     "claims": [
+      "c-aud-20261127-4"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9002",
+   "question": "What did Yaari do to help the young mother in Karamoja?",
+   "versions": [
+    {
+     "says": "ynet: Yaari sent the drill, but it was not fast enough",
+     "claims": [
+      "c-aud-20261127-5"
+     ]
+    },
+    {
+     "says": "YPO: Yaari drove six hours south to fill a van with beans, maize and water, and by the time she came back it was too late",
+     "claims": [
+      "c-aud-20261127-6"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9003",
+   "question": "How much does a village water project cost?",
+   "versions": [
+    {
+     "says": "FAQ on the organization's website: up to $65,000 for a village of at least 3,000 people",
+     "claims": [
+      "c-aud-20261127-9"
+     ]
+    },
+    {
+     "says": "The organization's homepage: sponsor a whole village for $85,000",
+     "claims": [
+      "c-aud-20261127-10"
      ]
     }
    ]
@@ -1322,6 +1389,123 @@
    "quote": "Bar-Ilan University celebrated its 70th anniversary on Monday night with a gala in Ramat Gan",
    "status": "confirmed",
    "locator": "שורה 7"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "לפי ישראל21c, קרמוג'ה שבאוגנדה היא האזור שעליו דובר עם הרצל ב-1903 כמקלט אפשרי ליהודים, אבל השטח שהוצע אז להרצל היה במזרח אפריקה הבריטית, בקניה של היום, ולא באוגנדה.",
+   "source": "src13",
+   "quote": "not Uganda, as Chamberlain and others later erroneously called it",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "לפי ג'רוזלם פוסט, המגדלים מחזיקים את הפאנלים ואת מיכל המים.",
+   "source": "src3",
+   "quote": "construct 10-meter towers which house the solar panels, water tank",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "ג'רוזלם פוסט, בציטוט של יערי: עשרות אלפי פליטים",
+   "source": "src11",
+   "quote": "to provide solar power, clean water and healthcare to tens of thousands of refugees",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261127-4",
+   "text": "ישראל21c: 250,000 פליטים מהרפובליקה המרכז-אפריקאית",
+   "source": "src7",
+   "quote": "Among those benefiting from this project are 250,000 refugees from the Central African Republic.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-5",
+   "text": "ynet: יערי שלחה את המקדחה, אבל זה לא היה מהר מספיק",
+   "source": "src2",
+   "quote": "שלחתי את המקדחה, אבל זה לא היה מהר מספיק",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-6",
+   "text": "YPO: יערי נסעה שש שעות דרומה כדי למלא טנדר בשעועית, תירס ומים, וכשחזרה כבר היה מאוחר מדי",
+   "source": "src9001",
+   "quote": "the hurried six-hour drive south to pack a van with beans, maize and water",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-7",
+   "text": "לפי ישראל21c, ב-2012 קיבל הארגון מעמד מייעץ מיוחד במועצה הכלכלית והחברתית של האו\"ם (ECOSOC), ובשנה שאחריה זכה בפרס החדשנות בתערוכת הפיתוח של האו\"ם בנאירובי.",
+   "source": "src7",
+   "quote": "iA was granted Special Consultative Status to the United Nations Economic and Social Council in 2012",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-8",
+   "text": "שנים קודם לכן, בטקס לציון עשור לארגון, אמרה יערי ל-JNS שאף שהעמותה סייעה ליותר ממיליון איש, זו רק טיפה בים.",
+   "source": "src10",
+   "quote": "a 10-year anniversary for IA",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-9",
+   "text": "שאלות נפוצות באתר הארגון: עד 65,000 דולר לכפר של לפחות 3,000 איש",
+   "source": "src5",
+   "quote": "costs up to $65,000 for a village of a minimum of 3000 people",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-10",
+   "text": "דף הבית של הארגון: חסות על כפר שלם ב-85,000 דולר",
+   "source": "src4",
+   "quote": "Sponsor a village for $85,000",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-11",
+   "text": "פרסום בשגרירות טנזניה (יוני 2019): יותר ממיליון וחצי איש",
+   "source": "src9",
+   "quote": "has impacted more than 1.5 million lives across Africa",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-12",
+   "text": "יערי בראיון ל-ynet, כ-13 שנה אחרי הקמת הארגון: יותר מ-500 כפרים",
+   "source": "src2",
+   "quote": "שכבר 13 שנה מניעה את עמותת",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-13",
+   "text": "לפי האנציקלופדיה Encyclopedia.com, ג'וזף צ'מברליין, שר המושבות הבריטי, הציע להרצל את רמת גואס נגישו שבמזרח אפריקה.",
+   "source": "src13",
+   "quote": "offered Herzl the Guas Ngishu plateau",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1408,6 +1592,13 @@
    "label": "JNS: Bar-Ilan marks 70 years with honorary degrees for Gal Gadot, Steve Witkoff",
    "url": "https://www.jns.org/news/israel-news/bar-ilan-marks-70-years-with-honorary-degrees-for-gal-gadot-steve-witkoff",
    "kind": "press"
+  },
+  {
+   "id": "src9001",
+   "label": "YPO, Reaching the Next Village: Sivan Yaari's solar-powered path to water across Africa, March 12, 2026",
+   "url": "https://www.ypo.org/2026/03/reaching-the-next-village-sivan-yaaris-solar-powered-path-to-water-across-africa/",
+   "kind": "press",
+   "date": "2026-11-27"
   }
  ],
  "media": [

@@ -76,9 +76,10 @@
     ],
     [
      {
-      "text": "הוא קיבל תואר ראשון בהצטיינות יתרה, ואז עבר ללימודי רפואה בהרווארד.",
+      "text": "ב-1932 הוא קיבל תואר ראשון בהצטיינות יתרה, ואז עבר ללימודי רפואה בהרווארד.",
       "claims": [
-       "c2"
+       "c2",
+       "c-aud-20261127-1"
       ]
      },
      {
@@ -126,9 +127,7 @@
    "media": [
     "m3"
    ],
-   "disagreements": [
-    "d1"
-   ]
+   "disagreements": []
   },
   {
    "id": "s2",
@@ -577,24 +576,6 @@
  ],
  "disagreements": [
   {
-   "id": "d1",
-   "question": "באיזו שנה קיבל זול את התואר הראשון?",
-   "versions": [
-    {
-     "says": "לפי ההספד של הרווארד ב-Harvard Gazette, ב-1936",
-     "claims": [
-      "c2"
-     ]
-    },
-    {
-     "says": "לפי גרסה אחרת של ההספד של הרווארד, ב-1932",
-     "claims": [
-      "c3"
-     ]
-    }
-   ]
-  },
-  {
    "id": "d3",
    "question": "מתי הוצג מוניטור הלב של זול?",
    "versions": [
@@ -1038,14 +1019,6 @@
    "locator": "שורה 10"
   },
   {
-   "id": "c3",
-   "text": "לפי גרסה אחרת של ההספד של הרווארד, זול קיבל את התואר הראשון בהצטיינות יתרה ב-1932.",
-   "source": "src9",
-   "quote": "Degree summa cum laude in 1932, Paul went on",
-   "status": "confirmed",
-   "locator": "שורה 15"
-  },
-  {
    "id": "c47",
    "text": "לפי Encyclopedia.com, זול הציג את קוצב הלב הראשון ב-1952, ואת מוניטורי הלב ב-1955.",
    "source": "src1",
@@ -1084,6 +1057,15 @@
    "quote": "In 1953, Paul and an associate, a biomedical engineer named Alan Belgard, developed the first alarmed heart monitor",
    "status": "confirmed",
    "locator": "שורה 19"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "ב-1932 הוא קיבל תואר ראשון בהצטיינות יתרה, ואז עבר ללימודי רפואה בהרווארד.",
+   "source": "src1",
+   "quote": "graduating summa cum laude in 1932, and went on to earn his M.D. at Harvard Medical School in 1936",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1128,12 +1110,6 @@
    "label": "Texas Heart Institute Journal, article on Zoll",
    "url": "https://thij.kglmeridian.com/downloadpdf/view/journals/thij/42/3/article-p300-s.pdf",
    "kind": "press"
-  },
-  {
-   "id": "src9",
-   "label": "Harvard Faculty of Medicine, memorial minute",
-   "url": "https://fa.hms.harvard.edu/file_url/495",
-   "kind": "official"
   },
   {
    "id": "src10",

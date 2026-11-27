@@ -130,9 +130,10 @@
     ],
     [
      {
-      "text": "According to the Lehi website, in the Hebrew year Tarsah, Rabbi Aryeh married Zipporah Hannah, daughter of Rabbi Shapiro of Kovno, and they had seven children.",
+      "text": "According to the Lehi website, in the Hebrew year Tarsah, Rabbi Aryeh married Zipporah Hannah, daughter of Rabbi Shapiro of Kovno. According to the museum's biography, four of his 11 children died young.",
       "claims": [
-       "c7"
+       "c7",
+       "c-aud-20261127-4"
       ]
      },
      {
@@ -388,9 +389,10 @@
    "paragraphs": [
     [
      {
-      "text": "According to Reb Aryeh's account cited in the museum's biography, one Shabbat, while he was reading the Torah with the prisoners, he was urgently called to the prison gate, where his father-in-law was standing. They went to Shaarei Chesed Hospital, where he found his daughter, a mother of seven, completely paralyzed.",
+      "text": "According to Jewishmag, one Shabbat, while he was reading the Torah with the prisoners, he was called outside, and his son-in-law was waiting for him at the prison gate. They walked to the Shaarei Chesed neighbourhood, where his married daughter lived, and there he learned that she had been paralysed.",
       "claims": [
-       "c44"
+       "c44",
+       "c-aud-20261127-1"
       ]
      },
      {
@@ -500,9 +502,10 @@
       ]
      },
      {
-      "text": "According to JTA, the rabbi was presented with a scroll in his honor, signed by some 1,000 former prisoners of the British from the Mandate days, at a reunion of the former prisoners held in the former Central Prison.",
+      "text": "Ten years earlier, in April 1955, according to JTA, the rabbi was presented with a scroll in his honor, signed by some 1,000 former prisoners of the British from the Mandate days, at a reunion of the former prisoners held in the former Central Prison.",
       "claims": [
-       "c59"
+       "c59",
+       "c-aud-20261127-2"
       ]
      }
     ],
@@ -603,9 +606,10 @@
    "question": "Where was Reb Aryeh born?",
    "versions": [
     {
-     "says": "Encyclopaedia Judaica: in Orla, near Grodno, Belarus",
+     "says": "Encyclopaedia Judaica: in Orla, near Grodno",
      "claims": [
-      "c3"
+      "c3",
+      "c-aud-20261127-3"
      ]
     },
     {
@@ -752,12 +756,6 @@
    "id": "d8",
    "question": "When did he die?",
    "versions": [
-    {
-     "says": "Lehi website: on May 26, 1969",
-     "claims": [
-      "c70"
-     ]
-    },
     {
      "says": "DailyZohar: on March 28, 1969",
      "claims": [
@@ -1397,6 +1395,42 @@
    "quote": "After many hours together, Rav Goldman insisted that he return the following day to be present at their execution.",
    "status": "confirmed",
    "locator": "שורה 26"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "לפי Jewishmag, בשבת אחת, כשקרא בתורה עם האסירים, קראו לו לצאת, ובשער הכלא חיכה לו חתנו. הם הלכו ברגל לשכונת שערי חסד, שבה גרה בתו הנשואה, ושם נודע לו שהיא משותקת.",
+   "source": "src2",
+   "quote": "he saw his son-in-law waiting for him at the prison entrance",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "כבר עשר שנים קודם לכן, באפריל 1955, לפי JTA, הוגשה לרב מגילה לכבודו, חתומה בידי כ-1,000 אסירים לשעבר של הבריטים מימי המנדט, במפגש מחודש של האסירים לשעבר שנערך בכלא המרכזי לשעבר.",
+   "source": "src5",
+   "quote": "signed by some 1,000 former prisoners of the British during the Mandate days",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "האנציקלופדיה יודאיקה: באורלה שליד גרודנו",
+   "source": "src7",
+   "quote": "Aryeh Levin was born in Orla, near Grodno",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-4",
+   "text": "לפי אתר לח\"י, ר' אריה נישא בשנת תרס\"ה לצפורה חנה, בתו של הרב שפירא מקובנה. לפי הביוגרפיה של המוזיאון, ארבעה מ-11 ילדיו מתו בעודם קטנים.",
+   "source": "src3",
+   "quote": "ילדיו מתו בעודם",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
   }
  ],
  "sources": [

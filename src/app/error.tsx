@@ -20,7 +20,7 @@ export default function ErrorPage({ reset }: { error: Error & { digest?: string 
           onClick={reset}
           className="px-6 py-2.5 rounded-full bg-gradient-to-b from-[#e6c66e] to-[#c9a84a] text-[#0a1834] font-semibold"
         >
-          לנסות שוב
+          לנסות שוב · Try again
         </button>
       </div>
     </main>

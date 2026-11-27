@@ -50,11 +50,13 @@ export async function getMuseumReel(): Promise<{ entries: Entry[]; cards: ReelCa
     const tr = (he.trailer ?? []).map((s) => s.text);
     const trEn = (en?.trailer ?? []).map((s) => s.text);
     const yearNum = parseInt(he.year ?? "", 10);
+    // 27.11: the English file keeps the Hebrew name in "deed"; its English name is "title"
+    const enName = [en?.title, en?.deed].find((x) => x && !/[֐-׿]/.test(x));
     entries.push({
       id: `museum-${slug}`,
       href: `/museum/${slug}`,
       title: he.deed ?? he.title ?? slug,
-      title_en: en?.deed ?? en?.title,
+      title_en: enName,
       description: tr.slice(0, 2).join(" "),
       description_en: trEn.length ? trEn.slice(0, 2).join(" ") : undefined,
       category: "תרומה לעולם",
@@ -67,7 +69,7 @@ export async function getMuseumReel(): Promise<{ entries: Entry[]; cards: ReelCa
     cards.push({
       slug,
       deed: he.deed ?? slug,
-      deedEn: en?.deed,
+      deedEn: enName,
       year: he.year,
       line: tr[0] ?? "",
       lineEn: trEn[0],

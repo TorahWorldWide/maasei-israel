@@ -1,7 +1,7 @@
 {
  "schema": "maasei-museum/1",
  "slug": "abraham-heschel-selma-march-king",
- "deed": "הרב אברהם יהושע השל צועד בסלמה לצד מרטין לותר קינג",
+ "deed": "Rabbi Abraham Joshua Heschel marching in Selma alongside Martin Luther King",
  "canonical_type": "individual-heroism",
  "year": "1965",
  "title": "Rabbi Abraham Joshua Heschel marched in Selma alongside Martin Luther King for voting rights",
@@ -116,9 +116,10 @@
     ],
     [
      {
-      "text": "According to a review of the biography written by Julian Zelizer, Heschel left Germany only a few months before the outbreak of the war, thanks to the offer of a fellowship at the Reform Hebrew Union College in Cincinnati, Ohio.",
+      "text": "In October 1938 the Gestapo arrested him and deported him from Germany to Poland; he later reached the United States thanks to an appointment at the Reform Hebrew Union College in Cincinnati, Ohio.",
       "claims": [
-       "c28"
+       "c28",
+       "c-aud-20261127-1"
       ]
      },
      {
@@ -144,9 +145,7 @@
    "media": [
     "m5"
    ],
-   "disagreements": [
-    "d2"
-   ]
+   "disagreements": []
   },
   {
    "id": "s2",
@@ -309,9 +308,10 @@
       ]
      },
      {
-      "text": "According to Susannah Heschel, Mrs. Jackson told her that on the morning of the march she saw King, her father Rabbi Heschel and a priest in the living room of her home, each praying in his own way in a different corner of the room, and they all said psalms just before the march began.",
+      "text": "According to Susannah Heschel, Mrs. Jackson told her that on the morning of the march she saw King, her father Rabbi Heschel and a priest in the living room of her home, each praying in his own way in a different corner of the room.",
       "claims": [
-       "c60"
+       "c60",
+       "c-aud-20261127-3"
       ]
      },
      {
@@ -615,24 +615,6 @@
    ]
   },
   {
-   "id": "d2",
-   "question": "How long before the war did Heschel leave Europe?",
-   "versions": [
-    {
-     "says": "According to the Jewish Chronicle, Heschel got out of Germany a few months before the outbreak of the war",
-     "claims": [
-      "c28"
-     ]
-    },
-    {
-     "says": "According to PBS, Heschel escaped from Europe just about six weeks before World War II",
-     "claims": [
-      "c57"
-     ]
-    }
-   ]
-  },
-  {
    "id": "d3",
    "question": "Who invited Heschel to the Chicago conference, and who organized it?",
    "versions": [
@@ -643,9 +625,10 @@
      ]
     },
     {
-     "says": "According to Susannah Heschel, the conference was organized by the National Conference of Christians and Jews",
+     "says": "According to the King Institute at Stanford, the conference was initiated by a coalition of the National Council of Churches, the Synagogue Council of America and the National Catholic Welfare Conference",
      "claims": [
-      "c46"
+      "c46",
+      "c-aud-20261127-2"
      ]
     },
     {
@@ -1121,14 +1104,6 @@
    "locator": "שורה 6"
   },
   {
-   "id": "c57",
-   "text": "לפי PBS, השל הצליח לברוח מאירופה כשישה שבועות בלבד לפני מלחמת העולם השנייה.",
-   "source": "src6",
-   "quote": "Just six weeks before World War II, he was able to escape from Europe.",
-   "status": "confirmed",
-   "locator": "שורה 13"
-  },
-  {
    "id": "c35",
    "text": "לפי ראיון עם ההיסטוריון ג'וליאן זליצר, בינואר 1963 הזמין קינג את השל לדבר בכנס על דת וגזע בשיקגו.",
    "source": "src5",
@@ -1143,6 +1118,33 @@
    "quote": "My father went to Chicago to give a speech at a conference on religion and race that had been organized by the National Conference of Christians and Jews.",
    "status": "confirmed",
    "locator": "שורה 7"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "באוקטובר 1938 עצר אותו הגסטפו וגירש אותו מגרמניה לפולין, ובהמשך הגיע לארצות הברית בזכות מינוי ב-Hebrew Union College הרפורמי בסינסינטי שבאוהיו.",
+   "source": "src9001",
+   "quote": "deported to Poland",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "לפי מכון קינג בסטנפורד, את הכנס יזמה קואליציה של המועצה הלאומית של הכנסיות, מועצת בתי הכנסת של אמריקה והוועידה הלאומית הקתולית לרווחה",
+   "source": "src9002",
+   "quote": "Initiated by a coalition of the National Council of the Churches",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "לפי סוזנה השל, גברת ג'קסון סיפרה לה שבבוקר הצעדה ראתה בסלון ביתה את קינג, את אביה הרב השל וכומר מתפללים כל אחד בדרכו בפינה אחרת של החדר.",
+   "source": "src8",
+   "quote": "there she saw Dr. King praying in one corner of the room",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1205,6 +1207,20 @@
    "label": "Jewish Journal",
    "url": "https://jewishjournal.com/orange_county/7241/",
    "kind": "press"
+  },
+  {
+   "id": "src9001",
+   "label": "Heschel Center, Jewish Theological Seminary, Heschel timeline",
+   "url": "https://heschel.jtsa.edu/?p=12",
+   "kind": "organisation",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9002",
+   "label": "Stanford King Institute, National Conference on Religion and Race",
+   "url": "https://kinginstitute.stanford.edu/national-conference-religion-and-race",
+   "kind": "organisation",
+   "date": "2026-11-27"
   }
  ],
  "media": [

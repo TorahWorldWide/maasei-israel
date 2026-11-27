@@ -1,7 +1,7 @@
 {
  "schema": "maasei-museum/1",
  "slug": "abraham-jacobi-pediatrics-founder",
- "deed": "אברהם יעקבי פותח את מרפאת הילדים הראשונה בארה״ב ומייסד את רפואת הילדים",
+ "deed": "אברהם יעקבי פותח את מרפאת הילדים הראשונה בארה״ב ומייסד את רפואת הילדים האמריקנית",
  "canonical_type": "historical-figure",
  "year": "1860",
  "title": "אברהם יעקבי פתח את מרפאת הילדים הראשונה בארה״ב ונודע כאבי רפואת הילדים האמריקנית",
@@ -99,9 +99,10 @@
       ]
      },
      {
-      "text": "לפי האתר, עוד כסטודנט לרפואה הצטרף לליגה הקומוניסטית, לצד קרל מרקס וקרל שורץ.",
+      "text": "לפי האתר, עוד כסטודנט לרפואה הצטרף לליגה הקומוניסטית, לצד קרל מרקס.",
       "claims": [
-       "c27"
+       "c27",
+       "c-aud-20261127-1"
       ]
      }
     ],
@@ -198,9 +199,10 @@
       ]
      },
      {
-      "text": "לפי אותו מאמר, בית החולים הנפרד הראשון לילדים נוסד בפילדלפיה ב-1855.",
+      "text": "לפי אותו מאמר, בית החולים הנפרד הראשון לילדים בארצות הברית נוסד בפילדלפיה ב-1855.",
       "claims": [
-       "c23"
+       "c23",
+       "c-aud-20261127-4"
       ]
      }
     ],
@@ -220,10 +222,12 @@
     ],
     [
      {
-      "text": "זו הייתה מרפאת הילדים הראשונה בארצות הברית.",
+      "text": "לפי בריטניקה, זו הייתה המרפאה הראשונה למחלות ילדים בארצות הברית.",
       "claims": [
        "c1",
-       "c75"
+       "c75",
+       "c-aud-20261127-5",
+       "c-aud-20261127-6"
       ]
      },
      {
@@ -240,7 +244,8 @@
    ],
    "disagreements": [
     "d1",
-    "d2"
+    "d2",
+    "d9001"
    ]
   },
   {
@@ -414,9 +419,10 @@
       ]
      },
      {
-      "text": "לפי האתר, הוא היה הרופא הראשון שנולד מחוץ לארצות הברית והיהודי הראשון בתפקיד.",
+      "text": "לפי האתר, הוא היה היהודי הראשון בתפקיד.",
       "claims": [
-       "c38"
+       "c38",
+       "c-aud-20261127-3"
       ]
      }
     ],
@@ -515,8 +521,7 @@
     "m9"
    ],
    "disagreements": [
-    "d5",
-    "d6"
+    "d5"
    ]
   },
   {
@@ -660,24 +665,6 @@
    ]
   },
   {
-   "id": "d6",
-   "question": "מתי ואיך נאספו כתביו?",
-   "versions": [
-    {
-     "says": "אנציקלופדיה ביוגרפית: רובם נאספו ב-1909 בקובץ Collectanea Jacobi בעריכת ויליאם רובינסון",
-     "claims": [
-      "c18"
-     ]
-    },
-    {
-     "says": "AMA Journal of Ethics: הם נאספו לאחר מותו ב-8 כרכים",
-     "claims": [
-      "c47"
-     ]
-    }
-   ]
-  },
-  {
    "id": "d7",
    "question": "מתי נוסדה מחלקת הילדים בהר סיני?",
    "versions": [
@@ -695,13 +682,32 @@
      ]
     }
    ]
+  },
+  {
+   "id": "d9001",
+   "question": "האם המרפאה של יעקבי הייתה מרפאת הילדים הראשונה בארצות הברית?",
+   "versions": [
+    {
+     "says": "בריטניקה: יעקבי הקים את המרפאה הראשונה למחלות ילדים בארצות הברית (1860)",
+     "claims": [
+      "c-aud-20261127-5"
+     ]
+    },
+    {
+     "says": "בית החולים לילדים של פילדלפיה: בית החולים, הראשון לילדים בארצות הברית, נפתח ב-1855 עם 12 מיטות ומרפאה (dispensary)",
+     "claims": [
+      "c-aud-20261127-6"
+     ]
+    }
+   ]
   }
  ],
  "unknowns": [
   {
-   "text": "לפי כתב העת, מאות המאמרים המדעיים שכתב יעקבי או שהשתתף בכתיבתם נאספו לאחר מותו ב-8 כרכים שבהם יותר מ-4,000 עמודים..",
+   "text": "לפי הביוגרפיה הגרמנית הלאומית, מפעלו המדעי של יעקבי קובץ כבר ב-1909, בחייו, בקובץ Collectanea Jacobi בן 8 הכרכים בעריכת ויליאם רובינסון.",
    "claims": [
-    "c47"
+    "c47",
+    "c-aud-20261127-2"
    ]
   }
  ],
@@ -1169,6 +1175,60 @@
    "quote": "though only her daughter Marjorie (born 1878) survived to adulthood.",
    "status": "confirmed",
    "locator": "שורה 19"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "לפי האתר, עוד כסטודנט לרפואה הצטרף לליגה הקומוניסטית, לצד קרל מרקס.",
+   "source": "src2",
+   "quote": "he joined the Communist League alongside figures like Karl Marx",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "לפי הביוגרפיה הגרמנית הלאומית, מפעלו המדעי של יעקבי קובץ כבר ב-1909, בחייו, בקובץ Collectanea Jacobi בן 8 הכרכים בעריכת ויליאם רובינסון.",
+   "source": "src11",
+   "quote": "Sein wissenschaftliches Werk wurde 1909 in den 8bändigen",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "לפי האתר, הוא היה היהודי הראשון בתפקיד.",
+   "source": "src9001",
+   "quote": "Theophilus Parvin was born in Buenos Aires, Argentina",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-4",
+   "text": "לפי אותו מאמר, בית החולים הנפרד הראשון לילדים בארצות הברית נוסד בפילדלפיה ב-1855.",
+   "source": "src9002",
+   "quote": "Being the nation's first pediatric hospital",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-5",
+   "text": "בריטניקה: יעקבי הקים את המרפאה הראשונה למחלות ילדים בארצות הברית (1860)",
+   "source": "src1",
+   "quote": "established the first clinic for diseases of children in the",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261127-6",
+   "text": "בית החולים לילדים של פילדלפיה: בית החולים, הראשון לילדים בארצות הברית, נפתח ב-1855 עם 12 מיטות ומרפאה (dispensary)",
+   "source": "src9002",
+   "quote": "Though we began with just 12 beds and a dispensary",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1255,6 +1315,20 @@
    "label": "National Women's History Museum: Mary Putnam Jacobi",
    "url": "https://www.womenshistory.org/education-resources/biographies/mary-putnam-jacobi",
    "kind": "organisation"
+  },
+  {
+   "id": "src9001",
+   "label": "Indiana University, First 200: Theophilus Parvin",
+   "url": "https://first200.iu.edu/degree-recipients/parvin-theophilus.html",
+   "kind": "organisation",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9002",
+   "label": "Children's Hospital of Philadelphia, Our history",
+   "url": "https://www.chop.edu/about-us/our-history",
+   "kind": "organisation",
+   "date": "2026-11-27"
   }
  ],
  "media": [

@@ -1,7 +1,7 @@
 {
  "schema": "maasei-museum/1",
  "slug": "ada-yonath-ribosome-structure",
- "deed": "עדה יונת מיפתה את הריבוזום אחרי שנים שבהן קראו לה שוטת הכפר",
+ "deed": "Ada Yonath mapped the ribosome after years in which she was called the village idiot",
  "canonical_type": "scientific-discovery",
  "year": "סוף שנות ה-70",
  "title": "Ada Yonath, who was called \"the village idiot\", deciphered the structure of the ribosome and won the Nobel Prize",
@@ -281,9 +281,10 @@
       ]
      },
      {
-      "text": "According to HaMichlol, she met Hans-Günther Wittmann, president of the Max Planck Institute for Molecular Genetics, at a scientific conference.",
+      "text": "According to the Max Planck Institute for Molecular Genetics, Heinz-Günter Wittmann, a pioneer of ribosome research, recruited Yonath, and she worked with him for several years on ribosome crystallization and structural analysis.",
       "claims": [
-       "c87"
+       "c87",
+       "c-aud-20261127-1"
       ]
      },
      {
@@ -359,9 +360,10 @@
       ]
      },
      {
-      "text": "According to the Weizmann Institute, by the end of the 1990s Yonath had broken the resolution barrier, thanks to better crystals and improved facilities for detecting X-ray diffraction.",
+      "text": "She says that at the end of the 1990s she, as well as those who used her experimental systems, broke the resolution barrier, thanks to improvements in the crystals, in the facilities for detecting X-ray diffraction and in ways to determine the diffraction phases.",
       "claims": [
-       "c41"
+       "c41",
+       "c-aud-20261127-4"
       ]
      }
     ],
@@ -397,7 +399,9 @@
    "media": [
     "m1"
    ],
-   "disagreements": []
+   "disagreements": [
+    "d9001"
+   ]
   },
   {
    "id": "s6",
@@ -518,12 +522,6 @@
       "text": "According to ynet, she is the ninth Israeli citizen to win a Nobel Prize and the fifth scientist.",
       "claims": [
        "c56"
-      ]
-     },
-     {
-      "text": "According to an October 2009 article in the Forward, Yonath was then one of only eight women among Jewish Nobel laureates.",
-      "claims": [
-       "c60"
       ]
      }
     ],
@@ -713,6 +711,24 @@
      "says": "Encyclopaedia Judaica: over a dozen antibiotic families",
      "claims": [
       "c47"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9001",
+   "question": "Who developed the cryo-crystallography method used for the ribosome crystals?",
+   "versions": [
+    {
+     "says": "The Nobel Prize website: Yonath developed the cryo-bio-crystallography method",
+     "claims": [
+      "c-aud-20261127-2"
+     ]
+    },
+    {
+     "says": "Venkatraman Ramakrishnan in his Nobel lecture: Hakon Hope developed the method in 1988, and he and Yonath collaborated to apply it to ribosome crystals",
+     "claims": [
+      "c-aud-20261127-3"
      ]
     }
    ]
@@ -1142,14 +1158,6 @@
    "locator": "שורה 13"
   },
   {
-   "id": "c60",
-   "text": "לפי ה-Forward, יונת היא אחת משמונה נשים בלבד בין זוכי נובל היהודים.",
-   "source": "src9",
-   "quote": "Yet we seldom note that just eight of them, including Yonath, are women",
-   "status": "confirmed",
-   "locator": "שורה 9"
-  },
-  {
    "id": "c64",
    "text": "יונת מספרת שהענקת פרס נובל חשפה את הריבוזום לציבור, עוררה עניין מדעי אמיתי והלהיבה את דמיונם של צעירים רבים.",
    "source": "src3",
@@ -1300,6 +1308,42 @@
    "quote": "אנשים לוקחים אנטיביוטיקה שבועיים שלושה, בעוד שיש תרופות אחרות לסכרת, לחץ דם, כולסטרול",
    "status": "confirmed",
    "locator": "שורה 8"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "לפי מכון מקס פלנק לגנטיקה מולקולרית, היינץ-גינטר ויטמן, מחלוצי חקר הריבוזום, גייס את יונת, והיא עבדה איתו כמה שנים על גיבוש ריבוזומים ועל ניתוח מבנם.",
+   "source": "src9001",
+   "quote": "He recruited Ada Yonath, who worked for several years with him on ribosome crystallization and structural analysis.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "אתר פרס נובל: יונת פיתחה את שיטת הקריו-ביו-קריסטלוגרפיה",
+   "source": "src9002",
+   "quote": "The answer was cryo-bio-crystallography. Yonath developed this method",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "ונקטרמן רמאקרישנן בהרצאת הנובל שלו: הקון הופ פיתח את השיטה ב-1988, והוא ויונת שיתפו פעולה כדי ליישם אותה על גבישי ריבוזום",
+   "source": "src9003",
+   "quote": "he and Yonath collaborated to show that this method allowed data collection from crystals of ribosomal subunits",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261127-4",
+   "text": "יונת מספרת שבסוף שנות ה-90 שברו את מחסום הרזולוציה היא וגם מי שהשתמשו במערכות הניסוי שלה, בזכות שיפורים בגבישים, במתקנים לגילוי עקיפת קרני רנטגן ובדרכים לקביעת הפאזות.",
+   "source": "src3",
+   "quote": "we as well as those who used our experimental systems succeeded in breaking the resolution barrier",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1386,6 +1430,27 @@
    "label": "Hayadan: Ada Yonath at the Life Science Baltics conference in Vilnius (13.9.2012)",
    "url": "http://www.hayadan.org.il/ada-yonath-vilnius-130912/",
    "kind": "press"
+  },
+  {
+   "id": "src9001",
+   "label": "Max Planck Institute for Molecular Genetics, History",
+   "url": "https://www.molgen.mpg.de/history",
+   "kind": "organisation",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9002",
+   "label": "NobelPrize.org, Women who changed science: Ada Yonath",
+   "url": "https://www.nobelprize.org/womenwhochangedscience/stories/ada-yonath",
+   "kind": "official",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9003",
+   "label": "NobelPrize.org, V. Ramakrishnan, Nobel Lecture, 2009",
+   "url": "https://www.nobelprize.org/uploads/2018/06/ramakrishnan_lecture.pdf",
+   "kind": "official",
+   "date": "2026-11-27"
   }
  ],
  "media": [

@@ -1,7 +1,7 @@
 {
  "schema": "maasei-museum/1",
  "slug": "abraham-jacobi-pediatrics-founder",
- "deed": "אברהם יעקבי פותח את מרפאת הילדים הראשונה בארה״ב ומייסד את רפואת הילדים",
+ "deed": "Abraham Jacobi opens the first children's clinic in the US and founds the field of pediatrics",
  "canonical_type": "historical-figure",
  "year": "1860",
  "title": "Abraham Jacobi opened the first children's clinic in the US and became known as the Father of American Pediatrics",
@@ -99,9 +99,10 @@
       ]
      },
      {
-      "text": "According to the website, while still a medical student he joined the Communist League, alongside Karl Marx and Carl Schurz.",
+      "text": "According to the website, while still a medical student he joined the Communist League, alongside Karl Marx.",
       "claims": [
-       "c27"
+       "c27",
+       "c-aud-20261127-1"
       ]
      }
     ],
@@ -198,9 +199,10 @@
       ]
      },
      {
-      "text": "According to the same article, the first separate children's hospital was founded in Philadelphia in 1855.",
+      "text": "According to the same article, the first separate children's hospital in the United States was founded in Philadelphia in 1855.",
       "claims": [
-       "c23"
+       "c23",
+       "c-aud-20261127-4"
       ]
      }
     ],
@@ -220,10 +222,12 @@
     ],
     [
      {
-      "text": "This was the first children's clinic in the United States.",
+      "text": "According to Britannica, this was the first clinic for diseases of children in the United States.",
       "claims": [
        "c1",
-       "c75"
+       "c75",
+       "c-aud-20261127-5",
+       "c-aud-20261127-6"
       ]
      },
      {
@@ -240,7 +244,8 @@
    ],
    "disagreements": [
     "d1",
-    "d2"
+    "d2",
+    "d9001"
    ]
   },
   {
@@ -414,9 +419,10 @@
       ]
      },
      {
-      "text": "According to the website, he was the first physician born outside the United States and the first Jew in the role.",
+      "text": "According to the website, he was the first Jew in the role.",
       "claims": [
-       "c38"
+       "c38",
+       "c-aud-20261127-3"
       ]
      }
     ],
@@ -515,8 +521,7 @@
     "m9"
    ],
    "disagreements": [
-    "d5",
-    "d6"
+    "d5"
    ]
   },
   {
@@ -660,24 +665,6 @@
    ]
   },
   {
-   "id": "d6",
-   "question": "When and how were his writings collected?",
-   "versions": [
-    {
-     "says": "Biographical encyclopedia: most were gathered in 1909 in the collection Collectanea Jacobi, edited by William Robinson",
-     "claims": [
-      "c18"
-     ]
-    },
-    {
-     "says": "AMA Journal of Ethics: they were compiled after his death into 8 volumes",
-     "claims": [
-      "c47"
-     ]
-    }
-   ]
-  },
-  {
    "id": "d7",
    "question": "When was the children's department at Mount Sinai founded?",
    "versions": [
@@ -695,13 +682,32 @@
      ]
     }
    ]
+  },
+  {
+   "id": "d9001",
+   "question": "Was Jacobi's clinic the first children's clinic in the United States?",
+   "versions": [
+    {
+     "says": "Britannica: Jacobi established the first clinic for diseases of children in the United States (1860)",
+     "claims": [
+      "c-aud-20261127-5"
+     ]
+    },
+    {
+     "says": "Children's Hospital of Philadelphia: the hospital, the nation's first pediatric hospital, opened in 1855 with 12 beds and a dispensary",
+     "claims": [
+      "c-aud-20261127-6"
+     ]
+    }
+   ]
   }
  ],
  "unknowns": [
   {
-   "text": "According to the journal, the hundreds of scientific papers that Jacobi wrote or co-wrote were compiled after his death into 8 volumes with more than 4,000 pages.",
+   "text": "According to the Deutsche Biographie, Jacobi's scientific work was collected as early as 1909, during his lifetime, in the 8-volume Collectanea Jacobi edited by William Robinson.",
    "claims": [
-    "c47"
+    "c47",
+    "c-aud-20261127-2"
    ]
   }
  ],
@@ -1169,6 +1175,60 @@
    "quote": "though only her daughter Marjorie (born 1878) survived to adulthood.",
    "status": "confirmed",
    "locator": "שורה 19"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "לפי האתר, עוד כסטודנט לרפואה הצטרף לליגה הקומוניסטית, לצד קרל מרקס.",
+   "source": "src2",
+   "quote": "he joined the Communist League alongside figures like Karl Marx",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "לפי הביוגרפיה הגרמנית הלאומית, מפעלו המדעי של יעקבי קובץ כבר ב-1909, בחייו, בקובץ Collectanea Jacobi בן 8 הכרכים בעריכת ויליאם רובינסון.",
+   "source": "src11",
+   "quote": "Sein wissenschaftliches Werk wurde 1909 in den 8bändigen",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "לפי האתר, הוא היה היהודי הראשון בתפקיד.",
+   "source": "src9001",
+   "quote": "Theophilus Parvin was born in Buenos Aires, Argentina",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-4",
+   "text": "לפי אותו מאמר, בית החולים הנפרד הראשון לילדים בארצות הברית נוסד בפילדלפיה ב-1855.",
+   "source": "src9002",
+   "quote": "Being the nation's first pediatric hospital",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-5",
+   "text": "בריטניקה: יעקבי הקים את המרפאה הראשונה למחלות ילדים בארצות הברית (1860)",
+   "source": "src1",
+   "quote": "established the first clinic for diseases of children in the",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261127-6",
+   "text": "בית החולים לילדים של פילדלפיה: בית החולים, הראשון לילדים בארצות הברית, נפתח ב-1855 עם 12 מיטות ומרפאה (dispensary)",
+   "source": "src9002",
+   "quote": "Though we began with just 12 beds and a dispensary",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1255,6 +1315,20 @@
    "label": "National Women's History Museum: Mary Putnam Jacobi",
    "url": "https://www.womenshistory.org/education-resources/biographies/mary-putnam-jacobi",
    "kind": "organisation"
+  },
+  {
+   "id": "src9001",
+   "label": "Indiana University, First 200: Theophilus Parvin",
+   "url": "https://first200.iu.edu/degree-recipients/parvin-theophilus.html",
+   "kind": "organisation",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9002",
+   "label": "Children's Hospital of Philadelphia, Our history",
+   "url": "https://www.chop.edu/about-us/our-history",
+   "kind": "organisation",
+   "date": "2026-11-27"
   }
  ],
  "media": [

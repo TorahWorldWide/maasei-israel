@@ -281,9 +281,10 @@
       ]
      },
      {
-      "text": "לפי המכלול, היא פגשה בכנס מדעי את הנס גינטר ויטמן, נשיא מכון מקס פלנק לגנטיקה מולקולרית.",
+      "text": "לפי מכון מקס פלנק לגנטיקה מולקולרית, היינץ-גינטר ויטמן, מחלוצי חקר הריבוזום, גייס את יונת, והיא עבדה איתו כמה שנים על גיבוש ריבוזומים ועל ניתוח מבנם.",
       "claims": [
-       "c87"
+       "c87",
+       "c-aud-20261127-1"
       ]
      },
      {
@@ -359,9 +360,10 @@
       ]
      },
      {
-      "text": "לפי מכון ויצמן, עד סוף שנות ה-90 שברה יונת את מחסום הרזולוציה, בזכות גבישים טובים יותר ומתקנים משופרים לגילוי עקיפת קרני רנטגן.",
+      "text": "יונת מספרת שבסוף שנות ה-90 שברו את מחסום הרזולוציה היא וגם מי שהשתמשו במערכות הניסוי שלה, בזכות שיפורים בגבישים, במתקנים לגילוי עקיפת קרני רנטגן ובדרכים לקביעת הפאזות.",
       "claims": [
-       "c41"
+       "c41",
+       "c-aud-20261127-4"
       ]
      }
     ],
@@ -397,7 +399,9 @@
    "media": [
     "m1"
    ],
-   "disagreements": []
+   "disagreements": [
+    "d9001"
+   ]
   },
   {
    "id": "s6",
@@ -518,12 +522,6 @@
       "text": "לפי ynet, היא האזרח הישראלי התשיעי שזכה בפרס נובל והמדען החמישי.",
       "claims": [
        "c56"
-      ]
-     },
-     {
-      "text": "לפי כתבה ב-Forward מאוקטובר 2009, יונת הייתה אז אחת משמונה נשים בלבד בין זוכי נובל היהודים.",
-      "claims": [
-       "c60"
       ]
      }
     ],
@@ -713,6 +711,24 @@
      "says": "אנציקלופדיה יודאיקה: יותר מתריסר משפחות של אנטיביוטיקה",
      "claims": [
       "c47"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9001",
+   "question": "מי פיתח את שיטת הקריו-קריסטלוגרפיה ששימשה לגבישי הריבוזום?",
+   "versions": [
+    {
+     "says": "אתר פרס נובל: יונת פיתחה את שיטת הקריו-ביו-קריסטלוגרפיה",
+     "claims": [
+      "c-aud-20261127-2"
+     ]
+    },
+    {
+     "says": "ונקטרמן רמאקרישנן בהרצאת הנובל שלו: הקון הופ פיתח את השיטה ב-1988, והוא ויונת שיתפו פעולה כדי ליישם אותה על גבישי ריבוזום",
+     "claims": [
+      "c-aud-20261127-3"
      ]
     }
    ]
@@ -1142,14 +1158,6 @@
    "locator": "שורה 13"
   },
   {
-   "id": "c60",
-   "text": "לפי ה-Forward, יונת היא אחת משמונה נשים בלבד בין זוכי נובל היהודים.",
-   "source": "src9",
-   "quote": "Yet we seldom note that just eight of them, including Yonath, are women",
-   "status": "confirmed",
-   "locator": "שורה 9"
-  },
-  {
    "id": "c64",
    "text": "יונת מספרת שהענקת פרס נובל חשפה את הריבוזום לציבור, עוררה עניין מדעי אמיתי והלהיבה את דמיונם של צעירים רבים.",
    "source": "src3",
@@ -1300,6 +1308,42 @@
    "quote": "אנשים לוקחים אנטיביוטיקה שבועיים שלושה, בעוד שיש תרופות אחרות לסכרת, לחץ דם, כולסטרול",
    "status": "confirmed",
    "locator": "שורה 8"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "לפי מכון מקס פלנק לגנטיקה מולקולרית, היינץ-גינטר ויטמן, מחלוצי חקר הריבוזום, גייס את יונת, והיא עבדה איתו כמה שנים על גיבוש ריבוזומים ועל ניתוח מבנם.",
+   "source": "src9001",
+   "quote": "He recruited Ada Yonath, who worked for several years with him on ribosome crystallization and structural analysis.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "אתר פרס נובל: יונת פיתחה את שיטת הקריו-ביו-קריסטלוגרפיה",
+   "source": "src9002",
+   "quote": "The answer was cryo-bio-crystallography. Yonath developed this method",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "ונקטרמן רמאקרישנן בהרצאת הנובל שלו: הקון הופ פיתח את השיטה ב-1988, והוא ויונת שיתפו פעולה כדי ליישם אותה על גבישי ריבוזום",
+   "source": "src9003",
+   "quote": "he and Yonath collaborated to show that this method allowed data collection from crystals of ribosomal subunits",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261127-4",
+   "text": "יונת מספרת שבסוף שנות ה-90 שברו את מחסום הרזולוציה היא וגם מי שהשתמשו במערכות הניסוי שלה, בזכות שיפורים בגבישים, במתקנים לגילוי עקיפת קרני רנטגן ובדרכים לקביעת הפאזות.",
+   "source": "src3",
+   "quote": "we as well as those who used our experimental systems succeeded in breaking the resolution barrier",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1386,6 +1430,27 @@
    "label": "הידען: עדה יונת בכנס Life Science Baltics בווילנה (13.9.2012)",
    "url": "http://www.hayadan.org.il/ada-yonath-vilnius-130912/",
    "kind": "press"
+  },
+  {
+   "id": "src9001",
+   "label": "Max Planck Institute for Molecular Genetics, History",
+   "url": "https://www.molgen.mpg.de/history",
+   "kind": "organisation",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9002",
+   "label": "NobelPrize.org, Women who changed science: Ada Yonath",
+   "url": "https://www.nobelprize.org/womenwhochangedscience/stories/ada-yonath",
+   "kind": "official",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9003",
+   "label": "NobelPrize.org, V. Ramakrishnan, Nobel Lecture, 2009",
+   "url": "https://www.nobelprize.org/uploads/2018/06/ramakrishnan_lecture.pdf",
+   "kind": "official",
+   "date": "2026-11-27"
   }
  ],
  "media": [

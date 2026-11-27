@@ -286,7 +286,15 @@ export class DataUnavailableError extends Error {
 
 // The seed (data/entries.json) is for a checkout with NO Supabase settings at
 // all (local development). It is never a stand-in for a failing database.
+// Deeds Tomer removed from the site (27.11: the Begin-Egypt treaty that gave back Sinai).
+// Hidden in code so the database row stays untouched.
+export const HIDDEN_ENTRY_IDS = new Set<string>(["55c7771e-3d56-4e79-a08b-70f102c2a5fe"]);
+
 export async function getApprovedEntries(): Promise<Entry[]> {
+  return (await getApprovedEntriesRaw()).filter((e) => !HIDDEN_ENTRY_IDS.has(e.id));
+}
+
+async function getApprovedEntriesRaw(): Promise<Entry[]> {
   if (!hasSupabase()) {
     return seedEntries as Entry[];
   }
@@ -388,6 +396,7 @@ export async function rejectSubmission(id: string): Promise<void> {
 }
 
 export async function getEntryById(id: string): Promise<Entry | null> {
+  if (HIDDEN_ENTRY_IDS.has(id)) return null;
   if (!hasSupabase()) {
     return (
       (seedEntries as Entry[]).find(

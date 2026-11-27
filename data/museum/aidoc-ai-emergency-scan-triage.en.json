@@ -95,9 +95,10 @@
    "paragraphs": [
     [
      {
-      "text": "According to Walach, radiologists today go through hundreds of scans a day.",
+      "text": "According to Walach, in a 2018 interview with Globes, radiologists go through hundreds of scans a day.",
       "claims": [
-       "c40"
+       "c40",
+       "c-aud-20261127-9"
       ]
      },
      {
@@ -331,9 +332,10 @@
    "paragraphs": [
     [
      {
-      "text": "A study at Sheba Medical Center found that the use of artificial intelligence led to a decrease in mortality, readmissions and disability among patients with intracranial hemorrhage.",
+      "text": "A retrospective study at Sheba Medical Center, comparing a year before and a year after artificial intelligence was adopted, found a decrease in mortality, readmissions and disability among patients with intracranial hemorrhage.",
       "claims": [
-       "c33"
+       "c33",
+       "c-aud-20261127-6"
       ]
      },
      {
@@ -345,9 +347,10 @@
     ],
     [
      {
-      "text": "A physician at Cedars-Sinai said that the ability to call the referring physician while the patient is still on site is huge.",
+      "text": "A physician at Cedars-Sinai said, of Aidoc's software for detecting incidental pulmonary embolism, that the ability to call the referring physician while the patient is still on site is huge.",
       "claims": [
-       "c47"
+       "c47",
+       "c-aud-20261127-8"
       ]
      }
     ]
@@ -370,9 +373,10 @@
       ]
      },
      {
-      "text": "According to the same newspaper, in December the company received a CE mark for commercial distribution of the product in Europe.",
+      "text": "According to the company's announcement, in November 2017 it received CE marking in Europe for its product.",
       "claims": [
-       "c44"
+       "c44",
+       "c-aud-20261127-7"
       ]
      }
     ],
@@ -384,15 +388,17 @@
       ]
      },
      {
-      "text": "According to the same site, this was the company's sixth FDA clearance.",
+      "text": "According to the same site, the software joined three other Aidoc products already cleared by the FDA, making it the company's fourth clearance.",
       "claims": [
-       "c46"
+       "c46",
+       "c-aud-20261127-1"
       ]
      },
      {
-      "text": "Aidoc developed a clinical foundation model called CARE, which received a first-of-its-kind FDA clearance for a foundation model-based triage system.",
+      "text": "Aidoc developed a clinical foundation model called CARE, which, according to the company, received a first-of-its-kind FDA clearance for a foundation model-based triage system.",
       "claims": [
-       "c51"
+       "c51",
+       "c-aud-20261127-10"
       ]
      }
     ],
@@ -460,15 +466,17 @@
    "paragraphs": [
     [
      {
-      "text": "The UK's NICE reviewed seven validation studies covering 31,118 scans.",
+      "text": "In 2020 the UK's NICE reviewed AI software from several companies, including Aidoc, examining seven validation studies covering 31,118 scans.",
       "claims": [
-       "c28"
+       "c28",
+       "c-aud-20261127-3"
       ]
      },
      {
-      "text": "According to the review, the technology detected intracranial hemorrhages at the level of neuroradiologists, but the study conditions did not reflect real clinical work.",
+      "text": "According to the review, the software packages examined, Aidoc's among them, detected intracranial hemorrhages at the level of neuroradiologists, but the study conditions did not reflect real clinical work.",
       "claims": [
-       "c28"
+       "c28",
+       "c-aud-20261127-4"
       ]
      },
      {
@@ -480,9 +488,10 @@
     ],
     [
      {
-      "text": "NICE also noted that it is not always clear whether the technology has been updated since the studies were published, and that many of the studies' authors work for the company.",
+      "text": "NICE also noted that it is not always clear whether the technology has been updated since the studies were published, and that many of the studies' authors work for the companies that developed the software.",
       "claims": [
-       "c30"
+       "c30",
+       "c-aud-20261127-5"
       ]
      },
      {
@@ -500,9 +509,10 @@
     ],
     [
      {
-      "text": "A Swiss study in Basel found that the algorithm detected intracranial hemorrhage at a high rate, but subarachnoid and subdural hemorrhage at a lower rate.",
+      "text": "A Swiss study in Basel found that the algorithm detected intracranial hemorrhage with an overall sensitivity of 87.2%, and subdural and acute subarachnoid hemorrhage at lower rates.",
       "claims": [
-       "c35"
+       "c35",
+       "c-aud-20261127-2"
       ]
      },
      {
@@ -940,6 +950,96 @@
    "quote": "Aidoc says its technology has analyzed more than 110 million patient cases and supports clinical decision-making for about 70 million patients annually.",
    "status": "confirmed",
    "locator": "שורה 59"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "לפי אותו אתר, התוכנה הצטרפה לשלוש תוכנות אחרות של החברה שכבר קיבלו אישור FDA, כלומר היה זה אישורה הרביעי.",
+   "source": "src9001",
+   "quote": "adds to Aidoc's three other previously cleared AI software",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "מחקר שוויצרי בבזל מצא שהאלגוריתם זיהה דימום תוך־גולגולתי ברגישות כוללת של 87.2%, ודימום תת־דורלי ודימום תת־עכבישי חריף בשיעור נמוך יותר.",
+   "source": "src9002",
+   "quote": "87.2% sensitivity",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "NICE הבריטי סקר ב־2020 תוכנות בינה מלאכותית של כמה חברות, ובהן איידוק, ובדק שבעה מחקרי תיקוף על 31,118 סריקות.",
+   "source": "src13",
+   "quote": "Seven validation studies, including 31,118 CT brain scans",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261127-4",
+   "text": "לפי הסקירה, התוכנות שנבדקו, ובהן זו של איידוק, זיהו דימומים תוך־גולגולתיים ברמה של נוירורדיולוגים, אבל תנאי המחקרים לא שיקפו עבודה קלינית אמיתית.",
+   "source": "src13",
+   "quote": "showed the technology to be as effective at detecting intracranial haemorrhages as neuroradiologists",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261127-5",
+   "text": "NICE ציין גם שלא תמיד ברור אם הטכנולוגיה עודכנה מאז פרסום המחקרים, ושרבים מכותבי המחקרים עובדים בחברות שפיתחו את התוכנות.",
+   "source": "src13",
+   "quote": "many of the named authors involved in the studies work for the company",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261127-6",
+   "text": "במחקר רטרוספקטיבי בבית החולים שיבא, שהשווה שנה לפני הטמעת הבינה המלאכותית ושנה אחריה, נמצאה ירידה בתמותה, באשפוזים חוזרים ובנכות של חולי דימום תוך־גולגולתי.",
+   "source": "src9003",
+   "quote": "After retrospectively reviewing ICH cases for a year before and a year after adoption of a commercial deep-learning algorithm",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-7",
+   "text": "לפי הודעת החברה, בנובמבר 2017 היא קיבלה סימון CE באירופה למוצר שלה.",
+   "source": "src9004",
+   "quote": "today announced that it received CE (Conformite Europeenne) marking",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-8",
+   "text": "רופאה בסידרס־סיני אמרה, על תוכנת איידוק לזיהוי תסחיף ריאתי אגבי, שהיכולת להתקשר לרופא המפנה בזמן שהמטופל עדיין במקום היא עצומה.",
+   "source": "src10",
+   "quote": "We are essentially offering a point-of-care diagnosis of PE for our outpatients.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-9",
+   "text": "לפי וולך, בראיון לגלובס ב־2018, רדיולוגים עוברים על מאות סריקות ביום.",
+   "source": "src2",
+   "quote": "Radiologists today go through hundreds of scans a day.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-10",
+   "text": "איידוק פיתחה מודל יסוד קליני בשם CARE, שלדברי החברה קיבל אישור FDA ראשון מסוגו למערכת מיון מבוססת מודל יסוד.",
+   "source": "src12",
+   "quote": "CARE received what Aidoc described as a landmark first clearance",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1032,6 +1132,34 @@
    "label": "Globes, Aidoc raised $150 million",
    "url": "https://en.globes.co.il/en/article-1001541446",
    "kind": "press"
+  },
+  {
+   "id": "src9001",
+   "label": "AuntMinnie, Aidoc secures FDA clearance for AI stroke software, Jan 12, 2020",
+   "url": "https://web.archive.org/web/20260131135335id_/https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15625031/aidoc-secures-fda-clearance-for-ai-stroke-software",
+   "kind": "press",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9002",
+   "label": "Seyam et al., Radiology: Artificial Intelligence 2022 (Europe PMC abstract, PMC8980872)",
+   "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=PMCID:PMC8980872&resultType=core&format=json",
+   "kind": "reference",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9003",
+   "label": "AuntMinnie, AI detection of intracranial hemorrhage saves lives, ECR 2021",
+   "url": "https://web.archive.org/web/20251018074641id_/https://www.auntminnie.com/clinical-news/ct/article/15627912/ai-detection-of-intracranial-hemorrhage-saves-lives",
+   "kind": "press",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9004",
+   "label": "Aidoc press release (PRNewswire via BioSpace), Aidoc Receives CE Mark for First Commercial Deep Learning Solution, November 27, 2017",
+   "url": "https://www.biospace.com/aidoc-receives-ce-mark-for-first-commercial-deep-learning-solution-streamlining-head-and-neck-imaging-for-radiologists",
+   "kind": "organisation",
+   "date": "2026-11-27"
   }
  ],
  "media": [

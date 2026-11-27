@@ -14,10 +14,11 @@
    ]
   },
   {
-   "text": "He was born to Jewish parents in Poland in 1906. In 1931 he received his M.D. from New York University and immediately began research on polio.",
+   "text": "He was born to Jewish parents in Bialystok, then part of Russia and now in Poland, in 1906. In 1931 he received his M.D. from New York University and immediately began research on polio.",
    "claims": [
     "c2",
-    "c8"
+    "c8",
+    "c-aud-20261127-9"
    ]
   },
   {
@@ -101,10 +102,11 @@
    "paragraphs": [
     [
      {
-      "text": "Albert Sabin was born on August 26, 1906, in Bialystok, Poland, to Jewish parents.",
+      "text": "Albert Sabin was born on August 26, 1906, in Bialystok, then part of the Russian Empire and now in Poland, to Jewish parents.",
       "claims": [
        "c2",
-       "c4"
+       "c4",
+       "c-aud-20261127-8"
       ]
      },
      {
@@ -188,9 +190,11 @@
    "paragraphs": [
     [
      {
-      "text": "Sabin and Peter Olitsky discovered that polio does not enter the human body through the nose, as had previously been suggested.",
+      "text": "According to the University of Cincinnati timeline, Sabin and Peter Olitsky discovered that polio does not enter the human body through the nose, as had previously been suggested.",
       "claims": [
-       "c16"
+       "c16",
+       "c-aud-20261127-4",
+       "c-aud-20261127-5"
       ]
      },
      {
@@ -232,9 +236,10 @@
       ]
      },
      {
-      "text": "By 1957 he had identified three attenuated strains that were ready for small trials in humans.",
+      "text": "In October 1956 he reported that he had developed a vaccine from three attenuated strains, given by mouth to over 50 volunteers.",
       "claims": [
-       "c20"
+       "c20",
+       "c-aud-20261127-3"
       ]
      }
     ],
@@ -250,7 +255,9 @@
    "media": [
     "m1"
    ],
-   "disagreements": []
+   "disagreements": [
+    "d9001"
+   ]
   },
   {
    "id": "s3",
@@ -399,9 +406,10 @@
     ],
     [
      {
-      "text": "The vaccine was taken by mouth and needed no follow-up doses.",
+      "text": "The vaccine was taken by mouth, in a primary series of three doses.",
       "claims": [
-       "c44"
+       "c44",
+       "c-aud-20261127-1"
       ]
      },
      {
@@ -469,9 +477,10 @@
       ]
      },
      {
-      "text": "In 1970 he received the National Medal of Science from President Nixon.",
+      "text": "In 1971 President Nixon presented him with the National Medal of Science for 1970.",
       "claims": [
-       "c57"
+       "c57",
+       "c-aud-20261127-11"
       ]
      },
      {
@@ -621,15 +630,17 @@
     ],
     [
      {
-      "text": "The rival vaccine also had failures. The Salk vaccine was accidentally contaminated with live virulent polioviruses, which brought death or severe illness to hundreds of school children.",
+      "text": "The rival vaccine also had failures. In 1955 Cutter Laboratories released doses of the Salk vaccine in which the virus had not been properly killed, and they contained live poliovirus.",
       "claims": [
-       "c52"
+       "c52",
+       "c-aud-20261127-7"
       ]
      },
      {
-      "text": "According to AAI, in the Cutter incident 56 children developed paralysis, and five of them died.",
+      "text": "According to AAI, in the Cutter incident 56 vaccinated children developed paralysis and five of them died; another five children died and 113 were paralyzed after catching polio from vaccine recipients.",
       "claims": [
-       "c53"
+       "c53",
+       "c-aud-20261127-10"
       ]
      }
     ],
@@ -722,9 +733,10 @@
      ]
     },
     {
-     "says": "According to an encyclopedia, about 145 million people in the Soviet Union by 1960",
+     "says": "According to the Science History Institute, more than 15 million people in the Soviet Union in 1959, and about 77 million more children by the end of 1960",
      "claims": [
-      "c33"
+      "c33",
+      "c-aud-20261127-6"
      ]
     }
    ]
@@ -782,9 +794,28 @@
      ]
     },
     {
-     "says": "According to an encyclopedia, he was appointed in 1972 and left the position two years later",
+     "says": "According to JTA in November 1972, he retired from the presidency on January 1, 1973, after about three years in the post",
      "claims": [
-      "c70"
+      "c70",
+      "c-aud-20261127-2"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9001",
+   "question": "Who found that the poliovirus does not enter the body through the nose, and when?",
+   "versions": [
+    {
+     "says": "University of Cincinnati timeline: Sabin and Peter Olitsky, in their joint research in 1934–1937",
+     "claims": [
+      "c-aud-20261127-4"
+     ]
+    },
+    {
+     "says": "AAI: the 1936 experiment with Olitsky seemed to confirm polio was a disease of the nervous system only; only in the 1940 Cincinnati autopsies did Sabin and his assistants confirm entry via the digestive tract rather than the nose",
+     "claims": [
+      "c-aud-20261127-5"
      ]
     }
    ]
@@ -1391,6 +1422,105 @@
    "quote": "After Sabin developed calcification of the cervical spine in 1983",
    "status": "confirmed",
    "locator": "שורה 41"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "החיסון ניתן דרך הפה, בסדרה ראשונית של שלוש מנות.",
+   "source": "src9001",
+   "quote": "Approximately 50% of vaccine recipients develop antibody to all three serotypes after a single dose of OPV",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "לפי JTA בנובמבר 1972, הוא פרש מהנשיאות ב-1 בינואר 1973, אחרי כשלוש שנים בתפקיד",
+   "source": "src9002",
+   "quote": "will retire Jan. 1, 1973 from the presidency of the Weizmann Institute of Science",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "באוקטובר 1956 דיווח שפיתח חיסון משלושה זנים מוחלשים, שניתן דרך הפה ליותר מ-50 מתנדבים.",
+   "source": "src7",
+   "quote": "when it was administered orally to over 50 volunteers",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-4",
+   "text": "ציר הזמן של אוניברסיטת סינסינטי: סבין ופיטר אוליצקי, במחקרם המשותף בשנים 1934–1937",
+   "source": "src7",
+   "quote": "They also discovered that polio in humans does not enter through the nose as previously posited",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-5",
+   "text": "AAI: הניסוי עם אוליצקי ב-1936 נראה כמאשר שהפוליו היא מחלה של מערכת העצבים בלבד; רק בנתיחות בסינסינטי ב-1940 אישרו סבין ועוזריו שהנגיף נכנס דרך מערכת העיכול ולא דרך האף",
+   "source": "src8",
+   "quote": "the poliovirus entered the body via the gastrointestinal tract rather than the nasal route",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-6",
+   "text": "לפי מכון ההיסטוריה של המדע, יותר מ-15 מיליון איש בברית המועצות ב-1959, ועוד כ-77 מיליון ילדים עד סוף 1960",
+   "source": "src9003",
+   "quote": "an additional 77 million children in the Soviet Union",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-7",
+   "text": "גם לחיסון המתחרה היו כשלים. ב-1955 שחררה חברת קאטר מנות של חיסון סולק שהנגיף בהן לא הומת כראוי, והן הכילו נגיף פוליו חי.",
+   "source": "src8",
+   "quote": "Cutter Laboratories had released a batch of 120,000 doses of the IPV that contained live poliovirus.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-8",
+   "text": "אלברט סבין נולד ב-26 באוגוסט 1906 בביאליסטוק, שהייתה אז חלק מהאימפריה הרוסית וכיום היא בפולין, להורים יהודים.",
+   "source": "src7",
+   "quote": "born August 26, 1906 in Bialystok which was then a part of Russia",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-9",
+   "text": "הוא נולד להורים יהודים בביאליסטוק, אז חלק מרוסיה וכיום בפולין, ב-1906. ב-1931 קיבל תואר דוקטור לרפואה מאוניברסיטת ניו יורק, ומיד החל לחקור את הפוליו.",
+   "source": "src7",
+   "quote": "born August 26, 1906 in Bialystok which was then a part of Russia",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-10",
+   "text": "לפי AAI, באירוע קאטר פיתחו 56 ילדים מחוסנים שיתוק, וחמישה מהם מתו; עוד חמישה ילדים מתו ו-113 שותקו אחרי שנדבקו ממחוסנים.",
+   "source": "src8",
+   "quote": "Another five children died and 113 were paralyzed after contracting polio from one of the vaccine recipients.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-11",
+   "text": "ב-1971 העניק לו הנשיא ניקסון את מדליית המדע הלאומית לשנת 1970.",
+   "source": "src9004",
+   "quote": "culminating in the development of the vaccine which has eliminated poliomyelitis as a major threat to human health",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1471,6 +1601,34 @@
    "label": "The Jewish Press: Albert Sabin, Eminent Virologist and Passionate Zionist",
    "url": "https://libapps.libraries.uc.edu/liblog/?p=8015",
    "kind": "press"
+  },
+  {
+   "id": "src9001",
+   "label": "CDC MMWR (ACIP), Poliomyelitis Prevention in the United States",
+   "url": "https://www.cdc.gov/mmwr/preview/mmwrhtml/00046568.htm",
+   "kind": "official",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9002",
+   "label": "JTA, Sabin to Retire as Weizmann Institute President; Ill Health Cited as Reason, 29 Nov 1972",
+   "url": "https://www.jta.org/archive/sabin-to-retire-as-weizmann-institute-president-ill-health-cited-as-reason",
+   "kind": "press",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9003",
+   "label": "Science History Institute, Distillations, Political Ills",
+   "url": "https://www.sciencehistory.org/stories/magazine/political-ills/",
+   "kind": "organisation",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9004",
+   "label": "The American Presidency Project, Remarks Presenting the National Medal of Science Awards for 1970, May 21, 1971",
+   "url": "https://www.presidency.ucsb.edu/documents/remarks-presenting-the-national-medal-science-awards-for-1970",
+   "kind": "official",
+   "date": "2026-11-27"
   }
  ],
  "media": [
@@ -1687,7 +1845,7 @@
    "licence": "YouTube, embedded only (standard YouTube licence)",
    "licence_url": "https://www.youtube.com/static?template=terms",
    "hosting": "embed",
-   "caption": "An archival WCPO report on \"Sabin Sunday\" in Cincinnati, when children were vaccinated in a final huge trial before the vaccine was distributed worldwide.",
+   "caption": "An archival WCPO report on \"Sabin Sunday\" in Cincinnati, when children received the oral vaccine in its first public distribution in the United States.",
    "illustrates": [
     "c35",
     "c36",

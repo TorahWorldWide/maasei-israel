@@ -222,9 +222,10 @@
     ],
     [
      {
-      "text": "According to a caption to a picture of an air letter Agnon sent from Stockholm in August 1951, he was then nominated for the first time as a candidate for the Nobel Prize, but he won the prize only in 1966.",
+      "text": "According to Haaretz, Agnon was first put forward as a candidate for the Nobel Prize as early as 1947, but he won the prize only in 1966.",
       "claims": [
-       "c42"
+       "c42",
+       "c-aud-20261127-1"
       ]
      },
      {
@@ -367,9 +368,10 @@
     ],
     [
      {
-      "text": "According to the Jerusalem Post, the announcement of the award was on 18 October 1966",
+      "text": "According to Haaretz, the final decision on the award was made on 20 October 1966, and at the end of the meeting Österling announced the winners to the press",
       "claims": [
-       "c3"
+       "c3",
+       "c-aud-20261127-2"
       ]
      }
     ]
@@ -1311,6 +1313,24 @@
    "quote": "in 1967 – on his first and only trip to America – Israeli author S.Y. Agnon stood before 1000 Americans",
    "status": "confirmed",
    "locator": "שורה 6"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "לפי הארץ, עגנון הועמד לראשונה כמועמד לפרס נובל כבר ב-1947, אך זכה בפרס רק ב-1966.",
+   "source": "src9001",
+   "quote": "had been formally suggested for the prize in 1947, 1949, 1951 and 1965",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "לפי הארץ, ההחלטה הסופית על הזכייה התקבלה ב-20 באוקטובר 1966, ובסיום הישיבה הודיע אוסטרלינג לעיתונאים על הזוכים",
+   "source": "src9001",
+   "quote": "The final decision was made on October 20 by vote",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1385,6 +1405,13 @@
    "label": "Jewish Journal: Agnon's 1967 trip to America",
    "url": "https://jewishjournal.com/?p=353381",
    "kind": "press"
+  },
+  {
+   "id": "src9001",
+   "label": "Haaretz, War of the Words: The Intrigues Behind Israel's First Nobel Prize Win, 2017-01-23",
+   "url": "https://www.haaretz.com/israel-news/culture/2017-01-23/ty-article/the-intrigues-behind-s-y-agnons-nobel-prize-win/0000017f-e864-dc91-a17f-fceda9610000",
+   "kind": "press",
+   "date": "2026-11-27"
   }
  ],
  "media": [

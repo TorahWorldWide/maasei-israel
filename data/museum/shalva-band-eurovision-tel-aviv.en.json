@@ -1,7 +1,7 @@
 {
  "schema": "maasei-museum/1",
  "slug": "shalva-band-eurovision-tel-aviv",
- "deed": "להקת שלווה של מוזיקאים עם מוגבלות עלתה על במת האירוויזיון בתל אביב",
+ "deed": "A Shalva Band of musicians with disabilities took the Eurovision stage in Tel Aviv",
  "canonical_type": "cultural-creation",
  "year": "2019",
  "title": "The Shalva Band of musicians with disabilities gave up \"The Rising Star\" because of Shabbat and went on to the Eurovision stage",
@@ -513,10 +513,11 @@
     ],
     [
      {
-      "text": "President Donald Trump hugged its members there.",
+      "text": "In December 2019 the band performed \"God Bless America\" at the Israeli American Council summit in Hollywood, Florida, and at the end of the song its members rushed to hug President Donald Trump.",
       "claims": [
        "c86",
-       "c87"
+       "c87",
+       "c-aud-20261127-1"
       ]
      },
      {
@@ -1254,6 +1255,15 @@
    "quote": "Dina, who immigrated from Manipur, India to Israel at age 10, said she learned Hebrew through music.",
    "status": "confirmed",
    "locator": "שורה 10"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "בדצמבר 2019 ביצעה הלהקה את \"God Bless America\" בכנס המועצה הישראלית-אמריקאית בהוליווד שבפלורידה, ובסוף השיר רצו חבריה לחבק את הנשיא דונלד טראמפ.",
+   "source": "src17",
+   "quote": "At the conclusion of the song, members of the band rushed to embrace the President.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [

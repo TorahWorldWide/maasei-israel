@@ -465,9 +465,10 @@
     ],
     [
      {
-      "text": "According to JNS, in 2014 the U.S. Department of Veterans Affairs agreed to pay for exoskeletons for eligible veterans with spinal-cord injuries.",
+      "text": "In December 2015 the U.S. Department of Veterans Affairs agreed to pay for exoskeletons for eligible veterans with spinal-cord injuries.",
       "claims": [
-       "c55"
+       "c55",
+       "c-aud-20261127-1"
       ]
      },
      {
@@ -513,9 +514,7 @@
    "media": [
     "m3"
    ],
-   "disagreements": [
-    "d5"
-   ]
+   "disagreements": []
   },
   {
    "id": "s7",
@@ -564,9 +563,10 @@
       ]
      },
      {
-      "text": "In June 2017 a Florida court ruled that Blue Cross Blue Shield of Florida must cover a ReWalk system for a plan member with a spinal cord injury.",
+      "text": "In 2017 the State of Florida Division of Administrative Hearings ruled that Blue Cross Blue Shield of Florida must cover a ReWalk system for a plan member with a spinal cord injury.",
       "claims": [
-       "c56"
+       "c56",
+       "c-aud-20261127-2"
       ]
      },
      {
@@ -578,9 +578,10 @@
     ],
     [
      {
-      "text": "Even in Israel, where the device was invented, it did not reach IDF disabled veterans.",
+      "text": "Even in Israel, where it was invented, the device had not reached IDF disabled veterans as of 2016; in April 2025 the company reported a paralyzed soldier, the first injured in the war to walk again with it, and said the Rehabilitation Department is evaluating it for other veterans.",
       "claims": [
-       "c68"
+       "c68",
+       "c-aud-20261127-3"
       ]
      },
      {
@@ -692,24 +693,6 @@
    ]
   },
   {
-   "id": "d5",
-   "question": "On which stock exchange is the company traded?",
-   "versions": [
-    {
-     "says": "JNS: the New York Stock Exchange",
-     "claims": [
-      "c58"
-     ]
-    },
-    {
-     "says": "Globes: an IPO on Nasdaq in September 2014, two months after FDA approval",
-     "claims": [
-      "c59"
-     ]
-    }
-   ]
-  },
-  {
    "id": "d6",
    "question": "How much does the device cost?",
    "versions": [
@@ -760,10 +743,11 @@
    ]
   },
   {
-   "text": "It is not known whether the device eventually reached IDF disabled veterans",
+   "text": "It is not known whether the Ministry of Defense adopted the device for other IDF disabled veterans",
    "claims": [
     "c69",
-    "c70"
+    "c70",
+    "c-aud-20261127-4"
    ]
   }
  ],
@@ -1305,22 +1289,6 @@
    "locator": "שורה 42"
   },
   {
-   "id": "c58",
-   "text": "לפי JNS, החברה נסחרת בבורסת ניו יורק.",
-   "source": "src5",
-   "quote": "And the company is publicly traded on the New York Stock Exchange.",
-   "status": "confirmed",
-   "locator": "שורה 10"
-  },
-  {
-   "id": "c59",
-   "text": "לפי גלובס, ריוואוק ביצעה הנפקה בנאסד\"ק בספטמבר 2014, חודשיים אחרי אישור ה-FDA.",
-   "source": "src6",
-   "quote": "held its Nasdaq IPO in September 2014, two months after obtaining US Food and Drug Administration (FDA) approval for its product",
-   "status": "confirmed",
-   "locator": "שורה 6"
-  },
-  {
    "id": "c42",
    "text": "לפי ג'רוזלם פוסט, הדיווחים בתקשורת מעמידים את מחיר המכשיר על 65,000 עד 68,000 דולר.",
    "source": "src2",
@@ -1351,6 +1319,42 @@
    "quote": "and has served as its President and Chief Technology Officer since 2012",
    "status": "confirmed",
    "locator": "שורה 8"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "בדצמבר 2015 הסכים משרד ענייני החיילים המשוחררים האמריקאי לשלם עבור שלדים חיצוניים לחיילים משוחררים זכאים עם פגיעות חוט שדרה.",
+   "source": "src9001",
+   "quote": "The VA has agreed to pay for the powered exoskeleton for eligible paralyzed veterans with spinal cord injuries",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "ב-2017 קבעה הרשות לשימועים מנהליים של מדינת פלורידה שחברת Blue Cross Blue Shield of Florida חייבת לכסות מערכת ReWalk למבוטח עם פגיעת חוט שדרה.",
+   "source": "src9002",
+   "quote": "the State of Florida Division of Administrative Hearings held that there is",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "גם בישראל, שבה הומצא המכשיר, הוא לא הגיע לנכי צה\"ל לפחות עד 2016; באפריל 2025 דיווחה החברה על חייל משותק, הפצוע הראשון במלחמה שהלך שוב בעזרתו, ועל כך שאגף השיקום בוחן אותו עבור נכים נוספים.",
+   "source": "src9003",
+   "quote": "becomes the first Israeli injured in the war to use an exoskeleton to stand and walk again",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-4",
+   "text": "לא ידוע אם משרד הביטחון אימץ את המכשיר עבור נכי צה\"ל נוספים",
+   "source": "src9003",
+   "quote": "it is now evaluating the safety and effectiveness of the device for other paralyzed Veterans in Israel",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1407,6 +1411,27 @@
    "label": "BioSpace (ReWalk Robotics press release): ReWalk' Founder Dr. Amit Goffer To Retire",
    "url": "https://www.biospace.com/rewalk-founder-b-dr-amit-goffer-b-to-retire",
    "kind": "press"
+  },
+  {
+   "id": "src9001",
+   "label": "AP via WUSF, VA Sets National Policy For Robotic Legs For Paralyzed Vets, 21 Dec 2015",
+   "url": "https://www.wusf.org/american-homefront/2015-12-21/va-sets-national-policy-for-robotic-legs-for-paralyzed-vets",
+   "kind": "press",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9002",
+   "label": "ReWalk Robotics press release (PR Newswire), Florida Blue Cross Blue Shield to Cover ReWalk Exoskeleton..., 12 Jun 2017",
+   "url": "https://www.prnewswire.com/news-releases/florida-blue-cross-blue-shield-to-cover-rewalk-exoskeleton-for-paralyzed-plan-member-following-court-decision-deeming-the-device-medically-necessary-300472169.html",
+   "kind": "organisation",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9003",
+   "label": "Lifeward, Paralyzed Israeli Soldier Walks Again with Use of the ReWalk Personal Exoskeleton, 24 Apr 2025",
+   "url": "https://golifeward.com/blog/paralyzed-israeli-soldier-walks-again-with-use-of-the-rewalk-personal-exoskeleton/",
+   "kind": "organisation",
+   "date": "2026-11-27"
   }
  ],
  "media": [

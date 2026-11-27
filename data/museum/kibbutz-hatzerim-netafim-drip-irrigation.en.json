@@ -1,7 +1,7 @@
 {
  "schema": "maasei-museum/1",
  "slug": "kibbutz-hatzerim-netafim-drip-irrigation",
- "deed": "קיבוץ חצרים אימץ את הטפטוף של שמחה בלאס והפך אותו לתעשייה עולמית",
+ "deed": "Kibbutz Hatzerim adopted Simcha Blass's drip irrigation and turned it into a global industry",
  "canonical_type": "team-invention",
  "year": "1965",
  "title": "Simcha Blass invented a dripper, Kibbutz Hatzerim in the Negev built Netafim around it, and drip irrigation reached the world",
@@ -28,9 +28,10 @@
    ]
   },
   {
-   "text": "According to Netafim CEO Ran Maidan, farmers who use the technology achieve on average a 50% higher crop yield with 50% lower input.",
+   "text": "According to Ran Maidan, Netafim's CEO when interviewed in 2015, farmers who use the technology achieve on average a 50% higher crop yield with 50% lower input.",
    "claims": [
-    "c33"
+    "c33",
+    "c-aud-20261127-3"
    ]
   }
  ],
@@ -321,9 +322,10 @@
       ]
      },
      {
-      "text": "Netafim CEO Ran Maidan said: \"Simcha invented the dripper, but Rafi really developed the dripper\".",
+      "text": "Then-Netafim CEO Ran Maidan said: \"Simcha invented the dripper, but Rafi really developed the dripper\".",
       "claims": [
-       "c20"
+       "c20",
+       "c-aud-20261127-4"
       ]
      }
     ],
@@ -400,9 +402,11 @@
       ]
      },
      {
-      "text": "The first installation in the U.S. was in June 1970, on an avocado orchard in northern San Diego County, California.",
+      "text": "According to Barak, the first installation in the U.S. was in June 1970, on an avocado orchard in northern San Diego County, California.",
       "claims": [
-       "c29"
+       "c29",
+       "c-aud-20261127-1",
+       "c-aud-20261127-2"
       ]
      },
      {
@@ -449,7 +453,8 @@
     "d1",
     "d2",
     "d3",
-    "d4"
+    "d4",
+    "d9001"
    ]
   },
   {
@@ -800,6 +805,24 @@
      "says": "TriplePundit: Blass founded Netafim with investment from Kibbutz Hatzerim",
      "claims": [
       "c66"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9001",
+   "question": "When did drip irrigation first reach the U.S.?",
+   "versions": [
+    {
+     "says": "Naty Barak of Netafim: the first U.S. installation was in June 1970, on an avocado orchard in northern San Diego County",
+     "claims": [
+      "c-aud-20261127-1"
+     ]
+    },
+    {
+     "says": "C. Don Gustafson, San Diego County farm advisor, writing in 1979: drip was brought into California for commercial crops about ten years earlier, i.e. around 1969, in an experimental avocado orchard. Nurseries and greenhouses were already using spaghetti-type trickle irrigation at that time",
+     "claims": [
+      "c-aud-20261127-2"
      ]
     }
    ]
@@ -1366,6 +1389,42 @@
    "quote": "He founded Netafim in 1965, scoring investment from Kibbutz Hatzerim.",
    "status": "confirmed",
    "locator": "שורה 4"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "נתי ברק מנטפים: ההתקנה הראשונה בארה\"ב הייתה ביוני 1970, במטע אבוקדו בצפון מחוז סן דייגו",
+   "source": "src9001",
+   "quote": "The first U.S. installation was in June, 1970",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "דון גוסטפסון, יועץ חקלאי במחוז סן דייגו, ב־1979: הטפטוף הוכנס לקליפורניה לגידולים מסחריים כעשר שנים קודם לכן, כלומר בסביבות 1969, במטע אבוקדו ניסיוני. כבר אז השתמשו משתלות וחממות בטפטוף מסוג 'ספגטי'",
+   "source": "src9002",
+   "quote": "It has been ten years since drip irrigation was introduced into California to be used on commercial agricultural crops.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "לפי ראן מידן, מנכ\"ל נטפים בעת שהתראיין ב־2015, חקלאים המשתמשים בטכנולוגיה משיגים בממוצע יבול גבוה ב־50% עם תשומות נמוכות ב־50%.",
+   "source": "src9003",
+   "quote": "after six successful years as CEO",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-4",
+   "text": "מנכ\"ל נטפים דאז ראן מידן אמר: \"שמחה המציא את הטפטפת, אבל רפי באמת פיתח אותה\".",
+   "source": "src9003",
+   "quote": "after six successful years as CEO",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1428,6 +1487,27 @@
    "label": "Calcalist",
    "url": "https://www.calcalist.co.il/articles/0,7340,L-3722581,00.html",
    "kind": "press"
+  },
+  {
+   "id": "src9001",
+   "label": "MIT Sloan Management Review, To Conserve Water for Agriculture, a Solution from the Desert",
+   "url": "https://sloanreview.mit.edu/article/to-conserve-water-for-agriculture-a-solution-from-the-desert/",
+   "kind": "press",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9002",
+   "label": "California Avocado Society 1979 Yearbook 63:47-49, C. Don Gustafson, History and Present Trends of Drip Irrigation",
+   "url": "https://www.avocadosource.com/CAS_Yearbooks/CAS_63_1979/CAS_1979_PG_047-049.pdf",
+   "kind": "other",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9003",
+   "label": "Netafim, news: Gaby Miodownik appointed CEO, 2020",
+   "url": "https://www.netafim.com/en/news-and-events/news/Gabi-Maidovnik-CEO/",
+   "kind": "organisation",
+   "date": "2026-11-27"
   }
  ],
  "media": [

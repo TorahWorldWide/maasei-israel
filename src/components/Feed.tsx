@@ -10,24 +10,45 @@ import EntryCard from "./EntryCard";
 import Slideshow from "./Slideshow";
 
 const CATEGORIES = ["הכל", "חסד", "המצאה מדעית", "תרומה לעולם", "היסטורי"] as const;
+// short Latin names for the address bar
+const KEY_BY_CAT: Record<string, string> = {
+  חסד: "kindness",
+  "המצאה מדעית": "science",
+  "תרומה לעולם": "world",
+  היסטורי: "history",
+};
+const CAT_BY_KEY: Record<string, string> = Object.fromEntries(
+  Object.entries(KEY_BY_CAT).map(([cat, key]) => [key, cat]),
+);
 
 interface FeedProps {
   entries: Entry[];
   // From ?era=1800-1900,2000-2100 — parsed on the server so a shared link renders
   // already filtered instead of flashing the full catalog first.
   initialEras?: string[];
+  initialCat?: string;
+  initialQuery?: string;
 }
 
-export default function Feed({ entries, initialEras = [] }: FeedProps) {
+export default function Feed({ entries, initialEras = [], initialCat, initialQuery = "" }: FeedProps) {
   const { lang } = useLang();
   const allEras = useMemo(() => erasPresent(entries), [entries]);
 
-  const [category, setCategory] = useState("הכל");
+  // 27.11: category, era and search live in the address (?cat=&era=&q=), so Back
+  // from a deed page returns to the exact same filtered catalog. On the client the
+  // current address wins (a Back navigation remounts this with the old props).
+  const urlParams = () =>
+    typeof window === "undefined" ? null : new URLSearchParams(window.location.search);
+  const [category, setCategory] = useState<string>(() => {
+    const key = urlParams()?.get("cat") ?? initialCat;
+    return CAT_BY_KEY[key ?? ""] ?? "הכל";
+  });
   const [eras, setEras] = useState<string[]>(() => {
     const valid = new Set(erasPresent(entries).map((e) => e.key));
-    return initialEras.filter((k) => valid.has(k));
+    const fromUrl = urlParams()?.get("era")?.split(",").filter(Boolean);
+    return (fromUrl ?? initialEras).filter((k) => valid.has(k));
   });
-  const [search, setSearch] = useState("");
+  const [search, setSearch] = useState<string>(() => urlParams()?.get("q") ?? initialQuery);
   const [slideshowIndex, setSlideshowIndex] = useState<number | null>(null);
 
   const skipUrlWrite = useRef(true);
@@ -40,9 +61,15 @@ export default function Feed({ entries, initialEras = [] }: FeedProps) {
     const params = new URLSearchParams(window.location.search);
     if (eras.length) params.set("era", eras.join(","));
     else params.delete("era");
+    const catKey = KEY_BY_CAT[category];
+    if (catKey) params.set("cat", catKey);
+    else params.delete("cat");
+    if (search.trim()) params.set("q", search);
+    else params.delete("q");
     const qs = params.toString();
-    window.history.replaceState(null, "", qs ? `?${qs}` : window.location.pathname);
-  }, [eras]);
+    // keep Next's own history state, or Back/Forward lose their scroll position
+    window.history.replaceState(window.history.state, "", (qs ? `?${qs}` : window.location.pathname) + window.location.hash);
+  }, [eras, category, search]);
 
   const toggleEra = (key: string) =>
     setEras((prev) => (prev.includes(key) ? prev.filter((k) => k !== key) : [...prev, key]));

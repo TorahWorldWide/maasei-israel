@@ -13,7 +13,7 @@ export const dynamic = "force-dynamic";
 export default async function Home({
   searchParams,
 }: {
-  searchParams: Promise<{ era?: string }>;
+  searchParams: Promise<{ era?: string; cat?: string; q?: string }>;
 }) {
   const [entries, overview, params, reel] = await Promise.all([
     getApprovedEntries(),
@@ -39,7 +39,7 @@ export default async function Home({
       <main id="catalog" className="flex-1 w-full scroll-mt-20 relative">
         <div className="max-w-6xl mx-auto w-full px-4 sm:px-6 py-14">
           <CatalogHeading />
-          <Feed entries={entries} initialEras={initialEras} />
+          <Feed entries={entries} initialEras={initialEras} initialCat={params.cat} initialQuery={params.q ?? ""} />
         </div>
       </main>
 

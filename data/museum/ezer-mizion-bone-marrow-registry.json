@@ -285,9 +285,10 @@
    "paragraphs": [
     [
      {
-      "text": "לפי ynet, ב-1998 יצרו ד\"ר זיסר ועזר מציון את מאגר התורמים היהודי הראשון בישראל, כדי לעזור לחולים יהודים בעולם.",
+      "text": "לפי ynet, ב-1998 יצרו ד\"ר זיסר ועזר מציון את מאגר התורמים, כדי לעזור לחולים יהודים בעולם. מאגר תורמי מח העצם הראשון בישראל נפתח עוד ב-1987 בהדסה.",
       "claims": [
-       "c5"
+       "c5",
+       "c-aud-20261127-1"
       ]
      },
      {
@@ -510,7 +511,8 @@
     "d5",
     "d6",
     "d7",
-    "d8"
+    "d8",
+    "d9001"
    ]
   },
   {
@@ -773,6 +775,24 @@
      "says": "לפי ד\"ר זיסר ב-2023, 60% מההתאמות הן עם חולה מחוץ לישראל",
      "claims": [
       "c48"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9001",
+   "question": "באיזו מדינה שיעור הרישום לנפש למאגר מח עצם הוא הגבוה בעולם?",
+   "versions": [
+    {
+     "says": "לפי Times of Israel (2012), ישראל, בזכות שיתוף הפעולה עם צה\"ל",
+     "claims": [
+      "c-aud-20261127-2"
+     ]
+    },
+    {
+     "says": "לפי Cyprus Mail (2019), קפריסין: מאגר קרייסקקיו, עם יותר מ-170,000 תורמים, הוא הגדול בעולם ביחס לאוכלוסייה",
+     "claims": [
+      "c-aud-20261127-3"
      ]
     }
    ]
@@ -1416,6 +1436,33 @@
    "quote": "60% are matched with a patient outside of Israel.",
    "status": "confirmed",
    "locator": "שורה 74"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "לפי ynet, ב-1998 יצרו ד\"ר זיסר ועזר מציון את מאגר התורמים, כדי לעזור לחולים יהודים בעולם. מאגר תורמי מח העצם הראשון בישראל נפתח עוד ב-1987 בהדסה.",
+   "source": "src9001",
+   "quote": "In 1987, it opened Israel's first Bone Marrow Donor Registry",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "לפי Times of Israel (2012), ישראל, בזכות שיתוף הפעולה עם צה\"ל",
+   "source": "src7",
+   "quote": "has recently pushed Israel to the highest per capita registry rate in the world",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "לפי Cyprus Mail (2019), קפריסין: מאגר קרייסקקיו, עם יותר מ-170,000 תורמים, הוא הגדול בעולם ביחס לאוכלוסייה",
+   "source": "src9002",
+   "quote": "making it the largest one in the world in terms of population",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1466,6 +1513,20 @@
    "label": "Ezer Mizion, related topics page",
    "url": "https://ezermizion.org/?p=20690",
    "kind": "organisation"
+  },
+  {
+   "id": "src9001",
+   "label": "Hadassah Magazine, Medicine: Equality in Marrow, June 2012",
+   "url": "https://www.hadassahmagazine.org/2012/06/03/medicine-equality-marrow/",
+   "kind": "organisation",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9002",
+   "label": "Cyprus Mail, 8 Sep 2019",
+   "url": "https://archive.cyprus-mail.com/?p=265018",
+   "kind": "press",
+   "date": "2026-11-27"
   }
  ],
  "media": [

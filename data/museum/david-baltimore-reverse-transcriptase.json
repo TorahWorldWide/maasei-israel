@@ -505,7 +505,9 @@
     "m10",
     "m44"
    ],
-   "disagreements": []
+   "disagreements": [
+    "d9001"
+   ]
   },
   {
    "id": "s6",
@@ -648,6 +650,24 @@
      "says": "אוניברסיטת רוקפלר: מ-1997 עד 2006",
      "claims": [
       "c53"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9001",
+   "question": "מתי נבחר בולטימור לחבר זר באקדמיה הצרפתית למדעים?",
+   "versions": [
+    {
+     "says": "לפי AAI: ב-2000",
+     "claims": [
+      "c-aud-20261127-1"
+     ]
+    },
+    {
+     "says": "לפי ASU: ב-1987, יחד עם הבחירה לרויאל סוסייטי",
+     "claims": [
+      "c-aud-20261127-2"
      ]
     }
    ]
@@ -1244,6 +1264,24 @@
    "locator": "audit 2026-11-27",
    "status": "confirmed",
    "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "לפי AAI: ב-2000",
+   "source": "src9005",
+   "quote": "Foreign member, French Academy of Sciences, 2000",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "לפי ASU: ב-1987, יחד עם הבחירה לרויאל סוסייטי",
+   "source": "src9006",
+   "quote": "In 1987, he was elected a foreign member of the Royal Society and French Academy of Science.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1320,6 +1358,20 @@
    "label": "Caltech Alumni Association, 'Ray Jayawardhana Begins His Term as Caltech's 10th President', July 2026",
    "url": "https://www.alumni.caltech.edu/techer/news/ray-jayawardhana-begins-his-term-as-caltechs-10th-president/",
    "kind": "organisation",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9005",
+   "label": "American Association of Immunologists, David Baltimore, Ph.D.",
+   "url": "https://www.aai.org/About/History/Notable-Members/Nobel-Laureates/DavidBaltimore",
+   "kind": "organisation",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9006",
+   "label": "Embryo Project Encyclopedia (ASU), David Baltimore (1938–2025)",
+   "url": "https://embryo.asu.edu/pages/david-baltimore-1938",
+   "kind": "reference",
    "date": "2026-11-27"
   }
  ],

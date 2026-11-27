@@ -19,12 +19,12 @@ function Section({ label, text, inGrid }: { label: string; text?: string; inGrid
   const paragraphs = text.split(/\n\s*\n/).filter((p) => p.trim());
   return (
     <div
-      className={`bg-[#0f234d]/60 rounded-xl p-4 border border-[rgba(201,168,74,0.15)]${inGrid ? "" : " mb-8"}`}
+      className={`bg-[#f6f1e6] rounded-xl p-4 border border-[#d8ccb4]${inGrid ? "" : " mb-8"}`}
     >
-      <p className="text-xs text-[#c9a84a] font-medium mb-1">{label}</p>
+      <p className="text-xs text-[#8a5a2b] font-medium mb-1">{label}</p>
       <div className="flex flex-col gap-3">
         {paragraphs.map((p, i) => (
-          <p key={i} className="text-sm text-blue-100/80 leading-relaxed">
+          <p key={i} className="text-sm text-[#2e251c] leading-relaxed">
             {p}
           </p>
         ))}
@@ -51,14 +51,14 @@ function SourceList({ sources, lang }: { sources: SectionSource[]; lang: "he" | 
       {sources.map((s, i) => (
         <li
           key={i}
-          className="bg-[#0f234d]/60 rounded-xl p-4 border border-[rgba(201,168,74,0.15)]"
+          className="bg-[#f6f1e6] rounded-xl p-4 border border-[#d8ccb4]"
         >
-          <p className="text-sm text-blue-50/90 font-medium leading-snug">
-            <span className="text-blue-200/40">{s.n ?? i + 1}. </span>
+          <p className="text-sm text-[#221b14] font-medium leading-snug">
+            <span className="text-[#7a6a58]">{s.n ?? i + 1}. </span>
             {s.label}
           </p>
           {s.quote && (
-            <blockquote className="text-sm text-blue-100/70 italic mt-2">
+            <blockquote className="text-sm text-[#4a3d30] italic mt-2">
               &ldquo;{s.quote}&rdquo;
             </blockquote>
           )}
@@ -68,7 +68,7 @@ function SourceList({ sources, lang }: { sources: SectionSource[]; lang: "he" | 
                 href={s.url}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="text-[#c9a84a] hover:text-[#e6c66e] underline underline-offset-2 decoration-[#c9a84a]/40 transition-colors"
+                className="text-[#8a5a2b] hover:text-[#4a2e18] underline underline-offset-2 decoration-[#8a5a2b]/40 transition-colors"
               >
                 {t(lang, "toSource")}
               </a>
@@ -78,13 +78,13 @@ function SourceList({ sources, lang }: { sources: SectionSource[]; lang: "he" | 
                 href={s.archive_url}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="text-[#c9a84a] hover:text-[#e6c66e] underline underline-offset-2 decoration-[#c9a84a]/40 transition-colors"
+                className="text-[#8a5a2b] hover:text-[#4a2e18] underline underline-offset-2 decoration-[#8a5a2b]/40 transition-colors"
               >
                 {t(lang, "toArchive")}
               </a>
             )}
             {!s.url && (
-              <span className="text-blue-200/40">{t(lang, "noSourceLink")}</span>
+              <span className="text-[#7a6a58]">{t(lang, "noSourceLink")}</span>
             )}
           </div>
         </li>
@@ -112,18 +112,18 @@ function Article({ sections, lang }: { sections: ArticleSection[]; lang: "he" | 
             key={i}
             className={
               doubts
-                ? "bg-[#0b1c3f]/70 border border-[rgba(201,168,74,0.12)] rounded-xl px-5 py-5"
+                ? "bg-[#e3d9c5] border border-[#d8ccb4] rounded-xl px-5 py-5"
                 : undefined
             }
           >
             {doubts && (
-              <p className="text-[11px] tracking-wider text-blue-200/45 mb-2">
+              <p className="text-[11px] tracking-wider text-[#7a6a58] mb-2">
                 {t(lang, "doubtsLabel")}
               </p>
             )}
             {heading && (
               <h2
-                className={`font-bold text-[#e6c66e] mb-3 leading-snug ${doubts ? "text-lg md:text-xl" : "text-xl md:text-2xl"}`}
+                className={`font-bold text-[#6b4426] mb-3 leading-snug ${doubts ? "text-lg md:text-xl" : "text-xl md:text-2xl"}`}
                 style={{ fontFamily: "var(--font-frank-ruhl), serif" }}
               >
                 {heading}
@@ -136,7 +136,7 @@ function Article({ sections, lang }: { sections: ArticleSection[]; lang: "he" | 
                 {body.split(/\n\s*\n/).filter((p) => p.trim()).map((p, j) => (
                   <p
                     key={j}
-                    className={`leading-relaxed ${doubts ? "text-[15px] text-blue-100/70" : "text-base text-blue-100/80"}`}
+                    className={`leading-relaxed ${doubts ? "text-[15px] text-[#4a3d30]" : "text-base text-[#2e251c]"}`}
                   >
                     {p}
                   </p>
@@ -207,7 +207,7 @@ export default function DeedPageBody({ entry }: { entry: Entry }) {
         {/* Back link */}
         <Link
           href="/"
-          className="inline-flex items-center gap-1.5 text-[#c9a84a] hover:text-[#e6c66e] text-sm mb-8 transition-colors"
+          className="inline-flex items-center gap-1.5 text-[#8a5a2b] hover:text-[#4a2e18] text-sm mb-8 transition-colors"
         >
           <span aria-hidden="true">{lang === "he" ? "→" : "←"}</span>
           {t(lang, "backToAll")}
@@ -216,18 +216,18 @@ export default function DeedPageBody({ entry }: { entry: Entry }) {
         {/* Category + Year */}
         <div className="flex items-center gap-2 flex-wrap mb-4">
           {entryCategories(entry).map((cat) => (
-            <span key={cat} className="text-xs font-medium px-2.5 py-0.5 rounded-full bg-[#c9a84a]/15 text-[#e6c66e] border border-[#c9a84a]/25">
+            <span key={cat} className="text-xs font-medium px-2.5 py-0.5 rounded-full bg-[#c9a84a]/15 text-[#6b4426] border border-[#c9a84a]/25">
               {categoryLabel(lang, cat)}
             </span>
           ))}
           {entry.year && (
-            <span className="text-xs text-blue-200/45">{entry.year}</span>
+            <span className="text-xs text-[#7a6a58]">{entry.year}</span>
           )}
           {era && (
             <Link
               href={`/?era=${era.key}`}
               dir="ltr"
-              className="text-[11px] text-blue-200/30 hover:text-sky-200 transition-colors"
+              className="text-[11px] text-[#7a6a58] hover:text-[#6b4426] transition-colors"
             >
               {eraDisplay(era)}
             </Link>
@@ -236,7 +236,7 @@ export default function DeedPageBody({ entry }: { entry: Entry }) {
 
         {/* Title */}
         <h1
-          className="text-3xl md:text-4xl font-extrabold text-[#e6c66e] leading-tight mb-6"
+          className="text-3xl md:text-4xl font-extrabold text-[#6b4426] leading-tight mb-6"
           style={{ fontFamily: "var(--font-frank-ruhl), serif" }}
         >
           {pick(lang, entry.title, entry.title_en)}
@@ -292,7 +292,7 @@ export default function DeedPageBody({ entry }: { entry: Entry }) {
           <div className="mb-8">
             <div className="flex flex-col gap-3">
               {summary.split(/\n\s*\n/).filter((p) => p.trim()).map((p, i) => (
-                <p key={i} className="text-lg text-blue-50/90 leading-relaxed">
+                <p key={i} className="text-lg text-[#221b14] leading-relaxed">
                   {p}
                 </p>
               ))}
@@ -319,7 +319,7 @@ export default function DeedPageBody({ entry }: { entry: Entry }) {
             layout they were written for, where the description sits inside the
             chapters below. */}
         {article && pick(lang, entry.description, entry.description_en) && (
-          <p className="text-lg text-blue-50/90 leading-relaxed mb-8">
+          <p className="text-lg text-[#221b14] leading-relaxed mb-8">
             {pick(lang, entry.description, entry.description_en)}
           </p>
         )}
@@ -331,7 +331,7 @@ export default function DeedPageBody({ entry }: { entry: Entry }) {
             ) : (
               <>
                 {/* Description */}
-                <p className="text-base text-blue-100/80 leading-relaxed mb-8">
+                <p className="text-base text-[#2e251c] leading-relaxed mb-8">
                   {pick(lang, entry.description, entry.description_en)}
                 </p>
 
@@ -360,28 +360,28 @@ export default function DeedPageBody({ entry }: { entry: Entry }) {
 
             {/* Honors in their name */}
             {entry.honors && entry.honors.length > 0 && (
-              <div className="bg-[#0f234d]/60 rounded-xl p-4 border border-[rgba(201,168,74,0.15)] mb-8">
-                <p className="text-xs text-[#c9a84a] font-medium mb-2">{t(lang, "honorsLabel")}</p>
+              <div className="bg-[#f6f1e6] rounded-xl p-4 border border-[#d8ccb4] mb-8">
+                <p className="text-xs text-[#8a5a2b] font-medium mb-2">{t(lang, "honorsLabel")}</p>
                 <ul className="flex flex-col gap-1.5">
                   {entry.honors.map((honor, i) => {
                     const h = honorLine(honor);
                     const label = pick(lang, h.he, h.en);
                     if (!label) return null;
                     return (
-                      <li key={i} className="text-sm text-blue-100/80">
+                      <li key={i} className="text-sm text-[#2e251c]">
                         {h.source ? (
                           <a
                             href={h.source}
                             target="_blank"
                             rel="noopener noreferrer"
-                            className="hover:text-[#e6c66e] transition-colors"
+                            className="hover:text-[#4a2e18] transition-colors"
                           >
                             {label}
                           </a>
                         ) : (
                           label
                         )}
-                        {h.year ? <span className="text-blue-200/50"> · {h.year}</span> : null}
+                        {h.year ? <span className="text-[#7a6a58]"> · {h.year}</span> : null}
                       </li>
                     );
                   })}
@@ -394,20 +394,20 @@ export default function DeedPageBody({ entry }: { entry: Entry }) {
         {/* Citations */}
         {entry.citations && entry.citations.length > 0 && (
           <div className="mb-8">
-            <h2 className="text-sm font-semibold text-[#c9a84a] mb-3 uppercase tracking-wider">
+            <h2 className="text-sm font-semibold text-[#8a5a2b] mb-3 uppercase tracking-wider">
               {t(lang, "citationsHeading")}
             </h2>
             <ul className="flex flex-col gap-3">
               {entry.citations.map((c, i) => (
                 <li
                   key={i}
-                  className="bg-[#0f234d]/60 rounded-xl p-4 border border-[rgba(201,168,74,0.15)]"
+                  className="bg-[#f6f1e6] rounded-xl p-4 border border-[#d8ccb4]"
                 >
-                  <blockquote className="text-sm text-blue-100/80 italic mb-2">
+                  <blockquote className="text-sm text-[#2e251c] italic mb-2">
                     &ldquo;{c.quote}&rdquo;
                   </blockquote>
                   {lang === "en" && c.quote_en ? (
-                    <blockquote className="text-xs text-blue-200/65 italic mb-2">
+                    <blockquote className="text-xs text-[#5e4f40] italic mb-2">
                       &ldquo;{c.quote_en}&rdquo;
                     </blockquote>
                   ) : null}
@@ -415,7 +415,7 @@ export default function DeedPageBody({ entry }: { entry: Entry }) {
                     href={c.source_url}
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="text-xs text-[#c9a84a] hover:text-[#e6c66e] underline underline-offset-2 decoration-[#c9a84a]/40 hover:decoration-[#c9a84a] transition-colors"
+                    className="text-xs text-[#8a5a2b] hover:text-[#4a2e18] underline underline-offset-2 decoration-[#8a5a2b]/40 hover:decoration-[#8a5a2b] transition-colors"
                   >
                     — {pick(lang, c.source_label, c.source_label_en)}
                     {locatorLabel(lang, c.locator, c.locator_en) &&
@@ -428,12 +428,12 @@ export default function DeedPageBody({ entry }: { entry: Entry }) {
         )}
 
         {/* Source + Share */}
-        <div className="flex items-center justify-between gap-4 flex-wrap border-t border-[rgba(201,168,74,0.15)] pt-6">
+        <div className="flex items-center justify-between gap-4 flex-wrap border-t border-[#d8ccb4] pt-6">
           <a
             href={entry.source_url}
             target="_blank"
             rel="noopener noreferrer"
-            className="text-sm text-[#c9a84a] hover:text-[#e6c66e] underline underline-offset-2 decoration-[#c9a84a]/40 hover:decoration-[#c9a84a] transition-colors"
+            className="text-sm text-[#8a5a2b] hover:text-[#4a2e18] underline underline-offset-2 decoration-[#8a5a2b]/40 hover:decoration-[#8a5a2b] transition-colors"
           >
             {t(lang, "source")}: {pick(lang, entry.source_label, entry.source_label_en) || entry.source_url}
           </a>

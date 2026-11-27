@@ -247,7 +247,7 @@ export default function DeedImageCollage({
           <figcaption className="mt-2 px-0.5">
             {caption && (
               <p
-                className={`text-[11px] sm:text-xs text-blue-100/70 leading-snug ${
+                className={`text-[11px] sm:text-xs text-[#4a3d30] leading-snug ${
                   // A caption that rule 147 let run long is the context the page
                   // text never gives — clamping it away on a phone defeats it.
                   wide ? "line-clamp-4" : "line-clamp-3"
@@ -260,7 +260,7 @@ export default function DeedImageCollage({
               // Two lines, not one: the credit carries the licence attribution
               // ("צילום: X, ויקישיתוף, CC BY-SA 3.0"). Clamping it to one line
               // cut a photographer's name in mid-word on the phone.
-              <p className="mt-1 text-[10px] sm:text-[11px] text-blue-200/40 line-clamp-2">
+              <p className="mt-1 text-[10px] sm:text-[11px] text-[#7a6a58] line-clamp-2">
                 {credit}
               </p>
             )}

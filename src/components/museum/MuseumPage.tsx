@@ -601,6 +601,37 @@ function Lightbox({ m, onClose }: { m: MuseumMedia | null; onClose: () => void }
   );
 }
 
+// 27.11: the site's marked note ("asterisk") at the end of a page — facts with their sources,
+// then the site's own short view, plainly labelled as such.
+function EditorNote({ note, en }: { note: NonNullable<MuseumPageData["editor_note"]>; en: boolean }) {
+  const t = en ? note.en : note.he;
+  return (
+    <aside className="mx-note" aria-labelledby="note-h" dir={en ? "ltr" : "rtl"} lang={en ? "en" : "he"}>
+      <h2 id="note-h">
+        <span aria-hidden="true">*</span> {en ? "A note from the site" : "הערת האתר"}
+      </h2>
+      {t.text.map((p, i) => (
+        <p key={i}>{p}</p>
+      ))}
+      {t.opinion && (
+        <p className="mx-note-view">
+          <b>{en ? "Our view: " : "דעת האתר: "}</b>
+          {t.opinion}
+        </p>
+      )}
+      <p className="mx-note-src">
+        {en ? "Sources: " : "מקורות: "}
+        {note.sources.map((s, i) => (
+          <a key={s.url} href={s.url} target="_blank" rel="noopener noreferrer">
+            {i > 0 ? " · " : ""}
+            <bdi>{s.label}</bdi>
+          </a>
+        ))}
+      </p>
+    </aside>
+  );
+}
+
 // ---------- the page --------------------------------------------------------
 
 export default function MuseumPage(props: {
@@ -628,12 +659,12 @@ export default function MuseumPage(props: {
   const en = lang === "en" && !!props.pageEn;
   return (
     <MxStrings.Provider value={STRINGS[en ? "en" : "he"]}>
-      <MuseumBody {...props} page={en ? props.pageEn! : props.page} wantedEn={lang === "en"} />
+      <MuseumBody {...props} page={en ? props.pageEn! : props.page} wantedEn={lang === "en"} note={props.page.editor_note} />
     </MxStrings.Provider>
   );
 }
 
-function MuseumBody({ page, look, preview, backdrop, bgPreview, wantedEn }: { page: MuseumPageData; look?: MuseumLook; preview?: boolean; backdrop?: MuseumBackdrop; bgPreview?: boolean; wantedEn?: boolean }) {
+function MuseumBody({ page, look, preview, backdrop, bgPreview, wantedEn, note }: { page: MuseumPageData; look?: MuseumLook; preview?: boolean; backdrop?: MuseumBackdrop; bgPreview?: boolean; wantedEn?: boolean; note?: MuseumPageData["editor_note"] }) {
   const L = useS();
   const media = useMemo(() => new Map(page.media.map((m) => [m.id, m])), [page]);
   const [lightbox, setLightbox] = useState<MuseumMedia | null>(null);
@@ -764,6 +795,8 @@ function MuseumBody({ page, look, preview, backdrop, bgPreview, wantedEn }: { pa
           )}
         </section>
       )}
+
+      {note && <EditorNote note={note} en={L.dir === "ltr"} />}
 
       <section className="mx-credits" aria-labelledby="credits-h">
         <h2 id="credits-h">{L.credits}</h2>

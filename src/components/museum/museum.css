@@ -473,3 +473,16 @@
 
 /* used only by some trial looks (museum-looks-a.css) */
 .mx-plate-cap, .mx-entrance-meta { display: none; }
+
+/* 27.11: the site's marked note at the end of a page — a small cream box, readable on any backdrop */
+.mx-root .mx-note {
+  max-width: 44rem; margin: 3rem auto 2rem; padding: 1.25rem 1.5rem;
+  background: #f6f1e6; color: #2e251c; border: 1px solid #d8ccb4; border-inline-start: 4px solid #8a5a2b;
+  border-radius: 0.75rem; font-size: 1rem; line-height: 1.7; box-shadow: 0 6px 20px -12px rgba(60, 40, 20, 0.35);
+}
+.mx-root .mx-note h2 { color: #6b4426; font-size: 1.1rem; font-weight: 700; margin: 0 0 0.6rem; }
+.mx-root .mx-note h2 span { font-size: 1.4rem; line-height: 0; vertical-align: -0.2em; }
+.mx-root .mx-note p { margin: 0 0 0.6rem; color: #2e251c; }
+.mx-root .mx-note .mx-note-view { border-top: 1px solid #d8ccb4; padding-top: 0.6rem; }
+.mx-root .mx-note .mx-note-src { font-size: 0.8rem; color: #5e4f40; margin: 0.4rem 0 0; }
+.mx-root .mx-note a { color: #8a5a2b; text-decoration: underline; text-underline-offset: 2px; }

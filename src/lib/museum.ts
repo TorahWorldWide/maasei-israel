@@ -82,6 +82,13 @@ export type MuseumPageData = {
     counts: Record<string, number>;
     note?: string;
   };
+  // 27.11: the site's own marked note at the end of the page (Tomer's "asterisk"), both languages in
+  // the Hebrew file. Facts in `text` each rest on a listed source; `opinion` is the site's view.
+  editor_note?: {
+    he: { text: string[]; opinion?: string };
+    en: { text: string[]; opinion?: string };
+    sources: { label: string; url: string }[];
+  };
   lang?: "he" | "en";
   translation?: { passed?: boolean; quote_translations?: Record<string, string>; [k: string]: unknown };
 };

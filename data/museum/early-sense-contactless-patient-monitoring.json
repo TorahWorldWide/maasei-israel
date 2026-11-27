@@ -7,22 +7,9 @@
  "title": "ארלי-סנס הישראלית פיתחה חיישן מתחת למזרן שמנטר דופק ונשימה של חולים בלי מגע",
  "trailer": [
   {
-   "text": "ארלי-סנס הייתה חברת מכשור רפואי ישראלית, שנוסדה ב-2004 על ידי ד\"ר דני לאנג', יוסי גרוס ואבנר הלפרין.",
-   "claims": [
-    "c1",
-    "c3"
-   ]
-  },
-  {
    "text": "החברה פיתחה חיישן שמונח מתחת למזרן או בכרית של כיסא, ואינו צריך לגעת במטופל.",
    "claims": [
     "c12"
-   ]
-  },
-  {
-   "text": "החיישן מודד שינויי לחץ דרך המזרן, ותוכנה הופכת אותם לדופק, לקצב נשימה ולתנועה.",
-   "claims": [
-    "c13"
    ]
   },
   {
@@ -44,18 +31,11 @@
  ],
  "glance": [
   {
-   "label": "מייסדים",
-   "value": "ד\"ר דני לאנג', יוסי גרוס, אבנר הלפרין",
-   "claims": [
-    "c3"
-   ]
-  },
-  {
    "label": "מאז",
    "value": "2004",
    "claims": [
-    "c3",
-    "c4"
+    "c4",
+    "c76"
    ]
   },
   {
@@ -148,12 +128,6 @@
    "paragraphs": [
     [
      {
-      "text": "ארלי-סנס נוסדה ב-2004 על ידי ד\"ר דני לאנג', יוסי גרוס ואבנר הלפרין.",
-      "claims": [
-       "c3"
-      ]
-     },
-     {
       "text": "אבנר הלפרין היה מנכ\"ל החברה מאז הקמתה.",
       "claims": [
        "c58"
@@ -213,12 +187,6 @@
     ],
     [
      {
-      "text": "לפי ויקיפדיה, החיישן מודד שינויי לחץ דרך המזרן, ותוכנה הופכת אותם לדופק, לקצב נשימה ולתנועה.",
-      "claims": [
-       "c13"
-      ]
-     },
-     {
       "text": "לכל מטופל אפשר להגדיר התראות על ערך גבוה ועל ערך נמוך של דופק ושל קצב נשימה.",
       "claims": [
        "c14"
@@ -262,12 +230,6 @@
       "text": "לפי NICE, רכיבי המערכת קיבלו סימון CE באפריל 2009.",
       "claims": [
        "c20"
-      ]
-     },
-     {
-      "text": "לפי ויקיפדיה, גרסת בית החולים של המערכת קיבלה באותה שנה אישור שיווק 510K מה-FDA.",
-      "claims": [
-       "c19"
       ]
      },
      {
@@ -584,12 +546,6 @@
       "claims": [
        "c57"
       ]
-     },
-     {
-      "text": "לפי ויקיפדיה, החברה מכרה את טכנולוגיית הניטור הרציף בלי מגע להיל-רום, שהיא היום בקסטר אינטרנשיונל.",
-      "claims": [
-       "c59"
-      ]
      }
     ]
    ],
@@ -686,36 +642,12 @@
  "unknowns": [],
  "claims": [
   {
-   "id": "c1",
-   "text": "ארלי-סנס הייתה חברת מכשור רפואי ישראלית עם משרדים בארצות הברית.",
-   "source": "src1",
-   "quote": "EarlySense was an Israeli medical device company with offices in the United States.",
-   "status": "confirmed",
-   "locator": "שורה 18"
-  },
-  {
-   "id": "c3",
-   "text": "החברה נוסדה ב-2004 על ידי ד\"ר דני לאנג', יוסי גרוס ואבנר הלפרין.",
-   "source": "src1",
-   "quote": "The company was founded in 2004 by Dr. Danny Lange, Yossi Gross, and Avner Halperin.",
-   "status": "confirmed",
-   "locator": "שורה 20"
-  },
-  {
    "id": "c12",
    "text": "המערכת מבוססת על חיישן פיזואלקטרי שמונח מתחת למזרן או בכרית מושב כיסא, ואינה דורשת מגע ישיר עם המטופל.",
    "source": "src2",
    "quote": "The system is based on a piezoelectric sensor that is placed under the patient's mattress or inside a chair seat cushion and is sensitive to applied mechanical strain.",
    "status": "confirmed",
    "locator": "שורה 8"
-  },
-  {
-   "id": "c13",
-   "text": "לפי ויקיפדיה, החיישן מודד שינויי לחץ דרך המזרן ומעביר אותם לתוכנה שהופכת אותם לדופק, קצב נשימה ותנועה.",
-   "source": "src1",
-   "quote": "the sensor measures changes in pressure applied to it through the mattress, and transmits the measurements to the software, which converts them to heart rate, breathing rate, and motion",
-   "status": "confirmed",
-   "locator": "שורה 21"
   },
   {
    "id": "c5",
@@ -884,14 +816,6 @@
    "quote": "EarlySense was awarded CE marks for the following components in April 2009",
    "status": "confirmed",
    "locator": "שורה 10"
-  },
-  {
-   "id": "c19",
-   "text": "לפי ויקיפדיה, גרסת בית החולים של המערכת קיבלה אישור שיווק 510K מה-FDA ב-2009.",
-   "source": "src1",
-   "quote": "received 510K marketing clearance from the FDA in 2009, meaning that it is equivalent to devices already on the market",
-   "status": "confirmed",
-   "locator": "שורה 21"
   },
   {
    "id": "c69",
@@ -1190,14 +1114,6 @@
    "locator": "שורה 78"
   },
   {
-   "id": "c59",
-   "text": "לפי ויקיפדיה, החברה מכרה את טכנולוגיית הניטור הרציף ללא מגע להיל-רום, שהיא כיום בקסטר אינטרנשיונל.",
-   "source": "src1",
-   "quote": "It has sold its proprietary contact-free continuous monitoring technology to Hill-Rom, now Baxter International.",
-   "status": "confirmed",
-   "locator": "שורה 18"
-  },
-  {
    "id": "c35",
    "text": "לפי הודעת החברה, בניסוי בבית אבות בבית ההברי בריוורדייל ירד שיעור הנפילות ב-38.5% (p<0.05).",
    "source": "src12",
@@ -1244,15 +1160,17 @@
    "quote": "EarlySense Inc. is headquartered in Waltham, MA. Investors include: JK&B, Pitango Venture Capital, Etgar Challenge Fund",
    "status": "confirmed",
    "locator": "שורה 12"
+  },
+  {
+   "id": "c76",
+   "text": "מאז: 2004",
+   "source": "src14",
+   "quote": "EarlySense was founded in 2004.",
+   "status": "confirmed",
+   "locator": "שורה 43"
   }
  ],
  "sources": [
-  {
-   "id": "src1",
-   "label": "Wikipedia, EarlySense",
-   "url": "https://en.wikipedia.org/wiki/EarlySense",
-   "kind": "reference"
-  },
   {
    "id": "src2",
    "label": "NICE, MIB49 EarlySense (PDF)",
@@ -1323,6 +1241,12 @@
    "id": "src13",
    "label": "Globes (אנגלית), Patient monitoring co EarlySense raises $39m, 2019",
    "url": "https://en.globes.co.il/en/article-patient-monitoring-co-earlysense-raises-39m-1001268026",
+   "kind": "press"
+  },
+  {
+   "id": "src14",
+   "label": "Calcalist (CTech): An early demise: The sad end of Israel's EarlySense",
+   "url": "https://en.globes.co.il/en/article-hapoalim-leads-$25m-round-in-patient-monitoring-co-earlysense-1001129417",
    "kind": "press"
   }
  ],
@@ -1485,7 +1409,7 @@
   "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
   "checked_at": "2026-11-22T05:58:46Z",
   "counts": {
-   "confirmed": 85,
+   "confirmed": 78,
    "not_confirmed": 0,
    "deleted_sentences": 7,
    "first_round_confirmed": 84,
@@ -1507,10 +1431,17 @@
   },
   "source_quality": {
    "sources": 13,
-   "wikipedia": 1,
+   "wikipedia": 0,
    "strong": 11,
    "ok": true,
    "warnings": []
+  },
+  "wiki_cleanup": {
+   "at": "2026-11-27T14:28:34Z",
+   "targets": 8,
+   "resourced": 1,
+   "kept_on_other_sources": 0,
+   "deleted": 7
   }
  }
 }

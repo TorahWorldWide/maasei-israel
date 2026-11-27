@@ -138,15 +138,10 @@
       ]
      },
      {
-      "text": "לפי ויקיפדיה, הוא גדל בפתח תקווה וברמת גן במשפחה יהודית.",
-      "claims": [
-       "c22"
-      ]
-     },
-     {
       "text": "כילד הוקסם מ\"האי המסתורי\" של ז'ול ורן וקרא אותו פעמים רבות.",
       "claims": [
-       "c23"
+       "c84",
+       "c85"
       ]
      }
     ],
@@ -308,7 +303,7 @@
      {
       "text": "הוא אמר שהיה נושא ללעג ולהרצאות על יסודות הקריסטלוגרפיה.",
       "claims": [
-       "c73"
+       "c86"
       ]
      },
      {
@@ -343,12 +338,6 @@
       "text": "פאולינג הציע שהדפוס נגרם מחמישה גבישים המסובבים ב-72 מעלות זה ביחס לזה.",
       "claims": [
        "c35"
-      ]
-     },
-     {
-      "text": "לפי ויקיפדיה, פאולינג כנראה לא הכיר מאמר מ-1981 של קלינרט ומאקי, שהצביע על האפשרות לפאזה איקוסהדרלית לא-מחזורית.",
-      "claims": [
-       "c76"
       ]
      },
      {
@@ -443,12 +432,6 @@
    "kind": "story",
    "paragraphs": [
     [
-     {
-      "text": "עד 1987 הצליחו קבוצות נוספות ליצור קוואזי-גבישים דומים.",
-      "claims": [
-       "c77"
-      ]
-     },
      {
       "text": "ב-1987 זוכה שכטמן מחדש, כשמדענים בצרפת וביפן יצרו קוואזי-גבישים גדולים מספיק כדי לבחון אותם בקרני רנטגן.",
       "claims": [
@@ -595,12 +578,6 @@
       ]
      },
      {
-      "text": "הפרס היה בסך 10 מיליון כתר שוודי, כ-1.5 מיליון דולר.",
-      "claims": [
-       "c10"
-      ]
-     },
-     {
       "text": "לפי FAPESP, שכטמן הוא הישראלי השני שזכה בנובל בכימיה בתוך שנתיים, והרביעי בעשור.",
       "claims": [
        "c59"
@@ -617,8 +594,10 @@
      {
       "text": "לפני כן זכה בפרס רוטשילד (1990), בפרס ויצמן (1993), בפרס ישראל (1998), בפרס וולף בפיזיקה (1999) ובפרס אמינוף (2000).",
       "claims": [
-       "c64",
-       "c38"
+       "c38",
+       "c89",
+       "c90",
+       "c91"
       ]
      },
      {
@@ -639,18 +618,6 @@
       "text": "הוא אמר שניהל בחיפה פרויקט חינוך מדעי לילדי גן.",
       "claims": [
        "c61"
-      ]
-     },
-     {
-      "text": "הוא נשוי לפרופ' ציפורה שכטמן, ראשת המחלקה ליעוץ והתפתחות האדם באוניברסיטת חיפה.",
-      "claims": [
-       "c74"
-      ]
-     },
-     {
-      "text": "לפי ויקיפדיה, הוא מבלה כחמישה חודשים בשנה באיימס, במשרה חלקית.",
-      "claims": [
-       "c75"
       ]
      }
     ]
@@ -684,13 +651,6 @@
       "text": "ב-2014 התמודד שכטמן על נשיאות ישראל.",
       "claims": [
        "c69"
-      ]
-     },
-     {
-      "text": "בבחירות בכנסת ב-10 ביוני 2014 קיבל קול אחד בלבד, וראובן ריבלין נבחר.",
-      "claims": [
-       "c69",
-       "c72"
       ]
      }
     ]
@@ -877,22 +837,6 @@
    "locator": "שורה 9"
   },
   {
-   "id": "c22",
-   "text": "לפי ויקיפדיה, שכטמן גדל בפתח תקווה וברמת גן במשפחה יהודית.",
-   "source": "src7",
-   "quote": "He grew up in Petah Tikva and Ramat Gan in a Jewish family.",
-   "status": "confirmed",
-   "locator": "שורה 38"
-  },
-  {
-   "id": "c23",
-   "text": "כילד שכטמן הוקסם מ\"האי המסתורי\" של ז'ול ורן וקרא אותו פעמים רבות.",
-   "source": "src7",
-   "quote": "As a child, Shechtman was fascinated by Jules Verne's The Mysterious Island (1874), which he read many times.",
-   "status": "confirmed",
-   "locator": "שורה 38"
-  },
-  {
    "id": "c71",
    "text": "לפי בריטניקה, שכטמן קיבל תואר שני ב-1968 ודוקטורט ב-1972 בהנדסת חומרים בטכניון.",
    "source": "src2",
@@ -981,14 +925,6 @@
    "locator": "שורה 10"
   },
   {
-   "id": "c73",
-   "text": "שכטמן אמר שהיה נושא ללעג ולהרצאות על יסודות הקריסטלוגרפיה.",
-   "source": "src7",
-   "quote": "I was a subject of ridicule and lectures about the basics of crystallography.",
-   "status": "confirmed",
-   "locator": "שורה 54"
-  },
-  {
    "id": "c51",
    "text": "שכטמן סיפר שראש המעבדה הניח על שולחנו ספר על עקיפה ואמר שמה שהוא טוען נוגד כל מה שפורסם.",
    "source": "src4",
@@ -1027,14 +963,6 @@
    "quote": "Pauling, for example, suggesting that the observed diffraction pattern was caused by five crystals rotated by 72 degrees relative to one other",
    "status": "confirmed",
    "locator": "שורה 8"
-  },
-  {
-   "id": "c76",
-   "text": "לפי ויקיפדיה, פאולינג כנראה לא הכיר מאמר מ-1981 של קלינרט ומאקי שהצביע על האפשרות לפאזה איקוסהדרלית לא-מחזורית.",
-   "source": "src7",
-   "quote": "Pauling was apparently unaware of a paper in 1981 by H. Kleinert and K. Maki which had pointed out the possibility of a non-periodic Icosahedral Phase",
-   "status": "confirmed",
-   "locator": "שורה 54"
   },
   {
    "id": "c78",
@@ -1107,14 +1035,6 @@
    "quote": "Cahn says they saw 300 papers over the next year from people around the world.",
    "status": "confirmed",
    "locator": "שורה 23"
-  },
-  {
-   "id": "c77",
-   "text": "בעקבות גילוי שכטמן קבוצות נוספות הצליחו ליצור קוואזי-גבישים דומים עד 1987.",
-   "source": "src7",
-   "quote": "Through Shechtman's discovery, several other groups were able to form similar quasicrystals by 1987",
-   "status": "confirmed",
-   "locator": "שורה 53"
   },
   {
    "id": "c19",
@@ -1253,14 +1173,6 @@
    "locator": "שורה 28"
   },
   {
-   "id": "c10",
-   "text": "פרס נובל היה בסך 10 מיליון כתר שוודי, כ-1.5 מיליון דולר.",
-   "source": "src7",
-   "quote": "The Nobel prize was 10 million Swedish krona (approximately US$1.5 million).",
-   "status": "confirmed",
-   "locator": "שורה 56"
-  },
-  {
    "id": "c59",
    "text": "לפי FAPESP, שכטמן הוא הישראלי השני שזוכה בנובל בכימיה בתוך שנתיים והרביעי בעשור.",
    "source": "src4",
@@ -1275,14 +1187,6 @@
    "quote": "This is due to the investment Israel has made in all areas of sciences,” Shechtman commented",
    "status": "confirmed",
    "locator": "שורה 26"
-  },
-  {
-   "id": "c64",
-   "text": "שכטמן זכה בפרס רוטשילד (1990), פרס ויצמן (1993), פרס ישראל (1998), פרס וולף בפיזיקה (1999), פרס אמינוף (2000) ופרס נובל בכימיה (2011).",
-   "source": "src7",
-   "quote": "Rothschild Prize (1990) Weizmann Prize (1993) Israel Prize (1998) Wolf Prize in Physics (1999) Gregori Aminoff Prize (2000) Nobel Prize in Chemistry (2011)",
-   "status": "confirmed",
-   "locator": "שורה 16"
   },
   {
    "id": "c38",
@@ -1317,36 +1221,12 @@
    "locator": "שורה 27"
   },
   {
-   "id": "c74",
-   "text": "שכטמן נשוי לפרופ' ציפורה שכטמן, ראשת המחלקה ליעוץ והתפתחות האדם באוניברסיטת חיפה.",
-   "source": "src7",
-   "quote": "Shechtman is married to Prof. Tzipora Shechtman, Head of the Department of Counseling and Human Development at Haifa University",
-   "status": "confirmed",
-   "locator": "שורה 42"
-  },
-  {
-   "id": "c75",
-   "text": "שכטמן מבלה כחמישה חודשים בשנה באיימס בהיקף משרה חלקי.",
-   "source": "src7",
-   "quote": "He currently spends about five months a year in Ames on a part-time appointment.",
-   "status": "confirmed",
-   "locator": "שורה 47"
-  },
-  {
    "id": "c69",
    "text": "שכטמן התמודד ב-2014 על נשיאות ישראל וקיבל רק קול אחד בכנסת כשראובן ריבלין נבחר.",
    "source": "src8",
    "quote": "Shechtman runs for president of Israel in 2014 but receives only one vote in the Knesset as Reuven Rivlin is elected.",
    "status": "confirmed",
    "locator": "שורה 8"
-  },
-  {
-   "id": "c72",
-   "text": "בבחירות ב-10 ביוני 2014 קיבל שכטמן קול אחד בלבד.",
-   "source": "src7",
-   "quote": "In the elections, held on June 10, 2014, he was awarded only one vote.",
-   "status": "confirmed",
-   "locator": "שורה 59"
   },
   {
    "id": "c11",
@@ -1395,6 +1275,54 @@
    "quote": "he made his Nobel-winning discovery in 1982 while on a two-year sabbatical at NIST.",
    "status": "confirmed",
    "locator": "שורה 9"
+  },
+  {
+   "id": "c84",
+   "text": "כילד הוקסם מ\"האי המסתורי\" של ז'ול ורן וקרא אותו פעמים רבות.",
+   "source": "src15",
+   "quote": "which I read 25 times as a boy",
+   "status": "confirmed",
+   "locator": "שורה 37"
+  },
+  {
+   "id": "c85",
+   "text": "כילד הוקסם מ\"האי המסתורי\" של ז'ול ורן וקרא אותו פעמים רבות.",
+   "source": "src16",
+   "quote": "the hero of the French author Jules Verne's 1874 book, 'The Mysterious Island.'",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c86",
+   "text": "הוא אמר שהיה נושא ללעג ולהרצאות על יסודות הקריסטלוגרפיה.",
+   "source": "src17",
+   "quote": "I was a subject of ridicule and lectures about the basics of crystallography.",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c89",
+   "text": "לפני כן זכה בפרס רוטשילד (1990), בפרס ויצמן (1993), בפרס ישראל (1998), בפרס וולף בפיזיקה (1999) ובפרס אמינוף (2000).",
+   "source": "src5",
+   "quote": "1990 Rothschild Prize in Engineering",
+   "status": "confirmed",
+   "locator": "שורה 20"
+  },
+  {
+   "id": "c90",
+   "text": "לפני כן זכה בפרס רוטשילד (1990), בפרס ויצמן (1993), בפרס ישראל (1998), בפרס וולף בפיזיקה (1999) ובפרס אמינוף (2000).",
+   "source": "src5",
+   "quote": "1993 Weizmann Science Award",
+   "status": "confirmed",
+   "locator": "שורה 19"
+  },
+  {
+   "id": "c91",
+   "text": "לפני כן זכה בפרס רוטשילד (1990), בפרס ויצמן (1993), בפרס ישראל (1998), בפרס וולף בפיזיקה (1999) ובפרס אמינוף (2000).",
+   "source": "src5",
+   "quote": "1998 Israel Prize in Physics",
+   "status": "confirmed",
+   "locator": "שורה 18"
   }
  ],
  "sources": [
@@ -1433,12 +1361,6 @@
    "label": "Physics World, 2011",
    "url": "https://physicsworld.com/a/quasicrystal-discovery-bags-2011-chemistry-nobel/",
    "kind": "press"
-  },
-  {
-   "id": "src7",
-   "label": "ויקיפדיה, Dan Shechtman",
-   "url": "https://en.wikipedia.org/wiki/Dan_Shechtman",
-   "kind": "reference"
   },
   {
    "id": "src8",
@@ -1480,6 +1402,24 @@
    "id": "src14",
    "label": "NIST, NIST and Nobel: Dan Shechtman",
    "url": "https://www.nist.gov/nist-and-nobel/dan-shechtman",
+   "kind": "official"
+  },
+  {
+   "id": "src15",
+   "label": "Technion President's Report (reprint of Haaretz): Clear as crystal",
+   "url": "https://ver2015.presidentsreport.technion.ac.il/?p=213",
+   "kind": "press"
+  },
+  {
+   "id": "src16",
+   "label": "Technion President's Report (reprint of Haaretz): Clear as crystal",
+   "url": "https://www.nist.gov/node/1109886",
+   "kind": "press"
+  },
+  {
+   "id": "src17",
+   "label": "Iowa State University Inside: Nobel Prize news, Oct. 6, 2011",
+   "url": "https://archive.inside.iastate.edu/2011/1006/nobel.php",
    "kind": "official"
   }
  ],
@@ -1722,8 +1662,7 @@
    "hosting": "embed",
    "caption": "ראיון של אתר פרס נובל עם שכטמן, שמתאר את התגובות, הטובות והרעות, לגילוי שלו.",
    "illustrates": [
-    "c39",
-    "c73"
+    "c39"
    ],
    "spoken": "en",
    "audio_tracks": [
@@ -2441,7 +2380,7 @@
   "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
   "checked_at": "2026-11-21T16:22:11Z",
   "counts": {
-   "confirmed": 92,
+   "confirmed": 83,
    "not_confirmed": 0,
    "deleted_sentences": 1,
    "first_round_confirmed": 93,
@@ -2462,8 +2401,8 @@
    "fix": "opus-5-5 medium"
   },
   "source_quality": {
-   "sources": 12,
-   "wikipedia": 1,
+   "sources": 16,
+   "wikipedia": 0,
    "strong": 8,
    "ok": true,
    "warnings": []
@@ -2481,6 +2420,13 @@
     "url": "https://www.nist.gov/nist-and-nobel/dan-shechtman",
     "by": "settle 24.11"
    }
-  ]
+  ],
+  "wiki_cleanup": {
+   "at": "2026-11-27T14:25:38Z",
+   "targets": 10,
+   "resourced": 3,
+   "kept_on_other_sources": 0,
+   "deleted": 7
+  }
  }
 }

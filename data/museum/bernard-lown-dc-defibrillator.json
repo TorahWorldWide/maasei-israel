@@ -31,14 +31,6 @@
    ]
   },
   {
-   "text": "כדי למצוא שיטת החייאה בטוחה יותר גייס לאון את המהנדס ברוך ברקוביץ' מחברת American Optical. ב-1961 מצא לאון שצורת גל מסוימת של זרם ישר הפסיקה פרפור חדרים והחזירה קצב תקין בלי לפגוע בלב או בשריר השלד. בנוסף, פריקה חשמלית קצרה תוזמנה כך שתינתן מחוץ לתקופה הפגיעה בתרשים הלב, ובכך נמנע פרפור חדרים.",
-   "claims": [
-    "c16",
-    "c19",
-    "c22"
-   ]
-  },
-  {
    "text": "לאון הפעיל שוקים דרך דופן החזה של 11 חולים, חלקם סמוך למוות, והחזיר לכולם קצב תקין.",
    "claims": [
     "c23"
@@ -77,7 +69,7 @@
    "label": "שותף",
    "value": "המהנדס ברוך ברקוביץ', American Optical",
    "claims": [
-    "c16"
+    "c84"
    ]
   },
   {
@@ -206,14 +198,20 @@
        "c41"
       ]
      }
+    ],
+    [
+     {
+      "text": "לפי מכון לאון, 4–6 שבועות",
+      "claims": [
+       "c39"
+      ]
+     }
     ]
    ],
    "media": [
     "m7"
    ],
-   "disagreements": [
-    "d5"
-   ]
+   "disagreements": []
   },
   {
    "id": "s3",
@@ -251,12 +249,6 @@
       "text": "הוא מצא שזרם חילופין עלול לפגוע בלב ואף לגרום למוות.",
       "claims": [
        "c14"
-      ]
-     },
-     {
-      "text": "כדי למצוא שיטת החייאה בטוחה יותר גייס את המהנדס ברוך ברקוביץ' מחברת American Optical.",
-      "claims": [
-       "c16"
       ]
      },
      {
@@ -335,18 +327,6 @@
     ],
     [
      {
-      "text": "הכירורג דונלד אפלר היה הכירורג הלבבי הראשון שהשתמש בדפיברילטור בזרם ישר, ב-1962 במרפאת קליבלנד..",
-      "claims": [
-       "c32"
-      ]
-     },
-     {
-      "text": "ויקיפדיה מציינת שב-1967 ביצע רנה פבלורו, במחלקתו של אפלר, את מה שנחשב לניתוח מעקף העורקים הכליליים הראשון.",
-      "claims": [
-       "c33"
-      ]
-     },
-     {
       "text": "המכשיר יוצר על ידי American Optical, ועד 1964 צוידו בו אלפי בתי חולים.",
       "claims": [
        "c25"
@@ -399,12 +379,6 @@
       ]
      },
      {
-      "text": "ב-1964 הציג שימוש חדש בתרופה לידוקאין לשליטה בהפרעות קצב חדריות.",
-      "claims": [
-       "c35"
-      ]
-     },
-     {
       "text": "לאון ואחרים הבינו שאחיות יכולות להיות מיומנות באותה מידה בשימוש בלידוקאין ואף בדפיברילציה.",
       "claims": [
        "c37"
@@ -449,18 +423,6 @@
       "claims": [
        "c46"
       ]
-     },
-     {
-      "text": "עד סוף 1961 ניסחה הקבוצה חמישה מאמרי מחקר על ההשלכות הרפואיות של התקפה גרעינית על בוסטון.",
-      "claims": [
-       "c49"
-      ]
-     },
-     {
-      "text": "לפי ויקיפדיה, המאמרים עזרו להעביר בסנאט האמריקאי את אמנת איסור הניסויים החלקי.",
-      "claims": [
-       "c50"
-      ]
      }
     ],
     [
@@ -471,15 +433,10 @@
       ]
      },
      {
-      "text": "הקונגרס העולמי הראשון של הארגון נערך ב-1981 בווירג'יניה, ובו השתתפו שמונים מנהיגים רפואיים משתים-עשרה מדינות.",
-      "claims": [
-       "c55"
-      ]
-     },
-     {
       "text": "ב-1982 שמעו 100 מיליון צופים סובייטים לראשונה דיון בלתי ערוך על תוצאות מלחמה גרעינית.",
       "claims": [
-       "c56"
+       "c91",
+       "c92"
       ]
      },
      {
@@ -540,9 +497,9 @@
       ]
      },
      {
-      "text": "לפי ויקיפדיה, ב-1997 נוסד ProCor, כדי לסייע לרופאים במדינות מתפתחות.",
+      "text": "ב-1997 נוסד ProCor, כדי לסייע לרופאים במדינות מתפתחות.",
       "claims": [
-       "c65"
+       "c93"
       ]
      }
     ],
@@ -562,7 +519,7 @@
      {
       "text": "לאון קיבל 21 תארי כבוד מאוניברסיטאות בארצות הברית ומחוצה לה.",
       "claims": [
-       "c70"
+       "c94"
       ]
      },
      {
@@ -706,24 +663,6 @@
    ]
   },
   {
-   "id": "d5",
-   "question": "כמה זמן הוחזקו חולי התקף לב במיטה?",
-   "versions": [
-    {
-     "says": "לפי מכון לאון, 4–6 שבועות",
-     "claims": [
-      "c39"
-     ]
-    },
-    {
-     "says": "לפי ויקיפדיה, שישה שבועות או יותר",
-     "claims": [
-      "c40"
-     ]
-    }
-   ]
-  },
-  {
    "id": "d6",
    "question": "באיזו שנה הוקם \"רופאים לאחריות חברתית\"?",
    "versions": [
@@ -752,12 +691,6 @@
      ]
     },
     {
-     "says": "לפי ויקיפדיה, עד 1985 ייצג הארגון 135,000 רופאים ב-60 מדינות",
-     "claims": [
-      "c54"
-     ]
-    },
-    {
      "says": "לפי PA, בשיאו היו לארגון יותר מ-200,000 חברים וסניפים ביותר מ-60 מדינות",
      "claims": [
       "c53"
@@ -773,12 +706,6 @@
      "says": "לפי אתר Life in the Fast Lane, ב-1987",
      "claims": [
       "c64"
-     ]
-    },
-    {
-     "says": "לפי ויקיפדיה, ב-1988",
-     "claims": [
-      "c65"
      ]
     },
     {
@@ -802,12 +729,6 @@
    "text": "המקורות לא מוסרים מתי בדיוק טופלו 11 החולים הראשונים ומי היו",
    "claims": [
     "c23"
-   ]
-  },
-  {
-   "text": "ב-1997 פורסם ב-JAMA מכתב שנחתם בידי יותר מ-2,000 רופאים במסצ'וסטס וקרא למערכת בריאות בנטל משלם יחיד.",
-   "claims": [
-    "c67"
    ]
   }
  ],
@@ -851,14 +772,6 @@
    "quote": "found that AC could cause cardiac injuries and even lead to death",
    "status": "confirmed",
    "locator": "שורה 5"
-  },
-  {
-   "id": "c16",
-   "text": "כדי למצוא שיטת החייאה בטוחה יותר גייס לאון את המהנדס ברוך ברקוביץ' מחברת American Optical.",
-   "source": "src4",
-   "quote": "Lown enlisted the help of Barouh Berkovits, an electrical engineer employed by American Optical Company (AO)",
-   "status": "confirmed",
-   "locator": "שורה 51"
   },
   {
    "id": "c18",
@@ -1061,22 +974,6 @@
    "locator": "שורה 21"
   },
   {
-   "id": "c32",
-   "text": "הכירורג דונלד אפלר היה הראשון שהשתמש בדפיברילטור בזרם ישר, ב-1962 במרפאת קליבלנד.",
-   "source": "src4",
-   "quote": "Donald B. Effler was the first cardiac surgeon to use the DC defibrillator in 1962 at the Cleveland Clinic.",
-   "status": "confirmed",
-   "locator": "שורה 53"
-  },
-  {
-   "id": "c33",
-   "text": "ויקיפדיה מציינת שרנה פבלורו ביצע את ניתוח מעקף העורקים הכליליים הראשון במחלקתו של אפלר.",
-   "source": "src4",
-   "quote": "Rene Favoloro performed what is regarded as the first coronary artery bypass operation",
-   "status": "confirmed",
-   "locator": "שורה 53"
-  },
-  {
    "id": "c30",
    "text": "לפי ה-New York Times, הפריצה הפכה לטכניקה מצילת חיים ברחבי העולם ועזרה לאפשר ניתוחי לב פתוח.",
    "source": "src1",
@@ -1115,14 +1012,6 @@
    "quote": "Dr. Lown organizes one of the first coronary care units focused on prevention of heart rhythm disorders at the Peter Brigham Hospital in Boston.",
    "status": "confirmed",
    "locator": "שורה 24"
-  },
-  {
-   "id": "c35",
-   "text": "ב-1964 הציג לאון שימוש חדש בתרופה לידוקאין לשליטה בהפרעות קצב חדריות.",
-   "source": "src4",
-   "quote": "In 1964, Lown introduced a new use for the drug lidocaine to control ventricular disordered heart rhythms.",
-   "status": "confirmed",
-   "locator": "שורה 56"
   },
   {
    "id": "c37",
@@ -1165,44 +1054,12 @@
    "locator": "שורה 11"
   },
   {
-   "id": "c49",
-   "text": "עד סוף 1961 ניסחה הקבוצה חמישה מאמרי מחקר על ההשלכות הרפואיות של התקפה גרעינית על בוסטון.",
-   "source": "src4",
-   "quote": "By the end of 1961, the group had drafted five research articles about the medical consequences of a ten-megaton nuclear attack on the city of Boston",
-   "status": "confirmed",
-   "locator": "שורה 63"
-  },
-  {
-   "id": "c50",
-   "text": "לפי ויקיפדיה, המאמרים עזרו להעביר בסנאט האמריקאי את אמנת איסור הניסויים החלקי.",
-   "source": "src4",
-   "quote": "Additionally, they helped pass the Limited Test Ban Treaty in the U.S. Senate.",
-   "status": "confirmed",
-   "locator": "שורה 64"
-  },
-  {
    "id": "c51",
    "text": "ב-1980 הקימו שבעה רופאים אמריקאים וסובייטים, ובהם לאון, את IPPNW, הארגון הבינלאומי של רופאים למניעת מלחמה גרעינית.",
    "source": "src1",
    "quote": "In 1980, seven American and Soviet physicians, including Dr. Lown and Dr. Yevgeny I. Chazov",
    "status": "confirmed",
    "locator": "שורה 10"
-  },
-  {
-   "id": "c55",
-   "text": "הקונגרס העולמי הראשון של IPPNW נערך ב-1981 בווירג'יניה, ובו השתתפו שמונים מנהיגים רפואיים משתים-עשרה מדינות.",
-   "source": "src4",
-   "quote": "The first IPPNW annual World Congress was held at Arlie House, Virginia, in 1981. Eighty medical leaders from twelve countries attended.",
-   "status": "confirmed",
-   "locator": "שורה 74"
-  },
-  {
-   "id": "c56",
-   "text": "ב-1982 שמעו 100 מיליון צופים סובייטים לראשונה דיון בלתי ערוך על תוצאות מלחמה גרעינית.",
-   "source": "src4",
-   "quote": "an audience of 100 million Soviet viewers heard for the first time an unedited discussion of the consequences of nuclear war",
-   "status": "confirmed",
-   "locator": "שורה 76"
   },
   {
    "id": "c61",
@@ -1237,14 +1094,6 @@
    "locator": "שורה 17"
   },
   {
-   "id": "c65",
-   "text": "לפי ויקיפדיה, SatelLife נוסד ב-1988 ו-ProCor ב-1997, כדי לסייע לרופאים במדינות מתפתחות.",
-   "source": "src4",
-   "quote": "Two organizations founded by Lown, SatelLife (1988) and ProCor (1997) were designed to aid physicians in developing countries",
-   "status": "confirmed",
-   "locator": "שורה 81"
-  },
-  {
    "id": "c74",
    "text": "ב-2008 הוקמה בהרווארד תוכנית 'חוקרי לאון' להכשרת מדענים ואנשי בריאות הציבור מאפריקה, אסיה ואמריקה הלטינית.",
    "source": "src2",
@@ -1259,14 +1108,6 @@
    "quote": "a bridge between Lewiston and Auburn is named the Bernard Lown Peace Bridge.",
    "status": "confirmed",
    "locator": "שורה 14"
-  },
-  {
-   "id": "c70",
-   "text": "לאון קיבל 21 תארי כבוד מאוניברסיטאות בארצות הברית ומחוצה לה.",
-   "source": "src4",
-   "quote": "21 honorary degrees from universities both in the United States and abroad",
-   "status": "confirmed",
-   "locator": "שורה 100"
   },
   {
    "id": "c75",
@@ -1365,14 +1206,6 @@
    "locator": "שורה 16"
   },
   {
-   "id": "c40",
-   "text": "לפי ויקיפדיה, חולי התקף לב נשארו שכובים לחלוטין שישה שבועות או יותר.",
-   "source": "src4",
-   "quote": "Patients remained completely recumbent for six or more weeks.",
-   "status": "confirmed",
-   "locator": "שורה 49"
-  },
-  {
    "id": "c47",
    "text": "לפי PA, לאון הקים את 'רופאים לאחריות חברתית' ב-1960.",
    "source": "src10",
@@ -1387,14 +1220,6 @@
    "quote": "the group had gathered 135,000 members in 41 countries by 1985, when it won the peace prize.",
    "status": "confirmed",
    "locator": "שורה 10"
-  },
-  {
-   "id": "c54",
-   "text": "לפי ויקיפדיה, עד 1985 ייצג IPPNW 135,000 רופאים ב-60 מדינות.",
-   "source": "src4",
-   "quote": "By 1985, IPPNW represented 135,000 physicians in 60 countries.",
-   "status": "confirmed",
-   "locator": "שורה 77"
   },
   {
    "id": "c53",
@@ -1413,12 +1238,44 @@
    "locator": "שורה 26"
   },
   {
-   "id": "c67",
-   "text": "ב-1997 פורסם ב-JAMA מכתב שנחתם על ידי יותר מ-2000 רופאים במסצ'וסטס וקרא למערכת בריאות בנטל משלם יחיד.",
-   "source": "src4",
-   "quote": "a letter signed by over 2000 Massachusetts physicians and published in The Journal of the American Medical Association outlined the need for single-payer healthcare",
+   "id": "c84",
+   "text": "שותף: המהנדס ברוך ברקוביץ', American Optical",
+   "source": "src11",
+   "quote": "Barouh Berkovits had been developing a DC defibrillator while working for the American Optical Corporation",
    "status": "confirmed",
-   "locator": "שורה 87"
+   "locator": "שורה 44"
+  },
+  {
+   "id": "c91",
+   "text": "ב-1982 שמעו 100 מיליון צופים סובייטים לראשונה דיון בלתי ערוך על תוצאות מלחמה גרעינית.",
+   "source": "src12",
+   "quote": "The Soviet-produced program, already aired in June to an estimated 100 million viewers in the USSR,",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c92",
+   "text": "ב-1982 שמעו 100 מיליון צופים סובייטים לראשונה דיון בלתי ערוך על תוצאות מלחמה גרעינית.",
+   "source": "src13",
+   "quote": "Soviet and U.S. physicians from IPPNW appear on Soviet television for an unprecedented live, unedited discussion",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c93",
+   "text": "ב-1997 נוסד ProCor, כדי לסייע לרופאים במדינות מתפתחות.",
+   "source": "src14",
+   "quote": "Founded by Dr. Bernard Lown in 1997",
+   "status": "confirmed",
+   "locator": "שורה 54"
+  },
+  {
+   "id": "c94",
+   "text": "לאון קיבל 21 תארי כבוד מאוניברסיטאות בארצות הברית ומחוצה לה.",
+   "source": "src15",
+   "quote": "He received 21 honorary doctorates from universities in the U.S. and around the world",
+   "status": "confirmed",
+   "locator": "שורה 3"
   }
  ],
  "sources": [
@@ -1438,12 +1295,6 @@
    "id": "src3",
    "label": "Hektoen International",
    "url": "https://hekint.org/?p=40917",
-   "kind": "reference"
-  },
-  {
-   "id": "src4",
-   "label": "Wikipedia, Bernard Lown",
-   "url": "https://en.wikipedia.org/wiki/Bernard_Lown",
    "kind": "reference"
   },
   {
@@ -1481,6 +1332,36 @@
    "label": "Breaking News / PA, 2021",
    "url": "https://www.breakingnews.ie/world/tributes-for-cardiologist-who-invented-defibrillator-and-campaigned-for-peace-1082452.html",
    "kind": "press"
+  },
+  {
+   "id": "src11",
+   "label": "PubMed Central (NIH): Cardioversion: Past, Present, and Future",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2782563/",
+   "kind": "reference"
+  },
+  {
+   "id": "src12",
+   "label": "The Harvard Crimson: Professors discuss nuke war effects in (October 13, 1982)",
+   "url": "https://www.thecrimson.com/article/1982/10/13/professors-discuss-nuke-war-effects-in",
+   "kind": "press"
+  },
+  {
+   "id": "src13",
+   "label": "IPPNW: IPPNW World Congresses",
+   "url": "https://www.ippnw.org/ippnw-milestones",
+   "kind": "organisation"
+  },
+  {
+   "id": "src14",
+   "label": "Idealist: ProCor (Brookline) nonprofit profile",
+   "url": "https://www.idealist.org/en/nonprofit/9e3214db9e2b438c874fe0623ba4e526-procor-brookline",
+   "kind": "other"
+  },
+  {
+   "id": "src15",
+   "label": "University of Maine Honors College: Bernard Lown Initiatives",
+   "url": "https://honors.umaine.edu/?p=21485",
+   "kind": "other"
   }
  ],
  "media": [
@@ -1960,7 +1841,7 @@
   "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
   "checked_at": "2026-11-21T04:18:54Z",
   "counts": {
-   "confirmed": 96,
+   "confirmed": 84,
    "not_confirmed": 0,
    "deleted_sentences": 2,
    "first_round_confirmed": 93,
@@ -1981,11 +1862,18 @@
    "fix": "opus-5-5 medium"
   },
   "source_quality": {
-   "sources": 10,
-   "wikipedia": 1,
+   "sources": 14,
+   "wikipedia": 0,
    "strong": 3,
    "ok": true,
    "warnings": []
+  },
+  "wiki_cleanup": {
+   "at": "2026-11-27T14:21:43Z",
+   "targets": 16,
+   "resourced": 4,
+   "kept_on_other_sources": 0,
+   "deleted": 12
   }
  }
 }

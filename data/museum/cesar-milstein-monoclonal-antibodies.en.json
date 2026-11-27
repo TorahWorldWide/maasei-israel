@@ -1,1644 +1,1617 @@
 {
-  "schema": "maasei-museum/1",
-  "slug": "cesar-milstein-monoclonal-antibodies",
-  "deed": "ססר מילשטיין פיתח שיטה לייצור נוגדנים חד-שבטיים וזכה בנובל לרפואה 1984",
-  "canonical_type": "scientific-discovery",
-  "year": "1975",
-  "title": "César Milstein, son of a Jewish immigrant, found a way to produce antibodies in large quantities and won the Nobel Prize in Medicine",
-  "trailer": [
-    {
-      "text": "César Milstein, a scientist born in Bahía Blanca, Argentina, and the son of a Jewish immigrant father, is one of the three winners of the 1984 Nobel Prize in Medicine.",
-      "claims": [
-        "c1",
-        "c5"
-      ]
-    },
-    {
-      "text": "Before his work, scientists struggled to produce large amounts of a single antibody, because the cells that produce antibodies were difficult to grow in the laboratory.",
-      "claims": [
-        "c7"
-      ]
-    },
-    {
-      "text": "In 1975, in Cambridge, Milstein and Georges Köhler developed a method to combine tumor cells with antibody-producing cells, in order to produce antibodies of the same type.",
-      "claims": [
-        "c15",
-        "c16"
-      ]
-    },
-    {
-      "text": "The combined cell, called a hybridoma, could produce antibodies continuously.",
-      "claims": [
-        "c12"
-      ]
-    },
-    {
-      "text": "Monoclonal antibody production was one of the driving forces in the creation of the biotechnology industry, and according to the MRC institute, monoclonal antibodies today account for at least a third of all new treatments against a range of diseases.",
-      "claims": [
-        "c22",
-        "c23"
-      ]
-    }
-  ],
-  "hero_media": [
-    "m2",
-    "m1",
-    "m3",
-    "m11",
-    "m14",
-    "m19"
-  ],
-  "glance": [
-    {
-      "label": "Who",
-      "value": "César Milstein, son of a Jewish immigrant father",
-      "claims": [
-        "c1"
-      ]
-    },
-    {
-      "label": "What",
-      "value": "The hybridoma technique for the production of monoclonal antibodies",
-      "claims": [
-        "c17"
-      ]
-    },
-    {
-      "label": "When",
-      "value": "1975",
-      "claims": [
-        "c16"
-      ]
-    },
-    {
-      "label": "Where",
-      "value": "Cambridge, Britain",
-      "claims": [
-        "c15",
-        "c42"
-      ]
-    },
-    {
-      "label": "Recognition",
-      "value": "1984 Nobel Prize in Medicine",
-      "claims": [
-        "c5"
-      ]
-    },
-    {
-      "label": "Today",
-      "value": "At least a third of new treatments, according to the MRC",
-      "claims": [
-        "c23"
-      ]
-    }
-  ],
-  "stations": [
-    {
-      "id": "s1",
-      "title": "A boy from Bahía Blanca",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "César Milstein was born on October 8, 1927, in Bahía Blanca, Argentina.",
-            "claims": [
-              "c1"
-            ]
-          },
-          {
-            "text": "He was the middle of three sons, born to a Jewish immigrant father and a mother who was a teacher.",
-            "claims": [
-              "c1"
-            ]
-          },
-          {
-            "text": "His father came from Ukraine to Argentina alone, as a teenager.",
-            "claims": [
-              "c2"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "As a child he was drawn to science after reading about microbe hunters such as van Leeuwenhoek and Pasteur.",
-            "claims": [
-              "c48"
-            ]
-          },
-          {
-            "text": "He studied at the University of Buenos Aires, where he completed a PhD on the enzyme aldehyde dehydrogenase.",
-            "claims": [
-              "c41"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "In 1953 he married Celia, who was also an immunologist.",
-            "claims": [
-              "c46"
-            ]
-          },
-          {
-            "text": "Milstein was proud of his Jewish heritage.",
-            "claims": [
-              "c3"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m7"
-      ],
-      "disagreements": [
-        "d1"
-      ]
-    },
-    {
-      "id": "s2",
-      "title": "Between Argentina and Cambridge",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "In 1958 he travelled to Britain to work in the Biochemistry Department of the University of Cambridge.",
-            "claims": [
-              "c42"
-            ]
-          },
-          {
-            "text": "There he received a second PhD.",
-            "claims": [
-              "c59",
-              "c60"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to The Irish Times, Milstein returned to Argentina in 1961, and two years later, when dozens of faculty members were dismissed following the military coup, he resigned his job and went back to Cambridge.",
-            "claims": [
-              "c43"
-            ]
-          },
-          {
-            "text": "According to AAI, he was frustrated by political interference in his laboratory after the 1962 coup, and returned to Cambridge in 1963.",
-            "claims": [
-              "c44"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "At the suggestion of Frederick Sanger, Milstein moved from enzyme research to immunology.",
-            "claims": [
-              "c18"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m15",
-        "m16"
-      ],
-      "disagreements": [
-        "d2"
-      ]
-    },
-    {
-      "id": "s3",
-      "title": "The problem: one antibody, in quantity",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "The human immune system can produce more than two million different antibodies.",
-            "claims": [
-              "c56"
-            ]
-          },
-          {
-            "text": "According to the MRC institute, the ability of antibodies to bind specifically is very useful for medical research, but it was difficult to produce large quantities of specific antibodies in the laboratory.",
-            "claims": [
-              "c10"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "The difficulty was growing the antibody-producing B cells in culture.",
-            "claims": [
-              "c7"
-            ]
-          },
-          {
-            "text": "These cells were easy to harvest from the spleens of mice, but in laboratory culture they grew only briefly.",
-            "claims": [
-              "c8"
-            ]
-          },
-          {
-            "text": "On the other hand, the researchers had myeloma cells, a cancer that grows in the laboratory without limit and produces immunoglobulin.",
-            "claims": [
-              "c9"
-            ]
-          }
-        ]
-      ],
-      "media": [],
-      "disagreements": []
-    },
-    {
-      "id": "s4",
-      "title": "The idea: fuse two cells into one",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "Georges Köhler arrived in Cambridge in 1974.",
-            "claims": [
-              "c15"
-            ]
-          },
-          {
-            "text": "Together with Milstein, he sought to use cell fusion to create an antibody-secreting cell line.",
-            "claims": [
-              "c15"
-            ]
-          },
-          {
-            "text": "According to the Irish Times, the two decided to fuse tumor cells of the immune system, myelomas, with B cells that produce antibodies.",
-            "claims": [
-              "c11"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "The combined cell was called a hybridoma.",
-            "claims": [
-              "c12"
-            ]
-          },
-          {
-            "text": "It had infinite life and could produce antibodies continuously.",
-            "claims": [
-              "c12"
-            ]
-          },
-          {
-            "text": "According to the MRC institute, the fused cells were collected and cloned.",
-            "claims": [
-              "c13"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "In this way, in 1975, the hybridoma technique for the production of monoclonal antibodies was developed.",
-            "claims": [
-              "c16",
-              "c17"
-            ]
-          },
-          {
-            "text": "The paper describing the method was published in Nature that same year.",
-            "claims": [
-              "c14"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m2",
-        "m18",
-        "m25"
-      ],
-      "disagreements": []
-    },
-    {
-      "id": "s5",
-      "title": "From the laboratory to medicines",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "After the publication, Köhler returned to Basel.",
-            "claims": [
-              "c19"
-            ]
-          },
-          {
-            "text": "Milstein worked for several years with Giovanni Galfré to show that monoclonal antibodies could be used.",
-            "claims": [
-              "c19"
-            ]
-          },
-          {
-            "text": "Galfré introduced Sendai virus as the fusing agent, thereby improving the process and making it more reliable.",
-            "claims": [
-              "c20"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "The technique spread quickly to research institutes around the world, and was used, among other things, for grouping blood types.",
-            "claims": [
-              "c21"
-            ]
-          },
-          {
-            "text": "According to the MRC institute, Milstein's work transformed the field of immunology and revealed new insights into the structure, function and diversity of antibodies.",
-            "claims": [
-              "c45"
-            ]
-          },
-          {
-            "text": "He also solved the puzzle of affinity maturation, the process by which antibodies change their sequences to improve their efficacy.",
-            "claims": [
-              "c55"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "At first, therapeutic use was limited, because the antibodies provoked a cross-species immune response.",
-            "claims": [
-              "c26"
-            ]
-          },
-          {
-            "text": "According to the LMB institute, it took about 20 years until the approach was applied to humans, following research led by Greg Winter and Michael Neuberger.",
-            "claims": [
-              "c54"
-            ]
-          },
-          {
-            "text": "Humira, the first fully human monoclonal antibody drug, was launched in 2003 to treat rheumatoid arthritis.",
-            "claims": [
-              "c24"
-            ]
-          },
-          {
-            "text": "Today, monoclonal antibodies are used to treat diseases such as rheumatoid arthritis, multiple sclerosis, some forms of cancer and viral infections.",
-            "claims": [
-              "c25"
-            ]
-          },
-          {
-            "text": "According to AAI, the greatest impact is in oncology, where monoclonal antibodies that bind to tumors are being developed.",
-            "claims": [
-              "c51"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m9",
-        "m22",
-        "m23",
-        "m24"
-      ],
-      "disagreements": []
-    },
-    {
-      "id": "s6",
-      "title": "The Nobel and other prizes",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "The 1984 Nobel Prize in Physiology or Medicine was awarded jointly to Niels Jerne, Georges Köhler and César Milstein.",
-            "claims": [
-              "c5"
-            ]
-          },
-          {
-            "text": "The prize was given for theories concerning the specificity in development and control of the immune system, and for the discovery of the principle for production of monoclonal antibodies.",
-            "claims": [
-              "c6"
-            ]
-          },
-          {
-            "text": "Jerne, a Danish scientist, developed the theories of the immune system that Milstein and Köhler went on to develop.",
-            "claims": [
-              "c50"
-            ]
-          },
-          {
-            "text": "According to AAI, Köhler had formerly been Milstein's postdoctoral fellow.",
-            "claims": [
-              "c49"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "In his acceptance speech, Milstein stressed that the hybridoma technology was an unexpected by-product of basic research to understand the immune system.",
-            "claims": [
-              "c30"
-            ]
-          },
-          {
-            "text": "Abraham Karpas wrote that Milstein's contribution is the most important immunological advance of the century.",
-            "claims": [
-              "c31"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "In 1984 Milstein also won the Lasker Award for creating the first hybridomas.",
-            "claims": [
-              "c32"
-            ]
-          },
-          {
-            "text": "In addition to the Nobel, he won the Wolf Prize in Medicine and the Louisa Gross Horwitz Prize from Columbia University.",
-            "claims": [
-              "c35"
-            ]
-          },
-          {
-            "text": "In 1975 he was elected a Fellow of the Royal Society, and in 1989 he received the Copley Medal.",
-            "claims": [
-              "c33"
-            ]
-          },
-          {
-            "text": "In 1993 the Argentine Konex Foundation granted him the Diamond Konex Award.",
-            "claims": [
-              "c36"
-            ]
-          },
-          {
-            "text": "In 1995 Milstein became a Companion of Honour, and in 2000 he received the Presidential Medal of Merit for Scientific Excellence from Argentina.",
-            "claims": [
-              "c34"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m1",
-        "m5",
-        "m6"
-      ],
-      "disagreements": []
-    },
-    {
-      "id": "s7",
-      "title": "Two homelands and a legacy",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "According to the AAI, in 1983 Milstein was named head of the Protein and Nucleic Acid Chemistry Division of the MRC, a position he held until his retirement in 1995.",
-            "claims": [
-              "c58"
-            ]
-          },
-          {
-            "text": "He retired in the mid-1990s.",
-            "claims": [
-              "c57",
-              "c58"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to Wikipedia, he acquired British citizenship and held dual citizenship, British and Argentine.",
-            "claims": [
-              "c53"
-            ]
-          },
-          {
-            "text": "According to Wikipedia, he assisted science and scientists in developing countries.",
-            "claims": [
-              "c52"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "Milstein died on March 24, at the age of 74.",
-            "claims": [
-              "c37"
-            ]
-          },
-          {
-            "text": "According to Wikipedia, he died of a heart condition from which he had suffered for many years.",
-            "claims": [
-              "c38"
-            ]
-          },
-          {
-            "text": "In 2003 the LMB institute held a memorial meeting in his name.",
-            "claims": [
-              "c39"
-            ]
-          },
-          {
-            "text": "The Milstein Studentship funds Argentine PhD students so that they can complete their studies at the LMB.",
-            "claims": [
-              "c40"
-            ]
-          },
-          {
-            "text": "According to Wikipedia, a documentary film about his life was released in 2010.",
-            "claims": [
-              "c47"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m19",
-        "m3",
-        "m8",
-        "m17",
-        "m20",
-        "m21"
-      ],
-      "disagreements": [
-        "d3"
-      ]
-    },
-    {
-      "id": "s8",
-      "title": "The patent question",
-      "kind": "hard",
-      "paragraphs": [
-        [
-          {
-            "text": "According to The Irish Times, there was some regret in the 1980s when it was found that the British government's National Research Development Corporation had decided not to attempt to patent the hybridoma technology.",
-            "claims": [
-              "c28"
-            ]
-          },
-          {
-            "text": "According to Wikipedia, Milstein did patent the production of monoclonal antibodies, and held three other patents.",
-            "claims": [
-              "c29"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to the History & Policy website, the NRDC declined to patent the work after Milstein submitted it for consideration.",
-            "claims": [
-              "c63"
-            ]
-          }
-        ]
-      ],
-      "media": [],
-      "disagreements": []
-    }
-  ],
-  "disagreements": [
-    {
-      "id": "d1",
-      "question": "When did he complete his first studies in Buenos Aires?",
-      "versions": [
-        {
-          "says": "According to the Irish Times, he completed a degree in chemistry at the University of Buenos Aires in 1945",
-          "claims": [
-            "c61"
-          ]
-        },
-        {
-          "says": "According to AAI, he received a bachelor's degree in biochemistry at the University of Buenos Aires in 1952",
-          "claims": [
-            "c62"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d2",
-      "question": "In what year did he receive his PhD at Cambridge?",
-      "versions": [
-        {
-          "says": "According to the Cambridge Department of Biochemistry, in 1961",
-          "claims": [
-            "c59"
-          ]
-        },
-        {
-          "says": "According to AAI, in 1960",
-          "claims": [
-            "c60"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d3",
-      "question": "In what year did he retire?",
-      "versions": [
-        {
-          "says": "According to the MRC institute, in 1994",
-          "claims": [
-            "c57"
-          ]
-        },
-        {
-          "says": "According to AAI, in 1995",
-          "claims": [
-            "c58"
-          ]
-        }
-      ]
-    }
-  ],
-  "unknowns": [],
-  "claims": [
-    {
-      "id": "c1",
-      "text": "מילשטיין נולד ב-8 באוקטובר 1927 בבאיה בלנקה שבארגנטינה, האמצעי משלושה בנים לאב מהגר יהודי ולאם מורה.",
-      "source": "src1",
-      "quote": "He was born on October 8th, 1927, in Bahía Blanca, Argentina, the middle of three sons of a Jewish immigrant father",
-      "status": "confirmed",
-      "locator": "שורה 5"
-    },
-    {
-      "id": "c5",
-      "text": "פרס נובל לפיזיולוגיה או רפואה לשנת 1984 הוענק במשותף לניילס ינה, גאורג קֶהלר וססר מילשטיין.",
-      "source": "src2",
-      "quote": "The Nobel Prize in Physiology or Medicine 1984 was awarded jointly to Niels K. Jerne, Georges J.F. Köhler and César Milstein",
-      "status": "confirmed",
-      "locator": "שורה 13"
-    },
-    {
-      "id": "c7",
-      "text": "לפני השיטה, מדענים התקשו לייצר כמויות גדולות של שבטים של נוגדן יחיד בגלל הקושי לגדל בתרבית תאי B המייצרים נוגדנים.",
-      "source": "src3",
-      "quote": "Prior to the development of Milstein and Köhler's hybridoma technique, scientists had struggled to produce large amounts of single antibody clones because of the difficulty of growing antibody-producing B cells in culture.",
-      "status": "confirmed",
-      "locator": "שורה 18"
-    },
-    {
-      "id": "c15",
-      "text": "קֶהלר הגיע לקיימברידג' ב-1974, ובעבודה משותפת עם מילשטיין ביקשו להשתמש בהיתוך תאים כדי ליצור קו תאים מפריש נוגדנים.",
-      "source": "src4",
-      "quote": "Georges arrived in Cambridge in 1974 and, working closely with César, the pair sought to use cell fusion to produce their own antibody-secreting cell line.",
-      "status": "confirmed",
-      "locator": "שורה 8"
-    },
-    {
-      "id": "c16",
-      "text": "ב-1975 פיתחו מילשטיין וקֶהלר שיטה לשילוב תאי גידול עם תאים החסינים לאנטיגן מסוים, כדי לייצר נוגדנים מאותו סוג.",
-      "source": "src5",
-      "quote": "In 1975 Cesar Milstein and George Köhler developed a method for combining such tumor cells with cells that are immune to a certain antigen",
-      "status": "confirmed",
-      "locator": "שורה 9"
-    },
-    {
-      "id": "c12",
-      "text": "התא המשולב, שנקרא היברידומה, זכה לחיי נצח ויכול היה לייצר נוגדנים ברציפות.",
-      "source": "src1",
-      "quote": "They found that the combination they created, called a hybridoma, possessed the property of infinite life and could continuously synthesise antibodies.",
-      "status": "confirmed",
-      "locator": "שורה 10"
-    },
-    {
-      "id": "c22",
-      "text": "ייצור נוגדנים חד-שבטיים היה אחד הכוחות המניעים בהקמת תעשיית הביוטכנולוגיה.",
-      "source": "src1",
-      "quote": "Monoclonal antibody production was one of the principal driving forces in the creation of the biotechnology industry.",
-      "status": "confirmed",
-      "locator": "שורה 4"
-    },
-    {
-      "id": "c23",
-      "text": "לפי מכון MRC, היום נוגדנים חד-שבטיים מהווים לפחות שליש מכלל הטיפולים החדשים נגד מגוון מחלות.",
-      "source": "src4",
-      "quote": "Today, monoclonal antibodies account for at least a third of all new treatments against a range of conditions.",
-      "status": "confirmed",
-      "locator": "שורה 13"
-    },
-    {
-      "id": "c17",
-      "text": "לפי המחלקה לביוכימיה בקיימברידג', ב-1975 פיתחו מילשטיין וקֶהלר את טכניקת ההיברידומה לייצור נוגדנים חד-שבטיים.",
-      "source": "src6",
-      "quote": "In 1975 Milstein and Georges Köhler developed the hybridoma technique for the production of monoclonal antibodies",
-      "status": "confirmed",
-      "locator": "שורה 4"
-    },
-    {
-      "id": "c42",
-      "text": "ב-1958 נסע לבריטניה לעבוד במחלקה לביוכימיה באוניברסיטת קיימברידג'.",
-      "source": "src4",
-      "quote": "In 1958, César travelled to the UK to work in the University of Cambridge Biochemistry Department",
-      "status": "confirmed",
-      "locator": "שורה 5"
-    },
-    {
-      "id": "c2",
-      "text": "אביו, מהגר יהודי, הגיע מאוקראינה לארגנטינה לבדו כנער.",
-      "source": "src3",
-      "quote": "His father, a Jewish immigrant who made the journey from Ukraine to Argentina by himself as a teenager",
-      "status": "confirmed",
-      "locator": "שורה 7"
-    },
-    {
-      "id": "c48",
-      "text": "כילד בארגנטינה נמשך מילשטיין למדע לאחר שקרא על ציידי חיידקים כמו ואן לבנהוק ופסטר.",
-      "source": "src1",
-      "quote": "as a schoolboy in Argentina, he was attracted to science after reading about early microbe hunters like Antoni van Leeuwenhoek and Louis Pasteur",
-      "status": "confirmed",
-      "locator": "שורה 16"
-    },
-    {
-      "id": "c41",
-      "text": "מילשטיין נולד בבאיה בלנקה ולמד באוניברסיטת בואנוס איירס, ושם סיים דוקטורט באנזים אלדהיד דהידרוגנאז.",
-      "source": "src6",
-      "quote": "César Milstein was born in Bahía Blanca, Argentina and studied at the University of Buenos Aires, completing a PhD on the enzyme aldehyde dehydrogenase.",
-      "status": "confirmed",
-      "locator": "שורה 3"
-    },
-    {
-      "id": "c46",
-      "text": "אשתו של מילשטיין, סליה, נישאה לו ב-1953 והייתה גם היא אימונולוגית.",
-      "source": "src1",
-      "quote": "César Milstein's wife, Celia, whom he married in 1953 and who survives him, was also an immunologist",
-      "status": "confirmed",
-      "locator": "שורה 18"
-    },
-    {
-      "id": "c3",
-      "text": "מילשטיין היה גאה במורשתו היהודית.",
-      "source": "src3",
-      "quote": "Proud of his Jewish heritage and always up for adventure and activism, Milstein fondly recalled his",
-      "status": "confirmed",
-      "locator": "שורה 8"
-    },
-    {
-      "id": "c59",
-      "text": "לפי המחלקה לביוכימיה בקיימברידג', הדוקטורט בקיימברידג' הוענק ב-1961.",
-      "source": "src6",
-      "quote": "Department of Biochemistry PhD student (1958-1961, PhD awarded 1961).",
-      "status": "confirmed",
-      "locator": "שורה 2"
-    },
-    {
-      "id": "c60",
-      "text": "לפי AAI, מילשטיין סיים את הדוקטורט השני בקיימברידג' ב-1960.",
-      "source": "src3",
-      "quote": "completed a second dissertation, a study of the enzyme phosphoglucomutase, earning his Ph.D. in 1960 and joining the scientific staff",
-      "status": "confirmed",
-      "locator": "שורה 7"
-    },
-    {
-      "id": "c43",
-      "text": "לפי ה-Irish Times, אחרי הפיכה צבאית בארגנטינה פוטרו עשרות חברי סגל, ומילשטיין התפטר וחזר לקיימברידג'.",
-      "source": "src1",
-      "quote": "when dozens of faculty members were dismissed following the military coup, he resigned his job and went back to Cambridge",
-      "status": "confirmed",
-      "locator": "שורה 6"
-    },
-    {
-      "id": "c44",
-      "text": "לפי AAI, מילשטיין, מתוסכל מהתערבות פוליטית במעבדתו לאחר ההפיכה ב-1962, חזר לקיימברידג' ב-1963.",
-      "source": "src3",
-      "quote": "Frustrated with the political interference in his laboratory that followed the 1962 military coup in Argentina, he returned to Cambridge in 1963",
-      "status": "confirmed",
-      "locator": "שורה 7"
-    },
-    {
-      "id": "c18",
-      "text": "לפי הצעתו של פרדריק סנגר עבר מילשטיין מחקר אנזימים לאימונולוגיה.",
-      "source": "src6",
-      "quote": "It was at Sanger's suggestion that Milstein turned his attention from enzymology to immunology.",
-      "status": "confirmed",
-      "locator": "שורה 4"
-    },
-    {
-      "id": "c56",
-      "text": "מערכת החיסון האנושית מסוגלת לייצר יותר משני מיליון נוגדנים שונים.",
-      "source": "src7",
-      "quote": "The human immune system can produce more than two million different antibodies",
-      "status": "confirmed",
-      "locator": "שורה 28"
-    },
-    {
-      "id": "c10",
-      "text": "לפי מכון MRC, היה קשה לייצר במעבדה כמויות גדולות של נוגדנים ספציפיים, אף שיכולת הנוגדנים להיקשר באופן ספציפי שימושית מאוד למחקר רפואי.",
-      "source": "src7",
-      "quote": "The ability of antibodies to bind specifically to substances is very useful in medical research, but it was difficult to produce large quantities of specific antibodies in the laboratory.",
-      "status": "confirmed",
-      "locator": "שורה 28"
-    },
-    {
-      "id": "c8",
-      "text": "תאים מייצרי נוגדנים נקצרו בקלות מטחולי עכברים, אך גדלו רק זמן קצר בתרבית מעבדתית.",
-      "source": "src1",
-      "quote": "They knew that antibody-producing cells could be harvested easily from the spleens of mice that had been exposed to a known protein, but these cells would grow only briefly in laboratory cultures.",
-      "status": "confirmed",
-      "locator": "שורה 8"
-    },
-    {
-      "id": "c9",
-      "text": "היו בידם תאי מיאלומה, סרטן שגדל ללא הגבלה במעבדה ומייצר אימונוגלובולין.",
-      "source": "src1",
-      "quote": "They also had available cells of a cancer called myeloma that would grow indefinitely in the laboratory and would produce immunoglobulin",
-      "status": "confirmed",
-      "locator": "שורה 9"
-    },
-    {
-      "id": "c11",
-      "text": "לפי ה-Irish Times, מילשטיין וקֶהלר החליטו להתיך תאי גידול של מערכת החיסון (מיאלומות) עם תאי B המייצרים נוגדנים.",
-      "source": "src1",
-      "quote": "César Milstein and Kohler decided to fuse cells from tumours of the immune system (myelomas) with antibody-producing B lymphocyte of cells.",
-      "status": "confirmed",
-      "locator": "שורה 10"
-    },
-    {
-      "id": "c13",
-      "text": "לפי מכון MRC, התאים המותכים, שנקראו מאוחר יותר היברידומות, נאספו ושובטו.",
-      "source": "src4",
-      "quote": "The fused cells, which were later named hybridomas, were collected and cloned.",
-      "status": "confirmed",
-      "locator": "שורה 9"
-    },
-    {
-      "id": "c14",
-      "text": "המאמר שתיאר את השיטה פורסם ב-Nature ב-1975, ותשע שנים אחר כך הוענק לשניים פרס נובל.",
-      "source": "src4",
-      "quote": "paper describing this technique was published in Nature in 1975 and, nine years later, the pair were awarded the Nobel Prize in Physiology or Medicine",
-      "status": "confirmed",
-      "locator": "שורה 9"
-    },
-    {
-      "id": "c19",
-      "text": "לאחר הפרסום חזר קֶהלר לבאזל, ומילשטיין עבד שנים אחדות עם ג'ובאני גלפרה להדגמת ישימות הנוגדנים החד-שבטיים.",
-      "source": "src4",
-      "quote": "Following publication, Georges returned to Basel and César spent the next few years working with Giovanni Galfré to demonstrate the applicability of monoclonal antibodies.",
-      "status": "confirmed",
-      "locator": "שורה 11"
-    },
-    {
-      "id": "c20",
-      "text": "גלפרה שיפר את תהליך ההיברידיזציה והגביר את אמינותו בכך שהכניס נגיף סנדאי כחומר היתוך.",
-      "source": "src4",
-      "quote": "Giovanni optimised the hybridisation process and increased its reliability by introducing Sendai virus as the fusing agent.",
-      "status": "confirmed",
-      "locator": "שורה 11"
-    },
-    {
-      "id": "c21",
-      "text": "הטכניקה התפשטה במהירות למכוני מחקר ברחבי העולם ושימשה, בין היתר, לקביעת סוגי דם.",
-      "source": "src4",
-      "quote": "The technique quickly spread to research institutes across the world and proved integral to a wide variety of applications including grouping blood types",
-      "status": "confirmed",
-      "locator": "שורה 11"
-    },
-    {
-      "id": "c45",
-      "text": "לפי מכון MRC, עבודתו של מילשטיין שינתה את תחום האימונולוגיה וחשפה תובנות חדשות על מבנה, תפקוד ומגוון הנוגדנים.",
-      "source": "src4",
-      "quote": "his work transformed the field of immunology, providing previously unknown insights into the structure, function and diversity of antibodies.",
-      "status": "confirmed",
-      "locator": "שורה 2"
-    },
-    {
-      "id": "c55",
-      "text": "מילשטיין פתר את חידת הבשלת הזיקה, התהליך שבו נוגדנים משנים את רצפיהם כדי לשפר את יעילותם.",
-      "source": "src4",
-      "quote": "solving the puzzle of affinity maturation, the process by which antibodies adapt their sequences to improve their efficacy",
-      "status": "confirmed",
-      "locator": "שורה 15"
-    },
-    {
-      "id": "c26",
-      "text": "השימושים הטיפוליים הראשונים היו מוגבלים משום שהנוגדנים עוררו תגובה חיסונית בין-מינית.",
-      "source": "src4",
-      "quote": "Though quickly effective in clinical diagnostics, therapeutic uses of monoclonal antibodies were limited as they inspired a cross-species immune response.",
-      "status": "confirmed",
-      "locator": "שורה 12"
-    },
-    {
-      "id": "c54",
-      "text": "לפי מכון LMB, חלפו כ-20 שנה עד שהגישה יושמה בבני אדם, בעקבות מחקר בהובלת גרג וינטר ומייקל נויברגר.",
-      "source": "src7",
-      "quote": "it would take 20 years before this approach could be applied to humans, following research led by Greg Winter and Michael Neuberger at the LMB",
-      "status": "confirmed",
-      "locator": "שורה 30"
-    },
-    {
-      "id": "c24",
-      "text": "הומירה, התרופה הראשונה מנוגדן חד-שבטי אנושי לחלוטין, הושקה ב-2003 לטיפול בדלקת מפרקים שגרונתית.",
-      "source": "src4",
-      "quote": "the first fully human monoclonal antibody drug, which was launched in 2003 to treat rheumatoid arthritis",
-      "status": "confirmed",
-      "locator": "שורה 13"
-    },
-    {
-      "id": "c25",
-      "text": "נוגדנים חד-שבטיים משמשים כיום לטיפול במחלות כגון דלקת מפרקים שגרונתית, טרשת נפוצה, סוגי סרטן מסוימים וזיהומים ויראליים.",
-      "source": "src7",
-      "quote": "Monoclonal antibodies are now also used for therapies to treat diseases including rheumatoid arthritis, multiple sclerosis, some forms of cancer and viral infections.",
-      "status": "confirmed",
-      "locator": "שורה 31"
-    },
-    {
-      "id": "c51",
-      "text": "לפי AAI, ההשפעה הגדולה ביותר היא באונקולוגיה, שם מפתחים נוגדנים חד-שבטיים הנקשרים לגידולים.",
-      "source": "src3",
-      "quote": "Nowhere has the impact been greater than in the field of oncology, where researchers are developing monoclonal antibodies that can bind to tumors",
-      "status": "confirmed",
-      "locator": "שורה 17"
-    },
-    {
-      "id": "c6",
-      "text": "הפרס ניתן על תיאוריות בדבר הייחודיות בהתפתחות ובבקרה של מערכת החיסון ועל גילוי העיקרון לייצור נוגדנים חד-שבטיים.",
-      "source": "src5",
-      "quote": "for theories concerning the specificity in development and control of the immune system and the discovery of the principle for production of monoclonal antibodies",
-      "status": "confirmed",
-      "locator": "שורה 6"
-    },
-    {
-      "id": "c50",
-      "text": "נילס ינה, מדען דני, פיתח את התיאוריות על מערכת החיסון שמילשטיין וקֶהלר המשיכו לפתח.",
-      "source": "src1",
-      "quote": "Niels Kaj Jerne, a Danish scientist: it was his theories of the immune system that the two researchers developed in their research.",
-      "status": "confirmed",
-      "locator": "שורה 13"
-    },
-    {
-      "id": "c49",
-      "text": "לפי AAI, מילשטיין חלק את פרס נובל עם עמיתו הקודם לפוסט-דוקטורט קֶהלר ועם ינה.",
-      "source": "src3",
-      "quote": "César Milstein was awarded the 1984 Nobel Prize in Physiology or Medicine jointly with his former postdoctoral fellow",
-      "status": "confirmed",
-      "locator": "שורה 17"
-    },
-    {
-      "id": "c30",
-      "text": "בנאום הקבלה הדגיש מילשטיין שטכנולוגיית ההיברידומה הייתה תוצר לוואי בלתי צפוי של מחקר בסיסי להבנת מערכת החיסון.",
-      "source": "src1",
-      "quote": "César Milstein stressed that the hybridoma technology was an unexpected by-product of basic research to understand the immune system.",
-      "status": "confirmed",
-      "locator": "שורה 14"
-    },
-    {
-      "id": "c31",
-      "text": "אברהם קרפס כתב כי תרומתו של מילשטיין היא ההתקדמות האימונולוגית החשובה ביותר של המאה.",
-      "source": "src3",
-      "quote": "It is not an exaggeration to describe César Milstein's contribution to science and medicine as the most important immunological advance of the century,",
-      "status": "confirmed",
-      "locator": "שורה 19"
-    },
-    {
-      "id": "c32",
-      "text": "מילשטיין זכה ב-1984 בפרס לסקר על יצירת ההיברידומות הראשונות.",
-      "source": "src3",
-      "quote": "for his superb achievement in creating the first hybridomas, a powerful new scientific too",
-      "status": "confirmed",
-      "locator": "שורה 13"
-    },
-    {
-      "id": "c35",
-      "text": "מלבד נובל זכה בפרס וולף ברפואה ובפרס לואיזה גרוס הורוביץ מאוניברסיטת קולומביה.",
-      "source": "src1",
-      "quote": "In addition to the Nobel Prize, he received the Wolf Prize in Medicine, the Louisa Gross Horwitz Prize from Columbia University",
-      "status": "confirmed",
-      "locator": "שורה 17"
-    },
-    {
-      "id": "c33",
-      "text": "מילשטיין נבחר לחבר החברה המלכותית ב-1975 וקיבל את מדליית קופלי ב-1989.",
-      "source": "src4",
-      "quote": "César was elected a Fellow of the Royal Society in 1975, and received the Royal Society Copley Medal in 1989.",
-      "status": "confirmed",
-      "locator": "שורה 16"
-    },
-    {
-      "id": "c36",
-      "text": "ב-1993 העניק לו קרן קונקס הארגנטינית את פרס היהלום של קונקס.",
-      "source": "src8",
-      "quote": "In 1993, the Argentinian Konex Foundation granted him the Diamond Konex Award, one of the most prestigious cultural awards of Argentina",
-      "status": "confirmed",
-      "locator": "שורה 41"
-    },
-    {
-      "id": "c34",
-      "text": "ב-1995 הפך לאביר הכבוד (Companion of Honour), וב-2000 קיבל את מדליית הכבוד הנשיאותית של ארגנטינה.",
-      "source": "src4",
-      "quote": "In 1995, César became a Companion of Honour and in 2000 received the Presidential Medal of Merit for Scientific Excellence from Argentina",
-      "status": "confirmed",
-      "locator": "שורה 16"
-    },
-    {
-      "id": "c58",
-      "text": "לפי AAI, ב-1983 מונה לראש חטיבת הכימיה של חלבונים וחומצות גרעין ב-MRC והחזיק בתפקיד עד פרישתו ב-1995.",
-      "source": "src3",
-      "quote": "In 1983, he was named head of the Protein and Nucleic Acid Chemistry Division of the MRC, a position he held until his retirement in 1995.",
-      "status": "confirmed",
-      "locator": "שורה 7"
-    },
-    {
-      "id": "c57",
-      "text": "לפי מכון MRC, מילשטיין פרש רשמית ב-1994.",
-      "source": "src4",
-      "quote": "He officially retired in 1994, though he maintained an active interest in the",
-      "status": "confirmed",
-      "locator": "שורה 15"
-    },
-    {
-      "id": "c53",
-      "text": "לפי ויקיפדיה, מילשטיין קיבל אזרחות בריטית והיה בעל אזרחות כפולה בריטית-ארגנטינאית.",
-      "source": "src8",
-      "quote": "he acquired British citizenship and had dual British-Argentinian nationality",
-      "status": "confirmed",
-      "locator": "שורה 32"
-    },
-    {
-      "id": "c52",
-      "text": "לפי ויקיפדיה, מילשטיין סייע למדע ולמדענים במדינות מתפתחות.",
-      "source": "src8",
-      "quote": "Milstein acted as a guide and inspiration to many in the antibody field, as well as devoting himself to assisting science and scientists in less developed countries.",
-      "status": "confirmed",
-      "locator": "שורה 39"
-    },
-    {
-      "id": "c37",
-      "text": "מילשטיין מת ב-24 במרץ בגיל 74.",
-      "source": "src1",
-      "quote": "who died on March 24th aged 74, won a Nobel Prize for medicine in 1984",
-      "status": "confirmed",
-      "locator": "שורה 1"
-    },
-    {
-      "id": "c38",
-      "text": "לפי ויקיפדיה, מילשטיין מת מבעיית לב שממנה סבל שנים רבות.",
-      "source": "src8",
-      "quote": "as a result of a heart condition that he had suffered from for many years",
-      "status": "confirmed",
-      "locator": "שורה 44"
-    },
-    {
-      "id": "c39",
-      "text": "ב-2003 ערך מכון LMB את כנס הזיכרון על שם מילשטיין.",
-      "source": "src4",
-      "quote": "In 2003, the LMB celebrated his impact by hosting the Milstein Memorial Meeting",
-      "status": "confirmed",
-      "locator": "שורה 17"
-    },
-    {
-      "id": "c40",
-      "text": "מלגת מילשטיין מממנת סטודנטים ארגנטינאים לדוקטורט להשלמת לימודיהם ב-LMB.",
-      "source": "src4",
-      "quote": "through the Milstein Studentship which provides funding for Argentinian Ph.D. students to complete their studies at the LMB",
-      "status": "confirmed",
-      "locator": "שורה 17"
-    },
-    {
-      "id": "c47",
-      "text": "לפי ויקיפדיה, סרט דוקומנטרי על חייו יצא ב-2010.",
-      "source": "src8",
-      "quote": "The film Un fueguito, la historia de César Milstein was released in 2010.",
-      "status": "confirmed",
-      "locator": "שורה 45"
-    },
-    {
-      "id": "c28",
-      "text": "לפי ה-Irish Times, הייתה חרטה בשנות ה-80 כשנודע שהחברה הבריטית NRDC החליטה לא לנסות לרשום פטנט על טכנולוגיית ההיברידומה.",
-      "source": "src1",
-      "quote": "There was some regret in the 1980s when it was found that the British government's National Research Development Corporation had decided not to attempt to patent the hybridoma technology.",
-      "status": "confirmed",
-      "locator": "שורה 15"
-    },
-    {
-      "id": "c29",
-      "text": "לפי ויקיפדיה, מילשטיין רשם פטנט על ייצור נוגדנים חד-שבטיים והחזיק בשלושה פטנטים נוספים.",
-      "source": "src8",
-      "quote": "Milstein patented the production of monoclonal antibodies,[25] and held three other patents.",
-      "status": "confirmed",
-      "locator": "שורה 39"
-    },
-    {
-      "id": "c61",
-      "text": "לפי ה-Irish Times, מילשטיין סיים תואר בכימיה באוניברסיטת בואנוס איירס ב-1945.",
-      "source": "src1",
-      "quote": "After graduating from Buenos Aires University in chemistry in 1945, he started his research career there in enzymology.",
-      "status": "confirmed",
-      "locator": "שורה 5"
-    },
-    {
-      "id": "c62",
-      "text": "לפי AAI, מילשטיין קיבל תואר ראשון בביוכימיה באוניברסיטת בואנוס איירס ב-1952.",
-      "source": "src3",
-      "quote": "Milstein earned his B.S. in biochemistry at the National University of Buenos Aries in 1952.",
-      "status": "confirmed",
-      "locator": "שורה 7"
-    },
-    {
-      "id": "c63",
-      "text": "לפי אתר History & Policy, ה-NRDC סירבה לרשום פטנט על העבודה לאחר שמילשטיין הגיש אותה לבחינה.",
-      "source": "src9",
-      "quote": "who declined to patent the work after Milstein submitted it for consideration.",
-      "status": "confirmed",
-      "locator": "שורה 6"
-    }
-  ],
-  "sources": [
-    {
-      "id": "src1",
-      "label": "The Irish Times, obituary of Milstein, 2002",
-      "url": "https://www.irishtimes.com/news/won-the-nobel-prize-for-research-on-immune-system-1.1086712",
-      "kind": "press"
-    },
-    {
-      "id": "src2",
-      "label": "NobelPrize.org, summary of the 1984 Nobel Prize in Medicine",
-      "url": "https://www.nobelprize.org/prizes/medicine/1984/summary/",
-      "kind": "official"
-    },
-    {
-      "id": "src3",
-      "label": "American Association of Immunologists, Cesar Milstein",
-      "url": "https://www.aai.org/About/History/Notable-Members/Nobel-Laureates/Cesar-Milstein",
-      "kind": "organisation"
-    },
-    {
-      "id": "src4",
-      "label": "MRC LMB, César Milstein (1927–2002)",
-      "url": "https://mrclmb.ac.uk/?p=9475",
-      "kind": "organisation"
-    },
-    {
-      "id": "src5",
-      "label": "NobelPrize.org, Milstein facts page, 1984 Nobel Prize",
-      "url": "https://www.nobelprize.org/nobel_prizes/medicine/laureates/1984/milstein-facts.html",
-      "kind": "official"
-    },
-    {
-      "id": "src6",
-      "label": "Cambridge Department of Biochemistry, César Milstein",
-      "url": "https://www.bioc.cam.ac.uk/about-us/history/nobel-prizes/cesar-milstein",
-      "kind": "organisation"
-    },
-    {
-      "id": "src7",
-      "label": "MRC LMB, Nobel Prize in Physiology or Medicine 1984",
-      "url": "https://mrclmb.ac.uk/?p=980",
-      "kind": "organisation"
-    },
-    {
-      "id": "src8",
-      "label": "Wikipedia, César Milstein",
-      "url": "https://en.wikipedia.org/wiki/C%C3%A9sar_Milstein",
-      "kind": "reference"
-    },
-    {
-      "id": "src9",
-      "label": "History & Policy, Lara Marks, overlooked scientific innovation reaps rewards 40 years on",
-      "url": "https://historyandpolicy.org/opinion-articles/articles/overlooked-scientific-innovation-reaps-rewards-40-years-on/",
-      "kind": "organisation"
-    }
-  ],
-  "media": [
-    {
-      "id": "m1",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/EWS01a.01.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:EWS01a.01.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "History of Modern Biomedicine Research Group",
-      "licence": "CC BY-SA 4.0",
-      "hosting": "hotlink",
-      "caption": "People sit along a meeting table with name cards, among them \"Dr C Milstein\" and \"Dr G Kohler\", at a witness seminar on monoclonal antibodies in 1993.",
-      "illustrates": [
-        "c5"
-      ],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "date": "24 Septemb",
-      "width": 4417,
-      "height": 4350
-    },
-    {
-      "id": "m2",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hybridoma%20technology.png?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Hybridoma_technology.png",
-      "source_name": "Wikimedia Commons",
-      "credit": "Hybridomtechnik.png: Martin Brändli derivative work: ἀνυπόδητος (talk)",
-      "licence": "CC BY-SA 2.5",
-      "hosting": "hotlink",
-      "caption": "A step-by-step diagram of monoclonal antibody production using hybridoma technology, with mice, cells and test tubes.",
-      "illustrates": [
-        "c12",
-        "c13",
-        "c16"
-      ],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/2.5",
-      "date": "2010-01-04",
-      "width": 969,
-      "height": 1751
-    },
-    {
-      "id": "m3",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/New%20MRC%20Laboratory%20of%20Molecular%20Biology%20-%20geograph.org.uk%20-%202551572.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:New_MRC_Laboratory_of_Molecular_Biology_-_geograph.org.uk_-_2551572.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Keith Edkins",
-      "licence": "CC BY-SA 2.0",
-      "hosting": "hotlink",
-      "caption": "The new laboratory building of the MRC Laboratory of Molecular Biology, seen from a distance beyond a field and a fence.",
-      "illustrates": [
-        "c39",
-        "c40"
-      ],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
-      "date": "2011-08-09",
-      "width": 1024,
-      "height": 768
-    },
-    {
-      "id": "m5",
-      "kind": "video",
-      "url": "https://www.youtube.com/watch?v=2zK4LVLolN0",
-      "youtube_id": "2zK4LVLolN0",
-      "source_page": "https://www.youtube.com/watch?v=2zK4LVLolN0",
-      "source_name": "YouTube",
-      "credit": "ExactasUBAoficial",
-      "licence": "YouTube, embedded only (standard YouTube licence)",
-      "licence_url": "https://www.youtube.com/static?template=terms",
-      "hosting": "embed",
-      "caption": "A lecture by Milstein himself, Nobel laureate, on monoclonal antibodies and curiosity as a source of wealth, recorded at the end of 1999 and published on the channel of the Faculty of Exact Sciences at the University of Buenos Aires.",
-      "illustrates": [
-        "c30"
-      ],
-      "spoken": "es",
-      "audio_tracks": [
-        "es",
-        "ar",
-        "en",
-        "pt"
-      ]
-    },
-    {
-      "id": "m6",
-      "kind": "video",
-      "url": "https://www.youtube.com/watch?v=5mCvO1Y_KVk",
-      "youtube_id": "5mCvO1Y_KVk",
-      "source_page": "https://www.youtube.com/watch?v=5mCvO1Y_KVk",
-      "source_name": "YouTube",
-      "credit": "Fundación Konex",
-      "licence": "YouTube, embedded only (standard YouTube licence)",
-      "licence_url": "https://www.youtube.com/static?template=terms",
-      "hosting": "embed",
-      "caption": "A full interview with Milstein from 1993, on the occasion of receiving the Konex Award, on the Konex Foundation's channel.",
-      "illustrates": [
-        "c36"
-      ],
-      "spoken": "es",
-      "audio_tracks": [
-        "es"
-      ]
-    },
-    {
-      "id": "m7",
-      "kind": "video",
-      "url": "https://www.youtube.com/watch?v=UMtOMI1Te1E",
-      "youtube_id": "UMtOMI1Te1E",
-      "source_page": "https://www.youtube.com/watch?v=UMtOMI1Te1E",
-      "source_name": "YouTube",
-      "credit": "Museo y Archivo Histórico Bahía Blanca",
-      "licence": "YouTube, embedded only (standard YouTube licence)",
-      "licence_url": "https://www.youtube.com/static?template=terms",
-      "hosting": "embed",
-      "caption": "A film by a museum in Bahía Blanca about the Argentine scientist, born in the city, who won the Nobel Prize in Medicine in 1984.",
-      "illustrates": [
-        "c1",
-        "c5"
-      ]
-    },
-    {
-      "id": "m8",
-      "kind": "video",
-      "url": "https://www.youtube.com/watch?v=4DV00IseCC4",
-      "youtube_id": "4DV00IseCC4",
-      "source_page": "https://www.youtube.com/watch?v=4DV00IseCC4",
-      "source_name": "YouTube",
-      "credit": "Argentina Sociedad Anonima",
-      "licence": "YouTube, embedded only (standard YouTube licence)",
-      "licence_url": "https://www.youtube.com/static?template=terms",
-      "hosting": "embed",
-      "caption": "Television coverage of Milstein's visit to Argentina in 1997, on the occasion of 50-year celebrations.",
-      "illustrates": [
-        "c52"
-      ],
-      "spoken": "es",
-      "audio_tracks": [
-        "es"
-      ]
-    },
-    {
-      "id": "m9",
-      "kind": "video",
-      "url": "https://www.youtube.com/watch?v=L6K0Z-T0yxU",
-      "youtube_id": "L6K0Z-T0yxU",
-      "source_page": "https://www.youtube.com/watch?v=L6K0Z-T0yxU",
-      "source_name": "YouTube",
-      "credit": "FavScientist",
-      "licence": "YouTube, embedded only (standard YouTube licence)",
-      "licence_url": "https://www.youtube.com/static?template=terms",
-      "hosting": "embed",
-      "caption": "Prof. Ellen Billett of Nottingham Trent University explains why Milstein is her favorite scientist and why his contribution is important.",
-      "illustrates": [
-        "c45"
-      ],
-      "spoken": "en",
-      "audio_tracks": [
-        "en"
-      ]
-    },
-    {
-      "id": "m11",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/40.%20Tagung%201990%20Mediziner%20Portraits%3B%20Prof.%20K%C3%B6hler%20%28Freiburg%29%20-%20W134Nr.126381c%20-%20Willy%20Pragher.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:40._Tagung_1990_Mediziner_Portraits%3B_Prof._K%C3%B6hler_%28Freiburg%29_-_W134Nr.126381c_-_Willy_Pragher.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Willy Pragher",
-      "licence": "CC BY 3.0 de",
-      "hosting": "hotlink",
-      "caption": "Prof. Georges Köhler at a conference in Germany, 1990, black-and-white photograph",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by/3.0/de/deed.en",
-      "date": "1990date Q",
-      "width": 728,
-      "height": 1102,
-      "role": "deed"
-    },
-    {
-      "id": "m14",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Einweihung%20des%20Max-Planck-Institutes%20f%C3%BCr%20Immunbiologie%20%281990%29.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Einweihung_des_Max-Planck-Institutes_f%C3%BCr_Immunbiologie_%281990%29.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Marlis Decker",
-      "licence": "CC BY 3.0 de",
-      "hosting": "hotlink",
-      "caption": "Georges Köhler (right) at the inauguration ceremony of the Max Planck Institute of Immunobiology, 1990",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by/3.0/de/deed.en",
-      "date": "1990-09-27",
-      "width": 800,
-      "height": 555,
-      "role": "deed"
-    },
-    {
-      "id": "m15",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cmglee%20Cambridge%20LMB%20atrium.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Cmglee_Cambridge_LMB_atrium.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Cmglee",
-      "licence": "CC BY-SA 3.0",
-      "hosting": "hotlink",
-      "caption": "The entrance hall of the new building of the Laboratory of Molecular Biology in Cambridge, 2013",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-      "width": 1536,
-      "height": 2048,
-      "role": "related"
-    },
-    {
-      "id": "m16",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cmglee%20Cambridge%20LMB%20lab.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Cmglee_Cambridge_LMB_lab.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Cmglee",
-      "licence": "CC BY-SA 3.0",
-      "hosting": "hotlink",
-      "caption": "A laboratory and corridor in the new building of the Laboratory of Molecular Biology in Cambridge, 2013",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-      "width": 1536,
-      "height": 2048,
-      "role": "related"
-    },
-    {
-      "id": "m17",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cmglee%20Cambridge%20LMB%20lecture.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Cmglee_Cambridge_LMB_lecture.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Cmglee",
-      "licence": "CC BY-SA 3.0",
-      "hosting": "hotlink",
-      "caption": "A public lecture in the new building of the Laboratory of Molecular Biology in Cambridge, 2013",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-      "date": "2013-06-22",
-      "width": 1536,
-      "height": 1024,
-      "role": "related"
-    },
-    {
-      "id": "m18",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Inkubator.png?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Inkubator.png",
-      "source_name": "Wikimedia Commons",
-      "credit": "Matylda Sękpl commons: Cygaretka",
-      "licence": "CC BY-SA 3.0",
-      "hosting": "hotlink",
-      "caption": "A laboratory incubator, closed and open, a device in which cells are grown",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-      "date": "2024-07-10",
-      "width": 3424,
-      "height": 2568,
-      "role": "related"
-    },
-    {
-      "id": "m19",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/LMB%20Building%20-%20panoramio.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:LMB_Building_-_panoramio.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Jynto",
-      "licence": "CC BY 3.0",
-      "hosting": "hotlink",
-      "caption": "A brick building of the Laboratory of Molecular Biology in Cambridge with a rounded hall at its front, and parked bicycles",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by/3.0",
-      "date": "Taken on 2",
-      "width": 3228,
-      "height": 2409,
-      "role": "related"
-    },
-    {
-      "id": "m20",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/MRC%20Laboratory%20of%20Molecular%20Biology%20-%20geograph.org.uk%20-%206522141.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:MRC_Laboratory_of_Molecular_Biology_-_geograph.org.uk_-_6522141.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "N Chadwick",
-      "licence": "CC BY-SA 2.0",
-      "hosting": "hotlink",
-      "caption": "The new building of the MRC Laboratory of Molecular Biology, with its ventilation chimneys, in Cambridge",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
-      "date": "2019-02-16",
-      "width": 1024,
-      "height": 684,
-      "role": "related"
-    },
-    {
-      "id": "m21",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Snow%20and%20the%20Laboratory%20of%20Molecular%20Biology%20-%20geograph.org.uk%20-%207363366.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Snow_and_the_Laboratory_of_Molecular_Biology_-_geograph.org.uk_-_7363366.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "John Sutton",
-      "licence": "CC BY-SA 2.0",
-      "hosting": "hotlink",
-      "caption": "The new building of the Laboratory of Molecular Biology in Cambridge in the snow",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
-      "date": "2022-12-17",
-      "width": 1280,
-      "height": 1024,
-      "role": "related"
-    },
-    {
-      "id": "m22",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Approaches%20for%20the%20development%20of%20therapeutic%20antibodies.webp?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Approaches_for_the_development_of_therapeutic_antibodies.webp",
-      "source_name": "Wikimedia Commons",
-      "credit": "Ruei-Min Lu",
-      "licence": "CC BY 4.0",
-      "hosting": "hotlink",
-      "caption": "A diagram of different methods for producing monoclonal antibodies, among them mouse hybridoma",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by/4.0",
-      "date": "2020-01-02",
-      "width": 1946,
-      "height": 1379,
-      "role": "related"
-    },
-    {
-      "id": "m23",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/CertolizumaB%205WUV.png?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:CertolizumaB_5WUV.png",
-      "source_name": "Wikimedia Commons",
-      "credit": "Fvasconcellos (talk · contribs)",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "A computer model of a therapeutic monoclonal antibody molecule (certolizumab pegol)",
-      "illustrates": [],
-      "date": "2020-10-29",
-      "width": 1600,
-      "height": 1600,
-      "role": "related"
-    },
-    {
-      "id": "m24",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Certolizumab%20binding%20TNF-alpha%20homotrimer%205WUX.png?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Certolizumab_binding_TNF-alpha_homotrimer_5WUX.png",
-      "source_name": "Wikimedia Commons",
-      "credit": "Fvasconcellos (talk · contribs)",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "A computer model of three fragments of a therapeutic monoclonal antibody bound to the TNF-alpha protein",
-      "illustrates": [],
-      "date": "2020-10-29",
-      "width": 2000,
-      "height": 2000,
-      "role": "related"
-    },
-    {
-      "id": "m25",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/How%20to%20obtain%20monoclonal%20antibodies.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:How_to_obtain_monoclonal_antibodies.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "L1vuong",
-      "licence": "CC BY-SA 3.0",
-      "hosting": "hotlink",
-      "caption": "Hand drawing: spleen cells and myeloma cells are fused into hybridoma cells that produce monoclonal antibodies",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-      "date": "2011-10-29",
-      "width": 3968,
-      "height": 2976,
-      "role": "related"
-    }
-  ],
-  "check": {
-    "passed": true,
-    "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
-    "checked_at": "2026-11-14T03:46:47Z",
-    "counts": {
-      "confirmed": 78,
-      "not_confirmed": 0,
-      "deleted_sentences": 2,
-      "first_round_confirmed": 78,
-      "first_round_contradicted": 1,
-      "first_round_unverifiable": 2
-    },
-    "note": "unverifiable sentences were deleted, contradicted ones fixed from the source and checked again"
+ "schema": "maasei-museum/1",
+ "slug": "cesar-milstein-monoclonal-antibodies",
+ "deed": "ססר מילשטיין פיתח שיטה לייצור נוגדנים חד-שבטיים וזכה בנובל לרפואה 1984",
+ "canonical_type": "scientific-discovery",
+ "year": "1975",
+ "title": "César Milstein, son of a Jewish immigrant, found a way to produce antibodies in large quantities and won the Nobel Prize in Medicine",
+ "trailer": [
+  {
+   "text": "César Milstein, a scientist born in Bahía Blanca, Argentina, and the son of a Jewish immigrant father, is one of the three winners of the 1984 Nobel Prize in Medicine.",
+   "claims": [
+    "c1",
+    "c5"
+   ]
   },
-  "meta": {
-    "run": "cesar-milstein-monoclonal-antibodies",
-    "pipeline": "scripts/museum/museum_line.py",
-    "models": {
-      "research": "sonnet-5-5",
-      "extract": "sonnet-5-5",
-      "media": "sonnet-5-5",
-      "write": "opus-5-5 medium",
-      "check": "opus-5-5 medium",
-      "fix": "opus-5-5 medium"
-    },
-    "source_quality": {
-      "sources": 8,
-      "wikipedia": 1,
-      "strong": 3,
-      "ok": true,
-      "warnings": []
-    },
-    "settled": [
-      {
-        "box": "d4",
-        "question": "האם נרשם פטנט על ייצור הנוגדנים החד-שבטיים?",
-        "url": "https://historyandpolicy.org/opinion-articles/articles/overlooked-scientific-innovation-reaps-rewards-40-years-on/",
-        "by": "settle 24.11"
-      }
-    ],
-    "media_dedupe": [
-      {
-        "drop": "m4",
-        "keep": "m19",
-        "by": "reviewed 24.11"
-      }
-    ]
+  {
+   "text": "Before his work, scientists struggled to produce large amounts of a single antibody, because the cells that produce antibodies were difficult to grow in the laboratory.",
+   "claims": [
+    "c7"
+   ]
   },
-  "lang": "en",
-  "translation": {
-    "from": "he",
-    "translator": "claude-opus-5-5",
-    "checker": "claude-opus-5-5 (separate call, blind to the translation prompt)",
-    "checked_at": "2026-11-23T22:25:46Z",
-    "passed": true,
-    "items": 119,
-    "pairs_checked": 1,
-    "reused": 118,
-    "first_round_flagged": 0,
-    "still_flagged": 0,
-    "flagged": [],
-    "quote_translations": {}
+  {
+   "text": "In 1975, in Cambridge, Milstein and Georges Köhler developed a method to combine tumor cells with antibody-producing cells, in order to produce antibodies of the same type.",
+   "claims": [
+    "c15",
+    "c16"
+   ]
+  },
+  {
+   "text": "The combined cell, called a hybridoma, could produce antibodies continuously.",
+   "claims": [
+    "c12"
+   ]
+  },
+  {
+   "text": "Monoclonal antibody production was one of the driving forces in the creation of the biotechnology industry, and according to the MRC institute, monoclonal antibodies today account for at least a third of all new treatments against a range of diseases.",
+   "claims": [
+    "c22",
+    "c23"
+   ]
   }
+ ],
+ "hero_media": [
+  "m2",
+  "m1",
+  "m3",
+  "m11",
+  "m14",
+  "m19"
+ ],
+ "glance": [
+  {
+   "label": "Who",
+   "value": "César Milstein, son of a Jewish immigrant father",
+   "claims": [
+    "c1"
+   ]
+  },
+  {
+   "label": "What",
+   "value": "The hybridoma technique for the production of monoclonal antibodies",
+   "claims": [
+    "c17"
+   ]
+  },
+  {
+   "label": "When",
+   "value": "1975",
+   "claims": [
+    "c16"
+   ]
+  },
+  {
+   "label": "Where",
+   "value": "Cambridge, Britain",
+   "claims": [
+    "c15",
+    "c42"
+   ]
+  },
+  {
+   "label": "Recognition",
+   "value": "1984 Nobel Prize in Medicine",
+   "claims": [
+    "c5"
+   ]
+  },
+  {
+   "label": "Today",
+   "value": "At least a third of new treatments, according to the MRC",
+   "claims": [
+    "c23"
+   ]
+  }
+ ],
+ "stations": [
+  {
+   "id": "s1",
+   "title": "A boy from Bahía Blanca",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "César Milstein was born on October 8, 1927, in Bahía Blanca, Argentina.",
+      "claims": [
+       "c1"
+      ]
+     },
+     {
+      "text": "He was the middle of three sons, born to a Jewish immigrant father and a mother who was a teacher.",
+      "claims": [
+       "c1"
+      ]
+     },
+     {
+      "text": "His father came from Ukraine to Argentina alone, as a teenager.",
+      "claims": [
+       "c2"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "As a child he was drawn to science after reading about microbe hunters such as van Leeuwenhoek and Pasteur.",
+      "claims": [
+       "c48"
+      ]
+     },
+     {
+      "text": "He studied at the University of Buenos Aires, where he completed a PhD on the enzyme aldehyde dehydrogenase.",
+      "claims": [
+       "c41"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "In 1953 he married Celia, who was also an immunologist.",
+      "claims": [
+       "c46"
+      ]
+     },
+     {
+      "text": "Milstein was proud of his Jewish heritage.",
+      "claims": [
+       "c3"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m7"
+   ],
+   "disagreements": [
+    "d1"
+   ]
+  },
+  {
+   "id": "s2",
+   "title": "Between Argentina and Cambridge",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "In 1958 he travelled to Britain to work in the Biochemistry Department of the University of Cambridge.",
+      "claims": [
+       "c42"
+      ]
+     },
+     {
+      "text": "There he received a second PhD.",
+      "claims": [
+       "c59",
+       "c60"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to The Irish Times, Milstein returned to Argentina in 1961, and two years later, when dozens of faculty members were dismissed following the military coup, he resigned his job and went back to Cambridge.",
+      "claims": [
+       "c43"
+      ]
+     },
+     {
+      "text": "According to AAI, he was frustrated by political interference in his laboratory after the 1962 coup, and returned to Cambridge in 1963.",
+      "claims": [
+       "c44"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "At the suggestion of Frederick Sanger, Milstein moved from enzyme research to immunology.",
+      "claims": [
+       "c18"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m15",
+    "m16"
+   ],
+   "disagreements": [
+    "d2"
+   ]
+  },
+  {
+   "id": "s3",
+   "title": "The problem: one antibody, in quantity",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "The human immune system can produce more than two million different antibodies.",
+      "claims": [
+       "c56"
+      ]
+     },
+     {
+      "text": "According to the MRC institute, the ability of antibodies to bind specifically is very useful for medical research, but it was difficult to produce large quantities of specific antibodies in the laboratory.",
+      "claims": [
+       "c10"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "The difficulty was growing the antibody-producing B cells in culture.",
+      "claims": [
+       "c7"
+      ]
+     },
+     {
+      "text": "These cells were easy to harvest from the spleens of mice, but in laboratory culture they grew only briefly.",
+      "claims": [
+       "c8"
+      ]
+     },
+     {
+      "text": "On the other hand, the researchers had myeloma cells, a cancer that grows in the laboratory without limit and produces immunoglobulin.",
+      "claims": [
+       "c9"
+      ]
+     }
+    ]
+   ],
+   "media": [],
+   "disagreements": []
+  },
+  {
+   "id": "s4",
+   "title": "The idea: fuse two cells into one",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "Georges Köhler arrived in Cambridge in 1974.",
+      "claims": [
+       "c15"
+      ]
+     },
+     {
+      "text": "Together with Milstein, he sought to use cell fusion to create an antibody-secreting cell line.",
+      "claims": [
+       "c15"
+      ]
+     },
+     {
+      "text": "According to the Irish Times, the two decided to fuse tumor cells of the immune system, myelomas, with B cells that produce antibodies.",
+      "claims": [
+       "c11"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "The combined cell was called a hybridoma.",
+      "claims": [
+       "c12"
+      ]
+     },
+     {
+      "text": "It had infinite life and could produce antibodies continuously.",
+      "claims": [
+       "c12"
+      ]
+     },
+     {
+      "text": "According to the MRC institute, the fused cells were collected and cloned.",
+      "claims": [
+       "c13"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "In this way, in 1975, the hybridoma technique for the production of monoclonal antibodies was developed.",
+      "claims": [
+       "c16",
+       "c17"
+      ]
+     },
+     {
+      "text": "The paper describing the method was published in Nature that same year.",
+      "claims": [
+       "c14"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m2",
+    "m18",
+    "m25"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s5",
+   "title": "From the laboratory to medicines",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "After the publication, Köhler returned to Basel.",
+      "claims": [
+       "c19"
+      ]
+     },
+     {
+      "text": "Milstein worked for several years with Giovanni Galfré to show that monoclonal antibodies could be used.",
+      "claims": [
+       "c19"
+      ]
+     },
+     {
+      "text": "Galfré introduced Sendai virus as the fusing agent, thereby improving the process and making it more reliable.",
+      "claims": [
+       "c20"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "The technique spread quickly to research institutes around the world, and was used, among other things, for grouping blood types.",
+      "claims": [
+       "c21"
+      ]
+     },
+     {
+      "text": "According to the MRC institute, Milstein's work transformed the field of immunology and revealed new insights into the structure, function and diversity of antibodies.",
+      "claims": [
+       "c45"
+      ]
+     },
+     {
+      "text": "He also solved the puzzle of affinity maturation, the process by which antibodies change their sequences to improve their efficacy.",
+      "claims": [
+       "c55"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "At first, therapeutic use was limited, because the antibodies provoked a cross-species immune response.",
+      "claims": [
+       "c26"
+      ]
+     },
+     {
+      "text": "According to the LMB institute, it took about 20 years until the approach was applied to humans, following research led by Greg Winter and Michael Neuberger.",
+      "claims": [
+       "c54"
+      ]
+     },
+     {
+      "text": "Humira, the first fully human monoclonal antibody drug, was launched in 2003 to treat rheumatoid arthritis.",
+      "claims": [
+       "c24"
+      ]
+     },
+     {
+      "text": "Today, monoclonal antibodies are used to treat diseases such as rheumatoid arthritis, multiple sclerosis, some forms of cancer and viral infections.",
+      "claims": [
+       "c25"
+      ]
+     },
+     {
+      "text": "According to AAI, the greatest impact is in oncology, where monoclonal antibodies that bind to tumors are being developed.",
+      "claims": [
+       "c51"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m9",
+    "m22",
+    "m23",
+    "m24"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s6",
+   "title": "The Nobel and other prizes",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "The 1984 Nobel Prize in Physiology or Medicine was awarded jointly to Niels Jerne, Georges Köhler and César Milstein.",
+      "claims": [
+       "c5"
+      ]
+     },
+     {
+      "text": "The prize was given for theories concerning the specificity in development and control of the immune system, and for the discovery of the principle for production of monoclonal antibodies.",
+      "claims": [
+       "c6"
+      ]
+     },
+     {
+      "text": "Jerne, a Danish scientist, developed the theories of the immune system that Milstein and Köhler went on to develop.",
+      "claims": [
+       "c50"
+      ]
+     },
+     {
+      "text": "According to AAI, Köhler had formerly been Milstein's postdoctoral fellow.",
+      "claims": [
+       "c49"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "In his acceptance speech, Milstein stressed that the hybridoma technology was an unexpected by-product of basic research to understand the immune system.",
+      "claims": [
+       "c30"
+      ]
+     },
+     {
+      "text": "Abraham Karpas wrote that Milstein's contribution is the most important immunological advance of the century.",
+      "claims": [
+       "c31"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "In 1984 Milstein also won the Lasker Award for creating the first hybridomas.",
+      "claims": [
+       "c32"
+      ]
+     },
+     {
+      "text": "In addition to the Nobel, he won the Wolf Prize in Medicine and the Louisa Gross Horwitz Prize from Columbia University.",
+      "claims": [
+       "c35"
+      ]
+     },
+     {
+      "text": "In 1975 he was elected a Fellow of the Royal Society, and in 1989 he received the Copley Medal.",
+      "claims": [
+       "c33"
+      ]
+     },
+     {
+      "text": "In 1995 Milstein became a Companion of Honour, and in 2000 he received the Presidential Medal of Merit for Scientific Excellence from Argentina.",
+      "claims": [
+       "c34"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m1",
+    "m5",
+    "m6"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s7",
+   "title": "Two homelands and a legacy",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "According to the AAI, in 1983 Milstein was named head of the Protein and Nucleic Acid Chemistry Division of the MRC, a position he held until his retirement in 1995.",
+      "claims": [
+       "c58"
+      ]
+     },
+     {
+      "text": "He retired in the mid-1990s.",
+      "claims": [
+       "c57",
+       "c58"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "He received British citizenship and held dual citizenship, British and Argentine.",
+      "claims": [
+       "c65"
+      ]
+     },
+     {
+      "text": "He helped science and scientists in developing countries.",
+      "claims": [
+       "c66"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "Milstein died on March 24, at the age of 74.",
+      "claims": [
+       "c37"
+      ]
+     },
+     {
+      "text": "In 2003 the LMB institute held a memorial meeting in his name.",
+      "claims": [
+       "c39"
+      ]
+     },
+     {
+      "text": "The Milstein Studentship funds Argentine PhD students so that they can complete their studies at the LMB.",
+      "claims": [
+       "c40"
+      ]
+     },
+     {
+      "text": "In 2010 a documentary film about his life was released.",
+      "claims": [
+       "c67"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m19",
+    "m3",
+    "m8",
+    "m17",
+    "m20",
+    "m21"
+   ],
+   "disagreements": [
+    "d3"
+   ]
+  },
+  {
+   "id": "s8",
+   "title": "The patent question",
+   "kind": "hard",
+   "paragraphs": [
+    [
+     {
+      "text": "According to The Irish Times, there was some regret in the 1980s when it was found that the British government's National Research Development Corporation had decided not to attempt to patent the hybridoma technology.",
+      "claims": [
+       "c28"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to the History & Policy website, the NRDC declined to patent the work after Milstein submitted it for consideration.",
+      "claims": [
+       "c63"
+      ]
+     }
+    ]
+   ],
+   "media": [],
+   "disagreements": []
+  }
+ ],
+ "disagreements": [
+  {
+   "id": "d1",
+   "question": "When did he complete his first studies in Buenos Aires?",
+   "versions": [
+    {
+     "says": "According to the Irish Times, he completed a degree in chemistry at the University of Buenos Aires in 1945",
+     "claims": [
+      "c61"
+     ]
+    },
+    {
+     "says": "According to AAI, he received a bachelor's degree in biochemistry at the University of Buenos Aires in 1952",
+     "claims": [
+      "c62"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d2",
+   "question": "In what year did he receive his PhD at Cambridge?",
+   "versions": [
+    {
+     "says": "According to the Cambridge Department of Biochemistry, in 1961",
+     "claims": [
+      "c59"
+     ]
+    },
+    {
+     "says": "According to AAI, in 1960",
+     "claims": [
+      "c60"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d3",
+   "question": "In what year did he retire?",
+   "versions": [
+    {
+     "says": "According to the MRC institute, in 1994",
+     "claims": [
+      "c57"
+     ]
+    },
+    {
+     "says": "According to AAI, in 1995",
+     "claims": [
+      "c58"
+     ]
+    }
+   ]
+  }
+ ],
+ "unknowns": [],
+ "claims": [
+  {
+   "id": "c1",
+   "text": "מילשטיין נולד ב-8 באוקטובר 1927 בבאיה בלנקה שבארגנטינה, האמצעי משלושה בנים לאב מהגר יהודי ולאם מורה.",
+   "source": "src1",
+   "quote": "He was born on October 8th, 1927, in Bahía Blanca, Argentina, the middle of three sons of a Jewish immigrant father",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c5",
+   "text": "פרס נובל לפיזיולוגיה או רפואה לשנת 1984 הוענק במשותף לניילס ינה, גאורג קֶהלר וססר מילשטיין.",
+   "source": "src2",
+   "quote": "The Nobel Prize in Physiology or Medicine 1984 was awarded jointly to Niels K. Jerne, Georges J.F. Köhler and César Milstein",
+   "status": "confirmed",
+   "locator": "שורה 13"
+  },
+  {
+   "id": "c7",
+   "text": "לפני השיטה, מדענים התקשו לייצר כמויות גדולות של שבטים של נוגדן יחיד בגלל הקושי לגדל בתרבית תאי B המייצרים נוגדנים.",
+   "source": "src3",
+   "quote": "Prior to the development of Milstein and Köhler's hybridoma technique, scientists had struggled to produce large amounts of single antibody clones because of the difficulty of growing antibody-producing B cells in culture.",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c15",
+   "text": "קֶהלר הגיע לקיימברידג' ב-1974, ובעבודה משותפת עם מילשטיין ביקשו להשתמש בהיתוך תאים כדי ליצור קו תאים מפריש נוגדנים.",
+   "source": "src4",
+   "quote": "Georges arrived in Cambridge in 1974 and, working closely with César, the pair sought to use cell fusion to produce their own antibody-secreting cell line.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c16",
+   "text": "ב-1975 פיתחו מילשטיין וקֶהלר שיטה לשילוב תאי גידול עם תאים החסינים לאנטיגן מסוים, כדי לייצר נוגדנים מאותו סוג.",
+   "source": "src5",
+   "quote": "In 1975 Cesar Milstein and George Köhler developed a method for combining such tumor cells with cells that are immune to a certain antigen",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c12",
+   "text": "התא המשולב, שנקרא היברידומה, זכה לחיי נצח ויכול היה לייצר נוגדנים ברציפות.",
+   "source": "src1",
+   "quote": "They found that the combination they created, called a hybridoma, possessed the property of infinite life and could continuously synthesise antibodies.",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c22",
+   "text": "ייצור נוגדנים חד-שבטיים היה אחד הכוחות המניעים בהקמת תעשיית הביוטכנולוגיה.",
+   "source": "src1",
+   "quote": "Monoclonal antibody production was one of the principal driving forces in the creation of the biotechnology industry.",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c23",
+   "text": "לפי מכון MRC, היום נוגדנים חד-שבטיים מהווים לפחות שליש מכלל הטיפולים החדשים נגד מגוון מחלות.",
+   "source": "src4",
+   "quote": "Today, monoclonal antibodies account for at least a third of all new treatments against a range of conditions.",
+   "status": "confirmed",
+   "locator": "שורה 13"
+  },
+  {
+   "id": "c17",
+   "text": "לפי המחלקה לביוכימיה בקיימברידג', ב-1975 פיתחו מילשטיין וקֶהלר את טכניקת ההיברידומה לייצור נוגדנים חד-שבטיים.",
+   "source": "src6",
+   "quote": "In 1975 Milstein and Georges Köhler developed the hybridoma technique for the production of monoclonal antibodies",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c42",
+   "text": "ב-1958 נסע לבריטניה לעבוד במחלקה לביוכימיה באוניברסיטת קיימברידג'.",
+   "source": "src4",
+   "quote": "In 1958, César travelled to the UK to work in the University of Cambridge Biochemistry Department",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c2",
+   "text": "אביו, מהגר יהודי, הגיע מאוקראינה לארגנטינה לבדו כנער.",
+   "source": "src3",
+   "quote": "His father, a Jewish immigrant who made the journey from Ukraine to Argentina by himself as a teenager",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c48",
+   "text": "כילד בארגנטינה נמשך מילשטיין למדע לאחר שקרא על ציידי חיידקים כמו ואן לבנהוק ופסטר.",
+   "source": "src1",
+   "quote": "as a schoolboy in Argentina, he was attracted to science after reading about early microbe hunters like Antoni van Leeuwenhoek and Louis Pasteur",
+   "status": "confirmed",
+   "locator": "שורה 16"
+  },
+  {
+   "id": "c41",
+   "text": "מילשטיין נולד בבאיה בלנקה ולמד באוניברסיטת בואנוס איירס, ושם סיים דוקטורט באנזים אלדהיד דהידרוגנאז.",
+   "source": "src6",
+   "quote": "César Milstein was born in Bahía Blanca, Argentina and studied at the University of Buenos Aires, completing a PhD on the enzyme aldehyde dehydrogenase.",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c46",
+   "text": "אשתו של מילשטיין, סליה, נישאה לו ב-1953 והייתה גם היא אימונולוגית.",
+   "source": "src1",
+   "quote": "César Milstein's wife, Celia, whom he married in 1953 and who survives him, was also an immunologist",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c3",
+   "text": "מילשטיין היה גאה במורשתו היהודית.",
+   "source": "src3",
+   "quote": "Proud of his Jewish heritage and always up for adventure and activism, Milstein fondly recalled his",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c59",
+   "text": "לפי המחלקה לביוכימיה בקיימברידג', הדוקטורט בקיימברידג' הוענק ב-1961.",
+   "source": "src6",
+   "quote": "Department of Biochemistry PhD student (1958-1961, PhD awarded 1961).",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c60",
+   "text": "לפי AAI, מילשטיין סיים את הדוקטורט השני בקיימברידג' ב-1960.",
+   "source": "src3",
+   "quote": "completed a second dissertation, a study of the enzyme phosphoglucomutase, earning his Ph.D. in 1960 and joining the scientific staff",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c43",
+   "text": "לפי ה-Irish Times, אחרי הפיכה צבאית בארגנטינה פוטרו עשרות חברי סגל, ומילשטיין התפטר וחזר לקיימברידג'.",
+   "source": "src1",
+   "quote": "when dozens of faculty members were dismissed following the military coup, he resigned his job and went back to Cambridge",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c44",
+   "text": "לפי AAI, מילשטיין, מתוסכל מהתערבות פוליטית במעבדתו לאחר ההפיכה ב-1962, חזר לקיימברידג' ב-1963.",
+   "source": "src3",
+   "quote": "Frustrated with the political interference in his laboratory that followed the 1962 military coup in Argentina, he returned to Cambridge in 1963",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c18",
+   "text": "לפי הצעתו של פרדריק סנגר עבר מילשטיין מחקר אנזימים לאימונולוגיה.",
+   "source": "src6",
+   "quote": "It was at Sanger's suggestion that Milstein turned his attention from enzymology to immunology.",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c56",
+   "text": "מערכת החיסון האנושית מסוגלת לייצר יותר משני מיליון נוגדנים שונים.",
+   "source": "src7",
+   "quote": "The human immune system can produce more than two million different antibodies",
+   "status": "confirmed",
+   "locator": "שורה 28"
+  },
+  {
+   "id": "c10",
+   "text": "לפי מכון MRC, היה קשה לייצר במעבדה כמויות גדולות של נוגדנים ספציפיים, אף שיכולת הנוגדנים להיקשר באופן ספציפי שימושית מאוד למחקר רפואי.",
+   "source": "src7",
+   "quote": "The ability of antibodies to bind specifically to substances is very useful in medical research, but it was difficult to produce large quantities of specific antibodies in the laboratory.",
+   "status": "confirmed",
+   "locator": "שורה 28"
+  },
+  {
+   "id": "c8",
+   "text": "תאים מייצרי נוגדנים נקצרו בקלות מטחולי עכברים, אך גדלו רק זמן קצר בתרבית מעבדתית.",
+   "source": "src1",
+   "quote": "They knew that antibody-producing cells could be harvested easily from the spleens of mice that had been exposed to a known protein, but these cells would grow only briefly in laboratory cultures.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c9",
+   "text": "היו בידם תאי מיאלומה, סרטן שגדל ללא הגבלה במעבדה ומייצר אימונוגלובולין.",
+   "source": "src1",
+   "quote": "They also had available cells of a cancer called myeloma that would grow indefinitely in the laboratory and would produce immunoglobulin",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c11",
+   "text": "לפי ה-Irish Times, מילשטיין וקֶהלר החליטו להתיך תאי גידול של מערכת החיסון (מיאלומות) עם תאי B המייצרים נוגדנים.",
+   "source": "src1",
+   "quote": "César Milstein and Kohler decided to fuse cells from tumours of the immune system (myelomas) with antibody-producing B lymphocyte of cells.",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c13",
+   "text": "לפי מכון MRC, התאים המותכים, שנקראו מאוחר יותר היברידומות, נאספו ושובטו.",
+   "source": "src4",
+   "quote": "The fused cells, which were later named hybridomas, were collected and cloned.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c14",
+   "text": "המאמר שתיאר את השיטה פורסם ב-Nature ב-1975, ותשע שנים אחר כך הוענק לשניים פרס נובל.",
+   "source": "src4",
+   "quote": "paper describing this technique was published in Nature in 1975 and, nine years later, the pair were awarded the Nobel Prize in Physiology or Medicine",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c19",
+   "text": "לאחר הפרסום חזר קֶהלר לבאזל, ומילשטיין עבד שנים אחדות עם ג'ובאני גלפרה להדגמת ישימות הנוגדנים החד-שבטיים.",
+   "source": "src4",
+   "quote": "Following publication, Georges returned to Basel and César spent the next few years working with Giovanni Galfré to demonstrate the applicability of monoclonal antibodies.",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c20",
+   "text": "גלפרה שיפר את תהליך ההיברידיזציה והגביר את אמינותו בכך שהכניס נגיף סנדאי כחומר היתוך.",
+   "source": "src4",
+   "quote": "Giovanni optimised the hybridisation process and increased its reliability by introducing Sendai virus as the fusing agent.",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c21",
+   "text": "הטכניקה התפשטה במהירות למכוני מחקר ברחבי העולם ושימשה, בין היתר, לקביעת סוגי דם.",
+   "source": "src4",
+   "quote": "The technique quickly spread to research institutes across the world and proved integral to a wide variety of applications including grouping blood types",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c45",
+   "text": "לפי מכון MRC, עבודתו של מילשטיין שינתה את תחום האימונולוגיה וחשפה תובנות חדשות על מבנה, תפקוד ומגוון הנוגדנים.",
+   "source": "src4",
+   "quote": "his work transformed the field of immunology, providing previously unknown insights into the structure, function and diversity of antibodies.",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c55",
+   "text": "מילשטיין פתר את חידת הבשלת הזיקה, התהליך שבו נוגדנים משנים את רצפיהם כדי לשפר את יעילותם.",
+   "source": "src4",
+   "quote": "solving the puzzle of affinity maturation, the process by which antibodies adapt their sequences to improve their efficacy",
+   "status": "confirmed",
+   "locator": "שורה 15"
+  },
+  {
+   "id": "c26",
+   "text": "השימושים הטיפוליים הראשונים היו מוגבלים משום שהנוגדנים עוררו תגובה חיסונית בין-מינית.",
+   "source": "src4",
+   "quote": "Though quickly effective in clinical diagnostics, therapeutic uses of monoclonal antibodies were limited as they inspired a cross-species immune response.",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c54",
+   "text": "לפי מכון LMB, חלפו כ-20 שנה עד שהגישה יושמה בבני אדם, בעקבות מחקר בהובלת גרג וינטר ומייקל נויברגר.",
+   "source": "src7",
+   "quote": "it would take 20 years before this approach could be applied to humans, following research led by Greg Winter and Michael Neuberger at the LMB",
+   "status": "confirmed",
+   "locator": "שורה 30"
+  },
+  {
+   "id": "c24",
+   "text": "הומירה, התרופה הראשונה מנוגדן חד-שבטי אנושי לחלוטין, הושקה ב-2003 לטיפול בדלקת מפרקים שגרונתית.",
+   "source": "src4",
+   "quote": "the first fully human monoclonal antibody drug, which was launched in 2003 to treat rheumatoid arthritis",
+   "status": "confirmed",
+   "locator": "שורה 13"
+  },
+  {
+   "id": "c25",
+   "text": "נוגדנים חד-שבטיים משמשים כיום לטיפול במחלות כגון דלקת מפרקים שגרונתית, טרשת נפוצה, סוגי סרטן מסוימים וזיהומים ויראליים.",
+   "source": "src7",
+   "quote": "Monoclonal antibodies are now also used for therapies to treat diseases including rheumatoid arthritis, multiple sclerosis, some forms of cancer and viral infections.",
+   "status": "confirmed",
+   "locator": "שורה 31"
+  },
+  {
+   "id": "c51",
+   "text": "לפי AAI, ההשפעה הגדולה ביותר היא באונקולוגיה, שם מפתחים נוגדנים חד-שבטיים הנקשרים לגידולים.",
+   "source": "src3",
+   "quote": "Nowhere has the impact been greater than in the field of oncology, where researchers are developing monoclonal antibodies that can bind to tumors",
+   "status": "confirmed",
+   "locator": "שורה 17"
+  },
+  {
+   "id": "c6",
+   "text": "הפרס ניתן על תיאוריות בדבר הייחודיות בהתפתחות ובבקרה של מערכת החיסון ועל גילוי העיקרון לייצור נוגדנים חד-שבטיים.",
+   "source": "src5",
+   "quote": "for theories concerning the specificity in development and control of the immune system and the discovery of the principle for production of monoclonal antibodies",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c50",
+   "text": "נילס ינה, מדען דני, פיתח את התיאוריות על מערכת החיסון שמילשטיין וקֶהלר המשיכו לפתח.",
+   "source": "src1",
+   "quote": "Niels Kaj Jerne, a Danish scientist: it was his theories of the immune system that the two researchers developed in their research.",
+   "status": "confirmed",
+   "locator": "שורה 13"
+  },
+  {
+   "id": "c49",
+   "text": "לפי AAI, מילשטיין חלק את פרס נובל עם עמיתו הקודם לפוסט-דוקטורט קֶהלר ועם ינה.",
+   "source": "src3",
+   "quote": "César Milstein was awarded the 1984 Nobel Prize in Physiology or Medicine jointly with his former postdoctoral fellow",
+   "status": "confirmed",
+   "locator": "שורה 17"
+  },
+  {
+   "id": "c30",
+   "text": "בנאום הקבלה הדגיש מילשטיין שטכנולוגיית ההיברידומה הייתה תוצר לוואי בלתי צפוי של מחקר בסיסי להבנת מערכת החיסון.",
+   "source": "src1",
+   "quote": "César Milstein stressed that the hybridoma technology was an unexpected by-product of basic research to understand the immune system.",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c31",
+   "text": "אברהם קרפס כתב כי תרומתו של מילשטיין היא ההתקדמות האימונולוגית החשובה ביותר של המאה.",
+   "source": "src3",
+   "quote": "It is not an exaggeration to describe César Milstein's contribution to science and medicine as the most important immunological advance of the century,",
+   "status": "confirmed",
+   "locator": "שורה 19"
+  },
+  {
+   "id": "c32",
+   "text": "מילשטיין זכה ב-1984 בפרס לסקר על יצירת ההיברידומות הראשונות.",
+   "source": "src3",
+   "quote": "for his superb achievement in creating the first hybridomas, a powerful new scientific too",
+   "status": "confirmed",
+   "locator": "שורה 13"
+  },
+  {
+   "id": "c35",
+   "text": "מלבד נובל זכה בפרס וולף ברפואה ובפרס לואיזה גרוס הורוביץ מאוניברסיטת קולומביה.",
+   "source": "src1",
+   "quote": "In addition to the Nobel Prize, he received the Wolf Prize in Medicine, the Louisa Gross Horwitz Prize from Columbia University",
+   "status": "confirmed",
+   "locator": "שורה 17"
+  },
+  {
+   "id": "c33",
+   "text": "מילשטיין נבחר לחבר החברה המלכותית ב-1975 וקיבל את מדליית קופלי ב-1989.",
+   "source": "src4",
+   "quote": "César was elected a Fellow of the Royal Society in 1975, and received the Royal Society Copley Medal in 1989.",
+   "status": "confirmed",
+   "locator": "שורה 16"
+  },
+  {
+   "id": "c34",
+   "text": "ב-1995 הפך לאביר הכבוד (Companion of Honour), וב-2000 קיבל את מדליית הכבוד הנשיאותית של ארגנטינה.",
+   "source": "src4",
+   "quote": "In 1995, César became a Companion of Honour and in 2000 received the Presidential Medal of Merit for Scientific Excellence from Argentina",
+   "status": "confirmed",
+   "locator": "שורה 16"
+  },
+  {
+   "id": "c58",
+   "text": "לפי AAI, ב-1983 מונה לראש חטיבת הכימיה של חלבונים וחומצות גרעין ב-MRC והחזיק בתפקיד עד פרישתו ב-1995.",
+   "source": "src3",
+   "quote": "In 1983, he was named head of the Protein and Nucleic Acid Chemistry Division of the MRC, a position he held until his retirement in 1995.",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c57",
+   "text": "לפי מכון MRC, מילשטיין פרש רשמית ב-1994.",
+   "source": "src4",
+   "quote": "He officially retired in 1994, though he maintained an active interest in the",
+   "status": "confirmed",
+   "locator": "שורה 15"
+  },
+  {
+   "id": "c37",
+   "text": "מילשטיין מת ב-24 במרץ בגיל 74.",
+   "source": "src1",
+   "quote": "who died on March 24th aged 74, won a Nobel Prize for medicine in 1984",
+   "status": "confirmed",
+   "locator": "שורה 1"
+  },
+  {
+   "id": "c39",
+   "text": "ב-2003 ערך מכון LMB את כנס הזיכרון על שם מילשטיין.",
+   "source": "src4",
+   "quote": "In 2003, the LMB celebrated his impact by hosting the Milstein Memorial Meeting",
+   "status": "confirmed",
+   "locator": "שורה 17"
+  },
+  {
+   "id": "c40",
+   "text": "מלגת מילשטיין מממנת סטודנטים ארגנטינאים לדוקטורט להשלמת לימודיהם ב-LMB.",
+   "source": "src4",
+   "quote": "through the Milstein Studentship which provides funding for Argentinian Ph.D. students to complete their studies at the LMB",
+   "status": "confirmed",
+   "locator": "שורה 17"
+  },
+  {
+   "id": "c28",
+   "text": "לפי ה-Irish Times, הייתה חרטה בשנות ה-80 כשנודע שהחברה הבריטית NRDC החליטה לא לנסות לרשום פטנט על טכנולוגיית ההיברידומה.",
+   "source": "src1",
+   "quote": "There was some regret in the 1980s when it was found that the British government's National Research Development Corporation had decided not to attempt to patent the hybridoma technology.",
+   "status": "confirmed",
+   "locator": "שורה 15"
+  },
+  {
+   "id": "c61",
+   "text": "לפי ה-Irish Times, מילשטיין סיים תואר בכימיה באוניברסיטת בואנוס איירס ב-1945.",
+   "source": "src1",
+   "quote": "After graduating from Buenos Aires University in chemistry in 1945, he started his research career there in enzymology.",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c62",
+   "text": "לפי AAI, מילשטיין קיבל תואר ראשון בביוכימיה באוניברסיטת בואנוס איירס ב-1952.",
+   "source": "src3",
+   "quote": "Milstein earned his B.S. in biochemistry at the National University of Buenos Aries in 1952.",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c63",
+   "text": "לפי אתר History & Policy, ה-NRDC סירבה לרשום פטנט על העבודה לאחר שמילשטיין הגיש אותה לבחינה.",
+   "source": "src9",
+   "quote": "who declined to patent the work after Milstein submitted it for consideration.",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c65",
+   "text": "הוא קיבל אזרחות בריטית והיה בעל אזרחות כפולה, בריטית וארגנטינאית.",
+   "source": "src10",
+   "quote": "holding dual Argentine-British citizenship.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c66",
+   "text": "הוא סייע למדע ולמדענים במדינות מתפתחות.",
+   "source": "src11",
+   "quote": "encouraging and supporting the development of young scientists in less developed countries.",
+   "status": "confirmed",
+   "locator": "שורה 20"
+  },
+  {
+   "id": "c67",
+   "text": "ב-2010 יצא סרט דוקומנטרי על חייו.",
+   "source": "src12",
+   "quote": "A documentary film that pays tribute to Cesar Milstein, last Argentine Nobel Prize.",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  }
+ ],
+ "sources": [
+  {
+   "id": "src1",
+   "label": "The Irish Times, obituary of Milstein, 2002",
+   "url": "https://www.irishtimes.com/news/won-the-nobel-prize-for-research-on-immune-system-1.1086712",
+   "kind": "press"
+  },
+  {
+   "id": "src2",
+   "label": "NobelPrize.org, summary of the 1984 Nobel Prize in Medicine",
+   "url": "https://www.nobelprize.org/prizes/medicine/1984/summary/",
+   "kind": "official"
+  },
+  {
+   "id": "src3",
+   "label": "American Association of Immunologists, Cesar Milstein",
+   "url": "https://www.aai.org/About/History/Notable-Members/Nobel-Laureates/Cesar-Milstein",
+   "kind": "organisation"
+  },
+  {
+   "id": "src4",
+   "label": "MRC LMB, César Milstein (1927–2002)",
+   "url": "https://mrclmb.ac.uk/?p=9475",
+   "kind": "organisation"
+  },
+  {
+   "id": "src5",
+   "label": "NobelPrize.org, Milstein facts page, 1984 Nobel Prize",
+   "url": "https://www.nobelprize.org/nobel_prizes/medicine/laureates/1984/milstein-facts.html",
+   "kind": "official"
+  },
+  {
+   "id": "src6",
+   "label": "Cambridge Department of Biochemistry, César Milstein",
+   "url": "https://www.bioc.cam.ac.uk/about-us/history/nobel-prizes/cesar-milstein",
+   "kind": "organisation"
+  },
+  {
+   "id": "src7",
+   "label": "MRC LMB, Nobel Prize in Physiology or Medicine 1984",
+   "url": "https://mrclmb.ac.uk/?p=980",
+   "kind": "organisation"
+  },
+  {
+   "id": "src9",
+   "label": "History & Policy, Lara Marks, overlooked scientific innovation reaps rewards 40 years on",
+   "url": "https://historyandpolicy.org/opinion-articles/articles/overlooked-scientific-innovation-reaps-rewards-40-years-on/",
+   "kind": "organisation"
+  },
+  {
+   "id": "src10",
+   "label": "Duke University Department of Immunology: IIB Celebrates Hispanic Heritage Month - César Milstein",
+   "url": "https://immunobiology.duke.edu/news/iib-celebrates-hispanic-heritage-month-cesar-milstein",
+   "kind": "organisation"
+  },
+  {
+   "id": "src11",
+   "label": "University of Cambridge: César Milstein (1927-2002)",
+   "url": "https://www.cam.ac.uk/news/cesar-milstein-1927-2002",
+   "kind": "organisation"
+  },
+  {
+   "id": "src12",
+   "label": "Box Office Mojo (IMDbPro): Un fueguito. La historia de César Milstein",
+   "url": "https://www.boxofficemojo.com/release/rl906462465",
+   "kind": "reference"
+  }
+ ],
+ "media": [
+  {
+   "id": "m1",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/EWS01a.01.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:EWS01a.01.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "History of Modern Biomedicine Research Group",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "People sit along a meeting table with name cards, among them \"Dr C Milstein\" and \"Dr G Kohler\", at a witness seminar on monoclonal antibodies in 1993.",
+   "illustrates": [
+    "c5"
+   ],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "24 Septemb",
+   "width": 4417,
+   "height": 4350
+  },
+  {
+   "id": "m2",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hybridoma%20technology.png?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Hybridoma_technology.png",
+   "source_name": "Wikimedia Commons",
+   "credit": "Hybridomtechnik.png: Martin Brändli derivative work: ἀνυπόδητος (talk)",
+   "licence": "CC BY-SA 2.5",
+   "hosting": "hotlink",
+   "caption": "A step-by-step diagram of monoclonal antibody production using hybridoma technology, with mice, cells and test tubes.",
+   "illustrates": [
+    "c12",
+    "c13",
+    "c16"
+   ],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/2.5",
+   "date": "2010-01-04",
+   "width": 969,
+   "height": 1751
+  },
+  {
+   "id": "m3",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/New%20MRC%20Laboratory%20of%20Molecular%20Biology%20-%20geograph.org.uk%20-%202551572.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:New_MRC_Laboratory_of_Molecular_Biology_-_geograph.org.uk_-_2551572.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Keith Edkins",
+   "licence": "CC BY-SA 2.0",
+   "hosting": "hotlink",
+   "caption": "The new laboratory building of the MRC Laboratory of Molecular Biology, seen from a distance beyond a field and a fence.",
+   "illustrates": [
+    "c39",
+    "c40"
+   ],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "date": "2011-08-09",
+   "width": 1024,
+   "height": 768
+  },
+  {
+   "id": "m5",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=2zK4LVLolN0",
+   "youtube_id": "2zK4LVLolN0",
+   "source_page": "https://www.youtube.com/watch?v=2zK4LVLolN0",
+   "source_name": "YouTube",
+   "credit": "ExactasUBAoficial",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "A lecture by Milstein himself, Nobel laureate, on monoclonal antibodies and curiosity as a source of wealth, recorded at the end of 1999 and published on the channel of the Faculty of Exact Sciences at the University of Buenos Aires.",
+   "illustrates": [
+    "c30"
+   ],
+   "spoken": "es",
+   "audio_tracks": [
+    "es",
+    "ar",
+    "en",
+    "pt"
+   ]
+  },
+  {
+   "id": "m6",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=5mCvO1Y_KVk",
+   "youtube_id": "5mCvO1Y_KVk",
+   "source_page": "https://www.youtube.com/watch?v=5mCvO1Y_KVk",
+   "source_name": "YouTube",
+   "credit": "Fundación Konex",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "A full interview with Milstein from 1993, on the occasion of receiving the Konex Award, on the Konex Foundation's channel.",
+   "illustrates": [],
+   "spoken": "es",
+   "audio_tracks": [
+    "es"
+   ]
+  },
+  {
+   "id": "m7",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=UMtOMI1Te1E",
+   "youtube_id": "UMtOMI1Te1E",
+   "source_page": "https://www.youtube.com/watch?v=UMtOMI1Te1E",
+   "source_name": "YouTube",
+   "credit": "Museo y Archivo Histórico Bahía Blanca",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "A film by a museum in Bahía Blanca about the Argentine scientist, born in the city, who won the Nobel Prize in Medicine in 1984.",
+   "illustrates": [
+    "c1",
+    "c5"
+   ]
+  },
+  {
+   "id": "m8",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=4DV00IseCC4",
+   "youtube_id": "4DV00IseCC4",
+   "source_page": "https://www.youtube.com/watch?v=4DV00IseCC4",
+   "source_name": "YouTube",
+   "credit": "Argentina Sociedad Anonima",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "Television coverage of Milstein's visit to Argentina in 1997, on the occasion of 50-year celebrations.",
+   "illustrates": [],
+   "spoken": "es",
+   "audio_tracks": [
+    "es"
+   ]
+  },
+  {
+   "id": "m9",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=L6K0Z-T0yxU",
+   "youtube_id": "L6K0Z-T0yxU",
+   "source_page": "https://www.youtube.com/watch?v=L6K0Z-T0yxU",
+   "source_name": "YouTube",
+   "credit": "FavScientist",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "Prof. Ellen Billett of Nottingham Trent University explains why Milstein is her favorite scientist and why his contribution is important.",
+   "illustrates": [
+    "c45"
+   ],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m11",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/40.%20Tagung%201990%20Mediziner%20Portraits%3B%20Prof.%20K%C3%B6hler%20%28Freiburg%29%20-%20W134Nr.126381c%20-%20Willy%20Pragher.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:40._Tagung_1990_Mediziner_Portraits%3B_Prof._K%C3%B6hler_%28Freiburg%29_-_W134Nr.126381c_-_Willy_Pragher.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Willy Pragher",
+   "licence": "CC BY 3.0 de",
+   "hosting": "hotlink",
+   "caption": "Prof. Georges Köhler at a conference in Germany, 1990, black-and-white photograph",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/3.0/de/deed.en",
+   "date": "1990date Q",
+   "width": 728,
+   "height": 1102,
+   "role": "deed"
+  },
+  {
+   "id": "m14",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Einweihung%20des%20Max-Planck-Institutes%20f%C3%BCr%20Immunbiologie%20%281990%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Einweihung_des_Max-Planck-Institutes_f%C3%BCr_Immunbiologie_%281990%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Marlis Decker",
+   "licence": "CC BY 3.0 de",
+   "hosting": "hotlink",
+   "caption": "Georges Köhler (right) at the inauguration ceremony of the Max Planck Institute of Immunobiology, 1990",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/3.0/de/deed.en",
+   "date": "1990-09-27",
+   "width": 800,
+   "height": 555,
+   "role": "deed"
+  },
+  {
+   "id": "m15",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cmglee%20Cambridge%20LMB%20atrium.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Cmglee_Cambridge_LMB_atrium.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Cmglee",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "The entrance hall of the new building of the Laboratory of Molecular Biology in Cambridge, 2013",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "width": 1536,
+   "height": 2048,
+   "role": "related"
+  },
+  {
+   "id": "m16",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cmglee%20Cambridge%20LMB%20lab.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Cmglee_Cambridge_LMB_lab.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Cmglee",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "A laboratory and corridor in the new building of the Laboratory of Molecular Biology in Cambridge, 2013",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "width": 1536,
+   "height": 2048,
+   "role": "related"
+  },
+  {
+   "id": "m17",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cmglee%20Cambridge%20LMB%20lecture.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Cmglee_Cambridge_LMB_lecture.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Cmglee",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "A public lecture in the new building of the Laboratory of Molecular Biology in Cambridge, 2013",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "2013-06-22",
+   "width": 1536,
+   "height": 1024,
+   "role": "related"
+  },
+  {
+   "id": "m18",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Inkubator.png?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Inkubator.png",
+   "source_name": "Wikimedia Commons",
+   "credit": "Matylda Sękpl commons: Cygaretka",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "A laboratory incubator, closed and open, a device in which cells are grown",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "2024-07-10",
+   "width": 3424,
+   "height": 2568,
+   "role": "related"
+  },
+  {
+   "id": "m19",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/LMB%20Building%20-%20panoramio.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:LMB_Building_-_panoramio.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Jynto",
+   "licence": "CC BY 3.0",
+   "hosting": "hotlink",
+   "caption": "A brick building of the Laboratory of Molecular Biology in Cambridge with a rounded hall at its front, and parked bicycles",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/3.0",
+   "date": "Taken on 2",
+   "width": 3228,
+   "height": 2409,
+   "role": "related"
+  },
+  {
+   "id": "m20",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/MRC%20Laboratory%20of%20Molecular%20Biology%20-%20geograph.org.uk%20-%206522141.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:MRC_Laboratory_of_Molecular_Biology_-_geograph.org.uk_-_6522141.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "N Chadwick",
+   "licence": "CC BY-SA 2.0",
+   "hosting": "hotlink",
+   "caption": "The new building of the MRC Laboratory of Molecular Biology, with its ventilation chimneys, in Cambridge",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "date": "2019-02-16",
+   "width": 1024,
+   "height": 684,
+   "role": "related"
+  },
+  {
+   "id": "m21",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Snow%20and%20the%20Laboratory%20of%20Molecular%20Biology%20-%20geograph.org.uk%20-%207363366.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Snow_and_the_Laboratory_of_Molecular_Biology_-_geograph.org.uk_-_7363366.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "John Sutton",
+   "licence": "CC BY-SA 2.0",
+   "hosting": "hotlink",
+   "caption": "The new building of the Laboratory of Molecular Biology in Cambridge in the snow",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "date": "2022-12-17",
+   "width": 1280,
+   "height": 1024,
+   "role": "related"
+  },
+  {
+   "id": "m22",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Approaches%20for%20the%20development%20of%20therapeutic%20antibodies.webp?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Approaches_for_the_development_of_therapeutic_antibodies.webp",
+   "source_name": "Wikimedia Commons",
+   "credit": "Ruei-Min Lu",
+   "licence": "CC BY 4.0",
+   "hosting": "hotlink",
+   "caption": "A diagram of different methods for producing monoclonal antibodies, among them mouse hybridoma",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/4.0",
+   "date": "2020-01-02",
+   "width": 1946,
+   "height": 1379,
+   "role": "related"
+  },
+  {
+   "id": "m23",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/CertolizumaB%205WUV.png?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:CertolizumaB_5WUV.png",
+   "source_name": "Wikimedia Commons",
+   "credit": "Fvasconcellos (talk · contribs)",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "A computer model of a therapeutic monoclonal antibody molecule (certolizumab pegol)",
+   "illustrates": [],
+   "date": "2020-10-29",
+   "width": 1600,
+   "height": 1600,
+   "role": "related"
+  },
+  {
+   "id": "m24",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Certolizumab%20binding%20TNF-alpha%20homotrimer%205WUX.png?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Certolizumab_binding_TNF-alpha_homotrimer_5WUX.png",
+   "source_name": "Wikimedia Commons",
+   "credit": "Fvasconcellos (talk · contribs)",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "A computer model of three fragments of a therapeutic monoclonal antibody bound to the TNF-alpha protein",
+   "illustrates": [],
+   "date": "2020-10-29",
+   "width": 2000,
+   "height": 2000,
+   "role": "related"
+  },
+  {
+   "id": "m25",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/How%20to%20obtain%20monoclonal%20antibodies.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:How_to_obtain_monoclonal_antibodies.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "L1vuong",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "Hand drawing: spleen cells and myeloma cells are fused into hybridoma cells that produce monoclonal antibodies",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "2011-10-29",
+   "width": 3968,
+   "height": 2976,
+   "role": "related"
+  }
+ ],
+ "check": {
+  "passed": true,
+  "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
+  "checked_at": "2026-11-14T03:46:47Z",
+  "counts": {
+   "confirmed": 74,
+   "not_confirmed": 0,
+   "deleted_sentences": 2,
+   "first_round_confirmed": 78,
+   "first_round_contradicted": 1,
+   "first_round_unverifiable": 2
+  },
+  "note": "unverifiable sentences were deleted, contradicted ones fixed from the source and checked again"
+ },
+ "meta": {
+  "run": "cesar-milstein-monoclonal-antibodies",
+  "pipeline": "scripts/museum/museum_line.py",
+  "models": {
+   "research": "sonnet-5-5",
+   "extract": "sonnet-5-5",
+   "media": "sonnet-5-5",
+   "write": "opus-5-5 medium",
+   "check": "opus-5-5 medium",
+   "fix": "opus-5-5 medium"
+  },
+  "source_quality": {
+   "sources": 11,
+   "wikipedia": 0,
+   "strong": 3,
+   "ok": true,
+   "warnings": []
+  },
+  "settled": [
+   {
+    "box": "d4",
+    "question": "האם נרשם פטנט על ייצור הנוגדנים החד-שבטיים?",
+    "url": "https://historyandpolicy.org/opinion-articles/articles/overlooked-scientific-innovation-reaps-rewards-40-years-on/",
+    "by": "settle 24.11"
+   }
+  ],
+  "media_dedupe": [
+   {
+    "drop": "m4",
+    "keep": "m19",
+    "by": "reviewed 24.11"
+   }
+  ],
+  "wiki_cleanup": {
+   "at": "2026-11-27T14:20:44Z",
+   "targets": 6,
+   "resourced": 3,
+   "kept_on_other_sources": 0,
+   "deleted": 3
+  }
+ },
+ "lang": "en",
+ "translation": {
+  "from": "he",
+  "translator": "claude-opus-5-5",
+  "checker": "claude-opus-5-5 (separate call, blind to the translation prompt)",
+  "checked_at": "2026-11-27T14:20:57Z",
+  "passed": true,
+  "items": 115,
+  "pairs_checked": 3,
+  "reused": 112,
+  "first_round_flagged": 0,
+  "still_flagged": 0,
+  "flagged": [],
+  "quote_translations": {}
+ }
 }

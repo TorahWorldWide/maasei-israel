@@ -7,13 +7,6 @@
  "title": "מבצע \"שכנות טובה\": צה״ל הביא אלפי סורים פצועים וחולים לטיפול בישראל",
  "trailer": [
   {
-   "text": "בזמן מלחמת האזרחים בסוריה הפעיל פיקוד הצפון של צה״ל את מבצע \"שכנות טובה\", שלפי ויקיפדיה היה הנחיה של אוגדה 210.",
-   "claims": [
-    "c77",
-    "c80"
-   ]
-  },
-  {
    "text": "צה״ל אמר שיש לו \"הכרח מוסרי\" לסייע לסורים בגבולה הצפוני של ישראל.",
    "claims": [
     "c1"
@@ -37,7 +30,9 @@
    "claims": [
     "c11",
     "c12",
-    "c74"
+    "c87",
+    "c88",
+    "c89"
    ]
   }
  ],
@@ -67,13 +62,6 @@
  ],
  "glance": [
   {
-   "label": "מי",
-   "value": "פיקוד הצפון של צה״ל, אוגדה 210",
-   "claims": [
-    "c77"
-   ]
-  },
-  {
    "label": "מאז",
    "value": "טיפול בפצועים מ-2013, המבצע מיוני 2016",
    "claims": [
@@ -93,13 +81,6 @@
    "value": "יותר מ-4,000 סורים טופלו בישראל, לפי צה״ל",
    "claims": [
     "c2"
-   ]
-  },
-  {
-   "label": "סיום",
-   "value": "ספטמבר 2018",
-   "claims": [
-    "c74"
    ]
   }
  ],
@@ -168,12 +149,6 @@
     ],
     [
      {
-      "text": "לפי ויקיפדיה, ב-2017 החלה ישראל להתיר לפצועי מורדים להיכנס לשטחה לטיפול, בעוד שמדיניות ירדן אסרה את כניסתם בשל חשש ממתקפות מורדים.",
-      "claims": [
-       "c78"
-      ]
-     },
-     {
       "text": "הטיפול הרפואי ניתן חינם.",
       "claims": [
        "c41"
@@ -203,12 +178,6 @@
       "text": "לפי ה-Jerusalem Post, צה״ל השיק את מבצע שכנות טובה ביוני 2016, כדי להגדיל את הסיוע לאזרחים סורים בלי להתערב במלחמה.",
       "claims": [
        "c26"
-      ]
-     },
-     {
-      "text": "לפי ויקיפדיה, המבצע היה הנחיה של אוגדה 210 בפיקוד הצפון, ונשמר חסוי עד יולי 2017.",
-      "claims": [
-       "c77"
       ]
      },
      {
@@ -394,9 +363,10 @@
       ]
      },
      {
-      "text": "לפי ויקיפדיה, המרפאה נסגרה באוגוסט 2018.",
+      "text": "המרפאה נסגרה באוגוסט 2018.",
       "claims": [
-       "c73"
+       "c90",
+       "c91"
       ]
      }
     ]
@@ -434,8 +404,7 @@
       "text": "לסוריה הועבר גם דלק.",
       "claims": [
        "c12",
-       "c69",
-       "c82"
+       "c69"
       ]
      }
     ],
@@ -479,9 +448,10 @@
       ]
      },
      {
-      "text": "לפי ויקיפדיה, ההודעה ניתנה ב-13 בספטמבר 2018.",
+      "text": "ההודעה ניתנה ב-13 בספטמבר 2018.",
       "claims": [
-       "c74"
+       "c92",
+       "c93"
       ]
      },
      {
@@ -635,12 +605,6 @@
       ]
      },
      {
-      "text": "לפי ויקיפדיה, תא״ל יניב אסור מצה״ל הצהיר שהצבא אינו מממן בתוך סוריה, אך הצהרתו סותרת דיווח של הוול סטריט ג'ורנל.",
-      "claims": [
-       "c76"
-      ]
-     },
-     {
       "text": "ישראל גם המעיטה בעבר בתיאור היקף הסיוע שנתנה לאזרחים בגבול.",
       "claims": [
        "c5"
@@ -714,11 +678,11 @@
    "question": "מתי התחיל מבצע שכנות טובה?",
    "versions": [
     {
-     "says": "לפי ה-Jerusalem Post, ויקיפדיה ומאקו, ביוני 2016",
+     "says": "ביוני 2016",
      "claims": [
       "c26",
-      "c77",
-      "c69"
+      "c69",
+      "c94"
      ]
     },
     {
@@ -788,9 +752,10 @@
      ]
     },
     {
-     "says": "לפי ויקיפדיה, כ-6,800 סורים בשנת פעילותה",
+     "says": "כ-6,800 סורים בשנת פעילותה",
      "claims": [
-      "c73"
+      "c95",
+      "c96"
      ]
     }
    ]
@@ -833,12 +798,6 @@
      "says": "לפי מאקו, 947,520 ליטר מיוני 2016",
      "claims": [
       "c69"
-     ]
-    },
-    {
-     "says": "לפי צה״ל, כפי שמצוטט בוויקיפדיה, הועברו לסוריה במסגרת המבצע 450,000 ליטר דלק לחימום, להפעלת בארות מים ולתנורי מאפיות.",
-     "claims": [
-      "c82"
      ]
     }
    ]
@@ -962,14 +921,6 @@
  ],
  "claims": [
   {
-   "id": "c77",
-   "text": "לפי ויקיפדיה, מבצע שכנות טובה היה הנחיה של אוגדה 210 בפיקוד הצפון של צה\"ל, שהוקם ביוני 2016 ונשמר חסוי עד יולי 2017.",
-   "source": "src1",
-   "quote": "The army kept the operation confidential until announcing it in July 2017.",
-   "status": "confirmed",
-   "locator": "שורה 1"
-  },
-  {
    "id": "c80",
    "text": "אייל דרור עמד בראש מינהלת \"שכנות טובה\" בימי מלחמת האזרחים בסוריה.",
    "source": "src2",
@@ -1024,14 +975,6 @@
    "quote": "20 transportable buildings, and approximately 1,100,000 liters of fuel.",
    "status": "confirmed",
    "locator": "שורה 63"
-  },
-  {
-   "id": "c74",
-   "text": "ב-13 בספטמבר 2018 הודיע צה\"ל על סגירת המבצע לאחר חזרת ממשלת אסד לשלוט בדרום סוריה.",
-   "source": "src1",
-   "quote": "On September 13, 2018, the IDF announced the closure of Operation Good Neighbor following the return of the Assad government to power",
-   "status": "confirmed",
-   "locator": "שורה 30"
   },
   {
    "id": "c26",
@@ -1104,14 +1047,6 @@
    "quote": "בתחילה, לאור התנגדות הדרג המדיני, אישר גנץ באופן אישי את הכנסת הפצועים - להוציא מקרים בודדים",
    "status": "confirmed",
    "locator": "שורה 102"
-  },
-  {
-   "id": "c78",
-   "text": "לפי ויקיפדיה, מדיניות ירדן אסרה כניסת פצועי מורדים, ואילו ישראל התירה להם להיכנס.",
-   "source": "src1",
-   "quote": "In comparison, Jordan's policy disallowed their entry due to concerns about rebel offensives.",
-   "status": "confirmed",
-   "locator": "שורה 15"
   },
   {
    "id": "c16",
@@ -1242,14 +1177,6 @@
    "locator": "שורה 70"
   },
   {
-   "id": "c73",
-   "text": "לפי ויקיפדיה, מרפאת מזור לדך טיפלה בכ-6,800 סורים בשנת פעילותה עד סגירתה באוגוסט 2018.",
-   "source": "src1",
-   "quote": "During its approximately one year in operation, it provided medical care to around 6,800 Syrians before its closure in August 2018.",
-   "status": "confirmed",
-   "locator": "שורה 12"
-  },
-  {
    "id": "c49",
    "text": "לפי צה\"ל, כמות המזון שנשלחה לסוריה גדלה פי עשרה, ממספר עשרות טונות בין 2013 ל-2016 ל-360 טון ב-2016–2017.",
    "source": "src10",
@@ -1262,14 +1189,6 @@
    "text": "לפי מאקו, מיוני 2016 העבירה המינהלת 1,524 טון מזון ו-947,520 ליטר דלק.",
    "source": "src7",
    "quote": "מיוני 2016 מנהלת שכנות טובה העבירה לפליטים מהמלחמה בסוריה: 1524 טון מזון, 947,520 ליטר דלק להסקה ולהפעלת גנרטורים לייצור חשמל",
-   "status": "confirmed",
-   "locator": "שורה 23"
-  },
-  {
-   "id": "c82",
-   "text": "לפי ויקיפדיה, הועברו 450,000 ליטר דלק לסוריה במסגרת המבצע.",
-   "source": "src1",
-   "quote": "According to the IDF, as part of the operation, 450,000 liters of fuel for heating, operating water wells, and bakeries' ovens were transferred to Syria.",
    "status": "confirmed",
    "locator": "שורה 23"
   },
@@ -1466,14 +1385,6 @@
    "locator": "שורה 11"
   },
   {
-   "id": "c76",
-   "text": "אסור דיווח שהצבא אינו מממן בתוך סוריה, אך הדבר סותר דיווח של וול סטריט ג'ורנל.",
-   "source": "src1",
-   "quote": "Brig. Gen. Yaniv Asor of the IDF stated that the army was not providing funding inside Syria, but his statement contradicted a report from The Wall Street Journal",
-   "status": "confirmed",
-   "locator": "שורה 25"
-  },
-  {
    "id": "c58",
    "text": "דרור אמר שהציניקנים יגידו שניצלו את הסבל, אך ישראל בחרה להשקיע משאבים ולסכן חיים למען סיוע הומניטרי.",
    "source": "src2",
@@ -1592,15 +1503,89 @@
    "quote": "According to him, over 600 children and their parents come to Israel every month for medical treatment.",
    "status": "confirmed",
    "locator": "שורה 39"
+  },
+  {
+   "id": "c87",
+   "text": "לסוריה הועברו גם מזון, אוהלים, גנרטורים ודלק, והמבצע הסתיים ב-2018, כשממשלת אסד חזרה לשלוט בדרום סוריה.",
+   "source": "src5",
+   "quote": "around 630 tents, 40 vehicles, 20 electricity generators, 20 transportable buildings,",
+   "status": "confirmed",
+   "locator": "שורה 63"
+  },
+  {
+   "id": "c88",
+   "text": "לסוריה הועברו גם מזון, אוהלים, גנרטורים ודלק, והמבצע הסתיים ב-2018, כשממשלת אסד חזרה לשלוט בדרום סוריה.",
+   "source": "src5",
+   "quote": "and approximately 1,100,000 liters of fuel.",
+   "status": "confirmed",
+   "locator": "שורה 63"
+  },
+  {
+   "id": "c89",
+   "text": "לסוריה הועברו גם מזון, אוהלים, גנרטורים ודלק, והמבצע הסתיים ב-2018, כשממשלת אסד חזרה לשלוט בדרום סוריה.",
+   "source": "src12",
+   "quote": "The operation ended once the regime of Syrian President Bashar Assad re-took control of the Syrian Golan Heights",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c90",
+   "text": "המרפאה נסגרה באוגוסט 2018.",
+   "source": "src13",
+   "quote": "Since the field hospital opened in 2017, it treated 6,800 Syrians.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c91",
+   "text": "המרפאה נסגרה באוגוסט 2018.",
+   "source": "src14",
+   "quote": "Mazor Ladach treated some 6,800 Syrians.",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c92",
+   "text": "ההודעה ניתנה ב-13 בספטמבר 2018.",
+   "source": "src12",
+   "quote": "The operation ended once the regime of Syrian President Bashar Assad re-took control of the Syrian Golan Heights",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c93",
+   "text": "ההודעה ניתנה ב-13 בספטמבר 2018.",
+   "source": "src15",
+   "quote": "The Israel Defense Forces announces that it has officially shuttered its “Operation Good Neighbor” program",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c94",
+   "text": "ביוני 2016",
+   "source": "src16",
+   "quote": "But on Wednesday the army revealed that since June 2016 it has quietly been working on Operation Good Neighbor.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c95",
+   "text": "כ-6,800 סורים בשנת פעילותה",
+   "source": "src13",
+   "quote": "Since the field hospital opened in 2017, it treated 6,800 Syrians.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c96",
+   "text": "כ-6,800 סורים בשנת פעילותה",
+   "source": "src14",
+   "quote": "Mazor Ladach treated some 6,800 Syrians.",
+   "status": "confirmed",
+   "locator": "שורה 2"
   }
  ],
  "sources": [
-  {
-   "id": "src1",
-   "label": "Wikipedia, Israeli humanitarian operations during the Syrian Civil War",
-   "url": "https://en.wikipedia.org/wiki/Israeli_humanitarian_operations_during_the_Syrian_Civil_War",
-   "kind": "reference"
-  },
   {
    "id": "src2",
    "label": "Ynet בעברית",
@@ -1659,6 +1644,36 @@
    "id": "src11",
    "label": "Jerusalem Report, Operation Good Neighbor",
    "url": "https://www.jpost.com/jerusalem-report/operation-good-neighbor-564579",
+   "kind": "press"
+  },
+  {
+   "id": "src12",
+   "label": "Ynetnews: IDF ends massive humanitarian operation in Syria",
+   "url": "https://www.jpost.com/israel-news/idf-ends-good-neighbor-humanitarian-aid-program-for-syrian-civilians-567161",
+   "kind": "press"
+  },
+  {
+   "id": "src13",
+   "label": "JNS: IDF officially shuts down Syrian field hospital (3 August 2018)",
+   "url": "https://www.jns.org/idf-officially-shuts-down-syrian-field-hospital/",
+   "kind": "press"
+  },
+  {
+   "id": "src14",
+   "label": "JNS: IDF officially shuts down Syrian field hospital (3 August 2018)",
+   "url": "https://www.jpost.com/israel-news/idf-closes-field-clinic-providing-aid-to-injured-syrians-564094",
+   "kind": "press"
+  },
+  {
+   "id": "src15",
+   "label": "Times of Israel: IDF ends humanitarian aid program for Syrians after 5 years",
+   "url": "https://www.timesofisrael.com/liveblog_entry/idf-ends-humanitarian-aid-program-for-syrians-after-5-years/",
+   "kind": "press"
+  },
+  {
+   "id": "src16",
+   "label": "The Times of Israel: Operation Good Neighbor: Israel reveals its massive humanitarian aid to Syria (19 July 2017)",
+   "url": "https://www.timesofisrael.com/operation-good-neighbor-israels-massive-humanitarian-aid-to-syria-revealed/",
    "kind": "press"
   }
  ],
@@ -2432,7 +2447,7 @@
   "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
   "checked_at": "2026-11-14T01:53:32Z",
   "counts": {
-   "confirmed": 112,
+   "confirmed": 105,
    "not_confirmed": 0,
    "deleted_sentences": 4,
    "first_round_confirmed": 111,
@@ -2453,11 +2468,18 @@
    "fix": "opus-5-5 medium"
   },
   "source_quality": {
-   "sources": 11,
-   "wikipedia": 1,
+   "sources": 15,
+   "wikipedia": 0,
    "strong": 10,
    "ok": true,
    "warnings": []
+  },
+  "wiki_cleanup": {
+   "at": "2026-11-27T14:03:50Z",
+   "targets": 13,
+   "resourced": 5,
+   "kept_on_other_sources": 1,
+   "deleted": 7
   }
  }
 }

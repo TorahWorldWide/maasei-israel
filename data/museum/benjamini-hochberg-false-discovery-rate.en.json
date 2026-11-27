@@ -9,9 +9,9 @@
   {
    "text": "Yoav Benjamini, who was born in Israel, is a professor emeritus in the Department of Statistics at Tel Aviv University and a recipient of the Israel Prize.",
    "claims": [
-    "c39",
-    "c40",
-    "c55"
+    "c55",
+    "c70",
+    "c71"
    ]
   },
   {
@@ -66,7 +66,8 @@
    "label": "Published",
    "value": "1995",
    "claims": [
-    "c44"
+    "c72",
+    "c73"
    ]
   },
   {
@@ -80,8 +81,9 @@
    "label": "Recognition",
    "value": "Israel Prize 2012, Rousseeuw Prize 2024",
    "claims": [
-    "c47",
-    "c50"
+    "c74",
+    "c75",
+    "c76"
    ]
   }
  ],
@@ -117,12 +119,6 @@
       "text": "According to the paper, the common approach to the problem called for controlling the familywise error rate (FWER), and this approach has faults.",
       "claims": [
        "c22"
-      ]
-     },
-     {
-      "text": "When high-throughput technologies (such as genomics and microarrays) became widespread, researchers collected data with small samples and many variables, and in these data too few variables were found significant after classic correction for multiple tests. This is the accepted explanation for today's widespread use of FDR.",
-      "claims": [
-       "c60"
       ]
      },
      {
@@ -170,12 +166,6 @@
       ]
      },
      {
-      "text": "According to Wikipedia, Soric's work led them to the idea that such an error rate can serve as a goal to control, and not merely a warning.",
-      "claims": [
-       "c62"
-      ]
-     },
-     {
       "text": "The paper was written at Tel Aviv University in Israel.",
       "claims": [
        "c21"
@@ -206,7 +196,7 @@
      {
       "text": "According to the Israel Prize committee's citation, the new approach met with suspicion in its early days.",
       "claims": [
-       "c45"
+       "c77"
       ]
      }
     ],
@@ -220,8 +210,7 @@
      {
       "text": "It was published in 1995.",
       "claims": [
-       "c44",
-       "c57"
+       "c78"
       ]
      }
     ]
@@ -309,25 +298,6 @@
       "claims": [
        "c5"
       ]
-     },
-     {
-      "text": "In 2005 it was identified as one of the 25 most-cited statistical papers.",
-      "claims": [
-       "c59"
-      ]
-     },
-     {
-      "text": "According to Wikipedia, the FDR was the first alternative to the FWER to gain broad acceptance in many scientific fields.",
-      "claims": [
-       "c58"
-      ]
-     },
-     {
-      "text": "According to the Israel Prize committee, the approach changed the way problems with a large number of hypotheses are examined.",
-      "claims": [
-       "c45",
-       "c46"
-      ]
      }
     ],
     [
@@ -340,7 +310,7 @@
      {
       "text": "The technology of microarrays, for example, enabled thousands of genes to be tested simultaneously.",
       "claims": [
-       "c61"
+       "c80"
       ]
      },
      {
@@ -375,7 +345,7 @@
      {
       "text": "The Benjamini–Yekutieli procedure controls the false discovery rate even under arbitrary dependence assumptions.",
       "claims": [
-       "c65"
+       "c81"
       ]
      }
     ]
@@ -394,7 +364,8 @@
      {
       "text": "In 2012 Benjamini won the Israel Prize in Economics and Statistics research.",
       "claims": [
-       "c47"
+       "c82",
+       "c83"
       ]
      },
      {
@@ -406,8 +377,8 @@
      {
       "text": "In 2015 he was elected to the Israel Academy of Sciences and Humanities, and in 2020 to the National Academy of Sciences of the United States.",
       "claims": [
-       "c48",
-       "c49"
+       "c84",
+       "c85"
       ]
      }
     ],
@@ -415,7 +386,8 @@
      {
       "text": "In 2024 Benjamini, Yekutieli and Heller won the Rousseeuw Prize for Statistics.",
       "claims": [
-       "c50"
+       "c86",
+       "c87"
       ]
      },
      {
@@ -491,21 +463,22 @@
      {
       "text": "Yoav Benjamini was born in Israel on 5 January 1949, to Yosef and Tova.",
       "claims": [
-       "c39",
-       "c40"
+       "c88",
+       "c89"
       ]
      },
      {
       "text": "He studied at the Hebrew Reali School in Haifa, and completed a bachelor's degree in physics and mathematics and a master's degree in mathematics at the Hebrew University.",
       "claims": [
-       "c40",
-       "c41"
+       "c90",
+       "c91",
+       "c92"
       ]
      },
      {
       "text": "In 1981 he joined the Department of Statistics and Operations Research at Tel Aviv University, and in 2000 he was promoted to full professor.",
       "claims": [
-       "c42"
+       "c93"
       ]
      },
      {
@@ -548,14 +521,7 @@
      {
       "text": "FDR procedures control Type I errors less stringently than FWER procedures.",
       "claims": [
-       "c63"
-      ]
-     },
-     {
-      "text": "The Benjamini–Hochberg procedure controls the FDR only under certain conditions, such as independent test statistics.",
-      "claims": [
-       "c64",
-       "c26"
+       "c94"
       ]
      }
     ]
@@ -572,7 +538,7 @@
     {
      "says": "According to HaMikhlol, the method was developed in 1989",
      "claims": [
-      "c43"
+      "c96"
      ]
     },
     {
@@ -604,22 +570,6 @@
  ],
  "unknowns": [],
  "claims": [
-  {
-   "id": "c39",
-   "text": "יואב בנימיני נולד ב-5 בינואר 1949 והוא פרופסור אמריטוס בחוג לסטטיסטיקה באוניברסיטת תל אביב.",
-   "source": "src1",
-   "quote": "יואב בנימיני (נולד ב-5 בינואר 1949) הוא פרופסור אמריטוס בחוג לסטטיסטיקה שבבית הספר למדעי המתמטיקה באוניברסיטת תל אביב",
-   "status": "confirmed",
-   "locator": "שורה 9"
-  },
-  {
-   "id": "c40",
-   "text": "בנימיני נולד בישראל ליוסף וטובה ולמד בבית הספר הריאלי בחיפה.",
-   "source": "src1",
-   "quote": "בנימיני נולד בישראל, ליוסף וטובה. למד בבית הספר הריאלי בחיפה",
-   "status": "confirmed",
-   "locator": "שורה 11"
-  },
   {
    "id": "c55",
    "text": "בנימיני הוא חתן פרס ישראל בכלכלה וסטטיסטיקה ופרס קרל פירסון של המכון הבינלאומי לסטטיסטיקה.",
@@ -685,38 +635,6 @@
    "locator": "שורה 13"
   },
   {
-   "id": "c44",
-   "text": "השיטה פורסמה כמאמר מדעי ב-1995, ולאחר מכן דורג המאמר כאחד מ-25 המאמרים המצוטטים ביותר בסטטיסטיקה.",
-   "source": "src1",
-   "quote": "השיטה פורסמה כמאמר מדעי בשנת 1995, שבהמשך דורג כאחד מ-25 המאמרים המצוטטים ביותר בסטטיסטיקה.",
-   "status": "confirmed",
-   "locator": "שורה 14"
-  },
-  {
-   "id": "c47",
-   "text": "בנימיני זכה ב-2012 בפרס ישראל לחקר הכלכלה והסטטיסטיקה.",
-   "source": "src1",
-   "quote": "ב-2012 זכה בפרס ישראל לחקר הכלכלה והסטטיסטיקה. בנימוקיה כתבה ועדת הפרס:",
-   "status": "confirmed",
-   "locator": "שורה 15"
-  },
-  {
-   "id": "c50",
-   "text": "ב-2024 זכה בנימיני יחד עם דניאל יקותיאלי ורות הלר בפרס רוסו לסטטיסטיקה על עבודה המאפשרת לסרוק תוצאות ניסויים רבות ולברור תגליות ממשיות.",
-   "source": "src1",
-   "quote": "ב-2024 זכה (יחד עם הפרופסורים דניאל יקותיאלי ורות הלר) בפרס רוסו לסטטיסטיקה על עבודה המאפשרת לסרוק מספר רב של תוצאות ניסויים ולברור מתוכם תגליות ממשיות.",
-   "status": "confirmed",
-   "locator": "שורה 19"
-  },
-  {
-   "id": "c43",
-   "text": "לפי המכלול, בנימיני ידוע במיוחד על פיתוח שיטת שיעור התגליות השגויות ב-1989 יחד עם פרופ' יוסף הוכברג, והיא משמשת לבדיקת השערות מרובות.",
-   "source": "src1",
-   "quote": "בנימיני ידוע במיוחד על פיתוח שיטת שיעור התגליות השגויות ב-1989, יחד עם פרופ' יוסף הוכברג, המשמשת לבדיקת השערות מרובות.",
-   "status": "confirmed",
-   "locator": "שורה 14"
-  },
-  {
    "id": "c8",
    "text": "לדברי בנימיני, רעיון ה-FDR נולד מצורך במחקר רפואי, במחקרים שבוחנים מספר רב של מדדי הצלחה להערכת טיפולים חדשים.",
    "source": "src3",
@@ -747,14 +665,6 @@
    "quote": "The common approach to the multiplicity problem calls for controlling the familywise error rate (FWER). This approach, though, has faults, and we point out a few.",
    "status": "confirmed",
    "locator": "שורה 2"
-  },
-  {
-   "id": "c60",
-   "text": "בנתונים עם מדגמים קטנים ומשתנים רבים, מעט מדי משתנים נמצאו מובהקים לאחר תיקון קלאסי לבדיקות מרובות.",
-   "source": "src5",
-   "quote": "In these datasets, too few of the measured variables showed statistical significance after classic correction for multiple tests with standard multiple comparison procedures.",
-   "status": "confirmed",
-   "locator": "שורה 30"
   },
   {
    "id": "c29",
@@ -789,36 +699,12 @@
    "locator": "שורה 4"
   },
   {
-   "id": "c62",
-   "text": "לפי ויקיפדיה, עבודתו של Soric הובילה את בנימיני והוכברג לרעיון ששיעור שגיאה דומה יכול לשמש יעד לשליטה ולא רק אזהרה.",
-   "source": "src5",
-   "quote": "This led Benjamini and Hochberg to the idea that a similar error rate, rather than being merely a warning, can serve as a worthy goal to control.",
-   "status": "confirmed",
-   "locator": "שורה 36"
-  },
-  {
    "id": "c20",
    "text": "המאמר המקורי התנגש בקריטריונים השלטים ונותר ללא פרסום שנים, אך כיום הוא בין המצוטטים ביותר במדע.",
    "source": "src6",
    "quote": "Initially clashing with prevailing criteria, their paper remained unpublished for years, but today it is among the most cited papers in science.",
    "status": "confirmed",
    "locator": "שורה 5"
-  },
-  {
-   "id": "c45",
-   "text": "לפי נימוקי ועדת פרס ישראל, הגישה החדשה נתקלה בחשדנות בתחילת דרכה והפכה לשיטה מקובלת ביותר לניתוח השערות מורכבות בתחומי מדע נרחבים.",
-   "source": "src1",
-   "quote": "גישה חדשנית זו שנתקלה בחשדנות בתחילת דרכה הפכה לשיטה מקובלת ביותר לניתוח השערות מורכבות בתחומי מדע נרחבים.",
-   "status": "confirmed",
-   "locator": "שורה 16"
-  },
-  {
-   "id": "c57",
-   "text": "לפי ויקיפדיה, מושג ה-FDR תואר רשמית בידי בנימיני והוכברג ב-1995.",
-   "source": "src5",
-   "quote": "The FDR concept was formally described by Yoav Benjamini and Yosef Hochberg in 1995",
-   "status": "confirmed",
-   "locator": "שורה 32"
   },
   {
    "id": "c30",
@@ -893,44 +779,12 @@
    "locator": "שורה 20"
   },
   {
-   "id": "c59",
-   "text": "ב-2005 זוהה מאמרם של בנימיני והוכברג מ-1995 כאחד מ-25 המאמרים הסטטיסטיים המצוטטים ביותר.",
-   "source": "src5",
-   "quote": "In 2005, the Benjamini and Hochberg paper from 1995 was identified as one of the 25 most-cited statistical papers.",
-   "status": "confirmed",
-   "locator": "שורה 32"
-  },
-  {
-   "id": "c58",
-   "text": "לפי ויקיפדיה, ה-FDR היה החלופה הראשונה ל-FWER שזכתה להכרה רחבה בתחומי מדע רבים.",
-   "source": "src5",
-   "quote": "The FDR has been particularly influential, as it was the first alternative to the FWER to gain broad acceptance in many scientific fields",
-   "status": "confirmed",
-   "locator": "שורה 32"
-  },
-  {
-   "id": "c46",
-   "text": "לפי ועדת הפרס, הגישה שינתה את האופן שבו בוחנים בעיות הדורשות בחינה סטטיסטית של מספר רב של השערות.",
-   "source": "src1",
-   "quote": "גישה זו שינתה את האופן בו בוחנים בעיות בהן נדרשת בחינה סטטיסטית של מספר השערות רב.",
-   "status": "confirmed",
-   "locator": "שורה 16"
-  },
-  {
    "id": "c10",
    "text": "לדברי בנימיני, בתחומים רבים משותף הצורך לסרוק כמויות עצומות של תוצאות אפשריות ולמצוא תגליות אמיתיות בהרי נתונים.",
    "source": "src3",
    "quote": "All these fields share a need to scan enormous quantities of possible results and ultimately find real discoveries in mountains of data",
    "status": "confirmed",
    "locator": "שורה 6"
-  },
-  {
-   "id": "c61",
-   "text": "טכנולוגיית המיקרו-מערכים אפשרה לבדוק בו-זמנית אלפי גנים להבדלי ביטוי בין שני מצבים ביולוגיים.",
-   "source": "src5",
-   "quote": "The technology of microarrays was a prototypical example, as it enabled thousands of genes to be tested simultaneously for differential expression between two biological conditions.",
-   "status": "confirmed",
-   "locator": "שורה 29"
   },
   {
    "id": "c9",
@@ -989,30 +843,6 @@
    "locator": "שורה 5"
   },
   {
-   "id": "c65",
-   "text": "נוהל בנימיני-יקותיאלי שולט בשיעור התגליות השגויות גם תחת הנחות תלות שרירותיות.",
-   "source": "src5",
-   "quote": "The Benjamini–Yekutieli procedure controls the false discovery rate under arbitrary dependence assumptions.",
-   "status": "confirmed",
-   "locator": "שורה 72"
-  },
-  {
-   "id": "c48",
-   "text": "ביוני 2015 נבחר בנימיני לחבר באקדמיה הלאומית הישראלית למדעים.",
-   "source": "src1",
-   "quote": "ביוני 2015 נבחר כחבר באקדמיה הלאומית הישראלית למדעים.",
-   "status": "confirmed",
-   "locator": "שורה 17"
-  },
-  {
-   "id": "c49",
-   "text": "ב-2020 נבחר בנימיני לחבר באקדמיה הלאומית למדעים של ארצות הברית.",
-   "source": "src1",
-   "quote": "ב-2020 נבחר כחבר באקדמיה הלאומית למדעים בארצות הברית.",
-   "status": "confirmed",
-   "locator": "שורה 18"
-  },
-  {
    "id": "c67",
    "text": "מוסד הבית של הפרס הוא קרן המלך בודואן בבלגיה, שממנה את חבר השופטים הבינלאומי ומבצעת את הליך הבחירה.",
    "source": "src7",
@@ -1069,22 +899,6 @@
    "locator": "שורה 4"
   },
   {
-   "id": "c41",
-   "text": "בנימיני סיים תואר ראשון בפיזיקה ומתמטיקה ותואר שני במתמטיקה באוניברסיטה העברית.",
-   "source": "src1",
-   "quote": "סיים תואר ראשון בפיזיקה ומתמטיקה ותואר שני במתמטיקה באוניברסיטה העברית.",
-   "status": "confirmed",
-   "locator": "שורה 12"
-  },
-  {
-   "id": "c42",
-   "text": "ב-1981 הצטרף לחוג לסטטיסטיקה וחקר ביצועים באוניברסיטת תל אביב, וב-2000 קודם לפרופסור מן המניין.",
-   "source": "src1",
-   "quote": "ב-1981 הצטרף לסגל החוג לסטטיסטיקה וחקר ביצועים באוניברסיטת תל אביב, וב-2000 קודם לפרופסור מן המניין.",
-   "status": "confirmed",
-   "locator": "שורה 13"
-  },
-  {
    "id": "c11",
    "text": "בנימיני אמר שהזכייה בפרס רוסו היא פרי תהליך ארוך שנזרע וטופח בישראל שנים רבות.",
    "source": "src3",
@@ -1101,30 +915,6 @@
    "locator": "שורה 7"
   },
   {
-   "id": "c63",
-   "text": "נהלי שליטה ב-FDR מספקים שליטה פחות מחמירה בשגיאות מסוג I מנהלי FWER.",
-   "source": "src5",
-   "quote": "FDR-controlling procedures provide less stringent control of Type I errors compared to family-wise error rate (FWER) controlling procedures",
-   "status": "confirmed",
-   "locator": "שורה 1"
-  },
-  {
-   "id": "c64",
-   "text": "נוהל בנימיני-הוכברג שולט ב-FDR ברמה α בתנאים מסוימים, כגון סטטיסטיקות מבחן בלתי תלויות.",
-   "source": "src5",
-   "quote": "The Benjamini–Hochberg procedure (BH step-up procedure) controls the FDR at level α under certain conditions, such as independent test statistics.",
-   "status": "confirmed",
-   "locator": "שורה 65"
-  },
-  {
-   "id": "c26",
-   "text": "לפי תקציר המאמר, נוהל פשוט מסוג בונפרוני רציף הוכח כשולט ב-FDR עבור סטטיסטיקות מבחן בלתי תלויות, וניסוי סימולציה מראה שהרווח בעוצמה משמעותי.",
-   "source": "src4",
-   "quote": "A simple sequential Bonferroni- type procedure is proved to control the false discovery rate for independent test statistics, and a simulation study shows that the gain in power is substantial.",
-   "status": "confirmed",
-   "locator": "שורה 2"
-  },
-  {
    "id": "c13",
    "text": "ב-3 בדצמבר העניקה קרן המלך בודואן בבלגיה את פרס רוסו לבנימיני ולעמיתיו.",
    "source": "src6",
@@ -1139,15 +929,209 @@
    "quote": "Prof. Yoav Benjamini, Edmond J. Safra member, Prof. Daniel Yekutieli, and Prof. Ruth Heller (Statistics) won the prestigious 2024 Rousseeuw Prize for Statistics",
    "status": "confirmed",
    "locator": "שורה 71"
+  },
+  {
+   "id": "c70",
+   "text": "יואב בנימיני, שנולד בישראל, הוא פרופסור אמריטוס בחוג לסטטיסטיקה באוניברסיטת תל אביב וחתן פרס ישראל.",
+   "source": "src8",
+   "quote": "יואב בנימיני נולד בישראל, בן ליוסף וטובה.",
+   "status": "confirmed",
+   "locator": "שורה 35"
+  },
+  {
+   "id": "c71",
+   "text": "יואב בנימיני, שנולד בישראל, הוא פרופסור אמריטוס בחוג לסטטיסטיקה באוניברסיטת תל אביב וחתן פרס ישראל.",
+   "source": "src2",
+   "quote": "Professor of Applied Statistics (Emeritus)",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c72",
+   "text": "פורסם: 1995",
+   "source": "src9",
+   "quote": "מדובר באחד המאמרים הצעירים ביותר ברשימה (פורסם ב-1995)",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c73",
+   "text": "פורסם: 1995",
+   "source": "src10",
+   "quote": "In 1995, Benjamini and Hochberg published a mathematical formulation of the False Discovery Rate (FDR) criterion",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c74",
+   "text": "הכרה: פרס ישראל 2012, פרס רוסו 2024",
+   "source": "src8",
+   "quote": "מקבל פרס ישראל לשנת תשע\"ב בתחום חקר הכלכלה וחקר הסטטיסטיקה.",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c75",
+   "text": "הכרה: פרס ישראל 2012, פרס רוסו 2024",
+   "source": "src11",
+   "quote": "has won the 2024 Rousseeuw Prize",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c76",
+   "text": "הכרה: פרס ישראל 2012, פרס רוסו 2024",
+   "source": "src10",
+   "quote": "The laureates of the prize are Yoav Benjamini, Daniel Yekutieli, and Ruth Heller from Tel Aviv University.",
+   "status": "confirmed",
+   "locator": "שורה 1"
+  },
+  {
+   "id": "c77",
+   "text": "לפי נימוקי ועדת פרס ישראל, הגישה החדשה נתקלה בחשדנות בתחילת דרכה.",
+   "source": "src12",
+   "quote": "ואף שהיא נתקלה בחשדנות בתחילת דרכה, השיטה הפכה למקובלת ביותר לניתוח השערות מורכבות בתחומי מדע נרחבים.",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c78",
+   "text": "הוא פורסם ב-1995.",
+   "source": "src13",
+   "quote": "Journal of the Royal Statistical Society: Series B (Methodological), Volume 57, Issue 1, January 1995, Pages 289–300",
+   "status": "confirmed",
+   "locator": "שורה 17"
+  },
+  {
+   "id": "c80",
+   "text": "טכנולוגיית המיקרו-מערכים, למשל, אפשרה לבדוק בו-זמנית אלפי גנים.",
+   "source": "src14",
+   "quote": "monitoring expression levels of thousands of genes simultaneously",
+   "status": "confirmed",
+   "locator": "שורה 141"
+  },
+  {
+   "id": "c81",
+   "text": "נוהל בנימיני-יקותיאלי שולט בשיעור התגליות השגויות גם תחת הנחות תלות שרירותיות.",
+   "source": "src15",
+   "quote": "which guarantees FDR control under any type of dependence among the p-values.",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c82",
+   "text": "ב-2012 זכה בנימיני בפרס ישראל לחקר הכלכלה והסטטיסטיקה.",
+   "source": "src8",
+   "quote": "מקבל פרס ישראל לשנת תשע\"ב בתחום חקר הכלכלה וחקר הסטטיסטיקה.",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c83",
+   "text": "ב-2012 זכה בנימיני בפרס ישראל לחקר הכלכלה והסטטיסטיקה.",
+   "source": "src16",
+   "quote": "2012 Recipient of the Israel Prize for Research in Statistics and Economics.",
+   "status": "confirmed",
+   "locator": "שורה 15"
+  },
+  {
+   "id": "c84",
+   "text": "ב-2015 נבחר לאקדמיה הלאומית הישראלית למדעים, וב-2020 לאקדמיה הלאומית למדעים של ארצות הברית.",
+   "source": "src16",
+   "quote": "2015 Elected member of the Israeli Academy of Sciences and Humanities.",
+   "status": "confirmed",
+   "locator": "שורה 15"
+  },
+  {
+   "id": "c85",
+   "text": "ב-2015 נבחר לאקדמיה הלאומית הישראלית למדעים, וב-2020 לאקדמיה הלאומית למדעים של ארצות הברית.",
+   "source": "src16",
+   "quote": "2020 Elected International Member of the US National Academy of Science.",
+   "status": "confirmed",
+   "locator": "שורה 15"
+  },
+  {
+   "id": "c86",
+   "text": "ב-2024 זכו בנימיני, יקותיאלי והלר בפרס רוסו לסטטיסטיקה.",
+   "source": "src3",
+   "quote": "The King Baudouin Foundation has awarded the prestigious Rousseeuw Prize for Statistics to Prof. Yoav Benjamini,",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c87",
+   "text": "ב-2024 זכו בנימיני, יקותיאלי והלר בפרס רוסו לסטטיסטיקה.",
+   "source": "src3",
+   "quote": "Prof. Daniel Yekutieli, and Prof. Ruth Heller from the Department of Statistics and Operations Research at Tel Aviv University.",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c88",
+   "text": "יואב בנימיני נולד בישראל ב-5 בינואר 1949, ליוסף וטובה.",
+   "source": "src8",
+   "quote": "יואב בנימיני נולד בישראל, בן ליוסף וטובה.",
+   "status": "confirmed",
+   "locator": "שורה 35"
+  },
+  {
+   "id": "c89",
+   "text": "יואב בנימיני נולד בישראל ב-5 בינואר 1949, ליוסף וטובה.",
+   "source": "src16",
+   "quote": "Born on 5.1.1949 in Israel.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c90",
+   "text": "הוא למד בבית הספר הריאלי בחיפה, וסיים תואר ראשון בפיזיקה ומתמטיקה ותואר שני במתמטיקה באוניברסיטה העברית.",
+   "source": "src8",
+   "quote": "1973 תואר בוגר בפיסיקה ובמתמטיקה (בהצטיינות), האוניברסיטה העברית בירושלים",
+   "status": "confirmed",
+   "locator": "שורה 25"
+  },
+  {
+   "id": "c91",
+   "text": "הוא למד בבית הספר הריאלי בחיפה, וסיים תואר ראשון בפיזיקה ומתמטיקה ותואר שני במתמטיקה באוניברסיטה העברית.",
+   "source": "src8",
+   "quote": "לאחר שסיים את בית הספר הריאלי בחיפה",
+   "status": "confirmed",
+   "locator": "שורה 35"
+  },
+  {
+   "id": "c92",
+   "text": "הוא למד בבית הספר הריאלי בחיפה, וסיים תואר ראשון בפיזיקה ומתמטיקה ותואר שני במתמטיקה באוניברסיטה העברית.",
+   "source": "src8",
+   "quote": "1976 תואר מוסמך במתמטיקה, האוניברסיטה העברית בירושלים",
+   "status": "confirmed",
+   "locator": "שורה 25"
+  },
+  {
+   "id": "c93",
+   "text": "ב-1981 הצטרף לחוג לסטטיסטיקה וחקר ביצועים באוניברסיטת תל אביב, וב-2000 קודם לפרופסור מן המניין.",
+   "source": "src8",
+   "quote": "1981– חבר בסגל החוג לסטטיסטיקה וחקר ביצועים, אוניברסיטת תל אביב (מ-2000 פרופסור מן המניין)",
+   "status": "confirmed",
+   "locator": "שורה 27"
+  },
+  {
+   "id": "c94",
+   "text": "נהלי FDR שולטים בשגיאות מסוג I באופן פחות מחמיר מנהלי FWER.",
+   "source": "src13",
+   "quote": "This error rate is equivalent to the FWER when all hypotheses are true but is smaller otherwise.",
+   "status": "confirmed",
+   "locator": "שורה 75"
+  },
+  {
+   "id": "c96",
+   "text": "לפי המכלול, השיטה פותחה ב-1989",
+   "source": "src17",
+   "quote": "So, a month later we submitted the paper that was 1989.",
+   "status": "confirmed",
+   "locator": "שורה 16"
   }
  ],
  "sources": [
-  {
-   "id": "src1",
-   "label": "HaMikhlol, entry Yoav Benjamini",
-   "url": "https://www.hamichlol.org.il/%D7%99%D7%95%D7%90%D7%91_%D7%91%D7%A0%D7%99%D7%9E%D7%99%D7%A0%D7%99",
-   "kind": "reference"
-  },
   {
    "id": "src2",
    "label": "Yoav Benjamini's personal page, Tel Aviv University",
@@ -1167,12 +1151,6 @@
    "kind": "press"
   },
   {
-   "id": "src5",
-   "label": "Wikipedia, False discovery rate",
-   "url": "https://en.wikipedia.org/wiki/False_discovery_rate",
-   "kind": "reference"
-  },
-  {
    "id": "src6",
    "label": "Tel Aviv University, 2024",
    "url": "https://english.tau.ac.il/node/3697",
@@ -1183,6 +1161,66 @@
    "label": "Tel Aviv University Safra Center, 8.2024",
    "url": "https://safrabio.cs.tau.ac.il/benjamini_heller_yekutieli_win_rousseeuw_prize_for_statistics",
    "kind": "organisation"
+  },
+  {
+   "id": "src8",
+   "label": "Israel Prize (Ministry of Education): Prof. Yoav Benjamini",
+   "url": "https://israel-prize.education.gov.il/israel-prize-recipients/pras-israel-catalog/yoav-benjamini/",
+   "kind": "official"
+  },
+  {
+   "id": "src9",
+   "label": "Tel Aviv University: Article by Professors Benjamini and Hochberg ranked among the 100 most cited scientific articles of all time",
+   "url": "https://goodtoknow.tau.ac.il/news_benjamini_hochberg",
+   "kind": "official"
+  },
+  {
+   "id": "src10",
+   "label": "Tel Aviv University: Article by Professors Benjamini and Hochberg ranked among the 100 most cited scientific articles of all time",
+   "url": "https://kbs-frb.be/en/second-rousseeuw-prize-statistics-awarded",
+   "kind": "official"
+  },
+  {
+   "id": "src11",
+   "label": "Israel Prize (Ministry of Education): Prof. Yoav Benjamini",
+   "url": "https://statistics.berkeley.edu/about/news/former-visiting-professor-benjamini-wins-rousseeuw-prize",
+   "kind": "official"
+  },
+  {
+   "id": "src12",
+   "label": "ynet: Israel Prize in Economics and Statistics Research to be awarded to Yoav Benjamini",
+   "url": "https://www.ynet.co.il/articles/0,7340,L-4187746,00.html",
+   "kind": "press"
+  },
+  {
+   "id": "src13",
+   "label": "Oxford Academic (JRSS-B): Benjamini & Hochberg, Controlling the False Discovery Rate: A Practical and Powerful Approach to Multiple Testing",
+   "url": "https://academic.oup.com/jrsssb/article/57/1/289/7035855",
+   "kind": "reference"
+  },
+  {
+   "id": "src14",
+   "label": "Reiner, Yekutieli & Benjamini, Bioinformatics 2003 (abstract, via Ben-Gurion University): Identifying differentially expressed genes using false discovery rate controlling procedures",
+   "url": "https://www.bgu.ac.il/en/researcher/anat-reiner-benaim/publications/327279644/",
+   "kind": "reference"
+  },
+  {
+   "id": "src15",
+   "label": "arXiv (Döhler): A discrete modification of the Benjamini-Yekutieli procedure",
+   "url": "https://ar5iv.labs.arxiv.org/html/1612.04838",
+   "kind": "reference"
+  },
+  {
+   "id": "src16",
+   "label": "Ministry of Education, Israel Prize: Prof. Yoav Benjamini",
+   "url": "https://www.math.tau.ac.il/%7Eybenja/YoavBenjaminiLongCV.html",
+   "kind": "official"
+  },
+  {
+   "id": "src17",
+   "label": "Stats + Stories podcast, Episode 108: The False Discovery Rate (interview with Yoav Benjamini)",
+   "url": "https://statsandstories.net/methods/the-false-discovery-rate",
+   "kind": "press"
   }
  ],
  "media": [
@@ -1196,9 +1234,7 @@
    "licence": "CC BY-SA 1.0",
    "hosting": "hotlink",
    "caption": "Portrait of Yoav Benjamini, outdoors, in an open area with vegetation in the background.",
-   "illustrates": [
-    "c39"
-   ],
+   "illustrates": [],
    "licence_url": "https://creativecommons.org/licenses/by-sa/1.0",
    "date": "5 February",
    "width": 968,
@@ -1214,9 +1250,7 @@
    "licence": "CC BY-SA 4.0",
    "hosting": "hotlink",
    "caption": "Five people stand in front of a Rousseeuw Prize for Statistics sign, and one of them holds a framed prize certificate.",
-   "illustrates": [
-    "c50"
-   ],
+   "illustrates": [],
    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
    "date": "2024-12-05",
    "width": 1600,
@@ -1418,7 +1452,7 @@
   "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
   "checked_at": "2026-11-20T23:09:42Z",
   "counts": {
-   "confirmed": 71,
+   "confirmed": 65,
    "not_confirmed": 0,
    "deleted_sentences": 4,
    "first_round_confirmed": 70,
@@ -1439,13 +1473,20 @@
    "fix": "opus-5-5 medium"
   },
   "source_quality": {
-   "sources": 7,
-   "wikipedia": 1,
+   "sources": 15,
+   "wikipedia": 0,
    "strong": 1,
    "ok": false,
    "warnings": [
     "only 1 official/court/press/book sources"
    ]
+  },
+  "wiki_cleanup": {
+   "at": "2026-11-27T14:24:00Z",
+   "targets": 21,
+   "resourced": 15,
+   "kept_on_other_sources": 0,
+   "deleted": 6
   }
  },
  "lang": "en",
@@ -1453,27 +1494,25 @@
   "from": "he",
   "translator": "claude-opus-5-5",
   "checker": "claude-opus-5-5 (separate call, blind to the translation prompt)",
-  "checked_at": "2026-11-21T06:05:47Z",
+  "checked_at": "2026-11-27T14:24:37Z",
   "passed": true,
-  "items": 113,
-  "pairs_checked": 4,
-  "reused": 109,
-  "first_round_flagged": 0,
+  "items": 110,
+  "pairs_checked": 10,
+  "reused": 94,
+  "first_round_flagged": 2,
   "still_flagged": 0,
   "flagged": [],
   "quote_translations": {
-   "c39": "Yoav Benjamini (born 5 January 1949) is a professor emeritus in the Department of Statistics at the School of Mathematical Sciences at Tel Aviv University",
-   "c40": "Benjamini was born in Israel, to Yosef and Tova. He studied at the Hebrew Reali School in Haifa",
-   "c44": "The method was published as a scientific paper in 1995, which was later ranked as one of the 25 most cited papers in statistics.",
-   "c47": "In 2012 he won the Israel Prize in Economics and Statistics research. In its citation the prize committee wrote:",
-   "c50": "In 2024 he won (together with Professors Daniel Yekutieli and Ruth Heller) the Rousseeuw Prize for Statistics for work that makes it possible to scan a large number of experimental results and sort out of them real discoveries.",
-   "c43": "Benjamini is known especially for developing the false discovery rate method in 1989, together with Prof. Yosef Hochberg, which is used for testing multiple hypotheses.",
-   "c45": "This innovative approach, which met with suspicion in its early days, became a highly accepted method for analyzing complex hypotheses in broad fields of science.",
-   "c46": "This approach changed the way in which problems are examined that require statistical examination of a large number of hypotheses.",
-   "c48": "In June 2015 he was elected as a member of the Israel Academy of Sciences and Humanities.",
-   "c49": "In 2020 he was elected as a member of the National Academy of Sciences in the United States.",
-   "c41": "He completed a bachelor's degree in physics and mathematics and a master's degree in mathematics at the Hebrew University.",
-   "c42": "In 1981 he joined the faculty of the Department of Statistics and Operations Research at Tel Aviv University, and in 2000 he was promoted to full professor."
+   "c70": "Yoav Benjamini was born in Israel, the son of Yosef and Tova.",
+   "c72": "It is one of the youngest articles on the list (published in 1995)",
+   "c74": "Recipient of the Israel Prize for the year Tasha\"b in the field of economics research and statistics research.",
+   "c77": "And although it met with suspicion at the start of its path, the method became the most accepted for analyzing complex hypotheses in broad fields of science.",
+   "c82": "Recipient of the Israel Prize for the year Tasha\"b in the field of economics research and statistics research.",
+   "c88": "Yoav Benjamini was born in Israel, the son of Yosef and Tova.",
+   "c90": "1973 Bachelor's degree in physics and mathematics (with honors), the Hebrew University of Jerusalem",
+   "c91": "After he finished the Reali School in Haifa",
+   "c92": "1976 Master's degree in mathematics, the Hebrew University of Jerusalem",
+   "c93": "1981– Member of the faculty of the Department of Statistics and Operations Research, Tel Aviv University (from 2000 full professor)"
   }
  }
 }

@@ -331,12 +331,6 @@
     ],
     [
      {
-      "text": "According to Wikipedia, Lazarus initially refused, and Harrison convinced her that the statue would be of great significance to immigrants sailing into the harbor.",
-      "claims": [
-       "c61"
-      ]
-     },
-     {
       "text": "According to a University of Houston digital library, when it was suggested that she write about the statue in the context of her beloved Jewish immigrants, she agreed to try.",
       "claims": [
        "c57"
@@ -360,12 +354,6 @@
       "text": "After the auction, the sonnet appeared in Joseph Pulitzer's New York World as well as The New York Times.",
       "claims": [
        "c6"
-      ]
-     },
-     {
-      "text": "According to Wikipedia, the exhibit closed after the pedestal was fully funded in August 1885.",
-      "claims": [
-       "c69"
       ]
      }
     ]
@@ -444,12 +432,6 @@
       "claims": [
        "c9"
       ]
-     },
-     {
-      "text": "According to Wikipedia, the plaque was mounted on the pedestal's lower level.",
-      "claims": [
-       "c60"
-      ]
      }
     ],
     [
@@ -488,17 +470,11 @@
      {
       "text": "According to John Cunningham, it was the poem that permanently stamped on the Statue of Liberty the role of unofficial greeter of incoming immigrants.",
       "claims": [
-       "c65"
+       "c73"
       ]
      }
     ],
     [
-     {
-      "text": "Irving Berlin's 1949 musical “Miss Liberty” includes, as its final song, an adaptation of the last part of the poem.",
-      "claims": [
-       "c63"
-      ]
-     },
      {
       "text": "On October 5, 1955, a plaque honoring Lazarus was unveiled at Battery Park.",
       "claims": [
@@ -509,14 +485,6 @@
       "text": "On New York's Lower East Side, a high school named for her is tailored to English language learners.",
       "claims": [
        "c46"
-      ]
-     }
-    ],
-    [
-     {
-      "text": "In 2020, the American Jewish Historical Society in New York produced the “New Colossus” Project, with exhibitions, videos and a curriculum.",
-      "claims": [
-       "c64"
       ]
      }
     ]
@@ -613,7 +581,8 @@
      {
       "text": "In 2019, during the first Trump administration, Ken Cuccinelli changed a line from the poem to support the public charge rule.",
       "claims": [
-       "c62"
+       "c75",
+       "c76"
       ]
      }
     ]
@@ -969,14 +938,6 @@
    "locator": "שורה 7"
   },
   {
-   "id": "c61",
-   "text": "לפי ויקיפדיה, לזרוס סירבה תחילה, אך קונסטנס קארי הריסון שכנעה אותה שהפסל יהיה חשוב מאוד למהגרים המפליגים לנמל.",
-   "source": "src9",
-   "quote": "Initially, she refused, but writer Constance Cary Harrison convinced her that the statue would be of great significance to immigrants sailing into the harbor.",
-   "status": "confirmed",
-   "locator": "שורה 27"
-  },
-  {
    "id": "c57",
    "text": "לפי ספרייה דיגיטלית של אוניברסיטת יוסטון, כשהוצע לה לכתוב על הפסל בהקשר של המהגרים היהודים האהובים עליה, הסכימה לנסות.",
    "source": "src8",
@@ -999,14 +960,6 @@
    "quote": "After the auction, the sonnet appeared in Joseph Pulitzer's New York World as well as The New York Times.",
    "status": "confirmed",
    "locator": "שורה 7"
-  },
-  {
-   "id": "c69",
-   "text": "לפי ויקיפדיה, התערוכה נסגרה לאחר שבסיס הפסל מומן במלואו באוגוסט 1885.",
-   "source": "src9",
-   "quote": "until the exhibit closed after the pedestal was fully funded in August 1885",
-   "status": "confirmed",
-   "locator": "שורה 28"
   },
   {
    "id": "c10",
@@ -1081,14 +1034,6 @@
    "locator": "שורה 12"
   },
   {
-   "id": "c60",
-   "text": "לפי ויקיפדיה, ב-1903 השיר נוצק על לוחית ארד והוצב בקומה התחתונה של הבסיס.",
-   "source": "src9",
-   "quote": "In 1903, the poem was cast onto a bronze plaque and mounted inside the pedestal's lower level.",
-   "status": "confirmed",
-   "locator": "שורה 13"
-  },
-  {
    "id": "c27",
    "text": "רק בשנות ה-30, בעידן של מכסות הגירה מגבילות, הוחזר 'הקולוסוס החדש' למחזור למען ההגירה.",
    "source": "src2",
@@ -1097,36 +1042,12 @@
    "locator": "שורה 27"
   },
   {
-   "id": "c65",
-   "text": "לדברי ג'ון קנינגהם, השיר הוא שקבע לצמיתות את תפקיד פסל החירות כמקבל הפנים הבלתי רשמי של מהגרים.",
-   "source": "src9",
-   "quote": "However, it was [Lazarus's poem] that permanently stamped on Miss Liberty the role of unofficial greeter of incoming immigrants.",
-   "status": "confirmed",
-   "locator": "שורה 45"
-  },
-  {
-   "id": "c63",
-   "text": "המחזמר 'מיס ליברטי' של אירווינג ברלין משנת 1949 כולל כשיר סיום עיבוד לחלק האחרון של השיר.",
-   "source": "src9",
-   "quote": "The 1949 Irving Berlin musical Miss Liberty includes, as its final song,",
-   "status": "confirmed",
-   "locator": "שורה 50"
-  },
-  {
    "id": "c45",
    "text": "לוחית לכבוד לזרוס נחשפה בפארק בטרי ב-5 באוקטובר 1955.",
    "source": "src1",
    "quote": "A plaque honoring Lazarus was unveiled at Battery Park on Oct. 5, 1955",
    "status": "confirmed",
    "locator": "שורה 22"
-  },
-  {
-   "id": "c64",
-   "text": "ב-2020 הפיקה החברה ההיסטורית היהודית האמריקנית בניו יורק פרויקט 'הקולוסוס החדש' של תערוכות, סרטונים ותוכנית לימוד.",
-   "source": "src9",
-   "quote": "In 2020, the American Jewish Historical Society in New York City produced a New Colossus Project of exhibitions, videos, and curriculum related to the poem.",
-   "status": "confirmed",
-   "locator": "שורה 57"
   },
   {
    "id": "c28",
@@ -1185,14 +1106,6 @@
    "locator": "שורה 59"
   },
   {
-   "id": "c62",
-   "text": "ב-2019, בממשל טראמפ הראשון, קן קוצ'ינלי שינה שורה מהשיר כדי לתמוך בכלל 'הנטל הציבורי'.",
-   "source": "src9",
-   "quote": "In 2019, during the first Trump administration, Ken Cuccinelli, whom Trump appointed as acting director of U.S. Citizenship and Immigration Services, revised a line from the poem",
-   "status": "confirmed",
-   "locator": "שורה 47"
-  },
-  {
    "id": "c43",
    "text": "לפי JTA, ספר שיריה הראשון פורסם באופן פרטי בידי אביה כשהייתה בת 16.",
    "source": "src1",
@@ -1215,6 +1128,30 @@
    "quote": "The 1903 bronze plaque located in the pedestal of the Statue of Liberty.",
    "status": "confirmed",
    "locator": "שורה 3"
+  },
+  {
+   "id": "c73",
+   "text": "לדברי ג'ון קנינגהם, השיר הוא שקבע לצמיתות את תפקיד פסל החירות כמי שמקבל את פני המהגרים, באופן לא רשמי.",
+   "source": "src12",
+   "quote": "that permanently stamped on Miss Liberty the role of unofficial greeter of incoming immigrants.",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c75",
+   "text": "ב-2019, בממשל טראמפ הראשון, קן קוצ'ינלי שינה שורה מהשיר כדי לתמוך בכלל \"הנטל הציבורי\".",
+   "source": "src13",
+   "quote": "Give me your tired and your poor who can stand on their own two feet and who will not become a public charge,",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c76",
+   "text": "ב-2019, בממשל טראמפ הראשון, קן קוצ'ינלי שינה שורה מהשיר כדי לתמוך בכלל \"הנטל הציבורי\".",
+   "source": "src13",
+   "quote": "Acting Director of U.S. Citizenship and Immigration Services Ken Cuccinelli",
+   "status": "confirmed",
+   "locator": "שורה 8"
   }
  ],
  "sources": [
@@ -1267,12 +1204,6 @@
    "kind": "reference"
   },
   {
-   "id": "src9",
-   "label": "Wikipedia, The New Colossus",
-   "url": "https://en.wikipedia.org/wiki/The_New_Colossus",
-   "kind": "reference"
-  },
-  {
    "id": "src10",
    "label": "The Jewish Press, The Judaism, Zionism and Jewish Poems of Emma Lazarus",
    "url": "https://jewishpress.com/the-judaism-zionism-and-jewish-poems-of-emma-lazarus/",
@@ -1283,6 +1214,18 @@
    "label": "National Park Service, Statue of Liberty, The New Colossus",
    "url": "https://www.nps.gov/stli/learn/historyculture/colossus.htm",
    "kind": "official"
+  },
+  {
+   "id": "src12",
+   "label": "St. Louis Jewish Light: Your huddled what? White House aide Stephen Miller doesn't think the Statue of Liberty has much to do with immigration",
+   "url": "https://stljewishlight.org/news/world-news/your-huddled-what-white-house-aide-stephen-miller-doesnt-think-the-statue-of-liberty-has-much-to-do-with-immigration/",
+   "kind": "press"
+  },
+  {
+   "id": "src13",
+   "label": "Common Dreams: 'Give Me Your Tired and Your Poor Who Can Stand on Their Own Two Feet': Top Trump Official",
+   "url": "https://www.commondreams.org/news/2019/08/13/give-me-your-tired-and-your-poor-who-can-stand-their-own-two-feet-top-trump-official",
+   "kind": "press"
   }
  ],
  "media": [
@@ -1378,9 +1321,7 @@
    "licence_url": "https://www.youtube.com/static?template=terms",
    "hosting": "embed",
    "caption": "A film by the American Jewish Historical Society about a multi-year project examining the story of Emma Lazarus.",
-   "illustrates": [
-    "c64"
-   ],
+   "illustrates": [],
    "spoken": "en",
    "audio_tracks": [
     "en"
@@ -1704,7 +1645,7 @@
   "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
   "checked_at": "2026-11-21T09:32:34Z",
   "counts": {
-   "confirmed": 85,
+   "confirmed": 78,
    "not_confirmed": 0,
    "deleted_sentences": 5,
    "first_round_confirmed": 83,
@@ -1725,8 +1666,8 @@
    "fix": "opus-5-5 medium"
   },
   "source_quality": {
-   "sources": 10,
-   "wikipedia": 1,
+   "sources": 12,
+   "wikipedia": 0,
    "strong": 4,
    "ok": true,
    "warnings": []
@@ -1738,18 +1679,25 @@
     "url": "https://www.nps.gov/stli/learn/historyculture/colossus.htm",
     "by": "settle 24.11"
    }
-  ]
+  ],
+  "wiki_cleanup": {
+   "at": "2026-11-27T14:29:48Z",
+   "targets": 7,
+   "resourced": 2,
+   "kept_on_other_sources": 0,
+   "deleted": 5
+  }
  },
  "lang": "en",
  "translation": {
   "from": "he",
   "translator": "claude-opus-5-5",
   "checker": "claude-opus-5-5 (separate call, blind to the translation prompt)",
-  "checked_at": "2026-11-23T22:27:41Z",
+  "checked_at": "2026-11-27T14:29:48Z",
   "passed": true,
-  "items": 123,
-  "pairs_checked": 1,
-  "reused": 122,
+  "items": 118,
+  "pairs_checked": 0,
+  "reused": 118,
   "first_round_flagged": 0,
   "still_flagged": 0,
   "flagged": [],

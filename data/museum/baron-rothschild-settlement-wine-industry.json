@@ -324,12 +324,6 @@
     ],
     [
      {
-      "text": "לפי ויקיפדיה, ב-1882 יובאו שתילי גפן צרפתיים, והברון שלח מומחי יין משלו לייעץ לחלוצים.",
-      "claims": [
-       "c30"
-      ]
-     },
-     {
       "text": "לפי ynet, העזרה כללה לימוד התחום, מימון שתילי גפן ושליחת מדריכים מצרפת.",
       "claims": [
        "c8"
@@ -378,9 +372,9 @@
     ],
     [
      {
-      "text": "לפי ויקיפדיה, בפרק שאינו מביא מקורות, יקב ראשון לציון נבנה ב-1890 בידי הברון אדמונד דה רוטשילד.",
+      "text": "יקב ראשון לציון נבנה ב-1890 בידי הברון אדמונד דה רוטשילד.",
       "claims": [
-       "c34"
+       "c80"
       ]
      },
      {
@@ -392,15 +386,23 @@
     ],
     [
      {
-      "text": "לפי ויקיפדיה, חברת Carmel Wine Co. הוקמה כדי לייצא את יינות ראשון לציון וזכרון יעקב.",
+      "text": "חברת Carmel Wine Co. הוקמה כדי לייצא את יינות ראשון לציון וזכרון יעקב.",
       "claims": [
-       "c38"
+       "c81"
       ]
      },
      {
       "text": "לפי Wine With Seth, יין מראשון לציון זכה במדליית זהב בתערוכת פריז ב-1900, לצד לאפיט ומרגו.",
       "claims": [
        "c40"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "Wine With Seth: 1891",
+      "claims": [
+       "c35"
       ]
      }
     ]
@@ -412,7 +414,6 @@
    ],
    "disagreements": [
     "d5",
-    "d6",
     "d7"
    ]
   },
@@ -422,12 +423,6 @@
    "kind": "story",
    "paragraphs": [
     [
-     {
-      "text": "לפי ויקיפדיה, ב-1906 הועברו הכרמים וניהול שני היקבים לידי הכורמים.",
-      "claims": [
-       "c41"
-      ]
-     },
      {
       "text": "לפי ynet, ב-1957 העביר ג'יימס רוטשילד, בנו של הנדיב הידוע, את הבעלות על היקבים לאגודת הכורמים.",
       "claims": [
@@ -443,21 +438,23 @@
       ]
      },
      {
-      "text": "לפי ויקיפדיה, כרמל הוא היקב הגדול בישראל, עם נתח שוק מקומי של כמעט 50%.",
+      "text": "כרמל הוא היקב הגדול בישראל, עם נתח שוק מקומי של כמעט 50%.",
       "claims": [
-       "c48"
-      ]
-     },
-     {
-      "text": "לפי נתון בוויקיפדיה, שאינו מציין לאיזו שנה הוא מתייחס, הרווח מהיצוא של כרמל היה 5 מיליון דולר מ-40 מדינות.",
-      "claims": [
-       "c46"
+       "c83"
       ]
      },
      {
       "text": "לפי כתבה שיווקית ב-ynet, השיראז קאיומי 2006 של יקבי כרמל זכה ב-2010 בגביע העולמי בתחרות של מגזין Decanter בקטגוריית \"היין האדום הטוב ביותר בעולם מזני הרון\".",
       "claims": [
        "c47"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "ynet: כ-12 מיליון",
+      "claims": [
+       "c45"
       ]
      }
     ]
@@ -470,8 +467,7 @@
     "m13"
    ],
    "disagreements": [
-    "d8",
-    "d9"
+    "d8"
    ]
   },
   {
@@ -726,33 +722,9 @@
      ]
     },
     {
-     "says": "ויקיפדיה: נבנה ב-1890",
-     "claims": [
-      "c34"
-     ]
-    },
-    {
      "says": "Wine With Seth: נפתח ב-1890",
      "claims": [
       "c35"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "d6",
-   "question": "מתי נבנה יקב זיכרון יעקב?",
-   "versions": [
-    {
-     "says": "Wine With Seth: 1891",
-     "claims": [
-      "c35"
-     ]
-    },
-    {
-     "says": "ויקיפדיה: 1892",
-     "claims": [
-      "c36"
      ]
     }
    ]
@@ -765,12 +737,6 @@
      "says": "Kosher Wine: 1896, כדי לייצא יינות",
      "claims": [
       "c37"
-     ]
-    },
-    {
-     "says": "ויקיפדיה: 1895, כדי לייצא את יינות ראשון לציון וזכרון יעקב",
-     "claims": [
-      "c38"
      ]
     },
     {
@@ -795,30 +761,6 @@
      "says": "מעריב: הברון עצמו העניק את היקב במתנה, באמצע המאה ה-20",
      "claims": [
       "c43"
-     ]
-    },
-    {
-     "says": "ויקיפדיה: עזבונו של הברון, ב-1957",
-     "claims": [
-      "c44"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "d9",
-   "question": "כמה בקבוקים מייצר כרמל בשנה?",
-   "versions": [
-    {
-     "says": "ynet: כ-12 מיליון",
-     "claims": [
-      "c45"
-     ]
-    },
-    {
-     "says": "ויקיפדיה: 15 מיליון",
-     "claims": [
-      "c46"
      ]
     }
    ]
@@ -975,14 +917,6 @@
    "quote": "He became the major address for all problems in the yishuv, large and small alike, to such a degree that he became known as the",
    "status": "confirmed",
    "locator": "שורה 8"
-  },
-  {
-   "id": "c30",
-   "text": "לפי ויקיפדיה, ב-1882 יובאו שתילי גפן צרפתיים והברון שלח מומחי יין משלו לייעץ לחלוצים.",
-   "source": "src5",
-   "quote": "In 1882, French rootstock was imported, and the Baron sent his own wine specialists to advise the pioneers in this enterprise.",
-   "status": "confirmed",
-   "locator": "שורה 38"
   },
   {
    "id": "c78",
@@ -1177,28 +1111,12 @@
    "locator": "שורה 5"
   },
   {
-   "id": "c34",
-   "text": "לפי ויקיפדיה, יקב ראשון לציון נבנה ב-1890 בידי הברון, והוא מבנה התעשייה העתיק ביותר בישראל שעדיין בשימוש.",
-   "source": "src5",
-   "quote": "It was built in 1890 by Baron Edmond de Rothschild, making it the oldest industrial building in Israel still in use.",
-   "status": "confirmed",
-   "locator": "שורה 53"
-  },
-  {
    "id": "c32",
    "text": "לפי ynet, הטלפון הראשון בישראל והחיבור הראשון לחשמל היו ביקבי כרמל.",
    "source": "src2",
    "quote": "הטלפון הראשון בישראל והחיבור הראשון לחשמל היו ביקבי כרמל.",
    "status": "confirmed",
    "locator": "שורה 44"
-  },
-  {
-   "id": "c38",
-   "text": "לפי ויקיפדיה, חברת Carmel Wine Co. הוקמה ב-1895 כדי לייצא את יינות ראשון לציון וזכרון יעקב.",
-   "source": "src5",
-   "quote": "In 1895 Carmel Wine Co. was formed to export wines of Rishon LeZion and Zikhron Ya'akov",
-   "status": "confirmed",
-   "locator": "שורה 39"
   },
   {
    "id": "c40",
@@ -1209,36 +1127,12 @@
    "locator": "שורה 11"
   },
   {
-   "id": "c41",
-   "text": "לפי ויקיפדיה, ב-1906 הועברו הכרמים וניהול שני היקבים לידי הכורמים.",
-   "source": "src5",
-   "quote": "In 1906, both the vineyards and the management of the two wineries were deeded to the winegrowers",
-   "status": "confirmed",
-   "locator": "שורה 41"
-  },
-  {
    "id": "c42",
    "text": "לפי ynet, ב-1957 ג'יימס רוטשילד, בנו של הנדיב הידוע, העביר את הבעלות על היקבים לאגודת הכורמים.",
    "source": "src2",
    "quote": "בנו של הנדיב הידוע, מעביר את הבעלות על היקבים לידי אגודת הכורמים",
    "status": "confirmed",
    "locator": "שורה 51"
-  },
-  {
-   "id": "c48",
-   "text": "לפי ויקיפדיה, כרמל הוא היקב הגדול בישראל, עם נתח שוק מקומי של כמעט 50%.",
-   "source": "src5",
-   "quote": "It is the largest winery in Israel, with a local market share of almost 50%.",
-   "status": "confirmed",
-   "locator": "שורה 21"
-  },
-  {
-   "id": "c46",
-   "text": "לפי ויקיפדיה, הייצור של כרמל מגיע ל-15 מיליון בקבוקים בשנה והרווח מיצוא הוא 5 מיליון דולר מ-40 מדינות.",
-   "source": "src5",
-   "quote": "Carmel's production reaches 15 million bottles per year[3] and its profit from export is US$5 million from 40 countries.[3]",
-   "status": "confirmed",
-   "locator": "שורה 34"
   },
   {
    "id": "c47",
@@ -1409,14 +1303,6 @@
    "locator": "שורה 16"
   },
   {
-   "id": "c36",
-   "text": "לפי ויקיפדיה, יקב זיכרון יעקב נבנה ב-1892 בידי הברון.",
-   "source": "src5",
-   "quote": "it was built in 1892, also by Baron Edmond de Rothschild",
-   "status": "confirmed",
-   "locator": "שורה 55"
-  },
-  {
    "id": "c37",
    "text": "לפי אתר Kosher Wine, חברת יקבי כרמל הוקמה ב-1896 כדי לייצא יינות.",
    "source": "src11",
@@ -1439,14 +1325,6 @@
    "quote": "באמצע המאה ה-20 העניק הברון, ברוב טובו, את היקב במתנה לאגודת הכורמים.",
    "status": "confirmed",
    "locator": "שורה 7"
-  },
-  {
-   "id": "c44",
-   "text": "לפי ויקיפדיה, ב-1957 העבירה עזבונו של הברון את שני היקבים לאגודת הכורמים.",
-   "source": "src5",
-   "quote": "In 1957, the estate of the Baron Edmond de Rothschild deeded over the two wineries to the Cooperative of Winegrowers",
-   "status": "confirmed",
-   "locator": "שורה 45"
   },
   {
    "id": "c55",
@@ -1487,6 +1365,30 @@
    "quote": "(1887, 1893, 1899) were devoted to tours of the settlements",
    "status": "confirmed",
    "locator": "שורה 9"
+  },
+  {
+   "id": "c80",
+   "text": "יקב ראשון לציון נבנה ב-1890 בידי הברון אדמונד דה רוטשילד.",
+   "source": "src14",
+   "quote": "Rothschild built Israel’s first commercial wineries at Rishon Le Zion in 1890",
+   "status": "confirmed",
+   "locator": "שורה 19"
+  },
+  {
+   "id": "c81",
+   "text": "חברת Carmel Wine Co. הוקמה כדי לייצא את יינות ראשון לציון וזכרון יעקב.",
+   "source": "src14",
+   "quote": "In 1895 the Carmel Wine Co. was formed by E.Z. Lewin-Epstein, one of the founders of Rehovot, to market the wines of Rishon and Zichron overseas.",
+   "status": "confirmed",
+   "locator": "שורה 21"
+  },
+  {
+   "id": "c83",
+   "text": "כרמל הוא היקב הגדול בישראל, עם נתח שוק מקומי של כמעט 50%.",
+   "source": "src15",
+   "quote": "Currently, Carmel is the largest winery in Israel, controls almost 50 percent of the local market",
+   "status": "confirmed",
+   "locator": "שורה 17"
   }
  ],
  "sources": [
@@ -1512,12 +1414,6 @@
    "id": "src4",
    "label": "Encyclopedia.com, Rothschild, Baron Edmond James de",
    "url": "https://encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/rothschild-baron-edmond-james-de",
-   "kind": "reference"
-  },
-  {
-   "id": "src5",
-   "label": "Wikipedia, Carmel Winery",
-   "url": "https://en.wikipedia.org/wiki/Carmel_Winery",
    "kind": "reference"
   },
   {
@@ -1566,6 +1462,18 @@
    "id": "src13",
    "label": "Jerusalem Post, Wine Talk: Return to Zion",
    "url": "https://www.jpost.com/food-recipes/wine-talk-return-to-zion-644882",
+   "kind": "press"
+  },
+  {
+   "id": "src14",
+   "label": "Adam Montefiore: history of Israeli wine, Mid 1800's",
+   "url": "https://adammontefiore.com/?p=4481",
+   "kind": "other"
+  },
+  {
+   "id": "src15",
+   "label": "eTurboNews: Carmel Winery article",
+   "url": "https://eturbonews.com/?p=3094607",
    "kind": "press"
   }
  ],
@@ -2179,7 +2087,7 @@
   "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
   "checked_at": "2026-11-21T11:34:49Z",
   "counts": {
-   "confirmed": 99,
+   "confirmed": 90,
    "not_confirmed": 0,
    "deleted_sentences": 4,
    "first_round_confirmed": 97,
@@ -2200,8 +2108,8 @@
    "fix": "opus-5-5 medium"
   },
   "source_quality": {
-   "sources": 13,
-   "wikipedia": 1,
+   "sources": 14,
+   "wikipedia": 0,
    "strong": 10,
    "ok": true,
    "warnings": []
@@ -2213,6 +2121,13 @@
     "url": "https://encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/rothschild-baron-edmond-james-de",
     "by": "settle 24.11"
    }
-  ]
+  ],
+  "wiki_cleanup": {
+   "at": "2026-11-27T14:14:24Z",
+   "targets": 11,
+   "resourced": 3,
+   "kept_on_other_sources": 0,
+   "deleted": 8
+  }
  }
 }

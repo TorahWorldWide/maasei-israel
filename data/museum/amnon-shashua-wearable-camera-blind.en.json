@@ -69,7 +69,7 @@
    "label": "Where",
    "value": "Headquarters in Jerusalem, offices in New York, Toronto and London",
    "claims": [
-    "c78"
+    "c82"
    ]
   },
   {
@@ -200,7 +200,7 @@
       "text": "OrCam has a long history of partnership with Intel, which invested in it.",
       "claims": [
        "c38",
-       "c77"
+       "c83"
       ]
      }
     ],
@@ -245,9 +245,10 @@
     ],
     [
      {
-      "text": "According to Wikipedia, in December 2017 OrCam introduced the second generation, MyEye 2.0.",
+      "text": "In December 2017, OrCam presented the second generation, MyEye 2.0.",
       "claims": [
-       "c70"
+       "c84",
+       "c85"
       ]
      },
      {
@@ -381,12 +382,6 @@
       "claims": [
        "c40"
       ]
-     },
-     {
-      "text": "According to Wikipedia, the device does not record sounds or images.",
-      "claims": [
-       "c74"
-      ]
      }
     ]
    ],
@@ -440,21 +435,10 @@
     ],
     [
      {
-      "text": "According to Wikipedia, a 2016 JAMA Ophthalmology study of 12 legally blind participants showed that the device improved their ability to perform tasks simulating everyday activities, such as reading a message on an electronic device, a newspaper article or a menu.",
+      "text": "A 2016 JAMA Ophthalmology study among 12 legally blind participants showed that the device improved their ability to perform tasks simulating everyday activities, such as reading a message on an electronic device, a newspaper article or a menu.",
       "claims": [
-       "c71"
-      ]
-     },
-     {
-      "text": "According to Wikipedia, a study at Wills Eye concluded that the device allowed patients with advanced-stage glaucoma to read independently and improved their quality of life.",
-      "claims": [
-       "c72"
-      ]
-     },
-     {
-      "text": "According to Wikipedia, in 2018 a team headed by New York Assemblyman Dov Hikind introduced the use of OrCam devices to ten people.",
-      "claims": [
-       "c73"
+       "c86",
+       "c87"
       ]
      }
     ]
@@ -474,13 +458,13 @@
       "text": "OrCam is a Jerusalem start-up, and it has offices in New York, Toronto and London.",
       "claims": [
        "c27",
-       "c78"
+       "c89"
       ]
      },
      {
-      "text": "According to the body of the Wikipedia article, which does not give a date for the figure, it has more than 150 employees.",
+      "text": "It employs more than 150 people.",
       "claims": [
-       "c78"
+       "c90"
       ]
      },
      {
@@ -532,12 +516,6 @@
       ]
      },
      {
-      "text": "According to Wikipedia, as of July 2023 the price is between $4,000 and $6,000.",
-      "claims": [
-       "c76"
-      ]
-     },
-     {
       "text": "After a $41 million funding round, OrCam was valued at about $600 million.",
       "claims": [
        "c37"
@@ -549,12 +527,19 @@
        "c36"
       ]
      }
+    ],
+    [
+     {
+      "text": "Jerusalem Report: in February",
+      "claims": [
+       "c37"
+      ]
+     }
     ]
    ],
    "media": [],
    "disagreements": [
-    "d4",
-    "d6"
+    "d4"
    ]
   },
   {
@@ -661,12 +646,6 @@
       ]
      },
      {
-      "text": "According to Wikipedia, a technology reviewer wrote in 2018 that he wished the device had a headphone jack.",
-      "claims": [
-       "c75"
-      ]
-     },
-     {
       "text": "About OrCam Hear, Shashua said the device is still far from complete and voices are still transmitted with delays, but the hardware is working and only final tunings remain.",
       "claims": [
        "c20"
@@ -690,9 +669,9 @@
      ]
     },
     {
-     "says": "Wikipedia: $15 million by 2014",
+     "says": "$15 million by 2014",
      "claims": [
-      "c77"
+      "c91"
      ]
     }
    ]
@@ -729,24 +708,6 @@
      "says": "Shashua, in Calcalist: a library of 15 objects, expected to grow",
      "claims": [
       "c14"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "d6",
-   "question": "When was the $41 million raised?",
-   "versions": [
-    {
-     "says": "Jerusalem Report: in February",
-     "claims": [
-      "c37"
-     ]
-    },
-    {
-     "says": "Wikipedia: in March 2017",
-     "claims": [
-      "c77"
      ]
     }
    ]
@@ -843,14 +804,6 @@
    "locator": "שורה 10"
   },
   {
-   "id": "c78",
-   "text": "לפי וויקיפדיה, לאורקם יותר מ-150 עובדים, מטה בירושלים ומשרדים בניו יורק, טורונטו ולונדון.",
-   "source": "src7",
-   "quote": "OrCam has over 150 employees, is headquartered in Jerusalem,[23] and has offices in New York, Toronto, and London.",
-   "status": "confirmed",
-   "locator": "שורה 59"
-  },
-  {
    "id": "c5",
    "text": "שעשוע, פרופסור שמתמחה בראייה ממוחשבת, כבר הקים יחד עם זיו אבירם את מובילאיי.",
    "source": "src3",
@@ -931,14 +884,6 @@
    "locator": "שורה 33"
   },
   {
-   "id": "c77",
-   "text": "לפי וויקיפדיה, אינטל השקיעה באורקם 15 מיליון דולר עד 2014, ובמארס 2017 גייסה החברה 41 מיליון דולר.",
-   "source": "src7",
-   "quote": "By 2014, Intel, which was also investing in Google Glass, had invested $15 million in Orcam.",
-   "status": "confirmed",
-   "locator": "שורה 54"
-  },
-  {
    "id": "c35",
    "text": "אורקם החלה להפיץ את מכשיריה בכמויות מוגבלות באוקטובר 2013, והתרחבה ללקוחות רבים יותר בארה\"ב ב-2015.",
    "source": "src4",
@@ -969,14 +914,6 @@
    "quote": "Using it is quite intuitive, as you just need to point your finger at what you’re looking at and wait a couple of seconds.",
    "status": "confirmed",
    "locator": "שורה 2"
-  },
-  {
-   "id": "c70",
-   "text": "לפי וויקיפדיה, אורקם הציגה את הדור השני, MyEye 2.0, בדצמבר 2017.",
-   "source": "src7",
-   "quote": "OrCam debuted the second-generation model, the OrCam MyEye 2.0 in December 2017.",
-   "status": "confirmed",
-   "locator": "שורה 27"
   },
   {
    "id": "c49",
@@ -1107,14 +1044,6 @@
    "locator": "שורה 45"
   },
   {
-   "id": "c74",
-   "text": "לפי וויקיפדיה, המכשיר אינו מקליט קולות או תמונות.",
-   "source": "src7",
-   "quote": "In addition, it does not record sounds or images",
-   "status": "confirmed",
-   "locator": "שורה 42"
-  },
-  {
    "id": "c24",
    "text": "בכנס של הג'רוזלם פוסט בניו יורק עלה לבמה מנחה רדיו בשם פדרו, שהדגים כיצד המכשיר מקריא לו ספרים.",
    "source": "src1",
@@ -1163,30 +1092,6 @@
    "locator": "שורה 22"
   },
   {
-   "id": "c71",
-   "text": "לפי וויקיפדיה, ב-2016 מחקר של JAMA Ophthalmology בקרב 12 משתתפים עיוורים מבחינה חוקית הראה שהמכשיר שיפר את יכולתם לבצע משימות יומיומיות.",
-   "source": "src7",
-   "quote": "In 2016 JAMA Ophthalmology conducted a study involving 12 legally blind participants to evaluate the usefulness of a portable artificial vision device (OrCam) for patients with low vision.",
-   "status": "confirmed",
-   "locator": "שורה 34"
-  },
-  {
-   "id": "c72",
-   "text": "לפי וויקיפדיה, מחקר ב-Wills Eye הסיק שהמכשיר אפשר לחולי גלאוקומה בשלב מתקדם לקרוא באופן עצמאי ושיפר את איכות חייהם.",
-   "source": "src7",
-   "quote": "allowed legally blind patients with end-stage glaucoma to read independently, subsequently improving their quality of life.",
-   "status": "confirmed",
-   "locator": "שורה 35"
-  },
-  {
-   "id": "c73",
-   "text": "לפי וויקיפדיה, ב-2018 צוות בראשות חבר האסיפה של ניו יורק, דוב הינקינד, הכיר את המכשירים לעשרה אנשים.",
-   "source": "src7",
-   "quote": "In 2018 a team headed by New York Assemblyman Dov Hikind introduced use of OrCam devices to ten individuals",
-   "status": "confirmed",
-   "locator": "שורה 45"
-  },
-  {
    "id": "c65",
    "text": "זיו אבירם אמר שהטכנולוגיה נותנת פתרון לשלוש אוכלוסיות גדולות שמונות יחד יותר ממיליארד אנשים.",
    "source": "src6",
@@ -1233,14 +1138,6 @@
    "quote": "The $3,500 MyEye and the $2,500 MyReader, which has only the reading function, are available for purchase in various countries",
    "status": "confirmed",
    "locator": "שורה 40"
-  },
-  {
-   "id": "c76",
-   "text": "לפי וויקיפדיה, נכון ליולי 2023 מחיר המכשיר הוא בין 4,000 ל-6,000 דולר.",
-   "source": "src7",
-   "quote": "As of July 2023, the retail cost is between $4000 and $6000 (USD).",
-   "status": "confirmed",
-   "locator": "שורה 32"
   },
   {
    "id": "c63",
@@ -1363,20 +1260,84 @@
    "locator": "שורה 17"
   },
   {
-   "id": "c75",
-   "text": "לפי וויקיפדיה, מבקר טכנולוגיה כתב ב-2018 שהיה רוצה שיהיה למכשיר שקע אוזניות.",
-   "source": "src7",
-   "quote": "One 2018 technology reviewer wrote that he wished it had a headphone jack",
-   "status": "confirmed",
-   "locator": "שורה 43"
-  },
-  {
    "id": "c20",
    "text": "לפי שעשוע, המכשיר עדיין רחוק מלהיות גמור וקולות עדיין מועברים בעיכוב, אך החומרה עובדת ונותרו רק כוונונים אחרונים.",
    "source": "src2",
    "quote": "The device is far from complete—voice is still transmitted with delays—but the hardware is working and there are only the final tunings left",
    "status": "confirmed",
    "locator": "שורה 38"
+  },
+  {
+   "id": "c82",
+   "text": "איפה: מטה בירושלים, משרדים בניו יורק, טורונטו ולונדון",
+   "source": "src10",
+   "quote": "Today, OrCam has over 150 employees, is headquartered in Jerusalem, and has offices in New York, Toronto, and London.",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c83",
+   "text": "לאורקם היסטוריה ארוכה של שותפות עם אינטל, שהשקיעה בה.",
+   "source": "src11",
+   "quote": "Intel Capital has invested $15 million into OrCam",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c84",
+   "text": "בדצמבר 2017 הציגה אורקם את הדור השני, MyEye 2.0.",
+   "source": "src12",
+   "quote": "will launch the next generation OrCam MyEye 2.0 assistive technology device",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c85",
+   "text": "בדצמבר 2017 הציגה אורקם את הדור השני, MyEye 2.0.",
+   "source": "src12",
+   "quote": "NEW YORK, Dec. 6, 2017 /PRNewswire/",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c86",
+   "text": "מחקר של JAMA Ophthalmology מ-2016 בקרב 12 משתתפים עיוורים מבחינה חוקית הראה שהמכשיר שיפר את יכולתם לבצע משימות המדמות פעולות יומיומיות, כמו קריאת הודעה במכשיר אלקטרוני, כתבה בעיתון או תפריט.",
+   "source": "src13",
+   "quote": "In a small study that included 12 legally blind participants",
+   "status": "confirmed",
+   "locator": "שורה 1"
+  },
+  {
+   "id": "c87",
+   "text": "מחקר של JAMA Ophthalmology מ-2016 בקרב 12 משתתפים עיוורים מבחינה חוקית הראה שהמכשיר שיפר את יכולתם לבצע משימות המדמות פעולות יומיומיות, כמו קריאת הודעה במכשיר אלקטרוני, כתבה בעיתון או תפריט.",
+   "source": "src13",
+   "quote": "such as reading a message on an electronic device, a newspaper article or a menu",
+   "status": "confirmed",
+   "locator": "שורה 1"
+  },
+  {
+   "id": "c89",
+   "text": "אורקם היא סטארט-אפ מירושלים, ויש לה משרדים בניו יורק, בטורונטו ובלונדון.",
+   "source": "src10",
+   "quote": "Today, OrCam has over 150 employees, is headquartered in Jerusalem, and has offices in New York, Toronto, and London.",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c90",
+   "text": "עובדים בה יותר מ-150 איש.",
+   "source": "src10",
+   "quote": "Today, OrCam has over 150 employees, is headquartered in Jerusalem, and has offices in New York, Toronto, and London.",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c91",
+   "text": "15 מיליון דולר עד 2014",
+   "source": "src11",
+   "quote": "Intel Capital has invested $15 million into OrCam",
+   "status": "confirmed",
+   "locator": "שורה 4"
   }
  ],
  "sources": [
@@ -1417,12 +1378,6 @@
    "kind": "press"
   },
   {
-   "id": "src7",
-   "label": "Wikipedia",
-   "url": "https://en.wikipedia.org/wiki/OrCam_device",
-   "kind": "reference"
-  },
-  {
    "id": "src8",
    "label": "TechCrunch, 12.7.2017",
    "url": "https://techcrunch.com/2017/07/12/the-orcam-myeye-helps-visually-impaired-people-read-and-identify-things",
@@ -1433,6 +1388,30 @@
    "label": "OrCam, product page",
    "url": "https://orcam.com/en-ca/orcam-myeye",
    "kind": "organisation"
+  },
+  {
+   "id": "src10",
+   "label": "Times of Israel Blogs: Start-up Nation OrCam",
+   "url": "https://blogs.timesofisrael.com/start-up-nation-orcam/",
+   "kind": "press"
+  },
+  {
+   "id": "src11",
+   "label": "ISRAEL21c: Intel Capital invests $15 million into OrCam",
+   "url": "https://archive.israel21c.org/intel-capital-invests-15-million-into-orcam-report/",
+   "kind": "press"
+  },
+  {
+   "id": "src12",
+   "label": "OrCam Technologies press release (PRNewswire, via BioSpace): OrCam to Launch Next Generation of Artificial Vision",
+   "url": "https://www.biospace.com/orcam-to-launch-next-generation-of-artificial-vision",
+   "kind": "press"
+  },
+  {
+   "id": "src13",
+   "label": "EurekAlert! (JAMA Network press release, May 5, 2016): portable artificial vision device may be an effective aid for patients with low vision",
+   "url": "https://www.eurekalert.org/news-releases/586635",
+   "kind": "press"
   }
  ],
  "media": [
@@ -1653,7 +1632,7 @@
   "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
   "checked_at": "2026-11-14T02:05:25Z",
   "counts": {
-   "confirmed": 92,
+   "confirmed": 86,
    "not_confirmed": 0,
    "deleted_sentences": 9,
    "first_round_confirmed": 93,
@@ -1674,11 +1653,18 @@
    "fix": "opus-5-5 medium"
   },
   "source_quality": {
-   "sources": 9,
-   "wikipedia": 1,
+   "sources": 12,
+   "wikipedia": 0,
    "strong": 7,
    "ok": true,
    "warnings": []
+  },
+  "wiki_cleanup": {
+   "at": "2026-11-27T14:10:03Z",
+   "targets": 13,
+   "resourced": 7,
+   "kept_on_other_sources": 0,
+   "deleted": 6
   }
  },
  "lang": "en",
@@ -1686,11 +1672,11 @@
   "from": "he",
   "translator": "claude-opus-5-5",
   "checker": "claude-opus-5-5 (separate call, blind to the translation prompt)",
-  "checked_at": "2026-11-21T04:28:09Z",
+  "checked_at": "2026-11-27T14:10:15Z",
   "passed": true,
-  "items": 131,
-  "pairs_checked": 8,
-  "reused": 123,
+  "items": 123,
+  "pairs_checked": 4,
+  "reused": 119,
   "first_round_flagged": 0,
   "still_flagged": 0,
   "flagged": [],

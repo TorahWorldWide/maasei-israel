@@ -9,7 +9,8 @@
   {
    "text": "Béla Schick, a Hungarian-born American pediatrician, is the man after whom the Schick test for diphtheria is named.",
    "claims": [
-    "c11"
+    "c65",
+    "c66"
    ]
   },
   {
@@ -59,7 +60,7 @@
    "label": "Inventor",
    "value": "Béla Schick, a Hungarian-born pediatrician",
    "claims": [
-    "c11"
+    "c67"
    ]
   },
   {
@@ -269,9 +270,10 @@
       ]
      },
      {
-      "text": "According to Wikipedia, a heat-inactivated toxin is injected into the other arm as a control.",
+      "text": "A heat-inactivated toxin is injected into the second arm as a control.",
       "claims": [
-       "c18"
+       "c68",
+       "c69"
       ]
      }
     ],
@@ -410,12 +412,6 @@
       "text": "By the 1970s, the number of cases in the United States had fallen to about 10 a year.",
       "claims": [
        "c26"
-      ]
-     },
-     {
-      "text": "When newer and safer toxoids appeared, susceptibility tests were no longer needed.",
-      "claims": [
-       "c32"
       ]
      }
     ]
@@ -689,14 +685,6 @@
  ],
  "claims": [
   {
-   "id": "c11",
-   "text": "בדיקת שיק נקראת על שם מי שהמציא אותה, בלה שיק, רופא ילדים אמריקאי יליד הונגריה.",
-   "source": "src1",
-   "quote": "It was named after its inventor, Béla Schick (1877–1967), a Hungarian-born American pediatrician.",
-   "status": "confirmed",
-   "locator": "שורה 6"
-  },
-  {
    "id": "c10",
    "text": "לפי ג'ושוע סינגר ב-Jewish Press, תיאורים ביוגרפיים מדגישים ששיק גדל במשפחה יהודית ושיהדותו עיצבה את שפתו המוסרית מגיל צעיר.",
    "source": "src2",
@@ -881,14 +869,6 @@
    "locator": "שורה 26"
   },
   {
-   "id": "c18",
-   "text": "לפי ויקיפדיה, בבדיקה מוזרק רעלן דיפתריה מדולל לזרוע אחת ורעלן מומת בחום לזרוע השנייה כביקורת.",
-   "source": "src1",
-   "quote": "A small amount (0.1 ml) of diluted (1/50 MLD) diphtheria toxin is injected intradermally into one arm of the person and a heat inactivated toxin on the other as a control.",
-   "status": "confirmed",
-   "locator": "שורה 8"
-  },
-  {
    "id": "c16",
    "text": "אם המטופל רגיש לדיפתריה, יופיע תוך כמה ימים פריחה אדומה ונפוחה סביב מקום ההזרקה.",
    "source": "src4",
@@ -991,14 +971,6 @@
    "quote": "By the 1970’s, the number of diphtheria cases in the United States had dropped to roughly 10 per year.",
    "status": "confirmed",
    "locator": "שורה 30"
-  },
-  {
-   "id": "c32",
-   "text": "כשהופיעו טוקסואידים חדשים ובטוחים יותר, בדיקות רגישות כבר לא נדרשו.",
-   "source": "src1",
-   "quote": "as newer and safer toxoids became available, susceptibility tests were no longer required.",
-   "status": "confirmed",
-   "locator": "שורה 14"
   },
   {
    "id": "c35",
@@ -1199,15 +1171,49 @@
    "quote": "the record of his ritual practice – as, for example, his synagogue membership, kashrut observance, and private piety – is less fully documented",
    "status": "confirmed",
    "locator": "שורה 21"
+  },
+  {
+   "id": "c65",
+   "text": "בלה שיק, רופא ילדים אמריקאי יליד הונגריה, הוא האיש שעל שמו נקראת בדיקת שיק לדיפתריה.",
+   "source": "src11",
+   "quote": "The test was developed by Bela Schick (1877-1967), a Hungarian pediatrician",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c66",
+   "text": "בלה שיק, רופא ילדים אמריקאי יליד הונגריה, הוא האיש שעל שמו נקראת בדיקת שיק לדיפתריה.",
+   "source": "src12",
+   "quote": "Schick was born on July 16, 1877 in Boglar, Hungary",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c67",
+   "text": "ממציא: בלה שיק, רופא ילדים יליד הונגריה",
+   "source": "src4",
+   "quote": "In 1908, Béla Schick, a pediatrician and microbiologist from Boglár, Hungary,",
+   "status": "confirmed",
+   "locator": "שורה 26"
+  },
+  {
+   "id": "c68",
+   "text": "לזרוע השנייה מוזרק רעלן מומת בחום, כביקורת.",
+   "source": "src13",
+   "quote": "This consists of diphtheria toxin which has been heated to destroy its activity.",
+   "status": "confirmed",
+   "locator": "שורה 17"
+  },
+  {
+   "id": "c69",
+   "text": "לזרוע השנייה מוזרק רעלן מומת בחום, כביקורת.",
+   "source": "src13",
+   "quote": "A control injection is given at the same time into the skin of the right arm.",
+   "status": "confirmed",
+   "locator": "שורה 17"
   }
  ],
  "sources": [
-  {
-   "id": "src1",
-   "label": "Wikipedia, Schick test",
-   "url": "https://en.wikipedia.org/wiki/Schick_test",
-   "kind": "reference"
-  },
   {
    "id": "src2",
    "label": "Jewish Press, Saul Jay Singer, On Béla Schick's Jewishness and His Medical and Social Contribution",
@@ -1261,6 +1267,24 @@
    "label": "JTA, Dr. Schick, discoverer of test for diphtheria, honored in New York",
    "url": "https://www.jta.org/archive/dr-schick-discoverer-of-test-for-diphtheria-honored-in-new-york",
    "kind": "press"
+  },
+  {
+   "id": "src11",
+   "label": "Encyclopedia.com: Schick Test",
+   "url": "https://www.encyclopedia.com/medicine/medical-journals/schick-test",
+   "kind": "reference"
+  },
+  {
+   "id": "src12",
+   "label": "Encyclopedia.com: Schick Test",
+   "url": "https://www.encyclopedia.com/people/medicine/medicine-biographies/bela-schick",
+   "kind": "reference"
+  },
+  {
+   "id": "src13",
+   "label": "Wellcome Library, London's Pulse: Medical Officer of Health report",
+   "url": "https://wellcomelibrary.org/moh/report/b18220332/33",
+   "kind": "official"
   }
  ],
  "media": [
@@ -1274,9 +1298,7 @@
    "licence": "CC BY-SA 4.0",
    "hosting": "hotlink",
    "caption": "Black-and-white portrait of Béla Schick, an older man in a suit and tie.",
-   "illustrates": [
-    "c11"
-   ],
+   "illustrates": [],
    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
    "date": "1940-01-01",
    "width": 2361,
@@ -1746,7 +1768,7 @@
   "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
   "checked_at": "2026-11-21T00:12:11Z",
   "counts": {
-   "confirmed": 81,
+   "confirmed": 80,
    "not_confirmed": 0,
    "deleted_sentences": 1,
    "first_round_confirmed": 79,
@@ -1767,11 +1789,18 @@
    "fix": "opus-5-5 medium"
   },
   "source_quality": {
-   "sources": 10,
-   "wikipedia": 1,
+   "sources": 12,
+   "wikipedia": 0,
    "strong": 6,
    "ok": true,
    "warnings": []
+  },
+  "wiki_cleanup": {
+   "at": "2026-11-27T14:13:33Z",
+   "targets": 4,
+   "resourced": 3,
+   "kept_on_other_sources": 0,
+   "deleted": 1
   }
  },
  "lang": "en",
@@ -1779,11 +1808,11 @@
   "from": "he",
   "translator": "claude-opus-5-5",
   "checker": "claude-opus-5-5 (separate call, blind to the translation prompt)",
-  "checked_at": "2026-11-21T06:04:12Z",
+  "checked_at": "2026-11-27T14:13:43Z",
   "passed": true,
-  "items": 128,
-  "pairs_checked": 4,
-  "reused": 124,
+  "items": 127,
+  "pairs_checked": 1,
+  "reused": 126,
   "first_round_flagged": 0,
   "still_flagged": 0,
   "flagged": [],

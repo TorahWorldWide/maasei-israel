@@ -7,13 +7,6 @@
  "title": "אהוד שפירא וצוותו במכון ויצמן בנו מחשב זעיר מ-DNA שזיהה במבחנה סימני סרטן",
  "trailer": [
   {
-   "text": "אהוד שפירא הוא מדען, יזם, אמן ופעיל פוליטי ישראלי, שנולד בירושלים ב-1955.",
-   "claims": [
-    "c60",
-    "c61"
-   ]
-  },
-  {
    "text": "הוא וחוקרים ממכון ויצמן הישראלי בנו את המחשב הביו-מולקולרי הקטן בעולם, שהקלט, הפלט והתוכנה שלו עשויים ממולקולות DNA.",
    "claims": [
     "c21",
@@ -89,8 +82,8 @@
    "value": "שיא גינס, Scientific American 50",
    "claims": [
     "c12",
-    "c63",
-    "c65"
+    "c70",
+    "c71"
    ]
   }
  ],
@@ -116,9 +109,10 @@
     ],
     [
      {
-      "text": "לפי ויקיפדיה, שפירא היה טירון בביולוגיה כשמימש תכנון ראשון למחשב מולקולרי, כהתקן מכני דמוי לגו. התכנון נרשם כפטנט עם שובו למכון ויצמן ב-1998.",
+      "text": "שפירא היה טירון בביולוגיה כשמימש תכנון ראשון למחשב מולקולרי, כהתקן מכני דמוי לגו. התכנון נרשם כפטנט עם שובו למכון ויצמן ב-1998.",
       "claims": [
-       "c62"
+       "c72",
+       "c73"
       ]
      }
     ],
@@ -446,9 +440,10 @@
       ]
      },
      {
-      "text": "לפי ויקיפדיה, במחקר המשך יצרו בננסון וצוותו מחשב מולקולרי שמרפא סוג מסוים של סרטן בעכברים.",
+      "text": "במחקר המשך יצרו בננסון וצוותו מחשב מולקולרי שמרפא סוג מסוים של סרטן בעכברים.",
       "claims": [
-       "c66"
+       "c74",
+       "c75"
       ]
      }
     ]
@@ -581,22 +576,6 @@
  "unknowns": [],
  "claims": [
   {
-   "id": "c60",
-   "text": "אהוד שפירא הוא מדען, יזם, אמן ופעיל פוליטי ישראלי.",
-   "source": "src1",
-   "quote": "Ehud Shapiro (Hebrew: אהוד שפירא; born 1955) is an Israeli scientist, entrepreneur, artist, and political activist",
-   "status": "confirmed",
-   "locator": "שורה 16"
-  },
-  {
-   "id": "c61",
-   "text": "שפירא נולד בירושלים ב-1955.",
-   "source": "src1",
-   "quote": "Born in Jerusalem in 1955, Shapiro became acquainted with the philosophy of science of Karl Popper through a high-school project",
-   "status": "confirmed",
-   "locator": "שורה 35"
-  },
-  {
    "id": "c21",
    "text": "פרופ' אהוד שפירא וחוקרים ממכון ויצמן הישראלי בנו לפני כמה שנים את המחשב הביו-מולקולרי הקטן בעולם.",
    "source": "src2",
@@ -685,22 +664,6 @@
    "locator": "שורה 4"
   },
   {
-   "id": "c63",
-   "text": "לפי ויקיפדיה, המחשב המולקולרי הוכר ב-2003 כשיא גינס כהתקן החישוב המולקולרי הקטן ביותר.",
-   "source": "src1",
-   "quote": "The molecular computer was also recognized in 2003 as a Guinness World Record for the smallest molecular computing device.",
-   "status": "confirmed",
-   "locator": "שורה 58"
-  },
-  {
-   "id": "c65",
-   "text": "שפירא נבחר ל-Scientific American 50 של 2004 כמנהיג מחקר בננוטכנולוגיה.",
-   "source": "src1",
-   "quote": "The 2004 Scientific American 50 Award: Research Leaders",
-   "status": "confirmed",
-   "locator": "שורה 131"
-  },
-  {
    "id": "c32",
    "text": "לפני עשור הדגים המדען ליאונרד אדלמן את החישוב הראשון מבוסס ה-DNA, והפתיע את העולם.",
    "source": "src5",
@@ -715,14 +678,6 @@
    "quote": "While his first calculation was a only a proof of principle - a simple task performed with an inordinate amount of benchwork",
    "status": "confirmed",
    "locator": "שורה 3"
-  },
-  {
-   "id": "c62",
-   "text": "לפי ויקיפדיה, שפירא היה טירון בביולוגיה, מימש תכנון ראשון למחשב מולקולרי כהתקן מכני דמוי לגו שנרשם כפטנט עם שובו לוויצמן ב-1998.",
-   "source": "src1",
-   "quote": "Being a novice to biology, Shapiro realized his first design for a molecular computer as a LEGO-like mechanical device built using 3D stereolithography, which was patented upon his return to Weizmann in 1998.",
-   "status": "confirmed",
-   "locator": "שורה 39"
   },
   {
    "id": "c4",
@@ -1005,14 +960,6 @@
    "locator": "שורה 99"
   },
   {
-   "id": "c66",
-   "text": "לפי ויקיפדיה, בהמשך המחקר בנבנישתי וצוותו יצרו מחשב מולקולרי שמרפא סוג מסוים של סרטן בעכברים.",
-   "source": "src1",
-   "quote": "In follow-up research, Benenson and his team have produced a molecular computer that cures a certain type of cancer in mice",
-   "status": "confirmed",
-   "locator": "שורה 61"
-  },
-  {
    "id": "c15",
    "text": "מחקרו של שפירא נתמך, בין השאר, על ידי מכון מורוס לחקר הסרטן וקרן סמואל ר. דוויק.",
    "source": "src4",
@@ -1075,15 +1022,57 @@
    "quote": "20 February 2003",
    "status": "confirmed",
    "locator": "שורה 16"
+  },
+  {
+   "id": "c70",
+   "text": "הכרה: שיא גינס, Scientific American 50",
+   "source": "src7",
+   "quote": "A team of scientists led by Ehud Shapiro of the Weizmann Istitute of Science",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c71",
+   "text": "הכרה: שיא גינס, Scientific American 50",
+   "source": "src10",
+   "quote": "Ehud Shapiro's research group is known for having developed the world's smallest biological computing device",
+   "status": "confirmed",
+   "locator": "שורה 27"
+  },
+  {
+   "id": "c72",
+   "text": "שפירא היה טירון בביולוגיה כשמימש תכנון ראשון למחשב מולקולרי, כהתקן מכני דמוי לגו. התכנון נרשם כפטנט עם שובו למכון ויצמן ב-1998.",
+   "source": "src11",
+   "quote": "Shapiro realized his first design for a molecular computer as a LEGO-like mechanical device",
+   "status": "confirmed",
+   "locator": "שורה 42"
+  },
+  {
+   "id": "c73",
+   "text": "שפירא היה טירון בביולוגיה כשמימש תכנון ראשון למחשב מולקולרי, כהתקן מכני דמוי לגו. התכנון נרשם כפטנט עם שובו למכון ויצמן ב-1998.",
+   "source": "src11",
+   "quote": "which was patented upon his return to Weizmann in 1998.",
+   "status": "confirmed",
+   "locator": "שורה 42"
+  },
+  {
+   "id": "c74",
+   "text": "במחקר המשך יצרו בננסון וצוותו מחשב מולקולרי שמרפא סוג מסוים של סרטן בעכברים.",
+   "source": "src12",
+   "quote": "Once the team had designed the biomolecular computer, they tested it on mice with liver cancer.",
+   "status": "confirmed",
+   "locator": "שורה 19"
+  },
+  {
+   "id": "c75",
+   "text": "במחקר המשך יצרו בננסון וצוותו מחשב מולקולרי שמרפא סוג מסוים של סרטן בעכברים.",
+   "source": "src12",
+   "quote": "the mice who received the full computer both saw their tumors disappear and were spared from the toxicity.",
+   "status": "confirmed",
+   "locator": "שורה 19"
   }
  ],
  "sources": [
-  {
-   "id": "src1",
-   "label": "Wikipedia, Ehud Shapiro",
-   "url": "https://en.wikipedia.org/wiki/Ehud_Shapiro",
-   "kind": "reference"
-  },
   {
    "id": "src2",
    "label": "Al Jazeera, 2.5.2004",
@@ -1131,6 +1120,24 @@
    "label": "מכון ויצמן, הרצאה פופולרית של שפירא, 16.2.2011",
    "url": "https://www.weizmann.ac.il/popular_lectures/sites/popular_lectures/files/16.2.11_hvd_shpyr_.pdf",
    "kind": "organisation"
+  },
+  {
+   "id": "src10",
+   "label": "Guinness World Records: Smallest biological computing device",
+   "url": "http://www.scientificamerican.com/article/the-2004-scientific-american-50-award-research-leaders-2004-11-11/",
+   "kind": "organisation"
+  },
+  {
+   "id": "src11",
+   "label": "Bach Cantatas Website: Ehud Shapiro (Bass) - Short Biography",
+   "url": "https://bach-cantatas.com/Bio/Shapiro-Ehud.htm",
+   "kind": "reference"
+  },
+  {
+   "id": "src12",
+   "label": "STAT: Biological computer targets cancer, spares healthy cells",
+   "url": "https://www.statnews.com/2021/12/22/biological-computer-target-cancer-spare-healthy-cells/",
+   "kind": "press"
   }
  ],
  "media": [
@@ -1176,9 +1183,7 @@
    "licence": "CC BY 3.0",
    "hosting": "hotlink",
    "caption": "דיוקן של פרופ' אהוד שפירא על רקע כתום.",
-   "illustrates": [
-    "c60"
-   ],
+   "illustrates": [],
    "licence_url": "https://creativecommons.org/licenses/by/3.0",
    "date": "Unknown da",
    "width": 904,
@@ -1348,7 +1353,7 @@
   "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
   "checked_at": "2026-11-21T09:33:40Z",
   "counts": {
-   "confirmed": 69,
+   "confirmed": 67,
    "not_confirmed": 0,
    "deleted_sentences": 4,
    "first_round_confirmed": 68,
@@ -1369,8 +1374,8 @@
    "fix": "opus-5-5 medium"
   },
   "source_quality": {
-   "sources": 9,
-   "wikipedia": 1,
+   "sources": 11,
+   "wikipedia": 0,
    "strong": 6,
    "ok": true,
    "warnings": []
@@ -1382,6 +1387,13 @@
     "url": "https://www.guinnessworldrecords.com/world-records/smallest-biological-computing-device",
     "by": "settle 24.11"
    }
-  ]
+  ],
+  "wiki_cleanup": {
+   "at": "2026-11-27T14:28:20Z",
+   "targets": 4,
+   "resourced": 3,
+   "kept_on_other_sources": 0,
+   "deleted": 1
+  }
  }
 }

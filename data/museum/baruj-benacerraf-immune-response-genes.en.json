@@ -1,1548 +1,1534 @@
 {
-  "schema": "maasei-museum/1",
-  "slug": "baruj-benacerraf-immune-response-genes",
-  "deed": "ברוך בנאסראף גילה את הגנים המאפשרים למערכת החיסון להבחין בין עצמי לזר",
-  "canonical_type": "scientific-discovery",
-  "year": "1948",
-  "title": "Baruj Benacerraf discovered the genes that help the immune system distinguish between self and non-self",
-  "trailer": [
-    {
-      "text": "Baruj Benacerraf, a Venezuelan-born American pathologist and immunologist of Spanish-Jewish ancestry, won the Nobel Prize in Physiology or Medicine in 1980.",
-      "claims": [
-        "c1",
-        "c2",
-        "c26"
-      ]
-    },
-    {
-      "text": "According to the JCI, he observed that some guinea pigs responded to antigens and some did not.",
-      "claims": [
-        "c20"
-      ]
-    },
-    {
-      "text": "According to him, he determined that the response is controlled by genes termed immune response (Ir) genes.",
-      "claims": [
-        "c17"
-      ]
-    },
-    {
-      "text": "According to the JCI, he and his colleagues showed that these genes are linked to the MHC, which according to Wikipedia is important for the immune system's distinction between self and non-self.",
-      "claims": [
-        "c22",
-        "c27"
-      ]
-    },
-    {
-      "text": "According to Britannica, his findings helped elucidate the mechanisms underlying autoimmune diseases such as multiple sclerosis.",
-      "claims": [
-        "c30"
-      ]
-    }
-  ],
-  "hero_media": [
-    "m1",
-    "m8",
-    "m11",
-    "m12",
-    "m13",
-    "m17",
-    "m20",
-    "m25"
-  ],
-  "glance": [
-    {
-      "label": "Born",
-      "value": "Caracas, 1920",
-      "claims": [
-        "c1"
-      ]
-    },
-    {
-      "label": "Ancestry",
-      "value": "Spanish-Jewish",
-      "claims": [
-        "c2"
-      ]
-    },
-    {
-      "label": "The discovery",
-      "value": "Immune response (Ir) genes",
-      "claims": [
-        "c17"
-      ]
-    },
-    {
-      "label": "Recognition",
-      "value": "Nobel Prize in Medicine, 1980",
-      "claims": [
-        "c26"
-      ]
-    },
-    {
-      "label": "Students",
-      "value": "Over 80 researchers, according to the JCI",
-      "claims": [
-        "c40"
-      ]
-    }
-  ],
-  "stations": [
-    {
-      "id": "s1",
-      "title": "A child from Caracas",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "Benacerraf was born in Caracas on October 29, 1920.",
-            "claims": [
-              "c1"
-            ]
-          },
-          {
-            "text": "He wrote in his autobiography that he was of Spanish-Jewish ancestry.",
-            "claims": [
-              "c2"
-            ]
-          },
-          {
-            "text": "According to the Jewish Journal, in 1925 he moved with his family to Paris.",
-            "claims": [
-              "c3"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "As a child he suffered from asthma.",
-            "claims": [
-              "c11"
-            ]
-          },
-          {
-            "text": "According to him, this gave rise to a deep curiosity about allergic phenomena, and from it his interest in immunology.",
-            "claims": [
-              "c11"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "He later came to the United States; the sources disagree on the year.",
-            "claims": [
-              "c49",
-              "c50"
-            ]
-          },
-          {
-            "text": "According to Dana-Farber, because of their Jewish heritage his family fled Europe and joined him in New York.",
-            "claims": [
-              "c54"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m1"
-      ],
-      "disagreements": [
-        "d1"
-      ]
-    },
-    {
-      "id": "s2",
-      "title": "Closed doors",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "Benacerraf wrote that he did not realize how difficult it was in 1942 for someone with an ethnic and foreign background like his to be admitted to a medical school in the United States.",
-            "claims": [
-              "c6"
-            ]
-          },
-          {
-            "text": "According to him, despite an excellent academic record at Columbia, many medical schools rejected him.",
-            "claims": [
-              "c7"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to the Harvard Gazette, he described in his autobiography the quotas on Jews and the hostility toward foreigners, and his rejection by 25 medical schools, including Harvard.",
-            "claims": [
-              "c8"
-            ]
-          },
-          {
-            "text": "According to the Jewish Journal, he later taught at two of the schools that had rejected him.",
-            "claims": [
-              "c9"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "He wrote that without the kindness and support of George Bakeman, the father of a close friend, he could not have studied medicine.",
-            "claims": [
-              "c10"
-            ]
-          }
-        ]
-      ],
-      "media": [],
-      "disagreements": []
-    },
-    {
-      "id": "s3",
-      "title": "The first laboratory",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "In February 1948 Benacerraf began his research career in the laboratory of Elvin Kabat, who had offered him a fellowship.",
-            "claims": [
-              "c12"
-            ]
-          },
-          {
-            "text": "According to him, after six years in Paris he realized that as a foreigner in France he would have difficulty developing a scientific career and establishing an independent laboratory.",
-            "claims": [
-              "c13"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "Lewis Thomas offered him a position as Assistant Professor of Pathology at New York University School of Medicine, and Benacerraf thanked him for it.",
-            "claims": [
-              "c14"
-            ]
-          },
-          {
-            "text": "He wrote that he decided to devote himself solely to the laboratory and his students and to curtail his business activities.",
-            "claims": [
-              "c15"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m18"
-      ],
-      "disagreements": []
-    },
-    {
-      "id": "s4",
-      "title": "Responders and nonresponders",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "According to the Nobel website, Snell and Dausset had previously shown that genes that govern the rejection of foreign cells are located in similar areas in mice and in humans.",
-            "claims": [
-              "c19"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "Benacerraf wrote that random bred animals immunized with antigens of restricted heterogeneity divided into two groups: responders and nonresponders.",
-            "claims": [
-              "c16"
-            ]
-          },
-          {
-            "text": "According to the JCI, these were guinea pigs, and through breeding experiments Benacerraf showed that the ability to respond to an antigen is determined by an autosomal dominant genetic locus.",
-            "claims": [
-              "c20",
-              "c21"
-            ]
-          },
-          {
-            "text": "According to him, these genes were termed immune response (Ir) genes.",
-            "claims": [
-              "c17"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to the AAI, the studies were originally done in guinea pigs with Fred Kantor, Bernie Levine, Ira Green and Bill Paul.",
-            "claims": [
-              "c24"
-            ]
-          },
-          {
-            "text": "According to the AAI, Hugh McDevitt extended the studies in mice and found that the genes mapped to the MHC.",
-            "claims": [
-              "c25"
-            ]
-          },
-          {
-            "text": "According to the JCI, Benacerraf and his colleagues showed that Ir genes are linked to the MHC and indeed code for MHC molecules.",
-            "claims": [
-              "c22"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m4",
-        "m5",
-        "m6"
-      ],
-      "disagreements": []
-    },
-    {
-      "id": "s5",
-      "title": "What it opened up",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "According to Britannica, more than 30 Ir genes were subsequently found, and this genetic material is part of the major histocompatibility complex.",
-            "claims": [
-              "c29"
-            ]
-          },
-          {
-            "text": "The Nobel committee noted that the MHC genes are a self-identification system that allows the immune system not to harm the body's own cells.",
-            "claims": [
-              "c28"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to the Jewish Journal, his work explained why some people defend themselves better against infection and some are at greater risk of autoimmune diseases.",
-            "claims": [
-              "c31"
-            ]
-          },
-          {
-            "text": "According to the same obituary, the work was also extended to organ transplants and to explaining why the body sometimes rejects a foreign organ.",
-            "claims": [
-              "c32"
-            ]
-          },
-          {
-            "text": "According to the BMJ, he explained why some people are better at fighting infections and tumours.",
-            "claims": [
-              "c35"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to Edward Benz, president of Dana-Farber, his discoveries made possible much of what is known today about infection, autoimmune diseases and cancer.",
-            "claims": [
-              "c33"
-            ]
-          },
-          {
-            "text": "According to him, the work shaped fields from organ transplantation to AIDS treatment and therapeutic cancer vaccines.",
-            "claims": [
-              "c34"
-            ]
-          }
-        ]
-      ],
-      "media": [],
-      "disagreements": []
-    },
-    {
-      "id": "s6",
-      "title": "From Bethesda to Harvard",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "Benacerraf wrote that in 1968 he moved to Bethesda to direct the Laboratory of Immunology of the National Institute of Allergy and Infectious Disease.",
-            "claims": [
-              "c36"
-            ]
-          },
-          {
-            "text": "In 1970 Dean Robert Ebert offered him the Chair of Pathology at Harvard Medical School.",
-            "claims": [
-              "c37"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to him, at Harvard they showed that alloreactivity arises because T cells need to recognize antigen in the context of autologous MHC gene products.",
-            "claims": [
-              "c38"
-            ]
-          },
-          {
-            "text": "According to the JCI, not long after his arrival he founded a graduate program in immunology there, the oldest degree-conferring program at the school.",
-            "claims": [
-              "c39"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m21",
-        "m22",
-        "m23",
-        "m24"
-      ],
-      "disagreements": []
-    },
-    {
-      "id": "s7",
-      "title": "The Nobel Prize",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "The Nobel Prize in Physiology or Medicine 1980 was awarded jointly to Benacerraf, Jean Dausset and George Snell.",
-            "claims": [
-              "c26"
-            ]
-          },
-          {
-            "text": "The prize was given for discoveries concerning genetically determined structures on the cell surface that regulate immune reactions.",
-            "claims": [
-              "c26"
-            ]
-          },
-          {
-            "text": "According to the JTA, the prize money, $211,000, was shared among the three laureates.",
-            "claims": [
-              "c52"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "A JTA report states that Benacerraf is the first Sephardic Jew to win a Nobel Prize, and in the same report the claim is attributed to Benacerraf himself, who said that this is so as far as he knows.",
-            "claims": [
-              "c5"
-            ]
-          },
-          {
-            "text": "According to JCI, George Snell reportedly said that only a handful of scientists understood this work, and even fewer appreciated its revolutionary nature.",
-            "claims": [
-              "c23"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to Britannica, Benacerraf was elected to the National Academy of Sciences in 1973 and was awarded the National Medal of Science in 1990.",
-            "claims": [
-              "c51"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m3",
-        "m7"
-      ],
-      "disagreements": []
-    },
-    {
-      "id": "s8",
-      "title": "Dana-Farber and people",
-      "kind": "story",
-      "paragraphs": [
-        [
-          {
-            "text": "According to the Jewish Journal, in 1980 he took over the Sidney Farber Institute “at a time of administrative turmoil” and brought it back to prominence.",
-            "claims": [
-              "c41"
-            ]
-          },
-          {
-            "text": "According to David Nathan, the institution was greatly strengthened as a result.",
-            "claims": [
-              "c42"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to the AAI, Benacerraf donated all of his Nobel Prize money to initiate a fund-raising campaign for Dana-Farber.",
-            "claims": [
-              "c44"
-            ]
-          },
-          {
-            "text": "According to Dana-Farber, donations increased greatly during his presidency, making it possible to fill the new buildings with equipment and with scientific and medical staff.",
-            "claims": [
-              "c45"
-            ]
-          },
-          {
-            "text": "The sources disagree on when he stepped down from the presidency.",
-            "claims": [
-              "c46",
-              "c47",
-              "c48"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to Dana-Farber, the Benacerraf Fellowship was established in 1991 to mark 10 years of his presidency, and in 2008 a donor group was created in his name.",
-            "claims": [
-              "c57",
-              "c58"
-            ]
-          },
-          {
-            "text": "According to a 1980 JTA report, Benacerraf had by then already been a member of the Board of Governors of the Weizmann Institute in Rehovot, Israel, for six years.",
-            "claims": [
-              "c4"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to the JCI, beginning in 1956 and for thirty years, Benacerraf trained over 80 postdoctoral fellows and graduate students.",
-            "claims": [
-              "c40"
-            ]
-          },
-          {
-            "text": "According to the AAI, those who did not know him well could see him as an aloof figure, with an old “European formality”.",
-            "claims": [
-              "c55"
-            ]
-          },
-          {
-            "text": "According to David Nathan, he demanded total loyalty in return for his support and advice.",
-            "claims": [
-              "c56"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "Benacerraf died in Boston on August 2, 2011.",
-            "claims": [
-              "c1"
-            ]
-          }
-        ],
-        [
-          {
-            "text": "According to the Dana-Farber Cancer Institute, Benacerraf served as president of the institute from 1980 to 1992.",
-            "claims": [
-              "c59"
-            ]
-          }
-        ]
-      ],
-      "media": [
-        "m1",
-        "m9",
-        "m14",
-        "m15",
-        "m16"
-      ],
-      "disagreements": []
-    }
-  ],
-  "disagreements": [
-    {
-      "id": "d1",
-      "question": "In what year did Benacerraf come to the United States?",
-      "versions": [
-        {
-          "says": "According to the AAI, in 1940",
-          "claims": [
-            "c49"
-          ]
-        },
-        {
-          "says": "According to the Harvard Gazette, in 1939",
-          "claims": [
-            "c50"
-          ]
-        }
-      ]
-    }
-  ],
-  "unknowns": [
-    {
-      "text": "Despite an excellent academic record at Columbia, Benacerraf was rejected by many medical schools, and thanks to the support of George Bakeman, the father of a close friend, he was admitted and studied medicine at the Medical College of Virginia in Richmond ‹c7›.",
-      "claims": [
-        "c10"
-      ]
-    }
-  ],
-  "claims": [
-    {
-      "id": "c1",
-      "text": "בנאסראף נולד ב-29 באוקטובר 1920 בקראקס, ונפטר ב-2 באוגוסט 2011 בבוסטון; לפי בריטניקה הוא פתולוג ואימונולוג אמריקני יליד ונצואלה.",
-      "source": "src1",
-      "quote": "Baruj Benacerraf, (born October 29, 1920, Caracas, Venezuela—died August 2, 2011, Boston, Massachusetts, U.S.), Venezuelan-born American pathologist and immunologist",
-      "status": "confirmed",
-      "locator": "שורה 18"
-    },
-    {
-      "id": "c2",
-      "text": "בנאסראף סיפר באוטוביוגרפיה שנולד בקראקס ב-29 באוקטובר 1920 למוצא יהודי-ספרדי.",
-      "source": "src2",
-      "quote": "I was born in Caracas, Venezuela, on October 29, 1920 of Spanish-Jewish ancestry.",
-      "status": "confirmed",
-      "locator": "שורה 1"
-    },
-    {
-      "id": "c26",
-      "text": "פרס נובל לפיזיולוגיה או לרפואה 1980 הוענק במשותף לבנאסראף, ז'אן דוסה וג'ורג' סנל על תגליות בנוגע למבנים שנקבעים גנטית על פני התא ומסדירים תגובות חיסוניות.",
-      "source": "src3",
-      "quote": "The Nobel Prize in Physiology or Medicine 1980 was awarded jointly to Baruj Benacerraf, Jean Dausset and George D. Snell",
-      "status": "confirmed",
-      "locator": "שורה 13"
-    },
-    {
-      "id": "c20",
-      "text": "לפי JCI, בנאסראף הבחין שחלק משרקני הים מעורבי הזנים הגיבו לאנטיגנים וחלק לא.",
-      "source": "src4",
-      "quote": "He observed that some, but not all, randomly bred guinea pigs responded to antigens.",
-      "status": "confirmed",
-      "locator": "שורה 52"
-    },
-    {
-      "id": "c17",
-      "text": "בנאסראף סיפר שקבע כי התגובתיות לאנטיגנים כאלה נשלטת על ידי גנים אוטוזומליים דומיננטיים שנקראו גני תגובה חיסונית (Ir).",
-      "source": "src2",
-      "quote": "I determined that responsiveness to these or other similar antigens is controlled by dominant autosomal genes termed immune response (Ir) genes.",
-      "status": "confirmed",
-      "locator": "שורה 1"
-    },
-    {
-      "id": "c22",
-      "text": "לפי JCI, בנאסראף ועמיתיו המשיכו והראו שגני Ir קשורים ל-MHC ואף מקודדים למולקולות MHC.",
-      "source": "src4",
-      "quote": "went on to show that Ir genes were linked to the MHC and indeed coded for MHC molecules.",
-      "status": "confirmed",
-      "locator": "שורה 52"
-    },
-    {
-      "id": "c27",
-      "text": "לפי ויקיפדיה, הפרס ניתן על גילוי גני ה-MHC המקודדים לחלבוני פני התא החשובים להבחנת המערכת החיסונית בין עצמי לזר.",
-      "source": "src5",
-      "quote": "discovery of the major histocompatibility complex genes which encode cell surface protein molecules important for the immune system's distinction between self and non-self.",
-      "status": "confirmed",
-      "locator": "שורה 35"
-    },
-    {
-      "id": "c30",
-      "text": "לפי בריטניקה, ממצאיו סייעו להבהיר את המנגנונים שבבסיס מחלות אוטואימוניות כמו טרשת נפוצה וראומטואיד ארתריטיס.",
-      "source": "src1",
-      "quote": "findings also helped elucidate the mechanisms underlying autoimmune diseases, such as multiple sclerosis and rheumatoid arthritis,",
-      "status": "confirmed",
-      "locator": "שורה 20"
-    },
-    {
-      "id": "c40",
-      "text": "לפי JCI, החל מ-1956 ובמשך שלושים שנה הכשיר בנאסראף למעלה מ-80 חוקרים לאחר דוקטורט ותלמידי מחקר.",
-      "source": "src4",
-      "quote": "Beginning in 1956 and continuing for the next thirty years, Benacerraf trained over 80 postdoctoral fellows and graduate students.",
-      "status": "confirmed",
-      "locator": "שורה 54"
-    },
-    {
-      "id": "c12",
-      "text": "בנאסראף החל את הקריירה המחקרית שלו בפברואר 1948 במעבדה של אלווין קבט, שהציע לו מלגה.",
-      "source": "src2",
-      "quote": "Following an interview with Elvin Kabat, who offered me a Fellowship in his laboratory, I started my research career in February, 1948.",
-      "status": "confirmed",
-      "locator": "שורה 1"
-    },
-    {
-      "id": "c3",
-      "text": "לפי Jewish Journal, בנאסראף נולד בקראקס להורים יהודים ספרדים ועבר עם משפחתו לפריז ב-1925.",
-      "source": "src6",
-      "quote": "Benacerraf was born in Caracas, Venezuela, to Sephardic Jewish parents and moved to Paris with his family in 1925.",
-      "status": "confirmed",
-      "locator": "שורה 10"
-    },
-    {
-      "id": "c11",
-      "text": "בנאסראף סיפר שסבל באסתמה כילד ופיתח סקרנות עמוקה לתופעות אלרגיות, ומכאן עניינו באימונולוגיה.",
-      "source": "src2",
-      "quote": "I had suffered from bronchial asthma as a child and had developed a deep curiosity in allergic phenomena.",
-      "status": "confirmed",
-      "locator": "שורה 1"
-    },
-    {
-      "id": "c49",
-      "text": "לפי AAI, בנאסראף עבר לארצות הברית ב-1940.",
-      "source": "src7",
-      "quote": "He grew up in Paris but moved to the United States in 1940 and attended college at Columbia University.",
-      "status": "confirmed",
-      "locator": "שורה 2"
-    },
-    {
-      "id": "c50",
-      "text": "לפי Harvard Gazette, בנאסראף הגיע לארצות הברית ב-1939.",
-      "source": "src8",
-      "quote": "raised in pre-World War II Paris, he came to the United States in 1939.",
-      "status": "confirmed",
-      "locator": "שורה 7"
-    },
-    {
-      "id": "c54",
-      "text": "לפי דנה-פארבר, בגלל מוצאם היהודי נמלטה משפחתו מאירופה והצטרפה אליו בניו יורק.",
-      "source": "src9",
-      "quote": "because of their Jewish heritage, his family fled Europe and joined him in New York.",
-      "status": "confirmed",
-      "locator": "שורה 13"
-    },
-    {
-      "id": "c6",
-      "text": "בנאסראף סיפר שלא הבין שקבלה לבית ספר לרפואה בארצות הברית של 1942 היא משימה קשה במיוחד עבור מי שבעל רקע אתני וזר כמוהו.",
-      "source": "src2",
-      "quote": "I did not realize, however, that admission to Medical School was a formidable undertaking for someone with my ethnic and foreign background in the United States of 1942.",
-      "status": "confirmed",
-      "locator": "שורה 1"
-    },
-    {
-      "id": "c7",
-      "text": "למרות רקורד אקדמי מצוין בקולומביה, בנאסראף נדחה על ידי בתי ספר רבים לרפואה שאליהם פנה, לדבריו.",
-      "source": "src2",
-      "quote": "In spite of an excellent academic record at Columbia, I was refused admission by the numerous medical schools I applied to",
-      "status": "confirmed",
-      "locator": "שורה 1"
-    },
-    {
-      "id": "c8",
-      "text": "לפי Harvard Gazette, באוטוביוגרפיה שלו תיאר בנאסראף את מכסות היהודים והעוינות כלפי זרים שנתקל בהן, ואת דחייתו על ידי 25 בתי ספר לרפואה, כולל הרווארד.",
-      "source": "src8",
-      "quote": "he discussed the anti-Semitic quota systems and anti-foreigner bias he encountered in being rejected by 25 medical schools, including Harvard.",
-      "status": "confirmed",
-      "locator": "שורה 7"
-    },
-    {
-      "id": "c9",
-      "text": "לפי Jewish Journal, בנאסראף נדחה על ידי בתי ספר מובילים לרפואה בארצות הברית בגלל מכסות נגד יהודים, ובהמשך לימד בשניים מהם.",
-      "source": "src6",
-      "quote": "He was rejected by top U.S. medical schools because of their quota systems against Jews, but later served on the faculty of two of them.",
-      "status": "confirmed",
-      "locator": "שורה 10"
-    },
-    {
-      "id": "c10",
-      "text": "בנאסראף סיפר שללא החסד והתמיכה של ג'ורג' בייקמן, אביו של חבר קרוב, היה בלתי אפשרי עבורו ללמוד רפואה.",
-      "source": "src2",
-      "quote": "would have found it impossible to study medicine except for the kindness and support of George W. Bakeman, father of a close friend",
-      "status": "confirmed",
-      "locator": "שורה 1"
-    },
-    {
-      "id": "c13",
-      "text": "בנאסראף סיפר שאחרי שש שנים בפריז הבין שכזר בצרפת יתקשה לפתח קריירה מדעית ולהקים מעבדה עצמאית.",
-      "source": "src2",
-      "quote": "After six years in Paris, I began to realize that as a foreigner to France, in spite of my French education, I would experience continuous difficulties",
-      "status": "confirmed",
-      "locator": "שורה 1"
-    },
-    {
-      "id": "c14",
-      "text": "בנאסראף הודה ללואיס תומאס שהציע לו משרת פרופסור חבר לפתולוגיה בבית הספר לרפואה של אוניברסיטת ניו יורק.",
-      "source": "src2",
-      "quote": "I am deeply grateful to Lewis Thomas who offered me an appointment as Assistant Professor of Pathology at New York University School of Medicine",
-      "status": "confirmed",
-      "locator": "שורה 1"
-    },
-    {
-      "id": "c15",
-      "text": "בנאסראף סיפר שהחליט להקדיש את עצמו אך ורק למעבדתו ולתלמידיו ולצמצם את עיסוקיו העסקיים.",
-      "source": "src2",
-      "quote": "I made the decision to devote myself solely to my laboratory and my students and to curtail my business career",
-      "status": "confirmed",
-      "locator": "שורה 1"
-    },
-    {
-      "id": "c19",
-      "text": "לפי אתר נובל, סנל ודוסה הראו קודם לכן שגנים השולטים בדחיית תאים זרים קיימים באזורים דומים בעכברים ובבני אדם.",
-      "source": "src10",
-      "quote": "George Snell and Jean Dausset had previously shown that genes that govern rejection of foreign cells exist in similar areas in mice and in people.",
-      "status": "confirmed",
-      "locator": "שורה 9"
-    },
-    {
-      "id": "c16",
-      "text": "בנאסראף סיפר שתצפיות בבעלי חיים מעורבי זנים שחוסנו באנטיגנים עם הטרוגניות מוגבלת הראו חלוקה לשתי קבוצות: מגיבים ולא-מגיבים.",
-      "source": "src2",
-      "quote": "I made the observation that random bred animals immunized with antigens with restricted heterogeneity, such as hapten conjugates of poly L-lysine distribute themselves into two groups, responders and nonresponders.",
-      "status": "confirmed",
-      "locator": "שורה 1"
-    },
-    {
-      "id": "c21",
-      "text": "לפי JCI, בניסויי הרבעה הראה בנאסראף שהיכולת להגיב לאנטיגן נקבעת על ידי לוקוס גנטי הפועל באופן אוטוזומלי דומיננטי.",
-      "source": "src4",
-      "quote": "He went on to show, through inbreeding experiments, that the ability to respond to antigen was determined by a genetic locus that acted in an autosomal dominant fashion.",
-      "status": "confirmed",
-      "locator": "שורה 52"
-    },
-    {
-      "id": "c24",
-      "text": "לפי AAI, המחקרים נעשו במקור בשרקני ים עם פרד קנטור, ברני לוין, אירה גרין ובילי פול.",
-      "source": "src7",
-      "quote": "These studies, originally done in guinea pigs with Fred Kantor, Bernie Levine, Ira Green, and Bill Paul",
-      "status": "confirmed",
-      "locator": "שורה 2"
-    },
-    {
-      "id": "c25",
-      "text": "לפי AAI, יו מקדוויט הרחיב את המחקרים בעכברים וגילה שהגנים הרלוונטיים ממופים ל-MHC.",
-      "source": "src7",
-      "quote": "were later extended by Hugh McDevitt in mice to reveal that the relevant genes mapped to the MHC",
-      "status": "confirmed",
-      "locator": "שורה 2"
-    },
-    {
-      "id": "c29",
-      "text": "לפי בריטניקה, נמצאו לאחר מכן יותר מ-30 גני Ir, וחומר גנטי זה נקבע כחלק מקומפלקס ההיסטוקומפטביליות הראשי.",
-      "source": "src1",
-      "quote": "More than 30 Ir genes were subsequently found, and that genetic material was determined to be part of the major histocompatibility complex",
-      "status": "confirmed",
-      "locator": "שורה 20"
-    },
-    {
-      "id": "c28",
-      "text": "ועדת נובל ציינה שהגנים של ה-MHC הם מערכת זיהוי עצמי מתוחכמת המאפשרת למערכת החיסון לא לפגוע בתאי הגוף עצמו.",
-      "source": "src6",
-      "quote": "Achieving this requires a sophisticated self-identification system, and this is centered on a collection of genes called the major histocompatibility complex.",
-      "status": "confirmed",
-      "locator": "שורה 6"
-    },
-    {
-      "id": "c31",
-      "text": "לפי הספד ב-Jewish Journal, עבודתו הסבירה מדוע חלק מהאנשים מתגוננים טוב יותר מפני זיהום ומדוע חלקם בסיכון גבוה יותר למחלות אוטואימוניות.",
-      "source": "src6",
-      "quote": "explained why some people were better able to defend themselves against infection than others and why certain people were at greater risk",
-      "status": "confirmed",
-      "locator": "שורה 7"
-    },
-    {
-      "id": "c32",
-      "text": "לפי אותו הספד, עבודתו הורחבה להבנת תגובות חיסוניות בהשתלות איברים ולהסבר מדוע הגוף דוחה לעיתים איבר זר.",
-      "source": "src6",
-      "quote": "extended to understanding immunological reactions in organ transplants, explaining why the body would often reject a foreign organ",
-      "status": "confirmed",
-      "locator": "שורה 7"
-    },
-    {
-      "id": "c35",
-      "text": "לפי BMJ, בנאסראף הסביר מדוע חלק מהאנשים מצליחים יותר להילחם בזיהומים ובגידולים.",
-      "source": "src11",
-      "quote": "who explained why some people are better at fighting infections and tumours",
-      "status": "confirmed",
-      "locator": "שורה 10"
-    },
-    {
-      "id": "c33",
-      "text": "לפי נשיא דנה-פארבר אדוארד בנץ, תגליותיו של בנאסראף על השליטה הגנטית במערכת החיסון איפשרו חלק גדול ממה שידוע היום על תהליכי מחלה בסיסיים כמו זיהום, מחלות אוטואימוניות וסרטן.",
-      "source": "src8",
-      "quote": "made possible much of what we now know about basic disease processes such as infection, autoimmune disorders, and cancer",
-      "status": "confirmed",
-      "locator": "שורה 6"
-    },
-    {
-      "id": "c34",
-      "text": "לפי בנץ, עבודתו עיצבה תחומים מהשתלות איברים ועד טיפול באיידס ופיתוח חיסונים טיפוליים לסרטן.",
-      "source": "src8",
-      "quote": "His work has shaped everything from organ transplantation, to AIDS treatment, to, most recently, the development of therapeutic cancer vaccines.",
-      "status": "confirmed",
-      "locator": "שורה 6"
-    },
-    {
-      "id": "c36",
-      "text": "בנאסראף סיפר שב-1968 עבר לבת'סדה לניהול המעבדה לאימונולוגיה של המכון הלאומי לאלרגיה ומחלות זיהומיות.",
-      "source": "src2",
-      "quote": "to assume the Directorship of the Laboratory of Immunology of the National Institute of Allergy and Infectious Disease in Bethesda, where I moved in 1968",
-      "status": "confirmed",
-      "locator": "שורה 1"
-    },
-    {
-      "id": "c37",
-      "text": "בנאסראף סיפר שב-1970 הציע לו הדיקן רוברט אברט את הקתדרה לפתולוגיה בבית הספר לרפואה של הרווארד.",
-      "source": "src2",
-      "quote": "In 1970, Dean Robert Ebert offered me the Chair of Pathology at Harvard Medical School.",
-      "status": "confirmed",
-      "locator": "שורה 2"
-    },
-    {
-      "id": "c38",
-      "text": "בנאסראף סיפר שהראו בהרווארד כיצד אלוריאקטיביות נובעת מכך שתאי T מחויבים לזהות אנטיגן בהקשר של תוצרי גנים של MHC עצמי.",
-      "source": "src2",
-      "quote": "demonstrated how alloreactivity arises as a consequence of the commitment of T lymphocytes to recognize antigen in the context of autologous MHC gene products.",
-      "status": "confirmed",
-      "locator": "שורה 2"
-    },
-    {
-      "id": "c39",
-      "text": "לפי JCI, זמן קצר לאחר הגעתו להרווארד ייסד בנאסראף תוכנית לימודים מתקדמים באימונולוגיה, הוותיקה ביותר בבית הספר שמעניקה תארים.",
-      "source": "src4",
-      "quote": "Not long after his arrival, he founded a graduate program in immunology, the oldest degree-conferring graduate program at Harvard Medical School",
-      "status": "confirmed",
-      "locator": "שורה 54"
-    },
-    {
-      "id": "c52",
-      "text": "לפי JTA, פרס נובל בסך 211,000 דולר חולק בין שלושת הזוכים.",
-      "source": "src12",
-      "quote": "Jean Dausett, 64, of the Immunological Laboratory of St. Louis Hospital of Paris University, and Benacerraf will share the award of $211,000.",
-      "status": "confirmed",
-      "locator": "שורה 4"
-    },
-    {
-      "id": "c5",
-      "text": "JTA דיווחה שבנאסראף הוא היהודי הספרדי הראשון שזכה בפרס נובל.",
-      "source": "src12",
-      "quote": "has become the first Sephardic Jew to win a Nobel Prize",
-      "status": "confirmed",
-      "locator": "שורה 2"
-    },
-    {
-      "id": "c23",
-      "text": "לפי JCI, ג'ורג' סנל אמר לפי הדיווחים שרק קומץ מדענים הבינו את העבודה הזו ועוד פחות העריכו את אופייה המהפכני.",
-      "source": "src4",
-      "quote": "George Snell, the eminent mouse geneticist, reportedly said that only a handful of scientists understood this work and fewer still appreciated its transformative nature.",
-      "status": "confirmed",
-      "locator": "שורה 52"
-    },
-    {
-      "id": "c51",
-      "text": "לפי בריטניקה, בנאסראף נבחר לאקדמיה הלאומית למדעים ב-1973 וזכה במדליית המדע הלאומית ב-1990.",
-      "source": "src1",
-      "quote": "Benacerraf was elected to the National Academy of Sciences (1973) and was awarded the National Medal of Science (1990).",
-      "status": "confirmed",
-      "locator": "שורה 21"
-    },
-    {
-      "id": "c41",
-      "text": "לפי Jewish Journal, ב-1980 נכנס בנאסראף לניהול מכון סידני פארבר \"בתקופה של סערה ניהולית\" והחזיר אותו לבולטות מחקרית וארגונית.",
-      "source": "src6",
-      "quote": "He took over the Sidney Farber Cancer Institute (now the Dana-Farber Cancer Institute) in 1980 “at a time of administrative turmoil” and brought it back to research and organizational prominence.",
-      "status": "confirmed",
-      "locator": "שורה 8"
-    },
-    {
-      "id": "c42",
-      "text": "לפי דוד נתן, בנאסראף הגיע לדנה-פארבר בתקופה של הנהגה מפוצלת, והמוסד התחזק מאוד בעקבות כך.",
-      "source": "src7",
-      "quote": "Baruj came to Dana-Farber in a time of fractured leadership. We needed Baruj and he came through for us.",
-      "status": "confirmed",
-      "locator": "שורה 6"
-    },
-    {
-      "id": "c44",
-      "text": "לפי AAI, בנאסראף תרם את כל כספי פרס נובל כדי להתחיל קמפיין גיוס כספים עבור דנה-פארבר.",
-      "source": "src7",
-      "quote": "Months after accepting the DFCI position, Baruj won the Nobel and donated all the proceeds to initiate a fund raising campaign for the DFCI.",
-      "status": "confirmed",
-      "locator": "שורה 8"
-    },
-    {
-      "id": "c45",
-      "text": "לפי דנה-פארבר, תרומות גדלו מאוד בתקופת נשיאותו, ואיפשרו למלא את המבנים החדשים בציוד ובכוח אדם מדעי ורפואי.",
-      "source": "src9",
-      "quote": "Donor gifts increased tremendously during his presidency, enabling Dana-Farber to fill its new buildings with the latest in research and clinical equipment",
-      "status": "confirmed",
-      "locator": "שורה 9"
-    },
-    {
-      "id": "c46",
-      "text": "בנאסראף כיהן כנשיא דנה-פארבר עד 1992, לפי תוספת שכתב בעצמו ב-2005.",
-      "source": "src2",
-      "quote": "I was appointed President of the Dana-Farber Cancer Institute in 1980, a position in which I served until 1992.",
-      "status": "confirmed",
-      "locator": "שורה 9"
-    },
-    {
-      "id": "c47",
-      "text": "לפי AAI, בנאסראף פרש מנשיאות המכון ב-1991.",
-      "source": "src7",
-      "quote": "he transformed this institution into one of the premier cancer centers and medical research organizations in the world before stepping down in 1991",
-      "status": "confirmed",
-      "locator": "שורה 4"
-    },
-    {
-      "id": "c48",
-      "text": "לפי בריטניקה, בנאסראף היה נשיא המכון בשנים 1980–1991.",
-      "source": "src1",
-      "quote": "He also was president (1980–91) of the Sidney Farber Cancer Institute (now the Dana-Farber Cancer Institute) in Boston.",
-      "status": "confirmed",
-      "locator": "שורה 21"
-    },
-    {
-      "id": "c57",
-      "text": "לפי דנה-פארבר, ב-1991 הוקמה מלגת בנאסראף לציון 10 שנות נשיאותו.",
-      "source": "src9",
-      "quote": "The Benacerraf Fellowship: Established in 1991 in recognition of Benacerraf's 10th anniversary as president of the Institute",
-      "status": "confirmed",
-      "locator": "שורה 26"
-    },
-    {
-      "id": "c58",
-      "text": "לפי דנה-פארבר, חבר תורמים על שמו הוקם ב-2008 כדי להוקיר תורמים למכון.",
-      "source": "src9",
-      "quote": "This group, created in 2008, recognizes the contributions of Dana-Farber donors",
-      "status": "confirmed",
-      "locator": "שורה 29"
-    },
-    {
-      "id": "c4",
-      "text": "לפי JTA, בנאסראף היה חבר במועצת הנגידים של מכון ויצמן ברחובות, ישראל, במשך שש שנים.",
-      "source": "src12",
-      "quote": "He has been a member of the Board of Governors of the Weizmann Institute in Rehovot, Israel for six years",
-      "status": "confirmed",
-      "locator": "שורה 6"
-    },
-    {
-      "id": "c55",
-      "text": "לפי AAI, למי שלא הכירו היטב בנאסראף יכול היה להיראות מרוחק, עם \"פורמליות אירופית\" ישנה שלא תמיד משכה.",
-      "source": "src7",
-      "quote": "To those who did not know him well, Baruj could be an aloof figure, with an old “European formality” that was not always engaging.",
-      "status": "confirmed",
-      "locator": "שורה 4"
-    },
-    {
-      "id": "c56",
-      "text": "לפי דוד נתן, בנאסראף דרש נאמנות מלאה בתמורה לתמיכתו ולעצותיו המצוינות.",
-      "source": "src7",
-      "quote": "He was a man who demanded total loyalty in return for his support and excellent advice.",
-      "status": "confirmed",
-      "locator": "שורה 6"
-    },
-    {
-      "id": "c59",
-      "text": "לפי המכון הסרטני דנה-פארבר, בנאסראף כיהן כנשיא המכון בשנים 1980–1992.",
-      "source": "src9",
-      "quote": "as its president from 1980-92",
-      "status": "confirmed",
-      "locator": "שורה 4"
-    }
-  ],
-  "sources": [
-    {
-      "id": "src1",
-      "label": "Encyclopaedia Britannica, Baruj Benacerraf",
-      "url": "https://www.britannica.com/EBchecked/topic/60347/Baruj-Benacerraf",
-      "kind": "reference"
-    },
-    {
-      "id": "src2",
-      "label": "NobelPrize.org, Benacerraf's autobiography",
-      "url": "https://www.nobelprize.org/prizes/medicine/1980/benacerraf/auto-biography/",
-      "kind": "official"
-    },
-    {
-      "id": "src3",
-      "label": "NobelPrize.org, The Nobel Prize in Physiology or Medicine 1980",
-      "url": "https://www.nobelprize.org/nobel_prizes/medicine/laureates/1980/",
-      "kind": "official"
-    },
-    {
-      "id": "src4",
-      "label": "Journal of Clinical Investigation, obituary",
-      "url": "https://www.jci.org/articles/view/60570",
-      "kind": "press"
-    },
-    {
-      "id": "src5",
-      "label": "Wikipedia, Baruj Benacerraf",
-      "url": "https://en.wikipedia.org/wiki/Baruj_Benacerraf",
-      "kind": "reference"
-    },
-    {
-      "id": "src6",
-      "label": "Jewish Journal, obituary, 2011",
-      "url": "https://jewishjournal.com/judaism/obituaries/94766/",
-      "kind": "press"
-    },
-    {
-      "id": "src7",
-      "label": "American Association of Immunologists, In Memoriam, 10-11.2011",
-      "url": "https://www.aai.org/AAISite/media/About/In-Memoriam/BENACERRAF_Baruj_AAI_NL_October-November_p13-17.pdf",
-      "kind": "organisation"
-    },
-    {
-      "id": "src8",
-      "label": "Harvard Gazette, 2011",
-      "url": "https://news.harvard.edu/gazette/story/2011/08/baruj-benacerraf-nobel-laureate-90",
-      "kind": "press"
-    },
-    {
-      "id": "src9",
-      "label": "Dana-Farber, press release, 2011",
-      "url": "https://www.dana-farber.org/newsroom/news-releases/2011/baruj-benacerraf-remembered-as-visionary-immunologist-and-dana-farber-leader",
-      "kind": "organisation"
-    },
-    {
-      "id": "src10",
-      "label": "NobelPrize.org, Benacerraf facts page",
-      "url": "https://www.nobelprize.org/prizes/medicine/1980/benacerraf/facts/",
-      "kind": "official"
-    },
-    {
-      "id": "src11",
-      "label": "BMJ, obituary, 2011",
-      "url": "https://www.bmj.com/content/343/bmj.d5298",
-      "kind": "press"
-    },
-    {
-      "id": "src12",
-      "label": "JTA, 1980",
-      "url": "https://www.jta.org/archive/sephardic-jew-shares-1980-nobel-prize-in-the-field-of-physiology",
-      "kind": "press"
-    }
-  ],
-  "media": [
-    {
-      "id": "m1",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Baruj%20Benacerraf%201969.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Baruj_Benacerraf_1969.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Unknown authorUnknown author",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "Black-and-white portrait of Baruj Benacerraf, a man in a suit and dark tie, in front of blinds.",
-      "illustrates": [],
-      "date": "1969",
-      "width": 626,
-      "height": 835
-    },
-    {
-      "id": "m3",
-      "kind": "video",
-      "url": "https://www.youtube.com/watch?v=f8m8W7P-b3c",
-      "youtube_id": "f8m8W7P-b3c",
-      "source_page": "https://www.youtube.com/watch?v=f8m8W7P-b3c",
-      "source_name": "YouTube",
-      "credit": "Quentin Melson",
-      "licence": "YouTube, embedded only (standard YouTube licence)",
-      "licence_url": "https://www.youtube.com/static?template=terms",
-      "hosting": "embed",
-      "caption": "A 1980 news report with interviews with Jean Dausset, George Snell and Baruj Benacerraf on winning the Nobel Prize.",
-      "illustrates": [
-        "c26"
-      ],
-      "spoken": "en",
-      "audio_tracks": [
-        "en"
-      ]
-    },
-    {
-      "id": "m4",
-      "kind": "video",
-      "url": "https://www.youtube.com/watch?v=U2kCrhobTws",
-      "youtube_id": "U2kCrhobTws",
-      "source_page": "https://www.youtube.com/watch?v=U2kCrhobTws",
-      "source_name": "YouTube",
-      "credit": "The American Association of Immunologists (AAI)",
-      "licence": "YouTube, embedded only (standard YouTube licence)",
-      "licence_url": "https://www.youtube.com/static?template=terms",
-      "hosting": "embed",
-      "caption": "William Paul, a past president of the American Association of Immunologists, speaks in an interview about his work with Benacerraf (part 1).",
-      "illustrates": [
-        "c24"
-      ],
-      "spoken": "en",
-      "audio_tracks": [
-        "en"
-      ]
-    },
-    {
-      "id": "m5",
-      "kind": "video",
-      "url": "https://www.youtube.com/watch?v=bfryubKeu6o",
-      "youtube_id": "bfryubKeu6o",
-      "source_page": "https://www.youtube.com/watch?v=bfryubKeu6o",
-      "source_name": "YouTube",
-      "credit": "The American Association of Immunologists (AAI)",
-      "licence": "YouTube, embedded only (standard YouTube licence)",
-      "licence_url": "https://www.youtube.com/static?template=terms",
-      "hosting": "embed",
-      "caption": "Continuation of the American Association of Immunologists' interview with William Paul about working with Benacerraf (part 2).",
-      "illustrates": [
-        "c24",
-        "c25"
-      ],
-      "spoken": "en",
-      "audio_tracks": [
-        "en"
-      ]
-    },
-    {
-      "id": "m6",
-      "kind": "video",
-      "url": "https://www.youtube.com/watch?v=-YegNFs_A4Y",
-      "youtube_id": "-YegNFs_A4Y",
-      "source_page": "https://www.youtube.com/watch?v=-YegNFs_A4Y",
-      "source_name": "YouTube",
-      "credit": "Journal of Clinical Investigation",
-      "licence": "YouTube, embedded only (standard YouTube licence)",
-      "licence_url": "https://www.youtube.com/static?template=terms",
-      "hosting": "embed",
-      "caption": "A conversation by the Journal of Clinical Investigation with William Paul, who began his training in immunology in Benacerraf's laboratory.",
-      "illustrates": [
-        "c22"
-      ]
-    },
-    {
-      "id": "m7",
-      "kind": "video",
-      "url": "https://www.youtube.com/watch?v=oJDvnaLgev0",
-      "youtube_id": "oJDvnaLgev0",
-      "source_page": "https://www.youtube.com/watch?v=oJDvnaLgev0",
-      "source_name": "YouTube",
-      "credit": "Biocon Group",
-      "licence": "YouTube, embedded only (standard YouTube licence)",
-      "licence_url": "https://www.youtube.com/static?template=terms",
-      "hosting": "embed",
-      "caption": "A tribute by the Biocon group to Benacerraf, a Nobel laureate who contributed to understanding how the immune system recognizes the body.",
-      "illustrates": [
-        "c26"
-      ],
-      "spoken": "en",
-      "audio_tracks": [
-        "en"
-      ]
-    },
-    {
-      "id": "m8",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dana-Farber%20Cancer%20Center.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Dana-Farber_Cancer_Center.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Dana Farber Cancer Center",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "The Dana-Farber Institute building in Boston, black-and-white photograph from a high vantage point",
-      "illustrates": [],
-      "date": "1947",
-      "width": 1800,
-      "height": 2700,
-      "role": "related"
-    },
-    {
-      "id": "m9",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dana-Farber%2C%20power%20plant%2C%20and%20parking%20garage%2C%20March%202013.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Dana-Farber%2C_power_plant%2C_and_parking_garage%2C_March_2013.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "mararie",
-      "licence": "CC BY-SA 2.0",
-      "hosting": "hotlink",
-      "caption": "The Dana-Farber Institute, the power plant and the Brigham hospital parking garage in Boston, March 2013",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
-      "date": "2013-03-01",
-      "width": 1800,
-      "height": 1290,
-      "role": "related"
-    },
-    {
-      "id": "m11",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/DanaFarber.JPG?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:DanaFarber.JPG",
-      "source_name": "Wikimedia Commons",
-      "credit": "Thomas Steiner",
-      "licence": "CC BY-SA 2.5",
-      "hosting": "hotlink",
-      "caption": "The Dana-Farber Institute in Boston, with 60th-anniversary banners on the parking garage",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/2.5",
-      "date": "2007-09-04",
-      "width": 1664,
-      "height": 2496,
-      "role": "related"
-    },
-    {
-      "id": "m12",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/DanaFarber.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:DanaFarber.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Ɱ",
-      "licence": "CC BY-SA 3.0",
-      "hosting": "hotlink",
-      "caption": "The Dana-Farber Institute research building with signs of the Marcotte Center for Cancer Research",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-      "date": "26 October",
-      "width": 1836,
-      "height": 3264,
-      "role": "related"
-    },
-    {
-      "id": "m13",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dana%E2%80%93Farber%20Cancer%20Institute%20%2854954487999%29.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Dana%E2%80%93Farber_Cancer_Institute_%2854954487999%29.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "ajay_suresh",
-      "licence": "CC BY 4.0",
-      "hosting": "hotlink",
-      "caption": "The Dana-Farber Institute in Boston, view from the street toward the glass tower",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by/4.0",
-      "date": "2025-11-06",
-      "width": 5169,
-      "height": 5169,
-      "role": "related"
-    },
-    {
-      "id": "m14",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dana%E2%80%93Farber%20Cancer%20Institute%20Louis%20B%20Mayer%20Research%20Laboratories%20Building.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Dana%E2%80%93Farber_Cancer_Institute_Louis_B_Mayer_Research_Laboratories_Building.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "EgorovaSvetlana",
-      "licence": "CC BY-SA 4.0",
-      "hosting": "hotlink",
-      "caption": "The Louis B. Mayer Research Laboratories building of the Dana-Farber Institute",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "date": "2009-08-18",
-      "width": 3000,
-      "height": 4000,
-      "role": "related"
-    },
-    {
-      "id": "m15",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nci-vol-1838-300%20Emil%20Frei.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Nci-vol-1838-300_Emil_Frei.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "National Cancer Institue",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "Emil Frei with a nurse and a child patient; Frei was the physician-in-chief of the Dana-Farber Institute",
-      "illustrates": [],
-      "date": "20th centu",
-      "width": 450,
-      "height": 639,
-      "role": "related"
-    },
-    {
-      "id": "m16",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Yawkey%20Center%20for%20Cancer%20Care%20-%20Dana%E2%80%93Farber%20Cancer%20Institute%20%2854954488019%29.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Yawkey_Center_for_Cancer_Care_-_Dana%E2%80%93Farber_Cancer_Institute_%2854954488019%29.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "ajay_suresh",
-      "licence": "CC BY 4.0",
-      "hosting": "hotlink",
-      "caption": "The Yawkey Center for Cancer Care of the Dana-Farber Institute, 450 Brookline Avenue, Boston",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by/4.0",
-      "date": "2025-11-06",
-      "width": 7818,
-      "height": 4398,
-      "role": "related"
-    },
-    {
-      "id": "m17",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Harvard%20Medical%20School%2C%20Boston%2C%20Mass%20%28NYPL%20b12647398-74267%29.tiff?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Harvard_Medical_School%2C_Boston%2C_Mass_%28NYPL_b12647398-74267%29.tiff",
-      "source_name": "Wikimedia Commons",
-      "credit": "Detroit Publishing Company",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "Old postcard of Harvard Medical School in Boston, view of the main building and the terrace railing",
-      "illustrates": [],
-      "date": "after 1898",
-      "width": 2432,
-      "height": 1590,
-      "role": "related"
-    },
-    {
-      "id": "m18",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Elizabeth%20M.%20Bright%2C%20sitting%20in%20lab%20%283321953921%29.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Elizabeth_M._Bright%2C_sitting_in_lab_%283321953921%29.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Smithsonian Institution from United States Uploaded by Magnus Manske",
-      "licence": "No restrictions",
-      "hosting": "hotlink",
-      "caption": "A physiologist seated in a laboratory at Harvard between 1918 and 1924, beside chemical bottles",
-      "illustrates": [],
-      "licence_url": "https://www.flickr.com/commons/usage/",
-      "width": 2080,
-      "height": 3439,
-      "role": "related"
-    },
-    {
-      "id": "m20",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Harvard%20Medical%20School%20%2854954429258%29.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Harvard_Medical_School_%2854954429258%29.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "ajay_suresh",
-      "licence": "CC BY 4.0",
-      "hosting": "hotlink",
-      "caption": "The main building of Harvard Medical School in Boston, across the lawn",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by/4.0",
-      "date": "2025-11-06",
-      "width": 8349,
-      "height": 5566,
-      "role": "related"
-    },
-    {
-      "id": "m21",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Harvard%20Medical%20School%20Wellcome%20V0049885.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Harvard_Medical_School_Wellcome_V0049885.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "not stated",
-      "licence": "CC BY 4.0",
-      "hosting": "hotlink",
-      "caption": "Old postcard of Harvard Medical School: a central lawn with buildings on both sides",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by/4.0",
-      "width": 3319,
-      "height": 2114,
-      "role": "related"
-    },
-    {
-      "id": "m22",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Harvard%20Medical%20School%2C%20Boston%2C%20Mass%20%2864041%29.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Harvard_Medical_School%2C_Boston%2C_Mass_%2864041%29.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Tichnor Bros. Inc., Boston, Mass.",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "Color postcard of Harvard Medical School, Longwood Avenue, Boston",
-      "illustrates": [],
-      "date": "between ci",
-      "width": 3309,
-      "height": 2127,
-      "role": "related"
-    },
-    {
-      "id": "m23",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/HarvardMedical-1878.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:HarvardMedical-1878.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "Unknown authorUnknown author",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "The Harvard Medical School building on North Grove Street, around 1878",
-      "illustrates": [],
-      "date": "circa 1878",
-      "width": 710,
-      "height": 467,
-      "role": "related"
-    },
-    {
-      "id": "m24",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Longwood%20Medical%20area%20HMS.jpg?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Longwood_Medical_area_HMS.jpg",
-      "source_name": "Wikimedia Commons",
-      "credit": "SBAmin",
-      "licence": "CC BY-SA 3.0",
-      "hosting": "hotlink",
-      "caption": "View from above of the Harvard Medical School quadrangle and the adjacent Longwood area buildings, in winter",
-      "illustrates": [],
-      "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-      "date": "2009-01-25",
-      "width": 1024,
-      "height": 768,
-      "role": "related"
-    },
-    {
-      "id": "m25",
-      "kind": "image",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Harvard%20Medical%20College%2C%20Boston%2C%20Mass%20%28NYPL%20b12647398-68826%29.tiff?width=1280",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Harvard_Medical_College%2C_Boston%2C_Mass_%28NYPL_b12647398-68826%29.tiff",
-      "source_name": "Wikimedia Commons",
-      "credit": "Scan by NYPL",
-      "licence": "Public domain",
-      "hosting": "hotlink",
-      "caption": "Postcard from 1906: Harvard Medical School in Boston, view from the lawn",
-      "illustrates": [],
-      "date": "after 1898",
-      "width": 2392,
-      "height": 1579,
-      "role": "related"
-    }
-  ],
-  "check": {
-    "passed": true,
-    "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
-    "checked_at": "2026-11-22T02:01:29Z",
-    "counts": {
-      "confirmed": 68,
-      "not_confirmed": 0,
-      "deleted_sentences": 5,
-      "first_round_confirmed": 64,
-      "first_round_contradicted": 4,
-      "first_round_unverifiable": 5
-    },
-    "note": "unverifiable sentences were deleted, contradicted ones fixed from the source and checked again"
+ "schema": "maasei-museum/1",
+ "slug": "baruj-benacerraf-immune-response-genes",
+ "deed": "ברוך בנאסראף גילה את הגנים המאפשרים למערכת החיסון להבחין בין עצמי לזר",
+ "canonical_type": "scientific-discovery",
+ "year": "1948",
+ "title": "Baruj Benacerraf discovered the genes that help the immune system distinguish between self and non-self",
+ "trailer": [
+  {
+   "text": "Baruj Benacerraf, a Venezuelan-born American pathologist and immunologist of Spanish-Jewish ancestry, won the Nobel Prize in Physiology or Medicine in 1980.",
+   "claims": [
+    "c1",
+    "c2",
+    "c26"
+   ]
   },
-  "meta": {
-    "run": "baruj-benacerraf-immune-response-genes",
-    "pipeline": "scripts/museum/museum_line.py",
-    "models": {
-      "research": "sonnet-5-5",
-      "extract": "sonnet-5-5",
-      "media": "sonnet-5-5",
-      "write": "opus-5-5 medium",
-      "check": "opus-5-5 medium",
-      "fix": "opus-5-5 medium"
-    },
-    "source_quality": {
-      "sources": 12,
-      "wikipedia": 1,
-      "strong": 8,
-      "ok": true,
-      "warnings": []
-    },
-    "settled": [
-      {
-        "box": "d2",
-        "question": "באיזו שנה פרש בנאסראף מנשיאות דנה-פארבר?",
-        "url": "https://www.dana-farber.org/newsroom/news-releases/2011/baruj-benacerraf-remembered-as-visionary-immunologist-and-dana-farber-leader",
-        "by": "settle 24.11"
-      }
-    ],
-    "media_dedupe": [
-      {
-        "drop": "m2",
-        "keep": "m1",
-        "by": "reviewed 24.11"
-      }
-    ]
+  {
+   "text": "According to the JCI, he observed that some guinea pigs responded to antigens and some did not.",
+   "claims": [
+    "c20"
+   ]
   },
-  "lang": "en",
-  "translation": {
-    "from": "he",
-    "translator": "claude-opus-5-5",
-    "checker": "claude-opus-5-5 (separate call, blind to the translation prompt)",
-    "checked_at": "2026-11-23T22:24:29Z",
-    "passed": true,
-    "items": 110,
-    "pairs_checked": 1,
-    "reused": 109,
-    "first_round_flagged": 0,
-    "still_flagged": 0,
-    "flagged": [],
-    "quote_translations": {}
+  {
+   "text": "According to him, he determined that the response is controlled by genes termed immune response (Ir) genes.",
+   "claims": [
+    "c17"
+   ]
+  },
+  {
+   "text": "According to Britannica, his findings helped elucidate the mechanisms underlying autoimmune diseases such as multiple sclerosis.",
+   "claims": [
+    "c30"
+   ]
   }
+ ],
+ "hero_media": [
+  "m1",
+  "m8",
+  "m11",
+  "m12",
+  "m13",
+  "m17",
+  "m20",
+  "m25"
+ ],
+ "glance": [
+  {
+   "label": "Born",
+   "value": "Caracas, 1920",
+   "claims": [
+    "c1"
+   ]
+  },
+  {
+   "label": "Ancestry",
+   "value": "Spanish-Jewish",
+   "claims": [
+    "c2"
+   ]
+  },
+  {
+   "label": "The discovery",
+   "value": "Immune response (Ir) genes",
+   "claims": [
+    "c17"
+   ]
+  },
+  {
+   "label": "Recognition",
+   "value": "Nobel Prize in Medicine, 1980",
+   "claims": [
+    "c26"
+   ]
+  },
+  {
+   "label": "Students",
+   "value": "Over 80 researchers, according to the JCI",
+   "claims": [
+    "c40"
+   ]
+  }
+ ],
+ "stations": [
+  {
+   "id": "s1",
+   "title": "A child from Caracas",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "Benacerraf was born in Caracas on October 29, 1920.",
+      "claims": [
+       "c1"
+      ]
+     },
+     {
+      "text": "He wrote in his autobiography that he was of Spanish-Jewish ancestry.",
+      "claims": [
+       "c2"
+      ]
+     },
+     {
+      "text": "According to the Jewish Journal, in 1925 he moved with his family to Paris.",
+      "claims": [
+       "c3"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "As a child he suffered from asthma.",
+      "claims": [
+       "c11"
+      ]
+     },
+     {
+      "text": "According to him, this gave rise to a deep curiosity about allergic phenomena, and from it his interest in immunology.",
+      "claims": [
+       "c11"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "He later came to the United States; the sources disagree on the year.",
+      "claims": [
+       "c49",
+       "c50"
+      ]
+     },
+     {
+      "text": "According to Dana-Farber, because of their Jewish heritage his family fled Europe and joined him in New York.",
+      "claims": [
+       "c54"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m1"
+   ],
+   "disagreements": [
+    "d1"
+   ]
+  },
+  {
+   "id": "s2",
+   "title": "Closed doors",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "Benacerraf wrote that he did not realize how difficult it was in 1942 for someone with an ethnic and foreign background like his to be admitted to a medical school in the United States.",
+      "claims": [
+       "c6"
+      ]
+     },
+     {
+      "text": "According to him, despite an excellent academic record at Columbia, many medical schools rejected him.",
+      "claims": [
+       "c7"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to the Harvard Gazette, he described in his autobiography the quotas on Jews and the hostility toward foreigners, and his rejection by 25 medical schools, including Harvard.",
+      "claims": [
+       "c8"
+      ]
+     },
+     {
+      "text": "According to the Jewish Journal, he later taught at two of the schools that had rejected him.",
+      "claims": [
+       "c9"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "He wrote that without the kindness and support of George Bakeman, the father of a close friend, he could not have studied medicine.",
+      "claims": [
+       "c10"
+      ]
+     }
+    ]
+   ],
+   "media": [],
+   "disagreements": []
+  },
+  {
+   "id": "s3",
+   "title": "The first laboratory",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "In February 1948 Benacerraf began his research career in the laboratory of Elvin Kabat, who had offered him a fellowship.",
+      "claims": [
+       "c12"
+      ]
+     },
+     {
+      "text": "According to him, after six years in Paris he realized that as a foreigner in France he would have difficulty developing a scientific career and establishing an independent laboratory.",
+      "claims": [
+       "c13"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "Lewis Thomas offered him a position as Assistant Professor of Pathology at New York University School of Medicine, and Benacerraf thanked him for it.",
+      "claims": [
+       "c14"
+      ]
+     },
+     {
+      "text": "He wrote that he decided to devote himself solely to the laboratory and his students and to curtail his business activities.",
+      "claims": [
+       "c15"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m18"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s4",
+   "title": "Responders and nonresponders",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "According to the Nobel website, Snell and Dausset had previously shown that genes that govern the rejection of foreign cells are located in similar areas in mice and in humans.",
+      "claims": [
+       "c19"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "Benacerraf wrote that random bred animals immunized with antigens of restricted heterogeneity divided into two groups: responders and nonresponders.",
+      "claims": [
+       "c16"
+      ]
+     },
+     {
+      "text": "According to the JCI, these were guinea pigs, and through breeding experiments Benacerraf showed that the ability to respond to an antigen is determined by an autosomal dominant genetic locus.",
+      "claims": [
+       "c20",
+       "c21"
+      ]
+     },
+     {
+      "text": "According to him, these genes were termed immune response (Ir) genes.",
+      "claims": [
+       "c17"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to the AAI, the studies were originally done in guinea pigs with Fred Kantor, Bernie Levine, Ira Green and Bill Paul.",
+      "claims": [
+       "c24"
+      ]
+     },
+     {
+      "text": "According to the AAI, Hugh McDevitt extended the studies in mice and found that the genes mapped to the MHC.",
+      "claims": [
+       "c25"
+      ]
+     },
+     {
+      "text": "According to the JCI, Benacerraf and his colleagues showed that Ir genes are linked to the MHC and indeed code for MHC molecules.",
+      "claims": [
+       "c22"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m4",
+    "m5",
+    "m6"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s5",
+   "title": "What it opened up",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "According to Britannica, more than 30 Ir genes were subsequently found, and this genetic material is part of the major histocompatibility complex.",
+      "claims": [
+       "c29"
+      ]
+     },
+     {
+      "text": "The Nobel committee noted that the MHC genes are a self-identification system that allows the immune system not to harm the body's own cells.",
+      "claims": [
+       "c28"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to the Jewish Journal, his work explained why some people defend themselves better against infection and some are at greater risk of autoimmune diseases.",
+      "claims": [
+       "c31"
+      ]
+     },
+     {
+      "text": "According to the same obituary, the work was also extended to organ transplants and to explaining why the body sometimes rejects a foreign organ.",
+      "claims": [
+       "c32"
+      ]
+     },
+     {
+      "text": "According to the BMJ, he explained why some people are better at fighting infections and tumours.",
+      "claims": [
+       "c35"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to Edward Benz, president of Dana-Farber, his discoveries made possible much of what is known today about infection, autoimmune diseases and cancer.",
+      "claims": [
+       "c33"
+      ]
+     },
+     {
+      "text": "According to him, the work shaped fields from organ transplantation to AIDS treatment and therapeutic cancer vaccines.",
+      "claims": [
+       "c34"
+      ]
+     }
+    ]
+   ],
+   "media": [],
+   "disagreements": []
+  },
+  {
+   "id": "s6",
+   "title": "From Bethesda to Harvard",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "Benacerraf wrote that in 1968 he moved to Bethesda to direct the Laboratory of Immunology of the National Institute of Allergy and Infectious Disease.",
+      "claims": [
+       "c36"
+      ]
+     },
+     {
+      "text": "In 1970 Dean Robert Ebert offered him the Chair of Pathology at Harvard Medical School.",
+      "claims": [
+       "c37"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to him, at Harvard they showed that alloreactivity arises because T cells need to recognize antigen in the context of autologous MHC gene products.",
+      "claims": [
+       "c38"
+      ]
+     },
+     {
+      "text": "According to the JCI, not long after his arrival he founded a graduate program in immunology there, the oldest degree-conferring program at the school.",
+      "claims": [
+       "c39"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m21",
+    "m22",
+    "m23",
+    "m24"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s7",
+   "title": "The Nobel Prize",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "The Nobel Prize in Physiology or Medicine 1980 was awarded jointly to Benacerraf, Jean Dausset and George Snell.",
+      "claims": [
+       "c26"
+      ]
+     },
+     {
+      "text": "The prize was given for discoveries concerning genetically determined structures on the cell surface that regulate immune reactions.",
+      "claims": [
+       "c26"
+      ]
+     },
+     {
+      "text": "According to the JTA, the prize money, $211,000, was shared among the three laureates.",
+      "claims": [
+       "c52"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "A JTA report states that Benacerraf is the first Sephardic Jew to win a Nobel Prize, and in the same report the claim is attributed to Benacerraf himself, who said that this is so as far as he knows.",
+      "claims": [
+       "c5"
+      ]
+     },
+     {
+      "text": "According to JCI, George Snell reportedly said that only a handful of scientists understood this work, and even fewer appreciated its revolutionary nature.",
+      "claims": [
+       "c23"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to Britannica, Benacerraf was elected to the National Academy of Sciences in 1973 and was awarded the National Medal of Science in 1990.",
+      "claims": [
+       "c51"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m3",
+    "m7"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s8",
+   "title": "Dana-Farber and people",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "According to the Jewish Journal, in 1980 he took over the Sidney Farber Institute “at a time of administrative turmoil” and brought it back to prominence.",
+      "claims": [
+       "c41"
+      ]
+     },
+     {
+      "text": "According to David Nathan, the institution was greatly strengthened as a result.",
+      "claims": [
+       "c42"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to the AAI, Benacerraf donated all of his Nobel Prize money to initiate a fund-raising campaign for Dana-Farber.",
+      "claims": [
+       "c44"
+      ]
+     },
+     {
+      "text": "According to Dana-Farber, donations increased greatly during his presidency, making it possible to fill the new buildings with equipment and with scientific and medical staff.",
+      "claims": [
+       "c45"
+      ]
+     },
+     {
+      "text": "The sources disagree on when he stepped down from the presidency.",
+      "claims": [
+       "c46",
+       "c47",
+       "c48"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to Dana-Farber, the Benacerraf Fellowship was established in 1991 to mark 10 years of his presidency, and in 2008 a donor group was created in his name.",
+      "claims": [
+       "c57",
+       "c58"
+      ]
+     },
+     {
+      "text": "According to a 1980 JTA report, Benacerraf had by then already been a member of the Board of Governors of the Weizmann Institute in Rehovot, Israel, for six years.",
+      "claims": [
+       "c4"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to the JCI, beginning in 1956 and for thirty years, Benacerraf trained over 80 postdoctoral fellows and graduate students.",
+      "claims": [
+       "c40"
+      ]
+     },
+     {
+      "text": "According to the AAI, those who did not know him well could see him as an aloof figure, with an old “European formality”.",
+      "claims": [
+       "c55"
+      ]
+     },
+     {
+      "text": "According to David Nathan, he demanded total loyalty in return for his support and advice.",
+      "claims": [
+       "c56"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "Benacerraf died in Boston on August 2, 2011.",
+      "claims": [
+       "c1"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to the Dana-Farber Cancer Institute, Benacerraf served as president of the institute from 1980 to 1992.",
+      "claims": [
+       "c59"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m1",
+    "m9",
+    "m14",
+    "m15",
+    "m16"
+   ],
+   "disagreements": []
+  }
+ ],
+ "disagreements": [
+  {
+   "id": "d1",
+   "question": "In what year did Benacerraf come to the United States?",
+   "versions": [
+    {
+     "says": "According to the AAI, in 1940",
+     "claims": [
+      "c49"
+     ]
+    },
+    {
+     "says": "According to the Harvard Gazette, in 1939",
+     "claims": [
+      "c50"
+     ]
+    }
+   ]
+  }
+ ],
+ "unknowns": [
+  {
+   "text": "Despite an excellent academic record at Columbia, Benacerraf was rejected by many medical schools, and thanks to the support of George Bakeman, the father of a close friend, he was admitted and studied medicine at the Medical College of Virginia in Richmond ‹c7›.",
+   "claims": [
+    "c10"
+   ]
+  }
+ ],
+ "claims": [
+  {
+   "id": "c1",
+   "text": "בנאסראף נולד ב-29 באוקטובר 1920 בקראקס, ונפטר ב-2 באוגוסט 2011 בבוסטון; לפי בריטניקה הוא פתולוג ואימונולוג אמריקני יליד ונצואלה.",
+   "source": "src1",
+   "quote": "Baruj Benacerraf, (born October 29, 1920, Caracas, Venezuela—died August 2, 2011, Boston, Massachusetts, U.S.), Venezuelan-born American pathologist and immunologist",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c2",
+   "text": "בנאסראף סיפר באוטוביוגרפיה שנולד בקראקס ב-29 באוקטובר 1920 למוצא יהודי-ספרדי.",
+   "source": "src2",
+   "quote": "I was born in Caracas, Venezuela, on October 29, 1920 of Spanish-Jewish ancestry.",
+   "status": "confirmed",
+   "locator": "שורה 1"
+  },
+  {
+   "id": "c26",
+   "text": "פרס נובל לפיזיולוגיה או לרפואה 1980 הוענק במשותף לבנאסראף, ז'אן דוסה וג'ורג' סנל על תגליות בנוגע למבנים שנקבעים גנטית על פני התא ומסדירים תגובות חיסוניות.",
+   "source": "src3",
+   "quote": "The Nobel Prize in Physiology or Medicine 1980 was awarded jointly to Baruj Benacerraf, Jean Dausset and George D. Snell",
+   "status": "confirmed",
+   "locator": "שורה 13"
+  },
+  {
+   "id": "c20",
+   "text": "לפי JCI, בנאסראף הבחין שחלק משרקני הים מעורבי הזנים הגיבו לאנטיגנים וחלק לא.",
+   "source": "src4",
+   "quote": "He observed that some, but not all, randomly bred guinea pigs responded to antigens.",
+   "status": "confirmed",
+   "locator": "שורה 52"
+  },
+  {
+   "id": "c17",
+   "text": "בנאסראף סיפר שקבע כי התגובתיות לאנטיגנים כאלה נשלטת על ידי גנים אוטוזומליים דומיננטיים שנקראו גני תגובה חיסונית (Ir).",
+   "source": "src2",
+   "quote": "I determined that responsiveness to these or other similar antigens is controlled by dominant autosomal genes termed immune response (Ir) genes.",
+   "status": "confirmed",
+   "locator": "שורה 1"
+  },
+  {
+   "id": "c22",
+   "text": "לפי JCI, בנאסראף ועמיתיו המשיכו והראו שגני Ir קשורים ל-MHC ואף מקודדים למולקולות MHC.",
+   "source": "src4",
+   "quote": "went on to show that Ir genes were linked to the MHC and indeed coded for MHC molecules.",
+   "status": "confirmed",
+   "locator": "שורה 52"
+  },
+  {
+   "id": "c30",
+   "text": "לפי בריטניקה, ממצאיו סייעו להבהיר את המנגנונים שבבסיס מחלות אוטואימוניות כמו טרשת נפוצה וראומטואיד ארתריטיס.",
+   "source": "src1",
+   "quote": "findings also helped elucidate the mechanisms underlying autoimmune diseases, such as multiple sclerosis and rheumatoid arthritis,",
+   "status": "confirmed",
+   "locator": "שורה 20"
+  },
+  {
+   "id": "c40",
+   "text": "לפי JCI, החל מ-1956 ובמשך שלושים שנה הכשיר בנאסראף למעלה מ-80 חוקרים לאחר דוקטורט ותלמידי מחקר.",
+   "source": "src4",
+   "quote": "Beginning in 1956 and continuing for the next thirty years, Benacerraf trained over 80 postdoctoral fellows and graduate students.",
+   "status": "confirmed",
+   "locator": "שורה 54"
+  },
+  {
+   "id": "c12",
+   "text": "בנאסראף החל את הקריירה המחקרית שלו בפברואר 1948 במעבדה של אלווין קבט, שהציע לו מלגה.",
+   "source": "src2",
+   "quote": "Following an interview with Elvin Kabat, who offered me a Fellowship in his laboratory, I started my research career in February, 1948.",
+   "status": "confirmed",
+   "locator": "שורה 1"
+  },
+  {
+   "id": "c3",
+   "text": "לפי Jewish Journal, בנאסראף נולד בקראקס להורים יהודים ספרדים ועבר עם משפחתו לפריז ב-1925.",
+   "source": "src6",
+   "quote": "Benacerraf was born in Caracas, Venezuela, to Sephardic Jewish parents and moved to Paris with his family in 1925.",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c11",
+   "text": "בנאסראף סיפר שסבל באסתמה כילד ופיתח סקרנות עמוקה לתופעות אלרגיות, ומכאן עניינו באימונולוגיה.",
+   "source": "src2",
+   "quote": "I had suffered from bronchial asthma as a child and had developed a deep curiosity in allergic phenomena.",
+   "status": "confirmed",
+   "locator": "שורה 1"
+  },
+  {
+   "id": "c49",
+   "text": "לפי AAI, בנאסראף עבר לארצות הברית ב-1940.",
+   "source": "src7",
+   "quote": "He grew up in Paris but moved to the United States in 1940 and attended college at Columbia University.",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c50",
+   "text": "לפי Harvard Gazette, בנאסראף הגיע לארצות הברית ב-1939.",
+   "source": "src8",
+   "quote": "raised in pre-World War II Paris, he came to the United States in 1939.",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c54",
+   "text": "לפי דנה-פארבר, בגלל מוצאם היהודי נמלטה משפחתו מאירופה והצטרפה אליו בניו יורק.",
+   "source": "src9",
+   "quote": "because of their Jewish heritage, his family fled Europe and joined him in New York.",
+   "status": "confirmed",
+   "locator": "שורה 13"
+  },
+  {
+   "id": "c6",
+   "text": "בנאסראף סיפר שלא הבין שקבלה לבית ספר לרפואה בארצות הברית של 1942 היא משימה קשה במיוחד עבור מי שבעל רקע אתני וזר כמוהו.",
+   "source": "src2",
+   "quote": "I did not realize, however, that admission to Medical School was a formidable undertaking for someone with my ethnic and foreign background in the United States of 1942.",
+   "status": "confirmed",
+   "locator": "שורה 1"
+  },
+  {
+   "id": "c7",
+   "text": "למרות רקורד אקדמי מצוין בקולומביה, בנאסראף נדחה על ידי בתי ספר רבים לרפואה שאליהם פנה, לדבריו.",
+   "source": "src2",
+   "quote": "In spite of an excellent academic record at Columbia, I was refused admission by the numerous medical schools I applied to",
+   "status": "confirmed",
+   "locator": "שורה 1"
+  },
+  {
+   "id": "c8",
+   "text": "לפי Harvard Gazette, באוטוביוגרפיה שלו תיאר בנאסראף את מכסות היהודים והעוינות כלפי זרים שנתקל בהן, ואת דחייתו על ידי 25 בתי ספר לרפואה, כולל הרווארד.",
+   "source": "src8",
+   "quote": "he discussed the anti-Semitic quota systems and anti-foreigner bias he encountered in being rejected by 25 medical schools, including Harvard.",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c9",
+   "text": "לפי Jewish Journal, בנאסראף נדחה על ידי בתי ספר מובילים לרפואה בארצות הברית בגלל מכסות נגד יהודים, ובהמשך לימד בשניים מהם.",
+   "source": "src6",
+   "quote": "He was rejected by top U.S. medical schools because of their quota systems against Jews, but later served on the faculty of two of them.",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c10",
+   "text": "בנאסראף סיפר שללא החסד והתמיכה של ג'ורג' בייקמן, אביו של חבר קרוב, היה בלתי אפשרי עבורו ללמוד רפואה.",
+   "source": "src2",
+   "quote": "would have found it impossible to study medicine except for the kindness and support of George W. Bakeman, father of a close friend",
+   "status": "confirmed",
+   "locator": "שורה 1"
+  },
+  {
+   "id": "c13",
+   "text": "בנאסראף סיפר שאחרי שש שנים בפריז הבין שכזר בצרפת יתקשה לפתח קריירה מדעית ולהקים מעבדה עצמאית.",
+   "source": "src2",
+   "quote": "After six years in Paris, I began to realize that as a foreigner to France, in spite of my French education, I would experience continuous difficulties",
+   "status": "confirmed",
+   "locator": "שורה 1"
+  },
+  {
+   "id": "c14",
+   "text": "בנאסראף הודה ללואיס תומאס שהציע לו משרת פרופסור חבר לפתולוגיה בבית הספר לרפואה של אוניברסיטת ניו יורק.",
+   "source": "src2",
+   "quote": "I am deeply grateful to Lewis Thomas who offered me an appointment as Assistant Professor of Pathology at New York University School of Medicine",
+   "status": "confirmed",
+   "locator": "שורה 1"
+  },
+  {
+   "id": "c15",
+   "text": "בנאסראף סיפר שהחליט להקדיש את עצמו אך ורק למעבדתו ולתלמידיו ולצמצם את עיסוקיו העסקיים.",
+   "source": "src2",
+   "quote": "I made the decision to devote myself solely to my laboratory and my students and to curtail my business career",
+   "status": "confirmed",
+   "locator": "שורה 1"
+  },
+  {
+   "id": "c19",
+   "text": "לפי אתר נובל, סנל ודוסה הראו קודם לכן שגנים השולטים בדחיית תאים זרים קיימים באזורים דומים בעכברים ובבני אדם.",
+   "source": "src10",
+   "quote": "George Snell and Jean Dausset had previously shown that genes that govern rejection of foreign cells exist in similar areas in mice and in people.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c16",
+   "text": "בנאסראף סיפר שתצפיות בבעלי חיים מעורבי זנים שחוסנו באנטיגנים עם הטרוגניות מוגבלת הראו חלוקה לשתי קבוצות: מגיבים ולא-מגיבים.",
+   "source": "src2",
+   "quote": "I made the observation that random bred animals immunized with antigens with restricted heterogeneity, such as hapten conjugates of poly L-lysine distribute themselves into two groups, responders and nonresponders.",
+   "status": "confirmed",
+   "locator": "שורה 1"
+  },
+  {
+   "id": "c21",
+   "text": "לפי JCI, בניסויי הרבעה הראה בנאסראף שהיכולת להגיב לאנטיגן נקבעת על ידי לוקוס גנטי הפועל באופן אוטוזומלי דומיננטי.",
+   "source": "src4",
+   "quote": "He went on to show, through inbreeding experiments, that the ability to respond to antigen was determined by a genetic locus that acted in an autosomal dominant fashion.",
+   "status": "confirmed",
+   "locator": "שורה 52"
+  },
+  {
+   "id": "c24",
+   "text": "לפי AAI, המחקרים נעשו במקור בשרקני ים עם פרד קנטור, ברני לוין, אירה גרין ובילי פול.",
+   "source": "src7",
+   "quote": "These studies, originally done in guinea pigs with Fred Kantor, Bernie Levine, Ira Green, and Bill Paul",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c25",
+   "text": "לפי AAI, יו מקדוויט הרחיב את המחקרים בעכברים וגילה שהגנים הרלוונטיים ממופים ל-MHC.",
+   "source": "src7",
+   "quote": "were later extended by Hugh McDevitt in mice to reveal that the relevant genes mapped to the MHC",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c29",
+   "text": "לפי בריטניקה, נמצאו לאחר מכן יותר מ-30 גני Ir, וחומר גנטי זה נקבע כחלק מקומפלקס ההיסטוקומפטביליות הראשי.",
+   "source": "src1",
+   "quote": "More than 30 Ir genes were subsequently found, and that genetic material was determined to be part of the major histocompatibility complex",
+   "status": "confirmed",
+   "locator": "שורה 20"
+  },
+  {
+   "id": "c28",
+   "text": "ועדת נובל ציינה שהגנים של ה-MHC הם מערכת זיהוי עצמי מתוחכמת המאפשרת למערכת החיסון לא לפגוע בתאי הגוף עצמו.",
+   "source": "src6",
+   "quote": "Achieving this requires a sophisticated self-identification system, and this is centered on a collection of genes called the major histocompatibility complex.",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c31",
+   "text": "לפי הספד ב-Jewish Journal, עבודתו הסבירה מדוע חלק מהאנשים מתגוננים טוב יותר מפני זיהום ומדוע חלקם בסיכון גבוה יותר למחלות אוטואימוניות.",
+   "source": "src6",
+   "quote": "explained why some people were better able to defend themselves against infection than others and why certain people were at greater risk",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c32",
+   "text": "לפי אותו הספד, עבודתו הורחבה להבנת תגובות חיסוניות בהשתלות איברים ולהסבר מדוע הגוף דוחה לעיתים איבר זר.",
+   "source": "src6",
+   "quote": "extended to understanding immunological reactions in organ transplants, explaining why the body would often reject a foreign organ",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c35",
+   "text": "לפי BMJ, בנאסראף הסביר מדוע חלק מהאנשים מצליחים יותר להילחם בזיהומים ובגידולים.",
+   "source": "src11",
+   "quote": "who explained why some people are better at fighting infections and tumours",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c33",
+   "text": "לפי נשיא דנה-פארבר אדוארד בנץ, תגליותיו של בנאסראף על השליטה הגנטית במערכת החיסון איפשרו חלק גדול ממה שידוע היום על תהליכי מחלה בסיסיים כמו זיהום, מחלות אוטואימוניות וסרטן.",
+   "source": "src8",
+   "quote": "made possible much of what we now know about basic disease processes such as infection, autoimmune disorders, and cancer",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c34",
+   "text": "לפי בנץ, עבודתו עיצבה תחומים מהשתלות איברים ועד טיפול באיידס ופיתוח חיסונים טיפוליים לסרטן.",
+   "source": "src8",
+   "quote": "His work has shaped everything from organ transplantation, to AIDS treatment, to, most recently, the development of therapeutic cancer vaccines.",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c36",
+   "text": "בנאסראף סיפר שב-1968 עבר לבת'סדה לניהול המעבדה לאימונולוגיה של המכון הלאומי לאלרגיה ומחלות זיהומיות.",
+   "source": "src2",
+   "quote": "to assume the Directorship of the Laboratory of Immunology of the National Institute of Allergy and Infectious Disease in Bethesda, where I moved in 1968",
+   "status": "confirmed",
+   "locator": "שורה 1"
+  },
+  {
+   "id": "c37",
+   "text": "בנאסראף סיפר שב-1970 הציע לו הדיקן רוברט אברט את הקתדרה לפתולוגיה בבית הספר לרפואה של הרווארד.",
+   "source": "src2",
+   "quote": "In 1970, Dean Robert Ebert offered me the Chair of Pathology at Harvard Medical School.",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c38",
+   "text": "בנאסראף סיפר שהראו בהרווארד כיצד אלוריאקטיביות נובעת מכך שתאי T מחויבים לזהות אנטיגן בהקשר של תוצרי גנים של MHC עצמי.",
+   "source": "src2",
+   "quote": "demonstrated how alloreactivity arises as a consequence of the commitment of T lymphocytes to recognize antigen in the context of autologous MHC gene products.",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c39",
+   "text": "לפי JCI, זמן קצר לאחר הגעתו להרווארד ייסד בנאסראף תוכנית לימודים מתקדמים באימונולוגיה, הוותיקה ביותר בבית הספר שמעניקה תארים.",
+   "source": "src4",
+   "quote": "Not long after his arrival, he founded a graduate program in immunology, the oldest degree-conferring graduate program at Harvard Medical School",
+   "status": "confirmed",
+   "locator": "שורה 54"
+  },
+  {
+   "id": "c52",
+   "text": "לפי JTA, פרס נובל בסך 211,000 דולר חולק בין שלושת הזוכים.",
+   "source": "src12",
+   "quote": "Jean Dausett, 64, of the Immunological Laboratory of St. Louis Hospital of Paris University, and Benacerraf will share the award of $211,000.",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c5",
+   "text": "JTA דיווחה שבנאסראף הוא היהודי הספרדי הראשון שזכה בפרס נובל.",
+   "source": "src12",
+   "quote": "has become the first Sephardic Jew to win a Nobel Prize",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c23",
+   "text": "לפי JCI, ג'ורג' סנל אמר לפי הדיווחים שרק קומץ מדענים הבינו את העבודה הזו ועוד פחות העריכו את אופייה המהפכני.",
+   "source": "src4",
+   "quote": "George Snell, the eminent mouse geneticist, reportedly said that only a handful of scientists understood this work and fewer still appreciated its transformative nature.",
+   "status": "confirmed",
+   "locator": "שורה 52"
+  },
+  {
+   "id": "c51",
+   "text": "לפי בריטניקה, בנאסראף נבחר לאקדמיה הלאומית למדעים ב-1973 וזכה במדליית המדע הלאומית ב-1990.",
+   "source": "src1",
+   "quote": "Benacerraf was elected to the National Academy of Sciences (1973) and was awarded the National Medal of Science (1990).",
+   "status": "confirmed",
+   "locator": "שורה 21"
+  },
+  {
+   "id": "c41",
+   "text": "לפי Jewish Journal, ב-1980 נכנס בנאסראף לניהול מכון סידני פארבר \"בתקופה של סערה ניהולית\" והחזיר אותו לבולטות מחקרית וארגונית.",
+   "source": "src6",
+   "quote": "He took over the Sidney Farber Cancer Institute (now the Dana-Farber Cancer Institute) in 1980 “at a time of administrative turmoil” and brought it back to research and organizational prominence.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c42",
+   "text": "לפי דוד נתן, בנאסראף הגיע לדנה-פארבר בתקופה של הנהגה מפוצלת, והמוסד התחזק מאוד בעקבות כך.",
+   "source": "src7",
+   "quote": "Baruj came to Dana-Farber in a time of fractured leadership. We needed Baruj and he came through for us.",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c44",
+   "text": "לפי AAI, בנאסראף תרם את כל כספי פרס נובל כדי להתחיל קמפיין גיוס כספים עבור דנה-פארבר.",
+   "source": "src7",
+   "quote": "Months after accepting the DFCI position, Baruj won the Nobel and donated all the proceeds to initiate a fund raising campaign for the DFCI.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c45",
+   "text": "לפי דנה-פארבר, תרומות גדלו מאוד בתקופת נשיאותו, ואיפשרו למלא את המבנים החדשים בציוד ובכוח אדם מדעי ורפואי.",
+   "source": "src9",
+   "quote": "Donor gifts increased tremendously during his presidency, enabling Dana-Farber to fill its new buildings with the latest in research and clinical equipment",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c46",
+   "text": "בנאסראף כיהן כנשיא דנה-פארבר עד 1992, לפי תוספת שכתב בעצמו ב-2005.",
+   "source": "src2",
+   "quote": "I was appointed President of the Dana-Farber Cancer Institute in 1980, a position in which I served until 1992.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c47",
+   "text": "לפי AAI, בנאסראף פרש מנשיאות המכון ב-1991.",
+   "source": "src7",
+   "quote": "he transformed this institution into one of the premier cancer centers and medical research organizations in the world before stepping down in 1991",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c48",
+   "text": "לפי בריטניקה, בנאסראף היה נשיא המכון בשנים 1980–1991.",
+   "source": "src1",
+   "quote": "He also was president (1980–91) of the Sidney Farber Cancer Institute (now the Dana-Farber Cancer Institute) in Boston.",
+   "status": "confirmed",
+   "locator": "שורה 21"
+  },
+  {
+   "id": "c57",
+   "text": "לפי דנה-פארבר, ב-1991 הוקמה מלגת בנאסראף לציון 10 שנות נשיאותו.",
+   "source": "src9",
+   "quote": "The Benacerraf Fellowship: Established in 1991 in recognition of Benacerraf's 10th anniversary as president of the Institute",
+   "status": "confirmed",
+   "locator": "שורה 26"
+  },
+  {
+   "id": "c58",
+   "text": "לפי דנה-פארבר, חבר תורמים על שמו הוקם ב-2008 כדי להוקיר תורמים למכון.",
+   "source": "src9",
+   "quote": "This group, created in 2008, recognizes the contributions of Dana-Farber donors",
+   "status": "confirmed",
+   "locator": "שורה 29"
+  },
+  {
+   "id": "c4",
+   "text": "לפי JTA, בנאסראף היה חבר במועצת הנגידים של מכון ויצמן ברחובות, ישראל, במשך שש שנים.",
+   "source": "src12",
+   "quote": "He has been a member of the Board of Governors of the Weizmann Institute in Rehovot, Israel for six years",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c55",
+   "text": "לפי AAI, למי שלא הכירו היטב בנאסראף יכול היה להיראות מרוחק, עם \"פורמליות אירופית\" ישנה שלא תמיד משכה.",
+   "source": "src7",
+   "quote": "To those who did not know him well, Baruj could be an aloof figure, with an old “European formality” that was not always engaging.",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c56",
+   "text": "לפי דוד נתן, בנאסראף דרש נאמנות מלאה בתמורה לתמיכתו ולעצותיו המצוינות.",
+   "source": "src7",
+   "quote": "He was a man who demanded total loyalty in return for his support and excellent advice.",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c59",
+   "text": "לפי המכון הסרטני דנה-פארבר, בנאסראף כיהן כנשיא המכון בשנים 1980–1992.",
+   "source": "src9",
+   "quote": "as its president from 1980-92",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  }
+ ],
+ "sources": [
+  {
+   "id": "src1",
+   "label": "Encyclopaedia Britannica, Baruj Benacerraf",
+   "url": "https://www.britannica.com/EBchecked/topic/60347/Baruj-Benacerraf",
+   "kind": "reference"
+  },
+  {
+   "id": "src2",
+   "label": "NobelPrize.org, Benacerraf's autobiography",
+   "url": "https://www.nobelprize.org/prizes/medicine/1980/benacerraf/auto-biography/",
+   "kind": "official"
+  },
+  {
+   "id": "src3",
+   "label": "NobelPrize.org, The Nobel Prize in Physiology or Medicine 1980",
+   "url": "https://www.nobelprize.org/nobel_prizes/medicine/laureates/1980/",
+   "kind": "official"
+  },
+  {
+   "id": "src4",
+   "label": "Journal of Clinical Investigation, obituary",
+   "url": "https://www.jci.org/articles/view/60570",
+   "kind": "press"
+  },
+  {
+   "id": "src6",
+   "label": "Jewish Journal, obituary, 2011",
+   "url": "https://jewishjournal.com/judaism/obituaries/94766/",
+   "kind": "press"
+  },
+  {
+   "id": "src7",
+   "label": "American Association of Immunologists, In Memoriam, 10-11.2011",
+   "url": "https://www.aai.org/AAISite/media/About/In-Memoriam/BENACERRAF_Baruj_AAI_NL_October-November_p13-17.pdf",
+   "kind": "organisation"
+  },
+  {
+   "id": "src8",
+   "label": "Harvard Gazette, 2011",
+   "url": "https://news.harvard.edu/gazette/story/2011/08/baruj-benacerraf-nobel-laureate-90",
+   "kind": "press"
+  },
+  {
+   "id": "src9",
+   "label": "Dana-Farber, press release, 2011",
+   "url": "https://www.dana-farber.org/newsroom/news-releases/2011/baruj-benacerraf-remembered-as-visionary-immunologist-and-dana-farber-leader",
+   "kind": "organisation"
+  },
+  {
+   "id": "src10",
+   "label": "NobelPrize.org, Benacerraf facts page",
+   "url": "https://www.nobelprize.org/prizes/medicine/1980/benacerraf/facts/",
+   "kind": "official"
+  },
+  {
+   "id": "src11",
+   "label": "BMJ, obituary, 2011",
+   "url": "https://www.bmj.com/content/343/bmj.d5298",
+   "kind": "press"
+  },
+  {
+   "id": "src12",
+   "label": "JTA, 1980",
+   "url": "https://www.jta.org/archive/sephardic-jew-shares-1980-nobel-prize-in-the-field-of-physiology",
+   "kind": "press"
+  }
+ ],
+ "media": [
+  {
+   "id": "m1",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Baruj%20Benacerraf%201969.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Baruj_Benacerraf_1969.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Unknown authorUnknown author",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "Black-and-white portrait of Baruj Benacerraf, a man in a suit and dark tie, in front of blinds.",
+   "illustrates": [],
+   "date": "1969",
+   "width": 626,
+   "height": 835
+  },
+  {
+   "id": "m3",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=f8m8W7P-b3c",
+   "youtube_id": "f8m8W7P-b3c",
+   "source_page": "https://www.youtube.com/watch?v=f8m8W7P-b3c",
+   "source_name": "YouTube",
+   "credit": "Quentin Melson",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "A 1980 news report with interviews with Jean Dausset, George Snell and Baruj Benacerraf on winning the Nobel Prize.",
+   "illustrates": [
+    "c26"
+   ],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m4",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=U2kCrhobTws",
+   "youtube_id": "U2kCrhobTws",
+   "source_page": "https://www.youtube.com/watch?v=U2kCrhobTws",
+   "source_name": "YouTube",
+   "credit": "The American Association of Immunologists (AAI)",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "William Paul, a past president of the American Association of Immunologists, speaks in an interview about his work with Benacerraf (part 1).",
+   "illustrates": [
+    "c24"
+   ],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m5",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=bfryubKeu6o",
+   "youtube_id": "bfryubKeu6o",
+   "source_page": "https://www.youtube.com/watch?v=bfryubKeu6o",
+   "source_name": "YouTube",
+   "credit": "The American Association of Immunologists (AAI)",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "Continuation of the American Association of Immunologists' interview with William Paul about working with Benacerraf (part 2).",
+   "illustrates": [
+    "c24",
+    "c25"
+   ],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m6",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=-YegNFs_A4Y",
+   "youtube_id": "-YegNFs_A4Y",
+   "source_page": "https://www.youtube.com/watch?v=-YegNFs_A4Y",
+   "source_name": "YouTube",
+   "credit": "Journal of Clinical Investigation",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "A conversation by the Journal of Clinical Investigation with William Paul, who began his training in immunology in Benacerraf's laboratory.",
+   "illustrates": [
+    "c22"
+   ]
+  },
+  {
+   "id": "m7",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=oJDvnaLgev0",
+   "youtube_id": "oJDvnaLgev0",
+   "source_page": "https://www.youtube.com/watch?v=oJDvnaLgev0",
+   "source_name": "YouTube",
+   "credit": "Biocon Group",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "A tribute by the Biocon group to Benacerraf, a Nobel laureate who contributed to understanding how the immune system recognizes the body.",
+   "illustrates": [
+    "c26"
+   ],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m8",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dana-Farber%20Cancer%20Center.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Dana-Farber_Cancer_Center.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Dana Farber Cancer Center",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "The Dana-Farber Institute building in Boston, black-and-white photograph from a high vantage point",
+   "illustrates": [],
+   "date": "1947",
+   "width": 1800,
+   "height": 2700,
+   "role": "related"
+  },
+  {
+   "id": "m9",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dana-Farber%2C%20power%20plant%2C%20and%20parking%20garage%2C%20March%202013.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Dana-Farber%2C_power_plant%2C_and_parking_garage%2C_March_2013.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "mararie",
+   "licence": "CC BY-SA 2.0",
+   "hosting": "hotlink",
+   "caption": "The Dana-Farber Institute, the power plant and the Brigham hospital parking garage in Boston, March 2013",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "date": "2013-03-01",
+   "width": 1800,
+   "height": 1290,
+   "role": "related"
+  },
+  {
+   "id": "m11",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/DanaFarber.JPG?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:DanaFarber.JPG",
+   "source_name": "Wikimedia Commons",
+   "credit": "Thomas Steiner",
+   "licence": "CC BY-SA 2.5",
+   "hosting": "hotlink",
+   "caption": "The Dana-Farber Institute in Boston, with 60th-anniversary banners on the parking garage",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/2.5",
+   "date": "2007-09-04",
+   "width": 1664,
+   "height": 2496,
+   "role": "related"
+  },
+  {
+   "id": "m12",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/DanaFarber.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:DanaFarber.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Ɱ",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "The Dana-Farber Institute research building with signs of the Marcotte Center for Cancer Research",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "26 October",
+   "width": 1836,
+   "height": 3264,
+   "role": "related"
+  },
+  {
+   "id": "m13",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dana%E2%80%93Farber%20Cancer%20Institute%20%2854954487999%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Dana%E2%80%93Farber_Cancer_Institute_%2854954487999%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "ajay_suresh",
+   "licence": "CC BY 4.0",
+   "hosting": "hotlink",
+   "caption": "The Dana-Farber Institute in Boston, view from the street toward the glass tower",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/4.0",
+   "date": "2025-11-06",
+   "width": 5169,
+   "height": 5169,
+   "role": "related"
+  },
+  {
+   "id": "m14",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dana%E2%80%93Farber%20Cancer%20Institute%20Louis%20B%20Mayer%20Research%20Laboratories%20Building.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Dana%E2%80%93Farber_Cancer_Institute_Louis_B_Mayer_Research_Laboratories_Building.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "EgorovaSvetlana",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "The Louis B. Mayer Research Laboratories building of the Dana-Farber Institute",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2009-08-18",
+   "width": 3000,
+   "height": 4000,
+   "role": "related"
+  },
+  {
+   "id": "m15",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nci-vol-1838-300%20Emil%20Frei.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Nci-vol-1838-300_Emil_Frei.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "National Cancer Institue",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "Emil Frei with a nurse and a child patient; Frei was the physician-in-chief of the Dana-Farber Institute",
+   "illustrates": [],
+   "date": "20th centu",
+   "width": 450,
+   "height": 639,
+   "role": "related"
+  },
+  {
+   "id": "m16",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Yawkey%20Center%20for%20Cancer%20Care%20-%20Dana%E2%80%93Farber%20Cancer%20Institute%20%2854954488019%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Yawkey_Center_for_Cancer_Care_-_Dana%E2%80%93Farber_Cancer_Institute_%2854954488019%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "ajay_suresh",
+   "licence": "CC BY 4.0",
+   "hosting": "hotlink",
+   "caption": "The Yawkey Center for Cancer Care of the Dana-Farber Institute, 450 Brookline Avenue, Boston",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/4.0",
+   "date": "2025-11-06",
+   "width": 7818,
+   "height": 4398,
+   "role": "related"
+  },
+  {
+   "id": "m17",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Harvard%20Medical%20School%2C%20Boston%2C%20Mass%20%28NYPL%20b12647398-74267%29.tiff?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Harvard_Medical_School%2C_Boston%2C_Mass_%28NYPL_b12647398-74267%29.tiff",
+   "source_name": "Wikimedia Commons",
+   "credit": "Detroit Publishing Company",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "Old postcard of Harvard Medical School in Boston, view of the main building and the terrace railing",
+   "illustrates": [],
+   "date": "after 1898",
+   "width": 2432,
+   "height": 1590,
+   "role": "related"
+  },
+  {
+   "id": "m18",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Elizabeth%20M.%20Bright%2C%20sitting%20in%20lab%20%283321953921%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Elizabeth_M._Bright%2C_sitting_in_lab_%283321953921%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Smithsonian Institution from United States Uploaded by Magnus Manske",
+   "licence": "No restrictions",
+   "hosting": "hotlink",
+   "caption": "A physiologist seated in a laboratory at Harvard between 1918 and 1924, beside chemical bottles",
+   "illustrates": [],
+   "licence_url": "https://www.flickr.com/commons/usage/",
+   "width": 2080,
+   "height": 3439,
+   "role": "related"
+  },
+  {
+   "id": "m20",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Harvard%20Medical%20School%20%2854954429258%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Harvard_Medical_School_%2854954429258%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "ajay_suresh",
+   "licence": "CC BY 4.0",
+   "hosting": "hotlink",
+   "caption": "The main building of Harvard Medical School in Boston, across the lawn",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/4.0",
+   "date": "2025-11-06",
+   "width": 8349,
+   "height": 5566,
+   "role": "related"
+  },
+  {
+   "id": "m21",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Harvard%20Medical%20School%20Wellcome%20V0049885.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Harvard_Medical_School_Wellcome_V0049885.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "not stated",
+   "licence": "CC BY 4.0",
+   "hosting": "hotlink",
+   "caption": "Old postcard of Harvard Medical School: a central lawn with buildings on both sides",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/4.0",
+   "width": 3319,
+   "height": 2114,
+   "role": "related"
+  },
+  {
+   "id": "m22",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Harvard%20Medical%20School%2C%20Boston%2C%20Mass%20%2864041%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Harvard_Medical_School%2C_Boston%2C_Mass_%2864041%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Tichnor Bros. Inc., Boston, Mass.",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "Color postcard of Harvard Medical School, Longwood Avenue, Boston",
+   "illustrates": [],
+   "date": "between ci",
+   "width": 3309,
+   "height": 2127,
+   "role": "related"
+  },
+  {
+   "id": "m23",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/HarvardMedical-1878.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:HarvardMedical-1878.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Unknown authorUnknown author",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "The Harvard Medical School building on North Grove Street, around 1878",
+   "illustrates": [],
+   "date": "circa 1878",
+   "width": 710,
+   "height": 467,
+   "role": "related"
+  },
+  {
+   "id": "m24",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Longwood%20Medical%20area%20HMS.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Longwood_Medical_area_HMS.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "SBAmin",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "View from above of the Harvard Medical School quadrangle and the adjacent Longwood area buildings, in winter",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "2009-01-25",
+   "width": 1024,
+   "height": 768,
+   "role": "related"
+  },
+  {
+   "id": "m25",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Harvard%20Medical%20College%2C%20Boston%2C%20Mass%20%28NYPL%20b12647398-68826%29.tiff?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Harvard_Medical_College%2C_Boston%2C_Mass_%28NYPL_b12647398-68826%29.tiff",
+   "source_name": "Wikimedia Commons",
+   "credit": "Scan by NYPL",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "Postcard from 1906: Harvard Medical School in Boston, view from the lawn",
+   "illustrates": [],
+   "date": "after 1898",
+   "width": 2392,
+   "height": 1579,
+   "role": "related"
+  }
+ ],
+ "check": {
+  "passed": true,
+  "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
+  "checked_at": "2026-11-22T02:01:29Z",
+  "counts": {
+   "confirmed": 65,
+   "not_confirmed": 0,
+   "deleted_sentences": 5,
+   "first_round_confirmed": 64,
+   "first_round_contradicted": 4,
+   "first_round_unverifiable": 5
+  },
+  "note": "unverifiable sentences were deleted, contradicted ones fixed from the source and checked again"
+ },
+ "meta": {
+  "run": "baruj-benacerraf-immune-response-genes",
+  "pipeline": "scripts/museum/museum_line.py",
+  "models": {
+   "research": "sonnet-5-5",
+   "extract": "sonnet-5-5",
+   "media": "sonnet-5-5",
+   "write": "opus-5-5 medium",
+   "check": "opus-5-5 medium",
+   "fix": "opus-5-5 medium"
+  },
+  "source_quality": {
+   "sources": 11,
+   "wikipedia": 0,
+   "strong": 8,
+   "ok": true,
+   "warnings": []
+  },
+  "settled": [
+   {
+    "box": "d2",
+    "question": "באיזו שנה פרש בנאסראף מנשיאות דנה-פארבר?",
+    "url": "https://www.dana-farber.org/newsroom/news-releases/2011/baruj-benacerraf-remembered-as-visionary-immunologist-and-dana-farber-leader",
+    "by": "settle 24.11"
+   }
+  ],
+  "media_dedupe": [
+   {
+    "drop": "m2",
+    "keep": "m1",
+    "by": "reviewed 24.11"
+   }
+  ],
+  "wiki_cleanup": {
+   "at": "2026-11-27T14:11:58Z",
+   "targets": 1,
+   "resourced": 0,
+   "kept_on_other_sources": 0,
+   "deleted": 1
+  }
+ },
+ "lang": "en",
+ "translation": {
+  "from": "he",
+  "translator": "claude-opus-5-5",
+  "checker": "claude-opus-5-5 (separate call, blind to the translation prompt)",
+  "checked_at": "2026-11-27T14:11:59Z",
+  "passed": true,
+  "items": 108,
+  "pairs_checked": 0,
+  "reused": 108,
+  "first_round_flagged": 0,
+  "still_flagged": 0,
+  "flagged": [],
+  "quote_translations": {}
+ }
 }

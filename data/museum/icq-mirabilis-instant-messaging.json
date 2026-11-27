@@ -151,9 +151,7 @@
     ]
    ],
    "media": [],
-   "disagreements": [
-    "d8"
-   ]
+   "disagreements": []
   },
   {
    "id": "s2",
@@ -162,9 +160,10 @@
    "paragraphs": [
     [
      {
-      "text": "לפי ספר שמובא בכלכליסט, בניסיון לפתור את בעיית הזימוניות הם המציאו את תוכנת המסרים המיידיים הראשונה בעולם.",
+      "text": "לפי ספר שמובא בכלכליסט, בניסיון לפתור את בעיית הזימוניות הם החליטו לפתח כלי שיודיע לכל אחד מהם מתי האחרים מחוברים לרשת.",
       "claims": [
-       "c43"
+       "c43",
+       "c-aud-20261127-1"
       ]
      },
      {
@@ -454,9 +453,10 @@
    "paragraphs": [
     [
      {
-      "text": "לפי הספר \"The Israeli Mind\", שקטע ממנו פורסם בכלכליסט, זה היה האקזיט הישראלי הראשון, והוא הפך את המונח \"אקזיט\" למילה עברית לגיטימית.",
+      "text": "לפי הספר \"The Israeli Mind\", שקטע ממנו פורסם בכלכליסט, תמונות המייסדים קישטו את העיתונים והציתו את דמיונם של עשרות אלפי חובבי מחשבים.",
       "claims": [
-       "c47"
+       "c47",
+       "c-aud-20261127-2"
       ]
      },
      {
@@ -507,9 +507,10 @@
       ]
      },
      {
-      "text": "במאי 2024 דיווח כלכליסט שאחרי 28 שנות פעילות, ICQ תיסגר בעוד חודש.",
+      "text": "במאי 2024 דיווח כלכליסט שאחרי 28 שנות פעילות, ICQ תיסגר בעוד חודש, וב-26 ביוני 2024 דיווחה סוכנות AFP שהשירות אכן נסגר.",
       "claims": [
-       "c50"
+       "c50",
+       "c-aud-20261127-7"
       ]
      }
     ],
@@ -602,7 +603,9 @@
     "m8",
     "m9"
    ],
-   "disagreements": []
+   "disagreements": [
+    "d9001"
+   ]
   },
   {
    "id": "s8",
@@ -686,12 +689,6 @@
    "question": "כמה היה הסכום הנוסף, מעבר ל-287 מיליון דולר?",
    "versions": [
     {
-     "says": "גלובס: 127 מיליון דולר שתלויים בביצועי החברה",
-     "claims": [
-      "c2"
-     ]
-    },
-    {
      "says": "גלובס, באותה כתבה: 120 מיליון דולר נוספים",
      "claims": [
       "c3"
@@ -740,9 +737,10 @@
      ]
     },
     {
-     "says": "ComputerBase: יותר מ-100 מיליון משתמשים בעולם",
+     "says": "AOL, בדוח השנתי לרשות ניירות הערך האמריקאית: 12 מיליון משתמשי ניסיון רשומים במועד הרכישה, כמחציתם פעילים",
      "claims": [
-      "c68"
+      "c68",
+      "c-aud-20261127-3"
      ]
     }
    ]
@@ -772,32 +770,31 @@
    ]
   },
   {
-   "id": "d8",
-   "question": "מתי הוקמה מירביליס?",
+   "id": "d9001",
+   "question": "מה היה תפקידו של יוסי ורדי במירביליס?",
    "versions": [
     {
-     "says": "גלובס: באמצע 1996",
+     "says": "Jüdische Allgemeine (2021): המנכ\"ל הראשון של מירביליס",
      "claims": [
-      "c5",
-      "c14"
+      "c-aud-20261127-4"
      ]
     },
     {
-     "says": "ComputerBase: בנובמבר 1996",
+     "says": "JTA (1998): יו\"ר מירביליס",
      "claims": [
-      "c66"
+      "c-aud-20261127-5"
+     ]
+    },
+    {
+     "says": "גלובס (פברואר 1998): לחברה אין מנכ\"ל, וורדי מטפל בהיבטים העסקיים ובאסטרטגיה",
+     "claims": [
+      "c-aud-20261127-6"
      ]
     }
    ]
   }
  ],
  "unknowns": [
-  {
-   "text": "הדף לא יודע אם ICQ אכן נסגרה במועד שכלכליסט דיווח עליו",
-   "claims": [
-    "c50"
-   ]
-  },
   {
    "text": "הדף לא יודע אם ICQ הניבה הכנסות בשלב כלשהו, אחרי שבפברואר 1998 ובזמן העסקה לא היו לה הכנסות",
    "claims": [
@@ -1304,14 +1301,6 @@
    "locator": "שורה 13"
   },
   {
-   "id": "c66",
-   "text": "ComputerBase כתב שבנובמבר 1996 הקימו ארבעה סטודנטים ישראלים, גולדפינגר, ורדי, ויגיזר ועמיר, את מירביליס.",
-   "source": "src6",
-   "quote": "Im November des Jahres 1996 gründeten die vier israelischen Studenten Yair Goldfinger, Arik Vardi, Sefi Vigiser und Amnon Amir das Startup Mirabilis",
-   "status": "confirmed",
-   "locator": "שורה 28"
-  },
-  {
    "id": "c78",
    "text": "לפי דיווח 8-K ש-AOL הגישה לרשות ניירות הערך האמריקאית, ב-28 באפריל 2010 חתמה AOL על הסכם רכישת ניירות ערך עם Digital Sky Technologies למכירת פעילות ICQ.",
    "source": "src11",
@@ -1334,6 +1323,69 @@
    "quote": "ICQ had the advantage of actually being viral, spreading by word of mouth.",
    "status": "confirmed",
    "locator": "שורה 83"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "לפי ספר שמובא בכלכליסט, בניסיון לפתור את בעיית הזימוניות הם החליטו לפתח כלי שיודיע לכל אחד מהם מתי האחרים מחוברים לרשת.",
+   "source": "src12",
+   "quote": "decided to develop a tool that would notify each of them when the others are online",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "לפי הספר \"The Israeli Mind\", שקטע ממנו פורסם בכלכליסט, תמונות המייסדים קישטו את העיתונים והציתו את דמיונם של עשרות אלפי חובבי מחשבים.",
+   "source": "src12",
+   "quote": "ignited the imagination of tens of thousands computer aficionados",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "AOL, בדוח השנתי לרשות ניירות הערך האמריקאית: 12 מיליון משתמשי ניסיון רשומים במועד הרכישה, כמחציתם פעילים",
+   "source": "src9001",
+   "quote": "Mirabilis reported 12 million registered trial users",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-4",
+   "text": "Jüdische Allgemeine (2021): המנכ\"ל הראשון של מירביליס",
+   "source": "src9",
+   "quote": "Yossi Vardi war auch erster Geschäftsführer von Mirabilis",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-5",
+   "text": "JTA (1998): יו\"ר מירביליס",
+   "source": "src4",
+   "quote": "the current chairman of Mirabilis",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-6",
+   "text": "גלובס (פברואר 1998): לחברה אין מנכ\"ל, וורדי מטפל בהיבטים העסקיים ובאסטרטגיה",
+   "source": "src1",
+   "quote": "The company has no general manager at present.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-7",
+   "text": "במאי 2024 דיווח כלכליסט שאחרי 28 שנות פעילות, ICQ תיסגר בעוד חודש, וב-26 ביוני 2024 דיווחה סוכנות AFP שהשירות אכן נסגר.",
+   "source": "src9002",
+   "quote": "has shut down, a message on the Russian-owned ICQ website said Wednesday.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1402,6 +1454,20 @@
    "label": "Calcalist (CTech): ICQ history article",
    "url": "https://www.calcalistech.com/ctechnews/article/bjq01vmn0",
    "kind": "press"
+  },
+  {
+   "id": "src9001",
+   "label": "America Online, Form 10-K for fiscal 1998 (SEC)",
+   "url": "https://www.sec.gov/Archives/edgar/data/0000883780/000102140898000688/0001021408-98-000688.txt",
+   "kind": "official",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9002",
+   "label": "AFP via SpaceMart, Pioneering internet messenger ICQ shuts after 28 years, 26.6.2024",
+   "url": "https://spacemart.com/pioneering-internet-messenger-icq-shuts-after-28-years-999/",
+   "kind": "press",
+   "date": "2026-11-27"
   }
  ],
  "media": [

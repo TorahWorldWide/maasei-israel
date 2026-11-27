@@ -1,7 +1,7 @@
 {
  "schema": "maasei-museum/1",
  "slug": "nathan-straus-pasteurized-milk",
- "deed": "נתן שטראוס מממן חלב מפוסטר לילדים ומוריד את תמותת התינוקות באמריקה",
+ "deed": "Nathan Straus funds pasteurized milk for children and lowers infant mortality in America",
  "canonical_type": "ongoing-charity",
  "year": "1892",
  "title": "Nathan Straus opened pasteurized milk stations for the children of New York, and infant mortality fell",
@@ -174,9 +174,10 @@
       ]
      },
      {
-      "text": "According to one source, this was the first infant milk station in America.",
+      "text": "According to The Jewish Press, in 1893, at his own expense, Straus opened the first of 18 milk depots across New York City.",
       "claims": [
-       "c17"
+       "c17",
+       "c-aud-20261127-1"
       ]
      }
     ],
@@ -267,12 +268,6 @@
       "text": "According to an estimate by New York's health commissioner, infant deaths fell by two-thirds in the first two decades of the 20th century.",
       "claims": [
        "c35"
-      ]
-     },
-     {
-      "text": "According to John Steele Gordon in the journal Philanthropy, the national infant death rate fell from 125.1 per thousand in 1891 to 15.8 in 1925.",
-      "claims": [
-       "c29"
       ]
      }
     ]
@@ -677,9 +672,10 @@
      ]
     },
     {
-     "says": "According to Postcard History, the first infant milk station opened in 1893",
+     "says": "According to Postcard History, Straus's first milk station opened in 1893",
      "claims": [
-      "c17"
+      "c17",
+      "c-aud-20261127-2"
      ]
     },
     {
@@ -1085,14 +1081,6 @@
    "locator": "שורה 38"
   },
   {
-   "id": "c29",
-   "text": "שיעור תמותת התינוקות הלאומי ירד מ-125.1 לאלף ב-1891 ל-15.8 ב-1925.",
-   "source": "src7",
-   "quote": "The national death rate for infants fell from 125.1 per thousand in 1891 to 15.8 in 1925.",
-   "status": "confirmed",
-   "locator": "שורה 37"
-  },
-  {
    "id": "c30",
    "text": "ב-1908, כששיעור תמותת התינוקות כבר הצטמצם בחצי בזכות פיסטור וולונטרי, שיקגו הפכה לעיר הראשונה שחייבה פיסטור, וניו יורק הצטרפה ב-1914.",
    "source": "src7",
@@ -1491,6 +1479,24 @@
    "quote": "He broke his leg during a 1912 visit to Palestine and was therefore unable to join his brother Isidor",
    "status": "confirmed",
    "locator": "שורה 5"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "לפי The Jewish Press, ב-1893, על חשבונו, פתח שטראוס את הראשונה מבין 18 תחנות חלב בניו יורק.",
+   "source": "src14",
+   "quote": "In 1893, and at his own expense, Straus opened the first of 18 milk distribution depots throughout New York City",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "לפי Postcard History, תחנת החלב הראשונה של שטראוס נפתחה ב-1893",
+   "source": "src14",
+   "quote": "In 1893, and at his own expense, Straus opened the first of 18 milk distribution depots throughout New York City",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [

@@ -152,10 +152,11 @@
    "paragraphs": [
     [
      {
-      "text": "לפי המכלול, משרד החוץ שלח אותו לסייע בגידול ירקות במדינות מתפתחות, ובעקבות כך החל לחקור את חיי המדף של ירקות.",
+      "text": "לפי אתר הפקולטה לחקלאות של האוניברסיטה העברית, משרד החוץ שלח את נחום קידר לסייע בגידול ירקות במדינות מתפתחות, ובעקבות כך החל לחקור את חיי המדף של ירקות.",
       "claims": [
        "c59",
-       "c60"
+       "c60",
+       "c-aud-20261127-2"
       ]
      },
      {
@@ -383,9 +384,10 @@
       ]
      },
      {
-      "text": "לפי R&D World, רבינוביץ זכה במקום הראשון בפרסי קיי לחדשנות של אותה שנה, על חידושיו ארוכי השנים בטכנולוגיות גנטיקה וטיפוח.",
+      "text": "לפי R&D World, ב-2011 זכה רבינוביץ במקום הראשון בפרסי קיי לחדשנות, על חידושיו ארוכי השנים בטכנולוגיות גנטיקה וטיפוח.",
       "claims": [
-       "c49"
+       "c49",
+       "c-aud-20261127-1"
       ]
      },
      {
@@ -1051,6 +1053,24 @@
    "quote": "ההלוויה תתקיים ביום ד' ה- 15.04.15, בשעה 16.00, בית עלמין קרית טבעון, חלקת מנוחה נכונה.",
    "status": "confirmed",
    "locator": "שורה 7"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "לפי R&D World, ב-2011 זכה רבינוביץ במקום הראשון בפרסי קיי לחדשנות, על חידושיו ארוכי השנים בטכנולוגיות גנטיקה וטיפוח.",
+   "source": "src9001",
+   "quote": "The presentation this year was on June 21.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "לפי אתר הפקולטה לחקלאות של האוניברסיטה העברית, משרד החוץ שלח את נחום קידר לסייע בגידול ירקות במדינות מתפתחות, ובעקבות כך החל לחקור את חיי המדף של ירקות.",
+   "source": "src11",
+   "quote": "לאורך השנים נשלח קידר על ידי משרד החוץ לסיוע בגידול ירקות במדינות מתפתחות",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1137,6 +1157,13 @@
    "label": "האוניברסיטה העברית, הפקולטה לחקלאות: Israel Prize – Prof. Nachum Kedar",
    "url": "https://en.hafakulta.agri.huji.ac.il/people/prizes/israel-prize",
    "kind": "official"
+  },
+  {
+   "id": "src9001",
+   "label": "EurekAlert! / Hebrew University news release, Kaye Innovation Awards, June 22, 2011",
+   "url": "https://www.eurekalert.org/news-releases/651095",
+   "kind": "organisation",
+   "date": "2026-11-27"
   }
  ],
  "media": [

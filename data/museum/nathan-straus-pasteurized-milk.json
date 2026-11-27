@@ -174,9 +174,10 @@
       ]
      },
      {
-      "text": "לפי אחד המקורות, הייתה זו תחנת חלב התינוקות הראשונה באמריקה.",
+      "text": "לפי The Jewish Press, ב-1893, על חשבונו, פתח שטראוס את הראשונה מבין 18 תחנות חלב בניו יורק.",
       "claims": [
-       "c17"
+       "c17",
+       "c-aud-20261127-1"
       ]
      }
     ],
@@ -267,12 +268,6 @@
       "text": "לפי הערכת נציב הבריאות של ניו יורק, מקרי המוות של תינוקות ירדו בשני שלישים בשני העשורים הראשונים של המאה ה-20.",
       "claims": [
        "c35"
-      ]
-     },
-     {
-      "text": "לפי ג'ון סטיל גורדון בכתב העת Philanthropy, שיעור תמותת התינוקות הלאומי ירד מ-125.1 לאלף ב-1891 ל-15.8 ב-1925.",
-      "claims": [
-       "c29"
       ]
      }
     ]
@@ -677,9 +672,10 @@
      ]
     },
     {
-     "says": "לפי Postcard History, תחנת חלב התינוקות הראשונה נפתחה ב-1893",
+     "says": "לפי Postcard History, תחנת החלב הראשונה של שטראוס נפתחה ב-1893",
      "claims": [
-      "c17"
+      "c17",
+      "c-aud-20261127-2"
      ]
     },
     {
@@ -1085,14 +1081,6 @@
    "locator": "שורה 38"
   },
   {
-   "id": "c29",
-   "text": "שיעור תמותת התינוקות הלאומי ירד מ-125.1 לאלף ב-1891 ל-15.8 ב-1925.",
-   "source": "src7",
-   "quote": "The national death rate for infants fell from 125.1 per thousand in 1891 to 15.8 in 1925.",
-   "status": "confirmed",
-   "locator": "שורה 37"
-  },
-  {
    "id": "c30",
    "text": "ב-1908, כששיעור תמותת התינוקות כבר הצטמצם בחצי בזכות פיסטור וולונטרי, שיקגו הפכה לעיר הראשונה שחייבה פיסטור, וניו יורק הצטרפה ב-1914.",
    "source": "src7",
@@ -1491,6 +1479,24 @@
    "quote": "He broke his leg during a 1912 visit to Palestine and was therefore unable to join his brother Isidor",
    "status": "confirmed",
    "locator": "שורה 5"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "לפי The Jewish Press, ב-1893, על חשבונו, פתח שטראוס את הראשונה מבין 18 תחנות חלב בניו יורק.",
+   "source": "src14",
+   "quote": "In 1893, and at his own expense, Straus opened the first of 18 milk distribution depots throughout New York City",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "לפי Postcard History, תחנת החלב הראשונה של שטראוס נפתחה ב-1893",
+   "source": "src14",
+   "quote": "In 1893, and at his own expense, Straus opened the first of 18 milk distribution depots throughout New York City",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [

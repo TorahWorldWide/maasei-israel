@@ -265,7 +265,11 @@
     "m6",
     "m1"
    ],
-   "disagreements": []
+   "disagreements": [
+    "d9001",
+    "d9002",
+    "d9003"
+   ]
   },
   {
    "id": "s3",
@@ -399,9 +403,10 @@
       ]
      },
      {
-      "text": "באותה שנה לקח מילר את התחבושות לבוסניה והתחיל להשתמש בהן בשדה הקרב.",
+      "text": "באותה שנה לקח מילר את התחבושות לבוסניה, שבה שירתו כוחות נאט\"ו, והתחיל להשתמש בהן שם.",
       "claims": [
-       "c36"
+       "c36",
+       "c-aud-20261127-10"
       ]
      },
      {
@@ -605,6 +610,78 @@
      "says": "JTA: צבא ארה\"ב הפך אותה לציוד סטנדרטי ב-2003",
      "claims": [
       "c46"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9001",
+   "question": "מתי הומצאה התחבושת?",
+   "versions": [
+    {
+     "says": "JTA: התחבושת הומצאה ב-1993",
+     "claims": [
+      "c-aud-20261127-1"
+     ]
+    },
+    {
+     "says": "Globes (ראיון עם בר-נתן): הוא רשם את הפטנט הראשון ב-1992",
+     "claims": [
+      "c-aud-20261127-2"
+     ]
+    },
+    {
+     "says": "רישום הפטנט האמריקאי: בקשת הפטנט הראשונה על התחבושת הוגשה ב-30 באוגוסט 1991",
+     "claims": [
+      "c-aud-20261127-3"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9002",
+   "question": "מתי הומצאה התחבושת?",
+   "versions": [
+    {
+     "says": "JTA: התחבושת הומצאה ב-1993",
+     "claims": [
+      "c-aud-20261127-4"
+     ]
+    },
+    {
+     "says": "Globes (ראיון עם בר-נתן): הוא רשם את הפטנט הראשון ב-1992",
+     "claims": [
+      "c-aud-20261127-5"
+     ]
+    },
+    {
+     "says": "רישום הפטנט האמריקאי: בקשת הפטנט הראשונה על התחבושת הוגשה ב-30 באוגוסט 1991",
+     "claims": [
+      "c-aud-20261127-6"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9003",
+   "question": "מתי הומצאה התחבושת?",
+   "versions": [
+    {
+     "says": "JTA: התחבושת הומצאה ב-1993",
+     "claims": [
+      "c-aud-20261127-7"
+     ]
+    },
+    {
+     "says": "Globes (ראיון עם בר-נתן): הוא רשם את הפטנט הראשון ב-1992",
+     "claims": [
+      "c-aud-20261127-8"
+     ]
+    },
+    {
+     "says": "רישום הפטנט האמריקאי: בקשת הפטנט הראשונה על התחבושת הוגשה ב-30 באוגוסט 1991",
+     "claims": [
+      "c-aud-20261127-9"
      ]
     }
    ]
@@ -1126,6 +1203,96 @@
    "quote": "without a small brown kit devised by David Kleinman, a SWAT team medic who had become concerned about rising violence.",
    "status": "confirmed",
    "locator": "שורה 7"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "JTA: התחבושת הומצאה ב-1993",
+   "source": "src9001",
+   "quote": "Since its 1993 invention",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "Globes (ראיון עם בר-נתן): הוא רשם את הפטנט הראשון ב-1992",
+   "source": "src9002",
+   "quote": "In 1992, he registered his first Patent.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "רישום הפטנט האמריקאי: בקשת הפטנט הראשונה על התחבושת הוגשה ב-30 באוגוסט 1991",
+   "source": "src9003",
+   "quote": "Aug. 30, 1991",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-4",
+   "text": "JTA: התחבושת הומצאה ב-1993",
+   "source": "src9001",
+   "quote": "Since its 1993 invention",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261127-5",
+   "text": "Globes (ראיון עם בר-נתן): הוא רשם את הפטנט הראשון ב-1992",
+   "source": "src9002",
+   "quote": "In 1992, he registered his first Patent.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-6",
+   "text": "רישום הפטנט האמריקאי: בקשת הפטנט הראשונה על התחבושת הוגשה ב-30 באוגוסט 1991",
+   "source": "src9003",
+   "quote": "Aug. 30, 1991",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-7",
+   "text": "JTA: התחבושת הומצאה ב-1993",
+   "source": "src9001",
+   "quote": "Since its 1993 invention",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261127-8",
+   "text": "Globes (ראיון עם בר-נתן): הוא רשם את הפטנט הראשון ב-1992",
+   "source": "src9002",
+   "quote": "In 1992, he registered his first Patent.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-9",
+   "text": "רישום הפטנט האמריקאי: בקשת הפטנט הראשונה על התחבושת הוגשה ב-30 באוגוסט 1991",
+   "source": "src9003",
+   "quote": "Aug. 30, 1991",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-10",
+   "text": "באותה שנה לקח מילר את התחבושות לבוסניה, שבה שירתו כוחות נאט\"ו, והתחיל להשתמש בהן שם.",
+   "source": "src9002",
+   "quote": "The baptism of fire for the bandage was with NATO forces in Bosnia",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1164,6 +1331,27 @@
    "label": "VIN News: Arizona first aid kits credited with saving lives in Tucson shooting",
    "url": "https://vinnews.com/2011/01/22/arizona-first-aid-kits-credited-with-saving-lives-in-tucson-shooting/",
    "kind": "press"
+  },
+  {
+   "id": "src9001",
+   "label": "JTA, Israeli bandage helped save lives in Tucson shooting, 2011",
+   "url": "https://www.jta.org/2011/01/31/united-states/bandage-that-helped-save-lives-in-giffords-shooting-has-israeli-roots",
+   "kind": "press",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9002",
+   "label": "Globes, interview with Bernard Bar-Natan, 2005",
+   "url": "https://en.globes.co.il/en/article-935385",
+   "kind": "press",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9003",
+   "label": "US Patent 5,628,723, Emergency bandage (Google Patents)",
+   "url": "https://patents.google.com/patent/US5628723A/en",
+   "kind": "official",
+   "date": "2026-11-27"
   }
  ],
  "media": [

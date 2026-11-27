@@ -87,6 +87,24 @@ export default function Theater({ entries }: TheaterProps) {
     current && current.media_type === "video_embed" ? ytId(current.media_url || "") : null;
   const isBlocked = !!(currentYtId && blocked[currentYtId]);
 
+  // 27.11 (Tomer): sound at 40%, never 0. Browsers only allow autoplay WITH sound after the
+  // visitor touched the page, so the first video starts muted and the first tap/click/key
+  // anywhere turns the sound on at 40%; every later video then starts with sound.
+  const soundOkRef = useRef(false);
+  const VOL = 40;
+  useEffect(() => {
+    const on = () => {
+      if (soundOkRef.current) return;
+      soundOkRef.current = true;
+      const p = ytPlayerRef.current;
+      try { p?.setVolume?.(VOL); p?.unMute?.(); } catch {}
+      document.querySelectorAll<HTMLVideoElement>("video[data-reel]").forEach((v) => { v.volume = VOL / 100; v.muted = false; });
+    };
+    const evs = ["pointerdown", "keydown", "touchstart"] as const;
+    evs.forEach((e) => window.addEventListener(e, on, { passive: true }));
+    return () => evs.forEach((e) => window.removeEventListener(e, on));
+  }, []);
+
   // YouTube embeds: build a real Player so we know when the video ENDS, and only
   // then advance. No timer — videos play to their natural end. Manual arrows/dots
   // still work anytime. (Uploaded videos advance via the <video> onEnded handler.)
@@ -121,13 +139,20 @@ export default function Theater({ entries }: TheaterProps) {
         playerVars: {
           ...(current?.href ? { start: 8 } : {}),
           autoplay: 1,
-          mute: 1,
+          mute: soundOkRef.current ? 0 : 1,
           controls: 1,
           rel: 0,
           modestbranding: 1,
           playsinline: 1,
         },
         events: {
+          // eslint-disable-next-line @typescript-eslint/no-explicit-any
+          onReady: (e: { target: any }) => {
+            try {
+              e.target.setVolume(VOL);
+              if (soundOkRef.current) e.target.unMute();
+            } catch {}
+          },
           onStateChange: (e: { data: number }) => {
             // 0 === YT.PlayerState.ENDED → advance to the next video
             if (e.data === 0) goRef.current(1);
@@ -314,7 +339,9 @@ export default function Theater({ entries }: TheaterProps) {
                   key={current.id}
                   src={current.media_url}
                   autoPlay
-                  muted
+                  muted={!soundOkRef.current}
+                  data-reel=""
+                  ref={(v) => { if (v) v.volume = VOL / 100; }}
                   playsInline
                   controls
                   onEnded={() => go(1)}

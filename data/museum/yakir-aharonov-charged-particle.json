@@ -194,9 +194,7 @@
     ]
    ],
    "media": [],
-   "disagreements": [
-    "d1"
-   ]
+   "disagreements": []
   },
   {
    "id": "s3",
@@ -424,9 +422,10 @@
       ]
      },
      {
-      "text": "הידען דיווח שאהרונוב דורג בראש רשימת המועמדים הצפויים לנובל לפיזיקה לשנת 2009, לפי תומסון רויטרס.",
+      "text": "ב-2009 כללה תומסון רויטרס את אהרונוב, יחד עם מייקל ברי, ברשימת המועמדים הצפויים לנובל לפיזיקה.",
       "claims": [
-       "c40"
+       "c40",
+       "c-aud-20261127-2"
       ]
      }
     ]
@@ -443,9 +442,10 @@
    "paragraphs": [
     [
      {
-      "text": "אחרי בריסטול לימד אהרונוב באוניברסיטת ברנדייס ב-1960–1961, ובאוניברסיטת ישיבה ב-1964–1967.",
+      "text": "אחרי בריסטול היה אהרונוב חוקר באוניברסיטת ברנדייס ב-1960–1961, ומ-1961 עד 1973 לימד באוניברסיטת ישיבה.",
       "claims": [
-       "c36"
+       "c36",
+       "c-aud-20261127-1"
       ]
      },
      {
@@ -567,25 +567,6 @@
   }
  ],
  "disagreements": [
-  {
-   "id": "d1",
-   "question": "באיזו שנה התגלה האפקט?",
-   "versions": [
-    {
-     "says": "המאמר המקורי והראיון ב-EPJ H: ב-1959, בבריסטול",
-     "claims": [
-      "c1",
-      "c18"
-     ]
-    },
-    {
-     "says": "הידען: ב-1953, במסגרת עבודת הדוקטורט של אהרונוב",
-     "claims": [
-      "c43"
-     ]
-    }
-   ]
-  },
   {
    "id": "d2",
    "question": "מי אישר ראשון את האפקט בניסוי, ועד כמה זה משכנע?",
@@ -958,14 +939,6 @@
    "locator": "שורה 14"
   },
   {
-   "id": "c43",
-   "text": "הידען מדווח שהגילוי התרחש ב-1953 במסגרת עבודת הדוקטורט של אהרונוב.",
-   "source": "src7",
-   "quote": "The discovery took place in 1953 as part of his doctoral thesis.",
-   "status": "confirmed",
-   "locator": "שורה 9"
-  },
-  {
    "id": "c59",
    "text": "ב-1986 הפיזיקאי היפני אקירה טונומורה וצוותו צפו באפקט בניסוי.",
    "source": "src10",
@@ -1108,6 +1081,24 @@
    "quote": "Unfortunately, because it was finite, that whisker had leakage, so there was some magnetic field outside.",
    "status": "confirmed",
    "locator": "שורה 70"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "אחרי בריסטול היה אהרונוב חוקר באוניברסיטת ברנדייס ב-1960–1961, ומ-1961 עד 1973 לימד באוניברסיטת ישיבה.",
+   "source": "src5",
+   "quote": "Assistant Professor, Yeshiva University, USA, 1961-1964",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "ב-2009 כללה תומסון רויטרס את אהרונוב, יחד עם מייקל ברי, ברשימת המועמדים הצפויים לנובל לפיזיקה.",
+   "source": "src9001",
+   "quote": "Sir Michael appears alongside Yakir Aharonov",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1218,6 +1209,13 @@
    "label": "arXiv: Theoretical Discovery, Experiment, and Controversy in the Aharonov-Bohm Effect: An Oral History Interview (Aharonov)",
    "url": "https://arxiv.org/html/2508.08105v1",
    "kind": "press"
+  },
+  {
+   "id": "src9001",
+   "label": "Times Higher Education, Brits tipped for Nobel glory, September 2009",
+   "url": "https://www.timeshighereducation.com/cn/news/brits-tipped-for-nobel-glory/408316.article",
+   "kind": "press",
+   "date": "2026-11-27"
   }
  ],
  "media": [

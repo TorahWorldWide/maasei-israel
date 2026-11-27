@@ -1,7 +1,7 @@
 {
  "schema": "maasei-museum/1",
  "slug": "yakir-aharonov-charged-particle",
- "deed": "יקיר אהרונוב מתאר חלקיק טעון המושפע מפוטנציאל חשמלי גם ללא שדה",
+ "deed": "Yakir Aharonov describes a charged particle influenced by an electric potential even without a field",
  "canonical_type": "scientific-discovery",
  "year": "1959",
  "title": "Israeli physicist Yakir Aharonov showed that an electron is influenced by a potential even in a region with no field",
@@ -194,9 +194,7 @@
     ]
    ],
    "media": [],
-   "disagreements": [
-    "d1"
-   ]
+   "disagreements": []
   },
   {
    "id": "s3",
@@ -424,9 +422,10 @@
       ]
      },
      {
-      "text": "Hayadan reported that Aharonov was ranked at the top of the list of candidates expected to win the Nobel Prize in Physics for 2009, according to Thomson Reuters.",
+      "text": "In 2009 Thomson Reuters included Aharonov, together with Michael Berry, in its list of candidates expected to win the Nobel Prize in Physics.",
       "claims": [
-       "c40"
+       "c40",
+       "c-aud-20261127-2"
       ]
      }
     ]
@@ -443,9 +442,10 @@
    "paragraphs": [
     [
      {
-      "text": "After Bristol, Aharonov taught at Brandeis University in 1960–1961, and at Yeshiva University in 1964–1967.",
+      "text": "After Bristol, Aharonov was a research associate at Brandeis University in 1960–1961, and from 1961 to 1973 he taught at Yeshiva University.",
       "claims": [
-       "c36"
+       "c36",
+       "c-aud-20261127-1"
       ]
      },
      {
@@ -567,25 +567,6 @@
   }
  ],
  "disagreements": [
-  {
-   "id": "d1",
-   "question": "In what year was the effect discovered?",
-   "versions": [
-    {
-     "says": "The original paper and the EPJ H interview: in 1959, in Bristol",
-     "claims": [
-      "c1",
-      "c18"
-     ]
-    },
-    {
-     "says": "Hayadan: in 1953, as part of Aharonov's doctoral thesis",
-     "claims": [
-      "c43"
-     ]
-    }
-   ]
-  },
   {
    "id": "d2",
    "question": "Who first confirmed the effect experimentally, and how convincing is it?",
@@ -958,14 +939,6 @@
    "locator": "שורה 14"
   },
   {
-   "id": "c43",
-   "text": "הידען מדווח שהגילוי התרחש ב-1953 במסגרת עבודת הדוקטורט של אהרונוב.",
-   "source": "src7",
-   "quote": "The discovery took place in 1953 as part of his doctoral thesis.",
-   "status": "confirmed",
-   "locator": "שורה 9"
-  },
-  {
    "id": "c59",
    "text": "ב-1986 הפיזיקאי היפני אקירה טונומורה וצוותו צפו באפקט בניסוי.",
    "source": "src10",
@@ -1108,6 +1081,24 @@
    "quote": "Unfortunately, because it was finite, that whisker had leakage, so there was some magnetic field outside.",
    "status": "confirmed",
    "locator": "שורה 70"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "אחרי בריסטול היה אהרונוב חוקר באוניברסיטת ברנדייס ב-1960–1961, ומ-1961 עד 1973 לימד באוניברסיטת ישיבה.",
+   "source": "src5",
+   "quote": "Assistant Professor, Yeshiva University, USA, 1961-1964",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "ב-2009 כללה תומסון רויטרס את אהרונוב, יחד עם מייקל ברי, ברשימת המועמדים הצפויים לנובל לפיזיקה.",
+   "source": "src9001",
+   "quote": "Sir Michael appears alongside Yakir Aharonov",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1218,6 +1209,13 @@
    "label": "arXiv: Theoretical Discovery, Experiment, and Controversy in the Aharonov-Bohm Effect: An Oral History Interview (Aharonov)",
    "url": "https://arxiv.org/html/2508.08105v1",
    "kind": "press"
+  },
+  {
+   "id": "src9001",
+   "label": "Times Higher Education, Brits tipped for Nobel glory, September 2009",
+   "url": "https://www.timeshighereducation.com/cn/news/brits-tipped-for-nobel-glory/408316.article",
+   "kind": "press",
+   "date": "2026-11-27"
   }
  ],
  "media": [

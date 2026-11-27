@@ -1,7 +1,7 @@
 {
  "schema": "maasei-museum/1",
  "slug": "technion-teva-rasagiline-parkinson",
- "deed": "חוקרי הטכניון מפתחים עם טבע את רזאג׳ילין לטיפול בחולי פרקינסון",
+ "deed": "Technion researchers develop rasagiline with Teva for the treatment of Parkinson's patients",
  "canonical_type": "team-invention",
  "year": "1978",
  "title": "Technion researchers Youdim and Finberg developed Azilect, a drug for Parkinson's patients, with Teva",
@@ -265,7 +265,8 @@
     "m11"
    ],
    "disagreements": [
-    "d9001"
+    "d9001",
+    "d9002"
    ]
   },
   {
@@ -482,7 +483,8 @@
     "m8"
    ],
    "disagreements": [
-    "d4"
+    "d4",
+    "d9003"
    ]
   },
   {
@@ -765,6 +767,48 @@
      "says": "Globes (2026): Youdim immigrated to Israel in 1977 and brought the molecule with him from Oxford",
      "claims": [
       "c-aud-20261127-4"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9002",
+   "question": "When and where did the research on the molecule begin?",
+   "versions": [
+    {
+     "says": "Youdim in Calcalist (2008): in 1978, while he was in England",
+     "claims": [
+      "c-aud-20261127-1"
+     ]
+    },
+    {
+     "says": "Israel Prize CV: Youdim moved to Israel in early 1977 and founded the Technion's pharmacology department",
+     "claims": [
+      "c-aud-20261127-2"
+     ]
+    },
+    {
+     "says": "Globes (2026): Youdim moved to Israel in 1977 and brought the molecule with him from Oxford",
+     "claims": [
+      "c-aud-20261127-3"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9003",
+   "question": "Did the ADAGIO study prove that Azilect slows the progression of Parkinson's?",
+   "versions": [
+    {
+     "says": "Jerusalem Post in 2008: yes, the first drug proven to slow the disease",
+     "claims": [
+      "c-aud-20261127-4"
+     ]
+    },
+    {
+     "says": "FDA advisory panel in 2011: unanimously, Teva had not provided enough evidence that the drug delays disease progression",
+     "claims": [
+      "c-aud-20261127-5"
      ]
     }
    ]
@@ -1447,6 +1491,51 @@
    "locator": "audit 2026-11-27",
    "status": "confirmed",
    "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "יודעים בכלכליסט (2008): ב-1978, כשהיה באנגליה",
+   "source": "src3",
+   "quote": "בשנת 1978 בזמן שהייתי באנגליה",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "קורות החיים של פרס ישראל: יודעים עלה לישראל בתחילת 1977 והקים את המחלקה לפרמקולוגיה בטכניון",
+   "source": "src9003",
+   "quote": "עלה פרופסור יודעים לישראל והקים את המחלקה החדשה",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "גלובס (2026): יודעים עלה ב-1977 והביא איתו את המולקולה מאוקספורד",
+   "source": "src7",
+   "quote": "המולקולה שהגיע איתה מאוקספורד",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-4",
+   "text": "הג'רוזלם פוסט ב-2008: כן, התרופה הראשונה שהוכחה כמאטה את המחלה",
+   "source": "src8",
+   "quote": "a first for any drug",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261127-5",
+   "text": "ועדה מייעצת של ה-FDA ב-2011: פה אחד, טבע לא הביאה מספיק ראיות לכך שהתרופה מאטה את התקדמות המחלה",
+   "source": "src9002",
+   "quote": "voted unanimously that Teva",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1509,6 +1598,13 @@
    "label": "Bloomberg Law, FDA Advisory Panel Says Azilect Not Effective to Delay Parkinson's Disease, Oct. 2011",
    "url": "https://news.bloomberglaw.com/pharma-and-life-sciences/fda-advisory-panel-says-azilect-not-effective-to-delay-parkinsons-disease",
    "kind": "press",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9003",
+   "label": "Ministry of Education, Israel Prize 2022, Prof. Moussa Youdim CV",
+   "url": "https://meyda.education.gov.il/files/prasisrael/2022/musa.pdf",
+   "kind": "official",
    "date": "2026-11-27"
   }
  ],

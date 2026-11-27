@@ -572,6 +572,42 @@
      ]
     }
    ]
+  },
+  {
+   "id": "d9002",
+   "question": "האם IsraAID היה הארגון הזר היחיד בזירה, או הראשון?",
+   "versions": [
+    {
+     "says": "Jerusalem Post: ב-27 באוגוסט 2016 היה הארגון ההומניטרי הזר הלא-ממשלתי היחיד בשטח",
+     "claims": [
+      "c-aud-20261128-1"
+     ]
+    },
+    {
+     "says": "Ynetnews: הארגון הזר הראשון בשטח באיטליה",
+     "claims": [
+      "c-aud-20261128-2"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9003",
+   "question": "האם IsraAID היה הארגון הזר היחיד בזירה, או הראשון?",
+   "versions": [
+    {
+     "says": "Jerusalem Post: ב-27 באוגוסט 2016 היה הארגון ההומניטרי הזר הלא-ממשלתי היחיד בשטח",
+     "claims": [
+      "c-aud-20261128-3"
+     ]
+    },
+    {
+     "says": "JewishLink: הארגון ההומניטרי הזר הלא-ממשלתי הראשון שסייע במוקד הרעידה",
+     "claims": [
+      "c-aud-20261128-4"
+     ]
+    }
+   ]
   }
  ],
  "unknowns": [],
@@ -1024,6 +1060,42 @@
    "source": "src2",
    "quote": "Since 2016, IsraAID has remained on the ground working with our partner, Legacoop Lazio",
    "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-1",
+   "text": "Jerusalem Post: ב-27 באוגוסט 2016 היה הארגון ההומניטרי הזר הלא-ממשלתי היחיד בשטח",
+   "source": "src5",
+   "quote": "is currently the only foreign humanitarian non-profit, non-governmental aid organization on the ground",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261128-2",
+   "text": "Ynetnews: הארגון הזר הראשון בשטח באיטליה",
+   "source": "src7",
+   "quote": "IsraAID was the first foreign aid organization on the ground in Italy to help survivors.",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-3",
+   "text": "Jerusalem Post: ב-27 באוגוסט 2016 היה הארגון ההומניטרי הזר הלא-ממשלתי היחיד בשטח",
+   "source": "src5",
+   "quote": "is currently the only foreign humanitarian non-profit, non-governmental aid organization on the ground",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261128-4",
+   "text": "JewishLink: הארגון ההומניטרי הזר הלא-ממשלתי הראשון שסייע במוקד הרעידה",
+   "source": "src6",
+   "quote": "was the first foreign humanitarian NGO to help local counterparts with recovery efforts at the earthquake epicenter",
+   "locator": "audit 2026-11-28",
    "status": "confirmed",
    "checker_note": "audit: quote found on the fetched page"
   }

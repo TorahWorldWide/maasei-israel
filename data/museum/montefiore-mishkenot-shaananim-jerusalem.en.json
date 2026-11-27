@@ -484,7 +484,8 @@
     "m36"
    ],
    "disagreements": [
-    "d7"
+    "d7",
+    "d9001"
    ]
   },
   {
@@ -750,6 +751,24 @@
      "claims": [
       "c43",
       "c63"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9001",
+   "question": "How tall is the windmill?",
+   "versions": [
+    {
+     "says": "Times of Israel: 18 meters",
+     "claims": [
+      "c-aud-20261127-1"
+     ]
+    },
+    {
+     "says": "Orthodox Union: 15 meters",
+     "claims": [
+      "c-aud-20261127-2"
      ]
     }
    ]
@@ -1276,6 +1295,24 @@
    "quote": "His seventh and last pilgrimage to the Holy Land was made in 1875.",
    "status": "confirmed",
    "locator": "שורה 3"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "Times of Israel: 18 מטרים",
+   "source": "src5",
+   "quote": "Montefiore erected an 18-meter-high ultra-modern windmill",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "האיחוד האורתודוקסי: 15 מטרים",
+   "source": "src9001",
+   "quote": "Fifteen meters high, the windmill was the tallest structure in Jerusalem",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1344,6 +1381,13 @@
    "label": "Encyclopædia Britannica (1911), Montefiore, Sir Moses Haim",
    "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Montefiore,_Sir_Moses_Haim",
    "kind": "reference"
+  },
+  {
+   "id": "src9001",
+   "label": "Orthodox Union, Wind in the Sails",
+   "url": "https://www.ou.org/life/israel/wind-in-the-sails/",
+   "kind": "organisation",
+   "date": "2026-11-27"
   }
  ],
  "media": [

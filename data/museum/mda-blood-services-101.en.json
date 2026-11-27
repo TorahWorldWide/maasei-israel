@@ -1,7 +1,7 @@
 {
  "schema": "maasei-museum/1",
  "slug": "mda-blood-services-101",
- "deed": "מגן דוד אדום מפעיל את שירות הדם הלאומי ואת מוקד החירום 101",
+ "deed": "Magen David Adom operates the National Blood Service and the 101 emergency dispatch center",
  "canonical_type": "ongoing-charity",
  "year": "1930",
  "title": "Magen David Adom: From a Hut in Tel Aviv in 1930 to the 101 Dispatch Center and the Blood Service of All of Israel",
@@ -25,16 +25,18 @@
    ]
   },
   {
-   "text": "Today MDA operates the 101 emergency dispatch center and the National Blood Services, and it supplies all of Israel's blood.",
+   "text": "Today MDA operates the 101 emergency dispatch center and the National Blood Services, and according to its American donor organization it collects and processes 97% of Israel's blood supply.",
    "claims": [
     "c53",
-    "c49"
+    "c49",
+    "c-aud-20261127-2"
    ]
   },
   {
-   "text": "As of 2021, the dispatch center receives about 2.7 million medical emergency calls a year.",
+   "text": "In 2021 the dispatch center fielded more than 2.7 million calls.",
    "claims": [
-    "c84"
+    "c84",
+    "c-aud-20261127-5"
    ]
   }
  ],
@@ -70,9 +72,10 @@
   },
   {
    "label": "Blood",
-   "value": "All of Israel's blood",
+   "value": "About 97% of Israel's blood supply",
    "claims": [
-    "c49"
+    "c49",
+    "c-aud-20261127-3"
    ]
   },
   {
@@ -404,9 +407,10 @@
       ]
      },
      {
-      "text": "MDA supplies all of Israel's blood.",
+      "text": "According to MDA's American donor organization, MDA collects, processes and stores 97% of Israel's national blood supply and all the blood the IDF needs.",
       "claims": [
-       "c49"
+       "c49",
+       "c-aud-20261127-1"
       ]
      },
      {
@@ -418,9 +422,10 @@
     ],
     [
      {
-      "text": "In March 2015 the Atlanta-based Marcus Foundation donated $25 million to build a new blood services center in Ramla.",
+      "text": "In 2016 the Atlanta-based Marcus Foundation donated $25 million to build a new blood services center in Ramla.",
       "claims": [
-       "c59"
+       "c59",
+       "c-aud-20261127-4"
       ]
      },
      {
@@ -661,12 +666,6 @@
      "says": "According to Israel Education, in 1915, when Dr. Moses Erlanger founded an association to provide medical aid to Jews who were wounded and captured in the First World War",
      "claims": [
       "c8"
-     ]
-    },
-    {
-     "says": "According to the Jewish Virtual Library, at a meeting in Philadelphia in October 1918, attended by Ben-Gurion, Golda Meir and Henrietta Szold",
-     "claims": [
-      "c21"
      ]
     },
     {
@@ -1409,6 +1408,51 @@
    "quote": "They decided to establish a quick response volunteer emergency medical association",
    "status": "confirmed",
    "locator": "שורה 10"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "לפי ארגון התורמים האמריקני של מד\"א, מד\"א אוסף, מעבד ומאחסן 97% מאספקת הדם הלאומית של ישראל ואת כל הדם שצה\"ל צריך.",
+   "source": "src13",
+   "quote": "Magen David Adom collects, processes, and stores 97% of Israel's national blood supply and the entirety required by the Israel Defense Forces",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "היום מפעיל מד\"א את מוקד החירום 101 ואת שירותי הדם הלאומיים, ולפי ארגון התורמים האמריקני שלו הוא אוסף ומעבד 97% מאספקת הדם של ישראל.",
+   "source": "src13",
+   "quote": "Magen David Adom collects, processes, and stores 97% of Israel's national blood supply",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "כ-97% מאספקת הדם בישראל",
+   "source": "src13",
+   "quote": "Magen David Adom collects, processes, and stores 97% of Israel's national blood supply",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-4",
+   "text": "ב-2016 תרמה קרן מרקוס מאטלנטה 25 מיליון דולר להקמת מרכז שירותי דם חדש ברמלה.",
+   "source": "src9001",
+   "quote": "The Atlanta-based Marcus Foundation donated the funds to build a new blood services center",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-5",
+   "text": "ב-2021 נענו במוקד יותר מ-2.7 מיליון שיחות.",
+   "source": "src13",
+   "quote": "In 2021, more than 2.7 million calls were fielded.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1495,6 +1539,13 @@
    "label": "U.S. Government Publishing Office: Congressional Record, Vol. 152 (2006), Part 11 (statement by Rep. Ros-Lehtinen)",
    "url": "https://www.govinfo.gov/content/pkg/CRECB-2006-pt11/html/CRECB-2006-pt11-Pg14839-2.htm",
    "kind": "official"
+  },
+  {
+   "id": "src9001",
+   "label": "JTA, Magen David Adom gets $25M, its largest gift ever, for Israel blood center, March 2, 2016",
+   "url": "https://www.jta.org/2016/03/02/israel/magen-david-adom-gets-25m-its-largest-gift-ever-for-israel-blood-center",
+   "kind": "press",
+   "date": "2026-11-27"
   }
  ],
  "media": [

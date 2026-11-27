@@ -1,7 +1,7 @@
 {
  "schema": "maasei-museum/1",
  "slug": "ort-vocational-training-since-1880",
- "deed": "רשת אורט מכשירה צעירים למקצוע מאז 1880 ביותר ממאה מדינות",
+ "deed": "רשת אורט מכשירה צעירים למקצוע מאז 1880, ופעלה במהלך השנים ביותר ממאה מדינות",
  "canonical_type": "ongoing-charity",
  "year": "1880",
  "title": "אורט: מ-1880 בסנקט פטרבורג, הכשרה מקצועית ליהודים שהפכה לרשת חינוך עולמית",
@@ -112,9 +112,10 @@
    "paragraphs": [
     [
      {
-      "text": "ב-1794 גזרה קתרין הגדולה שרוב היהודים יחיו באזור אחד, שנודע בשם \"תחום המושב\".",
+      "text": "בגזרות מ-1791 ומ-1794 קבעה קתרין הגדולה שרוב היהודים יחיו באזור אחד, שנודע בשם \"תחום המושב\".",
       "claims": [
-       "c3"
+       "c3",
+       "c-aud-20261127-2"
       ]
      },
      {
@@ -490,9 +491,10 @@
     ],
     [
      {
-      "text": "ב-1960 ביקשה סוכנות הפיתוח של ארה\"ב מאורט להפעיל תוכניות הכשרה טכנית באפריקה.",
+      "text": "ב-1961 שלחה אורט צוותים לסקור את החינוך המקצועי באפריקה, בחוזה עם מינהל שיתוף הפעולה הבין-לאומי של ממשלת ארה\"ב.",
       "claims": [
-       "c55"
+       "c55",
+       "c-aud-20261127-1"
       ]
      },
      {
@@ -526,9 +528,10 @@
     ],
     [
      {
-      "text": "לפי האנציקלופדיה היהודית, עד 2005 למדו בהם יותר מ-25,000 תלמידים בשנה",
+      "text": "לפי האנציקלופדיה היהודית, עד 2005 פעלו במדינות חבר העמים ובמדינות הבלטיות 58 בתי ספר ומוסדות של אורט, ולמדו בהם יותר מ-25,000 תלמידים בשנה",
       "claims": [
-       "c61"
+       "c61",
+       "c-aud-20261127-3"
       ]
      }
     ]
@@ -674,7 +677,8 @@
     "m39"
    ],
    "disagreements": [
-    "d9"
+    "d9",
+    "d9001"
    ]
   }
  ],
@@ -774,9 +778,10 @@
      ]
     },
     {
-     "says": "כמעט 85,000 איש",
+     "says": "לפי קרן עזריאלי, כ-85,000 איש ב-78 מחנות עקורים בגרמניה",
      "claims": [
-      "c98"
+      "c98",
+      "c-aud-20261127-6"
      ]
     },
     {
@@ -849,6 +854,24 @@
      "says": "לפי האנציקלופדיה היהודית, כ-270,000 תלמידים בשנה",
      "claims": [
       "c68"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9001",
+   "question": "בכמה מדינות פועלת אורט היום?",
+   "versions": [
+    {
+     "says": "לפי דף המיזוג באתר אורט: תלמידים ב-36 מדינות וב-5 יבשות",
+     "claims": [
+      "c-aud-20261127-4"
+     ]
+    },
+    {
+     "says": "לפי דף 'איפה אנחנו' באתר אורט: יותר מ-350,000 איש בשנה ביותר מ-40 מדינות",
+     "claims": [
+      "c-aud-20261127-5"
      ]
     }
    ]
@@ -1495,6 +1518,60 @@
    "quote": "serving approximately 85,000 people in 78 DP camps in Germany.",
    "status": "confirmed",
    "locator": "שורה 88"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "ב-1961 שלחה אורט צוותים לסקור את החינוך המקצועי באפריקה, בחוזה עם מינהל שיתוף הפעולה הבין-לאומי של ממשלת ארה\"ב.",
+   "source": "src9001",
+   "quote": "The surveys have been organized under terms of a contract between ORT and the International Cooperation Administration",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "בגזרות מ-1791 ומ-1794 קבעה קתרין הגדולה שרוב היהודים יחיו באזור אחד, שנודע בשם \"תחום המושב\".",
+   "source": "src9002",
+   "quote": "Most of Western historians (mainly Anglo-Saxon) but also Polish ones refer to December 23rd 1791 as its issue date.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "לפי האנציקלופדיה היהודית, עד 2005 פעלו במדינות חבר העמים ובמדינות הבלטיות 58 בתי ספר ומוסדות של אורט, ולמדו בהם יותר מ-25,000 תלמידים בשנה",
+   "source": "src4",
+   "quote": "By 2005, there were 58 ort schools and educational institutions in the cis and Baltic States serving more than 25,000 students each year",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-4",
+   "text": "לפי דף המיזוג באתר אורט: תלמידים ב-36 מדינות וב-5 יבשות",
+   "source": "src13",
+   "quote": "Today, ORT connects students across 36 countries and 5 continents",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261127-5",
+   "text": "לפי דף 'איפה אנחנו' באתר אורט: יותר מ-350,000 איש בשנה ביותר מ-40 מדינות",
+   "source": "src15",
+   "quote": "benefit more than 350,000 people every year in more than 40 countries",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-6",
+   "text": "לפי קרן עזריאלי, כ-85,000 איש ב-78 מחנות עקורים בגרמניה",
+   "source": "src18",
+   "quote": "serving approximately 85,000 people in 78 DP camps in Germany",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1599,6 +1676,20 @@
    "label": "Azrieli Foundation: The Holocaust Survivor Memoirs Program, Displaced Persons Camps",
    "url": "https://memoirs.azrielifoundation.org/exhibits/education-disrupted/displaced-persons-camps/",
    "kind": "organisation"
+  },
+  {
+   "id": "src9001",
+   "label": "JTA, American ORT Sends Teams to Africa to Survey Vocational Education, 19 September 1961",
+   "url": "https://www.jta.org/archive/american-ort-sends-teams-to-africa-to-survey-vocational-education",
+   "kind": "press",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "src9002",
+   "label": "Jewish Historical Institute (Warsaw), Anniversary of the Pale of Settlement decree",
+   "url": "https://www.jhi.pl/en/articles/anniversary-of-the-pale-settlement-decree,243",
+   "kind": "organisation",
+   "date": "2026-11-27"
   }
  ],
  "media": [

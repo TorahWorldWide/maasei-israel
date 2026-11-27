@@ -161,15 +161,18 @@
     ],
     [
      {
-      "text": "In the 1950s it was established that genetic information passes from DNA to RNA and to protein.",
+      "text": "According to the Nobel website, in the 1950s it was established that genetic information passes from DNA to RNA and to protein.",
       "claims": [
-       "c12"
+       "c12",
+       "c-aud-20261127-3",
+       "c-aud-20261127-4"
       ]
      },
      {
-      "text": "It was also established that a sequence of three nucleotides in DNA corresponds to a certain amino acid in a protein.",
+      "text": "According to the Nobel website, a sequence of three nucleotides in DNA corresponds to a certain amino acid in a protein.",
       "claims": [
-       "c12"
+       "c12",
+       "c-aud-20261127-2"
       ]
      },
      {
@@ -205,7 +208,9 @@
     "m7",
     "m23"
    ],
-   "disagreements": []
+   "disagreements": [
+    "d9001"
+   ]
   },
   {
    "id": "s3",
@@ -364,10 +369,11 @@
    "paragraphs": [
     [
      {
-      "text": "Nirenberg shared the Nobel Prize in Physiology or Medicine with Robert Holley of Cornell and with Har Gobind Khorana of the University of Wisconsin.",
+      "text": "In 1968 Nirenberg shared the Nobel Prize in Physiology or Medicine with Robert Holley of Cornell and with Har Gobind Khorana of the University of Wisconsin.",
       "claims": [
        "c37",
-       "c39"
+       "c39",
+       "c-aud-20261127-1"
       ]
      },
      {
@@ -434,9 +440,7 @@
     "m3",
     "m14"
    ],
-   "disagreements": [
-    "d4"
-   ]
+   "disagreements": []
   },
   {
    "id": "s8",
@@ -520,7 +524,7 @@
   },
   {
    "id": "d3",
-   "question": "When was Nirenberg appointed head of biochemical genetics at the NIH?",
+   "question": "Which biochemical genetics posts did Nirenberg head at the NIH, and when?",
    "versions": [
     {
      "says": "According to the Nobel website, in 1962 he was appointed head of the Section of Biochemical Genetics",
@@ -529,27 +533,28 @@
      ]
     },
     {
-     "says": "According to Britannica, a year after the National Medal of Science he was elevated to director of biochemical genetics, and held the position for the rest of his career",
+     "says": "According to the National Library of Medicine, from 1966 he was chief of the Laboratory of Biochemical Genetics, a different post from head of the Section",
      "claims": [
-      "c36"
+      "c36",
+      "c-aud-20261127-5"
      ]
     }
    ]
   },
   {
-   "id": "d4",
-   "question": "In what year did Nirenberg win the Nobel Prize?",
+   "id": "d9001",
+   "question": "Was it already known in the 1950s that genetic information passes from DNA through RNA to protein?",
    "versions": [
     {
-     "says": "According to the National Library of Medicine, in 1968",
+     "says": "Nobel website: yes, in the 1950s it was established that genetic information passes from DNA to RNA to protein",
      "claims": [
-      "c37"
+      "c-aud-20261127-3"
      ]
     },
     {
-     "says": "According to JTA, he was named one of the three winners of the 1969 prize",
+     "says": "Nirenberg in Scientific American: no, when he began work on the code around 1960 he was still asking whether messenger RNA existed at all",
      "claims": [
-      "c38"
+      "c-aud-20261127-4"
      ]
     }
    ]
@@ -918,14 +923,6 @@
    "locator": "שורה 19"
   },
   {
-   "id": "c38",
-   "text": "לפי JTA, נירנברג נבחר לאחד משלושה זוכים בפרס נובל לפיזיולוגיה ורפואה של 1969.",
-   "source": "src1",
-   "quote": "one of three winners of the 1969 Nobel Prize for physiology and medicine",
-   "status": "confirmed",
-   "locator": "שורה 2"
-  },
-  {
    "id": "c57",
    "text": "לפי הקרן הלאומית למדע (NSF), הנשיא ג'ונסון העניק לנירנברג את המדליה בטקס בחדר המזרחי של הבית הלבן ב-8 בפברואר 1965.",
    "source": "src9",
@@ -940,6 +937,51 @@
    "quote": "Presented by President Johnson at a White House Ceremony in the East Room on February 8, 1965.",
    "status": "confirmed",
    "locator": "שורה 8"
+  },
+  {
+   "id": "c-aud-20261127-1",
+   "text": "ב-1968 חלק נירנברג את פרס נובל בפיזיולוגיה או רפואה עם רוברט הולי מקורנל ועם הר גובינד חוראנה מאוניברסיטת ויסקונסין.",
+   "source": "src6",
+   "quote": "Marshall W. Nirenberg Nobel Prize in Physiology or Medicine 1968",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-2",
+   "text": "לפי אתר נובל, רצף של שלושה נוקלאוטידים ב-DNA מתאים לחומצת אמינו מסוימת בחלבון.",
+   "source": "src6",
+   "quote": "One sequence of three nucleotides in DNA corresponds to a certain amino acid within a protein.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-3",
+   "text": "אתר נובל: כן, בשנות ה-50 נקבע שמידע גנטי עובר מ-DNA ל-RNA ולחלבון",
+   "source": "src6",
+   "quote": "In the 1950s, it was established that genetic information is transferred from DNA to RNA, to protein.",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261127-4",
+   "text": "נירנברג בסיינטיפיק אמריקן: לא, כשהתחיל לעבוד על הקוד בסביבות 1960 עוד שאל אם RNA שליח בכלל קיים",
+   "source": "src9001",
+   "quote": "So the question I was asking was, Does messenger RNA exist?",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261127-5",
+   "text": "לפי הספרייה הלאומית לרפואה, מ-1966 עמד בראש המעבדה לגנטיקה ביוכימית, תפקיד שונה מראשות המדור",
+   "source": "src2",
+   "quote": "Chief of the Laboratory of Biochemical Genetics at the NHI, later named the National Heart, Lung, and Blood Institute, since 1966",
+   "locator": "audit 2026-11-27",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
   }
  ],
  "sources": [
@@ -990,6 +1032,13 @@
    "label": "National Science Foundation, National Medal of Science – Marshall W. Nirenberg",
    "url": "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/marshall-w-nirenberg",
    "kind": "official"
+  },
+  {
+   "id": "src9001",
+   "label": "Scientific American, Ed Regis, \"The Forgotten Code Cracker\", 1 Nov 2007",
+   "url": "https://www.scientificamerican.com/article/the-forgotten-code-cracker/",
+   "kind": "press",
+   "date": "2026-11-27"
   }
  ],
  "media": [

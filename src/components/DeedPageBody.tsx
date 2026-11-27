@@ -58,7 +58,7 @@ function SourceList({ sources, lang }: { sources: SectionSource[]; lang: "he" | 
             {s.label}
           </p>
           {s.quote && (
-            <blockquote className="text-sm text-[#4a3d30] italic mt-2">
+            <blockquote dir="auto" className="text-sm text-[#4a3d30] italic mt-2">
               &ldquo;{s.quote}&rdquo;
             </blockquote>
           )}
@@ -403,7 +403,7 @@ export default function DeedPageBody({ entry }: { entry: Entry }) {
                   key={i}
                   className="bg-[#f6f1e6] rounded-xl p-4 border border-[#d8ccb4]"
                 >
-                  <blockquote className="text-sm text-[#2e251c] italic mb-2">
+                  <blockquote dir="auto" className="text-sm text-[#2e251c] italic mb-2">
                     &ldquo;{c.quote}&rdquo;
                   </blockquote>
                   {lang === "en" && c.quote_en ? (

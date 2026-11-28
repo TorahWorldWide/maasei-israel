@@ -227,3 +227,5 @@
 
 .mx-root .mx-st-video-link { text-wrap: balance; }
 .mx-root .mx-dis-says, .mx-root .mx-placard-text, .mx-root .mx-trailer { text-wrap: pretty; }
+/* source lines too: no lone last word under a source name (wrapping only, nothing else changes) */
+.mx-root .mx-dis-src, .mx-root .mx-sources li { text-wrap: pretty; }

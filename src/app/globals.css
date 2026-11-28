@@ -326,6 +326,9 @@ h6 {
   border: 10px solid #fdfaf3 !important;
   border-radius: 3px !important;
   box-shadow: 0 1px 2px rgba(34, 27, 20, 0.18), 0 14px 34px -14px rgba(34, 27, 20, 0.35) !important;
+  /* mounted print: one fine gold line drawn inside the white mat, around the picture (an outline, so no size change) */
+  outline: 1px solid rgba(107, 68, 38, 0.4);
+  outline-offset: -6px;
 }
 
 /* 27.11: gentle language switch — fade out, flip direction, fade in (LangProvider) */

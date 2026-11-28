@@ -144,6 +144,13 @@ h6 {
 }
 @media (prefers-reduced-motion: reduce) {
   .arrow-nudge { animation: none; }
+  /* the same courtesy for the other home-page motion: text entrances, the picker pop,
+     the music bars' pulse, and smooth scrolling */
+  .panel-rise,
+  .panel-rise-delay,
+  .pop-in,
+  .animate-pulse { animation: none; }
+  html { scroll-behavior: auto; }
 }
 
 /* ─────────────────────────── Theater stage lighting ───────────────────────────

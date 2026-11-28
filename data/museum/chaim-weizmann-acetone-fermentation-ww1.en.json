@@ -1,7 +1,7 @@
 {
  "schema": "maasei-museum/1",
  "slug": "chaim-weizmann-acetone-fermentation-ww1",
- "deed": "חיים ויצמן פיתח תסיסה לייצור אצטון שסיפקה לבריטניה חומר נפץ במלחמת העולם הראשונה",
+ "deed": "Chaim Weizmann developed a fermentation process for producing acetone that supplied Britain with explosives in World War I",
  "canonical_type": "single-inventor",
  "year": "1915",
  "title": "Chaim Weizmann developed a fermentation that turned maize into acetone for Britain's explosives in World War I",
@@ -151,7 +151,8 @@
     "m5"
    ],
    "disagreements": [
-    "d9001"
+    "d9001",
+    "d9003"
    ]
   },
   {
@@ -340,7 +341,8 @@
    "disagreements": [
     "d1",
     "d2",
-    "d9002"
+    "d9002",
+    "d9004"
    ]
   },
   {
@@ -790,6 +792,48 @@
      "says": "Weizmann Institute: Balfour hired him as a paid adviser on the subject of acetone",
      "claims": [
       "c-aud-20261128-11"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9003",
+   "question": "Where did Britain's acetone come from before the war?",
+   "versions": [
+    {
+     "says": "Weizmann Institute: it was made from calcium acetate imported from Germany",
+     "claims": [
+      "c-aud-20261128-1"
+     ]
+    },
+    {
+     "says": "UK Parliament (1912): about 47% was made in the UK, most of the rest came from Canada, none from Germany",
+     "claims": [
+      "c-aud-20261128-2"
+     ]
+    },
+    {
+     "says": "McGill: it was made by distilling wood, and the best wood for this came from Europe's forests",
+     "claims": [
+      "c-aud-20261128-3"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9004",
+   "question": "Was Weizmann's post as Admiralty adviser on acetone a paid one?",
+   "versions": [
+    {
+     "says": "Leonard Stein: he was appointed honorary technical adviser on acetone supplies",
+     "claims": [
+      "c-aud-20261128-4"
+     ]
+    },
+    {
+     "says": "Weizmann Institute: Balfour hired him as a paid adviser on acetone",
+     "claims": [
+      "c-aud-20261128-5"
      ]
     }
    ]
@@ -1365,6 +1409,51 @@
    "locator": "audit 2026-11-28",
    "status": "confirmed",
    "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-1",
+   "text": "מכון ויצמן: הוא יוצר מסידן אצטט שיובא מגרמניה",
+   "source": "src4",
+   "quote": "Acetone had previously been made from calcium acetate imported from Germany",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-2",
+   "text": "הפרלמנט הבריטי (1912): כ-47% יוצרו בבריטניה, רוב השאר הגיע מקנדה ולא מגרמניה",
+   "source": "src9004",
+   "quote": "the bulk has been obtained from Canada",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-3",
+   "text": "McGill: הוא הופק מזיקוק עץ, והעץ הטוב ביותר לכך הגיע מיערות אירופה",
+   "source": "src7",
+   "quote": "The best wood for this purpose came from the forests of Europe",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-4",
+   "text": "ליאונרד שטיין: הוא מונה ליועץ טכני של כבוד לאספקת אצטון",
+   "source": "src2",
+   "quote": "Weizmann's appointment as honorary technical adviser on acetone supplies September 1, 1915",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-5",
+   "text": "מכון ויצמן: בלפור שכר אותו כיועץ בשכר בנושא האצטון",
+   "source": "src3",
+   "quote": "Balfour hired Dr. Weizmann as a paid advisor on the subject of acetone",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1421,6 +1510,13 @@
    "label": "Jewish Telegraphic Agency, Weizmann Wins Law Suit in Chemical Discovery, 1 April 1926",
    "url": "https://www.jta.org/archive/weizmann-wins-law-suit-in-chemical-discovery",
    "kind": "press",
+   "date": "2026-11-28"
+  },
+  {
+   "id": "src9004",
+   "label": "Hansard, Written Answers, Cordite Manufacture (Acetone), 26 March 1912",
+   "url": "https://api.parliament.uk/historic-hansard/written-answers/1912/mar/26/cordite-manufacture-acetone",
+   "kind": "official",
    "date": "2026-11-28"
   }
  ],

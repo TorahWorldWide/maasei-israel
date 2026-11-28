@@ -595,9 +595,10 @@
       ]
      },
      {
-      "text": "הוא נבחר לחבר במוסדות ובאגודות מדעיות, ובהם האקדמיה לאופולדינה והאקדמיה המלכותית למדעים של ברלין.",
+      "text": "הוא נבחר לחבר במוסדות ובאגודות מדעיות, ובהם האקדמיה לאופולדינה (ב-1849) והאקדמיה המלכותית למדעים של ברלין.",
       "claims": [
-       "c32"
+       "c32",
+       "c-aud-20261128-1"
       ]
      },
      {
@@ -1350,6 +1351,15 @@
    "quote": "Cohn died in Breslau on June 25, 1898",
    "status": "confirmed",
    "locator": "שורה 19"
+  },
+  {
+   "id": "c-aud-20261128-1",
+   "text": "הוא נבחר לחבר במוסדות ובאגודות מדעיות, ובהם האקדמיה לאופולדינה (ב-1849) והאקדמיה המלכותית למדעים של ברלין.",
+   "source": "src9001",
+   "quote": "Mitglied, Matrikelnummer 1595, 1849-",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1400,6 +1410,13 @@
    "label": "Encyclopedia.com, 'Cohn, Ferdinand Julius'",
    "url": "https://encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/ferdinand-cohn",
    "kind": "reference"
+  },
+  {
+   "id": "src9001",
+   "label": "Deutsches Literaturarchiv Marbach, authority record Cohn, Ferdinand (1828-1898)",
+   "url": "https://www.dla-marbach.de/en/catalogue/find/opac/id/PE00523693/",
+   "kind": "official",
+   "date": "2026-11-28"
   }
  ],
  "media": [

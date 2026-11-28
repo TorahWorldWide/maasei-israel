@@ -298,7 +298,8 @@
     "m1"
    ],
    "disagreements": [
-    "d1"
+    "d1",
+    "d9002"
    ]
   },
   {
@@ -479,7 +480,9 @@
     "m16",
     "m15"
    ],
-   "disagreements": []
+   "disagreements": [
+    "d9001"
+   ]
   }
  ],
  "disagreements": [
@@ -522,6 +525,54 @@
      "says": "אנציקלופדיה יודאיקה: יצחק ויהודה בן משה הכהן עמדו יחד בראש הקבוצה",
      "claims": [
       "c9"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9001",
+   "question": "אילו לוחות החליפו את לוחות אלפונסו?",
+   "versions": [
+    {
+     "says": "המאמר משנת 2007: הלוחות הפרוסיים של ריינהולד, שפורסמו ב-1551",
+     "claims": [
+      "c-aud-20261128-1"
+     ]
+    },
+    {
+     "says": "בלוג אוניברסיטת סביליה: הלוחות הרודולפיים של קפלר, והלוחות נשארו בשימוש עד המאה ה-17",
+     "claims": [
+      "c-aud-20261128-2"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9002",
+   "question": "מתי נערכו הלוחות?",
+   "versions": [
+    {
+     "says": "האנציקלופדיה היהודית: בערך בשנת 1252, ובמהדורות הלטיניות 1251",
+     "claims": [
+      "c-aud-20261128-3"
+     ]
+    },
+    {
+     "says": "האנציקלופדיה יודאיקה: 1252–1256",
+     "claims": [
+      "c-aud-20261128-4"
+     ]
+    },
+    {
+     "says": "הקאנונים, לפי בלוג אוניברסיטת סביליה: בין 1262 ל-1272",
+     "claims": [
+      "c-aud-20261128-5"
+     ]
+    },
+    {
+     "says": "לינטון: בסביבות 1270",
+     "claims": [
+      "c-aud-20261128-6"
      ]
     }
    ]
@@ -874,6 +925,60 @@
    "quote": "a very late copy is preserved in the manuscript Ms. 3306 of the Biblioteca Nacional, dated at the beginning of the 16th century",
    "status": "confirmed",
    "locator": "שורה 3"
+  },
+  {
+   "id": "c-aud-20261128-1",
+   "text": "המאמר משנת 2007: הלוחות הפרוסיים של ריינהולד, שפורסמו ב-1551",
+   "source": "src4",
+   "quote": "They were replaced by Erasmus Reinhold’s Prutenic Tables",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261128-2",
+   "text": "בלוג אוניברסיטת סביליה: הלוחות הרודולפיים של קפלר, והלוחות נשארו בשימוש עד המאה ה-17",
+   "source": "src9001",
+   "quote": "eventually replaced by the much more accurate Rudolfine Tables, drawn up by Kepler",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261128-3",
+   "text": "האנציקלופדיה היהודית: בערך בשנת 1252, ובמהדורות הלטיניות 1251",
+   "source": "src9002",
+   "quote": "the date given in the Latin editions being the year 1251",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-4",
+   "text": "האנציקלופדיה יודאיקה: 1252–1256",
+   "source": "src3",
+   "quote": "the \"Alfonsine Tables\" (1252–56)",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-5",
+   "text": "הקאנונים, לפי בלוג אוניברסיטת סביליה: בין 1262 ל-1272",
+   "source": "src9001",
+   "quote": "made in Toledo between 1262 and 1272",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-6",
+   "text": "לינטון: בסביבות 1270",
+   "source": "src9001",
+   "quote": "they were written in Toledo around 1270",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -906,6 +1011,20 @@
    "label": "Jewish Encyclopedia, Alfonsine Tables",
    "url": "https://www.jewishencyclopedia.com/articles/1196-alfonsine-tables",
    "kind": "reference"
+  },
+  {
+   "id": "src9001",
+   "label": "Universidad de Sevilla, Blogimus, 'The astronomical tables of King Alfonso X', 2021",
+   "url": "https://institucional.us.es/blogimus/en/2021/11/the-astronomical-tables-of-king-alfonso-x/",
+   "kind": "organisation",
+   "date": "2026-11-28"
+  },
+  {
+   "id": "src9002",
+   "label": "Jewish Encyclopedia, 'Alfonsine Tables', 1901–1906",
+   "url": "https://www.jewishencyclopedia.com/articles/1196-alfonsine-tables.html",
+   "kind": "reference",
+   "date": "2026-11-28"
   }
  ],
  "media": [

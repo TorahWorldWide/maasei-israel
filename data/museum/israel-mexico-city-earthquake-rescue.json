@@ -232,7 +232,8 @@
     "d6",
     "d7",
     "d8",
-    "d9001"
+    "d9001",
+    "d9002"
    ]
   },
   {
@@ -702,6 +703,30 @@
      "says": "ישראל היום: שני מטוסי הרקולס, אחד לציוד ואחד לאנשי החילוץ",
      "claims": [
       "c-aud-20261128-5"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9002",
+   "question": "באיזה מטוס טסה המשלחת למקסיקו?",
+   "versions": [
+    {
+     "says": "ג'רוזלם פוסט: מטוס \"ראם\" של חיל האוויר, שיצא מבסיס נבטים",
+     "claims": [
+      "c-aud-20261128-1"
+     ]
+    },
+    {
+     "says": "וואלה: מטוס בואינג של חיל האוויר",
+     "claims": [
+      "c-aud-20261128-2"
+     ]
+    },
+    {
+     "says": "ישראל היום: שני מטוסי הרקולס, אחד לציוד ואחד לאנשי החילוץ",
+     "claims": [
+      "c-aud-20261128-3"
      ]
     }
    ]
@@ -1255,6 +1280,33 @@
    "locator": "audit 2026-11-28",
    "status": "confirmed",
    "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-1",
+   "text": "ג'רוזלם פוסט: מטוס \"ראם\" של חיל האוויר, שיצא מבסיס נבטים",
+   "source": "src6",
+   "quote": "set out from the Nevatim airbase on Wednesday aboard a 'Re'em' IAF aircraft",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261128-2",
+   "text": "וואלה: מטוס בואינג של חיל האוויר",
+   "source": "src9005",
+   "quote": "מטוס בואינג של חיל האוויר יצא בסופו של דבר",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-3",
+   "text": "ישראל היום: שני מטוסי הרקולס, אחד לציוד ואחד לאנשי החילוץ",
+   "source": "src9004",
+   "quote": "הגיעה עם שני הרקולסים - אחד לציוד והשני לאנשי החילוץ",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1335,6 +1387,13 @@
    "id": "src9004",
    "label": "Israel Hayom, נתניהו למחלצים במקסיקו: \"אתם עושים מצווה גדולה\", 23.9.2017",
    "url": "https://www.israelhayom.co.il/article/505385",
+   "kind": "press",
+   "date": "2026-11-28"
+  },
+  {
+   "id": "src9005",
+   "label": "Walla News, 2017",
+   "url": "https://www.walla.co.il/news/military/3115736",
    "kind": "press",
    "date": "2026-11-28"
   }

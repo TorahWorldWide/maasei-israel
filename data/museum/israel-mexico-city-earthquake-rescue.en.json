@@ -1,7 +1,7 @@
 {
  "schema": "maasei-museum/1",
  "slug": "israel-mexico-city-earthquake-rescue",
- "deed": "ישראל שלחה 71 חיילים למקסיקו סיטי לסייע בחילוץ אחרי רעידת האדמה",
+ "deed": "Israel sent 71 soldiers to Mexico City to help with rescue after the earthquake",
  "canonical_type": "rescue-operation",
  "year": "2017",
  "title": "71 Home Front Command soldiers, most of them reservists, flew to Mexico City after the earthquake and surveyed 158 buildings",
@@ -232,7 +232,8 @@
     "d6",
     "d7",
     "d8",
-    "d9001"
+    "d9001",
+    "d9002"
    ]
   },
   {
@@ -702,6 +703,30 @@
      "says": "Israel Hayom: two Hercules aircraft, one for equipment and one for the rescue personnel",
      "claims": [
       "c-aud-20261128-5"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9002",
+   "question": "What aircraft flew the delegation to Mexico?",
+   "versions": [
+    {
+     "says": "Jerusalem Post: an IAF 'Re'em' aircraft, from the Nevatim airbase",
+     "claims": [
+      "c-aud-20261128-1"
+     ]
+    },
+    {
+     "says": "Walla: an Air Force Boeing",
+     "claims": [
+      "c-aud-20261128-2"
+     ]
+    },
+    {
+     "says": "Israel Hayom: two Hercules, one for equipment and one for the rescuers",
+     "claims": [
+      "c-aud-20261128-3"
      ]
     }
    ]
@@ -1255,6 +1280,33 @@
    "locator": "audit 2026-11-28",
    "status": "confirmed",
    "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-1",
+   "text": "ג'רוזלם פוסט: מטוס \"ראם\" של חיל האוויר, שיצא מבסיס נבטים",
+   "source": "src6",
+   "quote": "set out from the Nevatim airbase on Wednesday aboard a 'Re'em' IAF aircraft",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261128-2",
+   "text": "וואלה: מטוס בואינג של חיל האוויר",
+   "source": "src9005",
+   "quote": "מטוס בואינג של חיל האוויר יצא בסופו של דבר",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-3",
+   "text": "ישראל היום: שני מטוסי הרקולס, אחד לציוד ואחד לאנשי החילוץ",
+   "source": "src9004",
+   "quote": "הגיעה עם שני הרקולסים - אחד לציוד והשני לאנשי החילוץ",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1335,6 +1387,13 @@
    "id": "src9004",
    "label": "Israel Hayom, Netanyahu to the rescuers in Mexico: \"You are doing a great mitzvah\", 23.9.2017",
    "url": "https://www.israelhayom.co.il/article/505385",
+   "kind": "press",
+   "date": "2026-11-28"
+  },
+  {
+   "id": "src9005",
+   "label": "Walla News, 2017",
+   "url": "https://www.walla.co.il/news/military/3115736",
    "kind": "press",
    "date": "2026-11-28"
   }

@@ -69,7 +69,9 @@
    "claims": [
     "c11",
     "c-aud-20261128-2",
-    "c-aud-20261128-3"
+    "c-aud-20261128-3",
+    "c-aud-20261128-1",
+    "c-aud-20261128-2"
    ]
   },
   {
@@ -1211,6 +1213,24 @@
    "text": "לפי האנציקלופדיה יודאיקה, לפני יהושע היו מלמדי ילדים קטנים רק בירושלים.",
    "source": "src1",
    "quote": "whereas previously they were to be found only in Jerusalem",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-1",
+   "text": "לפי רבא בתלמוד, מלמד אחד לכל 25 תלמידים",
+   "source": "src2",
+   "quote": "Raba further said: The number of pupils to be assigned to each teacher is twenty-five.",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-2",
+   "text": "לפי רבא בתלמוד, מלמד אחד לכל 25 תלמידים",
+   "source": "src2",
+   "quote": "Raba further said: The number of pupils to be assigned to each teacher is twenty-five.",
    "locator": "audit 2026-11-28",
    "status": "confirmed",
    "checker_note": "audit: quote found on the fetched page"

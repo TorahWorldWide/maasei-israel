@@ -1,0 +1,1180 @@
+{
+ "schema": "maasei-museum/1",
+ "slug": "fiat-feige-shamir-zero-knowledge-proofs",
+ "deed": "שלושה ישראלים פיתחו שיטה להוכיח זהות בלי לחשוף את הסוד עצמו",
+ "canonical_type": "team-invention",
+ "year": "1986",
+ "title": "Researchers at the Weizmann Institute developed a way to prove identity without revealing the secret itself",
+ "trailer": [
+  {
+   "text": "Uriel Feige, Amos Fiat and Adi Shamir, of the Department of Applied Mathematics at the Weizmann Institute of Science in Rehovot, Israel, are the authors of the paper Zero-knowledge proofs of identity.",
+   "claims": [
+    "c2"
+   ]
+  },
+  {
+   "text": "According to Feige, Fiat and Shamir, the problem with most current identification methods (ID cards, credit cards, computer passwords, PIN codes and the like) is that the person being identified proves his identity by revealing a constant secret value, in the form of a printed card or a value remembered by heart.",
+   "claims": [
+    "c9"
+   ]
+  },
+  {
+   "text": "Anyone who copied the card or recorded the secret can impersonate him later.",
+   "claims": [
+    "c10"
+   ]
+  },
+  {
+   "text": "Fiat and Shamir described a scheme in which a user proves his identity to any other user, without shared or public keys.",
+   "claims": [
+    "c5"
+   ]
+  },
+  {
+   "text": "According to the paper, the prover convinces that he knows his secret without revealing the secret or even any partial information about it.",
+   "claims": [
+    "c32"
+   ]
+  }
+ ],
+ "hero_media": [
+  "m2",
+  "m1",
+  "m7",
+  "m3",
+  "m5",
+  "m6",
+  "m4"
+ ],
+ "glance": [
+  {
+   "label": "Authors",
+   "value": "Amos Fiat, Adi Shamir, and later also Uriel Feige",
+   "claims": [
+    "c1",
+    "c2"
+   ]
+  },
+  {
+   "label": "Where",
+   "value": "Department of Applied Mathematics, Weizmann Institute, Rehovot",
+   "claims": [
+    "c1"
+   ]
+  },
+  {
+   "label": "First publication",
+   "value": "CRYPTO '86 conference, published in 1987",
+   "claims": [
+    "c4"
+   ]
+  },
+  {
+   "label": "Speed",
+   "value": "1% to 4% of the multiplications RSA requires, according to the abstract",
+   "claims": [
+    "c20"
+   ]
+  },
+  {
+   "label": "Suited for",
+   "value": "Smart cards, personal computers, remote control",
+   "claims": [
+    "c29"
+   ]
+  }
+ ],
+ "stations": [
+  {
+   "id": "s1",
+   "title": "A secret revealed with every use",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "According to Feige, Fiat and Shamir, a card, a password and a PIN work the same way: the person being identified proves who he is by revealing a constant secret.",
+      "claims": [
+       "c9"
+      ]
+     },
+     {
+      "text": "This secret can be a printed card or a value memorized by heart.",
+      "claims": [
+       "c9"
+      ]
+     },
+     {
+      "text": "According to the paper, an adversary working with a dishonest verifier can copy the card or record the secret, and then impersonate the person being identified.",
+      "claims": [
+       "c10"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "Fiat and Shamir's paper gives examples from real life: credit card numbers can be copied to blank cards or used over the phone, computer passwords are vulnerable to hackers and wiretappers, and terminals of military command and control systems may fall into enemy hands.",
+      "claims": [
+       "c8"
+      ]
+     },
+     {
+      "text": "Credit card numbers can be copied to blank cards or used over the phone.",
+      "claims": [
+       "c8"
+      ]
+     },
+     {
+      "text": "Computer passwords are vulnerable to hackers and wire tappers, and military terminals may fall into enemy hands.",
+      "claims": [
+       "c8"
+      ]
+     },
+     {
+      "text": "According to the paper, passports are another example, because hostile governments inspect and photocopy them.",
+      "claims": [
+       "c7"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to the paper, the problem is particularly challenging when the prover and the verifier are adversaries, and the aim is that the verifier cannot impersonate the prover.",
+      "claims": [
+       "c6"
+      ]
+     }
+    ]
+   ],
+   "media": [],
+   "disagreements": []
+  },
+  {
+   "id": "s2",
+   "title": "At the Weizmann Institute in Rehovot",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "Amos Fiat and Adi Shamir wrote the paper How to Prove Yourself at the Department of Applied Mathematics at the Weizmann Institute of Science in Rehovot.",
+      "claims": [
+       "c1"
+      ]
+     },
+     {
+      "text": "They presented it at the CRYPTO '86 conference, and it was published in 1987 in the LNCS 263 series.",
+      "claims": [
+       "c4"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to the paper, their scheme combines two things: interactive zero-knowledge proofs that already existed (by Goldwasser, Micali and Rackoff, 1985), and identity-based schemes.",
+      "claims": [
+       "c46"
+      ]
+     },
+     {
+      "text": "According to the paper, its main contribution is to show that such protocols are relevant to practical identification and signature problems.",
+      "claims": [
+       "c17"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "The authors thanked Mike Fischer, Oded Goldreich, Shafi Goldwasser, Silvio Micali, Charlie Rackoff, Claus Schnorr and Avi Wigderson for many of the ideas in the paper.",
+      "claims": [
+       "c43"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m7"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s3",
+   "title": "How it works",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "According to the textbook, a trusted center chooses two secret prime numbers, p and q, and multiplies them into a number N.",
+      "claims": [
+       "c50"
+      ]
+     },
+     {
+      "text": "Only N is distributed to all users.",
+      "claims": [
+       "c50"
+      ]
+     },
+     {
+      "text": "According to the paper, unlike RSA, only the center knows which primes the number is made of, and therefore everyone can use the same number.",
+      "claims": [
+       "c13"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to the paper, the center can be a government or a credit card company, and it issues smart cards after properly checking the user's physical identity.",
+      "claims": [
+       "c12"
+      ]
+     },
+     {
+      "text": "Before that, the center prepares a string with the user's details: name, address, ID number, physical description and security clearance.",
+      "claims": [
+       "c14"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to the paper, the security of the scheme rests on the difficulty of extracting modular square roots when the factorization of n is unknown.",
+      "claims": [
+       "c11"
+      ]
+     },
+     {
+      "text": "According to the textbook, the user proves that he possesses secret information, without revealing it.",
+      "claims": [
+       "c44"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m8"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s4",
+   "title": "Zero knowledge: not even one bit leaks",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "In 1988 Feige, Fiat and Shamir published a slightly different version of the scheme.",
+      "claims": [
+       "c35"
+      ]
+     },
+     {
+      "text": "According to the paper, Fiat and Shamir's earlier scheme leaked only one bit.",
+      "claims": [
+       "c35"
+      ]
+     },
+     {
+      "text": "According to the abstract, the paper defines zero-knowledge proofs of knowledge: the prover shows that he knows something without revealing any computational information, not even that one bit.",
+      "claims": [
+       "c31"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "The authors explain this with a parable, which they themselves say is not technically accurate.",
+      "claims": [
+       "c51"
+      ]
+     },
+     {
+      "text": "According to the parable, a person can convince that he is a mathematical superstar without revealing anything new about the problem.",
+      "claims": [
+       "c51"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to the paper, in this version the trusted center only publishes a number n, which is the product of two large primes.",
+      "claims": [
+       "c33"
+      ]
+     },
+     {
+      "text": "After publication the center can be closed, since it has no further role.",
+      "claims": [
+       "c34"
+      ]
+     },
+     {
+      "text": "According to the paper, in the \"keyless\" version of the scheme, in which the trusted center (which knows the factorization of n) issues smart cards to users, and assuming the cards are built with tamper-resistant technology, the zero-knowledge property guarantees that no information leaks, and therefore users of the system gain no advantage in trying to copy or forge smart cards.",
+      "claims": [
+       "c37"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m10",
+    "m9"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s5",
+   "title": "Fast and small enough for a smart card",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "According to the paper's abstract, typical implementations require only 1% to 4% of the modular multiplications RSA requires.",
+      "claims": [
+       "c20"
+      ]
+     },
+     {
+      "text": "According to the paper, in one setting the average number drops to 7.6 multiplications, compared with 768 multiplications in RSA.",
+      "claims": [
+       "c21"
+      ]
+     },
+     {
+      "text": "For signing, after arranging the multiplications, 32 multiplications are required, only 4% of an RSA signature.",
+      "claims": [
+       "c25"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to the paper, in one setting the proof exchanges 323 bytes, and the secret fits in a 320-byte ROM.",
+      "claims": [
+       "c22"
+      ]
+     },
+     {
+      "text": "For signing, the private key is stored in 576 bytes, and each signature takes 521 bytes.",
+      "claims": [
+       "c26"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to the paper, a related protocol by Fischer, Micali and Rackoff was presented at the Eurocrypt 84 conference, and the new protocol is faster than it and requires less communication.",
+      "claims": [
+       "c18"
+      ]
+     },
+     {
+      "text": "According to the paper, for the same level of security, a number of rounds equal to the square root of the previous number is enough.",
+      "claims": [
+       "c42"
+      ]
+     },
+     {
+      "text": "According to the abstract, thanks to its simplicity, security and speed, the scheme is especially suited for smart cards, personal computers and remote control systems.",
+      "claims": [
+       "c29"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m5"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s6",
+   "title": "A card for a lifetime",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "An unlimited number of users can join without harming the system, and there is no need to keep a list of all users.",
+      "claims": [
+       "c16"
+      ]
+     },
+     {
+      "text": "One verification device can check many types of personal, financial and occupational cards from different organizations.",
+      "claims": [
+       "c28"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to the paper, if the chance of a successful forgery is one in a million, and the card costs one dollar to manufacture, each success will cost the forger about one million dollars.",
+      "claims": [
+       "c23"
+      ]
+     },
+     {
+      "text": "At a national-security level of security, an adversary who tries 1000 times a day is expected to succeed only once in 3000 years.",
+      "claims": [
+       "c24"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to the paper, the level of security can be changed even after the key has been chosen.",
+      "claims": [
+       "c27"
+      ]
+     },
+     {
+      "text": "According to the abstract, the schemes are provably secure against any known or chosen message attack, if factoring is difficult.",
+      "claims": [
+       "c19"
+      ]
+     },
+     {
+      "text": "The signature is provably secure under the same condition, even if it is not zero-knowledge.",
+      "claims": [
+       "c52"
+      ]
+     }
+    ]
+   ],
+   "media": [],
+   "disagreements": []
+  },
+  {
+   "id": "s7",
+   "title": "The people and what followed",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "Uriel Feige and Adi Shamir of the Weizmann Institute in Rehovot also wrote a paper on witness hiding and witness indistinguishable protocols.",
+      "claims": [
+       "c3"
+      ]
+     },
+     {
+      "text": "According to them, a witness hiding protocol does not reveal the prover's secret, and anyone who does not know the secret cannot impersonate him.",
+      "claims": [
+       "c47"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to Feige and Shamir (1990), the original proof that the parallel version of the identification scheme is secure required detailed number-theoretic analysis.",
+      "claims": [
+       "c48"
+      ]
+     },
+     {
+      "text": "In their paper this security follows as a special case of a general theorem.",
+      "claims": [
+       "c48"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m2",
+    "m1",
+    "m3",
+    "m4",
+    "m6"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s8",
+   "title": "The limits of the scheme",
+   "kind": "hard",
+   "paragraphs": [
+    [
+     {
+      "text": "According to the 1986/87 paper, when the rounds of the proof are run in parallel, the protocol is no longer zero-knowledge, for technical reasons.",
+      "claims": [
+       "c39"
+      ]
+     },
+     {
+      "text": "Even so, it can be formally proven secure.",
+      "claims": [
+       "c39"
+      ]
+     },
+     {
+      "text": "According to the 1988 paper, parallel execution saves communication rounds, but is not zero-knowledge for subtle technical reasons.",
+      "claims": [
+       "c38"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to the paper, message authentication with this scheme is not a real signature, because a judge who did not participate in the interaction cannot later decide whether the message is authentic.",
+      "claims": [
+       "c40"
+      ]
+     },
+     {
+      "text": "The authors also write that practical implementations, with particular moduli and pseudorandom functions, may still be vulnerable to specialized attacks.",
+      "claims": [
+       "c41"
+      ]
+     }
+    ]
+   ],
+   "media": [],
+   "disagreements": []
+  }
+ ],
+ "disagreements": [],
+ "unknowns": [
+  {
+   "text": "The pages do not say whether the scheme was actually used in smart cards or passports, only that it is suited for them according to the paper",
+   "claims": [
+    "c29",
+    "c7"
+   ]
+  },
+  {
+   "text": "The claims state the Weizmann Institute in Rehovot, Israel, as the workplace of the three researchers, but not their citizenship",
+   "claims": [
+    "c1",
+    "c2"
+   ]
+  }
+ ],
+ "claims": [
+  {
+   "id": "c2",
+   "text": "אוריאל פייגה, עמוס פיאט ועדי שמיר, מהמחלקה למתמטיקה שימושית במכון ויצמן ברחובות, ישראל, הם מחברי המאמר \"הוכחות אפס־ידע של זהות\".",
+   "source": "src1",
+   "quote": "Uriel Feige, Amos Fiat, 1 a n d Adi Shamir Department of Applied Mathematics, The Weizmann Institute of Science, Rehovot 76100, Israel",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c9",
+   "text": "לפי פייגה, פיאט ושמיר, הבעיה בשיטות זיהוי נפוצות (כרטיסים, סיסמאות, PIN) היא שהמזוהה מוכיח את זהותו בחשיפת קבוע סודי בצורת כרטיס מודפס או ערך שנזכר בעל פה.",
+   "source": "src1",
+   "quote": "The basic problem with most of the current identification techniques (ID cards, credit cards, computer passwords, PIN numbers, etc.) is that A proves his identity by revealing a constant S",
+   "status": "confirmed",
+   "locator": "שורה 43"
+  },
+  {
+   "id": "c10",
+   "text": "לפי המאמר, יריב מתוחכם ששותף למאמת לא ישר יכול להשתמש בצילום כרטיס או בהקלטת הסוד כדי להתחזות מאוחר יותר למזוהה.",
+   "source": "src1",
+   "quote": "A sophisticated adversary who cooperates with a dishonest verifier B can use a xerox copy of the card or a recording of the secret value to misrepresent himself successfully as A at a later stage.",
+   "status": "confirmed",
+   "locator": "שורה 43"
+  },
+  {
+   "id": "c5",
+   "text": "פיאט ושמיר תיארו סכמות זיהוי וחתימה פשוטות שמאפשרות למשתמש להוכיח את זהותו ואת אמינות הודעותיו לכל משתמש אחר בלי מפתחות משותפים או ציבוריים.",
+   "source": "src2",
+   "quote": "In this paper we describe simple identification and signature schemes which enable any user to prove his identity and the authenticity of his messages to any other user without shared or public keys.",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c32",
+   "text": "לפי המאמר, בסכמה שלהם המוכיח משכנע את המאמת שהוא מכיר את הקבוע הסודי (המפתח שלו) בלי לחשוף את הסוד עצמו ואף לא מידע חלקי עליו.",
+   "source": "src1",
+   "quote": "Our scheme uses zero-knowledge proofs of knowledge. This way A can convince B that A knows the constant S (A's key), without revealing S itself, nor any partial information about it.",
+   "status": "confirmed",
+   "locator": "שורה 44"
+  },
+  {
+   "id": "c1",
+   "text": "המאמר של עמוס פיאט ועדי שמיר נכתב במחלקה למתמטיקה שימושית במכון ויצמן למדע ברחובות, ישראל.",
+   "source": "src2",
+   "quote": "Amos Fiat and Adi Shamir Department of Applied Mathematics The Weizmann Institute of Science Rehovot 76100, Israel",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c4",
+   "text": "מאמר פיאט–שמיר התפרסם בכנס CRYPTO '86, בסדרת LNCS 263, בשנת 1987.",
+   "source": "src2",
+   "quote": "A.M. Odlyzko (Ed.): Advances in Cryptology - CRYPT0 '86, LNCS 263, pp. 186-194, 1987.",
+   "status": "confirmed",
+   "locator": "שורה 17"
+  },
+  {
+   "id": "c20",
+   "text": "לפי תקציר המאמר, מימושים טיפוסיים דורשים רק 1% עד 4% ממספר הכפלות המודולריות שדורשת סכמת RSA.",
+   "source": "src2",
+   "quote": "typical implementations require only 1%to 4% of the number of modular multiplications required by the RSA scheme.",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c29",
+   "text": "לפי תקציר המאמר, בזכות הפשטות, האבטחה והמהירות, הסכמות מתאימות במיוחד להתקנים מבוססי מיקרו־מעבד כמו כרטיסים חכמים, מחשבים אישיים ומערכות שלט רחוק.",
+   "source": "src2",
+   "quote": "these schemes are ideally suited for microprocessor-based devices such as smart cards, personal computers, and remote control systems.",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c8",
+   "text": "לפי המאמר, מספרי כרטיסי אשראי אפשר להעתיק לכרטיסים ריקים או להשתמש בהם בטלפון, סיסמאות מחשב פגיעות להאקרים ולמצותתים, ומסופים צבאיים עלולים ליפול לידי האויב.",
+   "source": "src2",
+   "quote": "be copied to blank cards or used over the phone), computer passwords (which are vulnerable to hackers and wire tappers) and military command and control systems (whose terminals may fall into enemy hands).",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c7",
+   "text": "לפי המאמר, דוגמאות ליישומים הן דרכונים (שממשלות עוינות בודקות ומצלמות) וכרטיסי אשראי.",
+   "source": "src2",
+   "quote": "Typical applications include passports (which are often inspected and photocopied by hostile governments), credit cards (whose numbers",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c6",
+   "text": "לפי המאמר, הבעיה קשה במיוחד כשהמוכיח והמאמת הם יריבים, ורוצים שהמאמת לא יוכל להתחזות למוכיח.",
+   "source": "src2",
+   "quote": "The problem becomes particularly challenging when the two parties (the prover A and the verifier B ) are adversaries, and we want to make it impossible for B to misrepresent himself as A",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c46",
+   "text": "לפי מאמר פיאט ושמיר, סכמת הזיהוי החדשה שלהם משלבת הוכחות אינטראקטיביות באפס־ידע שכבר היו קיימות (גולדווסר, מיקאלי ורקוף, 1985) עם סכמות מבוססות זהות.",
+   "source": "src2",
+   "quote": "The new identification scheme is a combination of zero-knowledge interactive proofs",
+   "status": "confirmed",
+   "locator": "שורה 23"
+  },
+  {
+   "id": "c17",
+   "text": "לפי המאמר, התרומה העיקרית שלו היא להראות את הרלוונטיות של פרוטוקולים כאלה לבעיות מעשיות של זיהוי וחתימה.",
+   "source": "src2",
+   "quote": "The main contribution of this paper is to show the relevance of such protocols to practical identification and signature problems.",
+   "status": "confirmed",
+   "locator": "שורה 23"
+  },
+  {
+   "id": "c43",
+   "text": "המחברים הודו למייק פישר, עודד גולדרייך, שפי גולדווסר, סילביו מיקאלי, צ'רלי רקוף, קלאוס שנור ואבי ויגדרזון על רעיונות רבים במאמר.",
+   "source": "src2",
+   "quote": "We would like to thank Mike Fischer, Oded Goldreich, Shafi Goldwasser, Silvio Micali, Charlie Rackoff, Clam Schnorr and Avi Wigderson for inspiring many of the ideas presented in this paper.",
+   "status": "confirmed",
+   "locator": "שורה 154"
+  },
+  {
+   "id": "c50",
+   "text": "לפי ספר הלימוד, בסכמה מרכז חתימות אמין בוחר ראשוניים סודיים p ו-q ומחשב N=pq, ורק N מופץ לכל המשתמשים.",
+   "source": "src3",
+   "quote": "A trusted signature center chooses secret primes p, q and computes N = pq; only N is distributed to all users.",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c13",
+   "text": "לפי המאמר, המודול n הוא מכפלת שני ראשוניים סודיים, ובניגוד ל-RSA רק המרכז מכיר את הפירוק, ולכן כולם יכולים להשתמש באותו n.",
+   "source": "src2",
+   "quote": "The modulus n is the product of two secret primes p and q, but unlike the RSA scheme, only the center knows the factorization of the modulus and thus everyone can use the same n.",
+   "status": "confirmed",
+   "locator": "שורה 24"
+  },
+  {
+   "id": "c12",
+   "text": "לפי המאמר, הסכמה מניחה מרכז אמין (כמו ממשלה או חברת אשראי) שמנפיק כרטיסים חכמים למשתמשים אחרי בדיקה נאותה של זהותם הפיזית.",
+   "source": "src2",
+   "quote": "The scheme assumes the existence of a trusted center (a government, a credit card company, a computer center, a military headquarters, etc.) which issues the smart cards to users after properly checking their physical identity.",
+   "status": "confirmed",
+   "locator": "שורה 23"
+  },
+  {
+   "id": "c14",
+   "text": "לפי המאמר, כשמשתמש זכאי מבקש כרטיס חכם, המרכז מכין מחרוזת עם המידע הרלוונטי עליו, כגון שם, כתובת, מספר זהות, תיאור פיזי והרשאת ביטחון.",
+   "source": "src2",
+   "quote": "When an eligible user applies for a smart card, the center prepares a string 1 which contains all the relevant information about the user (his name, address, ID number, physical description, security clearance etc.)",
+   "status": "confirmed",
+   "locator": "שורה 25"
+  },
+  {
+   "id": "c11",
+   "text": "לפי המאמר, סכמת הזיהוי החדשה מבוססת על הקושי בחילוץ שורשים ריבועיים מודולריים כשפירוק n לגורמים אינו ידוע.",
+   "source": "src2",
+   "quote": "It is based on the difficulty of extracting modular square roots when the factorization of n is unknown.",
+   "status": "confirmed",
+   "locator": "שורה 23"
+  },
+  {
+   "id": "c44",
+   "text": "לפי ספר הלימוד, בסכמת פיאט–שמיר משתמש מוכיח את זהותו למשתמש אחר בהצגת חזקה על מידע סודי בלי לחשוף אותו.",
+   "source": "src3",
+   "quote": "User_ID[A] wants to prove identity to User_ID[B] by showing possession of some secret information without actually revealing this information.",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c35",
+   "text": "לפי המאמר של 1988, הסכמה היא גרסה מעט שונה של סכמת הזיהוי שתיארו פיאט ושמיר, שדלפה ממנה רק ביט אחד.",
+   "source": "src1",
+   "quote": "It is a slightly modified version of the identification scheme described by Fiat and Shamir I'5] (which leaked nothing but this bit).",
+   "status": "confirmed",
+   "locator": "שורה 44"
+  },
+  {
+   "id": "c31",
+   "text": "לפי התקציר, במאמר מוגדרות הוכחות ידע באפס־ידע שבהן המוכיח מדגים שהוא מחזיק בידע בלי לחשוף שום מידע חישובי, ואפילו לא את הביט האחד שנחשף בהוכחות אפס־ידע של טענות.",
+   "source": "src1",
+   "quote": "in which the prover demonstrates possession of knowledge without revealing any computational information whatsoever (not even the one bit revealed in zero-knowledge proofs of assertions).",
+   "status": "confirmed",
+   "locator": "שורה 13"
+  },
+  {
+   "id": "c51",
+   "text": "פייגה, פיאט ושמיר מדגימים (במשל שהם עצמם מכנים לא מדויק מבחינה טכנית) שמוכיח יכול לשכנע שהוא מתמטיקאי על בלי לגלות דבר חדש על הבעיה.",
+   "source": "src1",
+   "quote": "With the type of proof introduced in this paper, A can convince B that he is a mathematical superstar without telling B anything new about the problem",
+   "status": "confirmed",
+   "locator": "שורה 15"
+  },
+  {
+   "id": "c33",
+   "text": "לפי המאמר, הסכמה מניחה מרכז אמין שמטרתו היחידה לפרסם מודול n שהוא מכפלת שני ראשוניים גדולים.",
+   "source": "src1",
+   "quote": "The scheme assumes the existence of a trusted center whose sole purpose is to publish a modulus n which is the product of two large primes",
+   "status": "confirmed",
+   "locator": "שורה 44"
+  },
+  {
+   "id": "c34",
+   "text": "לפי המאמר, אחרי פרסום n אפשר לסגור את המרכז כי אין לו תפקיד נוסף בפרוטוקול.",
+   "source": "src1",
+   "quote": "After publishing n, the center can be closed since it has no further role in the protocol.",
+   "status": "confirmed",
+   "locator": "שורה 44"
+  },
+  {
+   "id": "c37",
+   "text": "לפי המאמר, תכונת אפס־הידע מבטיחה שלא דולף מידע, ולכן למשתמשים במערכת אין יתרון בניסיון להעתיק או לזייף כרטיסים חכמים.",
+   "source": "src1",
+   "quote": "The zero-knowledge property guarantees that no information leaks, and thus the users of the system gain no advantage in trying to copy or forge smartcards.",
+   "status": "confirmed",
+   "locator": "שורה 60"
+  },
+  {
+   "id": "c21",
+   "text": "לפי המאמר, בהגדרה של k=18 ו-t=2 מספר הכפלות המודולריות הממוצע יורד ל-7.6, מהיר בשני סדרי גודל מ-768 ההכפלות ש-RSA דורשת.",
+   "source": "src2",
+   "quote": "drops to 165 and the average number of modular multiplications drops to 7.6 (which is two orders of magnitude faster than the 768 multiplications required by the RSA scheme).",
+   "status": "confirmed",
+   "locator": "שורה 87"
+  },
+  {
+   "id": "c25",
+   "text": "לפי המאמר, בסכמת החתימה, עם אופטימיזציה של סדר ההכפלות, מספר ההכפלות יורד ל-32, שהם רק 4% ממספר ההכפלות בחתימת RSA.",
+   "source": "src2",
+   "quote": "This is only 4% of the number of multiplications required in the RSA signature scheme.",
+   "status": "confirmed",
+   "locator": "שורה 141"
+  },
+  {
+   "id": "c22",
+   "text": "לפי המאמר, בהגדרה של k=5 ו-t=4 מספר הבתים שמוחלפים בהוכחה הוא 323, וערכי הסוד אפשר לאחסן ב-ROM של 320 בתים.",
+   "source": "src2",
+   "quote": "The number of bytes exchanged by the parties during the proof is 323, and the secret s, values can be stored in a 320 byte ROM.",
+   "status": "confirmed",
+   "locator": "שורה 85"
+  },
+  {
+   "id": "c26",
+   "text": "לפי המאמר, בסכמת החתימה המפתח הפרטי נשמר ב-ROM של 576 בתים וכל חתימה דורשת 521 בתים.",
+   "source": "src2",
+   "quote": "The private key can be stored in a 576 byte ROM, and each signature requires 521 bytes.",
+   "status": "confirmed",
+   "locator": "שורה 140"
+  },
+  {
+   "id": "c18",
+   "text": "לפי המאמר, פישר, מיקאלי ורקוף הציגו בכנס Eurocrypt 84 פרוטוקול קשור להוכחת שארית ריבועית (שלא הופיע בקובץ הכנס), והפרוטוקול החדש מהיר יותר ודורש פחות תקשורת.",
+   "source": "src2",
+   "quote": "A related protocol for proving the quadratic residuosity of numbers was presented by Fischer Micali and Rackoff at Eurocrypt 84 (it did not appear in the proceedings), but the new protocol is faster and requires less communication.",
+   "status": "confirmed",
+   "locator": "שורה 23"
+  },
+  {
+   "id": "c42",
+   "text": "לפי המאמר, היתרון המעשי העיקרי של הפרוטוקול החדש הוא שלאותה רמת אבטחה מספיק מספר איטרציות השווה לשורש הריבועי של המספר הקודם, מה שמקצר זמן ותקשורת.",
+   "source": "src2",
+   "quote": "The main practical advantage of the new protocol is that for the same security we can use only the square root of the number of iterations,",
+   "status": "confirmed",
+   "locator": "שורה 79"
+  },
+  {
+   "id": "c16",
+   "text": "לפי המאמר, מספר בלתי מוגבל של משתמשים יכול להצטרף למערכת בלי לפגוע בביצועיה, ואין צורך לנהל רשימה של כל המשתמשים התקפים.",
+   "source": "src2",
+   "quote": "An unlimited number of users can join the system without degrading its performance, and it is not even necessary to keep a list of all the valid users.",
+   "status": "confirmed",
+   "locator": "שורה 23"
+  },
+  {
+   "id": "c28",
+   "text": "לפי המאמר, מכשיר אימות אחד יכול לשמור כמה ערכי n ו-f ולבדוק כך סוגים רבים של כרטיסי זיהוי אישיים, פיננסיים ותעסוקתיים שמנפיקים ארגונים עצמאיים רבים.",
+   "source": "src2",
+   "quote": "One device can store several values of n and f and thus check a variety of personal, financial and occupational ID cards provided by many independent organizations.",
+   "status": "confirmed",
+   "locator": "שורה 151"
+  },
+  {
+   "id": "c23",
+   "text": "לפי המאמר, אם סיכוי ההצלחה של זיוף הוא אחד למיליון, והעונש על ניסיון כושל הוא החרמת הכרטיס בלבד, וכרטיס חכם עולה דולר אחד לייצור, כל הצלחה תעלה בערך מיליון דולר.",
+   "source": "src2",
+   "quote": "Even if the only penalty for a failed attempt is the confiscation of the card, and smart cards cost only $1 to manufacture, each success will cost about one million dollars.",
+   "status": "confirmed",
+   "locator": "שורה 83"
+  },
+  {
+   "id": "c24",
+   "text": "לפי המאמר, ברמת אבטחה לצורכי ביטחון לאומי, יריב סבלן עם תקציב בלתי מוגבל שינסה להתחזות 1000 פעמים ביום צפוי להצליח רק פעם אחת ב-3000 שנה.",
+   "source": "src2",
+   "quote": "Even a patient adversary with an unlimited budget, who tries to misrepresent himself 1000 times each day, is expected to succeed only once every 3000 years.",
+   "status": "confirmed",
+   "locator": "שורה 83"
+  },
+  {
+   "id": "c27",
+   "text": "לפי המאמר, תכונה ייחודית של הסכמות היא האפשרות לשנות את רמת האבטחה גם אחרי שהמפתח נבחר.",
+   "source": "src2",
+   "quote": "A unique feature of the new identification and signature schemes is that it is possible to change their level of security after the key has been chosen.",
+   "status": "confirmed",
+   "locator": "שורה 144"
+  },
+  {
+   "id": "c19",
+   "text": "לפי תקציר המאמר, הסכמות בטוחות באופן מוכח מפני כל מתקפת הודעה ידועה או נבחרת, אם פירוק לגורמים קשה.",
+   "source": "src2",
+   "quote": "The schemes are provably secure against any known or chosen message attack if factoring is difficult",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c52",
+   "text": "לפי המאמר, סכמת החתימה בטוחה באופן מוכח (אם פירוק לגורמים קשה) למרות שאינה אפס־ידע.",
+   "source": "src2",
+   "quote": "provably secure (if factoring is difficult) even though it is not zero-knowledge.",
+   "status": "confirmed",
+   "locator": "שורה 138"
+  },
+  {
+   "id": "c3",
+   "text": "אוריאל פייגה ועדי שמיר ממכון ויצמן ברחובות, ישראל, חיברו גם את המאמר על פרוטוקולים שאינם מבחינים בין עדים ומסתירים עד.",
+   "source": "src4",
+   "quote": "Uriel Feige, Adi Shamir Department of Applied Mathematics The Weizmann Institute of Science Rehovot 76100, Israel",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c47",
+   "text": "לפי פייגה ושמיר (1990), פרוטוקול זיהוי שמסתיר עד אינו חושף את העד של המוכיח, ואיש אינו יכול להתחזות למוכיח אם אינו מכיר את העד שלו.",
+   "source": "src4",
+   "quote": "The WH identification protocol never discloses P's witness, and nobody can misrepresent himself as P unless he really knows P's witness",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c48",
+   "text": "לפי פייגה ושמיר (1990), ההוכחה המקורית לאבטחת הגרסה המקבילית של סכמת זיהוי המבוססת על העלאה בריבוע מודולו מספר פריק דרשה ניתוח תורת־מספרים מפורט, אך האבטחה היא מקרה פרטי של משפט 4.1.",
+   "source": "src4",
+   "quote": "The original proof of security of the parallel version of this scheme involved detailed analysis of its number theoretic properties, but in fact the security of the protocol is just a special case of Theorem 4.1.",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c39",
+   "text": "לפי מאמר 1986/87, הגרסה המקבילית של הפרוטוקול אינה אפס־ידע מסיבות טכניות, אך אפשר להוכיח את אבטחתה באופן פורמלי.",
+   "source": "src2",
+   "quote": "This version is not zero-knowledge for technical reasons, but its security can be formally proven by the techniques developed in Section 3.",
+   "status": "confirmed",
+   "locator": "שורה 82"
+  },
+  {
+   "id": "c38",
+   "text": "לפי המאמר, הרצות מקביליות מפחיתות את מספר החלפות כיוון התקשורת, אך הן אינן אפס־ידע מסיבות טכניות עדינות.",
+   "source": "src1",
+   "quote": "Parallel executions change the direction of the communication only a constant number of times (which is preferable for theoretical as well as practical reasons), but unfortunately they are not zero knowledge for very subtle technical reasons.",
+   "status": "confirmed",
+   "locator": "שורה 61"
+  },
+  {
+   "id": "c40",
+   "text": "לפי המאמר, אימות הודעה בשיטה הזו אינו חתימה אמיתית, כי שופט שלא השתתף באינטראקציה לא יכול להחליט אחר כך אם ההודעה אותנטית.",
+   "source": "src2",
+   "quote": "but this is not a real signature scheme: without participating in the interaction, a judge cannot later decide if a message is authentic.",
+   "status": "confirmed",
+   "locator": "שורה 62"
+  },
+  {
+   "id": "c41",
+   "text": "לפי המאמר, מימושים מעשיים עם מודולים ופונקציות פסאודו־אקראיות מסוימות עלולים עדיין להיות פגיעים למתקפות ייעודיות.",
+   "source": "src2",
+   "quote": "Practical implementations which use particular moduli no and psuederandom functions fo may still be vulnerable to specialized attacks",
+   "status": "confirmed",
+   "locator": "שורה 114"
+  }
+ ],
+ "sources": [
+  {
+   "id": "src1",
+   "label": "Feige, Fiat & Shamir, 'Zero-knowledge proofs of identity', Journal of Cryptology 1, 77-94, 1988",
+   "url": "https://dx.doi.org/10.1007%2FBF02351717",
+   "kind": "official"
+  },
+  {
+   "id": "src2",
+   "label": "Fiat & Shamir, 'How to Prove Yourself', CRYPTO '86, Springer LNCS 263, 1987",
+   "url": "https://www.doi.org/10.1007/3-540-47721-7_12",
+   "kind": "official"
+  },
+  {
+   "id": "src3",
+   "label": "Computer Security and Cryptography, §17.12, Fiat-Shamir identification and signature schema",
+   "url": "https://www.oreilly.com/library/view/computer-security-and/9780471947837/sec17.12.html",
+   "kind": "book"
+  },
+  {
+   "id": "src4",
+   "label": "Feige & Shamir, Witness Hiding and Witness Indistinguishable Protocols (MIT)",
+   "url": "https://courses.csail.mit.edu/6.897/spring04/FeigeShamir-WitnessHidingAndWitnessIndistinguishableProtocols.pdf",
+   "kind": "press"
+  }
+ ],
+ "media": [
+  {
+   "id": "m1",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Adi%20Shamir%202009.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Adi_Shamir_2009.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Ira Abramov from Even Yehuda, Israel",
+   "licence": "CC BY-SA 2.0",
+   "hosting": "hotlink",
+   "caption": "Adi Shamir speaks into a microphone in the audience, in a photograph from 2009.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "date": "2009-08-12",
+   "width": 600,
+   "height": 900
+  },
+  {
+   "id": "m2",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Adi%20Shamir%20Royal%20Society.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Adi_Shamir_Royal_Society.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Duncan.Hull",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "Portrait of Adi Shamir in a dark suit and light shirt, from the Royal Society admission day for new Fellows in London in July 2018.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2018-07-13",
+   "width": 576,
+   "height": 864
+  },
+  {
+   "id": "m3",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Adi%20Shamir%20at%20TU%20Darmstadt%20%282013%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Adi_Shamir_at_TU_Darmstadt_%282013%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Erik Tews",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "Adi Shamir as a guest lecturer at the Technical University of Darmstadt, 2013.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "2013-09-25",
+   "width": 1365,
+   "height": 2048
+  },
+  {
+   "id": "m4",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Adi%20Shamir%202009%20crop.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Adi_Shamir_2009_crop.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Ira Abramov from Even Yehuda, Israel",
+   "licence": "CC BY-SA 2.0",
+   "hosting": "hotlink",
+   "caption": "Adi Shamir holds a microphone, cropped from a photograph from 2009.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "date": "2012-04-02",
+   "width": 600,
+   "height": 879
+  },
+  {
+   "id": "m5",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/2017-08-Ron%20Rivest%20Adi%20Shamir%20and%20Len%20Adleman%20on%20CRYPTO%202017%20in%20UCSB.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:2017-08-Ron_Rivest_Adi_Shamir_and_Len_Adleman_on_CRYPTO_2017_in_UCSB.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "not stated",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "Three men stand on a stage in front of a screen showing the names Ron Rivest, Adi Shamir and Len Adleman.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "width": 2048,
+   "height": 1536
+  },
+  {
+   "id": "m6",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cryptographers-2008.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Cryptographers-2008.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Dan Spisak",
+   "licence": "CC BY-SA 2.0",
+   "hosting": "hotlink",
+   "caption": "Cryptographers' panel at the RSA 2008 conference, including Adi Shamir of the Weizmann Institute.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "date": "2008-04-08",
+   "width": 2592,
+   "height": 1944
+  },
+  {
+   "id": "m7",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Weizmann%20Institute%20of%20Science%20in%20Rehovot%2C%20January%202025%2026.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Weizmann_Institute_of_Science_in_Rehovot%2C_January_2025_26.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Chenspec",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "A brick path and garden on the campus of the Weizmann Institute of Science in Rehovot, with a sculpture on a stone base.",
+   "illustrates": [
+    "c1",
+    "c2"
+   ],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2025-01-24",
+   "width": 4000,
+   "height": 2248
+  },
+  {
+   "id": "m8",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=3FuoT2E7PYE",
+   "youtube_id": "3FuoT2E7PYE",
+   "source_page": "https://www.youtube.com/watch?v=3FuoT2E7PYE",
+   "source_name": "YouTube",
+   "credit": "TCS Proofs",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "Explanation of the 1986 Fiat–Shamir protocol: how to prove identity to a machine without revealing the secret.",
+   "illustrates": [
+    "c5",
+    "c32"
+   ],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m9",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=f_t0PdMhHUQ",
+   "youtube_id": "f_t0PdMhHUQ",
+   "source_page": "https://www.youtube.com/watch?v=f_t0PdMhHUQ",
+   "source_name": "YouTube",
+   "credit": "Axborot xavfsizligi",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "Explanation in the Uzbek language of the Feige–Fiat–Shamir identification protocol.",
+   "illustrates": [
+    "c32"
+   ],
+   "spoken": "uz",
+   "audio_tracks": [
+    "uz"
+   ]
+  },
+  {
+   "id": "m10",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=n2WUJyk9cHA",
+   "youtube_id": "n2WUJyk9cHA",
+   "source_page": "https://www.youtube.com/watch?v=n2WUJyk9cHA",
+   "source_name": "YouTube",
+   "credit": "Bill Buchanan OBE FRSE",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "Lecture by Bill Buchanan on zero-knowledge proof using the Fiat–Shamir method.",
+   "illustrates": [
+    "c32"
+   ],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  }
+ ],
+ "check": {
+  "passed": true,
+  "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
+  "checked_at": "2026-11-28T02:13:41Z",
+  "counts": {
+   "confirmed": 64,
+   "not_confirmed": 0,
+   "deleted_sentences": 2,
+   "first_round_confirmed": 67,
+   "first_round_contradicted": 1,
+   "first_round_unverifiable": 2
+  },
+  "note": "unverifiable sentences were deleted, contradicted ones fixed from the source and checked again"
+ },
+ "meta": {
+  "run": "fiat-feige-shamir-zero-knowledge-proofs",
+  "pipeline": "scripts/museum/museum_line.py",
+  "models": {
+   "research": "sonnet-5-5",
+   "extract": "sonnet-5-5",
+   "media": "sonnet-5-5",
+   "write": "opus-5-5 medium",
+   "check": "opus-5-5 medium",
+   "fix": "opus-5-5 medium"
+  },
+  "source_quality": {
+   "sources": 4,
+   "wikipedia": 0,
+   "strong": 4,
+   "ok": false,
+   "warnings": [
+    "only 4 sources used"
+   ]
+  }
+ },
+ "lang": "en",
+ "translation": {
+  "from": "he",
+  "translator": "claude-opus-5-5",
+  "checker": "claude-opus-5-5 (separate call, blind to the translation prompt)",
+  "checked_at": "2026-11-28T02:51:16Z",
+  "passed": true,
+  "items": 88,
+  "pairs_checked": 0,
+  "reused": 88,
+  "first_round_flagged": 0,
+  "still_flagged": 0,
+  "flagged": [],
+  "quote_translations": {}
+ }
+}

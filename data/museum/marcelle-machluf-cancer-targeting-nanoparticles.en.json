@@ -1,0 +1,1282 @@
+{
+ "schema": "maasei-museum/1",
+ "slug": "marcelle-machluf-cancer-targeting-nanoparticles",
+ "deed": "פרופ' מרסל מכלוף מהטכניון פיתחה ננו-חלקיקים שמכוונים תרופה ישירות לתאי הסרטן",
+ "canonical_type": "scientific-discovery",
+ "year": "2010",
+ "title": "Prof. Marcelle Machluf of the Technion developed \"Nano-Ghosts\" that carry treatment directly to cancer cells",
+ "trailer": [
+  {
+   "text": "Prof. Marcelle Machluf is a researcher at the Technion, an Israeli institution, and according to the Times of Israel she is the dean of the Faculty of Biotechnology and Food Engineering and one of the leading bioengineers in Israel.",
+   "claims": [
+    "c7",
+    "c9"
+   ]
+  },
+  {
+   "text": "According to the sponsored article in Haaretz, she was born in Morocco and immigrated to Israel with her mother in 1964, when she was one year old.",
+   "claims": [
+    "c11"
+   ]
+  },
+  {
+   "text": "According to the Technion, her laboratory developed \"Nano-Ghosts\", tiny particles made from the outer membrane of stem cells, which can target different types of cancer.",
+   "claims": [
+    "c15",
+    "c16"
+   ]
+  },
+  {
+   "text": "According to the Technion, in animal experiments the system doubled life expectancy after the development of prostate cancer, and no side effects were observed.",
+   "claims": [
+    "c24",
+    "c26"
+   ]
+  },
+  {
+   "text": "According to the sponsored article in Haaretz, in late 2019 Machluf founded the company NanoGhost with Yonatan Malca.",
+   "claims": [
+    "c42"
+   ]
+  }
+ ],
+ "hero_media": [],
+ "glance": [
+  {
+   "label": "Inventor",
+   "value": "Prof. Marcelle Machluf, Technion",
+   "claims": [
+    "c15"
+   ]
+  },
+  {
+   "label": "Since",
+   "value": "2010, according to Machluf",
+   "claims": [
+    "c36"
+   ]
+  },
+  {
+   "label": "Company",
+   "value": "NanoGhost, founded in late 2019",
+   "claims": [
+    "c42"
+   ]
+  },
+  {
+   "label": "Recognition",
+   "value": "One of the 60 important historical developments in Israel, 2016",
+   "claims": [
+    "c35"
+   ]
+  },
+  {
+   "label": "Stage",
+   "value": "Preclinical, according to Malca in 2025",
+   "claims": [
+    "c55"
+   ]
+  }
+ ],
+ "stations": [
+  {
+   "id": "s1",
+   "title": "The problem: a drug that also does harm along the way",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "According to a sponsored article in Haaretz, cancer is the leading cause of death in Israel among both men and women.",
+      "claims": [
+       "c5"
+      ]
+     },
+     {
+      "text": "According to the Technion, two problems in cancer treatments are the side effects of chemotherapy and the resistance that cancer cells develop to the drugs.",
+      "claims": [
+       "c1"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to the Technion, in current treatments the drug \"leaks\" on its way to the tumor.",
+      "claims": [
+       "c3"
+      ]
+     },
+     {
+      "text": "In this way it damages healthy tissue and causes serious side effects.",
+      "claims": [
+       "c3"
+      ]
+     },
+     {
+      "text": "According to the article in Haaretz, in recent years cancer research has focused on targeted treatments, intended to attack cancer cells and reduce damage to the rest of the body.",
+      "claims": [
+       "c6"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to the Technion, gene therapy for cancer also has great potential, but its clinical application is very limited.",
+      "claims": [
+       "c2"
+      ]
+     },
+     {
+      "text": "According to an article in Nature Nanotechnology, the existing ways of delivering drugs in nanoparticles are also limited.",
+      "claims": [
+       "c4"
+      ]
+     }
+    ]
+   ],
+   "media": [],
+   "disagreements": []
+  },
+  {
+   "id": "s2",
+   "title": "Marcelle Machluf: from a small apartment in Ashdod to the Technion",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "According to the sponsored article in Haaretz, Machluf was born in Morocco, and in 1964, when she was one year old, her mother decided to immigrate with her to Israel.",
+      "claims": [
+       "c11"
+      ]
+     },
+     {
+      "text": "The family lived in a tiny apartment in Ashdod.",
+      "claims": [
+       "c12"
+      ]
+     },
+     {
+      "text": "The mother and daughter shared a room, and the grandmother slept in the dining area.",
+      "claims": [
+       "c12"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "Today Machluf is a researcher at the Technion.",
+      "claims": [
+       "c7"
+      ]
+     },
+     {
+      "text": "According to the Technion, she is a world-renowned researcher in drug delivery, gene therapy, cell therapy and tissue engineering.",
+      "claims": [
+       "c7"
+      ]
+     },
+     {
+      "text": "According to the Technion, she has published over 60 articles and book chapters.",
+      "claims": [
+       "c8"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m4"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s3",
+   "title": "The idea: an empty cell, a \"ghost\"",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "According to the article, Machluf began the research that led to NanoGhost in 2010 in her Technion lab.",
+      "claims": [
+       "c36"
+      ]
+     },
+     {
+      "text": "She said that the laboratory had a program on HIV, to create a decoy that would fool the virus.",
+      "claims": [
+       "c37"
+      ]
+     },
+     {
+      "text": "Then she asked herself why not do the same in cancer.",
+      "claims": [
+       "c37"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to the Technion, the Nano-Ghosts are made from the outer membrane of mesenchymal stem cells.",
+      "claims": [
+       "c16"
+      ]
+     },
+     {
+      "text": "The cells can be produced in large quantities in the laboratory, emptied of their contents and turned into empty packages.",
+      "claims": [
+       "c17"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "NanoGhost CEO Yonatan Malca described it this way: you take a stem cell, empty it and create a \"ghost\".",
+      "claims": [
+       "c38"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m1"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s4",
+   "title": "How it works: a \"Trojan horse\" in the bloodstream",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "According to the Machluf laboratory, the Nano-Ghosts are produced by hypotonic treatment and mild homogenization that remove the cell's contents, and are then reduced in size.",
+      "claims": [
+       "c18"
+      ]
+     },
+     {
+      "text": "According to the laboratory, they can be loaded with a drug or a therapeutic substance, during the size reduction or after it.",
+      "claims": [
+       "c32"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to the Technion, specific genes are inserted into the empty packages.",
+      "claims": [
+       "c19"
+      ]
+     },
+     {
+      "text": "They are then injected into the bloodstream, through which they navigate to the tumor.",
+      "claims": [
+       "c21"
+      ]
+     },
+     {
+      "text": "Only when the genes reach the tumor do they begin to produce an anti-cancer protein.",
+      "claims": [
+       "c19"
+      ]
+     },
+     {
+      "text": "According to the Technion, the protein also acts on adjacent cancer cells and on the blood vessels that feed the tumor.",
+      "claims": [
+       "c20"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to the Technion, the particles do not cause immune rejection, and therefore there is no need to produce the stem cells from the patient himself.",
+      "claims": [
+       "c22"
+      ]
+     },
+     {
+      "text": "According to Yonatan Malka, CEO and co-founder of NanoGhost, selectiveness, that is, bringing the medicine directly to the target, is the most important attribute.",
+      "claims": [
+       "c39"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m3"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s5",
+   "title": "In the laboratory: the tumors shrink",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "According to Nature Nanotechnology in August 2013, Machluf and her colleagues at the Technion showed that Nano-Ghosts deliver treatment specifically to the tumor.",
+      "claims": [
+       "c30"
+      ]
+     },
+     {
+      "text": "According to the Technion, an article in Nano Letters announced a breakthrough: accurate delivery of genes to the target, without viruses.",
+      "claims": [
+       "c23"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to the abstract of the 2016 Nano Letters article, the Nano-Ghosts introduced DNA into various cancer cells, in vitro and in a living body, without side effects.",
+      "claims": [
+       "c28"
+      ]
+     },
+     {
+      "text": "In animals they inhibited metastatic lung cancer and prostate cancer, and greatly extended survival.",
+      "claims": [
+       "c27"
+      ]
+     },
+     {
+      "text": "According to the Technion, the system doubled the life expectancy of animals after the development of prostate cancer.",
+      "claims": [
+       "c24"
+      ]
+     },
+     {
+      "text": "According to Machluf, the tumor shrank after just one injection.",
+      "claims": [
+       "c61"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to Machluf, even when the cells are returned to the body empty, without a drug, they affect, for example, inflammatory systems that arise because of the cancer.",
+      "claims": [
+       "c64"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to the Technion, in 2016 a collaboration was announced between the Technion and the NYU Langone cancer center.",
+      "claims": [
+       "c50"
+      ]
+     },
+     {
+      "text": "The first joint study will examine whether Nano-Ghosts can deliver treatment for metastatic melanoma to the brain.",
+      "claims": [
+       "c50"
+      ]
+     },
+     {
+      "text": "According to the Technion, the Nano-Ghost has mechanisms that slow it enough to cross the barrier that filters the blood flowing into the brain.",
+      "claims": [
+       "c51"
+      ]
+     },
+     {
+      "text": "Each joint project will receive a two-year grant of $500,000.",
+      "claims": [
+       "c53"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m2"
+   ],
+   "disagreements": [
+    "d1"
+   ]
+  },
+  {
+   "id": "s6",
+   "title": "NanoGhost: from the laboratory to a company",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "According to the Times of Israel, Machluf set up a company as a spin-off from the Technion to commercialize the technology.",
+      "claims": [
+       "c40"
+      ]
+     },
+     {
+      "text": "According to the sponsored article in Haaretz, NanoGhost was founded in late 2019 by Machluf and Yonatan Malca, who has experience in capital markets and company management.",
+      "claims": [
+       "c42"
+      ]
+     },
+     {
+      "text": "According to Innovation Israel, the company was officially founded in November 2019, after a complex investor-raising process.",
+      "claims": [
+       "c43"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to the Times of Israel, the Israeli fund aMoon invested $5 million in the company, in a round in which aMoon's own Velocity fund, intended for early-stage investments, and a private investor from the US took part.",
+      "claims": [
+       "c45",
+       "c-aud-20261128-2"
+      ]
+     },
+     {
+      "text": "According to the article in Haaretz, the company also received four grants from the Israel Innovation Authority.",
+      "claims": [
+       "c46"
+      ]
+     },
+     {
+      "text": "Dorit Sokolov of aMoon Velocity said that after 10 years of research the technology is ripe for commercialization.",
+      "claims": [
+       "c49"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "According to the Times of Israel, the technology has received patents in the US and Europe, and additional patents are pending in India and China.",
+      "claims": [
+       "c34"
+      ]
+     },
+     {
+      "text": "Machluf said that pharmaceutical companies understand today that the delivery is as important as the medicine itself.",
+      "claims": [
+       "c62"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m5"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s7",
+   "title": "Recognition: a torch and one of the 60 developments",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "According to the Times of Israel, in 2016 the Ministry of Science and Technology selected the technology as one of the 60 important historical developments in Israel.",
+      "claims": [
+       "c35"
+      ]
+     },
+     {
+      "text": "According to the sponsored article in Haaretz, Machluf was chosen to light a torch at the ceremony marking seventy years of the State of Israel.",
+      "claims": [
+       "c13"
+      ]
+     },
+     {
+      "text": "According to the same article, she was elected to serve as a member of the Council for Higher Education.",
+      "claims": [
+       "c14"
+      ]
+     }
+    ]
+   ],
+   "media": [],
+   "disagreements": []
+  },
+  {
+   "id": "s8",
+   "title": "kind: hard",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "According to Machluf, up to the article in Innovation Israel they had worked only with animals, and methods better suited to humans still need to be found.",
+      "claims": [
+       "c58"
+      ]
+     },
+     {
+      "text": "According to Malca in 2025, the technology is still at the preclinical stage.",
+      "claims": [
+       "c55"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "Machluf said that a biological solution has a drawback: production of the cells is relatively limited, and a long time will always be needed to test and characterize the drug.",
+      "claims": [
+       "c59"
+      ]
+     },
+     {
+      "text": "According to her, the Nano-Ghost delivery system will not be suitable for all types of drugs.",
+      "claims": [
+       "c60"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "In 2021 Malca and Machluf said that much work is still needed before one can speak of a victory over cancer.",
+      "claims": [
+       "c63"
+      ]
+     },
+     {
+      "text": "According to Machluf and Malka, the system works, and Malka added that the nano ghost reaches the cells and can be loaded with medicine.",
+      "claims": [
+       "c63"
+      ]
+     }
+    ]
+   ],
+   "media": [],
+   "disagreements": [
+    "d2"
+   ]
+  }
+ ],
+ "disagreements": [
+  {
+   "id": "d1",
+   "question": "By how much did the tumors shrink in animal experiments?",
+   "versions": [
+    {
+     "says": "Technion: a delay of over 75% in prostate cancer and of over 50% in non-small cell lung cancer",
+     "claims": [
+      "c25"
+     ]
+    },
+    {
+     "says": "The Machluf laboratory, on a 2013 article in Nano Letters: 80% inhibition of human prostate cancer",
+     "claims": [
+      "c29"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d2",
+   "question": "When will human trials begin?",
+   "versions": [
+    {
+     "says": "Malca in the article in Haaretz, 2025: in about two years, in Israel and abroad",
+     "claims": [
+      "c55"
+     ]
+    },
+    {
+     "says": "Calcalist CTech, 2021: the hope is to reach clinical trials by 2023",
+     "claims": [
+      "c56"
+     ]
+    },
+    {
+     "says": "Machluf in Innovation Israel: the vision is to reach clinical trials within three years",
+     "claims": [
+      "c57"
+     ]
+    }
+   ]
+  }
+ ],
+ "unknowns": [
+  {
+   "text": "It is not known whether clinical trials in humans have already begun",
+   "claims": [
+    "c55",
+    "c56",
+    "c57"
+   ]
+  },
+  {
+   "text": "It is not known whether the patents in India and China have been granted",
+   "claims": [
+    "c34"
+   ]
+  },
+  {
+   "text": "It is not known what the results of the joint study with NYU Langone on melanoma in the brain were",
+   "claims": [
+    "c50"
+   ]
+  }
+ ],
+ "claims": [
+  {
+   "id": "c7",
+   "text": "פרופ' מרסל מכלוף היא חוקרת בטכניון, ולפי הטכניון היא חוקרת בעלת שם עולמי בתחומי הובלת תרופות, טיפול גנטי, תרפיה תאית והנדסת רקמות.",
+   "source": "src1",
+   "quote": "Prof. Marcelle Machluf is a world-renowned researcher in the fields of drug delivery, gene therapy, cell therapy and tissue engineering.",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c9",
+   "text": "מכלוף היא דיקנית הפקולטה להנדסת ביוטכנולוגיה ומזון בטכניון ולפי טיימס אוף ישראל אחת מהביו-מהנדסים המובילים בישראל; הטכניון הוא מוסד ישראלי.",
+   "source": "src2",
+   "quote": "one of the leading bioengineers in Israel and the faculty dean of Biotechnology & Food Engineering at the Technion-Israel Institute of Technology",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c11",
+   "text": "לפי הכתבה הממומנת בהארץ, מכלוף נולדה במרוקו, ובשנת 1964, כשהייתה בת שנה, אמה החליטה לעלות עמה לישראל.",
+   "source": "src3",
+   "quote": "She was born in Morocco and in 1964, when she was only one year old, her mother decided to leave Morocco and immigrate to Israel",
+   "status": "confirmed",
+   "locator": "שורה 13"
+  },
+  {
+   "id": "c15",
+   "text": "הטכניון מסר כי הטכנולוגיה החדשה להובלת תרופות ממוקדות נגד סרטן פותחה במעבדה של פרופ' מרסל מכלוף בפקולטה להנדסת ביוטכנולוגיה ומזון.",
+   "source": "src1",
+   "quote": "The new technology, developed at the laboratory of Prof. Marcelle Machluf of the Technion Faculty of Biotechnology and Food Engineering, is an innovative delivery platform called Nano-Ghost.",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c16",
+   "text": "לפי הטכניון, הננו-גוסטס הם חלקיקים זעירים העשויים מהקרום החיצוני של תאי גזע מזנכימליים, שיכולים לכוון באופן סלקטיבי לסוגי סרטן שונים.",
+   "source": "src1",
+   "quote": "The Nano-Ghosts are tiny particles made from the outer membrane of a certain type of cells, called Mesenchymal Stem Cells.",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c24",
+   "text": "לפי הטכניון, בניסויים במודלים של בעלי חיים המערכת הכפילה את תוחלת החיים לאחר התפתחות סרטן הערמונית.",
+   "source": "src1",
+   "quote": "In animal model experiments, the system doubled life expectancy after the development of the prostate cancer.",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c26",
+   "text": "לפי הטכניון, בבעלי החיים לא נצפו תופעות לוואי או רעילות, מה שמעיד על בטיחות המערכת.",
+   "source": "src1",
+   "quote": "No side effects and toxicity were observed in these animals, indicating the safety of the system.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c42",
+   "text": "לפי הכתבה הממומנת בהארץ, NanoGhost הוקמה בסוף 2019 על ידי מכלוף ויונתן מלכה, בעל ניסיון בשוק ההון ובניהול חברות.",
+   "source": "src3",
+   "quote": "NanoGhost was founded in late 2019 by Prof. Machluf and Yonatan Malca, who has an extensive experience in capital markets and company management.",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c36",
+   "text": "לפי מכלוף, בשנת 2010 החלה במעבדתה בטכניון המחקר שהוביל ל-NanoGhost.",
+   "source": "src4",
+   "quote": "Machluf began the research that led to NanoGhost in 2010 in her Technion lab",
+   "status": "confirmed",
+   "locator": "שורה 43"
+  },
+  {
+   "id": "c35",
+   "text": "לפי טיימס אוף ישראל, ב-2016 נבחרה הטכנולוגיה על ידי משרד המדע והטכנולוגיה של ישראל כאחד מ-60 הפיתוחים ההיסטוריים החשובים בישראל.",
+   "source": "src2",
+   "quote": "In 2016, the technology was selected by Israel",
+   "status": "confirmed",
+   "locator": "שורה 20"
+  },
+  {
+   "id": "c55",
+   "text": "לפי מלכה בכתבה הממומנת בהארץ מ-2025, הטכנולוגיה נמצאת בשלב פרה-קליני ובעוד כשנתיים החברה צפויה להתחיל ניסויים קליניים בישראל ובחו\"ל.",
+   "source": "src3",
+   "quote": "Our expectation is that in about two years, the company will initiate the human clinical trials phase, which will be held both in Israel and overseas",
+   "status": "confirmed",
+   "locator": "שורה 16"
+  },
+  {
+   "id": "c5",
+   "text": "לפי כתבה ממומנת בהארץ מינואר 2025, סרטן הוא גורם המוות המוביל בישראל בקרב גברים ונשים כאחד, ואחד מגורמי המוות המובילים בעולם המערבי.",
+   "source": "src3",
+   "quote": "Cancer is the leading cause of death in Israel for both men and women, and one of the leading causes of death in the Western world.",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c1",
+   "text": "לפי הטכניון, שתי בעיות בטיפולי סרטן הן תופעות הלוואי הפוגעות בבריאות בכימותרפיה והיכולת של תאי סרטן לפתח עמידות לתרופות אלה.",
+   "source": "src5",
+   "quote": "Two problems in cancer treatments are the health-eroding side effects of chemotherapy, and the ability of cancer cells to develop resistance to these drugs.",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c3",
+   "text": "לפי הטכניון, הטיפולים הנוכחיים גורמים לתרופה \"לדלוף\" בדרכה אל הגידול, מה שפוגע ברקמה בריאה וגורם לתופעות לוואי קשות.",
+   "source": "src1",
+   "quote": "resulting in damage to healthy tissue causing serious side effects",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c6",
+   "text": "לפי הכתבה הממומנת בהארץ, מחקר הסרטן מתמקד בשנים האחרונות בטיפולים ממוקדים, שנועדו לתקוף תאי סרטן ביעילות רבה יותר ולצמצם נזק מערכתי כללי, בניגוד לכימותרפיה רחבת טווח הפוגעת באיברים אחרים.",
+   "source": "src3",
+   "quote": "treatments that aim to more effectively attack cancer cells while reducing general systemic damage, as occurs with broad-spectrum chemotherapy treatments that harm other body organs.",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c2",
+   "text": "לפי הטכניון, למרות הפוטנציאל הגדול של טיפול גנטי בסרטן, היישום הקליני שלו מוגבל מאוד.",
+   "source": "src1",
+   "quote": "its clinical application is still very limited. The widespread method in gene therapy",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c4",
+   "text": "לפי מאמר ב-Nature Nanotechnology, שתי האסטרטגיות העיקריות להובלת תרופות אנטי-סרטניות בננו-חלקיקים, פסיבית ואקטיבית, מוגבלות בשל השוני בארכיטקטורת הגידולים והמורכבות של הוספת קבוצות מכוונות.",
+   "source": "src6",
+   "quote": "The two main strategies of nanoparticle delivery of anticancer therapeutics, passive and active targeting, are limited by variations in the architecture of tumours",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c12",
+   "text": "לפי הכתבה הממומנת בהארץ, המשפחה התגוררה בדירה זעירה באשדוד, שבה האם והבת חלקו חדר והסבתא ישנה בפינת האוכל.",
+   "source": "src3",
+   "quote": "The small female family settled in a tiny apartment in Ashdod, where the mother and daughter shared a room and the grandmother slept in the dining room.",
+   "status": "confirmed",
+   "locator": "שורה 13"
+  },
+  {
+   "id": "c8",
+   "text": "לפי הטכניון, מכלוף פרסמה מעל 60 מאמרים ופרקי ספרים, ושבעה מהפטנטים שלה נמצאים בתהליך רישום.",
+   "source": "src1",
+   "quote": "Prof. Machluf has published over 60 articles and book chapters, and seven of her patents in the process of registration.",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c37",
+   "text": "מכלוף סיפרה שבמעבדה הייתה תוכנית בנושא HIV ליצירת פיתיון שיטעה את הנגיף, ואז שאלה את עצמה מדוע לא לעשות זאת גם בסרטן.",
+   "source": "src4",
+   "quote": "we had a different program around HIV where we wanted to create a decoy and fool the virus",
+   "status": "confirmed",
+   "locator": "שורה 43"
+  },
+  {
+   "id": "c17",
+   "text": "לפי הטכניון, את התאים אפשר לייצר בכמויות גדולות במעבדה, לרוקן מתוכנם ולהפוך לחבילות ריקות, ומפתחי הטכנולוגיה הם מכלוף יחד עם הדוקטורנטית לימור קנטי.",
+   "source": "src1",
+   "quote": "With the technology developed by Prof. Machluf, together with doctoral student Limor Kaneti, these cells may be produced in large quantities in the laboratory",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c38",
+   "text": "לפי מנכ\"ל NanoGhost יונתן מלכה (2021), לוקחים תא גזע, מרוקנים אותו ויוצרים \"רוח רפאים\".",
+   "source": "src4",
+   "quote": "So we take a stem cell, empty it, and create a ghost",
+   "status": "confirmed",
+   "locator": "שורה 40"
+  },
+  {
+   "id": "c18",
+   "text": "לפי מעבדת מכלוף, הננו-גוסטס מיוצרים בתהליך של טיפול היפוטוני והומוגניזציה עדינה שמסיר את הציטופלזמה, ואחריו הקטנת גודל.",
+   "source": "src7",
+   "quote": "consisting of hypotonic treatment and mild homogenization—which removes the cell cytoplasm to attain the ghost cells—followed by size reduction to produce the NGs",
+   "status": "confirmed",
+   "locator": "שורה 1"
+  },
+  {
+   "id": "c32",
+   "text": "לפי מעבדת מכלוף, את הננו-גוסטס ניתן לטעון בכל תרופה או חומר טיפולי, בזמן הקטנת הגודל או לאחר ההכנה.",
+   "source": "src7",
+   "quote": "the NGs may be loaded with any drug or therapeutic of choice during their size reduction or post preparation by active means",
+   "status": "confirmed",
+   "locator": "שורה 1"
+  },
+  {
+   "id": "c19",
+   "text": "לפי הטכניון, גנים ספציפיים מוכנסים לחבילות הריקות ומתחילים לייצר חלבון אנטי-סרטני רק עם הגעתם לגידול.",
+   "source": "src1",
+   "quote": "Specific genes are inserted into these packages and begin to produce an anti-cancer protein only upon reaching the tumor.",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c21",
+   "text": "לפי הטכניון, לאחר טעינת החומר הגנטי הננו-גוסטס מוזרקים ישירות לזרם הדם ומנווטים בו אל הגידול.",
+   "source": "src1",
+   "quote": "after the genetic material is loaded, the Nano-Ghosts are injected directly into the bloodstream, through which they navigate to the tumor.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c20",
+   "text": "לפי הטכניון, החלבון האנטי-סרטני משפיע לא רק על תאי המטרה אלא גם על תאי סרטן סמוכים ועל כלי הדם התומכים בגידול.",
+   "source": "src1",
+   "quote": "Moreover, the anti-cancer protein affects not only the target cells into which the gene is inserted, but also the adjacent cancer cells and the blood vessels",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c22",
+   "text": "לפי הטכניון, החלקיקים אינם גורמים לדחייה חיסונית ולכן אין צורך לייצר את תאי הגזע מהמטופל עצמו.",
+   "source": "src1",
+   "quote": "since these particles do not generate any immune rejection, there is no need to produce the mesenchymal stem cells from the patient himself.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c39",
+   "text": "לפי מלכה, הננו-ווזיקלות נטענות בתרופה ויוצרות \"סוס טרויאני\", והסלקטיביות, הבאת התרופה ישירות ליעד, היא התכונה החשובה ביותר.",
+   "source": "src4",
+   "quote": "Selectiveness is the most important attribute here, bringing the medicine directly to the target,",
+   "status": "confirmed",
+   "locator": "שורה 41"
+  },
+  {
+   "id": "c30",
+   "text": "לפי Nature Nanotechnology (אוגוסט 2013), מכלוף ועמיתיה בטכניון הדגימו אספקה ספציפית לגידול של טיפול באמצעות ננו-גוסטס מממברנות של תאי גזע מזנכימליים.",
+   "source": "src6",
+   "quote": "Marcelle Machluf and colleagues at the Technion Israel Institute of Technology have now demonstrated tumour-specific delivery of a therapeutic using nanoghosts",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c23",
+   "text": "לפי הטכניון, מאמר שפורסם ב-24 בפברואר ב-Nano Letters הכריז על פריצת דרך במשלוח מדויק של גנים ליעד ללא שימוש בווירוסים.",
+   "source": "src1",
+   "quote": "An article published on February 24 in the journal Nano Letters heralds a breakthrough in the accurate delivery of genes to the target without the use of viruses.",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c28",
+   "text": "לפי תקציר המאמר ב-Nano Letters (2016), הננו-גוסטס כיוונו והחדירו בהצלחה DNA לתאי סרטן שונים במבחנה ובגוף חי, ללא תופעות לוואי.",
+   "source": "src8",
+   "quote": "pDNA-loaded nanoghosts efficiently targeted and transfected diverse cancer cells, in vitro and in vivo, in subcutaneous and metastatic orthotopic tumor models, leading to no adverse effects.",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c27",
+   "text": "לפי תקציר המאמר ב-Nano Letters (2016), ננו-גוסטס שנשאו DNA פלסמידי המקודד לגן רעיל לסרטן עיכבו את צמיחת סרטן ריאה גרורתי וסרטן ערמונית בבעלי חיים והאריכו משמעותית את הישרדותם.",
+   "source": "src8",
+   "quote": "Nanoghosts loaded with pDNA encoding for a cancer-toxic gene inhibited the growth of metastatic orthotopic lung cancer and subcutaneous prostate cancer models",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c61",
+   "text": "לפי מכלוף, בניסויים הגידול הסרטני הצטמצם כבר לאחר הזרקה אחת של הננו-גוסט.",
+   "source": "src9",
+   "quote": "הגידול הסרטני הצטמצם כבר לאחר הזרקה אחת של הננו-גוסט",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c25",
+   "text": "לפי הטכניון, הטכנולוגיה הביאה לעיכוב של מעל 75% בהתפתחות סרטן הערמונית ושל מעל 50% בסרטן ריאה שאינו מסוג תאים קטנים, בניסויים בבעלי חיים.",
+   "source": "src1",
+   "quote": "leading to a delay of over 75% in the development of prostate cancer, and of over 50% in the case of non-small cell lung carcinoma.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c29",
+   "text": "לפי מאמר מ-2013 ב-Nano Letters, מתן סיסטמי של ננו-גוסטס מהממברנות של תאי גזע מזנכימליים, טעונים בתרופה, הראה עיכוב של 80% בסרטן ערמונית אנושי.",
+   "source": "src7",
+   "quote": "Systemic administration of drug loaded MSC-NGs demonstrated 80% inhibition of human prostate cancer.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c64",
+   "text": "לפי מכלוף, כשהתאים מוחזרים לגוף ריקים, ללא תרופה, הם משפיעים למשל על מערכות דלקתיות שנוצרות עקב הסרטן.",
+   "source": "src9",
+   "quote": "כאשר התאים מוחזרים לגוף ריקים, בלי תרופה, הם משפיעים למשל על מערכות דלקתיות",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c50",
+   "text": "ב-2016 הוכרז על שיתוף פעולה בין הטכניון למרכז הסרטן של NYU Langone, ובמחקר המשותף הראשון ייבדק אם ננו-גוסטס יכולים להעביר טיפול למלנומה גרורתית אל המוח.",
+   "source": "src10",
+   "quote": "In the first joint collaboration, NYU Langone and Technion researchers will test the ability of a nanotechnology based on stem cell",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c51",
+   "text": "לפי הטכניון (2016), הננו-גוסט כולל מנגנונים שמאטים אותו מספיק כדי לחצות את המחסום שמסנן את הדם הזורם למוח.",
+   "source": "src10",
+   "quote": "the nanoghost encompasses particular mechanisms that slow it enough to traverse the barrier that filters blood flowing into the brain",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c53",
+   "text": "במסגרת היוזמה המשותפת, כל פרויקט מחקר משותף יקבל מענק לשנתיים של 500,000 דולר.",
+   "source": "src10",
+   "quote": "Co-investigators on each project will receive a two-year, $500,000 grant",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c40",
+   "text": "לפי טיימס אוף ישראל, חברה שהקימה מכלוף כספין-אוף מהטכניון כדי למסחר את הטכנולוגיה.",
+   "source": "src2",
+   "quote": "she has now set up a startup as a spin-off from the university to commercialize the technology.",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c43",
+   "text": "לפי אתר Innovation Israel, ננו-גוסט הוקמה רשמית בנובמבר 2019 לאחר שלב גיוס משקיעים מורכב.",
+   "source": "src9",
+   "quote": "ננו-גוסט הוקמה רשמית בנובמבר 2019, לאחר שלב גיוס משקיעים מורכב למדי",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c45",
+   "text": "לפי טיימס אוף ישראל, קרן aMoon הישראלית השקיעה 5 מיליון דולר בחברה כחלק מסבב גיוס שבו השתתפו גם קרן Velocity ומשקיע פרטי מארה\"ב.",
+   "source": "src2",
+   "quote": "The $5 million is part of a funding round in which aMoon",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c46",
+   "text": "לפי הכתבה הממומנת בהארץ, החברה גייסה כספים מקבוצות משקיעים ישראליות ואמריקאיות וקיבלה ארבעה מענקים מרשות החדשנות.",
+   "source": "src3",
+   "quote": "Over the years, the company has raised funds from Israeli and American investor groups and received four grants from the Israel Innovation Authority at the Ministry of Science.",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c49",
+   "text": "דורית סוקולוב ממנהלי aMoon Velocity אמרה שאחרי 10 שנות מחקר ממומן הטכנולוגיה בשלה למסחור.",
+   "source": "src2",
+   "quote": "After 10 years of funded research, this groundbreaking technology is ripe for commercialization.",
+   "status": "confirmed",
+   "locator": "שורה 22"
+  },
+  {
+   "id": "c34",
+   "text": "לפי טיימס אוף ישראל, הטכנולוגיה קיבלה פטנטים בארה\"ב ובאירופה, ופטנטים נוספים ממתינים בהודו ובסין.",
+   "source": "src2",
+   "quote": "The NanoGhost technology has been patented in the US and Europe, with additional patents pending in India and China.",
+   "status": "confirmed",
+   "locator": "שורה 20"
+  },
+  {
+   "id": "c62",
+   "text": "מכלוף אמרה שחברות פארמה מבינות היום שההובלה חשובה כמו התרופה עצמה.",
+   "source": "src4",
+   "quote": "Pharma companies understand today, that the delivery is as important as the medicine itself.",
+   "status": "confirmed",
+   "locator": "שורה 37"
+  },
+  {
+   "id": "c13",
+   "text": "לפי הכתבה הממומנת בהארץ, מכלוף נבחרה להדליק משואה בטקס שבעים שנה למדינת ישראל.",
+   "source": "src3",
+   "quote": "who was chosen to light a torch at the 70th anniversary of the State of Israel",
+   "status": "confirmed",
+   "locator": "שורה 13"
+  },
+  {
+   "id": "c14",
+   "text": "לפי הכתבה הממומנת בהארץ, מכלוף נבחרה לאחרונה לכהן כחברה במועצה להשכלה גבוהה.",
+   "source": "src3",
+   "quote": "She was recently elected to serve as a member of the Council for Higher Education (CHE)",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c58",
+   "text": "לפי מכלוף, עד לכתבה עבדו עם בעלי חיים בלבד, ויש למצוא שיטות מתאימות יותר לבני אדם.",
+   "source": "src9",
+   "quote": "עד כה עבדנו עם בעלי חיים, אך בשלב הנוכחי אנחנו צריכים למצוא שיטות עבודה שמתאימות יותר לבני אדם",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c59",
+   "text": "לפי מכלוף, בחירה בפתרון ביולוגי כרוכה בחיסרון: שיטת הפקת התאים מוגבלת יחסית ותמיד יידרש זמן רב לניתוח ולאפיון התרופה.",
+   "source": "src9",
+   "quote": "שיטת הפקת התאים מוגבלת יחסית, ותמיד נצטרך להקדיש זמן רב לניתוח ולאפיון התרופה",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c60",
+   "text": "לפי מכלוף, ברמת התעשייה מערכת ההובלה של ננו-גוסט לא תתאים לכל סוגי התרופות.",
+   "source": "src9",
+   "quote": "ברמת התעשייה, מערכת ההובלה של ננו-גוסט לא תתאים לכל סוגי התרופות",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c63",
+   "text": "לפי מלכה ומכלוף (2021), עדיין נדרשת עבודה רבה לפני שיוכלו לטעון לניצחון על הסרטן, אך לדבריהם המערכת עובדת והננו-גוסט מגיע לתאים וניתן לטעון אותו בתרופה.",
+   "source": "src4",
+   "quote": "the secret component exists, the nano ghost reaches the cells, you can load them with medicine.",
+   "status": "confirmed",
+   "locator": "שורה 47"
+  },
+  {
+   "id": "c56",
+   "text": "לפי כלכליסט CTech מ-2021, התקווה היא להגיע לניסויים בבעלי חיים בעוד שנה ולניסויים קליניים עד 2023.",
+   "source": "src4",
+   "quote": "The hope is to reach animal testing in a year and clinical trials by 2023.",
+   "status": "confirmed",
+   "locator": "שורה 45"
+  },
+  {
+   "id": "c57",
+   "text": "לפי מכלוף בכתבת Innovation Israel, החזון הוא להגיע בתוך שלוש שנים לניסויים קליניים.",
+   "source": "src9",
+   "quote": "החזון שלנו הוא שבתוך שלוש שנים נגיע לניסויים קליניים ונצא לגיוסים המתאימים ככל שנדרש",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c-aud-20261128-2",
+   "text": "לפי טיימס אוף ישראל, קרן aMoon הישראלית השקיעה בחברה 5 מיליון דולר, בסבב שבו השתתפו קרן Velocity של aMoon עצמה, המיועדת להשקעות בשלב מוקדם, ומשקיע פרטי מארה\"ב.",
+   "source": "src2",
+   "quote": "early stage Velocity fund took part, along with a private investor from the US",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  }
+ ],
+ "sources": [
+  {
+   "id": "src1",
+   "label": "Nanotechnology Institute (RBNI), Technion",
+   "url": "https://rbni.technion.ac.il/node/427",
+   "kind": "organisation"
+  },
+  {
+   "id": "src2",
+   "label": "Times of Israel, on the company NanoGhost and its fundraising",
+   "url": "https://www.timesofisrael.com/ghost-cell-startup-that-targets-deadliest-cancers-gets-funding-boost/",
+   "kind": "press"
+  },
+  {
+   "id": "src3",
+   "label": "Haaretz (sponsored content), 14.1.2025",
+   "url": "https://www.haaretz.com/haaretz-labels/innovation2024/2025-01-14/ty-article-labels/nanoghosts-for-a-targeted-fight-against-cancer/00000194-63f5-dabc-afff-6bf78b530000",
+   "kind": "press"
+  },
+  {
+   "id": "src4",
+   "label": "Calcalist CTech, 2021, NanoGhost",
+   "url": "https://www.calcalistech.com/ctech/articles/0,7340,L-3910667,00.html",
+   "kind": "press"
+  },
+  {
+   "id": "src5",
+   "label": "Technion, President's Report 2016, Nano-healers",
+   "url": "https://ver2016.presidentsreport.technion.ac.il/nano-healers/",
+   "kind": "organisation"
+  },
+  {
+   "id": "src6",
+   "label": "Nature Nanotechnology, research/commentary article on Machluf's work, 2013",
+   "url": "https://www.nature.com/articles/nnano.2013.165",
+   "kind": "press"
+  },
+  {
+   "id": "src7",
+   "label": "Machluf Laboratory, Technion, Nano-Ghosts",
+   "url": "https://machluf.technion.ac.il/?p=183",
+   "kind": "organisation"
+  },
+  {
+   "id": "src8",
+   "label": "PubMed, Nano Letters, 2016",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/26901695/",
+   "kind": "official"
+  },
+  {
+   "id": "src9",
+   "label": "Innovation Israel, Cancer Can Be Beaten",
+   "url": "https://innovationisrael.org.il/article/אפשר-לנצח-את-הסרטן/",
+   "kind": "press"
+  },
+  {
+   "id": "src10",
+   "label": "Technion, 4.2016, joint research with NYU Langone",
+   "url": "https://www.technion.ac.il/en/2016/04/melanoma-mesothelioma-research-with-nyu-lagone/",
+   "kind": "organisation"
+  }
+ ],
+ "media": [
+  {
+   "id": "m1",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=EBjkhZQOLZI",
+   "youtube_id": "EBjkhZQOLZI",
+   "source_page": "https://www.youtube.com/watch?v=EBjkhZQOLZI",
+   "source_name": "YouTube",
+   "credit": "Technion – Israel Institute of Technology",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "A film by the Technion about itself: Prof. Marcelle Machluf presents the Nano-Ghosts as a \"magic bullet\" against cancer.",
+   "illustrates": [
+    "c7",
+    "c15",
+    "c16"
+   ],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m2",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=pMqFu__mRzc",
+   "youtube_id": "pMqFu__mRzc",
+   "source_page": "https://www.youtube.com/watch?v=pMqFu__mRzc",
+   "source_name": "YouTube",
+   "credit": "Technion – Israel Institute of Technology",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "A film by the Technion about itself: new research from Prof. Machluf's laboratory on Nano-Ghosts for fighting cancer.",
+   "illustrates": [
+    "c15",
+    "c16"
+   ],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m3",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=Rr92Tf7wPGQ",
+   "youtube_id": "Rr92Tf7wPGQ",
+   "source_page": "https://www.youtube.com/watch?v=Rr92Tf7wPGQ",
+   "source_name": "YouTube",
+   "credit": "Technion – Israel Institute of Technology",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "A film by the Technion about itself: Prof. Machluf talks about treating cancer through direct delivery of the drug.",
+   "illustrates": [
+    "c15"
+   ],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m4",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=YgnjVmsplI4",
+   "youtube_id": "YgnjVmsplI4",
+   "source_page": "https://www.youtube.com/watch?v=YgnjVmsplI4",
+   "source_name": "YouTube",
+   "credit": "Kan Educational",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "A report by Kan Educational on Prof. Machluf, who grew up in a poor home, and on a system that delivers drugs to the area of the cancerous tumor without harming the rest of the body.",
+   "illustrates": [
+    "c7"
+   ],
+   "spoken": "he",
+   "audio_tracks": [
+    "he"
+   ]
+  },
+  {
+   "id": "m5",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=MN5k33TUa84",
+   "youtube_id": "MN5k33TUa84",
+   "source_page": "https://www.youtube.com/watch?v=MN5k33TUa84",
+   "source_name": "YouTube",
+   "credit": "IATI - Israel Advanced Technology Industries",
+   "licence": "YouTube, embedded only (standard YouTube licence)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "A lecture at IATI by Prof. Machluf on NanoGhost, a stem cell-based delivery platform for treating cancer and inflammatory diseases of the brain.",
+   "illustrates": [],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  }
+ ],
+ "check": {
+  "passed": true,
+  "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
+  "checked_at": "2026-11-28T02:03:43Z",
+  "counts": {
+   "confirmed": 74,
+   "not_confirmed": 0,
+   "deleted_sentences": 2,
+   "first_round_confirmed": 76,
+   "first_round_contradicted": 1,
+   "first_round_unverifiable": 2
+  },
+  "note": "unverifiable sentences were deleted, contradicted ones fixed from the source and checked again"
+ },
+ "meta": {
+  "run": "marcelle-machluf-cancer-targeting-nanoparticles",
+  "pipeline": "scripts/museum/museum_line.py",
+  "models": {
+   "research": "sonnet-5-5",
+   "extract": "sonnet-5-5",
+   "media": "sonnet-5-5",
+   "write": "opus-5-5 medium",
+   "check": "opus-5-5 medium",
+   "fix": "opus-5-5 medium"
+  },
+  "source_quality": {
+   "sources": 10,
+   "wikipedia": 0,
+   "strong": 6,
+   "ok": true,
+   "warnings": []
+  }
+ },
+ "lang": "en",
+ "translation": {
+  "from": "he",
+  "translator": "claude-opus-5-5",
+  "checker": "claude-opus-5-5 (separate call, blind to the translation prompt)",
+  "checked_at": "2026-11-28T02:54:43Z",
+  "passed": true,
+  "items": 113,
+  "pairs_checked": 0,
+  "reused": 113,
+  "first_round_flagged": 0,
+  "still_flagged": 0,
+  "flagged": [],
+  "quote_translations": {
+   "c61": "The cancerous tumor shrank already after one injection of the Nano-Ghost",
+   "c64": "When the cells are returned to the body empty, without a drug, they affect, for example, inflammatory systems",
+   "c43": "Nano-Ghost was officially founded in November 2019, after a rather complex investor-raising stage",
+   "c58": "Until now we have worked with animals, but at the current stage we need to find working methods that are better suited to humans",
+   "c59": "The cell production method is relatively limited, and we will always need to devote a long time to analyzing and characterizing the drug",
+   "c60": "At the industry level, the Nano-Ghost delivery system will not be suitable for all types of drugs",
+   "c57": "Our vision is that within three years we will reach clinical trials and go out to the appropriate fundraising rounds as needed"
+  }
+ }
+}

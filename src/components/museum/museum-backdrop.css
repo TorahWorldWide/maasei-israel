@@ -165,36 +165,39 @@
 }
 
 /* ---- a small flourish under the page title: a hairline that fades at both ends, with a diamond at
-   its centre. It lives inside the title card's existing bottom padding, so nothing moves. It opens
+   its centre. It lives inside the title card's existing bottom padding (or, on a page with no backdrop yet, in the space above the photos), so nothing moves. It opens
    once from the centre when the page loads; no motion under prefers-reduced-motion. ---- */
-.mx-page[data-bg] .mx-root .mx-title { position: relative; }
-.mx-page[data-bg] .mx-root .mx-title::before,
-.mx-page[data-bg] .mx-root .mx-title::after {
+:is(.mx-page[data-bg] .mx-root, .mx-root[data-look="a4"]) .mx-title { position: relative; }
+:is(.mx-page[data-bg] .mx-root, .mx-root[data-look="a4"]) .mx-title::before,
+:is(.mx-page[data-bg] .mx-root, .mx-root[data-look="a4"]) .mx-title::after {
   content: "";
   position: absolute;
   top: calc(100% + 12px);
   left: 50%;
   pointer-events: none;
 }
-.mx-page[data-bg] .mx-root .mx-title::before {
+:is(.mx-page[data-bg] .mx-root, .mx-root[data-look="a4"]) .mx-title::before {
   width: 132px;
   height: 1px;
   margin-left: -66px;
-  background: linear-gradient(to right, transparent, var(--bd-accent) 38%, transparent 38%, transparent 62%, var(--bd-accent) 62%, transparent);
+  background: linear-gradient(to right, transparent, var(--lk-accent) 38%, transparent 38%, transparent 62%, var(--lk-accent) 62%, transparent);
   opacity: 0.7;
   animation: mxFlourishRule 0.9s cubic-bezier(0.22, 1, 0.36, 1) 0.15s both;
 }
-.mx-page[data-bg] .mx-root .mx-title::after {
+:is(.mx-page[data-bg] .mx-root, .mx-root[data-look="a4"]) .mx-title::after {
   width: 7px;
   height: 7px;
   margin: -3px 0 0 -3.5px;
-  background: var(--bd-accent);
+  background: var(--lk-accent);
   transform: rotate(45deg);
   animation: mxFlourishGem 0.6s ease-out 0.15s both;
 }
+/* no backdrop yet: the photos start closer to the title, so the flourish sits a little higher */
+.mx-page:not([data-bg]) .mx-root[data-look="a4"] .mx-title::before,
+.mx-page:not([data-bg]) .mx-root[data-look="a4"] .mx-title::after { top: calc(100% + 8px); }
 @keyframes mxFlourishRule { from { opacity: 0; transform: scaleX(0.25); } to { opacity: 0.7; transform: scaleX(1); } }
 @keyframes mxFlourishGem { from { opacity: 0; } to { opacity: 1; } }
 @media (prefers-reduced-motion: reduce) {
-  .mx-page[data-bg] .mx-root .mx-title::before,
-  .mx-page[data-bg] .mx-root .mx-title::after { animation: none; }
+  :is(.mx-page[data-bg] .mx-root, .mx-root[data-look="a4"]) .mx-title::before,
+  :is(.mx-page[data-bg] .mx-root, .mx-root[data-look="a4"]) .mx-title::after { animation: none; }
 }

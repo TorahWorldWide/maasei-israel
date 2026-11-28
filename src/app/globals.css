@@ -60,6 +60,17 @@ h6 {
   letter-spacing: -0.01em;
 }
 
+/* Keyboard focus: a gold ring on links and buttons, only when reached by keyboard (mouse and touch
+   see nothing new). In the base layer, so any utility class or component rule still wins. */
+@layer base {
+  a:focus-visible,
+  button:focus-visible,
+  summary:focus-visible {
+    outline: 2px solid var(--color-gold);
+    outline-offset: 3px;
+  }
+}
+
 /* Thin gold rule used as a classic divider/flourish. */
 .gold-rule {
   height: 1px;

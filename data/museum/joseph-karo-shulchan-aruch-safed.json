@@ -75,7 +75,9 @@
    "label": "הספר",
    "value": "ארבעה חלקים: אורח חיים, יורה דעה, אבן העזר, חושן משפט",
    "claims": [
-    "c52"
+    "c80",
+    "c81",
+    "c82"
    ]
   },
   {
@@ -106,9 +108,9 @@
       ]
      },
      {
-      "text": "לפי ויקישיבה, הוא גורש עם משפחתו בגירוש ספרד.",
+      "text": "הוא גורש עם משפחתו בגירוש ספרד.",
       "claims": [
-       "c4"
+       "c83"
       ]
      },
      {
@@ -123,12 +125,6 @@
       "text": "לפי האנציקלופדיה היהודית, את לימודיו הראשונים קיבל מאביו.",
       "claims": [
        "c2"
-      ]
-     },
-     {
-      "text": "לפי ויקישיבה, אביו נפטר בילדותו, והוא גדל בבית דודו, רבי יצחק קארו.",
-      "claims": [
-       "c78"
       ]
      }
     ]
@@ -357,9 +353,9 @@
    "paragraphs": [
     [
      {
-      "text": "לפי ויקישיבה, השולחן ערוך נכתב כסיכום לספרו של קארו על הטור.",
+      "text": "השולחן ערוך נכתב כסיכום לספרו של קארו על הטור.",
       "claims": [
-       "c51"
+       "c84"
       ]
      },
      {
@@ -377,15 +373,11 @@
     ],
     [
      {
-      "text": "לפי ויקישיבה, הספר כולל ארבעה חלקים: אורח חיים, יורה דעה, אבן העזר וחושן משפט.",
+      "text": "הספר כולל ארבעה חלקים: אורח חיים, יורה דעה, אבן העזר וחושן משפט.",
       "claims": [
-       "c52"
-      ]
-     },
-     {
-      "text": "לפי ויקישיבה, קארו פוסק בו בדרך כלל כדעת שלושת עמודי ההוראה.",
-      "claims": [
-       "c53"
+       "c85",
+       "c86",
+       "c87"
       ]
      },
      {
@@ -478,28 +470,10 @@
     ],
     [
      {
-      "text": "לפי ויקישיבה, השולחן ערוך התקבל עם הזמן כספר היסוד בפסיקת הלכה ברוב קהילות ישראל.",
+      "text": "השולחן ערוך התקבל עם הזמן כספר היסוד בפסיקת הלכה ברוב קהילות ישראל.",
       "claims": [
-       "c50",
-       "c54"
-      ]
-     },
-     {
-      "text": "לפי ויקישיבה, יש אומרים שהספרדים קיבלו עליהם את הוראות מרן, להקל ולהחמיר.",
-      "claims": [
-       "c57"
-      ]
-     },
-     {
-      "text": "לפי ויקישיבה, נכתבו לו עשרות פירושים, ובהם מגן אברהם, טורי זהב, שפתי כהן ומשנה ברורה.",
-      "claims": [
-       "c55"
-      ]
-     },
-     {
-      "text": "לפי ויקישיבה, המשנה ברורה, שנכתב על חלק אורח חיים, נחשב בעיני רבים לפוסק העיקרי של יהודי אשכנז בימינו בתחומים שבהם הוא עוסק, אך אין הדבר מוסכם.",
-      "claims": [
-       "c56"
+       "c88",
+       "c89"
       ]
      }
     ],
@@ -538,9 +512,10 @@
    "paragraphs": [
     [
      {
-      "text": "לפי ויקישיבה, קארו היה ראש רבני צפת, פוסק ומקובל.",
+      "text": "קארו היה ראש רבני צפת, פוסק ומקובל.",
       "claims": [
-       "c49"
+       "c95",
+       "c96"
       ]
      },
      {
@@ -699,12 +674,6 @@
      ]
     },
     {
-     "says": "ויקישיבה: אחרי גירוש ספרד עברה המשפחה לליסבון שבפורטוגל",
-     "claims": [
-      "c4"
-     ]
-    },
-    {
      "says": "ניו וורלד אנציקלופדיה: תחילה לפורטוגל ואחר כך לבולגריה של היום",
      "claims": [
       "c66"
@@ -729,9 +698,9 @@
      ]
     },
     {
-     "says": "ויקישיבה: כשלושים ושתיים שנה",
+     "says": "כשלושים ושתיים שנה",
      "claims": [
-      "c20"
+      "c97"
      ]
     }
    ]
@@ -845,14 +814,6 @@
    "locator": "שורה 16"
   },
   {
-   "id": "c52",
-   "text": "לפי ויקישיבה, השולחן ערוך כולל ארבעה חלקים: אורח חיים, יורה דעה, אבן העזר וחושן משפט.",
-   "source": "src4",
-   "quote": "הספר שלחן ערוך כולל ארבעה חלקים - א. אורח חיים ב. יורה דעה ג. אבן העזר ד. חושן משפט",
-   "status": "confirmed",
-   "locator": "שורה 3"
-  },
-  {
    "id": "c1",
    "text": "לפי האנציקלופדיה היהודית, יוסף קארו נולד בספרד או בפורטוגל ב-1488 ונפטר בצפת ב-24 במרץ 1575.",
    "source": "src2",
@@ -861,28 +822,12 @@
    "locator": "שורה 13"
   },
   {
-   "id": "c4",
-   "text": "לפי ויקישיבה, יוסף קארו גורש במסגרת גירוש ספרד ועבר עם משפחתו לליסבון שבפורטוגל.",
-   "source": "src5",
-   "quote": "גורש רבי יוסף קארו במסגרת גירוש ספרד ועבר עם משפחתו לליסבון שבפורטוגל",
-   "status": "confirmed",
-   "locator": "שורה 25"
-  },
-  {
    "id": "c2",
    "text": "לפי האנציקלופדיה היהודית, אחרי גירוש היהודים מספרד ב-1492 עבר קארו עם הוריו לניקופוליס שבטורקיה האירופית, ושם קיבל את לימודיו הראשונים מאביו.",
    "source": "src2",
    "quote": "After the expulsion of the Jews from Spain, in 1492, Caro went with his parents to Nicopolis in European Turkey, where he received his first instruction from his father",
    "status": "confirmed",
    "locator": "שורה 13"
-  },
-  {
-   "id": "c78",
-   "text": "לפי ויקישיבה, אביו של קארו נפטר בילדותו והוא גדל בבית דודו, רבי יצחק קארו.",
-   "source": "src5",
-   "quote": "אביו נפטר בילדותו, ורבי יוסף גדל בבית דודו רבי יצחק קארו",
-   "status": "confirmed",
-   "locator": "שורה 25"
   },
   {
    "id": "c9",
@@ -1069,28 +1014,12 @@
    "locator": "שורה 14"
   },
   {
-   "id": "c51",
-   "text": "לפי ויקישיבה, השולחן ערוך הוא הנחשב לספר הפסיקה המרכזי ביותר, ונכתב כסיכום לספרו של קארו על הטור.",
-   "source": "src4",
-   "quote": "הנחשב לספר הפסיקה המרכזי ביותר. הספר נכתב כסיכום לספרו של המחבר על הטור",
-   "status": "confirmed",
-   "locator": "שורה 2"
-  },
-  {
    "id": "c24",
    "text": "לפי New World Encyclopedia, קארו חיבר את השולחן ערוך בזקנתו, למען מי שלא היה לו הידע הנדרש להבנת הבית יוסף הארוך והמורכב.",
    "source": "src1",
    "quote": "in his old age, for the benefit of those who did not possess the education necessary to understand the longer and more complex Bet Yosef",
    "status": "confirmed",
    "locator": "שורה 89"
-  },
-  {
-   "id": "c53",
-   "text": "לפי ויקישיבה, מרן קארו פוסק בדרך כלל כדעת שלושת עמודי ההוראה.",
-   "source": "src4",
-   "quote": "מרן פוסק בדרך כלל כדעת שלושת עמודי ההוראה, הלא הם",
-   "status": "confirmed",
-   "locator": "שורה 18"
   },
   {
    "id": "c62",
@@ -1165,46 +1094,6 @@
    "locator": "שורה 93"
   },
   {
-   "id": "c50",
-   "text": "לפי ויקישיבה, קארו חיבר את השולחן ערוך, ספר ההלכה הבסיסי שנתקבל ברוב תפוצות ישראל כספר היסוד בפסיקת הלכה.",
-   "source": "src5",
-   "quote": "מחבר ספר ההלכה הבסיסי שולחן ערוך שנתקבל ברוב תפוצות ישראל כספר היסוד בפסיקת הלכה",
-   "status": "confirmed",
-   "locator": "שורה 17"
-  },
-  {
-   "id": "c54",
-   "text": "לפי ויקישיבה, השולחן ערוך התקבל עם הזמן כספר ההלכה היסודי ברוב קהילות ישראל.",
-   "source": "src5",
-   "quote": "ברבות הימים ספר זה התקבל כספר ההלכה היסודי ברוב קהילות ישראל.",
-   "status": "confirmed",
-   "locator": "שורה 30"
-  },
-  {
-   "id": "c57",
-   "text": "לפי ויקישיבה, יש אומרים שהספרדים קיבלו עליהם את הוראות מרן, הן להקל והן להחמיר.",
-   "source": "src4",
-   "quote": "יש אומרים שהספרדים קבלו עליהם הוראות מרן בין להקל ובין להחמיר",
-   "status": "confirmed",
-   "locator": "שורה 20"
-  },
-  {
-   "id": "c55",
-   "text": "לפי ויקישיבה, נכתבו עשרות פירושים לשולחן ערוך, ובהם מגן אברהם, טורי זהב, שפתי כהן ומשנה ברורה.",
-   "source": "src5",
-   "quote": "כמו כן עשרות פירושים נכתבו לשולחן ערוך, כשהבולטים שבהם הם: מגן אברהם, טורי זהב, שפתי כהן, משנה ברורה ועוד.",
-   "status": "confirmed",
-   "locator": "שורה 30"
-  },
-  {
-   "id": "c56",
-   "text": "לפי ויקישיבה, המשנה ברורה נחשבת בעיני רבים כפוסק העיקרי של יהודי אשכנז בימינו, אך אין הדבר מוסכם.",
-   "source": "src4",
-   "quote": "נחשב על ידי רבים כפוסק העיקרי של יהודי אשכנז בימינו בתחומים בהם הוא עוסק למרות שאין זה מוסכם",
-   "status": "confirmed",
-   "locator": "שורה 40"
-  },
-  {
    "id": "c39",
    "text": "לפי New World Encyclopedia, במאה ה-19 קיצור שולחן ערוך מאת שלמה גנצפריד, שנכתב במיוחד לבעלי בתים, הפך לפופולרי בכמה שפות.",
    "source": "src1",
@@ -1227,14 +1116,6 @@
    "quote": "The Shulchan Aruch is the nearly universally accepted guide for religious observance in Orthodox Judaism today",
    "status": "confirmed",
    "locator": "שורה 114"
-  },
-  {
-   "id": "c49",
-   "text": "לפי ויקישיבה, קארו היה ראש רבני צפת, פוסק ומקובל, ומגדולי הפוסקים בכל הדורות.",
-   "source": "src5",
-   "quote": "היה ראש רבני צפת, פוסק ומקובל. מגדולי וחשובי הפוסקים בכל הדורות.",
-   "status": "confirmed",
-   "locator": "שורה 17"
   },
   {
    "id": "c41",
@@ -1389,20 +1270,116 @@
    "locator": "שורה 12"
   },
   {
-   "id": "c20",
-   "text": "לפי ויקישיבה, קארו החל לכתוב את הבית יוסף בגיל כ-34, וכתיבתו הסתיימה כשלושים ושתיים שנה מאוחר יותר.",
-   "source": "src5",
-   "quote": "בתקופה זו החל בכתיבת חיבורו בית יוסף על הטור (בסביבות גיל 34), שנגמרה כשלושים ושתיים שנה מאוחר יותר.",
-   "status": "confirmed",
-   "locator": "שורה 25"
-  },
-  {
    "id": "c13",
    "text": "לפי ספריית פוזן, קארו נולד בחצי האי האיברי זמן קצר לפני גירוש היהודים מספרד ופורטוגל, גדל בטורקיה העות'מאנית ועזב לצפת ב-1536.",
    "source": "src6",
    "quote": "Born in the Iberian Peninsula shortly before the expulsions of Jews from Spain and Portugal, Karo was raised in Ottoman Turkey and departed for Safed in 1536.",
    "status": "confirmed",
    "locator": "שורה 4"
+  },
+  {
+   "id": "c80",
+   "text": "הספר: ארבעה חלקים: אורח חיים, יורה דעה, אבן העזר, חושן משפט",
+   "source": "src7",
+   "quote": "Like the Arba’ah Turim, the Shulchan Aruch is divided into four sections:",
+   "status": "confirmed",
+   "locator": "שורה 22"
+  },
+  {
+   "id": "c81",
+   "text": "הספר: ארבעה חלקים: אורח חיים, יורה דעה, אבן העזר, חושן משפט",
+   "source": "src7",
+   "quote": "Orah Hayim (laws relating to prayer, Shabbat and holiday observance, and other rituals of everyday life),",
+   "status": "confirmed",
+   "locator": "שורה 23"
+  },
+  {
+   "id": "c82",
+   "text": "הספר: ארבעה חלקים: אורח חיים, יורה דעה, אבן העזר, חושן משפט",
+   "source": "src7",
+   "quote": "Hoshen Mishpat (civil law, including sections on lending money, renting and buying homes, and worker-employer relations).",
+   "status": "confirmed",
+   "locator": "שורה 23"
+  },
+  {
+   "id": "c83",
+   "text": "הוא גורש עם משפחתו בגירוש ספרד.",
+   "source": "src8",
+   "quote": "כשהיה בן ארבע בלבד גורש עם משפחתו בגירוש ספרד.",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c84",
+   "text": "השולחן ערוך נכתב כסיכום לספרו של קארו על הטור.",
+   "source": "src9",
+   "quote": "The book is in fact a halakhic synopsis of Caro's previous commentary on the Turim, the Beit Yosef.",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c85",
+   "text": "הספר כולל ארבעה חלקים: אורח חיים, יורה דעה, אבן העזר וחושן משפט.",
+   "source": "src7",
+   "quote": "Like the Arba’ah Turim, the Shulchan Aruch is divided into four sections:",
+   "status": "confirmed",
+   "locator": "שורה 22"
+  },
+  {
+   "id": "c86",
+   "text": "הספר כולל ארבעה חלקים: אורח חיים, יורה דעה, אבן העזר וחושן משפט.",
+   "source": "src7",
+   "quote": "Yoreh De’ah (laws of kashrut, tzedakah, conversion, and other ritual matters),",
+   "status": "confirmed",
+   "locator": "שורה 23"
+  },
+  {
+   "id": "c87",
+   "text": "הספר כולל ארבעה חלקים: אורח חיים, יורה דעה, אבן העזר וחושן משפט.",
+   "source": "src7",
+   "quote": "Even ha’Ezer (laws relating to women and marriage), and",
+   "status": "confirmed",
+   "locator": "שורה 23"
+  },
+  {
+   "id": "c88",
+   "text": "השולחן ערוך התקבל עם הזמן כספר היסוד בפסיקת הלכה ברוב קהילות ישראל.",
+   "source": "src10",
+   "quote": "רובם המוחלט של הרבנים מורים לפסוק הלכה לפי השולחן ערוך לספרדים, ועל פי הגהות רבי משה איסרליש לאשכנזים.",
+   "status": "confirmed",
+   "locator": "שורה 26"
+  },
+  {
+   "id": "c89",
+   "text": "השולחן ערוך התקבל עם הזמן כספר היסוד בפסיקת הלכה ברוב קהילות ישראל.",
+   "source": "src10",
+   "quote": "דבר זה גרם לכך שהשולחן ערוך התקבל גם אצל האשכנזים במהלך הדורות",
+   "status": "confirmed",
+   "locator": "שורה 25"
+  },
+  {
+   "id": "c95",
+   "text": "קארו היה ראש רבני צפת, פוסק ומקובל.",
+   "source": "src11",
+   "quote": "At age 48 he moved to Tzfat, becoming its chief Rabbi after his mentor Rabbi Yackov Beirav left the city.",
+   "status": "confirmed",
+   "locator": "שורה 16"
+  },
+  {
+   "id": "c96",
+   "text": "קארו היה ראש רבני צפת, פוסק ומקובל.",
+   "source": "src11",
+   "quote": "Although Rabbi Yosef Karo is mostly known for his authority in Nigleh, he was also quite knowledgeable in Kabblah.",
+   "status": "confirmed",
+   "locator": "שורה 91"
+  },
+  {
+   "id": "c97",
+   "text": "כשלושים ושתיים שנה",
+   "source": "src12",
+   "quote": "was occupied with his magnum opus , Beit Yosef , for 32 years!",
+   "status": "confirmed",
+   "locator": "שורה 21"
   }
  ],
  "sources": [
@@ -1425,22 +1402,46 @@
    "kind": "reference"
   },
   {
-   "id": "src4",
-   "label": "Yeshiva.org.il wiki, 'שולחן ערוך'",
-   "url": "https://www.yeshiva.org.il/wiki/index.php/שלחן_ערוך",
-   "kind": "reference"
-  },
-  {
-   "id": "src5",
-   "label": "Yeshiva.org.il wiki, 'רבי יוסף קארו'",
-   "url": "https://www.yeshiva.org.il/wiki/index.php/רבי_יוסף_קארו",
-   "kind": "reference"
-  },
-  {
    "id": "src6",
    "label": "Posen Library, 'Joseph Karo'",
    "url": "https://www.posenlibrary.com/node/4231",
    "kind": "reference"
+  },
+  {
+   "id": "src7",
+   "label": "My Jewish Learning: The Shulhan Arukh",
+   "url": "https://www.myjewishlearning.com/article/the-shulhan-arukh/",
+   "kind": "organisation"
+  },
+  {
+   "id": "src8",
+   "label": "הידברות: דמויות ביהדות – רבי יוסף קארו",
+   "url": "https://www.hidabroot.org/article/1222062",
+   "kind": "press"
+  },
+  {
+   "id": "src9",
+   "label": "Encyclopaedia Judaica (via Encyclopedia.com): Shulḥan Arukh",
+   "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/shulhan-arukh",
+   "kind": "reference"
+  },
+  {
+   "id": "src10",
+   "label": "הידברות: שולחן ערוך – כל מה שרציתם לדעת",
+   "url": "https://www.hidabroot.org/article/236431",
+   "kind": "press"
+  },
+  {
+   "id": "src11",
+   "label": "Zissil: Rabbi Yosef Karo",
+   "url": "https://www.zissil.com/topics/Rabbi-Yosef-Karo",
+   "kind": "other"
+  },
+  {
+   "id": "src12",
+   "label": "Winner's Auctions: Beit Yosef, Rabbi Yosef Karo (item description citing the colophon on the book's final leaf)",
+   "url": "https://winners-auctions.com/en/?p=158054",
+   "kind": "other"
   }
  ],
  "media": [
@@ -1639,7 +1640,6 @@
    "hosting": "embed",
    "caption": "סרט על חייו של רבי יוסף קארו, יליד ספרד שגורש בילדותו והיה לרבה של צפת, ועל ספרו שולחן ערוך.",
    "illustrates": [
-    "c50",
     "c68"
    ],
    "spoken": "he",
@@ -1660,8 +1660,7 @@
    "hosting": "embed",
    "caption": "שיחה בפודקאסט של יד יצחק בן-צבי עם חוקרים על דמותו של קארו ועל תור הזהב של צפת במאה ה-16.",
    "illustrates": [
-    "c14",
-    "c49"
+    "c14"
    ],
    "spoken": "he",
    "audio_tracks": [
@@ -1697,8 +1696,7 @@
    "hosting": "embed",
    "caption": "סרטון של ארגון צהר על ספרו של קארו ועל הדרך שבה התקבל, ועל מקומה של הפסיקה הספרדית.",
    "illustrates": [
-    "c31",
-    "c54"
+    "c31"
    ],
    "spoken": "he",
    "audio_tracks": [
@@ -1717,9 +1715,7 @@
    "licence_url": "https://www.youtube.com/static?template=terms",
    "hosting": "embed",
    "caption": "הרצאת היסטוריה של ד\"ר הנרי אברמסון על רבי יוסף קארו ועל ספר ההלכה שחיבר.",
-   "illustrates": [
-    "c50"
-   ],
+   "illustrates": [],
    "spoken": "en",
    "audio_tracks": [
     "en",
@@ -1750,7 +1746,7 @@
   "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
   "checked_at": "2026-11-28T02:16:00Z",
   "counts": {
-   "confirmed": 97,
+   "confirmed": 91,
    "not_confirmed": 0,
    "deleted_sentences": 2,
    "first_round_confirmed": 96,
@@ -1771,13 +1767,20 @@
    "fix": "opus-5-5 medium"
   },
   "source_quality": {
-   "sources": 6,
+   "sources": 10,
    "wikipedia": 0,
    "strong": 0,
    "ok": false,
    "warnings": [
     "only 0 official/court/press/book sources"
    ]
+  },
+  "wiki_cleanup": {
+   "at": "2026-11-28T04:32:41Z",
+   "targets": 13,
+   "resourced": 7,
+   "kept_on_other_sources": 0,
+   "deleted": 6
   }
  }
 }

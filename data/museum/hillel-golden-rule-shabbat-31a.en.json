@@ -297,15 +297,10 @@
    "paragraphs": [
     [
      {
-      "text": "According to the Talmud, two men wagered over who could provoke Hillel and receive four hundred zuz.",
-      "claims": [
-       "c28"
-      ]
-     },
-     {
       "text": "The man came on a Friday, while Hillel was washing his head, and Hillel wrapped himself and went out to him.",
       "claims": [
-       "c30"
+       "c202611284",
+       "c202611285"
       ]
      },
      {
@@ -329,13 +324,6 @@
       ]
      },
      {
-      "text": "According to Wiki Yeshiva, the first wanted to accept only the Written Torah, and the third wanted to be High Priest and wear his garments, and Hillel accepted them.",
-      "claims": [
-       "c35",
-       "c36"
-      ]
-     },
-     {
       "text": "According to the Encyclopaedia Judaica, the story presents them as rejected by Shammai and accepted by Hillel.",
       "claims": [
        "c56"
@@ -344,7 +332,8 @@
      {
       "text": "In time the three said that Shammai's impatience sought to drive them from the world, and Hillel's humility brought them near, under the wings of the Divine Presence.",
       "claims": [
-       "c37"
+       "c202611288",
+       "c202611289"
       ]
      }
     ],
@@ -404,12 +393,6 @@
       "text": "According to My Jewish Learning, the Talmud records hundreds of disputes between Hillel and Shammai, with the House of Hillel generally tending toward leniency and the House of Shammai toward stringency.",
       "claims": [
        "c42"
-      ]
-     },
-     {
-      "text": "According to Wiki Yeshiva, the halakha was mostly determined according to the House of Hillel, because a heavenly voice went forth or because they were more humble.",
-      "claims": [
-       "c43"
       ]
      },
      {
@@ -797,22 +780,6 @@
    "locator": "שורה 14"
   },
   {
-   "id": "c28",
-   "text": "לפי התלמוד, בשבת לא ע\"א, שני אנשים התערבו מי יקניט את הלל ויקבל ארבע מאות זוז.",
-   "source": "src7",
-   "quote": "אמרו: כל מי שילך ויקניט את הלל יטול ארבע מאות זוז. אמר אחד מהם: אני אקניטנו!",
-   "status": "confirmed",
-   "locator": "שורה 34"
-  },
-  {
-   "id": "c30",
-   "text": "לפי התלמוד, האיש בא ביום שישי בעת שהלל חפף את ראשו, והלל התעטף ויצא אליו.",
-   "source": "src7",
-   "quote": "אותו היום ערב שבת היה והלל חפף את ראשו. הלך ועבר על פתח ביתו.",
-   "status": "confirmed",
-   "locator": "שורה 34"
-  },
-  {
    "id": "c31",
    "text": "לפי האנציקלופדיה היהודית, השניים שאלו את הלל שאלות והעלו רמיזות מעליבות על מוצאו הבבלי, אך לא הצליחו להכעיסו.",
    "source": "src4",
@@ -837,36 +804,12 @@
    "locator": "שורה 21"
   },
   {
-   "id": "c35",
-   "text": "לפי ויקי ישיבה, הראשון מהשלושה רצה לקבל רק את התורה שבכתב ולא את התורה שבעל פה, והלל קיבלו.",
-   "source": "src7",
-   "quote": "הראשון רצה לקבל רק את התורה שבכתב ולא את התורה שבעל פה, והלל קיבלו",
-   "status": "confirmed",
-   "locator": "שורה 29"
-  },
-  {
-   "id": "c36",
-   "text": "לפי ויקי ישיבה, השלישי רצה להתגייר כדי להיות כהן גדול וללבוש את בגדיו, והלל קיבלו.",
-   "source": "src7",
-   "quote": "השלישי רצה להתגייר על מנת לקבל גדולת כהן גדול וללבוש את בגדי השרד שלו, וקבלו הלל.",
-   "status": "confirmed",
-   "locator": "שורה 31"
-  },
-  {
    "id": "c56",
    "text": "לפי Encyclopaedia Judaica, סיפור שלושת המתגיירים בשבת לא ע\"א מציג אותם כנדחים על ידי שמאי ומתקבלים על ידי הלל.",
    "source": "src1",
    "quote": "we find the story of three candidates for conversion who were rejected by Shammai and accepted by Hillel because of his",
    "status": "confirmed",
    "locator": "שורה 41"
-  },
-  {
-   "id": "c37",
-   "text": "לפי התלמוד כפי שהובא בוויקי ישיבה, שלושת הגרים אמרו לימים שקפדנותו של שמאי ביקשה לטרדם מן העולם וענוותנותו של הלל קירבה אותם תחת כנפי השכינה.",
-   "source": "src7",
-   "quote": "לימים נזדווגו שלשתן למקום אחד אמרו קפדנותו של שמאי בקשה לטורדנו מן העולם ענוותנותו של הלל קרבנו תחת כנפי השכינה",
-   "status": "confirmed",
-   "locator": "שורה 32"
   },
   {
    "id": "c33",
@@ -923,14 +866,6 @@
    "quote": "Hundreds of disputes between Hillel and Shammai are recorded in the Talmud, with the House of Hillel generally favoring a more lenient opinion and the House of Shammai favoring a stricter one.",
    "status": "confirmed",
    "locator": "שורה 13"
-  },
-  {
-   "id": "c43",
-   "text": "לפי ויקי ישיבה, ההלכה נקבעה לרוב כדעת בית הלל, משום שיצאה בת קול או משום שהיו ענווים יותר.",
-   "source": "src7",
-   "quote": "מכל מקום הלכה נקבעה לרוב לשיטתו (כבית הלל מול בית שמאי) מפני שיצאה בת קול שהורתה כך, או משום שהיו ענווים יותר",
-   "status": "confirmed",
-   "locator": "שורה 42"
   },
   {
    "id": "c38",
@@ -1109,6 +1044,38 @@
    "locator": "audit 2026-11-28",
    "status": "confirmed",
    "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c202611284",
+   "text": "האיש בא ביום שישי, כשהלל חפף את ראשו, והלל התעטף ויצא אליו.",
+   "source": "src11",
+   "quote": "אמר אחד מהם אני אקניטנו אותו היום ערב שבת היה והלל חפף את ראשו",
+   "status": "confirmed",
+   "locator": "שורה 1"
+  },
+  {
+   "id": "c202611285",
+   "text": "האיש בא ביום שישי, כשהלל חפף את ראשו, והלל התעטף ויצא אליו.",
+   "source": "src11",
+   "quote": "נתעטף ויצא לקראתו",
+   "status": "confirmed",
+   "locator": "שורה 1"
+  },
+  {
+   "id": "c202611288",
+   "text": "לימים אמרו השלושה שקפדנותו של שמאי ביקשה לטרדם מן העולם, וענוותנותו של הלל קירבה אותם תחת כנפי השכינה.",
+   "source": "src11",
+   "quote": "לימים נזדווגו שלשתן למקום אחד אמרו קפדנותו של שמאי בקשה לטורדנו מן העולם",
+   "status": "confirmed",
+   "locator": "שורה 1"
+  },
+  {
+   "id": "c202611289",
+   "text": "לימים אמרו השלושה שקפדנותו של שמאי ביקשה לטרדם מן העולם, וענוותנותו של הלל קירבה אותם תחת כנפי השכינה.",
+   "source": "src11",
+   "quote": "ענוותנותו של הלל קרבנו תחת כנפי השכינה",
+   "status": "confirmed",
+   "locator": "שורה 1"
   }
  ],
  "sources": [
@@ -1149,12 +1116,6 @@
    "kind": "press"
   },
   {
-   "id": "src7",
-   "label": "Wiki Yeshiva, Hillel the Elder",
-   "url": "https://www.yeshiva.org.il/wiki/index.php/הלל_הזקן",
-   "kind": "reference"
-  },
-  {
    "id": "src8",
    "label": "My Jewish Learning, Shabbat 31",
    "url": "https://www.myjewishlearning.com/article/shabbat-31/",
@@ -1171,6 +1132,12 @@
    "label": "Israel in Their Land, Hillel the Elder and the Golden Rule",
    "url": "https://israelintheirland.com/piece/hillel-the-elder-and-the-golden-rule",
    "kind": "press"
+  },
+  {
+   "id": "src11",
+   "label": "Sefaria: Babylonian Talmud, Shabbat, folio thirty side b to folio thirty-one side a (Davidson Edition)",
+   "url": "https://www.sefaria.org/api/v3/texts/Shabbat.30b.30-31a.12?version=hebrew|William_Davidson_Edition_-_Aramaic&return_format=text_only",
+   "kind": "book"
   }
  ],
  "media": [
@@ -1367,7 +1334,7 @@
   "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
   "checked_at": "2026-11-28T02:12:14Z",
   "counts": {
-   "confirmed": 77,
+   "confirmed": 74,
    "not_confirmed": 0,
    "deleted_sentences": 2,
    "first_round_confirmed": 76,
@@ -1395,6 +1362,13 @@
    "warnings": [
     "only 2 official/court/press/book sources"
    ]
+  },
+  "wiki_cleanup": {
+   "at": "2026-11-28T04:28:02Z",
+   "targets": 5,
+   "resourced": 2,
+   "kept_on_other_sources": 0,
+   "deleted": 3
   }
  },
  "lang": "en",
@@ -1402,24 +1376,22 @@
   "from": "he",
   "translator": "claude-opus-5-5",
   "checker": "claude-opus-5-5 (separate call, blind to the translation prompt)",
-  "checked_at": "2026-11-28T02:30:42Z",
+  "checked_at": "2026-11-28T04:28:30Z",
   "passed": true,
-  "items": 117,
-  "pairs_checked": 6,
-  "reused": 111,
-  "first_round_flagged": 0,
+  "items": 112,
+  "pairs_checked": 4,
+  "reused": 107,
+  "first_round_flagged": 1,
   "still_flagged": 0,
   "flagged": [],
   "quote_translations": {
    "c2": "Convert me on condition that you teach me the entire Torah while I am standing on one foot. He pushed him away with the builder's cubit that was in his hand. He came before Hillel; he converted him.",
    "c1": "He said to him: That which is hateful to you, do not do to your fellow – this is the entire Torah, and the rest – it is its commentary; go and study.",
    "c15": "Hillel (הלל) was a famous Jewish religious teacher who lived in Jerusalem during the time of King Herod around the beginning of the Common Era (d. 10-20 C.E.).",
-   "c28": "They said: Whoever goes and provokes Hillel will receive four hundred zuz. One of them said: I will provoke him!",
-   "c30": "That day was Sabbath eve, and Hillel was washing his head. He went and passed by the entrance of his house.",
-   "c35": "The first wanted to accept only the Written Torah and not the Oral Torah, and Hillel accepted him",
-   "c36": "The third wanted to convert in order to receive the greatness of a High Priest and to wear his official garments, and Hillel accepted him.",
-   "c37": "In time the three of them came together in one place. They said: Shammai's impatience sought to drive us from the world; Hillel's humility brought us near, under the wings of the Divine Presence",
-   "c43": "In any case, the halakha was mostly determined according to his view (as the House of Hillel against the House of Shammai) because a heavenly voice went forth ruling so, or because they were more humble"
+   "c202611284": "One of them said: I will provoke him. That day was Shabbat eve, and Hillel was washing his head.",
+   "c202611285": "He wrapped himself and went out to greet him.",
+   "c202611288": "Some time later, the three of them gathered in one place. They said: Shammai's impatience sought to drive us from the world.",
+   "c202611289": "Hillel's humility brought us under the wings of the Divine Presence."
   }
  }
 }

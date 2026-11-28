@@ -77,7 +77,7 @@
    "label": "היקף",
    "value": "14 ספרים, 83 נושאים, 1,000 פרקים",
    "claims": [
-    "c39"
+    "c2026112814"
    ]
   },
   {
@@ -340,9 +340,9 @@
       ]
      },
      {
-      "text": "לפי ויקישיבה, הוא רצה לכתוב גם ספר מקורות, אך הדבר לא עלה בידו.",
+      "text": "הוא רצה לכתוב גם ספר מקורות, אך הדבר לא עלה בידו.",
       "claims": [
-       "c50"
+       "c2026112815"
       ]
      }
     ],
@@ -381,9 +381,9 @@
       ]
      },
      {
-      "text": "לפי ויקישיבה, יש בו 14 ספרים, 83 נושאים ו-1,000 פרקים.",
+      "text": "יש בו 14 ספרים, 83 נושאים ו-1,000 פרקים.",
       "claims": [
-       "c39"
+       "c2026112816"
       ]
      },
      {
@@ -465,12 +465,6 @@
       "claims": [
        "c57"
       ]
-     },
-     {
-      "text": "לפי ויקישיבה, הפירושים רבים כל כך שיצא ספר בשני כרכים שהוא מפתח להם.",
-      "claims": [
-       "c70"
-      ]
      }
     ],
     [
@@ -478,12 +472,6 @@
       "text": "לפי My Jewish Learning, הספר לא הפך לקודקס מכריע ולא דחק את הקלאסיקות, אבל שינה את נוף לימוד ההלכה ויישומה.",
       "claims": [
        "c58"
-      ]
-     },
-     {
-      "text": "לפי ויקישיבה, מרן הבית יוסף כתב בהקדמת ספרו שפסק בעיקר לפי שלושה עמודי הוראה, והרמב״ם אחד מהם.",
-      "claims": [
-       "c61"
       ]
      },
      {
@@ -849,14 +837,6 @@
    "locator": "שורה 7"
   },
   {
-   "id": "c39",
-   "text": "לפי ויקישיבה, משנה תורה כולל בסך הכול 14 ספרים, 83 נושאים ו-1,000 פרקים.",
-   "source": "src6",
-   "quote": "החיבור כולל בסך הכול 14 ספרים, 83 נושאים ו-1,000 פרקים.",
-   "status": "confirmed",
-   "locator": "שורה 11"
-  },
-  {
    "id": "c63",
    "text": "לפי Chabad.org, באביב 1984 קרא הרבי מליובאוויטש, ר׳ מנחם מנדל שניאורסון, להוסיף ללימוד היומי של כל יהודי לימוד יומי בחיבורי הרמב״ם.",
    "source": "src3",
@@ -1065,14 +1045,6 @@
    "locator": "שורה 48"
   },
   {
-   "id": "c50",
-   "text": "לפי ויקישיבה, הרמב״ם רצה לכתוב ספר מקורות אך לא עלה בידו.",
-   "source": "src6",
-   "quote": "הוא רצה לכתוב ספר מקורות אך לא עלה בידו. המקורות להלכות הם התלמודים ומדרשי ההלכה.",
-   "status": "confirmed",
-   "locator": "שורה 46"
-  },
-  {
    "id": "c44",
    "text": "לפי Chabad.org, משנה תורה הוא החיבור היחיד שהרמב״ם חיבר בעברית.",
    "source": "src1",
@@ -1153,28 +1125,12 @@
    "locator": "שורה 54"
   },
   {
-   "id": "c70",
-   "text": "לפי ויקישיבה, נכתבו פירושים רבים כל כך על משנה תורה עד שהוצא ספר בשני כרכים שהוא מפתח לפירושים עליו.",
-   "source": "src6",
-   "quote": "פירושים רבים נכתבו על ספר זה עד כדי כך שמכון הלכה ברורה ובירור הלכה הוציא ספר שלם בעל שני כרכים",
-   "status": "confirmed",
-   "locator": "שורה 42"
-  },
-  {
    "id": "c58",
    "text": "לפי My Jewish Learning, משנה תורה לא הפך לקודקס מכריע ולא דחק את הקלאסיקות, אך שינה ללא ספק את נוף לימוד ההלכה ויישומה.",
    "source": "src4",
    "quote": "Although the Mishneh Torah did not achieve the status of a definitive code or displace the classics of Jewish scholarship, it undeniably changed the landscape of halakhic study and practice.",
    "status": "confirmed",
    "locator": "שורה 55"
-  },
-  {
-   "id": "c61",
-   "text": "לפי ויקישיבה, מרן הבית יוסף כתב בהקדמת ספרו שפסק בעיקר על פי שלושת עמודי ההוראה, והרמב״ם הוא אחד מהם.",
-   "source": "src6",
-   "quote": "מרן הבית יוסף כותב בהקדמת ספרו שפסק בעיקר על פי שלושת עמודי ההוראה ואחד מהם הוא",
-   "status": "confirmed",
-   "locator": "שורה 44"
   },
   {
    "id": "c62",
@@ -1406,6 +1362,30 @@
    "locator": "audit 2026-11-28",
    "status": "confirmed",
    "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c2026112814",
+   "text": "היקף: 14 ספרים, 83 נושאים, 1,000 פרקים",
+   "source": "src9004",
+   "quote": "The 14 Books of Mishneh Torah comprise 83 layers of Law and 1000 chapters.",
+   "status": "confirmed",
+   "locator": "שורה 20"
+  },
+  {
+   "id": "c2026112815",
+   "text": "הוא רצה לכתוב גם ספר מקורות, אך הדבר לא עלה בידו.",
+   "source": "src9005",
+   "quote": "Sadly, Maimonides never was able to publish such a supplemental work.",
+   "status": "confirmed",
+   "locator": "שורה 16"
+  },
+  {
+   "id": "c2026112816",
+   "text": "יש בו 14 ספרים, 83 נושאים ו-1,000 פרקים.",
+   "source": "src9004",
+   "quote": "The 14 Books of Mishneh Torah comprise 83 layers of Law and 1000 chapters.",
+   "status": "confirmed",
+   "locator": "שורה 20"
   }
  ],
  "sources": [
@@ -1440,12 +1420,6 @@
    "kind": "reference"
   },
   {
-   "id": "src6",
-   "label": "ויקישיבה, משנה תורה",
-   "url": "https://www.yeshiva.org.il/wiki/index.php/משנה_תורה",
-   "kind": "reference"
-  },
-  {
    "id": "src9001",
    "label": "Stanford Encyclopedia of Philosophy, Maimonides",
    "url": "https://plato.stanford.edu/entries/maimonides/",
@@ -1465,6 +1439,18 @@
    "url": "https://www.posenlibrary.com/node/12460",
    "kind": "book",
    "date": "2026-11-28"
+  },
+  {
+   "id": "src9004",
+   "label": "Chabad Research: Maimonides articles and projects",
+   "url": "https://chabadresearch.net/articles/maimonides",
+   "kind": "organisation"
+  },
+  {
+   "id": "src9005",
+   "label": "The Jewish Link: Two Interesting Letters from Maimonides",
+   "url": "https://jewishlink.news/two-interesting-letters-from-maimonides/",
+   "kind": "press"
   }
  ],
  "media": [
@@ -1712,7 +1698,7 @@
   "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
   "checked_at": "2026-11-28T02:36:37Z",
   "counts": {
-   "confirmed": 78,
+   "confirmed": 87,
    "not_confirmed": 0,
    "deleted_sentences": 2,
    "first_round_confirmed": 72,
@@ -1733,7 +1719,7 @@
    "fix": "opus-5-5 medium"
   },
   "source_quality": {
-   "sources": 9,
+   "sources": 10,
    "wikipedia": 0,
    "strong": 2,
    "ok": false,
@@ -1742,11 +1728,11 @@
    ]
   },
   "wiki_cleanup": {
-   "at": "2026-11-28T02:46:32Z",
-   "targets": 1,
-   "resourced": 1,
+   "at": "2026-11-28T04:31:40Z",
+   "targets": 5,
+   "resourced": 3,
    "kept_on_other_sources": 0,
-   "deleted": 0
+   "deleted": 2
   }
  }
 }

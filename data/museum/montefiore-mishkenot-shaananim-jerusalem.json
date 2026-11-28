@@ -198,14 +198,6 @@
        "c19"
       ]
      }
-    ],
-    [
-     {
-      "text": "לפי האנציקלופדיה בריטניקה, העלייה לרגל השביעית והאחרונה של מונטיפיורי לארץ הקודש הייתה ב-1875.",
-      "claims": [
-       "c70"
-      ]
-     }
     ]
    ],
    "media": [],
@@ -1289,14 +1281,6 @@
    "locator": "שורה 28"
   },
   {
-   "id": "c70",
-   "text": "לפי האנציקלופדיה בריטניקה, העלייה לרגל השביעית והאחרונה של מונטיפיורי לארץ הקודש הייתה ב-1875.",
-   "source": "src11",
-   "quote": "His seventh and last pilgrimage to the Holy Land was made in 1875.",
-   "status": "confirmed",
-   "locator": "שורה 3"
-  },
-  {
    "id": "c-aud-20261127-1",
    "text": "Times of Israel: 18 מטרים",
    "source": "src5",
@@ -1375,12 +1359,6 @@
    "label": "Rosen Hebrew School, The first Jewish Neighborhood",
    "url": "https://rosenhebrewschool.com/articles/the-first-jewish-neighborhood/",
    "kind": "press"
-  },
-  {
-   "id": "src11",
-   "label": "Encyclopædia Britannica (1911), Montefiore, Sir Moses Haim",
-   "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Montefiore,_Sir_Moses_Haim",
-   "kind": "reference"
   },
   {
    "id": "src9001",
@@ -1843,7 +1821,7 @@
   "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
   "checked_at": "2026-11-27T19:20:38Z",
   "counts": {
-   "confirmed": 85,
+   "confirmed": 86,
    "not_confirmed": 0,
    "deleted_sentences": 1,
    "first_round_confirmed": 84,
@@ -1864,7 +1842,7 @@
    "fix": "opus-5-5 medium"
   },
   "source_quality": {
-   "sources": 10,
+   "sources": 11,
    "wikipedia": 0,
    "strong": 9,
    "ok": true,
@@ -1877,6 +1855,13 @@
     "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Montefiore,_Sir_Moses_Haim",
     "by": "settle 24.11"
    }
-  ]
+  ],
+  "wiki_cleanup": {
+   "at": "2026-11-28T00:41:04Z",
+   "targets": 1,
+   "resourced": 0,
+   "kept_on_other_sources": 0,
+   "deleted": 1
+  }
  }
 }

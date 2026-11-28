@@ -1,7 +1,7 @@
 {
  "schema": "maasei-museum/1",
  "slug": "israel-mexico-city-earthquake-rescue",
- "deed": "Israel sent 71 soldiers to Mexico City to help with rescue after the earthquake",
+ "deed": "ישראל שלחה 71 חיילים למקסיקו סיטי לסייע בחילוץ אחרי רעידת האדמה",
  "canonical_type": "rescue-operation",
  "year": "2017",
  "title": "71 Home Front Command soldiers, most of them reservists, flew to Mexico City after the earthquake and surveyed 158 buildings",
@@ -709,22 +709,22 @@
   },
   {
    "id": "d9002",
-   "question": "What aircraft flew the delegation to Mexico?",
+   "question": "On which aircraft did the delegation fly to Mexico?",
    "versions": [
     {
-     "says": "Jerusalem Post: an IAF 'Re'em' aircraft, from the Nevatim airbase",
+     "says": "Jerusalem Post: an Israel Air Force 'Re'em' aircraft, which departed from the Nevatim airbase",
      "claims": [
       "c-aud-20261128-1"
      ]
     },
     {
-     "says": "Walla: an Air Force Boeing",
+     "says": "Walla: an Israeli Air Force Boeing aircraft",
      "claims": [
       "c-aud-20261128-2"
      ]
     },
     {
-     "says": "Israel Hayom: two Hercules, one for equipment and one for the rescuers",
+     "says": "Israel Hayom: two Hercules aircraft, one for equipment and one for the rescue personnel",
      "claims": [
       "c-aud-20261128-3"
      ]
@@ -1411,7 +1411,11 @@
    "licence_url": "https://www.youtube.com/static?template=terms",
    "hosting": "embed",
    "caption": "An English-language i24NEWS report on an Israeli military team that assisted in rescue efforts after the earthquake in Mexico.",
-   "illustrates": []
+   "illustrates": [],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
   },
   {
    "id": "m2",
@@ -1425,7 +1429,11 @@
    "licence_url": "https://www.youtube.com/static?template=terms",
    "hosting": "embed",
    "caption": "IDF footage from September 24, 2017, published by reporter Judah Ari Gross, showing Israeli search and rescue personnel assisting after the earthquake in Mexico.",
-   "illustrates": []
+   "illustrates": [],
+   "spoken": "el",
+   "audio_tracks": [
+    "el"
+   ]
   },
   {
    "id": "m3",
@@ -1441,6 +1449,13 @@
    "caption": "An IDF film about itself, on the delegation's activity in Mexico after the magnitude 7.1 earthquake of September 19, 2017.",
    "illustrates": [
     "c57"
+   ],
+   "spoken": "es",
+   "audio_tracks": [
+    "es",
+    "ar",
+    "en",
+    "pt"
    ]
   },
   {
@@ -1455,7 +1470,12 @@
    "licence_url": "https://www.youtube.com/static?template=terms",
    "hosting": "embed",
    "caption": "A report by the Mexican newspaper Excélsior on the Israeli rescue team's departure from Mexico after it assisted at various sites in Mexico City.",
-   "illustrates": []
+   "illustrates": [],
+   "spoken": "es",
+   "audio_tracks": [
+    "es",
+    "en"
+   ]
   },
   {
    "id": "m5",
@@ -1510,11 +1530,11 @@
   "from": "he",
   "translator": "claude-opus-5-5",
   "checker": "claude-opus-5-5 (separate call, blind to the translation prompt)",
-  "checked_at": "2026-11-28T02:57:29Z",
+  "checked_at": "2026-11-28T04:06:23Z",
   "passed": true,
-  "items": 132,
+  "items": 138,
   "pairs_checked": 2,
-  "reused": 130,
+  "reused": 136,
   "first_round_flagged": 0,
   "still_flagged": 0,
   "flagged": [],
@@ -1536,7 +1556,9 @@
    "c24": "A rescue force commander said that the arrival in Mexico City was 36 hours after the quake itself",
    "c67": "The Israeli swimming delegation, numbering six swimmers (among them Olympic medalist Inbal Pezaro), a coach and three escorts, will return",
    "c68": "The team, with six swimmers, a coach and two escorts, arrived in Mexico City a few days ago",
-   "c-aud-20261128-5": "arrived with two Hercules aircraft - one for equipment and the other for the rescue personnel"
+   "c-aud-20261128-5": "arrived with two Hercules aircraft - one for equipment and the other for the rescue personnel",
+   "c-aud-20261128-3": "arrived with two Hercules aircraft - one for equipment and the other for the rescue personnel",
+   "c-aud-20261128-2": "An Israeli Air Force Boeing aircraft eventually took off"
   }
  }
 }

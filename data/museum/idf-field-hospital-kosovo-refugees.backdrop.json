@@ -1,0 +1,56 @@
+{
+ "schema": "maasei-backdrop/1",
+ "slug": "idf-field-hospital-kosovo-refugees",
+ "media": "m29",
+ "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Sheshi%20Skenderbej%20Bashkia%20Kukes%20gjate%20Eksodit%20te%20kosovareve%201999.JPG?width=1920",
+ "img_small": "https://commons.wikimedia.org/wiki/Special:FilePath/Sheshi%20Skenderbej%20Bashkia%20Kukes%20gjate%20Eksodit%20te%20kosovareve%201999.JPG?width=1080",
+ "why": "A deep wide view over Skanderbeg Square in Kukës in 1999, crowded with fleeing Kosovars, with their trucks and tents running down to the lake and mountains, so it shows the 1999 refugee exodus that the field hospital was answering.",
+ "chosen_by": "opus picker",
+ "alternates": [
+  "m26"
+ ],
+ "from": {
+  "average": "#938a80",
+  "picked": "#b29b7c",
+  "coloured_share": 0.28,
+  "lightness": 0.539
+ },
+ "palette": {
+  "paper": "#f4efe9",
+  "surface": "#faf8f6",
+  "band": "#ece3d7",
+  "tint": "#eadecc",
+  "header": "#efe8df",
+  "rule": "#d5c5af",
+  "text": "#2a2318",
+  "text2": "#4c4233",
+  "accent": "#745934",
+  "meta": "#655b4c",
+  "tone": "#221f1b",
+  "shadow": "33, 27, 18"
+ },
+ "checks": {
+  "text_on_paper": 13.59,
+  "text_on_surface": 14.66,
+  "text_on_band": 12.23,
+  "text_on_tint": 11.7,
+  "text_on_header": 12.78,
+  "text2_on_paper": 8.61,
+  "text2_on_surface": 9.29,
+  "text2_on_band": 7.75,
+  "text2_on_tint": 7.41,
+  "text2_on_header": 8.1,
+  "accent_on_paper": 5.7,
+  "accent_on_surface": 6.15,
+  "accent_on_band": 5.13,
+  "accent_on_tint": 4.91,
+  "accent_on_header": 5.36,
+  "meta_on_paper": 5.82,
+  "meta_on_surface": 6.28,
+  "meta_on_band": 5.24,
+  "meta_on_tint": 5.02,
+  "meta_on_header": 5.48,
+  "paper_on_accent": 5.7
+ },
+ "passed": true
+}

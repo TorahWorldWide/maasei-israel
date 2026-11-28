@@ -1,7 +1,7 @@
 {
  "schema": "maasei-museum/1",
  "slug": "ciechanover-hershko-ubiquitin-nobel",
- "deed": "Ciechanover and Hershko of the Technion discovered the mechanism of protein degradation in the cell — and won the Nobel Prize",
+ "deed": "צחנובר והרשקו מהטכניון גילו את מנגנון פירוק החלבונים בתא — וזכו בפרס נובל",
  "canonical_type": "scientific-discovery",
  "year": "1977",
  "title": "Ciechanover and Hershko of the Technion discovered how the cell marks proteins for destruction, and won the Nobel Prize",
@@ -49,7 +49,9 @@
   "m8",
   "m3",
   "m2",
-  "m1"
+  "m1",
+  "m14",
+  "m20"
  ],
  "glance": [
   {
@@ -123,7 +125,7 @@
     ],
     [
      {
-      "text": "Aaron Ciechanover wrote that he was born in Haifa in October 1947, one month before the UN General Assembly resolved to establish a Jewish state and an Arab state in Palestine.",
+      "text": "Aaron Ciechanover wrote that he was born in Haifa in October 1947, a month before the UN General Assembly decided on the establishment of a Jewish state and an Arab state in the Land of Israel.",
       "claims": [
        "c31",
        "c-aud-20261128-2"
@@ -291,7 +293,7 @@
    "paragraphs": [
     [
      {
-      "text": "Irwin Rose was born in 1926 in New York, was an American citizen, and died in 2015.",
+      "text": "Irwin Rose was born in 1926 in New York, was an American citizen and died in 2015.",
       "claims": [
        "c6",
        "c-aud-20261128-1"
@@ -424,7 +426,8 @@
     ]
    ],
    "media": [
-    "m10"
+    "m10",
+    "m19"
    ],
    "disagreements": []
   },
@@ -457,7 +460,8 @@
     ]
    ],
    "media": [
-    "m9"
+    "m9",
+    "m21"
    ],
    "disagreements": []
   },
@@ -511,7 +515,9 @@
     "m5",
     "m7",
     "m4",
-    "m3"
+    "m3",
+    "m18",
+    "m24"
    ],
    "disagreements": []
   }
@@ -627,7 +633,7 @@
   },
   {
    "id": "d9001",
-   "question": "How many Hungarian Jews were murdered in the Holocaust?",
+   "question": "How many of Hungary's Jews were murdered in the Holocaust?",
    "versions": [
     {
      "says": "Hershko wrote in his autobiography: 360,000 Hungarian Jews",
@@ -636,7 +642,7 @@
      ]
     },
     {
-     "says": "US Holocaust Memorial Museum: about 550,000 Jews living in Hungary",
+     "says": "United States Holocaust Memorial Museum (USHMM): approximately 550,000 Jews who lived in Hungary",
      "claims": [
       "c-aud-20261128-4"
      ]
@@ -1498,6 +1504,108 @@
    "hosting": "embed",
    "caption": "An interview by the Israel Academy of Sciences and Humanities with Prof. Avram Hershko, on his research path from medical school onward.",
    "illustrates": []
+  },
+  {
+   "id": "m14",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nobel2004chemistrylaurets.JPG?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Nobel2004chemistrylaurets.JPG",
+   "source_name": "Wikimedia Commons",
+   "credit": "Photograph by Avi Blizovsky",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "The three 2004 Nobel Prize laureates in Chemistry sit at a table in front of a Royal Swedish Academy of Sciences sign; on the table are name cards for Rose and Hershko.",
+   "illustrates": [],
+   "licence_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "date": "2004.24 Ju",
+   "width": 1024,
+   "height": 768,
+   "role": "deed"
+  },
+  {
+   "id": "m18",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/AaronCiechanoverLindaBuck.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:AaronCiechanoverLindaBuck.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Betsythedevine aka Betsy Devine",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "Aaron Ciechanover (Chemistry) and Linda Buck (Medicine), 2004 Nobel laureates, sit on a bus in New York on the way to an event.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "2005-06-03",
+   "width": 2592,
+   "height": 1944,
+   "role": "deed"
+  },
+  {
+   "id": "m19",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pr%C3%AAmio%20Nobel%20de%20Qu%C3%ADmica%20faz%20palestra%20na%20UnB%203.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Pr%C3%AAmio_Nobel_de_Qu%C3%ADmica_faz_palestra_na_UnB_3.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Agência Brasil Fotografias",
+   "licence": "CC BY 2.0",
+   "hosting": "hotlink",
+   "caption": "Aaron Ciechanover lectures in an auditorium in Brasília, with raised hands and a headset microphone.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/2.0",
+   "date": "2017-08-10",
+   "width": 4571,
+   "height": 3048,
+   "role": "deed"
+  },
+  {
+   "id": "m20",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pr%C3%AAmio%20Nobel%20de%20Qu%C3%ADmica%20faz%20palestra%20na%20UnB%207.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Pr%C3%AAmio_Nobel_de_Qu%C3%ADmica_faz_palestra_na_UnB_7.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Agência Brasil Fotografias",
+   "licence": "CC BY 2.0",
+   "hosting": "hotlink",
+   "caption": "Aaron Ciechanover lectures in Brasília in front of a \"Nobel Prize\" sign, 2017.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/2.0",
+   "date": "2017-08-10",
+   "width": 4416,
+   "height": 2944,
+   "role": "deed"
+  },
+  {
+   "id": "m21",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/%D4%B1%D5%B0%D5%A1%D6%80%D5%B8%D5%B6%20%D5%89%D5%AB%D5%AD%D5%A1%D5%B6%D5%B8%D5%BE%D5%A5%D6%80%20%D4%B5%D6%80%D6%87%D5%A1%D5%B6%D5%B8%D6%82%D5%B4.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:%D4%B1%D5%B0%D5%A1%D6%80%D5%B8%D5%B6_%D5%89%D5%AB%D5%AD%D5%A1%D5%B6%D5%B8%D5%BE%D5%A5%D6%80_%D4%B5%D6%80%D6%87%D5%A1%D5%B6%D5%B8%D6%82%D5%B4.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Գարվիք",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "Aaron Ciechanover lectures at \"Nobel Days\" in Yerevan, April 2016; on the screen, a slide on personalized medicine.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "2016-04-12",
+   "width": 2275,
+   "height": 1242,
+   "role": "deed"
+  },
+  {
+   "id": "m24",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ady%20Platz%2C%20Baum%20der%20Wissenschaften%2C%20Denkmal%2C%202023%20Szeged.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Ady_Platz%2C_Baum_der_Wissenschaften%2C_Denkmal%2C_2023_Szeged.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Globetrotter19",
+   "licence": "CC BY-SA 4.0",
+   "hosting": "hotlink",
+   "caption": "The \"Tree of Sciences\" monument in Szeged, with a stone plaque listing Nobel laureates, among them Aaron Ciechanover, Chemistry 2004.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "date": "Taken in A",
+   "width": 2142,
+   "height": 1607,
+   "role": "related"
   }
  ],
  "check": {
@@ -1546,11 +1654,11 @@
   "from": "he",
   "translator": "claude-opus-5-5",
   "checker": "claude-opus-5-5 (separate call, blind to the translation prompt)",
-  "checked_at": "2026-11-28T02:19:40Z",
+  "checked_at": "2026-11-28T04:03:43Z",
   "passed": true,
-  "items": 118,
-  "pairs_checked": 1,
-  "reused": 117,
+  "items": 127,
+  "pairs_checked": 11,
+  "reused": 116,
   "first_round_flagged": 0,
   "still_flagged": 0,
   "flagged": [],

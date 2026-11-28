@@ -1,0 +1,56 @@
+{
+ "schema": "maasei-backdrop/1",
+ "slug": "ciechanover-hershko-ubiquitin-nobel",
+ "media": "m21",
+ "img": "https://commons.wikimedia.org/wiki/Special:FilePath/%D4%B1%D5%B0%D5%A1%D6%80%D5%B8%D5%B6%20%D5%89%D5%AB%D5%AD%D5%A1%D5%B6%D5%B8%D5%BE%D5%A5%D6%80%20%D4%B5%D6%80%D6%87%D5%A1%D5%B6%D5%B8%D6%82%D5%B4.jpg?width=1920",
+ "img_small": "https://commons.wikimedia.org/wiki/Special:FilePath/%D4%B1%D5%B0%D5%A1%D6%80%D5%B8%D5%B6%20%D5%89%D5%AB%D5%AD%D5%A1%D5%B6%D5%B8%D5%BE%D5%A5%D6%80%20%D4%B5%D6%80%D6%87%D5%A1%D5%B6%D5%B8%D6%82%D5%B4.jpg?width=1080",
+ "why": "A wide view of the Nobel Days hall in Yerevan with Ciechanover lecturing at the podium works as a deep, textured stage scene for the page's recognition chapter, but it is a weak fallback because no candidate shows the Haifa or Philadelphia lab of the discovery.",
+ "chosen_by": "opus picker",
+ "alternates": [
+  "m24"
+ ],
+ "from": {
+  "average": "#477388",
+  "picked": "#328eca",
+  "coloured_share": 0.531,
+  "lightness": 0.407
+ },
+ "palette": {
+  "paper": "#e9f0f4",
+  "surface": "#f6f8fa",
+  "band": "#d7e4ec",
+  "tint": "#ccdeea",
+  "header": "#dfe9ef",
+  "rule": "#afc6d5",
+  "text": "#18232a",
+  "text2": "#33424c",
+  "accent": "#215f87",
+  "meta": "#4c5c65",
+  "tone": "#152228",
+  "shadow": "18, 27, 33"
+ },
+ "checks": {
+  "text_on_paper": 13.89,
+  "text_on_surface": 15.03,
+  "text_on_band": 12.34,
+  "text_on_tint": 11.58,
+  "text_on_header": 12.98,
+  "text2_on_paper": 9.01,
+  "text2_on_surface": 9.74,
+  "text2_on_band": 8.0,
+  "text2_on_tint": 7.51,
+  "text2_on_header": 8.42,
+  "accent_on_paper": 5.98,
+  "accent_on_surface": 6.46,
+  "accent_on_band": 5.31,
+  "accent_on_tint": 4.98,
+  "accent_on_header": 5.58,
+  "meta_on_paper": 6.03,
+  "meta_on_surface": 6.52,
+  "meta_on_band": 5.35,
+  "meta_on_tint": 5.02,
+  "meta_on_header": 5.63,
+  "paper_on_accent": 5.98
+ },
+ "passed": true
+}

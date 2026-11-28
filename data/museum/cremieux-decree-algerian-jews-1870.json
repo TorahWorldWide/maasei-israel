@@ -7,9 +7,10 @@
  "title": "אדולף קרמייה, שר המשפטים היהודי של צרפת, העניק ב-1870 אזרחות צרפתית ליהודי אלג'יריה",
  "trailer": [
   {
-   "text": "אדולף קרמייה היה עורך דין יהודי-צרפתי ושר המשפטים של צרפת, והוא ייסד את ארגון כל ישראל חברים.",
+   "text": "אדולף קרמייה היה עורך דין יהודי-צרפתי ושר המשפטים של צרפת, והוא עמד בראש ארגון כל ישראל חברים.",
    "claims": [
-    "c40"
+    "c40",
+    "c-aud-20261128-1"
    ]
   },
   {
@@ -91,7 +92,8 @@
    "value": "עד סוף השלטון הצרפתי ב-1962 (מלבד ביטולו בשנים 1940–1943)",
    "claims": [
     "c37",
-    "c-aud-20261128-8"
+    "c-aud-20261128-8",
+    "c-aud-20261128-7"
    ]
   }
  ],
@@ -169,9 +171,10 @@
       ]
      },
      {
-      "text": "הוא היה עורך דין ושר המשפטים של צרפת, והוא ייסד את כל ישראל חברים.",
+      "text": "הוא היה עורך דין ושר המשפטים של צרפת, והוא עמד בראש כל ישראל חברים.",
       "claims": [
-       "c40"
+       "c40",
+       "c-aud-20261128-2"
       ]
      }
     ],
@@ -198,7 +201,10 @@
     "m10",
     "m6"
    ],
-   "disagreements": []
+   "disagreements": [
+    "d9001",
+    "d9002"
+   ]
   },
   {
    "id": "s3",
@@ -625,6 +631,42 @@
      "says": "לפי האנציקלופדיה, ראיות מאוחרות יותר הראו שלצו היה תפקיד קטן במרידות, אם בכלל",
      "claims": [
       "c34"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9001",
+   "question": "מי מבני משפחתו של קרמייה המיר את דתו, וגרם להתפטרותו מהקונסיסטואר?",
+   "versions": [
+    {
+     "says": "מאמר ב-Marxists Internet Archive: אשתו ובתו המירו את דתן לקתוליות",
+     "claims": [
+      "c-aud-20261128-3"
+     ]
+    },
+    {
+     "says": "האנציקלופדיה יודאיקה: ב-1845 נודע שהרשה לאשתו להטביל את ילדיהם",
+     "claims": [
+      "c-aud-20261128-4"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9002",
+   "question": "מי מבני משפחתו של קרמייה המיר את דתו, וגרם להתפטרותו מהקונסיסטואר?",
+   "versions": [
+    {
+     "says": "מאמר ב-Marxists Internet Archive: אשתו ובתו המירו את דתן לקתוליות",
+     "claims": [
+      "c-aud-20261128-5"
+     ]
+    },
+    {
+     "says": "האנציקלופדיה יודאיקה: ב-1845 נודע שהרשה לאשתו להטביל את ילדיהם",
+     "claims": [
+      "c-aud-20261128-6"
      ]
     }
    ]
@@ -1160,6 +1202,69 @@
    "locator": "audit 2026-11-28",
    "status": "confirmed",
    "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-1",
+   "text": "אדולף קרמייה היה עורך דין יהודי-צרפתי ושר המשפטים של צרפת, והוא עמד בראש ארגון כל ישראל חברים.",
+   "source": "src9001",
+   "quote": "In 1864 he was elected president of the Alliance Israélite Universelle",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-2",
+   "text": "הוא היה עורך דין ושר המשפטים של צרפת, והוא עמד בראש כל ישראל חברים.",
+   "source": "src9002",
+   "quote": "from 1863 to 1867 by Adolphe Crémieux",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-3",
+   "text": "מאמר ב-Marxists Internet Archive: אשתו ובתו המירו את דתן לקתוליות",
+   "source": "src3",
+   "quote": "when his wife and daughter converted to Catholicism",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-4",
+   "text": "האנציקלופדיה יודאיקה: ב-1845 נודע שהרשה לאשתו להטביל את ילדיהם",
+   "source": "src9001",
+   "quote": "he had allowed his wife to have their children baptized",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-5",
+   "text": "מאמר ב-Marxists Internet Archive: אשתו ובתו המירו את דתן לקתוליות",
+   "source": "src3",
+   "quote": "when his wife and daughter converted to Catholicism",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-6",
+   "text": "האנציקלופדיה יודאיקה: ב-1845 נודע שהרשה לאשתו להטביל את ילדיהם",
+   "source": "src9001",
+   "quote": "he had allowed his wife to have their children baptized",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-7",
+   "text": "עד סוף השלטון הצרפתי ב-1962 (מלבד ביטולו בשנים 1940–1943)",
+   "source": "src3",
+   "quote": "abrogation in 1940, which was only reversed in 1943",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1210,6 +1315,20 @@
    "label": "אוניברסיטת לאבאל (CEFAN), צו מס' 137 מ-24.10.1870 על התאזרחות המוסלמים",
    "url": "https://axl.cefan.ulaval.ca/afrique/algerie_france-decret137.htm",
    "kind": "official"
+  },
+  {
+   "id": "src9001",
+   "label": "Jewish Virtual Library (Encyclopaedia Judaica), Isaac Adolphe Crémieux",
+   "url": "https://www.jewishvirtuallibrary.org/isaac-adolphe-crmieux",
+   "kind": "reference",
+   "date": "2026-11-28"
+  },
+  {
+   "id": "src9002",
+   "label": "Jewish Encyclopedia, Alliance Israélite Universelle, 1906",
+   "url": "https://www.jewishencyclopedia.com/articles/1264-alliance-israelite-universelle",
+   "kind": "reference",
+   "date": "2026-11-28"
   }
  ],
  "media": [

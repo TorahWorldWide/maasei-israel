@@ -253,7 +253,8 @@
    ],
    "disagreements": [
     "d1",
-    "d9001"
+    "d9001",
+    "d9002"
    ]
   },
   {
@@ -679,9 +680,10 @@
       ]
      },
      {
-      "text": "According to ynet, Palti died in January 2026 at the age of 89, and until his death he was a professor emeritus at the faculty.",
+      "text": "According to the AACR, Palti died on January 11, 2026, at the age of 88, and according to ynet, until his death he was a professor emeritus at the faculty.",
       "claims": [
-       "c7"
+       "c7",
+       "c-aud-20261128-1"
       ]
      }
     ]
@@ -884,6 +886,30 @@
      "says": "Globes (2016): he came up with the idea during his retirement",
      "claims": [
       "c-aud-20261128-2"
+     ]
+    },
+    {
+     "says": "Globes, in the same article: Novocure emerged as an idea in 1992",
+     "claims": [
+      "c-aud-20261128-4"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9002",
+   "question": "Did Palti come up with the idea after he retired from the Technion, or as he approached retirement?",
+   "versions": [
+    {
+     "says": "Globes (2016): he came up with the idea during his retirement",
+     "claims": [
+      "c-aud-20261128-2"
+     ]
+    },
+    {
+     "says": "Israel Prize CV (2022): as he approached retirement he began looking for ways to apply the knowledge he had gathered",
+     "claims": [
+      "c-aud-20261128-3"
      ]
     },
     {
@@ -1555,6 +1581,42 @@
    "locator": "audit 2026-11-28",
    "status": "confirmed",
    "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-1",
+   "text": "לפי AACR, פלטי מת ב-11 בינואר 2026 בגיל 88, ולפי ynet עד מותו היה פרופסור אמריטוס בפקולטה.",
+   "source": "src9001",
+   "quote": "88 years old",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-2",
+   "text": "גלובס (2016): הוא הגה את הרעיון בתקופת פרישתו",
+   "source": "src8",
+   "quote": "who came up with the idea during his retirement",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-3",
+   "text": "קורות החיים של פרס ישראל (2022): לקראת צאתו לגמלאות החל לחפש דרכים ליישם את הידע שצבר",
+   "source": "src9002",
+   "quote": "לקראת צאתו לגמלאות החל פרופסור פלטי לחפש דרכים",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261128-4",
+   "text": "גלובס, באותה כתבה: נובוקיור נולדה כרעיון ב-1992",
+   "source": "src8",
+   "quote": "Novocure emerged as an idea in 1992",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1623,6 +1685,20 @@
    "label": "FDA PMA database, P100034",
    "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P100034",
    "kind": "official"
+  },
+  {
+   "id": "src9001",
+   "label": "AACR, In Memoriam: Yoram Palti, 2026",
+   "url": "https://www.aacr.org/professionals/membership/in-memoriam/yoram-palti/",
+   "kind": "organisation",
+   "date": "2026-11-28"
+  },
+  {
+   "id": "src9002",
+   "label": "Israel Ministry of Education, Israel Prize 2022 CV: Prof. Yoram Palti",
+   "url": "https://meyda.education.gov.il/files/prasisrael/2022/palti.pdf",
+   "kind": "official",
+   "date": "2026-11-28"
   }
  ],
  "media": [

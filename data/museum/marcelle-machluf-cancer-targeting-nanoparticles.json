@@ -238,7 +238,9 @@
    "media": [
     "m1"
    ],
-   "disagreements": []
+   "disagreements": [
+    "d9001"
+   ]
   },
   {
    "id": "s4",
@@ -580,6 +582,24 @@
      "says": "מכלוף ב-Innovation Israel: החזון הוא להגיע לניסויים קליניים בתוך שלוש שנים",
      "claims": [
       "c57"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9001",
+   "question": "מתי התחיל המחקר שהוביל לננו-גוסטס?",
+   "versions": [
+    {
+     "says": "מכלוף בכלכליסט CTech, 2021: ב-2010",
+     "claims": [
+      "c-aud-20261128-1"
+     ]
+    },
+    {
+     "says": "הפטנט על ליפוזומים מקרומי תאים (מכלוף וברונשטיין): תאריך קדימות 27 באוגוסט 2009",
+     "claims": [
+      "c-aud-20261128-2"
      ]
     }
    ]
@@ -1056,6 +1076,24 @@
    "locator": "audit 2026-11-28",
    "status": "confirmed",
    "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261128-1",
+   "text": "מכלוף בכלכליסט CTech, 2021: ב-2010",
+   "source": "src4",
+   "quote": "Machluf began the research that led to NanoGhost in 2010",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-2",
+   "text": "הפטנט על ליפוזומים מקרומי תאים (מכלוף וברונשטיין): תאריך קדימות 27 באוגוסט 2009",
+   "source": "src9001",
+   "quote": "2009-08-27",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1118,6 +1156,13 @@
    "label": "הטכניון, 4.2016, מחקר משותף עם NYU Langone",
    "url": "https://www.technion.ac.il/en/2016/04/melanoma-mesothelioma-research-with-nyu-lagone/",
    "kind": "organisation"
+  },
+  {
+   "id": "src9001",
+   "label": "Google Patents, EP2470164, Liposomal compositions and uses of same",
+   "url": "https://patents.google.com/patent/EP2470164",
+   "kind": "official",
+   "date": "2026-11-28"
   }
  ],
  "media": [

@@ -743,6 +743,24 @@
      ]
     }
    ]
+  },
+  {
+   "id": "d9001",
+   "question": "איפה ישבה חברת סוס?",
+   "versions": [
+    {
+     "says": "Cornell, מארחת תחרות Grow-NY: בכדרון",
+     "claims": [
+      "c-aud-20261128-1"
+     ]
+    },
+    {
+     "says": "NoCamels, 2022: בבאר שבע",
+     "claims": [
+      "c-aud-20261128-2"
+     ]
+    }
+   ]
   }
  ],
  "unknowns": [],
@@ -1367,6 +1385,24 @@
    "locator": "audit 2026-11-28",
    "status": "confirmed",
    "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-1",
+   "text": "Cornell, מארחת תחרות Grow-NY: בכדרון",
+   "source": "src9001",
+   "quote": "Soos Technology, a biotechnology startup based in Kidron, Israel",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261128-2",
+   "text": "NoCamels, 2022: בבאר שבע",
+   "source": "src2",
+   "quote": "Soos, a startup in Beersheva, southern Israel",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
   }
  ],
  "sources": [
@@ -1429,6 +1465,13 @@
    "label": "The Spoon, Soos Technology wins $1M in Grow NY",
    "url": "https://thespoon.tech/soos-technology-wins-1m-prize-in-grow-ny-competition/",
    "kind": "press"
+  },
+  {
+   "id": "src9001",
+   "label": "Cornell CALS, Poultry biotech startup wins $1M Grow-NY top prize, Nov 2020",
+   "url": "https://cals.cornell.edu/news/2020/11/poultry-biotech-startup-wins-1m-grow-ny-top-prize",
+   "kind": "organisation",
+   "date": "2026-11-28"
   }
  ],
  "media": [

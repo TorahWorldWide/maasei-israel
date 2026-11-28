@@ -299,7 +299,9 @@
    "media": [
     "m9"
    ],
-   "disagreements": []
+   "disagreements": [
+    "d9001"
+   ]
   },
   {
    "id": "s5",
@@ -431,9 +433,10 @@
       ]
      },
      {
-      "text": "In 1939 he received a bachelor's degree from Cornell University.",
+      "text": "In 1941 he received a bachelor's degree from Cornell University.",
       "claims": [
-       "c53"
+       "c53",
+       "c-aud-20261128-1"
       ]
      },
      {
@@ -733,6 +736,24 @@
      "says": "The Forward: it took the medical establishment more than a decade to adopt the maneuver",
      "claims": [
       "c20"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9001",
+   "question": "What was the method called in the original 1974 article?",
+   "versions": [
+    {
+     "says": "Heimlich to NPR in 1999: he called it subdiaphragmatic pressure, and his name was attached only later",
+     "claims": [
+      "c-aud-20261128-2"
+     ]
+    },
+    {
+     "says": "The original Emergency Medicine article: it already calls the technique \"the Heimlich method\"",
+     "claims": [
+      "c-aud-20261128-3"
      ]
     }
    ]
@@ -1336,6 +1357,33 @@
   },
   {
    "id": "c-aud-20261128-6",
+   "text": "המאמר המקורי ב-Emergency Medicine: השיטה כבר נקראת בו \"שיטת היימליך\"",
+   "source": "src9003",
+   "quote": "Should you use, or learn of anyone, using, the Heimlich method",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261128-1",
+   "text": "ב-1941 קיבל תואר ראשון באוניברסיטת קורנל.",
+   "source": "src9001",
+   "quote": "received his bachelor's degree from Cornell University in 1941",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-2",
+   "text": "היימליך ל-NPR ב-1999: הוא קרא לה Subdiaphragmatic pressure, ושמו הוצמד לה רק אחר כך",
+   "source": "src9004",
+   "quote": "its original term: subdiaphragmatic pressure",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-3",
    "text": "המאמר המקורי ב-Emergency Medicine: השיטה כבר נקראת בו \"שיטת היימליך\"",
    "source": "src9003",
    "quote": "Should you use, or learn of anyone, using, the Heimlich method",

@@ -209,7 +209,9 @@
     "m7"
    ],
    "disagreements": [
-    "d9001"
+    "d9001",
+    "d9002",
+    "d9004"
    ]
   },
   {
@@ -374,7 +376,8 @@
    ],
    "disagreements": [
     "d6",
-    "d3"
+    "d3",
+    "d9005"
    ]
   },
   {
@@ -523,9 +526,10 @@
       ]
      },
      {
-      "text": "לפי האנציקלופדיה היהודית, קרומוול העניק למנשה מענק של 100 לירות.",
+      "text": "לפי ההיסטוריון אריאל חסיון, קרומוול העניק למנשה קצבה ממלכתית של 100 לירות לשנה.",
       "claims": [
-       "c61"
+       "c61",
+       "c-aud-20261128-2"
       ]
      }
     ],
@@ -560,7 +564,9 @@
     "m14",
     "m13"
    ],
-   "disagreements": []
+   "disagreements": [
+    "d9003"
+   ]
   },
   {
    "id": "s7",
@@ -569,9 +575,10 @@
    "paragraphs": [
     [
      {
-      "text": "ב-1656 מת באנגליה שמואל, בנו של מנשה, ונקבר במידלבורג.",
+      "text": "בספטמבר 1657 מת באנגליה שמואל, בנו של מנשה, ונקבר במידלבורג.",
       "claims": [
-       "c66"
+       "c66",
+       "c-aud-20261128-1"
       ]
      },
      {
@@ -773,6 +780,78 @@
      "says": "לפי ספריית לידס: מונה לדרשן (פרדיקדור) ב-1628, ולחכם (רב) רק ב-1631",
      "claims": [
       "c-aud-20261128-9"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9002",
+   "question": "מתי ובאיזה תפקיד מונה מנשה בבית הכנסת נווה שלום?",
+   "versions": [
+    {
+     "says": "לפי ראבון: אחרי מות אוזיאל ב-1622 מונה לרב בית הכנסת, כבן שמונה עשרה",
+     "claims": [
+      "c-aud-20261128-3"
+     ]
+    },
+    {
+     "says": "לפי ספריית לידס: מונה לדרשן (פרדיקדור) ב-1628, ולחכם (רב) רק ב-1631",
+     "claims": [
+      "c-aud-20261128-4"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9003",
+   "question": "מתי פעל בית הכנסת ברחוב קרי-צ'רץ'?",
+   "versions": [
+    {
+     "says": "לפי ראבון: עד דצמבר 1656 כבר הוקם בית כנסת בבית ברחוב קרי-צ'רץ'",
+     "claims": [
+      "c-aud-20261128-5"
+     ]
+    },
+    {
+     "says": "לפי ההיסטוריון אריאל חסיון: ב-19 בדצמבר 1656 נחתם חוזה שכירות על הבית, ועד מרץ 1657 הוא הוסב לבית כנסת",
+     "claims": [
+      "c-aud-20261128-6"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9004",
+   "question": "היכן נולד מנשה בן ישראל?",
+   "versions": [
+    {
+     "says": "לפי ראבון: בליסבון, ב-1604",
+     "claims": [
+      "c-aud-20261128-7"
+     ]
+    },
+    {
+     "says": "לפי האנציקלופדיה יודאיקה: בליסבון או בלה רושל; לפי מסמך לא אמין של האינקוויזיציה, במדירה",
+     "claims": [
+      "c-aud-20261128-8"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9005",
+   "question": "האם מנשה הציג בעצמו את \"Humble Addresses\" בפני מועצת המדינה בסוף אוקטובר 1655?",
+   "versions": [
+    {
+     "says": "לפי ראבון: ב-31 באוקטובר 1655 הציג את החיבור בעצמו בפני המועצה בווייטהול",
+     "claims": [
+      "c-aud-20261128-9"
+     ]
+    },
+    {
+     "says": "לפי ההיסטוריון אריאל חסיון: מנשה המתין מחוץ לדלת, ושר בפטיסטי יצא לקבל ממנו את הספרים",
+     "claims": [
+      "c-aud-20261128-10"
      ]
     }
    ]
@@ -1413,6 +1492,96 @@
    "locator": "audit 2026-11-28",
    "status": "confirmed",
    "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-1",
+   "text": "בספטמבר 1657 מת באנגליה שמואל, בנו של מנשה, ונקבר במידלבורג.",
+   "source": "src9004",
+   "quote": "In September 1657 his only son Samuel died.",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261128-2",
+   "text": "לפי ההיסטוריון אריאל חסיון, קרומוול העניק למנשה קצבה ממלכתית של 100 לירות לשנה.",
+   "source": "src9004",
+   "quote": "He was granted a state pension of £100 per annum",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261128-3",
+   "text": "לפי ראבון: אחרי מות אוזיאל ב-1622 מונה לרב בית הכנסת, כבן שמונה עשרה",
+   "source": "src9003",
+   "quote": "Menasseh was appointed rabbi of the Neveh Shalom synagogue, despite being only around eighteen years of age",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261128-4",
+   "text": "לפי ספריית לידס: מונה לדרשן (פרדיקדור) ב-1628, ולחכם (רב) רק ב-1631",
+   "source": "src1",
+   "quote": "having been appointed predicador (preacher) there in 1628",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-5",
+   "text": "לפי ראבון: עד דצמבר 1656 כבר הוקם בית כנסת בבית ברחוב קרי-צ'רץ'",
+   "source": "src9003",
+   "quote": "by December 1656, a synagogue was established in a house in Cree-Church Lane",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261128-6",
+   "text": "לפי ההיסטוריון אריאל חסיון: ב-19 בדצמבר 1656 נחתם חוזה שכירות על הבית, ועד מרץ 1657 הוא הוסב לבית כנסת",
+   "source": "src9004",
+   "quote": "which by March 1657 was being converted into a synagogue",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261128-7",
+   "text": "לפי ראבון: בליסבון, ב-1604",
+   "source": "src9003",
+   "quote": "Menasseh ben Israel was born in 1604 in Lisbon",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261128-8",
+   "text": "לפי האנציקלופדיה יודאיקה: בליסבון או בלה רושל; לפי מסמך לא אמין של האינקוויזיציה, במדירה",
+   "source": "src9005",
+   "quote": "born a Marrano in Lisbon or La Rochelle",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261128-9",
+   "text": "לפי ראבון: ב-31 באוקטובר 1655 הציג את החיבור בעצמו בפני המועצה בווייטהול",
+   "source": "src9003",
+   "quote": "he presented this pamphlet in person to the Council of State at Whitehall",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261128-10",
+   "text": "לפי ההיסטוריון אריאל חסיון: מנשה המתין מחוץ לדלת, ושר בפטיסטי יצא לקבל ממנו את הספרים",
+   "source": "src9004",
+   "quote": "At the end of October Menasseh waited outside the door as the Council of State",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
   }
  ],
  "sources": [
@@ -1475,6 +1644,20 @@
    "label": "Lawrence Rabone, Menasseh ben Israel, CDAMM",
    "url": "https://cdamm.org/assets/articlePDFs/28728-menasseh-ben-israel.pdf",
    "kind": "other",
+   "date": "2026-11-28"
+  },
+  {
+   "id": "src9004",
+   "label": "Ariel Hessayon, From Expulsion (1290) to Readmission (1656): Jews in England, JewishGen JCR-UK, 2006",
+   "url": "https://www.jewishgen.org/jcr-uk/england/articles/1290_to_1656.htm",
+   "kind": "other",
+   "date": "2026-11-28"
+  },
+  {
+   "id": "src9005",
+   "label": "Encyclopaedia Judaica, Manasseh (Menasseh) ben Israel, via Encyclopedia.com",
+   "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/manasseh-ben-israel",
+   "kind": "reference",
    "date": "2026-11-28"
   }
  ],

@@ -148,7 +148,8 @@
     "m15"
    ],
    "disagreements": [
-    "d1"
+    "d1",
+    "d9005"
    ]
   },
   {
@@ -223,7 +224,9 @@
    ],
    "disagreements": [
     "d9003",
-    "d9004"
+    "d9004",
+    "d9007",
+    "d9008"
    ]
   },
   {
@@ -524,7 +527,9 @@
     "m6",
     "m13"
    ],
-   "disagreements": []
+   "disagreements": [
+    "d9006"
+   ]
   },
   {
    "id": "s8",
@@ -649,6 +654,96 @@
     },
     {
      "says": "Stanford: No, he was not Saladin's personal physician, but one of the physicians who treated his family and his ministers",
+     "claims": [
+      "c-aud-20261128-11"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9005",
+   "question": "In what year was Maimonides born?",
+   "versions": [
+    {
+     "says": "Chabad.org: on 14 Nissan 4895 (1135), following the traditionally accepted view",
+     "claims": [
+      "c-aud-20261128-1"
+     ]
+    },
+    {
+     "says": "Stanford Encyclopedia of Philosophy: in 1138",
+     "claims": [
+      "c-aud-20261128-2"
+     ]
+    },
+    {
+     "says": "Maimonides himself, in his colophon to the Commentary on the Mishnah as cited by Yeshivat Har Etzion: he was thirty in 1479 of the Seleucid era (1168), so born around 1138",
+     "claims": [
+      "c-aud-20261128-3"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9006",
+   "question": "How old was Maimonides when he died in 1204?",
+   "versions": [
+    {
+     "says": "National Library of Israel: 69",
+     "claims": [
+      "c-aud-20261128-4"
+     ]
+    },
+    {
+     "says": "Stanford Encyclopedia of Philosophy: he was born in 1138, so he died at about 66",
+     "claims": [
+      "c-aud-20261128-5"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9007",
+   "question": "In what year did David, Maimonides' brother, drown?",
+   "versions": [
+    {
+     "says": "Chabad.org: in 1171",
+     "claims": [
+      "c-aud-20261128-6"
+     ]
+    },
+    {
+     "says": "Stanford: in 1177",
+     "claims": [
+      "c-aud-20261128-7"
+     ]
+    },
+    {
+     "says": "Posen Library: around 1177",
+     "claims": [
+      "c-aud-20261128-8"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9008",
+   "question": "Was Maimonides Saladin's physician?",
+   "versions": [
+    {
+     "says": "Chabad.org: yes, after serving as personal physician to a royal courtier he was appointed physician to Saladin",
+     "claims": [
+      "c-aud-20261128-9"
+     ]
+    },
+    {
+     "says": "Stanford: no, he was not Saladin's personal physician, but one of the physicians who treated Saladin's family and ministers",
+     "claims": [
+      "c-aud-20261128-10"
+     ]
+    },
+    {
+     "says": "Yeshivat Har Etzion: he was the personal physician of the vizier al-Fadil",
      "claims": [
       "c-aud-20261128-11"
      ]
@@ -1212,6 +1307,105 @@
    "quote": "Moshe was born in Cordoba, Spain, on the 14th of Nissan (the eve of Passover) of the year 4895",
    "status": "confirmed",
    "locator": "שורה 5"
+  },
+  {
+   "id": "c-aud-20261128-1",
+   "text": "Chabad.org: בי״ד בניסן ד׳תתצ״ה (1135), לפי המסורת המקובלת",
+   "source": "src3",
+   "quote": "on the 14th of Nissan (the eve of Passover) of the year 4895",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261128-2",
+   "text": "האנציקלופדיה לפילוסופיה של סטנפורד: ב-1138",
+   "source": "src9001",
+   "quote": "born to a distinguished family in Cordova, Spain in 1138",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-3",
+   "text": "הרמב״ם עצמו, בקולופון לפירוש המשנה כפי שמביאה ישיבת הר עציון: הוא היה בן שלושים בשנת 1479 לשטרות (1168), כלומר נולד בסביבות 1138",
+   "source": "src9002",
+   "quote": "I completed it in Egypt when I was thirty years old in the year 1479 of the Seleucid era",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-4",
+   "text": "הספרייה הלאומית: בן 69",
+   "source": "src2",
+   "quote": "He died in 1204 at the age of 69",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261128-5",
+   "text": "האנציקלופדיה לפילוסופיה של סטנפורד: הוא נולד ב-1138, כלומר מת בגיל 66 בערך",
+   "source": "src9001",
+   "quote": "born to a distinguished family in Cordova, Spain in 1138",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-6",
+   "text": "Chabad.org: ב-1171",
+   "source": "src3",
+   "quote": "in 1171, his brother David drowned",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261128-7",
+   "text": "סטנפורד: ב-1177",
+   "source": "src5",
+   "quote": "drowned on one of his business voyages in 1177",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-8",
+   "text": "ספריית פוזן: בסביבות 1177",
+   "source": "src9003",
+   "quote": "Around the year 1177, David died while abroad",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-9",
+   "text": "Chabad.org: כן, אחרי שמונה לרופא אישי של אחד מאנשי החצר, הוא מונה לרופאו של צלאח א-דין",
+   "source": "src3",
+   "quote": "then to Saladin, the sultan of Egypt and Syria",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261128-10",
+   "text": "סטנפורד: לא, הוא לא היה הרופא האישי של צלאח א-דין, אלא אחד הרופאים שטיפלו במשפחתו ובשריו",
+   "source": "src5",
+   "quote": "one of the physicians who treated",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-11",
+   "text": "ישיבת הר עציון: הוא היה הרופא האישי של הווזיר אל-פאדל",
+   "source": "src9002",
+   "quote": "personal physician of the vizier al-Fadil",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1250,6 +1444,27 @@
    "label": "Wikiyeshiva, Mishneh Torah",
    "url": "https://www.yeshiva.org.il/wiki/index.php/משנה_תורה",
    "kind": "reference"
+  },
+  {
+   "id": "src9001",
+   "label": "Stanford Encyclopedia of Philosophy, Maimonides",
+   "url": "https://plato.stanford.edu/entries/maimonides/",
+   "kind": "reference",
+   "date": "2026-11-28"
+  },
+  {
+   "id": "src9002",
+   "label": "Yeshivat Har Etzion (VBM), The Life of Maimonides and His Halakhic Works",
+   "url": "https://etzion.org.il/en/philosophy/great-thinkers/rambam/life-maimonides-and-his-halakhic-works",
+   "kind": "organisation",
+   "date": "2026-11-28"
+  },
+  {
+   "id": "src9003",
+   "label": "The Posen Library of Jewish Culture and Civilization",
+   "url": "https://www.posenlibrary.com/node/12460",
+   "kind": "book",
+   "date": "2026-11-28"
   }
  ],
  "media": [

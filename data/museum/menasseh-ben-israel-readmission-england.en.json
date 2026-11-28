@@ -1,7 +1,7 @@
 {
  "schema": "maasei-museum/1",
  "slug": "menasseh-ben-israel-readmission-england",
- "deed": "מנשה בן ישראל פנה לקרומוול בבקשה להחזיר את היהודים לאנגליה, והם חזרו אליה בשקט",
+ "deed": "Menasseh ben Israel appealed to Cromwell and brought about the quiet return of the Jews to England",
  "canonical_type": "historical-figure",
  "year": "1651",
  "title": "Menasseh ben Israel, a rabbi from Amsterdam, appealed to Cromwell, and Jews returned to live openly in England",
@@ -209,7 +209,9 @@
     "m7"
    ],
    "disagreements": [
-    "d9001"
+    "d9001",
+    "d9002",
+    "d9004"
    ]
   },
   {
@@ -349,7 +351,7 @@
     ],
     [
      {
-      "text": "According to Raboon, on 31 October 1655 Menasseh presented his work Humble Addresses in person to the Council of State at Whitehall.",
+      "text": "According to Rabone, on 31 October 1655 Menasseh presented his work Humble Addresses in person to the Council of State at Whitehall.",
       "claims": [
        "c37"
       ]
@@ -374,7 +376,8 @@
    ],
    "disagreements": [
     "d6",
-    "d3"
+    "d3",
+    "d9005"
    ]
   },
   {
@@ -523,9 +526,10 @@
       ]
      },
      {
-      "text": "According to the Jewish Encyclopedia, Cromwell gave Menasseh a grant of £100.",
+      "text": "According to historian Ariel Hessayon, Cromwell granted Menasseh a state pension of £100 a year.",
       "claims": [
-       "c61"
+       "c61",
+       "c-aud-20261128-2"
       ]
      }
     ],
@@ -560,7 +564,9 @@
     "m14",
     "m13"
    ],
-   "disagreements": []
+   "disagreements": [
+    "d9003"
+   ]
   },
   {
    "id": "s7",
@@ -569,9 +575,10 @@
    "paragraphs": [
     [
      {
-      "text": "In 1656 Samuel, Menasseh's son, died in England and was buried in Middelburg.",
+      "text": "In September 1657 Samuel, Menasseh's son, died in England and was buried in Middelburg.",
       "claims": [
-       "c66"
+       "c66",
+       "c-aud-20261128-1"
       ]
      },
      {
@@ -704,7 +711,7 @@
    "question": "How far was Menasseh the decisive factor in the readmission?",
    "versions": [
     {
-     "says": "According to Wolf: Cromwell was the mainspring of the whole movement, and Menasseh was a puppet in his hands",
+     "says": "According to Rabone: in September 1655, near Rosh Hashanah",
      "claims": [
       "c71"
      ]
@@ -773,6 +780,78 @@
      "says": "According to Leeds Library: appointed preacher (predicador) in 1628, and hakham (rabbi) only in 1631",
      "claims": [
       "c-aud-20261128-9"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9002",
+   "question": "When, and to what post, was Menasseh appointed at the Neveh Shalom synagogue?",
+   "versions": [
+    {
+     "says": "According to Rabone: after Uziel's death in 1622 he was appointed rabbi of the synagogue, at about eighteen",
+     "claims": [
+      "c-aud-20261128-3"
+     ]
+    },
+    {
+     "says": "According to Leeds Library: he was appointed preacher (predicador) in 1628, and became Haham (rabbi) only in 1631",
+     "claims": [
+      "c-aud-20261128-4"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9003",
+   "question": "When was the Cree-Church Lane synagogue in operation?",
+   "versions": [
+    {
+     "says": "According to Rabone: by December 1656 a synagogue had been established in a house in Cree-Church Lane",
+     "claims": [
+      "c-aud-20261128-5"
+     ]
+    },
+    {
+     "says": "According to historian Ariel Hessayon: a lease on the house was signed on 19 December 1656, and by March 1657 it was being converted into a synagogue",
+     "claims": [
+      "c-aud-20261128-6"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9004",
+   "question": "Where was Menasseh ben Israel born?",
+   "versions": [
+    {
+     "says": "According to Rabone: in Lisbon, in 1604",
+     "claims": [
+      "c-aud-20261128-7"
+     ]
+    },
+    {
+     "says": "According to the Encyclopaedia Judaica: in Lisbon or La Rochelle; according to an unreliable Inquisition document, on Madeira",
+     "claims": [
+      "c-aud-20261128-8"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9005",
+   "question": "Did Menasseh present the Humble Addresses to the Council of State in person at the end of October 1655?",
+   "versions": [
+    {
+     "says": "According to Rabone: on 31 October 1655 he presented the tract in person to the Council at Whitehall",
+     "claims": [
+      "c-aud-20261128-9"
+     ]
+    },
+    {
+     "says": "According to historian Ariel Hessayon: Menasseh waited outside the door, and a Baptist minister went out to receive the books from him",
+     "claims": [
+      "c-aud-20261128-10"
      ]
     }
    ]
@@ -1413,6 +1492,96 @@
    "locator": "audit 2026-11-28",
    "status": "confirmed",
    "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-1",
+   "text": "בספטמבר 1657 מת באנגליה שמואל, בנו של מנשה, ונקבר במידלבורג.",
+   "source": "src9004",
+   "quote": "In September 1657 his only son Samuel died.",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261128-2",
+   "text": "לפי ההיסטוריון אריאל חסיון, קרומוול העניק למנשה קצבה ממלכתית של 100 לירות לשנה.",
+   "source": "src9004",
+   "quote": "He was granted a state pension of £100 per annum",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261128-3",
+   "text": "לפי ראבון: אחרי מות אוזיאל ב-1622 מונה לרב בית הכנסת, כבן שמונה עשרה",
+   "source": "src9003",
+   "quote": "Menasseh was appointed rabbi of the Neveh Shalom synagogue, despite being only around eighteen years of age",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261128-4",
+   "text": "לפי ספריית לידס: מונה לדרשן (פרדיקדור) ב-1628, ולחכם (רב) רק ב-1631",
+   "source": "src1",
+   "quote": "having been appointed predicador (preacher) there in 1628",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-5",
+   "text": "לפי ראבון: עד דצמבר 1656 כבר הוקם בית כנסת בבית ברחוב קרי-צ'רץ'",
+   "source": "src9003",
+   "quote": "by December 1656, a synagogue was established in a house in Cree-Church Lane",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261128-6",
+   "text": "לפי ההיסטוריון אריאל חסיון: ב-19 בדצמבר 1656 נחתם חוזה שכירות על הבית, ועד מרץ 1657 הוא הוסב לבית כנסת",
+   "source": "src9004",
+   "quote": "which by March 1657 was being converted into a synagogue",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261128-7",
+   "text": "לפי ראבון: בליסבון, ב-1604",
+   "source": "src9003",
+   "quote": "Menasseh ben Israel was born in 1604 in Lisbon",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261128-8",
+   "text": "לפי האנציקלופדיה יודאיקה: בליסבון או בלה רושל; לפי מסמך לא אמין של האינקוויזיציה, במדירה",
+   "source": "src9005",
+   "quote": "born a Marrano in Lisbon or La Rochelle",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261128-9",
+   "text": "לפי ראבון: ב-31 באוקטובר 1655 הציג את החיבור בעצמו בפני המועצה בווייטהול",
+   "source": "src9003",
+   "quote": "he presented this pamphlet in person to the Council of State at Whitehall",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261128-10",
+   "text": "לפי ההיסטוריון אריאל חסיון: מנשה המתין מחוץ לדלת, ושר בפטיסטי יצא לקבל ממנו את הספרים",
+   "source": "src9004",
+   "quote": "At the end of October Menasseh waited outside the door as the Council of State",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
   }
  ],
  "sources": [
@@ -1475,6 +1644,20 @@
    "label": "Lawrence Rabone, Menasseh ben Israel, CDAMM",
    "url": "https://cdamm.org/assets/articlePDFs/28728-menasseh-ben-israel.pdf",
    "kind": "other",
+   "date": "2026-11-28"
+  },
+  {
+   "id": "src9004",
+   "label": "Ariel Hessayon, From Expulsion (1290) to Readmission (1656): Jews in England, JewishGen JCR-UK, 2006",
+   "url": "https://www.jewishgen.org/jcr-uk/england/articles/1290_to_1656.htm",
+   "kind": "other",
+   "date": "2026-11-28"
+  },
+  {
+   "id": "src9005",
+   "label": "Encyclopaedia Judaica, Manasseh (Menasseh) ben Israel, via Encyclopedia.com",
+   "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/manasseh-ben-israel",
+   "kind": "reference",
    "date": "2026-11-28"
   }
  ],

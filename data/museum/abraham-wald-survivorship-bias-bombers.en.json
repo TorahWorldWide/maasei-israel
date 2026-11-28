@@ -1,7 +1,7 @@
 {
  "schema": "maasei-museum/1",
  "slug": "abraham-wald-survivorship-bias-bombers",
- "deed": "המתמטיקאי אברהם וולד מפתח שיטה להערכת פגיעוּת המפציצים מתוך הנזק במטוסים ששרדו",
+ "deed": "The mathematician Abraham Wald develops a method for estimating the vulnerability of bombers from the damage to the aircraft that survived",
  "canonical_type": "idea-that-changed",
  "year": "1943",
  "title": "Abraham Wald concluded the most damaged planes don't return; per Vintage Aviation News, the army began increasing armor on vulnerable areas",
@@ -460,7 +460,10 @@
    "disagreements": [
     "d9001",
     "d9002",
-    "d9003"
+    "d9003",
+    "d9004",
+    "d9005",
+    "d9006"
    ]
   },
   {
@@ -735,6 +738,60 @@
      "says": "Bill Casselman (AMS): Wald's memoranda contain no advice to the military, and there is almost no evidence for this part of the story",
      "claims": [
       "c-aud-20261128-8"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9004",
+   "question": "Did the military actually act on Wald's work and add armor where he found the planes most vulnerable?",
+   "versions": [
+    {
+     "says": "Vintage Aviation News: the military took Wald's advice and began adding armor to the more vulnerable areas",
+     "claims": [
+      "c-aud-20261128-1"
+     ]
+    },
+    {
+     "says": "Bill Casselman (AMS): Wald's memoranda give the military no advice, and there is very little evidence for this part of the story",
+     "claims": [
+      "c-aud-20261128-2"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9005",
+   "question": "Did the military actually act on Wald's work and add armor where he found the planes most vulnerable?",
+   "versions": [
+    {
+     "says": "Vintage Aviation News: the military took Wald's advice and began adding armor to the more vulnerable areas",
+     "claims": [
+      "c-aud-20261128-3"
+     ]
+    },
+    {
+     "says": "Bill Casselman (AMS): Wald's memoranda give the military no advice, and military decisions were made by the military",
+     "claims": [
+      "c-aud-20261128-4"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9006",
+   "question": "Did the military actually act on Wald's work and add armor where he found the planes most vulnerable?",
+   "versions": [
+    {
+     "says": "Vintage Aviation News: the military took Wald's advice and began adding armor to the more vulnerable areas",
+     "claims": [
+      "c-aud-20261128-5"
+     ]
+    },
+    {
+     "says": "Bill Casselman (AMS): Wald's memoranda give the military no advice, and there is very little evidence for this part of the story",
+     "claims": [
+      "c-aud-20261128-6"
      ]
     }
    ]
@@ -1360,6 +1417,60 @@
    "text": "לפי We Are The Mighty, בהסתמך על ג'ורדן אלנברג, בקבוצה רווחה בדיחה שלפיה מזכירותיו נאלצו לתלוש מידיו דפים שכתב, כי לא היה לו אישור לקרוא את עבודתו שלו.",
    "source": "src6",
    "quote": "there was a running joke in the Statistical Research Group involving Wald",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-1",
+   "text": "Vintage Aviation News: הצבא קיבל את עצת וולד והחל להגדיל את השריון באזורים הפגיעים יותר",
+   "source": "src5",
+   "quote": "began increasing armor protection over these more vulnerable areas of aircraft",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-2",
+   "text": "ביל קסלמן (AMS): בתזכירים של וולד אין שום עצה לצבא, ואין כמעט ראיות לחלק הזה בסיפור",
+   "source": "src4",
+   "quote": "Wald says nothing about what the military should do to improve things",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-3",
+   "text": "Vintage Aviation News: הצבא קיבל את עצת וולד והחל להגדיל את השריון באזורים הפגיעים יותר",
+   "source": "src5",
+   "quote": "began increasing armor protection over these more vulnerable areas of aircraft",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-4",
+   "text": "ביל קסלמן (AMS): בתזכירים של וולד אין שום עצה לצבא, ואת ההחלטות הצבאיות קיבל הצבא",
+   "source": "src4",
+   "quote": "Military decisions were made by the military.",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-5",
+   "text": "Vintage Aviation News: הצבא קיבל את עצת וולד והחל להגדיל את השריון באזורים הפגיעים יותר",
+   "source": "src5",
+   "quote": "began increasing armor protection over these more vulnerable areas of aircraft",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-6",
+   "text": "ביל קסלמן (AMS): בתזכירים של וולד אין שום עצה לצבא, ואין כמעט ראיות לחלק הזה בסיפור",
+   "source": "src4",
+   "quote": "Wald says nothing about what the military should do to improve things",
    "locator": "audit 2026-11-28",
    "status": "confirmed",
    "checker_note": "audit: quote found on the fetched page"

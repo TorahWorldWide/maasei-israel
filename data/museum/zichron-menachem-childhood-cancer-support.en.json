@@ -256,7 +256,8 @@
     "m27"
    ],
    "disagreements": [
-    "d9001"
+    "d9001",
+    "d9002"
    ]
   },
   {
@@ -603,6 +604,30 @@
     },
     {
      "says": "The Jewish Chronicle: four months after the death, the couple founded the association",
+     "claims": [
+      "c-aud-20261128-3"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9002",
+   "question": "What happened four months after Menachem's death: was it only the idea, or was the association already founded?",
+   "versions": [
+    {
+     "says": "ynet: four months after the death the couple came up with the idea of a blood-donation body",
+     "claims": [
+      "c-aud-20261128-1"
+     ]
+    },
+    {
+     "says": "Israel Hayom: on Tu B'Av, four months after the death, the association was founded",
+     "claims": [
+      "c-aud-20261128-2"
+     ]
+    },
+    {
+     "says": "The Jewish Chronicle: four months after the death the couple founded the charity",
      "claims": [
       "c-aud-20261128-3"
      ]
@@ -1035,6 +1060,33 @@
    "quote": "חשבנו שאולי אנחנו הולכים לקבל סוף כל סוף סמל מוסד מהמדינה, שתכיר בנו כי הגשנו בקשה בנושא לא מזמן",
    "status": "confirmed",
    "locator": "שורה 15"
+  },
+  {
+   "id": "c-aud-20261128-1",
+   "text": "ynet: ארבעה חודשים אחרי המוות העלו בני הזוג את הרעיון להקים גוף של תרומות דם",
+   "source": "src2",
+   "quote": "ארבעה חודשים לאחר מות הבן, העלו בני הזוג רעיון",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-2",
+   "text": "ישראל היום: בט\"ו באב, ארבעה חודשים אחרי המוות, כבר הוקמה העמותה",
+   "source": "src8",
+   "quote": "ארבעה חודשים אחרי מותו של בנם, הוקמה עמותת \"זכרון מנחם\"",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-3",
+   "text": "ה-Jewish Chronicle: ארבעה חודשים אחרי המוות ייסדו בני הזוג את העמותה",
+   "source": "src11",
+   "quote": "Four months later, the couple founded the Zichron Menachem charity.",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   },
   {
    "id": "c-aud-20261128-1",

@@ -297,7 +297,8 @@
     "m1"
    ],
    "disagreements": [
-    "d3"
+    "d3",
+    "d9002"
    ]
   },
   {
@@ -401,7 +402,8 @@
    ],
    "media": [],
    "disagreements": [
-    "d5"
+    "d5",
+    "d9001"
    ]
   },
   {
@@ -511,6 +513,42 @@
      "says": "הבלוג בטיימס אוף ישראל: הטענה, שמופיעה בתיאורים פופולריים ישנים, ש'לקח טוב' הוא הספר הראשון שנדפס ביבשת אסיה, בעייתית יותר, כי באזורים אחרים היה דפוס שאינו עברי",
      "claims": [
       "c25"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9001",
+   "question": "האם בית הדפוס בצפת היה בית הדפוס העברי הראשון במזרח התיכון?",
+   "versions": [
+    {
+     "says": "מרווין הלר: הוא היה בית הדפוס הראשון במזרח התיכון",
+     "claims": [
+      "c-aud-20261128-1"
+     ]
+    },
+    {
+     "says": "האנציקלופדיה היהודית: גרשום שונצינו הדפיס כבר ב-1557 בקהיר שבמצרים, עשרים שנה לפני כן",
+     "claims": [
+      "c-aud-20261128-2"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9002",
+   "question": "מתי מת רבי יום טוב צהלון?",
+   "versions": [
+    {
+     "says": "האנציקלופדיה היהודית: ב-1619 או ב-1620",
+     "claims": [
+      "c-aud-20261128-3"
+     ]
+    },
+    {
+     "says": "הבלוג בטיימס אוף ישראל: אחרי 1638",
+     "claims": [
+      "c-aud-20261128-4"
      ]
     }
    ]
@@ -985,6 +1023,42 @@
    "locator": "audit 2026-11-28",
    "status": "confirmed",
    "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261128-1",
+   "text": "מרווין הלר: הוא היה בית הדפוס הראשון במזרח התיכון",
+   "source": "src2",
+   "quote": "the first press not only in the Middle East but in all of Asia",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261128-2",
+   "text": "האנציקלופדיה היהודית: גרשום שונצינו הדפיס כבר ב-1557 בקהיר שבמצרים, עשרים שנה לפני כן",
+   "source": "src9001",
+   "quote": "printed in Cairo, Egypt, in 1557",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-3",
+   "text": "האנציקלופדיה היהודית: ב-1619 או ב-1620",
+   "source": "src9002",
+   "quote": "(1559–1619/20)",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-4",
+   "text": "הבלוג בטיימס אוף ישראל: אחרי 1638",
+   "source": "src3",
+   "quote": "c. 1558–after 1638",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
   }
  ],
  "sources": [
@@ -1017,6 +1091,20 @@
    "label": "Jerusalem Post, magazine feature",
    "url": "https://www.jpost.com/magazine/features/article-139210",
    "kind": "press"
+  },
+  {
+   "id": "src9001",
+   "label": "Encyclopaedia Judaica via encyclopedia.com, Soncino",
+   "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/soncino",
+   "kind": "reference",
+   "date": "2026-11-28"
+  },
+  {
+   "id": "src9002",
+   "label": "Encyclopaedia Judaica via encyclopedia.com, Zahalon",
+   "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/zahalon",
+   "kind": "reference",
+   "date": "2026-11-28"
   }
  ],
  "media": [

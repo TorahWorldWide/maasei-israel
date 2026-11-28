@@ -460,7 +460,10 @@
    "disagreements": [
     "d9001",
     "d9002",
-    "d9003"
+    "d9003",
+    "d9004",
+    "d9005",
+    "d9006"
    ]
   },
   {
@@ -735,6 +738,60 @@
      "says": "ביל קסלמן (AMS): בתזכירים של וולד אין שום עצה לצבא, ואין כמעט ראיות לחלק הזה בסיפור",
      "claims": [
       "c-aud-20261128-8"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9004",
+   "question": "האם הצבא אכן פעל לפי עבודתו של וולד והוסיף שריון באזורים שהוא זיהה כפגיעים?",
+   "versions": [
+    {
+     "says": "Vintage Aviation News: הצבא קיבל את עצת וולד והחל להגדיל את השריון באזורים הפגיעים יותר",
+     "claims": [
+      "c-aud-20261128-1"
+     ]
+    },
+    {
+     "says": "ביל קסלמן (AMS): בתזכירים של וולד אין שום עצה לצבא, ואין כמעט ראיות לחלק הזה בסיפור",
+     "claims": [
+      "c-aud-20261128-2"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9005",
+   "question": "האם הצבא אכן פעל לפי עבודתו של וולד והוסיף שריון באזורים שהוא זיהה כפגיעים?",
+   "versions": [
+    {
+     "says": "Vintage Aviation News: הצבא קיבל את עצת וולד והחל להגדיל את השריון באזורים הפגיעים יותר",
+     "claims": [
+      "c-aud-20261128-3"
+     ]
+    },
+    {
+     "says": "ביל קסלמן (AMS): בתזכירים של וולד אין שום עצה לצבא, ואת ההחלטות הצבאיות קיבל הצבא",
+     "claims": [
+      "c-aud-20261128-4"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9006",
+   "question": "האם הצבא אכן פעל לפי עבודתו של וולד והוסיף שריון באזורים שהוא זיהה כפגיעים?",
+   "versions": [
+    {
+     "says": "Vintage Aviation News: הצבא קיבל את עצת וולד והחל להגדיל את השריון באזורים הפגיעים יותר",
+     "claims": [
+      "c-aud-20261128-5"
+     ]
+    },
+    {
+     "says": "ביל קסלמן (AMS): בתזכירים של וולד אין שום עצה לצבא, ואין כמעט ראיות לחלק הזה בסיפור",
+     "claims": [
+      "c-aud-20261128-6"
      ]
     }
    ]
@@ -1360,6 +1417,60 @@
    "text": "לפי We Are The Mighty, בהסתמך על ג'ורדן אלנברג, בקבוצה רווחה בדיחה שלפיה מזכירותיו נאלצו לתלוש מידיו דפים שכתב, כי לא היה לו אישור לקרוא את עבודתו שלו.",
    "source": "src6",
    "quote": "there was a running joke in the Statistical Research Group involving Wald",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-1",
+   "text": "Vintage Aviation News: הצבא קיבל את עצת וולד והחל להגדיל את השריון באזורים הפגיעים יותר",
+   "source": "src5",
+   "quote": "began increasing armor protection over these more vulnerable areas of aircraft",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-2",
+   "text": "ביל קסלמן (AMS): בתזכירים של וולד אין שום עצה לצבא, ואין כמעט ראיות לחלק הזה בסיפור",
+   "source": "src4",
+   "quote": "Wald says nothing about what the military should do to improve things",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-3",
+   "text": "Vintage Aviation News: הצבא קיבל את עצת וולד והחל להגדיל את השריון באזורים הפגיעים יותר",
+   "source": "src5",
+   "quote": "began increasing armor protection over these more vulnerable areas of aircraft",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-4",
+   "text": "ביל קסלמן (AMS): בתזכירים של וולד אין שום עצה לצבא, ואת ההחלטות הצבאיות קיבל הצבא",
+   "source": "src4",
+   "quote": "Military decisions were made by the military.",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-5",
+   "text": "Vintage Aviation News: הצבא קיבל את עצת וולד והחל להגדיל את השריון באזורים הפגיעים יותר",
+   "source": "src5",
+   "quote": "began increasing armor protection over these more vulnerable areas of aircraft",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-6",
+   "text": "ביל קסלמן (AMS): בתזכירים של וולד אין שום עצה לצבא, ואין כמעט ראיות לחלק הזה בסיפור",
+   "source": "src4",
+   "quote": "Wald says nothing about what the military should do to improve things",
    "locator": "audit 2026-11-28",
    "status": "confirmed",
    "checker_note": "audit: quote found on the fetched page"

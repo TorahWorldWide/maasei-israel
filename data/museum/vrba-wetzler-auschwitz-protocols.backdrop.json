@@ -1,0 +1,56 @@
+{
+ "schema": "maasei-backdrop/1",
+ "slug": "vrba-wetzler-auschwitz-protocols",
+ "media": "m5",
+ "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Auschwitz%20II%20Birkenau%20-%20gate%2C%20tracks.jpg?width=1920",
+ "img_small": "https://commons.wikimedia.org/wiki/Special:FilePath/Auschwitz%20II%20Birkenau%20-%20gate%2C%20tracks.jpg?width=1080",
+ "why": "A wide, deep view along the rails to the Birkenau gatehouse with watchtowers on either side sets the visitor inside the camp Vrba and Wetzler escaped from and reported on.",
+ "chosen_by": "opus picker",
+ "alternates": [
+  "m9"
+ ],
+ "from": {
+  "average": "#8e8e8e",
+  "picked": "#b1c0d9",
+  "coloured_share": 0.453,
+  "lightness": 0.558
+ },
+ "palette": {
+  "paper": "#e9edf4",
+  "surface": "#f6f7fa",
+  "band": "#d7dfec",
+  "tint": "#ccd8ea",
+  "header": "#dfe5ef",
+  "rule": "#afbdd5",
+  "text": "#181f2a",
+  "text2": "#333d4c",
+  "accent": "#364e78",
+  "meta": "#4f5968",
+  "tone": "#221b1b",
+  "shadow": "18, 24, 33"
+ },
+ "checks": {
+  "text_on_paper": 14.1,
+  "text_on_surface": 15.46,
+  "text_on_band": 12.34,
+  "text_on_tint": 11.49,
+  "text_on_header": 13.08,
+  "text2_on_paper": 9.35,
+  "text2_on_surface": 10.25,
+  "text2_on_band": 8.19,
+  "text2_on_tint": 7.62,
+  "text2_on_header": 8.67,
+  "accent_on_paper": 7.1,
+  "accent_on_surface": 7.79,
+  "accent_on_band": 6.22,
+  "accent_on_tint": 5.79,
+  "accent_on_header": 6.59,
+  "meta_on_paper": 6.04,
+  "meta_on_surface": 6.62,
+  "meta_on_band": 5.29,
+  "meta_on_tint": 4.92,
+  "meta_on_header": 5.6,
+  "paper_on_accent": 7.1
+ },
+ "passed": true
+}

@@ -1,0 +1,56 @@
+{
+ "schema": "maasei-backdrop/1",
+ "slug": "bielski-brothers-forest-partisans",
+ "media": "m13",
+ "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Nalibackaja%20pu%C5%A1%C4%8Da.%20%D0%9D%D0%B0%D0%BB%D1%96%D0%B1%D0%B0%D1%86%D0%BA%D0%B0%D1%8F%20%D0%BF%D1%83%D1%88%D1%87%D0%B0%20%28L.%20Ivano%C5%AD%2C%201935%29.jpg?width=1920",
+ "img_small": "https://commons.wikimedia.org/wiki/Special:FilePath/Nalibackaja%20pu%C5%A1%C4%8Da.%20%D0%9D%D0%B0%D0%BB%D1%96%D0%B1%D0%B0%D1%86%D0%BA%D0%B0%D1%8F%20%D0%BF%D1%83%D1%88%D1%87%D0%B0%20%28L.%20Ivano%C5%AD%2C%201935%29.jpg?width=1080",
+ "why": "A 1935 photo of a horse-drawn sledge convoy in snow beside the Naliboki forest, close in time and place to the story, sets the scene of the winter forest and the escape there.",
+ "chosen_by": "opus picker",
+ "alternates": [
+  "m8"
+ ],
+ "from": {
+  "average": "#9b8e7b",
+  "picked": "#bead93",
+  "coloured_share": 0.475,
+  "lightness": 0.544
+ },
+ "palette": {
+  "paper": "#f4f0e9",
+  "surface": "#faf8f6",
+  "band": "#ece4d7",
+  "tint": "#eadecc",
+  "header": "#efe8df",
+  "rule": "#d5c6af",
+  "text": "#2a2318",
+  "text2": "#4c4233",
+  "accent": "#745b34",
+  "meta": "#655c4c",
+  "tone": "#231f1a",
+  "shadow": "33, 27, 18"
+ },
+ "checks": {
+  "text_on_paper": 13.67,
+  "text_on_surface": 14.66,
+  "text_on_band": 12.31,
+  "text_on_tint": 11.7,
+  "text_on_header": 12.78,
+  "text2_on_paper": 8.66,
+  "text2_on_surface": 9.29,
+  "text2_on_band": 7.8,
+  "text2_on_tint": 7.41,
+  "text2_on_header": 8.1,
+  "accent_on_paper": 5.62,
+  "accent_on_surface": 6.03,
+  "accent_on_band": 5.06,
+  "accent_on_tint": 4.81,
+  "accent_on_header": 5.25,
+  "meta_on_paper": 5.8,
+  "meta_on_surface": 6.22,
+  "meta_on_band": 5.22,
+  "meta_on_tint": 4.96,
+  "meta_on_header": 5.42,
+  "paper_on_accent": 5.62
+ },
+ "passed": true
+}

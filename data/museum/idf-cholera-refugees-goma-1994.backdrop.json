@@ -1,0 +1,56 @@
+{
+ "schema": "maasei-backdrop/1",
+ "slug": "idf-cholera-refugees-goma-1994",
+ "media": "m2",
+ "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Kibumba%20refugee%20camp%20at%20Goma%2C%206506675%2C%20330-CFD-DF-ST-99-05606.jpg?width=1920",
+ "img_small": "https://commons.wikimedia.org/wiki/Special:FilePath/Kibumba%20refugee%20camp%20at%20Goma%2C%206506675%2C%20330-CFD-DF-ST-99-05606.jpg?width=1080",
+ "why": "A wide, deep view of the Kibumba refugee camp near Goma, with tents and makeshift shelters stretching to the volcanoes, shows the crisis the field hospital came to answer.",
+ "chosen_by": "opus picker",
+ "alternates": [
+  "m3"
+ ],
+ "from": {
+  "average": "#b9afa1",
+  "picked": "#d3bd9d",
+  "coloured_share": 0.463,
+  "lightness": 0.68
+ },
+ "palette": {
+  "paper": "#f4efe9",
+  "surface": "#faf8f6",
+  "band": "#ece4d7",
+  "tint": "#eadecc",
+  "header": "#efe8df",
+  "rule": "#d5c5af",
+  "text": "#2a2318",
+  "text2": "#4c4233",
+  "accent": "#745a34",
+  "meta": "#655b4c",
+  "tone": "#231f1a",
+  "shadow": "33, 27, 18"
+ },
+ "checks": {
+  "text_on_paper": 13.59,
+  "text_on_surface": 14.66,
+  "text_on_band": 12.31,
+  "text_on_tint": 11.7,
+  "text_on_header": 12.78,
+  "text2_on_paper": 8.61,
+  "text2_on_surface": 9.29,
+  "text2_on_band": 7.8,
+  "text2_on_tint": 7.41,
+  "text2_on_header": 8.1,
+  "accent_on_paper": 5.64,
+  "accent_on_surface": 6.09,
+  "accent_on_band": 5.11,
+  "accent_on_tint": 4.86,
+  "accent_on_header": 5.31,
+  "meta_on_paper": 5.82,
+  "meta_on_surface": 6.28,
+  "meta_on_band": 5.28,
+  "meta_on_tint": 5.02,
+  "meta_on_header": 5.48,
+  "paper_on_accent": 5.64
+ },
+ "passed": true
+}

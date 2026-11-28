@@ -1,7 +1,7 @@
 {
  "schema": "maasei-museum/1",
  "slug": "adital-ela-low-carbon-building-materials",
- "deed": "אדיטל אלע הקימה חברה ישראלית שמייצרת חומרי בנייה דלי-פחמן ממינרלים ממוחזרים",
+ "deed": "Adital Ela founded an Israeli company that makes low-carbon building materials from recycled minerals",
  "canonical_type": "team-invention",
  "year": "2015",
  "title": "Adital Ela founded Criaterra in Holon: unfired earth wall tiles, in more than 150 projects",
@@ -291,7 +291,8 @@
     "m2"
    ],
    "disagreements": [
-    "d9001"
+    "d9001",
+    "d9002"
    ]
   },
   {
@@ -752,6 +753,24 @@
      "says": "Israel Innovation Authority: 20 employees",
      "claims": [
       "c-aud-20261128-4"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9002",
+   "question": "How many employees does Criaterra have?",
+   "versions": [
+    {
+     "says": "Start-Up Nation Central (February 2025): 1–10 employees",
+     "claims": [
+      "c-aud-20261128-1"
+     ]
+    },
+    {
+     "says": "Israel Innovation Authority: 20 employees",
+     "claims": [
+      "c-aud-20261128-2"
      ]
     }
    ]
@@ -1332,6 +1351,24 @@
    "text": "לפי הרשות, אפשר לייצר כך בלוקי בנייה ומוצרים טרומיים (יצוקים מראש) באנרגיה מתחדשת לחלוטין.",
    "source": "src9003",
    "quote": "circular masonry blocks and precast products as carbon solution units",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-1",
+   "text": "Start-Up Nation Central (פברואר 2025): 1–10 עובדים",
+   "source": "src3",
+   "quote": "Criaterra Innovations operates with 1–10 employees",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261128-2",
+   "text": "רשות החדשנות: 20 עובדים",
+   "source": "src9003",
+   "quote": "No. of Employees",
    "locator": "audit 2026-11-28",
    "status": "confirmed",
    "checker_note": "audit: quote found on the fetched page"

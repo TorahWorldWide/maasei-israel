@@ -492,7 +492,9 @@
     "m1",
     "m9"
    ],
-   "disagreements": []
+   "disagreements": [
+    "d9001"
+   ]
   },
   {
    "id": "s8",
@@ -678,6 +680,30 @@
      "says": "BAS: no exact dating, but the reign of Ptolemy II remains possible",
      "claims": [
       "c36"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9001",
+   "question": "How large was Origen's Hexapla?",
+   "versions": [
+    {
+     "says": "Livius.org: 6,000 pages in 50 volumes",
+     "claims": [
+      "c-aud-20261128-1"
+     ]
+    },
+    {
+     "says": "Catholic Encyclopedia: Swete estimated 3,250 leaves (6,500 pages), while Nestle estimated close to 6,000 leaves",
+     "claims": [
+      "c-aud-20261128-2"
+     ]
+    },
+    {
+     "says": "Göttingen Septuagint project: Montfaucon assumed the work comprised more than 50 huge volumes",
+     "claims": [
+      "c-aud-20261128-3"
      ]
     }
    ]
@@ -1222,6 +1248,33 @@
    "locator": "audit 2026-11-28",
    "status": "confirmed",
    "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-1",
+   "text": "Livius.org: ‏6,000 עמודים ב-50 כרכים",
+   "source": "src2",
+   "quote": "The Hexapla had 6,000 pages in 50 volumes, and is now lost.",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-2",
+   "text": "האנציקלופדיה הקתולית: סוויט העריך 3,250 דפים (6,500 עמודים), ונסטלה העריך קרוב ל-6,000 דפים",
+   "source": "src9001",
+   "quote": "Swete estimated 3250 leaves, or 6500 pages, but Nestle considers 6000 leaves not far beyond the number.",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-3",
+   "text": "מפעל השבעים של גטינגן: מונפוקון הניח שהחיבור כלל יותר מ-50 כרכים ענקיים",
+   "source": "src9002",
+   "quote": "Bernard de Montfaucon assumed that the whole work comprised more than 50 huge volumes and was never copied.",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1278,6 +1331,20 @@
    "label": "Sefaria, Letter of Aristeas (original text, English translation)",
    "url": "https://www.sefaria.org/Letter_of_Aristeas?lang=en",
    "kind": "press"
+  },
+  {
+   "id": "src9001",
+   "label": "Catholic Encyclopedia (New Advent), Hexapla",
+   "url": "https://www.newadvent.org/cathen/07316a.htm",
+   "kind": "reference",
+   "date": "2026-11-28"
+  },
+  {
+   "id": "src9002",
+   "label": "Göttingen Academy, Septuaginta-Unternehmen blog, The Hexapla of Psalms",
+   "url": "https://septuaginta.uni-goettingen.de/blog/the-hexapla-of-psalms",
+   "kind": "organisation",
+   "date": "2026-11-28"
   }
  ],
  "media": [

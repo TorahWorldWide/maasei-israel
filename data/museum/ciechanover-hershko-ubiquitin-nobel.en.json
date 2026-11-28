@@ -1,7 +1,7 @@
 {
  "schema": "maasei-museum/1",
  "slug": "ciechanover-hershko-ubiquitin-nobel",
- "deed": "צחנובר והרשקו מהטכניון גילו את מנגנון פירוק החלבונים בתא — וזכו בפרס נובל",
+ "deed": "Ciechanover and Hershko of the Technion discovered the mechanism of protein degradation in the cell — and won the Nobel Prize",
  "canonical_type": "scientific-discovery",
  "year": "1977",
  "title": "Ciechanover and Hershko of the Technion discovered how the cell marks proteins for destruction, and won the Nobel Prize",
@@ -123,9 +123,10 @@
     ],
     [
      {
-      "text": "Aaron Ciechanover wrote that he was born in Haifa in October 1947, one month before the UN recognized Israel as an independent state.",
+      "text": "Aaron Ciechanover wrote that he was born in Haifa in October 1947, one month before the UN General Assembly resolved to establish a Jewish state and an Arab state in Palestine.",
       "claims": [
-       "c31"
+       "c31",
+       "c-aud-20261128-2"
       ]
      },
      {
@@ -156,7 +157,8 @@
    ],
    "disagreements": [
     "d7",
-    "d8"
+    "d8",
+    "d9001"
    ]
   },
   {
@@ -289,9 +291,10 @@
    "paragraphs": [
     [
      {
-      "text": "Irwin Rose was born in 1926 in New York and is an American citizen.",
+      "text": "Irwin Rose was born in 1926 in New York, was an American citizen, and died in 2015.",
       "claims": [
-       "c6"
+       "c6",
+       "c-aud-20261128-1"
       ]
      },
      {
@@ -618,6 +621,24 @@
      "says": "Elsewhere he wrote that since his father's death, in the years 1963–1975, he did not have a stable home",
      "claims": [
       "c34"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9001",
+   "question": "How many Hungarian Jews were murdered in the Holocaust?",
+   "versions": [
+    {
+     "says": "Hershko wrote in his autobiography: 360,000 Hungarian Jews",
+     "claims": [
+      "c-aud-20261128-3"
+     ]
+    },
+    {
+     "says": "US Holocaust Memorial Museum: about 550,000 Jews living in Hungary",
+     "claims": [
+      "c-aud-20261128-4"
      ]
     }
    ]
@@ -1122,6 +1143,42 @@
    "locator": "audit 2026-11-28",
    "status": "confirmed",
    "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-1",
+   "text": "ארווין רוז נולד ב-1926 בניו יורק, היה אזרח אמריקני ומת ב-2015.",
+   "source": "src9005",
+   "quote": "Family members said he died in his sleep early Tuesday in Deerfield, Mass.",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-2",
+   "text": "אהרון צ'חנובר כתב שנולד בחיפה באוקטובר 1947, חודש לפני שעצרת האו\"ם החליטה על הקמת מדינה יהודית ומדינה ערבית בארץ ישראל.",
+   "source": "src9006",
+   "quote": "Independent Arab and Jewish States and the Special International Regime for the City of Jerusalem",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-3",
+   "text": "הרשקו כתב באוטוביוגרפיה: 360,000 יהודי הונגריה",
+   "source": "src6",
+   "quote": "along with 360,000 Hungarian Jews",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-4",
+   "text": "מוזיאון השואה האמריקני (USHMM): כ-550,000 יהודים שחיו בהונגריה",
+   "source": "src9007",
+   "quote": "The Nazis and their Hungarian collaborators murdered approximately 550,000 Jews living in Hungary during the Holocaust.",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1202,6 +1259,27 @@
    "label": "Keith D. Wilkinson, The discovery of ubiquitin-dependent proteolysis, PNAS 2005 (PMC1266097)",
    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1266097/",
    "kind": "reference",
+   "date": "2026-11-28"
+  },
+  {
+   "id": "src9005",
+   "label": "UC Irvine News, Nobel laureate Irwin Rose dead at 88, 2 June 2015",
+   "url": "https://news.uci.edu/2015/06/02/nobel-laureate-irwin-rose-dead-at-88/",
+   "kind": "organisation",
+   "date": "2026-11-28"
+  },
+  {
+   "id": "src9006",
+   "label": "UN General Assembly Resolution 181 (II), 29 November 1947 (text at Yale Law School Avalon Project)",
+   "url": "https://avalon.law.yale.edu/20th_century/res181.asp",
+   "kind": "official",
+   "date": "2026-11-28"
+  },
+  {
+   "id": "src9007",
+   "label": "USHMM Holocaust Encyclopedia, The Holocaust in Hungary",
+   "url": "https://encyclopedia.ushmm.org/content/en/article/the-holocaust-in-hungary",
+   "kind": "organisation",
    "date": "2026-11-28"
   }
  ],

@@ -75,9 +75,10 @@
   },
   {
    "label": "Babies",
-   "value": "At least 12 births",
+   "value": "About 36 births",
    "claims": [
-    "c22"
+    "c22",
+    "c-aud-20261128-1"
    ]
   },
   {
@@ -308,7 +309,8 @@
    ],
    "disagreements": [
     "d6",
-    "d9001"
+    "d9001",
+    "d9002"
    ]
   },
   {
@@ -892,6 +894,24 @@
      ]
     }
    ]
+  },
+  {
+   "id": "d9002",
+   "question": "When did the field hospital start operating?",
+   "versions": [
+    {
+     "says": "JTA: on Friday morning, about seven hours after the team arrived on the island",
+     "claims": [
+      "c-aud-20261128-2"
+     ]
+    },
+    {
+     "says": "Rappler, quoting Adam Levene of the embassy: at 12 pm on Friday",
+     "claims": [
+      "c-aud-20261128-3"
+     ]
+    }
+   ]
   }
  ],
  "unknowns": [],
@@ -1442,6 +1462,33 @@
    "locator": "audit 2026-11-28",
    "status": "confirmed",
    "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-1",
+   "text": "כ-36 לידות",
+   "source": "src9005",
+   "quote": "the IDF Gynecological team was involved in approximately 36 births",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-2",
+   "text": "JTA: ביום שישי בבוקר, כשבע שעות אחרי שהצוות הגיע לאי",
+   "source": "src3",
+   "quote": "The field hospital began operating on Friday morning, about seven hours after the team arrived on the island.",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-3",
+   "text": "ראפלר, מפי אדם לווין מהשגרירות: בשעה 12:00 בצהריים ביום שישי",
+   "source": "src9004",
+   "quote": "we were functioning at 12 pm",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1522,6 +1569,13 @@
    "id": "src9004",
    "label": "Rappler, Post-Haiyan: Baby Israel born in mobile clinic, Nov 2013",
    "url": "https://www.rappler.com/environment/disasters/43805-baby-boy-israel-bogo-cebu/",
+   "kind": "press",
+   "date": "2026-11-28"
+  },
+  {
+   "id": "src9005",
+   "label": "Algemeiner (JNS), Israel Defense Forces Treat 2,686 Patients in Philippines Mission, 25.11.2013",
+   "url": "https://www.algemeiner.com/2013/11/25/israel-defense-forces-treat-2686-patients-in-philippines-mission/",
    "kind": "press",
    "date": "2026-11-28"
   }

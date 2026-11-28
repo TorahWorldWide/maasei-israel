@@ -1,0 +1,855 @@
+{
+ "schema": "maasei-museum/1",
+ "slug": "hillel-ii-fixed-hebrew-calendar",
+ "deed": "לפי המסורת, הנשיא הלל השני פרסם את סדרי הלוח העברי הקבוע",
+ "canonical_type": "idea-that-changed",
+ "year": "358/9",
+ "title": "לפי המסורת, הלל נשיאה קבע את חשבון הלוח העברי, והלוח מחושב כך עד היום",
+ "trailer": [
+  {
+   "text": "הלל נשיאה, המכונה גם הלל השני, היה נשיא ומנהיג יהודי בארץ ישראל.",
+   "claims": [
+    "c12",
+    "c53",
+    "c14"
+   ]
+  },
+  {
+   "text": "בעבר קבע בית דין את החודשים לפי עדות ראייה של הירח החדש.",
+   "claims": [
+    "c202611291"
+   ]
+  },
+  {
+   "text": "לפי בלנקי וקוזנקוב, באמצע המאה ה-4, כשהמלחמה בין רומא לפרס הפכה את הדרכים למסוכנות, הנהיגה ההנהגה היהודית בטבריה את הלוח הקבוע.",
+   "claims": [
+    "c7"
+   ]
+  }
+ ],
+ "hero_media": [],
+ "glance": [
+  {
+   "label": "מתי",
+   "value": "358/9 לספירה",
+   "claims": [
+    "c12"
+   ]
+  },
+  {
+   "label": "איפה",
+   "value": "ההנהגה היהודית בטבריה",
+   "claims": [
+    "c7"
+   ]
+  },
+  {
+   "label": "השיטה",
+   "value": "מחזור של 19 שנים",
+   "claims": [
+    "c202611294"
+   ]
+  },
+  {
+   "label": "היום",
+   "value": "לוח רשמי בישראל לצד הגרגוריאני",
+   "claims": [
+    "c202611295",
+    "c202611296"
+   ]
+  }
+ ],
+ "stations": [
+  {
+   "id": "s2",
+   "title": "זמנים קשים",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "לפי בלנקי וקוזנקוב, אחרי חורבן בית שני בשנת 70 לספירה נפגע מחזור העיבור הקבוע, כי גם תופעות בחקלאות הפכו לסיבה לעבר.",
+      "claims": [
+       "c6"
+      ]
+     },
+     {
+      "text": "באמצע המאה ה-4 נמשכה מלחמה בין האימפריה הרומית לפרס, והנסיעה מעבר לקו החזית הפכה מסוכנת.",
+      "claims": [
+       "c7"
+      ]
+     }
+    ]
+   ],
+   "media": [],
+   "disagreements": []
+  },
+  {
+   "id": "s3",
+   "title": "הלל קובע את החשבון",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "לפי בלנקי וקוזנקוב, בשנת 992 קבע האי גאון, ראש ישיבת פומבדיתא, שהלוח של זמנו נקבע בידי הלל בר יהודה, מנהיג יהודי בארץ ישראל, בשנת 358/9.",
+      "claims": [
+       "c12"
+      ]
+     },
+     {
+      "text": "לדברי האי גאון, הלל ביטל אז את הנוהג לשנות את סדר העיבור.",
+      "claims": [
+       "c27"
+      ]
+     },
+     {
+      "text": "האי גאון, כפי שמצוטט אצל בלנקי וקוזנקוב, אמר שכבר הראשונים עיברו שלא כסדר הזה, ושהם ציוו אותנו להתאים אותו לחישוב התקופות.",
+      "claims": [
+       "c28"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "לפי בלנקי וקוזנקוב, התאריך 358/9 מתיישב עם דברי הרמב\"ם שהלוח הקבוע נקבע אחרי זמנם של אביי, שנפטר ב-337, ורבא, שנפטר ב-352.",
+      "claims": [
+       "c39"
+      ]
+     },
+     {
+      "text": "לפי דיקמן, הרמב\"ם מתארך את הלוח הקבוע לזמנם של אביי ורבא.",
+      "claims": [
+       "c49"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m1"
+   ],
+   "disagreements": [
+    "d1"
+   ]
+  },
+  {
+   "id": "s4",
+   "title": "איך הלוח עובד",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "לפי בלנקי וקוזנקוב, ההשוואה של 235 חודשי ירח ל-19 שנות שמש נקראת מחזור מטוני, והיא הבסיס לכל הלוחות היהודיים הידועים.",
+      "claims": [
+       "c25"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "לפי בלנקי וקוזנקוב, ללוח העברי אין מנגנון שמשנה את העיבור מעצמו, ולכן כל שינוי נעשה בתקנה.",
+      "claims": [
+       "c26"
+      ]
+     },
+     {
+      "text": "לפי דיקמן, השנה היהודית ארוכה בממוצע מהשנה הסולארית ב-6 דקות ו-39 שניות, ולכן הלוח נסחף ביום אחד בערך אחת ל-216 שנה.",
+      "claims": [
+       "c48"
+      ]
+     }
+    ]
+   ],
+   "media": [],
+   "disagreements": []
+  },
+  {
+   "id": "s6",
+   "title": "מה החוקרים לא יודעים",
+   "kind": "hard",
+   "paragraphs": [
+    [
+     {
+      "text": "לפי דיקמן, אברהם בר חייא כתב בספר העיבור, בשנת 1123, שרב האי גאון טען בשנת 992 שהלוח נוצר בארץ ישראל.",
+      "claims": [
+       "c13",
+       "c-aud-20261128-3"
+      ]
+     },
+     {
+      "text": "לפי המסורת הזאת, הלוח נוצר בארץ ישראל בהנהגת הלל השני בשנת 358/9.",
+      "claims": [
+       "c14"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "לפי ריצ'רד פידלר, במשך מאות שנים רווחה הדעה שהלל השני קבע את הלוח בשנת 358.",
+      "claims": [
+       "c53"
+      ]
+     },
+     {
+      "text": "לפי דיקמן, המסורת שהסנהדרין קבעה את הלוח הקבוע במלואו בשנת 358/9 נקראה תיגר פעמים רבות.",
+      "claims": [
+       "c42"
+      ]
+     },
+     {
+      "text": "היסטוריונים רבים מפקפקים בתאריך, וחלקם אומרים שהלוח הקבוע לא נקבע סופית עד שנות ה-800.",
+      "claims": [
+       "c43"
+      ]
+     },
+     {
+      "text": "המסמך המפורסם ביותר שאינו מתיישב עם הלוח של היום הוא מכתב של ראש גולה בבל משנת 835/836, שנמצא בגניזה הקהירית.",
+      "claims": [
+       "c45"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "לפי בלנקי וקוזנקוב, הדעה השלטת בקרב חוקרים כיום היא שהלל בר יהודה הנהיג לוח מולד מבוסס תשרי, הדומה ללוח שבשימוש היום.",
+      "claims": [
+       "c29"
+      ]
+     },
+     {
+      "text": "סשה שטרן מטיל ספק גם בכך שהלל עשה את הרפורמה וגם בכך שהייתה רפורמה בשנת 358/9.",
+      "claims": [
+       "c30"
+      ]
+     },
+     {
+      "text": "לפי שטרן, כפי שמצוטט אצלם, הקביעה שהלל קבע את הלוח בשנת 359 היא רק אחת מכמה אגדות מימי הביניים.",
+      "claims": [
+       "c31"
+      ]
+     },
+     {
+      "text": "לדבריהם, טיבה של הרפורמה, ואפילו עצם קיומה, עדיין שנויים במחלוקת עזה.",
+      "claims": [
+       "c32"
+      ]
+     },
+     {
+      "text": "הם עצמם כותבים שרפורמה גדולה בלוח התרחשה בשנת 358/9 בידי הלל בר יהודה, ושסשה שטרן הטיל לאחרונה ספק בהיסטוריות שלה.",
+      "claims": [
+       "c33"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "לפי בלנקי וקוזנקוב, הם בדקו את הלוח מול נתונים היסטוריים, ובהם 18 כתובות מצבה ארמיות מצוער מהשנים 392–526 ושני תאריכים מאיגרת רב שרירא גאון.",
+      "claims": [
+       "c36"
+      ]
+     },
+     {
+      "text": "לדבריהם, הכתובות מצוער מראות שבשנים 372 עד 467, ואולי אף עד 542, עוברה שנה 9 במחזור, ולא שנה 8 כמו היום.",
+      "claims": [
+       "c35",
+       "c-aud-20261128-8"
+      ]
+     },
+     {
+      "text": "עדות סוקרטס סכולסטיקוס מוכיחה לדבריהם ששינויים בלוח היהודי כבר היו בתוקף עד שנת 368.",
+      "claims": [
+       "c41"
+      ]
+     },
+     {
+      "text": "לפי בלנקי וקוזנקוב, בשנת 387 עמדו הקהילות היהודיות ברחבי האימפריה הרומית לחגוג פסח ביום ראשון, 21 במרץ.",
+      "claims": [
+       "c40"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "פידלר, בבלוג ב-Times of Israel, טוען שהלוח הקבוע נקבע בפועל בשנת 791 לפנה\"ס.",
+      "claims": [
+       "c54"
+      ]
+     },
+     {
+      "text": "הוא משער שירבעם בן נבט ניתק את ממלכת ישראל מלוח העדים ואימץ את הלוח הקבוע, כדי להבדיל את נתיניו ממלכות יהודה.",
+      "claims": [
+       "c55"
+      ]
+     },
+     {
+      "text": "לפי פידלר, פרקר ודיברשטיין קבעו שבין 490 ל-312 לפנה\"ס החלו הבבלים לחלק את שבע השנים בנות 13 החודשים שלהם לפי הסדרה 3-6-8-11-14-17-19.",
+      "claims": [
+       "c56"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m3"
+   ],
+   "disagreements": [
+    "d2",
+    "d3",
+    "d4"
+   ]
+  }
+ ],
+ "disagreements": [
+  {
+   "id": "d1",
+   "question": "באיזו שנה הלל קבע את הלוח?",
+   "versions": [
+    {
+     "says": "בלנקי וקוזנקוב, בשם האי גאון: בשנת 358/9",
+     "claims": [
+      "c12"
+     ]
+    },
+    {
+     "says": "פידלר, על הדעה שרווחה במשך מאות שנים: בשנת 358",
+     "claims": [
+      "c53"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d2",
+   "question": "מתי נקבע הלוח הקבוע, ומי קבע אותו?",
+   "versions": [
+    {
+     "says": "האי גאון, לפי בלנקי וקוזנקוב: הלל בר יהודה, בשנת 358/9",
+     "claims": [
+      "c12"
+     ]
+    },
+    {
+     "says": "שטרן, כפי שמצוטט אצל בלנקי וקוזנקוב: הייחוס להלל בשנת 359 הוא אחת מכמה אגדות מימי הביניים",
+     "claims": [
+      "c31"
+     ]
+    },
+    {
+     "says": "בלנקי וקוזנקוב משערים שהמעבר ללוח המודרני מבוסס תשרי היה בשנים 823–836.",
+     "claims": [
+      "c38"
+     ]
+    },
+    {
+     "says": "חלק מההיסטוריונים, לפי דיקמן: הלוח לא נקבע סופית עד שנות ה-800",
+     "claims": [
+      "c43"
+     ]
+    },
+    {
+     "says": "פידלר: הלוח נקבע בשנת 791 לפנה\"ס",
+     "claims": [
+      "c54"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d3",
+   "question": "האם לוח הלל היה מבוסס תשרי או ניסן?",
+   "versions": [
+    {
+     "says": "הדעה השלטת בקרב חוקרים, לפי בלנקי וקוזנקוב: לוח מולד מבוסס תשרי, דומה ללוח של היום",
+     "claims": [
+      "c29"
+     ]
+    },
+    {
+     "says": "בלנקי וקוזנקוב, לפי מכתב ראש הגולה מ-835/6: לוח מולד מבוסס ניסן, שנמשך כמעט 500 שנה",
+     "claims": [
+      "c34",
+      "c37"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d4",
+   "question": "מה אומרים הנתונים האסטרונומיים על תחילת הלוח?",
+   "versions": [
+    {
+     "says": "יעקב לוינגר, לפי דיקמן: תחילה בשנת 359 מתאימה לנתונים יותר מתחילה במאה התשיעית",
+     "claims": [
+      "c44"
+     ]
+    },
+    {
+     "says": "שטרן, כפי שמצוטט אצל דיקמן: כל תאריך בין המאה הרביעית למאה השמינית יכול להיחשב תחילת הלוח",
+     "claims": [
+      "c46"
+     ]
+    },
+    {
+     "says": "דיקמן, לפי חישוב סחף הלוח ולפי שיטת היסוד עולם: הלוח לא יכול היה להיקבע סופית לפני שנת 829 לפחות; לפי נקודת השוויון האמיתית יוצאת שנת 458",
+     "claims": [
+      "c47",
+      "c-aud-20261128-9"
+     ]
+    }
+   ]
+  }
+ ],
+ "unknowns": [
+  {
+   "text": "לא ידוע בדיוק מה כללה הרפורמה, ואם הייתה בכלל רפורמה בשנת 358/9",
+   "claims": [
+    "c32"
+   ]
+  }
+ ],
+ "claims": [
+  {
+   "id": "c7",
+   "text": "לפי בלנקי וקוזנקוב, באמצע המאה ה-4, כשמלחמה ממושכת בין האימפריה הרומית לפרס הפכה את הנסיעה מעבר לקו החזית למסוכנת, הנהיגה ההנהגה היהודית בטבריה את הלוח הקבוע.",
+   "source": "src2",
+   "quote": "the Jewish leadership in Tiberias introduced the fixed calendar, alluded to by Hai Gaon",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c12",
+   "text": "לפי בלנקי וקוזנקוב, ב-992 קבע האי גאון, ראש ישיבת פומבדיתא, כי הלוח היהודי של זמנו נקבע על ידי הלל בר יהודה, מנהיג יהודי בארץ ישראל, בשנת 358/9.",
+   "source": "src2",
+   "quote": "stated that the Jewish calendar of his time had been established by (the Palestinian Jewish leader) Hillel Bar Yehuda in 358/9",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c14",
+   "text": "לפי דיקמן, המסורת הזאת גורסת שהלוח נוצר בארץ ישראל בהנהגת הלל השני בשנת 358/9.",
+   "source": "src3",
+   "quote": "that the calendar was created in Eretz Yisrael under the leadership of Hillel II in 358/9.",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c6",
+   "text": "לפי בלנקי וקוזנקוב, לאחר חורבן בית שני ב-70 לספירה נפגע מחזור העיבור הקבוע, כי תופעות חקלאיות הפכו לסיבה נוספת לעבר.",
+   "source": "src2",
+   "quote": "After the destruction of the Second Temple in 70 CE, the fixed intercalation cycle was compromised as agricultural phenomena",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c27",
+   "text": "לפי בלנקי וקוזנקוב, על פי האי גאון הלל בר יהודה ביטל בשנת 358/9 את הנוהג של שינויים בעיבור.",
+   "source": "src2",
+   "quote": "According to Hai Gaon, Hillel Bar Yehuda abrogated this practice in 358/9.",
+   "status": "confirmed",
+   "locator": "שורה 20"
+  },
+  {
+   "id": "c28",
+   "text": "האי גאון, כפי שמצוטט אצל בלנקי וקוזנקוב, אמר שהראשונים לא עיברו לפי הסדר הזה ושמהם נדרש להתאים אותו לחישוב התקופות.",
+   "source": "src2",
+   "quote": "We know that already the first sages did not intercalate according to this order and ordered us to align it with the calculation of tequfot",
+   "status": "confirmed",
+   "locator": "שורה 16"
+  },
+  {
+   "id": "c39",
+   "text": "לפי בלנקי וקוזנקוב, תאריך 358/9 מתיישב עם דברי הרמבִם שהלוח הקבוע נקבע אחרי זמנם של אביי (נפטר 337) ורבא (נפטר 352).",
+   "source": "src2",
+   "quote": "that the fixed calendar was established after the time of Abbaye (d. 337) and Rava (d. 352)",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c49",
+   "text": "לפי דיקמן, הרמבִם מתארך את הלוח הקבוע לזמן אמוראי בבל אביי ורבא.",
+   "source": "src3",
+   "quote": "dates it to the time of the Babylonian Amoraim, Abaye and Rava",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c25",
+   "text": "לפי בלנקי וקוזנקוב, השוואת 235 חודשי ירח ל-19 שנות שמש היא מחזור מטוני, שהוא בסיס לכל הלוחות היהודיים הידועים.",
+   "source": "src2",
+   "quote": "Equating 235 lunar months to 19 solar years is known as a Metonic cycle, a backbone of many Near Eastern calendars, including all known Jewish ones.",
+   "status": "confirmed",
+   "locator": "שורה 20"
+  },
+  {
+   "id": "c26",
+   "text": "לפי בלנקי וקוזנקוב, ללוח העברי אין מנגנון לשינויים אוטומטיים בעיבור, ולכן כל שינוי נעשה בתקנה.",
+   "source": "src2",
+   "quote": "Since the Hebrew calendar does not have a mechanism to make any of these changes automatically, each change must be done by decree",
+   "status": "confirmed",
+   "locator": "שורה 20"
+  },
+  {
+   "id": "c48",
+   "text": "לפי דיקמן, בממוצע השנה היהודית ארוכה מהשנה הסולארית בפועל ב-6 דקות ו-39 שניות, כך שהלוח נסחף כיום אחד אחת ל-216 שנה בקירוב.",
+   "source": "src3",
+   "quote": "Thus, on average, every Jewish year is longer than the actual solar year by 6 minutes and 39 seconds",
+   "status": "confirmed",
+   "locator": "שורה 20"
+  },
+  {
+   "id": "c13",
+   "text": "לפי דיקמן, אברהם בר חייא כתב בספר העיבור (1123) שרב האי גאון טען ב-992 שהלוח נוצר בארץ ישראל.",
+   "source": "src3",
+   "quote": "R. Avraham bar Chiyya in Sefer ha-Ibbur (1123) says that in 992 R. Hai Gaon claimed",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c53",
+   "text": "לפי ריצ'רד פידלר, במשך מאות שנים רווחה הדעה שהלוח העברי הקבוע נקבע ב-358 לספירה בידי הנשיא הלל השני.",
+   "source": "src4",
+   "quote": "For centuries, the preponderance of thought has been that the Fixed Hebrew Calendar we use today was established in 358 CE by a Patriarch named Hillel II.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c42",
+   "text": "לפי דיקמן, המסורת שהלוח הקבוע נקבע במלואו בידי הסנהדרין ב-358/9 נקראה תיגר פעמים רבות.",
+   "source": "src3",
+   "quote": "The tradition that the fixed rabbinic calendar was fully established by the Sanhedrin in 358/9 has often been challenged.",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c43",
+   "text": "לפי דיקמן, היסטוריונים רבים של הלוח מפקפקים בתיארוך זה, וחלקם אומרים שהלוח הקבוע לא נקבע סופית עד שנות ה-800.",
+   "source": "src3",
+   "quote": "Many calendar historians question this dating and some say that the fixed calendar was not finalized until the 800s.",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c45",
+   "text": "לפי דיקמן, המסמך המפורסם ביותר שאינו מתיישב עם הלוח הקבוע הנוכחי הוא מכתב מ-835/836 של ראש גולה בבל שנמצא בגניזה הקהירית.",
+   "source": "src3",
+   "quote": "The most famous of these documents is the 835/836 letter of a Babylonian exilarch that was found in the Cairo Genizah.",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c29",
+   "text": "לפי בלנקי וקוזנקוב, הדעה השלטת בקרב חוקרים כיום היא שהלל בר יהודה הנהיג את לוח המולד מבוסס תשרי, הדומה לזה שבשימוש היום.",
+   "source": "src2",
+   "quote": "The prevailing view among modern scholars is that Hillel Bar Yehuda introduced the same Tishri-based Molad calendar we use now",
+   "status": "confirmed",
+   "locator": "שורה 16"
+  },
+  {
+   "id": "c30",
+   "text": "לפי בלנקי וקוזנקוב, סשה שטרן מטיל ספק בייחוס הרפורמה להלל בר יהודה וגם בעצם קיום הרפורמה ב-358/9.",
+   "source": "src2",
+   "quote": "question not only the reliability of attribution of the reform to Hillel Bar Yehuda but also the very fact of the reform in 358/9",
+   "status": "confirmed",
+   "locator": "שורה 16"
+  },
+  {
+   "id": "c31",
+   "text": "לפי שטרן, כפי שמצוטט אצל בלנקי וקוזנקוב ב-2014, הקביעה שהלוח נקבע רשמית בידי הלל ב-359 היא רק אחת מכמה אגדות מימי הביניים.",
+   "source": "src2",
+   "quote": "That this calendar was formally instituted by a Hillel in 359 CE is only one of several medieval legends.",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c32",
+   "text": "לפי בלנקי וקוזנקוב, אופיה המדויק ועצם קיומה של הרפורמה עדיין שנויים במחלוקת עזה.",
+   "source": "src2",
+   "quote": "the precise nature and even the very fact of the reform are still hotly debated",
+   "status": "confirmed",
+   "locator": "שורה 16"
+  },
+  {
+   "id": "c33",
+   "text": "לפי בלנקי וקוזנקוב (2025), רפורמה גדולה בלוח העברי התרחשה ב-358/9 בידי הלל בר יהודה, והיסטוריותה הוטלה בספק לאחרונה על ידי סשה שטרן.",
+   "source": "src5",
+   "quote": "The paper describes the major reform of the Jewish calendar in 358/9 CE by Hillel Bar Yehuda, the historicity of which was recently questioned by Sacha Stern.",
+   "status": "confirmed",
+   "locator": "שורה 4"
+  },
+  {
+   "id": "c36",
+   "text": "לפי בלנקי וקוזנקוב, הם בדקו את הלוח מול נתונים היסטוריים, ובהם 18 כתובות מצבה ארמיות מצער מהשנים 392–526 ושני תאריכים מאיגרת רב שרירא גאון.",
+   "source": "src5",
+   "quote": "against available historical data: the dates on 18 Aramaic tombstone inscriptions from Zoar from 392–526 and two dates from Iggeret of Sherira Gaon",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c35",
+   "text": "לפי בלנקי וקוזנקוב, כתובות מצבה ארמיות מצער שבירדן מראות ששנה 9, ולא 8 כבמחזור המודרני, עוברה מ-372 עד 467 ואף 542.",
+   "source": "src5",
+   "quote": "New evidence from the Aramaic tombstone inscriptions from Zoar, a locality in Jordan, shows that year 9, not 8 as in the modern cycle, was intercalated from 372 to 467 or even 542.",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c41",
+   "text": "לפי בלנקי וקוזנקוב, עדות סוקרטס סכולסטיקוס מוכיחה ששינויים בלוח היהודי כבר היו בתוקף עד 368.",
+   "source": "src2",
+   "quote": "the changes in the Jewish calendar had already been in effect by 368",
+   "status": "confirmed",
+   "locator": "שורה 26"
+  },
+  {
+   "id": "c40",
+   "text": "לפי בלנקי וקוזנקוב, ב-387 הקהילות היהודיות ברחבי האימפריה הרומית עמדו לחגוג פסח ביום ראשון, 21 במרץ.",
+   "source": "src2",
+   "quote": "as in 387 the Jewish communities across the Roman Empire were going to have Passover on Sunday March 21",
+   "status": "confirmed",
+   "locator": "שורה 24"
+  },
+  {
+   "id": "c54",
+   "text": "פידלר, בבלוג ב-Times of Israel, טוען שהלוח העברי הקבוע נקבע בפועל ב-791 לפנה\"ס.",
+   "source": "src4",
+   "quote": "The Fixed Hebrew Calendar was actually established in 791 BCE.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c55",
+   "text": "פידלר משער שירבעם בן נבט ניתק את ממלכת ישראל מלוח העדים ואימץ את הלוח הקבוע, כדי להבדיל את נתיניו ממלכות יהודה.",
+   "source": "src4",
+   "quote": "he disconnected from witnessed-based calendar and adopted the very same Fixed Hebrew Calendar we use to this day",
+   "status": "confirmed",
+   "locator": "שורה 19"
+  },
+  {
+   "id": "c56",
+   "text": "לפי פידלר, פרקר ודיברשטיין קבעו שבין 490 ל-312 לפנה\"ס הבבלים החלו לחלק את שבע שנותיהם בנות 13 חודשים לפי הסדרה 3-6-8-11-14-17-19.",
+   "source": "src4",
+   "quote": "during the period of 490 BCE through 312 BCE the Babylonians began to distribute their 7 thirteen month long years according to the series 3-6-8-11-14-17-19",
+   "status": "confirmed",
+   "locator": "שורה 16"
+  },
+  {
+   "id": "c38",
+   "text": "בלנקי וקוזנקוב משערים שהשנים 823–836 היו תקופת המעבר ללוח המודרני מבוסס תשרי.",
+   "source": "src5",
+   "quote": "We conjecture that 823–836 was the time of transition to the modern Tishri-based calendar.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c34",
+   "text": "לפי בלנקי וקוזנקוב, מכתב ראש הגולה מ-835/6 מרמז שלוח הלל בר יהודה היה לוח מולד מבוסס ניסן.",
+   "source": "src5",
+   "quote": "the letter of Resh Galuta from 835/6 implies that the calendar of Hillel Bar Yehuda was a Nisan-based Molad calendar.",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c37",
+   "text": "לפי בלנקי וקוזנקוב, מכתב ראש הגולה מרמז שהלוח מבוסס ניסן נמשך כמעט 500 שנה.",
+   "source": "src5",
+   "quote": "The letter of Resh Galuta implies that the Nisan-based calendar lasted for almost 500 years.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c44",
+   "text": "לפי דיקמן, יעקב לוינגר הסיק שתחילת הלוח הקבוע בשנת 359 מתאימה לנתונים אסטרונומיים יותר מתחילתו במאה התשיעית.",
+   "source": "src3",
+   "quote": "Thus, he concludes that a starting date for the fixed calendar in 359 is more compatible with astronomical data than a ninth- century starting date.",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c46",
+   "text": "לפי שטרן, כפי שמצוטט אצל דיקמן, כל תאריך בין המאה הרביעית למאה השמינית יכול להיחשב כתחילת הלוח.",
+   "source": "src3",
+   "quote": "any date between the fourth and eighth centuries could equally be considered",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c47",
+   "text": "לפי חישוב סחף הלוח שמציג דיקמן, הלוח לא יכול היה להיקבע סופית לפני שנת 829 לפחות.",
+   "source": "src3",
+   "quote": "the calendar could not have been finalized until at least the year 829 (2013-1184)",
+   "status": "confirmed",
+   "locator": "שורה 22"
+  },
+  {
+   "id": "c-aud-20261128-3",
+   "text": "לפי דיקמן, אברהם בר חייא כתב בספר העיבור, בשנת 1123, שרב האי גאון טען בשנת 992 שהלוח נוצר בארץ ישראל.",
+   "source": "src3",
+   "quote": "R. Avraham bar Chiyya in Sefer ha-Ibbur (1123) says that in 992 R. Hai Gaon claimed",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261128-8",
+   "text": "לדבריהם, הכתובות מצוער מראות שבשנים 372 עד 467, ואולי אף עד 542, עוברה שנה 9 במחזור, ולא שנה 8 כמו היום.",
+   "source": "src5",
+   "quote": "was intercalated from 372 to 467 or even 542",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-9",
+   "text": "דיקמן, לפי חישוב סחף הלוח ולפי שיטת היסוד עולם: הלוח לא יכול היה להיקבע סופית לפני שנת 829 לפחות; לפי נקודת השוויון האמיתית יוצאת שנת 458",
+   "source": "src3",
+   "quote": "according to Yessod Olam, the earliest year the fixed calendar could have been established",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c202611291",
+   "text": "בעבר קבע בית דין את החודשים לפי עדות ראייה של הירח החדש.",
+   "source": "src6",
+   "quote": "קידוש הירח היה תלוי בכך שחרמש הירח החדש ייראה הלכה למעשה על ידי שני עדים.",
+   "status": "confirmed",
+   "locator": "שורה 94"
+  },
+  {
+   "id": "c202611294",
+   "text": "השיטה: מחזור של 19 שנים",
+   "source": "src6",
+   "quote": "לוח השנה של הלל מתנהל במחזורים בני תשע-עשרה שנים, כשכל מחזור מכיל שבע שנים מעוברות",
+   "status": "confirmed",
+   "locator": "שורה 123"
+  },
+  {
+   "id": "c202611295",
+   "text": "היום: לוח רשמי בישראל לצד הגרגוריאני",
+   "source": "src7",
+   "quote": "The Hebrew calendar is the official calendar of the state",
+   "status": "confirmed",
+   "locator": "שורה 29"
+  },
+  {
+   "id": "c202611296",
+   "text": "היום: לוח רשמי בישראל לצד הגרגוריאני",
+   "source": "src7",
+   "quote": "alongside it the Gregorian calendar will be used as an official calendar",
+   "status": "confirmed",
+   "locator": "שורה 29"
+  }
+ ],
+ "sources": [
+  {
+   "id": "src2",
+   "label": "Belenkiy & Kuzenkov, Scripta Classica Israelica, 2025 (PDF)",
+   "url": "https://scriptaclassica.org/index.php/sci/article/download/15369/11365/66315",
+   "kind": "press"
+  },
+  {
+   "id": "src3",
+   "label": "Hakirah vol. 8, Dickman",
+   "url": "https://hakirah.org/Vol%208%20Dickman.pdf",
+   "kind": "press"
+  },
+  {
+   "id": "src4",
+   "label": "Times of Israel blogs, Richard Fiedler",
+   "url": "https://blogs.timesofisrael.com/major-historical-error-corrected-the-hebrew-calendar-finally-dated/",
+   "kind": "press"
+  },
+  {
+   "id": "src5",
+   "label": "Belenkiy & Kuzenkov, Scripta Classica Israelica, 2025",
+   "url": "https://scriptaclassica.org/index.php/sci/article/view/15369",
+   "kind": "press"
+  },
+  {
+   "id": "src6",
+   "label": "חב\"ד: הלל השני וקביעת לוח השנה",
+   "url": "https://he.chabad.org/library/article_cdo/aid/1082741",
+   "kind": "organisation"
+  },
+  {
+   "id": "src7",
+   "label": "Middle East Eye: Read in full: Israel's Nation State of the Jewish People Law (Basic Law, section 8, Official calendar)",
+   "url": "https://www.middleeasteye.net/news/read-full-israels-nation-state-jewish-people-law",
+   "kind": "press"
+  }
+ ],
+ "media": [
+  {
+   "id": "m1",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=hsdN1c9wxE4",
+   "youtube_id": "hsdN1c9wxE4",
+   "source_page": "https://www.youtube.com/watch?v=hsdN1c9wxE4",
+   "source_name": "YouTube",
+   "credit": "הרב והתלמיד ר יונתן שטנצל",
+   "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "שיעור של הרב דוד הירשמן עם הרב יונתן שטנצל על הלל נשיאה, מצאצאי רבי יהודה הנשיא מחבר המשנה, ועל חיבור לוח השנה העברי.",
+   "illustrates": []
+  },
+  {
+   "id": "m3",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=cpiJU_CiVKU",
+   "youtube_id": "cpiJU_CiVKU",
+   "source_page": "https://www.youtube.com/watch?v=cpiJU_CiVKU",
+   "source_name": "YouTube",
+   "credit": "Ari Belenkiy",
+   "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "הרצאה של ארי בלנקי על תולדות הלוח היהודי, שניתנה ב-20 ביולי 2015.",
+   "illustrates": [],
+   "spoken": "uk",
+   "audio_tracks": [
+    "uk"
+   ]
+  }
+ ],
+ "check": {
+  "passed": true,
+  "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
+  "checked_at": "2026-11-28T03:19:14Z",
+  "counts": {
+   "confirmed": 49,
+   "not_confirmed": 0,
+   "deleted_sentences": 1,
+   "first_round_confirmed": 75,
+   "first_round_contradicted": 2,
+   "first_round_unverifiable": 1
+  },
+  "note": "unverifiable sentences were deleted, contradicted ones fixed from the source and checked again"
+ },
+ "meta": {
+  "run": "hillel-ii-fixed-hebrew-calendar",
+  "pipeline": "scripts/museum/museum_line.py",
+  "models": {
+   "research": "sonnet-5-5",
+   "extract": "sonnet-5-5",
+   "media": "sonnet-5-5",
+   "write": "opus-5-5 medium",
+   "check": "opus-5-5 medium",
+   "fix": "opus-5-5 medium"
+  },
+  "source_quality": {
+   "sources": 8,
+   "wikipedia": 0,
+   "strong": 4,
+   "ok": false,
+   "warnings": [
+    "only 5 sources used"
+   ]
+  },
+  "wiki_cleanup": {
+   "at": "2026-11-28T05:12:36Z",
+   "targets": 31,
+   "resourced": 4,
+   "kept_on_other_sources": 0,
+   "deleted": 26
+  }
+ }
+}

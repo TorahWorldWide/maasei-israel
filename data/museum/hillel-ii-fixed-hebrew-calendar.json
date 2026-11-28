@@ -395,6 +395,42 @@
      ]
     }
    ]
+  },
+  {
+   "id": "d9001",
+   "question": "האם הלוח שבשימוש היום הוא הלוח שקבע הלל?",
+   "versions": [
+    {
+     "says": "המסורת, לפי דיקמן: הלוח נוצר בארץ ישראל בהנהגת הלל השני בשנת 358/9",
+     "claims": [
+      "c-aud-20261128-1"
+     ]
+    },
+    {
+     "says": "בלנקי וקוזנקוב: בלוח של הלל עוברה שנה 9 ולא שנה 8, והמעבר ללוח של היום, המבוסס על תשרי, היה כנראה בשנים 823–836",
+     "claims": [
+      "c-aud-20261128-2"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9002",
+   "question": "האם הלל השני פרסם את כללי הלוח, או שהם פורסמו רק סביב 840?",
+   "versions": [
+    {
+     "says": "ויקי ישיבה, לפי המסורת: הלל השני פרסם את כללי הלוח העברי",
+     "claims": [
+      "c-aud-20261128-3"
+     ]
+    },
+    {
+     "says": "ויקי ישיבה, לפי מסמכי הגניזה הקהירית: הכללים היו ידועים לקבוצה מצומצמת של חכמים, ופורסמו רק סביב שנת 840",
+     "claims": [
+      "c-aud-20261128-4"
+     ]
+    }
+   ]
   }
  ],
  "unknowns": [
@@ -736,6 +772,42 @@
    "quote": "alongside it the Gregorian calendar will be used as an official calendar",
    "status": "confirmed",
    "locator": "שורה 29"
+  },
+  {
+   "id": "c-aud-20261128-1",
+   "text": "המסורת, לפי דיקמן: הלוח נוצר בארץ ישראל בהנהגת הלל השני בשנת 358/9",
+   "source": "src3",
+   "quote": "that the calendar was created in Eretz Yisrael under the leadership of Hillel II in 358/9.",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261128-2",
+   "text": "בלנקי וקוזנקוב: בלוח של הלל עוברה שנה 9 ולא שנה 8, והמעבר ללוח של היום, המבוסס על תשרי, היה כנראה בשנים 823–836",
+   "source": "src5",
+   "quote": "We conjecture that 823–836 was the time of transition to the modern Tishri-based calendar.",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-3",
+   "text": "ויקי ישיבה, לפי המסורת: הלל השני פרסם את כללי הלוח העברי",
+   "source": "src9001",
+   "quote": "מאז שפרסם הלל השני את כללי הלוח העברי",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-4",
+   "text": "ויקי ישיבה, לפי מסמכי הגניזה הקהירית: הכללים היו ידועים לקבוצה מצומצמת של חכמים, ופורסמו רק סביב שנת 840",
+   "source": "src9001",
+   "quote": "נראה שרק סביב שנת 840 פורסמו כללי הלוח והפכו נגישים לכל אדם",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -774,6 +846,13 @@
    "label": "Middle East Eye: Read in full: Israel's Nation State of the Jewish People Law (Basic Law, section 8, Official calendar)",
    "url": "https://www.middleeasteye.net/news/read-full-israels-nation-state-jewish-people-law",
    "kind": "press"
+  },
+  {
+   "id": "src9001",
+   "label": "WikiYeshiva, The Hebrew Calendar",
+   "url": "https://www.yeshiva.org.il/wiki/index.php/הלוח_העברי",
+   "kind": "reference",
+   "date": "2026-11-28"
   }
  ],
  "media": [

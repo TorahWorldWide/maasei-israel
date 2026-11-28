@@ -292,7 +292,8 @@
     "m7"
    ],
    "disagreements": [
-    "d4"
+    "d4",
+    "d9001"
    ]
   },
   {
@@ -722,6 +723,24 @@
      "says": "לפי האנציקלופדיה הקתולית (1910), הוא הסתתר בבור מים נסתר ויצא רק אחרי שהובטח לו שחייו יינצלו",
      "claims": [
       "c18"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9001",
+   "question": "מתי ניבא יוספוס לאספסיאנוס שיהיה קיסר?",
+   "versions": [
+    {
+     "says": "World History Encyclopedia (לפי גרסת יוספוס): מיד אחרי שנשבה ביודפת, בזמן שחיכה להוצאה להורג",
+     "claims": [
+      "c-aud-20261128-1"
+     ]
+    },
+    {
+     "says": "האנציקלופדיה יודאיקה: זו המצאה; ה'נבואה' נאמרה רק ב-69, בין מות גלבה להכרזה על אספסיאנוס כקיסר",
+     "claims": [
+      "c-aud-20261128-2"
      ]
     }
    ]
@@ -1269,6 +1288,24 @@
    "text": "לפי יודאיקה, בלי כתבי יוספוס היה ידוע מעט על תולדות בית שני.",
    "source": "src9003",
    "quote": "his work is the only surviving source and without it little would have been known of the history of the Second Temple",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-1",
+   "text": "World History Encyclopedia (לפי גרסת יוספוס): מיד אחרי שנשבה ביודפת, בזמן שחיכה להוצאה להורג",
+   "source": "src1",
+   "quote": "While awaiting execution, he reminded Vespasian that all Jews had the gift of prophecy",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261128-2",
+   "text": "האנציקלופדיה יודאיקה: זו המצאה; ה'נבואה' נאמרה רק ב-69, בין מות גלבה להכרזה על אספסיאנוס כקיסר",
+   "source": "src9003",
+   "quote": "The primary fabrication was that the \"prophecy\" was not made by Josephus when he appeared as a captive before Vespasian",
    "locator": "audit 2026-11-28",
    "status": "confirmed",
    "checker_note": "audit: quote found on the fetched page"

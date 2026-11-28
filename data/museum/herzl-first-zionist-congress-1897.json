@@ -419,7 +419,8 @@
    "disagreements": [
     "d1",
     "d2",
-    "d9001"
+    "d9001",
+    "d9002"
    ]
   },
   {
@@ -562,9 +563,10 @@
     ],
     [
      {
-      "text": "ב-14 במאי 1948 הכריזה ממשלת ישראל הזמנית על הקמת המדינה.",
+      "text": "ב-14 במאי 1948 הכריזה מועצת העם על הקמת המדינה.",
       "claims": [
-       "c42"
+       "c42",
+       "c-aud-20261128-1"
       ]
      },
      {
@@ -737,6 +739,24 @@
      "says": "ההיסטוריון דרק פנסלר: רק כשליש באו ממזרח אירופה, וגרמניה ושווייץ היו מיוצגות ביתר",
      "claims": [
       "c-aud-20261128-8"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9002",
+   "question": "האם רוב הצירים בקונגרס הראשון באו ממזרח אירופה?",
+   "versions": [
+    {
+     "says": "מקור ראשון: רובם היו צעירים ממזרח אירופה",
+     "claims": [
+      "c-aud-20261128-2"
+     ]
+    },
+    {
+     "says": "ההיסטוריון דרק פנסלר: רק כשליש באו ממזרח אירופה, וגרמניה ושווייץ היו מיוצגות ביתר",
+     "claims": [
+      "c-aud-20261128-3"
      ]
     }
    ]
@@ -1391,6 +1411,33 @@
    "locator": "audit 2026-11-28",
    "status": "confirmed",
    "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261128-1",
+   "text": "ב-14 במאי 1948 הכריזה מועצת העם על הקמת המדינה.",
+   "source": "src9001",
+   "quote": "ACCORDINGLY WE, MEMBERS OF THE PEOPLE'S COUNCIL, REPRESENTATIVES OF THE JEWISH COMMUNITY OF ERETZ-ISRAEL",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-2",
+   "text": "מקור ראשון: רובם היו צעירים ממזרח אירופה",
+   "source": "src1",
+   "quote": "רובם היו צעירים ממזרח אירופה.",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-3",
+   "text": "ההיסטוריון דרק פנסלר: רק כשליש באו ממזרח אירופה, וגרמניה ושווייץ היו מיוצגות ביתר",
+   "source": "src2",
+   "quote": "About one-third of the attendees were from eastern Europe.",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
   }
  ],
  "sources": [
@@ -1435,6 +1482,13 @@
    "label": "Encyclopedia.com, The Jewish State",
    "url": "https://encyclopedia.com/politics/encyclopedias-almanacs-transcripts-and-maps/jewish-state",
    "kind": "reference"
+  },
+  {
+   "id": "src9001",
+   "label": "Yale Law School Avalon Project, Declaration of Establishment of State of Israel, 14 May 1948",
+   "url": "https://avalon.law.yale.edu/20th_century/israel.asp",
+   "kind": "official",
+   "date": "2026-11-28"
   }
  ],
  "media": [

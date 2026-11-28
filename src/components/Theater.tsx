@@ -612,7 +612,7 @@ export default function Theater({ entries }: TheaterProps) {
         <div className="mt-6 text-center">
           <a href="#catalog" className="inline-flex flex-col items-center transition-colors" style={{ color: "rgba(107,68,38,0.6)" }}>
             <span className="text-xs mb-0.5">{t(lang, "allDeeds")}</span>
-            <svg className="w-5 h-5 animate-bounce" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <svg className="w-5 h-5 arrow-nudge" fill="none" viewBox="0 0 24 24" stroke="currentColor">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 14l-7 7m0 0l-7-7m7 7V3" />
             </svg>
           </a>

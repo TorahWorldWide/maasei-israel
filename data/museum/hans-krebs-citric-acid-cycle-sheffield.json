@@ -576,9 +576,10 @@
       ]
      },
      {
-      "text": "לפי הלאופולדינה, בנו, ג'ון קרבס, הוא פרופסור לזואולוגיה באוקספורד וחבר בבית הלורדים.",
+      "text": "בנו, ג'ון קרבס, הוא פרופסור אמריטוס לזואולוגיה באוקספורד וחבר בבית הלורדים.",
       "claims": [
-       "c65"
+       "c65",
+       "c-aud-20261128-1"
       ]
      }
     ]
@@ -1251,6 +1252,15 @@
    "locator": "audit 2026-11-28",
    "status": "confirmed",
    "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-1",
+   "text": "בנו, ג'ון קרבס, הוא פרופסור אמריטוס לזואולוגיה באוקספורד וחבר בבית הלורדים.",
+   "source": "src9001",
+   "quote": "Emeritus Professor of Zoology, Department of Biology",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1307,6 +1317,13 @@
    "label": "בית הרנק, החברה על שם מקס פלאנק, הנס קרבס",
    "url": "https://www.harnackhaus-berlin.mpg.de/history/science-in-the-lecture-hall/hans-krebs?c=4511342",
    "kind": "organisation"
+  },
+  {
+   "id": "src9001",
+   "label": "University of Oxford, Future of Food programme, Professor Lord John Krebs",
+   "url": "https://futureoffood.ox.ac.uk/people/john-krebs",
+   "kind": "organisation",
+   "date": "2026-11-28"
   }
  ],
  "media": [

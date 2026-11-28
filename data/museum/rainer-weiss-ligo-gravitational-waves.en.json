@@ -1,7 +1,7 @@
 {
  "schema": "maasei-museum/1",
  "slug": "rainer-weiss-ligo-gravitational-waves",
- "deed": "ריינר וייס, פליט יהודי מברלין, תכנן את LIGO וגילה את גלי הכבידה",
+ "deed": "Rainer Weiss, a Jewish refugee from Berlin, designed LIGO and discovered gravitational waves",
  "canonical_type": "scientific-discovery",
  "year": "1972",
  "title": "Rainer Weiss fled the Nazis as a child, conceived LIGO, and the detector picked up gravitational waves for the first time",
@@ -254,7 +254,8 @@
    ],
    "media": [],
    "disagreements": [
-    "d9001"
+    "d9001",
+    "d9002"
    ]
   },
   {
@@ -719,6 +720,24 @@
      "says": "Weiss himself, in his autobiography on the Nobel website: in 1965 Zacharias invited him to come back to MIT",
      "claims": [
       "c-aud-20261128-7"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9002",
+   "question": "In what year did Weiss return to MIT as a faculty member?",
+   "versions": [
+    {
+     "says": "MIT Department of Physics: in 1964, as an assistant professor",
+     "claims": [
+      "c-aud-20261128-1"
+     ]
+    },
+    {
+     "says": "Weiss himself, in his Nobel autobiography: in 1965 Zacharias invited him back to MIT",
+     "claims": [
+      "c-aud-20261128-2"
      ]
     }
    ]
@@ -1321,6 +1340,24 @@
   },
   {
    "id": "c-aud-20261128-7",
+   "text": "וייס עצמו, באוטוביוגרפיה באתר נובל: ב-1965 הזמין אותו זכריאס לחזור ל-MIT",
+   "source": "src9002",
+   "quote": "In 1965 Jerrold invited me to come back to MIT as a faculty member in the Physics department",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-1",
+   "text": "המחלקה לפיזיקה ב-MIT: ב-1964, כפרופסור עוזר",
+   "source": "src10",
+   "quote": "returning to MIT as an assistant professor in 1964",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261128-2",
    "text": "וייס עצמו, באוטוביוגרפיה באתר נובל: ב-1965 הזמין אותו זכריאס לחזור ל-MIT",
    "source": "src9002",
    "quote": "In 1965 Jerrold invited me to come back to MIT as a faculty member in the Physics department",

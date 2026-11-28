@@ -1,7 +1,7 @@
 {
  "schema": "maasei-museum/1",
  "slug": "solomon-ashkenazi-venice-ottoman-peace-1573",
- "deed": "שלמה אשכנזי, רופא יהודי, תיווך במשא ומתן לשלום בין העות'מאנים לוונציה",
+ "deed": "Solomon Ashkenazi, a Jewish physician, conducted the peace negotiations between the Ottomans and Venice",
  "canonical_type": "individual-heroism",
  "year": "1570",
  "title": "Solomon Ashkenazi, a Jewish physician from Udine, secretly mediated the peace between the Ottomans and Venice in 1573",
@@ -194,9 +194,10 @@
       ]
      },
      {
-      "text": "On 18 December 1571 the Venetian authorities expelled all Jews, without exception, from the territories of the Republic.",
+      "text": "On 18 December 1571 the Venetian Senate decided to expel the Jews from the city after two years, but in 1573 the expulsion decree was revoked.",
       "claims": [
-       "c53"
+       "c53",
+       "c-aud-20261128-1"
       ]
      }
     ],
@@ -1133,6 +1134,15 @@
    "locator": "audit 2026-11-28",
    "status": "confirmed",
    "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261128-1",
+   "text": "ב-18 בדצמבר 1571 החליט הסנאט הוונציאני לגרש את היהודים מהעיר בתום שנתיים, אך ב-1573 בוטל צו הגירוש.",
+   "source": "src9001",
+   "quote": "The Jews have two years to get out.",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1159,6 +1169,13 @@
    "label": "Gordon, Cervantes volume 2 (ehumanista.ucsb.edu)",
    "url": "https://www.ehumanista.ucsb.edu/sites/secure.lsit.ucsb.edu.span.d7_eh/files/sitefiles/cervantes/volume2/ehumcerv2.Gordon.pdf",
    "kind": "press"
+  },
+  {
+   "id": "src9001",
+   "label": "UC Santa Cruz, Venetian Jewish Chronology, 2006",
+   "url": "https://humwp.ucsc.edu/vja/2006/chronology/index.html",
+   "kind": "other",
+   "date": "2026-11-28"
   }
  ],
  "media": [

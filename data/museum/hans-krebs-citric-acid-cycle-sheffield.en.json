@@ -1,7 +1,7 @@
 {
  "schema": "maasei-museum/1",
  "slug": "hans-krebs-citric-acid-cycle-sheffield",
- "deed": "הנס קרבס, פליט יהודי מגרמניה, תיאר בשפילד את מחזור קרבס שמפיק אנרגיה בתא",
+ "deed": "Hans Krebs, a Jewish refugee from Germany, described in Sheffield the Krebs cycle that produces energy in the cell",
  "canonical_type": "scientific-discovery",
  "year": "1937",
  "title": "Hans Krebs, a Jewish refugee from Germany, worked out the citric acid cycle in Sheffield and won the Nobel Prize",
@@ -576,9 +576,10 @@
       ]
      },
      {
-      "text": "According to the Leopoldina, his son, John Krebs, is a professor of zoology at Oxford and a member of the House of Lords.",
+      "text": "His son, John Krebs, is Emeritus Professor of Zoology at Oxford and a member of the House of Lords.",
       "claims": [
-       "c65"
+       "c65",
+       "c-aud-20261128-1"
       ]
      }
     ]
@@ -1251,6 +1252,15 @@
    "locator": "audit 2026-11-28",
    "status": "confirmed",
    "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-1",
+   "text": "בנו, ג'ון קרבס, הוא פרופסור אמריטוס לזואולוגיה באוקספורד וחבר בבית הלורדים.",
+   "source": "src9001",
+   "quote": "Emeritus Professor of Zoology, Department of Biology",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1307,6 +1317,13 @@
    "label": "Harnack House, Max Planck Society, Hans Krebs",
    "url": "https://www.harnackhaus-berlin.mpg.de/history/science-in-the-lecture-hall/hans-krebs?c=4511342",
    "kind": "organisation"
+  },
+  {
+   "id": "src9001",
+   "label": "University of Oxford, Future of Food programme, Professor Lord John Krebs",
+   "url": "https://futureoffood.ox.ac.uk/people/john-krebs",
+   "kind": "organisation",
+   "date": "2026-11-28"
   }
  ],
  "media": [

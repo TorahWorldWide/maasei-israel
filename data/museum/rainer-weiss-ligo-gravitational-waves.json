@@ -254,7 +254,8 @@
    ],
    "media": [],
    "disagreements": [
-    "d9001"
+    "d9001",
+    "d9002"
    ]
   },
   {
@@ -719,6 +720,24 @@
      "says": "וייס עצמו, באוטוביוגרפיה באתר נובל: ב-1965 הזמין אותו זכריאס לחזור ל-MIT",
      "claims": [
       "c-aud-20261128-7"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9002",
+   "question": "באיזו שנה חזר וייס ל-MIT כחבר סגל?",
+   "versions": [
+    {
+     "says": "המחלקה לפיזיקה ב-MIT: ב-1964, כפרופסור עוזר",
+     "claims": [
+      "c-aud-20261128-1"
+     ]
+    },
+    {
+     "says": "וייס עצמו, באוטוביוגרפיה באתר נובל: ב-1965 הזמין אותו זכריאס לחזור ל-MIT",
+     "claims": [
+      "c-aud-20261128-2"
      ]
     }
    ]
@@ -1321,6 +1340,24 @@
   },
   {
    "id": "c-aud-20261128-7",
+   "text": "וייס עצמו, באוטוביוגרפיה באתר נובל: ב-1965 הזמין אותו זכריאס לחזור ל-MIT",
+   "source": "src9002",
+   "quote": "In 1965 Jerrold invited me to come back to MIT as a faculty member in the Physics department",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-1",
+   "text": "המחלקה לפיזיקה ב-MIT: ב-1964, כפרופסור עוזר",
+   "source": "src10",
+   "quote": "returning to MIT as an assistant professor in 1964",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261128-2",
    "text": "וייס עצמו, באוטוביוגרפיה באתר נובל: ב-1965 הזמין אותו זכריאס לחזור ל-MIT",
    "source": "src9002",
    "quote": "In 1965 Jerrold invited me to come back to MIT as a faculty member in the Physics department",

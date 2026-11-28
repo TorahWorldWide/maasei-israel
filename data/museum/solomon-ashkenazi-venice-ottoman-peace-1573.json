@@ -194,9 +194,10 @@
       ]
      },
      {
-      "text": "ב-18 בדצמבר 1571 גירשו השלטונות הוונציאניים את כל היהודים, ללא יוצא מן הכלל, משטחי הרפובליקה.",
+      "text": "ב-18 בדצמבר 1571 החליט הסנאט הוונציאני לגרש את היהודים מהעיר בתום שנתיים, אך ב-1573 בוטל צו הגירוש.",
       "claims": [
-       "c53"
+       "c53",
+       "c-aud-20261128-1"
       ]
      }
     ],
@@ -1133,6 +1134,15 @@
    "locator": "audit 2026-11-28",
    "status": "confirmed",
    "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261128-1",
+   "text": "ב-18 בדצמבר 1571 החליט הסנאט הוונציאני לגרש את היהודים מהעיר בתום שנתיים, אך ב-1573 בוטל צו הגירוש.",
+   "source": "src9001",
+   "quote": "The Jews have two years to get out.",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1159,6 +1169,13 @@
    "label": "Gordon, Cervantes volume 2 (ehumanista.ucsb.edu)",
    "url": "https://www.ehumanista.ucsb.edu/sites/secure.lsit.ucsb.edu.span.d7_eh/files/sitefiles/cervantes/volume2/ehumcerv2.Gordon.pdf",
    "kind": "press"
+  },
+  {
+   "id": "src9001",
+   "label": "UC Santa Cruz, Venetian Jewish Chronology, 2006",
+   "url": "https://humwp.ucsc.edu/vja/2006/chronology/index.html",
+   "kind": "other",
+   "date": "2026-11-28"
   }
  ],
  "media": [

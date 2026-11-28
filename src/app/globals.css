@@ -71,6 +71,24 @@ h6 {
   );
 }
 
+/* The same rule with a small diamond at its centre (catalog heading), echoing the flourish under
+   the museum page titles. The cream halo opens a small gap in the line on either side of it. */
+.gold-rule-gem {
+  position: relative;
+}
+.gold-rule-gem::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 7px;
+  height: 7px;
+  margin: -3.5px 0 0 -3.5px;
+  background: var(--color-gold);
+  box-shadow: 0 0 0 5px var(--color-background);
+  transform: rotate(45deg);
+}
+
 @keyframes panelRise {
   from {
     opacity: 0;

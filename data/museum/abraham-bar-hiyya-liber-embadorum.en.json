@@ -1,7 +1,7 @@
 {
  "schema": "maasei-museum/1",
  "slug": "abraham-bar-hiyya-liber-embadorum",
- "deed": "אברהם בר חייא כתב את חיבור המשיחה והתשבורת — ואירופה למדה ממנו לפתור משוואות ריבועיות",
+ "deed": "Abraham bar Hiyya wrote Hibbur ha-Meshihah ve-ha-Tishboret, and Europe learned from it to solve quadratic equations.",
  "canonical_type": "cultural-creation",
  "year": "1116",
  "title": "Abraham bar Hiyya wrote a book on measurement in Hebrew, and Europe learned from it to solve quadratic equations",
@@ -523,7 +523,8 @@
     "m12"
    ],
    "disagreements": [
-    "d9001"
+    "d9001",
+    "d9002"
    ]
   },
   {
@@ -625,6 +626,24 @@
     },
     {
      "says": "DSB: The earliest known Hebrew geometrical work is the Mishnat ha-Middot (c. 150 CE)",
+     "claims": [
+      "c-aud-20261128-2"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9002",
+   "question": "Were bar Hiyya's works the first mathematical works in Hebrew?",
+   "versions": [
+    {
+     "says": "Springer's Biographical Encyclopedia of Astronomers (Langermann): bar Hiyya is credited with writing the first works in Hebrew on astronomy and mathematics",
+     "claims": [
+      "c-aud-20261128-1"
+     ]
+    },
+    {
+     "says": "DSB: the earliest known Hebrew geometry is the Mishnat ha-Middot (c. 150 CE)",
      "claims": [
       "c-aud-20261128-2"
      ]
@@ -1216,6 +1235,24 @@
    "locator": "audit 2026-11-28",
    "status": "confirmed",
    "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261128-1",
+   "text": "אנציקלופדיית האסטרונומים של שפרינגר (לנגרמן): לבר חייא מיוחסת כתיבת היצירות הראשונות בעברית באסטרונומיה ובמתמטיקה",
+   "source": "src9001",
+   "quote": "Bar Ḥiyya is credited with writing the first works in Hebrew on astronomy and mathematics",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261128-2",
+   "text": "DSB: החיבור הגיאומטרי העברי המוקדם ביותר שידוע הוא משנת המידות (בערך 150 לספירה)",
+   "source": "src4",
+   "quote": "the earliest known Hebrew geometry, the Mishnat ha-Middot",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [

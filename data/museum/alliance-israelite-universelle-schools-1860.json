@@ -225,7 +225,9 @@
     "m12",
     "m15"
    ],
-   "disagreements": []
+   "disagreements": [
+    "d9001"
+   ]
   },
   {
    "id": "s3",
@@ -791,6 +793,24 @@
      "says": "תערוכת הספרייה הדיגיטלית של האליאנס: שלושה מוסדות, המקבלים ילדים יהודים ומוסלמים",
      "claims": [
       "c71"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9001",
+   "question": "האם כהונתו של קרמייה כנשיא האליאנס בשנים 1863–1880 הייתה רצופה?",
+   "versions": [
+    {
+     "says": "האנציקלופדיה היהודית (יודאיקה): נשיא בשנים 1863–1880",
+     "claims": [
+      "c-aud-20261128-1"
+     ]
+    },
+    {
+     "says": "Jewish Encyclopedia (1906): נשיא בשנים 1863–1867, ב-1867 כיהן שלמה מונק, והתפקיד נשאר פנוי עד שקרמייה נבחר מחדש ב-1868 וכיהן עד מותו ב-1880",
+     "claims": [
+      "c-aud-20261128-2"
      ]
     }
    ]
@@ -1418,6 +1438,24 @@
   },
   {
    "id": "c-aud-20261128-3",
+   "text": "Jewish Encyclopedia (1906): נשיא בשנים 1863–1867, ב-1867 כיהן שלמה מונק, והתפקיד נשאר פנוי עד שקרמייה נבחר מחדש ב-1868 וכיהן עד מותו ב-1880",
+   "source": "src9003",
+   "quote": "from 1863 to 1867 by Adolphe Crémieux; in 1867 by Solomon Munk",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-1",
+   "text": "האנציקלופדיה היהודית (יודאיקה): נשיא בשנים 1863–1880",
+   "source": "src9002",
+   "quote": "Adolphe Crémieux (president 1863–80)",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-2",
    "text": "Jewish Encyclopedia (1906): נשיא בשנים 1863–1867, ב-1867 כיהן שלמה מונק, והתפקיד נשאר פנוי עד שקרמייה נבחר מחדש ב-1868 וכיהן עד מותו ב-1880",
    "source": "src9003",
    "quote": "from 1863 to 1867 by Adolphe Crémieux; in 1867 by Solomon Munk",

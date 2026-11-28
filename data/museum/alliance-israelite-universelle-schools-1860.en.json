@@ -1,7 +1,7 @@
 {
  "schema": "maasei-museum/1",
  "slug": "alliance-israelite-universelle-schools-1860",
- "deed": "כל ישראל חברים — בפריז הוקמה אליאנס ופתחה בתי ספר ליהודי המזרח",
+ "deed": "All Israel are friends — the Alliance was founded in Paris and opened schools for the Jews of the East",
  "canonical_type": "idea-that-changed",
  "year": "1860",
  "title": "French Jews founded the Alliance in Paris, and its schools reached from Tétouan to Tehran",
@@ -225,7 +225,9 @@
     "m12",
     "m15"
    ],
-   "disagreements": []
+   "disagreements": [
+    "d9001"
+   ]
   },
   {
    "id": "s3",
@@ -791,6 +793,24 @@
      "says": "Exhibition of the Alliance digital library: three institutions, welcoming Jewish and Muslim children",
      "claims": [
       "c71"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9001",
+   "question": "Was Crémieux's presidency of the Alliance from 1863 to 1880 unbroken?",
+   "versions": [
+    {
+     "says": "Encyclopaedia Judaica: president 1863–1880",
+     "claims": [
+      "c-aud-20261128-1"
+     ]
+    },
+    {
+     "says": "Jewish Encyclopedia (1906): president 1863–1867; Solomon Munk held the office in 1867; the post then stayed vacant until Crémieux was re-elected in 1868 and served until his death in 1880",
+     "claims": [
+      "c-aud-20261128-2"
      ]
     }
    ]
@@ -1418,6 +1438,24 @@
   },
   {
    "id": "c-aud-20261128-3",
+   "text": "Jewish Encyclopedia (1906): נשיא בשנים 1863–1867, ב-1867 כיהן שלמה מונק, והתפקיד נשאר פנוי עד שקרמייה נבחר מחדש ב-1868 וכיהן עד מותו ב-1880",
+   "source": "src9003",
+   "quote": "from 1863 to 1867 by Adolphe Crémieux; in 1867 by Solomon Munk",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-1",
+   "text": "האנציקלופדיה היהודית (יודאיקה): נשיא בשנים 1863–1880",
+   "source": "src9002",
+   "quote": "Adolphe Crémieux (president 1863–80)",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-2",
    "text": "Jewish Encyclopedia (1906): נשיא בשנים 1863–1867, ב-1867 כיהן שלמה מונק, והתפקיד נשאר פנוי עד שקרמייה נבחר מחדש ב-1868 וכיהן עד מותו ב-1880",
    "source": "src9003",
    "quote": "from 1863 to 1867 by Adolphe Crémieux; in 1867 by Solomon Munk",

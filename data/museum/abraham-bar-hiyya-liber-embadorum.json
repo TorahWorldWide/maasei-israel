@@ -523,7 +523,8 @@
     "m12"
    ],
    "disagreements": [
-    "d9001"
+    "d9001",
+    "d9002"
    ]
   },
   {
@@ -615,6 +616,24 @@
   },
   {
    "id": "d9001",
+   "question": "האם חיבוריו של בר חייא היו החיבורים המתמטיים הראשונים בעברית?",
+   "versions": [
+    {
+     "says": "אנציקלופדיית האסטרונומים של שפרינגר (לנגרמן): לבר חייא מיוחסת כתיבת היצירות הראשונות בעברית באסטרונומיה ובמתמטיקה",
+     "claims": [
+      "c-aud-20261128-1"
+     ]
+    },
+    {
+     "says": "DSB: החיבור הגיאומטרי העברי המוקדם ביותר שידוע הוא משנת המידות (בערך 150 לספירה)",
+     "claims": [
+      "c-aud-20261128-2"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9002",
    "question": "האם חיבוריו של בר חייא היו החיבורים המתמטיים הראשונים בעברית?",
    "versions": [
     {
@@ -1216,6 +1235,24 @@
    "locator": "audit 2026-11-28",
    "status": "confirmed",
    "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261128-1",
+   "text": "אנציקלופדיית האסטרונומים של שפרינגר (לנגרמן): לבר חייא מיוחסת כתיבת היצירות הראשונות בעברית באסטרונומיה ובמתמטיקה",
+   "source": "src9001",
+   "quote": "Bar Ḥiyya is credited with writing the first works in Hebrew on astronomy and mathematics",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261128-2",
+   "text": "DSB: החיבור הגיאומטרי העברי המוקדם ביותר שידוע הוא משנת המידות (בערך 150 לספירה)",
+   "source": "src4",
+   "quote": "the earliest known Hebrew geometry, the Mishnat ha-Middot",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [

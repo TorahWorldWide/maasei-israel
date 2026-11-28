@@ -397,7 +397,8 @@
     "m4"
    ],
    "disagreements": [
-    "d2"
+    "d2",
+    "d9001"
    ]
   },
   {
@@ -534,6 +535,30 @@
      "says": "לפי JTA, עם שובו של בית החולים הישראלי אחרי שישה שבועות, הג'וינט עבד עם קואליציה של 26 ארגונים יהודיים.",
      "claims": [
       "c30"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9001",
+   "question": "כמה מיטות היו בבית החולים של הג'וינט במחנה קיבומבה?",
+   "versions": [
+    {
+     "says": "גידעון טיילור מהג'וינט, בניו יורק (JTA, ספטמבר 1994): 200 מיטות",
+     "claims": [
+      "c-aud-20261128-1"
+     ]
+    },
+    {
+     "says": "כתבת JTA מקיבומבה (אוקטובר 1994): 110 מיטות, ובית החולים מתרחב",
+     "claims": [
+      "c-aud-20261128-2"
+     ]
+    },
+    {
+     "says": "הרופא ריק הודס ועמיתיו, בתקציר בכתב העת Prehospital and Disaster Medicine: נפתח בית חולים אוהלים בן 110 מיטות",
+     "claims": [
+      "c-aud-20261128-3"
      ]
     }
    ]
@@ -961,6 +986,33 @@
    "locator": "audit 2026-11-28",
    "status": "confirmed",
    "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-1",
+   "text": "גידעון טיילור מהג'וינט, בניו יורק (JTA, ספטמבר 1994): 200 מיטות",
+   "source": "src4",
+   "quote": "operating a hospital with 200 beds",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-2",
+   "text": "כתבת JTA מקיבומבה (אוקטובר 1994): 110 מיטות, ובית החולים מתרחב",
+   "source": "src2",
+   "quote": "It currently has 110 beds and is expanding.",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-3",
+   "text": "הרופא ריק הודס ועמיתיו, בתקציר בכתב העת Prehospital and Disaster Medicine: נפתח בית חולים אוהלים בן 110 מיטות",
+   "source": "src9001",
+   "quote": "A 110-bed tent hospital was opened.",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
   }
  ],
  "sources": [

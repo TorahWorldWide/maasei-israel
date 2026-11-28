@@ -120,9 +120,10 @@
       ]
      },
      {
-      "text": "According to Israel21c, the World Health Organization reported 31 Russian attacks on healthcare facilities in Ukraine between February 24 and March 13.",
+      "text": "According to the World Health Organization, from the start of the war until March 13, 31 attacks on health care were documented in Ukraine; in 24 of them health facilities were damaged or destroyed, and in five ambulances were hit.",
       "claims": [
-       "c60"
+       "c60",
+       "c-aud-20261128-1"
       ]
      }
     ]
@@ -520,7 +521,8 @@
     "m3"
    ],
    "disagreements": [
-    "d9001"
+    "d9001",
+    "d9002"
    ]
   },
   {
@@ -824,6 +826,30 @@
      "says": "The article in the journal JOGH: 995 patients underwent laboratory tests over the entire period of operation",
      "claims": [
       "c-aud-20261128-5"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9002",
+   "question": "How many lab tests did the hospital perform?",
+   "versions": [
+    {
+     "says": "Israel21c, in a report from the first weeks: 16,000 lab tests in the first five days",
+     "claims": [
+      "c-aud-20261128-2"
+     ]
+    },
+    {
+     "says": "Israel21c, in its six-week summary: 21,000 lab tests over the whole period",
+     "claims": [
+      "c-aud-20261128-3"
+     ]
+    },
+    {
+     "says": "The JOGH article: 995 patients had lab tests over the whole period of operation",
+     "claims": [
+      "c-aud-20261128-4"
      ]
     }
    ]
@@ -1521,6 +1547,42 @@
    "locator": "audit 2026-11-28",
    "status": "confirmed",
    "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-1",
+   "text": "לפי ארגון הבריאות העולמי, מתחילת המלחמה ועד 13 במרץ תועדו באוקראינה 31 תקיפות על מערכת הבריאות; ב-24 מהן נפגעו או נהרסו מתקני בריאות, ובחמש נפגעו אמבולנסים.",
+   "source": "src9001",
+   "quote": "31 attacks on health care have been documented",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-2",
+   "text": "ישראל21c, בכתבה מהשבועות הראשונים: 16,000 בדיקות מעבדה בחמשת הימים הראשונים",
+   "source": "src6",
+   "quote": "performed 16,000 lab tests",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261128-3",
+   "text": "ישראל21c, בסיכום שישה שבועות: 21,000 בדיקות מעבדה בכל התקופה",
+   "source": "src9002",
+   "quote": "21,000 lab tests and 800 diagnostic images analyzed",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-4",
+   "text": "המאמר בכתב העת JOGH: 995 מטופלים עברו בדיקות מעבדה בכל תקופת הפעילות",
+   "source": "src3",
+   "quote": "995 patients had laboratory tests",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1607,6 +1669,20 @@
    "label": "Algemeiner, Lapid on the 'Kochav Meir' hospital",
    "url": "https://www.algemeiner.com/?p=624588",
    "kind": "press"
+  },
+  {
+   "id": "src9001",
+   "label": "WHO, UNICEF, UNFPA joint statement: Stop attacks on health care in Ukraine, 13 March 2022",
+   "url": "https://www.who.int/news/item/13-03-2022-stop-attacks-on-health-care-in-ukraine",
+   "kind": "official",
+   "date": "2026-11-28"
+  },
+  {
+   "id": "src9002",
+   "label": "ISRAEL21c, Israeli hospital in Ukraine aids 6,000 patients in 6 weeks, 2 May 2022",
+   "url": "https://archive.israel21c.org/?p=120316",
+   "kind": "press",
+   "date": "2026-11-28"
   }
  ],
  "media": [

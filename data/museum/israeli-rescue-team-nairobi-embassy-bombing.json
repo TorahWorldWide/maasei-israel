@@ -131,7 +131,8 @@
    ],
    "media": [],
    "disagreements": [
-    "d4"
+    "d4",
+    "d9003"
    ]
   },
   {
@@ -175,7 +176,10 @@
     ]
    ],
    "media": [],
-   "disagreements": []
+   "disagreements": [
+    "d9001",
+    "d9002"
+   ]
   },
   {
    "id": "s3",
@@ -572,6 +576,84 @@
      "says": "לפי CBS News, ביום ראשון עמד מספר ההרוגים בשני הפיגועים על 210, מהם 12 אמריקנים, ויותר מ-5,000 נפצעו",
      "claims": [
       "c39"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9001",
+   "question": "כמה נהרגו ונפצעו בשני הפיגועים?",
+   "versions": [
+    {
+     "says": "ועדת הבדיקה של משרד החוץ האמריקני: יותר מ-220 הרוגים ויותר מ-4,000 פצועים",
+     "claims": [
+      "c-aud-20261128-1"
+     ]
+    },
+    {
+     "says": "סוכנות המידע האמריקנית (USIA): תריסר אמריקאים ו-237 קנייתים נהרגו, וכ-5,000 נפצעו",
+     "claims": [
+      "c-aud-20261128-2"
+     ]
+    },
+    {
+     "says": "JTA: לפחות 250 הרוגים ויותר מ-5,000 פצועים",
+     "claims": [
+      "c-aud-20261128-3"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9002",
+   "question": "מתי הגיע הצוות הישראלי לאתר הפיצוץ?",
+   "versions": [
+    {
+     "says": "JTA: עד שבת בבוקר",
+     "claims": [
+      "c-aud-20261128-4"
+     ]
+    },
+    {
+     "says": "Jewish Virtual Library, בציטוט הניו יורק טיימס: בארבע אחר הצהריים",
+     "claims": [
+      "c-aud-20261128-5"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9003",
+   "question": "כמה נהרגו באסון צור הראשון ב-1982?",
+   "versions": [
+    {
+     "says": "J. Weekly: 89 הרוגים, מהם 76 ישראלים",
+     "claims": [
+      "c-aud-20261128-6"
+     ]
+    },
+    {
+     "says": "ארכיון משרד הביטחון: 76 ישראלים ו-14 עצירים לבנונים, 90 בסך הכול",
+     "claims": [
+      "c-aud-20261128-7"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9004",
+   "question": "כמה לכודים חיים חילץ הצוות הישראלי?",
+   "versions": [
+    {
+     "says": "Jewish Virtual Library: שלושה",
+     "claims": [
+      "c-aud-20261128-8"
+     ]
+    },
+    {
+     "says": "J. Weekly: ארבעה – פרנסיס נגנגה, אישה ממבנה המשרדים, וגרייס אורדינדו ובנה גבריאל",
+     "claims": [
+      "c-aud-20261128-9"
      ]
     }
    ]
@@ -1019,6 +1101,87 @@
    "locator": "audit 2026-11-28",
    "status": "confirmed",
    "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-1",
+   "text": "ועדת הבדיקה של משרד החוץ האמריקני: יותר מ-220 הרוגים ויותר מ-4,000 פצועים",
+   "source": "src9001",
+   "quote": "costing the lives of over 220 persons and wounding more than 4,000 others",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-2",
+   "text": "סוכנות המידע האמריקנית (USIA): תריסר אמריקאים ו-237 קנייתים נהרגו, וכ-5,000 נפצעו",
+   "source": "src9002",
+   "quote": "a dozen Americans and 237 Kenyans",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-3",
+   "text": "JTA: לפחות 250 הרוגים ויותר מ-5,000 פצועים",
+   "source": "src9003",
+   "quote": "At least 250 were killed and more than 5,000 injured",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-4",
+   "text": "JTA: עד שבת בבוקר",
+   "source": "src9003",
+   "quote": "By Saturday morning, Cryton and 150 other Israeli soldiers",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-5",
+   "text": "Jewish Virtual Library, בציטוט הניו יורק טיימס: בארבע אחר הצהריים",
+   "source": "src9004",
+   "quote": "Before the arrival of the Israeli experts at 4 P.M.",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-6",
+   "text": "J. Weekly: 89 הרוגים, מהם 76 ישראלים",
+   "source": "src9005",
+   "quote": "the final death toll reached 89. Of those, 76 were Israelis.",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261128-7",
+   "text": "ארכיון משרד הביטחון: 76 ישראלים ו-14 עצירים לבנונים, 90 בסך הכול",
+   "source": "src9006",
+   "quote": "76 Israelis and 14 Lebanese detainees were killed in the disaster.",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-8",
+   "text": "Jewish Virtual Library: שלושה",
+   "source": "src9004",
+   "quote": "save three people trapped alive in the ruins",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-9",
+   "text": "J. Weekly: ארבעה – פרנסיס נגנגה, אישה ממבנה המשרדים, וגרייס אורדינדו ובנה גבריאל",
+   "source": "src9005",
+   "quote": "a 45-year-old businessman, Francis Nganga, and a woman from the office building",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
   }
  ],
  "sources": [
@@ -1063,6 +1226,48 @@
    "label": "JTA, Israel is helping Kenya build a disaster response",
    "url": "https://www.jta.org/archive/israel-is-helping-kenya-build-a-disaster-response",
    "kind": "press"
+  },
+  {
+   "id": "src9001",
+   "label": "US Department of State, Accountability Review Boards report (overview), Jan 1999",
+   "url": "https://irp.fas.org/threat/arb/board_overview.html",
+   "kind": "official",
+   "date": "2026-11-28"
+  },
+  {
+   "id": "src9002",
+   "label": "USIA, Criticism of Marines actions in Kenya bombing said unfortunate, 13 Aug 1998",
+   "url": "https://irp.fas.org/news/1998/08/98081303_apo.html",
+   "kind": "official",
+   "date": "2026-11-28"
+  },
+  {
+   "id": "src9003",
+   "label": "JTA, Israel Rescues Lives, Image, 14 Aug 1998",
+   "url": "https://www.jta.org/1998/08/14/ny/israel-rescues-lives-image",
+   "kind": "press",
+   "date": "2026-11-28"
+  },
+  {
+   "id": "src9004",
+   "label": "Jewish Virtual Library, IDF Terror Relief Efforts in Kenya",
+   "url": "https://www.jewishvirtuallibrary.org/idf-terror-relief-efforts-in-kenya",
+   "kind": "reference",
+   "date": "2026-11-28"
+  },
+  {
+   "id": "src9005",
+   "label": "J. Weekly, 14 Aug 1998",
+   "url": "https://jweekly.com/1998/08/14/the-positive-outgrowth-of-lebanon-israeli-unit-stems-from-1982-tragedy/",
+   "kind": "press",
+   "date": "2026-11-28"
+  },
+  {
+   "id": "src9006",
+   "label": "Israel Ministry of Defense Archive, The first disaster in Tyre",
+   "url": "https://archives.mod.gov.il/sites/English/Exhibitions/Pages/The-first-disaster-in-Tyre.aspx",
+   "kind": "official",
+   "date": "2026-11-28"
   }
  ],
  "media": [

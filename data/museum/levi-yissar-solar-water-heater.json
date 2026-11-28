@@ -55,9 +55,10 @@
  "glance": [
   {
    "label": "ממציא",
-   "value": "לפי Green Prophet, לוי יששר, מהנדס ויזם, הקים ב-1953 את חברת נריה, החברה הראשונה שמכרה דודי שמש.",
+   "value": "לוי יששר, מהנדס ויזם, חלוץ דוד השמש בישראל",
    "claims": [
-    "c4"
+    "c4",
+    "c-aud-20261128-1"
    ]
   },
   {
@@ -870,6 +871,15 @@
    "text": "לפי WhyAliyah, בתחילת שנות ה-90 כבר חייבה הממשלה מערכת סולארית לחימום מים בכל בניין מגורים חדש.",
    "source": "src2",
    "quote": "As of the early 1990s, all new residential buildings were required by the government to install solar water-heating systems",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-1",
+   "text": "לוי יששר, מהנדס ויזם, חלוץ דוד השמש בישראל",
+   "source": "src1",
+   "quote": "Israeli pioneer innovator Levi Yissar",
    "locator": "audit 2026-11-28",
    "status": "confirmed",
    "checker_note": "audit: quote found on the fetched page"

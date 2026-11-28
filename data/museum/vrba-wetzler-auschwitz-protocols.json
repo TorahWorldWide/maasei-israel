@@ -571,9 +571,10 @@
     ],
     [
      {
-      "text": "לפי מעריב, רודולף ורבה נפטר ב-27 במרץ 2006 בגיל 82.",
+      "text": "לפי הניו יורק טיימס, רודולף ורבה נפטר ב-27 במרץ 2006 בגיל 81.",
       "claims": [
-       "c78"
+       "c78",
+       "c-aud-20261128-1"
       ]
      }
     ]
@@ -1417,6 +1418,15 @@
    "text": "הוא נולד למשפחה יהודית, ב-1942 נאסר כשהיה עדיין נער, וגורש תחילה למחנה מיידנק ומשם לאושוויץ.",
    "source": "src9001",
    "quote": "he was arrested and deported, first to the Maidanek concentration camp and then to Auschwitz",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261128-1",
+   "text": "לפי הניו יורק טיימס, רודולף ורבה נפטר ב-27 במרץ 2006 בגיל 81.",
+   "source": "src9001",
+   "quote": "died on March 27 at a hospital in Vancouver, British Columbia. He was 81.",
    "locator": "audit 2026-11-28",
    "status": "confirmed",
    "checker_note": "audit: page could not be fetched by script; verifier quoted it"

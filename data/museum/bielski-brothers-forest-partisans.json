@@ -407,7 +407,8 @@
    ],
    "disagreements": [
     "d3",
-    "d9003"
+    "d9003",
+    "d9006"
    ]
   },
   {
@@ -571,7 +572,9 @@
    ],
    "disagreements": [
     "d5",
-    "d6"
+    "d6",
+    "d9004",
+    "d9005"
    ]
   },
   {
@@ -811,6 +814,96 @@
   },
   {
    "id": "d9003",
+   "question": "מתי עברה קבוצת ביילסקי ליער נליבוקי?",
+   "versions": [
+    {
+     "says": "האנציקלופדיה של USHMM: בדצמבר 1943, לבסיס קבע ביער",
+     "claims": [
+      "c-aud-20261128-9"
+     ]
+    },
+    {
+     "says": "הפודקאסט של USHMM: בקיץ 1943, לפני המצוד הגרמני, הוביל טוביה את הקבוצה ליער נליבוקי",
+     "claims": [
+      "c-aud-20261128-10"
+     ]
+    },
+    {
+     "says": "יד ושם: כבר בקיץ 1943 ערכו הגרמנים מצוד ביער נליבוקי, בין השאר נגד קבוצת ביילסקי",
+     "claims": [
+      "c-aud-20261128-11"
+     ]
+    },
+    {
+     "says": "aboutholocaust: באוגוסט 1943 נאלצה הקבוצה להקים מחנה בעומק יער נליבוקי",
+     "claims": [
+      "c-aud-20261128-12"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9004",
+   "question": "מתי עבר טוביה ביילסקי מישראל לארצות הברית, והאם אחיו עברו איתו?",
+   "versions": [
+    {
+     "says": "יד ושם (באנגלית): ב-1954, עם שני אחיו שנותרו בחיים",
+     "claims": [
+      "c-aud-20261128-1"
+     ]
+    },
+    {
+     "says": "יד ושם (בעברית): ב-1945 עלו הוא ושני אחיו לארץ, וב-1954 התיישב הוא בארצות הברית",
+     "claims": [
+      "c-aud-20261128-2"
+     ]
+    },
+    {
+     "says": "JTA ואתר ההנצחה הגרמני 'גיבורים שקטים': טוביה וזוס עברו מישראל לניו יורק ב-1956",
+     "claims": [
+      "c-aud-20261128-3"
+     ]
+    },
+    {
+     "says": "JTA (הספד לזוס ביילסקי, 1995): ב-1956 עבר זוס מישראל לניו יורק",
+     "claims": [
+      "c-aud-20261128-4"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9005",
+   "question": "מתי עבר טוביה ביילסקי מישראל לארצות הברית, והאם אחיו עברו איתו?",
+   "versions": [
+    {
+     "says": "יד ושם (באנגלית): ב-1954, עם שני אחיו שנותרו בחיים",
+     "claims": [
+      "c-aud-20261128-5"
+     ]
+    },
+    {
+     "says": "יד ושם (בעברית): ב-1945 עלו הוא ושני אחיו לארץ, וב-1954 התיישב הוא בארצות הברית",
+     "claims": [
+      "c-aud-20261128-6"
+     ]
+    },
+    {
+     "says": "JTA ואתר ההנצחה הגרמני 'גיבורים שקטים': טוביה וזוס עברו מישראל לניו יורק ב-1956",
+     "claims": [
+      "c-aud-20261128-7"
+     ]
+    },
+    {
+     "says": "JTA (הספד לזוס ביילסקי, 1995): ב-1956 עבר זוס מישראל לניו יורק",
+     "claims": [
+      "c-aud-20261128-8"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9006",
    "question": "מתי עברה קבוצת ביילסקי ליער נליבוקי?",
    "versions": [
     {
@@ -1539,6 +1632,114 @@
    "quote": "at its peak, 1,236 people belonged to the group, and 70% were women, children, and the elderly",
    "status": "confirmed",
    "locator": "שורה 14"
+  },
+  {
+   "id": "c-aud-20261128-1",
+   "text": "יד ושם (באנגלית): ב-1954, עם שני אחיו שנותרו בחיים",
+   "source": "src1",
+   "quote": "in 1954 he settled in the United States with his two surviving brothers",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261128-2",
+   "text": "יד ושם (בעברית): ב-1945 עלו הוא ושני אחיו לארץ, וב-1954 התיישב הוא בארצות הברית",
+   "source": "src9001",
+   "quote": "עלו הוא ושני אחיו ששרדו לארץ",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261128-3",
+   "text": "JTA ואתר ההנצחה הגרמני 'גיבורים שקטים': טוביה וזוס עברו מישראל לניו יורק ב-1956",
+   "source": "src9002",
+   "quote": "In 1956 he emigrated with his family to the United States.",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-4",
+   "text": "JTA (הספד לזוס ביילסקי, 1995): ב-1956 עבר זוס מישראל לניו יורק",
+   "source": "src9003",
+   "quote": "In 1956, Bielski moved from Israel to New York",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-5",
+   "text": "יד ושם (באנגלית): ב-1954, עם שני אחיו שנותרו בחיים",
+   "source": "src1",
+   "quote": "in 1954 he settled in the United States with his two surviving brothers",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261128-6",
+   "text": "יד ושם (בעברית): ב-1945 עלו הוא ושני אחיו לארץ, וב-1954 התיישב הוא בארצות הברית",
+   "source": "src9001",
+   "quote": "עלו הוא ושני אחיו ששרדו לארץ",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261128-7",
+   "text": "JTA ואתר ההנצחה הגרמני 'גיבורים שקטים': טוביה וזוס עברו מישראל לניו יורק ב-1956",
+   "source": "src9002",
+   "quote": "In 1956 he emigrated with his family to the United States.",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-8",
+   "text": "JTA (הספד לזוס ביילסקי, 1995): ב-1956 עבר זוס מישראל לניו יורק",
+   "source": "src9003",
+   "quote": "In 1956, Bielski moved from Israel to New York",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-9",
+   "text": "האנציקלופדיה של USHMM: בדצמבר 1943, לבסיס קבע ביער",
+   "source": "src2",
+   "quote": "the Bielski group moved in December 1943 to what became a permanent base in the Naliboki Forest",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-10",
+   "text": "הפודקאסט של USHMM: בקיץ 1943, לפני המצוד הגרמני, הוביל טוביה את הקבוצה ליער נליבוקי",
+   "source": "src4",
+   "quote": "take the group to the Naliboki Forest, nearly 20 miles away",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-11",
+   "text": "יד ושם: כבר בקיץ 1943 ערכו הגרמנים מצוד ביער נליבוקי, בין השאר נגד קבוצת ביילסקי",
+   "source": "src1",
+   "quote": "In the summer of 1943, the Germans initiated a massive hunt through the Naliboki Forest",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261128-12",
+   "text": "aboutholocaust: באוגוסט 1943 נאלצה הקבוצה להקים מחנה בעומק יער נליבוקי",
+   "source": "src7",
+   "quote": "In August 1943, the group was forced to make camp deep in the Naliboki Forest",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1595,6 +1796,27 @@
    "label": "USHMM Collections, Tuvia Bielski biography",
    "url": "https://collections.ushmm.org/search/catalog/pa20152",
    "kind": "reference"
+  },
+  {
+   "id": "src9001",
+   "label": "Yad Vashem, lexicon entry on Tuvia Bielski (PDF)",
+   "url": "https://www.yadvashem.org/odot_pdf/Microsoft Word - 823.pdf",
+   "kind": "organisation",
+   "date": "2026-11-28"
+  },
+  {
+   "id": "src9002",
+   "label": "Gedenkstätte Stille Helden, biography of Tuvia Bielski",
+   "url": "https://www.gedenkstaette-stille-helden.de/en/silent-heroes/biographies/biographie/detail-316",
+   "kind": "organisation",
+   "date": "2026-11-28"
+  },
+  {
+   "id": "src9003",
+   "label": "JTA, Founder of brigade that saved Jews during World War II is dead, 1995",
+   "url": "https://www.jta.org/archive/founder-of-brigade-that-saved-jews-during-world-war-ii-is-dead",
+   "kind": "press",
+   "date": "2026-11-28"
   }
  ],
  "media": [

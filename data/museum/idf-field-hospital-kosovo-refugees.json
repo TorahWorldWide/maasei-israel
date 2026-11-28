@@ -282,9 +282,10 @@
       ]
      },
      {
-      "text": "ישראל כבר הקימה בתי חולים בקמבודיה ב-1979 וברואנדה ב-1994, ושלחה צוות חילוץ לקניה אחרי הפיגוע בשגרירות ארה\"ב בנאירובי.",
+      "text": "ישראל כבר הקימה בתי חולים לפליטים קמבודים בתאילנד ב-1979 ולפליטים רואנדים בגומה שבזאיר ב-1994, ושלחה צוות חילוץ לקניה אחרי הפיגוע בשגרירות ארה\"ב בנאירובי.",
       "claims": [
-       "c48"
+       "c48",
+       "c-aud-20261128-1"
       ]
      },
      {
@@ -565,9 +566,10 @@
       ]
      },
      {
-      "text": "אנגלהרד, רופא ילדים ומילואימניק, כבר שירת בבתי חולים שדה ישראליים בקמבודיה וברואנדה.",
+      "text": "אנגלהרד, רופא ילדים ומילואימניק, כבר שירת בבתי חולים שדה ישראליים לפליטים קמבודים בתאילנד ולפליטים רואנדים בגומה שבזאיר.",
       "claims": [
-       "c47"
+       "c47",
+       "c-aud-20261128-2"
       ]
      },
      {
@@ -678,9 +680,10 @@
       ]
      },
      {
-      "text": "יואכים גרדמן, דיקן בית הספר לסיעוד באוניברסיטת מינסטר, אמר שמרגש אותו כגרמני לעבוד בצמוד לישראלים.",
+      "text": "יואכים גרדמן, דיקן בית הספר לסיעוד באוניברסיטה למדעים שימושיים של מינסטר (FH Münster), אמר שמרגש אותו כגרמני לעבוד בצמוד לישראלים.",
       "claims": [
-       "c45"
+       "c45",
+       "c-aud-20261128-3"
       ]
      },
      {
@@ -1331,6 +1334,33 @@
    "locator": "audit 2026-11-28",
    "status": "confirmed",
    "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261128-1",
+   "text": "ישראל כבר הקימה בתי חולים לפליטים קמבודים בתאילנד ב-1979 ולפליטים רואנדים בגומה שבזאיר ב-1994, ושלחה צוות חילוץ לקניה אחרי הפיגוע בשגרירות ארה\"ב בנאירובי.",
+   "source": "src9001",
+   "quote": "These contributions enabled the Israeli government to equip 5 medical teams and send them to Thailand",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-2",
+   "text": "אנגלהרד, רופא ילדים ומילואימניק, כבר שירת בבתי חולים שדה ישראליים לפליטים קמבודים בתאילנד ולפליטים רואנדים בגומה שבזאיר.",
+   "source": "src9002",
+   "quote": "treated at the Israeli Army field hospital in the disaster region of Goma, Zaire, during the summer of 1994",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-3",
+   "text": "יואכים גרדמן, דיקן בית הספר לסיעוד באוניברסיטה למדעים שימושיים של מינסטר (FH Münster), אמר שמרגש אותו כגרמני לעבוד בצמוד לישראלים.",
+   "source": "src9003",
+   "quote": "Humanitarian Assistance Competence Center, University of Applied Sciences, Münster",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
   }
  ],
  "sources": [
@@ -1369,6 +1399,27 @@
    "label": "UNHCR, Kosovo Crisis Update",
    "url": "https://www.unhcr.org/news/kosovo-crisis-update-39",
    "kind": "official"
+  },
+  {
+   "id": "src9001",
+   "label": "Prehospital and Disaster Medicine (Cambridge Core), Medical mission to a refugee camp in Thailand",
+   "url": "https://www.cambridge.org/core/journals/prehospital-and-disaster-medicine/article/medical-mission-to-a-refugee-camp-in-thailand/06A6C186194FF413309637E5C607B613",
+   "kind": "reference",
+   "date": "2026-11-28"
+  },
+  {
+   "id": "src9002",
+   "label": "Hebrew University (CRIS), Diarrheal epidemics among Rwandan refugees in 1994",
+   "url": "https://cris.huji.ac.il/en/publications/diarrheal-epidemics-among-rwandan-refugees-in-1994-management-and/",
+   "kind": "reference",
+   "date": "2026-11-28"
+  },
+  {
+   "id": "src9003",
+   "label": "Europe PMC, Gardemann J., Primary health care in complex humanitarian emergencies, Croat Med J 2002;43(2)",
+   "url": "https://europepmc.org/article/MED/11885039",
+   "kind": "reference",
+   "date": "2026-11-28"
   }
  ],
  "media": [

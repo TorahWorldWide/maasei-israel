@@ -1,7 +1,7 @@
 {
  "schema": "maasei-museum/1",
  "slug": "bielski-brothers-forest-partisans",
- "deed": "האחים ביילסקי הקימו קהילה ביער והצילו יותר מ-1,200 יהודים",
+ "deed": "The Bielski brothers built a community in the forest and saved more than 1,200 Jews",
  "canonical_type": "rescue-operation",
  "year": "1941",
  "title": "The Bielski brothers fled to the forest, took in every Jew who came, and at liberation the group numbered more than 1,200 people",
@@ -407,7 +407,8 @@
    ],
    "disagreements": [
     "d3",
-    "d9003"
+    "d9003",
+    "d9006"
    ]
   },
   {
@@ -571,7 +572,9 @@
    ],
    "disagreements": [
     "d5",
-    "d6"
+    "d6",
+    "d9004",
+    "d9005"
    ]
   },
   {
@@ -827,6 +830,96 @@
     },
     {
      "says": "Yad Vashem: already in the summer of 1943 the Germans carried out a manhunt in the Naliboki Forest, among others against the Bielski group",
+     "claims": [
+      "c-aud-20261128-11"
+     ]
+    },
+    {
+     "says": "aboutholocaust: in August 1943 the group was forced to make camp deep in the Naliboki Forest",
+     "claims": [
+      "c-aud-20261128-12"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9004",
+   "question": "When did Tuvia Bielski move from Israel to the United States, and did his brothers move with him?",
+   "versions": [
+    {
+     "says": "Yad Vashem (English): in 1954, with his two surviving brothers",
+     "claims": [
+      "c-aud-20261128-1"
+     ]
+    },
+    {
+     "says": "Yad Vashem (Hebrew): in 1945 he and his two brothers moved to the Land of Israel, and in 1954 he settled in the United States",
+     "claims": [
+      "c-aud-20261128-2"
+     ]
+    },
+    {
+     "says": "JTA and the German Silent Heroes memorial: Tuvia and Zus moved from Israel to New York in 1956",
+     "claims": [
+      "c-aud-20261128-3"
+     ]
+    },
+    {
+     "says": "JTA (Zus Bielski's obituary, 1995): Zus moved from Israel to New York in 1956",
+     "claims": [
+      "c-aud-20261128-4"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9005",
+   "question": "When did Tuvia Bielski move from Israel to the United States, and did his brothers move with him?",
+   "versions": [
+    {
+     "says": "Yad Vashem (English): in 1954, with his two surviving brothers",
+     "claims": [
+      "c-aud-20261128-5"
+     ]
+    },
+    {
+     "says": "Yad Vashem (Hebrew): in 1945 he and his two brothers moved to the Land of Israel, and in 1954 he settled in the United States",
+     "claims": [
+      "c-aud-20261128-6"
+     ]
+    },
+    {
+     "says": "JTA and the German Silent Heroes memorial: Tuvia and Zus moved from Israel to New York in 1956",
+     "claims": [
+      "c-aud-20261128-7"
+     ]
+    },
+    {
+     "says": "JTA (Zus Bielski's obituary, 1995): Zus moved from Israel to New York in 1956",
+     "claims": [
+      "c-aud-20261128-8"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9006",
+   "question": "When did the Bielski group move to the Naliboki Forest?",
+   "versions": [
+    {
+     "says": "USHMM Encyclopedia: in December 1943, to a permanent base in the forest",
+     "claims": [
+      "c-aud-20261128-9"
+     ]
+    },
+    {
+     "says": "USHMM podcast: in summer 1943, before the German manhunt, Tuvia led the group to the Naliboki Forest",
+     "claims": [
+      "c-aud-20261128-10"
+     ]
+    },
+    {
+     "says": "Yad Vashem: already in summer 1943 the Germans ran a manhunt in the Naliboki Forest, aimed in part at the Bielski group",
      "claims": [
       "c-aud-20261128-11"
      ]
@@ -1539,6 +1632,114 @@
    "quote": "at its peak, 1,236 people belonged to the group, and 70% were women, children, and the elderly",
    "status": "confirmed",
    "locator": "שורה 14"
+  },
+  {
+   "id": "c-aud-20261128-1",
+   "text": "יד ושם (באנגלית): ב-1954, עם שני אחיו שנותרו בחיים",
+   "source": "src1",
+   "quote": "in 1954 he settled in the United States with his two surviving brothers",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261128-2",
+   "text": "יד ושם (בעברית): ב-1945 עלו הוא ושני אחיו לארץ, וב-1954 התיישב הוא בארצות הברית",
+   "source": "src9001",
+   "quote": "עלו הוא ושני אחיו ששרדו לארץ",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261128-3",
+   "text": "JTA ואתר ההנצחה הגרמני 'גיבורים שקטים': טוביה וזוס עברו מישראל לניו יורק ב-1956",
+   "source": "src9002",
+   "quote": "In 1956 he emigrated with his family to the United States.",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-4",
+   "text": "JTA (הספד לזוס ביילסקי, 1995): ב-1956 עבר זוס מישראל לניו יורק",
+   "source": "src9003",
+   "quote": "In 1956, Bielski moved from Israel to New York",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-5",
+   "text": "יד ושם (באנגלית): ב-1954, עם שני אחיו שנותרו בחיים",
+   "source": "src1",
+   "quote": "in 1954 he settled in the United States with his two surviving brothers",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261128-6",
+   "text": "יד ושם (בעברית): ב-1945 עלו הוא ושני אחיו לארץ, וב-1954 התיישב הוא בארצות הברית",
+   "source": "src9001",
+   "quote": "עלו הוא ושני אחיו ששרדו לארץ",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261128-7",
+   "text": "JTA ואתר ההנצחה הגרמני 'גיבורים שקטים': טוביה וזוס עברו מישראל לניו יורק ב-1956",
+   "source": "src9002",
+   "quote": "In 1956 he emigrated with his family to the United States.",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-8",
+   "text": "JTA (הספד לזוס ביילסקי, 1995): ב-1956 עבר זוס מישראל לניו יורק",
+   "source": "src9003",
+   "quote": "In 1956, Bielski moved from Israel to New York",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-9",
+   "text": "האנציקלופדיה של USHMM: בדצמבר 1943, לבסיס קבע ביער",
+   "source": "src2",
+   "quote": "the Bielski group moved in December 1943 to what became a permanent base in the Naliboki Forest",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-10",
+   "text": "הפודקאסט של USHMM: בקיץ 1943, לפני המצוד הגרמני, הוביל טוביה את הקבוצה ליער נליבוקי",
+   "source": "src4",
+   "quote": "take the group to the Naliboki Forest, nearly 20 miles away",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-11",
+   "text": "יד ושם: כבר בקיץ 1943 ערכו הגרמנים מצוד ביער נליבוקי, בין השאר נגד קבוצת ביילסקי",
+   "source": "src1",
+   "quote": "In the summer of 1943, the Germans initiated a massive hunt through the Naliboki Forest",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261128-12",
+   "text": "aboutholocaust: באוגוסט 1943 נאלצה הקבוצה להקים מחנה בעומק יער נליבוקי",
+   "source": "src7",
+   "quote": "In August 1943, the group was forced to make camp deep in the Naliboki Forest",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1595,6 +1796,27 @@
    "label": "USHMM Collections, Tuvia Bielski biography",
    "url": "https://collections.ushmm.org/search/catalog/pa20152",
    "kind": "reference"
+  },
+  {
+   "id": "src9001",
+   "label": "Yad Vashem, lexicon entry on Tuvia Bielski (PDF)",
+   "url": "https://www.yadvashem.org/odot_pdf/Microsoft Word - 823.pdf",
+   "kind": "organisation",
+   "date": "2026-11-28"
+  },
+  {
+   "id": "src9002",
+   "label": "Gedenkstätte Stille Helden, biography of Tuvia Bielski",
+   "url": "https://www.gedenkstaette-stille-helden.de/en/silent-heroes/biographies/biographie/detail-316",
+   "kind": "organisation",
+   "date": "2026-11-28"
+  },
+  {
+   "id": "src9003",
+   "label": "JTA, Founder of brigade that saved Jews during World War II is dead, 1995",
+   "url": "https://www.jta.org/archive/founder-of-brigade-that-saved-jews-during-world-war-ii-is-dead",
+   "kind": "press",
+   "date": "2026-11-28"
   }
  ],
  "media": [

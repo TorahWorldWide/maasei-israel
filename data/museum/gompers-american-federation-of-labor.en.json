@@ -54,9 +54,10 @@
   },
   {
    "label": "Headquarters",
-   "value": "New York (according to Encyclopedia.com, Gompers returned to New York and opened the federation's national headquarters there).",
+   "value": "Washington, D.C. (from 1897; earlier New York and Indianapolis)",
    "claims": [
-    "c51"
+    "c51",
+    "c-aud-20261128-1"
    ]
   },
   {
@@ -718,6 +719,24 @@
      ]
     }
    ]
+  },
+  {
+   "id": "d9001",
+   "question": "How many members did the Federation have in its founding year, 1886?",
+   "versions": [
+    {
+     "says": "Jewish Women's Archive: 50,000 members in 1886",
+     "claims": [
+      "c-aud-20261128-2"
+     ]
+    },
+    {
+     "says": "Dictionary of American History: about 140,000 workers in 25 national unions; the delegates claimed to represent over 315,000",
+     "claims": [
+      "c-aud-20261128-3"
+     ]
+    }
+   ]
   }
  ],
  "unknowns": [
@@ -1327,6 +1346,33 @@
    "locator": "audit 2026-11-28",
    "status": "confirmed",
    "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-1",
+   "text": "וושינגטון די. סי. (מ-1897; קודם לכן ניו יורק ואינדיאנפוליס)",
+   "source": "src9001",
+   "quote": "In 1897, the AFL relocated from Indianapolis, Indiana to Washington D.C.",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-2",
+   "text": "ארכיון הנשים היהודיות: 50,000 חברים ב-1886",
+   "source": "src2",
+   "quote": "from 50,000 members in 1886 to nearly 3 million in 1924",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-3",
+   "text": "Dictionary of American History: כ-140,000 עובדים ב-25 איגודים לאומיים; הצירים טענו שהם מייצגים יותר מ-315,000",
+   "source": "src9002",
+   "quote": "In all, 42 delegates from 25 labor organizations assembled, claiming to represent over 315,000 members.",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1395,6 +1441,20 @@
    "label": "Library of Congress, Inside Adams blog, Samuel Gompers",
    "url": "https://blogs.loc.gov/inside_adams/2023/05/samuel-gompers-american-federation-of-labor/",
    "kind": "official"
+  },
+  {
+   "id": "src9001",
+   "label": "National Park Service, American Federation of Labor Building",
+   "url": "https://www.nps.gov/places/american-federation-of-labor-building.htm",
+   "kind": "official",
+   "date": "2026-11-28"
+  },
+  {
+   "id": "src9002",
+   "label": "Dictionary of American History via Encyclopedia.com, American Federation of Labor",
+   "url": "https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/american-federation-labor",
+   "kind": "reference",
+   "date": "2026-11-28"
   }
  ],
  "media": [

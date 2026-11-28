@@ -335,7 +335,8 @@
    ],
    "disagreements": [
     "d3",
-    "d9001"
+    "d9001",
+    "d9002"
    ]
   },
   {
@@ -710,6 +711,24 @@
      "says": "Grosberg: when Sennacherib invaded in 701 the project was not yet finished, and Hezekiah completed it only after Sennacherib's defeat",
      "claims": [
       "c-aud-20261128-3"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9002",
+   "question": "Did the tunnel serve Jerusalem during the siege of 701, or was it completed only afterward?",
+   "versions": [
+    {
+     "says": "The press release on the study: the tunnel brought water to Jerusalem and protected it during the Assyrian siege of 701 BCE",
+     "claims": [
+      "c-aud-20261128-1"
+     ]
+    },
+    {
+     "says": "Grosberg: when Sennacherib invaded in 701 the project was not yet finished, and Hezekiah completed it only after Sennacherib's defeat",
+     "claims": [
+      "c-aud-20261128-2"
      ]
     }
    ]
@@ -1223,6 +1242,24 @@
    "locator": "audit 2026-11-28",
    "status": "confirmed",
    "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-1",
+   "text": "ההודעה לעיתונות על המחקר: הנקבה הביאה מים לירושלים והגנה עליהם בעת המצור האשורי ב-701 לפנה\"ס",
+   "source": "src3",
+   "quote": "The complicated tunneling project initiated by King Hezekiah brought water into the city of Jerusalem",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-2",
+   "text": "גרוסברג: בעת פלישת סנחריב ב-701 המפעל טרם הושלם, וחזקיהו השלים אותו רק אחרי מפלת סנחריב",
+   "source": "src6",
+   "quote": "לאחר מפלת סנחריב החליט חזקיהו להשלים את חציבת נקבת השילוח",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
   }
  ],
  "sources": [

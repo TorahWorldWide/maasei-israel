@@ -1,7 +1,7 @@
 {
  "schema": "maasei-museum/1",
  "slug": "jacob-rodrigues-pereira-teaching-deaf",
- "deed": "יעקב רודריגס פריירה לימד ילדים חירשים לתקשר בצרפת של המאה ה-18",
+ "deed": "Jacob Rodrigues Pereira taught deaf children to communicate in 18th-century France",
  "canonical_type": "single-inventor",
  "year": "1746",
  "title": "Jacob Rodrigues Pereira, son of Marranos, taught the deaf to speak and presented his method before the King of France",
@@ -838,6 +838,24 @@
      ]
     }
    ]
+  },
+  {
+   "id": "d9001",
+   "question": "Who was the first teacher of the deaf in France?",
+   "versions": [
+    {
+     "says": "Jewish Encyclopedia: Jacob Rodrigues Pereira",
+     "claims": [
+      "c-aud-20261128-1"
+     ]
+    },
+    {
+     "says": "Harlan Lane: the deaf monk Étienne Defaye at the abbey of Saint-Jean in Amiens, who also taught Pereira's pupil before him",
+     "claims": [
+      "c-aud-20261128-2"
+     ]
+    }
+   ]
   }
  ],
  "unknowns": [
@@ -1603,6 +1621,24 @@
    "quote": "Péreire (Pereira), Jacob Rodrigues (1715–1780), French educator of deaf-mutes and communal leader.",
    "status": "confirmed",
    "locator": "שורה 6"
+  },
+  {
+   "id": "c-aud-20261128-1",
+   "text": "האנציקלופדיה היהודית: יעקב רודריגס פריירה",
+   "source": "src1",
+   "quote": "First teacher of deaf-mutes in France",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-2",
+   "text": "הרלן ליין: הנזיר החירש אטיין דפה במנזר סן-ז'אן באמיין, שלימד גם את תלמידו של פריירה לפניו",
+   "source": "src5",
+   "quote": "the first recorded teacher of the deaf in France",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [

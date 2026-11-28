@@ -811,6 +811,24 @@
      ]
     }
    ]
+  },
+  {
+   "id": "d9001",
+   "question": "מי היה המורה הראשון לחירשים בצרפת?",
+   "versions": [
+    {
+     "says": "האנציקלופדיה היהודית: יעקב רודריגס פריירה",
+     "claims": [
+      "c-aud-20261128-1"
+     ]
+    },
+    {
+     "says": "הרלן ליין: הנזיר החירש אטיין דפה במנזר סן-ז'אן באמיין, שלימד גם את תלמידו של פריירה לפניו",
+     "claims": [
+      "c-aud-20261128-2"
+     ]
+    }
+   ]
   }
  ],
  "unknowns": [
@@ -1513,6 +1531,24 @@
    "quote": "Péreire (Pereira), Jacob Rodrigues (1715–1780), French educator of deaf-mutes and communal leader.",
    "status": "confirmed",
    "locator": "שורה 6"
+  },
+  {
+   "id": "c-aud-20261128-1",
+   "text": "האנציקלופדיה היהודית: יעקב רודריגס פריירה",
+   "source": "src1",
+   "quote": "First teacher of deaf-mutes in France",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-2",
+   "text": "הרלן ליין: הנזיר החירש אטיין דפה במנזר סן-ז'אן באמיין, שלימד גם את תלמידו של פריירה לפניו",
+   "source": "src5",
+   "quote": "the first recorded teacher of the deaf in France",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [

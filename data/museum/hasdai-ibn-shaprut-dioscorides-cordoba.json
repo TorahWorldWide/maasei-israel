@@ -401,9 +401,10 @@
     ],
     [
      {
-      "text": "לפי המאמר, יצירת דיוסקורידס נכנסה לאירופה של ימי הביניים רק דרך תרגומי כתבי היד הערביים.",
+      "text": "עם זאת, תרגומים לטיניים של חיבור דיוסקורידס היו זמינים במערב כבר במאה השישית לספירה.",
       "claims": [
-       "c29"
+       "c29",
+       "c-aud-20261128-1"
       ]
      },
      {
@@ -957,6 +958,15 @@
    "quote": "Spanish physician, diplomat, and patron of Jewish science; born about 915 at Jaen; died 970 or 990 at Cordova.",
    "status": "confirmed",
    "locator": "שורה 5"
+  },
+  {
+   "id": "c-aud-20261128-1",
+   "text": "עם זאת, תרגומים לטיניים של חיבור דיוסקורידס היו זמינים במערב כבר במאה השישית לספירה.",
+   "source": "src9001",
+   "quote": "the Latin translations that had been made available by the sixth century AD",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -989,6 +999,13 @@
    "label": "Jewish Encyclopedia, Dioscorides, Pedacius or Pedanius",
    "url": "https://www.jewishencyclopedia.com/articles/5214",
    "kind": "reference"
+  },
+  {
+   "id": "src9001",
+   "label": "Edward Worth Library, Dublin, 'Ancient Botany: Dioscorides'",
+   "url": "https://botany.edwardworthlibrary.ie/Ancient-Botany/Dioscorides",
+   "kind": "organisation",
+   "date": "2026-11-28"
   }
  ],
  "media": [

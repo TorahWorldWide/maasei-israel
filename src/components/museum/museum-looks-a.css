@@ -270,6 +270,12 @@
   font-size: 24px;
   color: var(--lk-accent);
 }
+/* the station number as a small medallion: a second, fainter hairline ring just outside the first
+   (an outline, so it takes no room and nothing moves) */
+.mx-root[data-look="a4"] .mx-st-num {
+  outline: 1px solid color-mix(in srgb, var(--lk-accent) 45%, transparent);
+  outline-offset: 3px;
+}
 .mx-root[data-look="a4"] .mx-st-title { font-weight: 700; font-size: clamp(27px, 3.3vw, 38px); }
 .mx-root[data-look="a4"] .mx-prose p { font-size: 19.5px; line-height: 1.75; }
 .mx-root[data-look="a4"] .mx-sources li { font-size: 15px; }

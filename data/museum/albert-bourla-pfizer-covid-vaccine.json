@@ -13,10 +13,11 @@
    ]
   },
   {
-   "text": "הוא נולד ב-1962 למשפחה יהודית בסלוניקי שביוון.",
+   "text": "הוא נולד ב-1961 למשפחה יהודית בסלוניקי שביוון.",
    "claims": [
     "c79",
-    "c12"
+    "c12",
+    "c-aud-20261128-1"
    ]
   },
   {
@@ -60,9 +61,10 @@
   },
   {
    "label": "נולד",
-   "value": "1962, סלוניקי, יוון",
+   "value": "1961, סלוניקי, יוון",
    "claims": [
-    "c79"
+    "c79",
+    "c-aud-20261128-2"
    ]
   },
   {
@@ -102,9 +104,10 @@
       ]
      },
      {
-      "text": "אלברט בורלה נולד בעיר ב-1962, למשפחה יהודית.",
+      "text": "אלברט בורלה נולד בעיר ב-1961, למשפחה יהודית.",
       "claims": [
-       "c79"
+       "c79",
+       "c-aud-20261128-3"
       ]
      },
      {
@@ -647,9 +650,10 @@
       ]
      },
      {
-      "text": "לפי ynet, הוא מכר 132,508 מניות בשווי 41.94 דולר למנייה, ברווח כולל של 5.56 מיליון דולר.",
+      "text": "לפי NBC, הוא מכר 132,508 מניות במחיר 41.94 דולר למנייה, בשווי כולל של 5.56 מיליון דולר.",
       "claims": [
-       "c72"
+       "c72",
+       "c-aud-20261128-4"
       ]
      },
      {
@@ -1515,6 +1519,42 @@
    "locator": "audit 2026-11-28",
    "status": "confirmed",
    "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-1",
+   "text": "הוא נולד ב-1961 למשפחה יהודית בסלוניקי שביוון.",
+   "source": "src9001",
+   "quote": "Dr. Albert Abraham Bourla was born in Thessaloniki in 1961 to a Jewish family",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-2",
+   "text": "1961, סלוניקי, יוון",
+   "source": "src9001",
+   "quote": "Dr. Albert Abraham Bourla was born in Thessaloniki in 1961 to a Jewish family",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-3",
+   "text": "אלברט בורלה נולד בעיר ב-1961, למשפחה יהודית.",
+   "source": "src9001",
+   "quote": "Dr. Albert Abraham Bourla was born in Thessaloniki in 1961 to a Jewish family",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-4",
+   "text": "לפי NBC, הוא מכר 132,508 מניות במחיר 41.94 דולר למנייה, בשווי כולל של 5.56 מיליון דולר.",
+   "source": "src9002",
+   "quote": "Bourla sold 132,508 shares at $41.94 per share",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1589,6 +1629,20 @@
    "label": "Al Jazeera, 19.1.2022",
    "url": "https://www.aljazeera.com/economy/2022/1/19/pfizer-ceo-awarded-1m-genesis-prize-for-developing-covid-vaccine",
    "kind": "press"
+  },
+  {
+   "id": "src9001",
+   "label": "Technion, Extraordinary achievement that illustrates the importance of science, July 2022",
+   "url": "https://www.technion.ac.il/en/blog/2022/07/extraordinary-achievement-that-illustrates-the-importance-of-science/",
+   "kind": "organisation",
+   "date": "2026-11-28"
+  },
+  {
+   "id": "src9002",
+   "label": "NBC News, Pfizer CEO sold stock worth $5.6 million on same day as vaccine announcement, November 2020",
+   "url": "https://www.nbcnews.com/business/business-news/pfizer-ceo-sold-stock-worth-5-6-million-same-day-n1247398",
+   "kind": "press",
+   "date": "2026-11-28"
   }
  ],
  "media": [

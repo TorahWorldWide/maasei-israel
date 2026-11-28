@@ -1,0 +1,1773 @@
+{
+ "schema": "maasei-museum/1",
+ "slug": "rainer-weiss-ligo-gravitational-waves",
+ "deed": "ריינר וייס, פליט יהודי מברלין, תכנן את LIGO וגילה את גלי הכבידה",
+ "canonical_type": "scientific-discovery",
+ "year": "1972",
+ "title": "ריינר וייס ברח מהנאצים כילד, הגה את LIGO, והגלאי קלט לראשונה גלי כבידה",
+ "trailer": [
+  {
+   "text": "ריינר וייס, פיזיקאי וחתן פרס נובל בפיזיקה לשנת 2017, נולד בברלין ב-1932 לאב יהודי.",
+   "claims": [
+    "c36",
+    "c73",
+    "c61"
+   ]
+  },
+  {
+   "text": "המשפחה ברחה מהנאצים, ובינואר 1939 נחתה בניו יורק.",
+   "claims": [
+    "c2",
+    "c12"
+   ]
+  },
+  {
+   "text": "כשלימד קורס ב-MIT הוא הגה תרגיל בכיתה, והתרגיל הפך לרעיון של LIGO: מכשיר שנועד לקלוט אדוות במרחב-זמן, שנקראות גלי כבידה.",
+   "claims": [
+    "c24",
+    "c37",
+    "c35"
+   ]
+  },
+  {
+   "text": "ב-14 בספטמבר 2015 קלטו שני גלאי LIGO אות של גלי כבידה, וזה היה הגילוי הישיר הראשון שלהם.",
+   "claims": [
+    "c30",
+    "c31"
+   ]
+  },
+  {
+   "text": "ב-2017 חלק וייס על העבודה הזו את פרס נובל.",
+   "claims": [
+    "c36"
+   ]
+  }
+ ],
+ "hero_media": [
+  "m2",
+  "m6",
+  "m10",
+  "m3",
+  "m1",
+  "m5",
+  "m4",
+  "m8",
+  "m9"
+ ],
+ "glance": [
+  {
+   "label": "נולד",
+   "value": "ברלין, 1932",
+   "claims": [
+    "c73"
+   ]
+  },
+  {
+   "label": "שורשים",
+   "value": "אב יהודי, המשפחה ברחה מהנאצים",
+   "claims": [
+    "c2",
+    "c61"
+   ]
+  },
+  {
+   "label": "הרעיון",
+   "value": "תרגיל בכיתה ב-MIT",
+   "claims": [
+    "c37"
+   ]
+  },
+  {
+   "label": "הגלאים",
+   "value": "הנפורד וליווינגסטון",
+   "claims": [
+    "c42"
+   ]
+  },
+  {
+   "label": "הגילוי",
+   "value": "14 בספטמבר 2015",
+   "claims": [
+    "c30"
+   ]
+  },
+  {
+   "label": "הכרה",
+   "value": "פרס נובל בפיזיקה 2017",
+   "claims": [
+    "c36"
+   ]
+  }
+ ],
+ "stations": [
+  {
+   "id": "s1",
+   "title": "ילד בברלין, משפחה בורחת",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "ריינר וייס נולד בברלין ב-1932.",
+      "claims": [
+       "c73"
+      ]
+     },
+     {
+      "text": "אביו היה רופא ופסיכואנליטיקאי, ואמו הייתה שחקנית.",
+      "claims": [
+       "c1"
+      ]
+     },
+     {
+      "text": "לפי JTA, אמו לא הייתה יהודייה ואביו היה יהודי.",
+      "claims": [
+       "c61"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "וייס סיפר שאביו בא ממשפחה יהודית-גרמנית אמידה בברלין, שהיו לה קשרים למשפחת ראתנאו.",
+      "claims": [
+       "c8"
+      ]
+     },
+     {
+      "text": "לפי הניו יורק טיימס, הנאצים חטפו את האב זמן קצר לפני שבנו נולד.",
+      "claims": [
+       "c60"
+      ]
+     },
+     {
+      "text": "וייס סיפר שלאביו היו קשיים עם נאצים שחדרו לבית החולים שבו עבד.",
+      "claims": [
+       "c9"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "המשפחה ברחה מגרמניה הנאצית לפראג.",
+      "claims": [
+       "c73"
+      ]
+     },
+     {
+      "text": "וייס סיפר שרגע מכריע היה בספטמבר 1938, כשצ'מברליין העניק את הסודטים להיטלר ופתח למעשה את צ'כוסלובקיה לנאצים.",
+      "claims": [
+       "c10"
+      ]
+     },
+     {
+      "text": "הוא סיפר גם שמשפחת סטיקס מסנט לואיס ערבה כספית לכעשרת אלפים יהודים בעלי מקצועות חופשיים, כדי שיוכלו להיכנס לארצות הברית.",
+      "claims": [
+       "c11"
+      ]
+     },
+     {
+      "text": "בינואר 1939 נחתה המשפחה בניו יורק.",
+      "claims": [
+       "c12"
+      ]
+     },
+     {
+      "text": "לדבריו, לאביו לקח כארבע שנים לעבור את בחינות מדינת ניו יורק ולקבל הסמכה כרופא.",
+      "claims": [
+       "c13"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m18"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s2",
+   "title": "נער שמתקן מכשירי רדיו",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "וייס סיפר שבנעוריו הרוויח מעט כסף מתיקון מכשירי רדיו ומכשירי אלקטרוניקה אחרים.",
+      "claims": [
+       "c14"
+      ]
+     },
+     {
+      "text": "ב-1950 התקבל ל-MIT כסטודנט שנה ראשונה.",
+      "claims": [
+       "c15"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "באביב 1953 נעשה טכנאי אלקטרוניקה במעבדת הקרן האטומית של פרופ' ג'רולד זכריאס ב-MIT.",
+      "claims": [
+       "c17"
+      ]
+     },
+     {
+      "text": "לדבריו, שעון הצזיום שפותח במעבדה שווק מסחרית ונעשה תקן הזמן של לשכת התקנים.",
+      "claims": [
+       "c18"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "וייס סיפר שרצה לעבוד בפרינסטון עם פרופ' רוברט דיקי, שהתעניין בכבידה.",
+      "claims": [
+       "c21"
+      ]
+     },
+     {
+      "text": "לדבריו, השנתיים בפרינסטון היו חשובות מאוד להתפתחותו המדעית.",
+      "claims": [
+       "c22"
+      ]
+     },
+     {
+      "text": "אחר כך חזר ל-MIT כחבר סגל במחלקה לפיזיקה.",
+      "claims": [
+       "c23",
+       "c70"
+      ]
+     },
+     {
+      "text": "הוא סיפר שאשתו רבקה הייתה פיזיולוגית של צמחים בהרווארד.",
+      "claims": [
+       "c20"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "לפי המחלקה לפיזיקה ב-MIT, וייס חזר ל-MIT כפרופסור עוזר ב-1964.",
+      "claims": [
+       "c74"
+      ]
+     }
+    ]
+   ],
+   "media": [],
+   "disagreements": [
+    "d9001"
+   ]
+  },
+  {
+   "id": "s3",
+   "title": "תרגיל בכיתה שהפך לגלאי",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "וייס סיפר שב-1966 התבקש ללמד קורס מתקדם ביחסות כללית.",
+      "claims": [
+       "c24"
+      ]
+     },
+     {
+      "text": "לפי הניו יורק טיימס, כשלימד את הקורס בשנות ה-60 המאוחרות, שרטט וייס, אמריקאי יליד גרמניה, את הרעיון שהפך לפרויקט LIGO.",
+      "claims": [
+       "c49"
+      ]
+     },
+     {
+      "text": "לפי MIT News, הרעיון התחיל כתרגיל בכיתה.",
+      "claims": [
+       "c37"
+      ]
+     },
+     {
+      "text": "וייס אמר ב-2017 שהרעיון נבע מהשאלה מהו הדבר הפשוט ביותר שיראה לסטודנטים השפעה של גל כבידה.",
+      "claims": [
+       "c39"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "גלי כבידה הם כמו אדוות במרחב-זמן, והם נוצרים כשעצמים בעלי מסה מאיצים.",
+      "claims": [
+       "c7"
+      ]
+     },
+     {
+      "text": "לפי הניו יורק טיימס, וייס ידע שהגלים אמורים למתוח ולדחוס את המרחב בזמן שהם עוברים בו, והגה מכשיר שימדוד את ההפרעות האלה.",
+      "claims": [
+       "c51"
+      ]
+     },
+     {
+      "text": "בגלאי משתמשים בלייזר כדי למדוד שינויים קטנים באורך שגלי הכבידה גורמים.",
+      "claims": [
+       "c6"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "וייס סיפר שהניסוי המחשבתי מהקורס הפך ב-1972 לניסוי אמיתי לגילוי גלי כבידה ממקורות אסטרונומיים.",
+      "claims": [
+       "c25"
+      ]
+     },
+     {
+      "text": "לפי הניו יורק טיימס, באותה שנה השיג וייס מימון מ-MIT לבניית אב-טיפוס קטן.",
+      "claims": [
+       "c53"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m16",
+    "m5"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s4",
+   "title": "בלונים בשמיים: קרינת הרקע",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "וייס סיפר שבין 1967 ל-1982 הטיסו הוא וצוותו כ-20 טיסות של בלונים בגובה רב, תחילה כדי למדוד את הספקטרום של קרינת הרקע הקוסמית ואחר כך את האיזוטרופיה שלה.",
+      "claims": [
+       "c26"
+      ]
+     },
+     {
+      "text": "לפי הניו יורק טיימס, בניסויי הבלונים קבעו וייס ודירק מילנר שטמפרטורת קרינת הרקע היא 2.73 קלווין מעל האפס המוחלט.",
+      "claims": [
+       "c58"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "וייס היה יושב ראש קבוצת העבודה המדעית של COBE.",
+      "claims": [
+       "c27"
+      ]
+     },
+     {
+      "text": "שניים ממדעני COBE, מאת'ר וסמוט, זכו בפרס נובל בפיזיקה ב-2006.",
+      "claims": [
+       "c28"
+      ]
+     },
+     {
+      "text": "לדבריו, עד אמצע שנות ה-80 הוא עסק יותר בפרויקט גלי הכבידה, וסטפן מאייר לקח לידיו את מחקר קרינת הרקע.",
+      "claims": [
+       "c29"
+      ]
+     }
+    ]
+   ],
+   "media": [],
+   "disagreements": []
+  },
+  {
+   "id": "s5",
+   "title": "שותפים, כסף ובנייה",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "לפי MIT News, ב-1976 החל וייס לעבוד עם קיפ ת'ורן, והשניים יצרו שיתוף פעולה בין MIT לקלטק.",
+      "claims": [
+       "c40"
+      ]
+     },
+     {
+      "text": "לפי הניו יורק טיימס, ת'ורן, תאורטיקן, היה בתחילה ספקן, ואחר כך הפך לתומך נלהב בפרויקט.",
+      "claims": [
+       "c54"
+      ]
+     },
+     {
+      "text": "ב-1979 הצטרף רונלד דרבר מאוניברסיטת גלזגו למאמץ בקלטק.",
+      "claims": [
+       "c41"
+      ]
+     },
+     {
+      "text": "לפי Physics World, ב-1979 מימנה הקרן הלאומית למדע את קלטק ו-MIT כדי לפתח את ההצעה לבניית LIGO.",
+      "claims": [
+       "c71"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "הגלאים נבנו בהנפורד שבמדינת וושינגטון ובליווינגסטון שבלואיזיאנה.",
+      "claims": [
+       "c42"
+      ]
+     },
+     {
+      "text": "LIGO הוא שני גלאים זהים, שנמצאים במרחק 1,865 מייל זה מזה.",
+      "claims": [
+       "c38"
+      ]
+     },
+     {
+      "text": "לפי Physics World, מתקני LIGO נפתחו ב-2002.",
+      "claims": [
+       "c64"
+      ]
+     },
+     {
+      "text": "לפי הניו יורק טיימס, הקרן הלאומית למדע השקיעה בפיתוח LIGO יותר ממיליארד דולר.",
+      "claims": [
+       "c55"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "לפי LIGO, ויטקומב אמר שוייס היה האדם הראשון שחזה גלאי גדול, ושהוא זיהה כמעט את כל הבעיות שצריך להתגבר עליהן.",
+      "claims": [
+       "c69"
+      ]
+     },
+     {
+      "text": "לפי הניו יורק טיימס, כ-1,500 מדענים מכ-100 מוסדות ב-18 מדינות עובדים על פרויקטי LIGO ו-Virgo.",
+      "claims": [
+       "c56"
+      ]
+     }
+    ]
+   ],
+   "media": [],
+   "disagreements": [
+    "d2"
+   ]
+  },
+  {
+   "id": "s6",
+   "title": "14 בספטמבר 2015: האות מגיע",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "ב-14 בספטמבר 2015 קלטו שני גלאי LIGO, באותו זמן, אות חולף של גלי כבידה.",
+      "claims": [
+       "c30"
+      ]
+     },
+     {
+      "text": "לפי מאמר הגילוי, זה היה הגילוי הישיר הראשון של גלי כבידה, וגם התצפית הראשונה במיזוג של זוג חורים שחורים.",
+      "claims": [
+       "c31"
+      ]
+     },
+     {
+      "text": "יחס האות לרעש היה 24, ושיעור אזעקת השווא היה פחות מאירוע אחד ל-203,000 שנים.",
+      "claims": [
+       "c32"
+      ]
+     },
+     {
+      "text": "המקור נמצא במרחק זוהר של כ-410 מגה-פארסק.",
+      "claims": [
+       "c33"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "לפי Space.com, האות נקרא GW150914.",
+      "claims": [
+       "c67"
+      ]
+     },
+     {
+      "text": "לפי Space.com, איינשטיין היה משוכנע שהאדוות האלה חלשות מכדי שמכשיר כלשהו על כדור הארץ יוכל לגלות אותן.",
+      "claims": [
+       "c68"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m17"
+   ],
+   "disagreements": [
+    "d3"
+   ]
+  },
+  {
+   "id": "s7",
+   "title": "פרס נובל, ומה שנשאר אחריו",
+   "kind": "story",
+   "paragraphs": [
+    [
+     {
+      "text": "ב-2017 חלק וייס את פרס נובל בפיזיקה על העבודה הזו.",
+      "claims": [
+       "c36"
+      ]
+     },
+     {
+      "text": "נימוק הפרס היה תרומות מכריעות לגלאי LIGO ולתצפית בגלי כבידה.",
+      "claims": [
+       "c3"
+      ]
+     },
+     {
+      "text": "לפי JTA, וייס זכה בחצי מהפרס בסך 1.1 מיליון דולר, ובריש ות'ורן חלקו את החצי השני.",
+      "claims": [
+       "c63"
+      ]
+     },
+     {
+      "text": "JTA כתבה ששלושה מדענים אמריקאים זכו בפרס, ושאחד מהם ברח מהנאצים עם הוריו.",
+      "claims": [
+       "c62"
+      ]
+     },
+     {
+      "text": "לפי הניו יורק טיימס, חבר בוועדת נובל אמר בהכרזה שעכשיו אנחנו עדים לשחר של תחום חדש, אסטרונומיית גלי כבידה.",
+      "claims": [
+       "c72"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "ב-2016 קיבל וייס, יחד עם דרבר ות'ורן, את פרס פורצי הדרך המיוחד בפיזיקה יסודית, פרס גרובר בקוסמולוגיה, פרס שאו באסטרונומיה ופרס קאבלי באסטרופיזיקה.",
+      "claims": [
+       "c45"
+      ]
+     },
+     {
+      "text": "הוא חלק גם את פרס אסטוריאס לקידמה טכנית ומדעית עם ת'ורן, בריש ושיתוף הפעולה המדעי של LIGO.",
+      "claims": [
+       "c46"
+      ]
+     },
+     {
+      "text": "במסיבת עיתונאים ב-MIT אמר וייס שהגילוי הוא עבודתם של אנשים רבים רבים שמילאו תפקידים מכריעים.",
+      "claims": [
+       "c43"
+      ]
+     },
+     {
+      "text": "בכסף מפרס נובל הוא הקים את מלגת בריש-וייס, שתומכת במחקר של סטודנטים במחלקה לפיזיקה ב-MIT.",
+      "claims": [
+       "c44"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "וייס נפטר ב-25 באוגוסט 2025, בגיל 92.",
+      "claims": [
+       "c34"
+      ]
+     },
+     {
+      "text": "פרופ' פיטר פישר אמר שוייס יצר שני תחומים: מדידות קרינת הרקע הקוסמית וגלי כבידה.",
+      "claims": [
+       "c47"
+      ]
+     },
+     {
+      "text": "קיפ ת'ורן אמר עליו שהוא האדם המשפיע ביותר שהתחום ראה, בהפרש גדול.",
+      "claims": [
+       "c48"
+      ]
+     }
+    ]
+   ],
+   "media": [
+    "m15",
+    "m14",
+    "m2",
+    "m6",
+    "m10",
+    "m3",
+    "m4",
+    "m8",
+    "m9",
+    "m11",
+    "m13",
+    "m7",
+    "m12",
+    "m1"
+   ],
+   "disagreements": []
+  },
+  {
+   "id": "s8",
+   "title": "הדרך לא הייתה חלקה",
+   "kind": "hard",
+   "paragraphs": [
+    [
+     {
+      "text": "וייס סיפר שב-MIT הוא נכשל בכל הקורסים שלו ונאלץ לעזוב כסטודנט.",
+      "claims": [
+       "c16"
+      ]
+     },
+     {
+      "text": "לדבריו, שעון המזרקה האטומי לא עבד, והניסיון הראשון נעשה במערכת ואקום אנכית בגובה של כ-3 מטרים.",
+      "claims": [
+       "c19"
+      ]
+     },
+     {
+      "text": "הוא סיפר גם שהניסוי בפרינסטון לא הצליח.",
+      "claims": [
+       "c22"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "לפי הניו יורק טיימס, ג'וזף ובר טען שמצא דרך לגלות גלי כבידה בגלילי אלומיניום, אבל איש לא הצליח לשחזר את הניסויים שלו.",
+      "claims": [
+       "c50"
+      ]
+     },
+     {
+      "text": "לפי העיתון, הרעיון של וייס היה נכון, אבל השאלה אם אפשר לבצע אותו נתקלה בהתנגדות רבה.",
+      "claims": [
+       "c52"
+      ]
+     }
+    ],
+    [
+     {
+      "text": "לפי Physics World, אחרי כמעט עשור של פעילות לא התגלו גלים, ולכן ב-2011 שודרגו שני המצפים ונעשו רגישים פי עשרה מבעבר.",
+      "claims": [
+       "c65"
+      ]
+     },
+     {
+      "text": "לפי הניו יורק טיימס, היו שסברו שוייס היה צריך לחלוק את פרס נובל של 2006 על COBE.",
+      "claims": [
+       "c59"
+      ]
+     }
+    ]
+   ],
+   "media": [],
+   "disagreements": []
+  }
+ ],
+ "disagreements": [
+  {
+   "id": "d2",
+   "question": "מתי החלה בניית גלאי LIGO?",
+   "versions": [
+    {
+     "says": "לפי Physics World, הבנייה של שני גלאי LIGO, בהנפורד שבוושינגטון ובליווינגסטון שבלואיזיאנה, החלה ב-1990.",
+     "claims": [
+      "c64"
+     ]
+    },
+    {
+     "says": "לפי MIT News, באמצע שנות ה-90, אחרי תמיכת הקרן הלאומית למדע",
+     "claims": [
+      "c42"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d3",
+   "question": "כמה רחוק היה מיזוג החורים השחורים שנקלט ב-2015?",
+   "versions": [
+    {
+     "says": "לפי Physics World, במרחק של כ-1.3 מיליארד שנות אור",
+     "claims": [
+      "c66"
+     ]
+    },
+    {
+     "says": "לפי Space.com, במרחק של 1.4 מיליארד שנות אור",
+     "claims": [
+      "c67"
+     ]
+    },
+    {
+     "says": "לפי הניו יורק טיימס, המיזוג קרה לפני כ-1.3 מיליארד שנים",
+     "claims": [
+      "c57"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9001",
+   "question": "באיזו שנה חזר וייס ל-MIT כחבר סגל?",
+   "versions": [
+    {
+     "says": "המחלקה לפיזיקה ב-MIT: ב-1964, כפרופסור עוזר",
+     "claims": [
+      "c-aud-20261128-6"
+     ]
+    },
+    {
+     "says": "וייס עצמו, באוטוביוגרפיה באתר נובל: ב-1965 הזמין אותו זכריאס לחזור ל-MIT",
+     "claims": [
+      "c-aud-20261128-7"
+     ]
+    }
+   ]
+  }
+ ],
+ "unknowns": [
+  {
+   "text": "וייס כותב שהמשפחה זכתה לתמיכתה של משפחת סטיקס מסנט לואיס, שערבה לכעשרת אלפים יהודים בעלי מקצועות חופשיים כדי שיזכו לכניסה מועדפת לארצות הברית, ושהמשפחה הגיעה לארצות הברית בינואר 1939 ונחתה בניו יורק.",
+   "claims": [
+    "c11",
+    "c12"
+   ]
+  }
+ ],
+ "claims": [
+  {
+   "id": "c36",
+   "text": "לפי MIT News, וייס חלק את פרס נובל בפיזיקה על עבודה זו ב-2017.",
+   "source": "src1",
+   "quote": "He shared the Nobel Prize in Physics for this work in 2017.",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c73",
+   "text": "לפי MIT News, פרופ' גלות מדעית: וייס, שנולד בברלין ב-1932, ברח עם משפחתו מגרמניה הנאצית לפראג ומשם היגר לניו יורק.",
+   "source": "src1",
+   "quote": "The young family fled Nazi Germany to Prague and then emigrated to New York City",
+   "status": "confirmed",
+   "locator": "שורה 23"
+  },
+  {
+   "id": "c61",
+   "text": "לפי JTA ב-2017, וייס נולד בברלין לאם לא-יהודייה ולאב יהודי.",
+   "source": "src2",
+   "quote": "Weiss, 85, was born in Berlin to a non-Jewish mother and a Jewish father.",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c2",
+   "text": "לפי אתר פרס נובל, אביו של וייס היה ממוצא יהודי, והמשפחה ברחה מהנאציזם לארצות הברית.",
+   "source": "src3",
+   "quote": "His father was of Jewish descent, and the family fled Nazism to the United States.",
+   "status": "confirmed",
+   "locator": "שורה 32"
+  },
+  {
+   "id": "c12",
+   "text": "וייס סיפר שהמשפחה הגיעה לארצות הברית בינואר 1939 ונחתה בניו יורק.",
+   "source": "src4",
+   "quote": "The family came to the United States in January 1939, landing in New York.",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c24",
+   "text": "וייס סיפר שב-1966 התבקש ללמד קורס מתקדם ביחסות כללית.",
+   "source": "src4",
+   "quote": "In 1966 I was asked to teach a graduate general relativity course.",
+   "status": "confirmed",
+   "locator": "שורה 29"
+  },
+  {
+   "id": "c37",
+   "text": "לפי MIT News, לפני חמישה עשורים רעיון המכשיר היה תרגיל בכיתה ב-MIT שהגה וייס.",
+   "source": "src1",
+   "quote": "five decades ago, the instrument concept was an MIT class exercise conceived by Weiss.",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c35",
+   "text": "לפי MIT News, וייס הגה את LIGO לגילוי אדוות במרחב-זמן הידועות כגלי כבידה.",
+   "source": "src1",
+   "quote": "Weiss conceived of the Laser Interferometer Gravitational-Wave Observatory (LIGO) for detecting ripples in space-time known as gravitational waves",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c30",
+   "text": "לפי מאמר הגילוי, ב-14 בספטמבר 2015 שני גלאי LIGO צפו בו-זמנית באות גלי כבידה חולף.",
+   "source": "src5",
+   "quote": "On September 14, 2015 at 09:50:45 UTC the two detectors of the Laser Interferometer Gravitational-Wave Observatory simultaneously observed a transient gravitational-wave signal.",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c31",
+   "text": "לפי מאמר הגילוי, זו הגילוי הישיר הראשון של גלי כבידה והתצפית הראשונה במיזוג של זוג חורים שחורים.",
+   "source": "src5",
+   "quote": "This is the first direct detection of gravitational waves and the first observation of a binary black hole merger.",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c42",
+   "text": "לפי MIT News, לאחר תמיכת הקרן הלאומית למדע, LIGO החלה בנייה באמצע שנות ה-90 בהנפורד שבוושינגטון ובליווינגסטון שבלואיזיאנה.",
+   "source": "src1",
+   "quote": "After receiving support from the National Science Foundation, LIGO broke ground in the mid-1990s, constructing interferometric detectors in Hanford, Washington, and in Livingston, Louisiana.",
+   "status": "confirmed",
+   "locator": "שורה 17"
+  },
+  {
+   "id": "c25",
+   "text": "וייס סיפר שאותו קורס ביחסות כללית הוליד ניסוי מחשבתי שהפך ב-1972 לניסוי אמיתי לגילוי גלי כבידה ממקורות אסטרונומיים.",
+   "source": "src4",
+   "quote": "The same graduate course in general relativity led to a gedanken experiment which became a real experiment in 1972 to try to detect gravitational waves from astronomical sources.",
+   "status": "confirmed",
+   "locator": "שורה 38"
+  },
+  {
+   "id": "c53",
+   "text": "לפי הניו יורק טיימס, וייס השיג מימון מ-MIT לבניית אב-טיפוס קטן ב-1972.",
+   "source": "src6",
+   "quote": "Dr. Weiss secured enough funding from M.I.T. to build a small-scale prototype in 1972.",
+   "status": "confirmed",
+   "locator": "שורה 15"
+  },
+  {
+   "id": "c1",
+   "text": "לפי אתר פרס נובל, ריינר וייס נולד בברלין; אביו היה רופא ופסיכואנליטיקאי ואמו שחקנית.",
+   "source": "src3",
+   "quote": "Rainer Weiss was born in Berlin, where his father was a doctor and psychoanalyst and his mother an actress.",
+   "status": "confirmed",
+   "locator": "שורה 32"
+  },
+  {
+   "id": "c8",
+   "text": "וייס סיפר באוטוביוגרפיה שאביו בא ממשפחה יהודית-גרמנית אמידה בברלין, בעלת קשרים למשפחת ראתנאו.",
+   "source": "src4",
+   "quote": "My father came from a well-off German Jewish family in Berlin with connections to the Rathenau family",
+   "status": "confirmed",
+   "locator": "שורה 1"
+  },
+  {
+   "id": "c60",
+   "text": "לפי הניו יורק טיימס, אביו של וייס, שהיה יהודי, נחטף בידי הנאצים זמן קצר לפני לידתו.",
+   "source": "src6",
+   "quote": "Just before Rainer was born, his father, who was Jewish, was abducted by the Nazis.",
+   "status": "confirmed",
+   "locator": "שורה 28"
+  },
+  {
+   "id": "c9",
+   "text": "וייס סיפר שלאביו היו קשיים עם חדירת נאצים לבית החולים שבו עבד.",
+   "source": "src4",
+   "quote": "My father had gotten into difficulties with Nazis infiltrators at his hospital",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c10",
+   "text": "וייס סיפר שרגע מכריע היה בספטמבר 1938, כשצ'מברליין העניק את הסודטים להיטלר ופתח למעשה את צ'כוסלובקיה לנאצים.",
+   "source": "src4",
+   "quote": "A critical moment came in September of 1938 when Chamberlain gave Sudetenland to Hitler and effectively opened Czechoslovakia to the Nazis.",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c11",
+   "text": "וייס סיפר שמשפחת סטיקס מסנט לואיס ערבה כספית לכעשרת אלפים יהודים בעלי מקצועות חופשיים, כדי שיוכלו להיכנס לארצות הברית.",
+   "source": "src4",
+   "quote": "We were extremely lucky in gaining the support of the Stix family of St Louis who gave bond for about ten thousand Jews who were professionals to gain favored entry to the United States.",
+   "status": "confirmed",
+   "locator": "שורה 2"
+  },
+  {
+   "id": "c13",
+   "text": "וייס סיפר שלאביו לקח כארבע שנים לעבור את בחינות מדינת ניו יורק להסמכה כרופא.",
+   "source": "src4",
+   "quote": "It took my father about 4 years to pass the New York State examinations to practice as a medical doctor.",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c14",
+   "text": "וייס סיפר שבנעוריו הרוויח מעט כסף מתיקון מכשירי רדיו ומכשירי אלקטרוניקה אחרים.",
+   "source": "src4",
+   "quote": "I made pocket change by fixing radios and other broken electronics.",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c15",
+   "text": "וייס סיפר ש-MIT קיבל אותו כסטודנט שנה ראשונה ב-1950.",
+   "source": "src4",
+   "quote": "MIT accepted me as a Freshman in 1950.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c17",
+   "text": "וייס סיפר שבאביב 1953 הפך לטכנאי אלקטרוניקה במעבדת הקרן האטומית של פרופ' ג'רולד זכריאס ב-MIT.",
+   "source": "src4",
+   "quote": "In the spring of 1953 I became an electronics technician in the Atomic Beam Laboratory of Physics Professor Jerrold Zacharias",
+   "status": "confirmed",
+   "locator": "שורה 13"
+  },
+  {
+   "id": "c18",
+   "text": "וייס סיפר ששעון הצזיום שפותח במעבדה שווק מסחרית ונעשה תקן הזמן של לשכת התקנים.",
+   "source": "src4",
+   "quote": "The clock was commercialized by the National Company and then became the standard of time for the Bureau of Standards",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c21",
+   "text": "וייס סיפר שרצה לעבוד עם פרופ' רוברט דיקי בפרינסטון, שהתעניין בכבידה.",
+   "source": "src4",
+   "quote": "but I wanted to work with Professor Robert Dicke at Princeton who had become interested in gravitation",
+   "status": "confirmed",
+   "locator": "שורה 23"
+  },
+  {
+   "id": "c22",
+   "text": "וייס סיפר שהניסוי בפרינסטון לא הצליח, אך שנתיים בפרינסטון היו חשובות מאוד להתפתחותו המדעית.",
+   "source": "src4",
+   "quote": "Even though the experiment was unsuccessful, the two years at Princeton were profoundly important in my scientific development.",
+   "status": "confirmed",
+   "locator": "שורה 25"
+  },
+  {
+   "id": "c23",
+   "text": "לפי האוטוביוגרפיה של וייס, ב-1965 הזמין אותו זכריאס לחזור ל-MIT כחבר סגל במחלקה לפיזיקה.",
+   "source": "src4",
+   "quote": "In 1965 Jerrold invited me to come back to MIT as a faculty member in the Physics department",
+   "status": "confirmed",
+   "locator": "שורה 26"
+  },
+  {
+   "id": "c70",
+   "text": "לפי MIT News, וייס הצטרף לסגל הפיזיקה של MIT ב-1964.",
+   "source": "src1",
+   "quote": "A member of the MIT physics faculty since 1964, Weiss was known as a committed mentor and teacher, as well as a dedicated researcher.",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c20",
+   "text": "וייס סיפר שאשתו רבקה הייתה פיזיולוגית של צמחים בהרווארד.",
+   "source": "src4",
+   "quote": "My wife, Rebecca, was a plant physiologist at Harvard",
+   "status": "confirmed",
+   "locator": "שורה 22"
+  },
+  {
+   "id": "c49",
+   "text": "לפי הניו יורק טיימס, בשנות ה-60 המאוחרות, בהוראת קורס ביחסות כללית ב-MIT, וייס, אמריקאי יליד גרמניה, שרטט לראשונה את הרעיון שהפך לפרויקט LIGO.",
+   "source": "src6",
+   "quote": "Dr. Weiss, a German-born American, was teaching a course in general relativity at M.I.T. in the late 1960s when he first sketched out the idea that would become the LIGO project.",
+   "status": "confirmed",
+   "locator": "שורה 10"
+  },
+  {
+   "id": "c39",
+   "text": "וייס אמר ל-MIT News ב-2017 שהרעיון הראשוני נבע מהשאלה מהו הדבר הפשוט ביותר שיראה לסטודנטים השפעה של גל כבידה.",
+   "source": "src7",
+   "quote": "What's the simplest thing I can think of to show these students that you could detect the influence of a gravitational wave?",
+   "status": "confirmed",
+   "locator": "שורה 13"
+  },
+  {
+   "id": "c7",
+   "text": "לפי אתר פרס נובל, גלי כבידה הם כמו אדוות במרחב-זמן ארבע-ממדי, המתרחשות כשעצמים בעלי מסה מאיצים.",
+   "source": "src3",
+   "quote": "These are like ripples in a four-dimensional spacetime that occur when objects with mass accelerate.",
+   "status": "confirmed",
+   "locator": "שורה 34"
+  },
+  {
+   "id": "c51",
+   "text": "לפי הניו יורק טיימס, וייס שיער שגלי כבידה מותחים ודוחסים את המרחב, ותכנן מכשיר שימדוד את ההפרעות האלה.",
+   "source": "src6",
+   "quote": "Knowing that the waves should stretch and squeeze space as they traveled through it, he envisioned a device that would measure those disruptions.",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c6",
+   "text": "לפי אתר פרס נובל, בגלאי משתמשים בטכנולוגיית לייזר כדי למדוד שינויים קטנים באורך שנגרמים מגלי כבידה.",
+   "source": "src3",
+   "quote": "In this detector laser technology is used to measure small changes in length caused by gravitational waves.",
+   "status": "confirmed",
+   "locator": "שורה 34"
+  },
+  {
+   "id": "c26",
+   "text": "וייס סיפר שבין 1967 ל-1982 הוא וצוותו טסו כ-20 טיסות בלון למדידת קרינת הרקע הקוסמית.",
+   "source": "src4",
+   "quote": "Between 1967 and 1982 we flew around 20 flights, first to measure the spectrum and then the isotropy of the cosmic background radiation.",
+   "status": "confirmed",
+   "locator": "שורה 33"
+  },
+  {
+   "id": "c58",
+   "text": "לפי הניו יורק טיימס, בניסויי הבלונים קבעו וייס ומילנר-מולנר את טמפרטורת קרינת הרקע ל-2.73 קלווין.",
+   "source": "src6",
+   "quote": "they established the temperature of the background radiation to be 2.73 degrees kelvin above absolute zero",
+   "status": "confirmed",
+   "locator": "שורה 23"
+  },
+  {
+   "id": "c27",
+   "text": "וייס סיפר שהיה יושב ראש קבוצת העבודה המדעית של COBE.",
+   "source": "src4",
+   "quote": "I became the COBE science working group chairman, in part since I was the oldest",
+   "status": "confirmed",
+   "locator": "שורה 37"
+  },
+  {
+   "id": "c28",
+   "text": "וייס סיפר שמאת'ר וסמוט, שני מדענים מ-COBE, זכו בפרס נובל בפיזיקה ב-2006.",
+   "source": "src4",
+   "quote": "For these discoveries, two COBE scientists, Mather and George Smoot, won the Nobel Prize in Physics in 2006.",
+   "status": "confirmed",
+   "locator": "שורה 37"
+  },
+  {
+   "id": "c29",
+   "text": "וייס סיפר שעד אמצע שנות ה-80 הוא עסק יותר בפרויקט גילוי גלי הכבידה, וסטפן מאייר השתלט על מחקר קרינת הרקע.",
+   "source": "src4",
+   "quote": "By the mid-1980s, Stephan Meyer took over the cosmic background radiation research and I became more involved with the gravitational wave detection project",
+   "status": "confirmed",
+   "locator": "שורה 38"
+  },
+  {
+   "id": "c40",
+   "text": "לפי MIT News, ב-1976 שיתף וייס פעולה עם קיפת'ורן, והשניים יצרו שיתוף פעולה בין MIT לקלטק.",
+   "source": "src1",
+   "quote": "To realize the audacious design, Weiss teamed up in 1976 with physicist Kip Thorne",
+   "status": "confirmed",
+   "locator": "שורה 16"
+  },
+  {
+   "id": "c54",
+   "text": "לפי הניו יורק טיימס, ת'ורן, תאורטיקן שהיה בתחילה ספקן, הפך לתומך נלהב בפרויקט.",
+   "source": "src6",
+   "quote": "Dr. Thorne, a theorist who was initially skeptical that the detector could be built, became an enthusiastic supporter of the project",
+   "status": "confirmed",
+   "locator": "שורה 15"
+  },
+  {
+   "id": "c41",
+   "text": "לפי MIT News, ב-1979 הצטרף רונלד דרבר מאוניברסיטת גלזגו למאמץ בקלטק.",
+   "source": "src1",
+   "quote": "in 1979, the late Scottish physicist Ronald Drever, then of the University of Glasgow, joined the effort at Caltech",
+   "status": "confirmed",
+   "locator": "שורה 16"
+  },
+  {
+   "id": "c71",
+   "text": "לפי Physics World, ב-1979 מימנה הקרן הלאומית למדע את קלטק ו-MIT לפתח את ההצעה לבניית LIGO.",
+   "source": "src8",
+   "quote": "In 1979 the National Science Foundation funded Caltech and MIT to develop the proposal to build LIGO.",
+   "status": "confirmed",
+   "locator": "שורה 5"
+  },
+  {
+   "id": "c38",
+   "text": "לפי MIT News, LIGO הוא מערכת של שני גלאים זהים הנמצאים במרחק 1,865 מייל זה מזה.",
+   "source": "src1",
+   "quote": "LIGO is a system of two identical detectors located 1,865 miles apart.",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c64",
+   "text": "לפי Physics World, בנייה של שני גלאי LIGO החלה ב-1990 והמתקנים נפתחו ב-2002.",
+   "source": "src8",
+   "quote": "Construction of two LIGO detectors – one in Hanford, Washington and the other at Livingston, Louisiana, each of which featured arms 4 km long – began in 1990, with the facilities opening in 2002.",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c55",
+   "text": "לפי הניו יורק טיימס, הקרן הלאומית למדע השקיעה בפיתוח LIGO יותר ממיליארד דולר.",
+   "source": "src6",
+   "quote": "The NSF spent more than $1 billion developing LIGO",
+   "status": "confirmed",
+   "locator": "שורה 17"
+  },
+  {
+   "id": "c69",
+   "text": "לפי LIGO, ויטקומב אמר שוייס היה האדם הראשון שחזה גלאי גדול וזיהה כמעט את כל הבעיות שיש להתגבר עליהן.",
+   "source": "src9",
+   "quote": "Most people recognize that he was the first person to envision a large detector and to identify (almost) all of the problems that would need to be overcome.",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c56",
+   "text": "לפי הניו יורק טיימס, כ-1,500 מדענים מכ-100 מוסדות ב-18 מדינות עובדים על פרויקטי LIGO ו-Virgo.",
+   "source": "src6",
+   "quote": "Altogether, about 1,500 scientists from about 100 institutions in 18 countries work on the LIGO and Virgo projects.",
+   "status": "confirmed",
+   "locator": "שורה 20"
+  },
+  {
+   "id": "c32",
+   "text": "לפי מאמר הגילוי, האות נצפה ביחס אות-לרעש 24 ובשיעור אזעקת שווא של פחות מאירוע אחד ל-203,000 שנים.",
+   "source": "src5",
+   "quote": "The signal was observed with a matched-filter signal-to-noise ratio of 24 and a false alarm rate estimated to be less than 1 event per 203 000 years",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c33",
+   "text": "לפי מאמר הגילוי, המקור נמצא במרחק זוהר של כ-410 מגה-פארסק.",
+   "source": "src5",
+   "quote": "The source lies at a luminosity distance of $410^{+160}_{-180}$ Mpc",
+   "status": "confirmed",
+   "locator": "שורה 3"
+  },
+  {
+   "id": "c67",
+   "text": "לפי Space.com, האות GW150914 נוצר מהתנגשות ומיזוג חורים שחורים במרחק 1.4 מיליארד שנות אור.",
+   "source": "src7",
+   "quote": "The signal, designated GW150914, was the result of two black holes colliding and merging 1.4 billion light-years away.",
+   "status": "confirmed",
+   "locator": "שורה 8"
+  },
+  {
+   "id": "c68",
+   "text": "לפי Space.com, איינשטיין היה משוכנע שהאדוות חלשות מכדי שמכשיר כלשהו על כדור הארץ יוכל לגלותן.",
+   "source": "src7",
+   "quote": "Einstein had been convinced that these ripples in spacetime were so faint that no apparatus on Earth could ever be sensitive enough to detect them",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c3",
+   "text": "הנמקת פרס נובל לוייס: על תרומות מכריעות לגלאי LIGO ולתצפית בגלי כבידה.",
+   "source": "src3",
+   "quote": "for decisive contributions to the LIGO detector and the observation of gravitational waves",
+   "status": "confirmed",
+   "locator": "שורה 29"
+  },
+  {
+   "id": "c63",
+   "text": "לפי JTA, וייס זכה בחצי מהפרס בסך 1.1 מיליון דולר, ובריש ות'ורן חלקו את החצי השני.",
+   "source": "src2",
+   "quote": "Weiss won half of the $1.1 million prize, with Barish and Thorne sharing the other half.",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c62",
+   "text": "לפי JTA, שלושה מדענים אמריקאים זכו בנובל בפיזיקה, ואחד מהם ברח מהנאצים עם הוריו.",
+   "source": "src2",
+   "quote": "Three American scientists were awarded the Nobel Prize in Physics, including one who fled the Nazis with his parents",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c72",
+   "text": "לפי הניו יורק טיימס, חבר ועדת נובל אמר עם ההכרזה שכעת עדים לשחר תחום חדש: אסטרונומיית גלי כבידה.",
+   "source": "src6",
+   "quote": "We now witness the dawn of a new field: gravitational wave astronomy",
+   "status": "confirmed",
+   "locator": "שורה 9"
+  },
+  {
+   "id": "c45",
+   "text": "לפי MIT News, ב-2016 קיבל וייס את פרס פורצי הדרך המיוחד בפיזיקה יסודית, פרס גרובר בקוסמולוגיה, פרס שאו באסטרונומיה ופרס קאבלי באסטרופיזיקה, כולם במשותף עם דרבר ות'ורן.",
+   "source": "src1",
+   "quote": "In 2016, Weiss received a Special Breakthrough Prize in Fundamental Physics, the Gruber Prize in Cosmology, the Shaw Prize in Astronomy, and the Kavli Prize in Astrophysics, all shared with Drever and Thorne.",
+   "status": "confirmed",
+   "locator": "שורה 27"
+  },
+  {
+   "id": "c46",
+   "text": "לפי MIT News, וייס שיתף גם את פרס אסטוריאס לקידמה טכנית ומדעית עם ת'ורן, בריש ושיתוף הפעולה המדעי של LIGO.",
+   "source": "src1",
+   "quote": "He also shared the Princess of Asturias Award for Technical and Scientific Research with Thorne, Barry Barish of Caltech, and the LIGO Scientific Collaboration.",
+   "status": "confirmed",
+   "locator": "שורה 27"
+  },
+  {
+   "id": "c43",
+   "text": "לפי MIT News, וייס אמר במסיבת עיתונאים ב-MIT שהגילוי הוא עבודתם של אנשים רבים רבים שמילאו תפקידים מכריעים.",
+   "source": "src1",
+   "quote": "The discovery has been the work of a large number of people, many of whom played crucial roles",
+   "status": "confirmed",
+   "locator": "שורה 19"
+  },
+  {
+   "id": "c44",
+   "text": "לפי MIT News, בכסף מפרס נובל הקים וייס את מלגת בריש-וייס לתמיכה במחקר סטודנטים במחלקה לפיזיקה ב-MIT.",
+   "source": "src1",
+   "quote": "With the money he received from the Nobel Prize, Weiss established the Barish-Weiss Fellowship to support student research in the MIT Department of Physics.",
+   "status": "confirmed",
+   "locator": "שורה 26"
+  },
+  {
+   "id": "c34",
+   "text": "לפי MIT News, וייס נפטר ב-25 באוגוסט (2025) בגיל 92.",
+   "source": "src1",
+   "quote": "a renowned experimental physicist and Nobel laureate whose groundbreaking work confirmed a longstanding prediction about the nature of the universe, passed away on Aug. 25.",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c47",
+   "text": "לפי MIT News, פרופ' פיטר פישר אמר שוייס היה יוצר שני תחומים: מדידות קרינת הרקע הקוסמית וגלי כבידה.",
+   "source": "src7",
+   "quote": "Rai held a singular position in science: He was the creator of two fields",
+   "status": "confirmed",
+   "locator": "שורה 17"
+  },
+  {
+   "id": "c48",
+   "text": "לפי MIT News, קיפ ת'ורן אמר על וייס שהוא האדם המשפיע ביותר בהפרש גדול שהתחום ראה.",
+   "source": "src1",
+   "quote": "He really is, by a large margin, the most influential person this field has seen.",
+   "status": "confirmed",
+   "locator": "שורה 42"
+  },
+  {
+   "id": "c16",
+   "text": "וייס סיפר שנכשל בכל הקורסים שלו ב-MIT ונאלץ לעזוב כסטודנט.",
+   "source": "src4",
+   "quote": "The result was I failed all my courses at MIT and had to leave as a student.",
+   "status": "confirmed",
+   "locator": "שורה 12"
+  },
+  {
+   "id": "c19",
+   "text": "וייס סיפר ששעון המזרקה האטומי לא עבד; הניסיון הראשון נעשה במערכת ואקום אנכית בגובה כ-3 מטרים.",
+   "source": "src4",
+   "quote": "Unfortunately, the fountain clock did not work. The first attempt was made in a vertical vacuum system about 3 meters high.",
+   "status": "confirmed",
+   "locator": "שורה 18"
+  },
+  {
+   "id": "c50",
+   "text": "לפי הניו יורק טיימס, ג'וזף ובר טען שמצא דרך לגלות גלי כבידה בגלילי אלומיניום, אך איש לא הצליח לשחזר את הניסויים.",
+   "source": "src6",
+   "quote": "Years earlier, the physicist Joseph Weber said he had found a way to detect gravitational waves, measuring how they compressed and elongated along the lengths of large aluminum cylinders. But no one could replicate the experiments.",
+   "status": "confirmed",
+   "locator": "שורה 11"
+  },
+  {
+   "id": "c52",
+   "text": "לפי הניו יורק טיימס, אף שהרעיון היה נכון, היתכנותו נתקלה בהתנגדות רבה.",
+   "source": "src6",
+   "quote": "Though the project idea was sound, its feasibility encountered a great deal of resistance.",
+   "status": "confirmed",
+   "locator": "שורה 14"
+  },
+  {
+   "id": "c65",
+   "text": "לפי Physics World, לאחר כמעט עשור של פעילות לא התגלו גלים, ולכן ב-2011 שודרגו שני המצפים לרגישות גבוהה פי עשרה.",
+   "source": "src8",
+   "quote": "After almost a decade of operation, however, no waves had been detected so in 2011 the two observatories were upgraded to make them 10 times more sensitive than before.",
+   "status": "confirmed",
+   "locator": "שורה 6"
+  },
+  {
+   "id": "c59",
+   "text": "לפי הניו יורק טיימס, היו שסברו שוייס היה צריך לחלוק את פרס נובל של 2006 על COBE.",
+   "source": "src6",
+   "quote": "Some thought that Dr. Weiss should have shared in that prize.",
+   "status": "confirmed",
+   "locator": "שורה 26"
+  },
+  {
+   "id": "c66",
+   "text": "לפי Physics World, האינטרפרומטר גילה גלי כבידה משני חורים שחורים ממוזגים במרחק של כ-1.3 מיליארד שנות אור.",
+   "source": "src8",
+   "quote": "the interferometer detected gravitational waves from two merging black holes some 1.3 billion light-years from Earth",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c57",
+   "text": "לפי הניו יורק טיימס, הגילוי של 2015 נבע מהתנגשות ומיזוג של שני חורים שחורים לפני כ-1.3 מיליארד שנים.",
+   "source": "src6",
+   "quote": "created by the collision and merging of two black holes about 1.3 billion years ago",
+   "status": "confirmed",
+   "locator": "שורה 7"
+  },
+  {
+   "id": "c74",
+   "text": "לפי המחלקה לפיזיקה ב-MIT, וייס חזר ל-MIT כפרופסור עוזר ב-1964.",
+   "source": "src10",
+   "quote": "before returning to MIT as an assistant professor in 1964",
+   "status": "confirmed",
+   "locator": "שורה 29"
+  },
+  {
+   "id": "c-aud-20261128-6",
+   "text": "המחלקה לפיזיקה ב-MIT: ב-1964, כפרופסור עוזר",
+   "source": "src10",
+   "quote": "returning to MIT as an assistant professor in 1964",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: page could not be fetched by script; verifier quoted it"
+  },
+  {
+   "id": "c-aud-20261128-7",
+   "text": "וייס עצמו, באוטוביוגרפיה באתר נובל: ב-1965 הזמין אותו זכריאס לחזור ל-MIT",
+   "source": "src9002",
+   "quote": "In 1965 Jerrold invited me to come back to MIT as a faculty member in the Physics department",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  }
+ ],
+ "sources": [
+  {
+   "id": "src1",
+   "label": "MIT News, Professor Emeritus Rainer Weiss dies at 92, 26.8.2025",
+   "url": "https://news.mit.edu/2025/professor-emeritus-rainer-weiss-dies-0826",
+   "kind": "organisation"
+  },
+  {
+   "id": "src2",
+   "label": "Jewish Journal, Scientist who fled Nazis among Nobel Prize physics winners, 2017",
+   "url": "https://jewishjournal.com/culture/225355/scientist-fled-nazis-among-nobel-prize-physics-winners/",
+   "kind": "press"
+  },
+  {
+   "id": "src3",
+   "label": "NobelPrize.org, Rainer Weiss facts, 2017",
+   "url": "https://www.nobelprize.org/prizes/physics/2017/weiss/facts/",
+   "kind": "official"
+  },
+  {
+   "id": "src4",
+   "label": "NobelPrize.org, Rainer Weiss biographical (אוטוביוגרפיה של וייס)",
+   "url": "https://nobelprize.org/prizes/physics/2017/weiss/biographical/",
+   "kind": "official"
+  },
+  {
+   "id": "src5",
+   "label": "Abbott et al. (LIGO/Virgo), Observation of Gravitational Waves from a Binary Black Hole Merger, PRL 116, 061102, 11.2.2016",
+   "url": "https://arxiv.org/abs/1602.03837",
+   "kind": "official"
+  },
+  {
+   "id": "src6",
+   "label": "MIT Kavli Institute, קישור להספד ב-New York Times על Rainer Weiss, 2025",
+   "url": "https://www.space.mit.edu/?p=17793",
+   "kind": "press"
+  },
+  {
+   "id": "src7",
+   "label": "Space.com, Nobel prize winner and gravitational wave pioneer Rainer Weiss dies at 92, 2025",
+   "url": "https://www.space.com/astronomy/nobel-prize-winner-and-gravitational-wave-pioneer-rainer-weiss-dies-at-92",
+   "kind": "press"
+  },
+  {
+   "id": "src8",
+   "label": "Physics World, הספד על Rainer Weiss, 2025",
+   "url": "https://physicsworld.com/?p=123569",
+   "kind": "press"
+  },
+  {
+   "id": "src9",
+   "label": "LIGO Caltech, הודעה על פטירתו של Rainer Weiss, 27.8.2025",
+   "url": "https://www.ligo.caltech.edu/news/ligo20250827",
+   "kind": "organisation"
+  },
+  {
+   "id": "src10",
+   "label": "MIT Department of Physics, MIT physicist Rainer Weiss shares Nobel Prize in physics",
+   "url": "https://physics.mit.edu/news/mit-physicist-rainer-weiss-shares-nobel-prize-in-physics",
+   "kind": "official"
+  },
+  {
+   "id": "src9002",
+   "label": "NobelPrize.org, Rainer Weiss – Biographical, 2017",
+   "url": "https://www.nobelprize.org/prizes/physics/2017/weiss/biographical/",
+   "kind": "official",
+   "date": "2026-11-28"
+  }
+ ],
+ "media": [
+  {
+   "id": "m1",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rainer%20Weiss%20after%20a%20conference%20in%20Almer%C3%ADa.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Rainer_Weiss_after_a_conference_in_Almer%C3%ADa.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Ismael Olea",
+   "licence": "CC BY 4.0",
+   "hosting": "hotlink",
+   "caption": "ריינר וייס עומד על במה ליד מסך הקרנה, אחרי הרצאה בתיאטרון אפולו בעיר אלמריה בספרד, ביוני 2018.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/4.0",
+   "date": "2018-06-04",
+   "width": 3456,
+   "height": 4608
+  },
+  {
+   "id": "m2",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rainer%20Weiss%20EM1B8841%20%2824027015857%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Rainer_Weiss_EM1B8841_%2824027015857%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Bengt Nyman from Vaxholm, Sweden",
+   "licence": "CC BY 2.0",
+   "hosting": "hotlink",
+   "caption": "תקריב של ריינר וייס מדבר ליד מיקרופון, בצילום מאירועי חתני פרס נובל בפיזיקה 2017.",
+   "illustrates": [
+    "c36"
+   ],
+   "licence_url": "https://creativecommons.org/licenses/by/2.0",
+   "date": "2017-12-07",
+   "width": 1869,
+   "height": 2336
+  },
+  {
+   "id": "m3",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rainer%20Weiss%20EM1B8815%20%2838176300314%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Rainer_Weiss_EM1B8815_%2838176300314%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Bengt Nyman from Vaxholm, Sweden",
+   "licence": "CC BY 2.0",
+   "hosting": "hotlink",
+   "caption": "תקריב של ריינר וייס מביט הצידה, בצילום מאירועי חתני פרס נובל בפיזיקה 2017.",
+   "illustrates": [
+    "c36"
+   ],
+   "licence_url": "https://creativecommons.org/licenses/by/2.0",
+   "date": "2017-12-07",
+   "width": 1917,
+   "height": 2396
+  },
+  {
+   "id": "m4",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rainer%20Weiss%20EM1B8838%20%2824027009147%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Rainer_Weiss_EM1B8838_%2824027009147%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Bengt Nyman from Vaxholm, Sweden",
+   "licence": "CC BY 2.0",
+   "hosting": "hotlink",
+   "caption": "ריינר וייס מדבר ליד מיקרופון, בצילום מאירועי חתני פרס נובל בפיזיקה 2017.",
+   "illustrates": [
+    "c36"
+   ],
+   "licence_url": "https://creativecommons.org/licenses/by/2.0",
+   "date": "2017-12-07",
+   "width": 1866,
+   "height": 2333
+  },
+  {
+   "id": "m5",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Beyond%20the%20Cradle%202018%20%2826165405417%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Beyond_the_Cradle_2018_%2826165405417%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "MIT Media Lab",
+   "licence": "CC BY 2.0",
+   "hosting": "hotlink",
+   "caption": "ריינר וייס עומד על במה ופורש ידיים, מול מסך שכתוב עליו \"Beyond the Cradle\", באירוע ב-MIT ב-2018.",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/2.0",
+   "date": "2018-03-10",
+   "width": 2600,
+   "height": 1733
+  },
+  {
+   "id": "m6",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nobel%206%20Dec%202017%20007%20copy%20%2838889755221%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Nobel_6_Dec_2017_007_copy_%2838889755221%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "US Embassy Sweden",
+   "licence": "CC BY 2.0",
+   "hosting": "hotlink",
+   "caption": "ריינר וייס בפרופיל, מוקף באנשים, בקבלת הפנים של שגרירות ארצות הברית בשוודיה לחתני נובל ב-6 בדצמבר 2017.",
+   "illustrates": [
+    "c36"
+   ],
+   "licence_url": "https://creativecommons.org/licenses/by/2.0",
+   "date": "2017-12-06",
+   "width": 3600,
+   "height": 2700
+  },
+  {
+   "id": "m7",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nobel%206%20Dec%202017%20007%20copy%20%2838174207924%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Nobel_6_Dec_2017_007_copy_%2838174207924%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "US Embassy Sweden",
+   "licence": "CC BY 2.0",
+   "hosting": "hotlink",
+   "caption": "אדם חותם על תצלומים סביב שולחן עץ בקבלת פנים, ובין הנוכחים ריינר וייס מחייך מאחור.",
+   "illustrates": [
+    "c36"
+   ],
+   "licence_url": "https://creativecommons.org/licenses/by/2.0",
+   "date": "2017-12-06",
+   "width": 3600,
+   "height": 2700
+  },
+  {
+   "id": "m8",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nobel%206%20Dec%202017%20007%20copy%20%2838889755231%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Nobel_6_Dec_2017_007_copy_%2838889755231%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "US Embassy Sweden",
+   "licence": "CC BY 2.0",
+   "hosting": "hotlink",
+   "caption": "ריינר וייס, עם משקפיים ומקטורן טוויד, עומד בקהל בקבלת הפנים לחתני נובל 2017.",
+   "illustrates": [
+    "c36"
+   ],
+   "licence_url": "https://creativecommons.org/licenses/by/2.0",
+   "date": "2017-12-06",
+   "width": 3600,
+   "height": 2700
+  },
+  {
+   "id": "m9",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nobel%206%20Dec%202017%20007%20copy%20%2838174207634%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Nobel_6_Dec_2017_007_copy_%2838174207634%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "US Embassy Sweden",
+   "licence": "CC BY 2.0",
+   "hosting": "hotlink",
+   "caption": "ריינר וייס משוחח בהתלהבות עם אדם נוסף בקבלת הפנים לחתני נובל 2017.",
+   "illustrates": [
+    "c36"
+   ],
+   "licence_url": "https://creativecommons.org/licenses/by/2.0",
+   "date": "2017-12-06",
+   "width": 3600,
+   "height": 2700
+  },
+  {
+   "id": "m10",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nobel%206%20Dec%202017%20007%20copy%20%2838859356982%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Nobel_6_Dec_2017_007_copy_%2838859356982%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "US Embassy Sweden",
+   "licence": "CC BY 2.0",
+   "hosting": "hotlink",
+   "caption": "תשעה גברים עומדים בשורה מול רקע שחור בקבלת הפנים לחתני נובל 2017, וריינר וייס הוא השלישי משמאל.",
+   "illustrates": [
+    "c36"
+   ],
+   "licence_url": "https://creativecommons.org/licenses/by/2.0",
+   "date": "2017-12-06",
+   "width": 3600,
+   "height": 2630
+  },
+  {
+   "id": "m11",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nobel%206%20Dec%202017%20007%20copy%20%2825018121078%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Nobel_6_Dec_2017_007_copy_%2825018121078%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "US Embassy Sweden",
+   "licence": "CC BY 2.0",
+   "hosting": "hotlink",
+   "caption": "חתני פרס נובל 2017 ואישה בחולצה אדומה מצטלמים יחד מול רקע שחור, וריינר וייס השלישי משמאל.",
+   "illustrates": [
+    "c36"
+   ],
+   "licence_url": "https://creativecommons.org/licenses/by/2.0",
+   "date": "2017-12-06",
+   "width": 3600,
+   "height": 2700
+  },
+  {
+   "id": "m12",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nobel%206%20Dec%202017%20007%20copy%20%2825018121768%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Nobel_6_Dec_2017_007_copy_%2825018121768%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "US Embassy Sweden",
+   "licence": "CC BY 2.0",
+   "hosting": "hotlink",
+   "caption": "אדם מזוקן חותם על תצלום בקבלת פנים, וריינר וייס מחייך בצד.",
+   "illustrates": [
+    "c36"
+   ],
+   "licence_url": "https://creativecommons.org/licenses/by/2.0",
+   "date": "2017-12-06",
+   "width": 3600,
+   "height": 2700
+  },
+  {
+   "id": "m13",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nobel%206%20Dec%202017%20007%20copy%20%2827113150399%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Nobel_6_Dec_2017_007_copy_%2827113150399%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "US Embassy Sweden",
+   "licence": "CC BY 2.0",
+   "hosting": "hotlink",
+   "caption": "חתני פרס נובל 2017 עומדים ומשוחחים בחבורה, וריינר וייס ראשון משמאל.",
+   "illustrates": [
+    "c36"
+   ],
+   "licence_url": "https://creativecommons.org/licenses/by/2.0",
+   "date": "2017-12-06",
+   "width": 3600,
+   "height": 2700
+  },
+  {
+   "id": "m14",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=qUAB3Zn4bK0",
+   "youtube_id": "qUAB3Zn4bK0",
+   "source_page": "https://www.youtube.com/watch?v=qUAB3Zn4bK0",
+   "source_name": "YouTube",
+   "credit": "Nobel Prize",
+   "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "ראיון רשמי של אתר פרס נובל עם ריינר וייס, חתן הפרס בפיזיקה 2017, מה-6 בדצמבר 2017.",
+   "illustrates": [
+    "c36"
+   ],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m15",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=v0kdITUrUEA",
+   "youtube_id": "v0kdITUrUEA",
+   "source_page": "https://www.youtube.com/watch?v=v0kdITUrUEA",
+   "source_name": "YouTube",
+   "credit": "euronews",
+   "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "דיווח של euronews על הענקת פרס נובל בפיזיקה 2017 לוייס, לבריש ולת'ורן על תרומתם ל-LIGO.",
+   "illustrates": [
+    "c3",
+    "c36"
+   ],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m16",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=BgICZnAo04A",
+   "youtube_id": "BgICZnAo04A",
+   "source_page": "https://www.youtube.com/watch?v=BgICZnAo04A",
+   "source_name": "YouTube",
+   "credit": "Nobel Prize",
+   "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "הרצאת הנובל של ריינר וייס, \"LIGO וגלי כבידה\", שנישאה ב-8 בדצמבר 2017 באולם אולה מגנה בשטוקהולם.",
+   "illustrates": [
+    "c6"
+   ],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m17",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=zpusGtb_wL8",
+   "youtube_id": "zpusGtb_wL8",
+   "source_page": "https://www.youtube.com/watch?v=zpusGtb_wL8",
+   "source_name": "YouTube",
+   "credit": "Sky News",
+   "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "דיווח של סקיי ניוז על הודעת הקרן הלאומית למדע על גילוי גלי הכבידה.",
+   "illustrates": [
+    "c31"
+   ],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  },
+  {
+   "id": "m18",
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=cxMlhsdXX60",
+   "youtube_id": "cxMlhsdXX60",
+   "source_page": "https://www.youtube.com/watch?v=cxMlhsdXX60",
+   "source_name": "YouTube",
+   "credit": "Xapiens at MIT",
+   "licence": "YouTube, הטמעה בלבד (רישיון YouTube הרגיל)",
+   "licence_url": "https://www.youtube.com/static?template=terms",
+   "hosting": "embed",
+   "caption": "פרק מהפודקאסט של Xapiens at MIT על סיפורו של וייס, מהבריחה מהנאצים ועד פרס נובל.",
+   "illustrates": [],
+   "spoken": "en",
+   "audio_tracks": [
+    "en"
+   ]
+  }
+ ],
+ "check": {
+  "passed": true,
+  "checker": "claude-opus-5-5 (separate claude -p call, blind to the writing prompt)",
+  "checked_at": "2026-11-28T03:31:27Z",
+  "counts": {
+   "confirmed": 89,
+   "not_confirmed": 0,
+   "deleted_sentences": 2,
+   "first_round_confirmed": 86,
+   "first_round_contradicted": 2,
+   "first_round_unverifiable": 2
+  },
+  "note": "unverifiable sentences were deleted, contradicted ones fixed from the source and checked again"
+ },
+ "meta": {
+  "run": "rainer-weiss-ligo-gravitational-waves",
+  "pipeline": "scripts/museum/museum_line.py",
+  "models": {
+   "research": "sonnet-5-5",
+   "extract": "sonnet-5-5",
+   "media": "sonnet-5-5",
+   "write": "opus-5-5 medium",
+   "check": "opus-5-5 medium",
+   "fix": "opus-5-5 medium"
+  },
+  "source_quality": {
+   "sources": 9,
+   "wikipedia": 0,
+   "strong": 7,
+   "ok": true,
+   "warnings": []
+  },
+  "settled": [
+   {
+    "box": "d1",
+    "question": "באיזו שנה הצטרף וייס לסגל MIT?",
+    "url": "https://physics.mit.edu/news/mit-physicist-rainer-weiss-shares-nobel-prize-in-physics",
+    "by": "settle 24.11"
+   }
+  ]
+ }
+}

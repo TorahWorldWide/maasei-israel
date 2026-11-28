@@ -433,9 +433,10 @@
     ],
     [
      {
-      "text": "לפי הבלוג של הספרייה הלאומית, ב-1613, השנה שבה מת דוד גנס, עזב קפלר את פראג כדי להמשיך במחקרו.",
+      "text": "לפי קטלוג מוזיאון גליליאו, ב-1612, לאחר גירוש הלותרנים מפראג, עזב קפלר את העיר ועבר ללינץ, כשנה לפני מותו של דוד גנס.",
       "claims": [
-       "c32"
+       "c32",
+       "c-aud-20261128-1"
       ]
      }
     ],
@@ -1011,6 +1012,15 @@
    "locator": "audit 2026-11-28",
    "status": "confirmed",
    "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-1",
+   "text": "לפי קטלוג מוזיאון גליליאו, ב-1612, לאחר גירוש הלותרנים מפראג, עזב קפלר את העיר ועבר ללינץ, כשנה לפני מותו של דוד גנס.",
+   "source": "src9001",
+   "quote": "In 1612, after the expulsion of the Lutherans from Prague, Kepler moved to Linz.",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1067,6 +1077,13 @@
    "label": "Linda Hall Library, Scientist of the Day: Tycho Brahe",
    "url": "https://www.lindahall.org/tycho-brahe-2/",
    "kind": "reference"
+  },
+  {
+   "id": "src9001",
+   "label": "Museo Galileo, Catalogue: Biography of Johannes Kepler",
+   "url": "https://catalogue.museogalileo.it/biography/JohannesKepler.html",
+   "kind": "organisation",
+   "date": "2026-11-28"
   }
  ],
  "media": [

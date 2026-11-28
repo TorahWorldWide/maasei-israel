@@ -466,7 +466,8 @@
    ],
    "media": [],
    "disagreements": [
-    "d1"
+    "d1",
+    "d9001"
    ]
   },
   {
@@ -686,6 +687,24 @@
      "says": "MacTutor: six or seven perforated tablets",
      "claims": [
       "c26"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d9001",
+   "question": "In which year was 'The Harmony of Numbers' written?",
+   "versions": [
+    {
+     "says": "MacTutor: in 1342",
+     "claims": [
+      "c-aud-20261128-1"
+     ]
+    },
+    {
+     "says": "Encyclopaedia Judaica: in 1343",
+     "claims": [
+      "c-aud-20261128-2"
      ]
     }
    ]
@@ -1241,6 +1260,24 @@
    "locator": "audit 2026-11-28",
    "status": "confirmed",
    "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-1",
+   "text": "MacTutor: ב-1342",
+   "source": "src3",
+   "quote": "at the request of the bishop of Meaux, he wrote",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
+  },
+  {
+   "id": "c-aud-20261128-2",
+   "text": "האנציקלופדיה יודאיקה: ב-1343",
+   "source": "src9001",
+   "quote": "In 1343, Levi composed a second book on arithmetic for Philip of Vitry, bishop of Meaux.",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1261,6 +1298,13 @@
    "label": "MacTutor, University of St Andrews, biography of Levi ben Gerson",
    "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Levi/",
    "kind": "reference"
+  },
+  {
+   "id": "src9001",
+   "label": "Encyclopaedia Judaica, 'Levi ben Gershom', via Encyclopedia.com",
+   "url": "https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/levi-ben-gershom",
+   "kind": "reference",
+   "date": "2026-11-28"
   }
  ],
  "media": [

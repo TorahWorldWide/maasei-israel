@@ -131,9 +131,10 @@
       ]
      },
      {
-      "text": "According to Chabad, in the middle of the fourth century Christian persecution in Eretz Israel caused the remaining sages to immigrate to Babylonia.",
+      "text": "According to the Encyclopaedia Judaica, in 351 the Roman commander Ursicinus took vengeance on the Jews of Tiberias, Sepphoris and Lydda, the beginning of the end of organized Jewish learning in the Land of Israel.",
       "claims": [
-       "c31"
+       "c31",
+       "c-aud-20261128-1"
       ]
      }
     ],
@@ -1175,6 +1176,15 @@
    "quote": "The prevalent Rabbinic view … assumes a uniform redaction of the Talmud completed by the close of the fifth century",
    "status": "confirmed",
    "locator": "שורה 42"
+  },
+  {
+   "id": "c-aud-20261128-1",
+   "text": "לפי האנציקלופדיה יודאיקה, בשנת 351 נקם המפקד הרומי אורסיקינוס ביהודי טבריה, ציפורי ולוד, וזו הייתה תחילת סופו של הלימוד התורני המאורגן בארץ ישראל.",
+   "source": "src9001",
+   "quote": "the Roman commander Ursicinus wreaked vengeance on the Jews of Tiberias, Sepphoris, and Lydda",
+   "locator": "audit 2026-11-28",
+   "status": "confirmed",
+   "checker_note": "audit: quote found on the fetched page"
   }
  ],
  "sources": [
@@ -1213,6 +1223,13 @@
    "label": "Richard Kalmin, 'The Post-Rav Ashi Amoraim', AJS Review (Cambridge University Press)",
    "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/CEDB649A59D040CB7172FE43074687CB/S0364009400001689a.pdf/the-post-rav-ashiamoraim-transition-or-continuity-a-study-of-the-role-of-the-final-generations-of-amoraim-in-the-redaction-of-the-talmud.pdf",
    "kind": "reference"
+  },
+  {
+   "id": "src9001",
+   "label": "Jewish Virtual Library (Encyclopaedia Judaica), Talmud, Jerusalem",
+   "url": "https://www.jewishvirtuallibrary.org/talmud-jerusalem",
+   "kind": "reference",
+   "date": "2026-11-28"
   }
  ],
  "media": [

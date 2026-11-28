@@ -1,7 +1,7 @@
 {
  "schema": "maasei-museum/1",
  "slug": "israeli-rescue-team-nairobi-embassy-bombing",
- "deed": "An Israeli rescue team was among the first to arrive in Nairobi and rescued three trapped people from the rubble near the embassy",
+ "deed": "צוות חילוץ ישראלי היה מהראשונים שהגיעו לניירובי וחילץ שלושה לכודים מההריסות ליד השגרירות",
  "canonical_type": "rescue-operation",
  "year": "1998",
  "title": "Rescuing the trapped from the rubble near the US embassy in Nairobi",
@@ -40,7 +40,12 @@
    ]
   }
  ],
- "hero_media": [],
+ "hero_media": [
+  "m13",
+  "m14",
+  "m18",
+  "m19"
+ ],
  "glance": [
   {
    "label": "Who",
@@ -129,7 +134,11 @@
      }
     ]
    ],
-   "media": [],
+   "media": [
+    "m6",
+    "m7",
+    "m8"
+   ],
    "disagreements": [
     "d4",
     "d9003"
@@ -231,7 +240,8 @@
    ],
    "media": [
     "m3",
-    "m2"
+    "m2",
+    "m17"
    ],
    "disagreements": [
     "d1"
@@ -287,7 +297,8 @@
     ]
    ],
    "media": [
-    "m1"
+    "m1",
+    "m12"
    ],
    "disagreements": []
   },
@@ -345,7 +356,11 @@
      }
     ]
    ],
-   "media": [],
+   "media": [
+    "m11",
+    "m15",
+    "m16"
+   ],
    "disagreements": []
   },
   {
@@ -376,7 +391,10 @@
      }
     ]
    ],
-   "media": [],
+   "media": [
+    "m9",
+    "m10"
+   ],
    "disagreements": []
   },
   {
@@ -582,22 +600,22 @@
   },
   {
    "id": "d9001",
-   "question": "How many were killed and wounded in the two bombings?",
+   "question": "How many were killed and injured in the two attacks?",
    "versions": [
     {
-     "says": "US State Department Accountability Review Board: over 220 dead and more than 4,000 wounded",
+     "says": "The US State Department's review committee: more than 220 killed and more than 4,000 wounded",
      "claims": [
       "c-aud-20261128-1"
      ]
     },
     {
-     "says": "USIA: a dozen Americans and 237 Kenyans killed, about 5,000 injured",
+     "says": "United States Information Agency (USIA): a dozen Americans and 237 Kenyans killed, and about 5,000 injured",
      "claims": [
       "c-aud-20261128-2"
      ]
     },
     {
-     "says": "JTA: at least 250 dead and more than 5,000 injured",
+     "says": "JTA: at least 250 killed and more than 5,000 injured",
      "claims": [
       "c-aud-20261128-3"
      ]
@@ -606,7 +624,7 @@
   },
   {
    "id": "d9002",
-   "question": "When did the Israeli team reach the bomb site?",
+   "question": "When did the Israeli team reach the blast site?",
    "versions": [
     {
      "says": "JTA: by Saturday morning",
@@ -615,7 +633,7 @@
      ]
     },
     {
-     "says": "Jewish Virtual Library, quoting the New York Times: at 4 P.M.",
+     "says": "Jewish Virtual Library, quoting The New York Times: at four in the afternoon",
      "claims": [
       "c-aud-20261128-5"
      ]
@@ -627,7 +645,7 @@
    "question": "How many were killed in the first Tyre disaster in 1982?",
    "versions": [
     {
-     "says": "J. Weekly: 89 dead, 76 of them Israelis",
+     "says": "J. Weekly: 89 killed, 76 of them Israelis",
      "claims": [
       "c-aud-20261128-6"
      ]
@@ -642,7 +660,7 @@
   },
   {
    "id": "d9004",
-   "question": "How many trapped people did the Israeli team rescue alive?",
+   "question": "How many people trapped alive did the Israeli team rescue?",
    "versions": [
     {
      "says": "Jewish Virtual Library: three",
@@ -1339,6 +1357,240 @@
    "audio_tracks": [
     "en"
    ]
+  },
+  {
+   "id": "m6",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20U.S.%20Embassy%20in%20Dar%20es%20Salaam%2C%20Tanzania%2C%20in%20the%20aftermath%20of%20the%20August%207%2C%201998%2C%20al-Qaida%20suicide%20bombing.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:The_U.S._Embassy_in_Dar_es_Salaam%2C_Tanzania%2C_in_the_aftermath_of_the_August_7%2C_1998%2C_al-Qaida_suicide_bombing.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "DS Records",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "The US Embassy in Dar es Salaam, Tanzania, after the August 1998 bombing; not the embassy in Nairobi",
+   "illustrates": [],
+   "date": "1998",
+   "width": 600,
+   "height": 400,
+   "role": "related"
+  },
+  {
+   "id": "m7",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lascar%20August%207th%20Memorial%20Park%20%284540184755%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Lascar_August_7th_Memorial_Park_%284540184755%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Jorge Láscar from Australia",
+   "licence": "CC BY 2.0",
+   "hosting": "hotlink",
+   "caption": "The August 7th Memorial Park in Nairobi, on the site where the US Embassy stood",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/2.0",
+   "date": "2010-04-21",
+   "width": 3058,
+   "height": 2026,
+   "role": "deed"
+  },
+  {
+   "id": "m8",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nairobi%20bombing%20memorial.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Nairobi_bombing_memorial.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Originally uploaded by EODfelix",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "Memorial to the murdered in the park on the grounds of the old US embassy in Nairobi",
+   "illustrates": [],
+   "date": "20 July 20",
+   "width": 2592,
+   "height": 1944,
+   "role": "deed"
+  },
+  {
+   "id": "m9",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Secretary%20Kerry%20Delivers%20Remarks%20at%20a%20Wreath-Laying%20Ceremony%20at%20the%20August%207%20Memorial%20Park%20in%20Nairobi%20%2816744398044%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Secretary_Kerry_Delivers_Remarks_at_a_Wreath-Laying_Ceremony_at_the_August_7_Memorial_Park_in_Nairobi_%2816744398044%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "U.S. Department of State from United States",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "Secretary of State John Kerry speaks beside the wall of names at the memorial in Nairobi, 4 May 2015",
+   "illustrates": [],
+   "date": "2015-05-04",
+   "width": 4560,
+   "height": 3035,
+   "role": "related"
+  },
+  {
+   "id": "m10",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Secretary%20Kerry%20Participates%20in%20a%20Wreath-Laying%20Ceremony%20at%20the%20August%207%20Memorial%20Park%20in%20Nairobi%20%2816746633853%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Secretary_Kerry_Participates_in_a_Wreath-Laying_Ceremony_at_the_August_7_Memorial_Park_in_Nairobi_%2816746633853%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "U.S. Department of State from United States",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "A wreath beside the name plaques at the memorial in the August 7th Memorial Park in Nairobi, May 2015",
+   "illustrates": [],
+   "date": "2015-05-04",
+   "width": 4825,
+   "height": 3211,
+   "role": "related"
+  },
+  {
+   "id": "m11",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/1998%20United%20States%20embassy%20in%20Nairobi%20bombings%20IDF%20relief%20I.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:1998_United_States_embassy_in_Nairobi_bombings_IDF_relief_I.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "IDF Spokesperson's Unit photographer",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "Soldiers of the IDF rescue team visit a man they found in the ruins of the bombed embassy, at a hospital in Nairobi",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "Taken on 1",
+   "width": 2048,
+   "height": 3072,
+   "role": "deed"
+  },
+  {
+   "id": "m12",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/1998%20United%20States%20embassy%20in%20Nairobi%20bombings%20IDF%20relief%20II.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:1998_United_States_embassy_in_Nairobi_bombings_IDF_relief_II.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "IDF Spokesperson's Unit photographer",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "Two female soldiers in yellow helmets marked \"Israel\" clear rubble in Nairobi",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "Taken on 1",
+   "width": 2048,
+   "height": 3072,
+   "role": "deed"
+  },
+  {
+   "id": "m13",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/1998%20United%20States%20embassy%20in%20Nairobi%20bombings%20IDF%20relief%20III.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:1998_United_States_embassy_in_Nairobi_bombings_IDF_relief_III.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "IDF Spokesperson's Unit photographer",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "Members of the Israeli rescue team with search dogs, facing a crowd and local forces near the rubble site",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "Taken on 1",
+   "width": 3072,
+   "height": 2048,
+   "role": "deed"
+  },
+  {
+   "id": "m14",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/1998%20United%20States%20embassy%20in%20Nairobi%20bombings%20IDF%20relief%20IV.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:1998_United_States_embassy_in_Nairobi_bombings_IDF_relief_IV.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "IDF Spokesperson's Unit photographer",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "Israeli soldiers with search dogs wearing Star of David tags near the rubble in Nairobi",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "Taken on 1",
+   "width": 3072,
+   "height": 2048,
+   "role": "deed"
+  },
+  {
+   "id": "m15",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/1998%20United%20States%20embassy%20in%20Nairobi%20bombings%20IDF%20relief%20IX.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:1998_United_States_embassy_in_Nairobi_bombings_IDF_relief_IX.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "IDF Spokesperson's Unit photographer",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "An Israeli soldier and a search dog with a Star of David tag search for survivors in the rubble",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "Taken on 1",
+   "width": 2048,
+   "height": 3072,
+   "role": "deed"
+  },
+  {
+   "id": "m16",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/1998%20United%20States%20embassy%20in%20Nairobi%20bombings%20IDF%20relief%20V.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:1998_United_States_embassy_in_Nairobi_bombings_IDF_relief_V.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "IDF Spokesperson's Unit photographer",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "A search dog with a Star of David tag on a pile of rubble, beside a soldier in a yellow helmet",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "Taken on 1",
+   "width": 2048,
+   "height": 3072,
+   "role": "deed"
+  },
+  {
+   "id": "m17",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/1998%20United%20States%20embassy%20in%20Nairobi%20bombings%20IDF%20relief%20VI.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:1998_United_States_embassy_in_Nairobi_bombings_IDF_relief_VI.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "IDF Spokesperson's Unit photographer",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "Members of the rescue team hold their helmets, with their dogs, before setting out to search the rubble",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "Taken on 1",
+   "width": 2048,
+   "height": 3072,
+   "role": "deed"
+  },
+  {
+   "id": "m18",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/1998%20United%20States%20embassy%20in%20Nairobi%20bombings%20IDF%20relief%20VII.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:1998_United_States_embassy_in_Nairobi_bombings_IDF_relief_VII.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "IDF Spokesperson's Unit photographer",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "A view from above of rescuers on the ruins of the buildings in Nairobi, with a crane in the background",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "Taken on 9",
+   "width": 3072,
+   "height": 2048,
+   "role": "deed"
+  },
+  {
+   "id": "m19",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/1998%20United%20States%20embassy%20in%20Nairobi%20bombings%20IDF%20relief%20VIII.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:1998_United_States_embassy_in_Nairobi_bombings_IDF_relief_VIII.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "IDF Spokesperson's Unit photographer",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "Israeli and Kenyan soldiers carry an injured person on a stretcher from the rubble",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "Taken on 1",
+   "width": 3072,
+   "height": 2048,
+   "role": "deed"
   }
  ],
  "check": {
@@ -1379,12 +1631,12 @@
   "from": "he",
   "translator": "claude-opus-5-5",
   "checker": "claude-opus-5-5 (separate call, blind to the translation prompt)",
-  "checked_at": "2026-11-28T02:31:16Z",
+  "checked_at": "2026-11-28T05:18:50Z",
   "passed": true,
-  "items": 89,
-  "pairs_checked": 1,
-  "reused": 88,
-  "first_round_flagged": 0,
+  "items": 116,
+  "pairs_checked": 27,
+  "reused": 89,
+  "first_round_flagged": 3,
   "still_flagged": 0,
   "flagged": [],
   "quote_translations": {}

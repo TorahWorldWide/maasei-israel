@@ -40,7 +40,12 @@
    ]
   }
  ],
- "hero_media": [],
+ "hero_media": [
+  "m13",
+  "m14",
+  "m18",
+  "m19"
+ ],
  "glance": [
   {
    "label": "מי",
@@ -129,7 +134,11 @@
      }
     ]
    ],
-   "media": [],
+   "media": [
+    "m6",
+    "m7",
+    "m8"
+   ],
    "disagreements": [
     "d4",
     "d9003"
@@ -231,7 +240,8 @@
    ],
    "media": [
     "m3",
-    "m2"
+    "m2",
+    "m17"
    ],
    "disagreements": [
     "d1"
@@ -287,7 +297,8 @@
     ]
    ],
    "media": [
-    "m1"
+    "m1",
+    "m12"
    ],
    "disagreements": []
   },
@@ -345,7 +356,11 @@
      }
     ]
    ],
-   "media": [],
+   "media": [
+    "m11",
+    "m15",
+    "m16"
+   ],
    "disagreements": []
   },
   {
@@ -376,7 +391,10 @@
      }
     ]
    ],
-   "media": [],
+   "media": [
+    "m9",
+    "m10"
+   ],
    "disagreements": []
   },
   {
@@ -1339,6 +1357,240 @@
    "audio_tracks": [
     "en"
    ]
+  },
+  {
+   "id": "m6",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20U.S.%20Embassy%20in%20Dar%20es%20Salaam%2C%20Tanzania%2C%20in%20the%20aftermath%20of%20the%20August%207%2C%201998%2C%20al-Qaida%20suicide%20bombing.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:The_U.S._Embassy_in_Dar_es_Salaam%2C_Tanzania%2C_in_the_aftermath_of_the_August_7%2C_1998%2C_al-Qaida_suicide_bombing.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "DS Records",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "שגרירות ארה\"ב בדאר א-סלאם, טנזניה, לאחר הפיצוץ של אוגוסט 1998; לא השגרירות בניירובי",
+   "illustrates": [],
+   "date": "1998",
+   "width": 600,
+   "height": 400,
+   "role": "related"
+  },
+  {
+   "id": "m7",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lascar%20August%207th%20Memorial%20Park%20%284540184755%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Lascar_August_7th_Memorial_Park_%284540184755%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Jorge Láscar from Australia",
+   "licence": "CC BY 2.0",
+   "hosting": "hotlink",
+   "caption": "פארק האנדרטה ב-7 באוגוסט בניירובי, במקום שבו עמדה שגרירות ארה\"ב",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by/2.0",
+   "date": "2010-04-21",
+   "width": 3058,
+   "height": 2026,
+   "role": "deed"
+  },
+  {
+   "id": "m8",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nairobi%20bombing%20memorial.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Nairobi_bombing_memorial.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "Originally uploaded by EODfelix",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "אנדרטת הנרצחים בפארק על אדמת שגרירות ארה\"ב הישנה בניירובי",
+   "illustrates": [],
+   "date": "20 July 20",
+   "width": 2592,
+   "height": 1944,
+   "role": "deed"
+  },
+  {
+   "id": "m9",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Secretary%20Kerry%20Delivers%20Remarks%20at%20a%20Wreath-Laying%20Ceremony%20at%20the%20August%207%20Memorial%20Park%20in%20Nairobi%20%2816744398044%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Secretary_Kerry_Delivers_Remarks_at_a_Wreath-Laying_Ceremony_at_the_August_7_Memorial_Park_in_Nairobi_%2816744398044%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "U.S. Department of State from United States",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "מזכיר המדינה ג'ון קרי נושא דברים ליד קיר השמות באנדרטה בניירובי, 4 במאי 2015",
+   "illustrates": [],
+   "date": "2015-05-04",
+   "width": 4560,
+   "height": 3035,
+   "role": "related"
+  },
+  {
+   "id": "m10",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Secretary%20Kerry%20Participates%20in%20a%20Wreath-Laying%20Ceremony%20at%20the%20August%207%20Memorial%20Park%20in%20Nairobi%20%2816746633853%29.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:Secretary_Kerry_Participates_in_a_Wreath-Laying_Ceremony_at_the_August_7_Memorial_Park_in_Nairobi_%2816746633853%29.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "U.S. Department of State from United States",
+   "licence": "Public domain",
+   "hosting": "hotlink",
+   "caption": "זר פרחים ליד לוחות השמות באנדרטה בפארק ב-7 באוגוסט בניירובי, מאי 2015",
+   "illustrates": [],
+   "date": "2015-05-04",
+   "width": 4825,
+   "height": 3211,
+   "role": "related"
+  },
+  {
+   "id": "m11",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/1998%20United%20States%20embassy%20in%20Nairobi%20bombings%20IDF%20relief%20I.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:1998_United_States_embassy_in_Nairobi_bombings_IDF_relief_I.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "IDF Spokesperson's Unit photographer",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "חיילי צוות החילוץ של צה\"ל מבקרים בבית חולים בניירובי אצל אדם שמצאו בהריסות השגרירות המופצצת",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "Taken on 1",
+   "width": 2048,
+   "height": 3072,
+   "role": "deed"
+  },
+  {
+   "id": "m12",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/1998%20United%20States%20embassy%20in%20Nairobi%20bombings%20IDF%20relief%20II.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:1998_United_States_embassy_in_Nairobi_bombings_IDF_relief_II.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "IDF Spokesperson's Unit photographer",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "שתי לוחמות בקסדות צהובות עם הכיתוב \"ישראל\" מפנות הריסות בניירובי",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "Taken on 1",
+   "width": 2048,
+   "height": 3072,
+   "role": "deed"
+  },
+  {
+   "id": "m13",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/1998%20United%20States%20embassy%20in%20Nairobi%20bombings%20IDF%20relief%20III.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:1998_United_States_embassy_in_Nairobi_bombings_IDF_relief_III.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "IDF Spokesperson's Unit photographer",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "אנשי צוות החילוץ הישראלי עם כלבי גישוש, מול קהל וכוחות מקומיים ליד אתר ההריסות",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "Taken on 1",
+   "width": 3072,
+   "height": 2048,
+   "role": "deed"
+  },
+  {
+   "id": "m14",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/1998%20United%20States%20embassy%20in%20Nairobi%20bombings%20IDF%20relief%20IV.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:1998_United_States_embassy_in_Nairobi_bombings_IDF_relief_IV.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "IDF Spokesperson's Unit photographer",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "חיילים ישראלים עם כלבי גישוש בתגי מגן דוד ליד ההריסות בניירובי",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "Taken on 1",
+   "width": 3072,
+   "height": 2048,
+   "role": "deed"
+  },
+  {
+   "id": "m15",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/1998%20United%20States%20embassy%20in%20Nairobi%20bombings%20IDF%20relief%20IX.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:1998_United_States_embassy_in_Nairobi_bombings_IDF_relief_IX.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "IDF Spokesperson's Unit photographer",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "חייל ישראלי וכלב גישוש עם תג מגן דוד מחפשים ניצולים בין ההריסות",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "Taken on 1",
+   "width": 2048,
+   "height": 3072,
+   "role": "deed"
+  },
+  {
+   "id": "m16",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/1998%20United%20States%20embassy%20in%20Nairobi%20bombings%20IDF%20relief%20V.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:1998_United_States_embassy_in_Nairobi_bombings_IDF_relief_V.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "IDF Spokesperson's Unit photographer",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "כלב גישוש עם תג מגן דוד על ערימת הריסות, ולצדו חייל בקסדה צהובה",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "Taken on 1",
+   "width": 2048,
+   "height": 3072,
+   "role": "deed"
+  },
+  {
+   "id": "m17",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/1998%20United%20States%20embassy%20in%20Nairobi%20bombings%20IDF%20relief%20VI.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:1998_United_States_embassy_in_Nairobi_bombings_IDF_relief_VI.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "IDF Spokesperson's Unit photographer",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "אנשי צוות החילוץ מחזיקים את קסדותיהם, עם כלביהם, לפני היציאה לחפש בהריסות",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "Taken on 1",
+   "width": 2048,
+   "height": 3072,
+   "role": "deed"
+  },
+  {
+   "id": "m18",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/1998%20United%20States%20embassy%20in%20Nairobi%20bombings%20IDF%20relief%20VII.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:1998_United_States_embassy_in_Nairobi_bombings_IDF_relief_VII.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "IDF Spokesperson's Unit photographer",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "מבט מלמעלה על אנשי החילוץ על גבי הריסות הבניינים בניירובי, עם מנוף ברקע",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "Taken on 9",
+   "width": 3072,
+   "height": 2048,
+   "role": "deed"
+  },
+  {
+   "id": "m19",
+   "kind": "image",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/1998%20United%20States%20embassy%20in%20Nairobi%20bombings%20IDF%20relief%20VIII.jpg?width=1280",
+   "source_page": "https://commons.wikimedia.org/wiki/File:1998_United_States_embassy_in_Nairobi_bombings_IDF_relief_VIII.jpg",
+   "source_name": "Wikimedia Commons",
+   "credit": "IDF Spokesperson's Unit photographer",
+   "licence": "CC BY-SA 3.0",
+   "hosting": "hotlink",
+   "caption": "חיילים ישראלים וחיילים קנייתים נושאים פצוע על אלונקה מההריסות",
+   "illustrates": [],
+   "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "date": "Taken on 1",
+   "width": 3072,
+   "height": 2048,
+   "role": "deed"
   }
  ],
  "check": {
